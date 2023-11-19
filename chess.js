@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana became the 2023 Saint Louis Rapid & Blitz champion after a dramatic final day of blitz, which came down to a winner-take-all last round game against Maxime Vachier-Lagrave. Caruana ended with 21/36 points, Vachier-Lagrave finished second with 20.5, while Ian Nepomniachtchi and Le Quang Liem tied for third place with 20 points each. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-5-caruana-wins",
+         "pubDate" : "Sun, 19 Nov 2023 02:35:00",
+         "title" : "Caruana barely outscores MVL, wins Saint Louis Rapid and Blitz"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-sacrifices-rook-2023-saint-louis-rapid-blitz-shorts-stlrapidblitz-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3PtwsjJo07w.jpg?itok=YxM2n_jD\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -58,20 +66,28 @@ news_feed (
          "title" : "2023 Saint Louis Rapid & Blitz | Nepo brings is back! | #shorts"
       },
       {
+         "description" : "World number-one Magnus Carlsen escaped with just two minor pieces against Danish GM Jonas Bjerre&#39;s queen to help struggling Norway to a second win in a row, while top-seed Azerbaijan is in freefall, symbolized by GM Teimour Radjabov losing in 19 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-6-7",
+         "pubDate" : "Sat, 18 Nov 2023 19:24:00",
+         "title" : "Carlsen Survives Thriller; Theodorou Beats Radjabov In 19 Moves"
+      },
+      {
+         "description" : "GM Hikaru Nakamura claimed first place in Bullet Brawl and won $400 for the second week in a row after accruing a winning score of 242. During the two-hour arena,&#38;nbsp; the 67 wins, four draws, and eight losses for Nakamura meant that he was abl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-18-2023",
+         "pubDate" : "Sat, 18 Nov 2023 18:42:37",
+         "title" : "Nakamura Scores 69/79 To Claim Back-To-Back Bullet Brawl Titles"
+      },
+      {
          "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
          "pubDate" : "Sat, 18 Nov 2023 18:30:00",
          "title" : "Saint Louis Rapid & Blitz, Day 5: Live"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave took the sole lead after the first day of blitz in Saint Louis, thanks to a fantastic 7/9 performance to give him a total score of 17/27. Trailing with 15 points each are Fabiano Caruana and Ian Nepomniachtchi, with nine more games of blitz to be played on Saturday. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-4-mvl-sole-leader",
-         "pubDate" : "Sat, 18 Nov 2023 16:10:00",
-         "title" : "St. Louis Rapid and Blitz, Day 4: MVL climbs to sole first place"
       },
       {
          "description" : "GM Fabiano Caruana won the 2023 Saint Louis Rapid &#38;amp; Blitz by half a point after securing a draw with second-placed GM Maxime Vachier-Lagrave in the final round. Caruana&#39;s 6/9 score on Saturday allowed him to overtake Vachier-Lagrave, whose 3.5...",
@@ -120,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2023-preview",
          "pubDate" : "Sat, 18 Nov 2023 12:00:00",
          "title" : "The London Chess Classic is back!"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave took the sole lead after the first day of blitz in Saint Louis, thanks to a fantastic 7/9 performance to give him a total score of 17/27. Trailing with 15 points each are Fabiano Caruana and Ian Nepomniachtchi, with nine more games of blitz to be played on Saturday. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-4-mvl-sole-leader",
+         "pubDate" : "Sat, 18 Nov 2023 11:50:00",
+         "title" : "St. Louis Rapid and Blitz, Day 4: MVL climbs to sole first place"
       },
       {
          "description" : "U18 Open: IM ILAMPARTHI continues his impressive run with a draw against the top seed and high-rated Russian Grand Master A R MURZIN, Volodar, and",
@@ -191,7 +215,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-4",
          "pubDate" : "Fri, 17 Nov 2023 22:55:00",
-         "title" : "Vachier-Lagrave's 2971 Rating Performance Sends Him Top"
+         "title" : "Vachier-Lagrave's 2971 Rating Performance Sends Him To The Top"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 4. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/most-important-firouzja-world-championship-or-rating-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8SNQpDAmRn0.jpg?itok=pcWb0SM9\" alt=\"\" /></a></div>",
@@ -424,14 +448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlos-alcaraz-bot",
          "pubDate" : "Thu, 16 Nov 2023 07:00:00",
          "title" : "Play Chess Against Tennis Prodigy Carlos Alcaraz"
-      },
-      {
-         "description" : "Germany beat Armenia to grab the sole lead after five rounds in the open section of the European Team Championship. Wins for Vincent Keymer and Matthias Bluebaum, both with black, gave the Germans match victory. Four teams are sharing second place a match point back, including Romania, who defeated the former co-leaders from Poland. In the women's championship, France and Azerbaijan scored convincing wins to remain as co-leaders going into the rest day. | Photo: Paul Meyer-Dunker / German Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r5",
-         "pubDate" : "Thu, 16 Nov 2023 02:30:00",
-         "title" : "Euro Teams: Germany in the sole lead"
       },
       {
          "description" : "",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "Chess: Adams and Nunn score golden double in world senior championships"
       },
       {
-         "description" : "It is one of the top places to study in the world, a seat of learning renowned for educating some of the brightest minds in history. But Harvard University&#39;s reputation has never been tested against FM Tani Adewumi and IM Alice Lee! ChessKid&#39;s t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/harvard-takes-on-the-chesskids",
-         "pubDate" : "Fri, 10 Nov 2023 04:16:00",
-         "title" : "Harvard Takes On The ChessKids: Can A Top University's Bright Young Things Beat Tani And Alice"
-      },
-      {
          "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Team Chess Championships 2024 which will take place from 20 June to 28 June in Rhodes, Greece. The event will be held in the Conference Hall of the 5-star Rodos Palace Hotel and is co-organized by Rhodes Chess Club &#8220;Ippotis&#8221; The event will be played in two age categories U12 and U18, 4 tournaments open and girls sections separately. Each national federation []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -864,14 +872,6 @@ news_feed (
          "link" : "https://aicf.in/advik-and-samhita-national-under-9-champions/",
          "pubDate" : "Thu, 09 Nov 2023 14:33:46",
          "title" : "Advik and Samhita National Under-9 Champions"
-      },
-      {
-         "description" : "The 2023 Women&#38;rsquo;s Speed Chess Championship starts on November 13, promising plenty of fast and furious action for speed chess fans to enjoy. Eight of the game&#39;s quickest-thinking women will compete to see who will be crowned as this year&#39;s WS...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-wscc-bracket-contest",
-         "pubDate" : "Thu, 09 Nov 2023 14:33:05",
-         "title" : "Submit Your Predictions For The 2023 WSCC Bracket Contest"
       },
       {
          "description" : " Short answer - Nowhere Longer answer - overrun with work But best answer - Growing my moustache for Movember. You can donate at <a href=\"https://movember.com/m/shaunpress?mc=1\">https://movember.com/m/shaunpress?mc=1</a> ",
