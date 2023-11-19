@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Only two rounds left to be played at the European Team Chess Championship 2023 in Budva, Montenegro, and three teams tie for the top of the Open section, while Bulgaria took the sole lead in the Women's event. England, Germany and Serbia score 11 match points each to head into the penultimate round as the leaders of the Open event. In the Women's section, Bulgaria scores 12 match points, while France and Azerbaijan follow with the score of 11 match []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/two-rounds-to-go-at-the-european-team-chess-championship-2023-in-budva/",
+         "pubDate" : "Sun, 19 Nov 2023 07:40:01",
+         "title" : "Two rounds to go at the European Team Chess Championship 2023 in Budva"
+      },
+      {
          "description" : "Fabiano Caruana became the 2023 Saint Louis Rapid & Blitz champion after a dramatic final day of blitz, which came down to a winner-take-all last round game against Maxime Vachier-Lagrave. Caruana ended with 21/36 points, Vachier-Lagrave finished second with 20.5, while Ian Nepomniachtchi and Le Quang Liem tied for third place with 20 points each. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -94,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-5-fabiano-caruana-wins",
-         "pubDate" : "Sat, 18 Nov 2023 15:59:24",
+         "pubDate" : "Sat, 18 Nov 2023 15:59:00",
          "title" : "Caruana Wins Saint Louis Rapid & Blitz After Miracle Hold: Flash Report"
       },
       {
@@ -856,14 +864,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/nov/10/chess-adams-and-nunn-score-golden-double-in-world-senior-championships",
          "pubDate" : "Fri, 10 Nov 2023 08:00:17",
          "title" : "Chess: Adams and Nunn score golden double in world senior championships"
-      },
-      {
-         "description" : "The European Chess Union (ECU) invites all National Chess Federations of ECU to participate in the European Youth Team Chess Championships 2024 which will take place from 20 June to 28 June in Rhodes, Greece. The event will be held in the Conference Hall of the 5-star Rodos Palace Hotel and is co-organized by Rhodes Chess Club &#8220;Ippotis&#8221; The event will be played in two age categories U12 and U18, 4 tournaments open and girls sections separately. Each national federation []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-official-invitation/",
-         "pubDate" : "Thu, 09 Nov 2023 17:21:05",
-         "title" : "European Youth Team Chess Championship 2024 - Official invitation"
       },
       {
          "description" : "Advik Amit Agarwal of Maharashtra and Samhita Pungavanam of Telangana crowned as National Under-9 and National Under-9 Girls Chess Champions respectively at Jamshedpur on Wednesday.",
