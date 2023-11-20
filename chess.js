@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the Fritz 19 launch, we let six different players, ranging from elo 1839 up to 2614, battle the six engine player characters. Twice, the computer escaped with extraordinary swindle tactics, causing a stalemate for Elisabeth Paehtz, and Jan Jettel! The engine showed us beautiful tactical moves, to decide the outcome against Leon Mendonca, and Svitlana Demchenko. The two human victories were determined through hard fights in endgames, by Robert Ris, and Polina Karelina. Overall, the experiment was a success: We wanted fun, and entertaining games, and we got them. Now, it is your turn!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/we-would-love-to-see-your-fritz-19-games",
+         "pubDate" : "Mon, 20 Nov 2023 12:00:00",
+         "title" : "We would love to see your Fritz 19 games!"
+      },
+      {
+         "description" : "The European Team Chess Championship 2023 is getting closer to its end, and the last round is scheduled for today at 15:00 CET. Serbia and Germany co-lead in the Open section scoring 13 match points each, while Bulgaria scores 14 match points in the Women's section to be the sole leader of the Women's event. Playing on the top board of the Open section, Serbia once again surprised and defeated one of the favourites for the top England. GM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/etcc2023-last-round-to-determine-the-winners/",
+         "pubDate" : "Mon, 20 Nov 2023 11:23:55",
+         "title" : "#ETCC2023 - Last round to determine the Winners"
+      },
+      {
+         "description" : " <p class=\"lead\">A recent survey, conducted by YouGov and World Chess, examining the popularity of chess, found that only 3% of Germans could correctly identify the current Chess World Champion. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/World-Chess-x-YouGov-1.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> Despite an estimated 19 million regular and casual players in Germany, the survey showed that only 3% of those surveyed could correctly name China's Ding Liren as the current champion after he took the title from Norway's Magnus Carlsen earlier this year. The survey also observed that 10% believed that Carlsen still held the world champion title. At the s",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/only-3-of-germans-know-the-name-of-the-current-chess-world-champ/",
+         "pubDate" : "Mon, 20 Nov 2023 09:11:38",
+         "title" : "Only 3% of Germans know the name of the current world champion"
+      },
+      {
          "description" : "In the recent European National Teams Championship 2023, which is under way in the town of Budva (Montenegro), a delightful miniature was played in the sixth round. It was a sensation in the match Greece-Azerbaijan, where the white player was 126 rating points lower than his opponent, who defeated a player famous for his stubborn defensive skills! It is definitely worthwhile to follow the instructive commentary of GM Efstratios Grivas.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grivas-a-delightful-miniature",
          "pubDate" : "Mon, 20 Nov 2023 07:20:43",
          "title" : "Grivas - A delightful Miniature"
+      },
+      {
+         "description" : "Saint Louis University (SLU) has won its second straight college title after dismantling The University of Texas at Dallas (UT Dallas) by an 11.5-4.5 margin in the finals of the 2023 Collegiate Chess League (CCL) fall season. A 3.5/4 MVP perform...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-slu-wins",
+         "pubDate" : "Mon, 20 Nov 2023 02:01:32",
+         "title" : "Saint Louis University Dominate Collegiate Chess League Final"
       },
       {
          "description" : "This week, I'm looking at calculation and what's reasonable for a mere human being without excessive genuflection to our silicon lords and masters. One thing that the silicon brings us is a totally unprejudiced \"eye\", but seeing far enough in difficult positions over the board is something any competitive player needs to develop properly. | Pictured: Vidit Gujrathi | Photo: FIDE / Stev Bonhage",
@@ -392,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-3",
          "pubDate" : "Fri, 17 Nov 2023 01:59:00",
          "title" : "Caruana Comeback As Robson Wins Rapid"
-      },
-      {
-         "description" : "Baskaran Adhiban had quite a rough start in the FIDE Grand Swiss, but that did not prevent him from returning to his trademark creative style in round six against Eduardo Iturrizaga. We don't want to give too many spoilers, but Paul Morphy would have been proud! In Game of the Week #594, Merijn Van Delft takes a closer look at this encounter. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-594-adhiban-iturrizaga",
-         "pubDate" : "Thu, 16 Nov 2023 18:00:00",
-         "title" : "Game of the Week #594: Adhiban vs Iturrizaga"
       },
       {
          "description" : "Round 3 report of World Youth Chess Championship, Italy 2023U18 Open:IM ILAMPARTHI, A R is in the joint lead with a cent percent score (3/3)Mayak",
@@ -858,28 +882,12 @@ news_feed (
          "title" : "'Chess saved my life': The Ukrainians and Russians now making moves for England"
       },
       {
-         "description" : "The ECU E-Magazine October 2023 is out! In this edition of the ECU Magazine you may read about: FIDE Grand Swiss and FIDE Women's Grand Swiss 2023 European Small Nations Team Chess Championship 2023 Upcoming European Team Chess Championship 2023 ECU Board Meeting in Tirana, Albania European Women's Chess Championship 2024 European Senior Team Chess Championship 2024 European Youth Online Nations League 2024 Activities of ECU Commissions Arbiters Corner Fun Zone The October 2023 edition of the ECU E-Magazine can []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-october-2023/",
-         "pubDate" : "Fri, 10 Nov 2023 10:15:04",
-         "title" : "ECU E-Magazine October 2023"
-      },
-      {
          "description" : "Western Asian Juniors &#38; Girls Chess Championships 2023, 28th November to 6th December 2023, Sri Lanka. The Chess Federation of Sri Lanka under the auspices",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/western-asian-juniors-girls-chess-championships-2023/",
          "pubDate" : "Fri, 10 Nov 2023 10:01:31",
          "title" : "Western Asian Juniors & Girls Chess Championships 2023"
-      },
-      {
-         "description" : "Chess.com is excited to announce the release of our new Chess.com Superfan Reactions app on iOS. You can now express your love for the game by sending chess-related stickers, GIFs, and YouTube videos directly through iMessage.&#38;nbsp; The app i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-superfan-app-ios",
-         "pubDate" : "Fri, 10 Nov 2023 09:54:41",
-         "title" : "Send The Perfect Text Message With The New iOS Chess.com Superfan App"
       },
       {
          "description" : " The eight-time British champion, 51, and the eminent author, 68, edged to tiebreak victories with strong final-round performances at the world over-50 and over-65 championships Michael Adams and John Nunn scored a golden double for England at the world senior championships for over-50s and over-65s, which ended at Terrasini, Sicily, on Sunday. The pair were both top seeded, then saw their chances slip in the middle rounds before they launched decisive finishing spurts to capture their world titles. First prize in each section was €3,000. Both winners have a strong connection with Cornwall - Nunn currently resides in Bude, while Adams was raised in Truro. <a href=\"https://www.theguardian.c",
@@ -1328,22 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2709",
          "pubDate" : "Mon, 30 Oct 2023 23:47:03",
          "title" : "Storms on and off the board in Round 6 of FIDE Grand Swiss "
-      },
-      {
-         "description" : " I've had a couple of interesting experiences with the 50 move rule over the years. During the last round of a past Sydney International Open, 2 players dragged the game well beyond the point where they could claim, one because he thought he was winning (at that stage he was not), and the other because he thought you could only claim if there were no pawns on the board (NB This was prior to the 75 move rule coming into effect). Going in the other direction, it appears a recent game at a tournament I was the arbiter for ended in a draw after the players reached move 50 and basically agreed that the game was drawn. Note: this was 50 moves in total, starting from move 1, with plenty of pawn mov",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/10/the-50-move-rule.html",
-         "pubDate" : "Mon, 30 Oct 2023 11:28:00",
-         "title" : "The 50 move rule?"
-      },
-      {
-         "description" : " World Chess is delighted to announce the release of the first-ever <a href=\"https://shop.worldchess.com/collections/gifts/products/the-chess-map-of-the-world-limited-edition\">chess map of the world</a> that blends the intricate worlds of chess and geography. This unique cartographic creation, where continents and places are crafted from chess openings with geographical names, promises to be a collector's delight. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/9F7BA940-7A82-4AB5-801E-F5AF058E8473.jpeg\" width=\"1600\" height=\"1132\" alt=\"\" /> <div class=\"e2-text-caption\">Map of the World in 150+ chess openings</div> </div> The island of Sicily, for instance, is artf",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-unveils-the-first-ever-chess-map-a-geographical-mast/",
-         "pubDate" : "Mon, 30 Oct 2023 09:52:39",
-         "title" : "World Chess Unveils the First-Ever Chess Map: A Geographical Masterpiece"
       }
    ]
 }
