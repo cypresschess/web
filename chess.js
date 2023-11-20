@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
+         "pubDate" : "Mon, 20 Nov 2023 14:50:00",
+         "title" : "European Team Championship - Live!"
+      },
+      {
+         "description" : "With one round to go in Budva, Germany and Serbia are sharing the lead in the open section of the European Team Championship. On the penultimate day of play, Germany beat France thanks to a win by Rasmus Svane, while Serbia defeated England thanks to a win by Velimir Ivic. In the women's championship, Bulgaria kept the sole lead by beating Poland by a 2&frac12;-1&frac12; score. Azerbaijan defeated Greece to go into the last round a match point behind the leaders. | Photo: Paul Meyer-Dunker",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r8",
+         "pubDate" : "Mon, 20 Nov 2023 14:00:00",
+         "title" : "Euro Teams: Germany and Serbia share the lead"
+      },
+      {
          "description" : "For the Fritz 19 launch, we let six different players, ranging from elo 1839 up to 2614, battle the six engine player characters. Twice, the computer escaped with extraordinary swindle tactics, causing a stalemate for Elisabeth Paehtz, and Jan Jettel! The engine showed us beautiful tactical moves, to decide the outcome against Leon Mendonca, and Svitlana Demchenko. The two human victories were determined through hard fights in endgames, by Robert Ris, and Polina Karelina. Overall, the experiment was a success: We wanted fun, and entertaining games, and we got them. Now, it is your turn!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +42,14 @@ news_feed (
          "title" : "Only 3% of Germans know the name of the current world champion"
       },
       {
+         "description" : "Six out of eight players are confirmed for the 2024 FIDE Candidates tournament, but the race is still on for the remaining two spots. Here&#39;s the status less than six weeks before we get to know the complete field. GMs Ian Nepomniachtchi, Hikaru ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/who-will-qualify-for-candidates",
+         "pubDate" : "Mon, 20 Nov 2023 07:50:00",
+         "title" : "The Race To Toronto: Who Will Qualify For The Candidates Tournament?"
+      },
+      {
          "description" : "In the recent European National Teams Championship 2023, which is under way in the town of Budva (Montenegro), a delightful miniature was played in the sixth round. It was a sensation in the match Greece-Azerbaijan, where the white player was 126 rating points lower than his opponent, who defeated a player famous for his stubborn defensive skills! It is definitely worthwhile to follow the instructive commentary of GM Efstratios Grivas.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +58,7 @@ news_feed (
          "title" : "Grivas - A delightful Miniature"
       },
       {
-         "description" : "Saint Louis University (SLU) has won its second straight college title after dismantling The University of Texas at Dallas (UT Dallas) by an 11.5-4.5 margin in the finals of the 2023 Collegiate Chess League (CCL) fall season. A 3.5/4 MVP perform...",
+         "description" : "Saint Louis University (SLU) has won its second straight college title after dismantling the University of Texas at Dallas (UT Dallas) by an 11.5-4.5 margin in the Final of the 2023 Collegiate Chess League (CCL) fall season. A 3.5/4 MVP performa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-slu-wins",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-151-chess-history-in-a-nutshell-2",
          "pubDate" : "Sun, 19 Nov 2023 15:00:00",
          "title" : "Understanding before Moving 152: Chess history in a nutshell (34)"
-      },
-      {
-         "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
-         "pubDate" : "Sun, 19 Nov 2023 14:50:00",
-         "title" : "European Team Championship - Live!"
       },
       {
          "description" : "The round-7 clash of co-leaders between England and Germany ended drawn in the open section of the European Team Championship, which allowed Serbia to join them in the lead thanks to a 2&frac12;-1&frac12; victory over Romania - Alexey Sarana beat Bogdan-Daniel Deac in the one decisive game of the match. Meanwhile, Bulgaria grabbed the sole lead in the women's section, as they inflicted France's first loss of the event. | Pictured: Serbia's Alexandr Predke | Photo: Mark Livshitz",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jan-jettel-vs-fritz-19-the-swindler-strong-club-player",
          "pubDate" : "Fri, 17 Nov 2023 13:06:30",
          "title" : "Jan Jettel vs. Fritz 19 - The Swindler (Strong Club Player)"
-      },
-      {
-         "description" : "Despite a last round loss Grandmaster Ray Robson ended up winning the rapid portion of the 2023 Saint Louis Rapid & Blitz, with a score of 11.0/18 heading into the blitz tomorrow. Tied for second were GMs Fabiano Caruana and Maxime Vachier-Lagrave, both on 10.0/18, with several players (Firouzja, Nepomniachtchi, Giri, Liem) trailing closely behind with an even 9.0/18. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-3-robson-wins-rapid",
-         "pubDate" : "Fri, 17 Nov 2023 12:50:00",
-         "title" : "St. Louis Rapid and Blitz, Day 3: Robson wins rapid section"
       },
       {
          "description" : " The 2023 Vikings Weekender begins tomorrow, with the first round at 10am Canberra time. The top section is quite strong for such an event, with almost all of Canberra's top players taking part. IM Junta Ikeda is the top seed, with FM's Michael Kethro and Fred Litchfield also taking part. The Minor (Under 1600) will also be quite competitive, as the restriction on entries for the top section means a few players have been moved down from the Open to this section. The tournament results, plus live games from the top section can be found at <a href=\"http://tournaments.streetchess.net/vikings2023/\">http://tournaments.streetchess.net/vikings2023/</a> ",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-1",
          "pubDate" : "Sat, 11 Nov 2023 18:52:00",
          "title" : "Carlsen Wins, Mamedyarov Beaten As Top Seeds Crash To Defeat"
-      },
-      {
-         "description" : "GM Hikaru Nakamura finished first in Saturday&#39;s $1,000 Bullet Brawl after GM Daniel Naroditsky fell agonizingly short of wresting the title from his rival&#39;s grasp. A single point was all that split the all-time leaders after two hours of play, and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-11-2023",
-         "pubDate" : "Sat, 11 Nov 2023 18:28:03",
-         "title" : "Nakamura Wins Bullet Brawl By A Single Point Ahead Of Naroditsky"
       },
       {
          "description" : "A good year for contributions to chess literature. First of all, I must declare an interest, being a member of the RAC Chess Circle, the Fons et Origo of my first of three recommendations. The Hamilton-Russell Cup: 100 Years of Convivial Chess and the Man Behind It by Norman Britten &#38; Danny Rosenbaum (The Biogs []",
