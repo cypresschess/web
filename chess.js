@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105364249.cms\" />One of the brightest stars of Indian chess, R Praggnanandhaa, is gearing up for the biggest challenge of his career in five months' time when he takes part in the Candidates Chess tournament in Toronto. However, the 18-year-old isn't in a tearing hurry to start preparations for the tournament that will decide the Challenger for the World Chess Championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/pressure-will-be-higher-in-candidates-says-grandmaster-r-praggnanandhaa/articleshow/105364249.cms",
+         "pubDate" : "Mon, 20 Nov 2023 16:48:43",
+         "title" : "Pressure will be higher in Candidates, says R Praggnanandhaa"
+      },
+      {
          "description" : "The 24th edition of the European Team Chess Championship is taking place on November 11-20 at the Conference Hall of Hotel Splendid in Budva, Montenegro. An open championship and a women's championship are being played concurrently, with each event a 9-round Swiss tournament. | Follow the games live with expert commentary from 15.15 CET (9.15 ET, 19.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -62,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-slu-wins",
-         "pubDate" : "Mon, 20 Nov 2023 02:01:32",
+         "pubDate" : "Mon, 20 Nov 2023 02:01:00",
          "title" : "Saint Louis University Dominate Collegiate Chess League Final"
       },
       {
@@ -626,7 +634,7 @@ news_feed (
          "title" : "Le Takes Lead As Saint Louis Rapid & Blitz Begins With A Bang"
       },
       {
-         "description" : " The Saint Louis Rapid & Blitz takes place Tue 14th to Sun 19th Nov 2023. Players: Nepomniachtchi, MVL, Caruana, Wesley So, Firouzja, Xiong, Giri, Le Quang Liem, Robson and Sevian. 9 rounds of rapid over 3 days followed by 18 rounds of blitz over 2 days. Play starts at 19:00 GMT.",
+         "description" : " The Saint Louis Rapid & Blitz took place 14th to 19th November 2023. \"Fabiano Caruana became the 2023 Saint Louis Rapid & Blitz champion after a dramatic final day of blitz, which came down to a winner-take-all last round game against Maxime Vachier-Lagrave. Caruana ended with 21/36 points, Vachier-Lagrave finished second with 20.5, while Ian Nepomniachtchi and Le Quang Liem tied for third place with 20.\" \"Earning 13 GCT points for the tournament victory, Caruana is now extremely close to clinching the overall 2023 Grand Chess Tour.\" Ray Robson was the surprise winner of the rapid with 5.5/9. Caruana, Le Quang Liem and Ian Nepomniachtchi scored 11/18 in the blitz. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2023",
