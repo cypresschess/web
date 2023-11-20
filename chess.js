@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the recent European National Teams Championship 2023, which is under way in the town of Budva (Montenegro), a delightful miniature was played in the sixth round. It was a sensation in the match Greece-Azerbaijan, where the white player was 126 rating points lower than his opponent, who defeated a player famous for his stubborn defensive skills! It is definitely worthwhile to follow the instructive commentary of GM Efstratios Grivas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-a-delightful-miniature",
+         "pubDate" : "Mon, 20 Nov 2023 07:20:43",
+         "title" : "Grivas - A delightful Miniature"
+      },
+      {
          "description" : "This week, I'm looking at calculation and what's reasonable for a mere human being without excessive genuflection to our silicon lords and masters. One thing that the silicon brings us is a totally unprejudiced \"eye\", but seeing far enough in difficult positions over the board is something any competitive player needs to develop properly. | Pictured: Vidit Gujrathi | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-594-adhiban-iturrizaga",
          "pubDate" : "Thu, 16 Nov 2023 18:00:00",
          "title" : "Game of the Week #594: Adhiban vs Iturrizaga"
-      },
-      {
-         "description" : "At the age of 29 years, Vidit Gujrathi did something very special: he won the FIDE Grand Swiss outright and with it a spot in the FIDE Candidates Tournament 2024. In an personal conversation with Sagar Shah, Vidit speaks about what the title means to him, the role of his family and parents, and reveals his trainers. This Podcast gives an insight into the personal side of this world class GM.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-biggest-win-of-my-career",
-         "pubDate" : "Thu, 16 Nov 2023 17:00:00",
-         "title" : "\"The biggest win of my career\""
       },
       {
          "description" : "Round 3 report of World Youth Chess Championship, Italy 2023U18 Open:IM ILAMPARTHI, A R is in the joint lead with a cent percent score (3/3)Mayak",
