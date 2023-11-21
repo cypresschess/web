@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In queen endings the better side often tries to find a hiding place for its king while the defending side tries to give checks. In the diagram position Black played 84...Qd6+? and lost. However, Black could have saved the game - how?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-wrong-check",
+         "pubDate" : "Tue, 21 Nov 2023 09:00:00",
+         "title" : "The wrong check"
+      },
+      {
+         "description" : "The FIDE Candidates tournament will be held in April 2024 in Canada. Leading up to this all-important event, one that will determine the World Championship challenger, the All India Chess Federation has announced a financial assistance to Vidit Gujrathi, R. Praggnanandhaa and R.Vaishali to the tune of Rs.20,000,000 (US$240,459). This amount will be used for their training, travel, building a team and much more. It is truly a fantastic move by the National federation to support the Candidates of India!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/acif-announces-assistance-to-vidit-pragg-and-vaishali",
+         "pubDate" : "Tue, 21 Nov 2023 07:39:17",
+         "title" : "ACIF announces assistance to Vidit, Pragg and Vaishali"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (players below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -386,14 +402,6 @@ news_feed (
          "title" : "ChessKid Stars Defeat Harvard"
       },
       {
-         "description" : "In the new episode of his Fast & Furious show, Robert Ris looks at the games Robson-Xiong and Firouzja-So from the Saint Louis Rapid tournament. Both games featured a popular line in the Petroff Defence, in which Robson and Firouzja played aggressively, forcing Black to deal with a number of practical problems. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-sharp-petroffs",
-         "pubDate" : "Fri, 17 Nov 2023 16:00:00",
-         "title" : "Robert Ris' Fast and Furious: Sharp Petroffs from Saint Louis!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -416,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gukesh-heads-field-in-2023-london-chess-classic",
          "pubDate" : "Fri, 17 Nov 2023 13:27:00",
          "title" : "Gukesh Heads Field In London As Classic Chess Event Returns In December"
-      },
-      {
-         "description" : "Fritz 19 is in the lead again with 2.5 to 1.5. But maybe our strong club level player Jan Jettel, perhaps better known as Schachnotizen, can defeat the tricky engine opponent. You either love, or hate to play against an ultra-aggressive club player, who pushes pawns forward non-stop, and sacrifices pieces with delight. The Swindler is exactly this. In the dramatic battle with Jan Jettel, the fox character pulls off a couple of tricks in typical swindler fashion. A game, Jan will probably never forget!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-jettel-vs-fritz-19-the-swindler-strong-club-player",
-         "pubDate" : "Fri, 17 Nov 2023 13:06:30",
-         "title" : "Jan Jettel vs. Fritz 19 - The Swindler (Strong Club Player)"
       },
       {
          "description" : " The 2023 Vikings Weekender begins tomorrow, with the first round at 10am Canberra time. The top section is quite strong for such an event, with almost all of Canberra's top players taking part. IM Junta Ikeda is the top seed, with FM's Michael Kethro and Fred Litchfield also taking part. The Minor (Under 1600) will also be quite competitive, as the restriction on entries for the top section means a few players have been moved down from the Open to this section. The tournament results, plus live games from the top section can be found at <a href=\"http://tournaments.streetchess.net/vikings2023/\">http://tournaments.streetchess.net/vikings2023/</a> ",
