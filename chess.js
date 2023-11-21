@@ -54,8 +54,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-8-9",
-         "pubDate" : "Mon, 20 Nov 2023 13:39:18",
-         "title" : "Serbia, Bulgaria Triumph; Carlsen Takes Gold On Board 1 (Flash Report)"
+         "pubDate" : "Mon, 20 Nov 2023 13:39:00",
+         "title" : "Serbia, Bulgaria Triumph; Carlsen Takes Gold On Board 1"
       },
       {
          "description" : "For the Fritz 19 launch, we let six different players, ranging from elo 1839 up to 2614, battle the six engine player characters. Twice, the computer escaped with extraordinary swindle tactics, causing a stalemate for Elisabeth Paehtz, and Jan Jettel! The engine showed us beautiful tactical moves, to decide the outcome against Leon Mendonca, and Svitlana Demchenko. The two human victories were determined through hard fights in endgames, by Robert Ris, and Polina Karelina. Overall, the experiment was a success: We wanted fun, and entertaining games, and we got them. Now, it is your turn!",
