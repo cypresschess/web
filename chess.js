@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The renowned chess magazine \"New in Chess\" is published eight times a year and issue no. 7/2023 has just been delivered. With detailed tournament coverage, analyses by top players and interesting news from the world of chess. One of the highlights of the magazine is an interview by Dirk Jan ten Geuzendam with businessman and chess patron Ilya Levitov about \"24 Hours with Kasparov\", a series of interviews Levitov conducted with Garry Kasparov and published on YouTube. Kasparov talks about his life with amazing openness, charm and even more energy, and comments on important games in his career. | Screenshot from \"24 Hours with Kasparov\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-in-chess-7-ist-erschienen",
+         "pubDate" : "Tue, 21 Nov 2023 17:00:00",
+         "title" : "\"24 Hours with Kasparov\" - An interview with Ilya Levitov in \"New in Chess Magazine\" 7/2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2753",
+         "pubDate" : "Tue, 21 Nov 2023 15:34:55",
+         "title" : "Infinite Chess Project: Educational seminar for new partner countries "
+      },
+      {
+         "description" : " If you choose to play sharp lines, sometimes you get cut. Here is a recent example from the 2023 European Teams Championship. The line chosen by White is supposed to be drawn with best play, but Black either wanted more, or simply mixed up his lines. It ended badly. <br /> <b>Theodorou,Nikolas (2619) - Radjabov,Teimour (2745) [C43]</b><br /> 24th European Teams Budva MNE (6.1), 17.11.2023 <script> new PgnViewer( { boardName: \"game1427\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.dxe5 Bc5 5.Bc4 Nxf2 6.Bxf7+ Kxf7 7.Qd5+ Kg6 8.Qxc5 Nxh1 9.Nc3 h6 10.Nd5 Re8 11.Qd4 Kh7 12.Bxh6 gxh6 13.O-O-O Re6 14.Nf6+ Kh8 15.Nh4 d6 16.Qf4 Kg7 17.Qg4+ Kh8 18.Ng6+ Kg7 19.Nf8+ 1-0', pauseBetw",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/sharp-lines-watch-your-fingers.html",
+         "pubDate" : "Tue, 21 Nov 2023 12:55:00",
+         "title" : "Sharp lines, watch your fingers"
+      },
+      {
          "description" : "On 12 October IM Dinara Wagner sat down with international chess journalist Tatiana Flores to talk about her chess career and personal interests. Wagner also shared her impressions of the European Chess Club Cup and gave interesting insights into the support she receives from her surroundings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,7 +154,7 @@ news_feed (
          "title" : "Euro Teams: Germany and Serbia share the lead"
       },
       {
-         "description" : "Tenth-seed Serbia has won the 2023 European Team Chess Championship after finishing a single tiebreak point ahead of Germany, who took silver despite remaining unbeaten and winning their head-to-head clash. Team chess specialists Armenia took bron...",
+         "description" : "Tenth-seed Serbia has won the 2023 European Team Chess Championship after finishing a single tiebreak point ahead of Germany, which took silver despite remaining unbeaten and winning their head-to-head clash. Team chess specialists Armenia took br...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-8-9",
@@ -384,14 +408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2750",
          "pubDate" : "Sat, 18 Nov 2023 10:21:58",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 4 Recap"
-      },
-      {
-         "description" : "In the diagram position, Black has just started to neutralize the strong bishop b3 with ...Be6. But Boris Spassky strongly objected - how about you?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/strike-like-spassky",
-         "pubDate" : "Sat, 18 Nov 2023 09:00:00",
-         "title" : "Strike like Spassky"
       },
       {
          "description" : "After six played rounds at the European Team Chess Championship 2023 in Budva, Montenegro, France emerged as the sole leader of the Women's section, while Germany and England co-lead in the Open tournament. Yesterday's top board match in the Open section between Germany and Romania finished in a tie after intense fights. GM Vincent Keymer (GER, 2721) prevailed against GM Richard Rapport (ROU, 2748) on the first board, but GM Liviu-Dieter Nisipeanu (ROU, 2591) scored against GM Dmitrij Kollars (GER, []",
