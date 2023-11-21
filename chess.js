@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
+         "pubDate" : "Tue, 21 Nov 2023 20:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "The German team won 2&frac12;:1&frac12; against Croatia in the final round, but it was not enough to win gold. Serbia had a slightly better tiebreak score after beating Greece. Bulgaria took the title in the women's tournament, with Azerbaijan and France also reaching the podium. | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r9",
+         "pubDate" : "Tue, 21 Nov 2023 17:20:00",
+         "title" : "Euro Teams: Serbia and Bulgaria clinch gold medals"
+      },
+      {
          "description" : "The renowned chess magazine \"New in Chess\" is published eight times a year and issue no. 7/2023 has just been delivered. With detailed tournament coverage, analyses by top players and interesting news from the world of chess. One of the highlights of the magazine is an interview by Dirk Jan ten Geuzendam with businessman and chess patron Ilya Levitov about \"24 Hours with Kasparov\", a series of interviews Levitov conducted with Garry Kasparov and published on YouTube. Kasparov talks about his life with amazing openness, charm and even more energy, and comments on important games in his career. | Screenshot from \"24 Hours with Kasparov\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bronze-medal-and-norms-for-lan-yao/",
          "pubDate" : "Tue, 21 Nov 2023 11:43:20",
          "title" : "Bronze medal and norms for Lan Yao!"
+      },
+      {
+         "description" : "IM Stefan Docx has been handed a one-year ban from taking part in FIDE-rated tournaments after refusing a metal detector body scan during an incident in Spain. Docx was found not guilty of computer cheating and says he has appealed the suspension....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/belgian-im-handed-1-year-ban-after-refusing-metal-detector-scan",
+         "pubDate" : "Tue, 21 Nov 2023 11:18:57",
+         "title" : "Belgian IM Handed 1-Year FIDE Ban After Refusing Body Scan"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 5. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-thanksgiving-not-about-black-friday-sales-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/odTekR2UBEA.jpg?itok=DaDqvm7Y\" alt=\"\" /></a></div>",
@@ -362,14 +386,6 @@ news_feed (
          "title" : "Caruana Wins Saint Louis Rapid & Blitz After Miracle Hold"
       },
       {
-         "description" : "Does lightning strike twice? For some players, apparently so. But perhaps you need the aura of a chess legend to be able to achieve this. Magnus Carlsen plays another beautiful game and there is plenty of pattern recognition at work here, as well as some training in calculation! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-magnus-strikes-twice",
-         "pubDate" : "Sat, 18 Nov 2023 15:30:00",
-         "title" : "Daniel King's Power Play Show: Magnus strikes twice"
-      },
-      {
          "description" : "Dr Max Euwe was the fifth world chess champion, wresting the title from Alexander Alekhine in 1935. Chivalrously, Euwe granted his defeated foe a revenge match in 1937, which resulted not only in an Alekhine victory, but a contest which witnessed probably the highest quality games ever produced in a world championship match, not just []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -384,14 +400,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender-day-1.html",
          "pubDate" : "Sat, 18 Nov 2023 13:10:00",
          "title" : "2023 Vikings Weekender - Day 1"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave took the sole lead after the first day of blitz in Saint Louis, thanks to a fantastic 7/9 performance to give him a total score of 17/27. Trailing with 15 points each are Fabiano Caruana and Ian Nepomniachtchi, with nine more games of blitz to be played on Saturday. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-4-mvl-sole-leader",
-         "pubDate" : "Sat, 18 Nov 2023 11:50:00",
-         "title" : "St. Louis Rapid and Blitz, Day 4: MVL climbs to sole first place"
       },
       {
          "description" : "U18 Open: IM ILAMPARTHI continues his impressive run with a draw against the top seed and high-rated Russian Grand Master A R MURZIN, Volodar, and",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://aicf.in/western-asian-junior-chess-championship-2023/",
          "pubDate" : "Mon, 13 Nov 2023 06:02:58",
          "title" : "Western Asian Junior Chess Championship - 2023"
-      },
-      {
-         "description" : "The University of Texas Rio Grande Valley (UTRGV) and Saint Louis University (SLU) both won their quarterfinal playoff matches in the 2023 Collegiate Chess League (CCL) fall season on Saturday by hefty margins, owing to standout performances by GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-playoffs-slu-utrgv",
-         "pubDate" : "Sun, 12 Nov 2023 18:55:15",
-         "title" : "GM-Elect Rodrigue-Lemieux Leads UTRGV To Victory, SLU Progresses To Semifinals"
       },
       {
          "description" : "Of the dozen videos on this month's short list for featured video, a third of them were from Youtube's <I>Chess.com</I> channel. All of them would have been a good selection for the post, but this video edged out the others. I liked the idea behind it : indirectly getting Magnus to talk about himself. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/12U0_QgZHxw?si=R8f-4HV6zwn0XSKN\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Can AI Replace Magnus Carlsen?</B> (5:51) &#149; '[Published on] Nov 10, 2023' <P> The question posed by t",
@@ -1336,22 +1336,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/10/31/classical-chess-is-still-king-heres-why/",
          "pubDate" : "Wed, 01 Nov 2023 03:50:00",
          "title" : "Classical Chess is still King&hellip; Here's Why"
-      },
-      {
-         "description" : "Zachary Saine is thechessnerd, a 22-year-old content creator and Twitch streamer. The Canadian is a student at Amsterdam University and is playing in as many European chess tournaments as he can. Zach, as he likes to be called, has chalked up 138 million views on YouTube. Recently we sent him a copy of ChessBase 17 and Mega Database 2023, and he used it to prepare for a game against a higher-rated opponent. The software provided him with radar vision. Here is Zach's video description of how the game went.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-nerd-uses-chessbase",
-         "pubDate" : "Tue, 31 Oct 2023 19:00:00",
-         "title" : "A Chess Nerd uses ChessBase"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2712",
-         "pubDate" : "Tue, 31 Oct 2023 18:10:18",
-         "title" : "World Senior Championship 2023 passes midpoint"
       }
    ]
 }
