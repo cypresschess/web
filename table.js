@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-11-17  - 11-19","242","<a href=http://www.uschess.org/msa/XtblMain.php?202311192132 target='_blank'>2023 HOUSTON OPEN CHESS CHAMPIONSHI</a>",
 "HOUSTON","2023-11-18","6","<a href=http://www.uschess.org/msa/XtblMain.php?202311180402 target='_blank'>CHESSPANDA11182023SATURDAY</a>",
 "SUGAR LAND","2023-11-17","4","<a href=http://www.uschess.org/msa/XtblMain.php?202311179982 target='_blank'>FBCC 2023 HUSTLING TURKEY OPEN</a>",
 "SPRING","2023-11-17","24","<a href=http://www.uschess.org/msa/XtblMain.php?202311179962 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2023-05-19","37","<a href=http://www.uschess.org/msa/XtblMain.php?202305195902 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-05-19","12","<a href=http://www.uschess.org/msa/XtblMain.php?202305195862 target='_blank'>FBCC 2023 END OF SCHOOL OPEN/FBCC 2</a>",
 "HOUSTON","2023-05-14","12","<a href=http://www.uschess.org/msa/XtblMain.php?202305142722 target='_blank'>MAY 14TH 2023 SUNDAY SWISS</a>",
-"HOUSTON","2023-05-13","37","<a href=http://www.uschess.org/msa/XtblMain.php?202305131532 target='_blank'>MAY 2023 SCHOLASTIC</a>",
 ]);
