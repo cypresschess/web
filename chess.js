@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 12 October IM Dinara Wagner sat down with international chess journalist Tatiana Flores to talk about her chess career and personal interests. Wagner also shared her impressions of the European Chess Club Cup and gave interesting insights into the support she receives from her surroundings. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/i-would-like-to-become-a-grandmaster-an-interview-with-german-im-dinara-wagner",
+         "pubDate" : "Tue, 21 Nov 2023 12:28:08",
+         "title" : "\"I would like to become a Grandmaster\" - An interview with German IM Dinara Wagner"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2752",
+         "pubDate" : "Tue, 21 Nov 2023 11:55:29",
+         "title" : "European Team Championship 2023: Serbia and Bulgaria win titles"
+      },
+      {
+         "description" : "Congratulations to WIM Lan Yao, who has secured a Bronze board medal at the European Team Chess Championship 2023 on board two. In addition she...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bronze-medal-and-norms-for-lan-yao/",
+         "pubDate" : "Tue, 21 Nov 2023 11:43:20",
+         "title" : "Bronze medal and norms for Lan Yao!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 5. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-thanksgiving-not-about-black-friday-sales-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/odTekR2UBEA.jpg?itok=DaDqvm7Y\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-thanksgiving-not-about-black-friday-sales-stlrapidblitz",
+         "pubDate" : "Tue, 21 Nov 2023 10:52:34",
+         "title" : "MVL: Thanksgiving is Not About Black Friday Sales | #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In the 18th and final blitz round of the 2023 Saint Louis Rapid &amp; Blitz, the two leaders (and the only two players who could still win) were paired together. Fabiano Caruana (20.5) had White against Maxime Vachier-Lagrave (20). A draw would clinch for Fabi; MVL needed to win. 2023.11.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/championship-game-caruana-vs-mvl-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/defau",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/championship-game-caruana-vs-mvl-d5-stlrapidblitz",
+         "pubDate" : "Tue, 21 Nov 2023 10:52:34",
+         "title" : "Championship Game: Caruana vs. MVL | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana is presented with the Saint Louis Rapid &amp; Blitz trophy by Chess Club Executive Director Tony Rich after winning the 2023 event. Despite what was verbalized, it is not the Sinquefield Cup trophy. 2023.11.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana%E2%80%99s-trophy-presentation-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana%E2%80%99s-trophy-presentation-d5-stlrapidblitz",
+         "pubDate" : "Tue, 21 Nov 2023 10:52:34",
+         "title" : "Fabiano Caruana's Trophy Presentation | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after going 5-2-2 in the final nine blitz rounds, and winning the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-my-first-gct-rapid-blitz-championship-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vTXCXQj_J-4.jpg?itok=DJ6TiTiA\" alt=\"\" /",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-my-first-gct-rapid-blitz-championship-d5-stlrapidblitz",
+         "pubDate" : "Tue, 21 Nov 2023 10:52:34",
+         "title" : "Caruana: My First GCT Rapid & Blitz Championship! | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "36th National Under-09 Open &#38; Girls Chess Championship 2023 certificates are out to download. Open : https://aicf.online/National-09.html Girls : https://aicf.online/National-09-G.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/36th-national-u-09-certificates/",
+         "pubDate" : "Tue, 21 Nov 2023 09:24:48",
+         "title" : "36th National U-09 Certificates"
+      },
+      {
          "description" : "In queen endings the better side often tries to find a hiding place for its king while the defending side tries to give checks. In the diagram position Black played 84...Qd6+? and lost. However, Black could have saved the game - how?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,6 +194,14 @@ news_feed (
          "title" : "Jon Speelman: Calculation without excessive genuflection"
       },
       {
+         "description" : "I was starting to wonder if we were ever going to see more 'AI generated chess images' in the monthly featured Flickr post. The previous post featuring such images was <A HREF=\"https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html\">Karpov and Kasparov Play Chess in Iceland</A> (March 2023). Forget chess images; a giant leap forward is 'AI generated chess comics'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk19.jpg\" WIDTH=400 HEIGHT=283><BR> <A HREF=\"https://www.flickr.com/photos/schockwellenreiter/53325373038/\">Alice and the Chess Queen 5</A> &#169; Flickr user <I>Joerg Kantel</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-nd/2",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html",
+         "pubDate" : "Sun, 19 Nov 2023 16:06:00",
+         "title" : "AI Chess Comics"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 152nd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to look at the legacy of Max Euwe. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,22 +274,6 @@ news_feed (
          "title" : "2023 Saint Louis Rapid & Blitz | Fabiano Caruana Wins the 2023 Saint Louis Rapid & Blitz! | #shorts"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-fabi-wins-game-wesley-so-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CmzNLhr3h1I.jpg?itok=T0QzXWSN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-fabi-wins-game-wesley-so-shorts",
-         "pubDate" : "Sun, 19 Nov 2023 07:50:48",
-         "title" : "2023 Saint Louis Rapid & Blitz | Fabi Wins in Game With Wesley So | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-fabi-takes-tournament-lead-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kODKUCzIP7A.jpg?itok=zbAjqxyx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-fabi-takes-tournament-lead-shorts",
-         "pubDate" : "Sun, 19 Nov 2023 07:50:48",
-         "title" : "2023 Saint Louis Rapid & Blitz | Fabi Takes The Tournament Lead! | #shorts"
-      },
-      {
          "description" : "Only two rounds left to be played at the European Team Chess Championship 2023 in Budva, Montenegro, and three teams tie for the top of the Open section, while Bulgaria took the sole lead in the Women's event. England, Germany and Serbia score 11 match points each to head into the penultimate round as the leaders of the Open event. In the Women's section, Bulgaria scores 12 match points, while France and Azerbaijan follow with the score of 11 match []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -234,28 +290,12 @@ news_feed (
          "title" : "Caruana barely outscores MVL, wins Saint Louis Rapid and Blitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-sacrifices-rook-2023-saint-louis-rapid-blitz-shorts-stlrapidblitz-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3PtwsjJo07w.jpg?itok=YxM2n_jD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-sacrifices-rook-2023-saint-louis-rapid-blitz-shorts-stlrapidblitz-grandchesstour",
-         "pubDate" : "Sat, 18 Nov 2023 22:49:39",
-         "title" : "Fabi Sacrifices the ROOK | 2023 Saint Louis Rapid & Blitz | #shorts #stlrapidblitz #grandchesstour"
-      },
-      {
          "description" : "The final game is upon us, and Polina Karelina has to win against the timid mouse character. If not, Fritz 19 won the battle against the humans, since the engine leads with 3:2. The Woman Candidate Master of the Bahamas has a FIDE rating of 1839, but is brave enough to fight the strong club player level! Luckily, the cowardly opponent is the weakest animal of Fritz 19. But on this difficulty level, it is a mighty mouse!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/polina-karelina-vs-fritz-19-the-timid-strong-club-player",
          "pubDate" : "Sat, 18 Nov 2023 21:31:08",
          "title" : "Polina Karelina vs. Fritz 19 - The Timid (Strong Club Player)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-standings-after-day-one-blitz-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A6Hpm25dRAI.jpg?itok=0BrSu_QF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-standings-after-day-one-blitz-shorts",
-         "pubDate" : "Sat, 18 Nov 2023 19:49:29",
-         "title" : "2023 Saint Louis Rapid & Blitz | Standings After Day One of Blitz | #shorts"
       },
       {
          "description" : "World number-one Magnus Carlsen escaped with just two minor pieces against Danish GM Jonas Bjerre&#39;s queen to help struggling Norway to a second win in a row, while top-seed Azerbaijan is in freefall, symbolized by GM Teimour Radjabov losing in 19 ...",
@@ -360,14 +400,6 @@ news_feed (
          "link" : "https://www.europechess.org/etcc2023-england-joins-germany-in-the-lead-of-the-open-section-france-emerges-on-the-top-of-the-womens-event/",
          "pubDate" : "Sat, 18 Nov 2023 07:56:29",
          "title" : "#ETCC2023 - England joins Germany in the lead of the Open section; France emerges on the top of the Women's event"
-      },
-      {
-         "description" : "Flashy games were seen on the top boards of both sections in round 6 of the European Team Chess Championships. In the open, England obtained a clear 3&frac12;-&frac12; victory over the Netherlands to join Germany in the lead. Romania and Serbia are sharing third place, a match point behind the co-leaders. Meanwhile, in the women's tournament, France became the sole leader after beating the top seeds from Georgia. | Pictured: Michael Adams, who turned 52 years old on Friday | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-6",
-         "pubDate" : "Sat, 18 Nov 2023 06:20:00",
-         "title" : "Euro Teams: England co-leaders after convincing victory"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave rose to the top of the leaderboard at the 2023 Saint Louis Rapid &#38;amp; Blitz after scoring 7/9 on the first day of blitz chess, with a 2971 rating performance. A loss against GM Ian Nepomniachtchi was the only blight on h...",
@@ -946,14 +978,6 @@ news_feed (
          "title" : "Argentine Championship 2023: Peralta wins fifth title"
       },
       {
-         "description" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan. The FIDE World Rapid and Blitz Championships are prestigious international chess tournaments",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-rapid-blitz-championship-2023/",
-         "pubDate" : "Wed, 08 Nov 2023 12:29:48",
-         "title" : "FIDE World Rapid & Blitz Championship 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1312,38 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2712",
          "pubDate" : "Tue, 31 Oct 2023 18:10:18",
          "title" : "World Senior Championship 2023 passes midpoint"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2711",
-         "pubDate" : "Tue, 31 Oct 2023 12:15:52",
-         "title" : "World Amateur Chess Championship 2023 set to commence in Oman"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2710",
-         "pubDate" : "Tue, 31 Oct 2023 11:27:23",
-         "title" : "FIDE approves new regulations for Affiliated Members"
-      },
-      {
-         "description" : "Masquerading? Yes, it's Halloween today. The end of another month means another post about chess news being reported in the mainstream press, aka Yahoos (see the footnote for more info). Before looking at the stories, let's have the usual statistics. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nj31.gif\" WIDTH=200 HEIGHT=180 ALIGN=LEFT VSPACE=5 HSPACE=5> This month Google News returned exactly 100 stories. One story was almost a year old -- at least according to the date assigned by Google -- an anomaly not seen before in this series of posts on Yahoos. <P> Looking at the story, an announcement for a tournament in Florida, there is no mention of a year. The story may very well have been",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/10/yahoos-masquerading-as-yahoos.html",
-         "pubDate" : "Tue, 31 Oct 2023 10:02:00",
-         "title" : "Yahoos Masquerading as Yahoos"
-      },
-      {
-         "description" : "The ECF is delighted to announce that Surrey player Owen Phillips has been appointed as ECF Manager for Accessible Chess. This is an important appointment...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-manager-for-accessible-chess/",
-         "pubDate" : "Tue, 31 Oct 2023 08:54:35",
-         "title" : "ECF Manager for Accessible Chess"
       }
    ]
 }
