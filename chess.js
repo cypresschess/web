@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (players below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-wins-tournament-after-missed-chances-mvl-stlrapidblitz-grandchesstour-c-squared",
+         "pubDate" : "Mon, 20 Nov 2023 22:52:06",
+         "title" : "Fabi WINS the Tournament after Missed Chances by MVL #stlrapidblitz #grandchesstour #c-squared"
+      },
+      {
+         "description" : " The 24th European Team Chess Championship took place in Budva, Montenegro 11th to 21st November 2023. The biennial event has 38 teams, Azerbaijan, Romania, Germany, England and Armenia are the top seed. Leading players including Magnus Carlsen, Richard Rapport, Teimour Radjabov, Shakhriyar Mamedyarov, Vincent Keymer, Nikita Vitiugov (now playing for England), Haik M. Martirosyan, Bogdan-Daniel Deac,, Jorden Van Foreest and David Navrara. 32 Nations headed by Georgia, Azerbaijan and Germany competed in the women's event alongside. 10th seeded Serbia beat England in Round 8 and then Greece in the final Round to take the title ahead of Germany by a single board on board count. Armenia beat Eng",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/24th-european-team-chess-championship-2023",
+         "pubDate" : "Mon, 20 Nov 2023 20:56:00",
+         "title" : "24th European Team Chess Championship 2023 - Games and Results"
+      },
+      {
+         "description" : " The 10th Sinquefield Cup takes place Tuesday 21st Nov to Sun 3rd Dec 2023 in Saint Louis. Players: Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, Wesley So, Richard Rapport, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Levon Aronian.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/10th-sinquefield-cup-2023",
+         "pubDate" : "Mon, 20 Nov 2023 20:56:00",
+         "title" : "10th Sinquefield Cup 2023 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105364249.cms\" />One of the brightest stars of Indian chess, R Praggnanandhaa, is gearing up for the biggest challenge of his career in five months' time when he takes part in the Candidates Chess tournament in Toronto. However, the 18-year-old isn't in a tearing hurry to start preparations for the tournament that will decide the Challenger for the World Chess Championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championship-2023-r8",
          "pubDate" : "Mon, 20 Nov 2023 14:00:00",
          "title" : "Euro Teams: Germany and Serbia share the lead"
+      },
+      {
+         "description" : "Tenth-seed Serbia has won the 2023 European Team Chess Championship after finishing a single tiebreak point ahead of Germany, who took silver despite remaining unbeaten and winning their head-to-head clash. Team chess specialists Armenia took bron...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-8-9",
+         "pubDate" : "Mon, 20 Nov 2023 13:39:18",
+         "title" : "Serbia, Bulgaria Triumph; Carlsen Takes Gold On Board 1 (Flash Report)"
       },
       {
          "description" : "For the Fritz 19 launch, we let six different players, ranging from elo 1839 up to 2614, battle the six engine player characters. Twice, the computer escaped with extraordinary swindle tactics, causing a stalemate for Elisabeth Paehtz, and Jan Jettel! The engine showed us beautiful tactical moves, to decide the outcome against Leon Mendonca, and Svitlana Demchenko. The two human victories were determined through hard fights in endgames, by Robert Ris, and Polina Karelina. Overall, the experiment was a success: We wanted fun, and entertaining games, and we got them. Now, it is your turn!",
@@ -208,14 +240,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-standings-after-day-one-blitz-shorts",
          "pubDate" : "Sat, 18 Nov 2023 19:49:29",
          "title" : "2023 Saint Louis Rapid & Blitz | Standings After Day One of Blitz | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-fabi-vs-liem-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vGCNsvMZ_Vw.jpg?itok=qAQFwALs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-fabi-vs-liem-shorts",
-         "pubDate" : "Sat, 18 Nov 2023 19:49:29",
-         "title" : "2023 Saint Louis Rapid & Blitz | Fabi vs Liem | #shorts"
       },
       {
          "description" : "World number-one Magnus Carlsen escaped with just two minor pieces against Danish GM Jonas Bjerre&#39;s queen to help struggling Norway to a second win in a row, while top-seed Azerbaijan is in freefall, symbolized by GM Teimour Radjabov losing in 19 ...",
@@ -802,14 +826,6 @@ news_feed (
          "title" : "2023 European Team Championship kicks off in Budva, Montenegro"
       },
       {
-         "description" : "GM Mads Andersen took down Super-GM Shakhriyar Mamedyarov as 2023 European Team Chess Championship favorites Azerbaijan lost to 20th-seed Denmark. World number-one Magnus Carlsen started the event in Budva, Montenegro, with a smooth win over GM Je...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-1",
-         "pubDate" : "Sat, 11 Nov 2023 18:52:00",
-         "title" : "Carlsen Wins, Mamedyarov Beaten As Top Seeds Crash To Defeat"
-      },
-      {
          "description" : "A good year for contributions to chess literature. First of all, I must declare an interest, being a member of the RAC Chess Circle, the Fons et Origo of my first of three recommendations. The Hamilton-Russell Cup: 100 Years of Convivial Chess and the Man Behind It by Norman Britten &#38; Danny Rosenbaum (The Biogs []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2734",
          "pubDate" : "Fri, 10 Nov 2023 22:37:42",
          "title" : "Winners crowned at World Amateurs Chess Championship 2023"
-      },
-      {
-         "description" : " The 24th European Team Chess Championship takes place in Budva, Montenegro 11th to 21st November 2023. The biennial event has 38 teams, Azerbaijan, Romania, Germany, England and Armenia are the top seed. Leading players including Magnus Carlsen, Richard Rapport, Teimour Radjabov, Shakhriyar Mamedyarov, Vincent Keymer, Nikita Vitiugov (now playing for England), Haik M. Martirosyan, Bogdan-Daniel Deac,, Jorden Van Foreest and David Navrara. 32 Nations headed by Georgia, Azerbaijan and Germany compete in the women's event alongside.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/24th-european-team-chess-championship-2023",
-         "pubDate" : "Fri, 10 Nov 2023 20:56:00",
-         "title" : "24th European Team Chess Championship 2023 - Games and Results"
       },
       {
          "description" : "Albin's Counter Gambit (1.d4 d5 2.c4 e5) has been, and still is, a rare guest at top level tournaments, and is hardly ever seen in the practice of the world champions. The variation is considered theoretically dubious and as an overly aggressive attempt to gain counterplay in the rather solid Queen's Gambit. However, the opening has found its way into literature - in the novel \"Gambit\" by American crime writer Rex Stout.",
@@ -1336,14 +1344,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-manager-for-accessible-chess/",
          "pubDate" : "Tue, 31 Oct 2023 08:54:35",
          "title" : "ECF Manager for Accessible Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2709",
-         "pubDate" : "Mon, 30 Oct 2023 23:47:03",
-         "title" : "Storms on and off the board in Round 6 of FIDE Grand Swiss "
       }
    ]
 }
