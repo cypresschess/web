@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "U18 Open: India had a poor day in terms of the results of the 8th Round of the World Youth Chess Championship here in Motesilvano,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-8-report-of-world-youth-chess-championship-italy-2023/",
+         "pubDate" : "Wed, 22 Nov 2023 11:12:45",
+         "title" : "Round 8 report of World Youth Chess Championship, Italy 2023"
+      },
+      {
          "description" : "Playing against Fritz is enjoyable because the program incorporates hidden errors. There always could be a tactical strike against it. However, Fritz 19 adds a new exciting dimension to your games: The hunt for \"achievements\". There's a competition for 136 different chess achievements, testing your tactical and strategic versatility. And there are rewards for it too.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "WSCC 2023: Hou Yifan and Harika Dronavalli to clash the final"
       },
       {
-         "description" : "The European Team Chess Championship 2023 concluded yesterday evening in Budva, Montenegro after 10 days of intense chess battles. The last round determined the medalists, and the very last game of the tournament determined the Winner of the Open section. Scoring 15 match points (each), the teams of Germany and Serbia tied for the top of the European Team Chess Championship 2023, and the tiebreaks determined the Winner of the event. With only one Olympiad Sonneborn Berger point advantage, Serbia []",
+         "description" : "The European Team Chess Championship 2023 concluded yesterday evening in Budva, Montenegro after 10 days of intense chess battles. The last round determined the medalists, and the very last game of the tournament determined the Winner of the Open section. The Closing ceremony of the event took place yesterday evening with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice Presidents Mr. Alojzije Jankovic and Mr. Gunnar Bjornsson, ECU Honorary Vice President and the Vice President of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/serbia-and-bulgaria-claim-european-team-open-and-womens-chess-championships-2023/",
@@ -408,14 +416,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-18-2023",
          "pubDate" : "Sat, 18 Nov 2023 18:42:37",
          "title" : "Nakamura Scores 69/79 To Claim Back-To-Back Bullet Brawl Titles"
-      },
-      {
-         "description" : "The 13th edition of the London Chess Classic will take place on December 1-10 as a 10-player single round-robin with a classical time control. The event will feature nine Super Grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American Hans Niemann, whose sensational victory over the then world champion Magnus Carlsen sent the chess world into turmoil.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-preview",
-         "pubDate" : "Sat, 18 Nov 2023 18:35:00",
-         "title" : "The London Chess Classic is back!"
       },
       {
          "description" : "GM Fabiano Caruana won the 2023 Saint Louis Rapid &#38;amp; Blitz by half a point after securing a draw with second-placed GM Maxime Vachier-Lagrave in the final round. Caruana&#39;s 6/9 score on Saturday allowed him to overtake Vachier-Lagrave, whose 3.5...",
@@ -994,14 +994,6 @@ news_feed (
          "title" : "Where has Shaun gone?"
       },
       {
-         "description" : "Recruitment of meritorious sports persons in the department of posts in the cadres of postal assistant, sorting assistant, postman, mail guard and multi tasking staff.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/recruitment-of-meritorious-sports-persons-in-the-departmentof-posts/",
-         "pubDate" : "Thu, 09 Nov 2023 02:24:57",
-         "title" : "RECRUITMENT OF MERITORIOUS SPORTS PERSONS IN THE DEPARTMENTOF POSTS"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1312,30 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2713",
          "pubDate" : "Wed, 01 Nov 2023 16:45:20",
          "title" : "FIDE Infinite Chess project for children with ASD keeps growing"
-      },
-      {
-         "description" : " Entries are now open for the 2024 O2C Doeberl Cup. Last years event smashed all records in terms of the size of the event, with 403 players entering. The addition of the Mini (Under 1500) event was a big success, and the format for 2024 will be the same as 2023. The only small change to the tournaments will be an additional blitz event for Under 1600 players, starting a little earlier on the Saturday evening (6pm). This gives younger players a chance to play in a FIDE rated blitz event, without having to stay up until midnight, like this year. As we often see the tournaments filling up a few weeks before the start, registering early is recommended. Full details (and registration links) can ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/2024-o2c-doeberl-cup.html",
-         "pubDate" : "Wed, 01 Nov 2023 11:45:00",
-         "title" : "2024 O2C Doeberl Cup "
-      },
-      {
-         "description" : "LJCC players (U10 &#38; U14) and Northwick Park Congress players please note &#8212; tournaments on December 16th, 17th have moved!&#160; They will now take place...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/notice-of-venue-change-ljcc/",
-         "pubDate" : "Wed, 01 Nov 2023 10:16:33",
-         "title" : "Urgent notice of venue change - Northwick Park/LJCC"
-      },
-      {
-         "description" : "The ECF is pleased to announce two new director appointments. First, Alex Longson is our new Finance Director, replacing Adam Ashton. Alex combines his role...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/two-new-director-appointments/",
-         "pubDate" : "Wed, 01 Nov 2023 09:57:23",
-         "title" : "Two new Director appointments"
       }
    ]
 }
