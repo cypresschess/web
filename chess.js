@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2755",
+         "pubDate" : "Tue, 21 Nov 2023 23:37:30",
+         "title" : "World Youth Championship 2023: Hot contest with three rounds to go"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich after a draw against Rapport in the first round of the 2023 Sinquefield Cup. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-still-recovering-cold-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Rm_WTwUkCuE.jpg?itok=5AQ9fFXs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-still-recovering-cold-r1-sinquefieldcup",
+         "pubDate" : "Tue, 21 Nov 2023 22:52:48",
+         "title" : "Nepo: Still Recovering from a Cold | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Anastasiya Karlovich before the start of the Grand Chess Tour tournaments in Saint Louis. This aired during Round 1. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-i%E2%80%99m-social-media-influencer-doing-my-thing-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OuIEr_Stiog.jpg?itok=LLyXo4Kh\" alt=\"\" /></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-i%E2%80%99m-social-media-influencer-doing-my-thing-sinquefieldcup",
+         "pubDate" : "Tue, 21 Nov 2023 22:52:48",
+         "title" : "Giri: I'm A Social Media Influencer, Doing My Thing | #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Executive Director Tony Rich talks to the team during the first round of the 2023 Sinquefield Cup. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tony-rich-spectators-return-2025-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/clL3R82KoBs.jpg?itok=dh9XINMg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tony-rich-spectators-return-2025-r1-sinquefieldcup",
+         "pubDate" : "Tue, 21 Nov 2023 22:52:48",
+         "title" : "Tony Rich: Spectators to Return in 2025 | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2754",
+         "pubDate" : "Tue, 21 Nov 2023 22:51:17",
+         "title" : "WSCC 2023: Hou Yifan and Harika Dronavalli to clash the final"
+      },
+      {
+         "description" : "The European Team Chess Championship 2023 concluded yesterday evening in Budva, Montenegro after 10 days of intense chess battles. The last round determined the medalists, and the very last game of the tournament determined the Winner of the Open section. Scoring 15 match points (each), the teams of Germany and Serbia tied for the top of the European Team Chess Championship 2023, and the tiebreaks determined the Winner of the event. With only one Olympiad Sonneborn Berger point advantage, Serbia []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/serbia-and-bulgaria-claim-european-team-open-and-womens-chess-championships-2023/",
+         "pubDate" : "Tue, 21 Nov 2023 21:36:02",
+         "title" : "Serbia and Bulgaria claim European Team Open and Women's Chess Championships 2023"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +90,14 @@ news_feed (
          "title" : "Sharp lines, watch your fingers"
       },
       {
+         "description" : "GM Harika Dronavalli will face GM Hou Yifan in the Julius Baer Women&#39;s Speed Chess Championship 2023 Final. On Tuesday, she defeated GM Kateryna Lagno in the Semifinals by a score of 12-10. It was a fairly even match in the first two segments, t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-semifinals-harika-wins",
+         "pubDate" : "Tue, 21 Nov 2023 12:33:00",
+         "title" : "Harika Advances To Final Vs. Hou Yifan"
+      },
+      {
          "description" : "On 12 October IM Dinara Wagner sat down with international chess journalist Tatiana Flores to talk about her chess career and personal interests. Wagner also shared her impressions of the European Chess Club Cup and gave interesting insights into the support she receives from her surroundings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -70,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/belgian-im-handed-1-year-ban-after-refusing-metal-detector-scan",
-         "pubDate" : "Tue, 21 Nov 2023 11:18:57",
+         "pubDate" : "Tue, 21 Nov 2023 11:18:00",
          "title" : "Belgian IM Handed 1-Year FIDE Ban After Refusing Body Scan"
       },
       {
@@ -296,30 +352,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-fabi-flags-goes-final-round-half-point-lead-shorts",
          "pubDate" : "Sun, 19 Nov 2023 07:50:48",
          "title" : "2023 Saint Louis Rapid & Blitz | Fabi Flags, Goes Into Final Round With Half Point Lead | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-three-games-end-under-1-minute-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AGmMTiGwFkw.jpg?itok=TqybIcMv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-three-games-end-under-1-minute-shorts",
-         "pubDate" : "Sun, 19 Nov 2023 07:50:48",
-         "title" : "2023 Saint Louis Rapid & Blitz | Three Games End in Under 1 Minute | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-final-standings-2023-saint-louis-rapid-blitz-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HSyXnGLm9l4.jpg?itok=i7bry9QL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-final-standings-2023-saint-louis-rapid-blitz-shorts",
-         "pubDate" : "Sun, 19 Nov 2023 07:50:48",
-         "title" : "2023 Saint Louis Rapid & Blitz | Final Standings for the 2023 Saint Louis Rapid & Blitz | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-fabiano-caruana-wins-2023-saint-louis-rapid-blitz-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mpy1WWd1GMw.jpg?itok=0qJ_xcEF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-fabiano-caruana-wins-2023-saint-louis-rapid-blitz-shorts",
-         "pubDate" : "Sun, 19 Nov 2023 07:50:48",
-         "title" : "2023 Saint Louis Rapid & Blitz | Fabiano Caruana Wins the 2023 Saint Louis Rapid & Blitz! | #shorts"
       },
       {
          "description" : "Only two rounds left to be played at the European Team Chess Championship 2023 in Budva, Montenegro, and three teams tie for the top of the Open section, while Bulgaria took the sole lead in the Women's event. England, Germany and Serbia score 11 match points each to head into the penultimate round as the leaders of the Open event. In the Women's section, Bulgaria scores 12 match points, while France and Azerbaijan follow with the score of 11 match []",
@@ -802,14 +834,6 @@ news_feed (
          "title" : "Mexican Championship 2023: Obregon Rivero and Corrales Jimenes win titles"
       },
       {
-         "description" : "GMs Hou Yifan and Harika Dronavalli move on to the Julius Baer Women&#39;s Speed Chess Championship 2023 Semifinals after convincingly defeating IM Polina Shuvalova and GM Valentina Gunina, respectively.&#38;nbsp; Hou, the favorite, was actually at a tw...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-harika-hou-win",
-         "pubDate" : "Mon, 13 Nov 2023 13:42:00",
-         "title" : "Harika Wins All 3 Segments, Hou Yifan Cranks Out 7-Game Winning Streak"
-      },
-      {
          "description" : " One of the other factors in my somewhat infrequent positing is the work I am doing as the Secretary of the FIDE Qualification Commission. It isn't so much that the work is time consuming, but more that topics I may have posted about in the past are now part of my official duties, creating a conflict between public comment and private knowledge. However some queries are vague enough that I can talk about them in a non official way. One query was basically 'When are you allowed to call yourself a Grandmaster?' The obvious answer is, anytime you want. This is because that while Grandmaster is connected with chess, the title does not necessarily belong to chess (indeed it dates back to the 18th",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -880,14 +904,6 @@ news_feed (
          "link" : "https://www.thearticle.com/christmas-chess-books/",
          "pubDate" : "Sat, 11 Nov 2023 11:07:11",
          "title" : "Christmas Chess Books"
-      },
-      {
-         "description" : "The 2023 European Team Chess Championship was officially opened yesterday evening. The Opening ceremony took place in Hotel Splendid, the official hotel and the playing venue of the tournament. The ceremony was inaugurated with the intonations of the ECU and Montenegro anthems. The President of the Chess Federation of Montenegro Mr. Jovan Milovic then took the floor and welcomed the players and distinguished guests. &#8220;I am very proud that we organize the European Team Chess Championship two months before the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2023-officially-opened-in-budva-montenegro/",
-         "pubDate" : "Sat, 11 Nov 2023 07:42:08",
-         "title" : "European Team Chess Championship 2023 officially opened in Budva, Montenegro"
       },
       {
          "description" : " Back in 2002, The Chess Drum ran a short article by Dan Lucas that mentioned the U.S. possibly being the host of the 2004 Chess Olympiad. It was during a time of transition for U.S. Chess and at the time, Florida was vying to become the center of U.S. and world chess. The World Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/11/when-will-the-u-s-host-a-chess-olympiad/\">When will the U.S. host a Chess Olympiad?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
