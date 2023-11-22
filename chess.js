@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich after a draw against Wesley So in the first round of the 2023 Sinquefield Cup. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-switching-%E2%80%98classical-mode%E2%80%99-my-brain-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Tyb6fanIZOE.jpg?itok=z3dIIbdN\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-switching-%E2%80%98classical-mode%E2%80%99-my-brain-r1-sinquefieldcup",
+         "pubDate" : "Wed, 22 Nov 2023 01:53:04",
+         "title" : "Firouzja: Switching to 'Classical Mode' in My Brain | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Anastasiya Karlovich after a draw against Firouzja in the first round of the 2023 Sinquefield Cup. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so%E2%80%99s-plan-show-and-play-good-game-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gYksCV3hcRM.jpg?itok=laNlQMMJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so%E2%80%99s-plan-show-and-play-good-game-r1-sinquefieldcup",
+         "pubDate" : "Wed, 22 Nov 2023 01:53:04",
+         "title" : "Wesley So's Plan: Show Up And Play a Good Game | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.22<br /> GrandChessTour.org ROUND 2 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> TB Entered </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-2-grandchesstour",
+         "pubDate" : "Wed, 22 Nov 2023 01:53:04",
+         "title" : "2023 Sinquefield Cup: Round 2 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich before the start of the 2023 Grand Chess Tour events in Saint Louis. This aired during Round 1. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-magnus-ding-hikaru-change-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BDwXDqMTcGg.jpg?itok=L3kUV-jI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-magnus-ding-hikaru-change-sinquefieldcup",
+         "pubDate" : "Wed, 22 Nov 2023 01:53:04",
+         "title" : "MVL on Magnus, Ding, Hikaru, & Change! | #SinquefieldCup"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2755",
          "pubDate" : "Tue, 21 Nov 2023 23:37:30",
-         "title" : "World Youth Championship 2023: Hot contest with three rounds to go"
+         "title" : "World Youth Championship 2023: Fierce contest with three rounds to go"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich after a draw against Rapport in the first round of the 2023 Sinquefield Cup. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-still-recovering-cold-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Rm_WTwUkCuE.jpg?itok=5AQ9fFXs\" alt=\"\" /></a></div>",
@@ -48,6 +80,14 @@ news_feed (
          "link" : "https://www.europechess.org/serbia-and-bulgaria-claim-european-team-open-and-womens-chess-championships-2023/",
          "pubDate" : "Tue, 21 Nov 2023 21:36:02",
          "title" : "Serbia and Bulgaria claim European Team Open and Women's Chess Championships 2023"
+      },
+      {
+         "description" : "Each competitor opened the Sinquefield Cup 2023 with a balanced and accurate performance on Tuesday. Though every clash ultimately ended in a draw, GM Leinier Dominguez gained attacking chances and pressed in the ending vs. GM Fabiano Caruana whil...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-1",
+         "pubDate" : "Tue, 21 Nov 2023 20:16:05",
+         "title" : "Dominguez Presses vs. Caruana In Accurate Opening Round"
       },
       {
          "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
@@ -154,14 +194,6 @@ news_feed (
          "title" : "Fabiano Caruana's Trophy Presentation | D5 #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after going 5-2-2 in the final nine blitz rounds, and winning the 2023 Saint Louis Rapid &amp; Blitz. 2023.11.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-my-first-gct-rapid-blitz-championship-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vTXCXQj_J-4.jpg?itok=DJ6TiTiA\" alt=\"\" /",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-my-first-gct-rapid-blitz-championship-d5-stlrapidblitz",
-         "pubDate" : "Tue, 21 Nov 2023 10:52:34",
-         "title" : "Caruana: My First GCT Rapid & Blitz Championship! | D5 #STLRapidBlitz"
-      },
-      {
          "description" : "36th National Under-09 Open &#38; Girls Chess Championship 2023 certificates are out to download. Open : https://aicf.online/National-09.html Girls : https://aicf.online/National-09-G.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/acif-announces-assistance-to-vidit-pragg-and-vaishali",
          "pubDate" : "Tue, 21 Nov 2023 07:39:17",
          "title" : "ACIF announces assistance to Vidit, Pragg and Vaishali"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 7th Saint Louis Rapid &amp; Blitz is the fourth of five legs of the Grand Chess Tour. Six of the Tour players are joined by four wildcards (players below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, IM Tania Sachdev, &amp; WGM Anastasiya Karlovich for the move-by-move. 2023.11.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-wins-tournament-after-missed-chances-mvl-stlrapidblitz-grandchesstour-c-squared",
-         "pubDate" : "Mon, 20 Nov 2023 22:52:06",
-         "title" : "Fabi WINS the Tournament after Missed Chances by MVL #stlrapidblitz #grandchesstour #c-squared"
       },
       {
          "description" : " The 24th European Team Chess Championship took place in Budva, Montenegro 11th to 21st November 2023. The biennial event has 38 teams, Azerbaijan, Romania, Germany, England and Armenia are the top seed. Leading players including Magnus Carlsen, Richard Rapport, Teimour Radjabov, Shakhriyar Mamedyarov, Vincent Keymer, Nikita Vitiugov (now playing for England), Haik M. Martirosyan, Bogdan-Daniel Deac,, Jorden Van Foreest and David Navrara. 32 Nations headed by Georgia, Azerbaijan and Germany competed in the women's event alongside. 10th seeded Serbia beat England in Round 8 and then Greece in the final Round to take the title ahead of Germany by a single board on board count. Armenia beat Eng",
@@ -336,22 +360,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2751",
          "pubDate" : "Sun, 19 Nov 2023 11:07:37",
          "title" : "Fabiano Caruana wins Saint Louis Rapid and Blitz 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-nepo-wins-game-vs-maxime-vachier-lagrave-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3UCHDQApTE4.jpg?itok=rM4D89ZO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-nepo-wins-game-vs-maxime-vachier-lagrave-shorts",
-         "pubDate" : "Sun, 19 Nov 2023 07:50:48",
-         "title" : "2023 Saint Louis Rapid & Blitz | Nepo Wins Game Vs Maxime Vachier Lagrave | #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Saint Louis Rapid &amp; Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-saint-louis-rapid-blitz-fabi-flags-goes-final-round-half-point-lead-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2nyxII86mtc.jpg?itok=ZO4F8ecE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-saint-louis-rapid-blitz-fabi-flags-goes-final-round-half-point-lead-shorts",
-         "pubDate" : "Sun, 19 Nov 2023 07:50:48",
-         "title" : "2023 Saint Louis Rapid & Blitz | Fabi Flags, Goes Into Final Round With Half Point Lead | #shorts"
       },
       {
          "description" : "Only two rounds left to be played at the European Team Chess Championship 2023 in Budva, Montenegro, and three teams tie for the top of the Open section, while Bulgaria took the sole lead in the Women's event. England, Germany and Serbia score 11 match points each to head into the penultimate round as the leaders of the Open event. In the Women's section, Bulgaria scores 12 match points, while France and Azerbaijan follow with the score of 11 match []",
@@ -816,14 +824,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2738",
          "pubDate" : "Mon, 13 Nov 2023 21:57:48",
          "title" : "World Youth Chess Championship kicks off in Montesilvano, Italy"
-      },
-      {
-         "description" : "Poland and Germany are the only teams on a perfect 6/6 match points after three rounds of the Open section of the 2023 European Team Chess Championship, and face a showdown in round four. GM Magnus Carlsen escaped with a draw in round two and won ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-2-3",
-         "pubDate" : "Mon, 13 Nov 2023 18:25:00",
-         "title" : "Poland, Germany On Perfect Score; Carlsen Can't Save Norway"
       },
       {
          "description" : "",
@@ -1344,14 +1344,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-in-schools",
          "pubDate" : "Wed, 01 Nov 2023 07:51:43",
          "title" : "Chess in Schools"
-      },
-      {
-         "description" : " In post-quarantine times, chess has returned to its classical roots, but quick chess has surged and even surpassed all forms of chess in terms of sheer popularity. Popular streamers like Hikaru Nakamura and Levy Rozman have amassed huge followings and the online platform has made chess accessible to a wider audience. Most have resorted to The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/10/31/classical-chess-is-still-king-heres-why/\">Classical Chess is still King Here's Why</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/10/31/classical-chess-is-still-king-heres-why/",
-         "pubDate" : "Wed, 01 Nov 2023 03:50:00",
-         "title" : "Classical Chess is still King&hellip; Here's Why"
       }
    ]
 }
