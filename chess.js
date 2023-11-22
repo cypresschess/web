@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2756",
+         "pubDate" : "Wed, 22 Nov 2023 20:15:47",
+         "title" : "Hou Yifan wins second WSCC title"
+      },
+      {
+         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
+         "pubDate" : "Wed, 22 Nov 2023 20:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "Balanced, well-played games were seen on all five boards in the first round of the Sinquefield Cup. Leinier Dominguez was the one closest to getting a win on Tuesday, as he put pressure on top seed Fabiano Caruana with the black pieces. In the fight for the Candidates spots still up for grabs, a crucial encounter will be seen in round 2, when Alireza Firouzja will have the white pieces against Anish Giri. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r1",
+         "pubDate" : "Wed, 22 Nov 2023 18:35:00",
+         "title" : "Sinquefield Cup: Warming up"
+      },
+      {
+         "description" : "The 2023 edition of the historical chess event Tournament of Peace kicked off today in Zagreb, Croatia. It is a 10-player round-robin tournament, taking place from 22 to 30 November in the National and University Library. GM Anton Korobov (UKR, 2667) headlines the participants list this year, followed by GM Hans Niemann (USA, 2659), GM Vasyl Ivanchuk (UKR, 2653), GM Ivan Cheparinov (BUL, 2649), GM Ante Brkic (CRO, 2622), GM Alexander Motylev (ROU, 2619), GM Ivan Sokolov (NED, 2588), GM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/tournament-of-peace-2023-kicked-off-in-zagreb/",
+         "pubDate" : "Wed, 22 Nov 2023 16:43:33",
+         "title" : "Tournament of Peace 2023 kicked off in Zagreb"
+      },
+      {
          "description" : "Every now and then, Svitlana talks about a new opening. This time, it is the suspicious Budapest Gambit. To Arne's disappointment - if you play the opening correctly, some variants seem to move to a very calm middle- and endgame, rather than setting the board on fire. It might be interesting to get to know the Gambit a bit better because it is actually quite sound.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/round-8-report-of-world-youth-chess-championship-italy-2023/",
          "pubDate" : "Wed, 22 Nov 2023 11:12:45",
          "title" : "Round 8 report of World Youth Chess Championship, Italy 2023"
+      },
+      {
+         "description" : "GM Hou Yifan is the first player to win two WSCC titles. After defeating GM Harika Dronavalli in the Julius Baer Women&#39;s Speed Chess Championship 2023 Final 15-11, the Chinese grandmaster is a two-time champion. &#34;Ever since her first victory, sh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-final-hou-yifan-wins",
+         "pubDate" : "Wed, 22 Nov 2023 10:32:00",
+         "title" : "Hou Yifan Wins Second WSCC Title"
       },
       {
          "description" : "Playing against Fritz is enjoyable because the program incorporates hidden errors. There could always be a tactical strike against it. However, Fritz 19 adds a new exciting dimension to your games: The hunt for \"achievements\". There's a competition for 136 different chess achievements, testing your tactical and strategic versatility. And there are rewards for it too.",
@@ -144,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-1",
          "pubDate" : "Tue, 21 Nov 2023 20:16:00",
          "title" : "Dominguez Presses vs. Caruana In Accurate Opening Round"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
-         "pubDate" : "Tue, 21 Nov 2023 20:00:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "The German team won 2&frac12;:1&frac12; against Croatia in the final round, but it was not enough to win gold. Serbia had a slightly better tiebreak score after beating Greece. Bulgaria took the title in the women's tournament, with Azerbaijan and France also reaching the podium. | Photo: European Chess Union",
@@ -400,14 +432,6 @@ news_feed (
          "link" : "https://www.europechess.org/two-rounds-to-go-at-the-european-team-chess-championship-2023-in-budva/",
          "pubDate" : "Sun, 19 Nov 2023 07:40:01",
          "title" : "Two rounds to go at the European Team Chess Championship 2023 in Budva"
-      },
-      {
-         "description" : "Fabiano Caruana became the 2023 Saint Louis Rapid & Blitz champion after a dramatic final day of blitz, which came down to a winner-take-all last round game against Maxime Vachier-Lagrave. Caruana ended with 21/36 points, Vachier-Lagrave finished second with 20.5, while Ian Nepomniachtchi and Le Quang Liem tied for third place with 20 points each. | Photo courtesy of Saint Louis Chess Club, Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-5-caruana-wins",
-         "pubDate" : "Sun, 19 Nov 2023 02:35:00",
-         "title" : "Caruana barely outscores MVL, wins Saint Louis Rapid and Blitz"
       },
       {
          "description" : "World number-one Magnus Carlsen escaped with just two minor pieces against Danish GM Jonas Bjerre&#39;s queen to help struggling Norway to a second win in a row, while top-seed Azerbaijan is in freefall, symbolized by GM Teimour Radjabov losing in 19 ...",
@@ -802,14 +826,6 @@ news_feed (
          "title" : "AICF Pledges financial assistance of 2 crores INR (USD 240459) for Praggnandhaaa, Vidit, and Vaishali, Setting the Stage for Chess History"
       },
       {
-         "description" : "The All-India Chess Federation (AICF) has announced a massive financial boost to Indian stars GM Vidit Gujrathi, GM Praggnanandhaa Rameshbabu, and IM Vaishali Rameshbabu as they prepare for the journey towards the World Championship title in April...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/india-makes-world-chess-champion-move-with-240k-assistance",
-         "pubDate" : "Tue, 14 Nov 2023 10:38:00",
-         "title" : "India Makes World Championship Move With $240K To Vidit, Praggnanandhaa, Vaishali"
-      },
-      {
          "description" : "The third round of the European Team Chess Championship 2023 was played yesterday in Budva, Montenegro, and both Open and Women's sections got two leaders with perfect score. Poland and Germany are co-leading the Open championship, while Azerbaijan and France emerged as the leaders of the Women's event scoring 6 match points, each. Ranked 3rd on the starting list, Germany was a favourite in the match against Serbia, and after tight fights claimed a narrow 2.5-1.5 victory. GM Matthias Bluebaum []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -880,14 +896,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-a-legend",
          "pubDate" : "Sun, 12 Nov 2023 07:45:00",
          "title" : "Interview with a legend"
-      },
-      {
-         "description" : "The European Team Chess Championship 2023 kicked off today with the first round in Hotel Splendid, Budva, Montenegro. ECU President Mr. Zurab Azmaiparashvili made the first ceremonial move on the top Women's match between Georgia and Israel. Azmaiparashvili played 1.d4 for GM Nino Batsiashvili (GEO, 2487) who played against IM Marsel Efroimski (ISR, 2448). ECU Honorary Vice President and Vice President of the Montenegro Chess Federation Mr. Veselin Draskovic played the first ceremonial move in the game between GM Magnus []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2023-kicked-off-with-round-1/",
-         "pubDate" : "Sun, 12 Nov 2023 07:33:45",
-         "title" : "European Team Chess Championship 2023 kicked off with Round 1"
       },
       {
          "description" : "",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2714",
          "pubDate" : "Thu, 02 Nov 2023 00:18:57",
          "title" : "Nakamura invokes Fischer's spirit in Round 7 of FIDE Grand Swiss"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2713",
-         "pubDate" : "Wed, 01 Nov 2023 16:45:20",
-         "title" : "FIDE Infinite Chess project for children with ASD keeps growing"
       }
    ]
 }
