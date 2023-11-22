@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Every now and then, Svitlana talks about a new opening. This time, it is the suspicious Budapest Gambit. To Arne's disappointment - if you play the opening correctly, some variants seem to move to a very calm middle- and endgame, rather than setting the board on fire. It might be interesting to get to know the Gambit a bit better because it is actually quite sound.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-budapest-gambit",
+         "pubDate" : "Wed, 22 Nov 2023 16:00:00",
+         "title" : "Svitlana's Smart Moves - The Budapest Gambit"
+      },
+      {
          "description" : "U18 Open: India had a poor day in terms of the results of the 8th Round of the World Youth Chess Championship here in Motesilvano,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "Round 8 report of World Youth Chess Championship, Italy 2023"
       },
       {
-         "description" : "Playing against Fritz is enjoyable because the program incorporates hidden errors. There always could be a tactical strike against it. However, Fritz 19 adds a new exciting dimension to your games: The hunt for \"achievements\". There's a competition for 136 different chess achievements, testing your tactical and strategic versatility. And there are rewards for it too.",
+         "description" : "Playing against Fritz is enjoyable because the program incorporates hidden errors. There could always be a tactical strike against it. However, Fritz 19 adds a new exciting dimension to your games: The hunt for \"achievements\". There's a competition for 136 different chess achievements, testing your tactical and strategic versatility. And there are rewards for it too.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/achievements-in-fritz-19",
          "pubDate" : "Wed, 22 Nov 2023 08:13:05",
          "title" : "The Exciting World of Achievements in Fritz 19"
+      },
+      {
+         "description" : "GM Magnus Carlsen won the early Titled Tuesday tournament on November 21 with a 10.5/11 score and then led the late event with one round to go, but GM Liem Le would end up catching him and winning on tiebreaks. It was Le&#39;s third Titled Tuesday win...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-le-win-titled-tuesday-november-21-2023",
+         "pubDate" : "Wed, 22 Nov 2023 07:57:01",
+         "title" : "Carlsen Nearly Perfect, Nearly Sweeps"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Anastasiya Karlovich after a draw against Giri in the first round of the 2023 Sinquefield Cup. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-anish-can-play-anything-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/r0ZvU_BPQOg.jpg?itok=6B86JGNn\" alt=\"\" /></a></div>",
@@ -392,14 +408,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-day-5-caruana-wins",
          "pubDate" : "Sun, 19 Nov 2023 02:35:00",
          "title" : "Caruana barely outscores MVL, wins Saint Louis Rapid and Blitz"
-      },
-      {
-         "description" : "The final game is upon us, and Polina Karelina has to win against the timid mouse character. If not, Fritz 19 won the battle against the humans, since the engine leads with 3:2. The Woman Candidate Master of the Bahamas has a FIDE rating of 1839, but is brave enough to fight the strong club player level! Luckily, the cowardly opponent is the weakest animal of Fritz 19. But on this difficulty level, it is a mighty mouse!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/polina-karelina-vs-fritz-19-the-timid-strong-club-player",
-         "pubDate" : "Sat, 18 Nov 2023 21:31:08",
-         "title" : "Polina Karelina vs. Fritz 19 - The Timid (Strong Club Player)"
       },
       {
          "description" : "World number-one Magnus Carlsen escaped with just two minor pieces against Danish GM Jonas Bjerre&#39;s queen to help struggling Norway to a second win in a row, while top-seed Azerbaijan is in freefall, symbolized by GM Teimour Radjabov losing in 19 ...",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://www.europechess.org/etcc2023-poland-and-germany-lead-in-the-open-section-azerbaijan-and-france-co-leading-the-womens-event/",
          "pubDate" : "Tue, 14 Nov 2023 08:19:11",
          "title" : "#ETCC2023 - Poland and Germany lead in the Open section, Azerbaijan and France co-leading the Women's event"
-      },
-      {
-         "description" : "It&#38;rsquo;s nearly time&#38;mdash;the most electrifying team event in chess, the worldwide Pro Chess League (PCL), has been confirmed for 2024. Chess.com revealed on Tuesday that the new season will kick off in February with 16 franchises going head-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pro-chess-league-2024-biggest-prize-fund-yet",
-         "pubDate" : "Tue, 14 Nov 2023 05:54:00",
-         "title" : "Pro Chess League 2024: Teams Gear Up To Fight For Biggest Prize Fund Yet"
       },
       {
          "description" : "",
