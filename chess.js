@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Playing against Fritz is enjoyable because the program incorporates hidden errors. There always could be a tactical strike against it. However, Fritz 19 adds a new exciting dimension to your games: The hunt for \"achievements\". There's a competition for 136 different chess achievements, testing your tactical and strategic versatility. And there are rewards for it too.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/achievements-in-fritz-19",
+         "pubDate" : "Wed, 22 Nov 2023 08:13:05",
+         "title" : "The Exciting World of Achievements in Fritz 19"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jan-Krzysztof Duda talks to Anastasiya Karlovich after a draw against Giri in the first round of the 2023 Sinquefield Cup. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/duda-anish-can-play-anything-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/r0ZvU_BPQOg.jpg?itok=6B86JGNn\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/duda-anish-can-play-anything-r1-sinquefieldcup",
+         "pubDate" : "Wed, 22 Nov 2023 04:52:58",
+         "title" : "Duda: Anish Can Play Anything | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich after a draw against Vachier-Lagrave in the first round of the 2023 Sinquefield Cup. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-mvl-doesn%E2%80%99t-settle-boring-games-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VebdhmZ-C4w.jpg?itok=2swKO1RS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-mvl-doesn%E2%80%99t-settle-boring-games-r1-sinquefieldcup",
+         "pubDate" : "Wed, 22 Nov 2023 04:52:58",
+         "title" : "Aronian: MVL Doesn't Settle for Boring Games | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich before the start of the 2023 Grand Chess Tour events in Saint Louis. This aired during Round 1. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-i-started-playing-chess-when-magnus-became-champion-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/s69IWtpP068.jpg?itok=x1wMytKy\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-i-started-playing-chess-when-magnus-became-champion-sinquefieldcup",
+         "pubDate" : "Wed, 22 Nov 2023 04:52:58",
+         "title" : "Firouzja: I Started Playing Chess When Magnus Became Champion | #SinquefieldCup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich after a draw against Wesley So in the first round of the 2023 Sinquefield Cup. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-switching-%E2%80%98classical-mode%E2%80%99-my-brain-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Tyb6fanIZOE.jpg?itok=z3dIIbdN\" alt=\"\" /></a><",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,7 +50,7 @@ news_feed (
          "title" : "Wesley So's Plan: Show Up And Play a Good Game | R1 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.22<br /> GrandChessTour.org ROUND 2 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> TB Entered </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hr",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-2-grandchesstour\"><img src=\"https://saintlouisches",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-2-grandchesstour",
@@ -86,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-1",
-         "pubDate" : "Tue, 21 Nov 2023 20:16:05",
+         "pubDate" : "Tue, 21 Nov 2023 20:16:00",
          "title" : "Dominguez Presses vs. Caruana In Accurate Opening Round"
       },
       {
@@ -168,30 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/belgian-im-handed-1-year-ban-after-refusing-metal-detector-scan",
          "pubDate" : "Tue, 21 Nov 2023 11:18:00",
          "title" : "Belgian IM Handed 1-Year FIDE Ban After Refusing Body Scan"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich before the start of the 2023 Saint Louis Rapid &amp; Blitz. This aired during Day 5. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-thanksgiving-not-about-black-friday-sales-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/odTekR2UBEA.jpg?itok=DaDqvm7Y\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-thanksgiving-not-about-black-friday-sales-stlrapidblitz",
-         "pubDate" : "Tue, 21 Nov 2023 10:52:34",
-         "title" : "MVL: Thanksgiving is Not About Black Friday Sales | #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In the 18th and final blitz round of the 2023 Saint Louis Rapid &amp; Blitz, the two leaders (and the only two players who could still win) were paired together. Fabiano Caruana (20.5) had White against Maxime Vachier-Lagrave (20). A draw would clinch for Fabi; MVL needed to win. 2023.11.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/championship-game-caruana-vs-mvl-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/defau",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/championship-game-caruana-vs-mvl-d5-stlrapidblitz",
-         "pubDate" : "Tue, 21 Nov 2023 10:52:34",
-         "title" : "Championship Game: Caruana vs. MVL | D5 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana is presented with the Saint Louis Rapid &amp; Blitz trophy by Chess Club Executive Director Tony Rich after winning the 2023 event. Despite what was verbalized, it is not the Sinquefield Cup trophy. 2023.11.18<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana%E2%80%99s-trophy-presentation-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_emb",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana%E2%80%99s-trophy-presentation-d5-stlrapidblitz",
-         "pubDate" : "Tue, 21 Nov 2023 10:52:34",
-         "title" : "Fabiano Caruana's Trophy Presentation | D5 #STLRapidBlitz"
       },
       {
          "description" : "36th National Under-09 Open &#38; Girls Chess Championship 2023 certificates are out to download. Open : https://aicf.online/National-09.html Girls : https://aicf.online/National-09-G.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -408,14 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2023-preview",
          "pubDate" : "Sat, 18 Nov 2023 18:35:00",
          "title" : "The London Chess Classic is back!"
-      },
-      {
-         "description" : "The St. Louis Rapid & Blitz started on Monday at the Saint Louis Chess Centre. Three rounds of rapid chess will be played over three days. The local starting times of the rounds: 13:00 (19:00 CET), 14:30 (20:30 CET), 16:00 (22:00 CET). Broadcast with a 15-minute delay. With the videos and commentaries from the Saint Louis Chess Centre. | Graphics and photos: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/saint-louis-rapid-blitz-live-3",
-         "pubDate" : "Sat, 18 Nov 2023 18:30:00",
-         "title" : "Saint Louis Rapid & Blitz, Day 5: Live"
       },
       {
          "description" : "GM Fabiano Caruana won the 2023 Saint Louis Rapid &#38;amp; Blitz by half a point after securing a draw with second-placed GM Maxime Vachier-Lagrave in the final round. Caruana&#39;s 6/9 score on Saturday allowed him to overtake Vachier-Lagrave, whose 3.5...",
@@ -1336,14 +1336,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/two-new-director-appointments/",
          "pubDate" : "Wed, 01 Nov 2023 09:57:23",
          "title" : "Two new Director appointments"
-      },
-      {
-         "description" : "India is on its way to becoming the biggest super-power in chess. Some of the credit goes to ChessBase India, which has organized a large number of projects to foster this development. CEO Sagar Shah is now on a mission to make chess a subject of the regular school curriculum, not just to generate further champions, but to foster the social and learning skills of students. Currently he is holding a seminar on how to implement chess in schools across entire states. Here are his talking points.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-schools",
-         "pubDate" : "Wed, 01 Nov 2023 07:51:43",
-         "title" : "Chess in Schools"
       }
    ]
 }
