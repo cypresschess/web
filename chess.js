@@ -50,6 +50,14 @@ news_feed (
          "title" : "2023 Sinquefield Cup: Round 4 | #GrandChessTour"
       },
       {
+         "description" : "GMs Ian Nepomniachtchi and Fabiano Caruana came the closest to scoring the first victories of the Sinquefield Cup 2023 on Wednesday. In his usual confident, fast-paced playing style, Nepomniachtchi pressed with an extra pawn for over five hours vs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-2",
+         "pubDate" : "Wed, 22 Nov 2023 20:51:00",
+         "title" : "Missed Wins For Nepomniachtchi, Caruana"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2739",
          "pubDate" : "Tue, 14 Nov 2023 11:09:17",
          "title" : "FIDE Director for Chess Development visits Namibia"
-      },
-      {
-         "description" : "GM Kateryna Lagno moves on to the Julius Baer Women&#39;s Speed Chess Championship 2023 Semifinals after defeating WGM Priyanka Nutakki 17.5-4.5. She will play GM Harika Dronavalli in the Semifinals on Friday. Priyanka got off to a fantastic start b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-lagno-wins",
-         "pubDate" : "Tue, 14 Nov 2023 11:06:00",
-         "title" : "Lagno Clinches With Double-Digit Margin, Advances To Semifinals"
       },
       {
          "description" : "New Delhi, 13th November, 2023 - The All India Chess Federation (AICF) is embarking on a historic journey to propel Indian chess to unprecedented heights.",
