@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
+         "pubDate" : "Thu, 23 Nov 2023 20:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "Only eight players took part in the second round of the Sinquefield Cup. Jan-Krzysztof Duda called in sick, which meant his opponent, Richard Rapport, was forced to take a break. All round-2 games ended in draws. In contrast to the first day of play, however, fighting games were seen almost on all four boards. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,7 +154,7 @@ news_feed (
          "title" : "Hou Yifan wins second WSCC title"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (players below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.23<br /> GrandChessTour.org ROUND 3 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Maxime Vachier-Lagrave<br /> (1) vs. Fabiano Caruana<br /> (1) Levon Aronian<br /> (1)<br /> vs. Ian Nepomniachtchi </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (players below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.23<br /> GrandChessTour.org ROUND 3 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Maxime Vachier-Lagrave<br /> (1) vs. Fabiano Caruana<br /> (1) </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-3-grandchesstour",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championship-2023-live",
          "pubDate" : "Mon, 20 Nov 2023 14:50:00",
          "title" : "European Team Championship - Live!"
-      },
-      {
-         "description" : "With one round to go in Budva, Germany and Serbia are sharing the lead in the open section of the European Team Championship. On the penultimate day of play, Germany beat France thanks to a win by Rasmus Svane, while Serbia defeated England thanks to a win by Velimir Ivic. In the women's championship, Bulgaria kept the sole lead by beating Poland by a 2&frac12;-1&frac12; score. Azerbaijan defeated Greece to go into the last round a match point behind the leaders. | Photo: Paul Meyer-Dunker",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r8",
-         "pubDate" : "Mon, 20 Nov 2023 14:00:00",
-         "title" : "Euro Teams: Germany and Serbia share the lead"
       },
       {
          "description" : "Tenth-seed Serbia has won the 2023 European Team Chess Championship after finishing a single tiebreak point ahead of Germany, which took silver despite remaining unbeaten and winning their head-to-head clash. Team chess specialists Armenia took br...",
@@ -1288,30 +1288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/coming-soon-fritz-19-world-chess-software-champion",
          "pubDate" : "Thu, 02 Nov 2023 21:00:00",
          "title" : "Coming soon: Fritz 19 World Chess Software Champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2715",
-         "pubDate" : "Thu, 02 Nov 2023 19:03:10",
-         "title" : "FIDE World Amateur Championship 2023 kicks off in Muscat, Oman"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2717",
-         "pubDate" : "Thu, 02 Nov 2023 17:48:06",
-         "title" : "FIDE November 2023 rating list published"
-      },
-      {
-         "description" : "The ECF offers its hearty congratulations to WCM Bodhana Sivanandan, the new World Cadets U8 Girls Champion for 2023. Bodhana is the first English player...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congratulations-bodhana-3/",
-         "pubDate" : "Thu, 02 Nov 2023 17:08:54",
-         "title" : "Congratulations Bodhana!"
       }
    ]
 }
