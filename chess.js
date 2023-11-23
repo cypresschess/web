@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week, the European Bank for Reconstruction and Development (EBRD) held a charity event in London in aid of the Kids and Art of Ukraine initiative. Ketevan Arakhamia-Grant played a match against FM Miguel Senlle Caride and then gave a simul. | Photo: GM Ketevan starting the simultaneous against the oldest opponent in the room | Photos: EBRD",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/charity-chess-to-support-the-kids-and-art-of-ukraine-initiative",
+         "pubDate" : "Thu, 23 Nov 2023 12:58:04",
+         "title" : "Charity chess to support the Kids and Art of Ukraine initiative"
+      },
+      {
+         "description" : "The ChessBase Magazine offers many advantages. When he got hold of the latest issue of the magazine - #216 - Davide Nastasio was happy about the wealth of chess content CBM offers, but he was also happy about the other advantages of the magazine. In his review he reveals why.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-magazine-216-a-review",
+         "pubDate" : "Thu, 23 Nov 2023 11:55:31",
+         "title" : "ChessBase Magazine 216 - a review"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2758",
+         "pubDate" : "Thu, 23 Nov 2023 11:11:57",
+         "title" : "FIDE Decision on Transfer Regulations for Players"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2757",
+         "pubDate" : "Thu, 23 Nov 2023 10:19:30",
+         "title" : "2023 Sinquefield Cup: Day 2 Recap"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Music Director Brian Owens talks to the team during the second round of the 2023 Sinquefield Cup. 2023.11.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brian-owens-why-wchof-music-series-special-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LDS-jIbe4yQ.jpg?itok=7WMmhYza\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -400,22 +432,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html",
          "pubDate" : "Sun, 19 Nov 2023 16:06:00",
          "title" : "AI Chess Comics"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 152nd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to look at the legacy of Max Euwe. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-151-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 19 Nov 2023 15:00:00",
-         "title" : "Understanding before Moving 152: Chess history in a nutshell (34)"
-      },
-      {
-         "description" : "The round-7 clash of co-leaders between England and Germany ended drawn in the open section of the European Team Championship, which allowed Serbia to join them in the lead thanks to a 2&frac12;-1&frac12; victory over Romania - Alexey Sarana beat Bogdan-Daniel Deac in the one decisive game of the match. Meanwhile, Bulgaria grabbed the sole lead in the women's section, as they inflicted France's first loss of the event. | Pictured: Serbia's Alexandr Predke | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r7",
-         "pubDate" : "Sun, 19 Nov 2023 14:20:00",
-         "title" : "Euro Teams: Serbia beat Romania to join the lead"
       },
       {
          "description" : " IM Junta Ikeda has won the 2023 Vikings Weekender with a score of 4.5/5. He defeated Roger Farrell in the final round to grab outright 1st, and relegate Farrell into a tie for 3rd place. Harry Press had a chance to catch Ikeda with a final round win over FM Fred Litchfield, but a tough round 4 draw against Farrell made it difficult to lift for a final round win. Instead the game was drawn, which was enough for Press to take outright 2nd on 4. Third place was shared between Farrell, Litchfield and Willis Lo, who won his final round game to finish in the prize money. The Minor (Under 1600) was won by Masaki Horikawa on 4.5/5. He defeated Shriya Karthik on the top board, who went into the fina",
