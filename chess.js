@@ -18,6 +18,14 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (players below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.23<br /> GrandChessTour.org ROUND 3 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Richard Rapport vs. Alireza Firouzja<br /> Maxime Vachier-Lagrave vs. Fabiano Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-3-grandchesstour",
+         "pubDate" : "Wed, 22 Nov 2023 19:53:20",
+         "title" : "2023 Sinquefield Cup: Round 3 | #GrandChessTour"
+      },
+      {
          "description" : "Balanced, well-played games were seen on all five boards in the first round of the Sinquefield Cup. Leinier Dominguez was the one closest to getting a win on Tuesday, as he put pressure on top seed Fabiano Caruana with the black pieces. In the fight for the Candidates spots still up for grabs, a crucial encounter will be seen in round 2, when Alireza Firouzja will have the white pieces against Anish Giri. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/giri-i%E2%80%99m-social-media-influencer-doing-my-thing-sinquefieldcup",
          "pubDate" : "Tue, 21 Nov 2023 22:52:48",
          "title" : "Giri: I'm A Social Media Influencer, Doing My Thing | #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Executive Director Tony Rich talks to the team during the first round of the 2023 Sinquefield Cup. 2023.11.21<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tony-rich-spectators-return-2025-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/clL3R82KoBs.jpg?itok=dh9XINMg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tony-rich-spectators-return-2025-r1-sinquefieldcup",
-         "pubDate" : "Tue, 21 Nov 2023 22:52:48",
-         "title" : "Tony Rich: Spectators to Return in 2025 | R1 #SinquefieldCup"
       },
       {
          "description" : "",
@@ -1296,14 +1296,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/two-weeks-left-to-enter-the-nscc-girls-northern-semi-final/",
          "pubDate" : "Thu, 02 Nov 2023 14:23:45",
          "title" : "NSCC Girls Northern Semi-Final - event cancelled"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2714",
-         "pubDate" : "Thu, 02 Nov 2023 00:18:57",
-         "title" : "Nakamura invokes Fischer's spirit in Round 7 of FIDE Grand Swiss"
       }
    ]
 }
