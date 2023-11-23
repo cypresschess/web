@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Only eight players took part in the second round of the Sinquefield Cup. Jan-Krzysztof Duda called in sick, which meant his opponent, Richard Rapport, was forced to take a break. All round-2 games ended in draws. In contrast to the first day of play, however, fighting games were seen almost on all four boards. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r2",
+         "pubDate" : "Thu, 23 Nov 2023 16:10:00",
+         "title" : "Sinquefield Cup: Fighting draws, Duda's game postponed"
+      },
+      {
+         "description" : "Players who earn trophies in Fritz 19 are rewarded with digital collectible cards. These cards cover a variety of chess themes: World Champions, famous players, major tournaments, training materials, chess stamps, chess art, and rating lists. A series on famous chess books is currently in development. What's exciting is that cards can be traded on a market or offered in exchange for ducats.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Collecting-Excitement-with-cards-chessbase-com",
+         "pubDate" : "Thu, 23 Nov 2023 15:23:59",
+         "title" : "Collecting excitement at cards.chessbase.com"
+      },
+      {
+         "description" : "Following months of absence after winning his first world title in April 2023, World Champion Ding Liren (China) will make his return to global chess in January at the 86th Tata Steel Chess Tournament in Wijk aan Zee. He is one of the big names in the total field of participants, which consists of fourteen Masters and fourteen Challengers. The Women's World Champion Ju Wenjun (also from China) and Junior World Champion Marc'Andria Maurizzi (France) are also present. Naturally, Anish Giri defends his title. | Photos: Juriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/three-world-champions-at-tata-steel-chess-tournament-2024",
+         "pubDate" : "Thu, 23 Nov 2023 14:43:44",
+         "title" : "Three world champions at Tata Steel Chess Tournament 2024"
+      },
+      {
+         "description" : "Had he followed in the footsteps of his uncle of the same name, Tamaz Georgadze would be a chess grandmaster today. He learned chess at the age of four and was a high-flyer in other respects too. But the talented chess player chose a different path and is now one of Germany's biggest fintech talents with his company Raisin DS. The German magazine \"Finanzbusiness\" has published a portrait of him.| Photo: Lukas Schramm",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/from-chess-talent-to-financial-expert",
+         "pubDate" : "Thu, 23 Nov 2023 13:30:00",
+         "title" : "From chess talent to financial expert"
+      },
+      {
          "description" : "Last week, the European Bank for Reconstruction and Development (EBRD) held a charity event in London in aid of the Kids and Art of Ukraine initiative. Ketevan Arakhamia-Grant played a match against FM Miguel Senlle Caride and then gave a simul. | Photo: GM Ketevan starting the simultaneous against the oldest opponent in the room | Photos: EBRD",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/charity-chess-to-support-the-kids-and-art-of-ukraine-initiative",
          "pubDate" : "Thu, 23 Nov 2023 12:58:04",
          "title" : "Charity chess to support the Kids and Art of Ukraine initiative"
+      },
+      {
+         "description" : " The concept of long term advantages is sometimes difficult to explain to new players. They always want to be \"doing something\" with their pieces, rather than build an advantage, and then lower the boom. Even simple concepts such as occupying the centre fall by the wayside, as there isn't an immediate payoff. I've occasionally used the following game as an example, but the normal response is \"didn't he just keep losing material\". Well of course, but in part, it was because my position was better to start with. <br /> <b>Press,S - Yusof,A [D90]</b><br /> 34th Olympiad Istanbul TUR (7), 04.11.2000 <script> new PgnViewer( { boardName: \"game1428\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/the-big-centre.html",
+         "pubDate" : "Thu, 23 Nov 2023 12:36:00",
+         "title" : "The Big Centre"
       },
       {
          "description" : "The ChessBase Magazine offers many advantages. When he got hold of the latest issue of the magazine - #216 - Davide Nastasio was happy about the wealth of chess content CBM offers, but he was also happy about the other advantages of the magazine. In his review he reveals why.",
@@ -32,6 +72,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2757",
          "pubDate" : "Thu, 23 Nov 2023 10:19:30",
          "title" : "2023 Sinquefield Cup: Day 2 Recap"
+      },
+      {
+         "description" : "World Champion GM Ding Liren will make his return to the global chess stage in Wijk aan Zee, while the former champion and eight-time Tata Steel Chess winner GM Magnus Carlsen is missing for the first time since 2014. The lineups have been annou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/world-champion-ding-returns-as-2024-tata-steel-chess-field-is-confirmed",
+         "pubDate" : "Thu, 23 Nov 2023 05:55:00",
+         "title" : "2024 Tata Steel Chess: World Champion Ding Returns, Carlsen Missing"
       },
       {
          "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Music Director Brian Owens talks to the team during the second round of the 2023 Sinquefield Cup. 2023.11.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brian-owens-why-wchof-music-series-special-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LDS-jIbe4yQ.jpg?itok=7WMmhYza\" alt=\"\" /></a></div>",
@@ -98,14 +146,6 @@ news_feed (
          "title" : "Hou Yifan wins second WSCC title"
       },
       {
-         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
-         "pubDate" : "Wed, 22 Nov 2023 20:00:00",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (players below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.23<br /> GrandChessTour.org ROUND 3 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Maxime Vachier-Lagrave<br /> (1) vs. Fabiano Caruana<br /> (1) Levon Aronian<br /> (1)<br /> vs. Ian Nepomniachtchi </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -159,7 +199,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/achievements-in-fritz-19",
          "pubDate" : "Wed, 22 Nov 2023 08:13:05",
-         "title" : "The Exciting World of Achievements in Fritz 19"
+         "title" : "The exciting world of achievements in Fritz 19"
       },
       {
          "description" : "GM Magnus Carlsen won the early Titled Tuesday tournament on November 21 with a 10.5/11 score and then led the late event with one round to go, but GM Liem Le would end up catching him and winning on tiebreaks. It was Le&#39;s third Titled Tuesday win...",
@@ -319,7 +359,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/acif-announces-assistance-to-vidit-pragg-and-vaishali",
          "pubDate" : "Tue, 21 Nov 2023 07:39:17",
-         "title" : "ACIF announces assistance to Vidit, Pragg and Vaishali"
+         "title" : "AICF announces assistance to Vidit, Pragg and Vaishali"
       },
       {
          "description" : " The 24th European Team Chess Championship took place in Budva, Montenegro 11th to 21st November 2023. The biennial event has 38 teams, Azerbaijan, Romania, Germany, England and Armenia are the top seed. Leading players including Magnus Carlsen, Richard Rapport, Teimour Radjabov, Shakhriyar Mamedyarov, Vincent Keymer, Nikita Vitiugov (now playing for England), Haik M. Martirosyan, Bogdan-Daniel Deac,, Jorden Van Foreest and David Navrara. 32 Nations headed by Georgia, Azerbaijan and Germany competed in the women's event alongside. 10th seeded Serbia beat England in Round 8 and then Greece in the final Round to take the title ahead of Germany by a single board on board count. Armenia beat Eng",
@@ -370,14 +410,6 @@ news_feed (
          "title" : "Serbia, Bulgaria Triumph; Carlsen Takes Gold On Board 1"
       },
       {
-         "description" : "For the Fritz 19 launch, we let six different players, ranging from elo 1839 up to 2614, battle the six engine player characters. Twice, the computer escaped with extraordinary swindle tactics, causing a stalemate for Elisabeth Paehtz, and Jan Jettel! The engine showed us beautiful tactical moves, to decide the outcome against Leon Mendonca, and Svitlana Demchenko. The two human victories were determined through hard fights in endgames, by Robert Ris, and Polina Karelina. Overall, the experiment was a success: We wanted fun, and entertaining games, and we got them. Now, it is your turn!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/we-would-love-to-see-your-fritz-19-games",
-         "pubDate" : "Mon, 20 Nov 2023 12:00:00",
-         "title" : "We would love to see your Fritz 19 games!"
-      },
-      {
          "description" : "The European Team Chess Championship 2023 is getting closer to its end, and the last round is scheduled for today at 15:00 CET. Serbia and Germany co-lead in the Open section scoring 13 match points each, while Bulgaria scores 14 match points in the Women's section to be the sole leader of the Women's event. Playing on the top board of the Open section, Serbia once again surprised and defeated one of the favourites for the top England. GM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -402,28 +434,12 @@ news_feed (
          "title" : "The Race To Toronto: Who Will Qualify For The Candidates Tournament?"
       },
       {
-         "description" : "In the recent European National Teams Championship 2023, which is under way in the town of Budva (Montenegro), a delightful miniature was played in the sixth round. It was a sensation in the match Greece-Azerbaijan, where the white player was 126 rating points lower than his opponent, who defeated a player famous for his stubborn defensive skills! It is definitely worthwhile to follow the instructive commentary of GM Efstratios Grivas.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-a-delightful-miniature",
-         "pubDate" : "Mon, 20 Nov 2023 07:20:43",
-         "title" : "Grivas - A delightful Miniature"
-      },
-      {
          "description" : "Saint Louis University (SLU) has won its second straight college title after dismantling the University of Texas at Dallas (UT Dallas) by an 11.5-4.5 margin in the Final of the 2023 Collegiate Chess League (CCL) fall season. A 3.5/4 MVP performa...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-slu-wins",
          "pubDate" : "Mon, 20 Nov 2023 02:01:00",
          "title" : "Saint Louis University Dominate Collegiate Chess League Final"
-      },
-      {
-         "description" : "This week, I'm looking at calculation and what's reasonable for a mere human being without excessive genuflection to our silicon lords and masters. One thing that the silicon brings us is a totally unprejudiced \"eye\", but seeing far enough in difficult positions over the board is something any competitive player needs to develop properly. | Pictured: Vidit Gujrathi | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-206",
-         "pubDate" : "Sun, 19 Nov 2023 20:00:00",
-         "title" : "Jon Speelman: Calculation without excessive genuflection"
       },
       {
          "description" : "I was starting to wonder if we were ever going to see more 'AI generated chess images' in the monthly featured Flickr post. The previous post featuring such images was <A HREF=\"https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html\">Karpov and Kasparov Play Chess in Iceland</A> (March 2023). Forget chess images; a giant leap forward is 'AI generated chess comics'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk19.jpg\" WIDTH=400 HEIGHT=283><BR> <A HREF=\"https://www.flickr.com/photos/schockwellenreiter/53325373038/\">Alice and the Chess Queen 5</A> &#169; Flickr user <I>Joerg Kantel</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-nd/2",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/magnus-and-hikaru-final-battle-champions-chess-tour-finals-2023",
          "pubDate" : "Wed, 15 Nov 2023 07:08:18",
          "title" : "Magnus And Hikaru Face Final Battle: Stage Set For New Over The Board Champions Chess Tour Finals 2023 In Toronto"
-      },
-      {
-         "description" : "Clinical wins over GMs Wesley So and Jeffery Xiong have left GM Le Quang Liem in the sole lead on 5/6 at the 2023 Saint Louis Rapid &#38;amp; Blitz after the first day of play. The start would have been a perfect 6/6 if not for a mistake that cost him...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-1",
-         "pubDate" : "Tue, 14 Nov 2023 19:47:00",
-         "title" : "Le Takes Lead As Saint Louis Rapid & Blitz Begins With A Bang"
       },
       {
          "description" : " The Saint Louis Rapid & Blitz took place 14th to 19th November 2023. \"Fabiano Caruana became the 2023 Saint Louis Rapid & Blitz champion after a dramatic final day of blitz, which came down to a winner-take-all last round game against Maxime Vachier-Lagrave. Caruana ended with 21/36 points, Vachier-Lagrave finished second with 20.5, while Ian Nepomniachtchi and Le Quang Liem tied for third place with 20.\" \"Earning 13 GCT points for the tournament victory, Caruana is now extremely close to clinching the overall 2023 Grand Chess Tour.\" Ray Robson was the surprise winner of the rapid with 5.5/9. Caruana, Le Quang Liem and Ian Nepomniachtchi scored 11/18 in the blitz. ",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/congratulations-bodhana-3/",
          "pubDate" : "Thu, 02 Nov 2023 17:08:54",
          "title" : "Congratulations Bodhana!"
-      },
-      {
-         "description" : "Please note this event has been cancelled ",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/two-weeks-left-to-enter-the-nscc-girls-northern-semi-final/",
-         "pubDate" : "Thu, 02 Nov 2023 14:23:45",
-         "title" : "NSCC Girls Northern Semi-Final - event cancelled"
       }
    ]
 }
