@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At first glance, Fritz 19 is all about fun, with its quirky opponents and trophies. But there's also highly useful new functionality for serious opening training. Now, any database, opening article, or your own opening analysis can be loaded directly as an opening book to play against.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mastering-openings-using-fritz19",
+         "pubDate" : "Fri, 24 Nov 2023 12:07:42",
+         "title" : "Mastering openings using Fritz 19"
+      },
+      {
+         "description" : "U-18 Open &#160;&#160; IM PRANEETH Vappula &#160;after losing&#160; first and fourth round , scored five successive victories to catapult into &#160;joint&#160; third position (7 points).",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-9-reports-of-the-world-youth-chess-championship-italy-2023/",
+         "pubDate" : "Fri, 24 Nov 2023 12:03:45",
+         "title" : "ROUND# 9 Reports of the World Youth Chess Championship ,Italy 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2760",
+         "pubDate" : "Fri, 24 Nov 2023 11:41:34",
+         "title" : "Workshop on broadcasting tournaments using VAR took place in Montesilvano"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2759",
+         "pubDate" : "Fri, 24 Nov 2023 10:52:58",
+         "title" : "2023 Sinquefield Cup: Day 3 Recap"
+      },
+      {
+         "description" : "Players who earn trophies in Fritz 19 are rewarded with digital collectible cards. These cards cover a variety of chess themes: World Champions, famous players, major tournaments, training materials, chess stamps, chess art, and rating lists. A series on famous chess books is currently in development. What's exciting is that cards can be traded on a market or offered in exchange for ducats.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Collecting-Excitement-with-cards-chessbase-com",
+         "pubDate" : "Fri, 24 Nov 2023 09:23:59",
+         "title" : "Collecting excitement at cards.chessbase.com"
+      },
+      {
          "description" : "In his Game of the Week show #595, Merijn Van Delft takes a closer look at Alexander Predke's long but instructive win against Vincent Keymer at the European Team Championship 2023. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -70,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-3",
-         "pubDate" : "Fri, 24 Nov 2023 00:00:11",
+         "pubDate" : "Fri, 24 Nov 2023 00:00:00",
          "title" : "Duda Withdraws With Health Issue, No Decisive Results In St. Louis"
       },
       {
@@ -104,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r2",
          "pubDate" : "Thu, 23 Nov 2023 16:10:00",
          "title" : "Sinquefield Cup: Fighting draws, Duda's game postponed"
-      },
-      {
-         "description" : "Players who earn trophies in Fritz 19 are rewarded with digital collectible cards. These cards cover a variety of chess themes: World Champions, famous players, major tournaments, training materials, chess stamps, chess art, and rating lists. A series on famous chess books is currently in development. What's exciting is that cards can be traded on a market or offered in exchange for ducats.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Collecting-Excitement-with-cards-chessbase-com",
-         "pubDate" : "Thu, 23 Nov 2023 15:23:59",
-         "title" : "Collecting excitement at cards.chessbase.com"
       },
       {
          "description" : "Following months of absence after winning his first world title in April 2023, World Champion Ding Liren (China) will make his return to global chess in January at the 86th Tata Steel Chess Tournament in Wijk aan Zee. He is one of the big names in the total field of participants, which consists of fourteen Masters and fourteen Challengers. The Women's World Champion Ju Wenjun (also from China) and Junior World Champion Marc'Andria Maurizzi (France) are also present. Naturally, Anish Giri defends his title. | Photos: Juriaan Hoefsmit",
@@ -400,14 +432,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-wrong-check",
          "pubDate" : "Tue, 21 Nov 2023 09:00:00",
          "title" : "The wrong check"
-      },
-      {
-         "description" : "The FIDE Candidates tournament will be held in April 2024 in Canada. Leading up to this all-important event, one that will determine the World Championship challenger, the All India Chess Federation has announced a financial assistance to Vidit Gujrathi, R. Praggnanandhaa and R.Vaishali to the tune of Rs.20,000,000 (US$240,459). This amount will be used for their training, travel, building a team and much more. It is truly a fantastic move by the National federation to support the Candidates of India!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/acif-announces-assistance-to-vidit-pragg-and-vaishali",
-         "pubDate" : "Tue, 21 Nov 2023 07:39:17",
-         "title" : "AICF announces assistance to Vidit, Pragg and Vaishali"
       },
       {
          "description" : " The 24th European Team Chess Championship took place in Budva, Montenegro 11th to 21st November 2023. The biennial event has 38 teams, Azerbaijan, Romania, Germany, England and Armenia are the top seed. Leading players including Magnus Carlsen, Richard Rapport, Teimour Radjabov, Shakhriyar Mamedyarov, Vincent Keymer, Nikita Vitiugov (now playing for England), Haik M. Martirosyan, Bogdan-Daniel Deac,, Jorden Van Foreest and David Navrara. 32 Nations headed by Georgia, Azerbaijan and Germany competed in the women's event alongside. 10th seeded Serbia beat England in Round 8 and then Greece in the final Round to take the title ahead of Germany by a single board on board count. Armenia beat Eng",
@@ -1026,14 +1050,6 @@ news_feed (
          "title" : "Chess: Adams and Nunn score golden double in world senior championships"
       },
       {
-         "description" : "Advik Amit Agarwal of Maharashtra and Samhita Pungavanam of Telangana crowned as National Under-9 and National Under-9 Girls Chess Champions respectively at Jamshedpur on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/advik-and-samhita-national-under-9-champions/",
-         "pubDate" : "Thu, 09 Nov 2023 14:33:46",
-         "title" : "Advik and Samhita National Under-9 Champions"
-      },
-      {
          "description" : " Short answer - Nowhere Longer answer - overrun with work But best answer - Growing my moustache for Movember. You can donate at <a href=\"https://movember.com/m/shaunpress?mc=1\">https://movember.com/m/shaunpress?mc=1</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1280,14 +1296,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/belconnen-represent.html",
          "pubDate" : "Fri, 03 Nov 2023 12:35:00",
          "title" : "Belconnen represent"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
-         "pubDate" : "Fri, 03 Nov 2023 10:38:10",
-         "title" : "ECF Secondary School Chess News for November 2023"
       }
    ]
 }
