@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 10th Sinquefield Cup takes place Tuesday 21st Nov to Sun 3rd Dec 2023 in Saint Louis. Players: Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, Wesley So, Richard Rapport, Leinier Dominguez Perez, Maxime Vachier-Lagrave and Levon Aronian. After 1 round Jan-Krzysztof Duda withdrew from the event due to ill health, no specifics have been given. All rather unfortunate as this is the second year running this has happened with Carlsen being the one to withdraw last year.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/10th-sinquefield-cup-2023",
+         "pubDate" : "Thu, 23 Nov 2023 20:56:00",
+         "title" : "10th Sinquefield Cup 2023 - Games and Results"
+      },
+      {
+         "description" : " The 86th Tata Steel chess tournament takes place Saturday 13th to Sun 28th Jan 2024 in Wijk aan Zee. Players: Masters: Ding Liren, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, D Gukesh, R Praggnanandhaa, Parham Maghsoodloo, Wei Yi, Nodirbek Abdusattorov, Santosh Gujrathi Vidit, Jorden Van Foreest, Alexander Donchenko, Max Warmerdam and Wenjun Ju. Challengers: Anton Korobov, Hans Moke Niemann, Mustafa Yilmaz, A.R. Saleh Salem, Jaime Santos Latasa, Erwin L'Ami, Leon Luke Mendonca, Daniel Dardha, Marc Andria Maurizzi, Liam Vrolijk, Harika Dronavalli, Stefan Beukema, Deshmukh Divya and Eline Roebers. World Champion Ding Liren who has hardly played after winning the title due to ill health ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024",
+         "pubDate" : "Thu, 23 Nov 2023 20:31:00",
+         "title" : "86th Tata Steel 2024 - Games and Results"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/24th-european-team-chess-championship-2023",
          "pubDate" : "Mon, 20 Nov 2023 20:56:00",
          "title" : "24th European Team Chess Championship 2023 - Games and Results"
-      },
-      {
-         "description" : " The 10th Sinquefield Cup takes place Tuesday 21st Nov to Sun 3rd Dec 2023 in Saint Louis. Players: Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, Wesley So, Richard Rapport, Leinier Dominguez Perez, Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Levon Aronian.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/10th-sinquefield-cup-2023",
-         "pubDate" : "Mon, 20 Nov 2023 20:56:00",
-         "title" : "10th Sinquefield Cup 2023 - Games and Results"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105364249.cms\" />One of the brightest stars of Indian chess, R Praggnanandhaa, is gearing up for the biggest challenge of his career in five months' time when he takes part in the Candidates Chess tournament in Toronto. However, the 18-year-old isn't in a tearing hurry to start preparations for the tournament that will decide the Challenger for the World Chess Championship.",
@@ -1272,22 +1280,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Juniors/schools-news-reports/#new_tab",
          "pubDate" : "Fri, 03 Nov 2023 10:38:10",
          "title" : "ECF Secondary School Chess News for November 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2716",
-         "pubDate" : "Thu, 02 Nov 2023 22:54:43",
-         "title" : "Caruana misses a Tal-like combination, but still wins in Round 8 of FIDE Grand Swiss"
-      },
-      {
-         "description" : "The new Fritz is coming soon - Fritz 19, the World Chess Software Champion 2023, will be available on 14 November and offers a variety of useful tools. It is a good sparring partner, you can improve your openings by playing against (memorising) your opening repertoire, you can do calculation training for a quick Elo boost and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/coming-soon-fritz-19-world-chess-software-champion",
-         "pubDate" : "Thu, 02 Nov 2023 21:00:00",
-         "title" : "Coming soon: Fritz 19 World Chess Software Champion"
       }
    ]
 }
