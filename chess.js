@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "No decisive games have been played in the first three rounds of the Sinquefield Cup, despite players entering fighting lines out of the opening more often than not. In other news, Jan-Krzysztof Duda withdrew from the tournament due to health issues, and his round-1 game will be taken out of consideration for the final standings. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r3",
+         "pubDate" : "Fri, 24 Nov 2023 16:30:00",
+         "title" : "Sinquefield Cup: No decisive games, Rapport and Firouzja make it fun"
+      },
+      {
+         "description" : "In October, the ACO - the Amateur Chess Organisation - held its sixth tournament at the 5-star Hotel Fodele Beach in Crete. More than 160 participants from 24 nations enjoyed pleasant temperatures, ideal tournament conditions and a great social programme.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aco-amateur-world-championship-on-crete",
+         "pubDate" : "Fri, 24 Nov 2023 15:30:00",
+         "title" : "ACO Amateur World Championship on Crete"
+      },
+      {
+         "description" : "This week I have a special gift for you guys. It is 100% free, with no Black Friday Sale strategy. Read until the end of the email to know how to benefit from it. Have you ever looked at a position and thought: \"I have no idea what to do\"? After reading this newsletter, you should be able to find an appropriate plan for every position. On the 3rd of November, I published an article called How To Think During A Chess Game. In it, I focused on two key questions to spot tactical ideas for you...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/find-a-plan-in-any-position/",
+         "pubDate" : "Fri, 24 Nov 2023 14:02:03",
+         "title" : "Find A Plan In Any Position"
+      },
+      {
          "description" : "At first glance, Fritz 19 is all about fun, with its quirky opponents and trophies. But there's also highly useful new functionality for serious opening training. Now, any database, opening article, or your own opening analysis can be loaded directly as an opening book to play against.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,6 +130,14 @@ news_feed (
          "title" : "Caruana: If I Become World Champion, I'll Do Something Crazy | R3 #SinquefieldCup"
       },
       {
+         "description" : "GMs Magnus Carlsen, Hikaru Nakamura, and top players in the 2023 Champions Chess Tour Finals (CCT Finals) next month have been immortalized in a new collection of stunning fan posters made by Displate, Chess.com can reveal. The unique magnet-mou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/displate-brings-legendary-wall-art-to-champions-chess-tour-finals-2023",
+         "pubDate" : "Fri, 24 Nov 2023 04:46:00",
+         "title" : "Capture Your Piece: Displate Brings Legendary Wall Art To Champions Chess Tour Finals 2023"
+      },
+      {
          "description" : "No decisive results were produced for the third round in a row at the 2023 Sinquefield Cup on a day that was headlined by the withdrawal of GM Jan-Krzysztof Duda and an intriguing duel between the imaginative GMs Richard Rapport and Alireza Firouz...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,14 +160,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024",
          "pubDate" : "Thu, 23 Nov 2023 20:31:00",
          "title" : "86th Tata Steel 2024 - Games and Results"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
-         "pubDate" : "Thu, 23 Nov 2023 20:00:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "Only eight players took part in the second round of the Sinquefield Cup. Jan-Krzysztof Duda called in sick, which meant his opponent, Richard Rapport, was forced to take a break. All round-2 games ended in draws. In contrast to the first day of play, however, fighting games were seen almost on all four boards. | Photo: Lennart Ootes",
@@ -424,14 +448,6 @@ news_feed (
          "link" : "https://aicf.in/36th-national-u-09-certificates/",
          "pubDate" : "Tue, 21 Nov 2023 09:24:48",
          "title" : "36th National U-09 Certificates"
-      },
-      {
-         "description" : "In queen endings the better side often tries to find a hiding place for its king while the defending side tries to give checks. In the diagram position Black played 84...Qd6+? and lost. However, Black could have saved the game - how?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-wrong-check",
-         "pubDate" : "Tue, 21 Nov 2023 09:00:00",
-         "title" : "The wrong check"
       },
       {
          "description" : " The 24th European Team Chess Championship took place in Budva, Montenegro 11th to 21st November 2023. The biennial event has 38 teams, Azerbaijan, Romania, Germany, England and Armenia are the top seed. Leading players including Magnus Carlsen, Richard Rapport, Teimour Radjabov, Shakhriyar Mamedyarov, Vincent Keymer, Nikita Vitiugov (now playing for England), Haik M. Martirosyan, Bogdan-Daniel Deac,, Jorden Van Foreest and David Navrara. 32 Nations headed by Georgia, Azerbaijan and Germany competed in the women's event alongside. 10th seeded Serbia beat England in Round 8 and then Greece in the final Round to take the title ahead of Germany by a single board on board count. Armenia beat Eng",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://www.europechess.org/etcc2023-three-way-tie-for-the-top-of-both-open-womens-events-after-4-played-rounds/",
          "pubDate" : "Wed, 15 Nov 2023 08:50:32",
          "title" : "#ETCC2023 - Three-way tie for the top of both Open & Women's events after 4 played rounds"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won his first Titled Tuesday in over a month in the first tournament of November 14, while GM Arjun Erigaisi won his first ever in the late event. Both scored 9.5 points out of 11. Nakamura, coming off a peak record-breaking 333...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-arjun-win-titled-tuesday-november-14-2023",
-         "pubDate" : "Wed, 15 Nov 2023 08:26:00",
-         "title" : "Nakamura, Fresh Off Blitz Rating Record, Wins Titled Tuesday"
       },
       {
          "description" : " The Saint Louis Rapid & Blitz took place 14th to 19th November 2023. \"Fabiano Caruana became the 2023 Saint Louis Rapid & Blitz champion after a dramatic final day of blitz, which came down to a winner-take-all last round game against Maxime Vachier-Lagrave. Caruana ended with 21/36 points, Vachier-Lagrave finished second with 20.5, while Ian Nepomniachtchi and Le Quang Liem tied for third place with 20.\" \"Earning 13 GCT points for the tournament victory, Caruana is now extremely close to clinching the overall 2023 Grand Chess Tour.\" Ray Robson was the surprise winner of the rapid with 5.5/9. Caruana, Le Quang Liem and Ian Nepomniachtchi scored 11/18 in the blitz. ",
@@ -1280,22 +1288,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/nov/03/chess-fabiano-caruana-joins-leaders-as-the-grand-swiss-reaches-final-rounds",
          "pubDate" : "Fri, 03 Nov 2023 20:37:41",
          "title" : "Chess: Caruana and Nakamura join leaders as Grand Swiss nears finale"
-      },
-      {
-         "description" : "Today, I will teach you how to think during a Chess game. Most students draw a blank when I ask them: \"What goes through your mind during a game?\" That's a big problem! It is an explanation of a common phenomenon: Making moves you would never do without the adrenaline and stress. Thanks to a simple thought process, you can make more logical decisions and avoid emotional decisions that cause disaster. Right Process + Wrong Move is Better Than Wrong Process + Right Move. Most good Coaches in...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/how-to-think-during-a-chess-game/",
-         "pubDate" : "Fri, 03 Nov 2023 14:03:49",
-         "title" : "How To Think During A Chess Game"
-      },
-      {
-         "description" : " There was an interesting pairing in round 8 of the 2023 Isle of Man Grand Swiss. Australian Champion Temur Kuybokarov was up against 2023 Doeberl Cup winner Hrant Melkumyan. Although Melkumyan plays under the Armenian flag, he has been resident in Belconnen (a suburb of Canberra, Australia), for the past few years. Both players had solid events (ie lots of draws), and this game ended with a shared point. But it was not a colourless draw with Black attacking an exchange down. White returned the material to reach a rook and queen ending, which was eventually drawn after an exciting battle over passed pawns. <br /> <b>Melkumyan,Hrant (2650) - Kuybokarov,Temur (2584) [D41]</b><br /> FIDE Grand ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/belconnen-represent.html",
-         "pubDate" : "Fri, 03 Nov 2023 12:35:00",
-         "title" : "Belconnen represent"
       }
    ]
 }
