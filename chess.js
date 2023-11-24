@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Odafe Benedict Efemuai is a long way from the Delta State region of Nigeria. The 2016 Nigerian champion has found a new home in New York where he is a chess educator. Odafe's hometown gained the attention of major corporations after oil discovery in the 70s, and was in the news during the 90s. Unfortunately, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/24/odafe-efemuai-from-delta-state-to-new-york-state/\">Odafe Efemuai from Delta State to New York State</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/11/24/odafe-efemuai-from-delta-state-to-new-york-state/",
+         "pubDate" : "Fri, 24 Nov 2023 20:15:22",
+         "title" : "Odafe Efemuai&hellip; from Delta State to New York State"
+      },
+      {
+         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
+         "pubDate" : "Fri, 24 Nov 2023 20:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "No decisive games have been played in the first three rounds of the Sinquefield Cup, despite players entering fighting lines out of the opening more often than not. In other news, Jan-Krzysztof Duda withdrew from the tournament due to health issues, and his round-1 game will be taken out of consideration for the final standings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +90,7 @@ news_feed (
          "title" : "Game of the Week #595: A. Predke vs V. Keymer"
       },
       {
-         "description" : " The British woman champion, 22, won the board two bronze medal with an unbeaten 5.5/8 at the European teams, but the open squad, joint leaders with two rounds left, were edged out to sixth place Last week's European team championships at Budva, Montenegro saw the England open squad narrowly miss out on medals, but there was a fresh success for Lan Yao, 22, a rising star of the women's game. Lan Yao's unbeaten 5.5/8 on second board for England women earned her the bronze medal as well as her first international master norm at men's/open level, and was achieved against a high class field. In the final two rounds Lan Yao drew with the former world champion Anna Ushenina, of Ukraine, then <a hr",
+         "description" : " The British woman champion, 22, won the board two bronze medal with an unbeaten 5.5/8 at the European teams, but the open squad, joint leaders with two rounds left, were edged out to sixth place Last week's European team championships at Budva, Montenegro saw the England open squad narrowly miss out on medals, but there was a fresh success for Lan Yao, 22, a rising star of the women's game. Yao's unbeaten 5.5/8 on second board for England women earned her the bronze medal as well as her first international master norm at men's/open level, and was achieved against a high class field. In the final two rounds Yao drew with the former world champion Anna Ushenina of Ukraine, then <a href=\"https",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/nov/24/chess-lan-yao-wins-bronze-as-england-men-narrowly-miss-medals-at-euros",
@@ -408,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-semifinals-harika-wins",
          "pubDate" : "Tue, 21 Nov 2023 12:33:00",
          "title" : "Harika Advances To Final Vs. Hou Yifan"
-      },
-      {
-         "description" : "On 12 October IM Dinara Wagner sat down with international chess journalist Tatiana Flores to talk about her chess career and personal interests. Wagner also shared her impressions of the European Chess Club Cup and gave interesting insights into the support she receives from her surroundings. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/i-would-like-to-become-a-grandmaster-an-interview-with-german-im-dinara-wagner",
-         "pubDate" : "Tue, 21 Nov 2023 12:28:08",
-         "title" : "\"I would like to become a Grandmaster\" - An interview with German IM Dinara Wagner"
       },
       {
          "description" : "",
