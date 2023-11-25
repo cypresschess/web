@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Highlights of Performance of Indian Team Top 10 finish by Indian players i)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; G.Tejaswini finished on 4th place with a 8/11 score ii)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; U 18",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-round-11-report-of-world-youth-chess-championship-italy-2023/",
+         "pubDate" : "Sat, 25 Nov 2023 05:27:31",
+         "title" : "Final Round 11 report of World Youth Chess Championship, Italy 2023"
+      },
+      {
          "description" : "We told you about Ohad Munder-Zichri, who was abducted by Hamas from the kibbutz of Nir Oz, where he was visiting his grandparents. That was one day before his 9th birthday. Since then, he has spent 48 days in the Hamas tunnels in Gaza, together with more than 200 hostages taken during the devastating Oct. 7 incursion. We have just seen in the news that today (November 24, late evening) Ohad has been set free!! We rejoice for this young chess talent.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://news.sky.com/story/chess-saved-my-life-the-ukrainians-and-russians-now-making-moves-for-england-13003956#new_tab",
          "pubDate" : "Fri, 10 Nov 2023 11:44:28",
          "title" : "'Chess saved my life': The Ukrainians and Russians now making moves for England"
-      },
-      {
-         "description" : "Western Asian Juniors &#38; Girls Chess Championships 2023, 28th November to 6th December 2023, Sri Lanka. The Chess Federation of Sri Lanka under the auspices",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asian-juniors-girls-chess-championships-2023/",
-         "pubDate" : "Fri, 10 Nov 2023 10:01:31",
-         "title" : "Western Asian Juniors & Girls Chess Championships 2023"
       },
       {
          "description" : " The eight-time British champion, 51, and the eminent author, 68, edged to tiebreak victories with strong final-round performances at the world over-50 and over-65 championships Michael Adams and John Nunn scored a golden double for England at the world senior championships for over-50s and over-65s, which ended at Terrasini, Sicily, on Sunday. The pair were both top seeded, then saw their chances slip in the middle rounds before they launched decisive finishing spurts to capture their world titles. First prize in each section was €3,000. Both winners have a strong connection with Cornwall - Nunn currently resides in Bude, while Adams was raised in Truro. <a href=\"https://www.theguardian.c",
