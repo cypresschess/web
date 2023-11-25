@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following three rounds without decisive games, an exciting fourth round in the Sinquefield saw the draw streak being broken. Wesley So was the first to grab a win in the classical tournament, as he got the better of an adventurous Richard Rapport, who employed the King's Indian Defence with the black pieces. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r4",
+         "pubDate" : "Sat, 25 Nov 2023 16:00:00",
+         "title" : "Sinquefield Cup: So beats Rapport"
+      },
+      {
          "description" : "I should have spotted the clue. I must have read The Lost World, by Sir Arthur Conan Doyle, at least five times, before the penny dropped. In chapter five, \"Questions!\", the irascible yet ingenious anti-hero, Professor George Challenger (a kind of scientific equivalent of Sherlock Holmes), has agreed to give a lecture at London's Zoological Institute, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/11/24/odafe-efemuai-from-delta-state-to-new-york-state/",
          "pubDate" : "Fri, 24 Nov 2023 20:15:22",
          "title" : "Odafe Efemuai&hellip; from Delta State to New York State"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
-         "pubDate" : "Fri, 24 Nov 2023 20:00:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "GM Wesley So scored the first victory at the 2023 Sinquefield Cup on Friday. When GM Richard Rapport sacrificed for dynamic ideas in the King&#39;s Indian Defense, So navigated his way to safety while increasing his material edge. GMs Maxime Vachier...",
@@ -1288,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2719",
          "pubDate" : "Sat, 04 Nov 2023 23:34:23",
          "title" : "FIDE Grand Swiss: A trio of leaders after Round 10; Vaishali qualifies for Candidates"
-      },
-      {
-         "description" : "France has scored two notable successes in recent events. In Mexico the rising French star Marc Andria Maurizzi has won the Junior World Championship. The 16-year-old emerged at the top on tie-break, well ahead of the favourite Hans Niemann, the new American prodigy Andy Woodward and Britain's hope, Shreyas Royal. Next, the experienced French Grandmaster Maxime Vachier-Lagrave has decisively []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/la-gloire-de-la-france-aux-echecs/",
-         "pubDate" : "Sat, 04 Nov 2023 15:54:12",
-         "title" : "La gloire de la France aux &eacute;checs"
       }
    ]
 }
