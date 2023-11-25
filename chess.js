@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White comes to success by wow moves - let your imagination run wild!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/beautifully-spectacular",
+         "pubDate" : "Sat, 25 Nov 2023 09:00:00",
+         "title" : "Beautifully spectacular"
+      },
+      {
          "description" : "Highlights of Performance of Indian Team Top 10 finish by Indian players i)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; G.Tejaswini finished on 4th place with a 8/11 score ii)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; U 18",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -408,14 +416,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-1",
          "pubDate" : "Tue, 21 Nov 2023 20:16:00",
          "title" : "Dominguez Presses vs. Caruana In Accurate Opening Round"
-      },
-      {
-         "description" : "The German team won 2&frac12;:1&frac12; against Croatia in the final round, but it was not enough to win gold. Serbia had a slightly better tiebreak score after beating Greece. Bulgaria took the title in the women's tournament, with Azerbaijan and France also reaching the podium. | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-team-championship-2023-r9",
-         "pubDate" : "Tue, 21 Nov 2023 17:20:00",
-         "title" : "Euro Teams: Serbia and Bulgaria clinch gold medals"
       },
       {
          "description" : "",
