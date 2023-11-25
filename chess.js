@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
+         "pubDate" : "Sat, 25 Nov 2023 20:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-gives-away-win-d7-blunder-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9IBwA4Vk8XI.jpg?itok=AI6QNwIl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-gives-away-win-d7-blunder-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Sat, 25 Nov 2023 19:56:08",
+         "title" : "Nepo Gives Away The Win With D7 Blunder | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/players-enjoy-thanksgiving-dinner-during-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/R8G0zmRkueU.jpg?itok=Iat3Kqda\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/players-enjoy-thanksgiving-dinner-during-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Sat, 25 Nov 2023 19:56:08",
+         "title" : "Players Enjoy Thanksgiving Dinner During The #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-misses-important-move-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PyAq6PKL0uQ.jpg?itok=iU4fSdUh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-misses-important-move-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Sat, 25 Nov 2023 19:56:08",
+         "title" : "Fabi Misses An Important Move | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "In the new episode of his Fast & Furious show, Robert Ris analyses the amazing game between Nikolas Theodorou and Teimour Radjabov. The Greek grandmaster was incredibly well-prepared and crushed his opponent with the aid of some amazing sacrifices. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-theodorou-crushes-radjabov",
+         "pubDate" : "Sat, 25 Nov 2023 18:15:00",
+         "title" : "Robert Ris' Fast and Furious: Theodorou crushes 2700+ GM!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/time-levon-almost-withdrew-tournament-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/whEAeo7VxBw.jpg?itok=1zBLSI4D\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/time-levon-almost-withdrew-tournament-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Sat, 25 Nov 2023 16:55:56",
+         "title" : "The Time Levon Almost Withdrew From a Tournament | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/if-i-become-world-champion-i-will-do-something-crazy-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FCXK8mkKQkE.jpg?itok=sAgfJht6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/if-i-become-world-champion-i-will-do-something-crazy-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Sat, 25 Nov 2023 16:55:56",
+         "title" : "\"If I Become World Champion I Will Do Something Crazy\" | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2762",
+         "pubDate" : "Sat, 25 Nov 2023 16:23:49",
+         "title" : "World Youth Champions crowned in Montesilvano, Italy"
+      },
+      {
          "description" : "Following three rounds without decisive games, an exciting fourth round in the Sinquefield saw the draw streak being broken. Wesley So was the first to grab a win in the classical tournament, as he got the better of an adventurous Richard Rapport, who employed the King's Indian Defence with the black pieces. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,7 +234,7 @@ news_feed (
          "title" : "Nepo: 2800+ Would Be Pleasing, but the Goal is to Learn | #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (players below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.25<br /> GrandChessTour.org ROUND 5 | 40 Moves in 90 Min. Incr. 30 Sec. / / 30 Min. Incr. 30 Sec.<br /> Maxime Vachier-Lagrave vs. Ian Nepomniachtchi Levon Aronian vs. Alireza Firouzja </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link",
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (players below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-5-grandchesstour\"><img src=\"https://saintlouischess",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-5-grandchesstour",
@@ -184,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/wesley-so-least-i-won%E2%80%99t-finish-last-place-r3-sinquefieldcup",
          "pubDate" : "Fri, 24 Nov 2023 04:54:55",
          "title" : "Wesley So: At Least I Won't Finish Last Place! | R3 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after a draw against Vachier-Lagrave in the third round of the 2023 Sinquefield Cup. 2023.11.23<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-if-i-become-world-champion-i%E2%80%99ll-do-something-crazy-r3-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FzpGhDXm1Kk.jpg?itok=CB1U-_JK\" alt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-if-i-become-world-champion-i%E2%80%99ll-do-something-crazy-r3-sinquefieldcup",
-         "pubDate" : "Fri, 24 Nov 2023 04:54:55",
-         "title" : "Caruana: If I Become World Champion, I'll Do Something Crazy | R3 #SinquefieldCup"
       },
       {
          "description" : "GMs Magnus Carlsen, Hikaru Nakamura, and top players in the 2023 Champions Chess Tour Finals (CCT Finals) next month have been immortalized in a new collection of stunning fan posters made by Displate, Chess.com can reveal. The unique magnet-mou...",
@@ -298,38 +354,6 @@ news_feed (
          "title" : "2024 Tata Steel Chess: World Champion Ding Returns, Carlsen Missing"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Music Director Brian Owens talks to the team during the second round of the 2023 Sinquefield Cup. 2023.11.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brian-owens-why-wchof-music-series-special-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LDS-jIbe4yQ.jpg?itok=7WMmhYza\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/brian-owens-why-wchof-music-series-special-r2-sinquefieldcup",
-         "pubDate" : "Thu, 23 Nov 2023 01:53:30",
-         "title" : "Brian Owens: Why the WCHOF Music Series is Special | R2 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after a draw against Wesley So in the second round of the 2023 Sinquefield Cup. 2023.11.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-fabi-draw-not-what-cost-me-rapid-blitz-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q9ERloscS40.jpg?itok=I2ftNJgy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-fabi-draw-not-what-cost-me-rapid-blitz-r2-sinquefieldcup",
-         "pubDate" : "Thu, 23 Nov 2023 01:53:30",
-         "title" : "MVL: Fabi Draw is Not What Cost Me the Rapid & Blitz | R2 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Anastasiya Karlovich before the start of the 2023 Grand Chess Tour events in Saint Louis. This aired during Round 2. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-good-spot-secure-tours-3rd-place-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1m_aAWj8cEM.jpg?itok=0Cv9Ncau\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-good-spot-secure-tours-3rd-place-sinquefieldcup",
-         "pubDate" : "Thu, 23 Nov 2023 01:53:30",
-         "title" : "Wesley So: In a Good Spot to Secure Tour's 3rd Place | #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Anastasiya Karlovich after a draw against Firouzja in the second round of the 2023 Sinquefield Cup. 2023.11.22<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-caruana-nepo-are-best-prepared-players-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3KoxAIffbBc.jpg?itok=dXs8aPfX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-caruana-nepo-are-best-prepared-players-r2-sinquefieldcup",
-         "pubDate" : "Thu, 23 Nov 2023 01:53:30",
-         "title" : "Giri: Caruana & Nepo are the Best Prepared Players | R2 #SinquefieldCup"
-      },
-      {
          "description" : "GMs Ian Nepomniachtchi and Fabiano Caruana came the closest to scoring the first victories of the Sinquefield Cup 2023 on Wednesday. In his usual confident, fast-paced playing style, Nepomniachtchi pressed with an extra pawn for over five hours vs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -346,28 +370,12 @@ news_feed (
          "title" : "Hou Yifan wins second WSCC title"
       },
       {
-         "description" : "Balanced, well-played games were seen on all five boards in the first round of the Sinquefield Cup. Leinier Dominguez was the one closest to getting a win on Tuesday, as he put pressure on top seed Fabiano Caruana with the black pieces. In the fight for the Candidates spots still up for grabs, a crucial encounter will be seen in round 2, when Alireza Firouzja will have the white pieces against Anish Giri. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r1",
-         "pubDate" : "Wed, 22 Nov 2023 18:35:00",
-         "title" : "Sinquefield Cup: Warming up"
-      },
-      {
          "description" : "The 2023 edition of the historical chess event Tournament of Peace kicked off today in Zagreb, Croatia. It is a 10-player round-robin tournament, taking place from 22 to 30 November in the National and University Library. GM Anton Korobov (UKR, 2667) headlines the participants list this year, followed by GM Hans Niemann (USA, 2659), GM Vasyl Ivanchuk (UKR, 2653), GM Ivan Cheparinov (BUL, 2649), GM Ante Brkic (CRO, 2622), GM Alexander Motylev (ROU, 2619), GM Ivan Sokolov (NED, 2588), GM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/tournament-of-peace-2023-kicked-off-in-zagreb/",
          "pubDate" : "Wed, 22 Nov 2023 16:43:33",
          "title" : "Tournament of Peace 2023 kicked off in Zagreb"
-      },
-      {
-         "description" : "Every now and then, Svitlana talks about a new opening. This time, it is the suspicious Budapest Gambit. To Arne's disappointment - if you play the opening correctly, some variants seem to move to a very calm middle- and endgame, rather than setting the board on fire. It might be interesting to get to know the Gambit a bit better because it is actually quite sound.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-budapest-gambit",
-         "pubDate" : "Wed, 22 Nov 2023 16:00:00",
-         "title" : "Svitlana's Smart Moves - The Budapest Gambit"
       },
       {
          "description" : "U18 Open: India had a poor day in terms of the results of the 8th Round of the World Youth Chess Championship here in Motesilvano,",
