@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We told you about Ohad Munder-Zichri, who was abducted by Hamas from the kibbutz of Nir Oz, where he was visiting his grandparents. That was one day before his 9th birthday. Since then, he has spent 48 days in the Hamas tunnels in Gaza, together with more than 200 hostages taken during the devastating Oct. 7 incursion. We have just seen in the news that today (November 24, late evening) Ohad has been set free!! We rejoice for this young chess talent.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-ohad-is-free",
+         "pubDate" : "Fri, 24 Nov 2023 21:45:57",
+         "title" : "Breaking: Ohad is free!"
+      },
+      {
          "description" : " Odafe Benedict Efemuai is a long way from the Delta State region of Nigeria. The 2016 Nigerian champion has found a new home in New York where he is a chess educator. Odafe's hometown gained the attention of major corporations after oil discovery in the 70s, and was in the news during the 90s. Unfortunately, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/24/odafe-efemuai-from-delta-state-to-new-york-state/\">Odafe Efemuai from Delta State to New York State</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -392,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-team-championship-2023-r9",
          "pubDate" : "Tue, 21 Nov 2023 17:20:00",
          "title" : "Euro Teams: Serbia and Bulgaria clinch gold medals"
-      },
-      {
-         "description" : "The renowned chess magazine \"New in Chess\" is published eight times a year and issue no. 7/2023 has just been delivered. With detailed tournament coverage, analyses by top players and interesting news from the world of chess. One of the highlights of the magazine is an interview by Dirk Jan ten Geuzendam with businessman and chess patron Ilya Levitov about \"24 Hours with Kasparov\", a series of interviews Levitov conducted with Garry Kasparov and published on YouTube. Kasparov talks about his life with amazing openness, charm and even more energy, and comments on important games in his career. | Screenshot from \"24 Hours with Kasparov\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-in-chess-7-ist-erschienen",
-         "pubDate" : "Tue, 21 Nov 2023 17:00:00",
-         "title" : "\"24 Hours with Kasparov\" - An interview with Ilya Levitov in \"New in Chess Magazine\" 7/2023"
       },
       {
          "description" : "",
@@ -1280,22 +1280,6 @@ news_feed (
          "link" : "https://www.thearticle.com/la-gloire-de-la-france-aux-echecs/",
          "pubDate" : "Sat, 04 Nov 2023 15:54:12",
          "title" : "La gloire de la France aux &eacute;checs"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2718",
-         "pubDate" : "Fri, 03 Nov 2023 22:29:48",
-         "title" : "Gunpowder fireworks in Round 9 of FIDE Grand Swiss"
-      },
-      {
-         "description" : " The US world Nos 2 and 3 timed their finishing spurts well, but are paired together in Saturday's penultimate round It's tight at the top as the $460,000 Grand Swiss at Douglas, Isle of Man, reaches its final stages this weekend. The closing rounds can be followed, live and free, on the <a href=\"https://www.twitch.tv/fide_chess\" title=\"\">official website</a> with commentary by England's David Howell and Jovanka Houska. Games begin at 2.45pm on Saturday and 2.15pm on Sunday. Two winners will qualify for the April 2024 Candidates in Toronto, and a possible shot at Ding Liren's world crown. Fabiano Caruana and Hikaru Nakamura, the world Nos 2 and 3, are the rating favourites. Both remain unbea",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/nov/03/chess-fabiano-caruana-joins-leaders-as-the-grand-swiss-reaches-final-rounds",
-         "pubDate" : "Fri, 03 Nov 2023 20:37:41",
-         "title" : "Chess: Caruana and Nakamura join leaders as Grand Swiss nears finale"
       }
    ]
 }
