@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I should have spotted the clue. I must have read The Lost World, by Sir Arthur Conan Doyle, at least five times, before the penny dropped. In chapter five, \"Questions!\", the irascible yet ingenious anti-hero, Professor George Challenger (a kind of scientific equivalent of Sherlock Holmes), has agreed to give a lecture at London's Zoological Institute, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/professor-challengers-electric-brougham/",
+         "pubDate" : "Sat, 25 Nov 2023 11:06:34",
+         "title" : "Professor Challenger's 'electric brougham'"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2761",
+         "pubDate" : "Sat, 25 Nov 2023 10:17:00",
+         "title" : "2023 Sinquefield Cup: Day 4 Recap"
+      },
+      {
+         "description" : "At first glance, Fritz 19 is all about fun, with its quirky opponents and trophies. But there's also highly useful new functionality for serious opening training. Now, any database, opening article, or your own opening analysis can be loaded directly as an opening book to play against.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mastering-openings-using-fritz19",
+         "pubDate" : "Sat, 25 Nov 2023 10:07:42",
+         "title" : "Mastering openings using Fritz 19"
+      },
+      {
          "description" : "In the diagram position White comes to success by wow moves - let your imagination run wild!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -69,17 +93,9 @@ news_feed (
          "description" : "This week I have a special gift for you guys. It is 100% free, with no Black Friday Sale strategy. Read until the end of the email to know how to benefit from it. Have you ever looked at a position and thought: \"I have no idea what to do\"? After reading this newsletter, you should be able to find an appropriate plan for every position. On the 3rd of November, I published an article called How To Think During A Chess Game. In it, I focused on two key questions to spot tactical ideas for you...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/find-a-plan-in-any-position/",
+         "link" : "https://nextlevelchess.blog/plan-2/",
          "pubDate" : "Fri, 24 Nov 2023 14:02:03",
          "title" : "Find A Plan In Any Position"
-      },
-      {
-         "description" : "At first glance, Fritz 19 is all about fun, with its quirky opponents and trophies. But there's also highly useful new functionality for serious opening training. Now, any database, opening article, or your own opening analysis can be loaded directly as an opening book to play against.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mastering-openings-using-fritz19",
-         "pubDate" : "Fri, 24 Nov 2023 12:07:42",
-         "title" : "Mastering openings using Fritz 19"
       },
       {
          "description" : "U-18 Open &#160;&#160; IM PRANEETH Vappula &#160;after losing&#160; first and fourth round , scored five successive victories to catapult into &#160;joint&#160; third position (7 points).",
