@@ -26,6 +26,14 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
+         "description" : "GM Wesley So scored the first victory at the 2023 Sinquefield Cup on Friday. When GM Richard Rapport sacrificed for dynamic ideas in the King&#39;s Indian Defense, So navigated his way to safety while increasing his material edge. GMs Maxime Vachier...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-4",
+         "pubDate" : "Fri, 24 Nov 2023 18:26:00",
+         "title" : "So Breaks Draw Streak At 2023 Sinquefield Cup"
+      },
+      {
          "description" : "No decisive games have been played in the first three rounds of the Sinquefield Cup, despite players entering fighting lines out of the opening more often than not. In other news, Jan-Krzysztof Duda withdrew from the tournament due to health issues, and his round-1 game will be taken out of consideration for the final standings. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2742",
          "pubDate" : "Wed, 15 Nov 2023 10:45:29",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 1 Recap"
-      },
-      {
-         "description" : "GM Alexandra Kosteniuk advances to the Julius Baer Women&#39;s Speed Chess Championship 2023 Semifinals after defeating IM Vaishali Rameshbabu 13-8. She will play GM Hou Yifan in the Semifinals on Thursday. The &#34;Chess Queen,&#34; who&#39;s also participatin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-quarterfinals-kosteniuk-wins",
-         "pubDate" : "Wed, 15 Nov 2023 10:44:00",
-         "title" : "'Chess Queen' Kosteniuk Wins Battle Of Generations Vs. Vaishali"
       },
       {
          "description" : "The UK Parliamentary Chess Club played its first over-the-board match in decades, and it was bruising encounter for them against a well-organised and impressive Imperial...",
