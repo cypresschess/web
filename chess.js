@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 153rd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and takes a look at the play of Mikhail Botvinnik. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-153-chess-history-in-a-nutshell-35",
+         "pubDate" : "Sun, 26 Nov 2023 19:00:00",
+         "title" : "Understanding before Moving 153: Chess history in a nutshell (35)"
+      },
+      {
+         "description" : "Levon Aronian became the second player to grab a win in the Sinquefield Cup, as he beat Alireza Firouzja with the white pieces in round 5. This result allowed Wesley So to overtake Firouzja in the live ratings list, while it also reduced the rating gap between Firouzja and Anish Giri. The three players are fighting to get one of the two remaining spots in the 2024 Candidates - one will be granted via the ratings list and the second via the FIDE Circuit. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r5",
+         "pubDate" : "Sun, 26 Nov 2023 17:35:00",
+         "title" : "Sinquefield Cup: Aronian's win over Firouzja heats up Candidates race"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/frustrated-firouzja-i-was-winning-game-r4-sinquefieldcup",
          "pubDate" : "Sat, 25 Nov 2023 22:56:10",
          "title" : "Frustrated Firouzja: I Was Winning This Game! | R4 #SinquefieldCup"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
-         "pubDate" : "Sat, 25 Nov 2023 20:00:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "At first glance, Fritz 19 is all about fun, with its quirky opponents and trophies. But there's also highly useful new functionality for serious opening training. Now, any database, opening article, or your own opening analysis can be loaded directly as an opening book to play against.",
@@ -376,14 +384,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/the-big-centre.html",
          "pubDate" : "Thu, 23 Nov 2023 12:36:00",
          "title" : "The Big Centre"
-      },
-      {
-         "description" : "The ChessBase Magazine offers many advantages. When he got hold of the latest issue of the magazine - #216 - Davide Nastasio was happy about the wealth of chess content CBM offers, but he was also happy about the other advantages of the magazine. In his review he reveals why.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-magazine-216-a-review",
-         "pubDate" : "Thu, 23 Nov 2023 11:55:31",
-         "title" : "ChessBase Magazine 216 - a review"
       },
       {
          "description" : "",
@@ -1240,22 +1240,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38829328/r-vaishali-vidit-gujrathi-win-fide-grand-swiss-qualify-candidates-tournament-indian-chess?device=featurephone",
          "pubDate" : "Sun, 5 Nov 2023 22:14:19",
          "title" : "Vaishali, Vidit win FIDE Grand Swiss; qualify for 2024 Candidates"
-      },
-      {
-         "description" : " The FIDE Grand Swiss took place in Douglas, Isle of Man, Wed 25th Oct to Wed 8th Nov 2023. 11 rounds and 2 Candidates places at stake. There is an extremely strong field. This event should tell us where Classical chess is in 2023. 20 players rated over 2700, all but a few rated over 2600. Fabiano Caruana, Hikaru Nakamura, Alireza Firouzja, Anish Giri, D Gukesh, Richard Rapport, Levon Aronian, R Praggnanandhaa, MVL, Jan-Krzysztof Duda etc etc. There is a women's event alongside Aleksandra Goryachkina, Alexandra Kosteniuk, Mariya Muzychuk etc. Vidit Santosh Gujrathi won the Open alone on 8.5/11 after a win in the final round against Alexandr Predke. Hikaru Nakamura took second place on tie-br",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-grand-swiss-2023",
-         "pubDate" : "Sun, 5 Nov 2023 20:24:00",
-         "title" : "FIDE Grand Swiss 2023 - Games and Results"
-      },
-      {
-         "description" : "We've seen sports cards several times in the series on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), most recently in the post <A HREF=\"https://chessforallages.blogspot.com/2019/06/cards-for-chess-champions.html\">Cards for Chess Champions</A> (June 2019). All of the auctions have been for very old cards like the 1888 Steinitz and Zukertort cards in that 'Chess Champions' series. <P> The item pictured below was titled 'Hikaru Nakamura #390 American Chess Equipment Ultimate Card Auto'. It sold for around $500, 'Best offer accepted'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk05.jpg",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/11/chess-rookie-card.html",
-         "pubDate" : "Sun, 05 Nov 2023 16:56:00",
-         "title" : "Chess Rookie Card"
       }
    ]
 }
