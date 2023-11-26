@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Carissa Yip (pictured) grabbed her second U.S. women's title last month - at 20 years of age! The youngster scored an incredible 8&frac12;/11, leaving the over-performing Gulrukhbegim Tokhirjonova a half point behind in the final standings. As ever, GM Karsten M&uuml;ller followed the games closely, looking for interesting setups to analyse. Find here instructive analyses of six outstanding endgame positions! | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-championships-2023-endgames-women",
+         "pubDate" : "Sun, 26 Nov 2023 10:00:00",
+         "title" : "Outstanding endgames from the 2023 U.S. Women's Championship"
+      },
+      {
          "description" : "After eleven exciting rounds, the World Youth Championships - under 14, 16 and 18 - in the open and girls categories concluded in Montesilvano, Italy. A number of honorary guests delivered awards to the newly crowned world champions and the top-finishers. | Photos: Przemek Nikiel",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -320,14 +328,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/three-world-champions-at-tata-steel-chess-tournament-2024",
          "pubDate" : "Thu, 23 Nov 2023 14:43:44",
          "title" : "Three world champions at Tata Steel Chess Tournament 2024"
-      },
-      {
-         "description" : "Had he followed in the footsteps of his uncle of the same name, Tamaz Georgadze would be a chess grandmaster today. He learned chess at the age of four and was a high-flyer in other respects too. But the talented chess player chose a different path and is now one of Germany's biggest fintech talents with his company Raisin DS. The German magazine \"Finanzbusiness\" has published a portrait of him.| Photo: Lukas Schramm",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/from-chess-talent-to-financial-expert",
-         "pubDate" : "Thu, 23 Nov 2023 13:30:00",
-         "title" : "From chess talent to financial expert"
       },
       {
          "description" : " The concept of long term advantages is sometimes difficult to explain to new players. They always want to be \"doing something\" with their pieces, rather than build an advantage, and then lower the boom. Even simple concepts such as occupying the centre fall by the wayside, as there isn't an immediate payoff. I've occasionally used the following game as an example, but the normal response is \"didn't he just keep losing material\". Well of course, but in part, it was because my position was better to start with. <br /> <b>Press,S - Yusof,A [D90]</b><br /> 34th Olympiad Istanbul TUR (7), 04.11.2000 <script> new PgnViewer( { boardName: \"game1428\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 ",
@@ -1280,14 +1280,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/38823455/r-vaishali-qualifies-women-candidates-close-gm?device=featurephone",
          "pubDate" : "Sun, 5 Nov 2023 09:23:57",
          "title" : "R Vaishali qualifies for women's Candidates, close to becoming GM"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2720",
-         "pubDate" : "Sun, 05 Nov 2023 08:42:34",
-         "title" : "A thrilling Round 3 at World Amateur Chess Championship 2023 "
       }
    ]
 }
