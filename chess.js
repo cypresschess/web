@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After a break of a few years, the ACT Junior Chess league Transfer Tournament is back. This is the traditional end of year event for the ACTJCL, but is open to all players, regardless of age. The details are <b>The ACT Junior Chess League presents the '2023 Transfer Chess Festival'</b><br /><br />Can you play transfer chess? Maybe you don't even know what transfer is? Come along to this fun and fabulous tournament, celebrate another sensational year of chess in the capital &hellip; and we'll teach you to play transfer! Your chess may never be the same again! Transfer is a team game. You can register as a team of two, or register alone and we'll find a partner for you on the day!<br /><br />",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/transfer-is-back.html",
+         "pubDate" : "Sun, 26 Nov 2023 12:14:00",
+         "title" : "Transfer is back"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2763",
+         "pubDate" : "Sun, 26 Nov 2023 10:29:54",
+         "title" : "2023 Sinquefield Cup: Day 5 Recap"
+      },
+      {
          "description" : "Carissa Yip (pictured) grabbed her second U.S. women's title last month - at 20 years of age! The youngster scored an incredible 8&frac12;/11, leaving the over-performing Gulrukhbegim Tokhirjonova a half point behind in the final standings. As ever, GM Karsten M&uuml;ller followed the games closely, looking for interesting setups to analyse. Find here instructive analyses of six outstanding endgame positions! | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,6 +122,14 @@ news_feed (
          "title" : "Sinquefield Cup - Live!"
       },
       {
+         "description" : "At first glance, Fritz 19 is all about fun, with its quirky opponents and trophies. But there's also highly useful new functionality for serious opening training. Now, any database, opening article, or your own opening analysis can be loaded directly as an opening book to play against.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mastering-openings-using-fritz19",
+         "pubDate" : "Sat, 25 Nov 2023 19:40:00",
+         "title" : "Mastering openings using Fritz 19"
+      },
+      {
          "description" : "GM Levon Aronian joined GM Wesley So in the lead at the 2023 Sinquefield Cup after dispatching GM Alireza Firouzja in a rook endgame on Saturday. The game very nearly came to an end early as Firouzja came within one second of being flagged but in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2762",
          "pubDate" : "Sat, 25 Nov 2023 16:23:49",
          "title" : "World Youth Champions crowned in Montesilvano, Italy"
-      },
-      {
-         "description" : "At first glance, Fritz 19 is all about fun, with its quirky opponents and trophies. But there's also highly useful new functionality for serious opening training. Now, any database, opening article, or your own opening analysis can be loaded directly as an opening book to play against.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mastering-openings-using-fritz19",
-         "pubDate" : "Sat, 25 Nov 2023 16:05:00",
-         "title" : "Mastering openings using Fritz 19"
       },
       {
          "description" : "Following three rounds without decisive games, an exciting fourth round in the Sinquefield saw the draw streak being broken. Wesley So was the first to grab a win in the classical tournament, as he got the better of an adventurous Richard Rapport, who employed the King's Indian Defence with the black pieces. | Photo: Lennart Ootes",
@@ -1256,30 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2721",
          "pubDate" : "Sun, 05 Nov 2023 12:59:45",
          "title" : "FIDE Executive Director Victor Bologan visits East African counties"
-      },
-      {
-         "description" : " Another game that shows the perils of not castling. In this case Vasilly Ivanchuk (who is old enough to know better) comes a cropper against the Worlds youngest GM, Abhimanyu Mishra <br /> <b>Mishra,Abhimanyu (2592) - Ivanchuk,Vasyl (2653) [B66]</b><br /> 2023 FIDE Grand Swiss Douglas (10.39), 04.11.2023 <script> new PgnViewer( { boardName: \"game1426\", movesFormat: \"default\", pgnString:'1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 Nc6 6.Bg5 e6 7.Qd2 a6 8.Nxc6 bxc6 9.O-O-O d5 10.Qe3 Be7 11.Bxf6 gxf6 12.Bc4 Bb7 13.Rhe1 h5 14.exd5 cxd5 15.Bxd5 exd5 16.Nxd5 Bxd5 17.Rxd5 Qc7 18.Rc5 Qd8 19.Rd5 Qc7 20.Rc5 Qd8 21.Qf3 Kf8 22.Rxh5 Rxh5 23.Qxh5 Kg7 24.Re3 Bd6 25.Qg4+ Kf8 26.Rh3 Ke7 27.Qe4+ Kd7 28.Qb7+ ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/oops-i-forgot-to-castle.html",
-         "pubDate" : "Sun, 05 Nov 2023 12:29:00",
-         "title" : "Oops, I forgot to castle "
-      },
-      {
-         "description" : " The 31st World Senior Chess Championship took place in Cittaa del Mare a holiday village in the town of Terrasini in Sicily. There were 3 sections, over 50, over 65 and women's. Top seed Michael Adams won the over 50 section by the narrowest of tie-break margins over Suat Atalik after both finished on 8.5/11. John Nunn won the over 65s on tie-break from Lubomir Ftacnik after both scored 8.5/11. In the final round Fracnik beat the leader Daniel Campora who had earlier beaten Nunn. Monica Calzetta Ruiz won the women's event, alone on 8.5/11.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/31st-world-senior-chess-championship-2023",
-         "pubDate" : "Sun, 5 Nov 2023 09:41:00",
-         "title" : "31st World Senior Chess Championship 2023 - Games and Results"
-      },
-      {
-         "description" : "She, along with her younger brother Praggnanandhaa, became the first brother-sister duo to qualify for the respective Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38823455/r-vaishali-qualifies-women-candidates-close-gm?device=featurephone",
-         "pubDate" : "Sun, 5 Nov 2023 09:23:57",
-         "title" : "R Vaishali qualifies for women's Candidates, close to becoming GM"
       }
    ]
 }
