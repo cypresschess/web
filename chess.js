@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2764",
+         "pubDate" : "Sun, 26 Nov 2023 14:47:33",
+         "title" : "Friendly team match Africa vs FIDE held as part of AASC General Assembly"
+      },
+      {
          "description" : " After a break of a few years, the ACT Junior Chess league Transfer Tournament is back. This is the traditional end of year event for the ACTJCL, but is open to all players, regardless of age. The details are <b>The ACT Junior Chess League presents the '2023 Transfer Chess Festival'</b><br /><br />Can you play transfer chess? Maybe you don't even know what transfer is? Come along to this fun and fabulous tournament, celebrate another sensational year of chess in the capital &hellip; and we'll teach you to play transfer! Your chess may never be the same again! Transfer is a team game. You can register as a team of two, or register alone and we'll find a partner for you on the day!<br /><br />",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-championships-2023-endgames-women",
          "pubDate" : "Sun, 26 Nov 2023 10:00:00",
          "title" : "Outstanding endgames from the 2023 U.S. Women's Championship"
+      },
+      {
+         "description" : "Mohamed Salah, one of the world&#39;s greatest soccer players, revealed that he is addicted to chess and wants to meet GM Magnus Carlsen. The former world champion responded with a waving-hand emoji. The Egyptian goal-scoring machine is considered o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-addict-salah-dreams-of-carlsen-meeting",
+         "pubDate" : "Sun, 26 Nov 2023 05:32:00",
+         "title" : "1400-Rated Chess-Addict Salah Dreams Of Carlsen Meeting"
+      },
+      {
+         "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 11 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapidblitz-chess-championship-2023-official-invitation/",
+         "pubDate" : "Sun, 26 Nov 2023 04:44:00",
+         "title" : "European Rapid&Blitz Chess Championship 2023 - Official invitation"
       },
       {
          "description" : "After eleven exciting rounds, the World Youth Championships - under 14, 16 and 18 - in the open and girls categories concluded in Montesilvano, Italy. A number of honorary guests delivered awards to the newly crowned world champions and the top-finishers. | Photos: Przemek Nikiel",
@@ -866,14 +890,6 @@ news_feed (
          "title" : "WSCC 2023: Hou Yifan, Harika, Lagno and Kosteniuk advance to semis"
       },
       {
-         "description" : "GM Ray Robson scored a crucial win over GM Alireza Firouzja in round six of the 2023 Saint Louis Rapid &#38;amp; Blitz on the white side of the King&#39;s Indian Defense: Makogonov Variation on Wednesday. Robson entered the sole lead thanks to day-one l...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-2",
-         "pubDate" : "Wed, 15 Nov 2023 19:45:00",
-         "title" : "Flagging, Incorrect Draw Claim, And Missed Chances As Robson Hits The Front"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/what-is-master.html",
          "pubDate" : "Mon, 13 Nov 2023 12:50:00",
          "title" : "What is a Master?"
-      },
-      {
-         "description" : "The second round of the European Team Chess Championship 2023 was played yesterday in Budva, Montenegro. Only six teams in Open section and five teams in the Women's event managed to score the second consecutive match win to reach the maximum 4 match points and lead in the tournament. After two played rounds the leaders of the Open section are the teams of: Germany, France, Netherlands, Serbia, Poland, and Israel. The early leaders of the Women's championship are: Azerbaijan, France, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-team-chess-championship-2023-day-2-recap/",
-         "pubDate" : "Mon, 13 Nov 2023 08:46:44",
-         "title" : "European Team Chess Championship 2023 - Day 2 recap"
       },
       {
          "description" : "at Colombo, Sri Lanka from 28th November to 6th December, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The",
@@ -1248,30 +1256,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/11/chess-rookie-card.html",
          "pubDate" : "Sun, 05 Nov 2023 16:56:00",
          "title" : "Chess Rookie Card"
-      },
-      {
-         "description" : "The FIDE Grand Swiss is taking place on the Isle of Man from October 25 to November 11. An open event and a women's event are being played concurrently. Both tournaments are 11-round Swiss opens with classical time controls. Each tournament grants two spots in the next edition of the Candidates. | Follow the games live with expert commentary starting at 15.30 CEST (9.30 ET, 19.00 IST) | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-swiss-2023-live",
-         "pubDate" : "Sun, 05 Nov 2023 14:50:00",
-         "title" : "Grand Swiss - Live!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2631",
-         "pubDate" : "Sun, 05 Nov 2023 13:30:51",
-         "title" : "The deadline for submitting 2028 Chess Olympiad bid approaching"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2721",
-         "pubDate" : "Sun, 05 Nov 2023 12:59:45",
-         "title" : "FIDE Executive Director Victor Bologan visits East African counties"
       }
    ]
 }
