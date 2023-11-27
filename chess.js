@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dear Chess Friends, The biennial European Chess Union Congress 2023 was held in Budva, Montenegro from 17th to 19th of November 2023. Montenegro Chess federation hosted the fourth quarterly meeting of the ECU Board, the ECU General Assembly, and the Commissions meetings, under excellent conditions. Main information and decisions of the ECU Board meeting: The annual ECU General Assembly 2023 took place on the 19th of November with representatives and officials from 39 European Chess Federations. A detailed video-report of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/cl-no4-2023-communique-of-the-ecu-board-meeting-and-ecu-general-assembly-2023/",
+         "pubDate" : "Mon, 27 Nov 2023 08:01:52",
+         "title" : "CL No4/2023 - Communique of the ECU Board Meeting and ECU General Assembly 2023"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 216, is out. Our columnist Nagesh Havanur takes a look. Included are 968 games (34 annotated), decisive encounters from the World Cup deeply annotated, 11 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Anish Giri, Peter Heine Nielsen, Nijat Abasov, Vidit Gujrathi and Praggnanandhaa Rameshbabu, among others. The icing on the cake is a feature on Hou Yifan with 22 annotated games. She has just won the Julius Baer Women's Speed Championship for the second consecutive time. | Photo: FIDE / Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-pledges-financial-assistance-of-2-crores-inr-usd-240459-for-praggnandhaaa-vidit-and-vaishali-setting-the-stage-for-chess-history/",
          "pubDate" : "Tue, 14 Nov 2023 10:55:36",
          "title" : "AICF Pledges financial assistance of 2 crores INR (USD 240459) for Praggnandhaaa, Vidit, and Vaishali, Setting the Stage for Chess History"
-      },
-      {
-         "description" : "The third round of the European Team Chess Championship 2023 was played yesterday in Budva, Montenegro, and both Open and Women's sections got two leaders with perfect score. Poland and Germany are co-leading the Open championship, while Azerbaijan and France emerged as the leaders of the Women's event scoring 6 match points, each. Ranked 3rd on the starting list, Germany was a favourite in the match against Serbia, and after tight fights claimed a narrow 2.5-1.5 victory. GM Matthias Bluebaum []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/etcc2023-poland-and-germany-lead-in-the-open-section-azerbaijan-and-france-co-leading-the-womens-event/",
-         "pubDate" : "Tue, 14 Nov 2023 08:19:11",
-         "title" : "#ETCC2023 - Poland and Germany lead in the Open section, Azerbaijan and France co-leading the Women's event"
       },
       {
          "description" : "",
