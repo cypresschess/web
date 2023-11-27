@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 216, is out. Our columnist Nagesh Havanur takes a look. Included are 968 games (34 annotated), decisive encounters from the World Cup deeply annotated, 11 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Anish Giri, Peter Heine Nielsen, Nijat Abasov, Vidit Gujrathi and Praggnanandhaa Rameshbabu, among others. The icing on the cake is a feature on Hou Yifan with 22 annotated games. She has just won the Julius Baer Women's Speed Championship for the second consecutive time. | Photo: FIDE / Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-216-review-nagesh-havanur",
+         "pubDate" : "Sun, 26 Nov 2023 23:00:00",
+         "title" : "CBM 216: A World Cup special"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 153rd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and takes a look at the play of Mikhail Botvinnik. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -368,14 +376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r2",
          "pubDate" : "Thu, 23 Nov 2023 16:10:00",
          "title" : "Sinquefield Cup: Fighting draws, Duda's game postponed"
-      },
-      {
-         "description" : "Following months of absence after winning his first world title in April 2023, World Champion Ding Liren (China) will make his return to global chess in January at the 86th Tata Steel Chess Tournament in Wijk aan Zee. He is one of the big names in the total field of participants, which consists of fourteen Masters and fourteen Challengers. The Women's World Champion Ju Wenjun (also from China) and Junior World Champion Marc'Andria Maurizzi (France) are also present. Naturally, Anish Giri defends his title. | Photos: Juriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/three-world-champions-at-tata-steel-chess-tournament-2024",
-         "pubDate" : "Thu, 23 Nov 2023 14:43:44",
-         "title" : "Three world champions at Tata Steel Chess Tournament 2024"
       },
       {
          "description" : " The concept of long term advantages is sometimes difficult to explain to new players. They always want to be \"doing something\" with their pieces, rather than build an advantage, and then lower the boom. Even simple concepts such as occupying the centre fall by the wayside, as there isn't an immediate payoff. I've occasionally used the following game as an example, but the normal response is \"didn't he just keep losing material\". Well of course, but in part, it was because my position was better to start with. <br /> <b>Press,S - Yusof,A [D90]</b><br /> 34th Olympiad Istanbul TUR (7), 04.11.2000 <script> new PgnViewer( { boardName: \"game1428\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 ",
@@ -1224,22 +1224,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/double-world-senior-chess-champions/",
          "pubDate" : "Mon, 06 Nov 2023 09:17:31",
          "title" : "Double World Senior Chess Champions!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2722",
-         "pubDate" : "Sun, 05 Nov 2023 22:51:49",
-         "title" : "Indian Triumph - Vidit and Vaishali win FIDE Grand Swiss"
-      },
-      {
-         "description" : "Vaishali and Vidit took top honours at the FIDE Grand Swiss tournament on Sunday and also qualified for the 2024 Candidates tournament along the way.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/38829328/r-vaishali-vidit-gujrathi-win-fide-grand-swiss-qualify-candidates-tournament-indian-chess?device=featurephone",
-         "pubDate" : "Sun, 5 Nov 2023 22:14:19",
-         "title" : "Vaishali, Vidit win FIDE Grand Swiss; qualify for 2024 Candidates"
       }
    ]
 }
