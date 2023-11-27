@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2765",
+         "pubDate" : "Mon, 27 Nov 2023 11:48:23",
+         "title" : "Important changes in the bidding process for FIDE events"
+      },
+      {
+         "description" : "The 2023 UK Open Blitz Finals will take place on Saturday 2nd December at the Woodland Grange Hotel, Leamington Spa, with all games played on...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-finals-saturday-2nd-december/",
+         "pubDate" : "Mon, 27 Nov 2023 09:38:38",
+         "title" : "UK Open Blitz Finals - Saturday 2nd December"
+      },
+      {
          "description" : "Dear Chess Friends, The biennial European Chess Union Congress 2023 was held in Budva, Montenegro from 17th to 19th of November 2023. Montenegro Chess federation hosted the fourth quarterly meeting of the ECU Board, the ECU General Assembly, and the Commissions meetings, under excellent conditions. Main information and decisions of the ECU Board meeting: The annual ECU General Assembly 2023 took place on the 19th of November with representatives and officials from 39 European Chess Federations. A detailed video-report of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024",
          "pubDate" : "Thu, 23 Nov 2023 20:31:00",
          "title" : "86th Tata Steel 2024 - Games and Results"
-      },
-      {
-         "description" : "Only eight players took part in the second round of the Sinquefield Cup. Jan-Krzysztof Duda called in sick, which meant his opponent, Richard Rapport, was forced to take a break. All round-2 games ended in draws. In contrast to the first day of play, however, fighting games were seen almost on all four boards. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r2",
-         "pubDate" : "Thu, 23 Nov 2023 16:10:00",
-         "title" : "Sinquefield Cup: Fighting draws, Duda's game postponed"
       },
       {
          "description" : " The concept of long term advantages is sometimes difficult to explain to new players. They always want to be \"doing something\" with their pieces, rather than build an advantage, and then lower the boom. Even simple concepts such as occupying the centre fall by the wayside, as there isn't an immediate payoff. I've occasionally used the following game as an example, but the normal response is \"didn't he just keep losing material\". Well of course, but in part, it was because my position was better to start with. <br /> <b>Press,S - Yusof,A [D90]</b><br /> 34th Olympiad Istanbul TUR (7), 04.11.2000 <script> new PgnViewer( { boardName: \"game1428\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 ",
@@ -1184,46 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2726",
          "pubDate" : "Mon, 06 Nov 2023 13:38:15",
          "title" : "Hard-fought title wins at World Senior Championship 2023"
-      },
-      {
-         "description" : " In a first for International Cricket, Angelo Matthews has been dismissed \"Timed Out\". Playing Bangladesh, the Sri Lankan batsmen failed to face up to the first delivery after a dismissal within the 2 minute deadline. The cause of this was issues with his helmet strap, as he was at the wicket within the time limit. But Bangladesh appealed and the Umpire had no choice but to give him out. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/angelo-matthews-flag-fall.html",
-         "pubDate" : "Mon, 06 Nov 2023 11:33:00",
-         "title" : "Angelo Matthews - Flag fall?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2724",
-         "pubDate" : "Mon, 06 Nov 2023 10:48:32",
-         "title" : "Deputy Chair of FIDE Management Board visits India"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2723",
-         "pubDate" : "Mon, 06 Nov 2023 09:51:44",
-         "title" : "Intense Round 4 at 2023 World Amateur Championship in Muscat"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2725",
-         "pubDate" : "Mon, 06 Nov 2023 09:34:51",
-         "title" : "Robert Huebner turns 75"
-      },
-      {
-         "description" : "Congratulations to England's Michael Adams and John Nunn, who both became World Senior chess champions yesterday in Terrasini, Sicily, Italy. Despite both being the top...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/double-world-senior-chess-champions/",
-         "pubDate" : "Mon, 06 Nov 2023 09:17:31",
-         "title" : "Double World Senior Chess Champions!"
       }
    ]
 }
