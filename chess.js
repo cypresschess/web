@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Teimour Radjabov had a terrible tournament at the European Team Championship, and couldn't win a single game. Robert Ris steps in to the rescue. When Radjabov was just 15 years old, he faced Garry Kasparov, who had an incredible rating of 2847 at that time. In a French Defence game, we can witness several Knight sacrifices, and stunning attacks against Garry's king, by the Underdog.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/2624-wins-against-2847-with-the-french-the-underdog",
+         "pubDate" : "Mon, 27 Nov 2023 15:00:00",
+         "title" : "2624 wins against 2847 with the French? - The Underdog"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/cl-no4-2023-communique-of-the-ecu-board-meeting-and-ecu-general-assembly-2023/",
          "pubDate" : "Mon, 27 Nov 2023 08:01:52",
          "title" : "CL No4/2023 - Communique of the ECU Board Meeting and ECU General Assembly 2023"
+      },
+      {
+         "description" : "Artem Sachuk, Vice President of the Ukrainian Chess Federation, is reported to have been killed in Ukraine on Sunday. Sachuk would have turned 39 years old today and leaves behind a wife and two children. The circumstances of his death are yet t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/artem-sachuk-vp-ukrainian-chess-federation-killed-action",
+         "pubDate" : "Mon, 27 Nov 2023 05:36:00",
+         "title" : "Ukrainian Chess Federation Vice President Reported Killed In Action"
       },
       {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 216, is out. Our columnist Nagesh Havanur takes a look. Included are 968 games (34 annotated), decisive encounters from the World Cup deeply annotated, 11 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Anish Giri, Peter Heine Nielsen, Nijat Abasov, Vidit Gujrathi and Praggnanandhaa Rameshbabu, among others. The icing on the cake is a feature on Hou Yifan with 22 annotated games. She has just won the Julius Baer Women's Speed Championship for the second consecutive time. | Photo: FIDE / Stev Bonhage",
@@ -344,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/Collecting-Excitement-with-cards-chessbase-com",
          "pubDate" : "Fri, 24 Nov 2023 09:23:59",
          "title" : "Collecting excitement at cards.chessbase.com"
-      },
-      {
-         "description" : "In his Game of the Week show #595, Merijn Van Delft takes a closer look at Alexander Predke's long but instructive win against Vincent Keymer at the European Team Championship 2023. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-595-a-predke-vs-v-keymer",
-         "pubDate" : "Fri, 24 Nov 2023 08:26:18",
-         "title" : "Game of the Week #595: A. Predke vs V. Keymer"
       },
       {
          "description" : " The British woman champion, 22, won the board two bronze medal with an unbeaten 5.5/8 at the European teams, but the open squad, joint leaders with two rounds left, were edged out to sixth place Last week's European team championships at Budva, Montenegro saw the England open squad narrowly miss out on medals, but there was a fresh success for Lan Yao, 22, a rising star of the women's game. Yao's unbeaten 5.5/8 on second board for England women earned her the bronze medal as well as her first international master norm at men's/open level, and was achieved against a high class field. In the final two rounds Yao drew with the former world champion Anna Ushenina of Ukraine, then <a href=\"https",
@@ -890,14 +898,6 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Exam at Vizianagaram Andhra Pradesh 16-17 Dec 2023"
       },
       {
-         "description" : "Chess.com is excited to announce the newest addition to our lineup of athlete chess bots, the Spanish tennis phenom Carlos Alcaraz. You can challenge the young prodigy on our Play Computer page.&#38;nbsp; But beware: Alcaraz will bring to the che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlos-alcaraz-bot",
-         "pubDate" : "Thu, 16 Nov 2023 07:00:00",
-         "title" : "Play Chess Against Tennis Prodigy Carlos Alcaraz"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1184,14 +1184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/first-ever-chess-map",
          "pubDate" : "Tue, 07 Nov 2023 08:18:26",
          "title" : "First-Ever Chess Map"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2726",
-         "pubDate" : "Mon, 06 Nov 2023 13:38:15",
-         "title" : "Hard-fought title wins at World Senior Championship 2023"
       }
    ]
 }
