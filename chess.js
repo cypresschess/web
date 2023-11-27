@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2767",
+         "pubDate" : "Mon, 27 Nov 2023 20:25:10",
+         "title" : "FIDE Chessable Academy resumes in January 2024"
+      },
+      {
+         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
+         "pubDate" : "Mon, 27 Nov 2023 20:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-makes-move-1-second-clock-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xUFGTbyblYU.jpg?itok=kP6evXUo\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alireza-makes-move-1-second-clock-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Mon, 27 Nov 2023 19:57:55",
+         "title" : "Alireza Makes Move With 1 Second On Clock! | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-misses-winning-move-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0bfINMC5OXQ.jpg?itok=D4_UCX7B\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/levon-misses-winning-move-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Mon, 27 Nov 2023 19:57:55",
+         "title" : "Levon Misses Winning Move | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "In the Endgame Magic Show #256 Karsten M&uuml;ller shows highlights from the European Team Tournament Budva, focusing on rook endgames. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-257-highlights-from-the-european-team-tournament-budva-part-1",
+         "pubDate" : "Mon, 27 Nov 2023 18:00:00",
+         "title" : "Endgame Magic #256 - Highlights from the European Team Tournament Budva Part 1"
+      },
+      {
          "description" : "Teimour Radjabov had a terrible tournament at the European Team Championship, and couldn't win a single game. Robert Ris steps in to the rescue. When Radjabov was just 15 years old, he faced Garry Kasparov, who had an incredible rating of 2847 at that time. In a French Defence game, we can witness several Knight sacrifices, and stunning attacks against Garry's king, by the Underdog.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/2624-wins-against-2847-with-the-french-the-underdog",
          "pubDate" : "Mon, 27 Nov 2023 15:00:00",
          "title" : "2624 wins against 2847 with the French? - The Underdog"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2766",
+         "pubDate" : "Mon, 27 Nov 2023 13:36:38",
+         "title" : "FIDE introduces ground-breaking Gender Equality in Chess Index (GECI) - 2023 Rankings unveiled"
       },
       {
          "description" : "",
@@ -186,22 +234,6 @@ news_feed (
          "title" : "Wesley So Wins First, Despite World Event Distractions | R4 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich before the start of the 2023 Sinquefield Cup. This aired during Round 4. 2023.11.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-it-has-happened-neural-networks-have-killed-classical-chess-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JHLJFO7S840.jpg?itok=FoY1bdiY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-it-has-happened-neural-networks-have-killed-classical-chess-sinquefieldcup",
-         "pubDate" : "Sat, 25 Nov 2023 22:56:10",
-         "title" : "Aronian: It Has Happened! Neural Networks Have Killed Classical Chess | #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich after a draw against Dominguez in the fourth round of the 2023 Sinquefield Cup. 2023.11.24<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/frustrated-firouzja-i-was-winning-game-r4-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/V66vsZnOkGU.jpg?itok=LK07dgeR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/frustrated-firouzja-i-was-winning-game-r4-sinquefieldcup",
-         "pubDate" : "Sat, 25 Nov 2023 22:56:10",
-         "title" : "Frustrated Firouzja: I Was Winning This Game! | R4 #SinquefieldCup"
-      },
-      {
          "description" : "At first glance, Fritz 19 is all about fun, with its quirky opponents and trophies. But there's also highly useful new functionality for serious opening training. Now, any database, opening article, or your own opening analysis can be loaded directly as an opening book to play against.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -314,14 +346,6 @@ news_feed (
          "title" : "Sinquefield Cup: No decisive games, Rapport and Firouzja make it fun"
       },
       {
-         "description" : "In October, the ACO - the Amateur Chess Organisation - held its sixth tournament at the 5-star Hotel Fodele Beach in Crete. More than 160 participants from 24 nations enjoyed pleasant temperatures, ideal tournament conditions and a great social programme.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aco-amateur-world-championship-on-crete",
-         "pubDate" : "Fri, 24 Nov 2023 15:30:00",
-         "title" : "ACO Amateur World Championship on Crete"
-      },
-      {
          "description" : "This week I have a special gift for you guys. It is 100% free, with no Black Friday Sale strategy. Read until the end of the email to know how to benefit from it. Have you ever looked at a position and thought: \"I have no idea what to do\"? After reading this newsletter, you should be able to find an appropriate plan for every position. On the 3rd of November, I published an article called How To Think During A Chess Game. In it, I focused on two key questions to spot tactical ideas for you...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -352,14 +376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2759",
          "pubDate" : "Fri, 24 Nov 2023 10:52:58",
          "title" : "2023 Sinquefield Cup: Day 3 Recap"
-      },
-      {
-         "description" : "Players who earn trophies in Fritz 19 are rewarded with digital collectible cards. These cards cover a variety of chess themes: World Champions, famous players, major tournaments, training materials, chess stamps, chess art, and rating lists. A series on famous chess books is currently in development. What's exciting is that cards can be traded on a market or offered in exchange for ducats.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Collecting-Excitement-with-cards-chessbase-com",
-         "pubDate" : "Fri, 24 Nov 2023 09:23:59",
-         "title" : "Collecting excitement at cards.chessbase.com"
       },
       {
          "description" : " The British woman champion, 22, won the board two bronze medal with an unbeaten 5.5/8 at the European teams, but the open squad, joint leaders with two rounds left, were edged out to sixth place Last week's European team championships at Budva, Montenegro saw the England open squad narrowly miss out on medals, but there was a fresh success for Lan Yao, 22, a rising star of the women's game. Yao's unbeaten 5.5/8 on second board for England women earned her the bronze medal as well as her first international master norm at men's/open level, and was achieved against a high class field. In the final two rounds Yao drew with the former world champion Anna Ushenina of Ukraine, then <a href=\"https",
