@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Grandmaster Kevin Goh Wei Ming is both the CEO of the Singapore Chess Federation and an 8-time national champion at the Southeast Asian city-state. Kevin recently shared a post on X, showing his experience teaching chess at the Singapore Prison Services. IM Sagar Shah interviewed him on the topic. \"Most importantly, chess has brought joy to [the inmates] in a way that perhaps serious, competitive players may never understand\". | Photos: Kevin Goh Wei Ming&rsquo;s X account",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-kevin-goh-wei-ming",
+         "pubDate" : "Tue, 28 Nov 2023 01:00:00",
+         "title" : "Singapore Federation CEO Kevin Goh Wei Ming teaches chess in prisons"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -336,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-4",
          "pubDate" : "Fri, 24 Nov 2023 18:26:00",
          "title" : "So Breaks Draw Streak At 2023 Sinquefield Cup"
-      },
-      {
-         "description" : "No decisive games have been played in the first three rounds of the Sinquefield Cup, despite players entering fighting lines out of the opening more often than not. In other news, Jan-Krzysztof Duda withdrew from the tournament due to health issues, and his round-1 game will be taken out of consideration for the final standings. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r3",
-         "pubDate" : "Fri, 24 Nov 2023 16:30:00",
-         "title" : "Sinquefield Cup: No decisive games, Rapport and Firouzja make it fun"
       },
       {
          "description" : "This week I have a special gift for you guys. It is 100% free, with no Black Friday Sale strategy. Read until the end of the email to know how to benefit from it. Have you ever looked at a position and thought: \"I have no idea what to do\"? After reading this newsletter, you should be able to find an appropriate plan for every position. On the 3rd of November, I published an article called How To Think During A Chess Game. In it, I focused on two key questions to spot tactical ideas for you...",
