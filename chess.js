@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the start of the 2023 Sinquefield Cup. This aired during Round 6. 2023.11.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-role-has-sinquefield-cup-played-your-chess-career-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WBTJnLZ4pY0.jpg?itok=8pZamaCm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/what-role-has-sinquefield-cup-played-your-chess-career-sinquefieldcup",
+         "pubDate" : "Tue, 28 Nov 2023 04:58:05",
+         "title" : "What Role Has the Sinquefield Cup Played in Your Chess Career? | #SinquefieldCup"
+      },
+      {
          "description" : "Grandmaster Kevin Goh Wei Ming is both the CEO of the Singapore Chess Federation and an 8-time national champion at the Southeast Asian city-state. Kevin recently shared a post on X, showing his experience teaching chess at the Singapore Prison Services. IM Sagar Shah interviewed him on the topic. \"Most importantly, chess has brought joy to [the inmates] in a way that perhaps serious, competitive players may never understand\". | Photos: Kevin Goh Wei Ming&rsquo;s X account",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "Levon Misses Winning Move | #sinquefieldcup #grandchesstour 2023"
       },
       {
-         "description" : "It was a day of victories on Monday at the 2023 Sinquefield Cup. GM Wesley So defeated GM Levon Aronian to take over clear first while GMs Fabiano Caruana and Leinier Dominguez scored their first wins. The Sinquefield Cup continues with round se...",
+         "description" : "It was a day of victories on Monday at the 2023 Sinquefield Cup. GM Wesley So defeated GM Levon Aronian to extend his lead, while GMs Fabiano Caruana and Leinier Dominguez scored their first wins. The Sinquefield Cup continues with round seven o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-6",
@@ -240,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/sharon-carpenter-excited-strategy-across-board-r4-sinquefieldcup",
          "pubDate" : "Sat, 25 Nov 2023 22:56:10",
          "title" : "Sharon Carpenter Excited for Strategy Across The Board! | R4 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Anastasiya Karlovich after defeating Rapport in the fourth round of the 2023 Sinquefield Cup. 2023.11.24<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-wins-first-despite-world-event-distractions-r4-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ntPArCocIx0.jpg?itok=4gZ3uLpe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-wins-first-despite-world-event-distractions-r4-sinquefieldcup",
-         "pubDate" : "Sat, 25 Nov 2023 22:56:10",
-         "title" : "Wesley So Wins First, Despite World Event Distractions | R4 #SinquefieldCup"
       },
       {
          "description" : "At first glance, Fritz 19 is all about fun, with its quirky opponents and trophies. But there's also highly useful new functionality for serious opening training. Now, any database, opening article, or your own opening analysis can be loaded directly as an opening book to play against.",
