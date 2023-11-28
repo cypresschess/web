@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
+         "pubDate" : "Tue, 28 Nov 2023 20:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2769",
+         "pubDate" : "Tue, 28 Nov 2023 17:00:03",
+         "title" : "Empowering queens of the chessboard: National Female Team Development Seminar "
+      },
+      {
          "description" : "Wesley So scored his second victory in this year's Sinquefield Cup by beating Levon Aronian with the white pieces in Monday's sixth round. Moreover, wins for Leinier Dominguez (over Anish Giri) and Fabiano Caruana (over Alireza Firouzja) greatly increased So's chances of qualifying to the Candidates Tournament either by rating or via the FIDE Circuit. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2768",
          "pubDate" : "Tue, 28 Nov 2023 09:49:19",
          "title" : "FIDE Director for Chess Development visits Eswatini"
+      },
+      {
+         "description" : "Mongolia is the nation ranking highest for promoting gender equality in chess but&#38;mdash;perhaps surprisingly&#38;mdash;the Nordic countries occupy three of the four worst spots, a new study has revealed. Research commissioned by the World Chess Fede...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/mongolia-tops-fides-new-gender-equality-in-chess-index-denmark-ranks-worst",
+         "pubDate" : "Tue, 28 Nov 2023 09:24:00",
+         "title" : "Mongolia Tops FIDE's New Gender Equality In Chess Index; Denmark Ranks Worst"
       },
       {
          "description" : "Creating passed pawns is a strong weapon in the endgame. In the diagram position Black can turn her majority into a passed pawn - a passed pawn on the b-file or a passed pawn on the a-file. What would you play?",
@@ -280,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/rapport-wish-i-could-claim-jet-lag-my-poor-play-r5-sinquefieldcup",
          "pubDate" : "Sun, 26 Nov 2023 01:56:07",
          "title" : "Rapport: Wish I Could Claim Jet Lag for My Poor Play | R5 #SinquefieldCup"
-      },
-      {
-         "description" : "At first glance, Fritz 19 is all about fun, with its quirky opponents and trophies. But there's also highly useful new functionality for serious opening training. Now, any database, opening article, or your own opening analysis can be loaded directly as an opening book to play against.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mastering-openings-using-fritz19",
-         "pubDate" : "Sat, 25 Nov 2023 19:40:00",
-         "title" : "Mastering openings using Fritz 19"
       },
       {
          "description" : "GM Levon Aronian joined GM Wesley So in the lead at the 2023 Sinquefield Cup after dispatching GM Alireza Firouzja in a rook endgame on Saturday. The game very nearly came to an end early as Firouzja came within one second of being flagged but in ...",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2747",
          "pubDate" : "Fri, 17 Nov 2023 09:26:36",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 3 Recap"
-      },
-      {
-         "description" : "GM Ray Robson leads the 2023 Saint Louis Rapid &#38;amp; Blitz after scoring 11/18 in the rapid segment. 3/6 was enough for Robson to maintain the lead on Thursday, but GM Fabiano Caruana, who scored 4/6 on day three, looms one point shy of the lead, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-3",
-         "pubDate" : "Fri, 17 Nov 2023 01:59:00",
-         "title" : "Caruana Comeback As Robson Wins Rapid"
       },
       {
          "description" : "Round 3 report of World Youth Chess Championship, Italy 2023U18 Open:IM ILAMPARTHI, A R is in the joint lead with a cent percent score (3/3)Mayak",
