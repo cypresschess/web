@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Creating passed pawns is a strong weapon in the endgame. In the diagram position Black can turn her majority into a passed pawn - a passed pawn on the b-file or a passed pawn on the a-file. What would you play?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-through-2",
+         "pubDate" : "Tue, 28 Nov 2023 09:00:00",
+         "title" : "Breaking through"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the start of the 2023 Sinquefield Cup. This aired during Round 6. 2023.11.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-role-has-sinquefield-cup-played-your-chess-career-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WBTJnLZ4pY0.jpg?itok=8pZamaCm\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -312,14 +320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2761",
          "pubDate" : "Sat, 25 Nov 2023 10:17:00",
          "title" : "2023 Sinquefield Cup: Day 4 Recap"
-      },
-      {
-         "description" : "In the diagram position White comes to success by wow moves - let your imagination run wild!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/beautifully-spectacular",
-         "pubDate" : "Sat, 25 Nov 2023 09:00:00",
-         "title" : "Beautifully spectacular"
       },
       {
          "description" : "Highlights of Performance of Indian Team Top 10 finish by Indian players i)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; G.Tejaswini finished on 4th place with a 8/11 score ii)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; U 18",
@@ -1192,14 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2727",
          "pubDate" : "Tue, 07 Nov 2023 11:39:28",
          "title" : "2023 World Amateur Championship crosses halfway mark"
-      },
-      {
-         "description" : "World Chess has announced the release of the first-ever chess map of the world, one that blends the intricate worlds of chess and geography. This unique cartographic creation, where continents and places are crafted from chess openings with geographical names, promises to be a collector's delight.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/first-ever-chess-map",
-         "pubDate" : "Tue, 07 Nov 2023 08:18:26",
-         "title" : "First-Ever Chess Map"
       }
    ]
 }
