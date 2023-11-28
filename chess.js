@@ -42,6 +42,14 @@ news_feed (
          "title" : "Levon Misses Winning Move | #sinquefieldcup #grandchesstour 2023"
       },
       {
+         "description" : "It was a day of victories on Monday at the 2023 Sinquefield Cup. GM Wesley So defeated GM Levon Aronian to take over clear first while GMs Fabiano Caruana and Leinier Dominguez scored their first wins. The Sinquefield Cup continues with round se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-6",
+         "pubDate" : "Mon, 27 Nov 2023 19:15:00",
+         "title" : "Victories Aplenty: So Leads; Caruana, Dominguez Score 1st Wins"
+      },
+      {
          "description" : "In the Endgame Magic Show #256 Karsten M&uuml;ller shows highlights from the European Team Tournament Budva, focusing on rook endgames. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -872,14 +880,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/i-have-now-seen-this-happen.html",
          "pubDate" : "Thu, 16 Nov 2023 12:01:00",
          "title" : "I have now seen this happen"
-      },
-      {
-         "description" : "GM Hou Yifan defeated GM Alexandra Kosteniuk 12.5-9.5 to secure her spot in the Julius Baer Women&#39;s Speed Chess Championship 2023 Final.&#38;nbsp; The hotly contested 22-game match saw just three draws. Kosteniuk led by one point at the end of each ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-semifinals-hou-wins",
-         "pubDate" : "Thu, 16 Nov 2023 12:00:00",
-         "title" : "Hou Yifan Prevails In Clash Of World Champions"
       },
       {
          "description" : "The more decisions you must make daily, the worse they get. This phenomenon is called decision fatigue. After a long workday, thinking about chess moves gets harder. Not only because you are tired, but also because you've already made so many decisions. Two Solutions: 1) Train Chess first thing in the morning 2) Eliminate &#38; []",
