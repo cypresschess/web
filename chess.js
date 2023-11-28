@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So scored his second victory in this year's Sinquefield Cup by beating Levon Aronian with the white pieces in Monday's sixth round. Moreover, wins for Leinier Dominguez (over Anish Giri) and Fabiano Caruana (over Alireza Firouzja) greatly increased So's chances of qualifying to the Candidates Tournament either by rating or via the FIDE Circuit. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r6",
+         "pubDate" : "Tue, 28 Nov 2023 16:00:00",
+         "title" : "Sinquefield Cup: A perfect day for So"
+      },
+      {
+         "description" : "In some sports, being a lefthander might give you a substantive advantage over your opponents. In table tennis or in tennis, for example, lefthanders score better over their right-handed opponents. Why? Approximately 90 percent of professional table tennis players are right-handed. Therefore, a left-hander plays a right-hander in 9 out of 10 matches, whereas a right-handed player plays a leftie only in 1 out of 10 matches. Left-handed players therefore have 9 times more experience with such a match, and therefore score consistently better. | Photo: John McEnroe, one of the most famous and successful left-handed tennis players | Photo: Wikipedia, Nrbelex",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-27-lefthanders",
+         "pubDate" : "Tue, 28 Nov 2023 15:26:13",
+         "title" : "The Winning Academy 27: Lefthanders"
+      },
+      {
          "description" : "Do you know who the current World Chess Champion is? Can you name him and tell us which country he is from? If you can do this you belong to an absolute minority in the world of chess enthusiasts. Try to estimate how many of them can answer the two questions correctly. You are wrong! A recent survey, conducted by YouGov and World Chess, tell us the sad truth.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2767",
          "pubDate" : "Mon, 27 Nov 2023 20:25:10",
          "title" : "FIDE Chessable Academy resumes in January 2024"
-      },
-      {
-         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
-         "pubDate" : "Mon, 27 Nov 2023 20:00:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-makes-move-1-second-clock-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xUFGTbyblYU.jpg?itok=kP6evXUo\" alt=\"\" /></a></div>",
@@ -288,14 +296,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-5",
          "pubDate" : "Sat, 25 Nov 2023 18:55:00",
          "title" : "Aronian Defeats Firouzja After Near-Catastrophe At Time Control"
-      },
-      {
-         "description" : "In the new episode of his Fast & Furious show, Robert Ris analyses the amazing game between Nikolas Theodorou and Teimour Radjabov. The Greek grandmaster was incredibly well-prepared and crushed his opponent with the aid of some amazing sacrifices. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-theodorou-crushes-radjabov",
-         "pubDate" : "Sat, 25 Nov 2023 18:15:00",
-         "title" : "Robert Ris' Fast and Furious: Theodorou crushes 2700+ GM!"
       },
       {
          "description" : "",
