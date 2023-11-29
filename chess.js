@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Endgame studies don't need to be perfect to be entertaining. Prizes are to be awarded to endgame studies that meet the highest standards. Honorable mentions are for endgame studies of great but not the highest quality. Special awards should be for those that can't compete with other studies. Let us examine what this means.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-special-honorable-mentions",
+         "pubDate" : "Wed, 29 Nov 2023 12:26:17",
+         "title" : "Study of the Month: Special honorable mentions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2770",
+         "pubDate" : "Wed, 29 Nov 2023 10:16:03",
+         "title" : "2023 Sinquefield Cup: Day 7 Recap"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Teddy &amp; Friends Inclusive Playground Co-Organizer Erin Gooch and Unlimited Play Executive Director Natalie Mackay talk to the team during the seventh round of the 2023 Sinquefield Cup. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/inclusive-playground-comes-west-county-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z57c",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -106,14 +122,6 @@ news_feed (
          "title" : "Empowering queens of the chessboard: National Female Team Development Seminar "
       },
       {
-         "description" : "Wesley So scored his second victory in this year's Sinquefield Cup by beating Levon Aronian with the white pieces in Monday's sixth round. Moreover, wins for Leinier Dominguez (over Anish Giri) and Fabiano Caruana (over Alireza Firouzja) greatly increased So's chances of qualifying to the Candidates Tournament either by rating or via the FIDE Circuit. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r6",
-         "pubDate" : "Tue, 28 Nov 2023 16:00:00",
-         "title" : "Sinquefield Cup: A perfect day for So"
-      },
-      {
          "description" : "In some sports, being a lefthander might give you a substantive advantage over your opponents. In table tennis or in tennis, for example, lefthanders score better over their right-handed opponents. Why? Approximately 90 percent of professional table tennis players are right-handed. Therefore, a left-hander plays a right-hander in 9 out of 10 matches, whereas a right-handed player plays a leftie only in 1 out of 10 matches. Left-handed players therefore have 9 times more experience with such a match, and therefore score consistently better. | Photo: John McEnroe, one of the most famous and successful left-handed tennis players | Photo: Wikipedia, Nrbelex",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/who-knows-his-name",
          "pubDate" : "Tue, 28 Nov 2023 12:00:00",
          "title" : "Who knows his name?"
+      },
+      {
+         "description" : "Wesley So scored his second victory in this year's Sinquefield Cup by beating Levon Aronian with the white pieces in Monday's sixth round. Moreover, wins for Leinier Dominguez (over Anish Giri) and Fabiano Caruana (over Alireza Firouzja) greatly increased So's chances of qualifying to the Candidates Tournament either by rating or via the FIDE Circuit. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r6",
+         "pubDate" : "Tue, 28 Nov 2023 11:55:00",
+         "title" : "Sinquefield Cup: A perfect day for So"
       },
       {
          "description" : "",
@@ -306,14 +322,6 @@ news_feed (
          "title" : "European Rapid&Blitz Chess Championship 2023 - Official invitation"
       },
       {
-         "description" : "After eleven exciting rounds, the World Youth Championships - under 14, 16 and 18 - in the open and girls categories concluded in Montesilvano, Italy. A number of honorary guests delivered awards to the newly crowned world champions and the top-finishers. | Photos: Przemek Nikiel",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-youth-championships-2023-montesilvano",
-         "pubDate" : "Sun, 26 Nov 2023 03:30:00",
-         "title" : "World Youth champions crowned in Montesilvano"
-      },
-      {
          "description" : "GM Levon Aronian joined GM Wesley So in the lead at the 2023 Sinquefield Cup after dispatching GM Alireza Firouzja in a rook endgame on Saturday. The game very nearly came to an end early as Firouzja came within one second of being flagged but in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -458,7 +466,7 @@ news_feed (
          "title" : "86th Tata Steel 2024 - Games and Results"
       },
       {
-         "description" : " The concept of long term advantages is sometimes difficult to explain to new players. They always want to be \"doing something\" with their pieces, rather than build an advantage, and then lower the boom. Even simple concepts such as occupying the centre fall by the wayside, as there isn't an immediate payoff. I've occasionally used the following game as an example, but the normal response is \"didn't he just keep losing material\". Well of course, but in part, it was because my position was better to start with. <br /> <b>Press,S - Yusof,A [D90]</b><br /> 34th Olympiad Istanbul TUR (7), 04.11.2000 <script> new PgnViewer( { boardName: \"game1428\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 ",
+         "description" : " The concept of long term advantages is sometimes difficult to explain to new players. They always want to be \"doing something\" with their pieces, rather than build an advantage, and then lower the boom. Even simple concepts such as occupying the centre fall by the wayside, as there isn't an immediate payoff. I've occasionally used the following game as an example, but the normal response is \"didn't he just keep losing material\". Well of course, but in part, it was because my position was better to start with. <br /> <b>Press,S - Yusof,A [D90]</b><br /> 34th Olympiad Istanbul TUR (7), 04.11.2000 <script> new PgnViewer( { boardName: \"game1429\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/11/the-big-centre.html",
@@ -1168,22 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2731",
          "pubDate" : "Wed, 08 Nov 2023 16:48:21",
          "title" : "Argentine Championship 2023: Peralta wins fifth title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2730",
-         "pubDate" : "Wed, 08 Nov 2023 11:29:22",
-         "title" : "2023 World Amateur Championship: Leaderboards taking shape"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2729",
-         "pubDate" : "Wed, 08 Nov 2023 10:49:01",
-         "title" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan"
       }
    ]
 }
