@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-9-grandchesstour\"><img src=\"https://saintlouisches",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-9-grandchesstour",
+         "pubDate" : "Wed, 29 Nov 2023 01:58:50",
+         "title" : "2023 Sinquefield Cup: Round 9 | #GrandChessTour"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.29<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-8-grandchesstour\"><img src=\"https://saintlouisches",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
          "pubDate" : "Tue, 28 Nov 2023 20:00:00",
          "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "After beginning the last leg with a massive lead in tour points, GM Fabiano Caruana has clinched the 2023 Grand Chess Tour with two rounds to spare at the 2023 Sinquefield Cup. He and GM Leinier Dominguez scored their second wins in a row on Tue...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-7",
+         "pubDate" : "Tue, 28 Nov 2023 18:30:47",
+         "title" : "Caruana Clinches GCT, Crosses 2800, Leads Sinquefield Cup With Dominguez, So"
       },
       {
          "description" : "",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mvl-some-time-enjoy-tennis-forest-park-r5-sinquefieldcup",
          "pubDate" : "Sun, 26 Nov 2023 01:56:07",
          "title" : "MVL: Some Time to Enjoy Tennis in Forest Park | R5 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-7-grandchesstour\"><img src=\"https://saintlouisches",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-7-grandchesstour",
-         "pubDate" : "Sun, 26 Nov 2023 01:56:07",
-         "title" : "2023 Sinquefield Cup: Round 7 | #GrandChessTour"
       },
       {
          "description" : "GM Levon Aronian joined GM Wesley So in the lead at the 2023 Sinquefield Cup after dispatching GM Alireza Firouzja in a rook endgame on Saturday. The game very nearly came to an end early as Firouzja came within one second of being flagged but in ...",
@@ -826,14 +834,6 @@ news_feed (
          "title" : "Ambtion Without Expectations"
       },
       {
-         "description" : "The London Chess Classic will return with its 13th edition this December in a field headed by Indian prodigy GM Gukesh Dommaraju. The event could potentially be decisive for the 18-year-old&#39;s hunt for a Candidates spot. The return of the flagshi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-heads-field-in-2023-london-chess-classic",
-         "pubDate" : "Fri, 17 Nov 2023 13:27:00",
-         "title" : "Gukesh Heads Field In London As Classic Chess Event Returns In December"
-      },
-      {
          "description" : " The 2023 Vikings Weekender begins tomorrow, with the first round at 10am Canberra time. The top section is quite strong for such an event, with almost all of Canberra's top players taking part. IM Junta Ikeda is the top seed, with FM's Michael Kethro and Fred Litchfield also taking part. The Minor (Under 1600) will also be quite competitive, as the restriction on entries for the top section means a few players have been moved down from the Open to this section. The tournament results, plus live games from the top section can be found at <a href=\"http://tournaments.streetchess.net/vikings2023/\">http://tournaments.streetchess.net/vikings2023/</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1184,14 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2729",
          "pubDate" : "Wed, 08 Nov 2023 10:49:01",
          "title" : "FIDE World Rapid and Blitz Championships 2023 to take place in Samarkand, Uzbekistan"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105055642.cms\" />Vidit Gujrathi is aware that rub of the green plays a role in sport. But he also feels that he won the FIDE Swiss GP chess tournament at Isle of Man, UK, ahead of the elite field due to the quality of his play.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-am-glad-that-i-kept-persisting-vidit-gujrathi/articleshow/105055642.cms",
-         "pubDate" : "Wed, 08 Nov 2023 03:43:21",
-         "title" : "I am glad that I kept persisting: Vidit Gujrathi"
       }
    ]
 }
