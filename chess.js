@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
+         "pubDate" : "Wed, 29 Nov 2023 20:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "Fabiano Caruana and Leinier Dominguez both scored back-to-back wins in rounds 6 and 7 of the Sinquefield Cup to join Wesley So in the lead of the standings. Caruana, in fact, defeated So on Tuesday, and he did it in remarkable style. By beating the former sole leader, Caruana also secured first place in the Grand Chess Tour and crossed the 2800-mark in the live ratings list! | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-of-the-month-special-honorable-mentions",
          "pubDate" : "Wed, 29 Nov 2023 12:26:17",
          "title" : "Study of the Month: Special honorable mentions"
+      },
+      {
+         "description" : "After the weekend, you&#39;re back in school. You open the door. You&#39;re hit with thunder-like applause from all your classmates and teachers in the hallways; everyone&#39;s proud of you. For most teenagers, this fantasy happens only in dreams. But this ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/u16-world-champion-seemann-applauded-back-at-school",
+         "pubDate" : "Wed, 29 Nov 2023 10:58:00",
+         "title" : "Under-16 World Champion Applauded At School In Viral Video"
       },
       {
          "description" : "",
@@ -312,14 +328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2763",
          "pubDate" : "Sun, 26 Nov 2023 10:29:54",
          "title" : "2023 Sinquefield Cup: Day 5 Recap"
-      },
-      {
-         "description" : "Carissa Yip (pictured) grabbed her second U.S. women's title last month - at 20 years of age! The youngster scored an incredible 8&frac12;/11, leaving the over-performing Gulrukhbegim Tokhirjonova a half point behind in the final standings. As ever, GM Karsten M&uuml;ller followed the games closely, looking for interesting setups to analyse. Find here instructive analyses of six outstanding endgame positions! | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-championships-2023-endgames-women",
-         "pubDate" : "Sun, 26 Nov 2023 10:00:00",
-         "title" : "Outstanding endgames from the 2023 U.S. Women's Championship"
       },
       {
          "description" : "Mohamed Salah, one of the world&#39;s greatest soccer players, revealed that he is addicted to chess and wants to meet GM Magnus Carlsen. The former world champion responded with a waving-hand emoji. The Egyptian goal-scoring machine is considered o...",
@@ -810,14 +818,6 @@ news_feed (
          "title" : "#ETCC2023 - England joins Germany in the lead of the Open section; France emerges on the top of the Women's event"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave rose to the top of the leaderboard at the 2023 Saint Louis Rapid &#38;amp; Blitz after scoring 7/9 on the first day of blitz chess, with a 2971 rating performance. A loss against GM Ian Nepomniachtchi was the only blight on h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2023-day-4",
-         "pubDate" : "Fri, 17 Nov 2023 22:55:00",
-         "title" : "Vachier-Lagrave's 2971 Rating Performance Sends Him To The Top"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1176,14 +1176,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/where-has-shaun-gone.html",
          "pubDate" : "Thu, 09 Nov 2023 13:34:00",
          "title" : "Where has Shaun gone?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2731",
-         "pubDate" : "Wed, 08 Nov 2023 16:48:21",
-         "title" : "Argentine Championship 2023: Peralta wins fifth title"
       }
    ]
 }
