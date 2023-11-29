@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.29<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-8-grandchesstour\"><img src=\"https://saintlouisches",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-8-grandchesstour",
+         "pubDate" : "Tue, 28 Nov 2023 22:58:45",
+         "title" : "2023 Sinquefield Cup: Round 8 | #GrandChessTour"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -296,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-7-grandchesstour",
          "pubDate" : "Sun, 26 Nov 2023 01:56:07",
          "title" : "2023 Sinquefield Cup: Round 7 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Richard Rapport talks to Anastasiya Karlovich after a draw against Giri in the fifth round of the 2023 Sinquefield Cup. 2023.11.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rapport-wish-i-could-claim-jet-lag-my-poor-play-r5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SnQVBC0PwTU.jpg?itok=t_EHmg6K\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rapport-wish-i-could-claim-jet-lag-my-poor-play-r5-sinquefieldcup",
-         "pubDate" : "Sun, 26 Nov 2023 01:56:07",
-         "title" : "Rapport: Wish I Could Claim Jet Lag for My Poor Play | R5 #SinquefieldCup"
       },
       {
          "description" : "GM Levon Aronian joined GM Wesley So in the lead at the 2023 Sinquefield Cup after dispatching GM Alireza Firouzja in a rook endgame on Saturday. The game very nearly came to an end early as Firouzja came within one second of being flagged but in ...",
@@ -1192,14 +1192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/i-am-glad-that-i-kept-persisting-vidit-gujrathi/articleshow/105055642.cms",
          "pubDate" : "Wed, 08 Nov 2023 03:43:21",
          "title" : "I am glad that I kept persisting: Vidit Gujrathi"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2728",
-         "pubDate" : "Tue, 07 Nov 2023 23:08:43",
-         "title" : "EDU Commission announces its 12th Preparation of Teachers course"
       }
    ]
 }
