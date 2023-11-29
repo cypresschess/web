@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-11-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202311264812 target='_blank'>NOVEMBER 26TH SUNDAY SWISS</a>",
+"HOUSTON","2023-11-25","14","<a href=http://www.uschess.org/msa/XtblMain.php?202311254842 target='_blank'>HOUSTON WOMEN AND GIRLS 2023 CHESS</a>",
 "SPRING","2023-11-24","22","<a href=http://www.uschess.org/msa/XtblMain.php?202311244042 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2023-11-24","12","<a href=http://www.uschess.org/msa/XtblMain.php?202311244012 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-11-17  - 11-19","242","<a href=http://www.uschess.org/msa/XtblMain.php?202311192132 target='_blank'>2023 HOUSTON OPEN CHESS CHAMPIONSHI</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-05-20","95","<a href=http://www.uschess.org/msa/XtblMain.php?202305206952 target='_blank'>TEXAS PRIVATE & PAROCHIAL CHAMPIONS</a>",
 "PASADENA","2023-05-20","54","<a href=http://www.uschess.org/msa/XtblMain.php?202305206552 target='_blank'>PISD MAY 2023- MAY 2023 INTERMEDIAT</a>",
 "HOUSTON","2023-05-20","9","<a href=http://www.uschess.org/msa/XtblMain.php?202305200392 target='_blank'>HSE SL TOURNAMENT 2</a>",
-"CYPRESS","2023-05-19","26","<a href=http://www.uschess.org/msa/XtblMain.php?202305195942 target='_blank'>EVENT NAME MISSING</a>",
-"SPRING","2023-05-19","37","<a href=http://www.uschess.org/msa/XtblMain.php?202305195902 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
