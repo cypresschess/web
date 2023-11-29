@@ -2,20 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Teddy &amp; Friends Inclusive Playground Co-Organizer Erin Gooch and Unlimited Play Executive Director Natalie Mackay talk to the team during the seventh round of the 2023 Sinquefield Cup. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/inclusive-playground-comes-west-county-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z57c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/inclusive-playground-comes-west-county-r7-sinquefieldcup",
+         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
+         "title" : "Inclusive Playground Comes to West County | R7 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Anastasiya Karlovich after a draw against Aronian in the seventh round of the 2023 Sinquefield Cup. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-candidates-rating-qualification-should-i-lose-fabi-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/owmS6mnhFeg.jpg?itok=cyLLmdrB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-candidates-rating-qualification-should-i-lose-fabi-r7-sinquefieldcup",
+         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
+         "title" : "Giri on Candidates Rating Qualification: Should I LOSE to Fabi? | R7 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after defeating Wesley So in the seventh round of the 2023 Sinquefield Cup. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-benefits-no-worries-about-candidates-qualification-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/63WcPrMEJHc.jpg?itok=IqqIvy5i\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-benefits-no-worries-about-candidates-qualification-r7-sinquefieldcup",
+         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
+         "title" : "Caruana Benefits from No Worries About Candidates Qualification | R7 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich after a draw against Firouzja in the seventh round of the 2023 Sinquefield Cup. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-shocked-wesley-loss-%E2%80%98-3-moves%E2%80%99-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q8FH370nQwU.jpg?itok=ZlSPw6gA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-shocked-wesley-loss-%E2%80%98-3-moves%E2%80%99-r7-sinquefieldcup",
+         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
+         "title" : "Nepo: Shocked By Wesley Loss 'in 3 Moves' | R7 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich after defeating Rapport in the seventh round of the 2023 Sinquefield Cup. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-rapport-lost-game-more-i-won-it-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wh5bV0XcIYc.jpg?itok=DDBzh-V6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-rapport-lost-game-more-i-won-it-r7-sinquefieldcup",
+         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
+         "title" : "Dominguez: Rapport Lost That Game More Than I Won It | R7 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-year-so-far-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/FrTUW6tVUV8.jpg?itok=-7_G0brA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabis-year-so-far-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
+         "title" : "Fabi's Year So Far | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-road-ahead-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iN_1OfX8b8s.jpg?itok=PCMTglGu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabis-road-ahead-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
+         "title" : "Fabi's Road Ahead | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-win-context-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jQ0fC2j1JEs.jpg?itok=n-RLZ3Mg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabis-win-context-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
+         "title" : "Fabi's Win in Context | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-becomes-gct-champion-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xF-B67EgzGg.jpg?itok=zvgGgLlm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-becomes-gct-champion-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
+         "title" : "Fabi Becomes GCT Champion! |#sinquefieldcup #grandchesstour 2023"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-9-grandchesstour\"><img src=\"https://saintlouisches",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-9-grandchesstour",
          "pubDate" : "Wed, 29 Nov 2023 01:58:50",
          "title" : "2023 Sinquefield Cup: Round 9 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.29<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-8-grandchesstour\"><img src=\"https://saintlouisches",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-8-grandchesstour",
-         "pubDate" : "Tue, 28 Nov 2023 22:58:45",
-         "title" : "2023 Sinquefield Cup: Round 8 | #GrandChessTour"
       },
       {
          "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
@@ -90,46 +154,6 @@ news_feed (
          "title" : "Breaking through"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Jennings School District Superintendent of Schools Dr. Paula Knight talks to the team during the sixth round of the 2023 Sinquefield Cup. 2023.11.27<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dr-knight-chess-teaches-kids-self-regulate-r6-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QgP-KhVZRug.jpg?itok=qyNhJ4Oe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dr-knight-chess-teaches-kids-self-regulate-r6-sinquefieldcup",
-         "pubDate" : "Tue, 28 Nov 2023 07:58:06",
-         "title" : "Dr. Knight: Chess Teaches Kids to Self-Regulate | R6 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after defeating Firouzja in the sixth round of the 2023 Sinquefield Cup. 2023.11.27<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-crazy-win-over-firouzja-r6-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ACtsIUoyBe8.jpg?itok=z8-a4RRZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana%E2%80%99s-crazy-win-over-firouzja-r6-sinquefieldcup",
-         "pubDate" : "Tue, 28 Nov 2023 07:58:06",
-         "title" : "Caruana's Crazy Win Over Firouzja | R6 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich after defeating Giri in the sixth round of the 2023 Sinquefield Cup. 2023.11.27<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-wasn%E2%80%99t-expecting-1g3-it%E2%80%99s-great-win-r6-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/s1vYMLqSb1o.jpg?itok=XthKa6lQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-wasn%E2%80%99t-expecting-1g3-it%E2%80%99s-great-win-r6-sinquefieldcup",
-         "pubDate" : "Tue, 28 Nov 2023 07:58:06",
-         "title" : "Dominguez: Wasn't Expecting 1.g3, but It's Great to Win! | R6 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Anastasiya Karlovich after defeating Aronian in the sixth round of the 2023 Sinquefield Cup. 2023.11.27<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spectators-want-wesley-qualify-candidates-more-he-does-r6-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mFzDYJLxnwM.jpg?itok=fTOEQyF0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/spectators-want-wesley-qualify-candidates-more-he-does-r6-sinquefieldcup",
-         "pubDate" : "Tue, 28 Nov 2023 07:58:06",
-         "title" : "Spectators Want Wesley to Qualify for Candidates More Than He Does?! | R6 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the start of the 2023 Sinquefield Cup. This aired during Round 6. 2023.11.20<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-role-has-sinquefield-cup-played-your-chess-career-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WBTJnLZ4pY0.jpg?itok=8pZamaCm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-role-has-sinquefield-cup-played-your-chess-career-sinquefieldcup",
-         "pubDate" : "Tue, 28 Nov 2023 04:58:05",
-         "title" : "What Role Has the Sinquefield Cup Played in Your Chess Career? | #SinquefieldCup"
-      },
-      {
          "description" : "Grandmaster Kevin Goh Wei Ming is both the CEO of the Singapore Chess Federation and an 8-time national champion at the Southeast Asian city-state. Kevin recently shared a post on X, showing his experience teaching chess at the Singapore Prison Services. IM Sagar Shah interviewed him on the topic. \"Most importantly, chess has brought joy to [the inmates] in a way that perhaps serious, competitive players may never understand\". | Photos: Kevin Goh Wei Ming&rsquo;s X account",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,22 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2767",
          "pubDate" : "Mon, 27 Nov 2023 20:25:10",
          "title" : "FIDE Chessable Academy resumes in January 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-makes-move-1-second-clock-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xUFGTbyblYU.jpg?itok=kP6evXUo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alireza-makes-move-1-second-clock-sinquefieldcup-grandchesstour-2023",
-         "pubDate" : "Mon, 27 Nov 2023 19:57:55",
-         "title" : "Alireza Makes Move With 1 Second On Clock! | #sinquefieldcup #grandchesstour 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> 2023 Sinquefield Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-misses-winning-move-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0bfINMC5OXQ.jpg?itok=D4_UCX7B\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/levon-misses-winning-move-sinquefieldcup-grandchesstour-2023",
-         "pubDate" : "Mon, 27 Nov 2023 19:57:55",
-         "title" : "Levon Misses Winning Move | #sinquefieldcup #grandchesstour 2023"
       },
       {
          "description" : "It was a day of victories on Monday at the 2023 Sinquefield Cup. GM Wesley So defeated GM Levon Aronian to extend his lead, while GMs Fabiano Caruana and Leinier Dominguez scored their first wins. The Sinquefield Cup continues with round seven o...",
@@ -304,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-youth-championships-2023-montesilvano",
          "pubDate" : "Sun, 26 Nov 2023 03:30:00",
          "title" : "World Youth champions crowned in Montesilvano"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after a draw against Nepomniachtchi in the fifth round of the 2023 Sinquefield Cup. 2023.11.25<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-some-time-enjoy-tennis-forest-park-r5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gA7c0izG1uo.jpg?itok=MjFCWUcy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-some-time-enjoy-tennis-forest-park-r5-sinquefieldcup",
-         "pubDate" : "Sun, 26 Nov 2023 01:56:07",
-         "title" : "MVL: Some Time to Enjoy Tennis in Forest Park | R5 #SinquefieldCup"
       },
       {
          "description" : "GM Levon Aronian joined GM Wesley So in the lead at the 2023 Sinquefield Cup after dispatching GM Alireza Firouzja in a rook endgame on Saturday. The game very nearly came to an end early as Firouzja came within one second of being flagged but in ...",
