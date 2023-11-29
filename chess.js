@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana and Leinier Dominguez both scored back-to-back wins in rounds 6 and 7 of the Sinquefield Cup to join Wesley So in the lead of the standings. Caruana, in fact, defeated So on Tuesday, and he did it in remarkable style. By beating the former sole leader, Caruana also secured first place in the Grand Chess Tour and crossed the 2800-mark in the live ratings list! | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r7",
+         "pubDate" : "Wed, 29 Nov 2023 14:30:00",
+         "title" : "Sinquefield Cup: Caruana beats So, Dominguez scores"
+      },
+      {
+         "description" : " This was prompted by a query concerning whether the result for resigning was different from the result from being checkmated. A number of years ago I experimented with an alternative scoring system for club events. IIRC it was something like 4 points for a win plus a bonus point if you won in under 30 moves. Losing players earned a bonus point if they lasted longer than 40 moves, plus an extra bonus point if they were (a) lower rated and (b) weren't down material at move 30. All very complicated, and it didn't survive past the test event. But would the game be different/better if a player received a fractional point if they resigned, rather than dragged the game out to checkmate (winner sti",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/11/more-wacky-ideas.html",
+         "pubDate" : "Wed, 29 Nov 2023 12:43:00",
+         "title" : "More wacky ideas"
+      },
+      {
          "description" : "Endgame studies don't need to be perfect to be entertaining. Prizes are to be awarded to endgame studies that meet the highest standards. Honorable mentions are for endgame studies of great but not the highest quality. Special awards should be for those that can't compete with other studies. Let us examine what this means.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2770",
          "pubDate" : "Wed, 29 Nov 2023 10:16:03",
          "title" : "2023 Sinquefield Cup: Day 7 Recap"
+      },
+      {
+         "description" : "GM Alexander Grischuk and GM Hikaru Nakamura were the winners of the last two Titled Tuesday tournaments of November. Grischuk won the early tournament by a full point on 10/11 after defeating Nakamura in the 10th round, while Nakamura scored 9.5/...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grischuk-nakamura-win-titled-tuesday-november-28-2023",
+         "pubDate" : "Wed, 29 Nov 2023 08:06:56",
+         "title" : "Nakamura Makes Up For Early Error With Late Win"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Teddy &amp; Friends Inclusive Playground Co-Organizer Erin Gooch and Unlimited Play Executive Director Natalie Mackay talk to the team during the seventh round of the 2023 Sinquefield Cup. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/inclusive-playground-comes-west-county-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Z57c",
@@ -98,19 +122,11 @@ news_feed (
          "title" : "2023 Sinquefield Cup: Round 9 | #GrandChessTour"
       },
       {
-         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
-         "pubDate" : "Tue, 28 Nov 2023 20:00:00",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
          "description" : "After beginning the last leg with a massive lead in tour points, GM Fabiano Caruana has clinched the 2023 Grand Chess Tour with two rounds to spare at the 2023 Sinquefield Cup. He and GM Leinier Dominguez scored their second wins in a row on Tue...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-7",
-         "pubDate" : "Tue, 28 Nov 2023 18:30:47",
+         "pubDate" : "Tue, 28 Nov 2023 18:30:00",
          "title" : "Caruana Clinches GCT, Crosses 2800, Leads Sinquefield Cup With Dominguez, So"
       },
       {
@@ -816,14 +832,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/nov/17/chess-england-fifth-at-halfway-in-european-teams-but-hard-work-is-ahead",
          "pubDate" : "Fri, 17 Nov 2023 21:32:01",
          "title" : "Chess: England crush Netherlands at Euro teams and move into joint lead"
-      },
-      {
-         "description" : "ChessKid Stars, IM-elect Alice Lee and FM Tani Adewumi, defeated the Harvard Chess Club, represented by co-presidents WGM Jennifer Yu and FM Chris Shen, in the first-ever Harvard vs. ChessKid match. Starting off with a three-game winning streak,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-harvard-vs-chesskid",
-         "pubDate" : "Fri, 17 Nov 2023 20:02:00",
-         "title" : "ChessKid Stars Defeat Harvard"
       },
       {
          "description" : "",
