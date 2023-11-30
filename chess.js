@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/indication-what-great-player-levon-aronian-sinquefieldcup-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q6tVszlLVsE.jpg?itok=9ET6bCvI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/indication-what-great-player-levon-aronian-sinquefieldcup-grandchesstour",
+         "pubDate" : "Thu, 30 Nov 2023 20:00:45",
+         "title" : "\"That is an indication of what a great player Levon Aronian is\" | #sinquefieldcup #grandchesstour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-9-playoff-grandchesstour\"><img src=\"https://saintl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-9-playoff-grandchesstour",
+         "pubDate" : "Thu, 30 Nov 2023 20:00:45",
+         "title" : "2023 Sinquefield Cup: Round 9 & Playoff | #GrandChessTour"
+      },
+      {
+         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
+         "pubDate" : "Thu, 30 Nov 2023 20:00:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : " Brewington Hardway earned his first Grandmaster norm at the U.S. Masters in Charlotte. The 14-year-old had a blistering month of November earning more than 100 Elo points. Prior to his norm performance, he earned 50 Elo points at the nine-round NYC GM Fall Invitational. He bettered that result with another handsome cache of 62 Elo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/30/hardaway-gets-1st-gm-norm-clinches-im-title/\">Hardaway gets 1st GM norm, clinches IM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/11/30/hardaway-gets-1st-gm-norm-clinches-im-title/",
+         "pubDate" : "Thu, 30 Nov 2023 19:18:31",
+         "title" : "Hardaway gets 1st GM norm, clinches IM title"
+      },
+      {
+         "description" : "The 2023 edition of the historical chess event Tournament of Peace concluded today in Zagreb, Croatia. The event took place from 22 to 30 November as a 10-player round-robin tournament, with GM Anton Korobov (UKR, 2667), GM Hans Niemann (USA, 2659), GM Vasyl Ivanchuk (UKR, 2653), GM Ivan Cheparinov (BUL, 2649), GM Ante Brkic (CRO, 2622), GM Alexander Motylev (ROU, 2619), GM Ivan Sokolov (NED, 2588), GM Hrvoje Stevic (CRO, 2549), GM Zdenko Kozul (CRO, 2531), and GM Robert Zelcic []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/hans-niemann-wins-tournament-of-peace-2023/",
+         "pubDate" : "Thu, 30 Nov 2023 18:51:25",
+         "title" : "Hans Niemann wins Tournament of Peace 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2774",
+         "pubDate" : "Thu, 30 Nov 2023 17:30:38",
+         "title" : "FIDE World Rapid & Blitz Championships 2023: Registration deadline extended"
+      },
+      {
          "description" : "In his Game of the Week show #595, Merijn Van Delft takes a closer look at the marquee matchup between Fabiano Caruana and Wesley So from the Sinquefield Cup in Saint Louis. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +80,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2773",
          "pubDate" : "Thu, 30 Nov 2023 11:21:03",
          "title" : "2023 Sinquefield Cup: Day 8 Recap"
+      },
+      {
+         "description" : "The Champions Chess Tour Finals is almost upon us, and soon we&#39;ll get to enjoy watching GMs Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, and more battling live in Toronto. To celebrate, Chess.com is offering all our basic members the opportun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/twitch-drops-champions-chess-tour-2023",
+         "pubDate" : "Thu, 30 Nov 2023 11:00:00",
+         "title" : "Watch The Champions Chess Tour Finals On Twitch And Earn 14 Days Of Premium"
       },
       {
          "description" : "The recently published articles \"The Never Ending Saga of Moroccan Chess, Part 1\" and \"Part 2\" described the sorry state of Moroccan chess and the unfortunate end of the International Prix Mohammed VI tournament, where the winners did not receive their prizes. This bizarre end of the tournament overshadowed the success of the young Lithuanian GM Paulius Pultinevicius, who won the event convincingly. | Photo: Paulius Pultinevicius after winning the Riga Technical University Open 2022 | Photo: RTU Open Facebook.",
@@ -194,22 +250,6 @@ news_feed (
          "title" : "Caruana Benefits from No Worries About Candidates Qualification | R7 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich after a draw against Firouzja in the seventh round of the 2023 Sinquefield Cup. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-shocked-wesley-loss-%E2%80%98-3-moves%E2%80%99-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q8FH370nQwU.jpg?itok=ZlSPw6gA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-shocked-wesley-loss-%E2%80%98-3-moves%E2%80%99-r7-sinquefieldcup",
-         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
-         "title" : "Nepo: Shocked By Wesley Loss 'in 3 Moves' | R7 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich after defeating Rapport in the seventh round of the 2023 Sinquefield Cup. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-rapport-lost-game-more-i-won-it-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Wh5bV0XcIYc.jpg?itok=DDBzh-V6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-rapport-lost-game-more-i-won-it-r7-sinquefieldcup",
-         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
-         "title" : "Dominguez: Rapport Lost That Game More Than I Won It | R7 #SinquefieldCup"
-      },
-      {
          "description" : "After beginning the last leg with a massive lead in tour points, GM Fabiano Caruana has clinched the 2023 Grand Chess Tour with two rounds to spare at the 2023 Sinquefield Cup. He and GM Leinier Dominguez scored their second wins in a row on Tue...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -352,14 +392,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/artem-sachuk-vp-ukrainian-chess-federation-killed-action",
          "pubDate" : "Mon, 27 Nov 2023 05:36:00",
          "title" : "Ukrainian Chess Federation Vice President Reported Killed In Action"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 216, is out. Our columnist Nagesh Havanur takes a look. Included are 968 games (34 annotated), decisive encounters from the World Cup deeply annotated, 11 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Anish Giri, Peter Heine Nielsen, Nijat Abasov, Vidit Gujrathi and Praggnanandhaa Rameshbabu, among others. The icing on the cake is a feature on Hou Yifan with 22 annotated games. She has just won the Julius Baer Women's Speed Championship for the second consecutive time. | Photo: FIDE / Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-216-review-nagesh-havanur",
-         "pubDate" : "Sun, 26 Nov 2023 23:00:00",
-         "title" : "CBM 216: A World Cup special"
       },
       {
          "description" : "This month's post in the series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016) offers a few surprises:- <UL> <LI>1st surprise: There is an 'Intercontinental Online Chess Championship for Prisoners'. <LI>2nd surprise: The tournament is sponsored by FIDE. <LI>3rd surprise: The most recent tournament was the third such event. </UL> <P> 4th surprise: The event was broadcast online. Here is the video covering the final round. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/f074lBHHD1g?si=e_JAdIRBlMxZ0o0b\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-w",
@@ -810,14 +842,6 @@ news_feed (
          "title" : "Two rounds to go at the European Team Chess Championship 2023 in Budva"
       },
       {
-         "description" : "World number-one Magnus Carlsen escaped with just two minor pieces against Danish GM Jonas Bjerre&#39;s queen to help struggling Norway to a second win in a row, while top-seed Azerbaijan is in freefall, symbolized by GM Teimour Radjabov losing in 19 ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-6-7",
-         "pubDate" : "Sat, 18 Nov 2023 19:24:00",
-         "title" : "Carlsen Survives Thriller; Theodorou Beats Radjabov In 19 Moves"
-      },
-      {
          "description" : "Dr Max Euwe was the fifth world chess champion, wresting the title from Alexander Alekhine in 1935. Chivalrously, Euwe granted his defeated foe a revenge match in 1937, which resulted not only in an Alekhine victory, but a contest which witnessed probably the highest quality games ever produced in a world championship match, not just []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1032,14 +1056,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-congress-ecu-general-assembly-2023/",
          "pubDate" : "Wed, 15 Nov 2023 09:24:11",
          "title" : "ECU Congress & ECU General Assembly 2023"
-      },
-      {
-         "description" : "Four rounds have been already played at the European Team Chess Championship 2023 and there is a three-way tie for the top of both Open and Women's events. No team remained perfect in the tournament, and Germany, Armenia and Poland score 7 match points (each) to share the top of the Open section, while France, Azerbaijan and Germany lead the Women's championship with the same score. The top-board match of the Open section between 3rd-seeded Germany and 11th-seeded Poland finished []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/etcc2023-three-way-tie-for-the-top-of-both-open-womens-events-after-4-played-rounds/",
-         "pubDate" : "Wed, 15 Nov 2023 08:50:32",
-         "title" : "#ETCC2023 - Three-way tie for the top of both Open & Women's events after 4 played rounds"
       },
       {
          "description" : " The Saint Louis Rapid & Blitz took place 14th to 19th November 2023. \"Fabiano Caruana became the 2023 Saint Louis Rapid & Blitz champion after a dramatic final day of blitz, which came down to a winner-take-all last round game against Maxime Vachier-Lagrave. Caruana ended with 21/36 points, Vachier-Lagrave finished second with 20.5, while Ian Nepomniachtchi and Le Quang Liem tied for third place with 20.\" \"Earning 13 GCT points for the tournament victory, Caruana is now extremely close to clinching the overall 2023 Grand Chess Tour.\" Ray Robson was the surprise winner of the rapid with 5.5/9. Caruana, Le Quang Liem and Ian Nepomniachtchi scored 11/18 in the blitz. ",
