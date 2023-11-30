@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2773",
+         "pubDate" : "Thu, 30 Nov 2023 11:21:03",
+         "title" : "2023 Sinquefield Cup: Day 8 Recap"
+      },
+      {
+         "description" : "The recently published articles \"The Never Ending Saga of Moroccan Chess, Part 1\" and \"Part 2\" described the sorry state of Moroccan chess and the unfortunate end of the International Prix Mohammed VI tournament, where the winners did not receive their prizes. This bizarre end of the tournament overshadowed the success of the young Latvian GM Paulius Pultinevicius, who won the event convincingly. | Photo: Paulius Pultinevicius after winning the Riga Technical University Open 2022 | Photo: RTU Open Facebook.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prix-mohammed-vi-the-players",
+         "pubDate" : "Thu, 30 Nov 2023 10:00:00",
+         "title" : "Paulius Pultinevicius - Winner of the Prix Mohammed VI tournament"
+      },
+      {
+         "description" : "GMs Fabiano Caruana, Leinier Dominguez, and Wesley So lead the 2023 Sinquefield Cup on 4.5 points heading into the final round following a day of high-accuracy draws in all four matchups. The $100,000 first prize will likely be determined by the g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-9",
+         "pubDate" : "Thu, 30 Nov 2023 01:53:00",
+         "title" : "Caruana, Dominguez Vie For First Following Day Of Draws"
+      },
+      {
          "description" : "A 4-player multi-format tournament is taking place from November 27 to December 6 in Sharjah, United Arab Emirates. Yu Yangyi, Sanan Sjugirov, Nihal Sarin and Saleh Salem first face each other in double round-robin tournaments in classical and rapid chess, and then in a triple round-robin blitz event. After three rounds of classical games, Yu leads the standings with 15/18 points (in classical, a win grants 6 points). | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -330,12 +354,12 @@ news_feed (
          "title" : "Understanding before Moving 153: Chess history in a nutshell (35)"
       },
       {
-         "description" : "Levon Aronian became the second player to grab a win in the Sinquefield Cup, as he beat Alireza Firouzja with the white pieces in round 5. This result allowed Wesley So to overtake Firouzja in the live ratings list, while it also reduced the rating gap between Firouzja and Anish Giri. The three players are fighting to get one of the two remaining spots in the 2024 Candidates - one will be granted via the ratings list and the second via the FIDE Circuit. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r5",
-         "pubDate" : "Sun, 26 Nov 2023 17:35:00",
-         "title" : "Sinquefield Cup: Aronian's win over Firouzja heats up Candidates race"
+         "description" : "This month's post in the series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016) offers a few surprises:- <UL> <LI>1st surprise: There is an 'Intercontinental Online Chess Championship for Prisoners'. <LI>2nd surprise: The tournament is sponsored by FIDE. <LI>3rd surprise: The most recent tournament was the third such event. </UL> <P> 4th surprise: The event was broadcast online. Here is the video covering the final round. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/f074lBHHD1g?si=e_JAdIRBlMxZ0o0b\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-w",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/11/world-chess-championship-for-prisoners.html",
+         "pubDate" : "Sun, 26 Nov 2023 16:21:00",
+         "title" : "World Chess Championship for Prisoners"
       },
       {
          "description" : "",
@@ -784,14 +808,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-6-7",
          "pubDate" : "Sat, 18 Nov 2023 19:24:00",
          "title" : "Carlsen Survives Thriller; Theodorou Beats Radjabov In 19 Moves"
-      },
-      {
-         "description" : "GM Hikaru Nakamura claimed first place in Bullet Brawl and won $400 for the second week in a row after accruing a winning score of 242. During the two-hour arena,&#38;nbsp; the 67 wins, four draws, and eight losses for Nakamura meant that he was abl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-18-2023",
-         "pubDate" : "Sat, 18 Nov 2023 18:42:37",
-         "title" : "Nakamura Scores 69/79 To Claim Back-To-Back Bullet Brawl Titles"
       },
       {
          "description" : "Dr Max Euwe was the fifth world chess champion, wresting the title from Alexander Alekhine in 1935. Chivalrously, Euwe granted his defeated foe a revenge match in 1937, which resulted not only in an Alekhine victory, but a contest which witnessed probably the highest quality games ever produced in a world championship match, not just []",
