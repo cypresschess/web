@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann won the Tournament of Peace in spectacular fashion. The US grandmaster secured tournament victory with a round to spare, but nonetheless checkmated rating favourite Anton Korobov in the final round. Korobov, Ante Brkic and Vasyl Ivanchuk finished in shared second place, a whole 3 points behind the winner. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-wins-tournament-of-peace-2023",
+         "pubDate" : "Thu, 30 Nov 2023 23:35:00",
+         "title" : "Hans Niemann dominates Tournament of Peace in Zagreb"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Anastasiya Karlovich before the start of the 2023 Grand Chess Tour events in Saint Louis. This aired during Round 9. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-failed-all-3-my-2023-goals-happy-be-alive-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W4maOhmExKo.jpg?itok=z9kn6lan\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-failed-all-3-my-2023-goals-happy-be-alive-sinquefieldcup",
+         "pubDate" : "Thu, 30 Nov 2023 23:00:57",
+         "title" : "Wesley So: Failed All 3 of My 2023 Goals, but Happy to Be Alive! | #SinquefieldCup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/indication-what-great-player-levon-aronian-sinquefieldcup-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q6tVszlLVsE.jpg?itok=9ET6bCvI\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -250,14 +266,6 @@ news_feed (
          "title" : "Giri on Candidates Rating Qualification: Should I LOSE to Fabi? | R7 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after defeating Wesley So in the seventh round of the 2023 Sinquefield Cup. 2023.11.28<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-benefits-no-worries-about-candidates-qualification-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/63WcPrMEJHc.jpg?itok=IqqIvy5i\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-benefits-no-worries-about-candidates-qualification-r7-sinquefieldcup",
-         "pubDate" : "Wed, 29 Nov 2023 07:59:12",
-         "title" : "Caruana Benefits from No Worries About Candidates Qualification | R7 #SinquefieldCup"
-      },
-      {
          "description" : "After beginning the last leg with a massive lead in tour points, GM Fabiano Caruana has clinched the 2023 Grand Chess Tour with two rounds to spare at the 2023 Sinquefield Cup. He and GM Leinier Dominguez scored their second wins in a row on Tue...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -352,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-257-highlights-from-the-european-team-tournament-budva-part-1",
          "pubDate" : "Mon, 27 Nov 2023 18:00:00",
          "title" : "Endgame Magic #256 - Highlights from the European Team Tournament Budva Part 1"
-      },
-      {
-         "description" : "Teimour Radjabov had a terrible tournament at the European Team Championship, and couldn't win a single game. Robert Ris steps in to the rescue. When Radjabov was just 15 years old, he faced Garry Kasparov, who had an incredible rating of 2847 at that time. In a French Defence game, we can witness several Knight sacrifices, and stunning attacks against Garry's king, by the Underdog.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/2624-wins-against-2847-with-the-french-the-underdog",
-         "pubDate" : "Mon, 27 Nov 2023 15:00:00",
-         "title" : "2624 wins against 2847 with the French? - The Underdog"
       },
       {
          "description" : "",
