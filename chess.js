@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his Game of the Week show #595, Merijn Van Delft takes a closer look at the marquee matchup between Fabiano Caruana and Wesley So from the Sinquefield Cup in Saint Louis. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-596-caruana-so",
+         "pubDate" : "Thu, 30 Nov 2023 17:00:00",
+         "title" : "Game of the Week #596: F. Caruana vs W. So"
+      },
+      {
+         "description" : "All four games ended drawn in the penultimate round of the Sinquefield Cup, which means Wesley So, Fabiano Caruana and Leinier Dominguez continue to share the lead. However, So has already played eight games in the event and will get a rest day on Thursday. In the final round, Caruana will play white against Richard Rapport, while Dominguez will play black against Levon Aronian. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r8",
+         "pubDate" : "Thu, 30 Nov 2023 16:05:00",
+         "title" : "Sinquefield Cup: Caruana and Dominguez favourites to take the title"
+      },
+      {
+         "description" : " The 13th London Classic takes place 1st to 10th December 2023. Play at 2pm each day. Rest day Wednesday December 6th. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-london-classic-2023",
+         "pubDate" : "Thu, 30 Nov 2023 14:38:00",
+         "title" : "13th London Classic 2023 - Games and Results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "2023 Sinquefield Cup: Day 8 Recap"
       },
       {
-         "description" : "The recently published articles \"The Never Ending Saga of Moroccan Chess, Part 1\" and \"Part 2\" described the sorry state of Moroccan chess and the unfortunate end of the International Prix Mohammed VI tournament, where the winners did not receive their prizes. This bizarre end of the tournament overshadowed the success of the young Latvian GM Paulius Pultinevicius, who won the event convincingly. | Photo: Paulius Pultinevicius after winning the Riga Technical University Open 2022 | Photo: RTU Open Facebook.",
+         "description" : "The recently published articles \"The Never Ending Saga of Moroccan Chess, Part 1\" and \"Part 2\" described the sorry state of Moroccan chess and the unfortunate end of the International Prix Mohammed VI tournament, where the winners did not receive their prizes. This bizarre end of the tournament overshadowed the success of the young Lithuanian GM Paulius Pultinevicius, who won the event convincingly. | Photo: Paulius Pultinevicius after winning the Riga Technical University Open 2022 | Photo: RTU Open Facebook.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prix-mohammed-vi-the-players",
@@ -90,12 +114,12 @@ news_feed (
          "title" : "Clarifications on FIDE Circuit Regulations and qualification procedure for Candidates 2024"
       },
       {
-         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
+         "description" : "Endgame studies don't need to be perfect to be entertaining. Prizes are to be awarded to endgame studies that meet the highest standards. Honorable mentions are for endgame studies of great but not the highest quality. Special awards should be for those that can't compete with other studies. Let us examine what this means.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
-         "pubDate" : "Wed, 29 Nov 2023 20:00:00",
-         "title" : "Sinquefield Cup - Live!"
+         "link" : "https://en.chessbase.com/post/study-of-the-month-special-honorable-mentions",
+         "pubDate" : "Wed, 29 Nov 2023 14:35:00",
+         "title" : "Study of the Month: Special honorable mentions"
       },
       {
          "description" : "Fabiano Caruana and Leinier Dominguez both scored back-to-back wins in rounds 6 and 7 of the Sinquefield Cup to join Wesley So in the lead of the standings. Caruana, in fact, defeated So on Tuesday, and he did it in remarkable style. By beating the former sole leader, Caruana also secured first place in the Grand Chess Tour and crossed the 2800-mark in the live ratings list! | Photo: Lennart Ootes",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/more-wacky-ideas.html",
          "pubDate" : "Wed, 29 Nov 2023 12:43:00",
          "title" : "More wacky ideas"
-      },
-      {
-         "description" : "Endgame studies don't need to be perfect to be entertaining. Prizes are to be awarded to endgame studies that meet the highest standards. Honorable mentions are for endgame studies of great but not the highest quality. Special awards should be for those that can't compete with other studies. Let us examine what this means.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-special-honorable-mentions",
-         "pubDate" : "Wed, 29 Nov 2023 12:26:17",
-         "title" : "Study of the Month: Special honorable mentions"
       },
       {
          "description" : "After the weekend, you&#39;re back in school. You open the door. You&#39;re hit with thunder-like applause from all your classmates and teachers in the hallways; everyone&#39;s proud of you. For most teenagers, this fantasy happens only in dreams. But this ...",
@@ -344,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-216-review-nagesh-havanur",
          "pubDate" : "Sun, 26 Nov 2023 23:00:00",
          "title" : "CBM 216: A World Cup special"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 153rd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and takes a look at the play of Mikhail Botvinnik. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-153-chess-history-in-a-nutshell-35",
-         "pubDate" : "Sun, 26 Nov 2023 19:00:00",
-         "title" : "Understanding before Moving 153: Chess history in a nutshell (35)"
       },
       {
          "description" : "This month's post in the series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016) offers a few surprises:- <UL> <LI>1st surprise: There is an 'Intercontinental Online Chess Championship for Prisoners'. <LI>2nd surprise: The tournament is sponsored by FIDE. <LI>3rd surprise: The most recent tournament was the third such event. </UL> <P> 4th surprise: The event was broadcast online. Here is the video covering the final round. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/f074lBHHD1g?si=e_JAdIRBlMxZ0o0b\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-w",
@@ -1200,14 +1208,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/nov/10/chess-adams-and-nunn-score-golden-double-in-world-senior-championships",
          "pubDate" : "Fri, 10 Nov 2023 08:00:17",
          "title" : "Chess: Adams and Nunn score golden double in world senior championships"
-      },
-      {
-         "description" : " Short answer - Nowhere Longer answer - overrun with work But best answer - Growing my moustache for Movember. You can donate at <a href=\"https://movember.com/m/shaunpress?mc=1\">https://movember.com/m/shaunpress?mc=1</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/where-has-shaun-gone.html",
-         "pubDate" : "Thu, 09 Nov 2023 13:34:00",
-         "title" : "Where has Shaun gone?"
       }
    ]
 }
