@@ -74,6 +74,14 @@ news_feed (
          "title" : "13th London Classic 2023 - Games and Results"
       },
       {
+         "description" : "GM Hans Niemann won the historic Tournament of Peace 2023 in Zagreb on Thursday by a massive three-point margin ahead of the field. With a 2946 performance rating, the 20-year-old American player scored 8/9, winning seven and drawing two games aga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-wins-2023-tournament-of-peace",
+         "pubDate" : "Thu, 30 Nov 2023 12:59:53",
+         "title" : "Niemann Compares Himself To Fischer After Winning Tournament By 3 Points"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/who-will-qualify-for-candidates",
          "pubDate" : "Mon, 20 Nov 2023 07:50:00",
          "title" : "The Race To Toronto: Who Will Qualify For The Candidates Tournament?"
-      },
-      {
-         "description" : "Saint Louis University (SLU) has won its second straight college title after dismantling the University of Texas at Dallas (UT Dallas) by an 11.5-4.5 margin in the Final of the 2023 Collegiate Chess League (CCL) fall season. A 3.5/4 MVP performa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2023-slu-wins",
-         "pubDate" : "Mon, 20 Nov 2023 02:01:00",
-         "title" : "Saint Louis University Dominate Collegiate Chess League Final"
       },
       {
          "description" : "I was starting to wonder if we were ever going to see more 'AI generated chess images' in the monthly featured Flickr post. The previous post featuring such images was <A HREF=\"https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html\">Karpov and Kasparov Play Chess in Iceland</A> (March 2023). Forget chess images; a giant leap forward is 'AI generated chess comics'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk19.jpg\" WIDTH=400 HEIGHT=283><BR> <A HREF=\"https://www.flickr.com/photos/schockwellenreiter/53325373038/\">Alice and the Chess Queen 5</A> &#169; Flickr user <I>Joerg Kantel</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-nd/2",
