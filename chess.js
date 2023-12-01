@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With a final-round win over Richard Rapport, Fabiano Caruana secured tournament victory at the Sinquefield Cup in Saint Louis. This was Caruana's third victory in this event, as he had previously won it in 2014 (when he famously grabbed seven wins in a row) and in 2018. Sole second place went to Leinier Dominguez, who drew Levon Aronian with the black pieces on Thursday. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r9",
+         "pubDate" : "Fri, 01 Dec 2023 15:50:00",
+         "title" : "Caruana beats Rapport, wins Sinquefield Cup for a third time"
+      },
+      {
+         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
+         "pubDate" : "Fri, 01 Dec 2023 15:00:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
          "description" : " The 9th Zagreb Tournament of Peace took place Wed 22nd to Thu 30th Nov 2023. Hans Moke Niemann scored 8/9 conceding just two draws on the way to winning the event by three clear points. He now moves on to the London Chess Classic.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -378,14 +394,6 @@ news_feed (
          "title" : "Who knows his name?"
       },
       {
-         "description" : "Wesley So scored his second victory in this year's Sinquefield Cup by beating Levon Aronian with the white pieces in Monday's sixth round. Moreover, wins for Leinier Dominguez (over Anish Giri) and Fabiano Caruana (over Alireza Firouzja) greatly increased So's chances of qualifying to the Candidates Tournament either by rating or via the FIDE Circuit. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r6",
-         "pubDate" : "Tue, 28 Nov 2023 11:55:00",
-         "title" : "Sinquefield Cup: A perfect day for So"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -400,14 +408,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/mongolia-tops-fides-new-gender-equality-in-chess-index-denmark-ranks-worst",
          "pubDate" : "Tue, 28 Nov 2023 09:24:00",
          "title" : "Mongolia Tops FIDE's New Gender Equality In Chess Index; Denmark Ranks Worst"
-      },
-      {
-         "description" : "Creating passed pawns is a strong weapon in the endgame. In the diagram position Black can turn her majority into a passed pawn - a passed pawn on the b-file or a passed pawn on the a-file. What would you play?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-through-2",
-         "pubDate" : "Tue, 28 Nov 2023 09:00:00",
-         "title" : "Breaking through"
       },
       {
          "description" : "",
@@ -842,14 +842,6 @@ news_feed (
          "title" : "Pressure will be higher in Candidates, says R Praggnanandhaa"
       },
       {
-         "description" : "Tenth-seed Serbia has won the 2023 European Team Chess Championship after finishing a single tiebreak point ahead of Germany, which took silver despite remaining unbeaten and winning their head-to-head clash. Team chess specialists Armenia took br...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-european-team-chess-championship-round-8-9",
-         "pubDate" : "Mon, 20 Nov 2023 13:39:00",
-         "title" : "Serbia, Bulgaria Triumph; Carlsen Takes Gold On Board 1"
-      },
-      {
          "description" : "The European Team Chess Championship 2023 is getting closer to its end, and the last round is scheduled for today at 15:00 CET. Serbia and Germany co-lead in the Open section scoring 13 match points each, while Bulgaria scores 14 match points in the Women's section to be the sole leader of the Women's event. Playing on the top board of the Open section, Serbia once again surprised and defeated one of the favourites for the top England. GM []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1232,22 +1224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-as-setting-gambit-by-rex-stout",
          "pubDate" : "Fri, 10 Nov 2023 20:00:00",
          "title" : "Chess as literary setting: \"Gambit\" by Rex Stout"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2733",
-         "pubDate" : "Fri, 10 Nov 2023 16:01:26",
-         "title" : "ACP Prize established to support young players"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105129568.cms\" />In another show of Indian players ruling the roost in international chess meets, city Grandmasters Deep Sengupta and Sayantan Das finished 1-2 at the Cap d'Agde International Open tournament in France earlier this week.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmasters-deep-sengupta-and-sayantan-das-finish-1-2-in-france/articleshow/105129568.cms",
-         "pubDate" : "Fri, 10 Nov 2023 14:11:14",
-         "title" : "Indian Grandmasters Deep and Sayantan finish 1-2 in France"
       }
    ]
 }
