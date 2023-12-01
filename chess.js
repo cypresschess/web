@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The controversial US 20-year-old won first prize in Croatia with 8/9 and a career-best performance rating of 2946, then flew to London for the traditional Classic The traditional <a href=\"https://londonchessclassic.com/players.html\" title=\"\">London Chess Classic</a> starts on Friday, and Hans Niemann, the most controversial character in the game, arrives at the board in the form of his life. The US 20-year-old, who made headlines when the world No 1, Magnus Carlsen, refused to play him, and who subsequently launched a $100m lawsuit against Carlsen and others, has been in constant action since their <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-chea",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/dec/01/hans-niemann-competes-in-london-classic-after-stunning-success-in-zagreb",
+         "pubDate" : "Fri, 01 Dec 2023 08:00:09",
+         "title" : "Hans Niemann competes in London Classic after stunning success in Zagreb"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to the team and provides analysis during the ninth round of the 2023 Sinquefield Cup. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-can%E2%80%99t-follow-fide-mathematics-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sD8lhqJ0dnQ.jpg?itok=sRfeGKe-\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -114,12 +122,12 @@ news_feed (
          "title" : "Game of the Week #596: F. Caruana vs W. So"
       },
       {
-         "description" : "This is a flash report. The full report is coming soon.&#38;nbsp; GM Fabiano Caruana added the 2023 Sinquefield Cup to his year of victories on Thursday. In his final round vs. GM Richard Rapport, Caruana combined strategic clarity with dynamic exec...",
+         "description" : "GM Fabiano Caruana added the 2023 Sinquefield Cup to his year of victories on Thursday. In his final round vs. GM Richard Rapport, Caruana combined strategic clarity with dynamic execution to break his opponent&#39;s defenses.&#38;nbsp; Caruana dominate...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-caruana-wins",
          "pubDate" : "Thu, 30 Nov 2023 16:01:00",
-         "title" : "Flash Report: Caruana Wins Sinquefield Cup"
+         "title" : "Caruana Wins Sinquefield Cup"
       },
       {
          "description" : " The 13th London Classic takes place 1st to 10th December 2023. Play at 2pm each day. Rest day Wednesday December 6th. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal.",
@@ -1216,14 +1224,6 @@ news_feed (
          "link" : "https://news.sky.com/story/chess-saved-my-life-the-ukrainians-and-russians-now-making-moves-for-england-13003956#new_tab",
          "pubDate" : "Fri, 10 Nov 2023 11:44:28",
          "title" : "'Chess saved my life': The Ukrainians and Russians now making moves for England"
-      },
-      {
-         "description" : " The eight-time British champion, 51, and the eminent author, 68, edged to tiebreak victories with strong final-round performances at the world over-50 and over-65 championships Michael Adams and John Nunn scored a golden double for England at the world senior championships for over-50s and over-65s, which ended at Terrasini, Sicily, on Sunday. The pair were both top seeded, then saw their chances slip in the middle rounds before they launched decisive finishing spurts to capture their world titles. First prize in each section was €3,000. Both winners have a strong connection with Cornwall - Nunn currently resides in Bude, while Adams was raised in Truro. <a href=\"https://www.theguardian.c",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/nov/10/chess-adams-and-nunn-score-golden-double-in-world-senior-championships",
-         "pubDate" : "Fri, 10 Nov 2023 08:00:17",
-         "title" : "Chess: Adams and Nunn score golden double in world senior championships"
       }
    ]
 }
