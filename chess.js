@@ -74,12 +74,12 @@ news_feed (
          "title" : "Game of the Week #596: F. Caruana vs W. So"
       },
       {
-         "description" : "All four games ended drawn in the penultimate round of the Sinquefield Cup, which means Wesley So, Fabiano Caruana and Leinier Dominguez continue to share the lead. However, So has already played eight games in the event and will get a rest day on Thursday. In the final round, Caruana will play white against Richard Rapport, while Dominguez will play black against Levon Aronian. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r8",
-         "pubDate" : "Thu, 30 Nov 2023 16:05:00",
-         "title" : "Sinquefield Cup: Caruana and Dominguez favourites to take the title"
+         "description" : "This is a flash report. The full report is coming soon.&#38;nbsp; GM Fabiano Caruana added the 2023 Sinquefield Cup to his year of victories on Thursday. In his final round vs. GM Richard Rapport, Caruana combined strategic clarity with dynamic exec...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-caruana-wins",
+         "pubDate" : "Thu, 30 Nov 2023 16:01:31",
+         "title" : "Flash Report: Caruana Wins Sinquefield Cup"
       },
       {
          "description" : " The 13th London Classic takes place 1st to 10th December 2023. Play at 2pm each day. Rest day Wednesday December 6th. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal.",
@@ -120,6 +120,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prix-mohammed-vi-the-players",
          "pubDate" : "Thu, 30 Nov 2023 10:00:00",
          "title" : "Paulius Pultinevicius - Winner of the Prix Mohammed VI tournament"
+      },
+      {
+         "description" : "All four games ended drawn in the penultimate round of the Sinquefield Cup, which means Wesley So, Fabiano Caruana and Leinier Dominguez continue to share the lead. However, So has already played eight games in the event and will get a rest day on Thursday. In the final round, Caruana will play white against Richard Rapport, while Dominguez will play black against Levon Aronian. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r8",
+         "pubDate" : "Thu, 30 Nov 2023 09:55:00",
+         "title" : "Sinquefield Cup: Caruana and Dominguez favourites to take the title"
       },
       {
          "description" : "GMs Fabiano Caruana, Leinier Dominguez, and Wesley So lead the 2023 Sinquefield Cup on 4.5 points heading into the final round following a day of high-accuracy draws in all four matchups. The $100,000 first prize will likely be determined by the g...",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/only-3-of-germans-know-the-name-of-the-current-chess-world-champ/",
          "pubDate" : "Mon, 20 Nov 2023 09:11:38",
          "title" : "Only 3% of Germans know the name of the current world champion"
-      },
-      {
-         "description" : "Six out of eight players are confirmed for the 2024 FIDE Candidates tournament, but the race is still on for the remaining two spots. Here&#39;s the status less than six weeks before we get to know the complete field. GMs Ian Nepomniachtchi, Hikaru ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/who-will-qualify-for-candidates",
-         "pubDate" : "Mon, 20 Nov 2023 07:50:00",
-         "title" : "The Race To Toronto: Who Will Qualify For The Candidates Tournament?"
       },
       {
          "description" : "I was starting to wonder if we were ever going to see more 'AI generated chess images' in the monthly featured Flickr post. The previous post featuring such images was <A HREF=\"https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html\">Karpov and Kasparov Play Chess in Iceland</A> (March 2023). Forget chess images; a giant leap forward is 'AI generated chess comics'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk19.jpg\" WIDTH=400 HEIGHT=283><BR> <A HREF=\"https://www.flickr.com/photos/schockwellenreiter/53325373038/\">Alice and the Chess Queen 5</A> &#169; Flickr user <I>Joerg Kantel</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-nd/2",
