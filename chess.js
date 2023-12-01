@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 9th Zagreb Tournament of Peace took place Wed 22nd to Thu 30th Nov 2023. Hans Moke Niemann scored 8/9 conceding just two draws on the way to winning the event by three clear points. He now moves on to the London Chess Classic.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/9th-zagreb-tournament-of-peace-2023",
+         "pubDate" : "Fri, 1 Dec 2023 12:16:00",
+         "title" : "9th Zagreb Tournament of Peace 2023 - Games and Results"
+      },
+      {
+         "description" : " Today I helped run a school chess event in country NSW. It was a small affair, with 34 players taking part, and the emphasis was on fun and learning, rather than competition. Despite the relative inexperience of a lot of the players there were still some games that attracted my attention. Specifically, there were a number of endgames that may well have appeared in stronger events, even if that wasn't the intention. In no particular order I saw <ul style=\"text-align: left;\"><li>K+Q v K+R (win for the Q)</li><li>K+B+N v K (at least twice, both being drawn)</li><li>K v K (drawn of course)</li><li>K+2N v K+P (eventually drawn. I guess they haven't studied Troitzky as yet)</li></ul>And while the",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/some-surprising-endgames.html",
+         "pubDate" : "Fri, 01 Dec 2023 11:20:00",
+         "title" : "Some surprising endgames"
+      },
+      {
+         "description" : "From 9 to 16 February 2024, the Weissenhaus Private Nature Luxury Resort on the Baltic Sea in Germany will be the venue for a super tournament in \"Freestyle Chess\", also known as Chess960. Seven world-class players, including world champion Ding Liren and Vincent Keymer, will challenge the G.O.A.T (Greatest of all Times), Magnus Carlsen, in a Chess960 tournament with classical time control.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-super-tournament-in-germany-seven-top-players-challenge-carlsen",
+         "pubDate" : "Fri, 01 Dec 2023 10:00:00",
+         "title" : "Freestyle Super Tournament in Germany - Seven top players challenge Magnus Carlsen"
+      },
+      {
+         "description" : "The 13th edition of the London Chess Classic commences today in London, England! It is a 10-player round-robin tournament, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with a 30-second increment for each move. The total prize fund of the event is &pound;38,500. GM Gukesh D (IND, 2720) is the top-seeded player of the tournament, followed by GM Nikita Vitiugov (ENG, 2704), GM Amin Tabatabaei (IRI, 2692), GM Hans []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/london-chess-classic-2023-commences-today/",
+         "pubDate" : "Fri, 01 Dec 2023 09:49:48",
+         "title" : "London Chess Classic 2023 commences today"
+      },
+      {
          "description" : " The controversial US 20-year-old won first prize in Croatia with 8/9 and a career-best performance rating of 2946, then flew to London for the traditional Classic The traditional <a href=\"https://londonchessclassic.com/players.html\" title=\"\">London Chess Classic</a> starts on Friday, and Hans Niemann, the most controversial character in the game, arrives at the board in the form of his life. The US 20-year-old, who made headlines when the world No 1, Magnus Carlsen, refused to play him, and who subsequently launched a $100m lawsuit against Carlsen and others, has been in constant action since their <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-chea",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/dec/01/hans-niemann-competes-in-london-classic-after-stunning-success-in-zagreb",
          "pubDate" : "Fri, 01 Dec 2023 08:00:09",
          "title" : "Hans Niemann competes in London Classic after stunning success in Zagreb"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2775",
+         "pubDate" : "Fri, 01 Dec 2023 07:24:44",
+         "title" : "Call for Bids: World Championships 2024 "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2777",
+         "pubDate" : "Fri, 01 Dec 2023 07:00:11",
+         "title" : "Fabiano Caruana wins 2023 Sinquefield Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2776",
+         "pubDate" : "Fri, 01 Dec 2023 06:47:03",
+         "title" : "Call for Bids: World Championships 2025 "
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to the team and provides analysis during the ninth round of the 2023 Sinquefield Cup. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-can%E2%80%99t-follow-fide-mathematics-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sD8lhqJ0dnQ.jpg?itok=sRfeGKe-\" alt=\"\" /></a></div>",
@@ -194,6 +250,14 @@ news_feed (
          "title" : "Strong multi-format tournament running in Sharjah with Yu, Sjugirov, Nihal and Salem"
       },
       {
+         "description" : " From the publisher: &#8220;Almost as fascinating as chess is the community of chess players. In every major city in the world, you are guaranteed to meet interesting people when you <a href=\"http://britishchessnews.com/2023/11/30/speed-demon-the-fascinating-games-and-tragic-life-of-alexey-vyzhmanavin/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a href=\"http://britishchessnews.com/2023/11/30/speed-demon-the-fascinating-games-and-tragic-life-of-alexey-vyzhmanavin/\">Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin</",
+         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
+         "iconName" : "British Chess<br>News",
+         "link" : "http://britishchessnews.com/2023/11/30/speed-demon-the-fascinating-games-and-tragic-life-of-alexey-vyzhmanavin/",
+         "pubDate" : "Thu, 30 Nov 2023 00:10:26",
+         "title" : "Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after a draw against Giri in the eighth round of the 2023 Sinquefield Cup. 2023.11.29<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-game-giri-did-not-want-win-r8-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wAB9YCwHi30.jpg?itok=z1udKXLE\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -346,14 +410,6 @@ news_feed (
          "title" : "Breaking through"
       },
       {
-         "description" : "Grandmaster Kevin Goh Wei Ming is both the CEO of the Singapore Chess Federation and an 8-time national champion at the Southeast Asian city-state. Kevin recently shared a post on X, showing his experience teaching chess at the Singapore Prison Services. IM Sagar Shah interviewed him on the topic. \"Most importantly, chess has brought joy to [the inmates] in a way that perhaps serious, competitive players may never understand\". | Photos: Kevin Goh Wei Ming&rsquo;s X account",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-kevin-goh-wei-ming",
-         "pubDate" : "Tue, 28 Nov 2023 01:00:00",
-         "title" : "Singapore Federation CEO Kevin Goh Wei Ming teaches chess in prisons"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -368,14 +424,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-6",
          "pubDate" : "Mon, 27 Nov 2023 19:15:00",
          "title" : "Victories Aplenty: So Leads; Caruana, Dominguez Score 1st Wins"
-      },
-      {
-         "description" : "In the Endgame Magic Show #256 Karsten M&uuml;ller shows highlights from the European Team Tournament Budva, focusing on rook endgames. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-257-highlights-from-the-european-team-tournament-budva-part-1",
-         "pubDate" : "Mon, 27 Nov 2023 18:00:00",
-         "title" : "Endgame Magic #256 - Highlights from the European Team Tournament Budva Part 1"
       },
       {
          "description" : "",
@@ -1058,14 +1106,6 @@ news_feed (
          "title" : "Round 2 report WYCC Italy 2023"
       },
       {
-         "description" : "The 2023 ECU Congress will be held from 17 to 19 November in Budva, Montenegro, featuring ECU Commissions' meetings and the annual General Assembly. The Commissions' meetings will be held on Friday, November 17th, and Saturday, November 18th, in *****Hotel Splendid, which is also the official hotel and the playing venue of the European Team Chess Championship 2023. The annual ECU General Assembly will be held on November 19th, in the Conference Hall of the Hotel Mediteran. The Assembly will []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-congress-ecu-general-assembly-2023/",
-         "pubDate" : "Wed, 15 Nov 2023 09:24:11",
-         "title" : "ECU Congress & ECU General Assembly 2023"
-      },
-      {
          "description" : " The Saint Louis Rapid & Blitz took place 14th to 19th November 2023. \"Fabiano Caruana became the 2023 Saint Louis Rapid & Blitz champion after a dramatic final day of blitz, which came down to a winner-take-all last round game against Maxime Vachier-Lagrave. Caruana ended with 21/36 points, Vachier-Lagrave finished second with 20.5, while Ian Nepomniachtchi and Le Quang Liem tied for third place with 20.\" \"Earning 13 GCT points for the tournament victory, Caruana is now extremely close to clinching the overall 2023 Grand Chess Tour.\" Ray Robson was the surprise winner of the rapid with 5.5/9. Caruana, Le Quang Liem and Ian Nepomniachtchi scored 11/18 in the blitz. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1208,22 +1248,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmasters-deep-sengupta-and-sayantan-das-finish-1-2-in-france/articleshow/105129568.cms",
          "pubDate" : "Fri, 10 Nov 2023 14:11:14",
          "title" : "Indian Grandmasters Deep and Sayantan finish 1-2 in France"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2732",
-         "pubDate" : "Fri, 10 Nov 2023 11:44:49",
-         "title" : "FIDE World Amateur Championship 2023: Round 8 recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://news.sky.com/story/chess-saved-my-life-the-ukrainians-and-russians-now-making-moves-for-england-13003956#new_tab",
-         "pubDate" : "Fri, 10 Nov 2023 11:44:28",
-         "title" : "'Chess saved my life': The Ukrainians and Russians now making moves for England"
       }
    ]
 }
