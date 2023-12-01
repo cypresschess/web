@@ -34,6 +34,14 @@ news_feed (
          "title" : "9th Zagreb Tournament of Peace 2023 - Games and Results"
       },
       {
+         "description" : "IM-elect Brewington Hardaway crossed 2400 FIDE rating to earn the international master title at the U.S. Masters 2023 on Sunday at the Charlotte Chess Center in North Carolina. Already having four IM norms, he should receive the title at the next ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-im-title-and-gm-norm",
+         "pubDate" : "Fri, 01 Dec 2023 12:02:56",
+         "title" : "Brewington Hardaway Earns IM Title And First GM Norm"
+      },
+      {
          "description" : " Today I helped run a school chess event in country NSW. It was a small affair, with 34 players taking part, and the emphasis was on fun and learning, rather than competition. Despite the relative inexperience of a lot of the players there were still some games that attracted my attention. Specifically, there were a number of endgames that may well have appeared in stronger events, even if that wasn't the intention. In no particular order I saw <ul style=\"text-align: left;\"><li>K+Q v K+R (win for the Q)</li><li>K+B+N v K (at least twice, both being drawn)</li><li>K v K (drawn of course)</li><li>K+2N v K+P (eventually drawn. I guess they haven't studied Troitzky as yet)</li></ul>And while the",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "Beats To Play Chess To: Lofi Girl Unveils New Champions Chess Tour Finals Playlist"
       },
       {
-         "description" : " The controversial US 20-year-old won first prize in Croatia with 8/9 and a career-best performance rating of 2946, then flew to London for the traditional Classic The traditional <a href=\"https://londonchessclassic.com/players.html\" title=\"\">London Chess Classic</a> starts on Friday, and Hans Niemann, the most controversial character in the game, arrives at the board in the form of his life. The US 20-year-old, who made headlines when the world No 1, Magnus Carlsen, refused to play him, and who subsequently launched a $100m lawsuit against Carlsen and others, has been in constant action since their <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-chea",
+         "description" : " The controversial US 20-year-old won first prize in Croatia with 8/9 and a career-best performance rating of 2946, then flew to London for the traditional Classic The traditional <a href=\"https://londonchessclassic.com/players.html\" title=\"\">London Chess Classic</a> started on Friday, and Hans Niemann, the most controversial character in the game, arrived at the board in the form of his life. The US 20-year-old, who made headlines when the world No 1, Magnus Carlsen, refused to play him, and who subsequently launched a $100m lawsuit against Carlsen and others, has been in constant action since their <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-che",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/dec/01/hans-niemann-competes-in-london-classic-after-stunning-success-in-zagreb",
@@ -222,7 +230,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/niemann-wins-2023-tournament-of-peace",
-         "pubDate" : "Thu, 30 Nov 2023 12:59:53",
+         "pubDate" : "Thu, 30 Nov 2023 12:59:00",
          "title" : "Niemann Compares Himself To Fischer After Winning Tournament By 3 Points"
       },
       {
@@ -794,14 +802,6 @@ news_feed (
          "title" : "Sharp lines, watch your fingers"
       },
       {
-         "description" : "GM Harika Dronavalli will face GM Hou Yifan in the Julius Baer Women&#39;s Speed Chess Championship 2023 Final. On Tuesday, she defeated GM Kateryna Lagno in the Semifinals by a score of 12-10. It was a fairly even match in the first two segments, t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-semifinals-harika-wins",
-         "pubDate" : "Tue, 21 Nov 2023 12:33:00",
-         "title" : "Harika Advances To Final Vs. Hou Yifan"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1216,14 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2734",
          "pubDate" : "Fri, 10 Nov 2023 22:37:42",
          "title" : "Winners crowned at World Amateurs Chess Championship 2023"
-      },
-      {
-         "description" : "Albin's Counter Gambit (1.d4 d5 2.c4 e5) has been, and still is, a rare guest at top level tournaments, and is hardly ever seen in the practice of the world champions. The variation is considered theoretically dubious and as an overly aggressive attempt to gain counterplay in the rather solid Queen's Gambit. However, the opening has found its way into literature - in the novel \"Gambit\" by American crime writer Rex Stout.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-as-setting-gambit-by-rex-stout",
-         "pubDate" : "Fri, 10 Nov 2023 20:00:00",
-         "title" : "Chess as literary setting: \"Gambit\" by Rex Stout"
       }
    ]
 }
