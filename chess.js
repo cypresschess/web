@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 13th London Classic takes place 1st to 10th December 2023. Play at 2pm each day. Rest day Wednesday December 6th. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/13th-london-classic-2023",
+         "pubDate" : "Fri, 1 Dec 2023 16:40:00",
+         "title" : "13th London Classic 2023 - Games and Results"
+      },
+      {
          "description" : "With a final-round win over Richard Rapport, Fabiano Caruana secured tournament victory at the Sinquefield Cup in Saint Louis. This was Caruana's third victory in this event, as he had previously won it in 2014 (when he famously grabbed seven wins in a row) and in 2018. Sole second place went to Leinier Dominguez, who drew Levon Aronian with the black pieces on Thursday. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.europechess.org/london-chess-classic-2023-commences-today/",
          "pubDate" : "Fri, 01 Dec 2023 09:49:48",
          "title" : "London Chess Classic 2023 commences today"
+      },
+      {
+         "description" : "She spends her days&#38;mdash;and nights&#38;mdash;helping people focus on work and study, so this may not surprise you. But Lofi Girl now plays chess. The beloved anime character, who has become a global sensation with her unique blend of music and vis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lofi-girl-unveils-new-playlist-for-the-2023-champions-chess-tour-finals",
+         "pubDate" : "Fri, 01 Dec 2023 08:51:40",
+         "title" : "Beats To Play Chess To: Lofi Girl Unveils New Champions Chess Tour Finals Playlist"
       },
       {
          "description" : " The controversial US 20-year-old won first prize in Croatia with 8/9 and a career-best performance rating of 2946, then flew to London for the traditional Classic The traditional <a href=\"https://londonchessclassic.com/players.html\" title=\"\">London Chess Classic</a> starts on Friday, and Hans Niemann, the most controversial character in the game, arrives at the board in the form of his life. The US 20-year-old, who made headlines when the world No 1, Magnus Carlsen, refused to play him, and who subsequently launched a $100m lawsuit against Carlsen and others, has been in constant action since their <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-chea",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-caruana-wins",
          "pubDate" : "Thu, 30 Nov 2023 16:01:00",
          "title" : "Caruana Wins Sinquefield Cup"
-      },
-      {
-         "description" : " The 13th London Classic takes place 1st to 10th December 2023. Play at 2pm each day. Rest day Wednesday December 6th. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-london-classic-2023",
-         "pubDate" : "Thu, 30 Nov 2023 14:38:00",
-         "title" : "13th London Classic 2023 - Games and Results"
       },
       {
          "description" : "GM Hans Niemann won the historic Tournament of Peace 2023 in Zagreb on Thursday by a massive three-point margin ahead of the field. With a 2946 performance rating, the 20-year-old American player scored 8/9, winning seven and drawing two games aga...",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bronze-medal-and-norms-for-lan-yao/",
          "pubDate" : "Tue, 21 Nov 2023 11:43:20",
          "title" : "Bronze medal and norms for Lan Yao!"
-      },
-      {
-         "description" : "IM Stefan Docx has been handed a one-year ban from taking part in FIDE-rated tournaments after refusing a metal detector body scan during an incident in Spain. Docx was found not guilty of computer cheating and says he has appealed the suspension....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/belgian-im-handed-1-year-ban-after-refusing-metal-detector-scan",
-         "pubDate" : "Tue, 21 Nov 2023 11:18:00",
-         "title" : "Belgian IM Handed 1-Year FIDE Ban After Refusing Body Scan"
       },
       {
          "description" : "36th National Under-09 Open &#38; Girls Chess Championship 2023 certificates are out to download. Open : https://aicf.online/National-09.html Girls : https://aicf.online/National-09-G.html Any correction mail at aicfwebmaster2021@gmail.com",
