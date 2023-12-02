@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today some elementary endgame tactics. In the diagram position, the constellation on the kingside with the far advanced pawn h3 secures Black's advantage. But how to exploit this?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bishops-and-passers",
+         "pubDate" : "Sat, 02 Dec 2023 09:00:00",
+         "title" : "Bishops and passers"
+      },
+      {
+         "description" : "All India Chess Federation holding it's AGM Meeting on upcoming 23rd December at Kanpur. Access further details by downloading the official Agenda. AGM Agenda :",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/agm-meeting-23rd-dec/",
+         "pubDate" : "Sat, 02 Dec 2023 07:35:04",
+         "title" : "AGM Meeting, 23rd DEC."
+      },
+      {
          "description" : "Dommaraju Gukesh and Michael Adams got off to winning starts at the 13th edition of the London Chess Classic. Gukesh defeated Mateusz Bartel's French Defence, while Adams showcased his positional virtuosity playing white against Amin Tabatabaei. Both Gukesh and Adams will play black in the second round, against Nikita Vitiugov and Hans Niemann respectively. | Photo: Abhyudaya Ram",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -416,14 +432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2769",
          "pubDate" : "Tue, 28 Nov 2023 17:00:03",
          "title" : "Empowering queens of the chessboard: National Female Team Development Seminar "
-      },
-      {
-         "description" : "In some sports, being a lefthander might give you a substantive advantage over your opponents. In table tennis or in tennis, for example, lefthanders score better over their right-handed opponents. Why? Approximately 90 percent of professional table tennis players are right-handed. Therefore, a left-hander plays a right-hander in 9 out of 10 matches, whereas a right-handed player plays a leftie only in 1 out of 10 matches. Left-handed players therefore have 9 times more experience with such a match, and therefore score consistently better. | Photo: John McEnroe, one of the most famous and successful left-handed tennis players | Photo: Wikipedia, Nrbelex",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-27-lefthanders",
-         "pubDate" : "Tue, 28 Nov 2023 15:26:13",
-         "title" : "The Winning Academy 27: Lefthanders"
       },
       {
          "description" : "",
@@ -1154,14 +1162,6 @@ news_feed (
          "title" : "What is a Master?"
       },
       {
-         "description" : "at Colombo, Sri Lanka from 28th November to 6th December, 2023 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asian-junior-chess-championship-2023/",
-         "pubDate" : "Mon, 13 Nov 2023 06:02:58",
-         "title" : "Western Asian Junior Chess Championship - 2023"
-      },
-      {
          "description" : "Of the dozen videos on this month's short list for featured video, a third of them were from Youtube's <I>Chess.com</I> channel. All of them would have been a good selection for the post, but this video edged out the others. I liked the idea behind it : indirectly getting Magnus to talk about himself. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/12U0_QgZHxw?si=R8f-4HV6zwn0XSKN\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Can AI Replace Magnus Carlsen?</B> (5:51) &#149; '[Published on] Nov 10, 2023' <P> The question posed by t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1200,14 +1200,6 @@ news_feed (
          "link" : "https://www.thearticle.com/christmas-chess-books/",
          "pubDate" : "Sat, 11 Nov 2023 11:07:11",
          "title" : "Christmas Chess Books"
-      },
-      {
-         "description" : " Back in 2002, The Chess Drum ran a short article by Dan Lucas that mentioned the U.S. possibly being the host of the 2004 Chess Olympiad. It was during a time of transition for U.S. Chess and at the time, Florida was vying to become the center of U.S. and world chess. The World Chess The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/11/when-will-the-u-s-host-a-chess-olympiad/\">When will the U.S. host a Chess Olympiad?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/11/11/when-will-the-u-s-host-a-chess-olympiad/",
-         "pubDate" : "Sat, 11 Nov 2023 05:09:47",
-         "title" : "When will the U.S. host a Chess Olympiad?"
       }
    ]
 }
