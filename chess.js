@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
+         "pubDate" : "Sat, 02 Dec 2023 15:00:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "Welcome to the ChessBase India Winter Chess Solving Championship, an initiative to promote chess composition and creative-logical thinking through chess. This introductory article serves as the curtain-raiser to the event: Satanick Mukhuty give you the rules, the details of the prizes, and the first six of the twelve problems to solve. This is a serious challenge.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-knack-for-problem-solving",
+         "pubDate" : "Sat, 02 Dec 2023 14:55:00",
+         "title" : "A knack for problem-solving?"
+      },
+      {
+         "description" : "As described in the article \"The Never Ending Saga of Moroccan Chess\" (Part 1 and Part 2), the International Prix Mohammed VI tournament had an unfortunate end, as the winners did not receive their prizes. That incident did not take away from the players' efforts and performances, though, as shown here by Diana Mihajlova. | Pictured: Rising star Kevin Michael George with his parents and his coach, GM Bassem Amin",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mohammed-vi-prize-the-players-part-2",
+         "pubDate" : "Sat, 02 Dec 2023 14:45:00",
+         "title" : "Mohammed VI Prize - The players (part 2)"
+      },
+      {
          "description" : "The Elgin Marbles are once again in the news after Rishi Sunak's sensational snub to that heir of Pericles, the Greek Prime Minister Kyriakos Mitsotakis. The connection between the marvellous Marbles and chess is not generally known, but definitely exists. In what follows I have made liberal and grateful use of the expert insights of []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -189,17 +213,25 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2777",
-         "pubDate" : "Fri, 01 Dec 2023 07:00:11",
-         "title" : "Fabiano Caruana wins 2023 Sinquefield Cup"
+         "link" : "https://www.fide.com/news/2778",
+         "pubDate" : "Fri, 01 Dec 2023 07:03:59",
+         "title" : "FIDE December 2023 rating list published"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2776",
-         "pubDate" : "Fri, 01 Dec 2023 06:47:03",
+         "pubDate" : "Fri, 01 Dec 2023 07:02:03",
          "title" : "Call for Bids: World Championships 2025 "
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2777",
+         "pubDate" : "Fri, 01 Dec 2023 07:00:11",
+         "title" : "Fabiano Caruana wins 2023 Sinquefield Cup"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to the team and provides analysis during the ninth round of the 2023 Sinquefield Cup. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-can%E2%80%99t-follow-fide-mathematics-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sD8lhqJ0dnQ.jpg?itok=sRfeGKe-\" alt=\"\" /></a></div>",
@@ -338,14 +370,6 @@ news_feed (
          "title" : "Caruana, Dominguez Vie For First Following Day Of Draws"
       },
       {
-         "description" : "A 4-player multi-format tournament is taking place from November 27 to December 6 in Sharjah, United Arab Emirates. Yu Yangyi, Sanan Sjugirov, Nihal Sarin and Saleh Salem first face each other in double round-robin tournaments in classical and rapid chess, and then in a triple round-robin blitz event. After three rounds of classical games, Yu leads the standings with 15/18 points (in classical, a win grants 6 points). | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alef-super-stars-2023-r3",
-         "pubDate" : "Thu, 30 Nov 2023 01:00:00",
-         "title" : "Strong multi-format tournament running in Sharjah with Yu, Sjugirov, Nihal and Salem"
-      },
-      {
          "description" : " From the publisher: &#8220;Almost as fascinating as chess is the community of chess players. In every major city in the world, you are guaranteed to meet interesting people when you <a href=\"http://britishchessnews.com/2023/11/30/speed-demon-the-fascinating-games-and-tragic-life-of-alexey-vyzhmanavin/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a href=\"http://britishchessnews.com/2023/11/30/speed-demon-the-fascinating-games-and-tragic-life-of-alexey-vyzhmanavin/\">Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin</",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -368,22 +392,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2771",
          "pubDate" : "Wed, 29 Nov 2023 21:02:22",
          "title" : "Clarifications on FIDE Circuit Regulations and qualification procedure for Candidates 2024"
-      },
-      {
-         "description" : "Endgame studies don't need to be perfect to be entertaining. Prizes are to be awarded to endgame studies that meet the highest standards. Honorable mentions are for endgame studies of great but not the highest quality. Special awards should be for those that can't compete with other studies. Let us examine what this means.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-special-honorable-mentions",
-         "pubDate" : "Wed, 29 Nov 2023 14:35:00",
-         "title" : "Study of the Month: Special honorable mentions"
-      },
-      {
-         "description" : "Fabiano Caruana and Leinier Dominguez both scored back-to-back wins in rounds 6 and 7 of the Sinquefield Cup to join Wesley So in the lead of the standings. Caruana, in fact, defeated So on Tuesday, and he did it in remarkable style. By beating the former sole leader, Caruana also secured first place in the Grand Chess Tour and crossed the 2800-mark in the live ratings list! | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r7",
-         "pubDate" : "Wed, 29 Nov 2023 14:30:00",
-         "title" : "Sinquefield Cup: Caruana beats So, Dominguez scores"
       },
       {
          "description" : "IM Levy Rozman, (aka &#34;GothamChess&#34;) was recently announced as one of Forbes Magazine&#39;s 30 under 30 in the class of 2024 in the &#34;games&#34; category, joining an illustrious group of entrepreneurs who were judged to be &#34;leading a technological and artis...",
