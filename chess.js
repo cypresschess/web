@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2779",
+         "pubDate" : "Sat, 02 Dec 2023 19:12:41",
+         "title" : "2023 FIDE Online GA: List of Member Federations having right to vote"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, Madhya Pradesh Chess Ad-Hoc Committee is organizing a Senior National Arbiters Seminar &#38; Exam from 30- 31 Dec",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-at-katni-madhya-pradesh-30-31-dec-2023/",
+         "pubDate" : "Sat, 02 Dec 2023 17:47:46",
+         "title" : "Senior National Arbiter Seminar & Exam at Katni, Madhya Pradesh 30-31 Dec 2023"
+      },
+      {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -190,7 +206,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lofi-girl-unveils-new-playlist-for-the-2023-champions-chess-tour-finals",
-         "pubDate" : "Fri, 01 Dec 2023 08:51:40",
+         "pubDate" : "Fri, 01 Dec 2023 08:51:00",
          "title" : "Beats To Play Chess To: Lofi Girl Unveils New Champions Chess Tour Finals Playlist"
       },
       {
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2739",
          "pubDate" : "Tue, 14 Nov 2023 11:09:17",
          "title" : "FIDE Director for Chess Development visits Namibia"
-      },
-      {
-         "description" : "New Delhi, 13th November, 2023 - The All India Chess Federation (AICF) is embarking on a historic journey to propel Indian chess to unprecedented heights.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-pledges-financial-assistance-of-2-crores-inr-usd-240459-for-praggnandhaaa-vidit-and-vaishali-setting-the-stage-for-chess-history/",
-         "pubDate" : "Tue, 14 Nov 2023 10:55:36",
-         "title" : "AICF Pledges financial assistance of 2 crores INR (USD 240459) for Praggnandhaaa, Vidit, and Vaishali, Setting the Stage for Chess History"
       },
       {
          "description" : "",
