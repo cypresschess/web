@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Elgin Marbles are once again in the news after Rishi Sunak's sensational snub to that heir of Pericles, the Greek Prime Minister Kyriakos Mitsotakis. The connection between the marvellous Marbles and chess is not generally known, but definitely exists. In what follows I have made liberal and grateful use of the expert insights of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/knight-errant-chess-and-the-elgin-marbles/",
+         "pubDate" : "Sat, 02 Dec 2023 09:20:40",
+         "title" : "Knight errant: chess and the Elgin Marbles"
+      },
+      {
          "description" : "Today some elementary endgame tactics. In the diagram position, the constellation on the kingside with the far advanced pawn h3 secures Black's advantage. But how to exploit this?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -86,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vaishali-achieves-gm-title",
-         "pubDate" : "Fri, 01 Dec 2023 19:55:55",
+         "pubDate" : "Fri, 01 Dec 2023 19:55:00",
          "title" : "Vaishali Achieves GM Title"
       },
       {
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2735",
          "pubDate" : "Sat, 11 Nov 2023 21:07:33",
          "title" : "2023 European Team Championship kicks off in Budva, Montenegro"
-      },
-      {
-         "description" : "A good year for contributions to chess literature. First of all, I must declare an interest, being a member of the RAC Chess Circle, the Fons et Origo of my first of three recommendations. The Hamilton-Russell Cup: 100 Years of Convivial Chess and the Man Behind It by Norman Britten &#38; Danny Rosenbaum (The Biogs []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/christmas-chess-books/",
-         "pubDate" : "Sat, 11 Nov 2023 11:07:11",
-         "title" : "Christmas Chess Books"
       }
    ]
 }
