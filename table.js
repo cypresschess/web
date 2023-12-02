@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2023-12-01","6","<a href=http://www.uschess.org/msa/XtblMain.php?202312017062 target='_blank'>REBECCA CHESS CLUB QUADS DECEMBER 1, 2023</a>",
 "HOUSTON","2023-11-07  - 11-28","23","<a href=http://www.uschess.org/msa/XtblMain.php?202311286052 target='_blank'>NOV 2023 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2023-11-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202311264812 target='_blank'>NOVEMBER 26TH SUNDAY SWISS</a>",
 "HOUSTON","2023-11-25","14","<a href=http://www.uschess.org/msa/XtblMain.php?202311254842 target='_blank'>HOUSTON WOMEN AND GIRLS 2023 CHESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-05-19  - 05-21","62","<a href=http://www.uschess.org/msa/XtblMain.php?202305218122 target='_blank'>$2,500 HOUSTON CHESS STUDIO MAY 202</a>",
 "HOUSTON","2023-05-20","52","<a href=http://www.uschess.org/msa/XtblMain.php?202305207082 target='_blank'>PISD MAY 2023- MAY 2023 HS</a>",
 "HOUSTON","2023-05-20","95","<a href=http://www.uschess.org/msa/XtblMain.php?202305206952 target='_blank'>TEXAS PRIVATE & PAROCHIAL CHAMPIONS</a>",
-"PASADENA","2023-05-20","54","<a href=http://www.uschess.org/msa/XtblMain.php?202305206552 target='_blank'>PISD MAY 2023- MAY 2023 INTERMEDIAT</a>",
 ]);
