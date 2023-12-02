@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dommaraju Gukesh and Michael Adams got off to winning starts at the 13th edition of the London Chess Classic. Gukesh defeated Mateusz Bartel's French Defence, while Adams showcased his positional virtuosity playing white against Amin Tabatabaei. Both Gukesh and Adams will play black in the second round, against Nikita Vitiugov and Hans Niemann respectively. | Photo: Abhyudaya Ram",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r1",
+         "pubDate" : "Sat, 02 Dec 2023 02:15:00",
+         "title" : "London Classic: Gukesh and Adams start with wins"
+      },
+      {
          "description" : "The International Chess Federation released the inaugural Gender Equality in Chess Index (GECI), an innovative instrument designed to measure and compare the level of gender equality in chess federations across the globe. The GECI incorporates three indicators of Participation, Performance, and Progress to offer an all-encompassing view of gender parity in chess. This index introduces a comprehensive scoring system ranging from 0 to 100.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,6 +66,14 @@ news_feed (
          "title" : "How do you do it? Fabi Wins The #sinquefieldcup #grandchesstour 2023"
       },
       {
+         "description" : "GM-elect Vaishali Rameshbabu crossed 2500 FIDE to earn the grandmaster title at the IV El Llobregat Open in Spain on Friday. With her three GM norms previously attained, Vaishali has now fulfilled all of the requirements. The 22-year-old shared wh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vaishali-achieves-gm-title",
+         "pubDate" : "Fri, 01 Dec 2023 19:55:55",
+         "title" : "Vaishali Achieves GM Title"
+      },
+      {
          "description" : " The 13th London Classic takes place 1st to 10th December 2023. Play at 2pm each day. Rest day Wednesday December 6th. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -66,12 +82,12 @@ news_feed (
          "title" : "13th London Classic 2023 - Games and Results"
       },
       {
-         "description" : "It&#39;s finally here. The biggest names in chess will be facing each other in one of the year&#39;s most prestigious events: the Finals of the 2023 Champions Chess Tour. A full season of chess tournaments has culminated in this showdown, as GMs Magnus Ca...",
+         "description" : "GMs Gukesh Dommaraju and Michael Adams picked up wins on the first day of the 2023 London Chess Classic, the 13th edition of an event that was first won by GM Magnus Carlsen back in 2009. GM Hans Niemann made a quiet draw after rushing in from Zag...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-cct-finals-prediction-contest",
-         "pubDate" : "Fri, 01 Dec 2023 16:18:14",
-         "title" : "Don't Miss Chess.com's Biggest Prediction Contest Of The Year"
+         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-1",
+         "pubDate" : "Fri, 01 Dec 2023 16:40:00",
+         "title" : "Gukesh Starts Candidates Mission With Win"
       },
       {
          "description" : "With a final-round win over Richard Rapport, Fabiano Caruana secured tournament victory at the Sinquefield Cup in Saint Louis. This was Caruana's third victory in this event, as he had previously won it in 2014 (when he famously grabbed seven wins in a row) and in 2018. Sole second place went to Leinier Dominguez, who drew Levon Aronian with the black pieces on Thursday. | Photo: Lennart Ootes",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r9",
          "pubDate" : "Fri, 01 Dec 2023 15:50:00",
          "title" : "Caruana beats Rapport, wins Sinquefield Cup for a third time"
-      },
-      {
-         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
-         "pubDate" : "Fri, 01 Dec 2023 15:00:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : " The 9th Zagreb Tournament of Peace took place Wed 22nd to Thu 30th Nov 2023. Hans Moke Niemann scored 8/9 conceding just two draws on the way to winning the event by three clear points. He now moves on to the London Chess Classic.",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/achievements-in-fritz-19",
          "pubDate" : "Wed, 22 Nov 2023 08:13:05",
          "title" : "The exciting world of achievements in Fritz 19"
-      },
-      {
-         "description" : "GM Magnus Carlsen won the early Titled Tuesday tournament on November 21 with a 10.5/11 score and then led the late event with one round to go, but GM Liem Le would end up catching him and winning on tiebreaks. It was Le&#39;s third Titled Tuesday win...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-le-win-titled-tuesday-november-21-2023",
-         "pubDate" : "Wed, 22 Nov 2023 07:57:01",
-         "title" : "Carlsen Nearly Perfect, Nearly Sweeps"
       },
       {
          "description" : "",
