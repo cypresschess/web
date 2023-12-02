@@ -2,12 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The International Chess Federation released the inaugural Gender Equality in Chess Index (GECI), an innovative instrument designed to measure and compare the level of gender equality in chess federations across the globe. The GECI incorporates three indicators of Participation, Performance, and Progress to offer an all-encompassing view of gender parity in chess. This index introduces a comprehensive scoring system ranging from 0 to 100.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-introduces-gender-equality-index",
+         "pubDate" : "Fri, 01 Dec 2023 23:15:00",
+         "title" : "FIDE introduces the Gender Equality in Chess Index (GECI)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-does-it-feel-after-all-fabi-wins-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/faHeCb-9KY8.jpg?itok=vWaNuXbH\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-does-it-feel-after-all-fabi-wins-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
+         "title" : "\"How does it feel after all this?\" Fabi Wins The #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-changed-last-year-fabi-wins-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ewIRBVjgwW4.jpg?itok=w67mc9xc\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/whats-changed-last-year-fabi-wins-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
+         "title" : "\"What's changed in the last year?\" Fabi Wins The #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-final-standings-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UrBAPofeYm8.jpg?itok=AWA5XUNq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-final-standings-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
+         "title" : "2023 Sinquefield Cup Final Standings | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/congratulations-fabiano-caruana-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TgcQjRP8ChE.jpg?itok=B6NOClJC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/congratulations-fabiano-caruana-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
+         "title" : "Congratulations to Fabiano Caruana! | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-wins-2023-sinquefield-cup-sinquefieldcup-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vINq5vPlvWw.jpg?itok=yPue-RYx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-wins-2023-sinquefield-cup-sinquefieldcup-grandchesstour",
+         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
+         "title" : "Fabi Wins The 2023 Sinquefield Cup! |#sinquefieldcup #grandchesstour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-do-you-do-it-fabi-wins-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4tOTTiBpHts.jpg?itok=DxC_x-0T\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-do-you-do-it-fabi-wins-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
+         "title" : "How do you do it? Fabi Wins The #sinquefieldcup #grandchesstour 2023"
+      },
+      {
          "description" : " The 13th London Classic takes place 1st to 10th December 2023. Play at 2pm each day. Rest day Wednesday December 6th. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/13th-london-classic-2023",
          "pubDate" : "Fri, 1 Dec 2023 16:40:00",
          "title" : "13th London Classic 2023 - Games and Results"
+      },
+      {
+         "description" : "It&#39;s finally here. The biggest names in chess will be facing each other in one of the year&#39;s most prestigious events: the Finals of the 2023 Champions Chess Tour. A full season of chess tournaments has culminated in this showdown, as GMs Magnus Ca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-cct-finals-prediction-contest",
+         "pubDate" : "Fri, 01 Dec 2023 16:18:14",
+         "title" : "Don't Miss Chess.com's Biggest Prediction Contest Of The Year"
       },
       {
          "description" : "With a final-round win over Richard Rapport, Fabiano Caruana secured tournament victory at the Sinquefield Cup in Saint Louis. This was Caruana's third victory in this event, as he had previously won it in 2014 (when he famously grabbed seven wins in a row) and in 2018. Sole second place went to Leinier Dominguez, who drew Levon Aronian with the black pieces on Thursday. | Photo: Lennart Ootes",
@@ -34,11 +98,11 @@ news_feed (
          "title" : "9th Zagreb Tournament of Peace 2023 - Games and Results"
       },
       {
-         "description" : "IM-elect Brewington Hardaway crossed 2400 FIDE rating to earn the international master title at the U.S. Masters 2023 on Sunday at the Charlotte Chess Center in North Carolina. Already having four IM norms, he should receive the title at the next ...",
+         "description" : "IM-elect Brewington Hardaway crossed the 2400 FIDE rating mark to earn the international master title at the U.S. Masters 2023 on Sunday at the Charlotte Chess Center in North Carolina. Already having four IM norms, he should receive the title at ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-im-title-and-gm-norm",
-         "pubDate" : "Fri, 01 Dec 2023 12:02:56",
+         "pubDate" : "Fri, 01 Dec 2023 12:02:00",
          "title" : "Brewington Hardaway Earns IM Title And First GM Norm"
       },
       {
@@ -138,44 +202,12 @@ news_feed (
          "title" : "Fabiano Caruana's Trophy Presentation | R9 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after defeating Rapport and winning the 2023 Sinquefield Cup. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-it-all-worked-out-perfectly-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/RIUB2uPUaXU.jpg?itok=KW7ypFvH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-it-all-worked-out-perfectly-r9-sinquefieldcup",
-         "pubDate" : "Fri, 01 Dec 2023 02:01:10",
-         "title" : "Caruana: It All Worked Out Perfectly! | R9 #SinquefieldCup"
-      },
-      {
          "description" : "Hans Niemann won the Tournament of Peace in spectacular fashion. The US grandmaster secured tournament victory with a round to spare, but nonetheless checkmated rating favourite Anton Korobov in the final round. Korobov, Ante Brkic and Vasyl Ivanchuk finished in shared second place, a whole 3 points behind the winner. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hans-niemann-wins-tournament-of-peace-2023",
          "pubDate" : "Thu, 30 Nov 2023 23:35:00",
          "title" : "Hans Niemann dominates Tournament of Peace in Zagreb"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Anastasiya Karlovich before the start of the 2023 Grand Chess Tour events in Saint Louis. This aired during Round 9. 2023.11.13<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-failed-all-3-my-2023-goals-happy-be-alive-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/W4maOhmExKo.jpg?itok=z9kn6lan\" alt=\"\" /></a></d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-failed-all-3-my-2023-goals-happy-be-alive-sinquefieldcup",
-         "pubDate" : "Thu, 30 Nov 2023 23:00:57",
-         "title" : "Wesley So: Failed All 3 of My 2023 Goals, but Happy to Be Alive! | #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/indication-what-great-player-levon-aronian-sinquefieldcup-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q6tVszlLVsE.jpg?itok=9ET6bCvI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/indication-what-great-player-levon-aronian-sinquefieldcup-grandchesstour",
-         "pubDate" : "Thu, 30 Nov 2023 20:00:45",
-         "title" : "\"That is an indication of what a great player Levon Aronian is\" | #sinquefieldcup #grandchesstour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 10th Sinquefield Cup is the final of five legs of the Grand Chess Tour. Eight of the Tour players are joined by two wildcards (pairings below) for a classical round robin. Join GMs Peter Svidler &amp; Yasser Seirawan, &amp; IM Jovanka Houska for the move-by-move. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-round-9-playoff-grandchesstour\"><img src=\"https://saintl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-round-9-playoff-grandchesstour",
-         "pubDate" : "Thu, 30 Nov 2023 20:00:45",
-         "title" : "2023 Sinquefield Cup: Round 9 & Playoff | #GrandChessTour"
       },
       {
          "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
@@ -290,22 +322,6 @@ news_feed (
          "title" : "Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich after a draw against Giri in the eighth round of the 2023 Sinquefield Cup. 2023.11.29<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-game-giri-did-not-want-win-r8-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wAB9YCwHi30.jpg?itok=z1udKXLE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-game-giri-did-not-want-win-r8-sinquefieldcup",
-         "pubDate" : "Wed, 29 Nov 2023 23:00:02",
-         "title" : "Caruana: The Game Giri Did Not Want to Win | R8 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Anastasiya Karlovich after a draw against Nepomniachtchi in the eighth round of the 2023 Sinquefield Cup. 2023.11.29<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-completes-event-not-pleased-my-performance-r8-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/myCv0zwYra0.jpg?itok=HmN4F6Xv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-completes-event-not-pleased-my-performance-r8-sinquefieldcup",
-         "pubDate" : "Wed, 29 Nov 2023 23:00:02",
-         "title" : "Wesley So Completes Event: Not Pleased With My Performance | R8 #SinquefieldCup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -400,14 +416,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-winning-academy-27-lefthanders",
          "pubDate" : "Tue, 28 Nov 2023 15:26:13",
          "title" : "The Winning Academy 27: Lefthanders"
-      },
-      {
-         "description" : "Do you know who the current World Chess Champion is? Can you name him and tell us which country he is from? If you can do this you belong to an absolute minority in the world of chess enthusiasts. Try to estimate how many of them can answer the two questions correctly. You are wrong! A recent survey, conducted by YouGov and World Chess, tell us the sad truth.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/who-knows-his-name",
-         "pubDate" : "Tue, 28 Nov 2023 12:00:00",
-         "title" : "Who knows his name?"
       },
       {
          "description" : "",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.europechess.org/serbia-and-bulgaria-claim-european-team-open-and-womens-chess-championships-2023/",
          "pubDate" : "Tue, 21 Nov 2023 21:36:02",
          "title" : "Serbia and Bulgaria claim European Team Open and Women's Chess Championships 2023"
-      },
-      {
-         "description" : "Each competitor opened the Sinquefield Cup 2023 with a balanced and accurate performance on Tuesday. Though every clash ultimately ended in a draw, GM Leinier Dominguez gained attacking chances and pressed in the ending vs. GM Fabiano Caruana whil...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-1",
-         "pubDate" : "Tue, 21 Nov 2023 20:16:00",
-         "title" : "Dominguez Presses vs. Caruana In Accurate Opening Round"
       },
       {
          "description" : "",
@@ -1208,14 +1208,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/11/11/when-will-the-u-s-host-a-chess-olympiad/",
          "pubDate" : "Sat, 11 Nov 2023 05:09:47",
          "title" : "When will the U.S. host a Chess Olympiad?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2734",
-         "pubDate" : "Fri, 10 Nov 2023 22:37:42",
-         "title" : "Winners crowned at World Amateurs Chess Championship 2023"
       }
    ]
 }
