@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vaishali Rameshbabu became the third Indian woman player (after Humpy Koneru and Harika Dronavalli) to earn the grandmaster title. Vaishali obtained the title by scoring a win against FM Tamer Tarik Selbes at the 2023 El Llobregat Open. Since his brother Pragganandhaa is also a grandmaster, Vaishali and Pragg became the world's first-ever brother-sister grandmaster duo! | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vaishali-rameshbabu-gm-title",
+         "pubDate" : "Sun, 03 Dec 2023 11:00:00",
+         "title" : "The path to GM: Vaishali's steady ascent"
+      },
+      {
          "description" : "Three decisive results in round 2 of the London Chess Classic left three players tied for first place with 1&frac12; points each. Andrei Volokitin joined round-1 winners Dommaraju Gukesh and Michael Adams in the lead of the event after beating underdog Shreyas Royal with the white pieces. Meanwhile, Mateusz Bartel and Amin Tabatabaei bounced back from their losses on Friday and returned to a fifty-percent score. Gukesh barely escaped with a draw in his game against Nikita Vitiugov. | Photo: Abhyudaya Ram",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "Nakamura Puts On Tactical Masterclass To Win 14th Bullet Brawl Title"
       },
       {
-         "description" : "GM Gukesh Dommaraju pulled off a great escape against GM Nikita Vitiugov to retain the lead after round two of the 2023 London Chess Classic, with co-leader Michael Adams also drawing after a fierce fight with GM Hans Niemann. That let GM Andrei V...",
+         "description" : "GM Gukesh Dommaraju pulled off a great escape against GM Nikita Vitiugov to retain the lead after round two of the 2023 London Chess Classic, with co-leader GM Michael Adams also drawing after a fierce fight with GM Hans Niemann. That let GM Andre...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-2",
@@ -66,11 +74,11 @@ news_feed (
          "title" : "Mohammed VI Prize - The players (part 2)"
       },
       {
-         "description" : "Poland&#39;s IM Marcin Szymanski won the final round of the 2023 Chess.com Daily Chess Championship by a single point in October ahead of the second-placed &#34;DanilinDP,&#34; and IMs Kacper Drozdowski&#38;nbsp;and Mark Timmermans. This year&#39;s Championship bro...",
+         "description" : "Poland&#39;s IM Marcin Szymanski won the final round of the 2023 Chess.com Daily Chess Championship by half a point in October ahead of the second-placed &#34;DanilinDP,&#34; and IMs Kacper Drozdowski&#38;nbsp;and Mark Timmermans. This year&#39;s Championship broug...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/szymanski-wins-chesscom-daily-championship-2023",
-         "pubDate" : "Sat, 02 Dec 2023 14:26:34",
+         "pubDate" : "Sat, 02 Dec 2023 14:26:00",
          "title" : "Szymanski Wins Chess.com's 35,000 Player Daily Championship"
       },
       {
@@ -402,18 +410,10 @@ news_feed (
          "title" : "Paulius Pultinevicius - Winner of the Prix Mohammed VI tournament"
       },
       {
-         "description" : "All four games ended drawn in the penultimate round of the Sinquefield Cup, which means Wesley So, Fabiano Caruana and Leinier Dominguez continue to share the lead. However, So has already played eight games in the event and will get a rest day on Thursday. In the final round, Caruana will play white against Richard Rapport, while Dominguez will play black against Levon Aronian. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r8",
-         "pubDate" : "Thu, 30 Nov 2023 09:55:00",
-         "title" : "Sinquefield Cup: Caruana and Dominguez favourites to take the title"
-      },
-      {
          "description" : "GMs Fabiano Caruana, Leinier Dominguez, and Wesley So lead the 2023 Sinquefield Cup on 4.5 points heading into the final round following a day of high-accuracy draws in all four matchups. The $100,000 first prize will likely be determined by the g...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-9",
+         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-8",
          "pubDate" : "Thu, 30 Nov 2023 01:53:00",
          "title" : "Caruana, Dominguez Vie For First Following Day Of Draws"
       },
