@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three decisive results in round 2 of the London Chess Classic left three players tied for first place with 1&frac12; points each. Andrei Volokitin joined round-1 winners Dommaraju Gukesh and Michael Adams in the lead of the event after beating underdog Shreyas Royal with the white pieces. Meanwhile, Mateusz Bartel and Amin Tabatabaei bounced back from their losses on Friday and returned to a fifty-percent score. Gukesh barely escaped with a draw in his game against Nikita Vitiugov. | Photo: Abhyudaya Ram",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r2",
+         "pubDate" : "Sun, 03 Dec 2023 09:00:00",
+         "title" : "London Classic: Volokitin co-leader, Bartel and Tabatabaei bounce back"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105692225.cms\" />It's been a magnificent year for Indian chess and now, there's an icing on the cake. Chennai girl R Vaishali, who had earlier sealed a spot for the women's Candidates tournament and made history by becoming the first brother-sister duo with R Praggnanandhaa to do so, is now the third Indian woman to become a Grandmaster. With two consecutive victories at the Ellobregat Open in Spain, Vaishali steered past the 2500-mark Elo rating to reach the milestone.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-2",
          "pubDate" : "Sat, 02 Dec 2023 16:09:00",
          "title" : "Gukesh Escapes As Bartel, Tabatabaei, Volokitin Score 1st Wins"
-      },
-      {
-         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
-         "pubDate" : "Sat, 02 Dec 2023 15:00:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "Welcome to the ChessBase India Winter Chess Solving Championship, an initiative to promote chess composition and creative-logical thinking through chess. This introductory article serves as the curtain-raiser to the event: Satanick Mukhuty give you the rules, the details of the prizes, and the first six of the twelve problems to solve. This is a serious challenge.",
@@ -1208,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2736",
          "pubDate" : "Sun, 12 Nov 2023 13:55:06",
          "title" : "FIDE Trainer Awards 2023 - Call for nominations"
-      },
-      {
-         "description" : "Raymond Keene OBE is an English chess grandmaster, a FIDE International Arbiter, a chess organiser, and a journalist and author. He won the British Chess Championship in 1971 and was the first player from England to earn a Grandmaster norm, in 1974. In 1976, he became the second Englishman (following Tony Miles) to be awarded the Grandmaster title. Today we reproduce an insightful interview with Keene as it appeared in the current issue of the magazine CHESS.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-a-legend",
-         "pubDate" : "Sun, 12 Nov 2023 07:45:00",
-         "title" : "Interview with a legend"
       }
    ]
 }
