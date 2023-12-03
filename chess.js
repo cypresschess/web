@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Vaishali Rameshbabu became the third Indian woman player (after Humpy Koneru and Harika Dronavalli) to earn the grandmaster title. Vaishali obtained the title by scoring a win against FM Tamer Tarik Selbes at the 2023 El Llobregat Open. Since his brother Pragganandhaa is also a grandmaster, Vaishali and Pragg became the world's first-ever brother-sister grandmaster duo! | Photo: ChessBase India",
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 154th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Mikhail Botvinnik. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-153-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 03 Dec 2023 15:00:00",
+         "title" : "Understanding before Moving 154: Chess history in a nutshell (36)"
+      },
+      {
+         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
+         "pubDate" : "Sun, 03 Dec 2023 14:55:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : " The <a href=\"https://www.londonchessclassic.com/\">London Chess Classic</a> has returned, albeit in a much smaller form than in pre-covid years. It is now consists of a single 10 player RR, rather than the mix of GM event, Open swisses, monster rapids, and other events. The GM event is strong as usual, with 4 English GM's against 6 visiting players. There are a couple of interesting inclusions, including Gukesh, who is trying to qualify for the 2024 Candidates, and Hans Neimann, on a hot streak after winning in Zagreb last week. At this stage 2 rounds have been played, with some interesting games on show. GM Michael Adams (current World Seniors Champion) won a very nice game in round 1, agai",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/london-chess-classic.html",
+         "pubDate" : "Sun, 03 Dec 2023 13:12:00",
+         "title" : "London Chess Classic"
+      },
+      {
+         "description" : "Vaishali Rameshbabu became the third Indian woman player (after Humpy Koneru and Harika Dronavalli) to earn the grandmaster title. Vaishali obtained the title by scoring a win against FM Tamer Tarik Selbes at the 2023 El Llobregat Open. Since her brother Pragganandhaa is also a grandmaster, Vaishali and Pragg became the world's first-ever brother-sister grandmaster duo! | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/vaishali-rameshbabu-gm-title",
@@ -16,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r2",
          "pubDate" : "Sun, 03 Dec 2023 09:00:00",
          "title" : "London Classic: Volokitin co-leader, Bartel and Tabatabaei bounce back"
+      },
+      {
+         "description" : "The internet sensation Mittens is back&#38;mdash;not only as the soul-crushing chess bot that broke the internet but also as an adorable plushie that you can own! Chess.com is excited to announce we&#39;ll be launching our merch store on December 9, now w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/new-merch-store",
+         "pubDate" : "Sun, 03 Dec 2023 07:10:12",
+         "title" : "Chess.com Launches New Merch Store With New Tees, Mittens Plushie, And More"
+      },
+      {
+         "description" : "It&#38;rsquo;s the last month of 2023, and this has been one of the biggest years ever for chess. A record number of players, a record number of games, and a spectacular year for bots fans (hehehe). What better way to celebrate than to bring back th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-fan-favorite-bots",
+         "pubDate" : "Sun, 03 Dec 2023 06:00:18",
+         "title" : "Mittens Is Back! Celebrate The Holiday Season By Playing Chess Against Fan-Favorite Bots"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105692225.cms\" />It's been a magnificent year for Indian chess and now, there's an icing on the cake. Chennai girl R Vaishali, who had earlier sealed a spot for the women's Candidates tournament and made history by becoming the first brother-sister duo with R Praggnanandhaa to do so, is now the third Indian woman to become a Grandmaster. With two consecutive victories at the Ellobregat Open in Spain, Vaishali steered past the 2500-mark Elo rating to reach the milestone.",
@@ -362,14 +402,6 @@ news_feed (
          "title" : "FIDE World Rapid & Blitz Championships 2023: Registration deadline extended"
       },
       {
-         "description" : "In his Game of the Week show #595, Merijn Van Delft takes a closer look at the marquee matchup between Fabiano Caruana and Wesley So from the Sinquefield Cup in Saint Louis. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-596-caruana-so",
-         "pubDate" : "Thu, 30 Nov 2023 17:00:00",
-         "title" : "Game of the Week #596: F. Caruana vs W. So"
-      },
-      {
          "description" : "GM Fabiano Caruana added the 2023 Sinquefield Cup to his year of victories on Thursday. In his final round vs. GM Richard Rapport, Caruana combined strategic clarity with dynamic execution to break his opponent&#39;s defenses.&#38;nbsp; Caruana dominate...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -400,14 +432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/twitch-drops-champions-chess-tour-2023",
          "pubDate" : "Thu, 30 Nov 2023 11:00:00",
          "title" : "Watch The Champions Chess Tour Finals On Twitch And Earn 14 Days Of Premium"
-      },
-      {
-         "description" : "The recently published articles \"The Never Ending Saga of Moroccan Chess, Part 1\" and \"Part 2\" described the sorry state of Moroccan chess and the unfortunate end of the International Prix Mohammed VI tournament, where the winners did not receive their prizes. This bizarre end of the tournament overshadowed the success of the young Lithuanian GM Paulius Pultinevicius, who won the event convincingly. | Photo: Paulius Pultinevicius after winning the Riga Technical University Open 2022 | Photo: RTU Open Facebook.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prix-mohammed-vi-the-players",
-         "pubDate" : "Thu, 30 Nov 2023 10:00:00",
-         "title" : "Paulius Pultinevicius - Winner of the Prix Mohammed VI tournament"
       },
       {
          "description" : "GMs Fabiano Caruana, Leinier Dominguez, and Wesley So lead the 2023 Sinquefield Cup on 4.5 points heading into the final round following a day of high-accuracy draws in all four matchups. The $100,000 first prize will likely be determined by the g...",
@@ -720,22 +744,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/nov/24/chess-lan-yao-wins-bronze-as-england-men-narrowly-miss-medals-at-euros",
          "pubDate" : "Fri, 24 Nov 2023 08:00:14",
          "title" : "Chess: Lan Yao wins bronze as England men narrowly miss medals at Euros"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Hikaru Nakamura, and top players in the 2023 Champions Chess Tour Finals (CCT Finals) next month have been immortalized in a new collection of stunning fan posters made by Displate, Chess.com can reveal. The unique magnet-mou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/displate-brings-legendary-wall-art-to-champions-chess-tour-finals-2023",
-         "pubDate" : "Fri, 24 Nov 2023 04:46:00",
-         "title" : "Capture Your Piece: Displate Brings Legendary Wall Art To Champions Chess Tour Finals 2023"
-      },
-      {
-         "description" : "No decisive results were produced for the third round in a row at the 2023 Sinquefield Cup on a day that was headlined by the withdrawal of GM Jan-Krzysztof Duda and an intriguing duel between the imaginative GMs Richard Rapport and Alireza Firouz...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-3",
-         "pubDate" : "Fri, 24 Nov 2023 00:00:00",
-         "title" : "Duda Withdraws With Health Issue, No Decisive Results In St. Louis"
       },
       {
          "description" : " The 10th Sinquefield Cup takes place Tuesday 21st Nov to Sun 3rd Dec 2023 in Saint Louis. Players: Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, Wesley So, Richard Rapport, Leinier Dominguez Perez, Maxime Vachier-Lagrave and Levon Aronian. After 1 round Jan-Krzysztof Duda withdrew from the event due to ill health, no specifics have been given. All rather unfortunate as this is the second year running this has happened with Carlsen being the one to withdraw last year.",
@@ -1192,22 +1200,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/what-is-master.html",
          "pubDate" : "Mon, 13 Nov 2023 12:50:00",
          "title" : "What is a Master?"
-      },
-      {
-         "description" : "Of the dozen videos on this month's short list for featured video, a third of them were from Youtube's <I>Chess.com</I> channel. All of them would have been a good selection for the post, but this video edged out the others. I liked the idea behind it : indirectly getting Magnus to talk about himself. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/12U0_QgZHxw?si=R8f-4HV6zwn0XSKN\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Can AI Replace Magnus Carlsen?</B> (5:51) &#149; '[Published on] Nov 10, 2023' <P> The question posed by t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/11/real-magnus-dissects-ai-magnus.html",
-         "pubDate" : "Sun, 12 Nov 2023 16:09:00",
-         "title" : "Real Magnus Dissects AI Magnus"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2736",
-         "pubDate" : "Sun, 12 Nov 2023 13:55:06",
-         "title" : "FIDE Trainer Awards 2023 - Call for nominations"
       }
    ]
 }
