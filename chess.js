@@ -18,6 +18,14 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Exam at Katni, Madhya Pradesh 30-31 Dec 2023"
       },
       {
+         "description" : "GM Gukesh Dommaraju pulled off a great escape against GM Nikita Vitiugov to retain the lead after round two of the 2023 London Chess Classic, with co-leader Michael Adams also drawing after a fierce fight with GM Hans Niemann. That let GM Andrei V...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-2",
+         "pubDate" : "Sat, 02 Dec 2023 16:09:42",
+         "title" : "Gukesh Escapes As Bartel, Tabatabaei, Volokitin Score 1st Wins"
+      },
+      {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mohammed-vi-prize-the-players-part-2",
          "pubDate" : "Sat, 02 Dec 2023 14:45:00",
          "title" : "Mohammed VI Prize - The players (part 2)"
+      },
+      {
+         "description" : "Poland&#39;s IM Marcin Szymanski won the final round of the 2023 Chess.com Daily Chess Championship by a single point in October ahead of the second-placed &#34;DanilinDP,&#34; and IMs Kacper Drozdowski&#38;nbsp;and Mark Timmermans. This year&#39;s Championship bro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/szymanski-wins-chesscom-daily-championship-2023",
+         "pubDate" : "Sat, 02 Dec 2023 14:26:34",
+         "title" : "Szymanski Wins Chess.com's 35,000 Player Daily Championship"
       },
       {
          "description" : "The Elgin Marbles are once again in the news after Rishi Sunak's sensational snub to that heir of Pericles, the Greek Prime Minister Kyriakos Mitsotakis. The connection between the marvellous Marbles and chess is not generally known, but definitely exists. In what follows I have made liberal and grateful use of the expert insights of []",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "2024 Tata Steel Chess: World Champion Ding Returns, Carlsen Missing"
       },
       {
-         "description" : "GMs Ian Nepomniachtchi and Fabiano Caruana came the closest to scoring the first victories of the Sinquefield Cup 2023 on Wednesday. In his usual confident, fast-paced playing style, Nepomniachtchi pressed with an extra pawn for over five hours vs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-2",
-         "pubDate" : "Wed, 22 Nov 2023 20:51:00",
-         "title" : "Missed Wins For Nepomniachtchi, Caruana"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://aicf.in/round-8-report-of-world-youth-chess-championship-italy-2023/",
          "pubDate" : "Wed, 22 Nov 2023 11:12:45",
          "title" : "Round 8 report of World Youth Chess Championship, Italy 2023"
-      },
-      {
-         "description" : "GM Hou Yifan is the first player to win two WSCC titles. After defeating GM Harika Dronavalli in the Julius Baer Women&#39;s Speed Chess Championship 2023 Final 15-11, the Chinese grandmaster is a two-time champion. &#34;Ever since her first victory, sh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-julius-baer-wscc-final-hou-yifan-wins",
-         "pubDate" : "Wed, 22 Nov 2023 10:32:00",
-         "title" : "Hou Yifan Wins Second WSCC Title"
       },
       {
          "description" : "Playing against Fritz is enjoyable because the program incorporates hidden errors. There could always be a tactical strike against it. However, Fritz 19 adds a new exciting dimension to your games: The hunt for \"achievements\". There's a competition for 136 different chess achievements, testing your tactical and strategic versatility. And there are rewards for it too.",
@@ -1208,14 +1208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-a-legend",
          "pubDate" : "Sun, 12 Nov 2023 07:45:00",
          "title" : "Interview with a legend"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2735",
-         "pubDate" : "Sat, 11 Nov 2023 21:07:33",
-         "title" : "2023 European Team Championship kicks off in Budva, Montenegro"
       }
    ]
 }
