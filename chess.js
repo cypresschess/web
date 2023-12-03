@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105692225.cms\" />It's been a magnificent year for Indian chess and now, there's an icing on the cake. Chennai girl R Vaishali, who had earlier sealed a spot for the women's Candidates tournament and made history by becoming the first brother-sister duo with R Praggnanandhaa to do so, is now the third Indian woman to become a Grandmaster. With two consecutive victories at the Ellobregat Open in Spain, Vaishali steered past the 2500-mark Elo rating to reach the milestone.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaas-sister-vaishali-becomes-indias-third-woman-grandmaster/articleshow/105692225.cms",
+         "pubDate" : "Sun, 03 Dec 2023 03:37:12",
+         "title" : "Praggu's sister Vaishali becomes India's third woman Grandmaster"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,11 +26,19 @@ news_feed (
          "title" : "Senior National Arbiter Seminar & Exam at Katni, Madhya Pradesh 30-31 Dec 2023"
       },
       {
+         "description" : "GM Hikaru Nakamura&#39;s supremacy over Bullet Brawl has continued into December as the world number-three coasted to a 253 score and his fourth-straight $400 victory. Landing in second place on Saturday was GM Oleksandr Bortnyk, who finished on 229, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-december-2-2023",
+         "pubDate" : "Sat, 02 Dec 2023 17:16:46",
+         "title" : "Nakamura Puts On Tactical Masterclass To Win 14th Bullet Brawl Title"
+      },
+      {
          "description" : "GM Gukesh Dommaraju pulled off a great escape against GM Nikita Vitiugov to retain the lead after round two of the 2023 London Chess Classic, with co-leader Michael Adams also drawing after a fierce fight with GM Hans Niemann. That let GM Andrei V...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-2",
-         "pubDate" : "Sat, 02 Dec 2023 16:09:42",
+         "pubDate" : "Sat, 02 Dec 2023 16:09:00",
          "title" : "Gukesh Escapes As Bartel, Tabatabaei, Volokitin Score 1st Wins"
       },
       {
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2757",
          "pubDate" : "Thu, 23 Nov 2023 10:19:30",
          "title" : "2023 Sinquefield Cup: Day 2 Recap"
-      },
-      {
-         "description" : "World Champion GM Ding Liren will make his return to the global chess stage in Wijk aan Zee, while the former champion and eight-time Tata Steel Chess winner GM Magnus Carlsen is missing for the first time since 2014. The lineups have been annou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/world-champion-ding-returns-as-2024-tata-steel-chess-field-is-confirmed",
-         "pubDate" : "Thu, 23 Nov 2023 05:55:00",
-         "title" : "2024 Tata Steel Chess: World Champion Ding Returns, Carlsen Missing"
       },
       {
          "description" : "",
