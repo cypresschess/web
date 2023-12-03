@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Endings with a rook and a minor piece each are especially difficult. There is still enough firepower on the board for plenty of tactics, up to and often including mating attacks. But in contrast to middlegames, where unless matters are very forcing you have to rely to a great extent on intuition, in principle you \"ought\" - with material limited - to be able to calculate fairly accurately! | Photo: John Saunders (2007)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-207",
+         "pubDate" : "Sun, 03 Dec 2023 19:50:00",
+         "title" : "Jon Speelman: Major and minor"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 154th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Mikhail Botvinnik. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -360,14 +368,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fabiano-caruana%E2%80%99s-trophy-presentation-r9-sinquefieldcup",
          "pubDate" : "Fri, 01 Dec 2023 02:01:10",
          "title" : "Fabiano Caruana's Trophy Presentation | R9 #SinquefieldCup"
-      },
-      {
-         "description" : "Hans Niemann won the Tournament of Peace in spectacular fashion. The US grandmaster secured tournament victory with a round to spare, but nonetheless checkmated rating favourite Anton Korobov in the final round. Korobov, Ante Brkic and Vasyl Ivanchuk finished in shared second place, a whole 3 points behind the winner. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-wins-tournament-of-peace-2023",
-         "pubDate" : "Thu, 30 Nov 2023 23:35:00",
-         "title" : "Hans Niemann dominates Tournament of Peace in Zagreb"
       },
       {
          "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
