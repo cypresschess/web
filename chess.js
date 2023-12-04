@@ -10,6 +10,14 @@ news_feed (
          "title" : "Jon Speelman: Major and minor"
       },
       {
+         "description" : "IM Shreyas Royal played like a veteran grandmaster as he defeated world number-40 GM Amin Tabatabaei in round three of the 2023 London Chess Classic. It was a wild day, as all three players who had won a day earlier slipped to defeat, while GMs Gu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-3",
+         "pubDate" : "Sun, 03 Dec 2023 17:19:00",
+         "title" : "14-Year-Old Royal Beats Grandmaster; Gukesh, Adams Extend Lead"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 154th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Mikhail Botvinnik. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/11/24/odafe-efemuai-from-delta-state-to-new-york-state/",
          "pubDate" : "Fri, 24 Nov 2023 20:15:22",
          "title" : "Odafe Efemuai&hellip; from Delta State to New York State"
-      },
-      {
-         "description" : "GM Wesley So scored the first victory at the 2023 Sinquefield Cup on Friday. When GM Richard Rapport sacrificed for dynamic ideas in the King&#39;s Indian Defense, So navigated his way to safety while increasing his material edge. GMs Maxime Vachier...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-4",
-         "pubDate" : "Fri, 24 Nov 2023 18:26:00",
-         "title" : "So Breaks Draw Streak At 2023 Sinquefield Cup"
       },
       {
          "description" : "This week I have a special gift for you guys. It is 100% free, with no Black Friday Sale strategy. Read until the end of the email to know how to benefit from it. Have you ever looked at a position and thought: \"I have no idea what to do\"? After reading this newsletter, you should be able to find an appropriate plan for every position. On the 3rd of November, I published an article called How To Think During A Chess Game. In it, I focused on two key questions to spot tactical ideas for you...",
