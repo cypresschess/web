@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #257 Karsten M&uuml;ller continues to show highlights from the European Team Tournament Budva. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-257-highlights-from-the-european-team-tournament-budva-part-2",
+         "pubDate" : "Mon, 04 Dec 2023 18:00:00",
+         "title" : "Endgame Magic #257 - Highlights from the European Team Tournament Budva Part 2"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,6 +58,14 @@ news_feed (
          "title" : "The Monthly Dragon - A Dragon endgame thriller"
       },
       {
+         "description" : "Chess.com is excited to announce our new upgrade to the move list feature. The new move list is now cleaner and clearer, making it easier for you to follow variations and annotations or to analyze your own games. It also resembles the move list yo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-updated-move-list",
+         "pubDate" : "Mon, 04 Dec 2023 11:31:20",
+         "title" : "Chess.com Makes Massive Upgrade To Move List!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -80,6 +96,30 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2024-official-invitation/",
          "pubDate" : "Mon, 04 Dec 2023 09:07:43",
          "title" : "European School Chess Championship 2024 - Official invitation"
+      },
+      {
+         "description" : "It&#39;s finally here. The biggest names in chess will be facing each other in one of the year&#39;s most prestigious events: the Finals of the 2023 Champions Chess Tour. A full season of chess tournaments has culminated in this showdown, as GMs Magnus Ca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cct-finals-prediction-contest",
+         "pubDate" : "Mon, 04 Dec 2023 09:04:50",
+         "title" : "Don't Miss Chess.com's Biggest Prediction Contest Of The Year"
+      },
+      {
+         "description" : "Big news! IM Danny Rensch&#39;s iconic &#39;Everything You Need To Know&#39; series is now available on Chessable for free. The original videos have been viewed on YouTube over six million times since their release, and have now been re-recorded and optimized...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/im-danny-rensch-releases-new-chessable-course-for-beginners",
+         "pubDate" : "Mon, 04 Dec 2023 08:47:45",
+         "title" : "IM Danny Rensch Releases New Chessable Course For Beginners"
+      },
+      {
+         "description" : "GM Magnus Carlsen says it&#39;s a dream come true to be holding the first ever classical Fischer-Random super-tournament, which will take place at a luxury resort on Germany&#39;s Baltic coast in February and feature eight of the world&#39;s top players. Fr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-ding-caruana-in-new-200-000-fischer-random-event",
+         "pubDate" : "Mon, 04 Dec 2023 08:45:00",
+         "title" : "Carlsen, Ding, Caruana In New $200,000 Classical Fischer-Random Event"
       },
       {
          "description" : "Please find live link here Open :&#160;https://view.livechesscloud.com/#d1424a3d-d782-4bef-b664-15f8e4ef1a58 Girls :&#160;https://view.livechesscloud.com/#d74201d5-6448-49aa-a6d4-798b058bc230",
@@ -458,14 +498,6 @@ news_feed (
          "title" : "Fabiano Caruana's Trophy Presentation | R9 #SinquefieldCup"
       },
       {
-         "description" : "Hans Niemann won the Tournament of Peace in spectacular fashion. The US grandmaster secured tournament victory with a round to spare, but nonetheless checkmated rating favourite Anton Korobov in the final round. Korobov, Ante Brkic and Vasyl Ivanchuk finished in shared second place, a whole 3 points behind the winner. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-wins-tournament-of-peace-2023",
-         "pubDate" : "Thu, 30 Nov 2023 23:35:00",
-         "title" : "Hans Niemann dominates Tournament of Peace in Zagreb"
-      },
-      {
          "description" : " Brewington Hardway earned his first Grandmaster norm at the U.S. Masters in Charlotte. The 14-year-old had a blistering month of November earning more than 100 Elo points. Prior to his norm performance, he earned 50 Elo points at the nine-round NYC GM Fall Invitational. He bettered that result with another handsome cache of 62 Elo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/30/hardaway-gets-1st-gm-norm-clinches-im-title/\">Hardaway gets 1st GM norm, clinches IM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -682,14 +714,6 @@ news_feed (
          "title" : "CL No4/2023 - Communique of the ECU Board Meeting and ECU General Assembly 2023"
       },
       {
-         "description" : "Artem Sachuk, Vice President of the Ukrainian Chess Federation, is reported to have been killed in Ukraine on Sunday. Sachuk would have turned 39 years old today and leaves behind a wife and two children. The circumstances of his death are yet t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/artem-sachuk-vp-ukrainian-chess-federation-killed-action",
-         "pubDate" : "Mon, 27 Nov 2023 05:36:00",
-         "title" : "Ukrainian Chess Federation Vice President Reported Killed In Action"
-      },
-      {
          "description" : "This month's post in the series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016) offers a few surprises:- <UL> <LI>1st surprise: There is an 'Intercontinental Online Chess Championship for Prisoners'. <LI>2nd surprise: The tournament is sponsored by FIDE. <LI>3rd surprise: The most recent tournament was the third such event. </UL> <P> 4th surprise: The event was broadcast online. Here is the video covering the final round. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/f074lBHHD1g?si=e_JAdIRBlMxZ0o0b\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-w",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -722,14 +746,6 @@ news_feed (
          "title" : "2023 Sinquefield Cup: Day 5 Recap"
       },
       {
-         "description" : "Mohamed Salah, one of the world&#39;s greatest soccer players, revealed that he is addicted to chess and wants to meet GM Magnus Carlsen. The former world champion responded with a waving-hand emoji. The Egyptian goal-scoring machine is considered o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-addict-salah-dreams-of-carlsen-meeting",
-         "pubDate" : "Sun, 26 Nov 2023 05:32:00",
-         "title" : "1400-Rated Chess-Addict Salah Dreams Of Carlsen Meeting"
-      },
-      {
          "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 11 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -738,28 +754,12 @@ news_feed (
          "title" : "European Rapid&Blitz Chess Championship 2023 - Official invitation"
       },
       {
-         "description" : "GM Levon Aronian joined GM Wesley So in the lead at the 2023 Sinquefield Cup after dispatching GM Alireza Firouzja in a rook endgame on Saturday. The game very nearly came to an end early as Firouzja came within one second of being flagged but in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-day-5",
-         "pubDate" : "Sat, 25 Nov 2023 18:55:00",
-         "title" : "Aronian Defeats Firouzja After Near-Catastrophe At Time Control"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2762",
          "pubDate" : "Sat, 25 Nov 2023 16:23:49",
          "title" : "World Youth Champions crowned in Montesilvano, Italy"
-      },
-      {
-         "description" : "GM Hikaru Nakamura scored 73 wins and conceded just three draws and three losses in one of his most dominant Bullet Brawl performances yet, finishing with a 42-point buffer over the second-placed GM Daniel Naroditsky to claim the $400 first prize....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-november-25-2023",
-         "pubDate" : "Sat, 25 Nov 2023 15:48:00",
-         "title" : "Nakamura Wins November Trifecta, Scores 74.5/79"
       },
       {
          "description" : "I should have spotted the clue. I must have read The Lost World, by Sir Arthur Conan Doyle, at least five times, before the penny dropped. In chapter five, \"Questions!\", the irascible yet ingenious anti-hero, Professor George Challenger (a kind of scientific equivalent of Sherlock Holmes), has agreed to give a lecture at London's Zoological Institute, []",
@@ -1240,14 +1240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2738",
          "pubDate" : "Mon, 13 Nov 2023 21:57:48",
          "title" : "World Youth Chess Championship kicks off in Montesilvano, Italy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2737",
-         "pubDate" : "Mon, 13 Nov 2023 17:14:25",
-         "title" : "Mexican Championship 2023: Obregon Rivero and Corrales Jimenes win titles"
       }
    ]
 }
