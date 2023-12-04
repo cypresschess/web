@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2782",
+         "pubDate" : "Mon, 04 Dec 2023 15:08:23",
+         "title" : "\"Chess for Children with ASD. Learn and Teach\" seminar announced"
+      },
+      {
+         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
+         "pubDate" : "Mon, 04 Dec 2023 14:55:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "Thoothukudi District Chess Association on behalf of All India Chess Federation and AICF's Fair Play Committee organised a Fair Play Orientation Workshop at Kamaraj College,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-thoothukudi/",
+         "pubDate" : "Mon, 04 Dec 2023 14:07:08",
+         "title" : "AICF's Fair Play Orientation Workshop, Thoothukudi"
+      },
+      {
+         "description" : "Four decisive results in Sunday's third round left Gukesh D. and Michael Adams with a full-point lead over four players at the London Chess Classic. Notably, round 3 saw underdog Shreyas Royal collecting a remarkable win over Amin Tabatabaei. The 14-year-old now has a fifty-percent score in the standings. | Photo: Tao Bhokanandh",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r3",
+         "pubDate" : "Mon, 04 Dec 2023 14:05:00",
+         "title" : "London Classic: Gukesh and Adams score, lead"
+      },
+      {
+         "description" : "For its December list FIDE has not yet rated the tournaments in St. Louis and Zagreb, so Alireza Firouzja's rating loss is still quite moderate. The 30 Elo-points Hans Niemann gained in the Tournament of Peace in Zagreb do not appear in the list either. But Carlsen remains the clear number one.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-dezember-2023",
+         "pubDate" : "Mon, 04 Dec 2023 14:00:00",
+         "title" : "FIDE ratings December 2023"
+      },
+      {
          "description" : "In today's episode, the Sicilian Dragon advances to a nail-biting endgame! But not without diving deeper into some other variations, options, plans and ideas. For example, a setup with two rooks, and two bishops, vs. queen, rook and bishop!| Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,14 +114,6 @@ news_feed (
          "title" : "Understanding before Moving 154: Chess history in a nutshell (36)"
       },
       {
-         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
-         "pubDate" : "Sun, 03 Dec 2023 14:55:00",
-         "title" : "London Chess Classic - Live!"
-      },
-      {
          "description" : " The <a href=\"https://www.londonchessclassic.com/\">London Chess Classic</a> has returned, albeit in a much smaller form than in pre-covid years. It is now consists of a single 10 player RR, rather than the mix of GM event, Open swisses, monster rapids, and other events. The GM event is strong as usual, with 4 English GM's against 6 visiting players. There are a couple of interesting inclusions, including Gukesh, who is trying to qualify for the 2024 Candidates, and Hans Neimann, on a hot streak after winning in Zagreb last week. At this stage 2 rounds have been played, with some interesting games on show. GM Michael Adams (current World Seniors Champion) won a very nice game in round 1, agai",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -110,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/new-merch-store",
-         "pubDate" : "Sun, 03 Dec 2023 07:10:12",
+         "pubDate" : "Sun, 03 Dec 2023 07:10:00",
          "title" : "Chess.com Launches New Merch Store With New Tees, Mittens Plushie, And More"
       },
       {
@@ -118,7 +150,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-fan-favorite-bots",
-         "pubDate" : "Sun, 03 Dec 2023 06:00:18",
+         "pubDate" : "Sun, 03 Dec 2023 06:00:00",
          "title" : "Mittens Is Back! Celebrate The Holiday Season By Playing Chess Against Fan-Favorite Bots"
       },
       {
@@ -434,14 +466,6 @@ news_feed (
          "title" : "Hans Niemann dominates Tournament of Peace in Zagreb"
       },
       {
-         "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-live",
-         "pubDate" : "Thu, 30 Nov 2023 20:00:00",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
          "description" : " Brewington Hardway earned his first Grandmaster norm at the U.S. Masters in Charlotte. The 14-year-old had a blistering month of November earning more than 100 Elo points. Prior to his norm performance, he earned 50 Elo points at the nine-round NYC GM Fall Invitational. He bettered that result with another handsome cache of 62 Elo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/30/hardaway-gets-1st-gm-norm-clinches-im-title/\">Hardaway gets 1st GM norm, clinches IM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -464,14 +488,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2774",
          "pubDate" : "Thu, 30 Nov 2023 17:30:38",
          "title" : "FIDE World Rapid & Blitz Championships 2023: Registration deadline extended"
-      },
-      {
-         "description" : "In his Game of the Week show #595, Merijn Van Delft takes a closer look at the marquee matchup between Fabiano Caruana and Wesley So from the Sinquefield Cup in Saint Louis. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-596-caruana-so",
-         "pubDate" : "Thu, 30 Nov 2023 17:00:00",
-         "title" : "Game of the Week #596: F. Caruana vs W. So"
       },
       {
          "description" : "Another month ending means another post about top stories in the chess world, aka Yahoos (see the footnote for details). You might notice something unusual about the chart showing the top sources, so I'll come back to that after giving the usual statistics. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk30.gif\" WIDTH=200 HEIGHT=180 ALIGN=LEFT VSPACE=5 HSPACE=5> For November, Google News returned exactly 100 stories. Eight sources accounted for two or more stories, as shown in the chart on the left. Taken together, those eight sources accounted for a total of 47 stories, leaving 53 sources with a single story. <P> Once more Chess.com@ [sic] accounted for more stories than the other top s",
@@ -1162,14 +1178,6 @@ news_feed (
          "title" : "Saint Louis Rapid and Blitz 2023: Day 2 Recap"
       },
       {
-         "description" : "On behalf of All India Chess Federation, Andhra Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 16 17 Dec 2023",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-at-vizianagaram-andhra-pradesh-16-17-dec-2023/",
-         "pubDate" : "Thu, 16 Nov 2023 10:38:53",
-         "title" : "Senior National Arbiter Seminar & Exam at Vizianagaram Andhra Pradesh 16-17 Dec 2023"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2737",
          "pubDate" : "Mon, 13 Nov 2023 17:14:25",
          "title" : "Mexican Championship 2023: Obregon Rivero and Corrales Jimenes win titles"
-      },
-      {
-         "description" : " One of the other factors in my somewhat infrequent positing is the work I am doing as the Secretary of the FIDE Qualification Commission. It isn't so much that the work is time consuming, but more that topics I may have posted about in the past are now part of my official duties, creating a conflict between public comment and private knowledge. However some queries are vague enough that I can talk about them in a non official way. One query was basically 'When are you allowed to call yourself a Grandmaster?' The obvious answer is, anytime you want. This is because that while Grandmaster is connected with chess, the title does not necessarily belong to chess (indeed it dates back to the 18th",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/what-is-master.html",
-         "pubDate" : "Mon, 13 Nov 2023 12:50:00",
-         "title" : "What is a Master?"
       }
    ]
 }
