@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In today's episode, the Sicilian Dragon advances to a nail-biting endgame! But not without diving deeper into some other variations, options, plans and ideas. For example, a setup with two rooks, and two bishops, vs. queen, rook and bishop!| Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-a-dragon-endgame-thriller",
+         "pubDate" : "Mon, 04 Dec 2023 13:17:53",
+         "title" : "The Monthly Dragon - A Dragon endgame thriller"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2781",
+         "pubDate" : "Mon, 04 Dec 2023 11:14:16",
+         "title" : "EDU - Transforming chess education"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2780",
+         "pubDate" : "Mon, 04 Dec 2023 10:15:39",
+         "title" : "FIDE Development Director Nigel Short visits Lesotho"
+      },
+      {
+         "description" : "Ding Liren won the World Chess Championship 2023 and became the 17th World Champion. It's been 200 days since the last game of chess that he has played publicly. So where is Ding Liren, what is he up to? During his period of being away from the world of chess, IM Sagar Shah managed to get in touch with him and asked him about key position in the match. Ding also speaks about life after match and more. | Photo: Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/where-is-ding",
+         "pubDate" : "Mon, 04 Dec 2023 09:42:55",
+         "title" : "Where is Ding?"
+      },
+      {
+         "description" : "The European School Chess Championship 2024 will be held from May 30 to June 8 2024 in Limerick, Ireland. The event will be played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. If any group has less than 16 entries, open and girls sections can be merged with separate prizes for the best ranked girls. Each event will be played in 9 rounds, swiss system, with the time control of 90 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2024-official-invitation/",
+         "pubDate" : "Mon, 04 Dec 2023 09:07:43",
+         "title" : "European School Chess Championship 2024 - Official invitation"
+      },
+      {
          "description" : "Please find live link here Open :&#160;https://view.livechesscloud.com/#d1424a3d-d782-4bef-b664-15f8e4ef1a58 Girls :&#160;https://view.livechesscloud.com/#d74201d5-6448-49aa-a6d4-798b058bc230",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -386,6 +426,14 @@ news_feed (
          "title" : "Fabiano Caruana's Trophy Presentation | R9 #SinquefieldCup"
       },
       {
+         "description" : "Hans Niemann won the Tournament of Peace in spectacular fashion. The US grandmaster secured tournament victory with a round to spare, but nonetheless checkmated rating favourite Anton Korobov in the final round. Korobov, Ante Brkic and Vasyl Ivanchuk finished in shared second place, a whole 3 points behind the winner. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-wins-tournament-of-peace-2023",
+         "pubDate" : "Thu, 30 Nov 2023 23:35:00",
+         "title" : "Hans Niemann dominates Tournament of Peace in Zagreb"
+      },
+      {
          "description" : "The Sinquefield Cup is taking place on November 21-30 at the World Chess Hall of Fame in Saint Louis. The 9-round classical tournament is the last event in this year's Grand Chess Tour. It also plays a key role in the fight for the last two spots still up for grabs in the 2024 Candidates Tournament. | Follow the games live with expert commentary starting at 20.00 CET (14.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -416,6 +464,22 @@ news_feed (
          "link" : "https://www.fide.com/news/2774",
          "pubDate" : "Thu, 30 Nov 2023 17:30:38",
          "title" : "FIDE World Rapid & Blitz Championships 2023: Registration deadline extended"
+      },
+      {
+         "description" : "In his Game of the Week show #595, Merijn Van Delft takes a closer look at the marquee matchup between Fabiano Caruana and Wesley So from the Sinquefield Cup in Saint Louis. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-596-caruana-so",
+         "pubDate" : "Thu, 30 Nov 2023 17:00:00",
+         "title" : "Game of the Week #596: F. Caruana vs W. So"
+      },
+      {
+         "description" : "Another month ending means another post about top stories in the chess world, aka Yahoos (see the footnote for details). You might notice something unusual about the chart showing the top sources, so I'll come back to that after giving the usual statistics. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk30.gif\" WIDTH=200 HEIGHT=180 ALIGN=LEFT VSPACE=5 HSPACE=5> For November, Google News returned exactly 100 stories. Eight sources accounted for two or more stories, as shown in the chart on the left. Taken together, those eight sources accounted for a total of 47 stories, leaving 53 sources with a single story. <P> Once more Chess.com@ [sic] accounted for more stories than the other top s",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/11/missing-yahoos.html",
+         "pubDate" : "Thu, 30 Nov 2023 16:54:00",
+         "title" : "Missing Yahoos"
       },
       {
          "description" : "GM Fabiano Caruana added the 2023 Sinquefield Cup to his year of victories on Thursday. In his final round vs. GM Richard Rapport, Caruana combined strategic clarity with dynamic execution to break his opponent&#39;s defenses.&#38;nbsp; Caruana dominate...",
@@ -818,14 +882,6 @@ news_feed (
          "title" : "Round 8 report of World Youth Chess Championship, Italy 2023"
       },
       {
-         "description" : "Playing against Fritz is enjoyable because the program incorporates hidden errors. There could always be a tactical strike against it. However, Fritz 19 adds a new exciting dimension to your games: The hunt for \"achievements\". There's a competition for 136 different chess achievements, testing your tactical and strategic versatility. And there are rewards for it too.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/achievements-in-fritz-19",
-         "pubDate" : "Wed, 22 Nov 2023 08:13:05",
-         "title" : "The exciting world of achievements in Fritz 19"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1104,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2744",
          "pubDate" : "Thu, 16 Nov 2023 10:50:38",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 2 Recap"
-      },
-      {
-         "description" : "Five rounds are played at the European Team Chess Championship 2023 and Germany emerged as the sole leader of the Open section, while France and Azerbaijan co-lead in the Women's Championship. In the direct encounter for the sole lead, Germany defeated Armenia yesterday, with a convincing score of 3-1. GM Vincent Keymer (GER, 2721) couldn't get a better present for his 19th birthday than a team win and a beautiful victory against GM Haik Martirosyan (ARM, 2708). GM Matthias Bluebaum []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/etcc2023-germany-leads-open-azerbaijan-and-france-co-lead-in-the-womens-event/",
-         "pubDate" : "Thu, 16 Nov 2023 10:45:49",
-         "title" : "#ETCC2023 - Germany leads Open, Azerbaijan and France co-lead in the Women's event"
       },
       {
          "description" : "On behalf of All India Chess Federation, Andhra Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 16 17 Dec 2023",
