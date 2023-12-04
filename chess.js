@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find live link here Open :&#160;https://view.livechesscloud.com/#d1424a3d-d782-4bef-b664-15f8e4ef1a58 Girls :&#160;https://view.livechesscloud.com/#d74201d5-6448-49aa-a6d4-798b058bc230",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/link-for-live-games-of-36th-national-under-13-open-girls-chess-championships-2023/",
+         "pubDate" : "Mon, 04 Dec 2023 07:13:06",
+         "title" : "Link for LIVE GAMES of 36th National Under - 13 Open & Girls Chess Championships 2023"
+      },
+      {
          "description" : "Endings with a rook and a minor piece each are especially difficult. There is still enough firepower on the board for plenty of tactics, up to and often including mating attacks. But in contrast to middlegames, where unless matters are very forcing you have to rely to a great extent on intuition, in principle you \"ought\" - with material limited - to be able to calculate fairly accurately! | Photo: John Saunders (2007)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/baptism-of-fire-for-the-uk-parliamentary-chess-club/",
          "pubDate" : "Wed, 15 Nov 2023 10:24:27",
          "title" : "Baptism of fire for the UK Parliamentary Chess Club"
-      },
-      {
-         "description" : "Round 2 report of World Youth Chess Championship, Italy 2023U18 Open:After the end of Round 2 two Indians ILAMPARTHI, A R, and Mayak Chakraborty have",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-2-report-wycc-italy-2023/",
-         "pubDate" : "Wed, 15 Nov 2023 09:27:43",
-         "title" : "Round 2 report WYCC Italy 2023"
       },
       {
          "description" : " The Saint Louis Rapid & Blitz took place 14th to 19th November 2023. \"Fabiano Caruana became the 2023 Saint Louis Rapid & Blitz champion after a dramatic final day of blitz, which came down to a winner-take-all last round game against Maxime Vachier-Lagrave. Caruana ended with 21/36 points, Vachier-Lagrave finished second with 20.5, while Ian Nepomniachtchi and Le Quang Liem tied for third place with 20.\" \"Earning 13 GCT points for the tournament victory, Caruana is now extremely close to clinching the overall 2023 Grand Chess Tour.\" Ray Robson was the surprise winner of the rapid with 5.5/9. Caruana, Le Quang Liem and Ian Nepomniachtchi scored 11/18 in the blitz. ",
