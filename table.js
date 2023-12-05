@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2023-12-02  - 12-03","14","<a href=http://www.uschess.org/msa/XtblMain.php?202312039692 target='_blank'>U2000 - DEC 2 & 3</a>",
+"HOUSTON","2023-12-02","8","<a href=http://www.uschess.org/msa/XtblMain.php?202312028612 target='_blank'>CHESSPANDA12022023SATURDAY</a>",
 "CYPRESS","2023-12-01","24","<a href=http://www.uschess.org/msa/XtblMain.php?202312017382 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-12-01","32","<a href=http://www.uschess.org/msa/XtblMain.php?202312017302 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-12-01","6","<a href=http://www.uschess.org/msa/XtblMain.php?202312017062 target='_blank'>REBECCA CHESS CLUB QUADS DECEMBER 1, 2023</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2023-05-26","28","<a href=http://www.uschess.org/msa/XtblMain.php?202305260672 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-05-26","10","<a href=http://www.uschess.org/msa/XtblMain.php?202305260632 target='_blank'>REBECCA CHESS CLUB QUADS MAY 26, 2023</a>",
 "CYPRESS","2023-05-26","32","<a href=http://www.uschess.org/msa/XtblMain.php?202305260612 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"LEAGUE CITY","2023-05-01  - 05-22","7","<a href=http://www.uschess.org/msa/XtblMain.php?202305226532 target='_blank'>CLCC MAY MONDAYS</a>",
-"HOUSTON","2023-05-19  - 05-21","62","<a href=http://www.uschess.org/msa/XtblMain.php?202305218122 target='_blank'>$2,500 HOUSTON CHESS STUDIO MAY 202</a>",
 ]);
