@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Far advanced passed pawns often allow amazing combinations. In the diagram position it is White to move. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-power-of-passed-pawns-4",
+         "pubDate" : "Tue, 05 Dec 2023 09:00:00",
+         "title" : "The power of passed pawns"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2784",
+         "pubDate" : "Tue, 05 Dec 2023 07:43:23",
+         "title" : "Proposals for changes to FIDE Ratings Regulations"
+      },
+      {
          "description" : "In the Endgame Magic Show #257 Karsten M&uuml;ller continues to show highlights from the European Team Tournament Budva. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,16 +30,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-4",
-         "pubDate" : "Mon, 04 Dec 2023 17:11:09",
+         "pubDate" : "Mon, 04 Dec 2023 17:11:00",
          "title" : "Niemann Scores 1st Win, Gukesh Suffers Candidates Blow"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2782",
-         "pubDate" : "Mon, 04 Dec 2023 15:08:23",
-         "title" : "\"Chess for Children with ASD. Learn and Teach\" seminar announced"
       },
       {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2780",
          "pubDate" : "Mon, 04 Dec 2023 10:15:39",
          "title" : "FIDE Development Director Nigel Short visits Lesotho"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2782",
+         "pubDate" : "Mon, 04 Dec 2023 10:14:23",
+         "title" : "\"Chess for Children with ASD. Learn and Teach\" seminar announced"
       },
       {
          "description" : "Ding Liren won the World Chess Championship 2023 and became the 17th World Champion. It's been 200 days since the last game of chess that he has played publicly. So where is Ding Liren, what is he up to? During his period of being away from the world of chess, IM Sagar Shah managed to get in touch with him and asked him about key position in the match. Ding also speaks about life after match and more. | Photo: Anna Shtourman",
@@ -408,14 +424,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/some-surprising-endgames.html",
          "pubDate" : "Fri, 01 Dec 2023 11:20:00",
          "title" : "Some surprising endgames"
-      },
-      {
-         "description" : "From 9 to 16 February 2024, the Weissenhaus Private Nature Luxury Resort on the Baltic Sea in Germany will be the venue for a super tournament in \"Freestyle Chess\", also known as Chess960. Seven world-class players, including world champion Ding Liren and Vincent Keymer, will challenge the G.O.A.T (Greatest of all Times), Magnus Carlsen, in a Chess960 tournament with classical time control.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-super-tournament-in-germany-seven-top-players-challenge-carlsen",
-         "pubDate" : "Fri, 01 Dec 2023 10:00:00",
-         "title" : "Freestyle Super Tournament in Germany - Seven top players challenge Magnus Carlsen"
       },
       {
          "description" : "The 13th edition of the London Chess Classic commences today in London, England! It is a 10-player round-robin tournament, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with a 30-second increment for each move. The total prize fund of the event is &pound;38,500. GM Gukesh D (IND, 2720) is the top-seeded player of the tournament, followed by GM Nikita Vitiugov (ENG, 2704), GM Amin Tabatabaei (IRI, 2692), GM Hans []",
