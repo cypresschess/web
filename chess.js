@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " This game was played in the final round of a recent Street Chess event. I'm not sure of the provenance of 8.Qd2 (due to a broken Chessbase database), but after move 11, White was well ahead. The only difficult question seemed to be the timing of the sacrifice on h6. <br /> <b>Press,Harry - Li,Hui [D55]</b><br /> Street Chess (7), 02.12.2023 <script> new PgnViewer( { boardName: \"game1431\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.Nf3 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 c6 9.h4 Nd7 10.g4 dxc4 11.g5 hxg5 12.hxg5 Bxg5 13.Bxc4 b5 14.Bd3 Bh6 15.O-O-O Re8 16.Rdg1 Kf8 17.Ne4 Nf6 18.Ne5 Nxe4 19.Bxe4 Bb7 20.Rxh6 gxh6 21.Qb4+ Qe7 22.Nd7# 1-0', pauseBetweenMoves: 500, pieceSiz",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/some-street-chess-carnage.html",
+         "pubDate" : "Tue, 05 Dec 2023 11:51:00",
+         "title" : "Some Street Chess carnage"
+      },
+      {
+         "description" : "David Hater, FIDE delegate of the US Chess Federation, has written an open letter to FIDE President Arkady Dvorkovich on behalf of the USCF, complaining that imprecise FIDE rules for qualifying for the FIDE Circuit Candidates Tournament and for rating have caused confusion among players. FIDE had changed the rules at short notice.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-chess-candidate-tournament-qualification-letter-to-fide",
+         "pubDate" : "Tue, 05 Dec 2023 11:14:09",
+         "title" : "US Chess: Candidate Tournament Qualification Letter to FIDE"
+      },
+      {
+         "description" : "Thank you for sharing your games against Fritz 19! The raffle is over and three lucky participants either won a shirt, or a ChessBase gift card. We wish you fun replaying the games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-19-winners",
+         "pubDate" : "Tue, 05 Dec 2023 10:40:36",
+         "title" : "Fritz 19 winners!"
+      },
+      {
          "description" : "Far advanced passed pawns often allow amazing combinations. In the diagram position it is White to move. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2784",
          "pubDate" : "Tue, 05 Dec 2023 07:43:23",
          "title" : "Proposals for changes to FIDE Ratings Regulations"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2783",
+         "pubDate" : "Mon, 04 Dec 2023 21:30:20",
+         "title" : "Invitation to the Inaugural FIDE TEC Vendor User Group Meeting"
       },
       {
          "description" : "In the Endgame Magic Show #257 Karsten M&uuml;ller continues to show highlights from the European Team Tournament Budva. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -168,6 +200,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-3",
          "pubDate" : "Sun, 03 Dec 2023 17:19:00",
          "title" : "14-Year-Old Royal Beats Grandmaster; Gukesh, Adams Extend Lead"
+      },
+      {
+         "description" : "After so many years of following <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I've learned that eBay auctions follow seasonal trends. For example, the months preceeding the year-end holidays generally have more items than the months following the holidays <P> This year is no exception and my short list for this post had a dozen items, any one of which could have been featured for the post. By coincidence, the three most expensive items on the list were all related to the 1972 Fischer - Spassky match. Two of those items are pictured below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/fischer-spassky-top-items-by-price.html",
+         "pubDate" : "Sun, 03 Dec 2023 16:13:00",
+         "title" : "Fischer - Spassky Top Items by Price"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 154th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Mikhail Botvinnik. | Photo: Pascal Simon",
@@ -392,14 +432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-1",
          "pubDate" : "Fri, 01 Dec 2023 16:40:00",
          "title" : "Gukesh Starts Candidates Mission With Win"
-      },
-      {
-         "description" : "With a final-round win over Richard Rapport, Fabiano Caruana secured tournament victory at the Sinquefield Cup in Saint Louis. This was Caruana's third victory in this event, as he had previously won it in 2014 (when he famously grabbed seven wins in a row) and in 2018. Sole second place went to Leinier Dominguez, who drew Levon Aronian with the black pieces on Thursday. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2023-r9",
-         "pubDate" : "Fri, 01 Dec 2023 15:50:00",
-         "title" : "Caruana beats Rapport, wins Sinquefield Cup for a third time"
       },
       {
          "description" : " The 9th Zagreb Tournament of Peace took place Wed 22nd to Thu 30th Nov 2023. Hans Moke Niemann scored 8/9 conceding just two draws on the way to winning the event by three clear points. He now moves on to the London Chess Classic.",
@@ -1232,14 +1264,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2740",
          "pubDate" : "Tue, 14 Nov 2023 13:34:41",
          "title" : "FIDE partners with Safe Sport International for Safeguarding Framework"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2739",
-         "pubDate" : "Tue, 14 Nov 2023 11:09:17",
-         "title" : "FIDE Director for Chess Development visits Namibia"
       }
    ]
 }
