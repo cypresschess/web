@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
+         "pubDate" : "Tue, 05 Dec 2023 14:55:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "The Caro Kann Defence is a much-played opening today, with which Black often makes life difficult for White after 1.e4. In his ChessBase course \"Weapons against the Caro-Kann, 1 and 2\", English GM Daniel Fernandez shows how White can successfully combat this defence. Christian H&ouml;the took a look at the course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weapons-against-the-caro-kann-a-review",
+         "pubDate" : "Tue, 05 Dec 2023 14:51:59",
+         "title" : "\"Weapons against the Caro Kann\" - A review"
+      },
+      {
+         "description" : "A second consecutive round with four decisive results ended with Michael Adams atop the standings of the London Chess Classic. Former co-leader Gukesh had a clear edge against Jules Moussard - however, a blunder by the Indian star allowed Moussard to take over and convert his newfound advantage in style. Similarly, Shreyas Royal first gave up his advantage and then lost the game he played with black against Hans Niemann. Adams and Niemann are the only two players who remain undefeated in the event. | Photo: Tao Bhokanandh",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r4",
+         "pubDate" : "Tue, 05 Dec 2023 13:30:00",
+         "title" : "London Classic: Exciting round leaves Adams as sole leader"
+      },
+      {
          "description" : " This game was played in the final round of a recent Street Chess event. I'm not sure of the provenance of 8.Qd2 (due to a broken Chessbase database), but after move 11, White was well ahead. The only difficult question seemed to be the timing of the sacrifice on h6. <br /> <b>Press,Harry - Li,Hui [D55]</b><br /> Street Chess (7), 02.12.2023 <script> new PgnViewer( { boardName: \"game1431\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.Nf3 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 c6 9.h4 Nd7 10.g4 dxc4 11.g5 hxg5 12.hxg5 Bxg5 13.Bxc4 b5 14.Bd3 Bh6 15.O-O-O Re8 16.Rdg1 Kf8 17.Ne4 Nf6 18.Ne5 Nxe4 19.Bxe4 Bb7 20.Rxh6 gxh6 21.Qb4+ Qe7 22.Nd7# 1-0', pauseBetweenMoves: 500, pieceSiz",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -66,12 +90,12 @@ news_feed (
          "title" : "Niemann Scores 1st Win, Gukesh Suffers Candidates Blow"
       },
       {
-         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
-         "pubDate" : "Mon, 04 Dec 2023 14:55:00",
-         "title" : "London Chess Classic - Live!"
+         "description" : "What do you get when you cross <A HREF=\"https://chessforallages.blogspot.com/2023/09/i-want-to-go-squirrel-hunting.html\">I Want To Go Squirrel Hunting</A> (September 2023), with <A HREF=\"https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html\">AI Chess Comics</A> (November 2023)? Something like this... <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl04.jpg\" WIDTH=337 HEIGHT=400><BR> <B>'Elon Musk plays chess with a squirrel.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> ...Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html",
+         "pubDate" : "Mon, 04 Dec 2023 16:34:00",
+         "title" : "Elon Musk and Squirrels"
       },
       {
          "description" : "Thoothukudi District Chess Association on behalf of All India Chess Federation and AICF's Fair Play Committee organised a Fair Play Orientation Workshop at Kamaraj College,",
@@ -158,7 +182,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cct-finals-prediction-contest",
-         "pubDate" : "Mon, 04 Dec 2023 09:04:50",
+         "pubDate" : "Mon, 04 Dec 2023 09:04:00",
          "title" : "Don't Miss Chess.com's Biggest Prediction Contest Of The Year"
       },
       {
@@ -344,22 +368,6 @@ news_feed (
          "link" : "https://aicf.in/agm-meeting-23rd-dec/",
          "pubDate" : "Sat, 02 Dec 2023 07:35:04",
          "title" : "AGM Meeting, 23rd DEC."
-      },
-      {
-         "description" : "Dommaraju Gukesh and Michael Adams got off to winning starts at the 13th edition of the London Chess Classic. Gukesh defeated Mateusz Bartel's French Defence, while Adams showcased his positional virtuosity playing white against Amin Tabatabaei. Both Gukesh and Adams will play black in the second round, against Nikita Vitiugov and Hans Niemann respectively. | Photo: Abhyudaya Ram",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r1",
-         "pubDate" : "Sat, 02 Dec 2023 02:15:00",
-         "title" : "London Classic: Gukesh and Adams start with wins"
-      },
-      {
-         "description" : "The International Chess Federation released the inaugural Gender Equality in Chess Index (GECI), an innovative instrument designed to measure and compare the level of gender equality in chess federations across the globe. The GECI incorporates three indicators of Participation, Performance, and Progress to offer an all-encompassing view of gender parity in chess. This index introduces a comprehensive scoring system ranging from 0 to 100.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-introduces-gender-equality-index",
-         "pubDate" : "Fri, 01 Dec 2023 23:15:00",
-         "title" : "FIDE introduces the Gender Equality in Chess Index (GECI)"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-does-it-feel-after-all-fabi-wins-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/faHeCb-9KY8.jpg?itok=vWaNuXbH\" alt=\"\" /></a></div>",
@@ -1248,22 +1256,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/baptism-of-fire-for-the-uk-parliamentary-chess-club/",
          "pubDate" : "Wed, 15 Nov 2023 10:24:27",
          "title" : "Baptism of fire for the UK Parliamentary Chess Club"
-      },
-      {
-         "description" : " The Saint Louis Rapid & Blitz took place 14th to 19th November 2023. \"Fabiano Caruana became the 2023 Saint Louis Rapid & Blitz champion after a dramatic final day of blitz, which came down to a winner-take-all last round game against Maxime Vachier-Lagrave. Caruana ended with 21/36 points, Vachier-Lagrave finished second with 20.5, while Ian Nepomniachtchi and Le Quang Liem tied for third place with 20.\" \"Earning 13 GCT points for the tournament victory, Caruana is now extremely close to clinching the overall 2023 Grand Chess Tour.\" Ray Robson was the surprise winner of the rapid with 5.5/9. Caruana, Le Quang Liem and Ian Nepomniachtchi scored 11/18 in the blitz. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2023",
-         "pubDate" : "Tue, 14 Nov 2023 16:15:00",
-         "title" : "Saint Louis Rapid & Blitz 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2740",
-         "pubDate" : "Tue, 14 Nov 2023 13:34:41",
-         "title" : "FIDE partners with Safe Sport International for Safeguarding Framework"
       }
    ]
 }
