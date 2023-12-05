@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Vugar Gashimov Memorial 2023 will be held in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters will compete in a combined rapid chess and blitz tournament. The event is held in memory of the former world-class player Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-preview",
+         "pubDate" : "Tue, 05 Dec 2023 21:00:00",
+         "title" : "Starting Friday: Gashimov Memorial with Shakh, Rapport, Vidit & co."
+      },
+      {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,14 +360,6 @@ news_feed (
          "link" : "https://www.thearticle.com/knight-errant-chess-and-the-elgin-marbles/",
          "pubDate" : "Sat, 02 Dec 2023 09:20:40",
          "title" : "Knight errant: chess and the Elgin Marbles"
-      },
-      {
-         "description" : "Today some elementary endgame tactics. In the diagram position, the constellation on the kingside with the far advanced pawn h3 secures Black's advantage. But how to exploit this?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bishops-and-passers",
-         "pubDate" : "Sat, 02 Dec 2023 09:00:00",
-         "title" : "Bishops and passers"
       },
       {
          "description" : "All India Chess Federation holding it's AGM Meeting on upcoming 23rd December at Kanpur. Access further details by downloading the official Agenda. AGM Agenda :",
