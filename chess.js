@@ -62,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-updated-move-list",
-         "pubDate" : "Mon, 04 Dec 2023 11:31:20",
+         "pubDate" : "Mon, 04 Dec 2023 11:31:00",
          "title" : "Chess.com Makes Massive Upgrade To Move List!"
       },
       {
@@ -1232,14 +1232,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2739",
          "pubDate" : "Tue, 14 Nov 2023 11:09:17",
          "title" : "FIDE Director for Chess Development visits Namibia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2738",
-         "pubDate" : "Mon, 13 Nov 2023 21:57:48",
-         "title" : "World Youth Chess Championship kicks off in Montesilvano, Italy"
       }
    ]
 }
