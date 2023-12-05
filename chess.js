@@ -10,6 +10,14 @@ news_feed (
          "title" : "Endgame Magic #257 - Highlights from the European Team Tournament Budva Part 2"
       },
       {
+         "description" : "GM Hans Niemann sacrificed a knight and two rooks to beat IM Shreyas Royal in round four of the 2023 London Chess Classic before commenting, &#34;the sound of chess speaking overpowers jealousy.&#34; The day&#39;s other headline news was GM Gukesh Dommaraju b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-4",
+         "pubDate" : "Mon, 04 Dec 2023 17:11:09",
+         "title" : "Niemann Scores 1st Win, Gukesh Suffers Candidates Blow"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2767",
          "pubDate" : "Mon, 27 Nov 2023 20:25:10",
          "title" : "FIDE Chessable Academy resumes in January 2024"
-      },
-      {
-         "description" : "It was a day of victories on Monday at the 2023 Sinquefield Cup. GM Wesley So defeated GM Levon Aronian to extend his lead, while GMs Fabiano Caruana and Leinier Dominguez scored their first wins. The Sinquefield Cup continues with round seven o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-6",
-         "pubDate" : "Mon, 27 Nov 2023 19:15:00",
-         "title" : "Victories Aplenty: So Leads; Caruana, Dominguez Score 1st Wins"
       },
       {
          "description" : "",
