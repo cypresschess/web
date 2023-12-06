@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows how to make your chess opponent regret their positional mistakes. 2023.11.07<br /> Illia Nyzhnyk vs. Lev Paciorkowski, 2019 (49th Continental Open)<br /> ???<br /> Ding Liren vs Hao Wang, World Championship Candidates (2020/21)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1993009\">https://www.chessgames.com/perl/chessgame?gid=1993009</a><br /> ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/punishing-positional-mi",
+         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a beginner chess class about drawing combinations, using perpetual check, stalemate, sacrifice, and more! Plus, see the shortest possible stalemate, and the shortest possible stalemate with all pieces on the board. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/amazing-drawing-combinations-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/amazing-drawing-combinations-beginner-breakdown-nm-ralph-tan",
+         "pubDate" : "Wed, 06 Dec 2023 02:05:55",
+         "title" : "Amazing Drawing Combinations! | Beginner Breakdown - NM Ralph Tan"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows how to make your chess opponent regret their positional mistakes. 2023.11.07<br /> Illia Nyzhnyk vs. Lev Paciorkowski, 2019<br /> Erik Santarius vs. Nyzhnyk, 2019 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/punishing-positional-mistakes-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/03QgVj8lfdI.jpg?itok=Suq",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/punishing-positional-mistakes-grandmasters-choice-gm-illia-nyzhnyk",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Drawing Combinations | Beginner Breakdown - NM Ralph Tan"
       },
       {
-         "description" : "GM Mateusz Bartel beat IM Shreyas Royal in round five of the&#38;nbsp;2023 London Chess Classic to move into a four-way tie for second place. The sole leader, half a point clear, remains GM Michael Adams, but the England star seemed to miss a huge cha...",
+         "description" : "GM Mateusz Bartel beat IM Shreyas Royal in round five of the&#38;nbsp;2023 London Chess Classic to move into a four-way tie for second place. The sole leader, half a point clear, remains GM Michael Adams, but the English star seemed to miss a huge cha...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-5",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kasparov-can%E2%80%99t-follow-fide-mathematics-r9-sinquefieldcup",
          "pubDate" : "Fri, 01 Dec 2023 02:01:10",
          "title" : "Kasparov: Can't Follow the FIDE Mathematics | R9 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich after a draw against Aronian in the ninth round of the 2023 Sinquefield Cup. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-after-fide%E2%80%99s-changes-i-will-fight-candidates-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/blqqzuJpAI4.jpg?itok=DqTY4vsP\" alt=\"\" /></a>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-after-fide%E2%80%99s-changes-i-will-fight-candidates-r9-sinquefieldcup",
-         "pubDate" : "Fri, 01 Dec 2023 02:01:10",
-         "title" : "Dominguez: After FIDE's Changes, I Will Fight for the Candidates | R9 #SinquefieldCup"
       },
       {
          "description" : " Brewington Hardway earned his first Grandmaster norm at the U.S. Masters in Charlotte. The 14-year-old had a blistering month of November earning more than 100 Elo points. Prior to his norm performance, he earned 50 Elo points at the nine-round NYC GM Fall Invitational. He bettered that result with another handsome cache of 62 Elo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/30/hardaway-gets-1st-gm-norm-clinches-im-title/\">Hardaway gets 1st GM norm, clinches IM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
