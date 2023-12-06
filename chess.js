@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kasparov Chess Foundation Academy unveils exciting Training Programs with two groundbreaking courses: a four-level training program crafted by chess maestros and inspired by the legendary Garry Kasparov himself, and an \"Improve Your Chess\" lecture series, designed to elevate your game. Announcement and info from the KCF",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-we-are-open",
+         "pubDate" : "Wed, 06 Dec 2023 09:20:58",
+         "title" : "KCF: We are Open!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a beginner chess class about drawing combinations, using perpetual check, stalemate, sacrifice, and more! Plus, see the shortest possible stalemate, and the shortest possible stalemate with all pieces on the board. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/amazing-drawing-combinations-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Amazing Drawing Combinations! | Beginner Breakdown - NM Ralph Tan"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows how to make your chess opponent regret their positional mistakes. 2023.11.07<br /> Illia Nyzhnyk vs. Lev Paciorkowski, 2019<br /> Erik Santarius vs. Nyzhnyk, 2019 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/punishing-positional-mistakes-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/03QgVj8lfdI.jpg?itok=Suq",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows how to make your chess opponent regret their positional mistakes. 2023.12.05<br /> Illia Nyzhnyk vs. Lev Paciorkowski, 2019<br /> Erik Santarius vs. Nyzhnyk, 2019 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/punishing-positional-mistakes-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/03QgVj8lfdI.jpg?itok=Suq",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/punishing-positional-mistakes-grandmasters-choice-gm-illia-nyzhnyk",
@@ -376,14 +384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-knack-for-problem-solving",
          "pubDate" : "Sat, 02 Dec 2023 14:55:00",
          "title" : "A knack for problem-solving?"
-      },
-      {
-         "description" : "As described in the article \"The Never Ending Saga of Moroccan Chess\" (Part 1 and Part 2), the International Prix Mohammed VI tournament had an unfortunate end, as the winners did not receive their prizes. That incident did not take away from the players' efforts and performances, though, as shown here by Diana Mihajlova. | Pictured: Rising star Kevin Michael George with his parents and his coach, GM Bassem Amin",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mohammed-vi-prize-the-players-part-2",
-         "pubDate" : "Sat, 02 Dec 2023 14:45:00",
-         "title" : "Mohammed VI Prize - The players (part 2)"
       },
       {
          "description" : "Poland&#39;s IM Marcin Szymanski won the final round of the 2023 Chess.com Daily Chess Championship by half a point in October ahead of the second-placed &#34;DanilinDP,&#34; and IMs Kacper Drozdowski&#38;nbsp;and Mark Timmermans. This year&#39;s Championship broug...",
