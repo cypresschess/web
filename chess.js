@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Soon after Carl Schlechter's early death the wish arose to organise a memorial tournament in his honour. In 1923 several important chess masters met at the Caf&eacute; Universale and played such a tournament that ended on 4 December with a victory of Savielly Tartakower. Michael Ehn invites you to travel back in time to Vienna in the early 1920s. | Photo: The building with the former Caf&eacute; Universale | Photos: Archive Michael Ehn",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/coffeehouse-moves-in-times-of-upheaval",
+         "pubDate" : "Wed, 06 Dec 2023 17:00:00",
+         "title" : "Coffeehouse moves in times of upheaval"
+      },
+      {
+         "description" : "In Germany the 6th December is the day of \"Nikolaus\" - a day for small presents, and on the evening of the 5th December children in Germany put out their shoes in the hope that \"Nikolaus\" will fill them overnight with chocolate, sweets or other presents. To celebrate this nice custom, ChessBase is offering its customers Mihail Marin's \"60 Minutes\" course \"The Golden Rules of Chess Strategy\" for free. St Nicholas will start giving out presents now and will continue until midnight on 7 December. Enjoy!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/presents-from-the-nikolaus",
+         "pubDate" : "Wed, 06 Dec 2023 14:44:35",
+         "title" : "Presents from the \"Nikolaus\""
+      },
+      {
+         "description" : "Michael Adams continues to be the sole leader at the London Chess Classic after a fifth round with one decisive result. Going into the rest day, Adams has a half-point lead over four players, including Mateusz Bartel, who was the one participant to collect a full point on Tuesday. Adams played Gukesh in round 5, got a very promising position, and agreed to a draw by repetition while still in the driver's seat. | Photo: Tao Bhokanandh",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r5",
+         "pubDate" : "Wed, 06 Dec 2023 13:30:00",
+         "title" : "London Classic: Bartel scores, Adams leads"
+      },
+      {
+         "description" : " After yesterdays lesson in targeting the king, a slightly more restrained game, in this case played by myself. In the end my opponent took a few liberty's in the opening (taking both centre pawns gives White too much play), and never quite untangled himself. At move 17 I was planning to play Be3 with the idea of winning the exchange after 18.Nc7, but I realised it was stronger if I reversed the move order. The game ended when my opponent flagged in a losing position. <br /> <b>Press,Shaun - Grcic,Milan [E04]</b><br /> Swiss Festive Fun --- (5), 05.12.2023 <script> new PgnViewer( { boardName: \"game1432\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.g3 c5 5.Bg2 cxd4 6.O-O dx",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/slightly-less-violent.html",
+         "pubDate" : "Wed, 06 Dec 2023 12:49:00",
+         "title" : "Slightly less violent"
+      },
+      {
          "description" : "The 2023 Turkish Chess Championship is played from 1 and 10 December at the Antalya Mirage Park Resort. Ten players compete in 9 rounds. The championship is broadcast live by IM Melih Yurtseven and FM Özg&uuml;n via Youtube. Live streams of the games are also available at live.chessbase.com. | Photo: Ufuk Tuncer",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +56,22 @@ news_feed (
          "link" : "https://www.fide.com/news/2785",
          "pubDate" : "Wed, 06 Dec 2023 09:17:17",
          "title" : "Chess for Freedom project among 3rd Annual Anthem Awards Finalists"
+      },
+      {
+         "description" : "Recent Titled Tuesdays&#38;nbsp;have been a time for the long-established veterans of the chess world to remind everyone they&#39;re not done yet. December 5 was no exception, with GM Levon Aronian and GM Magnus Carlsen both winning a tournament outright,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/aronian-carlsen-win-titled-tuesday-december-5-2023",
+         "pubDate" : "Wed, 06 Dec 2023 08:13:02",
+         "title" : "Magnus Carlsen Again Flirts With Perfection"
+      },
+      {
+         "description" : "The third ESpot B-Cup is scheduled to take place on December 9, 2023. This unique event blends online and in-person chess with the exciting addition of a live audience; it&#38;rsquo;s competitive chess, but not quite as you know it! An additional to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-presents-b-cup-3",
+         "pubDate" : "Wed, 06 Dec 2023 08:00:00",
+         "title" : "Chess.com Presents B-Cup 3 in Paris, France"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a beginner chess class about drawing combinations, using perpetual check, stalemate, sacrifice, and more! Plus, see the shortest possible stalemate, and the shortest possible stalemate with all pieces on the board. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/amazing-drawing-combinations-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
@@ -64,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-5",
          "pubDate" : "Tue, 05 Dec 2023 15:15:33",
          "title" : "Bartel Grabs Only Win As Adams Lets Gukesh Off Hook"
-      },
-      {
-         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
-         "pubDate" : "Tue, 05 Dec 2023 14:55:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "The Caro Kann Defence is a much-played opening today, with which Black often makes life difficult for White after 1.e4. In his ChessBase course \"Weapons against the Caro-Kann, 1 and 2\", English GM Daniel Fernandez shows how White can successfully combat this defence. Christian H&ouml;the took a look at the course.",
@@ -320,22 +360,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/london-chess-classic.html",
          "pubDate" : "Sun, 03 Dec 2023 13:12:00",
          "title" : "London Chess Classic"
-      },
-      {
-         "description" : "Vaishali Rameshbabu became the third Indian woman player (after Humpy Koneru and Harika Dronavalli) to earn the grandmaster title. Vaishali obtained the title by scoring a win against FM Tamer Tarik Selbes at the 2023 El Llobregat Open. Since her brother Pragganandhaa is also a grandmaster, Vaishali and Pragg became the world's first-ever brother-sister grandmaster duo! | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vaishali-rameshbabu-gm-title",
-         "pubDate" : "Sun, 03 Dec 2023 11:00:00",
-         "title" : "The path to GM: Vaishali's steady ascent"
-      },
-      {
-         "description" : "Three decisive results in round 2 of the London Chess Classic left three players tied for first place with 1&frac12; points each. Andrei Volokitin joined round-1 winners Dommaraju Gukesh and Michael Adams in the lead of the event after beating underdog Shreyas Royal with the white pieces. Meanwhile, Mateusz Bartel and Amin Tabatabaei bounced back from their losses on Friday and returned to a fifty-percent score. Gukesh barely escaped with a draw in his game against Nikita Vitiugov. | Photo: Abhyudaya Ram",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r2",
-         "pubDate" : "Sun, 03 Dec 2023 09:00:00",
-         "title" : "London Classic: Volokitin co-leader, Bartel and Tabatabaei bounce back"
       },
       {
          "description" : "The internet sensation Mittens is back&#38;mdash;not only as the soul-crushing chess bot that broke the internet but also as an adorable plushie that you can own! Chess.com is excited to announce we&#39;ll be launching our merch store on December 9, now w...",
@@ -690,28 +714,12 @@ news_feed (
          "title" : "More wacky ideas"
       },
       {
-         "description" : "After the weekend, you&#39;re back in school. You open the door. You&#39;re hit with thunder-like applause from all your classmates and teachers in the hallways; everyone&#39;s proud of you. For most teenagers, this fantasy happens only in dreams. But this ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/u16-world-champion-seemann-applauded-back-at-school",
-         "pubDate" : "Wed, 29 Nov 2023 10:58:00",
-         "title" : "Under-16 World Champion Applauded At School In Viral Video"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2770",
          "pubDate" : "Wed, 29 Nov 2023 10:16:03",
          "title" : "2023 Sinquefield Cup: Day 7 Recap"
-      },
-      {
-         "description" : "GM Alexander Grischuk and GM Hikaru Nakamura were the winners of the last two Titled Tuesday tournaments of November. Grischuk won the early tournament by a full point on 10/11 after defeating Nakamura in the 10th round, while Nakamura scored 9.5/...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grischuk-nakamura-win-titled-tuesday-november-28-2023",
-         "pubDate" : "Wed, 29 Nov 2023 08:06:56",
-         "title" : "Nakamura Makes Up For Early Error With Late Win"
       },
       {
          "description" : "",
@@ -754,7 +762,7 @@ news_feed (
          "title" : "Important changes in the bidding process for FIDE events"
       },
       {
-         "description" : "The 2023 UK Open Blitz Finals will take place on Saturday 2nd December at the Woodland Grange Hotel, Leamington Spa, with all games played on...",
+         "description" : "The 2023 UK Open Blitz Finals took place on Saturday 2nd December at the Woodland Grange Hotel, Leamington Spa, with all games played on live...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-finals-saturday-2nd-december/",
