@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2023 Turkish Chess Championship is played from 1 and 10 December at the Antalya Mirage Park Resort. Ten players compete in 9 rounds. The championship is broadcast live by IM Melih Yurtseven and FM Özg&uuml;n via Youtube. Live streams of the games are also available at live.chessbase.com. | Photo: Ufuk Tuncer",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-turkish-championships-in-antalya",
+         "pubDate" : "Wed, 06 Dec 2023 10:37:33",
+         "title" : "The Turkish Championships in Antalya"
+      },
+      {
          "description" : "The Kasparov Chess Foundation Academy unveils exciting Training Programs with two groundbreaking courses: a four-level training program crafted by chess maestros and inspired by the legendary Garry Kasparov himself, and an \"Improve Your Chess\" lecture series, designed to elevate your game. Announcement and info from the KCF",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/kcf-we-are-open",
          "pubDate" : "Wed, 06 Dec 2023 09:20:58",
          "title" : "KCF: We are Open!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2785",
+         "pubDate" : "Wed, 06 Dec 2023 09:17:17",
+         "title" : "Chess for Freedom project among 3rd Annual Anthem Awards Finalists"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a beginner chess class about drawing combinations, using perpetual check, stalemate, sacrifice, and more! Plus, see the shortest possible stalemate, and the shortest possible stalemate with all pieces on the board. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/amazing-drawing-combinations-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
@@ -376,14 +392,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-2",
          "pubDate" : "Sat, 02 Dec 2023 16:09:00",
          "title" : "Gukesh Escapes As Bartel, Tabatabaei, Volokitin Score 1st Wins"
-      },
-      {
-         "description" : "Welcome to the ChessBase India Winter Chess Solving Championship, an initiative to promote chess composition and creative-logical thinking through chess. This introductory article serves as the curtain-raiser to the event: Satanick Mukhuty give you the rules, the details of the prizes, and the first six of the twelve problems to solve. This is a serious challenge.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-knack-for-problem-solving",
-         "pubDate" : "Sat, 02 Dec 2023 14:55:00",
-         "title" : "A knack for problem-solving?"
       },
       {
          "description" : "Poland&#39;s IM Marcin Szymanski won the final round of the 2023 Chess.com Daily Chess Championship by half a point in October ahead of the second-placed &#34;DanilinDP,&#34; and IMs Kacper Drozdowski&#38;nbsp;and Mark Timmermans. This year&#39;s Championship broug...",
@@ -1232,30 +1240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2743",
          "pubDate" : "Wed, 15 Nov 2023 20:00:58",
          "title" : "WSCC 2023: Hou Yifan, Harika, Lagno and Kosteniuk advance to semis"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2741",
-         "pubDate" : "Wed, 15 Nov 2023 11:26:58",
-         "title" : "Chess4Peace, a project for women from Ukraine, launched in Poland"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2742",
-         "pubDate" : "Wed, 15 Nov 2023 10:45:29",
-         "title" : "Saint Louis Rapid and Blitz 2023: Day 1 Recap"
-      },
-      {
-         "description" : "The UK Parliamentary Chess Club played its first over-the-board match in decades, and it was bruising encounter for them against a well-organised and impressive Imperial...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/baptism-of-fire-for-the-uk-parliamentary-chess-club/",
-         "pubDate" : "Wed, 15 Nov 2023 10:24:27",
-         "title" : "Baptism of fire for the UK Parliamentary Chess Club"
       }
    ]
 }
