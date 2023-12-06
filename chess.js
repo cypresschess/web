@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows how to make your chess opponent regret their positional mistakes. 2023.11.07<br /> Illia Nyzhnyk vs. Lev Paciorkowski, 2019 (49th Continental Open)<br /> ???<br /> Ding Liren vs Hao Wang, World Championship Candidates (2020/21)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1993009\">https://www.chessgames.com/perl/chessgame?gid=1993009</a><br /> ??? </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/punishing-positional-mi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/punishing-positional-mistakes-grandmasters-choice-gm-illia-nyzhnyk",
+         "pubDate" : "Tue, 05 Dec 2023 23:05:41",
+         "title" : "Punishing Positional Mistakes | Grandmaster's Choice - GM Illia Nyzhnyk"
+      },
+      {
          "description" : "The Vugar Gashimov Memorial 2023 will be held in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters will compete in a combined rapid chess and blitz tournament. The event is held in memory of the former world-class player Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-preview",
          "pubDate" : "Tue, 05 Dec 2023 21:00:00",
          "title" : "Starting Friday: Gashimov Memorial with Shakh, Rapport, Vidit & co."
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a beginner chess class about drawing combinations. 2023.12.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/drawing-combinations-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xT2pDaZa9JM.jpg?itok=uZQjV76o\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/drawing-combinations-beginner-breakdown-nm-ralph-tan",
+         "pubDate" : "Tue, 05 Dec 2023 20:05:45",
+         "title" : "Drawing Combinations | Beginner Breakdown - NM Ralph Tan"
+      },
+      {
+         "description" : "GM Mateusz Bartel beat IM Shreyas Royal in round five of the&#38;nbsp;2023 London Chess Classic to move into a four-way tie for second place. The sole leader, half a point clear, remains GM Michael Adams, but the England star seemed to miss a huge cha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-5",
+         "pubDate" : "Tue, 05 Dec 2023 15:15:33",
+         "title" : "Bartel Grabs Only Win As Adams Lets Gukesh Off Hook"
       },
       {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
@@ -26,6 +50,14 @@ news_feed (
          "title" : "\"Weapons against the Caro Kann\" - A review"
       },
       {
+         "description" : "David Hater, FIDE delegate of the US Chess Federation, has written an open letter to FIDE President Arkady Dvorkovich on behalf of the USCF, complaining that imprecise FIDE rules for qualifying for the FIDE Circuit Candidates Tournament and for rating have caused confusion among players. FIDE had changed the rules at short notice.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-chess-candidate-tournament-qualification-letter-to-fide",
+         "pubDate" : "Tue, 05 Dec 2023 13:35:00",
+         "title" : "US Chess: Candidate Tournament Qualification Letter to FIDE"
+      },
+      {
          "description" : "A second consecutive round with four decisive results ended with Michael Adams atop the standings of the London Chess Classic. Former co-leader Gukesh had a clear edge against Jules Moussard - however, a blunder by the Indian star allowed Moussard to take over and convert his newfound advantage in style. Similarly, Shreyas Royal first gave up his advantage and then lost the game he played with black against Hans Niemann. Adams and Niemann are the only two players who remain undefeated in the event. | Photo: Tao Bhokanandh",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,20 +66,20 @@ news_feed (
          "title" : "London Classic: Exciting round leaves Adams as sole leader"
       },
       {
+         "description" : "GM Leinier Dominguez made a sudden entry into the Candidates race. Now FIDE has responded to the criticism after their clarification of the rules drew reactions from the chess community. With less than a month left in 2023, the race to the Candi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/new-fide-clarifications-on-candidates-draws-reactions",
+         "pubDate" : "Tue, 05 Dec 2023 12:25:00",
+         "title" : "FIDE Clarification On Candidates Race Draws Reactions"
+      },
+      {
          "description" : " This game was played in the final round of a recent Street Chess event. I'm not sure of the provenance of 8.Qd2 (due to a broken Chessbase database), but after move 11, White was well ahead. The only difficult question seemed to be the timing of the sacrifice on h6. <br /> <b>Press,Harry - Li,Hui [D55]</b><br /> Street Chess (7), 02.12.2023 <script> new PgnViewer( { boardName: \"game1431\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.Nf3 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 c6 9.h4 Nd7 10.g4 dxc4 11.g5 hxg5 12.hxg5 Bxg5 13.Bxc4 b5 14.Bd3 Bh6 15.O-O-O Re8 16.Rdg1 Kf8 17.Ne4 Nf6 18.Ne5 Nxe4 19.Bxe4 Bb7 20.Rxh6 gxh6 21.Qb4+ Qe7 22.Nd7# 1-0', pauseBetweenMoves: 500, pieceSiz",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/12/some-street-chess-carnage.html",
          "pubDate" : "Tue, 05 Dec 2023 11:51:00",
          "title" : "Some Street Chess carnage"
-      },
-      {
-         "description" : "David Hater, FIDE delegate of the US Chess Federation, has written an open letter to FIDE President Arkady Dvorkovich on behalf of the USCF, complaining that imprecise FIDE rules for qualifying for the FIDE Circuit Candidates Tournament and for rating have caused confusion among players. FIDE had changed the rules at short notice.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-chess-candidate-tournament-qualification-letter-to-fide",
-         "pubDate" : "Tue, 05 Dec 2023 11:14:09",
-         "title" : "US Chess: Candidate Tournament Qualification Letter to FIDE"
       },
       {
          "description" : "Thank you for sharing your games against Fritz 19! The raffle is over and three lucky participants either won a shirt, or a ChessBase gift card. We wish you fun replaying the games.",
@@ -538,22 +570,6 @@ news_feed (
          "title" : "Dominguez: After FIDE's Changes, I Will Fight for the Candidates | R9 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana defeats Rapport in the ninth round to win the 2023 Sinquefield Cup. Had Rapport won, Dominguez would have clinched the event. Had the game been drawn, Caruana and Dominguez would have had a playoff. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-defeats-rapport-win-cup-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thum",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-defeats-rapport-win-cup-r9-sinquefieldcup",
-         "pubDate" : "Fri, 01 Dec 2023 02:01:10",
-         "title" : "Caruana Defeats Rapport to Win the Cup! | R9 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana is presented with the Sinquefield Cup trophy by Chess Club Executive Director Tony Rich after winning the 2023 event. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabiano-caruana%E2%80%99s-trophy-presentation-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZuklbL25Qd0.jpg?itok=5ydrwXf-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabiano-caruana%E2%80%99s-trophy-presentation-r9-sinquefieldcup",
-         "pubDate" : "Fri, 01 Dec 2023 02:01:10",
-         "title" : "Fabiano Caruana's Trophy Presentation | R9 #SinquefieldCup"
-      },
-      {
          "description" : " Brewington Hardway earned his first Grandmaster norm at the U.S. Masters in Charlotte. The 14-year-old had a blistering month of November earning more than 100 Elo points. Prior to his norm performance, he earned 50 Elo points at the nine-round NYC GM Fall Invitational. He bettered that result with another handsome cache of 62 Elo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/30/hardaway-gets-1st-gm-norm-clinches-im-title/\">Hardaway gets 1st GM norm, clinches IM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -690,14 +706,6 @@ news_feed (
          "title" : "Nakamura Makes Up For Early Error With Late Win"
       },
       {
-         "description" : "After beginning the last leg with a massive lead in tour points, GM Fabiano Caruana has clinched the 2023 Grand Chess Tour with two rounds to spare at the 2023 Sinquefield Cup. He and GM Leinier Dominguez scored their second wins in a row on Tue...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-7",
-         "pubDate" : "Tue, 28 Nov 2023 18:30:00",
-         "title" : "Caruana Clinches GCT, Crosses 2800, Leads Sinquefield Cup With Dominguez, So"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2768",
          "pubDate" : "Tue, 28 Nov 2023 09:49:19",
          "title" : "FIDE Director for Chess Development visits Eswatini"
-      },
-      {
-         "description" : "Mongolia is the nation ranking highest for promoting gender equality in chess but&#38;mdash;perhaps surprisingly&#38;mdash;the Nordic countries occupy three of the four worst spots, a new study has revealed. Research commissioned by the World Chess Fede...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/mongolia-tops-fides-new-gender-equality-in-chess-index-denmark-ranks-worst",
-         "pubDate" : "Tue, 28 Nov 2023 09:24:00",
-         "title" : "Mongolia Tops FIDE's New Gender Equality In Chess Index; Denmark Ranks Worst"
       },
       {
          "description" : "",
