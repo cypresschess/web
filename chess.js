@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> In commanding fashion, Grandmaster (GM) Fabiano Caruana won both the 2023 Saint Louis Rapid &amp; Blitz and Sinquefield Cup to become the overall 2023 Grand Chess Tour champion. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-grandmaster-fabiano-caruana-sweeps-saint-louis-rapid-and-blitz-and-sinquefield-cup",
+         "pubDate" : "Wed, 06 Dec 2023 18:44:21",
+         "title" : "Saint Louis Grandmaster Fabiano Caruana Sweeps Saint Louis Rapid and Blitz and Sinquefield Cup; Wins 2023 Grand Chess Tour"
+      },
+      {
          "description" : "Soon after Carl Schlechter's early death the wish arose to organise a memorial tournament in his honour. In 1923 several important chess masters met at the Caf&eacute; Universale and played such a tournament that ended on 4 December with a victory of Savielly Tartakower. Michael Ehn invites you to travel back in time to Vienna in the early 1920s. | Photo: The building with the former Caf&eacute; Universale | Photos: Archive Michael Ehn",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -592,14 +600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2777",
          "pubDate" : "Fri, 01 Dec 2023 07:00:11",
          "title" : "Fabiano Caruana wins 2023 Sinquefield Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to the team and provides analysis during the ninth round of the 2023 Sinquefield Cup. 2023.11.30<br /> GrandChessTour.org </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-can%E2%80%99t-follow-fide-mathematics-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sD8lhqJ0dnQ.jpg?itok=sRfeGKe-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-can%E2%80%99t-follow-fide-mathematics-r9-sinquefieldcup",
-         "pubDate" : "Fri, 01 Dec 2023 02:01:10",
-         "title" : "Kasparov: Can't Follow the FIDE Mathematics | R9 #SinquefieldCup"
       },
       {
          "description" : " Brewington Hardway earned his first Grandmaster norm at the U.S. Masters in Charlotte. The 14-year-old had a blistering month of November earning more than 100 Elo points. Prior to his norm performance, he earned 50 Elo points at the nine-round NYC GM Fall Invitational. He bettered that result with another handsome cache of 62 Elo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/30/hardaway-gets-1st-gm-norm-clinches-im-title/\">Hardaway gets 1st GM norm, clinches IM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1240,14 +1240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2744",
          "pubDate" : "Thu, 16 Nov 2023 10:50:38",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 2 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2743",
-         "pubDate" : "Wed, 15 Nov 2023 20:00:58",
-         "title" : "WSCC 2023: Hou Yifan, Harika, Lagno and Kosteniuk advance to semis"
       }
    ]
 }
