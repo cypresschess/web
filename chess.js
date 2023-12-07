@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2786",
+         "pubDate" : "Thu, 07 Dec 2023 18:49:56",
+         "title" : "FIDE President takes part in Advanced Tomorrow Singapore Summit 2023"
+      },
+      {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1192,22 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2747",
          "pubDate" : "Fri, 17 Nov 2023 09:26:36",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 3 Recap"
-      },
-      {
-         "description" : "Round 3 report of World Youth Chess Championship, Italy 2023U18 Open:IM ILAMPARTHI, A R is in the joint lead with a cent percent score (3/3)Mayak",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-3-report-wycc-italy-2023/",
-         "pubDate" : "Thu, 16 Nov 2023 16:43:44",
-         "title" : "Round 3 report WYCC Italy 2023"
-      },
-      {
-         "description" : "Last month's 'On the Cover' -- see <A HREF=\"https://chessforallages.blogspot.com/2023/10/october-1973-1998-on-cover.html\">October 1973 & 1998 'On the Cover'</A> (October 2023) -- was a mixture of U.S. and world events from 50 and 25 years ago. This month is focused on the most prestigious of the U.S. championships, the U.S Closed and the U.S. Open. <P> By some odd coincidence, if a 25 year separation in time can be called a coincidence, the venues for both events had special meaning for their long, respective histories. See details below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk16.jpg\" WIDTH=400 HEIGHT=270><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Hawaiian Portrait of",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/11/november-1973-1998-on-cover.html",
-         "pubDate" : "Thu, 16 Nov 2023 16:35:00",
-         "title" : "November 1973 & 1998 'On the Cover'"
       }
    ]
 }
