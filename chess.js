@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time, the eight-player Champions Chess Tour Finals will be held fully in person and over the board from December 9 to 16 in Toronto, Canada. The winner will be crowned Tour Champion 2023 and pick up the $200,000 first prize in addition to winnings already earned. Carlsen, the world number-one and reigning Tour champion, and Nakamura, the world's top chess streamer, have dominated the 2023 season so far and their rivalry has been a joy to watch. But they will face stiff competition from a world-class field.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-preview",
+         "pubDate" : "Wed, 06 Dec 2023 23:15:00",
+         "title" : "Carlsen and Nakamura top stars at Champions Chess Tour Finals"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> In commanding fashion, Grandmaster (GM) Fabiano Caruana won both the 2023 Saint Louis Rapid &amp; Blitz and Sinquefield Cup to become the overall 2023 Grand Chess Tour champion. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Presents from the \"Nikolaus\""
       },
       {
+         "description" : "Registration is now open&#38;nbsp;for the Spring 2024&#38;nbsp;season of the Collegiate Chess League! The world&#39;s premier university-level chess event returns next year, retaining its four vs. four team-based format and a $25,000 prize fund. The Collegiat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-registration-spring-2024",
+         "pubDate" : "Wed, 06 Dec 2023 13:49:32",
+         "title" : "Registrations Open For The Collegiate Chess League Spring 2024 Season"
+      },
+      {
          "description" : "Michael Adams continues to be the sole leader at the London Chess Classic after a fifth round with one decisive result. Going into the rest day, Adams has a half-point lead over four players, including Mateusz Bartel, who was the one participant to collect a full point on Tuesday. Adams played Gukesh in round 5, got a very promising position, and agreed to a draw by repetition while still in the driver's seat. | Photo: Tao Bhokanandh",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +50,28 @@ news_feed (
          "title" : "London Classic: Bartel scores, Adams leads"
       },
       {
+         "description" : "The highly-anticipated 2023 Champions Chess Tour Finals begin in just three days on December 9. GMs Magnus Carlsen, Hikaru Nakamura, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Alireza Firouzja, and Denis Lazavik are...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-predictions",
+         "pubDate" : "Wed, 06 Dec 2023 13:00:00",
+         "title" : "GothamChess And Danya Predict Who Will Win The Champions Chess Tour 2023"
+      },
+      {
          "description" : " After yesterdays lesson in targeting the king, a slightly more restrained game, in this case played by myself. In the end my opponent took a few liberty's in the opening (taking both centre pawns gives White too much play), and never quite untangled himself. At move 17 I was planning to play Be3 with the idea of winning the exchange after 18.Nc7, but I realised it was stronger if I reversed the move order. The game ended when my opponent flagged in a losing position. <br /> <b>Press,Shaun - Grcic,Milan [E04]</b><br /> Swiss Festive Fun --- (5), 05.12.2023 <script> new PgnViewer( { boardName: \"game1432\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.g3 c5 5.Bg2 cxd4 6.O-O dx",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2023/12/slightly-less-violent.html",
          "pubDate" : "Wed, 06 Dec 2023 12:49:00",
          "title" : "Slightly less violent"
+      },
+      {
+         "description" : "Less than a month after GM Hikaru Nakamura set a new record for Chess.com&#39;s highest blitz rating, GM Magnus Carlsen has gone one step further. On Wednesday, Carlsen achieved the all-time-high blitz rating of 3340, four points higher than Nakamura&#39;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-hits-highest-blitz-rating",
+         "pubDate" : "Wed, 06 Dec 2023 12:40:00",
+         "title" : "Carlsen Hits Highest Blitz Rating Ever On Chess.com"
       },
       {
          "description" : "The 2023 Turkish Chess Championship is played from 1 and 10 December at the Antalya Mirage Park Resort. Ten players compete in 9 rounds. The championship is broadcast live by IM Melih Yurtseven and FM Özg&uuml;n via Youtube. Live streams of the games are also available at live.chessbase.com. | Photo: Ufuk Tuncer",
@@ -354,14 +386,6 @@ news_feed (
          "title" : "Fischer - Spassky Top Items by Price"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 154th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Mikhail Botvinnik. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-153-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 03 Dec 2023 15:00:00",
-         "title" : "Understanding before Moving 154: Chess history in a nutshell (36)"
-      },
-      {
          "description" : " The <a href=\"https://www.londonchessclassic.com/\">London Chess Classic</a> has returned, albeit in a much smaller form than in pre-covid years. It is now consists of a single 10 player RR, rather than the mix of GM event, Open swisses, monster rapids, and other events. The GM event is strong as usual, with 4 English GM's against 6 visiting players. There are a couple of interesting inclusions, including Gukesh, who is trying to qualify for the 2024 Candidates, and Hans Neimann, on a hot streak after winning in Zagreb last week. At this stage 2 rounds have been played, with some interesting games on show. GM Michael Adams (current World Seniors Champion) won a very nice game in round 1, agai",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -658,22 +682,6 @@ news_feed (
          "title" : "2023 Sinquefield Cup: Day 8 Recap"
       },
       {
-         "description" : "The Champions Chess Tour Finals is almost upon us, and soon we&#39;ll get to enjoy watching GMs Magnus Carlsen, Hikaru Nakamura, Fabiano Caruana, and more battling live in Toronto. To celebrate, Chess.com is offering all our basic members the opportun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/twitch-drops-champions-chess-tour-2023",
-         "pubDate" : "Thu, 30 Nov 2023 11:00:00",
-         "title" : "Watch The Champions Chess Tour Finals On Twitch And Earn 14 Days Of Premium"
-      },
-      {
-         "description" : "GMs Fabiano Caruana, Leinier Dominguez, and Wesley So lead the 2023 Sinquefield Cup on 4.5 points heading into the final round following a day of high-accuracy draws in all four matchups. The $100,000 first prize will likely be determined by the g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-round-8",
-         "pubDate" : "Thu, 30 Nov 2023 01:53:00",
-         "title" : "Caruana, Dominguez Vie For First Following Day Of Draws"
-      },
-      {
          "description" : " From the publisher: &#8220;Almost as fascinating as chess is the community of chess players. In every major city in the world, you are guaranteed to meet interesting people when you <a href=\"http://britishchessnews.com/2023/11/30/speed-demon-the-fascinating-games-and-tragic-life-of-alexey-vyzhmanavin/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a href=\"http://britishchessnews.com/2023/11/30/speed-demon-the-fascinating-games-and-tragic-life-of-alexey-vyzhmanavin/\">Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin</",
          "iconLink" : "https://cypresschess.github.io/web/BCN.png",
          "iconName" : "British Chess<br>News",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2771",
          "pubDate" : "Wed, 29 Nov 2023 21:02:22",
          "title" : "Clarifications on FIDE Circuit Regulations and qualification procedure for Candidates 2024"
-      },
-      {
-         "description" : "IM Levy Rozman, (aka &#34;GothamChess&#34;) was recently announced as one of Forbes Magazine&#39;s 30 under 30 in the class of 2024 in the &#34;games&#34; category, joining an illustrious group of entrepreneurs who were judged to be &#34;leading a technological and artis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-announced-in-forbes-30-under-30",
-         "pubDate" : "Wed, 29 Nov 2023 13:01:00",
-         "title" : "GothamChess Announced In Forbes 30 Under 30"
       },
       {
          "description" : " This was prompted by a query concerning whether the result for resigning was different from the result from being checkmated. A number of years ago I experimented with an alternative scoring system for club events. IIRC it was something like 4 points for a win plus a bonus point if you won in under 30 moves. Losing players earned a bonus point if they lasted longer than 40 moves, plus an extra bonus point if they were (a) lower rated and (b) weren't down material at move 30. All very complicated, and it didn't survive past the test event. But would the game be different/better if a player received a fractional point if they resigned, rather than dragged the game out to checkmate (winner sti",
