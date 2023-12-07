@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The battle for the final Candidates' tickets continues at the London Chess Classic. English legend Michael Adams is in the lead with 3.5 out of 5, followed by a group of players on 3 out of 5. Gukesh, who needs to win the tournament to qualify for the Candidates, had a great start with 3 out of 4, getting a superior position against Moussard, but then there was high drama. The bold approach taken by both players in this game easily qualifies it as our Game of the Week. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-597-gukesh-vs-j-moussard",
+         "pubDate" : "Thu, 07 Dec 2023 11:25:00",
+         "title" : "Game of the Week #597: Gukesh vs J. Moussard"
+      },
+      {
+         "description" : "The Kaissa Foundation was founded by entrepreneurs Rinat and Erlan Naimanov. Recently Rinat and partner Alexander von Gleich met with the founders of ChessBase, Matthias W&uuml;llenweber and Frederick Friedel in Hamburg, to sign of a memorandum of cooperation with our company. KAISSA will begin the process of translating training programs into the Kazakh language with the support of ChessBase and the Chess Federation of the Republic of Kazakhstan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-kazakhstan",
+         "pubDate" : "Thu, 07 Dec 2023 11:17:52",
+         "title" : "Chess in Kazakhstan"
+      },
+      {
          "description" : "Earlier this year, the Qualifications Commission (QC) initiated a review of the FIDE rating regulations, inviting federations, officials and the public to contribute their thoughts and suggestions. A dedicated group of contributors worked together with mathematician Jeff Sonas on reforming the existing ratings' system.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -282,14 +298,6 @@ news_feed (
          "title" : "FIDE ratings December 2023"
       },
       {
-         "description" : "In today's episode, the Sicilian Dragon advances to a nail-biting endgame! But not without diving deeper into some other variations, options, plans and ideas. For example, a setup with two rooks, and two bishops, vs. queen, rook and bishop!| Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-a-dragon-endgame-thriller",
-         "pubDate" : "Mon, 04 Dec 2023 13:17:53",
-         "title" : "The Monthly Dragon - A Dragon endgame thriller"
-      },
-      {
          "description" : "Chess.com is excited to announce our new upgrade to the move list feature. The new move list is now cleaner and clearer, making it easier for you to follow variations and annotations or to analyze your own games. It also resembles the move list yo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -320,14 +328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2782",
          "pubDate" : "Mon, 04 Dec 2023 10:14:23",
          "title" : "\"Chess for Children with ASD. Learn and Teach\" seminar announced"
-      },
-      {
-         "description" : "Ding Liren won the World Chess Championship 2023 and became the 17th World Champion. It's been 200 days since the last game of chess that he has played publicly. So where is Ding Liren, what is he up to? During his period of being away from the world of chess, IM Sagar Shah managed to get in touch with him and asked him about key position in the match. Ding also speaks about life after match and more. | Photo: Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/where-is-ding",
-         "pubDate" : "Mon, 04 Dec 2023 09:42:55",
-         "title" : "Where is Ding?"
       },
       {
          "description" : "The European School Chess Championship 2024 will be held from May 30 to June 8 2024 in Limerick, Ireland. The event will be played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. If any group has less than 16 entries, open and girls sections can be merged with separate prizes for the best ranked girls. Each event will be played in 9 rounds, swiss system, with the time control of 90 minutes []",
@@ -1208,38 +1208,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/11/november-1973-1998-on-cover.html",
          "pubDate" : "Thu, 16 Nov 2023 16:35:00",
          "title" : "November 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2745",
-         "pubDate" : "Thu, 16 Nov 2023 12:22:54",
-         "title" : "ETCC 2023: Germany forges ahead in Open, Azerbaijan and France co-lead women's event"
-      },
-      {
-         "description" : " While most players know the shortest checkmate for Black (2 moves) and the shortest for White ( 3 moves), they normally do not appear in real life, unless there is some funny business going on. So when I did see it in real life the other day I was certainly shocked. The game was between two young juniors, and it was certainly a proper game (it certainly wasn't arranged). It ended in a win for White after <b>1.e4 e5 2.Qh5 Ke7 3.Qxe5#</b> In fact the checkmate cam as a surprise to both players, as they weren't sure it was a mate, and spent a couple of minutes before they were both convinced it was. When I asked the Black player what happened, she simply said \"I touched my King, and had to mov",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/i-have-now-seen-this-happen.html",
-         "pubDate" : "Thu, 16 Nov 2023 12:01:00",
-         "title" : "I have now seen this happen"
-      },
-      {
-         "description" : "The more decisions you must make daily, the worse they get. This phenomenon is called decision fatigue. After a long workday, thinking about chess moves gets harder. Not only because you are tired, but also because you've already made so many decisions. Two Solutions: 1) Train Chess first thing in the morning 2) Eliminate &#38; []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/decision-fatigue/",
-         "pubDate" : "Thu, 16 Nov 2023 11:41:39",
-         "title" : "Chess Clarity: Overcoming Decision Fatigue for Peak Performance"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2744",
-         "pubDate" : "Thu, 16 Nov 2023 10:50:38",
-         "title" : "Saint Louis Rapid and Blitz 2023: Day 2 Recap"
       }
    ]
 }
