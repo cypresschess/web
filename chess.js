@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Earlier this year, the Qualifications Commission (QC) initiated a review of the FIDE rating regulations, inviting federations, officials and the public to contribute their thoughts and suggestions. A dedicated group of contributors worked together with mathematician Jeff Sonas on reforming the existing ratings' system.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/proposals-for-changes-to-fide-ratings-regulations",
+         "pubDate" : "Thu, 07 Dec 2023 07:00:00",
+         "title" : "Proposals for changes to FIDE ratings regulations"
+      },
+      {
          "description" : "For the first time, the eight-player Champions Chess Tour Finals will be held fully in person and over the board from December 9 to 16 in Toronto, Canada. The winner will be crowned Tour Champion 2023 and pick up the $200,000 first prize in addition to winnings already earned. Carlsen, the world number-one and reigning Tour champion, and Nakamura, the world's top chess streamer, have dominated the 2023 season so far and their rivalry has been a joy to watch. But they will face stiff competition from a world-class field.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -360,14 +368,6 @@ news_feed (
          "link" : "https://aicf.in/link-for-live-games-of-36th-national-under-13-open-girls-chess-championships-2023/",
          "pubDate" : "Mon, 04 Dec 2023 07:13:06",
          "title" : "Link for LIVE GAMES of 36th National Under - 13 Open & Girls Chess Championships 2023"
-      },
-      {
-         "description" : "Endings with a rook and a minor piece each are especially difficult. There is still enough firepower on the board for plenty of tactics, up to and often including mating attacks. But in contrast to middlegames, where unless matters are very forcing you have to rely to a great extent on intuition, in principle you \"ought\" - with material limited - to be able to calculate fairly accurately! | Photo: John Saunders (2007)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-207",
-         "pubDate" : "Sun, 03 Dec 2023 19:50:00",
-         "title" : "Jon Speelman: Major and minor"
       },
       {
          "description" : "IM Shreyas Royal played like a veteran grandmaster as he defeated world number-40 GM Amin Tabatabaei in round three of the 2023 London Chess Classic. It was a wild day, as all three players who had won a day earlier slipped to defeat, while GMs Gu...",
