@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
+         "pubDate" : "Thu, 07 Dec 2023 14:55:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
          "description" : "The battle for the final Candidates' tickets continues at the London Chess Classic. English legend Michael Adams is in the lead with 3.5 out of 5, followed by a group of players on 3 out of 5. Gukesh, who needs to win the tournament to qualify for the Candidates, had a great start with 3 out of 4, getting a superior position against Moussard, but then there was high drama. The bold approach taken by both players in this game easily qualifies it as our Game of the Week. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -288,14 +296,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r3",
          "pubDate" : "Mon, 04 Dec 2023 14:05:00",
          "title" : "London Classic: Gukesh and Adams score, lead"
-      },
-      {
-         "description" : "For its December list FIDE has not yet rated the tournaments in St. Louis and Zagreb, so Alireza Firouzja's rating loss is still quite moderate. The 30 Elo-points Hans Niemann gained in the Tournament of Peace in Zagreb do not appear in the list either. But Carlsen remains the clear number one.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-dezember-2023",
-         "pubDate" : "Mon, 04 Dec 2023 14:00:00",
-         "title" : "FIDE ratings December 2023"
       },
       {
          "description" : "Chess.com is excited to announce our new upgrade to the move list feature. The new move list is now cleaner and clearer, making it easier for you to follow variations and annotations or to analyze your own games. It also resembles the move list yo...",
