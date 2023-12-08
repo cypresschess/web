@@ -18,6 +18,14 @@ news_feed (
          "title" : "FIDE President takes part in Advanced Tomorrow Singapore Summit 2023"
       },
       {
+         "description" : "The madness continues in London. Just when GM Jules Moussard was about to crown a brilliant game by defeating leader GM Michael Adams, the Frenchman blundered away the game. GM Gukesh Dommaraju kept his Candidates hopes alive when GM Luke McShane ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-6",
+         "pubDate" : "Thu, 07 Dec 2023 17:58:28",
+         "title" : "Adams, Gukesh Benefit From Blunders; Volokitin Beats Niemann"
+      },
+      {
          "description" : "FIDE is expected to make significant changes to its rating system on January 1, which includes a one-time adjustment for most rated players, an increase of the rating floor, and changes to the initial rating. In July, the FIDE Qualifications Com...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/11/missing-yahoos.html",
          "pubDate" : "Thu, 30 Nov 2023 16:54:00",
          "title" : "Missing Yahoos"
-      },
-      {
-         "description" : "GM Fabiano Caruana added the 2023 Sinquefield Cup to his year of victories on Thursday. In his final round vs. GM Richard Rapport, Caruana combined strategic clarity with dynamic execution to break his opponent&#39;s defenses.&#38;nbsp; Caruana dominate...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-caruana-wins",
-         "pubDate" : "Thu, 30 Nov 2023 16:01:00",
-         "title" : "Caruana Wins Sinquefield Cup"
       },
       {
          "description" : "",
