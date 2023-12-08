@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The eight-time British champion was close to defeat in round six, but stayed half a point ahead of his Indian and Iranian rivals going into the final two rounds With two rounds of nine to go this weekend in the London Classic, the eight-time British champion Michael Adams, 52, leads the top-seeded Indian Dommaraju Gukesh, 17, and Iran's Amin Tabatabaei, 22, by half a point. Leaders after round seven were Adams (England) 5, Gukesh (India) and Tabatabaei (Iran) 4.5, Mateusz Bartel (Poland) 4. <a href=\"https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape",
+         "pubDate" : "Fri, 08 Dec 2023 20:21:02",
+         "title" : "Chess: Michael Adams still leads with two rounds left in London Classic"
+      },
+      {
          "description" : "In the new episode of his Fast & Furious show, Robert Ris analyses Gukesh's win against Volokitin from the Chess Classic in London - an instructive game and maybe a crucial win for Gukesh who still has chances to qualify for the Candidates. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-sightseeing-and-chess-history",
          "pubDate" : "Fri, 08 Dec 2023 10:00:00",
          "title" : "Prague: Sightseeing and chess history"
-      },
-      {
-         "description" : " The eight-time British champion and oldest player at the tournament was close to defeat in round six before his opponent made a one-move blunder With three rounds to go in the London Classic the race at the top looks to be between the eight-times British champion Michael Adams, 52, and the top-seed, India's Dommaraju Gukesh, 17. Both leaders benefited in Thursday's sixth round from blunders by their opponents. Adams received a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2615911\" title=\"\">full-point swing</a> when Jules Moussard inexplicably left himself a bishop down at move 32. A simple pawn move would have kept a winning position for the Frenchman. <a href=\"https://www.theguard",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape",
-         "pubDate" : "Fri, 08 Dec 2023 08:00:45",
-         "title" : "Chess: England's Michael Adams, 52, leads London Classic after lucky escape"
       },
       {
          "description" : "Michael Adams still has a half-point lead at the London Chess Classic after his round-6 opponent, Jules Moussard, blundered the game away from a winning position. Gukesh, Amin Tabatabaei and Andrei Volokitin also scored full points. In the longest game of the day, Nikita Vitiugov failed to make the most of a big advantage against underdog Shreyas Royal. With three rounds to go, Gukesh stands in sole second place. | Photo: John Upham",
