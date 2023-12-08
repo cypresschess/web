@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the new episode of his Fast & Furious show, Robert Ris analyses Gukesh's win against Volokitin from the Chess Classic in London - an instructive game and maybe a crucial win for Gukesh who still has chances to qualify for the Candidates. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-gukesh-strikes",
+         "pubDate" : "Fri, 08 Dec 2023 17:05:16",
+         "title" : "Robert Ris' Fast and Furious: Gukesh strikes!"
+      },
+      {
+         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
+         "pubDate" : "Fri, 08 Dec 2023 14:55:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "A 1750-rated reader recently told me: A small comment to my GM Coach about not fully understanding the French turned into 13 Training sessions on every detail in the French opening, 95% of which I never saw and will probably never see.\" In a World of Abundance, more is not always better. With Limited time, your Goal should be \"Less but Better.\" This is a common appearance in Chess nowadays: a stronger player teaches a weaker player way too many lines about an opening. In this Newsletter, I...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/adult-improvers-why-gm-openings-might-not-suit-you/",
+         "pubDate" : "Fri, 08 Dec 2023 14:00:25",
+         "title" : "Adult Improvers: Why GM Openings Might Not Suit You"
+      },
+      {
          "description" : "In painting, each style has distinctly recognizable characteristics in form, color, light, and technique. The subjects of paintings are a reflection of their respective times. The series Chess Art on cards.chessbase.com, depicts all chess pieces in 14 different paintic styles. Take a look at the pictures, and become an art connoisseur in no time.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "Prague: Sightseeing and chess history"
       },
       {
-         "description" : " The eight-time British champion and oldest player at the tournament was close to defeat in round six before his opponent made a one-move blunder With three rounds to go in the London Classic the race at the top looks to be between the eight-time British champion Michael Adams, 52, and the top-seeded Indian, Dommaraju Gukesh, 17. Both leaders benefited in Thursday's sixth round from blunders by their opponents. Adams received a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2615911\" title=\"\">full-point swing</a> when Jules Moussard inexplicably left himself a bishop down at move 32. A simple pawn move would have kept a winning position for the Frenchman. <a href=\"https://www.theguard",
+         "description" : " The eight-time British champion and oldest player at the tournament was close to defeat in round six before his opponent made a one-move blunder With three rounds to go in the London Classic the race at the top looks to be between the eight-times British champion Michael Adams, 52, and the top-seed, India's Dommaraju Gukesh, 17. Both leaders benefited in Thursday's sixth round from blunders by their opponents. Adams received a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2615911\" title=\"\">full-point swing</a> when Jules Moussard inexplicably left himself a bishop down at move 32. A simple pawn move would have kept a winning position for the Frenchman. <a href=\"https://www.theguard",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape",
@@ -280,22 +304,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/some-street-chess-carnage.html",
          "pubDate" : "Tue, 05 Dec 2023 11:51:00",
          "title" : "Some Street Chess carnage"
-      },
-      {
-         "description" : "Thank you for sharing your games against Fritz 19! The raffle is over and three lucky participants either won a shirt, or a ChessBase gift card. We wish you fun replaying the games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-19-winners",
-         "pubDate" : "Tue, 05 Dec 2023 10:40:36",
-         "title" : "Fritz 19 winners!"
-      },
-      {
-         "description" : "Far advanced passed pawns often allow amazing combinations. In the diagram position it is White to move. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-power-of-passed-pawns-4",
-         "pubDate" : "Tue, 05 Dec 2023 09:00:00",
-         "title" : "The power of passed pawns"
       },
       {
          "description" : "",
@@ -1168,30 +1176,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/nov/17/chess-england-fifth-at-halfway-in-european-teams-but-hard-work-is-ahead",
          "pubDate" : "Fri, 17 Nov 2023 21:32:01",
          "title" : "Chess: England crush Netherlands at Euro teams and move into joint lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2748",
-         "pubDate" : "Fri, 17 Nov 2023 14:48:26",
-         "title" : "FIDE World Rapid and Blitz Championships 2023: Information for players "
-      },
-      {
-         "description" : "I won 50 Elo this month so I should win at least 50 Elo next month.\" \"I've beaten them 5 times already, obviously I will win again.\" Those are just 2 examples of a bias we all fall for. It is human psychology. Once we have something, we expect to have at least the same in the future. It happens with money, status &#38; chess ratings. The problem is that money, status, or chess ratings are not granted. Just because you earned it once, doesn't mean that you will earn the same or more in the future....",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/ambtion-without-expectations/",
-         "pubDate" : "Fri, 17 Nov 2023 14:10:22",
-         "title" : "Ambtion Without Expectations"
-      },
-      {
-         "description" : " The 2023 Vikings Weekender begins tomorrow, with the first round at 10am Canberra time. The top section is quite strong for such an event, with almost all of Canberra's top players taking part. IM Junta Ikeda is the top seed, with FM's Michael Kethro and Fred Litchfield also taking part. The Minor (Under 1600) will also be quite competitive, as the restriction on entries for the top section means a few players have been moved down from the Open to this section. The tournament results, plus live games from the top section can be found at <a href=\"http://tournaments.streetchess.net/vikings2023/\">http://tournaments.streetchess.net/vikings2023/</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender.html",
-         "pubDate" : "Fri, 17 Nov 2023 12:41:00",
-         "title" : "2023 Vikings Weekender"
       }
    ]
 }
