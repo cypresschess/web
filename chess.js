@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The eight-time British champion and oldest player at the tournament was close to defeat in round six before his opponent made a one-move blunder With three rounds to go in the London Classic the race at the top looks to be between the eight-time British champion Michael Adams, 52, and the top-seeded Indian, Dommaraju Gukesh, 17. Both leaders benefited in Thursday's sixth round from blunders by their opponents. Adams received a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2615911\" title=\"\">full-point swing</a> when Jules Moussard inexplicably left himself a bishop down at move 32. A simple pawn move would have kept a winning position for the Frenchman. <a href=\"https://www.theguard",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape",
+         "pubDate" : "Fri, 08 Dec 2023 08:00:45",
+         "title" : "Chess: England's Michael Adams, 52, leads London Classic after lucky escape"
+      },
+      {
+         "description" : "Michael Adams still has a half-point lead at the London Chess Classic after his round-6 opponent, Jules Moussard, blundered the game away from a winning position. Gukesh, Amin Tabatabaei and Andrei Volokitin also scored full points. In the longest game of the day, Nikita Vitiugov failed to make the most of a big advantage against underdog Shreyas Royal. With three rounds to go, Gukesh stands in sole second place. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r6",
+         "pubDate" : "Fri, 08 Dec 2023 05:30:00",
+         "title" : "London Classic: Adams gets lucky break, continues to lead"
+      },
+      {
          "description" : " After a game involving direct sacrifices, and a game which was more restrained, this game lands somewhere in the middle. It does involve an attack on the king, with a piece sacrifice, but the offer of a piece was more to distract White from the best defence, rather than the overrun the White position. And unlike the other 2 games, play wasn't the best for either side, with stronger moves being available at various points. <br /> <b>Horikawa,Keisuke - Press,Shaun [C56]</b><br /> Swiss Festive Fun --- (4), 28.11.2023 <script> new PgnViewer( { boardName: \"game1433\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nc6 5.e5 d5 6.Bb5 Ne4 7.O-O Bc5 8.Nxd4 Bd7 9.Nxc6 bxc6 10.Bd",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-6",
-         "pubDate" : "Thu, 07 Dec 2023 17:58:28",
+         "pubDate" : "Thu, 07 Dec 2023 17:58:00",
          "title" : "Adams, Gukesh Benefit From Blunders; Volokitin Beats Niemann"
       },
       {
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-set-to-implement-drastic-rating-changes",
          "pubDate" : "Thu, 07 Dec 2023 15:55:26",
          "title" : "FIDE Set To Make Significant Changes To Rating System In January"
-      },
-      {
-         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
-         "pubDate" : "Thu, 07 Dec 2023 14:55:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "The battle for the final Candidates' tickets continues at the London Chess Classic. English legend Michael Adams is in the lead with 3.5 out of 5, followed by a group of players on 3 out of 5. Gukesh, who needs to win the tournament to qualify for the Candidates, had a great start with 3 out of 4, getting a superior position against Moussard, but then there was high drama. The bold approach taken by both players in this game easily qualifies it as our Game of the Week. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
