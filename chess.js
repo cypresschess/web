@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In painting, each style has distinctly recognizable characteristics in form, coloration, light, and technique. The subjects of paintings are a reflection of their respective times. The series Chess Art on cards.chessbase.com, depicts all chess pieces in 14 different paintic styles. Take a look at the pictures, and become an art connoisseur in no time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Chess-Art-Series",
+         "pubDate" : "Fri, 08 Dec 2023 12:00:00",
+         "title" : "Become an Art Connoisseur with the 'Chess Art' series"
+      },
+      {
+         "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-live",
+         "pubDate" : "Fri, 08 Dec 2023 11:50:00",
+         "title" : "Gashimov Memorial - Live!"
+      },
+      {
+         "description" : "The strong line-up of the Masters and the Challengers tournaments, a large Open, an interesting supporting programme and, last but not least, the city itself make the Prague Chess Festival 2024 an attractive event. The 6th edition of the festival will take place from 26 February to 7 March 2024 and will continue Prague's long chess tradition. A tradition whose traces can be found even when you only take a short sightseeing walk through the city. As Johannes Fischer discovered during a visit to the 5th Prague Chess Festival. | Photo: View of Hradcany with the castle, Prague | Photo: Stefan Bauer, Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-sightseeing-and-chess-history",
+         "pubDate" : "Fri, 08 Dec 2023 10:00:00",
+         "title" : "Prague: Sightseeing and chess history"
+      },
+      {
          "description" : " The eight-time British champion and oldest player at the tournament was close to defeat in round six before his opponent made a one-move blunder With three rounds to go in the London Classic the race at the top looks to be between the eight-time British champion Michael Adams, 52, and the top-seeded Indian, Dommaraju Gukesh, 17. Both leaders benefited in Thursday's sixth round from blunders by their opponents. Adams received a <a href=\"https://www.chessgames.com/perl/chessgame?gid=2615911\" title=\"\">full-point swing</a> when Jules Moussard inexplicably left himself a bishop down at move 32. A simple pawn move would have kept a winning position for the Frenchman. <a href=\"https://www.theguard",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -46,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-set-to-implement-drastic-rating-changes",
-         "pubDate" : "Thu, 07 Dec 2023 15:55:26",
+         "pubDate" : "Thu, 07 Dec 2023 15:55:00",
          "title" : "FIDE Set To Make Significant Changes To Rating System In January"
       },
       {
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/coffeehouse-moves-in-times-of-upheaval",
          "pubDate" : "Wed, 06 Dec 2023 17:00:00",
          "title" : "Coffeehouse moves in times of upheaval"
-      },
-      {
-         "description" : "In Germany the 6th December is the day of \"Nikolaus\" - a day for small presents, and on the evening of the 5th December children in Germany put out their shoes in the hope that \"Nikolaus\" will fill them overnight with chocolate, sweets or other presents. To celebrate this nice custom, ChessBase is offering its customers Mihail Marin's \"60 Minutes\" course \"The Golden Rules of Chess Strategy\" for free. St Nicholas will start giving out presents now and will continue until midnight on 7 December. Enjoy!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/presents-from-the-nikolaus",
-         "pubDate" : "Wed, 06 Dec 2023 14:44:35",
-         "title" : "Presents from the \"Nikolaus\""
       },
       {
          "description" : "Registration is now open&#38;nbsp;for the Spring 2024&#38;nbsp;season of the Collegiate Chess League! The world&#39;s premier university-level chess event returns next year, retaining its four vs. four team-based format and a $25,000 prize fund. The Collegiat...",
@@ -298,14 +314,6 @@ news_feed (
          "title" : "Invitation to the Inaugural FIDE TEC Vendor User Group Meeting"
       },
       {
-         "description" : "In the Endgame Magic Show #257 Karsten M&uuml;ller continues to show highlights from the European Team Tournament Budva. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-257-highlights-from-the-european-team-tournament-budva-part-2",
-         "pubDate" : "Mon, 04 Dec 2023 18:00:00",
-         "title" : "Endgame Magic #257 - Highlights from the European Team Tournament Budva Part 2"
-      },
-      {
          "description" : "GM Hans Niemann sacrificed a knight and two rooks to beat IM Shreyas Royal in round four of the 2023 London Chess Classic before commenting, &#34;the sound of chess speaking overpowers jealousy.&#34; The day&#39;s other headline news was GM Gukesh Dommaraju b...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -328,14 +336,6 @@ news_feed (
          "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-thoothukudi/",
          "pubDate" : "Mon, 04 Dec 2023 14:07:08",
          "title" : "AICF's Fair Play Orientation Workshop, Thoothukudi"
-      },
-      {
-         "description" : "Four decisive results in Sunday's third round left Gukesh D. and Michael Adams with a full-point lead over four players at the London Chess Classic. Notably, round 3 saw underdog Shreyas Royal collecting a remarkable win over Amin Tabatabaei. The 14-year-old now has a fifty-percent score in the standings. | Photo: Tao Bhokanandh",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r3",
-         "pubDate" : "Mon, 04 Dec 2023 14:05:00",
-         "title" : "London Classic: Gukesh and Adams score, lead"
       },
       {
          "description" : "Chess.com is excited to announce our new upgrade to the move list feature. The new move list is now cleaner and clearer, making it easier for you to follow variations and annotations or to analyze your own games. It also resembles the move list yo...",
@@ -1200,22 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2746",
          "pubDate" : "Fri, 17 Nov 2023 11:04:54",
          "title" : "Close race after four rounds at World Youth Chess Championship 2023"
-      },
-      {
-         "description" : "Chess in Schools and Communities are proud to announce that the London Chess Classic will return to the capital this December for its thirteenth edition....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/announcing-the-2023-london-chess-classic/",
-         "pubDate" : "Fri, 17 Nov 2023 10:50:30",
-         "title" : "Announcing the 2023 London Chess Classic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2747",
-         "pubDate" : "Fri, 17 Nov 2023 09:26:36",
-         "title" : "Saint Louis Rapid and Blitz 2023: Day 3 Recap"
       }
    ]
 }
