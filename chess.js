@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After a game involving direct sacrifices, and a game which was more restrained, this game lands somewhere in the middle. It does involve an attack on the king, with a piece sacrifice, but the offer of a piece was more to distract White from the best defence, rather than the overrun the White position. And unlike the other 2 games, play wasn't the best for either side, with stronger moves being available at various points. <br /> <b>Horikawa,Keisuke - Press,Shaun [C56]</b><br /> Swiss Festive Fun --- (4), 28.11.2023 <script> new PgnViewer( { boardName: \"game1433\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nc6 5.e5 d5 6.Bb5 Ne4 7.O-O Bc5 8.Nxd4 Bd7 9.Nxc6 bxc6 10.Bd",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/just-right-amount.html",
+         "pubDate" : "Thu, 07 Dec 2023 21:08:00",
+         "title" : "Just the right amount"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2786",
          "pubDate" : "Thu, 07 Dec 2023 18:49:56",
          "title" : "FIDE President takes part in Advanced Tomorrow Singapore Summit 2023"
+      },
+      {
+         "description" : "FIDE is expected to make significant changes to its rating system on January 1, which includes a one-time adjustment for most rated players, an increase of the rating floor, and changes to the initial rating. In July, the FIDE Qualifications Com...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-set-to-implement-drastic-rating-changes",
+         "pubDate" : "Thu, 07 Dec 2023 15:55:26",
+         "title" : "FIDE Set To Make Significant Changes To Rating System In January"
       },
       {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sinquefield-cup-2023-caruana-wins",
          "pubDate" : "Thu, 30 Nov 2023 16:01:00",
          "title" : "Caruana Wins Sinquefield Cup"
-      },
-      {
-         "description" : "GM Hans Niemann won the historic Tournament of Peace 2023 in Zagreb on Thursday by a massive three-point margin ahead of the field. With a 2946 performance rating, the 20-year-old American player scored 8/9, winning seven and drawing two games aga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-wins-2023-tournament-of-peace",
-         "pubDate" : "Thu, 30 Nov 2023 12:59:00",
-         "title" : "Niemann Compares Himself To Fischer After Winning Tournament By 3 Points"
       },
       {
          "description" : "",
