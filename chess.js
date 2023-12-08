@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "In painting, each style has distinctly recognizable characteristics in form, coloration, light, and technique. The subjects of paintings are a reflection of their respective times. The series Chess Art on cards.chessbase.com, depicts all chess pieces in 14 different paintic styles. Take a look at the pictures, and become an art connoisseur in no time.",
+         "description" : "In painting, each style has distinctly recognizable characteristics in form, color, light, and technique. The subjects of paintings are a reflection of their respective times. The series Chess Art on cards.chessbase.com, depicts all chess pieces in 14 different paintic styles. Take a look at the pictures, and become an art connoisseur in no time.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/Chess-Art-Series",
          "pubDate" : "Fri, 08 Dec 2023 12:00:00",
-         "title" : "Become an Art Connoisseur with the 'Chess Art' series"
+         "title" : "Fritz 19 presents Chess Art"
       },
       {
          "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
@@ -1192,14 +1192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender.html",
          "pubDate" : "Fri, 17 Nov 2023 12:41:00",
          "title" : "2023 Vikings Weekender"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2746",
-         "pubDate" : "Fri, 17 Nov 2023 11:04:54",
-         "title" : "Close race after four rounds at World Youth Chess Championship 2023"
       }
    ]
 }
