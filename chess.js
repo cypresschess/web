@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
+         "pubDate" : "Sat, 09 Dec 2023 14:55:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "On Wednesday, the Alef Super Stars 2023, a 4-player multi-format tournament featuring grandmasters Yu Yangyi, Sanan Sjugirov, Nihal Sarin and Saleh Salem, came to an end. Yu finished first in the overall standings. Nihal, who was the top scorer in the blitz portion, grabbed second place. | Photos: Sharjah Chess Club and Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alef-super-stars-2023-final-report",
+         "pubDate" : "Sat, 09 Dec 2023 14:50:00",
+         "title" : "Yu Yangyi wins Alef Super Stars tournament in Sharjah"
+      },
+      {
+         "description" : "The fun continues in London. Round 7 of the 10-player round-robin featured two highly entertaining, decisive games. Mateusz Bartel, who has yet to draw a game in the event, never gave up in a losing-yet-tricky position and ended up beating Hans Niemann, while Amin Tabatabaei grabbed his fourth win of the tournament by defeating Nikita Vitiugov in a sharp tactical struggle. Michael Adams is still the sole leader. | Photo: Tao Bhokanandh",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r7",
+         "pubDate" : "Sat, 09 Dec 2023 14:45:00",
+         "title" : "London Classic: Bartel and Tabatabaei grab full points in wild games"
+      },
+      {
          "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +40,6 @@ news_feed (
          "link" : "https://www.thearticle.com/we-play-the-game-of-war/",
          "pubDate" : "Sat, 09 Dec 2023 11:18:50",
          "title" : "We play the game of war"
-      },
-      {
-         "description" : "On Wednesday, the Alef Super Stars 2023, a 4-player multi-format tournament featuring grandmasters Yu Yangyi, Sanan Sjugirov, Nihal Sarin and Saleh Salem, came to an end. Yu finished first in the overall standings. Nihal, who was the top scorer in the blitz portion, grabbed second place. | Photos: Sharjah Chess Club and Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alef-super-stars-2023-final-report",
-         "pubDate" : "Sat, 09 Dec 2023 10:00:00",
-         "title" : "Yu Yangyi wins Alef Super Stars tournament in Sharjah"
       },
       {
          "description" : "In the diagram position, White wins by activating his queen in a way worth seeing - beware of seduction!",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-gukesh-strikes",
          "pubDate" : "Fri, 08 Dec 2023 17:05:16",
          "title" : "Robert Ris' Fast and Furious: Gukesh strikes!"
-      },
-      {
-         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
-         "pubDate" : "Fri, 08 Dec 2023 14:55:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "A 1750-rated reader recently told me: A small comment to my GM Coach about not fully understanding the French turned into 13 Training sessions on every detail in the French opening, 95% of which I never saw and will probably never see.\" In a World of Abundance, more is not always better. With Limited time, your Goal should be \"Less but Better.\" This is a common appearance in Chess nowadays: a stronger player teaches a weaker player way too many lines about an opening. In this Newsletter, I...",
@@ -296,14 +304,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/punishing-positional-mistakes-grandmasters-choice-gm-illia-nyzhnyk",
          "pubDate" : "Tue, 05 Dec 2023 23:05:41",
          "title" : "Punishing Positional Mistakes | Grandmaster's Choice - GM Illia Nyzhnyk"
-      },
-      {
-         "description" : "The Vugar Gashimov Memorial 2023 will be held in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters will compete in a combined rapid chess and blitz tournament. The event is held in memory of the former world-class player Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-preview",
-         "pubDate" : "Tue, 05 Dec 2023 21:00:00",
-         "title" : "Starting Friday: Gashimov Memorial with Shakh, Rapport, Vidit & co."
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a beginner chess class about drawing combinations. 2023.12.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/drawing-combinations-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xT2pDaZa9JM.jpg?itok=uZQjV76o\" alt=\"\" /></a></div>",
@@ -624,6 +624,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-1",
          "pubDate" : "Fri, 01 Dec 2023 16:40:00",
          "title" : "Gukesh Starts Candidates Mission With Win"
+      },
+      {
+         "description" : "What would you do after losing 9 games in a row? Cry? Quit Chess? Talk about how unlucky you are? I get it. But that's not what (future) champions do. In 2016, 11-year-old Vincent Keymer lost all of his games in a closed tournament (I also played in) and calmly asked his final opponent the []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/keymer/",
+         "pubDate" : "Fri, 01 Dec 2023 14:00:00",
+         "title" : "How to Transform 0/9 into World #14: The Mindset Shift for Chess Mastery"
       },
       {
          "description" : " The 9th Zagreb Tournament of Peace took place Wed 22nd to Thu 30th Nov 2023. Hans Moke Niemann scored 8/9 conceding just two draws on the way to winning the event by three clear points. He now moves on to the London Chess Classic.",
@@ -1144,22 +1152,6 @@ news_feed (
          "link" : "https://www.europechess.org/two-rounds-to-go-at-the-european-team-chess-championship-2023-in-budva/",
          "pubDate" : "Sun, 19 Nov 2023 07:40:01",
          "title" : "Two rounds to go at the European Team Chess Championship 2023 in Budva"
-      },
-      {
-         "description" : "Dr Max Euwe was the fifth world chess champion, wresting the title from Alexander Alekhine in 1935. Chivalrously, Euwe granted his defeated foe a revenge match in 1937, which resulted not only in an Alekhine victory, but a contest which witnessed probably the highest quality games ever produced in a world championship match, not just []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/max-euwe-master-of-the-empty-square/",
-         "pubDate" : "Sat, 18 Nov 2023 15:08:27",
-         "title" : "Max Euwe: master of the empty square"
-      },
-      {
-         "description" : " This years Vikings Weekender fells like a bit of a throwback to the 1980s. Due to venue constraints the tournaments (Open and Under 1600) are only 5 rounds, with 3 on the Saturday and 2 on the Sunday. As a result, both events are already pretty cut-throat affairs, with a single loss leaving players with a very tough assignment if they hope to take 1st place. In the Open section, Roger Farrell and Harry Press lead with 3/3. Farrell beat FM Michael Kethro in the evening game, while top seed IM Junta Ikeda drew with FM Fred Litchfield. Press and Farrell are paired in round 4, with the winner looking good to win the overall event. Of course Ikeda and Litchfield cam overtake them, but either (or",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender-day-1.html",
-         "pubDate" : "Sat, 18 Nov 2023 13:10:00",
-         "title" : "2023 Vikings Weekender - Day 1"
       }
    ]
 }
