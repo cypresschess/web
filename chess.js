@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
+         "pubDate" : "Sat, 09 Dec 2023 17:50:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2787",
+         "pubDate" : "Sat, 09 Dec 2023 17:16:02",
+         "title" : "FIDE sets clear standards for chess organizers and event evaluation"
+      },
+      {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -256,14 +272,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-turkish-championships-in-antalya",
          "pubDate" : "Wed, 06 Dec 2023 10:37:33",
          "title" : "The Turkish Championships in Antalya"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation Academy unveils exciting Training Programs with two groundbreaking courses: a four-level training program crafted by chess maestros and inspired by the legendary Garry Kasparov himself, and an \"Improve Your Chess\" lecture series, designed to elevate your game. Announcement and info from the KCF",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-we-are-open",
-         "pubDate" : "Wed, 06 Dec 2023 09:20:58",
-         "title" : "KCF: We are Open!"
       },
       {
          "description" : "",
