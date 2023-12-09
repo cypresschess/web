@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-live",
+         "pubDate" : "Sat, 09 Dec 2023 11:50:00",
+         "title" : "Gashimov Memorial - Live!"
+      },
+      {
+         "description" : "Having been immersed in Napoleonic studies in order to bring out my new book on Napoleon and Goethe, to coincide with the launch of the Ridley Scott biopic of the emperor last month, I have become increasingly aware of possible resonances between famous chess games and Napoleonic battles. The title of this week's column alludes []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/we-play-the-game-of-war/",
+         "pubDate" : "Sat, 09 Dec 2023 11:18:50",
+         "title" : "We play the game of war"
+      },
+      {
          "description" : "On Wednesday, the Alef Super Stars 2023, a 4-player multi-format tournament featuring grandmasters Yu Yangyi, Sanan Sjugirov, Nihal Sarin and Saleh Salem, came to an end. Yu finished first in the overall standings. Nihal, who was the top scorer in the blitz portion, grabbed second place. | Photos: Sharjah Chess Club and Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-5",
          "pubDate" : "Tue, 05 Dec 2023 15:15:33",
          "title" : "Bartel Grabs Only Win As Adams Lets Gukesh Off Hook"
-      },
-      {
-         "description" : "The Caro Kann Defence is a much-played opening today, with which Black often makes life difficult for White after 1.e4. In his ChessBase course \"Weapons against the Caro-Kann, 1 and 2\", English GM Daniel Fernandez shows how White can successfully combat this defence. Christian H&ouml;the took a look at the course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weapons-against-the-caro-kann-a-review",
-         "pubDate" : "Tue, 05 Dec 2023 14:51:59",
-         "title" : "\"Weapons against the Caro Kann\" - A review"
       },
       {
          "description" : "GM Leinier Dominguez made a sudden entry into the Candidates race. Now FIDE has responded to the criticism after their clarification of the rules drew reactions from the chess community. With less than a month left in 2023, the race to the Candi...",
@@ -1152,22 +1160,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender-day-1.html",
          "pubDate" : "Sat, 18 Nov 2023 13:10:00",
          "title" : "2023 Vikings Weekender - Day 1"
-      },
-      {
-         "description" : "U18 Open: IM ILAMPARTHI continues his impressive run with a draw against the top seed and high-rated Russian Grand Master A R MURZIN, Volodar, and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-4-report-of-world-youth-chess-championship-italy-2023/",
-         "pubDate" : "Sat, 18 Nov 2023 11:14:21",
-         "title" : "Round 4 report of World Youth Chess Championship, Italy 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2750",
-         "pubDate" : "Sat, 18 Nov 2023 10:21:58",
-         "title" : "Saint Louis Rapid and Blitz 2023: Day 4 Recap"
       }
    ]
 }
