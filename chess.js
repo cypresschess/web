@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, White wins by activating his queen in a way worth seeing - beware of seduction!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/queens-and-dark-squares",
+         "pubDate" : "Sat, 09 Dec 2023 09:00:00",
+         "title" : "Queens and dark squares"
+      },
+      {
          "description" : "The first three rounds of rapid chess at the Gashimov Memorial ended with Nijat Abasov as the sole leader in the standings. Abasov, who is likely to play in the Candidates Tournament next year, beat Boris Gelfand and Richard Rapport in consecutive rounds to finish the day with 5/6 points (wins are worth 2 points in the rapid section). Sharing second place on 4/6 scores are Vidit Gujrathi, Arjun Erigaisi and Rauf Mamedov. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,22 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape",
          "pubDate" : "Fri, 08 Dec 2023 20:21:02",
          "title" : "Chess: Michael Adams still leads with two rounds left in London Classic"
+      },
+      {
+         "description" : "&#34;The game could and should have gone differently,&#34; confessed GM Mateusz Bartel after GM Hans Niemann survived a huge attack only to blunder on the verge of victory. GM Amin Tabatabaei moved into joint second in the London Chess Classic 2023 with a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-7",
+         "pubDate" : "Fri, 08 Dec 2023 19:10:00",
+         "title" : "Wild Chess As Bartel Beats Niemann, Tabatabaei Stuns Vitiugov"
+      },
+      {
+         "description" : "GM Nijat Abasov leads the Vugar Gashimov Memorial 2023 after the first three rounds of rapid on Friday. Going undefeated, Abasov had wins vs. GMs Richard Rapport and Boris Gelfand that brought him to the top of the scoreboard. His dynamic skirmish...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-rapid-day-1",
+         "pubDate" : "Fri, 08 Dec 2023 17:14:00",
+         "title" : "Abasov Takes Early Lead With Wins vs. Rapport, Gelfand"
       },
       {
          "description" : "In painting, each style has distinctly recognizable characteristics in form, color, light, and technique. The subjects of paintings are a reflection of their respective times. The series Chess Art on cards.chessbase.com, depicts all chess pieces in 14 different paintic styles. Take a look at the pictures, and become an art connoisseur in no time.",
@@ -288,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-chess-candidate-tournament-qualification-letter-to-fide",
          "pubDate" : "Tue, 05 Dec 2023 13:35:00",
          "title" : "US Chess: Candidate Tournament Qualification Letter to FIDE"
-      },
-      {
-         "description" : "A second consecutive round with four decisive results ended with Michael Adams atop the standings of the London Chess Classic. Former co-leader Gukesh had a clear edge against Jules Moussard - however, a blunder by the Indian star allowed Moussard to take over and convert his newfound advantage in style. Similarly, Shreyas Royal first gave up his advantage and then lost the game he played with black against Hans Niemann. Adams and Niemann are the only two players who remain undefeated in the event. | Photo: Tao Bhokanandh",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r4",
-         "pubDate" : "Tue, 05 Dec 2023 13:30:00",
-         "title" : "London Classic: Exciting round leaves Adams as sole leader"
       },
       {
          "description" : "GM Leinier Dominguez made a sudden entry into the Candidates race. Now FIDE has responded to the criticism after their clarification of the rules drew reactions from the chess community. With less than a month left in 2023, the race to the Candi...",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://www.europechess.org/london-chess-classic-2023-commences-today/",
          "pubDate" : "Fri, 01 Dec 2023 09:49:48",
          "title" : "London Chess Classic 2023 commences today"
-      },
-      {
-         "description" : "She spends her days&#38;mdash;and nights&#38;mdash;helping people focus on work and study, so this may not surprise you. But Lofi Girl now plays chess. The beloved anime character, who has become a global sensation with her unique blend of music and vis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lofi-girl-unveils-new-playlist-for-the-2023-champions-chess-tour-finals",
-         "pubDate" : "Fri, 01 Dec 2023 08:51:00",
-         "title" : "Beats To Play Chess To: Lofi Girl Unveils New Champions Chess Tour Finals Playlist"
       },
       {
          "description" : " The controversial US 20-year-old won first prize in Croatia with 8/9 and a career-best performance rating of 2946, then flew to London for the traditional Classic The traditional <a href=\"https://londonchessclassic.com/players.html\" title=\"\">London Chess Classic</a> started on Friday, and Hans Niemann, the most controversial character in the game, arrived at the board in the form of his life. The US 20-year-old, who made headlines when the world No 1, Magnus Carlsen, refused to play him, and who subsequently launched a $100m lawsuit against Carlsen and others, has been in constant action since their <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-che",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2750",
          "pubDate" : "Sat, 18 Nov 2023 10:21:58",
          "title" : "Saint Louis Rapid and Blitz 2023: Day 4 Recap"
-      },
-      {
-         "description" : "After six played rounds at the European Team Chess Championship 2023 in Budva, Montenegro, France emerged as the sole leader of the Women's section, while Germany and England co-lead in the Open tournament. Yesterday's top board match in the Open section between Germany and Romania finished in a tie after intense fights. GM Vincent Keymer (GER, 2721) prevailed against GM Richard Rapport (ROU, 2748) on the first board, but GM Liviu-Dieter Nisipeanu (ROU, 2591) scored against GM Dmitrij Kollars (GER, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/etcc2023-england-joins-germany-in-the-lead-of-the-open-section-france-emerges-on-the-top-of-the-womens-event/",
-         "pubDate" : "Sat, 18 Nov 2023 07:56:29",
-         "title" : "#ETCC2023 - England joins Germany in the lead of the Open section; France emerges on the top of the Women's event"
       }
    ]
 }
