@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Wednesday, the Alef Super Stars 2023, a 4-player multi-format tournament featuring grandmasters Yu Yangyi, Sanan Sjugirov, Nihal Sarin and Saleh Salem, came to an end. Yu finished first in the overall standings. Nihal, who was the top scorer in the blitz portion, grabbed second place. | Photos: Sharjah Chess Club and Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alef-super-stars-2023-final-report",
+         "pubDate" : "Sat, 09 Dec 2023 10:00:00",
+         "title" : "Yu Yangyi wins Alef Super Stars tournament in Sharjah"
+      },
+      {
          "description" : "In the diagram position, White wins by activating his queen in a way worth seeing - beware of seduction!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/weapons-against-the-caro-kann-a-review",
          "pubDate" : "Tue, 05 Dec 2023 14:51:59",
          "title" : "\"Weapons against the Caro Kann\" - A review"
-      },
-      {
-         "description" : "David Hater, FIDE delegate of the US Chess Federation, has written an open letter to FIDE President Arkady Dvorkovich on behalf of the USCF, complaining that imprecise FIDE rules for qualifying for the FIDE Circuit Candidates Tournament and for rating have caused confusion among players. FIDE had changed the rules at short notice.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-chess-candidate-tournament-qualification-letter-to-fide",
-         "pubDate" : "Tue, 05 Dec 2023 13:35:00",
-         "title" : "US Chess: Candidate Tournament Qualification Letter to FIDE"
       },
       {
          "description" : "GM Leinier Dominguez made a sudden entry into the Candidates race. Now FIDE has responded to the criticism after their clarification of the rules drew reactions from the chess community. With less than a month left in 2023, the race to the Candi...",
