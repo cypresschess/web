@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first three rounds of rapid chess at the Gashimov Memorial ended with Nijat Abasov as the sole leader in the standings. Abasov, who is likely to play in the Candidates Tournament next year, beat Boris Gelfand and Richard Rapport in consecutive rounds to finish the day with 5/6 points (wins are worth 2 points in the rapid section). Sharing second place on 4/6 scores are Vidit Gujrathi, Arjun Erigaisi and Rauf Mamedov. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-d1",
+         "pubDate" : "Sat, 09 Dec 2023 00:35:00",
+         "title" : "Gashimov Memorial: Abasov beats Gelfand and Rapport, leads"
+      },
+      {
+         "description" : " The Champions Chess Tour Final takes place in Toronto, Canada 9th to 16th. The mostly online tour will have it's final in Toronto. Magnus Carlsen, Denis Lazavik, Nodirbek Abdusattorov, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Hikaru Nakamura and Wesley So. There will be a round robin stage of mini-matches. The top two make the knockout phase, 3rd-6th enter a survival stage double elimination stage to find two players. Then there will be a straight knockout to determine the winner.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-final-2023",
+         "pubDate" : "Fri, 8 Dec 2023 20:39:00",
+         "title" : "Champions Chess Tour Final 2023 - Games and Results"
+      },
+      {
          "description" : " The eight-time British champion was close to defeat in round six, but stayed half a point ahead of his Indian and Iranian rivals going into the final two rounds With two rounds of nine to go this weekend in the London Classic, the eight-time British champion Michael Adams, 52, leads the top-seeded Indian Dommaraju Gukesh, 17, and Iran's Amin Tabatabaei, 22, by half a point. Leaders after round seven were Adams (England) 5, Gukesh (India) and Tabatabaei (Iran) 4.5, Mateusz Bartel (Poland) 4. <a href=\"https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape\">Continue reading...</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape",
          "pubDate" : "Fri, 08 Dec 2023 20:21:02",
          "title" : "Chess: Michael Adams still leads with two rounds left in London Classic"
+      },
+      {
+         "description" : "In painting, each style has distinctly recognizable characteristics in form, color, light, and technique. The subjects of paintings are a reflection of their respective times. The series Chess Art on cards.chessbase.com, depicts all chess pieces in 14 different paintic styles. Take a look at the pictures, and become an art connoisseur in no time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/Chess-Art-Series",
+         "pubDate" : "Fri, 08 Dec 2023 17:10:00",
+         "title" : "Fritz 19 presents Chess Art"
       },
       {
          "description" : "In the new episode of his Fast & Furious show, Robert Ris analyses Gukesh's win against Volokitin from the Chess Classic in London - an instructive game and maybe a crucial win for Gukesh who still has chances to qualify for the Candidates. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -32,22 +56,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/adult-improvers-why-gm-openings-might-not-suit-you/",
          "pubDate" : "Fri, 08 Dec 2023 14:00:25",
          "title" : "Adult Improvers: Why GM Openings Might Not Suit You"
-      },
-      {
-         "description" : "In painting, each style has distinctly recognizable characteristics in form, color, light, and technique. The subjects of paintings are a reflection of their respective times. The series Chess Art on cards.chessbase.com, depicts all chess pieces in 14 different paintic styles. Take a look at the pictures, and become an art connoisseur in no time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Chess-Art-Series",
-         "pubDate" : "Fri, 08 Dec 2023 12:00:00",
-         "title" : "Fritz 19 presents Chess Art"
-      },
-      {
-         "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-live",
-         "pubDate" : "Fri, 08 Dec 2023 11:50:00",
-         "title" : "Gashimov Memorial - Live!"
       },
       {
          "description" : "The strong line-up of the Masters and the Challengers tournaments, a large Open, an interesting supporting programme and, last but not least, the city itself make the Prague Chess Festival 2024 an attractive event. The 6th edition of the festival will take place from 26 February to 7 March 2024 and will continue Prague's long chess tradition. A tradition whose traces can be found even when you only take a short sightseeing walk through the city. As Johannes Fischer discovered during a visit to the 5th Prague Chess Festival. | Photo: View of Hradcany with the castle, Prague | Photo: Stefan Bauer, Wikipedia",
@@ -1160,22 +1168,6 @@ news_feed (
          "link" : "https://www.europechess.org/etcc2023-england-joins-germany-in-the-lead-of-the-open-section-france-emerges-on-the-top-of-the-womens-event/",
          "pubDate" : "Sat, 18 Nov 2023 07:56:29",
          "title" : "#ETCC2023 - England joins Germany in the lead of the Open section; France emerges on the top of the Women's event"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2749",
-         "pubDate" : "Fri, 17 Nov 2023 21:35:48",
-         "title" : "Chess, choices, and change: The Hector Guifarro story"
-      },
-      {
-         "description" : " England produced a stunning performance with three wins and a draw and now face joint leaders Germany on Saturday in round seven (of nine) at the European team championship After dour performances in their previous five matches, England produced a stunning victory in Friday's sixth round of the European team championship in Budva, Montenegro. Their 3.5-0.5 win against the Netherlands jumped them into the joint lead with Germany, who drew 2-2 with Romania. England v Germany in Saturday's seventh round (of nine) will now be a potential gold medal match. It can be watched, live and free, on <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a> and other leading chess websites, starting at ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/nov/17/chess-england-fifth-at-halfway-in-european-teams-but-hard-work-is-ahead",
-         "pubDate" : "Fri, 17 Nov 2023 21:32:01",
-         "title" : "Chess: England crush Netherlands at Euro teams and move into joint lead"
       }
    ]
 }
