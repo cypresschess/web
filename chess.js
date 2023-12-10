@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
+         "pubDate" : "Sun, 10 Dec 2023 17:50:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 155th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Mikhail Botvinnik. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-live",
          "pubDate" : "Sun, 10 Dec 2023 11:50:00",
          "title" : "Gashimov Memorial - Live!"
+      },
+      {
+         "description" : "GM Leinier Dominguez has arrived in Spain where he will play the Chessable Sunway Sitges Chess Festival to battle for a coveted spot in the Candidates tournament. This week the Cuban-born American, currently the world&#39;s seventh-ranked player, co...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dominguez-arrives-in-sitges-as-candidates-chase-begins",
+         "pubDate" : "Sun, 10 Dec 2023 10:56:00",
+         "title" : "Dominguez Arrives In Sitges As Hunt For Candidates Begins"
       },
       {
          "description" : "All India Chess Federation and Fair Play Committee of AICF organised Fair Play Orientation workshops on 08-09 July 23,15-16 July 23 and 02-03 December 23",
@@ -304,14 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/proposals-for-changes-to-fide-ratings-regulations",
          "pubDate" : "Thu, 07 Dec 2023 07:00:00",
          "title" : "Proposals for changes to FIDE ratings regulations"
-      },
-      {
-         "description" : "For the first time, the eight-player Champions Chess Tour Finals will be held fully in person and over the board from December 9 to 16 in Toronto, Canada. The winner will be crowned Tour Champion 2023 and pick up the $200,000 first prize in addition to winnings already earned. Carlsen, the world number-one and reigning Tour champion, and Nakamura, the world's top chess streamer, have dominated the 2023 season so far and their rivalry has been a joy to watch. But they will face stiff competition from a world-class field.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-preview",
-         "pubDate" : "Wed, 06 Dec 2023 23:15:00",
-         "title" : "Carlsen and Nakamura top stars at Champions Chess Tour Finals"
       },
       {
          "description" : "<div class=\"body text-secondary\"> In commanding fashion, Grandmaster (GM) Fabiano Caruana won both the 2023 Saint Louis Rapid &amp; Blitz and Sinquefield Cup to become the overall 2023 Grand Chess Tour champion. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-december-2-2023",
          "pubDate" : "Sat, 02 Dec 2023 17:16:46",
          "title" : "Nakamura Puts On Tactical Masterclass To Win 14th Bullet Brawl Title"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju pulled off a great escape against GM Nikita Vitiugov to retain the lead after round two of the 2023 London Chess Classic, with co-leader GM Michael Adams also drawing after a fierce fight with GM Hans Niemann. That let GM Andre...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-2",
-         "pubDate" : "Sat, 02 Dec 2023 16:09:00",
-         "title" : "Gukesh Escapes As Bartel, Tabatabaei, Volokitin Score 1st Wins"
       },
       {
          "description" : "The Elgin Marbles are once again in the news after Rishi Sunak's sensational snub to that heir of Pericles, the Greek Prime Minister Kyriakos Mitsotakis. The connection between the marvellous Marbles and chess is not generally known, but definitely exists. In what follows I have made liberal and grateful use of the expert insights of []",
