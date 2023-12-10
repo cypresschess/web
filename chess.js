@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "No player has managed to remain undefeated after six rounds at the Gashimov Memorial in Gabala, Azerbaijan. Rounds 4-6 were played on Saturday and featured a number of entertaining encounters. Three players emerged as co-leaders, with Arjun Erigaisi and Aydin Suleymanli (pictured) joining early leader Nijat Abasov at the top of the standings, all with plus-one scores. A very closed competition, all remaining seven participants have either fifty-percent or minus-one scores. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-d2",
+         "pubDate" : "Sat, 09 Dec 2023 23:30:00",
+         "title" : "Gashimov Memorial: Arjun, Abasov and Suleymanli share the lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2788",
+         "pubDate" : "Sat, 09 Dec 2023 22:05:37",
+         "title" : "FIDE World Cadet Rapid & Blitz Championships 2024: Registration is open"
+      },
+      {
          "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,30 @@ news_feed (
          "link" : "https://www.fide.com/news/2787",
          "pubDate" : "Sat, 09 Dec 2023 17:16:02",
          "title" : "FIDE sets clear standards for chess organizers and event evaluation"
+      },
+      {
+         "description" : "IM Shreyas Royal won a seemingly hopeless position against GM Jules Moussard to go into his final-round game against GM Michael Adams needing a draw to make a second GM norm. A draw would also see Adams at least tie for first in the London Chess C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-8",
+         "pubDate" : "Sat, 09 Dec 2023 16:29:16",
+         "title" : "Shreyas Royal Eyes GM Norm; Gukesh's Candidates Hopes Fade"
+      },
+      {
+         "description" : "GM Daniel Naroditsky returned to the winner&#39;s circle and scooped up the $400 first prize in December&#39;s second Bullet Brawl after accruing 227 points, four more than GM Oleksandr Bortnyk, who finished four points behind on 224. The contest for th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-december-9-2023",
+         "pubDate" : "Sat, 09 Dec 2023 16:05:00",
+         "title" : "Naroditsky Back On Top In Bullet Brawl, Bortnyk Sings His Way To Second"
+      },
+      {
+         "description" : "GMs Wesley So, Magnus Carlsen, and Fabiano Caruana won two matches to stay on a perfect score in the 2023 Champions Chess Tour Finals. This is the first of the eight-day Finals held in Toronto, Canada.&#38;nbsp; It was a smooth day for So, who notab...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-rr-day-1",
+         "pubDate" : "Sat, 09 Dec 2023 15:24:26",
+         "title" : "Caruana Is King Of Armageddon On Day 1, Leads With Carlsen, Wesley So"
       },
       {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
@@ -42,12 +82,12 @@ news_feed (
          "title" : "London Classic: Bartel and Tabatabaei grab full points in wild games"
       },
       {
-         "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-live",
-         "pubDate" : "Sat, 09 Dec 2023 11:50:00",
-         "title" : "Gashimov Memorial - Live!"
+         "description" : "GMs Arjun Erigaisi, Nijat Abasov, and Aydin Suleymanli emerged as joint leaders with seven points out of a maximum of 12 after six rounds of the Vugar Gashimov Memorial 2023 being held at Gabala, Azerbaijan, on Saturday. In a typically exciting da...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-rapid-day-2",
+         "pubDate" : "Sat, 09 Dec 2023 14:23:00",
+         "title" : "Arjun, Abasov, Suleymanli Lead After Day Of Black Domination"
       },
       {
          "description" : "Having been immersed in Napoleonic studies in order to bring out my new book on Napoleon and Goethe, to coincide with the launch of the Ridley Scott biopic of the emperor last month, I have become increasingly aware of possible resonances between famous chess games and Napoleonic battles. The title of this week's column alludes []",
@@ -538,14 +578,6 @@ news_feed (
          "title" : "Gukesh Escapes As Bartel, Tabatabaei, Volokitin Score 1st Wins"
       },
       {
-         "description" : "Poland&#39;s IM Marcin Szymanski won the final round of the 2023 Chess.com Daily Chess Championship by half a point in October ahead of the second-placed &#34;DanilinDP,&#34; and IMs Kacper Drozdowski&#38;nbsp;and Mark Timmermans. This year&#39;s Championship broug...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/szymanski-wins-chesscom-daily-championship-2023",
-         "pubDate" : "Sat, 02 Dec 2023 14:26:00",
-         "title" : "Szymanski Wins Chess.com's 35,000 Player Daily Championship"
-      },
-      {
          "description" : "The Elgin Marbles are once again in the news after Rishi Sunak's sensational snub to that heir of Pericles, the Greek Prime Minister Kyriakos Mitsotakis. The connection between the marvellous Marbles and chess is not generally known, but definitely exists. In what follows I have made liberal and grateful use of the expert insights of []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -610,28 +642,12 @@ news_feed (
          "title" : "How do you do it? Fabi Wins The #sinquefieldcup #grandchesstour 2023"
       },
       {
-         "description" : "GM-elect Vaishali Rameshbabu crossed 2500 FIDE to earn the grandmaster title at the IV El Llobregat Open in Spain on Friday. With her three GM norms previously attained, Vaishali has now fulfilled all of the requirements. The 22-year-old shared wh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vaishali-achieves-gm-title",
-         "pubDate" : "Fri, 01 Dec 2023 19:55:00",
-         "title" : "Vaishali Achieves GM Title"
-      },
-      {
          "description" : " The 13th London Classic takes place 1st to 10th December 2023. Play at 2pm each day. Rest day Wednesday December 6th. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/13th-london-classic-2023",
          "pubDate" : "Fri, 1 Dec 2023 16:40:00",
          "title" : "13th London Classic 2023 - Games and Results"
-      },
-      {
-         "description" : "GMs Gukesh Dommaraju and Michael Adams picked up wins on the first day of the 2023 London Chess Classic, the 13th edition of an event that was first won by GM Magnus Carlsen back in 2009. GM Hans Niemann made a quiet draw after rushing in from Zag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-1",
-         "pubDate" : "Fri, 01 Dec 2023 16:40:00",
-         "title" : "Gukesh Starts Candidates Mission With Win"
       },
       {
          "description" : "What would you do after losing 9 games in a row? Cry? Quit Chess? Talk about how unlucky you are? I get it. But that's not what (future) champions do. In 2016, 11-year-old Vincent Keymer lost all of his games in a closed tournament (I also played in) and calmly asked his final opponent the []",
@@ -648,14 +664,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/9th-zagreb-tournament-of-peace-2023",
          "pubDate" : "Fri, 1 Dec 2023 12:16:00",
          "title" : "9th Zagreb Tournament of Peace 2023 - Games and Results"
-      },
-      {
-         "description" : "IM-elect Brewington Hardaway crossed the 2400 FIDE rating mark to earn the international master title at the U.S. Masters 2023 on Sunday at the Charlotte Chess Center in North Carolina. Already having four IM norms, he should receive the title at ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/brewington-hardaway-earns-im-title-and-gm-norm",
-         "pubDate" : "Fri, 01 Dec 2023 12:02:00",
-         "title" : "Brewington Hardaway Earns IM Title And First GM Norm"
       },
       {
          "description" : " Today I helped run a school chess event in country NSW. It was a small affair, with 34 players taking part, and the emphasis was on fun and learning, rather than competition. Despite the relative inexperience of a lot of the players there were still some games that attracted my attention. Specifically, there were a number of endgames that may well have appeared in stronger events, even if that wasn't the intention. In no particular order I saw <ul style=\"text-align: left;\"><li>K+Q v K+R (win for the Q)</li><li>K+B+N v K (at least twice, both being drawn)</li><li>K v K (drawn of course)</li><li>K+2N v K+P (eventually drawn. I guess they haven't studied Troitzky as yet)</li></ul>And while the",
