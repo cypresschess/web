@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I played in the annual Transfer (bughouse) event held in Canberra each year, with middling results. However, when I had the opportunity I wheeled out was I vaguely remembered was an opening called \"Baker's Attack\". It is an early sacrifice on f7, using 1.Nf3 2.Ne5 and 3.Nxf7. The the idea is to go the hack, either with an early Qh5+, or with e4 followed by Bc4+ However, I've failed to find an online reference to it, which may mean I am misremembering the name, or that it is even a real thing. Nonetheless, it did give me a few wins, even if isn't quite effective under the rules that are normally used in the ACT* (*It has been a long tradition in Canberra Bughouse events that you cannot for a",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/bakers-attack.html",
+         "pubDate" : "Sun, 10 Dec 2023 12:14:00",
+         "title" : "Bakers Attack ? !"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2789",
+         "pubDate" : "Sun, 10 Dec 2023 12:07:32",
+         "title" : "FIDE World School Championships 2024 - Call for Bids "
+      },
+      {
+         "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-live",
+         "pubDate" : "Sun, 10 Dec 2023 11:50:00",
+         "title" : "Gashimov Memorial - Live!"
+      },
+      {
+         "description" : "All India Chess Federation and Fair Play Committee of AICF organised Fair Play Orientation workshops on 08-09 July 23,15-16 July 23 and 02-03 December 23",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fair-play-orientation-workshop-qualified-participants/",
+         "pubDate" : "Sun, 10 Dec 2023 09:05:21",
+         "title" : "Fair Play Orientation Workshop : Qualified Participants"
+      },
+      {
          "description" : "Three players grabbed back-to-back wins in the first two rounds of the Champions Chess Tour Finals: Magnus Carlsen, Wesley So and Fabiano Caruana, with Caruana prevailing twice in Armageddon to end the day sharing the lead. Notably, one of the three players who lost his first two matches is Hikaru Nakamura, who celebrated his 36th birthday on Saturday. | Photo: chess.com / Thomas Tischio",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -210,6 +242,14 @@ news_feed (
          "title" : "Adams, Gukesh Benefit From Blunders; Volokitin Beats Niemann"
       },
       {
+         "description" : "Last month's post about U.S. chess magazines 50 and 25 years ago, <A HREF=\"https://chessforallages.blogspot.com/2023/11/november-1973-1998-on-cover.html\">November 1973 & 1998 'On the Cover'</A> (November 2023), had an arty portrait on the right. This month's post has a different sort of art. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl07.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> 'The World's Top 60; FIDE Annual Rating List; Reflects all performances through July 1, 1973'<BR> <B>Right:</B> '\"No Cheating\", James Todd, 1998' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Professor Elo's latest calculations. See [inside] for the complete list. </BLOCKQUO",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/december-1973-1998-on-cover.html",
+         "pubDate" : "Thu, 07 Dec 2023 16:44:00",
+         "title" : "December 1973 & 1998 'On the Cover"
+      },
+      {
          "description" : "FIDE is expected to make significant changes to its rating system on January 1, which includes a one-time adjustment for most rated players, an increase of the rating floor, and changes to the initial rating. In July, the FIDE Qualifications Com...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -304,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-hits-highest-blitz-rating",
          "pubDate" : "Wed, 06 Dec 2023 12:40:00",
          "title" : "Carlsen Hits Highest Blitz Rating Ever On Chess.com"
-      },
-      {
-         "description" : "The 2023 Turkish Chess Championship is played from 1 and 10 December at the Antalya Mirage Park Resort. Ten players compete in 9 rounds. The championship is broadcast live by IM Melih Yurtseven and FM Özg&uuml;n via Youtube. Live streams of the games are also available at live.chessbase.com. | Photo: Ufuk Tuncer",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-turkish-championships-in-antalya",
-         "pubDate" : "Wed, 06 Dec 2023 10:37:33",
-         "title" : "The Turkish Championships in Antalya"
       },
       {
          "description" : "",
@@ -1152,14 +1184,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender-day-2.html",
          "pubDate" : "Sun, 19 Nov 2023 12:56:00",
          "title" : "2023 Vikings Weekender - Day 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2751",
-         "pubDate" : "Sun, 19 Nov 2023 11:07:37",
-         "title" : "Fabiano Caruana wins Saint Louis Rapid and Blitz 2023"
       }
    ]
 }
