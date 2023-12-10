@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 155th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Mikhail Botvinnik. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-155-chess-history-in-a-nutshell-37",
+         "pubDate" : "Sun, 10 Dec 2023 15:00:00",
+         "title" : "Understanding before Moving 155: Chess history in a nutshell (37)"
+      },
+      {
+         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
+         "pubDate" : "Sun, 10 Dec 2023 14:55:00",
+         "title" : "London Chess Classic - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2790",
+         "pubDate" : "Sun, 10 Dec 2023 14:40:00",
+         "title" : "Italian Championship 2023: Moroni and Zimina defend titles"
+      },
+      {
+         "description" : "With one round to go, Michael Adams continues to be the sole leader at the London Chess Classic. Saturday's round saw Adams holding Luke McShane to a draw with black, while chasers Gukesh and Amin Tabatabaei also split the point in their direct encounter. Two hard-fought encounters did finish decisively, though, as 14-year-old Shreyas Royal turned the tables in his game against Jules Moussard, and Andrei Volokitin got the better of the adventurous Matuesz Bartel. | Photo: Tao Bhokanandh",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r8",
+         "pubDate" : "Sun, 10 Dec 2023 14:00:00",
+         "title" : "London Classic: Royal stuns Moussard"
+      },
+      {
          "description" : " I played in the annual Transfer (bughouse) event held in Canberra each year, with middling results. However, when I had the opportunity I wheeled out was I vaguely remembered was an opening called \"Baker's Attack\". It is an early sacrifice on f7, using 1.Nf3 2.Ne5 and 3.Nxf7. The the idea is to go the hack, either with an early Qh5+, or with e4 followed by Bc4+ However, I've failed to find an online reference to it, which may mean I am misremembering the name, or that it is even a real thing. Nonetheless, it did give me a few wins, even if isn't quite effective under the rules that are normally used in the ACT* (*It has been a long tradition in Canberra Bughouse events that you cannot for a",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -88,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-rr-day-1",
          "pubDate" : "Sat, 09 Dec 2023 15:24:00",
          "title" : "Caruana Is King Of Armageddon On Day 1, Leads With Carlsen, Wesley So"
-      },
-      {
-         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
-         "pubDate" : "Sat, 09 Dec 2023 14:55:00",
-         "title" : "London Chess Classic - Live!"
       },
       {
          "description" : "On Wednesday, the Alef Super Stars 2023, a 4-player multi-format tournament featuring grandmasters Yu Yangyi, Sanan Sjugirov, Nihal Sarin and Saleh Salem, came to an end. Yu finished first in the overall standings. Nihal, who was the top scorer in the blitz portion, grabbed second place. | Photos: Sharjah Chess Club and Aditya Sur Roy",
@@ -298,28 +322,12 @@ news_feed (
          "title" : "Saint Louis Grandmaster Fabiano Caruana Sweeps Saint Louis Rapid and Blitz and Sinquefield Cup; Wins 2023 Grand Chess Tour"
       },
       {
-         "description" : "Soon after Carl Schlechter's early death the wish arose to organise a memorial tournament in his honour. In 1923 several important chess masters met at the Caf&eacute; Universale and played such a tournament that ended on 4 December with a victory of Savielly Tartakower. Michael Ehn invites you to travel back in time to Vienna in the early 1920s. | Photo: The building with the former Caf&eacute; Universale | Photos: Archive Michael Ehn",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/coffeehouse-moves-in-times-of-upheaval",
-         "pubDate" : "Wed, 06 Dec 2023 17:00:00",
-         "title" : "Coffeehouse moves in times of upheaval"
-      },
-      {
          "description" : "Registration is now open&#38;nbsp;for the Spring 2024&#38;nbsp;season of the Collegiate Chess League! The world&#39;s premier university-level chess event returns next year, retaining its four vs. four team-based format and a $25,000 prize fund. The Collegiat...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/collegiate-chess-league-registration-spring-2024",
          "pubDate" : "Wed, 06 Dec 2023 13:49:32",
          "title" : "Registrations Open For The Collegiate Chess League Spring 2024 Season"
-      },
-      {
-         "description" : "Michael Adams continues to be the sole leader at the London Chess Classic after a fifth round with one decisive result. Going into the rest day, Adams has a half-point lead over four players, including Mateusz Bartel, who was the one participant to collect a full point on Tuesday. Adams played Gukesh in round 5, got a very promising position, and agreed to a draw by repetition while still in the driver's seat. | Photo: Tao Bhokanandh",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r5",
-         "pubDate" : "Wed, 06 Dec 2023 13:30:00",
-         "title" : "London Classic: Bartel scores, Adams leads"
       },
       {
          "description" : "The highly-anticipated 2023 Champions Chess Tour Finals begin in just three days on December 9. GMs Magnus Carlsen, Hikaru Nakamura, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Alireza Firouzja, and Denis Lazavik are...",
@@ -1168,22 +1176,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/only-3-of-germans-know-the-name-of-the-current-chess-world-champ/",
          "pubDate" : "Mon, 20 Nov 2023 09:11:38",
          "title" : "Only 3% of Germans know the name of the current world champion"
-      },
-      {
-         "description" : "I was starting to wonder if we were ever going to see more 'AI generated chess images' in the monthly featured Flickr post. The previous post featuring such images was <A HREF=\"https://chessforallages.blogspot.com/2023/03/karpov-and-kasparov-play-chess-in.html\">Karpov and Kasparov Play Chess in Iceland</A> (March 2023). Forget chess images; a giant leap forward is 'AI generated chess comics'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk19.jpg\" WIDTH=400 HEIGHT=283><BR> <A HREF=\"https://www.flickr.com/photos/schockwellenreiter/53325373038/\">Alice and the Chess Queen 5</A> &#169; Flickr user <I>Joerg Kantel</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-nd/2",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html",
-         "pubDate" : "Sun, 19 Nov 2023 16:06:00",
-         "title" : "AI Chess Comics"
-      },
-      {
-         "description" : " IM Junta Ikeda has won the 2023 Vikings Weekender with a score of 4.5/5. He defeated Roger Farrell in the final round to grab outright 1st, and relegate Farrell into a tie for 3rd place. Harry Press had a chance to catch Ikeda with a final round win over FM Fred Litchfield, but a tough round 4 draw against Farrell made it difficult to lift for a final round win. Instead the game was drawn, which was enough for Press to take outright 2nd on 4. Third place was shared between Farrell, Litchfield and Willis Lo, who won his final round game to finish in the prize money. The Minor (Under 1600) was won by Masaki Horikawa on 4.5/5. He defeated Shriya Karthik on the top board, who went into the fina",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/2023-vikings-weekender-day-2.html",
-         "pubDate" : "Sun, 19 Nov 2023 12:56:00",
-         "title" : "2023 Vikings Weekender - Day 2"
       }
    ]
 }
