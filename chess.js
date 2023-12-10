@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-8",
-         "pubDate" : "Sat, 09 Dec 2023 16:29:16",
+         "pubDate" : "Sat, 09 Dec 2023 16:29:00",
          "title" : "Shreyas Royal Eyes GM Norm; Gukesh's Candidates Hopes Fade"
       },
       {
@@ -54,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-rr-day-1",
-         "pubDate" : "Sat, 09 Dec 2023 15:24:26",
+         "pubDate" : "Sat, 09 Dec 2023 15:24:00",
          "title" : "Caruana Is King Of Armageddon On Day 1, Leads With Carlsen, Wesley So"
       },
       {
