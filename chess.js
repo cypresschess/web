@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three players grabbed back-to-back wins in the first two rounds of the Champions Chess Tour Finals: Magnus Carlsen, Wesley So and Fabiano Caruana, with Caruana prevailing twice in Armageddon to end the day sharing the lead. Notably, one of the three players who lost his first two matches is Hikaru Nakamura, who celebrated his 36th birthday on Saturday. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d1",
+         "pubDate" : "Sun, 10 Dec 2023 07:15:00",
+         "title" : "CCT Finals: So, Carlsen and Caruana start strong"
+      },
+      {
          "description" : "No player has managed to remain undefeated after six rounds at the Gashimov Memorial in Gabala, Azerbaijan. Rounds 4-6 were played on Saturday and featured a number of entertaining encounters. Three players emerged as co-leaders, with Arjun Erigaisi and Aydin Suleymanli (pictured) joining early leader Nijat Abasov at the top of the standings, all with plus-one scores. A very closed competition, all remaining seven participants have either fifty-percent or minus-one scores. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2788",
          "pubDate" : "Sat, 09 Dec 2023 22:05:37",
          "title" : "FIDE World Cadet Rapid & Blitz Championships 2024: Registration is open"
-      },
-      {
-         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
-         "pubDate" : "Sat, 09 Dec 2023 17:50:00",
-         "title" : "Champions Chess Tour Finals - Live!"
       },
       {
          "description" : "",
@@ -1160,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2751",
          "pubDate" : "Sun, 19 Nov 2023 11:07:37",
          "title" : "Fabiano Caruana wins Saint Louis Rapid and Blitz 2023"
-      },
-      {
-         "description" : "Only two rounds left to be played at the European Team Chess Championship 2023 in Budva, Montenegro, and three teams tie for the top of the Open section, while Bulgaria took the sole lead in the Women's event. England, Germany and Serbia score 11 match points each to head into the penultimate round as the leaders of the Open event. In the Women's section, Bulgaria scores 12 match points, while France and Azerbaijan follow with the score of 11 match []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/two-rounds-to-go-at-the-european-team-chess-championship-2023-in-budva/",
-         "pubDate" : "Sun, 19 Nov 2023 07:40:01",
-         "title" : "Two rounds to go at the European Team Chess Championship 2023 in Budva"
       }
    ]
 }
