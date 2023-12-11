@@ -319,7 +319,7 @@ news_feed (
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2023/12/december-1973-1998-on-cover.html",
          "pubDate" : "Thu, 07 Dec 2023 16:44:00",
-         "title" : "December 1973 & 1998 'On the Cover"
+         "title" : "December 1973 & 1998 'On the Cover'"
       },
       {
          "description" : "FIDE is expected to make significant changes to its rating system on January 1, which includes a one-time adjustment for most rated players, an increase of the rating floor, and changes to the initial rating. In July, the FIDE Qualifications Com...",
