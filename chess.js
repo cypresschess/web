@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen defeated two of his strongest rivals on Sunday to keep his perfect score at the Champions Chess Tour Finals. The former world champion defeated Fabiano Caruana and Hikaru Nakamura in consecutive rounds. Joining him in the lead is Wesley So, who got the better of Maxime Vachier-Lagrave and Alireza Firouzja. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d2",
+         "pubDate" : "Mon, 11 Dec 2023 15:30:00",
+         "title" : "CCT Finals: Carlsen and So on 4/4"
+      },
+      {
          "description" : "ECU E-Magazine November 2023 is out! In this edition of the ECU E-Magazine you may read about: The November 2023 issue of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded in PDF format below. ECU-Magazine_November-2023",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,20 +34,20 @@ news_feed (
          "title" : "How did this position arise?"
       },
       {
-         "description" : "The youngest and lowest-rated participant prevailed in the rapid section of the Gashimov Memorial. 18-year-old Aydin Suleymanli played fearlessly on day 3 of the rapid to collect two wins and a loss, and go into Monday's 18 rounds of blitz as the sole leader in Gabala. Sharing second place, one point behind, are Vidit Gujrathi, Arjun Erigaisi and the top scorer in the final three rounds of rapid, Jorden van Foreest. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-d3",
-         "pubDate" : "Mon, 11 Dec 2023 10:50:00",
-         "title" : "Gashimov Memorial: 18-year-old Suleymanli wins rapid section"
-      },
-      {
          "description" : " <p class=\"lead\">The UK government's proposed &pound;1 million investment in chess is coming at the right time according to a YouGov poll, conducted in association with World Chess and it.com Domains, which shows an extensive decline in chess club memberships. Only 6% of those who continue to play either regularly or within the past 12 months have a chess club member in the UK, whilst 41.2% have historically been a chess club member, but have left over time. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>UK player numbers static</h2> The decline in membership of the traditional chess club correlates to the as",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/rise-of-online-chess-platforms-sees-a-41-decline-in-uk-chess-clu/",
          "pubDate" : "Mon, 11 Dec 2023 08:34:03",
          "title" : "Rise of online chess platforms sees a 41% decline in UK chess club membership"
+      },
+      {
+         "description" : "Chidobe Awuzie, the Cincinnati Bengals cornerback and all-around good guy, is working with Chess.com and Big Brothers, Big Sisters of Greater Cincinnati to host a special chess workshop for kids this holiday season. The 28-year-old professional ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chidobe-awuzie-hosts-holidays-chess-workshop-for-kids",
+         "pubDate" : "Mon, 11 Dec 2023 08:05:00",
+         "title" : "Chidobe Awuzie Shares His Game Plan: Bengals Star Hosts Chess Workshop For Kids"
       },
       {
          "description" : "All India Chess Federation wishes a very happy birthday to the legend of Indian Chess!!",
@@ -58,12 +66,20 @@ news_feed (
          "title" : "Michael Adams wins the London Chess Classic"
       },
       {
-         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "description" : "The youngest and lowest-rated participant prevailed in the rapid section of the Gashimov Memorial. 18-year-old Aydin Suleymanli played fearlessly on day 3 of the rapid to collect two wins and a loss, and go into Monday's 18 rounds of blitz as the sole leader in Gabala. Sharing second place, one point behind, are Vidit Gujrathi, Arjun Erigaisi and the top scorer in the final three rounds of rapid, Jorden van Foreest. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
-         "pubDate" : "Sun, 10 Dec 2023 17:50:00",
-         "title" : "Champions Chess Tour Finals - Live!"
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-d3",
+         "pubDate" : "Mon, 11 Dec 2023 01:10:00",
+         "title" : "Gashimov Memorial: 18-year-old Suleymanli wins rapid section"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2791",
+         "pubDate" : "Sun, 10 Dec 2023 21:55:34",
+         "title" : "Mert Yılmazyerli wins 2023 Turkish Championship"
       },
       {
          "description" : "Just two players are left on a perfect score after four rounds across two days, GMs Magnus Carlsen and Wesley So. They have won all four matches they have played at the 2023 Champions Chess Tour Finals so far. Carlsen defeated two of his greates...",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://aicf.in/link-for-live-games-of-36th-national-under-13-open-girls-chess-championships-2023/",
          "pubDate" : "Mon, 04 Dec 2023 07:13:06",
          "title" : "Link for LIVE GAMES of 36th National Under - 13 Open & Girls Chess Championships 2023"
-      },
-      {
-         "description" : "IM Shreyas Royal played like a veteran grandmaster as he defeated world number-40 GM Amin Tabatabaei in round three of the 2023 London Chess Classic. It was a wild day, as all three players who had won a day earlier slipped to defeat, while GMs Gu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-3",
-         "pubDate" : "Sun, 03 Dec 2023 17:19:00",
-         "title" : "14-Year-Old Royal Beats Grandmaster; Gukesh, Adams Extend Lead"
       },
       {
          "description" : "After so many years of following <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I've learned that eBay auctions follow seasonal trends. For example, the months preceeding the year-end holidays generally have more items than the months following the holidays <P> This year is no exception and my short list for this post had a dozen items, any one of which could have been featured for the post. By coincidence, the three most expensive items on the list were all related to the 1972 Fischer - Spassky match. Two of those items are pictured below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa",
