@@ -10,6 +10,14 @@ news_feed (
          "title" : "Champions Chess Tour Finals - Live!"
       },
       {
+         "description" : "Eighteen-year-old GM Aydin Suleymanli won the rapid segment of the Vugar Gashimov Memorial 2023 on Sunday. The youngest and lowest rated player in the field rose to the top with a display of fighting spirit, finishing with three decisive clashes i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-rapid-day-3",
+         "pubDate" : "Sun, 10 Dec 2023 15:11:00",
+         "title" : "Suleymanli Thrives In Chaos, Wins Rapid"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 155th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Mikhail Botvinnik. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r8",
          "pubDate" : "Sun, 10 Dec 2023 14:00:00",
          "title" : "London Classic: Royal stuns Moussard"
+      },
+      {
+         "description" : "GM Michael Adams said it was probably his best-ever result to win the London Chess Classic 2023 at the age of 52. He clinched the title with a draw against the future of English chess, 14-year-old IM Shreyas Royal, who described himself as &#34;really...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-9",
+         "pubDate" : "Sun, 10 Dec 2023 13:19:00",
+         "title" : "Adams Wins With \"Best Ever Result,\" Royal Makes 2nd GM Norm"
       },
       {
          "description" : " I played in the annual Transfer (bughouse) event held in Canberra each year, with middling results. However, when I had the opportunity I wheeled out was I vaguely remembered was an opening called \"Baker's Attack\". It is an early sacrifice on f7, using 1.Nf3 2.Ne5 and 3.Nxf7. The the idea is to go the hack, either with an early Qh5+, or with e4 followed by Bc4+ However, I've failed to find an online reference to it, which may mean I am misremembering the name, or that it is even a real thing. Nonetheless, it did give me a few wins, even if isn't quite effective under the rules that are normally used in the ACT* (*It has been a long tradition in Canberra Bughouse events that you cannot for a",
@@ -578,14 +594,6 @@ news_feed (
          "title" : "Chess.com Launches New Merch Store With New Tees, Mittens Plushie, And More"
       },
       {
-         "description" : "It&#38;rsquo;s the last month of 2023, and this has been one of the biggest years ever for chess. A record number of players, a record number of games, and a spectacular year for bots fans (hehehe). What better way to celebrate than to bring back th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-fan-favorite-bots",
-         "pubDate" : "Sun, 03 Dec 2023 06:00:00",
-         "title" : "Mittens Is Back! Celebrate The Holiday Season By Playing Chess Against Fan-Favorite Bots"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105692225.cms\" />It's been a magnificent year for Indian chess and now, there's an icing on the cake. Chennai girl R Vaishali, who had earlier sealed a spot for the women's Candidates tournament and made history by becoming the first brother-sister duo with R Praggnanandhaa to do so, is now the third Indian woman to become a Grandmaster. With two consecutive victories at the Ellobregat Open in Spain, Vaishali steered past the 2500-mark Elo rating to reach the milestone.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-at-katni-madhya-pradesh-30-31-dec-2023/",
          "pubDate" : "Sat, 02 Dec 2023 17:47:46",
          "title" : "Senior National Arbiter Seminar & Exam at Katni, Madhya Pradesh 30-31 Dec 2023"
-      },
-      {
-         "description" : "GM Hikaru Nakamura&#39;s supremacy over Bullet Brawl has continued into December as the world number-three coasted to a 253 score and his fourth-straight $400 victory. Landing in second place on Saturday was GM Oleksandr Bortnyk, who finished on 229, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-december-2-2023",
-         "pubDate" : "Sat, 02 Dec 2023 17:16:46",
-         "title" : "Nakamura Puts On Tactical Masterclass To Win 14th Bullet Brawl Title"
       },
       {
          "description" : "The Elgin Marbles are once again in the news after Rishi Sunak's sensational snub to that heir of Pericles, the Greek Prime Minister Kyriakos Mitsotakis. The connection between the marvellous Marbles and chess is not generally known, but definitely exists. In what follows I have made liberal and grateful use of the expert insights of []",
