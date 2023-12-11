@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ECU E-Magazine November 2023 is out! In this edition of the ECU E-Magazine you may read about: The November 2023 issue of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded in PDF format below. ECU-Magazine_November-2023",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-november-2023/",
+         "pubDate" : "Mon, 11 Dec 2023 11:55:34",
+         "title" : "ECU E-Magazine November 2023"
+      },
+      {
+         "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-live",
+         "pubDate" : "Mon, 11 Dec 2023 11:50:00",
+         "title" : "Gashimov Memorial - Live!"
+      },
+      {
+         "description" : "The second part of the ChessBase India winter solving contest contained problems in different chess variants that involve deviation from the standard rules. This can involve finding ways to reconstruct a given position, or changes to pieces or rules, leading to creative and strategic gameplay. We present one challenging example, and a video lesson in problem solving from a true master. There is a lot to learn and to enjoy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-did-this-position-arise",
+         "pubDate" : "Mon, 11 Dec 2023 10:56:50",
+         "title" : "How did this position arise?"
+      },
+      {
+         "description" : "The youngest and lowest-rated participant prevailed in the rapid section of the Gashimov Memorial. 18-year-old Aydin Suleymanli played fearlessly on day 3 of the rapid to collect two wins and a loss, and go into Monday's 18 rounds of blitz as the sole leader in Gabala. Sharing second place, one point behind, are Vidit Gujrathi, Arjun Erigaisi and the top scorer in the final three rounds of rapid, Jorden van Foreest. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-d3",
+         "pubDate" : "Mon, 11 Dec 2023 10:50:00",
+         "title" : "Gashimov Memorial: 18-year-old Suleymanli wins rapid section"
+      },
+      {
+         "description" : " <p class=\"lead\">The UK government's proposed &pound;1 million investment in chess is coming at the right time according to a YouGov poll, conducted in association with World Chess and it.com Domains, which shows an extensive decline in chess club memberships. Only 6% of those who continue to play either regularly or within the past 12 months have a chess club member in the UK, whilst 41.2% have historically been a chess club member, but have left over time. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>UK player numbers static</h2> The decline in membership of the traditional chess club correlates to the as",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/rise-of-online-chess-platforms-sees-a-41-decline-in-uk-chess-clu/",
+         "pubDate" : "Mon, 11 Dec 2023 08:34:03",
+         "title" : "Rise of online chess platforms sees a 41% decline in UK chess club membership"
+      },
+      {
          "description" : "All India Chess Federation wishes a very happy birthday to the legend of Indian Chess!!",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -32,6 +72,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-rr-day-2",
          "pubDate" : "Sun, 10 Dec 2023 16:48:00",
          "title" : "Carlsen Beats World Numbers 2 And 3 Back To Back"
+      },
+      {
+         "description" : "Well known images and well known facts combine to give a high level introduction to chess history. It's a pity there are number of small inaccuracies, including an illegal move. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/RqvydrLVQ4Q?si=ssLyWiXQMHhxfq7F\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Evolution of the Game of Chess</B> (4:40) &#149; '[Published on] Dec 7, 2023' <P> The description of the video also promises high level. <BLOCKQUOTE> Let's explore key moments and pivotal rule changes that shaped the game we love t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/timeless-pursuit-of-checkmate.html",
+         "pubDate" : "Sun, 10 Dec 2023 16:31:00",
+         "title" : "'Timeless Pursuit of Checkmate'"
       },
       {
          "description" : "Eighteen-year-old GM Aydin Suleymanli won the rapid segment of the Vugar Gashimov Memorial 2023 on Sunday. The youngest and lowest rated player in the field rose to the top with a display of fighting spirit, finishing with three decisive clashes i...",
@@ -328,30 +376,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-set-to-implement-drastic-rating-changes",
          "pubDate" : "Thu, 07 Dec 2023 15:55:00",
          "title" : "FIDE Set To Make Significant Changes To Rating System In January"
-      },
-      {
-         "description" : "The battle for the final Candidates' tickets continues at the London Chess Classic. English legend Michael Adams is in the lead with 3.5 out of 5, followed by a group of players on 3 out of 5. Gukesh, who needs to win the tournament to qualify for the Candidates, had a great start with 3 out of 4, getting a superior position against Moussard, but then there was high drama. The bold approach taken by both players in this game easily qualifies it as our Game of the Week. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-597-gukesh-vs-j-moussard",
-         "pubDate" : "Thu, 07 Dec 2023 11:25:00",
-         "title" : "Game of the Week #597: Gukesh vs J. Moussard"
-      },
-      {
-         "description" : "The Kaissa Foundation was founded by entrepreneurs Rinat and Erlan Naimanov. Recently Rinat and partner Alexander von Gleich met with the founders of ChessBase, Matthias W&uuml;llenweber and Frederick Friedel in Hamburg, to sign of a memorandum of cooperation with our company. KAISSA will begin the process of translating training programs into the Kazakh language with the support of ChessBase and the Chess Federation of the Republic of Kazakhstan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-kazakhstan",
-         "pubDate" : "Thu, 07 Dec 2023 11:17:52",
-         "title" : "Chess in Kazakhstan"
-      },
-      {
-         "description" : "Earlier this year, the Qualifications Commission (QC) initiated a review of the FIDE rating regulations, inviting federations, officials and the public to contribute their thoughts and suggestions. A dedicated group of contributors worked together with mathematician Jeff Sonas on reforming the existing ratings' system.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/proposals-for-changes-to-fide-ratings-regulations",
-         "pubDate" : "Thu, 07 Dec 2023 07:00:00",
-         "title" : "Proposals for changes to FIDE ratings regulations"
       },
       {
          "description" : "<div class=\"body text-secondary\"> In commanding fashion, Grandmaster (GM) Fabiano Caruana won both the 2023 Saint Louis Rapid &amp; Blitz and Sinquefield Cup to become the overall 2023 Grand Chess Tour champion. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
@@ -1168,22 +1192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/pressure-will-be-higher-in-candidates-says-grandmaster-r-praggnanandhaa/articleshow/105364249.cms",
          "pubDate" : "Mon, 20 Nov 2023 16:48:43",
          "title" : "Pressure will be higher in Candidates, says R Praggnanandhaa"
-      },
-      {
-         "description" : "The European Team Chess Championship 2023 is getting closer to its end, and the last round is scheduled for today at 15:00 CET. Serbia and Germany co-lead in the Open section scoring 13 match points each, while Bulgaria scores 14 match points in the Women's section to be the sole leader of the Women's event. Playing on the top board of the Open section, Serbia once again surprised and defeated one of the favourites for the top England. GM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/etcc2023-last-round-to-determine-the-winners/",
-         "pubDate" : "Mon, 20 Nov 2023 11:23:55",
-         "title" : "#ETCC2023 - Last round to determine the Winners"
-      },
-      {
-         "description" : " <p class=\"lead\">A recent survey, conducted by YouGov and World Chess, examining the popularity of chess, found that only 3% of Germans could correctly identify the current Chess World Champion. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/World-Chess-x-YouGov-1.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> Despite an estimated 19 million regular and casual players in Germany, the survey showed that only 3% of those surveyed could correctly name China's Ding Liren as the current champion after he took the title from Norway's Magnus Carlsen earlier this year. The survey also observed that 10% believed that Carlsen still held the world champion title. At the s",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/only-3-of-germans-know-the-name-of-the-current-chess-world-champ/",
-         "pubDate" : "Mon, 20 Nov 2023 09:11:38",
-         "title" : "Only 3% of Germans know the name of the current world champion"
       }
    ]
 }
