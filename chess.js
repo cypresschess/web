@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #258 Karsten M&uuml;ller shows highlights from the Rapid Tournament in Saint Louis and a rook endgame, which indicates why Magnus Carlsen is considered to be one of the best endgame players of all time. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-258-highlights-from-the-saint-louis-rapid-tournament",
+         "pubDate" : "Mon, 11 Dec 2023 18:00:00",
+         "title" : "Endgame Magic #258 - Highlights from the Saint Louis Rapid Tournament"
+      },
+      {
+         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
+         "pubDate" : "Mon, 11 Dec 2023 17:50:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
          "description" : "Magnus Carlsen defeated two of his strongest rivals on Sunday to keep his perfect score at the Champions Chess Tour Finals. The former world champion defeated Fabiano Caruana and Hikaru Nakamura in consecutive rounds. Joining him in the lead is Wesley So, who got the better of Maxime Vachier-Lagrave and Alireza Firouzja. | Photo: chess.com / Thomas Tischio",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +58,7 @@ news_feed (
          "title" : "Rise of online chess platforms sees a 41% decline in UK chess club membership"
       },
       {
-         "description" : "Chidobe Awuzie, the Cincinnati Bengals cornerback and all-around good guy, is working with Chess.com and Big Brothers, Big Sisters of Greater Cincinnati to host a special chess workshop for kids this holiday season. The 28-year-old professional ...",
+         "description" : "Chidobe Awuzie, the Cincinnati Bengals cornerback and all round good guy, is working with Chess.com and Big Brothers, Big Sisters of Greater Cincinnati to host a special chess workshop for kids this holiday season. The 28-year-old professional f...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chidobe-awuzie-hosts-holidays-chess-workshop-for-kids",
@@ -336,22 +352,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/adult-improvers-why-gm-openings-might-not-suit-you/",
          "pubDate" : "Fri, 08 Dec 2023 14:00:25",
          "title" : "Adult Improvers: Why GM Openings Might Not Suit You"
-      },
-      {
-         "description" : "The strong line-up of the Masters and the Challengers tournaments, a large Open, an interesting supporting programme and, last but not least, the city itself make the Prague Chess Festival 2024 an attractive event. The 6th edition of the festival will take place from 26 February to 7 March 2024 and will continue Prague's long chess tradition. A tradition whose traces can be found even when you only take a short sightseeing walk through the city. As Johannes Fischer discovered during a visit to the 5th Prague Chess Festival. | Photo: View of Hradcany with the castle, Prague | Photo: Stefan Bauer, Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-sightseeing-and-chess-history",
-         "pubDate" : "Fri, 08 Dec 2023 10:00:00",
-         "title" : "Prague: Sightseeing and chess history"
-      },
-      {
-         "description" : "Michael Adams still has a half-point lead at the London Chess Classic after his round-6 opponent, Jules Moussard, blundered the game away from a winning position. Gukesh, Amin Tabatabaei and Andrei Volokitin also scored full points. In the longest game of the day, Nikita Vitiugov failed to make the most of a big advantage against underdog Shreyas Royal. With three rounds to go, Gukesh stands in sole second place. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r6",
-         "pubDate" : "Fri, 08 Dec 2023 05:30:00",
-         "title" : "London Classic: Adams gets lucky break, continues to lead"
       },
       {
          "description" : " After a game involving direct sacrifices, and a game which was more restrained, this game lands somewhere in the middle. It does involve an attack on the king, with a piece sacrifice, but the offer of a piece was more to distract White from the best defence, rather than the overrun the White position. And unlike the other 2 games, play wasn't the best for either side, with stronger moves being available at various points. <br /> <b>Horikawa,Keisuke - Press,Shaun [C56]</b><br /> Swiss Festive Fun --- (4), 28.11.2023 <script> new PgnViewer( { boardName: \"game1433\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nc6 5.e5 d5 6.Bb5 Ne4 7.O-O Bc5 8.Nxd4 Bd7 9.Nxc6 bxc6 10.Bd",
@@ -1192,14 +1192,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/24th-european-team-chess-championship-2023",
          "pubDate" : "Mon, 20 Nov 2023 20:56:00",
          "title" : "24th European Team Chess Championship 2023 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105364249.cms\" />One of the brightest stars of Indian chess, R Praggnanandhaa, is gearing up for the biggest challenge of his career in five months' time when he takes part in the Candidates Chess tournament in Toronto. However, the 18-year-old isn't in a tearing hurry to start preparations for the tournament that will decide the Challenger for the World Chess Championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/pressure-will-be-higher-in-candidates-says-grandmaster-r-praggnanandhaa/articleshow/105364249.cms",
-         "pubDate" : "Mon, 20 Nov 2023 16:48:43",
-         "title" : "Pressure will be higher in Candidates, says R Praggnanandhaa"
       }
    ]
 }
