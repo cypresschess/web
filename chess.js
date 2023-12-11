@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation wishes a very happy birthday to the legend of Indian Chess!!",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/happy-birthday-vishy/",
+         "pubDate" : "Mon, 11 Dec 2023 03:27:00",
+         "title" : "Happy Birthday Vishy!!"
+      },
+      {
+         "description" : "Michael Adams became the first Englishman to win the London Chess Classic. At 52, the former World Championship candidate described this victory as \"the best ever\" in his career. In the final round, Adams drew Shreyas Royal with black, which meant Royal finished with 4/9 points, the score he needed to collect a second GM norm. The one decisive result of the day saw Hans Niemann beating Gukesh. Amin Tabatabaei, who signed a draw with Jules Moussard, got sole second place. | Photo: London Chess Classic",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r9",
+         "pubDate" : "Mon, 11 Dec 2023 01:15:00",
+         "title" : "Michael Adams wins the London Chess Classic"
+      },
+      {
          "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
          "pubDate" : "Sun, 10 Dec 2023 17:50:00",
          "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "Just two players are left on a perfect score after four rounds across two days, GMs Magnus Carlsen and Wesley So. They have won all four matches they have played at the 2023 Champions Chess Tour Finals so far. Carlsen defeated two of his greates...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-rr-day-2",
+         "pubDate" : "Sun, 10 Dec 2023 16:48:00",
+         "title" : "Carlsen Beats World Numbers 2 And 3 Back To Back"
       },
       {
          "description" : "Eighteen-year-old GM Aydin Suleymanli won the rapid segment of the Vugar Gashimov Memorial 2023 on Sunday. The youngest and lowest rated player in the field rose to the top with a display of fighting spirit, finishing with three decisive clashes i...",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2789",
          "pubDate" : "Sun, 10 Dec 2023 12:07:32",
          "title" : "FIDE World School Championships 2024 - Call for Bids "
-      },
-      {
-         "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-live",
-         "pubDate" : "Sun, 10 Dec 2023 11:50:00",
-         "title" : "Gashimov Memorial - Live!"
       },
       {
          "description" : "GM Leinier Dominguez has arrived in Spain where he will play the Chessable Sunway Sitges Chess Festival to battle for a coveted spot in the Candidates tournament. This week the Cuban-born American, currently the world&#39;s seventh-ranked player, co...",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/london-chess-classic.html",
          "pubDate" : "Sun, 03 Dec 2023 13:12:00",
          "title" : "London Chess Classic"
-      },
-      {
-         "description" : "The internet sensation Mittens is back&#38;mdash;not only as the soul-crushing chess bot that broke the internet but also as an adorable plushie that you can own! Chess.com is excited to announce we&#39;ll be launching our merch store on December 9, now w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-merch-store",
-         "pubDate" : "Sun, 03 Dec 2023 07:10:00",
-         "title" : "Chess.com Launches New Merch Store With New Tees, Mittens Plushie, And More"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105692225.cms\" />It's been a magnificent year for Indian chess and now, there's an icing on the cake. Chennai girl R Vaishali, who had earlier sealed a spot for the women's Candidates tournament and made history by becoming the first brother-sister duo with R Praggnanandhaa to do so, is now the third Indian woman to become a Grandmaster. With two consecutive victories at the Ellobregat Open in Spain, Vaishali steered past the 2500-mark Elo rating to reach the milestone.",
