@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wesley So beat Magnus Carlsen and Nodirbek Abdusattorov to keep a perfect score of 6 wins in 6 matches at the Champions Chess Tour Finals in Toronto. Carlsen (5 points) has also secured a ticket to the semifinals, while Hikaru Nakamura (1) and Denis Lazavik (1), who face each other in round 7, will need a couple of results to go their way if they want to reach the 'survival stage'. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d3",
+         "pubDate" : "Tue, 12 Dec 2023 16:50:00",
+         "title" : "CCT Finals: So still perfect, Naka in trouble"
+      },
+      {
+         "description" : "Magnus Carlsen is the world number one chess player and Pep Guardiola is regarded as one of the best football coaches in the world who has changed the way football is played and thought about. Guardiola has celebrated numerous national and international successes with FC Barcelona, Bayern Munich and Manchester City. In a revealing conversation organised by PUMA, Carlsen and Guardiola talked about the similarities between football and chess and gave insights into their strategies and tricks.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-meets-football-magnus-carlsen-meets-pep-guardiola",
+         "pubDate" : "Tue, 12 Dec 2023 14:54:08",
+         "title" : "Chess meets football, Carlsen meets Guardiola"
+      },
+      {
          "description" : "&#8212; from Chess.com GM Michael Adams said it was probably his best-ever result to win the London Chess Classic 2023 at the age of 52....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/commonwealth-chess-championship-2023-24/",
          "pubDate" : "Tue, 12 Dec 2023 07:37:23",
          "title" : "Commonwealth Chess Championship - 2023 - 24"
+      },
+      {
+         "description" : "Wise men speak because they have something to say, the philosopher Plato famously said, and when it comes to chess, few players are wiser than GM Viswanathan Anand. The Indian legend reminded the world of that yet again on Monday, his 54th birth...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-legend-vishy-anand-offers-nugget-of-wisdom-on-54th-birthday",
+         "pubDate" : "Tue, 12 Dec 2023 04:34:19",
+         "title" : "Chess Legend Vishy Anand Offers Incredible Pearl Of Wisdom On His 54th Birthday"
       },
       {
          "description" : "The race to the Candidates intensifies as India&#39;s chess capital will host Chennai Grand Masters from December 15 to 21, marking the strongest classical tournament in the nation&#39;s history. For three of the players it will be all about making it to ...",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-magic-258-highlights-from-the-saint-louis-rapid-tournament",
          "pubDate" : "Mon, 11 Dec 2023 18:00:00",
          "title" : "Endgame Magic #258 - Highlights from the Saint Louis Rapid Tournament"
-      },
-      {
-         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
-         "pubDate" : "Mon, 11 Dec 2023 17:50:00",
-         "title" : "Champions Chess Tour Finals - Live!"
       },
       {
          "description" : "At the end of last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html\">Elon Musk and Squirrels</A> (December 2023), I asked, <BLOCKQUOTE> Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wants to do. </BLOCKQUOTE> <P> While I've learned a few tricks in the week since that post, the whole process is still too much like herding cats. For this post, I used the tool to see how well it drew World Champions, both past and present. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl11.jpg\" WIDTH=334 HEIGHT=400><BR> <B",
@@ -344,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/alef-super-stars-2023-final-report",
          "pubDate" : "Sat, 09 Dec 2023 14:50:00",
          "title" : "Yu Yangyi wins Alef Super Stars tournament in Sharjah"
-      },
-      {
-         "description" : "The fun continues in London. Round 7 of the 10-player round-robin featured two highly entertaining, decisive games. Mateusz Bartel, who has yet to draw a game in the event, never gave up in a losing-yet-tricky position and ended up beating Hans Niemann, while Amin Tabatabaei grabbed his fourth win of the tournament by defeating Nikita Vitiugov in a sharp tactical struggle. Michael Adams is still the sole leader. | Photo: Tao Bhokanandh",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r7",
-         "pubDate" : "Sat, 09 Dec 2023 14:45:00",
-         "title" : "London Classic: Bartel and Tabatabaei grab full points in wild games"
       },
       {
          "description" : "GMs Arjun Erigaisi, Nijat Abasov, and Aydin Suleymanli emerged as joint leaders with seven points out of a maximum of 12 after six rounds of the Vugar Gashimov Memorial 2023 being held at Gabala, Azerbaijan, on Saturday. In a typically exciting da...",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-thoothukudi/",
          "pubDate" : "Mon, 04 Dec 2023 14:07:08",
          "title" : "AICF's Fair Play Orientation Workshop, Thoothukudi"
-      },
-      {
-         "description" : "Chess.com is excited to announce our new upgrade to the move list feature. The new move list is now cleaner and clearer, making it easier for you to follow variations and annotations or to analyze your own games. It also resembles the move list yo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-updated-move-list",
-         "pubDate" : "Mon, 04 Dec 2023 11:31:00",
-         "title" : "Chess.com Makes Massive Upgrade To Move List!"
       },
       {
          "description" : "",
@@ -1176,22 +1176,6 @@ news_feed (
          "link" : "https://www.europechess.org/serbia-and-bulgaria-claim-european-team-open-and-womens-chess-championships-2023/",
          "pubDate" : "Tue, 21 Nov 2023 21:36:02",
          "title" : "Serbia and Bulgaria claim European Team Open and Women's Chess Championships 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2753",
-         "pubDate" : "Tue, 21 Nov 2023 15:34:55",
-         "title" : "Infinite Chess Project: Educational seminar for new partner countries "
-      },
-      {
-         "description" : " If you choose to play sharp lines, sometimes you get cut. Here is a recent example from the 2023 European Teams Championship. The line chosen by White is supposed to be drawn with best play, but Black either wanted more, or simply mixed up his lines. It ended badly. <br /> <b>Theodorou,Nikolas (2619) - Radjabov,Teimour (2745) [C43]</b><br /> 24th European Teams Budva MNE (6.1), 17.11.2023 <script> new PgnViewer( { boardName: \"game1427\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nf6 3.d4 Nxe4 4.dxe5 Bc5 5.Bc4 Nxf2 6.Bxf7+ Kxf7 7.Qd5+ Kg6 8.Qxc5 Nxh1 9.Nc3 h6 10.Nd5 Re8 11.Qd4 Kh7 12.Bxh6 gxh6 13.O-O-O Re6 14.Nf6+ Kh8 15.Nh4 d6 16.Qf4 Kg7 17.Qg4+ Kh8 18.Ng6+ Kg7 19.Nf8+ 1-0', pauseBetw",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/sharp-lines-watch-your-fingers.html",
-         "pubDate" : "Tue, 21 Nov 2023 12:55:00",
-         "title" : "Sharp lines, watch your fingers"
       }
    ]
 }
