@@ -18,6 +18,14 @@ news_feed (
          "title" : "Chennai Masters 2023 - A chance to qualify for the Candidates"
       },
       {
+         "description" : "Defending champion GM Wesley So continued his unbeaten run at the 2023 Champions Chess Tour Finals with his most impressive day yet, scoring match wins over GMs Magnus Carlsen and Nodirbek Abdusattorov. GM Maxime Vachier-Lagrave secured his firs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-day-3",
+         "pubDate" : "Mon, 11 Dec 2023 19:18:00",
+         "title" : "So Defeats Carlsen; Nakamura On Brink Of Elimination"
+      },
+      {
          "description" : "In the Endgame Magic Show #258 Karsten M&uuml;ller shows highlights from the Rapid Tournament in Saint Louis and a rook endgame, which indicates why Magnus Carlsen is considered to be one of the best endgame players of all time. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -608,14 +616,6 @@ news_feed (
          "link" : "https://aicf.in/link-for-live-games-of-36th-national-under-13-open-girls-chess-championships-2023/",
          "pubDate" : "Mon, 04 Dec 2023 07:13:06",
          "title" : "Link for LIVE GAMES of 36th National Under - 13 Open & Girls Chess Championships 2023"
-      },
-      {
-         "description" : "IM Shreyas Royal played like a veteran grandmaster as he defeated world number-40 GM Amin Tabatabaei in round three of the 2023 London Chess Classic. It was a wild day, as all three players who had won a day earlier slipped to defeat, while GMs Gu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-3",
-         "pubDate" : "Sun, 03 Dec 2023 17:19:00",
-         "title" : "14-Year-Old Royal Beats Grandmaster; Gukesh, Adams Extend Lead"
       },
       {
          "description" : "After so many years of following <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I've learned that eBay auctions follow seasonal trends. For example, the months preceeding the year-end holidays generally have more items than the months following the holidays <P> This year is no exception and my short list for this post had a dozen items, any one of which could have been featured for the post. By coincidence, the three most expensive items on the list were all related to the 1972 Fischer - Spassky match. Two of those items are pictured below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa",
