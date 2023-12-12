@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After finishing the rapid section in shared second place, Vidit Gujrathi tied for first in the blitz to claim overall first place at the Gashimov Memorial. Vidit managed to keep his &frac12;-point lead over Arjun Erigaisi by winning his final game in Gabala - Arjun also scored a full point in the 18th round of blitz and grabbed clear second place. Richard Rapport, who had struggled in the rapid but obtained as many points as Vidit in the blitz, finished third. | Photo: Mukhtar Ahmad",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-d4",
+         "pubDate" : "Tue, 12 Dec 2023 00:50:00",
+         "title" : "Vidit edges Arjun, wins 2023 Gashimov Memorial"
+      },
+      {
+         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. The tournament might decide who will go to the Candidates Tournament 2024. | Photos: ChessBase India.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-masters-2023-a-chance-to-qualify-for-the-candidates",
+         "pubDate" : "Mon, 11 Dec 2023 23:30:00",
+         "title" : "Chennai Masters 2023 - A chance to qualify for the Candidates"
+      },
+      {
          "description" : "In the Endgame Magic Show #258 Karsten M&uuml;ller shows highlights from the Rapid Tournament in Saint Louis and a rook endgame, which indicates why Magnus Carlsen is considered to be one of the best endgame players of all time. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "ECU E-Magazine November 2023"
       },
       {
+         "description" : "The second part of the ChessBase India winter solving contest contained problems in different chess variants that involve deviation from the standard rules. This can involve finding ways to reconstruct a given position, or changes to pieces or rules, leading to creative and strategic gameplay. We present one challenging example, and a video lesson in problem solving from a true master. There is a lot to learn and to enjoy.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-did-this-position-arise",
+         "pubDate" : "Mon, 11 Dec 2023 11:55:00",
+         "title" : "How did this position arise?"
+      },
+      {
          "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,28 +66,12 @@ news_feed (
          "title" : "Gashimov Memorial - Live!"
       },
       {
-         "description" : "The second part of the ChessBase India winter solving contest contained problems in different chess variants that involve deviation from the standard rules. This can involve finding ways to reconstruct a given position, or changes to pieces or rules, leading to creative and strategic gameplay. We present one challenging example, and a video lesson in problem solving from a true master. There is a lot to learn and to enjoy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-did-this-position-arise",
-         "pubDate" : "Mon, 11 Dec 2023 10:56:50",
-         "title" : "How did this position arise?"
-      },
-      {
          "description" : " <p class=\"lead\">The UK government's proposed &pound;1 million investment in chess is coming at the right time according to a YouGov poll, conducted in association with World Chess and it.com Domains, which shows an extensive decline in chess club memberships. Only 6% of those who continue to play either regularly or within the past 12 months have a chess club member in the UK, whilst 41.2% have historically been a chess club member, but have left over time. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>UK player numbers static</h2> The decline in membership of the traditional chess club correlates to the as",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/rise-of-online-chess-platforms-sees-a-41-decline-in-uk-chess-clu/",
          "pubDate" : "Mon, 11 Dec 2023 08:34:03",
          "title" : "Rise of online chess platforms sees a 41% decline in UK chess club membership"
-      },
-      {
-         "description" : "Chidobe Awuzie, the Cincinnati Bengals cornerback and all round good guy, is working with Chess.com and Big Brothers, Big Sisters of Greater Cincinnati to host a special chess workshop for kids this holiday season. The 28-year-old professional f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chidobe-awuzie-hosts-holidays-chess-workshop-for-kids",
-         "pubDate" : "Mon, 11 Dec 2023 08:05:00",
-         "title" : "Chidobe Awuzie Shares His Game Plan: Bengals Star Hosts Chess Workshop For Kids"
       },
       {
          "description" : "All India Chess Federation wishes a very happy birthday to the legend of Indian Chess!!",
@@ -328,22 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-rapid-day-1",
          "pubDate" : "Fri, 08 Dec 2023 17:14:00",
          "title" : "Abasov Takes Early Lead With Wins vs. Rapport, Gelfand"
-      },
-      {
-         "description" : "In painting, each style has distinctly recognizable characteristics in form, color, light, and technique. The subjects of paintings are a reflection of their respective times. The series Chess Art on cards.chessbase.com, depicts all chess pieces in 14 different paintic styles. Take a look at the pictures, and become an art connoisseur in no time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/Chess-Art-Series",
-         "pubDate" : "Fri, 08 Dec 2023 17:10:00",
-         "title" : "Fritz 19 presents Chess Art"
-      },
-      {
-         "description" : "In the new episode of his Fast & Furious show, Robert Ris analyses Gukesh's win against Volokitin from the Chess Classic in London - an instructive game and maybe a crucial win for Gukesh who still has chances to qualify for the Candidates. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-gukesh-strikes",
-         "pubDate" : "Fri, 08 Dec 2023 17:05:16",
-         "title" : "Robert Ris' Fast and Furious: Gukesh strikes!"
       },
       {
          "description" : "A 1750-rated reader recently told me: A small comment to my GM Coach about not fully understanding the French turned into 13 Training sessions on every detail in the French opening, 95% of which I never saw and will probably never see.\" In a World of Abundance, more is not always better. With Limited time, your Goal should be \"Less but Better.\" This is a common appearance in Chess nowadays: a stronger player teaches a weaker player way too many lines about an opening. In this Newsletter, I...",
@@ -616,6 +608,14 @@ news_feed (
          "link" : "https://aicf.in/link-for-live-games-of-36th-national-under-13-open-girls-chess-championships-2023/",
          "pubDate" : "Mon, 04 Dec 2023 07:13:06",
          "title" : "Link for LIVE GAMES of 36th National Under - 13 Open & Girls Chess Championships 2023"
+      },
+      {
+         "description" : "IM Shreyas Royal played like a veteran grandmaster as he defeated world number-40 GM Amin Tabatabaei in round three of the 2023 London Chess Classic. It was a wild day, as all three players who had won a day earlier slipped to defeat, while GMs Gu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-3",
+         "pubDate" : "Sun, 03 Dec 2023 17:19:00",
+         "title" : "14-Year-Old Royal Beats Grandmaster; Gukesh, Adams Extend Lead"
       },
       {
          "description" : "After so many years of following <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I've learned that eBay auctions follow seasonal trends. For example, the months preceeding the year-end holidays generally have more items than the months following the holidays <P> This year is no exception and my short list for this post had a dozen items, any one of which could have been featured for the post. By coincidence, the three most expensive items on the list were all related to the 1972 Fischer - Spassky match. Two of those items are pictured below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa",
@@ -1184,14 +1184,6 @@ news_feed (
          "link" : "https://aicf.in/36th-national-u-09-certificates/",
          "pubDate" : "Tue, 21 Nov 2023 09:24:48",
          "title" : "36th National U-09 Certificates"
-      },
-      {
-         "description" : " The 24th European Team Chess Championship took place in Budva, Montenegro 11th to 21st November 2023. The biennial event has 38 teams, Azerbaijan, Romania, Germany, England and Armenia are the top seed. Leading players including Magnus Carlsen, Richard Rapport, Teimour Radjabov, Shakhriyar Mamedyarov, Vincent Keymer, Nikita Vitiugov (now playing for England), Haik M. Martirosyan, Bogdan-Daniel Deac,, Jorden Van Foreest and David Navrara. 32 Nations headed by Georgia, Azerbaijan and Germany competed in the women's event alongside. 10th seeded Serbia beat England in Round 8 and then Greece in the final Round to take the title ahead of Germany by a single board on board count. Armenia beat Eng",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/24th-european-team-chess-championship-2023",
-         "pubDate" : "Mon, 20 Nov 2023 20:56:00",
-         "title" : "24th European Team Chess Championship 2023 - Games and Results"
       }
    ]
 }
