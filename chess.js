@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "&#8212; from Chess.com GM Michael Adams said it was probably his best-ever result to win the London Chess Classic 2023 at the age of 52....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/lcc-adams-wins-with-best-ever-result-royal-makes-second-gm-norm/",
+         "pubDate" : "Tue, 12 Dec 2023 09:05:33",
+         "title" : "LCC - Adams wins with 'Best Ever Result', Royal makes second GM Norm"
+      },
+      {
          "description" : "Passed pawns can be powerful. The diagram shows a position from a game Alexander Grischuk played against Yu Yangyi at the Tech Mahindra Global Chess League event. It is White to move, and do you see how Grischuk can use his powerful pawns?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grischuk-s-powerful-pawns",
          "pubDate" : "Tue, 12 Dec 2023 09:00:00",
          "title" : "Grischuk's powerful pawns"
+      },
+      {
+         "description" : "3Cs Chess Club have once again been given national recognition, with the club's founder Steve Rigby having secured a &#8216;Points of Light' award, a national...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/national-honour-3cs-chess-club/",
+         "pubDate" : "Tue, 12 Dec 2023 08:45:08",
+         "title" : "National Honour - 3Cs Chess Club"
       },
       {
          "description" : "Ivan Sokolov has risen to the ranks of the top coaches since the team of Uzbekistan, which he coached, won gold at the the Chess Olympiad in Chennai 2022. In his Fritztrainer series \"Understanding Middlegame Strategies\", Sokolov regularly shares his grandmaster knowledge and shows what to do in a large variety of positions and structures. Hannes Langrock had a look at Sokolov's course on the Catalan.",
@@ -24,6 +40,22 @@ news_feed (
          "link" : "https://aicf.in/commonwealth-chess-championship-2023-24/",
          "pubDate" : "Tue, 12 Dec 2023 07:37:23",
          "title" : "Commonwealth Chess Championship - 2023 - 24"
+      },
+      {
+         "description" : "The race to the Candidates intensifies as India&#39;s chess capital will host Chennai Grand Masters from December 15 to 21, marking the strongest classical tournament in the nation&#39;s history. For three of the players it will be all about making it to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/indias-strongest-ever-round-robin-gukesh-erigaisi-candidates-hope-alive",
+         "pubDate" : "Tue, 12 Dec 2023 03:41:00",
+         "title" : "Candidates Race: Gukesh, Erigaisi Get Final Chance In Last-Minute Super Tournament"
+      },
+      {
+         "description" : "One is the greatest chess player of his generation, perhaps of all time, and the other is the greatest football strategist of his generation&#38;mdash;perhaps also of all time. This was the moment Norway&#39;s chess superstar GM Magnus Carlsen met face-...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/when-magnus-carlsen-met-pep-guardiola",
+         "pubDate" : "Tue, 12 Dec 2023 02:30:11",
+         "title" : "Two Geniuses Together: When Magnus Carlsen Met Pep Guardiola"
       },
       {
          "description" : "After finishing the rapid section in shared second place, Vidit Gujrathi tied for first in the blitz to claim overall first place at the Gashimov Memorial. Vidit managed to keep his &frac12;-point lead over Arjun Erigaisi by winning his final game in Gabala - Arjun also scored a full point in the 18th round of blitz and grabbed clear second place. Richard Rapport, who had struggled in the rapid but obtained as many points as Vidit in the blitz, finished third. | Photo: Mukhtar Ahmad",
@@ -46,11 +78,11 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-blitz-day-4",
-         "pubDate" : "Mon, 11 Dec 2023 20:27:04",
+         "pubDate" : "Mon, 11 Dec 2023 20:27:00",
          "title" : "Vidit Wins Overall, Rapport Ties For 1st In Blitz"
       },
       {
-         "description" : "Defending champion GM Wesley So continued his unbeaten run at the 2023 Champions Chess Tour Finals with his most impressive day yet, scoring match wins over GMs Magnus Carlsen and Nodirbek Abdusattorov. GM Maxime Vachier-Lagrave secured his firs...",
+         "description" : "GM Wesley So continued his unbeaten run at the 2023 Champions Chess Tour Finals with his most impressive day yet, scoring match wins over GMs Magnus Carlsen and Nodirbek Abdusattorov. GM Maxime Vachier-Lagrave secured his first match win in an a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-day-3",
@@ -72,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
          "pubDate" : "Mon, 11 Dec 2023 17:50:00",
          "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "At the end of last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html\">Elon Musk and Squirrels</A> (December 2023), I asked, <BLOCKQUOTE> Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wants to do. </BLOCKQUOTE> <P> While I've learned a few tricks in the week since that post, the whole process is still too much like herding cats. For this post, I used the tool to see how well it drew World Champions, both past and present. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl11.jpg\" WIDTH=334 HEIGHT=400><BR> <B",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/fischer-vs-carlsen.html",
+         "pubDate" : "Mon, 11 Dec 2023 16:30:00",
+         "title" : "Fischer vs. Carlsen"
       },
       {
          "description" : "Magnus Carlsen defeated two of his strongest rivals on Sunday to keep his perfect score at the Champions Chess Tour Finals. The former world champion defeated Fabiano Caruana and Hikaru Nakamura in consecutive rounds. Joining him in the lead is Wesley So, who got the better of Maxime Vachier-Lagrave and Alireza Firouzja. | Photo: chess.com / Thomas Tischio",
@@ -600,22 +640,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2024-official-invitation/",
          "pubDate" : "Mon, 04 Dec 2023 09:07:43",
          "title" : "European School Chess Championship 2024 - Official invitation"
-      },
-      {
-         "description" : "It&#39;s finally here. The biggest names in chess will be facing each other in one of the year&#39;s most prestigious events: the Finals of the 2023 Champions Chess Tour. A full season of chess tournaments has culminated in this showdown, as GMs Magnus Ca...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cct-finals-prediction-contest",
-         "pubDate" : "Mon, 04 Dec 2023 09:04:00",
-         "title" : "Don't Miss Chess.com's Biggest Prediction Contest Of The Year"
-      },
-      {
-         "description" : "Big news! IM Danny Rensch&#39;s iconic &#39;Everything You Need To Know&#39; series is now available on Chessable for free. The original videos have been viewed on YouTube over six million times since their release, and have now been re-recorded and optimized...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/im-danny-rensch-releases-new-chessable-course-for-beginners",
-         "pubDate" : "Mon, 04 Dec 2023 08:47:45",
-         "title" : "IM Danny Rensch Releases New Chessable Course For Beginners"
       },
       {
          "description" : "Please find live link here Open :&#160;https://view.livechesscloud.com/#d1424a3d-d782-4bef-b664-15f8e4ef1a58 Girls :&#160;https://view.livechesscloud.com/#d74201d5-6448-49aa-a6d4-798b058bc230",
@@ -1168,22 +1192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/sharp-lines-watch-your-fingers.html",
          "pubDate" : "Tue, 21 Nov 2023 12:55:00",
          "title" : "Sharp lines, watch your fingers"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2752",
-         "pubDate" : "Tue, 21 Nov 2023 11:55:29",
-         "title" : "European Team Championship 2023: Serbia and Bulgaria win titles"
-      },
-      {
-         "description" : "Congratulations to WIM Lan Yao, who has secured a Bronze board medal at the European Team Chess Championship 2023 on board two. In addition she...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bronze-medal-and-norms-for-lan-yao/",
-         "pubDate" : "Tue, 21 Nov 2023 11:43:20",
-         "title" : "Bronze medal and norms for Lan Yao!"
       }
    ]
 }
