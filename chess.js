@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Passed pawns can be powerful. The diagram shows a position from a game Alexander Grischuk played against Yu Yangyi at the Tech Mahindra Global Chess League event. It is White to move, and do you see how Grischuk can use his powerful pawns?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grischuk-s-powerful-pawns",
+         "pubDate" : "Tue, 12 Dec 2023 09:00:00",
+         "title" : "Grischuk's powerful pawns"
+      },
+      {
+         "description" : "Ivan Sokolov has risen to the ranks of the top coaches since the team of Uzbekistan, which he coached, won gold at the the Chess Olympiad in Chennai 2022. In his Fritztrainer series \"Understanding Middlegame Strategies\", Sokolov regularly shares his grandmaster knowledge and shows what to do in a large variety of positions and structures. Hannes Langrock had a look at Sokolov's course on the Catalan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-ivan-sokolov-understanding-middlegame-strategies-vol-7-dynamic-catalan",
+         "pubDate" : "Tue, 12 Dec 2023 08:00:00",
+         "title" : "Review: Ivan Sokolov: Understanding Middlegame Strategies Vol.7 - Dynamic Catalan"
+      },
+      {
+         "description" : "Historical City of Melaka, Malaysia 19th to 28th February, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/commonwealth-chess-championship-2023-24/",
+         "pubDate" : "Tue, 12 Dec 2023 07:37:23",
+         "title" : "Commonwealth Chess Championship - 2023 - 24"
+      },
+      {
          "description" : "After finishing the rapid section in shared second place, Vidit Gujrathi tied for first in the blitz to claim overall first place at the Gashimov Memorial. Vidit managed to keep his &frac12;-point lead over Arjun Erigaisi by winning his final game in Gabala - Arjun also scored a full point in the 18th round of blitz and grabbed clear second place. Richard Rapport, who had struggled in the rapid but obtained as many points as Vidit in the blitz, finished third. | Photo: Mukhtar Ahmad",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-masters-2023-a-chance-to-qualify-for-the-candidates",
          "pubDate" : "Mon, 11 Dec 2023 23:30:00",
          "title" : "Chennai Masters 2023 - A chance to qualify for the Candidates"
+      },
+      {
+         "description" : "With a compelling finish in the blitz segment, GM Vidit Gujrathi won the Vugar Gashimov Memorial 2023 on Monday. After a rocky start, Vidit scored an undefeated 9/11 to tie for first in blitz and clinch the overall tournament.&#38;nbsp; GM&#38;nbsp;Arju...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-blitz-day-4",
+         "pubDate" : "Mon, 11 Dec 2023 20:27:04",
+         "title" : "Vidit Wins Overall, Rapport Ties For 1st In Blitz"
       },
       {
          "description" : "Defending champion GM Wesley So continued his unbeaten run at the 2023 Champions Chess Tour Finals with his most impressive day yet, scoring match wins over GMs Magnus Carlsen and Nodirbek Abdusattorov. GM Maxime Vachier-Lagrave secured his firs...",
@@ -296,22 +328,6 @@ news_feed (
          "link" : "https://www.thearticle.com/we-play-the-game-of-war/",
          "pubDate" : "Sat, 09 Dec 2023 11:18:50",
          "title" : "We play the game of war"
-      },
-      {
-         "description" : "In the diagram position, White wins by activating his queen in a way worth seeing - beware of seduction!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/queens-and-dark-squares",
-         "pubDate" : "Sat, 09 Dec 2023 09:00:00",
-         "title" : "Queens and dark squares"
-      },
-      {
-         "description" : "The first three rounds of rapid chess at the Gashimov Memorial ended with Nijat Abasov as the sole leader in the standings. Abasov, who is likely to play in the Candidates Tournament next year, beat Boris Gelfand and Richard Rapport in consecutive rounds to finish the day with 5/6 points (wins are worth 2 points in the rapid section). Sharing second place on 4/6 scores are Vidit Gujrathi, Arjun Erigaisi and Rauf Mamedov. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-d1",
-         "pubDate" : "Sat, 09 Dec 2023 00:35:00",
-         "title" : "Gashimov Memorial: Abasov beats Gelfand and Rapport, leads"
       },
       {
          "description" : " The Champions Chess Tour Final takes place in Toronto, Canada 9th to 16th. The mostly online tour will have it's final in Toronto. Magnus Carlsen, Denis Lazavik, Nodirbek Abdusattorov, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Hikaru Nakamura and Wesley So. There will be a round robin stage of mini-matches. The top two make the knockout phase, 3rd-6th enter a survival stage double elimination stage to find two players. Then there will be a straight knockout to determine the winner.",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/im-danny-rensch-releases-new-chessable-course-for-beginners",
          "pubDate" : "Mon, 04 Dec 2023 08:47:45",
          "title" : "IM Danny Rensch Releases New Chessable Course For Beginners"
-      },
-      {
-         "description" : "GM Magnus Carlsen says it&#39;s a dream come true to be holding the first ever classical Fischer-Random super-tournament, which will take place at a luxury resort on Germany&#39;s Baltic coast in February and feature eight of the world&#39;s top players. Fr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-ding-caruana-in-new-200-000-fischer-random-event",
-         "pubDate" : "Mon, 04 Dec 2023 08:45:00",
-         "title" : "Carlsen, Ding, Caruana In New $200,000 Classical Fischer-Random Event"
       },
       {
          "description" : "Please find live link here Open :&#160;https://view.livechesscloud.com/#d1424a3d-d782-4bef-b664-15f8e4ef1a58 Girls :&#160;https://view.livechesscloud.com/#d74201d5-6448-49aa-a6d4-798b058bc230",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bronze-medal-and-norms-for-lan-yao/",
          "pubDate" : "Tue, 21 Nov 2023 11:43:20",
          "title" : "Bronze medal and norms for Lan Yao!"
-      },
-      {
-         "description" : "36th National Under-09 Open &#38; Girls Chess Championship 2023 certificates are out to download. Open : https://aicf.online/National-09.html Girls : https://aicf.online/National-09-G.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/36th-national-u-09-certificates/",
-         "pubDate" : "Tue, 21 Nov 2023 09:24:48",
-         "title" : "36th National U-09 Certificates"
       }
    ]
 }
