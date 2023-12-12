@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2792",
+         "pubDate" : "Tue, 12 Dec 2023 20:21:28",
+         "title" : "FIDE GA 2023 List of Delegates and Constitutional Commission report published"
+      },
+      {
+         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
+         "pubDate" : "Tue, 12 Dec 2023 17:50:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
          "description" : "Wesley So beat Magnus Carlsen and Nodirbek Abdusattorov to keep a perfect score of 6 wins in 6 matches at the Champions Chess Tour Finals in Toronto. Carlsen (5 points) has also secured a ticket to the semifinals, while Hikaru Nakamura (1) and Denis Lazavik (1), who face each other in round 7, will need a couple of results to go their way if they want to reach the 'survival stage'. | Photo: chess.com / Thomas Tischio",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -78,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/when-magnus-carlsen-met-pep-guardiola",
-         "pubDate" : "Tue, 12 Dec 2023 02:30:11",
+         "pubDate" : "Tue, 12 Dec 2023 02:30:00",
          "title" : "Two Geniuses Together: When Magnus Carlsen Met Pep Guardiola"
       },
       {
@@ -352,14 +368,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-rr-day-1",
          "pubDate" : "Sat, 09 Dec 2023 15:24:00",
          "title" : "Caruana Is King Of Armageddon On Day 1, Leads With Carlsen, Wesley So"
-      },
-      {
-         "description" : "On Wednesday, the Alef Super Stars 2023, a 4-player multi-format tournament featuring grandmasters Yu Yangyi, Sanan Sjugirov, Nihal Sarin and Saleh Salem, came to an end. Yu finished first in the overall standings. Nihal, who was the top scorer in the blitz portion, grabbed second place. | Photos: Sharjah Chess Club and Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alef-super-stars-2023-final-report",
-         "pubDate" : "Sat, 09 Dec 2023 14:50:00",
-         "title" : "Yu Yangyi wins Alef Super Stars tournament in Sharjah"
       },
       {
          "description" : "GMs Arjun Erigaisi, Nijat Abasov, and Aydin Suleymanli emerged as joint leaders with seven points out of a maximum of 12 after six rounds of the Vugar Gashimov Memorial 2023 being held at Gabala, Azerbaijan, on Saturday. In a typically exciting da...",
