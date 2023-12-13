@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
+         "pubDate" : "Wed, 13 Dec 2023 17:50:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has deliberated on Magnus Carlsen's withdrawal from the Sinquefield Cup following his defeat to Hans Niemann in September 2022 and has now reached a verdict. Carlsen has been fined 10,000 euros for his unjustified withdrawal. | Photo: Saint Louis Chess Center",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ethics-commission-fines-carlsen-10-000-euros",
+         "pubDate" : "Wed, 13 Dec 2023 17:31:43",
+         "title" : "FIDE Ethics Commission fines Carlsen 10,000 euros"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -78,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-finds-carlsen-not-guilty-in-niemann-case-fined-10-000-for-withdrawal",
-         "pubDate" : "Wed, 13 Dec 2023 08:23:23",
+         "pubDate" : "Wed, 13 Dec 2023 08:23:00",
          "title" : "Carlsen Not Guilty On 3/4 Counts In Niemann Ruling, Fined €10,000 For Withdrawal"
       },
       {
@@ -362,14 +378,6 @@ news_feed (
          "title" : "Italian Championship 2023: Moroni and Zimina defend titles"
       },
       {
-         "description" : "With one round to go, Michael Adams continues to be the sole leader at the London Chess Classic. Saturday's round saw Adams holding Luke McShane to a draw with black, while chasers Gukesh and Amin Tabatabaei also split the point in their direct encounter. Two hard-fought encounters did finish decisively, though, as 14-year-old Shreyas Royal turned the tables in his game against Jules Moussard, and Andrei Volokitin got the better of the adventurous Matuesz Bartel. | Photo: Tao Bhokanandh",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r8",
-         "pubDate" : "Sun, 10 Dec 2023 14:00:00",
-         "title" : "London Classic: Royal stuns Moussard"
-      },
-      {
          "description" : "GM Michael Adams said it was probably his best-ever result to win the London Chess Classic 2023 at the age of 52. He clinched the title with a draw against the future of English chess, 14-year-old IM Shreyas Royal, who described himself as &#34;really...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -408,14 +416,6 @@ news_feed (
          "link" : "https://aicf.in/fair-play-orientation-workshop-qualified-participants/",
          "pubDate" : "Sun, 10 Dec 2023 09:05:21",
          "title" : "Fair Play Orientation Workshop : Qualified Participants"
-      },
-      {
-         "description" : "Three players grabbed back-to-back wins in the first two rounds of the Champions Chess Tour Finals: Magnus Carlsen, Wesley So and Fabiano Caruana, with Caruana prevailing twice in Armageddon to end the day sharing the lead. Notably, one of the three players who lost his first two matches is Hikaru Nakamura, who celebrated his 36th birthday on Saturday. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d1",
-         "pubDate" : "Sun, 10 Dec 2023 07:15:00",
-         "title" : "CCT Finals: So, Carlsen and Caruana start strong"
       },
       {
          "description" : "",
@@ -1192,14 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2756",
          "pubDate" : "Wed, 22 Nov 2023 20:15:47",
          "title" : "Hou Yifan wins second WSCC title"
-      },
-      {
-         "description" : "The 2023 edition of the historical chess event Tournament of Peace kicked off today in Zagreb, Croatia. It is a 10-player round-robin tournament, taking place from 22 to 30 November in the National and University Library. GM Anton Korobov (UKR, 2667) headlines the participants list this year, followed by GM Hans Niemann (USA, 2659), GM Vasyl Ivanchuk (UKR, 2653), GM Ivan Cheparinov (BUL, 2649), GM Ante Brkic (CRO, 2622), GM Alexander Motylev (ROU, 2619), GM Ivan Sokolov (NED, 2588), GM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/tournament-of-peace-2023-kicked-off-in-zagreb/",
-         "pubDate" : "Wed, 22 Nov 2023 16:43:33",
-         "title" : "Tournament of Peace 2023 kicked off in Zagreb"
       }
    ]
 }
