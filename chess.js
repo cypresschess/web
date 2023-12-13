@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2793",
+         "pubDate" : "Tue, 12 Dec 2023 20:39:50",
+         "title" : "FIDE President visits North and West African countries"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2792",
          "pubDate" : "Tue, 12 Dec 2023 20:21:28",
          "title" : "FIDE GA 2023 List of Delegates and Constitutional Commission report published"
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
          "pubDate" : "Tue, 12 Dec 2023 17:50:00",
          "title" : "Champions Chess Tour Finals - Live!"
-      },
-      {
-         "description" : "Wesley So beat Magnus Carlsen and Nodirbek Abdusattorov to keep a perfect score of 6 wins in 6 matches at the Champions Chess Tour Finals in Toronto. Carlsen (5 points) has also secured a ticket to the semifinals, while Hikaru Nakamura (1) and Denis Lazavik (1), who face each other in round 7, will need a couple of results to go their way if they want to reach the 'survival stage'. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d3",
-         "pubDate" : "Tue, 12 Dec 2023 16:50:00",
-         "title" : "CCT Finals: So still perfect, Naka in trouble"
       },
       {
          "description" : "Magnus Carlsen is the world number one chess player and Pep Guardiola is regarded as one of the best football coaches in the world who has changed the way football is played and thought about. Guardiola has celebrated numerous national and international successes with FC Barcelona, Bayern Munich and Manchester City. In a revealing conversation organised by PUMA, Carlsen and Guardiola talked about the similarities between football and chess and gave insights into their strategies and tricks.",
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grischuk-s-powerful-pawns",
          "pubDate" : "Tue, 12 Dec 2023 09:00:00",
          "title" : "Grischuk's powerful pawns"
+      },
+      {
+         "description" : "Wesley So beat Magnus Carlsen and Nodirbek Abdusattorov to keep a perfect score of 6 wins in 6 matches at the Champions Chess Tour Finals in Toronto. Carlsen (5 points) has also secured a ticket to the semifinals, while Hikaru Nakamura (1) and Denis Lazavik (1), who face each other in round 7, will need a couple of results to go their way if they want to reach the 'survival stage'. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d3",
+         "pubDate" : "Tue, 12 Dec 2023 08:50:00",
+         "title" : "CCT Finals: So still perfect, Naka in trouble"
       },
       {
          "description" : "3Cs Chess Club have once again been given national recognition, with the club's founder Steve Rigby having secured a &#8216;Points of Light' award, a national...",
@@ -1160,30 +1168,6 @@ news_feed (
          "link" : "https://aicf.in/round-8-report-of-world-youth-chess-championship-italy-2023/",
          "pubDate" : "Wed, 22 Nov 2023 11:12:45",
          "title" : "Round 8 report of World Youth Chess Championship, Italy 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2755",
-         "pubDate" : "Tue, 21 Nov 2023 23:37:30",
-         "title" : "World Youth Championship 2023: Fierce contest with three rounds to go"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2754",
-         "pubDate" : "Tue, 21 Nov 2023 22:51:17",
-         "title" : "WSCC 2023: Hou Yifan and Harika Dronavalli to clash the final"
-      },
-      {
-         "description" : "The European Team Chess Championship 2023 concluded yesterday evening in Budva, Montenegro after 10 days of intense chess battles. The last round determined the medalists, and the very last game of the tournament determined the Winner of the Open section. The Closing ceremony of the event took place yesterday evening with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice Presidents Mr. Alojzije Jankovic and Mr. Gunnar Bjornsson, ECU Honorary Vice President and the Vice President of the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/serbia-and-bulgaria-claim-european-team-open-and-womens-chess-championships-2023/",
-         "pubDate" : "Tue, 21 Nov 2023 21:36:02",
-         "title" : "Serbia and Bulgaria claim European Team Open and Women's Chess Championships 2023"
       }
    ]
 }
