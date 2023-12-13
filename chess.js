@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "36th National Under-13 Open &#38; Girls Chess Championship Certificates Available to download Open: Click Here! Girls: Click Here! Any Correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-u-13-certificates/",
+         "pubDate" : "Wed, 13 Dec 2023 08:08:30",
+         "title" : "National U-13 Certificates"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1160,14 +1168,6 @@ news_feed (
          "link" : "https://www.europechess.org/tournament-of-peace-2023-kicked-off-in-zagreb/",
          "pubDate" : "Wed, 22 Nov 2023 16:43:33",
          "title" : "Tournament of Peace 2023 kicked off in Zagreb"
-      },
-      {
-         "description" : "U18 Open: India had a poor day in terms of the results of the 8th Round of the World Youth Chess Championship here in Motesilvano,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-8-report-of-world-youth-chess-championship-italy-2023/",
-         "pubDate" : "Wed, 22 Nov 2023 11:12:45",
-         "title" : "Round 8 report of World Youth Chess Championship, Italy 2023"
       }
    ]
 }
