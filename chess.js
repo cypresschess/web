@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2795",
+         "pubDate" : "Wed, 13 Dec 2023 13:32:19",
+         "title" : "Decision on the Magnus Carlsen / Hans Niemann case"
+      },
+      {
+         "description" : "Fabiano Caruana and Nodirbek Abdusattorov advanced to the semifinals of the Champions Chess Tour Finals after going through the 'survival stage' on Tuesday. The two players who were knocked out of the competition in this stage were Maxime Vachier-Lagrave and Hikaru Nakamura, with the latter coming inches away from reaching the semis via the longest path. The U.S. star would have needed to win three matches on a single day - he beat Denis Lazavik and MVL before losing in Armageddon to Abdusattorov. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d4",
+         "pubDate" : "Wed, 13 Dec 2023 13:25:00",
+         "title" : "CCT Finals: Abdusattorov and Caruana survive"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2794",
+         "pubDate" : "Wed, 13 Dec 2023 13:01:09",
+         "title" : "Everything ready for the start of World Rapid and Blitz in Samarkand"
+      },
+      {
+         "description" : " I once read that Capablanca described the ideal chess game as one where a player played positionally correct moves, forced the win of material, and won with the last remaining pawn on the board. While I'm not convinced that all moves were positionally correct, it at least fulfilled the last of Capablanca's conditions. <br /> <b>Cheng,Larry - Press,Shaun [D03]</b><br /> Swiss Festive Fun --- (6), 12.12.2023 <script> new PgnViewer( { boardName: \"game1434\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.e3 d5 5.Bd3 Ne4 6.Bh4 c5 7.c3 cxd4 8.exd4 O-O 9.Nbd2 Bf5 10.Qc2 Nxd2 11.Qxd2 Bxd3 12.Qxd3 Nc6 13.O-O Qb6 14.Qe2 e6 15.Rfe1 Rac8 16.Rab1 Rfe8 17.Qd2 Na5 18.Qf4 Qc7 19.Qxc7 Rxc7",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/an-ideal-game.html",
+         "pubDate" : "Wed, 13 Dec 2023 12:43:00",
+         "title" : "An ideal game?"
+      },
+      {
          "description" : "The Sicilian Najdorf is one of the most aggressive answers to 1.e4, and its theory develops dynamically - the young German grandmaster Luis Engel brings all aficionados up to date with his two-volume Fritztrainer course. Christian H&ouml;the had a look at the course and is enthusiastic.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +74,14 @@ news_feed (
          "title" : "European Rapid and Blitz Chess Championship 2023 starts in Zagreb"
       },
       {
+         "description" : "GM Magnus Carlsen has been declared not guilty of three charges brought against him by FIDE&#39;s Ethics &#38;amp; Disciplinary Commission following the 2022 Sinquefield Cup, but he was fined for &#34;withdrawing without a valid reason&#34;. The long-awaited ve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-finds-carlsen-not-guilty-in-niemann-case-fined-10-000-for-withdrawal",
+         "pubDate" : "Wed, 13 Dec 2023 08:23:23",
+         "title" : "Carlsen Not Guilty On 3/4 Counts In Niemann Ruling, Fined €10,000 For Withdrawal"
+      },
+      {
          "description" : "36th National Under-13 Open &#38; Girls Chess Championship Certificates Available to download Open: Click Here! Girls: Click Here! Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2792",
          "pubDate" : "Tue, 12 Dec 2023 20:21:28",
          "title" : "FIDE GA 2023 List of Delegates and Constitutional Commission report published"
-      },
-      {
-         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
-         "pubDate" : "Tue, 12 Dec 2023 17:50:00",
-         "title" : "Champions Chess Tour Finals - Live!"
       },
       {
          "description" : "Half the field of eight players was eliminated on day four of the 2023 Champions Chess Tour Finals. GMs Alireza Firouzja and Denis Lazavik exited in the round-robin, while GMs Maxime Vachier-Lagrave and Hikaru Nakamura bid goodbye in the Survival ...",
@@ -138,7 +170,7 @@ news_feed (
          "title" : "Commonwealth Chess Championship - 2023 - 24"
       },
       {
-         "description" : "Wise men speak because they have something to say, the philosopher Plato famously said, and when it comes to chess, few players are wiser than GM Viswanathan Anand. The Indian legend reminded the world of that yet again on Monday, his 54th birth...",
+         "description" : "Wise men speak because they have something to say, the philosopher Plato famously said, and when it comes to chess, few are wiser than GM Viswanathan Anand. The Indian legend reminded the world of that yet again on Monday, his 54th birthday, whe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-legend-vishy-anand-offers-nugget-of-wisdom-on-54th-birthday",
@@ -616,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-5",
          "pubDate" : "Tue, 05 Dec 2023 15:15:33",
          "title" : "Bartel Grabs Only Win As Adams Lets Gukesh Off Hook"
-      },
-      {
-         "description" : "GM Leinier Dominguez made a sudden entry into the Candidates race. Now FIDE has responded to the criticism after their clarification of the rules drew reactions from the chess community. With less than a month left in 2023, the race to the Candi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-fide-clarifications-on-candidates-draws-reactions",
-         "pubDate" : "Tue, 05 Dec 2023 12:25:00",
-         "title" : "FIDE Clarification On Candidates Race Draws Reactions"
       },
       {
          "description" : " This game was played in the final round of a recent Street Chess event. I'm not sure of the provenance of 8.Qd2 (due to a broken Chessbase database), but after move 11, White was well ahead. The only difficult question seemed to be the timing of the sacrifice on h6. <br /> <b>Press,Harry - Li,Hui [D55]</b><br /> Street Chess (7), 02.12.2023 <script> new PgnViewer( { boardName: \"game1431\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.Nf3 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 c6 9.h4 Nd7 10.g4 dxc4 11.g5 hxg5 12.hxg5 Bxg5 13.Bxc4 b5 14.Bd3 Bh6 15.O-O-O Re8 16.Rdg1 Kf8 17.Ne4 Nf6 18.Ne5 Nxe4 19.Bxe4 Bb7 20.Rxh6 gxh6 21.Qb4+ Qe7 22.Nd7# 1-0', pauseBetweenMoves: 500, pieceSiz",
