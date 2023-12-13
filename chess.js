@@ -26,6 +26,14 @@ news_feed (
          "title" : "Champions Chess Tour Finals - Live!"
       },
       {
+         "description" : "Half the field of eight players was eliminated on day four of the 2023 Champions Chess Tour Finals. GMs Alireza Firouzja and Denis Lazavik exited in the round-robin, while GMs Maxime Vachier-Lagrave and Hikaru Nakamura bid goodbye in the Survival ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-survival-stage",
+         "pubDate" : "Tue, 12 Dec 2023 16:28:00",
+         "title" : "Comeback Kid Abdusattorov Knocks Out Nakamura"
+      },
+      {
          "description" : "Magnus Carlsen is the world number one chess player and Pep Guardiola is regarded as one of the best football coaches in the world who has changed the way football is played and thought about. Guardiola has celebrated numerous national and international successes with FC Barcelona, Bayern Munich and Manchester City. In a revealing conversation organised by PUMA, Carlsen and Guardiola talked about the similarities between football and chess and gave insights into their strategies and tricks.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -602,14 +610,6 @@ news_feed (
          "title" : "Invitation to the Inaugural FIDE TEC Vendor User Group Meeting"
       },
       {
-         "description" : "GM Hans Niemann sacrificed a knight and two rooks to beat IM Shreyas Royal in round four of the 2023 London Chess Classic before commenting, &#34;the sound of chess speaking overpowers jealousy.&#34; The day&#39;s other headline news was GM Gukesh Dommaraju b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-4",
-         "pubDate" : "Mon, 04 Dec 2023 17:11:00",
-         "title" : "Niemann Scores 1st Win, Gukesh Suffers Candidates Blow"
-      },
-      {
          "description" : "What do you get when you cross <A HREF=\"https://chessforallages.blogspot.com/2023/09/i-want-to-go-squirrel-hunting.html\">I Want To Go Squirrel Hunting</A> (September 2023), with <A HREF=\"https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html\">AI Chess Comics</A> (November 2023)? Something like this... <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl04.jpg\" WIDTH=337 HEIGHT=400><BR> <B>'Elon Musk plays chess with a squirrel.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> ...Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -770,7 +770,7 @@ news_feed (
          "title" : "How do you do it? Fabi Wins The #sinquefieldcup #grandchesstour 2023"
       },
       {
-         "description" : " The 13th London Classic takes place 1st to 10th December 2023. Play at 2pm each day. Rest day Wednesday December 6th. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal.",
+         "description" : " The 13th London Classic took place 1st to 10th December 2023. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal. Michael Adams scored his best result in many years by taking clear first place with 6/9.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/13th-london-classic-2023",
