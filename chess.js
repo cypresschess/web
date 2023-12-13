@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sicilian Najdorf is one of the most aggressive answers to 1.e4, and its theory develops dynamically - the young German grandmaster Luis Engel brings all aficionados up to date with his two-volume Fritztrainer course. Christian H&ouml;the had a look at the course and is enthusiastic.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-luis-engel-najdorf-a-dynamic-grandmaster-repertoire-against-1-e4",
+         "pubDate" : "Wed, 13 Dec 2023 11:37:54",
+         "title" : "Review: Luis Engel \"Najdorf: A dynamic grandmaster repertoire against 1. e4\""
+      },
+      {
+         "description" : "We are pleased to inform that TNSCA has already completed seven&#160;IM&#160;norm&#160;closed circuit tournaments successfully, achieving four&#160;IM&#160;norms&#160;and the eighth one is under progress at Erode. The",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/im-norm-tournament-tamil-nadu/",
+         "pubDate" : "Wed, 13 Dec 2023 10:42:54",
+         "title" : "IM Norm Tournaments Tamil Nadu"
+      },
+      {
+         "description" : "Indian Team is all set to start their campaign at Asian Youth Chess Championship 2023 at Ai AIN UAE from 12 -22 December 2023 .",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-youth-chess-championship-2023/",
+         "pubDate" : "Wed, 13 Dec 2023 09:20:57",
+         "title" : "Asian Youth Chess Championship 2023"
+      },
+      {
+         "description" : "AICF Secretary, Dr. Vipnesh Bhardwaj, had the honor of sharing a frame with the distinguished Hon'ble Prime Minister Narendra Modi at the prestigious Khelo India",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-secretarydr-vipnesh-bhardwaj-shared-the-frame-with-honble-pm-modi/",
+         "pubDate" : "Wed, 13 Dec 2023 09:01:56",
+         "title" : "AICF Secretary(Dr. Vipnesh Bhardwaj) Shared the Frame with Hon'ble PM Modi"
+      },
+      {
+         "description" : "The 2023 European Rapid and Blitz Chess Championship starts tomorrow in Zagreb, Croatia! Nearly 700 players coming from 41 European federations registered for the event, and the top seeds are: GM David Navara (CZE), GM Etienne Bacrot (FRA), GM Vasyl Ivanchuk (UKR), GM Baadur Jobava (GEO), GM Laurent Fressinet (FRA), GM Sabino Brunello (ITA), GM Alexey Sarana (SRB), GM Haik Martirosyan (ARM), GM Eltaj Safarli (AZE), GM Bogdan-Daniel Deac (ROU) etc. The highest rated Croatian grandmaster and European Chess Champion []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-starts-in-zagreb/",
+         "pubDate" : "Wed, 13 Dec 2023 08:55:06",
+         "title" : "European Rapid and Blitz Chess Championship 2023 starts in Zagreb"
+      },
+      {
          "description" : "36th National Under-13 Open &#38; Girls Chess Championship Certificates Available to download Open: Click Here! Girls: Click Here! Any Correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -344,14 +384,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cct-finals-2023-d1",
          "pubDate" : "Sun, 10 Dec 2023 07:15:00",
          "title" : "CCT Finals: So, Carlsen and Caruana start strong"
-      },
-      {
-         "description" : "No player has managed to remain undefeated after six rounds at the Gashimov Memorial in Gabala, Azerbaijan. Rounds 4-6 were played on Saturday and featured a number of entertaining encounters. Three players emerged as co-leaders, with Arjun Erigaisi and Aydin Suleymanli (pictured) joining early leader Nijat Abasov at the top of the standings, all with plus-one scores. A very closed competition, all remaining seven participants have either fifty-percent or minus-one scores. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-d2",
-         "pubDate" : "Sat, 09 Dec 2023 23:30:00",
-         "title" : "Gashimov Memorial: Arjun, Abasov and Suleymanli share the lead"
       },
       {
          "description" : "",
@@ -722,14 +754,6 @@ news_feed (
          "title" : "Knight errant: chess and the Elgin Marbles"
       },
       {
-         "description" : "All India Chess Federation holding it's AGM Meeting on upcoming 23rd December at Kanpur. Access further details by downloading the official Agenda. AGM Agenda :",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/agm-meeting-23rd-dec/",
-         "pubDate" : "Sat, 02 Dec 2023 07:35:04",
-         "title" : "AGM Meeting, 23rd DEC."
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-does-it-feel-after-all-fabi-wins-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/faHeCb-9KY8.jpg?itok=vWaNuXbH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1058,14 +1082,6 @@ news_feed (
          "title" : "2023 Sinquefield Cup: Day 4 Recap"
       },
       {
-         "description" : "Highlights of Performance of Indian Team Top 10 finish by Indian players i)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; G.Tejaswini finished on 4th place with a 8/11 score ii)&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; U 18",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-round-11-report-of-world-youth-chess-championship-italy-2023/",
-         "pubDate" : "Sat, 25 Nov 2023 05:27:31",
-         "title" : "Final Round 11 report of World Youth Chess Championship, Italy 2023"
-      },
-      {
          "description" : " Odafe Benedict Efemuai is a long way from the Delta State region of Nigeria. The 2016 Nigerian champion has found a new home in New York where he is a chess educator. Odafe's hometown gained the attention of major corporations after oil discovery in the 70s, and was in the news during the 90s. Unfortunately, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/24/odafe-efemuai-from-delta-state-to-new-york-state/\">Odafe Efemuai from Delta State to New York State</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/plan-2/",
          "pubDate" : "Fri, 24 Nov 2023 14:02:03",
          "title" : "Find A Plan In Any Position"
-      },
-      {
-         "description" : "U-18 Open &#160;&#160; IM PRANEETH Vappula &#160;after losing&#160; first and fourth round , scored five successive victories to catapult into &#160;joint&#160; third position (7 points).",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-9-reports-of-the-world-youth-chess-championship-italy-2023/",
-         "pubDate" : "Fri, 24 Nov 2023 12:03:45",
-         "title" : "ROUND# 9 Reports of the World Youth Chess Championship ,Italy 2023"
       },
       {
          "description" : "",
