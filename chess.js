@@ -66,6 +66,14 @@ news_feed (
          "title" : "IM Norm Tournaments Tamil Nadu"
       },
       {
+         "description" : "The Titled Tuesday of December 12 was somewhat overshadowed by the Champions Chess Tour (CCT) Finals, but GM Denis Lazavik brought the two events together by winning the late Titled Tuesday following his elimination from the CCT. The earlier Title...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-lazavik-win-titled-tuesday-december-12-2023",
+         "pubDate" : "Wed, 13 Dec 2023 10:13:15",
+         "title" : "No CCT, No Problem For Tuesday Winner"
+      },
+      {
          "description" : "Indian Team is all set to start their campaign at Asian Youth Chess Championship 2023 at Ai AIN UAE from 12 -22 December 2023 .",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -642,14 +650,6 @@ news_feed (
          "title" : "Drawing Combinations | Beginner Breakdown - NM Ralph Tan"
       },
       {
-         "description" : "GM Mateusz Bartel beat IM Shreyas Royal in round five of the&#38;nbsp;2023 London Chess Classic to move into a four-way tie for second place. The sole leader, half a point clear, remains GM Michael Adams, but the English star seemed to miss a huge cha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-5",
-         "pubDate" : "Tue, 05 Dec 2023 15:15:33",
-         "title" : "Bartel Grabs Only Win As Adams Lets Gukesh Off Hook"
-      },
-      {
          "description" : " This game was played in the final round of a recent Street Chess event. I'm not sure of the provenance of 8.Qd2 (due to a broken Chessbase database), but after move 11, White was well ahead. The only difficult question seemed to be the timing of the sacrifice on h6. <br /> <b>Press,Harry - Li,Hui [D55]</b><br /> Street Chess (7), 02.12.2023 <script> new PgnViewer( { boardName: \"game1431\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.Nf3 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 c6 9.h4 Nd7 10.g4 dxc4 11.g5 hxg5 12.hxg5 Bxg5 13.Bxc4 b5 14.Bd3 Bh6 15.O-O-O Re8 16.Rdg1 Kf8 17.Ne4 Nf6 18.Ne5 Nxe4 19.Bxe4 Bb7 20.Rxh6 gxh6 21.Qb4+ Qe7 22.Nd7# 1-0', pauseBetweenMoves: 500, pieceSiz",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1184,14 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2757",
          "pubDate" : "Thu, 23 Nov 2023 10:19:30",
          "title" : "2023 Sinquefield Cup: Day 2 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2756",
-         "pubDate" : "Wed, 22 Nov 2023 20:15:47",
-         "title" : "Hou Yifan wins second WSCC title"
       }
    ]
 }
