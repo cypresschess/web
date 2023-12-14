@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nowadays you can easily download chess engines that play better than Carlsen, Caruana, Keymer or Nakamura. But if you feel like it, you can also try to program them yourself. Roger Lorenz has tried it. In one weekend - and with the help of ChatGPT. | Photo: Coding robot (image created with Automatic1111 and Stable Diffusion)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/developing-an-ai-chess-engine-on-a-weekend-a-guide-for-the-lazy-ones",
+         "pubDate" : "Thu, 14 Dec 2023 13:00:00",
+         "title" : "Developing an AI Chess Engine on a Weekend - a Guide for the Lazy Ones"
+      },
+      {
+         "description" : "Kindly find attached live games link for the&#160;Live&#160;Games&#160;Incharge&#160;for&#160;1st&#160;Meghalaya Open Grandmasters Chess Tournament-2023 at Shillong from&#160;&#160;13th&#160;to 20th&#160;December, 2023. Live Games link :&#160;https://view.livechesscloud.com/#d9b648de-f0f4-40b2-a1e9-eaaa82568993 chess-results &#160;https://chess-results.com/tnr848636.aspx?lan=1&#38;art=0&#38;fed=IND&#38;turdet=YES&#38;flag=30",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/link-for-live-games-incharge-for-1st-meghalaya-open-grandmasters-chess-tournament-2023-at-shillong-from-13th-to-20th-december-2023/",
+         "pubDate" : "Thu, 14 Dec 2023 11:11:50",
+         "title" : "LInk for Live Games for 1st Meghalaya Open Grandmasters Chess Tournament-2023 at Shillong from 13th to 20th December, 2023."
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2798",
+         "pubDate" : "Thu, 14 Dec 2023 10:13:52",
+         "title" : "FIDE joins Global Esports Federation"
+      },
+      {
+         "description" : "In the new episode of his Fast & Furious show, Robert Ris takes a look at the brilliancy Wesley So won against Magnus Carlsen in the finals of the Champions Chess Tour in Toronto. A theoretically important and really impressive attacking game! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-beating-carlsen-with-the-anti-sveshnikov",
+         "pubDate" : "Thu, 14 Dec 2023 10:04:46",
+         "title" : "Robert Ris' Fast and Furious: Beating Carlsen with the Anti-Sveshnikov!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2797",
+         "pubDate" : "Thu, 14 Dec 2023 09:42:16",
+         "title" : "FIDE officials take part in the Global Refugee Forum in Geneva"
+      },
+      {
          "description" : "Magnus Carlsen and Nodirbek Abdusattorov won the first sets in the semis of the Champions Chess Tour Finals in Toronto. Carlsen defeated Fabiano Caruana in a thrilling match which featured five decisive results and the Norwegian winning from a lost position (a queen down). Abdusattorov, on his part, lost the first game against Wesley So, but then won two in a row and drew the fourth to claim overall victory. | Photo: chess.com / Thomas Tischio",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -338,14 +378,6 @@ news_feed (
          "title" : "Michael Adams wins the London Chess Classic"
       },
       {
-         "description" : "The youngest and lowest-rated participant prevailed in the rapid section of the Gashimov Memorial. 18-year-old Aydin Suleymanli played fearlessly on day 3 of the rapid to collect two wins and a loss, and go into Monday's 18 rounds of blitz as the sole leader in Gabala. Sharing second place, one point behind, are Vidit Gujrathi, Arjun Erigaisi and the top scorer in the final three rounds of rapid, Jorden van Foreest. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-d3",
-         "pubDate" : "Mon, 11 Dec 2023 01:10:00",
-         "title" : "Gashimov Memorial: 18-year-old Suleymanli wins rapid section"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -376,14 +408,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-rapid-day-3",
          "pubDate" : "Sun, 10 Dec 2023 15:11:00",
          "title" : "Suleymanli Thrives In Chaos, Wins Rapid"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 155th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Mikhail Botvinnik. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-155-chess-history-in-a-nutshell-37",
-         "pubDate" : "Sun, 10 Dec 2023 15:00:00",
-         "title" : "Understanding before Moving 155: Chess history in a nutshell (37)"
       },
       {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
@@ -768,14 +792,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2779",
          "pubDate" : "Sat, 02 Dec 2023 19:12:41",
          "title" : "2023 FIDE Online GA: List of Member Federations having right to vote"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, Madhya Pradesh Chess Ad-Hoc Committee is organizing a Senior National Arbiters Seminar &#38; Exam from 30- 31 Dec",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-exam-at-katni-madhya-pradesh-30-31-dec-2023/",
-         "pubDate" : "Sat, 02 Dec 2023 17:47:46",
-         "title" : "Senior National Arbiter Seminar & Exam at Katni, Madhya Pradesh 30-31 Dec 2023"
       },
       {
          "description" : "The Elgin Marbles are once again in the news after Rishi Sunak's sensational snub to that heir of Pericles, the Greek Prime Minister Kyriakos Mitsotakis. The connection between the marvellous Marbles and chess is not generally known, but definitely exists. In what follows I have made liberal and grateful use of the expert insights of []",
@@ -1176,22 +1192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/the-big-centre.html",
          "pubDate" : "Thu, 23 Nov 2023 12:36:00",
          "title" : "The Big Centre"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2758",
-         "pubDate" : "Thu, 23 Nov 2023 11:11:57",
-         "title" : "FIDE Decision on Transfer Regulations for Players"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2757",
-         "pubDate" : "Thu, 23 Nov 2023 10:19:30",
-         "title" : "2023 Sinquefield Cup: Day 2 Recap"
       }
    ]
 }
