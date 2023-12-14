@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
+         "pubDate" : "Thu, 14 Dec 2023 17:50:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
          "description" : "A month after being crowned the new World Senior Champion 50+, Michael \"Mickey\" Adams wins the traditional London Chess Classic elite tournament outright. Adams has been a leading English player for more than three decades, consistently achieving outstanding results and being a formidable and reliable team player. A former child prodigy, Mickey won his first British Championship title (of eight to date) in 1989 and his most recent this year. The reigning English Champion (2023) and reigning World Senior Champion (2023) is truly Mister Evergreen! ChessBase congratulates the winner of the LCC 2023 by taking a brief look at a remarkable career and personality. | Photo: Adams at the Chennai Olym",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -368,14 +376,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-november-2023/",
          "pubDate" : "Mon, 11 Dec 2023 11:55:34",
          "title" : "ECU E-Magazine November 2023"
-      },
-      {
-         "description" : "The second part of the ChessBase India winter solving contest contained problems in different chess variants that involve deviation from the standard rules. This can involve finding ways to reconstruct a given position, or changes to pieces or rules, leading to creative and strategic gameplay. We present one challenging example, and a video lesson in problem solving from a true master. There is a lot to learn and to enjoy.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-did-this-position-arise",
-         "pubDate" : "Mon, 11 Dec 2023 11:55:00",
-         "title" : "How did this position arise?"
       },
       {
          "description" : " <p class=\"lead\">The UK government's proposed &pound;1 million investment in chess is coming at the right time according to a YouGov poll, conducted in association with World Chess and it.com Domains, which shows an extensive decline in chess club memberships. Only 6% of those who continue to play either regularly or within the past 12 months have a chess club member in the UK, whilst 41.2% have historically been a chess club member, but have left over time. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>UK player numbers static</h2> The decline in membership of the traditional chess club correlates to the as",
