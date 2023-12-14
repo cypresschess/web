@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2796",
+         "pubDate" : "Wed, 13 Dec 2023 21:28:54",
+         "title" : "2023 Hungarian Championship: A few unexpected results at the start"
+      },
+      {
          "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cct-finals-2023-d4",
          "pubDate" : "Wed, 13 Dec 2023 13:25:00",
          "title" : "CCT Finals: Abdusattorov and Caruana survive"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Nodirbek Abdusattorov took the lead on Wednesday in the 2023 Champions Chess Tour Finals.&#38;nbsp; Against GM Fabiano Caruana, Carlsen won game one from a lost position&#38;mdash;after losing his queen. And after losing the next ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-sf-day-1",
+         "pubDate" : "Wed, 13 Dec 2023 13:18:00",
+         "title" : "Carlsen Blunders Queen, Then Wins Match"
       },
       {
          "description" : "",
@@ -616,14 +632,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/aronian-carlsen-win-titled-tuesday-december-5-2023",
          "pubDate" : "Wed, 06 Dec 2023 08:13:02",
          "title" : "Magnus Carlsen Again Flirts With Perfection"
-      },
-      {
-         "description" : "The third ESpot B-Cup is scheduled to take place on December 9, 2023. This unique event blends online and in-person chess with the exciting addition of a live audience; it&#38;rsquo;s competitive chess, but not quite as you know it! An additional to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-presents-b-cup-3",
-         "pubDate" : "Wed, 06 Dec 2023 08:00:00",
-         "title" : "Chess.com Presents B-Cup 3 in Paris, France"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a beginner chess class about drawing combinations, using perpetual check, stalemate, sacrifice, and more! Plus, see the shortest possible stalemate, and the shortest possible stalemate with all pieces on the board. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/amazing-drawing-combinations-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
