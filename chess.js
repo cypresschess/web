@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen and Nodirbek Abdusattorov won the first sets in the semis of the Champions Chess Tour Finals in Toronto. Carlsen defeated Fabiano Caruana in a thrilling match which featured five decisive results and the Norwegian winning from a lost position (a queen down). Abdusattorov, on his part, lost the first game against Wesley So, but then won two in a row and drew the fourth to claim overall victory. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d5",
+         "pubDate" : "Thu, 14 Dec 2023 02:40:00",
+         "title" : "CCT Finals: Carlsen beats Caruana in thrilling match"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2796",
          "pubDate" : "Wed, 13 Dec 2023 21:28:54",
          "title" : "2023 Hungarian Championship: A few unexpected results at the start"
-      },
-      {
-         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
-         "pubDate" : "Wed, 13 Dec 2023 17:50:00",
-         "title" : "Champions Chess Tour Finals - Live!"
       },
       {
          "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has deliberated on Magnus Carlsen's withdrawal from the Sinquefield Cup following his defeat to Hans Niemann in September 2022 and has now reached a verdict. Carlsen has been fined 10,000 euros for his unjustified withdrawal. | Photo: Saint Louis Chess Center",
@@ -32,14 +32,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2795",
          "pubDate" : "Wed, 13 Dec 2023 13:32:19",
          "title" : "Decision on the Magnus Carlsen / Hans Niemann case"
-      },
-      {
-         "description" : "Fabiano Caruana and Nodirbek Abdusattorov advanced to the semifinals of the Champions Chess Tour Finals after going through the 'survival stage' on Tuesday. The two players who were knocked out of the competition in this stage were Maxime Vachier-Lagrave and Hikaru Nakamura, with the latter coming inches away from reaching the semis via the longest path. The U.S. star would have needed to win three matches on a single day - he beat Denis Lazavik and MVL before losing in Armageddon to Abdusattorov. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d4",
-         "pubDate" : "Wed, 13 Dec 2023 13:25:00",
-         "title" : "CCT Finals: Abdusattorov and Caruana survive"
       },
       {
          "description" : "GMs Magnus Carlsen and Nodirbek Abdusattorov took the lead on Wednesday in the 2023 Champions Chess Tour Finals.&#38;nbsp; Against GM Fabiano Caruana, Carlsen won game one from a lost position&#38;mdash;after losing his queen. And after losing the next ...",
@@ -72,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/review-luis-engel-najdorf-a-dynamic-grandmaster-repertoire-against-1-e4",
          "pubDate" : "Wed, 13 Dec 2023 11:37:54",
          "title" : "Review: Luis Engel \"Najdorf: A dynamic grandmaster repertoire against 1. e4\""
+      },
+      {
+         "description" : "Fabiano Caruana and Nodirbek Abdusattorov advanced to the semifinals of the Champions Chess Tour Finals after going through the 'survival stage' on Tuesday. The two players who were knocked out of the competition in this stage were Maxime Vachier-Lagrave and Hikaru Nakamura, with the latter coming inches away from reaching the semis via the longest path. The U.S. star would have needed to win three matches on a single day - he beat Denis Lazavik and MVL before losing in Armageddon to Abdusattorov. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d4",
+         "pubDate" : "Wed, 13 Dec 2023 11:30:00",
+         "title" : "CCT Finals: Abdusattorov and Caruana survive"
       },
       {
          "description" : "We are pleased to inform that TNSCA has already completed seven&#160;IM&#160;norm&#160;closed circuit tournaments successfully, achieving four&#160;IM&#160;norms&#160;and the eighth one is under progress at Erode. The",
