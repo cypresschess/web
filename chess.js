@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A month after being crowned the new World Senior Champion 50+, Michael \"Mickey\" Adams wins the traditional London Chess Classic elite tournament outright. Adams has been a leading English player for more than three decades, consistently achieving outstanding results and being a formidable and reliable team player. A former child prodigy, Mickey won his first British Championship title (of eight to date) in 1989 and his most recent this year. The reigning English Champion (2023) and reigning World Senior Champion (2023) is truly Mister Evergreen! ChessBase congratulates the winner of the LCC 2023 by taking a brief look at a remarkable career and personality. | Photo: Adams at the Chennai Olym",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mickey-adams-mister-evergreen",
+         "pubDate" : "Thu, 14 Dec 2023 16:43:36",
+         "title" : "Mickey Adams - Mister Evergreen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2799",
+         "pubDate" : "Thu, 14 Dec 2023 16:05:35",
+         "title" : "Leon Livai&#263 wins 2023 Croatian Championship"
+      },
+      {
+         "description" : "The European Rapid and Blitz Chess Championships begin today at the Zagreb Exhibition Centre. The rapid tournament will be played today and on Friday, followed by the blitz tournament on Saturday and Sunday. Almost 700 players from 41 federations are taking part.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-championships-start-in-zagreb",
+         "pubDate" : "Thu, 14 Dec 2023 15:05:52",
+         "title" : "European Rapid and Blitz Championships start in Zagreb"
+      },
+      {
          "description" : "Nowadays you can easily download chess engines that play better than Carlsen, Caruana, Keymer or Nakamura. But if you feel like it, you can also try to program them yourself. Roger Lorenz has tried it. In one weekend - and with the help of ChatGPT. | Photo: Coding robot (image created with Automatic1111 and Stable Diffusion)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2797",
          "pubDate" : "Thu, 14 Dec 2023 09:42:16",
          "title" : "FIDE officials take part in the Global Refugee Forum in Geneva"
+      },
+      {
+         "description" : "Chess.com, the world&#38;rsquo;s largest online platform for chess, today announced it has signed with leading entertainment agency WME. A subsidiary of global sports and entertainment company Endeavor, WME will work with Chess.com to build on the g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wme-signs-chesscom",
+         "pubDate" : "Thu, 14 Dec 2023 05:58:19",
+         "title" : "WME Signs Chess.com To Expand Partnerships And Audience"
       },
       {
          "description" : "Magnus Carlsen and Nodirbek Abdusattorov won the first sets in the semis of the Champions Chess Tour Finals in Toronto. Carlsen defeated Fabiano Caruana in a thrilling match which featured five decisive results and the Norwegian winning from a lost position (a queen down). Abdusattorov, on his part, lost the first game against Wesley So, but then won two in a row and drew the fourth to claim overall victory. | Photo: chess.com / Thomas Tischio",
@@ -346,14 +378,6 @@ news_feed (
          "title" : "How did this position arise?"
       },
       {
-         "description" : "The Vugar Gashimov Memorial 2023 is taking place in Gabala, Azerbaijan, on December 8-11. Ten strong grandmasters compete in a combined rapid chess and blitz tournament. The event is held in memory of grandmaster Vugar Gashimov, who sadly died of a brain tumour in January 2014, at the age of 27. | Follow the games live with computer-assisted analysis starting at 15.00 local time (12.00 CET, 6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-live",
-         "pubDate" : "Mon, 11 Dec 2023 11:50:00",
-         "title" : "Gashimov Memorial - Live!"
-      },
-      {
          "description" : " <p class=\"lead\">The UK government's proposed &pound;1 million investment in chess is coming at the right time according to a YouGov poll, conducted in association with World Chess and it.com Domains, which shows an extensive decline in chess club memberships. Only 6% of those who continue to play either regularly or within the past 12 months have a chess club member in the UK, whilst 41.2% have historically been a chess club member, but have left over time. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>UK player numbers static</h2> The decline in membership of the traditional chess club correlates to the as",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -368,14 +392,6 @@ news_feed (
          "link" : "https://aicf.in/happy-birthday-vishy/",
          "pubDate" : "Mon, 11 Dec 2023 03:27:00",
          "title" : "Happy Birthday Vishy!!"
-      },
-      {
-         "description" : "Michael Adams became the first Englishman to win the London Chess Classic. At 52, the former World Championship candidate described this victory as \"the best ever\" in his career. In the final round, Adams drew Shreyas Royal with black, which meant Royal finished with 4/9 points, the score he needed to collect a second GM norm. The one decisive result of the day saw Hans Niemann beating Gukesh. Amin Tabatabaei, who signed a draw with Jules Moussard, got sole second place. | Photo: London Chess Classic",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-r9",
-         "pubDate" : "Mon, 11 Dec 2023 01:15:00",
-         "title" : "Michael Adams wins the London Chess Classic"
       },
       {
          "description" : "",
@@ -648,14 +664,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2785",
          "pubDate" : "Wed, 06 Dec 2023 09:17:17",
          "title" : "Chess for Freedom project among 3rd Annual Anthem Awards Finalists"
-      },
-      {
-         "description" : "Recent Titled Tuesdays&#38;nbsp;have been a time for the long-established veterans of the chess world to remind everyone they&#39;re not done yet. December 5 was no exception, with GM Levon Aronian and GM Magnus Carlsen both winning a tournament outright,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/aronian-carlsen-win-titled-tuesday-december-5-2023",
-         "pubDate" : "Wed, 06 Dec 2023 08:13:02",
-         "title" : "Magnus Carlsen Again Flirts With Perfection"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a beginner chess class about drawing combinations, using perpetual check, stalemate, sacrifice, and more! Plus, see the shortest possible stalemate, and the shortest possible stalemate with all pieces on the board. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/amazing-drawing-combinations-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
@@ -1184,14 +1192,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024",
          "pubDate" : "Thu, 23 Nov 2023 20:31:00",
          "title" : "86th Tata Steel 2024 - Games and Results"
-      },
-      {
-         "description" : " The concept of long term advantages is sometimes difficult to explain to new players. They always want to be \"doing something\" with their pieces, rather than build an advantage, and then lower the boom. Even simple concepts such as occupying the centre fall by the wayside, as there isn't an immediate payoff. I've occasionally used the following game as an example, but the normal response is \"didn't he just keep losing material\". Well of course, but in part, it was because my position was better to start with. <br /> <b>Press,S - Yusof,A [D90]</b><br /> 34th Olympiad Istanbul TUR (7), 04.11.2000 <script> new PgnViewer( { boardName: \"game1429\", movesFormat: \"default\", pgnString:'1.d4 d5 2.c4 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/the-big-centre.html",
-         "pubDate" : "Thu, 23 Nov 2023 12:36:00",
-         "title" : "The Big Centre"
       }
    ]
 }
