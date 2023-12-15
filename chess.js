@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2801",
+         "pubDate" : "Fri, 15 Dec 2023 15:26:46",
+         "title" : "Carlsen and So meet in Champions Chess Tour Final"
+      },
+      {
+         "description" : "Magnus Carlsen and Wesley So knocked out Fabiano Caruana and Nodirbek Abdusattorov, respectively, in the semis of the Champions Chess Tour Finals. Carlsen twice beat Caruana by a 3-2 score, while So bounced back from his loss in the first set, and then won the 3-game decider by winning with the Armageddon decider with the white pieces. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d6",
+         "pubDate" : "Fri, 15 Dec 2023 13:25:00",
+         "title" : "CCT Finals: Carlsen and So to fight for the title"
+      },
+      {
          "description" : "The European Rapid and Blitz Chess Championships began yesterday at the Zagreb Exhibition Centre. The rapid tournament is played on Thursday and on Friday, followed by the blitz tournament on Saturday and Sunday. Almost 700 players from 41 federations are taking part.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +58,28 @@ news_feed (
          "title" : "Game of the Week #598: H. Niemann vs M. Bartel"
       },
       {
+         "description" : "It&#38;rsquo;s the one-on-one showdown between &#38;ldquo;the internet&#38;rsquo;s chess teacher&#38;rdquo; and one of the rising stars of the game known in his homeland as the &#38;ldquo;Lionel Messi of chess&#38;rdquo;. Can Brooklyn-born IM Levy Rozman, aka GothamChe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-versus-10-year-old-fausti-oro",
+         "pubDate" : "Fri, 15 Dec 2023 08:14:24",
+         "title" : "Master vs Pupil: GothamChess Risks Reputation Against Boy Wonder Fausti Oro"
+      },
+      {
          "description" : " The eight-time British champion called the London Classic \"my best ever result\" while the young talent will be close to a new English age record if he scores his third and final GM norm Michael Adams, at 52 the oldest competitor, won the 13th <a href=\"https://www.londonchessclassic.com/\" title=\"\">London Classic</a> and its &pound;15,000 first prize on Sunday. The youngest player, 14-year-old Shreyas Royal, scored his second grandmaster result and will aim immediately for his third and final norm at the traditional <a href=\"https://hastingschess.com/\" title=\"\">Caplin Hastings New Year congress</a> which starts on 28 December. Adams became the first English winner of the Classic, which during",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/dec/15/chess-adams-wins-in-london-at-52-while-royal-14-aims-for-gm-in-hastings",
          "pubDate" : "Fri, 15 Dec 2023 08:00:23",
          "title" : "Chess: Adams wins in London at 52 while Royal, 14, aims for GM in Hastings"
+      },
+      {
+         "description" : "With the holiday season nearly upon us, this year, Chess.com is calling on all chess fans to be part of a very special campaign that will help bring education and the joy of chess to up to 5,000 children. Chess For A Cause is Chess.com&#39;s new ini...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-for-a-cause-join-first-tournament",
+         "pubDate" : "Fri, 15 Dec 2023 06:52:47",
+         "title" : "Chess For A Cause: Join Our First Tournament And Help Educate 5,000 Kids"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky continues his three-part series on the Nimzo-English. 2023.12.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/poor-mans-nimzo-indian-part-2-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2tQRDnjketA.jpg?itok=DbwB2hSI\" alt=\"\" /></a></div>",
@@ -104,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gukesh-and-arjun-erigaisi-will-battle-world-s-best-at-chennai-grand-masters-2",
          "pubDate" : "Thu, 14 Dec 2023 22:40:00",
          "title" : "Gukesh and Arjun will battle world's best at the Chennai Grand Masters"
-      },
-      {
-         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
-         "pubDate" : "Thu, 14 Dec 2023 17:50:00",
-         "title" : "Champions Chess Tour Finals - Live!"
       },
       {
          "description" : "GMs Magnus Carlsen and Wesley So are the last players standing at the&#38;nbsp;2023 Champions Chess Tour Finals. They will meet for the Title Match to battle for the $200,000 first prize. Carlsen knocked out his 2018 world championship nemesis GM Fa...",
@@ -698,28 +722,12 @@ news_feed (
          "title" : "December 1973 & 1998 'On the Cover'"
       },
       {
-         "description" : "FIDE is expected to make significant changes to its rating system on January 1, which includes a one-time adjustment for most rated players, an increase of the rating floor, and changes to the initial rating. In July, the FIDE Qualifications Com...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-set-to-implement-drastic-rating-changes",
-         "pubDate" : "Thu, 07 Dec 2023 15:55:00",
-         "title" : "FIDE Set To Make Significant Changes To Rating System In January"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> In commanding fashion, Grandmaster (GM) Fabiano Caruana won both the 2023 Saint Louis Rapid &amp; Blitz and Sinquefield Cup to become the overall 2023 Grand Chess Tour champion. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/saint-louis-grandmaster-fabiano-caruana-sweeps-saint-louis-rapid-and-blitz-and-sinquefield-cup",
          "pubDate" : "Wed, 06 Dec 2023 18:44:21",
          "title" : "Saint Louis Grandmaster Fabiano Caruana Sweeps Saint Louis Rapid and Blitz and Sinquefield Cup; Wins 2023 Grand Chess Tour"
-      },
-      {
-         "description" : "Registration is now open&#38;nbsp;for the Spring 2024&#38;nbsp;season of the Collegiate Chess League! The world&#39;s premier university-level chess event returns next year, retaining its four vs. four team-based format and a $25,000 prize fund. The Collegiat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-registration-spring-2024",
-         "pubDate" : "Wed, 06 Dec 2023 13:49:32",
-         "title" : "Registrations Open For The Collegiate Chess League Spring 2024 Season"
       },
       {
          "description" : " After yesterdays lesson in targeting the king, a slightly more restrained game, in this case played by myself. In the end my opponent took a few liberty's in the opening (taking both centre pawns gives White too much play), and never quite untangled himself. At move 17 I was planning to play Be3 with the idea of winning the exchange after 18.Nc7, but I realised it was stronger if I reversed the move order. The game ended when my opponent flagged in a losing position. <br /> <b>Press,Shaun - Grcic,Milan [E04]</b><br /> Swiss Festive Fun --- (5), 05.12.2023 <script> new PgnViewer( { boardName: \"game1432\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.g3 c5 5.Bg2 cxd4 6.O-O dx",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/11/24/odafe-efemuai-from-delta-state-to-new-york-state/",
          "pubDate" : "Fri, 24 Nov 2023 20:15:22",
          "title" : "Odafe Efemuai&hellip; from Delta State to New York State"
-      },
-      {
-         "description" : "This week I have a special gift for you guys. It is 100% free, with no Black Friday Sale strategy. Read until the end of the email to know how to benefit from it. Have you ever looked at a position and thought: \"I have no idea what to do\"? After reading this newsletter, you should be able to find an appropriate plan for every position. On the 3rd of November, I published an article called How To Think During A Chess Game. In it, I focused on two key questions to spot tactical ideas for you...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/plan-2/",
-         "pubDate" : "Fri, 24 Nov 2023 14:02:03",
-         "title" : "Find A Plan In Any Position"
       }
    ]
 }
