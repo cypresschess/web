@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chennai Grand Masters 2023 got off to a splendid start. Just when it seemed like the first round would end up being victorless, Pentala Harikrishna and Pavel Eljanov proved those predictions wrong. Arjun Erigaisi (Harikrishna's opponent) made a significant mistake early in the game. It made him defend the better part of the battle. Eventually he missed his final opportunity to salvage a half point, which cost him the game. Parham Maghsoodloo (Eljanov's opponent) made a huge blunder in a rook and two pawns endgame which was seemingly heading towards a draw. | All photos are by Shahid Ahmed unless specified otherwise.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r1-harikrishna-and-eljanov-strike-2",
+         "pubDate" : "Fri, 15 Dec 2023 21:15:00",
+         "title" : "Chennai Masters R1: Harikrishna and Eljanov strike"
+      },
+      {
+         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
+         "pubDate" : "Fri, 15 Dec 2023 17:50:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "This week GM Daniel King looks at a fine attack played by Alireza Firouzja. Apart from predicting some of his moves, he tests your defensive abilities! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-firouzja-on-fire",
+         "pubDate" : "Fri, 15 Dec 2023 17:30:00",
+         "title" : "Daniel King's Power Play Show: Firouzja on fire"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2802",
+         "pubDate" : "Fri, 15 Dec 2023 16:58:40",
+         "title" : "151st FIDE Arbiters' Seminar (WOM) announced"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2801",
          "pubDate" : "Fri, 15 Dec 2023 15:26:46",
          "title" : "Carlsen and So meet in Champions Chess Tour Final"
+      },
+      {
+         "description" : "Available now, but only until 24 December: The bundle for winners: ChessBase 17 & Fritz 19 in a Christmas bundle. Instead of 249,90 € only 199,90 €. Get it now.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-offer-for-christmas-chessbase-17-and-fritz-19-the-winning-bundle",
+         "pubDate" : "Fri, 15 Dec 2023 13:30:00",
+         "title" : "On offer for Christmas: ChessBase 17 and Fritz 19 - the winning bundle"
       },
       {
          "description" : "Magnus Carlsen and Wesley So knocked out Fabiano Caruana and Nodirbek Abdusattorov, respectively, in the semis of the Champions Chess Tour Finals. Carlsen twice beat Caruana by a 3-2 score, while So bounced back from his loss in the first set, and then won the 3-game decider by winning with the Armageddon decider with the white pieces. | Photo: chess.com / Thomas Tischio",
@@ -26,12 +66,12 @@ news_feed (
          "title" : "European Rapid and Blitz Championships in Zagreb"
       },
       {
-         "description" : "Available now, but only until 24 December: The bundle for winners: ChessBase 17 & Fritz 19 in a Christmas bundle. Instead of 249,90 € only 199,90 €. Get it now.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-offer-for-christmas-chessbase-17-and-fritz-19-the-winning-bundle",
-         "pubDate" : "Fri, 15 Dec 2023 13:19:16",
-         "title" : "On offer for Christmas: ChessBase 17 and Fritz 19 - the winning bundle"
+         "description" : "GM Magnus Carlsen is one set away from winning his third title and $200,000 at the 2023 Champions Chess Tour Finals. On day one of the Title Match, he defeated GM Wesley So with the black pieces in game three, squeezing water from stone in the roo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-title-match-day-1",
+         "pubDate" : "Fri, 15 Dec 2023 12:23:08",
+         "title" : "Carlsen 1 Set Victory Away From Third Title"
       },
       {
          "description" : " The player lists for the 2023 World Rapid and Blitz have been released. Magnus Carlsen is the top seed in the Open events, while Wenjun Ju is the top seed for the Women's Rapid and Tengjie Lei for the Women's Blitz. All the events are incredibly strong, with the 200+ players in the Open, and 125 in the Women's event. The venue is Samarkand in Uzbekistan and the tournament runs from the 26th to the 30th of December. Full details of the tournament can be found at <a href=\"https://worldrapidandblitz2023.fide.com/\">https://worldrapidandblitz2023.fide.com/</a> I will be onsite at the event, as I am one of the Pairings Officers for the tournament. Unlike the Chess Olympiad (where I have also fill",
@@ -42,20 +82,20 @@ news_feed (
          "title" : "2023 World Rapid and Blitz"
       },
       {
-         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
-         "pubDate" : "Fri, 15 Dec 2023 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
-      },
-      {
          "description" : "In his new game of the week show Merin van Delft takes a look at the game Hans Niemann vs Mateusz Bartel, which was played at the London Chess Classic and which is perhaps one of the most creative and sophisticated swindles of 2023. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/game-of-the-week-598-h-niemann-vs-m-bartel",
          "pubDate" : "Fri, 15 Dec 2023 10:00:00",
          "title" : "Game of the Week #598: H. Niemann vs M. Bartel"
+      },
+      {
+         "description" : "GMs Pentala Harikrishna and Pavel Eljanov started with wins over GMs Arjun Erigaisi and Parham Maghsoodloo respectively in two high-pressure, error-prone games to share the lead with a point apiece after the first round of the Chennai Grand Master...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-1",
+         "pubDate" : "Fri, 15 Dec 2023 09:49:00",
+         "title" : "Harikrishna, Eljanov Start With Wins Over Candidates Hopefuls"
       },
       {
          "description" : "It&#38;rsquo;s the one-on-one showdown between &#38;ldquo;the internet&#38;rsquo;s chess teacher&#38;rdquo; and one of the rising stars of the game known in his homeland as the &#38;ldquo;Lionel Messi of chess&#38;rdquo;. Can Brooklyn-born IM Levy Rozman, aka GothamChe...",
@@ -78,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-for-a-cause-join-first-tournament",
-         "pubDate" : "Fri, 15 Dec 2023 06:52:47",
+         "pubDate" : "Fri, 15 Dec 2023 06:52:00",
          "title" : "Chess For A Cause: Join Our First Tournament And Help Educate 5,000 Kids"
       },
       {
@@ -402,28 +442,12 @@ news_feed (
          "title" : "Grischuk's powerful pawns"
       },
       {
-         "description" : "Wesley So beat Magnus Carlsen and Nodirbek Abdusattorov to keep a perfect score of 6 wins in 6 matches at the Champions Chess Tour Finals in Toronto. Carlsen (5 points) has also secured a ticket to the semifinals, while Hikaru Nakamura (1) and Denis Lazavik (1), who face each other in round 7, will need a couple of results to go their way if they want to reach the 'survival stage'. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d3",
-         "pubDate" : "Tue, 12 Dec 2023 08:50:00",
-         "title" : "CCT Finals: So still perfect, Naka in trouble"
-      },
-      {
          "description" : "3Cs Chess Club have once again been given national recognition, with the club's founder Steve Rigby having secured a &#8216;Points of Light' award, a national...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/national-honour-3cs-chess-club/",
          "pubDate" : "Tue, 12 Dec 2023 08:45:08",
          "title" : "National Honour - 3Cs Chess Club"
-      },
-      {
-         "description" : "Ivan Sokolov has risen to the ranks of the top coaches since the team of Uzbekistan, which he coached, won gold at the the Chess Olympiad in Chennai 2022. In his Fritztrainer series \"Understanding Middlegame Strategies\", Sokolov regularly shares his grandmaster knowledge and shows what to do in a large variety of positions and structures. Hannes Langrock had a look at Sokolov's course on the Catalan.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-ivan-sokolov-understanding-middlegame-strategies-vol-7-dynamic-catalan",
-         "pubDate" : "Tue, 12 Dec 2023 08:00:00",
-         "title" : "Review: Ivan Sokolov: Understanding Middlegame Strategies Vol.7 - Dynamic Catalan"
       },
       {
          "description" : "Historical City of Melaka, Malaysia 19th to 28th February, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "Wild Chess As Bartel Beats Niemann, Tabatabaei Stuns Vitiugov"
       },
       {
-         "description" : "GM Nijat Abasov leads the Vugar Gashimov Memorial 2023 after the first three rounds of rapid on Friday. Going undefeated, Abasov had wins vs. GMs Richard Rapport and Boris Gelfand that brought him to the top of the scoreboard. His dynamic skirmish...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-rapid-day-1",
-         "pubDate" : "Fri, 08 Dec 2023 17:14:00",
-         "title" : "Abasov Takes Early Lead With Wins vs. Rapport, Gelfand"
-      },
-      {
          "description" : "A 1750-rated reader recently told me: A small comment to my GM Coach about not fully understanding the French turned into 13 Training sessions on every detail in the French opening, 95% of which I never saw and will probably never see.\" In a World of Abundance, more is not always better. With Limited time, your Goal should be \"Less but Better.\" This is a common appearance in Chess nowadays: a stronger player teaches a weaker player way too many lines about an opening. In this Newsletter, I...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2786",
          "pubDate" : "Thu, 07 Dec 2023 18:49:56",
          "title" : "FIDE President takes part in Advanced Tomorrow Singapore Summit 2023"
-      },
-      {
-         "description" : "The madness continues in London. Just when GM Jules Moussard was about to crown a brilliant game by defeating leader GM Michael Adams, the Frenchman blundered away the game. GM Gukesh Dommaraju kept his Candidates hopes alive when GM Luke McShane ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-6",
-         "pubDate" : "Thu, 07 Dec 2023 17:58:00",
-         "title" : "Adams, Gukesh Benefit From Blunders; Volokitin Beats Niemann"
       },
       {
          "description" : "Last month's post about U.S. chess magazines 50 and 25 years ago, <A HREF=\"https://chessforallages.blogspot.com/2023/11/november-1973-1998-on-cover.html\">November 1973 & 1998 'On the Cover'</A> (November 2023), had an arty portrait on the right. This month's post has a different sort of art. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl07.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> 'The World's Top 60; FIDE Annual Rating List; Reflects all performances through July 1, 1973'<BR> <B>Right:</B> '\"No Cheating\", James Todd, 1998' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Professor Elo's latest calculations. See [inside] for the complete list. </BLOCKQUO",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2761",
          "pubDate" : "Sat, 25 Nov 2023 10:17:00",
          "title" : "2023 Sinquefield Cup: Day 4 Recap"
-      },
-      {
-         "description" : " Odafe Benedict Efemuai is a long way from the Delta State region of Nigeria. The 2016 Nigerian champion has found a new home in New York where he is a chess educator. Odafe's hometown gained the attention of major corporations after oil discovery in the 70s, and was in the news during the 90s. Unfortunately, The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/24/odafe-efemuai-from-delta-state-to-new-york-state/\">Odafe Efemuai from Delta State to New York State</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/11/24/odafe-efemuai-from-delta-state-to-new-york-state/",
-         "pubDate" : "Fri, 24 Nov 2023 20:15:22",
-         "title" : "Odafe Efemuai&hellip; from Delta State to New York State"
       }
    ]
 }
