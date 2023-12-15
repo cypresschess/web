@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes his own chess games. 2023.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-live-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p56jIPalr48.jpg?itok=cgqUy9yf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prepare-pro-live-gm-alex-yermolinsky",
+         "pubDate" : "Thu, 14 Dec 2023 23:16:20",
+         "title" : "Prepare Like A Pro LIVE! - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "The European Rapid and Blitz Chess Championship 2023 commenced today in Zagreb, Croatia with the Rapid event. The Opening ceremony took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice President Mr. Alojzije Jankovic, the President of the Croatian Chess Federation Mr. Ivica Brkic, FIDE Vice President Mr. Joran Aulin-Jansson, FIDE Secretary General Mr Lukasz Turlej, representative of the Croatian Government State Secretary of Ministry of Tourism and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-kicked-off-in-zagreb/",
+         "pubDate" : "Thu, 14 Dec 2023 23:03:14",
+         "title" : "European Rapid and Blitz Chess Championship 2023 kicked off in Zagreb"
+      },
+      {
+         "description" : "The Chennai Grand Masters is the strongest ever classical super tournament to take place in India. The average rating of the tournament is 2711. Arjun Erigaisi and D Gukesh will be battling against Parham Maghsoodloo (IRI) for an improvement in the FIDE Circuit. They will also face Levon Aronian (USA), Sanan Sjugirov (HUN), Pentala Harikrishna, Pavel Eljanov (UKR) and Alexandr Predke (SRB). The total prize fund is ₹5000000 (US$ 60000). The top three prizes are ₹1500000 (US$ 18000), ₹1000000 (US$ 12000) and ₹800000 (US$ 12000). Round 1 starts tomorrow at 14.45 IST (10.15 CET, 4.15 ET). | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-and-arjun-erigaisi-will-battle-world-s-best-at-chennai-grand-masters-2",
+         "pubDate" : "Thu, 14 Dec 2023 22:40:00",
+         "title" : "Gukesh and Arjun will battle world's best at the Chennai Grand Masters"
+      },
+      {
          "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "Champions Chess Tour Finals - Live!"
       },
       {
-         "description" : "A month after being crowned the new World Senior Champion 50+, Michael \"Mickey\" Adams wins the traditional London Chess Classic elite tournament outright. Adams has been a leading English player for more than three decades, consistently achieving outstanding results and being a formidable and reliable team player. A former child prodigy, Mickey won his first British Championship title (of eight to date) in 1989 and his most recent this year. The reigning English Champion (2023) and reigning World Senior Champion (2023) is truly Mister Evergreen! ChessBase congratulates the winner of the LCC 2023 by taking a brief look at a remarkable career and personality. | Photo: Adams at the Chennai Olym",
+         "description" : "A month after being crowned the new World Senior Champion 50+, Michael \"Mickey\" Adams wins the traditional London Chess Classic elite tournament outright. Adams has been a leading English player for more than three decades, consistently achieving outstanding results and being a formidable and reliable team player. A former child prodigy, Mickey won his first British Championship title (of eight to date) in 1989 and his most recent this year. The reigning British Champion (2023) and reigning World Senior Champion (2023) is truly Mister Evergreen! ChessBase congratulates the winner of the LCC 2023 by taking a brief look at a remarkable career and personality. | Photo: Adams at the Chennai Olym",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mickey-adams-mister-evergreen",
@@ -26,6 +50,14 @@ news_feed (
          "title" : "Leon Livai&#263 wins 2023 Croatian Championship"
       },
       {
+         "description" : "Nowadays you can easily download chess engines that play better than Carlsen, Caruana, Keymer or Nakamura. But if you feel like it, you can also try to program them yourself. Roger Lorenz has tried it. In one weekend - and with the help of ChatGPT. | Photo: Coding robot (image created with Automatic1111 and Stable Diffusion)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/developing-an-ai-chess-engine-on-a-weekend-a-guide-for-the-lazy-ones",
+         "pubDate" : "Thu, 14 Dec 2023 15:10:00",
+         "title" : "Developing an AI Chess Engine on a Weekend - a Guide for the Lazy Ones"
+      },
+      {
          "description" : "The European Rapid and Blitz Chess Championships begin today at the Zagreb Exhibition Centre. The rapid tournament will be played today and on Friday, followed by the blitz tournament on Saturday and Sunday. Almost 700 players from 41 federations are taking part.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +66,12 @@ news_feed (
          "title" : "European Rapid and Blitz Championships start in Zagreb"
       },
       {
-         "description" : "Nowadays you can easily download chess engines that play better than Carlsen, Caruana, Keymer or Nakamura. But if you feel like it, you can also try to program them yourself. Roger Lorenz has tried it. In one weekend - and with the help of ChatGPT. | Photo: Coding robot (image created with Automatic1111 and Stable Diffusion)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/developing-an-ai-chess-engine-on-a-weekend-a-guide-for-the-lazy-ones",
-         "pubDate" : "Thu, 14 Dec 2023 13:00:00",
-         "title" : "Developing an AI Chess Engine on a Weekend - a Guide for the Lazy Ones"
+         "description" : "GM Jose Martinez has shown he can do it all by successfully defending his title in the second Variants Community Series (VCS) final. This time showing his prowess at 3 Check Chess, Martinez overcame FM Vasilios Kasioumis&#38;nbsp;by a margin of 3-1 to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-vcs-3check-martinez-wins",
+         "pubDate" : "Thu, 14 Dec 2023 14:00:24",
+         "title" : "Martinez Defends Variant Crown In 3 Check Chess"
       },
       {
          "description" : "Kindly find attached live games link for the&#160;Live&#160;Games&#160;Incharge&#160;for&#160;1st&#160;Meghalaya Open Grandmasters Chess Tournament-2023 at Shillong from&#160;&#160;13th&#160;to 20th&#160;December, 2023. Live Games link :&#160;https://view.livechesscloud.com/#d9b648de-f0f4-40b2-a1e9-eaaa82568993 chess-results &#160;https://chess-results.com/tnr848636.aspx?lan=1&#38;art=0&#38;fed=IND&#38;turdet=YES&#38;flag=30",
@@ -362,14 +394,6 @@ news_feed (
          "title" : "Fischer vs. Carlsen"
       },
       {
-         "description" : "Magnus Carlsen defeated two of his strongest rivals on Sunday to keep his perfect score at the Champions Chess Tour Finals. The former world champion defeated Fabiano Caruana and Hikaru Nakamura in consecutive rounds. Joining him in the lead is Wesley So, who got the better of Maxime Vachier-Lagrave and Alireza Firouzja. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d2",
-         "pubDate" : "Mon, 11 Dec 2023 15:30:00",
-         "title" : "CCT Finals: Carlsen and So on 4/4"
-      },
-      {
          "description" : "ECU E-Magazine November 2023 is out! In this edition of the ECU E-Magazine you may read about: The November 2023 issue of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded in PDF format below. ECU-Magazine_November-2023",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -650,14 +674,6 @@ news_feed (
          "title" : "Slightly less violent"
       },
       {
-         "description" : "Less than a month after GM Hikaru Nakamura set a new record for Chess.com&#39;s highest blitz rating, GM Magnus Carlsen has gone one step further. On Wednesday, Carlsen achieved the all-time-high blitz rating of 3340, four points higher than Nakamura&#39;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-hits-highest-blitz-rating",
-         "pubDate" : "Wed, 06 Dec 2023 12:40:00",
-         "title" : "Carlsen Hits Highest Blitz Rating Ever On Chess.com"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fabi-wins-2023-sinquefield-cup-sinquefieldcup-grandchesstour",
          "pubDate" : "Fri, 01 Dec 2023 20:01:54",
          "title" : "Fabi Wins The 2023 Sinquefield Cup! |#sinquefieldcup #grandchesstour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-do-you-do-it-fabi-wins-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4tOTTiBpHts.jpg?itok=DxC_x-0T\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-do-you-do-it-fabi-wins-sinquefieldcup-grandchesstour-2023",
-         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
-         "title" : "How do you do it? Fabi Wins The #sinquefieldcup #grandchesstour 2023"
       },
       {
          "description" : " The 13th London Classic took place 1st to 10th December 2023. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal. Michael Adams scored his best result in many years by taking clear first place with 6/9.",
@@ -1176,22 +1184,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/nov/24/chess-lan-yao-wins-bronze-as-england-men-narrowly-miss-medals-at-euros",
          "pubDate" : "Fri, 24 Nov 2023 08:00:14",
          "title" : "Chess: Lan Yao wins bronze as England men narrowly miss medals at Euros"
-      },
-      {
-         "description" : " The 10th Sinquefield Cup takes place Tuesday 21st Nov to Sun 3rd Dec 2023 in Saint Louis. Players: Fabiano Caruana, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, Wesley So, Richard Rapport, Leinier Dominguez Perez, Maxime Vachier-Lagrave and Levon Aronian. After 1 round Jan-Krzysztof Duda withdrew from the event due to ill health, no specifics have been given. All rather unfortunate as this is the second year running this has happened with Carlsen being the one to withdraw last year.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/10th-sinquefield-cup-2023",
-         "pubDate" : "Thu, 23 Nov 2023 20:56:00",
-         "title" : "10th Sinquefield Cup 2023 - Games and Results"
-      },
-      {
-         "description" : " The 86th Tata Steel chess tournament takes place Saturday 13th to Sun 28th Jan 2024 in Wijk aan Zee. Players: Masters: Ding Liren, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, D Gukesh, R Praggnanandhaa, Parham Maghsoodloo, Wei Yi, Nodirbek Abdusattorov, Santosh Gujrathi Vidit, Jorden Van Foreest, Alexander Donchenko, Max Warmerdam and Wenjun Ju. Challengers: Anton Korobov, Hans Moke Niemann, Mustafa Yilmaz, A.R. Saleh Salem, Jaime Santos Latasa, Erwin L'Ami, Leon Luke Mendonca, Daniel Dardha, Marc Andria Maurizzi, Liam Vrolijk, Harika Dronavalli, Stefan Beukema, Deshmukh Divya and Eline Roebers. World Champion Ding Liren who has hardly played after winning the title due to ill health ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024",
-         "pubDate" : "Thu, 23 Nov 2023 20:31:00",
-         "title" : "86th Tata Steel 2024 - Games and Results"
       }
    ]
 }
