@@ -5,6 +5,7 @@ jtable([
 "CYPRESS","2023-12-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202312082952 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-12-08","10","<a href=http://www.uschess.org/msa/XtblMain.php?202312081812 target='_blank'>REBECCA CHESS CLUB QUADS DECEMBER 8, 2023</a>",
 "HOUSTON","2023-12-02  - 12-03","14","<a href=http://www.uschess.org/msa/XtblMain.php?202312039692 target='_blank'>U2000 - DEC 2 & 3</a>",
+"HOUSTON","2023-12-03","6","<a href=http://www.uschess.org/msa/XtblMain.php?202312035242 target='_blank'>GAME GUYS</a>",
 "HOUSTON","2023-12-02","8","<a href=http://www.uschess.org/msa/XtblMain.php?202312028612 target='_blank'>CHESSPANDA12022023SATURDAY</a>",
 "HOUSTON","2023-12-02","47","<a href=http://www.uschess.org/msa/XtblMain.php?202312020132 target='_blank'>2023 RUCC OPEN</a>",
 "CYPRESS","2023-12-01","24","<a href=http://www.uschess.org/msa/XtblMain.php?202312017382 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-06-03","45","<a href=http://www.uschess.org/msa/XtblMain.php?202306036162 target='_blank'>JUNE 3RD 2023 SCHOLASTIC</a>",
 "CYPRESS","2023-06-02","30","<a href=http://www.uschess.org/msa/XtblMain.php?202306026942 target='_blank'>EVENT NAME MISSING</a>",
 "SPRING","2023-06-02","28","<a href=http://www.uschess.org/msa/XtblMain.php?202306024612 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2023-06-02","18","<a href=http://www.uschess.org/msa/XtblMain.php?202306024552 target='_blank'>REBECCA CHESS CLUB QUADS JUNE 2, 2023</a>",
 ]);
