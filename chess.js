@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The eight-time British champion called the London Classic \"my best ever result\" while the young talent will be close to a new English age record if he scores his third and final GM norm Michael Adams, at 52 the oldest competitor, won the 13th <a href=\"https://www.londonchessclassic.com/\" title=\"\">London Classic</a> and its &pound;15,000 first prize on Sunday. The youngest player, 14-year-old Shreyas Royal, scored his second grandmaster result and will aim immediately for his third and final norm at the traditional <a href=\"https://hastingschess.com/\" title=\"\">Caplin Hastings New Year congress</a> which starts on 28 December. Adams became the first English winner of the Classic, which during",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/dec/15/chess-adams-wins-in-london-at-52-while-royal-14-aims-for-gm-in-hastings",
+         "pubDate" : "Fri, 15 Dec 2023 08:00:23",
+         "title" : "Chess: Adams wins in London at 52 while Royal, 14, aims for GM in Hastings"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky continues his three-part series on the Nimzo-English. 2023.12.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/poor-mans-nimzo-indian-part-2-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2tQRDnjketA.jpg?itok=DbwB2hSI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/poor-mans-nimzo-indian-part-2-prepare-pro-gm-alex-yermolinsky",
+         "pubDate" : "Fri, 15 Dec 2023 05:16:45",
+         "title" : "The Poor Man's Nimzo-Indian: Part 2 | Prepare Like A Pro - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes his own chess games and preparation in the Nimzo-English. 2023.12.14<br /> Alex Yermolinsky vs Alexey Vyzmanavin, White Nights (1984): A17 English, Nimzo-English opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1146502\">https://www.chessgames.com/perl/chessgame?gid=1146502</a><br /> Alex Yermolinsky vs Eduardas Rozentalis, Keres Memorial (1993): A17 English, Nimzo-English opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1150997\">https://www.chessgames.com/perl/chessgame?gid=1150997</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/poor-mans-nimzo-indian-part-1-prepare-pro-gm-alex-yermolinsky",
+         "pubDate" : "Fri, 15 Dec 2023 05:16:45",
+         "title" : "The Poor Man's Nimzo-Indian: Part 1 | Prepare Like A Pro - GM Alex Yermolinsky"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky continues his three-part series on the English attack. 2023.12.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/english-attack-part-2-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2tQRDnjketA.jpg?itok=DbwB2hSI\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -54,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-sf-day-2",
-         "pubDate" : "Thu, 14 Dec 2023 17:07:15",
+         "pubDate" : "Thu, 14 Dec 2023 17:07:00",
          "title" : "Carlsen, So Advance As The Last Players Standing"
       },
       {
@@ -850,22 +874,6 @@ news_feed (
          "title" : "\"How does it feel after all this?\" Fabi Wins The #sinquefieldcup #grandchesstour 2023"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/whats-changed-last-year-fabi-wins-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ewIRBVjgwW4.jpg?itok=w67mc9xc\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/whats-changed-last-year-fabi-wins-sinquefieldcup-grandchesstour-2023",
-         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
-         "title" : "\"What's changed in the last year?\" Fabi Wins The #sinquefieldcup #grandchesstour 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2023-sinquefield-cup-final-standings-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UrBAPofeYm8.jpg?itok=AWA5XUNq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-final-standings-sinquefieldcup-grandchesstour-2023",
-         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
-         "title" : "2023 Sinquefield Cup Final Standings | #sinquefieldcup #grandchesstour 2023"
-      },
-      {
          "description" : " The 13th London Classic took place 1st to 10th December 2023. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal. Michael Adams scored his best result in many years by taking clear first place with 6/9.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2759",
          "pubDate" : "Fri, 24 Nov 2023 10:52:58",
          "title" : "2023 Sinquefield Cup: Day 3 Recap"
-      },
-      {
-         "description" : " The British woman champion, 22, won the board two bronze medal with an unbeaten 5.5/8 at the European teams, but the open squad, joint leaders with two rounds left, were edged out to sixth place Last week's European team championships at Budva, Montenegro saw the England open squad narrowly miss out on medals, but there was a fresh success for Lan Yao, 22, a rising star of the women's game. Yao's unbeaten 5.5/8 on second board for England women earned her the bronze medal as well as her first international master norm at men's/open level, and was achieved against a high class field. In the final two rounds Yao drew with the former world champion Anna Ushenina of Ukraine, then <a href=\"https",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/nov/24/chess-lan-yao-wins-bronze-as-england-men-narrowly-miss-medals-at-euros",
-         "pubDate" : "Fri, 24 Nov 2023 08:00:14",
-         "title" : "Chess: Lan Yao wins bronze as England men narrowly miss medals at Euros"
       }
    ]
 }
