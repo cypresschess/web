@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky continues his three-part series on the English attack. 2023.12.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/english-attack-part-2-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2tQRDnjketA.jpg?itok=DbwB2hSI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/english-attack-part-2-prepare-pro-gm-alex-yermolinsky",
+         "pubDate" : "Fri, 15 Dec 2023 02:16:36",
+         "title" : "English Attack: Part 2 | Prepare Like A Pro - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes his own chess games in the English attack. 2023.12.14<br /> Alex Yermolinsky vs Alexey Vyzmanavin, White Nights (1984): A17 English, Nimzo-English opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1146502\">https://www.chessgames.com/perl/chessgame?gid=1146502</a><br /> Alex Yermolinsky vs Eduardas Rozentalis, Keres Memorial (1993): A17 English, Nimzo-English opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1150997\">https://www.chessgames.com/perl/chessgame?gid=1150997</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/poor-mans-nimzo-indian-part-1-prepare-pro-live-gm-alex-yermolinsky",
+         "pubDate" : "Fri, 15 Dec 2023 02:16:36",
+         "title" : "The Poor Man's Nimzo-Indian: Part 1 | Prepare Like A Pro LIVE! - GM Alex Yermolinsky"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes his own chess games. 2023.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-live-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p56jIPalr48.jpg?itok=cgqUy9yf\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
          "pubDate" : "Thu, 14 Dec 2023 17:50:00",
          "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Wesley So are the last players standing at the&#38;nbsp;2023 Champions Chess Tour Finals. They will meet for the Title Match to battle for the $200,000 first prize. Carlsen knocked out his 2018 world championship nemesis GM Fa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-sf-day-2",
+         "pubDate" : "Thu, 14 Dec 2023 17:07:15",
+         "title" : "Carlsen, So Advance As The Last Players Standing"
       },
       {
          "description" : "A month after being crowned the new World Senior Champion 50+, Michael \"Mickey\" Adams wins the traditional London Chess Classic elite tournament outright. Adams has been a leading English player for more than three decades, consistently achieving outstanding results and being a formidable and reliable team player. A former child prodigy, Mickey won his first British Championship title (of eight to date) in 1989 and his most recent this year. The reigning British Champion (2023) and reigning World Senior Champion (2023) is truly Mister Evergreen! ChessBase congratulates the winner of the LCC 2023 by taking a brief look at a remarkable career and personality. | Photo: Adams at the Chennai Olym",
@@ -70,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-vcs-3check-martinez-wins",
-         "pubDate" : "Thu, 14 Dec 2023 14:00:24",
+         "pubDate" : "Thu, 14 Dec 2023 14:00:00",
          "title" : "Martinez Defends Variant Crown In 3 Check Chess"
       },
       {
@@ -658,14 +682,6 @@ news_feed (
          "title" : "Registrations Open For The Collegiate Chess League Spring 2024 Season"
       },
       {
-         "description" : "The highly-anticipated 2023 Champions Chess Tour Finals begin in just three days on December 9. GMs Magnus Carlsen, Hikaru Nakamura, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Fabiano Caruana, Wesley So, Alireza Firouzja, and Denis Lazavik are...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-predictions",
-         "pubDate" : "Wed, 06 Dec 2023 13:00:00",
-         "title" : "GothamChess And Danya Predict Who Will Win The Champions Chess Tour 2023"
-      },
-      {
          "description" : " After yesterdays lesson in targeting the king, a slightly more restrained game, in this case played by myself. In the end my opponent took a few liberty's in the opening (taking both centre pawns gives White too much play), and never quite untangled himself. At move 17 I was planning to play Be3 with the idea of winning the exchange after 18.Nc7, but I realised it was stronger if I reversed the move order. The game ended when my opponent flagged in a losing position. <br /> <b>Press,Shaun - Grcic,Milan [E04]</b><br /> Swiss Festive Fun --- (5), 05.12.2023 <script> new PgnViewer( { boardName: \"game1432\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.g3 c5 5.Bg2 cxd4 6.O-O dx",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -848,22 +864,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2023-sinquefield-cup-final-standings-sinquefieldcup-grandchesstour-2023",
          "pubDate" : "Fri, 01 Dec 2023 20:01:54",
          "title" : "2023 Sinquefield Cup Final Standings | #sinquefieldcup #grandchesstour 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/congratulations-fabiano-caruana-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TgcQjRP8ChE.jpg?itok=B6NOClJC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/congratulations-fabiano-caruana-sinquefieldcup-grandchesstour-2023",
-         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
-         "title" : "Congratulations to Fabiano Caruana! | #sinquefieldcup #grandchesstour 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-wins-2023-sinquefield-cup-sinquefieldcup-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vINq5vPlvWw.jpg?itok=yPue-RYx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-wins-2023-sinquefield-cup-sinquefieldcup-grandchesstour",
-         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
-         "title" : "Fabi Wins The 2023 Sinquefield Cup! |#sinquefieldcup #grandchesstour"
       },
       {
          "description" : " The 13th London Classic took place 1st to 10th December 2023. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal. Michael Adams scored his best result in many years by taking clear first place with 6/9.",
