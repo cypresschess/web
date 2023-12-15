@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Rapid and Blitz Chess Championships began yesterday at the Zagreb Exhibition Centre. The rapid tournament is played on Thursday and on Friday, followed by the blitz tournament on Saturday and Sunday. Almost 700 players from 41 federations are taking part.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-championships-start-in-zagreb",
+         "pubDate" : "Fri, 15 Dec 2023 13:23:12",
+         "title" : "European Rapid and Blitz Championships in Zagreb"
+      },
+      {
+         "description" : "Available now, but only until 24 December: The bundle for winners: ChessBase 17 & Fritz 19 in a Christmas bundle. Instead of 249,90 € only 199,90 €. Get it now.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-offer-for-christmas-chessbase-17-and-fritz-19-the-winning-bundle",
+         "pubDate" : "Fri, 15 Dec 2023 13:19:16",
+         "title" : "On offer for Christmas: ChessBase 17 and Fritz 19 - the winning bundle"
+      },
+      {
+         "description" : " The player lists for the 2023 World Rapid and Blitz have been released. Magnus Carlsen is the top seed in the Open events, while Wenjun Ju is the top seed for the Women's Rapid and Tengjie Lei for the Women's Blitz. All the events are incredibly strong, with the 200+ players in the Open, and 125 in the Women's event. The venue is Samarkand in Uzbekistan and the tournament runs from the 26th to the 30th of December. Full details of the tournament can be found at <a href=\"https://worldrapidandblitz2023.fide.com/\">https://worldrapidandblitz2023.fide.com/</a> I will be onsite at the event, as I am one of the Pairings Officers for the tournament. Unlike the Chess Olympiad (where I have also fill",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz.html",
+         "pubDate" : "Fri, 15 Dec 2023 12:09:00",
+         "title" : "2023 World Rapid and Blitz"
+      },
+      {
+         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
+         "pubDate" : "Fri, 15 Dec 2023 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "In his new game of the week show Merin van Delft takes a look at the game Hans Niemann vs Mateusz Bartel, which was played at the London Chess Classic and which is perhaps one of the most creative and sophisticated swindles of 2023. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-598-h-niemann-vs-m-bartel",
+         "pubDate" : "Fri, 15 Dec 2023 10:00:00",
+         "title" : "Game of the Week #598: H. Niemann vs M. Bartel"
+      },
+      {
          "description" : " The eight-time British champion called the London Classic \"my best ever result\" while the young talent will be close to a new English age record if he scores his third and final GM norm Michael Adams, at 52 the oldest competitor, won the 13th <a href=\"https://www.londonchessclassic.com/\" title=\"\">London Classic</a> and its &pound;15,000 first prize on Sunday. The youngest player, 14-year-old Shreyas Royal, scored his second grandmaster result and will aim immediately for his third and final norm at the traditional <a href=\"https://hastingschess.com/\" title=\"\">Caplin Hastings New Year congress</a> which starts on 28 December. Adams became the first English winner of the Classic, which during",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -106,20 +146,20 @@ news_feed (
          "title" : "Developing an AI Chess Engine on a Weekend - a Guide for the Lazy Ones"
       },
       {
-         "description" : "The European Rapid and Blitz Chess Championships begin today at the Zagreb Exhibition Centre. The rapid tournament will be played today and on Friday, followed by the blitz tournament on Saturday and Sunday. Almost 700 players from 41 federations are taking part.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-championships-start-in-zagreb",
-         "pubDate" : "Thu, 14 Dec 2023 15:05:52",
-         "title" : "European Rapid and Blitz Championships start in Zagreb"
-      },
-      {
          "description" : "GM Jose Martinez has shown he can do it all by successfully defending his title in the second Variants Community Series (VCS) final. This time showing his prowess at 3 Check Chess, Martinez overcame FM Vasilios Kasioumis&#38;nbsp;by a margin of 3-1 to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-vcs-3check-martinez-wins",
          "pubDate" : "Thu, 14 Dec 2023 14:00:00",
          "title" : "Martinez Defends Variant Crown In 3 Check Chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2800",
+         "pubDate" : "Thu, 14 Dec 2023 11:30:32",
+         "title" : "Cape Verde Championship 2023: Mariano Ortega wins fourth title"
       },
       {
          "description" : "Kindly find attached live games link for the&#160;Live&#160;Games&#160;Incharge&#160;for&#160;1st&#160;Meghalaya Open Grandmasters Chess Tournament-2023 at Shillong from&#160;&#160;13th&#160;to 20th&#160;December, 2023. Live Games link :&#160;https://view.livechesscloud.com/#d9b648de-f0f4-40b2-a1e9-eaaa82568993 chess-results &#160;https://chess-results.com/tnr848636.aspx?lan=1&#38;art=0&#38;fed=IND&#38;turdet=YES&#38;flag=30",
@@ -394,22 +434,6 @@ news_feed (
          "title" : "Two Geniuses Together: When Magnus Carlsen Met Pep Guardiola"
       },
       {
-         "description" : "After finishing the rapid section in shared second place, Vidit Gujrathi tied for first in the blitz to claim overall first place at the Gashimov Memorial. Vidit managed to keep his &frac12;-point lead over Arjun Erigaisi by winning his final game in Gabala - Arjun also scored a full point in the 18th round of blitz and grabbed clear second place. Richard Rapport, who had struggled in the rapid but obtained as many points as Vidit in the blitz, finished third. | Photo: Mukhtar Ahmad",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gashimov-memorial-2023-d4",
-         "pubDate" : "Tue, 12 Dec 2023 00:50:00",
-         "title" : "Vidit edges Arjun, wins 2023 Gashimov Memorial"
-      },
-      {
-         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. The tournament might decide who will go to the Candidates Tournament 2024. | Photos: ChessBase India.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-masters-2023-a-chance-to-qualify-for-the-candidates",
-         "pubDate" : "Mon, 11 Dec 2023 23:30:00",
-         "title" : "Chennai Masters 2023 - A chance to qualify for the Candidates"
-      },
-      {
          "description" : "With a compelling finish in the blitz segment, GM Vidit Gujrathi won the Vugar Gashimov Memorial 2023 on Monday. After a rocky start, Vidit scored an undefeated 9/11 to tie for first in blitz and clinch the overall tournament.&#38;nbsp; GM&#38;nbsp;Arju...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -424,14 +448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-day-3",
          "pubDate" : "Mon, 11 Dec 2023 19:18:00",
          "title" : "So Defeats Carlsen; Nakamura On Brink Of Elimination"
-      },
-      {
-         "description" : "In the Endgame Magic Show #258 Karsten M&uuml;ller shows highlights from the Rapid Tournament in Saint Louis and a rook endgame, which indicates why Magnus Carlsen is considered to be one of the best endgame players of all time. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-258-highlights-from-the-saint-louis-rapid-tournament",
-         "pubDate" : "Mon, 11 Dec 2023 18:00:00",
-         "title" : "Endgame Magic #258 - Highlights from the Saint Louis Rapid Tournament"
       },
       {
          "description" : "At the end of last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html\">Elon Musk and Squirrels</A> (December 2023), I asked, <BLOCKQUOTE> Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wants to do. </BLOCKQUOTE> <P> While I've learned a few tricks in the week since that post, the whole process is still too much like herding cats. For this post, I used the tool to see how well it drew World Champions, both past and present. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl11.jpg\" WIDTH=334 HEIGHT=400><BR> <B",
@@ -1168,22 +1184,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/plan-2/",
          "pubDate" : "Fri, 24 Nov 2023 14:02:03",
          "title" : "Find A Plan In Any Position"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2760",
-         "pubDate" : "Fri, 24 Nov 2023 11:41:34",
-         "title" : "Workshop on broadcasting tournaments using VAR took place in Montesilvano"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2759",
-         "pubDate" : "Fri, 24 Nov 2023 10:52:58",
-         "title" : "2023 Sinquefield Cup: Day 3 Recap"
       }
    ]
 }
