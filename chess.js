@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2803",
+         "pubDate" : "Sat, 16 Dec 2023 15:56:38",
+         "title" : "Refugee team to make historic debut at 45th Chess Olympiad in Budapest"
+      },
+      {
+         "description" : "Dr. Karsten Mueller and Luis Engel have generated a lot of interest with their four player type model. Now, with Fritz 19 offering different club player characters as opponents, the question arises whether there is a correlation to the player types. Surprisingly, the answer is quite positive, as Karsten Mueller explains in detail in the video. The German GM has also analysed three of the games against our ChessBase authors and friends Robert Ris, Jan Jettel, and Svitlana Demchenko.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/do-the-characters-in-fritz-19-resemble-the-four-player-types",
+         "pubDate" : "Sat, 16 Dec 2023 14:00:00",
+         "title" : "Do the characters in Fritz 19 resemble the four player types?"
+      },
+      {
          "description" : " This is a follow up to a question asked in one the comments to a previous post. I'm not sure this is the definitive reason why there is no \"drop for mate\" in Transfer (Bughouse), but at least in my memory, this rule was active in Canberra around 1983. In that year the Australian Junior Chess Championship was held in Canberra, and was organised by Nathan Stirling. On the opening day there was an introductory event, consisting of blitz and transfer. For the transfer we were given the choice of allowing drop for checkmate, or not. IIRC the majority chose to allow 'drop for mate', and that was the rule adopted. I can remember winning at least one game using this method. However in subsequent lo",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -384,14 +400,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/an-ideal-game.html",
          "pubDate" : "Wed, 13 Dec 2023 12:43:00",
          "title" : "An ideal game?"
-      },
-      {
-         "description" : "The Sicilian Najdorf is one of the most aggressive answers to 1.e4, and its theory develops dynamically - the young German grandmaster Luis Engel brings all aficionados up to date with his two-volume Fritztrainer course. Christian H&ouml;the had a look at the course and is enthusiastic.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-luis-engel-najdorf-a-dynamic-grandmaster-repertoire-against-1-e4",
-         "pubDate" : "Wed, 13 Dec 2023 11:37:54",
-         "title" : "Review: Luis Engel \"Najdorf: A dynamic grandmaster repertoire against 1. e4\""
       },
       {
          "description" : "We are pleased to inform that TNSCA has already completed seven&#160;IM&#160;norm&#160;closed circuit tournaments successfully, achieving four&#160;IM&#160;norms&#160;and the eighth one is under progress at Erode. The",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapidblitz-chess-championship-2023-official-invitation/",
          "pubDate" : "Sun, 26 Nov 2023 04:44:00",
          "title" : "European Rapid&Blitz Chess Championship 2023 - Official invitation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2762",
-         "pubDate" : "Sat, 25 Nov 2023 16:23:49",
-         "title" : "World Youth Champions crowned in Montesilvano, Italy"
       }
    ]
 }
