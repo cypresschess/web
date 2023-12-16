@@ -70,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-title-match-day-1",
-         "pubDate" : "Fri, 15 Dec 2023 12:23:08",
+         "pubDate" : "Fri, 15 Dec 2023 12:23:00",
          "title" : "Carlsen 1 Set Victory Away From Third Title"
       },
       {
