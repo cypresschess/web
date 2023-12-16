@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " This is a follow up to a question asked in one the comments to a previous post. I'm not sure this is the definitive reason why there is no \"drop for mate\" in Transfer (Bughouse), but at least in my memory, this rule was active in Canberra around 1983. In that year the Australian Junior Chess Championship was held in Canberra, and was organised by Nathan Stirling. On the opening day there was an introductory event, consisting of blitz and transfer. For the transfer we were given the choice of allowing drop for checkmate, or not. IIRC the majority chose to allow 'drop for mate', and that was the rule adopted. I can remember winning at least one game using this method. However in subsequent lo",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/why-no-drop-for-mate.html",
+         "pubDate" : "Sat, 16 Dec 2023 12:07:00",
+         "title" : "Why no drop for mate?"
+      },
+      {
+         "description" : "Magnus Carlsen faced Levon Aronian several times in his career. The game Svitlana chose to analyse together with us, points out some crucial initiative decisions by Magnus, which made him win the game. Sacrificing one pawn to gain some advantage is a common practice. But sacrificing two pawns is already quite exceptional.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-practical-decision-making-like-magnus",
+         "pubDate" : "Sat, 16 Dec 2023 12:00:00",
+         "title" : "Svitlana's Smart Moves - Practical decision making like Magnus"
+      },
+      {
+         "description" : " The Champions Chess Tour Final takes place in Toronto, Canada 9th to 16th. The mostly online tour will have it's final in Toronto. Magnus Carlsen, Denis Lazavik, Nodirbek Abdusattorov, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Hikaru Nakamura and Wesley So. There will be a round robin stage of mini-matches. The top two make the knockout phase, 3rd-6th enter a survival stage double elimination stage to find two players. Magnus Carlsen won the first set of the final against Wesley So going into the last day.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-final-2023",
+         "pubDate" : "Sat, 16 Dec 2023 10:41:00",
+         "title" : "Champions Chess Tour Final 2023 - Games and Results"
+      },
+      {
+         "description" : " The Chennai Grand Masters chess tournament takes place in Chennai Fri 15th - Thu 21st Dec 2023. Players: Maghsoodloo, Erigaisi, Aronian, Gukesh, Sjugirov, Harikrishna, Eljanov and Predke. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chennai-grand-masters-2023",
+         "pubDate" : "Sat, 16 Dec 2023 10:40:00",
+         "title" : "Chennai Grand Masters 2023 - "
+      },
+      {
+         "description" : " The 9th Vugar Gashimov Memorial took place 8th to 11th December 2023. Aydin Suleymanli was the surprise winner of the rapid with 5.5/9. Richard Rapport edged out Santosh Vidit on tie-break after both scored 12/18 in the blitz. Vidit won the combined standings by half a point from Erigaisi. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/9th-vugar-gashimov-memorial-2023",
+         "pubDate" : "Sat, 16 Dec 2023 10:30:00",
+         "title" : "9th Vugar Gashimov Memorial 2023 - Games and Results"
+      },
+      {
+         "description" : "The European Rapid and Blitz Chess Championships began yesterday at the Zagreb Exhibition Centre. The rapid tournament is played on Thursday and on Friday, followed by the blitz tournament on Saturday and Sunday. Almost 700 players from 41 federations are taking part.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-championships-start-in-zagreb",
+         "pubDate" : "Sat, 16 Dec 2023 10:25:00",
+         "title" : "European Rapid and Blitz Championships in Zagreb"
+      },
+      {
+         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
+         "pubDate" : "Sat, 16 Dec 2023 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "In the diagram position White just opened the long diagonal for the bishop with 25.Ne4. Can Black now capture on d5 - and how should she capture on d5?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -338,14 +394,6 @@ news_feed (
          "title" : "Review: Luis Engel \"Najdorf: A dynamic grandmaster repertoire against 1. e4\""
       },
       {
-         "description" : "Fabiano Caruana and Nodirbek Abdusattorov advanced to the semifinals of the Champions Chess Tour Finals after going through the 'survival stage' on Tuesday. The two players who were knocked out of the competition in this stage were Maxime Vachier-Lagrave and Hikaru Nakamura, with the latter coming inches away from reaching the semis via the longest path. The U.S. star would have needed to win three matches on a single day - he beat Denis Lazavik and MVL before losing in Armageddon to Abdusattorov. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d4",
-         "pubDate" : "Wed, 13 Dec 2023 11:30:00",
-         "title" : "CCT Finals: Abdusattorov and Caruana survive"
-      },
-      {
          "description" : "We are pleased to inform that TNSCA has already completed seven&#160;IM&#160;norm&#160;closed circuit tournaments successfully, achieving four&#160;IM&#160;norms&#160;and the eighth one is under progress at Erode. The",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -426,28 +474,12 @@ news_feed (
          "title" : "Comeback Kid Abdusattorov Knocks Out Nakamura"
       },
       {
-         "description" : "Magnus Carlsen is the world number one chess player and Pep Guardiola is regarded as one of the best football coaches in the world who has changed the way football is played and thought about. Guardiola has celebrated numerous national and international successes with FC Barcelona, Bayern Munich and Manchester City. In a revealing conversation organised by PUMA, Carlsen and Guardiola talked about the similarities between football and chess and gave insights into their strategies and tricks.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-meets-football-magnus-carlsen-meets-pep-guardiola",
-         "pubDate" : "Tue, 12 Dec 2023 14:54:08",
-         "title" : "Chess meets football, Carlsen meets Guardiola"
-      },
-      {
          "description" : "&#8212; from Chess.com GM Michael Adams said it was probably his best-ever result to win the London Chess Classic 2023 at the age of 52....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/lcc-adams-wins-with-best-ever-result-royal-makes-second-gm-norm/",
          "pubDate" : "Tue, 12 Dec 2023 09:05:33",
          "title" : "LCC - Adams wins with 'Best Ever Result', Royal makes second GM Norm"
-      },
-      {
-         "description" : "Passed pawns can be powerful. The diagram shows a position from a game Alexander Grischuk played against Yu Yangyi at the Tech Mahindra Global Chess League event. It is White to move, and do you see how Grischuk can use his powerful pawns?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grischuk-s-powerful-pawns",
-         "pubDate" : "Tue, 12 Dec 2023 09:00:00",
-         "title" : "Grischuk's powerful pawns"
       },
       {
          "description" : "3Cs Chess Club have once again been given national recognition, with the club's founder Steve Rigby having secured a &#8216;Points of Light' award, a national...",
@@ -680,14 +712,6 @@ news_feed (
          "link" : "https://www.thearticle.com/we-play-the-game-of-war/",
          "pubDate" : "Sat, 09 Dec 2023 11:18:50",
          "title" : "We play the game of war"
-      },
-      {
-         "description" : " The Champions Chess Tour Final takes place in Toronto, Canada 9th to 16th. The mostly online tour will have it's final in Toronto. Magnus Carlsen, Denis Lazavik, Nodirbek Abdusattorov, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Hikaru Nakamura and Wesley So. There will be a round robin stage of mini-matches. The top two make the knockout phase, 3rd-6th enter a survival stage double elimination stage to find two players. Then there will be a straight knockout to determine the winner.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-final-2023",
-         "pubDate" : "Fri, 8 Dec 2023 20:39:00",
-         "title" : "Champions Chess Tour Final 2023 - Games and Results"
       },
       {
          "description" : " The eight-time British champion was close to defeat in round six, but stayed half a point ahead of his Indian and Iranian rivals going into the final two rounds With two rounds of nine to go this weekend in the London Classic, the eight-time British champion Michael Adams, 52, leads the top-seeded Indian Dommaraju Gukesh, 17, and Iran's Amin Tabatabaei, 22, by half a point. Leaders after round seven were Adams (England) 5, Gukesh (India) and Tabatabaei (Iran) 4.5, Mateusz Bartel (Poland) 4. <a href=\"https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape\">Continue reading...</a>",
@@ -1176,22 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2762",
          "pubDate" : "Sat, 25 Nov 2023 16:23:49",
          "title" : "World Youth Champions crowned in Montesilvano, Italy"
-      },
-      {
-         "description" : "I should have spotted the clue. I must have read The Lost World, by Sir Arthur Conan Doyle, at least five times, before the penny dropped. In chapter five, \"Questions!\", the irascible yet ingenious anti-hero, Professor George Challenger (a kind of scientific equivalent of Sherlock Holmes), has agreed to give a lecture at London's Zoological Institute, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/professor-challengers-electric-brougham/",
-         "pubDate" : "Sat, 25 Nov 2023 11:06:34",
-         "title" : "Professor Challenger's 'electric brougham'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2761",
-         "pubDate" : "Sat, 25 Nov 2023 10:17:00",
-         "title" : "2023 Sinquefield Cup: Day 4 Recap"
       }
    ]
 }
