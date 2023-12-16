@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White just opened the long diagonal for the bishop with 25.Ne4. Can Black now capture on d5 - and how should she capture on d5?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/queens-and-dark-squares-2",
+         "pubDate" : "Sat, 16 Dec 2023 09:00:00",
+         "title" : "The long diagonal"
+      },
+      {
+         "description" : "British Grandmaster Mickey Adams, fresh from winning the World 50+ Championship, has now scored what he describes as the success of his life by also taking first prize in the 2023 London Classic, at the age of 52. Mickey Adams has a distinctive style over the chessboard. His moves are delicate , rather than brutal, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/triumph-of-the-universal-spidey/",
+         "pubDate" : "Sat, 16 Dec 2023 05:55:20",
+         "title" : "Triumph of the Universal Spidey"
+      },
+      {
          "description" : "Magnus Carlsen only needs a draw in the second set of the Champions Chess Tour Finals to claim his third consecutive title in the online series (he also won in 2020, when the tour was fittingly named after him). Carlsen beat Wesley So in the first set of the match for the title after scoring the one win of the set from a very balanced endgame position. | Photo: chess.com / Thomas Tischio",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -432,14 +448,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grischuk-s-powerful-pawns",
          "pubDate" : "Tue, 12 Dec 2023 09:00:00",
          "title" : "Grischuk's powerful pawns"
-      },
-      {
-         "description" : "Wesley So beat Magnus Carlsen and Nodirbek Abdusattorov to keep a perfect score of 6 wins in 6 matches at the Champions Chess Tour Finals in Toronto. Carlsen (5 points) has also secured a ticket to the semifinals, while Hikaru Nakamura (1) and Denis Lazavik (1), who face each other in round 7, will need a couple of results to go their way if they want to reach the 'survival stage'. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d3",
-         "pubDate" : "Tue, 12 Dec 2023 08:50:00",
-         "title" : "CCT Finals: So still perfect, Naka in trouble"
       },
       {
          "description" : "3Cs Chess Club have once again been given national recognition, with the club's founder Steve Rigby having secured a &#8216;Points of Light' award, a national...",
