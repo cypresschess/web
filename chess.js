@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen only needs a draw in the second set of the Champions Chess Tour Finals to claim his third consecutive title in the online series (he also won in 2020, when the tour was fittingly named after him). Carlsen beat Wesley So in the first set of the match for the title after scoring the one win of the set from a very balanced endgame position. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d7",
+         "pubDate" : "Sat, 16 Dec 2023 02:45:00",
+         "title" : "CCT Finals: Carlsen wins first set"
+      },
+      {
          "description" : "The Chennai Grand Masters 2023 got off to a splendid start. Just when it seemed like the first round would end up being victorless, Pentala Harikrishna and Pavel Eljanov proved those predictions wrong. Arjun Erigaisi (Harikrishna's opponent) made a significant mistake early in the game. It made him defend the better part of the battle. Eventually he missed his final opportunity to salvage a half point, which cost him the game. Parham Maghsoodloo (Eljanov's opponent) made a huge blunder in a rook and two pawns endgame which was seemingly heading towards a draw. | All photos are by Shahid Ahmed unless specified otherwise.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r1-harikrishna-and-eljanov-strike-2",
          "pubDate" : "Fri, 15 Dec 2023 21:15:00",
          "title" : "Chennai Masters R1: Harikrishna and Eljanov strike"
-      },
-      {
-         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
-         "pubDate" : "Fri, 15 Dec 2023 17:50:00",
-         "title" : "Champions Chess Tour Finals - Live!"
       },
       {
          "description" : "This week GM Daniel King looks at a fine attack played by Alireza Firouzja. Apart from predicting some of his moves, he tests your defensive abilities! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -56,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cct-finals-2023-d6",
          "pubDate" : "Fri, 15 Dec 2023 13:25:00",
          "title" : "CCT Finals: Carlsen and So to fight for the title"
-      },
-      {
-         "description" : "The European Rapid and Blitz Chess Championships began yesterday at the Zagreb Exhibition Centre. The rapid tournament is played on Thursday and on Friday, followed by the blitz tournament on Saturday and Sunday. Almost 700 players from 41 federations are taking part.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-championships-start-in-zagreb",
-         "pubDate" : "Fri, 15 Dec 2023 13:23:12",
-         "title" : "European Rapid and Blitz Championships in Zagreb"
       },
       {
          "description" : "GM Magnus Carlsen is one set away from winning his third title and $200,000 at the 2023 Champions Chess Tour Finals. On day one of the Title Match, he defeated GM Wesley So with the black pieces in game three, squeezing water from stone in the roo...",
@@ -440,6 +432,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grischuk-s-powerful-pawns",
          "pubDate" : "Tue, 12 Dec 2023 09:00:00",
          "title" : "Grischuk's powerful pawns"
+      },
+      {
+         "description" : "Wesley So beat Magnus Carlsen and Nodirbek Abdusattorov to keep a perfect score of 6 wins in 6 matches at the Champions Chess Tour Finals in Toronto. Carlsen (5 points) has also secured a ticket to the semifinals, while Hikaru Nakamura (1) and Denis Lazavik (1), who face each other in round 7, will need a couple of results to go their way if they want to reach the 'survival stage'. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d3",
+         "pubDate" : "Tue, 12 Dec 2023 08:50:00",
+         "title" : "CCT Finals: So still perfect, Naka in trouble"
       },
       {
          "description" : "3Cs Chess Club have once again been given national recognition, with the club's founder Steve Rigby having secured a &#8216;Points of Light' award, a national...",
