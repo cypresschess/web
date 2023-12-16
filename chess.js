@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vishy Anand inaugurated the Chennai Grand Masters 2023 by making the first move on D Gukesh and Arjun Erigaisi's board. They had a relatively calm draw. Alexandr Predke (SRB) had good chances against Pentala Harikrishna. However, he blundered away his advantage. The endgame expert, Harikrishna, does not miss these chances to secure a half point. Pavel Eljanov (UKR) made an incorrect offer of queen trades, which resulted in him losing an exchange. The already difficult endgame turned worse for him and his opponent Sanan Sjugirov (HUN) scored his first-ever classical win over his opponent. Parham Maghsoodloo (IRI) was determined to push for a win, but a draw was the maximum result he could get",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vishy-anand-inaugurates-chennai-grand-masters-2023",
+         "pubDate" : "Sat, 16 Dec 2023 21:05:00",
+         "title" : "Vishy Anand inaugurates Chennai Grand Masters 2023"
+      },
+      {
+         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
+         "pubDate" : "Sat, 16 Dec 2023 17:50:00",
+         "title" : "Champions Chess Tour Finals - Live!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,12 +82,12 @@ news_feed (
          "title" : "European Rapid and Blitz Championships in Zagreb"
       },
       {
-         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
-         "pubDate" : "Sat, 16 Dec 2023 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
+         "description" : "GM Sanan Sjugirov defended against ambitious play by GM Pavel Eljanov in the middlegame to score a patient victory and jumped into a joint lead with one and a half points after the second round of the Chennai Grand Masters 2023. He has joined GM P...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-2",
+         "pubDate" : "Sat, 16 Dec 2023 09:46:00",
+         "title" : "Harikrishna, Sjugirov In Joint Lead After Day Of Fierce Fights"
       },
       {
          "description" : "In the diagram position White just opened the long diagonal for the bishop with 25.Ne4. Can Black now capture on d5 - and how should she capture on d5?",
@@ -360,14 +376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2796",
          "pubDate" : "Wed, 13 Dec 2023 21:28:54",
          "title" : "2023 Hungarian Championship: A few unexpected results at the start"
-      },
-      {
-         "description" : "The FIDE Ethics and Disciplinary Commission (EDC) has deliberated on Magnus Carlsen's withdrawal from the Sinquefield Cup following his defeat to Hans Niemann in September 2022 and has now reached a verdict. Carlsen has been fined 10,000 euros for his unjustified withdrawal. | Photo: Saint Louis Chess Center",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ethics-commission-fines-carlsen-10-000-euros",
-         "pubDate" : "Wed, 13 Dec 2023 17:31:43",
-         "title" : "FIDE Ethics Commission fines Carlsen 10,000 euros"
       },
       {
          "description" : "",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape",
          "pubDate" : "Fri, 08 Dec 2023 20:21:02",
          "title" : "Chess: Michael Adams still leads with two rounds left in London Classic"
-      },
-      {
-         "description" : "&#34;The game could and should have gone differently,&#34; confessed GM Mateusz Bartel after GM Hans Niemann survived a huge attack only to blunder on the verge of victory. GM Amin Tabatabaei moved into joint second in the London Chess Classic 2023 with a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-7",
-         "pubDate" : "Fri, 08 Dec 2023 19:10:00",
-         "title" : "Wild Chess As Bartel Beats Niemann, Tabatabaei Stuns Vitiugov"
       },
       {
          "description" : "A 1750-rated reader recently told me: A small comment to my GM Coach about not fully understanding the French turned into 13 Training sessions on every detail in the French opening, 95% of which I never saw and will probably never see.\" In a World of Abundance, more is not always better. With Limited time, your Goal should be \"Less but Better.\" This is a common appearance in Chess nowadays: a stronger player teaches a weaker player way too many lines about an opening. In this Newsletter, I...",
