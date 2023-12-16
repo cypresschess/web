@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2023-12-01  - 12-15","9","<a href=http://www.uschess.org/msa/XtblMain.php?202312155882 target='_blank'>REBECCA CHESS CLUB DECEMBER 2023 MONTHLY SWISS</a>",
+"HOUSTON","2023-12-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202312155862 target='_blank'>REBECCA CHESS CLUB QUADS DECEMBER 15, 2023</a>",
+"HOUSTON","2023-12-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202312095612 target='_blank'>DECEMBER 9TH SATURDAY SWISS</a>",
 "HOUSTON","2023-12-09","358","<a href=http://www.uschess.org/msa/XtblMain.php?202312092902 target='_blank'>MIMS CHESS TOURNAMENT</a>",
 "HOUSTON","2023-12-09","6","<a href=http://www.uschess.org/msa/XtblMain.php?202312092382 target='_blank'>CHESSPANDA12092023SATURDAY</a>",
 "HOUSTON","2023-12-08","16","<a href=http://www.uschess.org/msa/XtblMain.php?202312083672 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -16,6 +19,7 @@ jtable([
 "HOUSTON","2023-11-25","14","<a href=http://www.uschess.org/msa/XtblMain.php?202311254842 target='_blank'>HOUSTON WOMEN AND GIRLS 2023 CHESS</a>",
 "SPRING","2023-11-24","22","<a href=http://www.uschess.org/msa/XtblMain.php?202311244042 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2023-11-24","12","<a href=http://www.uschess.org/msa/XtblMain.php?202311244012 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"HOUSTON","2023-11-19","4","<a href=http://www.uschess.org/msa/XtblMain.php?202311195732 target='_blank'>GAME GUYS 11.19.23</a>",
 "HOUSTON","2023-11-17  - 11-19","242","<a href=http://www.uschess.org/msa/XtblMain.php?202311192132 target='_blank'>2023 HOUSTON OPEN CHESS CHAMPIONSHI</a>",
 "HOUSTON","2023-11-18","6","<a href=http://www.uschess.org/msa/XtblMain.php?202311180402 target='_blank'>CHESSPANDA11182023SATURDAY</a>",
 "SUGAR LAND","2023-11-17","4","<a href=http://www.uschess.org/msa/XtblMain.php?202311179982 target='_blank'>FBCC 2023 HUSTLING TURKEY OPEN</a>",
@@ -195,8 +199,4 @@ jtable([
 "HOUSTON","2023-06-09","15","<a href=http://www.uschess.org/msa/XtblMain.php?202306098092 target='_blank'>REBECCA CHESS CLUB QUADS JUNE 9, 2023</a>",
 "SPRING","2023-06-09","17","<a href=http://www.uschess.org/msa/XtblMain.php?202306098022 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2023-06-09","31","<a href=http://www.uschess.org/msa/XtblMain.php?202306097962 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2023-06-04","25","<a href=http://www.uschess.org/msa/XtblMain.php?202306046122 target='_blank'>JUNE 4TH 2023 SUNDAY SWISS</a>",
-"HOUSTON","2023-06-03","45","<a href=http://www.uschess.org/msa/XtblMain.php?202306036162 target='_blank'>JUNE 3RD 2023 SCHOLASTIC</a>",
-"CYPRESS","2023-06-02","30","<a href=http://www.uschess.org/msa/XtblMain.php?202306026942 target='_blank'>EVENT NAME MISSING</a>",
-"SPRING","2023-06-02","28","<a href=http://www.uschess.org/msa/XtblMain.php?202306024612 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
