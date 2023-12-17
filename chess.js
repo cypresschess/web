@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2804",
+         "pubDate" : "Sun, 17 Dec 2023 11:27:26",
+         "title" : "European Rapid and Blitz Championship 2023: Sarana and Navara win titles "
+      },
+      {
+         "description" : "Today, 17 December 2023, Alexander \"Big Al\" Beliavsky celebrates his 70th birthday. 50 years ago, in 1973, he became World Junior Champion and has been a fixture in the chess universe ever since. For decades he was a world class player and in the course of his illustrious career Beliavsky defeated no less than nine world champions in classical chess - a feat achieved only by Paul Keres and Viktor Korchnoi! Eduard Frey congratulates and presents highlights of a remarkable career. | Alexander Beliavsky at his first Chess Olympiad in Lucerne 1982 | Photo: Dr. Klaus Krtschil via Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alexander-beliavsky-turns-70-happy-birthday-to-the-legendary-player-who-beat-nine-world-champions",
+         "pubDate" : "Sun, 17 Dec 2023 11:00:00",
+         "title" : "Alexander Beliavsky turns 70 - Happy birthday to the legendary player who defeated nine world champions!"
+      },
+      {
+         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
+         "pubDate" : "Sun, 17 Dec 2023 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "The 2023 European Rapid and Blitz Chess Championships concluded yesterday in Zagreb, Croatia. The event was played from 14-16 December, with the participation of nearly 700 players coming from 41 European federations. The first event on the schedule was the European Rapid Chess Championship 2023 which took place on 14-15 December with more than 450 players. The event was played in 11 rounds, swiss system, and the last round determined the Winner and the medalists. Heading into the final round []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-concluded-in-croatia/",
+         "pubDate" : "Sun, 17 Dec 2023 08:45:18",
+         "title" : "European Rapid and Blitz Chess Championship 2023 concluded in Croatia"
+      },
+      {
          "description" : "Please find here live link of Chennai GM Chess Tournament 2023 https://cgm2023.magdisoft.com/live/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://www.thearticle.com/triumph-of-the-universal-spidey/",
          "pubDate" : "Sat, 16 Dec 2023 05:55:20",
          "title" : "Triumph of the Universal Spidey"
-      },
-      {
-         "description" : "ESPN India picks ten images that tell the story of the most stunning Indian sports moments witnessed throughout 2023",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/39123382/moment-year-2023-praggnanandhaa-nagalakshmi-chess-india-smile?device=featurephone",
-         "pubDate" : "Sat, 16 Dec 2023 04:37:59",
-         "title" : "Moment of the Year: Praggnanandhaa, Nagalakshmi and the mother's smile that resonated across India"
       },
       {
          "description" : "Magnus Carlsen only needs a draw in the second set of the Champions Chess Tour Finals to claim his third consecutive title in the online series (he also won in 2020, when the tour was fittingly named after him). Carlsen beat Wesley So in the first set of the match for the title after scoring the one win of the set from a very balanced endgame position. | Photo: chess.com / Thomas Tischio",
@@ -354,14 +378,6 @@ news_feed (
          "title" : "Leon Livai&#263 wins 2023 Croatian Championship"
       },
       {
-         "description" : "Nowadays you can easily download chess engines that play better than Carlsen, Caruana, Keymer or Nakamura. But if you feel like it, you can also try to program them yourself. Roger Lorenz has tried it. In one weekend - and with the help of ChatGPT. | Photo: Coding robot (image created with Automatic1111 and Stable Diffusion)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/developing-an-ai-chess-engine-on-a-weekend-a-guide-for-the-lazy-ones",
-         "pubDate" : "Thu, 14 Dec 2023 15:10:00",
-         "title" : "Developing an AI Chess Engine on a Weekend - a Guide for the Lazy Ones"
-      },
-      {
          "description" : "GM Jose Martinez has shown he can do it all by successfully defending his title in the second Variants Community Series (VCS) final. This time showing his prowess at 3 Check Chess, Martinez overcame FM Vasilios Kasioumis&#38;nbsp;by a margin of 3-1 to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -392,14 +408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2798",
          "pubDate" : "Thu, 14 Dec 2023 10:13:52",
          "title" : "FIDE joins Global Esports Federation"
-      },
-      {
-         "description" : "In the new episode of his Fast & Furious show, Robert Ris takes a look at the brilliancy Wesley So won against Magnus Carlsen in the finals of the Champions Chess Tour in Toronto. A theoretically important and really impressive attacking game! | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-beating-carlsen-with-the-anti-sveshnikov",
-         "pubDate" : "Thu, 14 Dec 2023 10:04:46",
-         "title" : "Robert Ris' Fast and Furious: Beating Carlsen with the Anti-Sveshnikov!"
       },
       {
          "description" : "",
@@ -1184,22 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2764",
          "pubDate" : "Sun, 26 Nov 2023 14:47:33",
          "title" : "Friendly team match Africa vs FIDE held as part of AASC General Assembly"
-      },
-      {
-         "description" : " After a break of a few years, the ACT Junior Chess league Transfer Tournament is back. This is the traditional end of year event for the ACTJCL, but is open to all players, regardless of age. The details are <b>The ACT Junior Chess League presents the '2023 Transfer Chess Festival'</b><br /><br />Can you play transfer chess? Maybe you don't even know what transfer is? Come along to this fun and fabulous tournament, celebrate another sensational year of chess in the capital &hellip; and we'll teach you to play transfer! Your chess may never be the same again! Transfer is a team game. You can register as a team of two, or register alone and we'll find a partner for you on the day!<br /><br />",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/transfer-is-back.html",
-         "pubDate" : "Sun, 26 Nov 2023 12:14:00",
-         "title" : "Transfer is back"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2763",
-         "pubDate" : "Sun, 26 Nov 2023 10:29:54",
-         "title" : "2023 Sinquefield Cup: Day 5 Recap"
       }
    ]
 }
