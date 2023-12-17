@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In order to attack the enemy king successfully in a game of chess, you need sufficient firepower and a clear target. Often there will be a complex of squares of the same colour that come under attack, and so we have white or dark-square games. Today we have some instances of attacks on both light and dark squares, featuring the likes of Johannes Zukertort (pictured) and Anatoly Karpov!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-208",
+         "pubDate" : "Sun, 17 Dec 2023 21:00:00",
+         "title" : "Jon Speelman: Light and dark"
+      },
+      {
+         "description" : "Arjun Erigaisi scored his first win of the event against Alexandr Predke in the third round of the Chennai Grand Masters 2023. After losing the first round against Harikrishna, Arjun was virtually in a must-win situation to stay in the championship hunt and keep his chances in the FIDE Circuit. Predke made a positional mistake which allowed his opponent to force the queen exchange. Arjun made the most out of his opportunity to trail the leaders - Sanan Sjugirov and Harikrishna - by a half point at 1.5/3 along with Levon Aronian, Pavel Eljanov and D Gukesh. | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r3-arjun-erigaisi-pulverizes-predke",
+         "pubDate" : "Sun, 17 Dec 2023 18:40:00",
+         "title" : "Chennai Masters R3: Arjun pulverizes Predke"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 156th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and takes a look at the games and the legacy of Paul Keres. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +50,12 @@ news_feed (
          "title" : "Alexander Beliavsky turns 70 - Happy birthday to the legendary player who defeated nine world champions!"
       },
       {
-         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
-         "pubDate" : "Sun, 17 Dec 2023 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
+         "description" : "British chess prodigy WCM Bodhana Sivanandan continues her remarkable chess journey with a sensational result in the European Blitz Championship where she won the prize for the best woman player. In late October, the eight-year-old prodigy made ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/british-chess-prodigy-bodhana-sivanandan",
+         "pubDate" : "Sun, 17 Dec 2023 09:40:00",
+         "title" : "8-Year-Old British Sensation Stuns Chess World In Euro Blitz"
       },
       {
          "description" : "The 2023 European Rapid and Blitz Chess Championships concluded yesterday in Zagreb, Croatia. The event was played from 14-16 December, with the participation of nearly 700 players coming from 41 European federations. The first event on the schedule was the European Rapid Chess Championship 2023 which took place on 14-15 December with more than 450 players. The event was played in 11 rounds, swiss system, and the last round determined the Winner and the medalists. Heading into the final round []",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-concluded-in-croatia/",
          "pubDate" : "Sun, 17 Dec 2023 08:45:18",
          "title" : "European Rapid and Blitz Chess Championship 2023 concluded in Croatia"
+      },
+      {
+         "description" : "GM Arjun Erigaisi showed his defensive skills in a slightly difficult middlegame position to outwit GM Alexandr Predke later in a long endgame, scoring his maiden win of the event in the third round of the Chennai Grand Masters 2023. Erstwhile joi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-3",
+         "pubDate" : "Sun, 17 Dec 2023 08:35:00",
+         "title" : "Arjun Defeats Predke In Day Of Seesaw Battles"
       },
       {
          "description" : "Please find here live link of Chennai GM Chess Tournament 2023 https://cgm2023.magdisoft.com/live/",
@@ -200,6 +224,14 @@ news_feed (
          "link" : "https://www.thearticle.com/triumph-of-the-universal-spidey/",
          "pubDate" : "Sat, 16 Dec 2023 05:55:20",
          "title" : "Triumph of the Universal Spidey"
+      },
+      {
+         "description" : "ESPN India picks ten images that tell the story of the most stunning Indian sports moments witnessed throughout 2023",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39123382/moment-year-2023-praggnanandhaa-nagalakshmi-chess-india-smile?device=featurephone",
+         "pubDate" : "Sat, 16 Dec 2023 04:37:59",
+         "title" : "Moment of the Year: Praggnanandhaa, Nagalakshmi and the mother's smile that resonated across India"
       },
       {
          "description" : "Magnus Carlsen only needs a draw in the second set of the Champions Chess Tour Finals to claim his third consecutive title in the online series (he also won in 2020, when the tour was fittingly named after him). Carlsen beat Wesley So in the first set of the match for the title after scoring the one win of the set from a very balanced endgame position. | Photo: chess.com / Thomas Tischio",
@@ -360,14 +392,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-kicked-off-in-zagreb/",
          "pubDate" : "Thu, 14 Dec 2023 23:03:14",
          "title" : "European Rapid and Blitz Chess Championship 2023 kicked off in Zagreb"
-      },
-      {
-         "description" : "The Chennai Grand Masters is the strongest ever classical super tournament to take place in India. The average rating of the tournament is 2711. Arjun Erigaisi and D Gukesh will be battling against Parham Maghsoodloo (IRI) for an improvement in the FIDE Circuit. They will also face Levon Aronian (USA), Sanan Sjugirov (HUN), Pentala Harikrishna, Pavel Eljanov (UKR) and Alexandr Predke (SRB). The total prize fund is ₹5000000 (US$ 60000). The top three prizes are ₹1500000 (US$ 18000), ₹1000000 (US$ 12000) and ₹800000 (US$ 12000). Round 1 starts tomorrow at 14.45 IST (10.15 CET, 4.15 ET). | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-and-arjun-erigaisi-will-battle-world-s-best-at-chennai-grand-masters-2",
-         "pubDate" : "Thu, 14 Dec 2023 22:40:00",
-         "title" : "Gukesh and Arjun will battle world's best at the Chennai Grand Masters"
       },
       {
          "description" : "GMs Magnus Carlsen and Wesley So are the last players standing at the&#38;nbsp;2023 Champions Chess Tour Finals. They will meet for the Title Match to battle for the $200,000 first prize. Carlsen knocked out his 2018 world championship nemesis GM Fa...",
@@ -698,14 +722,6 @@ news_feed (
          "title" : "Italian Championship 2023: Moroni and Zimina defend titles"
       },
       {
-         "description" : "GM Michael Adams said it was probably his best-ever result to win the London Chess Classic 2023 at the age of 52. He clinched the title with a draw against the future of English chess, 14-year-old IM Shreyas Royal, who described himself as &#34;really...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-9",
-         "pubDate" : "Sun, 10 Dec 2023 13:19:00",
-         "title" : "Adams Wins With \"Best Ever Result,\" Royal Makes 2nd GM Norm"
-      },
-      {
          "description" : " I played in the annual Transfer (bughouse) event held in Canberra each year, with middling results. However, when I had the opportunity I wheeled out was I vaguely remembered was an opening called \"Baker's Attack\". It is an early sacrifice on f7, using 1.Nf3 2.Ne5 and 3.Nxf7. The the idea is to go the hack, either with an early Qh5+, or with e4 followed by Bc4+ However, I've failed to find an online reference to it, which may mean I am misremembering the name, or that it is even a real thing. Nonetheless, it did give me a few wins, even if isn't quite effective under the rules that are normally used in the ACT* (*It has been a long tradition in Canberra Bughouse events that you cannot for a",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -720,14 +736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2789",
          "pubDate" : "Sun, 10 Dec 2023 12:07:32",
          "title" : "FIDE World School Championships 2024 - Call for Bids "
-      },
-      {
-         "description" : "GM Leinier Dominguez has arrived in Spain where he will play the Chessable Sunway Sitges Chess Festival to battle for a coveted spot in the Candidates tournament. This week the Cuban-born American, currently the world&#39;s seventh-ranked player, co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dominguez-arrives-in-sitges-as-candidates-chase-begins",
-         "pubDate" : "Sun, 10 Dec 2023 10:56:00",
-         "title" : "Dominguez Arrives In Sitges As Hunt For Candidates Begins"
       },
       {
          "description" : "All India Chess Federation and Fair Play Committee of AICF organised Fair Play Orientation workshops on 08-09 July 23,15-16 July 23 and 02-03 December 23",
