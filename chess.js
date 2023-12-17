@@ -26,11 +26,19 @@ news_feed (
          "title" : "Champions Chess Tour Final 2023 - Games and Results"
       },
       {
+         "description" : "FIDE could be on the verge of scrapping its presidential term limit and allowing Russian incumbent Arkady Dvorkovich to run for four more years in office. The world chess federation&#39;s current rules&#38;mdash;brought in as an election promise by Dvor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/21-federations-call-for-end-to-fide-presidents-term-limit",
+         "pubDate" : "Sat, 16 Dec 2023 18:12:02",
+         "title" : "21 Federations Call For Rule Change To End FIDE President's Term Limit"
+      },
+      {
          "description" : "Bullet Brawl&#39;s undisputed king, GM Hikaru Nakamura, secured his 15th title and $1,000 in the latest edition of the tournament, finishing on 260 points with 71 wins, two draws, and eight losses. A 27-game streak, which included wins over chess pers...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-december-16-2023",
-         "pubDate" : "Sat, 16 Dec 2023 16:01:06",
+         "pubDate" : "Sat, 16 Dec 2023 16:01:00",
          "title" : "Nakamura Wins Bullet Brawl With 27-Game Streak"
       },
       {
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2787",
          "pubDate" : "Sat, 09 Dec 2023 17:16:02",
          "title" : "FIDE sets clear standards for chess organizers and event evaluation"
-      },
-      {
-         "description" : "IM Shreyas Royal won a seemingly hopeless position against GM Jules Moussard to go into his final-round game against GM Michael Adams needing a draw to make a second GM norm. A draw would also see Adams at least tie for first in the London Chess C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-8",
-         "pubDate" : "Sat, 09 Dec 2023 16:29:00",
-         "title" : "Shreyas Royal Eyes GM Norm; Gukesh's Candidates Hopes Fade"
       },
       {
          "description" : "Having been immersed in Napoleonic studies in order to bring out my new book on Napoleon and Goethe, to coincide with the launch of the Ridley Scott biopic of the emperor last month, I have become increasingly aware of possible resonances between famous chess games and Napoleonic battles. The title of this week's column alludes []",
