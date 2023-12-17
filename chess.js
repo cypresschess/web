@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find here live link of Chennai GM Chess Tournament 2023 https://cgm2023.magdisoft.com/live/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-chennai-gm-chess-tournament/",
+         "pubDate" : "Sun, 17 Dec 2023 04:42:14",
+         "title" : "Live Link : Chennai GM Chess Tournament"
+      },
+      {
          "description" : "Magnus Carlsen beat Wesley So in a hard-fought match to claim his third consecutive Champions Chess Tour title. This time around, the last event of the cycle took place in Toronto and featured eight much deserving qualified players. In the end, however, it was the king of rapid chess who - once again - came out on top. It was a well-deserved victory for the strongest chess player of this era. | Photo: chess.com / Thomas Tischio",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/21-federations-call-for-end-to-fide-presidents-term-limit",
-         "pubDate" : "Sat, 16 Dec 2023 18:12:02",
+         "pubDate" : "Sat, 16 Dec 2023 18:12:00",
          "title" : "21 Federations Call For Rule Change To End FIDE President's Term Limit"
       },
       {
@@ -898,14 +906,6 @@ news_feed (
          "title" : "European School Chess Championship 2024 - Official invitation"
       },
       {
-         "description" : "Please find live link here Open :&#160;https://view.livechesscloud.com/#d1424a3d-d782-4bef-b664-15f8e4ef1a58 Girls :&#160;https://view.livechesscloud.com/#d74201d5-6448-49aa-a6d4-798b058bc230",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/link-for-live-games-of-36th-national-under-13-open-girls-chess-championships-2023/",
-         "pubDate" : "Mon, 04 Dec 2023 07:13:06",
-         "title" : "Link for LIVE GAMES of 36th National Under - 13 Open & Girls Chess Championships 2023"
-      },
-      {
          "description" : "After so many years of following <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I've learned that eBay auctions follow seasonal trends. For example, the months preceeding the year-end holidays generally have more items than the months following the holidays <P> This year is no exception and my short list for this post had a dozen items, any one of which could have been featured for the post. By coincidence, the three most expensive items on the list were all related to the 1972 Fischer - Spassky match. Two of those items are pictured below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1200,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2763",
          "pubDate" : "Sun, 26 Nov 2023 10:29:54",
          "title" : "2023 Sinquefield Cup: Day 5 Recap"
-      },
-      {
-         "description" : "The 2023 European Rapid &#38; Blitz Chess Championships will take place from 14-17 December in Zagreb, Croatia. The first event on the schedule will be the European Rapid Chess Championship 2023 which will be played on 14-15 December, in 11 rounds, swiss system. The time control of the event will be 15 minutes + 10 seconds increment. The total prize fund of the event will be 30.000 EUR. The European Blitz Chess Championship 2023 will be played on December 16th, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapidblitz-chess-championship-2023-official-invitation/",
-         "pubDate" : "Sun, 26 Nov 2023 04:44:00",
-         "title" : "European Rapid&Blitz Chess Championship 2023 - Official invitation"
       }
    ]
 }
