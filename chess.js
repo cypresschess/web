@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 156th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and takes a look at the games and the legacy of Paul Keres. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-155-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 17 Dec 2023 15:00:00",
+         "title" : "Understanding before Moving 156: Chess history in a nutshell (38)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2805",
+         "pubDate" : "Sun, 17 Dec 2023 12:37:41",
+         "title" : "Champions Chess Tour 2023: Magnus Carlsen scoops third title in a row"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -360,14 +376,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-sf-day-2",
          "pubDate" : "Thu, 14 Dec 2023 17:07:00",
          "title" : "Carlsen, So Advance As The Last Players Standing"
-      },
-      {
-         "description" : "A month after being crowned the new World Senior Champion 50+, Michael \"Mickey\" Adams wins the traditional London Chess Classic elite tournament outright. Adams has been a leading English player for more than three decades, consistently achieving outstanding results and being a formidable and reliable team player. A former child prodigy, Mickey won his first British Championship title (of eight to date) in 1989 and his most recent this year. The reigning British Champion (2023) and reigning World Senior Champion (2023) is truly Mister Evergreen! ChessBase congratulates the winner of the LCC 2023 by taking a brief look at a remarkable career and personality. | Photo: Adams at the Chennai Olym",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mickey-adams-mister-evergreen",
-         "pubDate" : "Thu, 14 Dec 2023 16:43:36",
-         "title" : "Mickey Adams - Mister Evergreen"
       },
       {
          "description" : "",
@@ -1176,22 +1184,6 @@ news_feed (
          "link" : "https://www.europechess.org/cl-no4-2023-communique-of-the-ecu-board-meeting-and-ecu-general-assembly-2023/",
          "pubDate" : "Mon, 27 Nov 2023 08:01:52",
          "title" : "CL No4/2023 - Communique of the ECU Board Meeting and ECU General Assembly 2023"
-      },
-      {
-         "description" : "This month's post in the series on <A HREF=\"https://chessforallages.blogspot.com/2016/11/the-sociology-of-chess.html\">The Sociology of Chess</A> (November 2016) offers a few surprises:- <UL> <LI>1st surprise: There is an 'Intercontinental Online Chess Championship for Prisoners'. <LI>2nd surprise: The tournament is sponsored by FIDE. <LI>3rd surprise: The most recent tournament was the third such event. </UL> <P> 4th surprise: The event was broadcast online. Here is the video covering the final round. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/f074lBHHD1g?si=e_JAdIRBlMxZ0o0b\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-w",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/11/world-chess-championship-for-prisoners.html",
-         "pubDate" : "Sun, 26 Nov 2023 16:21:00",
-         "title" : "World Chess Championship for Prisoners"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2764",
-         "pubDate" : "Sun, 26 Nov 2023 14:47:33",
-         "title" : "Friendly team match Africa vs FIDE held as part of AASC General Assembly"
       }
    ]
 }
