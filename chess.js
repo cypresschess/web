@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen beat Wesley So in a hard-fought match to claim his third consecutive Champions Chess Tour title. This time around, the last event of the cycle took place in Toronto and featured eight much deserving qualified players. In the end, however, it was the king of rapid chess who - once again - came out on top. It was a well-deserved victory for the strongest chess player of this era. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-d8",
+         "pubDate" : "Sun, 17 Dec 2023 00:30:00",
+         "title" : "Magnus Carlsen wins third consecutive Champions Chess Tour title"
+      },
+      {
          "description" : "Vishy Anand inaugurated the Chennai Grand Masters 2023 by making the first move on D Gukesh and Arjun Erigaisi's board. They had a relatively calm draw. Alexandr Predke (SRB) had good chances against Pentala Harikrishna. However, he blundered away his advantage. The endgame expert, Harikrishna, does not miss these chances to secure a half point. Pavel Eljanov (UKR) made an incorrect offer of queen trades, which resulted in him losing an exchange. The already difficult endgame turned worse for him and his opponent Sanan Sjugirov (HUN) scored his first-ever classical win over his opponent. Parham Maghsoodloo (IRI) was determined to push for a win, but a draw was the maximum result he could get",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "Vishy Anand inaugurates Chennai Grand Masters 2023"
       },
       {
-         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
-         "pubDate" : "Sat, 16 Dec 2023 17:50:00",
-         "title" : "Champions Chess Tour Finals - Live!"
+         "description" : " The Champions Chess Tour Final took place in Toronto, Canada 9th to 16th. The mostly online tour its final in Toronto. Magnus Carlsen, Denis Lazavik, Nodirbek Abdusattorov, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Hikaru Nakamura and Wesley So. There were round robin stage of mini-matches. The top two make the knockout phase, 3rd-6th entered a survival stage double elimination stage to find two players. Magnus Carlsen beat Wesley So 2-0 in the final. Nodirbek Abdusattorov and Fabiano Caruana finished in joint 3rd place.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-final-2023",
+         "pubDate" : "Sat, 16 Dec 2023 20:47:00",
+         "title" : "Champions Chess Tour Final 2023 - Games and Results"
+      },
+      {
+         "description" : "Bullet Brawl&#39;s undisputed king, GM Hikaru Nakamura, secured his 15th title and $1,000 in the latest edition of the tournament, finishing on 260 points with 71 wins, two draws, and eight losses. A 27-game streak, which included wins over chess pers...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-december-16-2023",
+         "pubDate" : "Sat, 16 Dec 2023 16:01:06",
+         "title" : "Nakamura Wins Bullet Brawl With 27-Game Streak"
       },
       {
          "description" : "",
@@ -26,12 +42,28 @@ news_feed (
          "title" : "Refugee team to make historic debut at 45th Chess Olympiad in Budapest"
       },
       {
+         "description" : "Legendary fighting game champion SonicFox is best known for delivering brutal beatdowns in Mortal Kombat, but they&#39;re also a force to be reckoned with over the chess board&#38;mdash;and now they&#39;ve got an official Chess.com bot to prove it! This for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-fighting-game-legend-sonicfox",
+         "pubDate" : "Sat, 16 Dec 2023 14:30:00",
+         "title" : "Play Chess Against Fighting Game Legend SonicFox"
+      },
+      {
          "description" : "Dr. Karsten Mueller and Luis Engel have generated a lot of interest with their four player type model. Now, with Fritz 19 offering different club player characters as opponents, the question arises whether there is a correlation to the player types. Surprisingly, the answer is quite positive, as Karsten Mueller explains in detail in the video. The German GM has also analysed three of the games against our ChessBase authors and friends Robert Ris, Jan Jettel, and Svitlana Demchenko.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/do-the-characters-in-fritz-19-resemble-the-four-player-types",
          "pubDate" : "Sat, 16 Dec 2023 14:00:00",
          "title" : "Do the characters in Fritz 19 resemble the four player types?"
+      },
+      {
+         "description" : "GM Magnus Carlsen won his third title at the 2023 Champions Chess Tour Finals on Saturday. He defeated GM Wesley So 2.5-1.5 and shared that the tour &#34;came full circle&#34; in the final game where he cracked So&#39;s super-solid opening line. Carlsen won...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-title-match-carlsen-wins",
+         "pubDate" : "Sat, 16 Dec 2023 12:44:00",
+         "title" : "Carlsen Wins 3rd Title At 2023 Champions Chess Tour"
       },
       {
          "description" : " This is a follow up to a question asked in one the comments to a previous post. I'm not sure this is the definitive reason why there is no \"drop for mate\" in Transfer (Bughouse), but at least in my memory, this rule was active in Canberra around 1983. In that year the Australian Junior Chess Championship was held in Canberra, and was organised by Nathan Stirling. On the opening day there was an introductory event, consisting of blitz and transfer. For the transfer we were given the choice of allowing drop for checkmate, or not. IIRC the majority chose to allow 'drop for mate', and that was the rule adopted. I can remember winning at least one game using this method. However in subsequent lo",
@@ -50,12 +82,12 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Practical decision making like Magnus"
       },
       {
-         "description" : " The Champions Chess Tour Final takes place in Toronto, Canada 9th to 16th. The mostly online tour will have it's final in Toronto. Magnus Carlsen, Denis Lazavik, Nodirbek Abdusattorov, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Hikaru Nakamura and Wesley So. There will be a round robin stage of mini-matches. The top two make the knockout phase, 3rd-6th enter a survival stage double elimination stage to find two players. Magnus Carlsen won the first set of the final against Wesley So going into the last day.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-final-2023",
-         "pubDate" : "Sat, 16 Dec 2023 10:41:00",
-         "title" : "Champions Chess Tour Final 2023 - Games and Results"
+         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
+         "pubDate" : "Sat, 16 Dec 2023 11:55:00",
+         "title" : "Champions Chess Tour Finals - Live!"
       },
       {
          "description" : " The Chennai Grand Masters chess tournament takes place in Chennai Fri 15th - Thu 21st Dec 2023. Players: Maghsoodloo, Erigaisi, Aronian, Gukesh, Sjugirov, Harikrishna, Eljanov and Predke. ",
@@ -104,6 +136,14 @@ news_feed (
          "link" : "https://www.thearticle.com/triumph-of-the-universal-spidey/",
          "pubDate" : "Sat, 16 Dec 2023 05:55:20",
          "title" : "Triumph of the Universal Spidey"
+      },
+      {
+         "description" : "ESPN India picks ten images that tell the story of the most stunning Indian sports moments witnessed throughout 2023",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39123382/moment-year-2023-praggnanandhaa-nagalakshmi-chess-india-smile?device=featurephone",
+         "pubDate" : "Sat, 16 Dec 2023 04:37:59",
+         "title" : "Moment of the Year: Praggnanandhaa, Nagalakshmi and the mother's smile that resonated across India"
       },
       {
          "description" : "Magnus Carlsen only needs a draw in the second set of the Champions Chess Tour Finals to claim his third consecutive title in the online series (he also won in 2020, when the tour was fittingly named after him). Carlsen beat Wesley So in the first set of the match for the title after scoring the one win of the set from a very balanced endgame position. | Photo: chess.com / Thomas Tischio",
@@ -360,14 +400,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/wme-signs-chesscom",
          "pubDate" : "Thu, 14 Dec 2023 05:58:19",
          "title" : "WME Signs Chess.com To Expand Partnerships And Audience"
-      },
-      {
-         "description" : "Magnus Carlsen and Nodirbek Abdusattorov won the first sets in the semis of the Champions Chess Tour Finals in Toronto. Carlsen defeated Fabiano Caruana in a thrilling match which featured five decisive results and the Norwegian winning from a lost position (a queen down). Abdusattorov, on his part, lost the first game against Wesley So, but then won two in a row and drew the fourth to claim overall victory. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d5",
-         "pubDate" : "Thu, 14 Dec 2023 02:40:00",
-         "title" : "CCT Finals: Carlsen beats Caruana in thrilling match"
       },
       {
          "description" : "",
@@ -696,30 +728,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/london-chess-classic-2023-round-8",
          "pubDate" : "Sat, 09 Dec 2023 16:29:00",
          "title" : "Shreyas Royal Eyes GM Norm; Gukesh's Candidates Hopes Fade"
-      },
-      {
-         "description" : "GM Daniel Naroditsky returned to the winner&#39;s circle and scooped up the $400 first prize in December&#39;s second Bullet Brawl after accruing 227 points, four more than GM Oleksandr Bortnyk, who finished four points behind on 224. The contest for th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-december-9-2023",
-         "pubDate" : "Sat, 09 Dec 2023 16:05:00",
-         "title" : "Naroditsky Back On Top In Bullet Brawl, Bortnyk Sings His Way To Second"
-      },
-      {
-         "description" : "GMs Wesley So, Magnus Carlsen, and Fabiano Caruana won two matches to stay on a perfect score in the 2023 Champions Chess Tour Finals. This is the first of the eight-day Finals held in Toronto, Canada.&#38;nbsp; It was a smooth day for So, who notab...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-rr-day-1",
-         "pubDate" : "Sat, 09 Dec 2023 15:24:00",
-         "title" : "Caruana Is King Of Armageddon On Day 1, Leads With Carlsen, Wesley So"
-      },
-      {
-         "description" : "GMs Arjun Erigaisi, Nijat Abasov, and Aydin Suleymanli emerged as joint leaders with seven points out of a maximum of 12 after six rounds of the Vugar Gashimov Memorial 2023 being held at Gabala, Azerbaijan, on Saturday. In a typically exciting da...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-rapid-day-2",
-         "pubDate" : "Sat, 09 Dec 2023 14:23:00",
-         "title" : "Arjun, Abasov, Suleymanli Lead After Day Of Black Domination"
       },
       {
          "description" : "Having been immersed in Napoleonic studies in order to bring out my new book on Napoleon and Goethe, to coincide with the launch of the Ridley Scott biopic of the emperor last month, I have become increasingly aware of possible resonances between famous chess games and Napoleonic battles. The title of this week's column alludes []",
