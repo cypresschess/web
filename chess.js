@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In a decision aimed at promoting inclusivity and support for displaced persons, a team representing refugees will take part in the 45th Chess Olympiad set to take place in Budapest, Hungary, in 2024. The team of refugees will be carefully selected through a supervised process and endorsed by the UNHCR to compete in both the Open section and the Women's section of the most prestigious team chess tournament. | Photos: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/refugee-team-to-play-at-budapest-olympiad",
+         "pubDate" : "Mon, 18 Dec 2023 06:00:00",
+         "title" : "Refugee team to play at the Chess Olympiad in Budapest"
+      },
+      {
          "description" : "In order to attack the enemy king successfully in a game of chess, you need sufficient firepower and a clear target. Often there will be a complex of squares of the same colour that come under attack, and so we have white or dark-square games. Today we have some instances of attacks on both light and dark squares, featuring the likes of Johannes Zukertort (pictured) and Anatoly Karpov!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -312,14 +320,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz.html",
          "pubDate" : "Fri, 15 Dec 2023 12:09:00",
          "title" : "2023 World Rapid and Blitz"
-      },
-      {
-         "description" : "In his new game of the week show Merin van Delft takes a look at the game Hans Niemann vs Mateusz Bartel, which was played at the London Chess Classic and which is perhaps one of the most creative and sophisticated swindles of 2023. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-598-h-niemann-vs-m-bartel",
-         "pubDate" : "Fri, 15 Dec 2023 10:00:00",
-         "title" : "Game of the Week #598: H. Niemann vs M. Bartel"
       },
       {
          "description" : "GMs Pentala Harikrishna and Pavel Eljanov started with wins over GMs Arjun Erigaisi and Parham Maghsoodloo respectively in two high-pressure, error-prone games to share the lead with a point apiece after the first round of the Chennai Grand Master...",
@@ -1184,14 +1184,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-finals-saturday-2nd-december/",
          "pubDate" : "Mon, 27 Nov 2023 09:38:38",
          "title" : "UK Open Blitz Finals - Saturday 2nd December"
-      },
-      {
-         "description" : "Dear Chess Friends, The biennial European Chess Union Congress 2023 was held in Budva, Montenegro from 17th to 19th of November 2023. Montenegro Chess federation hosted the fourth quarterly meeting of the ECU Board, the ECU General Assembly, and the Commissions meetings, under excellent conditions. Main information and decisions of the ECU Board meeting: The annual ECU General Assembly 2023 took place on the 19th of November with representatives and officials from 39 European Chess Federations. A detailed video-report of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/cl-no4-2023-communique-of-the-ecu-board-meeting-and-ecu-general-assembly-2023/",
-         "pubDate" : "Mon, 27 Nov 2023 08:01:52",
-         "title" : "CL No4/2023 - Communique of the ECU Board Meeting and ECU General Assembly 2023"
       }
    ]
 }
