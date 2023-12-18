@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
+         "pubDate" : "Mon, 18 Dec 2023 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "In a decision aimed at promoting inclusivity and support for displaced persons, a team representing refugees will take part in the 45th Chess Olympiad set to take place in Budapest, Hungary, in 2024. The team of refugees will be carefully selected through a supervised process and endorsed by the UNHCR to compete in both the Open section and the Women's section of the most prestigious team chess tournament. | Photos: Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/refugee-team-to-play-at-budapest-olympiad",
          "pubDate" : "Mon, 18 Dec 2023 06:00:00",
          "title" : "Refugee team to play at the Chess Olympiad in Budapest"
+      },
+      {
+         "description" : "GM Leinier Dominguez has pulled out of the Chessable Sunway Sitges Chess Festival 2023 at halfway, explaining, &#38;ldquo;I&#38;rsquo;ve come to a point where I&#38;rsquo;m simply risking too much if I continue.&#38;rdquo; The U.S. star travelled to Spain hunting...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dominguez-quits-sitges-wesley-so-firouzja-candidates",
+         "pubDate" : "Mon, 18 Dec 2023 03:14:00",
+         "title" : "Dominguez Drops Out; Firouzja Makes Late Bid For Wesley So's Candidates Spot"
       },
       {
          "description" : "In order to attack the enemy king successfully in a game of chess, you need sufficient firepower and a clear target. Often there will be a complex of squares of the same colour that come under attack, and so we have white or dark-square games. Today we have some instances of attacks on both light and dark squares, featuring the likes of Johannes Zukertort (pictured) and Anatoly Karpov!",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/on-offer-for-christmas-chessbase-17-and-fritz-19-the-winning-bundle",
          "pubDate" : "Fri, 15 Dec 2023 13:30:00",
          "title" : "On offer for Christmas: ChessBase 17 and Fritz 19 - the winning bundle"
-      },
-      {
-         "description" : "Magnus Carlsen and Wesley So knocked out Fabiano Caruana and Nodirbek Abdusattorov, respectively, in the semis of the Champions Chess Tour Finals. Carlsen twice beat Caruana by a 3-2 score, while So bounced back from his loss in the first set, and then won the 3-game decider by winning with the Armageddon decider with the white pieces. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d6",
-         "pubDate" : "Fri, 15 Dec 2023 13:25:00",
-         "title" : "CCT Finals: Carlsen and So to fight for the title"
       },
       {
          "description" : "GM Magnus Carlsen is one set away from winning his third title and $200,000 at the 2023 Champions Chess Tour Finals. On day one of the Title Match, he defeated GM Wesley So with the black pieces in game three, squeezing water from stone in the roo...",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2791",
          "pubDate" : "Sun, 10 Dec 2023 21:55:34",
          "title" : "Mert Yılmazyerli wins 2023 Turkish Championship"
-      },
-      {
-         "description" : "Just two players are left on a perfect score after four rounds across two days, GMs Magnus Carlsen and Wesley So. They have won all four matches they have played at the 2023 Champions Chess Tour Finals so far. Carlsen defeated two of his greates...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-rr-day-2",
-         "pubDate" : "Sun, 10 Dec 2023 16:48:00",
-         "title" : "Carlsen Beats World Numbers 2 And 3 Back To Back"
       },
       {
          "description" : "Well known images and well known facts combine to give a high level introduction to chess history. It's a pity there are number of small inaccuracies, including an illegal move. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/RqvydrLVQ4Q?si=ssLyWiXQMHhxfq7F\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Evolution of the Game of Chess</B> (4:40) &#149; '[Published on] Dec 7, 2023' <P> The description of the video also promises high level. <BLOCKQUOTE> Let's explore key moments and pivotal rule changes that shaped the game we love t",
@@ -1168,22 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2766",
          "pubDate" : "Mon, 27 Nov 2023 13:36:38",
          "title" : "FIDE introduces ground-breaking Gender Equality in Chess Index (GECI) - 2023 Rankings unveiled"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2765",
-         "pubDate" : "Mon, 27 Nov 2023 11:48:23",
-         "title" : "Important changes in the bidding process for FIDE events"
-      },
-      {
-         "description" : "The 2023 UK Open Blitz Finals took place on Saturday 2nd December at the Woodland Grange Hotel, Leamington Spa, with all games played on live...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-open-blitz-finals-saturday-2nd-december/",
-         "pubDate" : "Mon, 27 Nov 2023 09:38:38",
-         "title" : "UK Open Blitz Finals - Saturday 2nd December"
       }
    ]
 }
