@@ -26,6 +26,14 @@ news_feed (
          "title" : "Understanding before Moving 156: Chess history in a nutshell (38)"
       },
       {
+         "description" : "The World Chess Federation (FIDE) has approved a controversial motion to scrap presidential term limits leaving Arkady Dvorkovich, a former deputy prime minister of Russia, free to run for a third term in 2026. Delegates from 108 national federa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dvorkovich-gets-green-light-to-run-again-as-fide-formally-scraps-term-limits",
+         "pubDate" : "Sun, 17 Dec 2023 13:50:25",
+         "title" : "Dvorkovich Gets Green Light To Run Again As FIDE Formally Scraps Term Limits"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/timeless-pursuit-of-checkmate.html",
          "pubDate" : "Sun, 10 Dec 2023 16:31:00",
          "title" : "'Timeless Pursuit of Checkmate'"
-      },
-      {
-         "description" : "Eighteen-year-old GM Aydin Suleymanli won the rapid segment of the Vugar Gashimov Memorial 2023 on Sunday. The youngest and lowest rated player in the field rose to the top with a display of fighting spirit, finishing with three decisive clashes i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-rapid-day-3",
-         "pubDate" : "Sun, 10 Dec 2023 15:11:00",
-         "title" : "Suleymanli Thrives In Chaos, Wins Rapid"
       },
       {
          "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
