@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There are still two places available in the 2024 Candidates Tournament. One of these places will go to the player with the highest Elo rating in the January 2024 world rankings who has not yet qualified for the Candidates Tournament. A tournament was therefore organised at short notice in Chennai, India, to give Erigaisi and Gukesh a better chance to qualify. Leinier Dominguez tried his luck at the Sunway Sitges Open, while Alireza Firouzja now suddenly has a chance to gain Elo in a series of matches in France.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/let-me-quickly-get-some-rating-points-please",
+         "pubDate" : "Mon, 18 Dec 2023 20:17:30",
+         "title" : "Let me quickly get some Elo, please!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2807",
+         "pubDate" : "Mon, 18 Dec 2023 19:18:53",
+         "title" : "FIDE statement on rating specific tournaments"
+      },
+      {
+         "description" : "D Gukesh scored his first win of the event against Alexandr Predke in the fourth round of the Chennai Grand Masters. Gukesh joined Pentala Harikrishna in the lead with 2.5/4 points each. Harikrishna had a well contested draw against Levon Aronian. Parham Maghsoodloo also scored his first win of the event, against Sanan Sjugirov. Arjun Erigaisi had a well contested draw against Pavel Eljanov. Five players are trailing the leaders at 2/4 each. They are Aronian, Eljanov, Maghsoodloo, Sjugirov and Arjun. | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r4-gukesh-beats-predke-joins-harikrishna-in-the-lead",
+         "pubDate" : "Mon, 18 Dec 2023 19:10:00",
+         "title" : "Chennai Masters R4: Gukesh beats Predke, joins Harikrishna in the lead"
+      },
+      {
+         "description" : "In the Endgame Magic Show #259 Karsten M&uuml;ller shows endgame highlights from 2023. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-259-endgames-from-2023",
+         "pubDate" : "Mon, 18 Dec 2023 19:07:33",
+         "title" : "Endgame Magic #259 - Endgames from 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2806",
+         "pubDate" : "Mon, 18 Dec 2023 18:05:02",
+         "title" : "Abu Dhabi wins bid to host 47th Chess Olympiad in 2028"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.ft.com/content/ccc25257-6479-4ad5-843c-0a3e913498e7#new_tab",
+         "pubDate" : "Mon, 18 Dec 2023 16:42:43",
+         "title" : "Bodhana Sivanandan enters chess history - from Leonard Barden"
+      },
+      {
          "description" : " Alireza Firouzja has a final attempt to boost his rating in the January list and qualify for the Candidates by playing 6 games, three two games matches, against Alexandre Dgebuadze, Andrei Shchekachev and Sergey Fedorchuk in Chartres, 18th to 22nd December 2023. This is similar to the successful method Ding Liren used to qualify for the last Candidates. Whilst due to Covid-19 I had some sympathy with Ding trying to play enough games to qualify after an enforced break, this now just doesn't seem right to me. I think it's going to be very tricky for Firouzja to boost his rating enough anyhow. I used to be in favour of the strongest non-qualified player getting a place by rating, but I think i",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -18,12 +66,20 @@ news_feed (
          "title" : "Late nights and whiskey"
       },
       {
-         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
-         "pubDate" : "Mon, 18 Dec 2023 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
+         "description" : "The 2024 Chess.com Daily Chess Championship is now open for registration! Start your 2024 off with the resolution to play lots of chess and join one of the world&#39;s largest-ever chess events. What is the Daily Chess Championship? This prest...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-daily-chess-championship-registration",
+         "pubDate" : "Mon, 18 Dec 2023 11:40:10",
+         "title" : "The 2024 Daily Chess Championship Is Coming: Register Now"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju scored his first victory of the tournament over GM Alexandr Predke to join GM Pentala Harikrishna in the lead with two and a half points from four rounds of the Chennai Grand Masters 2023. Harikrishna looked to be in a spot of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-4",
+         "pubDate" : "Mon, 18 Dec 2023 09:00:02",
+         "title" : "Maiden Victories For Gukesh, Maghsoodloo"
       },
       {
          "description" : "In a decision aimed at promoting inclusivity and support for displaced persons, a team representing refugees will take part in the 45th Chess Olympiad set to take place in Budapest, Hungary, in 2024. The team of refugees will be carefully selected through a supervised process and endorsed by the UNHCR to compete in both the Open section and the Women's section of the most prestigious team chess tournament. | Photos: Stev Bonhage",
@@ -298,14 +354,6 @@ news_feed (
          "title" : "Chennai Masters R1: Harikrishna and Eljanov strike"
       },
       {
-         "description" : "This week GM Daniel King looks at a fine attack played by Alireza Firouzja. Apart from predicting some of his moves, he tests your defensive abilities! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-firouzja-on-fire",
-         "pubDate" : "Fri, 15 Dec 2023 17:30:00",
-         "title" : "Daniel King's Power Play Show: Firouzja on fire"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -320,14 +368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2801",
          "pubDate" : "Fri, 15 Dec 2023 15:26:46",
          "title" : "Carlsen and So meet in Champions Chess Tour Final"
-      },
-      {
-         "description" : "Available now, but only until 24 December: The bundle for winners: ChessBase 17 & Fritz 19 in a Christmas bundle. Instead of 249,90 € only 199,90 €. Get it now.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-offer-for-christmas-chessbase-17-and-fritz-19-the-winning-bundle",
-         "pubDate" : "Fri, 15 Dec 2023 13:30:00",
-         "title" : "On offer for Christmas: ChessBase 17 and Fritz 19 - the winning bundle"
       },
       {
          "description" : "GM Magnus Carlsen is one set away from winning his third title and $200,000 at the 2023 Champions Chess Tour Finals. On day one of the Title Match, he defeated GM Wesley So with the black pieces in game three, squeezing water from stone in the roo...",
@@ -656,22 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/when-magnus-carlsen-met-pep-guardiola",
          "pubDate" : "Tue, 12 Dec 2023 02:30:00",
          "title" : "Two Geniuses Together: When Magnus Carlsen Met Pep Guardiola"
-      },
-      {
-         "description" : "With a compelling finish in the blitz segment, GM Vidit Gujrathi won the Vugar Gashimov Memorial 2023 on Monday. After a rocky start, Vidit scored an undefeated 9/11 to tie for first in blitz and clinch the overall tournament.&#38;nbsp; GM&#38;nbsp;Arju...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-vugar-gashimov-memorial-blitz-day-4",
-         "pubDate" : "Mon, 11 Dec 2023 20:27:00",
-         "title" : "Vidit Wins Overall, Rapport Ties For 1st In Blitz"
-      },
-      {
-         "description" : "GM Wesley So continued his unbeaten run at the 2023 Champions Chess Tour Finals with his most impressive day yet, scoring match wins over GMs Magnus Carlsen and Nodirbek Abdusattorov. GM Maxime Vachier-Lagrave secured his first match win in an a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-day-3",
-         "pubDate" : "Mon, 11 Dec 2023 19:18:00",
-         "title" : "So Defeats Carlsen; Nakamura On Brink Of Elimination"
       },
       {
          "description" : "At the end of last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html\">Elon Musk and Squirrels</A> (December 2023), I asked, <BLOCKQUOTE> Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wants to do. </BLOCKQUOTE> <P> While I've learned a few tricks in the week since that post, the whole process is still too much like herding cats. For this post, I used the tool to see how well it drew World Champions, both past and present. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl11.jpg\" WIDTH=334 HEIGHT=400><BR> <B",
@@ -1168,14 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2768",
          "pubDate" : "Tue, 28 Nov 2023 09:49:19",
          "title" : "FIDE Director for Chess Development visits Eswatini"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2767",
-         "pubDate" : "Mon, 27 Nov 2023 20:25:10",
-         "title" : "FIDE Chessable Academy resumes in January 2024"
       }
    ]
 }
