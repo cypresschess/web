@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Alireza Firouzja has a final attempt to boost his rating in the January list and qualify for the Candidates by playing 6 games, three two games matches, against Alexandre Dgebuadze, Andrei Shchekachev and Sergey Fedorchuk in Chartres, 18th to 22nd December 2023. This is similar to the successful method Ding Liren used to qualify for the last Candidates. Whilst due to Covid-19 I had some sympathy with Ding trying to play enough games to qualify after an enforced break, this now just doesn't seem right to me. I think it's going to be very tricky for Firouzja to boost his rating enough anyhow. I used to be in favour of the strongest non-qualified player getting a place by rating, but I think i",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chartres-firouzja-noel-matches-2023",
+         "pubDate" : "Mon, 18 Dec 2023 14:15:00",
+         "title" : "Chartres Firouzja Noel Matches 2023 - Games and Results"
+      },
+      {
+         "description" : " Except there was no whiskey. For the last week and half, I've been attending various sessions of the 2023 FIDE Congress. This of course is from the comfort of my own home, as the whole congress was being held online. This started as a result of covid, but has continued for the non Olympiad years. All very good in that counties that normally don't send a delegate in the off years were well represented, but not so good for delegates representing Oceania federations. Most meetings started at midnight Canberra time, and usually ran until 4 or 5 am in the morning. This meant that Oceania was probably less represented than other regions, although that made a difference overall is not clear. Anywa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/late-nights-and-whiskey.html",
+         "pubDate" : "Mon, 18 Dec 2023 12:39:00",
+         "title" : "Late nights and whiskey"
+      },
+      {
          "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "Refugee team to play at the Chess Olympiad in Budapest"
       },
       {
-         "description" : "GM Leinier Dominguez has pulled out of the Chessable Sunway Sitges Chess Festival 2023 at halfway, explaining, &#38;ldquo;I&#38;rsquo;ve come to a point where I&#38;rsquo;m simply risking too much if I continue.&#38;rdquo; The U.S. star travelled to Spain hunting...",
+         "description" : "GM Leinier Dominguez has pulled out of the Chessable Sunway Sitges Chess Festival 2023 at the halfway mark, explaining, &#38;ldquo;I&#38;rsquo;ve come to a point where I&#38;rsquo;m simply risking too much if I continue.&#38;rdquo; The U.S. star travelled to Spai...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dominguez-quits-sitges-wesley-so-firouzja-candidates",
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2767",
          "pubDate" : "Mon, 27 Nov 2023 20:25:10",
          "title" : "FIDE Chessable Academy resumes in January 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2766",
-         "pubDate" : "Mon, 27 Nov 2023 13:36:38",
-         "title" : "FIDE introduces ground-breaking Gender Equality in Chess Index (GECI) - 2023 Rankings unveiled"
       }
    ]
 }
