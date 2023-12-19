@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rounds three and four of the Czech Extraliga were affected by the European Rapid Chess and Blitz Championships, which took place at the same time. Many players participated there and some league matches had to be postponed. But Moravska Slavia and Frydek Mistek played and took the lead in the league. | Photo: Brno's chess ambassador Inna Puhajkova made the first move at the board of Boris Gelfand and Anton Korobov. | Photos: Vladimir Jagr",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/czech-extraliga-moravska-slavia-and-frydek-mistek-lead",
+         "pubDate" : "Tue, 19 Dec 2023 13:19:49",
+         "title" : "Czech Extraliga: Moravska Slavia and Frydek Mistek lead"
+      },
+      {
+         "description" : "The Max Euwe Centre in Amsterdam is an institution. It offers training courses, houses a huge library with more than 10,000 books and helps to support the wide interest in the cultural, social and academic aspects of chess. After 32 years, the Centre must now leave its location, but will be given new premises on the same street, the Max Euweplein. The move will involve some costs and the Euwe Centre would be happy if chess fans could support it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-max-euwe-centre-needs-support",
+         "pubDate" : "Tue, 19 Dec 2023 12:00:00",
+         "title" : "The Max Euwe Centre needs support"
+      },
+      {
+         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
+         "pubDate" : "Tue, 19 Dec 2023 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2808",
+         "pubDate" : "Tue, 19 Dec 2023 09:58:32",
+         "title" : "New EDU Program and Titles endorsed by the FIDE Council"
+      },
+      {
          "description" : "Rook endings are difficult. The diagram shows a position from a game Nodirbek Abdusattorov and Magnus Carlsen played at the Aimchess Rapid Online tournament. It is White to move and win. In the game Abdusattorov failed to find the winning move - can you do better?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/",
          "pubDate" : "Tue, 19 Dec 2023 03:43:58",
          "title" : "FM Jimmy Canty on Chessable!"
+      },
+      {
+         "description" : "GM Alexey Sarana&#39;s sole first place in the European Rapid Chess Championship 2023 in Zagreb means he&#39;s achieved a remarkable triple&#38;mdash;winning the European Individual, Team, and Rapid events in the same year. GM David Navara prevented a quadrup...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/european-rapid-blitz-2023-navara-sarana-ivanchuk",
+         "pubDate" : "Tue, 19 Dec 2023 02:48:02",
+         "title" : "Navara, Sarana Score Stunning European Rapid & Blitz Triples"
       },
       {
          "description" : "Four players are sharing the lead with 5&frac12; points each after six rounds of play at the Chessable Sunway main tournament in Sitges. Sethuraman S.P. (India), Dominik Horvath (Austria), Brandon Jacobson (United States) and Iniyan Pa (India) are the current co-leaders in the 10-round open event. Two side stories from Sitges dominated the news cycle these days, though: Leinier Dominguez's withdrawal and Faustino Oro's participation in Sunday's blitz tournament. | Photo: David Llada",
@@ -306,22 +346,6 @@ news_feed (
          "title" : "Why no drop for mate?"
       },
       {
-         "description" : "Magnus Carlsen faced Levon Aronian several times in his career. The game Svitlana chose to analyse together with us, points out some crucial initiative decisions by Magnus, which made him win the game. Sacrificing one pawn to gain some advantage is a common practice. But sacrificing two pawns is already quite exceptional.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-practical-decision-making-like-magnus",
-         "pubDate" : "Sat, 16 Dec 2023 12:00:00",
-         "title" : "Svitlana's Smart Moves - Practical decision making like Magnus"
-      },
-      {
-         "description" : "For the first time, the eight-player Champions Chess Tour Finals is taking place fully in person and over the board from December 9 to 16 in Toronto, Canada. Magnus Carlsen, the reigning Tour champion, and Hikaru Nakamura, the world's top chess streamer, face stiff competition from a world-class field. | Follow the games live with expert commentary starting at 18.00 CET (12.00 ET, 22.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-live",
-         "pubDate" : "Sat, 16 Dec 2023 11:55:00",
-         "title" : "Champions Chess Tour Finals - Live!"
-      },
-      {
          "description" : " The Chennai Grand Masters chess tournament takes place in Chennai Fri 15th - Thu 21st Dec 2023. Players: Maghsoodloo, Erigaisi, Aronian, Gukesh, Sjugirov, Harikrishna, Eljanov and Predke. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -336,14 +360,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/9th-vugar-gashimov-memorial-2023",
          "pubDate" : "Sat, 16 Dec 2023 10:30:00",
          "title" : "9th Vugar Gashimov Memorial 2023 - Games and Results"
-      },
-      {
-         "description" : "The European Rapid and Blitz Chess Championships began yesterday at the Zagreb Exhibition Centre. The rapid tournament is played on Thursday and on Friday, followed by the blitz tournament on Saturday and Sunday. Almost 700 players from 41 federations are taking part.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-rapid-and-blitz-championships-start-in-zagreb",
-         "pubDate" : "Sat, 16 Dec 2023 10:25:00",
-         "title" : "European Rapid and Blitz Championships in Zagreb"
       },
       {
          "description" : "GM Sanan Sjugirov defended against ambitious play by GM Pavel Eljanov in the middlegame to score a patient victory and jumped into a joint lead with one and a half points after the second round of the Chennai Grand Masters 2023. He has joined GM P...",
@@ -696,14 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-legend-vishy-anand-offers-nugget-of-wisdom-on-54th-birthday",
          "pubDate" : "Tue, 12 Dec 2023 04:34:19",
          "title" : "Chess Legend Vishy Anand Offers Incredible Pearl Of Wisdom On His 54th Birthday"
-      },
-      {
-         "description" : "The race to the Candidates intensifies as India&#39;s chess capital will host Chennai Grand Masters from December 15 to 21, marking the strongest classical tournament in the nation&#39;s history. For three of the players it will be all about making it to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/indias-strongest-ever-round-robin-gukesh-erigaisi-candidates-hope-alive",
-         "pubDate" : "Tue, 12 Dec 2023 03:41:00",
-         "title" : "Candidates Race: Gukesh, Erigaisi Get Final Chance In Last-Minute Super Tournament"
       },
       {
          "description" : "At the end of last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html\">Elon Musk and Squirrels</A> (December 2023), I asked, <BLOCKQUOTE> Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wants to do. </BLOCKQUOTE> <P> While I've learned a few tricks in the week since that post, the whole process is still too much like herding cats. For this post, I used the tool to see how well it drew World Champions, both past and present. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl11.jpg\" WIDTH=334 HEIGHT=400><BR> <B",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2769",
          "pubDate" : "Tue, 28 Nov 2023 17:00:03",
          "title" : "Empowering queens of the chessboard: National Female Team Development Seminar "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2768",
-         "pubDate" : "Tue, 28 Nov 2023 09:49:19",
-         "title" : "FIDE Director for Chess Development visits Eswatini"
       }
    ]
 }
