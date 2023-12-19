@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rook endings are difficult. The diagram shows a position from a game Nodirbek Abdusattorov and Magnus Carlsen played at the Aimchess Rapid Online tournament. It is White to move and win. In the game Abdusattorov failed to find the winning move - can you do better?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-misses-a-chance",
+         "pubDate" : "Tue, 19 Dec 2023 09:00:00",
+         "title" : "Abdusattorov misses a chance"
+      },
+      {
+         "description" : "FIDE has issued a statement in response to the last-minute series of matches in Chartres, France, which began on Monday 18th December and in which Alireza Firouzja is playing three much weaker opponents in an attempt to gain the necessary Elo points that would secure him a place in the 2024 Candidates Tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-statement-on-rating-specific-tournaments",
+         "pubDate" : "Tue, 19 Dec 2023 08:59:34",
+         "title" : "FIDE statement on rating specific tournaments"
+      },
+      {
          "description" : " FM Jimmy Canty III has become one of the most popular online chess personalities and has just released his first Chessable course. The 31-year-old Detroit native is one of the most visible social media icons in the chess world today. First coached by Harold Steen at Bates Academy, he has risen out of a city The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/\">FM Jimmy Canty on Chessable!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -62,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-chesskid-stars-vs-streamers-fausti-vs-gothamchess",
-         "pubDate" : "Mon, 18 Dec 2023 17:56:14",
+         "pubDate" : "Mon, 18 Dec 2023 17:56:00",
          "title" : "Whiz Kid Beats GothamChess"
       },
       {
@@ -102,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-4",
-         "pubDate" : "Mon, 18 Dec 2023 09:00:02",
+         "pubDate" : "Mon, 18 Dec 2023 09:00:00",
          "title" : "Maiden Victories For Gukesh, Maghsoodloo"
       },
       {
@@ -338,14 +354,6 @@ news_feed (
          "title" : "Harikrishna, Sjugirov In Joint Lead After Day Of Fierce Fights"
       },
       {
-         "description" : "In the diagram position White just opened the long diagonal for the bishop with 25.Ne4. Can Black now capture on d5 - and how should she capture on d5?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/queens-and-dark-squares-2",
-         "pubDate" : "Sat, 16 Dec 2023 09:00:00",
-         "title" : "The long diagonal"
-      },
-      {
          "description" : "British Grandmaster Mickey Adams, fresh from winning the World 50+ Championship, has now scored what he describes as the success of his life by also taking first prize in the 2023 London Classic, at the age of 52. Mickey Adams has a distinctive style over the chessboard. His moves are delicate , rather than brutal, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -360,14 +368,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/39123382/moment-year-2023-praggnanandhaa-nagalakshmi-chess-india-smile?device=featurephone",
          "pubDate" : "Sat, 16 Dec 2023 04:37:59",
          "title" : "Moment of the Year: Praggnanandhaa, Nagalakshmi and the mother's smile that resonated across India"
-      },
-      {
-         "description" : "Magnus Carlsen only needs a draw in the second set of the Champions Chess Tour Finals to claim his third consecutive title in the online series (he also won in 2020, when the tour was fittingly named after him). Carlsen beat Wesley So in the first set of the match for the title after scoring the one win of the set from a very balanced endgame position. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d7",
-         "pubDate" : "Sat, 16 Dec 2023 02:45:00",
-         "title" : "CCT Finals: Carlsen wins first set"
       },
       {
          "description" : "",
