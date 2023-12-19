@@ -1,9 +1,11 @@
 jtable([
+"HOUSTON","2023-12-15  - 12-17","42","<a href=http://www.uschess.org/msa/XtblMain.php?202312177932 target='_blank'>$2,000 STUDIO  DEC 2023 CHAMPIONSHI</a>",
 "HOUSTON","2023-12-16","8","<a href=http://www.uschess.org/msa/XtblMain.php?202312166262 target='_blank'>CHESSPANDA12162023SATURDAY</a>",
 "CYPRESS","2023-12-16","18","<a href=http://www.uschess.org/msa/XtblMain.php?202312166032 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-12-15","27","<a href=http://www.uschess.org/msa/XtblMain.php?202312155932 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-12-01  - 12-15","9","<a href=http://www.uschess.org/msa/XtblMain.php?202312155882 target='_blank'>REBECCA CHESS CLUB DECEMBER 2023 MONTHLY SWISS</a>",
 "HOUSTON","2023-12-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202312155862 target='_blank'>REBECCA CHESS CLUB QUADS DECEMBER 15, 2023</a>",
+"HOUSTON","2023-12-13","42","<a href=http://www.uschess.org/msa/XtblMain.php?202312137692 target='_blank'>HOUSTON HOMESCHOOLERS TOURNAMENT 20</a>",
 "HOUSTON","2023-12-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202312095612 target='_blank'>DECEMBER 9TH SATURDAY SWISS</a>",
 "HOUSTON","2023-12-09","358","<a href=http://www.uschess.org/msa/XtblMain.php?202312092902 target='_blank'>MIMS CHESS TOURNAMENT</a>",
 "HOUSTON","2023-12-09","6","<a href=http://www.uschess.org/msa/XtblMain.php?202312092382 target='_blank'>CHESSPANDA12092023SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "SUGAR LAND","2023-06-16","4","<a href=http://www.uschess.org/msa/XtblMain.php?202306161892 target='_blank'>FBCC 2023 NATIONAL FUDGE DAY OPEN.P</a>",
 "PEARLAND","2023-06-12  - 06-14","23","<a href=http://www.uschess.org/msa/XtblMain.php?202306149642 target='_blank'>SCS SLEEP INN BEGINNERS</a>",
 "HOUSTON","2023-06-09  - 06-11","53","<a href=http://www.uschess.org/msa/XtblMain.php?202306119542 target='_blank'>$2,500 HOUSTON CHESS STUDIO JUNE 20</a>",
-"SUGAR LAND","2023-06-09","8","<a href=http://www.uschess.org/msa/XtblMain.php?202306098172 target='_blank'>FORT BEND CLUB TOURNAMENT 6/9/23</a>",
-"SPRING","2023-06-09","58","<a href=http://www.uschess.org/msa/XtblMain.php?202306098122 target='_blank'>TRINITY KLEIN CHESS CAMP</a>",
 ]);
