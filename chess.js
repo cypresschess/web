@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This month marks the birth anniversary of Viswanathan Anand. The phenomenal rise of the Indian super talent created a chess wave in his own land that shows no sign of diminishing. Vishy has been an inspiration for many young players, and today he is an ambassador for the game. Here our columnist recalls the early career of the former world champion.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/veni-vidi-vishy-part-1",
+         "pubDate" : "Tue, 19 Dec 2023 22:00:00",
+         "title" : "Veni, vidi, Vishy"
+      },
+      {
          "description" : "D Gukesh scored his second win in-a-row, against Sanan Sjugirov, in the fifth round of the Chennai Grand Masters. Gukesh seized his advantage and synthesized an attack on the kingside. Sjugirov had no proper answer to it and succumbed. The Arjun Erigaisi-Levon Aronian saga continues. Arjun had a great opportunity to beat Aronian for the first time in a rated game in over two years. Unfortunately, he pushed a pawn incorrectly in the rook endgame and eventually lost his advantage. The two-time World Cup winner managed to salvage a draw. Pavel Eljanov handed Alexandr Predke his third consecutive loss. Gukesh is in the sole lead with 3&frac12;/5, followed by Pentala Harikrishna and Eljanov at 3/",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cct-finals-2023-d8",
          "pubDate" : "Sun, 17 Dec 2023 00:30:00",
          "title" : "Magnus Carlsen wins third consecutive Champions Chess Tour title"
-      },
-      {
-         "description" : "Vishy Anand inaugurated the Chennai Grand Masters 2023 by making the first move on D Gukesh and Arjun Erigaisi's board. They had a relatively calm draw. Alexandr Predke (SRB) had good chances against Pentala Harikrishna. However, he blundered away his advantage. The endgame expert, Harikrishna, does not miss these chances to secure a half point. Pavel Eljanov (UKR) made an incorrect offer of queen trades, which resulted in him losing an exchange. The already difficult endgame turned worse for him and his opponent Sanan Sjugirov (HUN) scored his first-ever classical win over his opponent. Parham Maghsoodloo (IRI) was determined to push for a win, but a draw was the maximum result he could get",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vishy-anand-inaugurates-chennai-grand-masters-2023",
-         "pubDate" : "Sat, 16 Dec 2023 21:05:00",
-         "title" : "Vishy Anand inaugurates Chennai Grand Masters 2023"
       },
       {
          "description" : " The Champions Chess Tour Final took place in Toronto, Canada 9th to 16th. The mostly online tour its final in Toronto. Magnus Carlsen, Denis Lazavik, Nodirbek Abdusattorov, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Hikaru Nakamura and Wesley So. There were round robin stage of mini-matches. The top two make the knockout phase, 3rd-6th entered a survival stage double elimination stage to find two players. Magnus Carlsen beat Wesley So 2-0 in the final. Nodirbek Abdusattorov and Fabiano Caruana finished in joint 3rd place.",
