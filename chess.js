@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "D Gukesh scored his second win in-a-row, against Sanan Sjugirov, in the fifth round of the Chennai Grand Masters. Gukesh seized his advantage and synthesized an attack on the kingside. Sjugirov had no proper answer to it and succumbed. The Arjun Erigaisi-Levon Aronian saga continues. Arjun had a great opportunity to beat Aronian for the first time in a rated game in over two years. Unfortunately, he pushed a pawn incorrectly in the rook endgame and eventually lost his advantage. The two-time World Cup winner managed to salvage a draw. Pavel Eljanov handed Alexandr Predke his third consecutive loss. Gukesh is in the sole lead with 3&frac12;/5, followed by Pentala Harikrishna and Eljanov at 3/",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r5-gukesh-subdues-sanan-emerges-sole-leader-2",
+         "pubDate" : "Tue, 19 Dec 2023 18:20:00",
+         "title" : "Chennai Masters R5: Gukesh subdues Sjugirov, emerges sole leader"
+      },
+      {
          "description" : "Budapest will host the Chess Olympiad 2024, Uzbekistan will host the Olympiad in 2026, and Abu Dhabi has been selected as the host city for the 47th Chess Olympiad in 2028, triumphing over Genoa with a vote of 96 to 60 during the FIDE Council meeting on December 17th.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +42,6 @@ news_feed (
          "title" : "The Max Euwe Centre needs support"
       },
       {
-         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
-         "pubDate" : "Tue, 19 Dec 2023 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,11 +66,19 @@ news_feed (
          "title" : "FIDE statement on rating specific tournaments"
       },
       {
+         "description" : "GM Gukesh Dommaraju scored his second consecutive victory by outwitting GM Sanan Sjugirov, with the black pieces and aggressive play, to jump into the sole lead with three and a half points from five rounds in the Chennai Grand Masters 2023. Overn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-4-1",
+         "pubDate" : "Tue, 19 Dec 2023 08:56:00",
+         "title" : "Gukesh Surges Ahead On Day Of Spectators' Delight"
+      },
+      {
          "description" : "Chess.com is excited to announce a new addition to our Insights page! Diamond members can now check out their Opening Insights to see how well they&#39;re playing the first stage of the game. It doesn&#39;t matter if you&#39;re fond of the trusty Queen&#39;s Ga...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-opening-insights",
-         "pubDate" : "Tue, 19 Dec 2023 05:04:25",
+         "pubDate" : "Tue, 19 Dec 2023 05:04:00",
          "title" : "Explore Your Opening Play With Chess.com's New Opening Insights Feature"
       },
       {
@@ -174,7 +182,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-daily-chess-championship-registration",
-         "pubDate" : "Mon, 18 Dec 2023 11:40:10",
+         "pubDate" : "Mon, 18 Dec 2023 11:40:00",
          "title" : "The 2024 Daily Chess Championship Is Coming: Register Now"
       },
       {
@@ -690,14 +698,6 @@ news_feed (
          "title" : "FIDE GA 2023 List of Delegates and Constitutional Commission report published"
       },
       {
-         "description" : "Half the field of eight players was eliminated on day four of the 2023 Champions Chess Tour Finals. GMs Alireza Firouzja and Denis Lazavik exited in the round-robin, while GMs Maxime Vachier-Lagrave and Hikaru Nakamura bid goodbye in the Survival ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-survival-stage",
-         "pubDate" : "Tue, 12 Dec 2023 16:28:00",
-         "title" : "Comeback Kid Abdusattorov Knocks Out Nakamura"
-      },
-      {
          "description" : "&#8212; from Chess.com GM Michael Adams said it was probably his best-ever result to win the London Chess Classic 2023 at the age of 52....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1200,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2770",
          "pubDate" : "Wed, 29 Nov 2023 10:16:03",
          "title" : "2023 Sinquefield Cup: Day 7 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2769",
-         "pubDate" : "Tue, 28 Nov 2023 17:00:03",
-         "title" : "Empowering queens of the chessboard: National Female Team Development Seminar "
       }
    ]
 }
