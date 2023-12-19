@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " FM Jimmy Canty III has become one of the most popular online chess personalities and has just released his first Chessable course. The 31-year-old Detroit native is one of the most visible social media icons in the chess world today. First coached by Harold Steen at Bates Academy, he has risen out of a city The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/\">FM Jimmy Canty on Chessable!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/",
+         "pubDate" : "Tue, 19 Dec 2023 03:43:58",
+         "title" : "FM Jimmy Canty on Chessable!"
+      },
+      {
          "description" : "Four players are sharing the lead with 5&frac12; points each after six rounds of play at the Chessable Sunway main tournament in Sitges. Sethuraman S.P. (India), Dominik Horvath (Austria), Brandon Jacobson (United States) and Iniyan Pa (India) are the current co-leaders in the 10-round open event. Two side stories from Sitges dominated the news cycle these days, though: Leinier Dominguez's withdrawal and Faustino Oro's participation in Sunday's blitz tournament. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2806",
          "pubDate" : "Mon, 18 Dec 2023 18:05:02",
          "title" : "Abu Dhabi wins bid to host 47th Chess Olympiad in 2028"
+      },
+      {
+         "description" : "FM Faustino Oro defeated IM Levy Rozman in the much-awaited edition of ChessKid Stars vs. Streamers: Fausti vs. GothamChess. On Monday, Oro and Rozman proved to be an extremely close matchup. After many lead changes, the prodigy scored a must-win ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-chesskid-stars-vs-streamers-fausti-vs-gothamchess",
+         "pubDate" : "Mon, 18 Dec 2023 17:56:14",
+         "title" : "Whiz Kid Beats GothamChess"
       },
       {
          "description" : "",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/indias-strongest-ever-round-robin-gukesh-erigaisi-candidates-hope-alive",
          "pubDate" : "Tue, 12 Dec 2023 03:41:00",
          "title" : "Candidates Race: Gukesh, Erigaisi Get Final Chance In Last-Minute Super Tournament"
-      },
-      {
-         "description" : "One is the greatest chess player of his generation, perhaps of all time, and the other is the greatest football strategist of his generation&#38;mdash;perhaps also of all time. This was the moment Norway&#39;s chess superstar GM Magnus Carlsen met face-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/when-magnus-carlsen-met-pep-guardiola",
-         "pubDate" : "Tue, 12 Dec 2023 02:30:00",
-         "title" : "Two Geniuses Together: When Magnus Carlsen Met Pep Guardiola"
       },
       {
          "description" : "At the end of last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html\">Elon Musk and Squirrels</A> (December 2023), I asked, <BLOCKQUOTE> Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wants to do. </BLOCKQUOTE> <P> While I've learned a few tricks in the week since that post, the whole process is still too much like herding cats. For this post, I used the tool to see how well it drew World Champions, both past and present. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl11.jpg\" WIDTH=334 HEIGHT=400><BR> <B",
