@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four players are sharing the lead with 5&frac12; points each after six rounds of play at the Chessable Sunway main tournament in Sitges. Sethuraman S.P. (India), Dominik Horvath (Austria), Brandon Jacobson (United States) and Iniyan Pa (India) are the current co-leaders in the 10-round open event. Two side stories from Sitges dominated the news cycle these days, though: Leinier Dominguez's withdrawal and Faustino Oro's participation in Sunday's blitz tournament. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunway-sitges-2023-r6",
+         "pubDate" : "Tue, 19 Dec 2023 01:00:00",
+         "title" : "Four co-leaders in Sitges, Faustino Oro makes stellar appearance"
+      },
+      {
          "description" : "There are still two places available in the 2024 Candidates Tournament. One of these places will go to the player with the highest Elo rating in the January 2024 world rankings who has not yet qualified for the Candidates Tournament. A tournament was therefore organised at short notice in Chennai, India, to give Erigaisi and Gukesh a better chance to qualify. Leinier Dominguez tried his luck at the Sunway Sitges Open, while Alireza Firouzja now suddenly has a chance to gain Elo in a series of matches in France.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -344,14 +352,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cct-finals-2023-d7",
          "pubDate" : "Sat, 16 Dec 2023 02:45:00",
          "title" : "CCT Finals: Carlsen wins first set"
-      },
-      {
-         "description" : "The Chennai Grand Masters 2023 got off to a splendid start. Just when it seemed like the first round would end up being victorless, Pentala Harikrishna and Pavel Eljanov proved those predictions wrong. Arjun Erigaisi (Harikrishna's opponent) made a significant mistake early in the game. It made him defend the better part of the battle. Eventually he missed his final opportunity to salvage a half point, which cost him the game. Parham Maghsoodloo (Eljanov's opponent) made a huge blunder in a rook and two pawns endgame which was seemingly heading towards a draw. | All photos are by Shahid Ahmed unless specified otherwise.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r1-harikrishna-and-eljanov-strike-2",
-         "pubDate" : "Fri, 15 Dec 2023 21:15:00",
-         "title" : "Chennai Masters R1: Harikrishna and Eljanov strike"
       },
       {
          "description" : "",
