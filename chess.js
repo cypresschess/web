@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Budapest will host the Chess Olympiad 2024, Uzbekistan will host the Olympiad in 2026, and Abu Dhabi has been selected as the host city for the 47th Chess Olympiad in 2028, triumphing over Genoa with a vote of 96 to 60 during the FIDE Council meeting on December 17th.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abu-dhabi-wins-bid-to-host-47th-chess-olympiad-in-2028",
+         "pubDate" : "Tue, 19 Dec 2023 14:01:45",
+         "title" : "Abu Dhabi wins bid to host 47th Chess Olympiad in 2028"
+      },
+      {
+         "description" : "Owen Philips has decided to stand down from the post of Manager for Accessible Chess on health grounds.&#160;During his tenure Owen has taken forward a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/manager-for-accessible-chess/",
+         "pubDate" : "Tue, 19 Dec 2023 13:34:07",
+         "title" : "Manager for Accessible Chess"
+      },
+      {
          "description" : "Rounds three and four of the Czech Extraliga were affected by the European Rapid Chess and Blitz Championships, which took place at the same time. Many players participated there and some league matches had to be postponed. But Moravska Slavia and Frydek Mistek played and took the lead in the league. | Photo: Brno's chess ambassador Inna Puhajkova made the first move at the board of Boris Gelfand and Anton Korobov. | Photos: Vladimir Jagr",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +66,15 @@ news_feed (
          "title" : "FIDE statement on rating specific tournaments"
       },
       {
-         "description" : " FM Jimmy Canty III has become one of the most popular online chess personalities and has just released his first Chessable course. The 31-year-old Detroit native is one of the most visible social media icons in the chess world today. First coached by Harold Steen at Bates Academy, he has risen out of a city The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/\">FM Jimmy Canty on Chessable!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "Chess.com is excited to announce a new addition to our Insights page! Diamond members can now check out their Opening Insights to see how well they&#39;re playing the first stage of the game. It doesn&#39;t matter if you&#39;re fond of the trusty Queen&#39;s Ga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-opening-insights",
+         "pubDate" : "Tue, 19 Dec 2023 05:04:25",
+         "title" : "Explore Your Opening Play With Chess.com's New Opening Insights Feature"
+      },
+      {
+         "description" : " FM Jimmy Canty III has become one of the most popular and visible online chess personalities. His rise to stardom in the streaming world comes amidst giants such as Hikaru Nakamura, Levy Rozman, and the Botez (Alexandra &#38; Andrea) sisters. This led to high-profile commentary gigs and now the 31-year-old Detroit native has become a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/\">FM Jimmy Canty on Chessable!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/",
@@ -62,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/european-rapid-blitz-2023-navara-sarana-ivanchuk",
-         "pubDate" : "Tue, 19 Dec 2023 02:48:02",
+         "pubDate" : "Tue, 19 Dec 2023 02:48:00",
          "title" : "Navara, Sarana Score Stunning European Rapid & Blitz Triples"
       },
       {
@@ -320,14 +344,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/play-chess-against-fighting-game-legend-sonicfox",
          "pubDate" : "Sat, 16 Dec 2023 14:30:00",
          "title" : "Play Chess Against Fighting Game Legend SonicFox"
-      },
-      {
-         "description" : "Dr. Karsten Mueller and Luis Engel have generated a lot of interest with their four player type model. Now, with Fritz 19 offering different club player characters as opponents, the question arises whether there is a correlation to the player types. Surprisingly, the answer is quite positive, as Karsten Mueller explains in detail in the video. The German GM has also analysed three of the games against our ChessBase authors and friends Robert Ris, Jan Jettel, and Svitlana Demchenko.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/do-the-characters-in-fritz-19-resemble-the-four-player-types",
-         "pubDate" : "Sat, 16 Dec 2023 14:00:00",
-         "title" : "Do the characters in Fritz 19 resemble the four player types?"
       },
       {
          "description" : "GM Magnus Carlsen won his third title at the 2023 Champions Chess Tour Finals on Saturday. He defeated GM Wesley So 2.5-1.5 and shared that the tour &#34;came full circle&#34; in the final game where he cracked So&#39;s super-solid opening line. Carlsen won...",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "https://aicf.in/commonwealth-chess-championship-2023-24/",
          "pubDate" : "Tue, 12 Dec 2023 07:37:23",
          "title" : "Commonwealth Chess Championship - 2023 - 24"
-      },
-      {
-         "description" : "Wise men speak because they have something to say, the philosopher Plato famously said, and when it comes to chess, few are wiser than GM Viswanathan Anand. The Indian legend reminded the world of that yet again on Monday, his 54th birthday, whe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-legend-vishy-anand-offers-nugget-of-wisdom-on-54th-birthday",
-         "pubDate" : "Tue, 12 Dec 2023 04:34:19",
-         "title" : "Chess Legend Vishy Anand Offers Incredible Pearl Of Wisdom On His 54th Birthday"
       },
       {
          "description" : "At the end of last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html\">Elon Musk and Squirrels</A> (December 2023), I asked, <BLOCKQUOTE> Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wants to do. </BLOCKQUOTE> <P> While I've learned a few tricks in the week since that post, the whole process is still too much like herding cats. For this post, I used the tool to see how well it drew World Champions, both past and present. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl11.jpg\" WIDTH=334 HEIGHT=400><BR> <B",
