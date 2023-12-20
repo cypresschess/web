@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3I7EystMbZc.jpg?itok=KA0CeJLf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Wed, 20 Dec 2023 08:22:51",
+         "title" : "Wesley So on His Position in The GCT During The #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-fide-changes-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4rfYMXlPzS8.jpg?itok=m2wjMc-E\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-fide-changes-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Wed, 20 Dec 2023 08:22:51",
+         "title" : "Dominguez on FIDE Changes | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-happy-be-alive-and-play-chess-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TsVMrRSHIBs.jpg?itok=49Pp_Ymd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-happy-be-alive-and-play-chess-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Wed, 20 Dec 2023 08:22:51",
+         "title" : "Wesley So: Happy to Be Alive and Play Chess | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-how-he-deals-pressure-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cNSKYmZjY9s.jpg?itok=DSKGUFlQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-how-he-deals-pressure-sinquefieldcup-grandchesstour-2023",
+         "pubDate" : "Wed, 20 Dec 2023 08:22:51",
+         "title" : "Wesley So on How He Deals With Pressure | #sinquefieldcup #grandchesstour 2023"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows beginner chess players his method of playing against Black's Scandinavian, or positions that can arise from 1.e4 d5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/destroy-scandinavian-chase-lady-beginner-breakdown-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CEQg7gv4rCk.jpg?itok=dYZHyDR3\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -522,22 +554,6 @@ news_feed (
          "title" : "English Attack: Part 2 | Prepare Like A Pro - GM Alex Yermolinsky"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes his own chess games in the English attack. 2023.12.14<br /> Alex Yermolinsky vs Alexey Vyzmanavin, White Nights (1984): A17 English, Nimzo-English opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1146502\">https://www.chessgames.com/perl/chessgame?gid=1146502</a><br /> Alex Yermolinsky vs Eduardas Rozentalis, Keres Memorial (1993): A17 English, Nimzo-English opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1150997\">https://www.chessgames.com/perl/chessgame?gid=1150997</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/poor-mans-nimzo-indian-part-1-prepare-pro-live-gm-alex-yermolinsky",
-         "pubDate" : "Fri, 15 Dec 2023 02:16:36",
-         "title" : "The Poor Man's Nimzo-Indian: Part 1 | Prepare Like A Pro LIVE! - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes his own chess games. 2023.12.14 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prepare-pro-live-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p56jIPalr48.jpg?itok=cgqUy9yf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prepare-pro-live-gm-alex-yermolinsky",
-         "pubDate" : "Thu, 14 Dec 2023 23:16:20",
-         "title" : "Prepare Like A Pro LIVE! - GM Alex Yermolinsky"
-      },
-      {
          "description" : "The European Rapid and Blitz Chess Championship 2023 commenced today in Zagreb, Croatia with the Rapid event. The Opening ceremony took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice President Mr. Alojzije Jankovic, the President of the Croatian Chess Federation Mr. Ivica Brkic, FIDE Vice President Mr. Joran Aulin-Jansson, FIDE Secretary General Mr Lukasz Turlej, representative of the Croatian Government State Secretary of Ministry of Tourism and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -898,14 +914,6 @@ news_feed (
          "title" : "December 1973 & 1998 'On the Cover'"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> In commanding fashion, Grandmaster (GM) Fabiano Caruana won both the 2023 Saint Louis Rapid &amp; Blitz and Sinquefield Cup to become the overall 2023 Grand Chess Tour champion. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-grandmaster-fabiano-caruana-sweeps-saint-louis-rapid-and-blitz-and-sinquefield-cup",
-         "pubDate" : "Wed, 06 Dec 2023 18:44:21",
-         "title" : "Saint Louis Grandmaster Fabiano Caruana Sweeps Saint Louis Rapid and Blitz and Sinquefield Cup; Wins 2023 Grand Chess Tour"
-      },
-      {
          "description" : " After yesterdays lesson in targeting the king, a slightly more restrained game, in this case played by myself. In the end my opponent took a few liberty's in the opening (taking both centre pawns gives White too much play), and never quite untangled himself. At move 17 I was planning to play Be3 with the idea of winning the exchange after 18.Nc7, but I realised it was stronger if I reversed the move order. The game ended when my opponent flagged in a losing position. <br /> <b>Press,Shaun - Grcic,Milan [E04]</b><br /> Swiss Festive Fun --- (5), 05.12.2023 <script> new PgnViewer( { boardName: \"game1432\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.g3 c5 5.Bg2 cxd4 6.O-O dx",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2785",
          "pubDate" : "Wed, 06 Dec 2023 09:17:17",
          "title" : "Chess for Freedom project among 3rd Annual Anthem Awards Finalists"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a beginner chess class about drawing combinations, using perpetual check, stalemate, sacrifice, and more! Plus, see the shortest possible stalemate, and the shortest possible stalemate with all pieces on the board. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/amazing-drawing-combinations-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_f",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/amazing-drawing-combinations-beginner-breakdown-nm-ralph-tan",
-         "pubDate" : "Wed, 06 Dec 2023 02:05:55",
-         "title" : "Amazing Drawing Combinations! | Beginner Breakdown - NM Ralph Tan"
       },
       {
          "description" : " This game was played in the final round of a recent Street Chess event. I'm not sure of the provenance of 8.Qd2 (due to a broken Chessbase database), but after move 11, White was well ahead. The only difficult question seemed to be the timing of the sacrifice on h6. <br /> <b>Press,Harry - Li,Hui [D55]</b><br /> Street Chess (7), 02.12.2023 <script> new PgnViewer( { boardName: \"game1431\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.Nf3 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 c6 9.h4 Nd7 10.g4 dxc4 11.g5 hxg5 12.hxg5 Bxg5 13.Bxc4 b5 14.Bd3 Bh6 15.O-O-O Re8 16.Rdg1 Kf8 17.Ne4 Nf6 18.Ne5 Nxe4 19.Bxe4 Bb7 20.Rxh6 gxh6 21.Qb4+ Qe7 22.Nd7# 1-0', pauseBetweenMoves: 500, pieceSiz",
