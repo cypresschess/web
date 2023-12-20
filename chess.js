@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows beginner chess players his method of playing against Black's Scandinavian, or positions that can arise from 1.e4 d5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/destroy-scandinavian-chase-lady-beginner-breakdown-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CEQg7gv4rCk.jpg?itok=dYZHyDR3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/destroy-scandinavian-chase-lady-beginner-breakdown-gm-denes-boros",
+         "pubDate" : "Wed, 20 Dec 2023 02:22:46",
+         "title" : "DESTROY the Scandinavian, CHASE the Lady! | Beginner Breakdown - GM Denes Boros"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows beginner chess players his method of playing against Black&#039;s Scandinavian, or 1.e4 d5. 2023.12.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/destroy-scandinavian-chase-queen-beginner-breakdown-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CEQg7gv4rCk.jpg?itok=dYZHyDR3\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "DESTROY the Scandinavian, CHASE the Queen! | Beginner Breakdown - GM Denes Boros"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky demonstrates how a pawn advantage doesn&#039;t guarantee chess victory. 2023.12.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/two-extra-pawns-dont-win-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q412s39Nyco.jpg?itok=mmj5DjrU\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky demonstrates how a pawn advantage doesn't guarantee chess victory. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/two-extra-pawns-dont-win-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q412s39Nyco.jpg?itok=mmj5DjrU\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/two-extra-pawns-dont-win-grandmasters-choice-gm-alex-yermolinsky",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/amazing-drawing-combinations-beginner-breakdown-nm-ralph-tan",
          "pubDate" : "Wed, 06 Dec 2023 02:05:55",
          "title" : "Amazing Drawing Combinations! | Beginner Breakdown - NM Ralph Tan"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Illia Nyzhnyk shows how to make your chess opponent regret their positional mistakes. 2023.12.05<br /> Illia Nyzhnyk vs. Lev Paciorkowski, 2019<br /> Erik Santarius vs. Nyzhnyk, 2019 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/punishing-positional-mistakes-grandmasters-choice-gm-illia-nyzhnyk\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/03QgVj8lfdI.jpg?itok=Suq",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/punishing-positional-mistakes-grandmasters-choice-gm-illia-nyzhnyk",
-         "pubDate" : "Tue, 05 Dec 2023 23:05:41",
-         "title" : "Punishing Positional Mistakes | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
          "description" : " This game was played in the final round of a recent Street Chess event. I'm not sure of the provenance of 8.Qd2 (due to a broken Chessbase database), but after move 11, White was well ahead. The only difficult question seemed to be the timing of the sacrifice on h6. <br /> <b>Press,Harry - Li,Hui [D55]</b><br /> Street Chess (7), 02.12.2023 <script> new PgnViewer( { boardName: \"game1431\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.Nf3 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 c6 9.h4 Nd7 10.g4 dxc4 11.g5 hxg5 12.hxg5 Bxg5 13.Bxc4 b5 14.Bd3 Bh6 15.O-O-O Re8 16.Rdg1 Kf8 17.Ne4 Nf6 18.Ne5 Nxe4 19.Bxe4 Bb7 20.Rxh6 gxh6 21.Qb4+ Qe7 22.Nd7# 1-0', pauseBetweenMoves: 500, pieceSiz",
