@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows beginner chess players his method of playing against Black&#039;s Scandinavian, or 1.e4 d5. 2023.12.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/destroy-scandinavian-chase-queen-beginner-breakdown-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CEQg7gv4rCk.jpg?itok=dYZHyDR3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/destroy-scandinavian-chase-queen-beginner-breakdown-gm-denes-boros",
+         "pubDate" : "Tue, 19 Dec 2023 23:22:30",
+         "title" : "DESTROY the Scandinavian, CHASE the Queen! | Beginner Breakdown - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky demonstrates how a pawn advantage doesn&#039;t guarantee chess victory. 2023.12.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/two-extra-pawns-dont-win-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q412s39Nyco.jpg?itok=mmj5DjrU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/two-extra-pawns-dont-win-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Tue, 19 Dec 2023 23:22:30",
+         "title" : "Two Extra Pawns Don't Win! | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
          "description" : "This month marks the birth anniversary of Viswanathan Anand. The phenomenal rise of the Indian super talent created a chess wave in his own land that shows no sign of diminishing. Vishy has been an inspiration for many young players, and today he is an ambassador for the game. Here our columnist recalls the early career of the former world champion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -914,14 +930,6 @@ news_feed (
          "title" : "Punishing Positional Mistakes | Grandmaster's Choice - GM Illia Nyzhnyk"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan teaches a beginner chess class about drawing combinations. 2023.12.05 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/drawing-combinations-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xT2pDaZa9JM.jpg?itok=uZQjV76o\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/drawing-combinations-beginner-breakdown-nm-ralph-tan",
-         "pubDate" : "Tue, 05 Dec 2023 20:05:45",
-         "title" : "Drawing Combinations | Beginner Breakdown - NM Ralph Tan"
-      },
-      {
          "description" : " This game was played in the final round of a recent Street Chess event. I'm not sure of the provenance of 8.Qd2 (due to a broken Chessbase database), but after move 11, White was well ahead. The only difficult question seemed to be the timing of the sacrifice on h6. <br /> <b>Press,Harry - Li,Hui [D55]</b><br /> Street Chess (7), 02.12.2023 <script> new PgnViewer( { boardName: \"game1431\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.Nf3 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 c6 9.h4 Nd7 10.g4 dxc4 11.g5 hxg5 12.hxg5 Bxg5 13.Bxc4 b5 14.Bd3 Bh6 15.O-O-O Re8 16.Rdg1 Kf8 17.Ne4 Nf6 18.Ne5 Nxe4 19.Bxe4 Bb7 20.Rxh6 gxh6 21.Qb4+ Qe7 22.Nd7# 1-0', pauseBetweenMoves: 500, pieceSiz",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://www.thearticle.com/knight-errant-chess-and-the-elgin-marbles/",
          "pubDate" : "Sat, 02 Dec 2023 09:20:40",
          "title" : "Knight errant: chess and the Elgin Marbles"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-does-it-feel-after-all-fabi-wins-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/faHeCb-9KY8.jpg?itok=vWaNuXbH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-does-it-feel-after-all-fabi-wins-sinquefieldcup-grandchesstour-2023",
-         "pubDate" : "Fri, 01 Dec 2023 20:01:54",
-         "title" : "\"How does it feel after all this?\" Fabi Wins The #sinquefieldcup #grandchesstour 2023"
       },
       {
          "description" : " The 13th London Classic took place 1st to 10th December 2023. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal. Michael Adams scored his best result in many years by taking clear first place with 6/9.",
