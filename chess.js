@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The name \"Hastings\" has a very special ring to it in the chess world. In 1895 one of the most important tournaments in chess history took place in the seaside resort on the south-east coast of England, and chess tournaments are still regularly held there today - no tournament in chess history has a longer tradition. The Berlin FM J&uuml;rgen Brustkern is a great expert on Hastings and has written a book on the history of this tradition together with Norbert Wallet. In an interview with ChessBase he reveals what fascinates him so much about Hastings.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-tradition-in-hastings-an-interview-with-juergen-brustkern",
+         "pubDate" : "Wed, 20 Dec 2023 17:00:00",
+         "title" : "Chess tradition in Hastings - An interview with J&uuml;rgen Brustkern"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106161713.cms\" />An eight-year-old British Indian schoolgirl has made chess history after being named the \"super talented\" best female player at a European championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/eight-year-old-british-indian-schoolgirl-chess-prodigy-named-europes-best/articleshow/106161713.cms",
+         "pubDate" : "Wed, 20 Dec 2023 16:16:35",
+         "title" : "Eight-year-old British Indian schoolgirl chess prodigy named Europe's best"
+      },
+      {
          "description" : "National Fair Play Orientation workshop and Seminar Certificates are out to download for Delhi and Pune. Delhi : https://aicf.online/Fair-Play-Delhi.html Pune : https://aicf.online/Fair%20Play-Pune.html Any Correction mail",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -320,14 +336,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r3-arjun-erigaisi-pulverizes-predke",
          "pubDate" : "Sun, 17 Dec 2023 18:40:00",
          "title" : "Chennai Masters R3: Arjun pulverizes Predke"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 156th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and takes a look at the games and the legacy of Paul Keres. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-155-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 17 Dec 2023 15:00:00",
-         "title" : "Understanding before Moving 156: Chess history in a nutshell (38)"
       },
       {
          "description" : "The World Chess Federation (FIDE) has approved a controversial motion to scrap presidential term limits leaving Arkady Dvorkovich, a former deputy prime minister of Russia, free to run for a third term in 2026. Delegates from 108 national federa...",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2771",
          "pubDate" : "Wed, 29 Nov 2023 21:02:22",
          "title" : "Clarifications on FIDE Circuit Regulations and qualification procedure for Candidates 2024"
-      },
-      {
-         "description" : " This was prompted by a query concerning whether the result for resigning was different from the result from being checkmated. A number of years ago I experimented with an alternative scoring system for club events. IIRC it was something like 4 points for a win plus a bonus point if you won in under 30 moves. Losing players earned a bonus point if they lasted longer than 40 moves, plus an extra bonus point if they were (a) lower rated and (b) weren't down material at move 30. All very complicated, and it didn't survive past the test event. But would the game be different/better if a player received a fractional point if they resigned, rather than dragged the game out to checkmate (winner sti",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/11/more-wacky-ideas.html",
-         "pubDate" : "Wed, 29 Nov 2023 12:43:00",
-         "title" : "More wacky ideas"
       }
    ]
 }
