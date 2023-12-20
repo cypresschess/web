@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi scored the sole victory in the penultimate round of the Chennai Grand Masters. It started a little wild compared to other games. His opponent, Parham Maghsoodloo, decided to sacrifice his bishop to get a couple of pawns and exploit Arjun's weakened king. However, there was not enough compensation and White could not generate a substantial attack. The other games had a relatively calm draw between Gukesh and Eljanov, Aronian and Predke, and Sjugirov and Harikrishna. Harikrishna can spoil Gukesh's tournament if he manages to beat the teenager. The final round stars one and a half hour earlier than usual. | Photos: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r6-arjun-wins-gukesh-set-for-showdown-against-harikrishna",
+         "pubDate" : "Wed, 20 Dec 2023 17:40:00",
+         "title" : "Chennai Masters R6: Arjun wins, Gukesh set for showdown against Harikrishna"
+      },
+      {
          "description" : "The name \"Hastings\" has a very special ring to it in the chess world. In 1895 one of the most important tournaments in chess history took place in the seaside resort on the south-east coast of England, and chess tournaments are still regularly held there today - no tournament in chess history has a longer tradition. The Berlin FM J&uuml;rgen Brustkern is a great expert on Hastings and has written a book on the history of this tradition together with Norbert Wallet. In an interview with ChessBase he reveals what fascinates him so much about Hastings.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,12 +50,28 @@ news_feed (
          "title" : "British Rapidplay 2024"
       },
       {
-         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
-         "pubDate" : "Wed, 20 Dec 2023 10:20:00",
-         "title" : "Chennai Grand Masters - Live!"
+         "description" : "One is perhaps the greatest American chess author, and the other the greatest American chess presenter. Now, only on Chessable, you can learn from late IM Jeremy Silman&#39;s renowned classic, How To Reassess Your Chess, in a very special five-star co...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chessable-course-how-to-reassess-your-chess",
+         "pubDate" : "Wed, 20 Dec 2023 09:45:41",
+         "title" : "Maurice Ashley Presents 'How To Reassess Your Chess' On Chessable"
+      },
+      {
+         "description" : "It&#39;s a minor surprise that it doesn&#39;t happen more often, but GM Magnus Carlsen and&#38;nbsp;GM Hikaru Nakamura were the winners of&#38;nbsp;Titled Tuesday on December 19. Carlsen scored 10/11 in the early event, beating Nakamura by half a point, and in th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-nakamura-win-titled-tuesday-december-19-2023",
+         "pubDate" : "Wed, 20 Dec 2023 08:48:46",
+         "title" : "Carlsen Continues Building Rating Record"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju continued to lead with four points at the end of the sixth and penultimate round of the Chennai Grand Masters 2023 after his uneventful draw against GM Pavel Eljanov. GM Arjun Erigaisi continued his best effort to win the tourn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-6",
+         "pubDate" : "Wed, 20 Dec 2023 08:42:00",
+         "title" : "Gukesh Leads Before Final Round, Vies For Candidates Spot"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3I7EystMbZc.jpg?itok=KA0CeJLf\" alt=\"\" /></a></div>",
@@ -666,14 +690,6 @@ news_feed (
          "title" : "Decision on the Magnus Carlsen / Hans Niemann case"
       },
       {
-         "description" : "GMs Magnus Carlsen and Nodirbek Abdusattorov took the lead on Wednesday in the 2023 Champions Chess Tour Finals.&#38;nbsp; Against GM Fabiano Caruana, Carlsen won game one from a lost position&#38;mdash;after losing his queen. And after losing the next ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-sf-day-1",
-         "pubDate" : "Wed, 13 Dec 2023 13:18:00",
-         "title" : "Carlsen Blunders Queen, Then Wins Match"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -698,14 +714,6 @@ news_feed (
          "title" : "IM Norm Tournaments Tamil Nadu"
       },
       {
-         "description" : "The Titled Tuesday of December 12 was somewhat overshadowed by the Champions Chess Tour (CCT) Finals, but GM Denis Lazavik brought the two events together by winning the late Titled Tuesday following his elimination from the CCT. The earlier Title...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-lazavik-win-titled-tuesday-december-12-2023",
-         "pubDate" : "Wed, 13 Dec 2023 10:13:15",
-         "title" : "No CCT, No Problem For Tuesday Winner"
-      },
-      {
          "description" : "Indian Team is all set to start their campaign at Asian Youth Chess Championship 2023 at Ai AIN UAE from 12 -22 December 2023 .",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-starts-in-zagreb/",
          "pubDate" : "Wed, 13 Dec 2023 08:55:06",
          "title" : "European Rapid and Blitz Chess Championship 2023 starts in Zagreb"
-      },
-      {
-         "description" : "GM Magnus Carlsen has been declared not guilty of three charges brought against him by FIDE&#39;s Ethics &#38;amp; Disciplinary Commission following the 2022 Sinquefield Cup, but he was fined for &#34;withdrawing without a valid reason&#34;. The long-awaited ve...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-finds-carlsen-not-guilty-in-niemann-case-fined-10-000-for-withdrawal",
-         "pubDate" : "Wed, 13 Dec 2023 08:23:00",
-         "title" : "Carlsen Not Guilty On 3/4 Counts In Niemann Ruling, Fined €10,000 For Withdrawal"
       },
       {
          "description" : "36th National Under-13 Open &#38; Girls Chess Championship Certificates Available to download Open: Click Here! Girls: Click Here! Any Correction mail at aicfwebmaster2021@gmail.com",
