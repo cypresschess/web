@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Fair Play Orientation workshop and Seminar Certificates are out to download for Delhi and Pune. Delhi : https://aicf.online/Fair-Play-Delhi.html Pune : https://aicf.online/Fair%20Play-Pune.html Any Correction mail",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-fair-play-workshops-certificates-pune-delhi/",
+         "pubDate" : "Wed, 20 Dec 2023 12:13:26",
+         "title" : "National Fair Play Workshops Certificates, Pune & Delhi."
+      },
+      {
+         "description" : "As it is already well-known, chess is a game of repeated motifs; a game of repeated knowledge! Once you carefully and correctly learn a motif, a pattern or an opening, your subconscious carefully stores it for use when time comes and demands! Here is a valuable lesson from a world-class chess trainer on the subject. There is a lot to learn!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/efstratios-grivas-repetead-motifs",
+         "pubDate" : "Wed, 20 Dec 2023 12:00:00",
+         "title" : "Efstratios Grivas - Repeated Motifs"
+      },
+      {
+         "description" : "We're pleased to be able to confirm that the ECF are once again supporting the 4NCL in organising the 2024 edition of the British Rapidplay...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-rapidplay-2024/",
+         "pubDate" : "Wed, 20 Dec 2023 11:20:12",
+         "title" : "British Rapidplay 2024"
+      },
+      {
+         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
+         "pubDate" : "Wed, 20 Dec 2023 10:20:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3I7EystMbZc.jpg?itok=KA0CeJLf\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -322,14 +354,6 @@ news_feed (
          "title" : "European Rapid and Blitz Championship 2023: Sarana and Navara win titles "
       },
       {
-         "description" : "Today, 17 December 2023, Alexander \"Big Al\" Beliavsky celebrates his 70th birthday. 50 years ago, in 1973, he became World Junior Champion and has been a fixture in the chess universe ever since. For decades he was a world class player and in the course of his illustrious career Beliavsky defeated no less than nine world champions in classical chess - a feat achieved only by Paul Keres and Viktor Korchnoi! Eduard Frey congratulates and presents highlights of a remarkable career. | Alexander Beliavsky at his first Chess Olympiad in Lucerne 1982 | Photo: Dr. Klaus Krtschil via Wikipedia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alexander-beliavsky-turns-70-happy-birthday-to-the-legendary-player-who-beat-nine-world-champions",
-         "pubDate" : "Sun, 17 Dec 2023 11:00:00",
-         "title" : "Alexander Beliavsky turns 70 - Happy birthday to the legendary player who defeated nine world champions!"
-      },
-      {
          "description" : "British chess prodigy WCM Bodhana Sivanandan continues her remarkable chess journey with a sensational result in the European Blitz Championship where she won the prize for the best woman player. In late October, the eight-year-old prodigy made ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -360,14 +384,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-chennai-gm-chess-tournament/",
          "pubDate" : "Sun, 17 Dec 2023 04:42:14",
          "title" : "Live Link : Chennai GM Chess Tournament"
-      },
-      {
-         "description" : "Magnus Carlsen beat Wesley So in a hard-fought match to claim his third consecutive Champions Chess Tour title. This time around, the last event of the cycle took place in Toronto and featured eight much deserving qualified players. In the end, however, it was the king of rapid chess who - once again - came out on top. It was a well-deserved victory for the strongest chess player of this era. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cct-finals-2023-d8",
-         "pubDate" : "Sun, 17 Dec 2023 00:30:00",
-         "title" : "Magnus Carlsen wins third consecutive Champions Chess Tour title"
       },
       {
          "description" : " The Champions Chess Tour Final took place in Toronto, Canada 9th to 16th. The mostly online tour its final in Toronto. Magnus Carlsen, Denis Lazavik, Nodirbek Abdusattorov, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Hikaru Nakamura and Wesley So. There were round robin stage of mini-matches. The top two make the knockout phase, 3rd-6th entered a survival stage double elimination stage to find two players. Magnus Carlsen beat Wesley So 2-0 in the final. Nodirbek Abdusattorov and Fabiano Caruana finished in joint 3rd place.",
@@ -962,14 +978,6 @@ news_feed (
          "title" : "Elon Musk and Squirrels"
       },
       {
-         "description" : "Thoothukudi District Chess Association on behalf of All India Chess Federation and AICF's Fair Play Committee organised a Fair Play Orientation Workshop at Kamaraj College,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicfs-fair-play-orientation-workshop-thoothukudi/",
-         "pubDate" : "Mon, 04 Dec 2023 14:07:08",
-         "title" : "AICF's Fair Play Orientation Workshop, Thoothukudi"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/11/more-wacky-ideas.html",
          "pubDate" : "Wed, 29 Nov 2023 12:43:00",
          "title" : "More wacky ideas"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2770",
-         "pubDate" : "Wed, 29 Nov 2023 10:16:03",
-         "title" : "2023 Sinquefield Cup: Day 7 Recap"
       }
    ]
 }
