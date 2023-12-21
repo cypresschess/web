@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The German Masters was exciting right up to the final round. Alexander Donchenko, Dennis Wagner and Rasmus Svane battled it out for victory in the open tournament, while the women's Masters saw Dinara Wagner and Hanna Marie Klek fighting for firs place in a direct duel. In the end, the Wagners were declared victorious in both tournaments. Congratulations! | Photos: Paul Meyer-Dunker",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dennis-dinara-wagner-win-german-masters-2023",
+         "pubDate" : "Thu, 21 Dec 2023 01:45:00",
+         "title" : "Dennis and Dinara Wagner claim victories at exciting German Masters"
+      },
+      {
          "description" : "8-year-old Bodhana Sivanandan (ENG) stunned the world with her phenomenal performance at the European Rapid and Blitz Chess Championship 2023 in Zagreb, Croatia. In the last couple of days, her name appeared in Daily Mail, CNN News, BBC News, The Guardian, The Independent, The Times, Sky News, Der Spiegel, NDTW world and other media who reported about Bodhana's success in Zagreb. Scoring 8.5/13 points, Bodhana Sivanandan emerged as the best-ranked female player in the European Blitz Chess Championship 2023, ahead []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -370,12 +378,12 @@ news_feed (
          "title" : "Jon Speelman: Light and dark"
       },
       {
-         "description" : "Arjun Erigaisi scored his first win of the event against Alexandr Predke in the third round of the Chennai Grand Masters 2023. After losing the first round against Harikrishna, Arjun was virtually in a must-win situation to stay in the championship hunt and keep his chances in the FIDE Circuit. Predke made a positional mistake which allowed his opponent to force the queen exchange. Arjun made the most out of his opportunity to trail the leaders - Sanan Sjugirov and Harikrishna - by a half point at 1.5/3 along with Levon Aronian, Pavel Eljanov and D Gukesh. | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r3-arjun-erigaisi-pulverizes-predke",
-         "pubDate" : "Sun, 17 Dec 2023 18:40:00",
-         "title" : "Chennai Masters R3: Arjun pulverizes Predke"
+         "description" : "The previous Flickr post, <A HREF=\"https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html\">AI Chess Comics</A> (November 2023), mentioned, '\"Alice\" is a recurring theme in chess art.' How does that relate to the next Flickr image? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl17.jpg\" WIDTH=368 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/181719773@N05/52292342886/\">Floating chess</A> &#169; Flickr user <I>Jaci XIV</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P> The description said, <BLOCKQUOTE> Created for: Digitalmania Group<BR> After: Vladimir Kush<BR> ***<BR> Created for the Magnificent Manipulat",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/alice-again.html",
+         "pubDate" : "Sun, 17 Dec 2023 16:18:00",
+         "title" : "Alice++ Again"
       },
       {
          "description" : "The World Chess Federation (FIDE) has approved a controversial motion to scrap presidential term limits leaving Arkady Dvorkovich, a former deputy prime minister of Russia, free to run for a third term in 2026. Delegates from 108 national federa...",
