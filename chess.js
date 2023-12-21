@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
+         "pubDate" : "Thu, 21 Dec 2023 08:50:00",
+         "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "GM Gergely Antal emerged as the winner of the 2023 Hungarian Individual Chess Championship. Men, women, and some invited youngsters aspiring for a place in the Hungarian U25 national team in the 2024 Olympiad in Budapest competed in a shared pool but were ranked separately. All in all, 30 players battled in a 9-round Swiss tournament on December 12-20. | Photos: Hungarian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gergely-antal-wins-hungarian-championship-2023",
+         "pubDate" : "Thu, 21 Dec 2023 06:30:00",
+         "title" : "Gergely Antal wins the 2023 Hungarian Championship"
+      },
+      {
          "description" : "The German Masters was exciting right up to the final round. Alexander Donchenko, Dennis Wagner and Rasmus Svane battled it out for victory in the open tournament, while the women's Masters saw Dinara Wagner and Hanna Marie Klek fighting for firs place in a direct duel. In the end, the Wagners were declared victorious in both tournaments. Congratulations! | Photos: Paul Meyer-Dunker",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -354,28 +370,12 @@ news_feed (
          "title" : "Maiden Victories For Gukesh, Maghsoodloo"
       },
       {
-         "description" : "In a decision aimed at promoting inclusivity and support for displaced persons, a team representing refugees will take part in the 45th Chess Olympiad set to take place in Budapest, Hungary, in 2024. The team of refugees will be carefully selected through a supervised process and endorsed by the UNHCR to compete in both the Open section and the Women's section of the most prestigious team chess tournament. | Photos: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/refugee-team-to-play-at-budapest-olympiad",
-         "pubDate" : "Mon, 18 Dec 2023 06:00:00",
-         "title" : "Refugee team to play at the Chess Olympiad in Budapest"
-      },
-      {
          "description" : "GM Leinier Dominguez has pulled out of the Chessable Sunway Sitges Chess Festival 2023 at the halfway mark, explaining, &#38;ldquo;I&#38;rsquo;ve come to a point where I&#38;rsquo;m simply risking too much if I continue.&#38;rdquo; The U.S. star travelled to Spai...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/dominguez-quits-sitges-wesley-so-firouzja-candidates",
          "pubDate" : "Mon, 18 Dec 2023 03:14:00",
          "title" : "Dominguez Drops Out; Firouzja Makes Late Bid For Wesley So's Candidates Spot"
-      },
-      {
-         "description" : "In order to attack the enemy king successfully in a game of chess, you need sufficient firepower and a clear target. Often there will be a complex of squares of the same colour that come under attack, and so we have white or dark-square games. Today we have some instances of attacks on both light and dark squares, featuring the likes of Johannes Zukertort (pictured) and Anatoly Karpov!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-208",
-         "pubDate" : "Sun, 17 Dec 2023 21:00:00",
-         "title" : "Jon Speelman: Light and dark"
       },
       {
          "description" : "The previous Flickr post, <A HREF=\"https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html\">AI Chess Comics</A> (November 2023), mentioned, '\"Alice\" is a recurring theme in chess art.' How does that relate to the next Flickr image? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl17.jpg\" WIDTH=368 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/181719773@N05/52292342886/\">Floating chess</A> &#169; Flickr user <I>Jaci XIV</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P> The description said, <BLOCKQUOTE> Created for: Digitalmania Group<BR> After: Vladimir Kush<BR> ***<BR> Created for the Magnificent Manipulat",
