@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new game of the week show Merin van Delft takes a look at a game Sanan Sjugirov and Gukesh played at the Chennai Grand Masters Tournament in India - Gukesh impressed with calm and strong play. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-598-h-niemann-vs-m-bartel-2",
+         "pubDate" : "Thu, 21 Dec 2023 11:54:26",
+         "title" : "Game of the Week #599: S. Sjugirov vs Gukesh"
+      },
+      {
+         "description" : "Certificates of national Fair Play Workshop, Thoothukudi are available to download. Link : https://aicf.online/Fair-Play-Toothukudi.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-fair-play-certificates-thoothukudi/",
+         "pubDate" : "Thu, 21 Dec 2023 09:52:12",
+         "title" : "National fair Play Certificates, Thoothukudi"
+      },
+      {
          "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -304,14 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r4-gukesh-beats-predke-joins-harikrishna-in-the-lead",
          "pubDate" : "Mon, 18 Dec 2023 19:10:00",
          "title" : "Chennai Masters R4: Gukesh beats Predke, joins Harikrishna in the lead"
-      },
-      {
-         "description" : "In the Endgame Magic Show #259 Karsten M&uuml;ller shows endgame highlights from 2023. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-259-endgames-from-2023",
-         "pubDate" : "Mon, 18 Dec 2023 19:07:33",
-         "title" : "Endgame Magic #259 - Endgames from 2023"
       },
       {
          "description" : "",
@@ -890,14 +898,6 @@ news_feed (
          "title" : "FIDE World School Championships 2024 - Call for Bids "
       },
       {
-         "description" : "All India Chess Federation and Fair Play Committee of AICF organised Fair Play Orientation workshops on 08-09 July 23,15-16 July 23 and 02-03 December 23",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fair-play-orientation-workshop-qualified-participants/",
-         "pubDate" : "Sun, 10 Dec 2023 09:05:21",
-         "title" : "Fair Play Orientation Workshop : Qualified Participants"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1192,14 +1192,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/11/missing-yahoos.html",
          "pubDate" : "Thu, 30 Nov 2023 16:54:00",
          "title" : "Missing Yahoos"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2773",
-         "pubDate" : "Thu, 30 Nov 2023 11:21:03",
-         "title" : "2023 Sinquefield Cup: Day 8 Recap"
       }
    ]
 }
