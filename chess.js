@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "8-year-old Bodhana Sivanandan (ENG) stunned the world with her phenomenal performance at the European Rapid and Blitz Chess Championship 2023 in Zagreb, Croatia. In the last couple of days, her name appeared in Daily Mail, CNN News, BBC News, The Guardian, The Independent, The Times, Sky News, Der Spiegel, NDTW world and other media who reported about Bodhana's success in Zagreb. Scoring 8.5/13 points, Bodhana Sivanandan emerged as the best-ranked female player in the European Blitz Chess Championship 2023, ahead []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/8-year-old-bodhana-sivanandan-stuns-the-world-with-her-impressive-performance-at-european-rapidblitz-championship/",
+         "pubDate" : "Wed, 20 Dec 2023 21:07:36",
+         "title" : "8-year-old Bodhana Sivanandan stuns the world with her impressive performance at European Rapid&Blitz Championship"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2809",
+         "pubDate" : "Wed, 20 Dec 2023 20:56:36",
+         "title" : "Gergely Antal wins 2023 Hungarian Championship"
+      },
+      {
          "description" : "Arjun Erigaisi scored the sole victory in the penultimate round of the Chennai Grand Masters. It started a little wild compared to other games. His opponent, Parham Maghsoodloo, decided to sacrifice his bishop to get a couple of pawns and exploit Arjun's weakened king. However, there was not enough compensation and White could not generate a substantial attack. The other games had a relatively calm draw between Gukesh and Eljanov, Aronian and Predke, and Sjugirov and Harikrishna. Harikrishna can spoil Gukesh's tournament if he manages to beat the teenager. The final round stars one and a half hour earlier than usual. | Photos: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chessable-course-how-to-reassess-your-chess",
-         "pubDate" : "Wed, 20 Dec 2023 09:45:41",
+         "pubDate" : "Wed, 20 Dec 2023 09:45:00",
          "title" : "Maurice Ashley Presents 'How To Reassess Your Chess' On Chessable"
       },
       {
@@ -1176,30 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2773",
          "pubDate" : "Thu, 30 Nov 2023 11:21:03",
          "title" : "2023 Sinquefield Cup: Day 8 Recap"
-      },
-      {
-         "description" : " From the publisher: &#8220;Almost as fascinating as chess is the community of chess players. In every major city in the world, you are guaranteed to meet interesting people when you <a href=\"http://britishchessnews.com/2023/11/30/speed-demon-the-fascinating-games-and-tragic-life-of-alexey-vyzhmanavin/\" class=\"more-link\">Continue reading <span class=\"screen-reader-text\">Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin</span> <span class=\"meta-nav\">&#8594;</span></a> The post <a href=\"http://britishchessnews.com/2023/11/30/speed-demon-the-fascinating-games-and-tragic-life-of-alexey-vyzhmanavin/\">Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin</",
-         "iconLink" : "https://cypresschess.github.io/web/BCN.png",
-         "iconName" : "British Chess<br>News",
-         "link" : "http://britishchessnews.com/2023/11/30/speed-demon-the-fascinating-games-and-tragic-life-of-alexey-vyzhmanavin/",
-         "pubDate" : "Thu, 30 Nov 2023 00:10:26",
-         "title" : "Speed Demon: The Fascinating Games and Tragic Life of Alexey Vyzhmanavin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2772",
-         "pubDate" : "Wed, 29 Nov 2023 22:03:50",
-         "title" : "Maria Jos&eacute; Campos wins 2023 Argentinean Women's Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2771",
-         "pubDate" : "Wed, 29 Nov 2023 21:02:22",
-         "title" : "Clarifications on FIDE Circuit Regulations and qualification procedure for Candidates 2024"
       }
    ]
 }
