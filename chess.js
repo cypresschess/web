@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is totally accepted that the 20th FIDE World Champion Magnus Carlsen makes any ending look like a piece of cake! And this is simply based on good knowledge and understanding, two great assets that are wrongly interpreted as intuition and sometimes, even magic! A world leading chess trainer and analyst, GM Efstratios Grivas, shows us how Magnus handles the endgame. You can learn from it!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-carlsen-lazavik",
+         "pubDate" : "Thu, 21 Dec 2023 15:00:00",
+         "title" : "Grivas on Carlsen-Lazavik"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2811",
+         "pubDate" : "Thu, 21 Dec 2023 13:45:11",
+         "title" : "Number of FIDE members surpasses 200 with Vanuatu and Tonga joining"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2810",
+         "pubDate" : "Thu, 21 Dec 2023 13:15:23",
+         "title" : "UAE hosts Asian Educational Seminar \"Chess for children with ASD. Learn & Teach\""
+      },
+      {
+         "description" : " While doing some random Xmas shopping the other day, I came across some 'cheap and cheerful' chess sets. The kind that would never do for a competition game, but might be handing for a casual game on Boxing Day. It occurred to me that if serious chess players were given the choice between miniature sets, and oversized 'sculpture' sets, they would probably take the miniature set. Bobby Fischer was said to carry one with him at all time, and Ulf Andersson used one on the way to becoming the highest rated Correspondence Chess player in 2002. Just in my line of sight as I type this are 5 such sets, and I suspect I have another half dozen scattered around the house. So if you are looking for a g",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/pocket-sets.html",
+         "pubDate" : "Thu, 21 Dec 2023 12:31:00",
+         "title" : "Pocket Sets"
+      },
+      {
          "description" : "In his new game of the week show Merin van Delft takes a look at a game Sanan Sjugirov and Gukesh played at the Chennai Grand Masters Tournament in India - Gukesh impressed with calm and strong play. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
          "pubDate" : "Thu, 21 Dec 2023 08:50:00",
          "title" : "Chennai Grand Masters - Live!"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju defended a slightly inferior endgame successfully against GM Pentala Harikrishna and won the title on tiebreak from GM Arjun Erigaisi after the seventh and final round of the Chennai Grand Masters 2023. Arjun fired on all cylin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-7",
+         "pubDate" : "Thu, 21 Dec 2023 08:07:39",
+         "title" : "Gukesh Wins Title On Tiebreak, Overtakes Giri In Candidates' Race"
       },
       {
          "description" : "GM Gergely Antal emerged as the winner of the 2023 Hungarian Individual Chess Championship. Men, women, and some invited youngsters aspiring for a place in the Hungarian U25 national team in the 2024 Olympiad in Budapest competed in a shared pool but were ranked separately. All in all, 30 players battled in a 9-round Swiss tournament on December 12-20. | Photos: Hungarian Chess Federation",
@@ -312,14 +352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2807",
          "pubDate" : "Mon, 18 Dec 2023 19:18:53",
          "title" : "FIDE statement on rating specific tournaments"
-      },
-      {
-         "description" : "D Gukesh scored his first win of the event against Alexandr Predke in the fourth round of the Chennai Grand Masters. Gukesh joined Pentala Harikrishna in the lead with 2.5/4 points each. Harikrishna had a well contested draw against Levon Aronian. Parham Maghsoodloo also scored his first win of the event, against Sanan Sjugirov. Arjun Erigaisi had a well contested draw against Pavel Eljanov. Five players are trailing the leaders at 2/4 each. They are Aronian, Eljanov, Maghsoodloo, Sjugirov and Arjun. | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r4-gukesh-beats-predke-joins-harikrishna-in-the-lead",
-         "pubDate" : "Mon, 18 Dec 2023 19:10:00",
-         "title" : "Chennai Masters R4: Gukesh beats Predke, joins Harikrishna in the lead"
       },
       {
          "description" : "",
@@ -696,14 +728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2797",
          "pubDate" : "Thu, 14 Dec 2023 09:42:16",
          "title" : "FIDE officials take part in the Global Refugee Forum in Geneva"
-      },
-      {
-         "description" : "Chess.com, the world&#38;rsquo;s largest online platform for chess, today announced it has signed with leading entertainment agency WME. A subsidiary of global sports and entertainment company Endeavor, WME will work with Chess.com to build on the g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wme-signs-chesscom",
-         "pubDate" : "Thu, 14 Dec 2023 05:58:19",
-         "title" : "WME Signs Chess.com To Expand Partnerships And Audience"
       },
       {
          "description" : "",
