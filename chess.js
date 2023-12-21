@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " FIDE General Assembly determined that the 2028 Chess Olympiad will be held in Abu Dhabi, UAE. Some 42 years after UAE hosted arguably the best Olympiad in history in 1986, the country seeks to host the world's most important chess event. This event includes all member federations, and concurrent sessions are held to conduct the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/21/uae-to-host-2028-chess-olympiad/\">UAE to host 2028 Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/12/21/uae-to-host-2028-chess-olympiad/",
+         "pubDate" : "Thu, 21 Dec 2023 20:20:24",
+         "title" : "UAE to host 2028 Chess Olympiad"
+      },
+      {
+         "description" : "The chess year 2023 will end with a particularly exciting event: the World Rapid and Blitz Championships, which will take place from 26 to 30 December in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in both tournaments. | Photos: Lennart Ootes, Maria Emelianova/Chess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/everything-ready-for-the-start-of-world-rapid-and-blitz-in-samarkand",
+         "pubDate" : "Thu, 21 Dec 2023 18:00:41",
+         "title" : "Everything ready for the start of World Rapid and Blitz in Samarkand"
+      },
+      {
+         "description" : "GM D Gukesh drew his final encounter with compatriot Pentala Harikrishna to clinch the title on tiebreak from GM Arjun Erigaisi after the seventh and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gukesh-wins-chennai-grandmasters-2023/",
+         "pubDate" : "Thu, 21 Dec 2023 17:27:46",
+         "title" : "Gukesh wins Chennai Grandmasters 2023"
+      },
+      {
+         "description" : "All India Chess Federation congratulate IM R Vaishali for the prestigious Arjuna Award by Government of India",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-im-r-vaishali-for-arjuna-award/",
+         "pubDate" : "Thu, 21 Dec 2023 17:16:57",
+         "title" : "Congratulations IM R Vaishali for Arjuna Award"
+      },
+      {
+         "description" : "Congratulations to renowned coach GM RB Ramesh for conferred with prestigious Dronacharya Award by Government of India.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-gm-rb-ramesh-for-dronacharya-award/",
+         "pubDate" : "Thu, 21 Dec 2023 17:13:17",
+         "title" : "Congratulations GM RB Ramesh for Dronacharya Award"
+      },
+      {
          "description" : "It is totally accepted that the 20th FIDE World Champion Magnus Carlsen makes any ending look like a piece of cake! And this is simply based on good knowledge and understanding, two great assets that are wrongly interpreted as intuition and sometimes, even magic! A world leading chess trainer and analyst, GM Efstratios Grivas, shows us how Magnus handles the endgame. You can learn from it!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -62,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-7",
-         "pubDate" : "Thu, 21 Dec 2023 08:07:39",
+         "pubDate" : "Thu, 21 Dec 2023 08:07:00",
          "title" : "Gukesh Wins Title On Tiebreak, Overtakes Giri In Candidates' Race"
       },
       {
@@ -336,14 +376,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sunway-sitges-2023-r6",
          "pubDate" : "Tue, 19 Dec 2023 01:00:00",
          "title" : "Four co-leaders in Sitges, Faustino Oro makes stellar appearance"
-      },
-      {
-         "description" : "There are still two places available in the 2024 Candidates Tournament. One of these places will go to the player with the highest Elo rating in the January 2024 world rankings who has not yet qualified for the Candidates Tournament. A tournament was therefore organised at short notice in Chennai, India, to give Erigaisi and Gukesh a better chance to qualify. Leinier Dominguez tried his luck at the Sunway Sitges Open, while Alireza Firouzja now suddenly has a chance to gain Elo in a series of matches in France.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/let-me-quickly-get-some-rating-points-please",
-         "pubDate" : "Mon, 18 Dec 2023 20:17:30",
-         "title" : "Let me quickly get some Elo, please!"
       },
       {
          "description" : "",
@@ -794,14 +826,6 @@ news_feed (
          "title" : "European Rapid and Blitz Chess Championship 2023 starts in Zagreb"
       },
       {
-         "description" : "36th National Under-13 Open &#38; Girls Chess Championship Certificates Available to download Open: Click Here! Girls: Click Here! Any Correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-u-13-certificates/",
-         "pubDate" : "Wed, 13 Dec 2023 08:08:30",
-         "title" : "National U-13 Certificates"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -834,14 +858,6 @@ news_feed (
          "title" : "National Honour - 3Cs Chess Club"
       },
       {
-         "description" : "Historical City of Melaka, Malaysia 19th to 28th February, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commonwealth-chess-championship-2023-24/",
-         "pubDate" : "Tue, 12 Dec 2023 07:37:23",
-         "title" : "Commonwealth Chess Championship - 2023 - 24"
-      },
-      {
          "description" : "At the end of last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html\">Elon Musk and Squirrels</A> (December 2023), I asked, <BLOCKQUOTE> Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wants to do. </BLOCKQUOTE> <P> While I've learned a few tricks in the week since that post, the whole process is still too much like herding cats. For this post, I used the tool to see how well it drew World Champions, both past and present. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl11.jpg\" WIDTH=334 HEIGHT=400><BR> <B",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rise-of-online-chess-platforms-sees-a-41-decline-in-uk-chess-clu/",
          "pubDate" : "Mon, 11 Dec 2023 08:34:03",
          "title" : "Rise of online chess platforms sees a 41% decline in UK chess club membership"
-      },
-      {
-         "description" : "All India Chess Federation wishes a very happy birthday to the legend of Indian Chess!!",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/happy-birthday-vishy/",
-         "pubDate" : "Mon, 11 Dec 2023 03:27:00",
-         "title" : "Happy Birthday Vishy!!"
       },
       {
          "description" : "",
@@ -1184,38 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2777",
          "pubDate" : "Fri, 01 Dec 2023 07:00:11",
          "title" : "Fabiano Caruana wins 2023 Sinquefield Cup"
-      },
-      {
-         "description" : " Brewington Hardway earned his first Grandmaster norm at the U.S. Masters in Charlotte. The 14-year-old had a blistering month of November earning more than 100 Elo points. Prior to his norm performance, he earned 50 Elo points at the nine-round NYC GM Fall Invitational. He bettered that result with another handsome cache of 62 Elo The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/11/30/hardaway-gets-1st-gm-norm-clinches-im-title/\">Hardaway gets 1st GM norm, clinches IM title</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/11/30/hardaway-gets-1st-gm-norm-clinches-im-title/",
-         "pubDate" : "Thu, 30 Nov 2023 19:18:31",
-         "title" : "Hardaway gets 1st GM norm, clinches IM title"
-      },
-      {
-         "description" : "The 2023 edition of the historical chess event Tournament of Peace concluded today in Zagreb, Croatia. The event took place from 22 to 30 November as a 10-player round-robin tournament, with GM Anton Korobov (UKR, 2667), GM Hans Niemann (USA, 2659), GM Vasyl Ivanchuk (UKR, 2653), GM Ivan Cheparinov (BUL, 2649), GM Ante Brkic (CRO, 2622), GM Alexander Motylev (ROU, 2619), GM Ivan Sokolov (NED, 2588), GM Hrvoje Stevic (CRO, 2549), GM Zdenko Kozul (CRO, 2531), and GM Robert Zelcic []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/hans-niemann-wins-tournament-of-peace-2023/",
-         "pubDate" : "Thu, 30 Nov 2023 18:51:25",
-         "title" : "Hans Niemann wins Tournament of Peace 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2774",
-         "pubDate" : "Thu, 30 Nov 2023 17:30:38",
-         "title" : "FIDE World Rapid & Blitz Championships 2023: Registration deadline extended"
-      },
-      {
-         "description" : "Another month ending means another post about top stories in the chess world, aka Yahoos (see the footnote for details). You might notice something unusual about the chart showing the top sources, so I'll come back to that after giving the usual statistics. <P> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nk30.gif\" WIDTH=200 HEIGHT=180 ALIGN=LEFT VSPACE=5 HSPACE=5> For November, Google News returned exactly 100 stories. Eight sources accounted for two or more stories, as shown in the chart on the left. Taken together, those eight sources accounted for a total of 47 stories, leaving 53 sources with a single story. <P> Once more Chess.com@ [sic] accounted for more stories than the other top s",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/11/missing-yahoos.html",
-         "pubDate" : "Thu, 30 Nov 2023 16:54:00",
-         "title" : "Missing Yahoos"
       }
    ]
 }
