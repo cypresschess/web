@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Davide Nastasio loves chess - and when he had a weekend off to play, he was delighted to have the new Fritz 19. In a review he describes what you can do with the engine: \"The new Fritz 19 has given me endless hours of fun, thanks to games played against it, as well as games played against other engines and chess bots on the internet.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz19-a-review-based-on-games",
+         "pubDate" : "Fri, 22 Dec 2023 09:00:00",
+         "title" : "Fritz 19 - A review based on games!"
+      },
+      {
+         "description" : " The Harrow schoolgirl, who won the women's prize in the European open blitz championship, plays at Hastings next week in the chess world's longest running congress Bodhana Sivanandan, eight, who made chess history last Saturday when winning the women's prize in the European blitz championship at Zagreb, will be back at the board next week. She will compete in the Caplin Masters at Hastings, the chess world's longest running congress, which is now in its 97th edition and starts on 28 December. At Zagreb, the year four Harrow primary school pupil totalled a remarkable 8.5/13 in a field of 555 players, including 48 GMs and 50 IMs. Her tournament performance was <a href=\"https://chess-results.c",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/dec/22/chess-bodhana-sivanandan-eight-sets-new-records-with-victory-in-zagreb",
+         "pubDate" : "Fri, 22 Dec 2023 08:00:51",
+         "title" : "Chess: Bodhana Sivanandan, eight, sets new records with victory in Zagreb"
+      },
+      {
          "description" : "D Gukesh drew his final-round game against Pentala Harikrishna. Arjun Erigaisi defeated Sanan Sjugirov. Both Gukesh and Arjun ended up with the same 4&frac12;/7 score. Gukesh won the Chennai Masters on tie-breaks, Arjun was placed second. Pavel Eljanov drew against Levon Aronian. Thus, Harikrishna and Eljanov finished with 4/7 each. Harikrishna secured third place. The objective of organizing this event was certainly a huge success. The top three places were claimed by Indian players. This triumph has moved Gukesh ahead of Anish Giri in the FIDE Circuit leaderboard. Sai Akhil Anand designed and helped with the 'Draw of Lots' in the opening ceremony and the closing ceremony was graced by the ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -344,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-misses-a-chance",
          "pubDate" : "Tue, 19 Dec 2023 09:00:00",
          "title" : "Abdusattorov misses a chance"
-      },
-      {
-         "description" : "FIDE has issued a statement in response to the last-minute series of matches in Chartres, France, which began on Monday 18th December and in which Alireza Firouzja is playing three much weaker opponents in an attempt to gain the necessary Elo points that would secure him a place in the 2024 Candidates Tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-statement-on-rating-specific-tournaments",
-         "pubDate" : "Tue, 19 Dec 2023 08:59:34",
-         "title" : "FIDE statement on rating specific tournaments"
       },
       {
          "description" : "GM Gukesh Dommaraju scored his second consecutive victory by outwitting GM Sanan Sjugirov, with the black pieces and aggressive play, to jump into the sole lead with three and a half points from five rounds in the Chennai Grand Masters 2023. Overn...",
@@ -1152,46 +1160,6 @@ news_feed (
          "link" : "https://www.europechess.org/london-chess-classic-2023-commences-today/",
          "pubDate" : "Fri, 01 Dec 2023 09:49:48",
          "title" : "London Chess Classic 2023 commences today"
-      },
-      {
-         "description" : " The controversial US 20-year-old won first prize in Croatia with 8/9 and a career-best performance rating of 2946, then flew to London for the traditional Classic The traditional <a href=\"https://londonchessclassic.com/players.html\" title=\"\">London Chess Classic</a> started on Friday, and Hans Niemann, the most controversial character in the game, arrived at the board in the form of his life. The US 20-year-old, who made headlines when the world No 1, Magnus Carlsen, refused to play him, and who subsequently launched a $100m lawsuit against Carlsen and others, has been in constant action since their <a href=\"https://www.theguardian.com/sport/2023/aug/28/magnus-carlsen-hans-niemann-chess-che",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/dec/01/hans-niemann-competes-in-london-classic-after-stunning-success-in-zagreb",
-         "pubDate" : "Fri, 01 Dec 2023 08:00:09",
-         "title" : "Hans Niemann competes in London Classic after stunning success in Zagreb"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2775",
-         "pubDate" : "Fri, 01 Dec 2023 07:24:44",
-         "title" : "Call for Bids: World Championships 2024 "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2778",
-         "pubDate" : "Fri, 01 Dec 2023 07:03:59",
-         "title" : "FIDE December 2023 rating list published"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2776",
-         "pubDate" : "Fri, 01 Dec 2023 07:02:03",
-         "title" : "Call for Bids: World Championships 2025 "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2777",
-         "pubDate" : "Fri, 01 Dec 2023 07:00:11",
-         "title" : "Fabiano Caruana wins 2023 Sinquefield Cup"
       }
    ]
 }
