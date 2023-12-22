@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "D Gukesh drew his final-round game against Pentala Harikrishna. Arjun Erigaisi defeated Sanan Sjugirov. Both Gukesh and Arjun ended up with the same 4&frac12;/7 score. Gukesh won the Chennai Masters on tie-breaks, Arjun was placed second. Pavel Eljanov drew against Levon Aronian. Thus, Harikrishna and Eljanov finished with 4/7 each. Harikrishna secured third place. The objective of organizing this event was certainly a huge success. The top three places were claimed by Indian players. This triumph has moved Gukesh ahead of Anish Giri in the FIDE Circuit leaderboard. Sai Akhil Anand designed and helped with the 'Draw of Lots' in the opening ceremony and the closing ceremony was graced by the ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-wins-chennai-grand-masters-2023-arjun-erigaisi-second-and-harikrishna-third",
+         "pubDate" : "Thu, 21 Dec 2023 22:50:00",
+         "title" : "Gukesh wins the Chennai Masters, Arjun second and Harikrishna third"
+      },
+      {
          "description" : " FIDE General Assembly determined that the 2028 Chess Olympiad will be held in Abu Dhabi, UAE. Some 42 years after UAE hosted arguably the best Olympiad in history in 1986, the country seeks to host the world's most important chess event. This event includes all member federations, and concurrent sessions are held to conduct the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/21/uae-to-host-2028-chess-olympiad/\">UAE to host 2028 Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-carlsen-lazavik",
          "pubDate" : "Thu, 21 Dec 2023 15:00:00",
          "title" : "Grivas on Carlsen-Lazavik"
+      },
+      {
+         "description" : "Time sure flies when you&#39;re having having fun-damental endgame clashes! It&#39;s the end of 2023 already, and what a tremendous year it was for chess! There are numerous reasons to celebrate the last 12 months&#38;mdash;so many that choosing the best amon...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-chesscom-awards-vote",
+         "pubDate" : "Thu, 21 Dec 2023 13:52:35",
+         "title" : "Vote For The 2023 Chess.com Awards"
       },
       {
          "description" : "",
@@ -368,14 +384,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/european-rapid-blitz-2023-navara-sarana-ivanchuk",
          "pubDate" : "Tue, 19 Dec 2023 02:48:00",
          "title" : "Navara, Sarana Score Stunning European Rapid & Blitz Triples"
-      },
-      {
-         "description" : "Four players are sharing the lead with 5&frac12; points each after six rounds of play at the Chessable Sunway main tournament in Sitges. Sethuraman S.P. (India), Dominik Horvath (Austria), Brandon Jacobson (United States) and Iniyan Pa (India) are the current co-leaders in the 10-round open event. Two side stories from Sitges dominated the news cycle these days, though: Leinier Dominguez's withdrawal and Faustino Oro's participation in Sunday's blitz tournament. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunway-sitges-2023-r6",
-         "pubDate" : "Tue, 19 Dec 2023 01:00:00",
-         "title" : "Four co-leaders in Sitges, Faustino Oro makes stellar appearance"
       },
       {
          "description" : "",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2799",
          "pubDate" : "Thu, 14 Dec 2023 16:05:35",
          "title" : "Leon Livai&#263 wins 2023 Croatian Championship"
-      },
-      {
-         "description" : "GM Jose Martinez has shown he can do it all by successfully defending his title in the second Variants Community Series (VCS) final. This time showing his prowess at 3 Check Chess, Martinez overcame FM Vasilios Kasioumis&#38;nbsp;by a margin of 3-1 to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-vcs-3check-martinez-wins",
-         "pubDate" : "Thu, 14 Dec 2023 14:00:00",
-         "title" : "Martinez Defends Variant Crown In 3 Check Chess"
       },
       {
          "description" : "",
