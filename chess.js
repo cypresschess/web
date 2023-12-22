@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Deborah Ebimobo-ere Quickpen, Nigerian Women's National ChampionPhoto by Botswana Chess Federation Nigeria's Deborah Quickpen recently earned acclaim after winning the women's title with 9.5/11. At the time of her victory, she had toppled a record that had stood for 20 years and set the stage for a bright future. There are already signs of her The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/22/11-year-old-deborah-quickpen-nigerian-chess-sensation/\">11-year-old Deborah Quickpen, Nigerian Chess sensation</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/12/22/11-year-old-deborah-quickpen-nigerian-chess-sensation/",
+         "pubDate" : "Fri, 22 Dec 2023 19:39:42",
+         "title" : "11-year-old Deborah Quickpen, Nigerian Chess sensation"
+      },
+      {
+         "description" : "In this video course, GM Surya Ganguly joins IM Sagar Shah and drawing from his colossal experience, shares some uncommon endgame wisdom. The material mostly features positions with rook against rook and a pawn, and starts by covering the fundamentals: Lucena, Philidor, and Vancura. But it quickly enters non-trivial territory, likely to challenge even masters: the slippery theoretical nuances of dealing with doubled pawns and pawns on the f- and h-files.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/surya-ganguly-endgame-essentials-you-need-to-know-vol-1-vol-2",
+         "pubDate" : "Fri, 22 Dec 2023 19:00:00",
+         "title" : "Surya Ganguly - Endgame essentials you need to know Vol.1 & Vol 2"
+      },
+      {
          "description" : "In the \"Way to the Candidates\" match series, which takes place in Chartres, France, and was designed to help Alireza Firouzja to reach the Candidates, Firouzja has won five of the six scheduled games, overtaking Wesley So on the live-ranking list. However, Firouzja still has to win his second game against Sergey Fedorchuk today. Many chess fans criticised the event, and the US federation asked the FIDE not to rate the games played in these matches.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2815",
          "pubDate" : "Fri, 22 Dec 2023 14:25:01",
          "title" : "2023 3rd FIDE Council Meeting: List of decisions"
+      },
+      {
+         "description" : " Alireza Firouzja had a final attempt to boost his rating in the January list and qualify for the Candidates by playing 6 games, three two games matches, against Alexandre Dgebuadze, Andrei Shchekachev and Sergey Fedorchuk in Chartres, 18th to 22nd December 2023. This was similar to the successful method Ding Liren used to qualify for the last Candidates. Whilst due to Covid-19 I had some sympathy with Ding trying to play enough games to qualify after an enforced break, this now just doesn't seem right to me. I think it's going to be very tricky for Firouzja to boost his rating enough anyhow. I used to be in favour of the strongest non-qualified player getting a place by rating, but I think ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chartres-firouzja-noel-matches-2023",
+         "pubDate" : "Fri, 22 Dec 2023 14:15:00",
+         "title" : "Chartres Firouzja Noel Matches 2023 - Games and Results"
       },
       {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
@@ -53,9 +77,25 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2813",
+         "pubDate" : "Fri, 22 Dec 2023 11:31:39",
+         "title" : "FIDE Circuit: Caruana is the winner, Gukesh moves to second position"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2812",
          "pubDate" : "Fri, 22 Dec 2023 11:08:54",
          "title" : "World Amateur and World Senior Championships 2024: Call for bids closed"
+      },
+      {
+         "description" : " The Chennai Grand Masters chess tournament took place in Chennai Fri 15th - Thu 21st Dec 2023. Players: Maghsoodloo, Erigaisi, Aronian, Gukesh, Sjugirov, Harikrishna, Eljanov and Predke. D Gukesh shared first place and it seems qualified by via the FIDE Circuit route for the Candidates ahead of Anish Giri. It did not occur to me that the first Indian super tournament I can remember was organised for that very purpose but it probably was. Lets do this all differently next time.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chennai-grand-masters-2023",
+         "pubDate" : "Fri, 22 Dec 2023 10:40:00",
+         "title" : "Chennai Grand Masters 2023 - "
       },
       {
          "description" : "Andhra Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at Hotel Dhana",
@@ -394,14 +434,6 @@ news_feed (
          "title" : "Manager for Accessible Chess"
       },
       {
-         "description" : "Rounds three and four of the Czech Extraliga were affected by the European Rapid Chess and Blitz Championships, which took place at the same time. Many players participated there and some league matches had to be postponed. But Moravska Slavia and Frydek Mistek played and took the lead in the league. | Photo: Brno's chess ambassador Inna Puhajkova made the first move at the board of Boris Gelfand and Anton Korobov. | Photos: Vladimir Jagr",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/czech-extraliga-moravska-slavia-and-frydek-mistek-lead",
-         "pubDate" : "Tue, 19 Dec 2023 13:19:49",
-         "title" : "Czech Extraliga: Moravska Slavia and Frydek Mistek lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -480,14 +512,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/chessman-comics.html",
          "pubDate" : "Mon, 18 Dec 2023 16:21:00",
          "title" : "Chessman Comics"
-      },
-      {
-         "description" : " Alireza Firouzja has a final attempt to boost his rating in the January list and qualify for the Candidates by playing 6 games, three two games matches, against Alexandre Dgebuadze, Andrei Shchekachev and Sergey Fedorchuk in Chartres, 18th to 22nd December 2023. This is similar to the successful method Ding Liren used to qualify for the last Candidates. Whilst due to Covid-19 I had some sympathy with Ding trying to play enough games to qualify after an enforced break, this now just doesn't seem right to me. I think it's going to be very tricky for Firouzja to boost his rating enough anyhow. I used to be in favour of the strongest non-qualified player getting a place by rating, but I think i",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chartres-firouzja-noel-matches-2023",
-         "pubDate" : "Mon, 18 Dec 2023 14:15:00",
-         "title" : "Chartres Firouzja Noel Matches 2023 - Games and Results"
       },
       {
          "description" : " Except there was no whiskey. For the last week and half, I've been attending various sessions of the 2023 FIDE Congress. This of course is from the comfort of my own home, as the whole congress was being held online. This started as a result of covid, but has continued for the non Olympiad years. All very good in that counties that normally don't send a delegate in the off years were well represented, but not so good for delegates representing Oceania federations. Most meetings started at midnight Canberra time, and usually ran until 4 or 5 am in the morning. This meant that Oceania was probably less represented than other regions, although that made a difference overall is not clear. Anywa",
@@ -640,14 +664,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/why-no-drop-for-mate.html",
          "pubDate" : "Sat, 16 Dec 2023 12:07:00",
          "title" : "Why no drop for mate?"
-      },
-      {
-         "description" : " The Chennai Grand Masters chess tournament takes place in Chennai Fri 15th - Thu 21st Dec 2023. Players: Maghsoodloo, Erigaisi, Aronian, Gukesh, Sjugirov, Harikrishna, Eljanov and Predke. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chennai-grand-masters-2023",
-         "pubDate" : "Sat, 16 Dec 2023 10:40:00",
-         "title" : "Chennai Grand Masters 2023 - "
       },
       {
          "description" : " The 9th Vugar Gashimov Memorial took place 8th to 11th December 2023. Aydin Suleymanli was the surprise winner of the rapid with 5.5/9. Richard Rapport edged out Santosh Vidit on tie-break after both scored 12/18 in the blitz. Vidit won the combined standings by half a point from Erigaisi. ",
@@ -1168,14 +1184,6 @@ news_feed (
          "link" : "https://www.thearticle.com/knight-errant-chess-and-the-elgin-marbles/",
          "pubDate" : "Sat, 02 Dec 2023 09:20:40",
          "title" : "Knight errant: chess and the Elgin Marbles"
-      },
-      {
-         "description" : " The 13th London Classic took place 1st to 10th December 2023. Players: Dommaruju Gukesh, Nikita Vitiugov, Amin Tabatabaei, Michael Adams, Andrei Volokitin, Hans Mike Niemann, Mateusz Bartel, Jules Moussard, Luke McShane and Shreyas Royal. Michael Adams scored his best result in many years by taking clear first place with 6/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/13th-london-classic-2023",
-         "pubDate" : "Fri, 1 Dec 2023 16:40:00",
-         "title" : "13th London Classic 2023 - Games and Results"
       }
    ]
 }
