@@ -66,6 +66,14 @@ news_feed (
          "title" : "Christmas wishes / office hours"
       },
       {
+         "description" : "After another 12 months logged in humanity&#39;s book, we might&#39;ve lost track of how much we put into this timeless game. Thankfully, Chess.com has us covered with a brand new feature available now: YEAR IN CHESS! Look back at the stats of your fantas...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-year-in-chess",
+         "pubDate" : "Fri, 22 Dec 2023 12:08:30",
+         "title" : "Chess.com Launches Year In Chess!"
+      },
+      {
          "description" : "Today's episode is about two Dutch grandmasters playing the French defence. Friso Nijboer is facing Jan Timman, and the position is quickly advancing to a very interesting middle game. A tactical masterpiece is ready to be solved by the viewer!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-kicked-off-in-zagreb/",
          "pubDate" : "Thu, 14 Dec 2023 23:03:14",
          "title" : "European Rapid and Blitz Chess Championship 2023 kicked off in Zagreb"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Wesley So are the last players standing at the&#38;nbsp;2023 Champions Chess Tour Finals. They will meet for the Title Match to battle for the $200,000 first prize. Carlsen knocked out his 2018 world championship nemesis GM Fa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-sf-day-2",
-         "pubDate" : "Thu, 14 Dec 2023 17:07:00",
-         "title" : "Carlsen, So Advance As The Last Players Standing"
       },
       {
          "description" : "",
