@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today's episode is about two Dutch grandmasters playing the French defence. Friso Nijboer is facing Jan Timman, and the position is quickly advancing to a very interesting middle game. A tactical masterpiece is ready to be solved by the viewer!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-two-dutch-play-the-french",
+         "pubDate" : "Fri, 22 Dec 2023 12:00:00",
+         "title" : "Svitlana's Smart Moves - Two Dutch play the French"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2812",
+         "pubDate" : "Fri, 22 Dec 2023 11:08:54",
+         "title" : "World Amateur and World Senior Championships 2024: Call for bids closed"
+      },
+      {
+         "description" : "Andhra Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at Hotel Dhana",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-sna-seminar-and-examination-on-16th-and-17th-december-2023-vizianagaram-ap/",
+         "pubDate" : "Fri, 22 Dec 2023 10:37:06",
+         "title" : "Final Report - SNA Seminar and Examination on 16th and 17th December 2023 Vizianagaram, AP"
+      },
+      {
          "description" : "Davide Nastasio loves chess - and when he had a weekend off to play, he was delighted to have the new Fritz 19. In a review he describes what you can do with the engine: \"The new Fritz 19 has given me endless hours of fun, thanks to games played against it, as well as games played against other engines and chess bots on the internet.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -354,14 +378,6 @@ news_feed (
          "title" : "New EDU Program and Titles endorsed by the FIDE Council"
       },
       {
-         "description" : "Rook endings are difficult. The diagram shows a position from a game Nodirbek Abdusattorov and Magnus Carlsen played at the Aimchess Rapid Online tournament. It is White to move and win. In the game Abdusattorov failed to find the winning move - can you do better?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-misses-a-chance",
-         "pubDate" : "Tue, 19 Dec 2023 09:00:00",
-         "title" : "Abdusattorov misses a chance"
-      },
-      {
          "description" : "GM Gukesh Dommaraju scored his second consecutive victory by outwitting GM Sanan Sjugirov, with the black pieces and aggressive play, to jump into the sole lead with three and a half points from five rounds in the Chennai Grand Masters 2023. Overn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -424,6 +440,14 @@ news_feed (
          "link" : "https://www.ft.com/content/ccc25257-6479-4ad5-843c-0a3e913498e7#new_tab",
          "pubDate" : "Mon, 18 Dec 2023 16:42:43",
          "title" : "Bodhana Sivanandan enters chess history - from Leonard Barden"
+      },
+      {
+         "description" : "A new Monday series, where last week's post was <A HREF=\"https://chessforallages.blogspot.com/2023/12/fischer-vs-carlsen.html\">Fischer vs. Carlsen</A> (December 2023), reminded me of an idea that has long been on the back burner. The following composite image is from two eBay auctions that took place in October 2001. I've always wanted to learn more about the two comics and now is the time. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl18.gif\" WIDTH=400 HEIGHT=260> <P> The descriptions for the two auctions said, <BLOCKQUOTE> <B>Left:</B> 'Chessman #1 comic was the brainchild of IM John Watson and inventor of Chessman and artist for this issue, Chris [Christine] Hendrickson",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/chessman-comics.html",
+         "pubDate" : "Mon, 18 Dec 2023 16:21:00",
+         "title" : "Chessman Comics"
       },
       {
          "description" : " Alireza Firouzja has a final attempt to boost his rating in the January list and qualify for the Candidates by playing 6 games, three two games matches, against Alexandre Dgebuadze, Andrei Shchekachev and Sergey Fedorchuk in Chartres, 18th to 22nd December 2023. This is similar to the successful method Ding Liren used to qualify for the last Candidates. Whilst due to Covid-19 I had some sympathy with Ding trying to play enough games to qualify after an enforced break, this now just doesn't seem right to me. I think it's going to be very tricky for Firouzja to boost his rating enough anyhow. I used to be in favour of the strongest non-qualified player getting a place by rating, but I think i",
@@ -818,14 +842,6 @@ news_feed (
          "title" : "Asian Youth Chess Championship 2023"
       },
       {
-         "description" : "AICF Secretary, Dr. Vipnesh Bhardwaj, had the honor of sharing a frame with the distinguished Hon'ble Prime Minister Narendra Modi at the prestigious Khelo India",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-secretarydr-vipnesh-bhardwaj-shared-the-frame-with-honble-pm-modi/",
-         "pubDate" : "Wed, 13 Dec 2023 09:01:56",
-         "title" : "AICF Secretary(Dr. Vipnesh Bhardwaj) Shared the Frame with Hon'ble PM Modi"
-      },
-      {
          "description" : "The 2023 European Rapid and Blitz Chess Championship starts tomorrow in Zagreb, Croatia! Nearly 700 players coming from 41 European federations registered for the event, and the top seeds are: GM David Navara (CZE), GM Etienne Bacrot (FRA), GM Vasyl Ivanchuk (UKR), GM Baadur Jobava (GEO), GM Laurent Fressinet (FRA), GM Sabino Brunello (ITA), GM Alexey Sarana (SRB), GM Haik Martirosyan (ARM), GM Eltaj Safarli (AZE), GM Bogdan-Daniel Deac (ROU) etc. The highest rated Croatian grandmaster and European Chess Champion []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1136,30 +1152,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/keymer/",
          "pubDate" : "Fri, 01 Dec 2023 14:00:00",
          "title" : "How to Transform 0/9 into World #14: The Mindset Shift for Chess Mastery"
-      },
-      {
-         "description" : " The 9th Zagreb Tournament of Peace took place Wed 22nd to Thu 30th Nov 2023. Hans Moke Niemann scored 8/9 conceding just two draws on the way to winning the event by three clear points. He now moves on to the London Chess Classic.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/9th-zagreb-tournament-of-peace-2023",
-         "pubDate" : "Fri, 1 Dec 2023 12:16:00",
-         "title" : "9th Zagreb Tournament of Peace 2023 - Games and Results"
-      },
-      {
-         "description" : " Today I helped run a school chess event in country NSW. It was a small affair, with 34 players taking part, and the emphasis was on fun and learning, rather than competition. Despite the relative inexperience of a lot of the players there were still some games that attracted my attention. Specifically, there were a number of endgames that may well have appeared in stronger events, even if that wasn't the intention. In no particular order I saw <ul style=\"text-align: left;\"><li>K+Q v K+R (win for the Q)</li><li>K+B+N v K (at least twice, both being drawn)</li><li>K v K (drawn of course)</li><li>K+2N v K+P (eventually drawn. I guess they haven't studied Troitzky as yet)</li></ul>And while the",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/some-surprising-endgames.html",
-         "pubDate" : "Fri, 01 Dec 2023 11:20:00",
-         "title" : "Some surprising endgames"
-      },
-      {
-         "description" : "The 13th edition of the London Chess Classic commences today in London, England! It is a 10-player round-robin tournament, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game, with a 30-second increment for each move. The total prize fund of the event is &pound;38,500. GM Gukesh D (IND, 2720) is the top-seeded player of the tournament, followed by GM Nikita Vitiugov (ENG, 2704), GM Amin Tabatabaei (IRI, 2692), GM Hans []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/london-chess-classic-2023-commences-today/",
-         "pubDate" : "Fri, 01 Dec 2023 09:49:48",
-         "title" : "London Chess Classic 2023 commences today"
       }
    ]
 }
