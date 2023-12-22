@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the \"Way to the Candidates\" match series, which takes place in Chartres, France, and was designed to help Alireza Firouzja to reach the Candidates, Firouzja has won five of the six scheduled games, overtaking Wesley So on the live-ranking list. However, Firouzja still has to win his second game against Sergey Fedorchuk today. Many chess fans criticised the event, and the US federation asked the FIDE not to rate the games played in these matches.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/way-to-candidates-firouzja-is-getting-there",
+         "pubDate" : "Fri, 22 Dec 2023 15:38:37",
+         "title" : "The Way to the Candidates: Firouzja is getting closer"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2815",
+         "pubDate" : "Fri, 22 Dec 2023 14:25:01",
+         "title" : "2023 3rd FIDE Council Meeting: List of decisions"
+      },
+      {
+         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-1-get-rid-of-your-old-habits/",
+         "pubDate" : "Fri, 22 Dec 2023 14:11:27",
+         "title" : "Improve Your Chess in 2024 - Part 1 - Get Rid of Your Old Habits"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2814",
+         "pubDate" : "Fri, 22 Dec 2023 14:06:22",
+         "title" : "FIDE General Assembly: List of decisions"
+      },
+      {
+         "description" : "The ECF Office closes at 5.00pm today [22/12/23], and will re-open for business at 9.00am on Wednesday 27th December 2023. It will also be closed...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/christmas-wishes-office-hours/",
+         "pubDate" : "Fri, 22 Dec 2023 13:00:40",
+         "title" : "Christmas wishes / office hours"
+      },
+      {
          "description" : "Today's episode is about two Dutch grandmasters playing the French defence. Friso Nijboer is facing Jan Timman, and the position is quickly advancing to a very interesting middle game. A tactical masterpiece is ready to be solved by the viewer!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -102,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-chesscom-awards-vote",
-         "pubDate" : "Thu, 21 Dec 2023 13:52:35",
+         "pubDate" : "Thu, 21 Dec 2023 13:52:00",
          "title" : "Vote For The 2023 Chess.com Awards"
       },
       {
@@ -360,14 +400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/czech-extraliga-moravska-slavia-and-frydek-mistek-lead",
          "pubDate" : "Tue, 19 Dec 2023 13:19:49",
          "title" : "Czech Extraliga: Moravska Slavia and Frydek Mistek lead"
-      },
-      {
-         "description" : "The Max Euwe Centre in Amsterdam is an institution. It offers training courses, houses a huge library with more than 10,000 books and helps to support the wide interest in the cultural, social and academic aspects of chess. After 32 years, the Centre must now leave its location, but will be given new premises on the same street, the Max Euweplein. The move will involve some costs and the Euwe Centre would be happy if chess fans could support it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-max-euwe-centre-needs-support",
-         "pubDate" : "Tue, 19 Dec 2023 12:00:00",
-         "title" : "The Max Euwe Centre needs support"
       },
       {
          "description" : "",
@@ -1144,14 +1176,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/13th-london-classic-2023",
          "pubDate" : "Fri, 1 Dec 2023 16:40:00",
          "title" : "13th London Classic 2023 - Games and Results"
-      },
-      {
-         "description" : "What would you do after losing 9 games in a row? Cry? Quit Chess? Talk about how unlucky you are? I get it. But that's not what (future) champions do. In 2016, 11-year-old Vincent Keymer lost all of his games in a closed tournament (I also played in) and calmly asked his final opponent the []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/keymer/",
-         "pubDate" : "Fri, 01 Dec 2023 14:00:00",
-         "title" : "How to Transform 0/9 into World #14: The Mindset Shift for Chess Mastery"
       }
    ]
 }
