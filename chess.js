@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I am heading off later today to be a Pairings Officer at the World Rapid and Blitz Championship. Eschewing the traditional method of travelling to Samarkand, I will still be in transit for the next 36 hours. To pass the time a little light reading, in the form of the decisions made by FIDE Council at its most recent meeting <a href=\"https://fide.com/news/2815\">https://fide.com/news/2815</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/on-road.html",
+         "pubDate" : "Fri, 22 Dec 2023 21:37:00",
+         "title" : "On the road"
+      },
+      {
          "description" : " Deborah Ebimobo-ere Quickpen, Nigerian Women's National ChampionPhoto by Botswana Chess Federation Nigeria's Deborah Quickpen recently earned acclaim after winning the women's title with 9.5/11. At the time of her victory, she had toppled a record that had stood for 20 years and set the stage for a bright future. There are already signs of her The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/22/11-year-old-deborah-quickpen-nigerian-chess-sensation/\">11-year-old Deborah Quickpen, Nigerian Chess sensation</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -26,12 +34,28 @@ news_feed (
          "title" : "The Way to the Candidates: Firouzja is getting closer"
       },
       {
+         "description" : "Chess In Slums Africa partnered with Chess.com to reach the goal of raising $50,000 to bring the education and joy of chess to 5,000 children in Africa. With an arena tournament played on Chess.com, and with a powerhouse team of commentators and g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-in-slums-africa-fundraiser-recap",
+         "pubDate" : "Fri, 22 Dec 2023 14:44:00",
+         "title" : "2,706 Players Compete For A Cause: Chess In Slums Africa Fundraiser"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2815",
          "pubDate" : "Fri, 22 Dec 2023 14:25:01",
          "title" : "2023 3rd FIDE Council Meeting: List of decisions"
+      },
+      {
+         "description" : "GM Alireza Firouzja had overtaken GM Wesley So on the live rating list after scoring 5/5 in a series of three matches against veterans in his home chess club of Chartres. Alas for the 20-year-old, he had one more game to play, and a draw from a lo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-wesley-so-candidates",
+         "pubDate" : "Fri, 22 Dec 2023 14:17:26",
+         "title" : "Firouzja Falls At Final Candidates Hurdle, Wins Only 5.5/6, Drops Below So"
       },
       {
          "description" : " Alireza Firouzja had a final attempt to boost his rating in the January list and qualify for the Candidates by playing 6 games, three two games matches, against Alexandre Dgebuadze, Andrei Shchekachev and Sergey Fedorchuk in Chartres, 18th to 22nd December 2023. This was similar to the successful method Ding Liren used to qualify for the last Candidates. Whilst due to Covid-19 I had some sympathy with Ding trying to play enough games to qualify after an enforced break, this now just doesn't seem right to me. I think it's going to be very tricky for Firouzja to boost his rating enough anyhow. I used to be in favour of the strongest non-qualified player getting a place by rating, but I think ",
@@ -70,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-year-in-chess",
-         "pubDate" : "Fri, 22 Dec 2023 12:08:30",
+         "pubDate" : "Fri, 22 Dec 2023 12:08:00",
          "title" : "Chess.com Launches Year In Chess!"
       },
       {
@@ -746,28 +770,12 @@ news_feed (
          "title" : "Harikrishna, Eljanov Start With Wins Over Candidates Hopefuls"
       },
       {
-         "description" : "It&#38;rsquo;s the one-on-one showdown between &#38;ldquo;the internet&#38;rsquo;s chess teacher&#38;rdquo; and one of the rising stars of the game known in his homeland as the &#38;ldquo;Lionel Messi of chess&#38;rdquo;. Can Brooklyn-born IM Levy Rozman, aka GothamChe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-versus-10-year-old-fausti-oro",
-         "pubDate" : "Fri, 15 Dec 2023 08:14:24",
-         "title" : "Master vs Pupil: GothamChess Risks Reputation Against Boy Wonder Fausti Oro"
-      },
-      {
          "description" : " The eight-time British champion called the London Classic \"my best ever result\" while the young talent will be close to a new English age record if he scores his third and final GM norm Michael Adams, at 52 the oldest competitor, won the 13th <a href=\"https://www.londonchessclassic.com/\" title=\"\">London Classic</a> and its &pound;15,000 first prize on Sunday. The youngest player, 14-year-old Shreyas Royal, scored his second grandmaster result and will aim immediately for his third and final norm at the traditional <a href=\"https://hastingschess.com/\" title=\"\">Caplin Hastings New Year congress</a> which starts on 28 December. Adams became the first English winner of the Classic, which during",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2023/dec/15/chess-adams-wins-in-london-at-52-while-royal-14-aims-for-gm-in-hastings",
          "pubDate" : "Fri, 15 Dec 2023 08:00:23",
          "title" : "Chess: Adams wins in London at 52 while Royal, 14, aims for GM in Hastings"
-      },
-      {
-         "description" : "With the holiday season nearly upon us, this year, Chess.com is calling on all chess fans to be part of a very special campaign that will help bring education and the joy of chess to up to 5,000 children. Chess For A Cause is Chess.com&#39;s new ini...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-for-a-cause-join-first-tournament",
-         "pubDate" : "Fri, 15 Dec 2023 06:52:00",
-         "title" : "Chess For A Cause: Join Our First Tournament And Help Educate 5,000 Kids"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky continues his three-part series on the Nimzo-English. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/poor-mans-nimzo-indian-part-2-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2tQRDnjketA.jpg?itok=DbwB2hSI\" alt=\"\" /></a></div>",
