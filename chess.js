@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Chessable Sunway Sitges Festival took place in the municipality of Sitges, not far from Barcelona, directly on the Mediterranean. The main event, a large open tournament, came to an end on Friday after ten rounds of play with the victory of Abhimanyu Puranik. The 23-year-old Indian grandmaster was the only one of the 329 participants to achieve a score of 8&frac12;/10, leaving a four-player chasing pack half a point behind. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abhimanyu-puranik-wins-sunway-sitges-2023",
+         "pubDate" : "Sat, 23 Dec 2023 17:30:00",
+         "title" : "Abhimanyu Puranik finishes clear first in Sitges"
+      },
+      {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/way-to-candidates-firouzja-draws",
          "pubDate" : "Sat, 23 Dec 2023 12:15:00",
          "title" : "Firouzja held to a draw by Fedorchuk, remains behind So in ratings list"
+      },
+      {
+         "description" : "The chess world had a busy year in 2023. From the World Championship in the spring to a busy December that featured the Champions Chess Tour Finals and a mad dash to the next Candidates Tournament, there was no shortage of chess being played. Th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-year-in-review",
+         "pubDate" : "Sat, 23 Dec 2023 10:11:46",
+         "title" : "2023 Year In Review"
       },
       {
          "description" : "Senior National Arbiter Seminar, Vizianagaram, Andhra Pradesh certificates are out to download. link : https://aicf.online/SNA-Vizg.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -352,14 +368,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2809",
          "pubDate" : "Wed, 20 Dec 2023 20:56:36",
          "title" : "Gergely Antal wins 2023 Hungarian Championship"
-      },
-      {
-         "description" : "Arjun Erigaisi scored the sole victory in the penultimate round of the Chennai Grand Masters. It started a little wild compared to other games. His opponent, Parham Maghsoodloo, decided to sacrifice his bishop to get a couple of pawns and exploit Arjun's weakened king. However, there was not enough compensation and White could not generate a substantial attack. The other games had a relatively calm draw between Gukesh and Eljanov, Aronian and Predke, and Sjugirov and Harikrishna. Harikrishna can spoil Gukesh's tournament if he manages to beat the teenager. The final round stars one and a half hour earlier than usual. | Photos: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r6-arjun-wins-gukesh-set-for-showdown-against-harikrishna",
-         "pubDate" : "Wed, 20 Dec 2023 17:40:00",
-         "title" : "Chennai Masters R6: Arjun wins, Gukesh set for showdown against Harikrishna"
       },
       {
          "description" : "The name \"Hastings\" has a very special ring to it in the chess world. In 1895 one of the most important tournaments in chess history took place in the seaside resort on the south-east coast of England, and chess tournaments are still regularly held there today - no tournament in chess history has a longer tradition. The Berlin FM J&uuml;rgen Brustkern is a great expert on Hastings and has written a book on the history of this tradition together with Norbert Wallet. In an interview with ChessBase he reveals what fascinates him so much about Hastings.",
@@ -770,14 +778,6 @@ news_feed (
          "title" : "Carlsen and So meet in Champions Chess Tour Final"
       },
       {
-         "description" : "GM Magnus Carlsen is one set away from winning his third title and $200,000 at the 2023 Champions Chess Tour Finals. On day one of the Title Match, he defeated GM Wesley So with the black pieces in game three, squeezing water from stone in the roo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-title-match-day-1",
-         "pubDate" : "Fri, 15 Dec 2023 12:23:00",
-         "title" : "Carlsen 1 Set Victory Away From Third Title"
-      },
-      {
          "description" : " The player lists for the 2023 World Rapid and Blitz have been released. Magnus Carlsen is the top seed in the Open events, while Wenjun Ju is the top seed for the Women's Rapid and Tengjie Lei for the Women's Blitz. All the events are incredibly strong, with the 200+ players in the Open, and 125 in the Women's event. The venue is Samarkand in Uzbekistan and the tournament runs from the 26th to the 30th of December. Full details of the tournament can be found at <a href=\"https://worldrapidandblitz2023.fide.com/\">https://worldrapidandblitz2023.fide.com/</a> I will be onsite at the event, as I am one of the Pairings Officers for the tournament. Unlike the Chess Olympiad (where I have also fill",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1184,14 +1184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaas-sister-vaishali-becomes-indias-third-woman-grandmaster/articleshow/105692225.cms",
          "pubDate" : "Sun, 03 Dec 2023 03:37:12",
          "title" : "Praggu's sister Vaishali becomes India's third woman Grandmaster"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2779",
-         "pubDate" : "Sat, 02 Dec 2023 19:12:41",
-         "title" : "2023 FIDE Online GA: List of Member Federations having right to vote"
       }
    ]
 }
