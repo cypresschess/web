@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-2-adjust-your-mindset/",
+         "pubDate" : "Sat, 23 Dec 2023 14:02:29",
+         "title" : "Improve Your Chess in 2024 - Part 2 - Adjust Your Mindset"
+      },
+      {
          "description" : "Alireza Firouzja's attempt to reach the Candidates via rating at a series of matches in Chartres failed at the last hurdle. After scoring five wins in a row, the strongest junior in the world was held to a draw by Sergey Fedorchuk, thus losing 2.8 Elo points and again falling behind Wesley So in the live ratings list. The draw was followed by Firouzja disappearing from the lineups of the World Rapid and Blitz Championships. He still has a week before the year ends - will he try desperately to gain some rating again?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "A nice present"
       },
       {
-         "description" : "Indian GM Abhimanyu Puranik won his last four games in a row to take clear first place on 8.5/10 and win the Chessable Sunway Sitges Chess Festival 2023. Four players were tied for second place, with U.S. GM Brandon Jacobson taking the runners-up ...",
+         "description" : "Indian GM Abhimanyu Puranik won his last four games to take clear first place on 8.5/10 and win the Chessable Sunway Sitges Chess Festival 2023. Four players tied for second place, with U.S. GM Brandon Jacobson taking the runner-up spot after winn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/puranik-wins-sitges-erdogmus-gm-norm",
