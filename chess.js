@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We've all experienced the evils of time trouble in our chess life. Time is ticking, panic is rising, and we make moves that we wouldn't consider if we had more time on our clock. From winning to losing - all our effort is wasted because we couldn't manage our time more efficiently. What is worse - we keep repeating this mistake over and over again.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/regina-theissl-pokorna-time-management-in-chess",
+         "pubDate" : "Sat, 23 Dec 2023 09:05:00",
+         "title" : "Regina Theissl-Pokorna - Time Management in Chess"
+      },
+      {
+         "description" : "In view of his hanging rook on c6 Black needs a good idea in the diagram position - or should I say the right gift idea? Feel free to be generous!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-nice-present",
+         "pubDate" : "Sat, 23 Dec 2023 09:00:00",
+         "title" : "A nice present"
+      },
+      {
          "description" : " I am heading off later today to be a Pairings Officer at the World Rapid and Blitz Championship. Eschewing the traditional method of travelling to Samarkand, I will still be in transit for the next 36 hours. To pass the time a little light reading, in the form of the decisions made by FIDE Council at its most recent meeting <a href=\"https://fide.com/news/2815\">https://fide.com/news/2815</a> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/firouzja-wesley-so-candidates",
-         "pubDate" : "Fri, 22 Dec 2023 14:17:26",
+         "pubDate" : "Fri, 22 Dec 2023 14:17:00",
          "title" : "Firouzja Falls At Final Candidates Hurdle, Wins Only 5.5/6, Drops Below So"
       },
       {
@@ -440,22 +456,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/veni-vidi-vishy-part-1",
          "pubDate" : "Tue, 19 Dec 2023 22:00:00",
          "title" : "Veni, vidi, Vishy"
-      },
-      {
-         "description" : "D Gukesh scored his second win in-a-row, against Sanan Sjugirov, in the fifth round of the Chennai Grand Masters. Gukesh seized his advantage and synthesized an attack on the kingside. Sjugirov had no proper answer to it and succumbed. The Arjun Erigaisi-Levon Aronian saga continues. Arjun had a great opportunity to beat Aronian for the first time in a rated game in over two years. Unfortunately, he pushed a pawn incorrectly in the rook endgame and eventually lost his advantage. The two-time World Cup winner managed to salvage a draw. Pavel Eljanov handed Alexandr Predke his third consecutive loss. Gukesh is in the sole lead with 3&frac12;/5, followed by Pentala Harikrishna and Eljanov at 3/",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-grand-masters-2023-r5-gukesh-subdues-sanan-emerges-sole-leader-2",
-         "pubDate" : "Tue, 19 Dec 2023 18:20:00",
-         "title" : "Chennai Masters R5: Gukesh subdues Sjugirov, emerges sole leader"
-      },
-      {
-         "description" : "Budapest will host the Chess Olympiad 2024, Uzbekistan will host the Olympiad in 2026, and Abu Dhabi has been selected as the host city for the 47th Chess Olympiad in 2028, triumphing over Genoa with a vote of 96 to 60 during the FIDE Council meeting on December 17th.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/abu-dhabi-wins-bid-to-host-47th-chess-olympiad-in-2028",
-         "pubDate" : "Tue, 19 Dec 2023 14:01:45",
-         "title" : "Abu Dhabi wins bid to host 47th Chess Olympiad in 2028"
       },
       {
          "description" : "Owen Philips has decided to stand down from the post of Manager for Accessible Chess on health grounds.&#160;During his tenure Owen has taken forward a...",
