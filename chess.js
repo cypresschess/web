@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja's attempt to reach the Candidates via rating at a series of matches in Chartres failed at the last hurdle. After scoring five wins in a row, the strongest junior in the world was held to a draw by Sergey Fedorchuk, thus losing 2.8 Elo points and again falling behind Wesley So in the live ratings list. The draw was followed by Firouzja disappearing from the lineups of the World Rapid and Blitz Championships. He still has a week before the year ends - will he try desperately to gain some rating again?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/way-to-candidates-firouzja-draws",
+         "pubDate" : "Sat, 23 Dec 2023 12:15:00",
+         "title" : "Firouzja held to a draw by Fedorchuk, remains behind So in ratings list"
+      },
+      {
+         "description" : "Senior National Arbiter Seminar, Vizianagaram, Andhra Pradesh certificates are out to download. link : https://aicf.online/SNA-Vizg.html Any correction mail at aicfwebmaster2021@gmail.com",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiter-seminar-certificates/",
+         "pubDate" : "Sat, 23 Dec 2023 09:36:11",
+         "title" : "Senior National Arbiter Seminar, Certificates"
+      },
+      {
          "description" : "We've all experienced the evils of time trouble in our chess life. Time is ticking, panic is rising, and we make moves that we wouldn't consider if we had more time on our clock. From winning to losing - all our effort is wasted because we couldn't manage our time more efficiently. What is worse - we keep repeating this mistake over and over again.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-nice-present",
          "pubDate" : "Sat, 23 Dec 2023 09:00:00",
          "title" : "A nice present"
+      },
+      {
+         "description" : "Indian GM Abhimanyu Puranik won his last four games in a row to take clear first place on 8.5/10 and win the Chessable Sunway Sitges Chess Festival 2023. Four players were tied for second place, with U.S. GM Brandon Jacobson taking the runners-up ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/puranik-wins-sitges-erdogmus-gm-norm",
+         "pubDate" : "Sat, 23 Dec 2023 02:09:00",
+         "title" : "Puranik Wins In Sitges, 12-Year-Old Erdogmus Makes 1st GM Norm"
       },
       {
          "description" : " I am heading off later today to be a Pairings Officer at the World Rapid and Blitz Championship. Eschewing the traditional method of travelling to Samarkand, I will still be in transit for the next 36 hours. To pass the time a little light reading, in the form of the decisions made by FIDE Council at its most recent meeting <a href=\"https://fide.com/news/2815\">https://fide.com/news/2815</a> ",
@@ -450,14 +474,6 @@ news_feed (
          "title" : "Two Extra Pawns Don't Win! | Grandmaster's Choice - GM Alex Yermolinsky"
       },
       {
-         "description" : "This month marks the birth anniversary of Viswanathan Anand. The phenomenal rise of the Indian super talent created a chess wave in his own land that shows no sign of diminishing. Vishy has been an inspiration for many young players, and today he is an ambassador for the game. Here our columnist recalls the early career of the former world champion.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/veni-vidi-vishy-part-1",
-         "pubDate" : "Tue, 19 Dec 2023 22:00:00",
-         "title" : "Veni, vidi, Vishy"
-      },
-      {
          "description" : "Owen Philips has decided to stand down from the post of Manager for Accessible Chess on health grounds.&#160;During his tenure Owen has taken forward a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -762,14 +778,6 @@ news_feed (
          "title" : "2023 World Rapid and Blitz"
       },
       {
-         "description" : "GMs Pentala Harikrishna and Pavel Eljanov started with wins over GMs Arjun Erigaisi and Parham Maghsoodloo respectively in two high-pressure, error-prone games to share the lead with a point apiece after the first round of the Chennai Grand Master...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-1",
-         "pubDate" : "Fri, 15 Dec 2023 09:49:00",
-         "title" : "Harikrishna, Eljanov Start With Wins Over Candidates Hopefuls"
-      },
-      {
          "description" : " The eight-time British champion called the London Classic \"my best ever result\" while the young talent will be close to a new English age record if he scores his third and final GM norm Michael Adams, at 52 the oldest competitor, won the 13th <a href=\"https://www.londonchessclassic.com/\" title=\"\">London Classic</a> and its &pound;15,000 first prize on Sunday. The youngest player, 14-year-old Shreyas Royal, scored his second grandmaster result and will aim immediately for his third and final norm at the traditional <a href=\"https://hastingschess.com/\" title=\"\">Caplin Hastings New Year congress</a> which starts on 28 December. Adams became the first English winner of the Classic, which during",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://aicf.in/im-norm-tournament-tamil-nadu/",
          "pubDate" : "Wed, 13 Dec 2023 10:42:54",
          "title" : "IM Norm Tournaments Tamil Nadu"
-      },
-      {
-         "description" : "Indian Team is all set to start their campaign at Asian Youth Chess Championship 2023 at Ai AIN UAE from 12 -22 December 2023 .",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-youth-chess-championship-2023/",
-         "pubDate" : "Wed, 13 Dec 2023 09:20:57",
-         "title" : "Asian Youth Chess Championship 2023"
       },
       {
          "description" : "The 2023 European Rapid and Blitz Chess Championship starts tomorrow in Zagreb, Croatia! Nearly 700 players coming from 41 European federations registered for the event, and the top seeds are: GM David Navara (CZE), GM Etienne Bacrot (FRA), GM Vasyl Ivanchuk (UKR), GM Baadur Jobava (GEO), GM Laurent Fressinet (FRA), GM Sabino Brunello (ITA), GM Alexey Sarana (SRB), GM Haik Martirosyan (ARM), GM Eltaj Safarli (AZE), GM Bogdan-Daniel Deac (ROU) etc. The highest rated Croatian grandmaster and European Chess Champion []",
@@ -1184,14 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2779",
          "pubDate" : "Sat, 02 Dec 2023 19:12:41",
          "title" : "2023 FIDE Online GA: List of Member Federations having right to vote"
-      },
-      {
-         "description" : "The Elgin Marbles are once again in the news after Rishi Sunak's sensational snub to that heir of Pericles, the Greek Prime Minister Kyriakos Mitsotakis. The connection between the marvellous Marbles and chess is not generally known, but definitely exists. In what follows I have made liberal and grateful use of the expert insights of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/knight-errant-chess-and-the-elgin-marbles/",
-         "pubDate" : "Sat, 02 Dec 2023 09:20:40",
-         "title" : "Knight errant: chess and the Elgin Marbles"
       }
    ]
 }
