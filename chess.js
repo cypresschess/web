@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bodhana Sivanandan is not only making headlines in England. The 8-year-old took part in the European Rapid and Blitz Chess Championships in Zagreb and was the best female participant in the blitz tournament with 8&frac12;/13 points! | Photo: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-european-rapid-2023",
+         "pubDate" : "Sun, 24 Dec 2023 16:15:00",
+         "title" : "An 8-year-old astonishes the chess world in Zagreb"
+      },
+      {
+         "description" : " Cheating has remained in the chess headlines since the Carlsen-Niemann controversy in September 2021. In the past two years, chess has continued to grab international headlines. This is not because of the new World Champion, Ding Liren, or all the rising young players gracing the scene. It is not because of the increasing popularity of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/\">Has cheating (accusations) gone too far?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/",
+         "pubDate" : "Sun, 24 Dec 2023 15:13:18",
+         "title" : "Has cheating (accusations) gone too far?"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 157th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to talk about the games and the legacy of Paul Keres. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-157-chess-history-in-a-nutshell-39",
+         "pubDate" : "Sun, 24 Dec 2023 15:00:00",
+         "title" : "Understanding before Moving 157: Chess history in a nutshell (39)"
+      },
+      {
+         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-3-get-comfortable-with-discomfort/",
+         "pubDate" : "Sun, 24 Dec 2023 13:53:12",
+         "title" : "Improve Your Chess in 2024 - Part 3 - Get Comfortable With Discomfort"
+      },
+      {
          "description" : "The Soviet (oops, Russian&hellip;) invasion of Ukraine has resulted in a number of grandmasters afflicted by conscience defecting to more liberal regimes. Putin's realm of perpetual winter was foreshadowed by Garry Kasparov's Cassandra-like prophecy, Winter is Coming. The litany of discontents is impressive, a literal brain drain of Russian elite chess players. Kramnik and Kasparov are []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -306,14 +338,6 @@ news_feed (
          "title" : "Congratulations GM RB Ramesh for Dronacharya Award"
       },
       {
-         "description" : "It is totally accepted that the 20th FIDE World Champion Magnus Carlsen makes any ending look like a piece of cake! And this is simply based on good knowledge and understanding, two great assets that are wrongly interpreted as intuition and sometimes, even magic! A world leading chess trainer and analyst, GM Efstratios Grivas, shows us how Magnus handles the endgame. You can learn from it!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-carlsen-lazavik",
-         "pubDate" : "Thu, 21 Dec 2023 15:00:00",
-         "title" : "Grivas on Carlsen-Lazavik"
-      },
-      {
          "description" : "Time sure flies when you&#39;re having having fun-damental endgame clashes! It&#39;s the end of 2023 already, and what a tremendous year it was for chess! There are numerous reasons to celebrate the last 12 months&#38;mdash;so many that choosing the best amon...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -344,14 +368,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/pocket-sets.html",
          "pubDate" : "Thu, 21 Dec 2023 12:31:00",
          "title" : "Pocket Sets"
-      },
-      {
-         "description" : "In his new game of the week show Merin van Delft takes a look at a game Sanan Sjugirov and Gukesh played at the Chennai Grand Masters Tournament in India - Gukesh impressed with calm and strong play. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-598-h-niemann-vs-m-bartel-2",
-         "pubDate" : "Thu, 21 Dec 2023 11:54:26",
-         "title" : "Game of the Week #599: S. Sjugirov vs Gukesh"
       },
       {
          "description" : "Certificates of national Fair Play Workshop, Thoothukudi are available to download. Link : https://aicf.online/Fair-Play-Toothukudi.html Any correction mail at aicfwebmaster2021@gmail.com",
@@ -1184,22 +1200,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2024-official-invitation/",
          "pubDate" : "Mon, 04 Dec 2023 09:07:43",
          "title" : "European School Chess Championship 2024 - Official invitation"
-      },
-      {
-         "description" : "After so many years of following <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), I've learned that eBay auctions follow seasonal trends. For example, the months preceeding the year-end holidays generally have more items than the months following the holidays <P> This year is no exception and my short list for this post had a dozen items, any one of which could have been featured for the post. By coincidence, the three most expensive items on the list were all related to the 1972 Fischer - Spassky match. Two of those items are pictured below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/fischer-spassky-top-items-by-price.html",
-         "pubDate" : "Sun, 03 Dec 2023 16:13:00",
-         "title" : "Fischer - Spassky Top Items by Price"
-      },
-      {
-         "description" : " The <a href=\"https://www.londonchessclassic.com/\">London Chess Classic</a> has returned, albeit in a much smaller form than in pre-covid years. It is now consists of a single 10 player RR, rather than the mix of GM event, Open swisses, monster rapids, and other events. The GM event is strong as usual, with 4 English GM's against 6 visiting players. There are a couple of interesting inclusions, including Gukesh, who is trying to qualify for the 2024 Candidates, and Hans Neimann, on a hot streak after winning in Zagreb last week. At this stage 2 rounds have been played, with some interesting games on show. GM Michael Adams (current World Seniors Champion) won a very nice game in round 1, agai",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/london-chess-classic.html",
-         "pubDate" : "Sun, 03 Dec 2023 13:12:00",
-         "title" : "London Chess Classic"
       }
    ]
 }
