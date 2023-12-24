@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Soviet (oops, Russian&hellip;) invasion of Ukraine has resulted in a number of grandmasters afflicted by conscience defecting to more liberal regimes. Putin's realm of perpetual winter was foreshadowed by Garry Kasparov's Cassandra-like prophecy, Winter is Coming. The litany of discontents is impressive, a literal brain drain of Russian elite chess players. Kramnik and Kasparov are []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/russian-exodus-and-a-rising-star/",
+         "pubDate" : "Sun, 24 Dec 2023 10:22:05",
+         "title" : "Russian exodus - and a rising star"
+      },
+      {
+         "description" : "From a very young age, Rita Atkins has been active in the chess community, achieving notable success in various chess tournaments, reaching the title of Women's International Master (WIM) and winning the Hungarian Women's Chess Championship in 1992. She has also been involved in teaching chess and mathematics to school children and youth. In a lengthy interview with Uvencio Blanco, she remarked: \"Give it another hundred years, and there will be just as many good female players as male ones\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rita-atkins-interview-2023",
+         "pubDate" : "Sun, 24 Dec 2023 10:00:00",
+         "title" : "Rita Atkins: \"Gender stereotypes are changing, but they are changing slowly\""
+      },
+      {
+         "description" : "The 2023 FIDE World Rapid and Blitz Chess Championship takes place from 26-30 December in Samarkand, Kazakhstan. The city where the world's oldest chess pieces have been found (dating from the 6-8 century AD)&#160;will more than 350 players from 50 federations who will compete for the world champion rapid and blitz titles. FIDE World Rapid Chess Championship 2023 will be held from 26-28 December with 13 rounds (swiss system) in the Open event, and 11 rounds (swiss system) in the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-samarkand/",
+         "pubDate" : "Sun, 24 Dec 2023 09:48:43",
+         "title" : "FIDE World Rapid and Blitz Chess Championship 2023 starts in Samarkand"
+      },
+      {
          "description" : "The General Assembly of the United Nations adopted the UN Convention against Corruption (UNCAC) on October 31, 2003 and designated December 9 as the International Anti-Corruption Day. Commemorating the twentieth anniversary, this year's theme for the International Anti-Corruption Day (IACD) was \"UNCAC at 20: Uniting the World Against Corruption\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -352,14 +376,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-7",
          "pubDate" : "Thu, 21 Dec 2023 08:07:00",
          "title" : "Gukesh Wins Title On Tiebreak, Overtakes Giri In Candidates' Race"
-      },
-      {
-         "description" : "GM Gergely Antal emerged as the winner of the 2023 Hungarian Individual Chess Championship. Men, women, and some invited youngsters aspiring for a place in the Hungarian U25 national team in the 2024 Olympiad in Budapest competed in a shared pool but were ranked separately. All in all, 30 players battled in a 9-round Swiss tournament on December 12-20. | Photos: Hungarian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gergely-antal-wins-hungarian-championship-2023",
-         "pubDate" : "Thu, 21 Dec 2023 06:30:00",
-         "title" : "Gergely Antal wins the 2023 Hungarian Championship"
       },
       {
          "description" : "8-year-old Bodhana Sivanandan (ENG) stunned the world with her phenomenal performance at the European Rapid and Blitz Chess Championship 2023 in Zagreb, Croatia. In the last couple of days, her name appeared in Daily Mail, CNN News, BBC News, The Guardian, The Independent, The Times, Sky News, Der Spiegel, NDTW world and other media who reported about Bodhana's success in Zagreb. Scoring 8.5/13 points, Bodhana Sivanandan emerged as the best-ranked female player in the European Blitz Chess Championship 2023, ahead []",
