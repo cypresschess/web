@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2817",
+         "pubDate" : "Sun, 24 Dec 2023 19:30:20",
+         "title" : "Kazakhstani Championship 2023: Abdilkhair and Balabayeva win maiden titles"
+      },
+      {
+         "description" : "ChessBase wishes all chess friends a Merry Christmas and peaceful and happy holidays! Stay healthy. For the holidays we have also prepared a small tutorial on the intricacies of password management. | Photo: Pixabay.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/merry-christmas-4",
+         "pubDate" : "Sun, 24 Dec 2023 19:00:00",
+         "title" : "Merry Christmas!"
+      },
+      {
          "description" : "Bodhana Sivanandan is not only making headlines in England. The 8-year-old took part in the European Rapid and Blitz Chess Championships in Zagreb and was the best female participant in the blitz tournament with 8&frac12;/13 points! | Photo: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,7 @@ news_feed (
          "title" : "An 8-year-old astonishes the chess world in Zagreb"
       },
       {
-         "description" : " Cheating has remained in the chess headlines since the Carlsen-Niemann controversy in September 2021. In the past two years, chess has continued to grab international headlines. This is not because of the new World Champion, Ding Liren, or all the rising young players gracing the scene. It is not because of the increasing popularity of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/\">Has cheating (accusations) gone too far?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Cheating has remained in the chess headlines since the Carlsen-Niemann controversy in September 2022. In the past two years, chess has continued to grab international headlines. This is not because of the new World Champion, Ding Liren, or all the rising young players gracing the scene. It is not because of the increasing popularity of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/\">Has cheating (accusations) gone too far?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/",
@@ -304,14 +320,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/12/21/uae-to-host-2028-chess-olympiad/",
          "pubDate" : "Thu, 21 Dec 2023 20:20:24",
          "title" : "UAE to host 2028 Chess Olympiad"
-      },
-      {
-         "description" : "The chess year 2023 will end with a particularly exciting event: the World Rapid and Blitz Championships, which will take place from 26 to 30 December in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in both tournaments. | Photos: Lennart Ootes, Maria Emelianova/Chess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/everything-ready-for-the-start-of-world-rapid-and-blitz-in-samarkand",
-         "pubDate" : "Thu, 21 Dec 2023 18:00:41",
-         "title" : "Everything ready for the start of World Rapid and Blitz in Samarkand"
       },
       {
          "description" : "GM D Gukesh drew his final encounter with compatriot Pentala Harikrishna to clinch the title on tiebreak from GM Arjun Erigaisi after the seventh and",
