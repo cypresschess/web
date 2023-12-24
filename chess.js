@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The General Assembly of the United Nations adopted the UN Convention against Corruption (UNCAC) on October 31, 2003 and designated December 9 as the International Anti-Corruption Day. Commemorating the twentieth anniversary, this year's theme for the International Anti-Corruption Day (IACD) was \"UNCAC at 20: Uniting the World Against Corruption\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/checkmate-to-corruption",
+         "pubDate" : "Sat, 23 Dec 2023 22:00:00",
+         "title" : "Checkmate to corruption"
+      },
+      {
          "description" : "The Chessable Sunway Sitges Festival took place in the municipality of Sitges, not far from Barcelona, directly on the Mediterranean. The main event, a large open tournament, came to an end on Friday after ten rounds of play with the victory of Abhimanyu Puranik. The 23-year-old Indian grandmaster was the only one of the 329 participants to achieve a score of 8&frac12;/10, leaving a four-player chasing pack half a point behind. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/abhimanyu-puranik-wins-sunway-sitges-2023",
          "pubDate" : "Sat, 23 Dec 2023 17:30:00",
          "title" : "Abhimanyu Puranik finishes clear first in Sitges"
+      },
+      {
+         "description" : "GM Daniel Naroditsky has become the second player, along with GM Hikaru Nakamura, to win 10 or more Bullet Brawl&#39;s after posting a score of 272 in Saturday&#39;s event, 54 points ahead of the second-placed IM Terry Renato and 78 ahead of third, IM Yos...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-december-23-2023",
+         "pubDate" : "Sat, 23 Dec 2023 14:58:09",
+         "title" : "Naroditsky Secures 10th Bullet Brawl Title"
       },
       {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
@@ -344,14 +360,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gergely-antal-wins-hungarian-championship-2023",
          "pubDate" : "Thu, 21 Dec 2023 06:30:00",
          "title" : "Gergely Antal wins the 2023 Hungarian Championship"
-      },
-      {
-         "description" : "The German Masters was exciting right up to the final round. Alexander Donchenko, Dennis Wagner and Rasmus Svane battled it out for victory in the open tournament, while the women's Masters saw Dinara Wagner and Hanna Marie Klek fighting for firs place in a direct duel. In the end, the Wagners were declared victorious in both tournaments. Congratulations! | Photos: Paul Meyer-Dunker",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dennis-dinara-wagner-win-german-masters-2023",
-         "pubDate" : "Thu, 21 Dec 2023 01:45:00",
-         "title" : "Dennis and Dinara Wagner claim victories at exciting German Masters"
       },
       {
          "description" : "8-year-old Bodhana Sivanandan (ENG) stunned the world with her phenomenal performance at the European Rapid and Blitz Chess Championship 2023 in Zagreb, Croatia. In the last couple of days, her name appeared in Daily Mail, CNN News, BBC News, The Guardian, The Independent, The Times, Sky News, Der Spiegel, NDTW world and other media who reported about Bodhana's success in Zagreb. Scoring 8.5/13 points, Bodhana Sivanandan emerged as the best-ranked female player in the European Blitz Chess Championship 2023, ahead []",
@@ -738,14 +746,6 @@ news_feed (
          "title" : "9th Vugar Gashimov Memorial 2023 - Games and Results"
       },
       {
-         "description" : "GM Sanan Sjugirov defended against ambitious play by GM Pavel Eljanov in the middlegame to score a patient victory and jumped into a joint lead with one and a half points after the second round of the Chennai Grand Masters 2023. He has joined GM P...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-2",
-         "pubDate" : "Sat, 16 Dec 2023 09:46:00",
-         "title" : "Harikrishna, Sjugirov In Joint Lead After Day Of Fierce Fights"
-      },
-      {
          "description" : "British Grandmaster Mickey Adams, fresh from winning the World 50+ Championship, has now scored what he describes as the success of his life by also taking first prize in the 2023 London Classic, at the age of 52. Mickey Adams has a distinctive style over the chessboard. His moves are delicate , rather than brutal, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -872,6 +872,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2796",
          "pubDate" : "Wed, 13 Dec 2023 21:28:54",
          "title" : "2023 Hungarian Championship: A few unexpected results at the start"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2816",
+         "pubDate" : "Wed, 13 Dec 2023 21:22:24",
+         "title" : "Verica Nedeljkovi&#263, 1929-2023: Serbian Grandmaster who rattled Soviet Women's chess dominance"
       },
       {
          "description" : "",
