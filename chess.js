@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-december-23-2023",
-         "pubDate" : "Sat, 23 Dec 2023 14:58:09",
+         "pubDate" : "Sat, 23 Dec 2023 14:58:00",
          "title" : "Naroditsky Secures 10th Bullet Brawl Title"
       },
       {
@@ -1184,14 +1184,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/london-chess-classic.html",
          "pubDate" : "Sun, 03 Dec 2023 13:12:00",
          "title" : "London Chess Classic"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/105692225.cms\" />It's been a magnificent year for Indian chess and now, there's an icing on the cake. Chennai girl R Vaishali, who had earlier sealed a spot for the women's Candidates tournament and made history by becoming the first brother-sister duo with R Praggnanandhaa to do so, is now the third Indian woman to become a Grandmaster. With two consecutive victories at the Ellobregat Open in Spain, Vaishali steered past the 2500-mark Elo rating to reach the milestone.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaas-sister-vaishali-becomes-indias-third-woman-grandmaster/articleshow/105692225.cms",
-         "pubDate" : "Sun, 03 Dec 2023 03:37:12",
-         "title" : "Praggu's sister Vaishali becomes India's third woman Grandmaster"
       }
    ]
 }
