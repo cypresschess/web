@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2023-12-22","20","<a href=http://www.uschess.org/msa/XtblMain.php?202312220662 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-12-22","22","<a href=http://www.uschess.org/msa/XtblMain.php?202312220072 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-12-15  - 12-17","42","<a href=http://www.uschess.org/msa/XtblMain.php?202312177932 target='_blank'>$2,000 STUDIO  DEC 2023 CHAMPIONSHI</a>",
 "HOUSTON","2023-12-17","13","<a href=http://www.uschess.org/msa/XtblMain.php?202312177592 target='_blank'>GAME GUYS 12.17.23</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2023-06-16","36","<a href=http://www.uschess.org/msa/XtblMain.php?202306162052 target='_blank'>EVENT NAME MISSING</a>",
 "SPRING","2023-06-16","26","<a href=http://www.uschess.org/msa/XtblMain.php?202306161962 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-06-16","18","<a href=http://www.uschess.org/msa/XtblMain.php?202306161902 target='_blank'>REBECCA CHESS CLUB QUADS JUNE 16, 2023</a>",
-"SUGAR LAND","2023-06-16","4","<a href=http://www.uschess.org/msa/XtblMain.php?202306161892 target='_blank'>FBCC 2023 NATIONAL FUDGE DAY OPEN.P</a>",
 ]);
