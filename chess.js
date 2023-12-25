@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2817",
          "pubDate" : "Sun, 24 Dec 2023 19:30:20",
-         "title" : "Kazakhstani Championship 2023: Abdilkhair and Balabayeva win maiden titles"
+         "title" : "Kazakhstani Championship 2023: Ansat and Balabayeva win maiden titles"
       },
       {
          "description" : "ChessBase wishes all chess friends a Merry Christmas and peaceful and happy holidays! Stay healthy. For the holidays we have also prepared a small tutorial on the intricacies of password management. | Photo: Pixabay.",
