@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For two decades we ended each year with traditional Christmas puzzles - here are some of the best puzzles from the early years. Many of our younger readers will not have seen them. Remember, some of them were not born when we started. For others it will hopefully bring back nostalgic memories. And bring some additional joy on the big festive day. From today until January 1st 2024 we revive the tradition, with new contributors who will hopefully maintain it in the decades to come.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/retrospect-christmas-puzzles",
+         "pubDate" : "Mon, 25 Dec 2023 08:00:00",
+         "title" : "Retrospect: Twenty years of ChessBase Christmas Puzzles"
+      },
+      {
          "description" : "Fabiano Caruana continued his 2023 hot streak at the end of November, and after clinching the 2023 GCT Sinquefield Cup, he became the winner of the FIDE Circuit. Given that Caruana already qualified for the Candidates in the World Cup, the second place in the FIDE Circuit (which gives a ticket to the Candidates) is worth its weight in gold. Dommaraju Gukesh, Anish Giri and Arjun Erigaisi will fight for this spot at the FIDE World Rapid and Blitz Championships in Samarkand.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/merry-christmas-4",
          "pubDate" : "Sun, 24 Dec 2023 19:00:00",
          "title" : "Merry Christmas!"
+      },
+      {
+         "description" : "All booms eventually run their course. Once covid confinement and the Netflix series have been forgotten, what to do with that wooden chess set gathering dust in the closet? <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/Q6_-Za8vMWM?si=fJ-YeuJ70Se2VqJQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Turning a Chess Board into Wall Hooks</B> (1:00) &#149; '[Published on] Dec 6, 2023' <P> And on that melancholy note we close the book on the long-running series that started with <A HREF=\"https://chessforallages.blogspot.com/2016/11/t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/dont-burn-it.html",
+         "pubDate" : "Sun, 24 Dec 2023 16:18:00",
+         "title" : "Don't Burn It"
       },
       {
          "description" : "Bodhana Sivanandan is not only making headlines in England. The 8-year-old took part in the European Rapid and Blitz Chess Championships in Zagreb and was the best female participant in the blitz tournament with 8&frac12;/13 points! | Photo: European Chess Union",
@@ -296,14 +312,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-sna-seminar-and-examination-on-16th-and-17th-december-2023-vizianagaram-ap/",
          "pubDate" : "Fri, 22 Dec 2023 10:37:06",
          "title" : "Final Report - SNA Seminar and Examination on 16th and 17th December 2023 Vizianagaram, AP"
-      },
-      {
-         "description" : "Davide Nastasio loves chess - and when he had a weekend off to play, he was delighted to have the new Fritz 19. In a review he describes what you can do with the engine: \"The new Fritz 19 has given me endless hours of fun, thanks to games played against it, as well as games played against other engines and chess bots on the internet.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz19-a-review-based-on-games",
-         "pubDate" : "Fri, 22 Dec 2023 09:00:00",
-         "title" : "Fritz 19 - A review based on games!"
       },
       {
          "description" : " The Harrow schoolgirl, who won the women's prize in the European open blitz championship, plays at Hastings next week in the chess world's longest running congress Bodhana Sivanandan, eight, who made chess history last Saturday when winning the women's prize in the European blitz championship at Zagreb, will be back at the board next week. She will compete in the Caplin Masters at Hastings, the chess world's longest running congress, which is now in its 97th edition and starts on 28 December. At Zagreb, the year four Harrow primary school pupil totalled a remarkable 8.5/13 in a field of 555 players, including 48 GMs and 50 IMs. Her tournament performance was <a href=\"https://chess-results.c",
