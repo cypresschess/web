@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "For two decades we ended each year with traditional Christmas puzzles - here are some of the best puzzles from the early years. Many of our younger readers will not have seen them. Remember, some of them were not born when we started. For others it will hopefully bring back nostalgic memories. And bring some additional joy on the big festive day. From today until January 1st 2024 we revive the tradition, with new contributors who will hopefully maintain it in the decades to come.",
+         "description" : " The World Rapid and Blitz Championships take place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2023",
+         "pubDate" : "Mon, 25 Dec 2023 11:38:00",
+         "title" : "World Rapid and Blitz Championships 2023 - Games and Results"
+      },
+      {
+         "description" : "Merry Christmas to one and all! Last year's Christmas post was <A HREF=\"https://chessforallages.blogspot.com/2022/12/not-dickens-christmas-story.html\">Not the Dickens Christmas Story</A> (December 2022). This year Christmas falls on a Monday, which happens to coincide with a new series last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/12/chessman-comics.html\">Chessman Comics</A> (December 2023). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl25.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Santa Claus plays chess with foxes.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> For more chess-playing foxes, see <A HREF=\"http://chess960frc.blogspot.com/2",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/foxy-christmas-chess.html",
+         "pubDate" : "Mon, 25 Dec 2023 10:58:00",
+         "title" : "Foxy Christmas Chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2818",
+         "pubDate" : "Mon, 25 Dec 2023 10:22:07",
+         "title" : "FIDE Council approves changes in tournament registration procedure"
+      },
+      {
+         "description" : "For two decades we ended each year with traditional Christmas puzzles - here are some of the best from the early years. Many of our younger readers will not have seen them - remember, some of them were not born when we started. For others it will hopefully bring back nostalgic memories. And perhaps some additional joy on the big festive day. From today until January 1st 2024 we revive the tradition, with new contributors who will hopefully maintain it in the decades to come.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/retrospect-christmas-puzzles",
@@ -1184,38 +1208,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html",
          "pubDate" : "Mon, 04 Dec 2023 16:34:00",
          "title" : "Elon Musk and Squirrels"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2781",
-         "pubDate" : "Mon, 04 Dec 2023 11:14:16",
-         "title" : "EDU - Transforming chess education"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2780",
-         "pubDate" : "Mon, 04 Dec 2023 10:15:39",
-         "title" : "FIDE Development Director Nigel Short visits Lesotho"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2782",
-         "pubDate" : "Mon, 04 Dec 2023 10:14:23",
-         "title" : "\"Chess for Children with ASD. Learn and Teach\" seminar announced"
-      },
-      {
-         "description" : "The European School Chess Championship 2024 will be held from May 30 to June 8 2024 in Limerick, Ireland. The event will be played in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. If any group has less than 16 entries, open and girls sections can be merged with separate prizes for the best ranked girls. Each event will be played in 9 rounds, swiss system, with the time control of 90 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2024-official-invitation/",
-         "pubDate" : "Mon, 04 Dec 2023 09:07:43",
-         "title" : "European School Chess Championship 2024 - Official invitation"
       }
    ]
 }
