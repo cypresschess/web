@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana continued his 2023 hot streak at the end of November, and after clinching the 2023 GCT Sinquefield Cup, he became the winner of the FIDE Circuit. Given that Caruana already qualified for the Candidates in the World Cup, the second place in the FIDE Circuit (which gives a ticket to the Candidates) is worth its weight in gold. Dommaraju Gukesh, Anish Giri and Arjun Erigaisi will fight for this spot at the FIDE World Rapid and Blitz Championships in Samarkand.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/caruana-wins-fide-circuit-2023",
+         "pubDate" : "Mon, 25 Dec 2023 02:00:00",
+         "title" : "Caruana wins FIDE Circuit, second spot to be decided in Samarkand"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -304,14 +312,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/dec/22/chess-bodhana-sivanandan-eight-sets-new-records-with-victory-in-zagreb",
          "pubDate" : "Fri, 22 Dec 2023 08:00:51",
          "title" : "Chess: Bodhana Sivanandan, eight, sets new records with victory in Zagreb"
-      },
-      {
-         "description" : "D Gukesh drew his final-round game against Pentala Harikrishna. Arjun Erigaisi defeated Sanan Sjugirov. Both Gukesh and Arjun ended up with the same 4&frac12;/7 score. Gukesh won the Chennai Masters on tie-breaks, Arjun was placed second. Pavel Eljanov drew against Levon Aronian. Thus, Harikrishna and Eljanov finished with 4/7 each. Harikrishna secured third place. The objective of organizing this event was certainly a huge success. The top three places were claimed by Indian players. This triumph has moved Gukesh ahead of Anish Giri in the FIDE Circuit leaderboard. Sai Akhil Anand designed and helped with the 'Draw of Lots' in the opening ceremony and the closing ceremony was graced by the ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-wins-chennai-grand-masters-2023-arjun-erigaisi-second-and-harikrishna-third",
-         "pubDate" : "Thu, 21 Dec 2023 22:50:00",
-         "title" : "Gukesh wins the Chennai Masters, Arjun second and Harikrishna third"
       },
       {
          "description" : " FIDE General Assembly determined that the 2028 Chess Olympiad will be held in Abu Dhabi, UAE. Some 42 years after UAE hosted arguably the best Olympiad in history in 1986, the country seeks to host the world's most important chess event. This event includes all member federations, and concurrent sessions are held to conduct the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/21/uae-to-host-2028-chess-olympiad/\">UAE to host 2028 Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
