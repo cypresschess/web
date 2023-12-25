@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Frank James Marshall and Dawid Janowski are two very memorable figures of chess history. Both were outstanding competitors who became title contenders. They are remembered as two of the finest attacking players from the late 19th to the early 20th century.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frank-james-marshall-vs-dawid-janowski-a-rivalry-of-two-decades",
+         "pubDate" : "Mon, 25 Dec 2023 23:15:00",
+         "title" : "Frank James Marshall vs. Dawid Janowski: A rivalry of two decades"
+      },
+      {
          "description" : " I've arrived in Samarkand for the 2023 World Rapid and Blitz, but there has been very little time for me to post an update. I spent around 36 hours traveling (mainly due to long lay overs between connections), before catching a few hours sleep on my arrival. The it was straight into the work of preparing for the tournament, which starts on the 26th. As with all these events, the first major task is seeing who has/hasn't arrived. With 320+ players across both sections, there is always a chance that some players do not make it. In some cases it is visa issues, while in at least one case, trying to by tickets at the last minute failed due to no seats left on the planes. So while the expected f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -190,7 +198,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-year-in-review",
-         "pubDate" : "Sat, 23 Dec 2023 10:11:46",
+         "pubDate" : "Sat, 23 Dec 2023 10:11:00",
          "title" : "2023 Year In Review"
       },
       {
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/surya-ganguly-endgame-essentials-you-need-to-know-vol-1-vol-2",
          "pubDate" : "Fri, 22 Dec 2023 19:00:00",
          "title" : "Surya Ganguly - Endgame essentials you need to know Vol.1 & Vol 2"
-      },
-      {
-         "description" : "In the \"Way to the Candidates\" match series, which takes place in Chartres, France, and was designed to help Alireza Firouzja to reach the Candidates, Firouzja has won five of the six scheduled games, overtaking Wesley So on the live-ranking list. However, Firouzja still has to win his second game against Sergey Fedorchuk today. Many chess fans criticised the event, and the US federation asked the FIDE not to rate the games played in these matches.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/way-to-candidates-firouzja-is-getting-there",
-         "pubDate" : "Fri, 22 Dec 2023 15:38:37",
-         "title" : "The Way to the Candidates: Firouzja is getting closer"
       },
       {
          "description" : "Chess In Slums Africa partnered with Chess.com to reach the goal of raising $50,000 to bring the education and joy of chess to 5,000 children in Africa. With an arena tournament played on Chess.com, and with a powerhouse team of commentators and g...",
@@ -1208,14 +1208,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2784",
          "pubDate" : "Tue, 05 Dec 2023 07:43:23",
          "title" : "Proposals for changes to FIDE Ratings Regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2783",
-         "pubDate" : "Mon, 04 Dec 2023 21:30:20",
-         "title" : "Invitation to the Inaugural FIDE TEC Vendor User Group Meeting"
       }
    ]
 }
