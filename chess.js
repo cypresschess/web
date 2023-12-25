@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I've arrived in Samarkand for the 2023 World Rapid and Blitz, but there has been very little time for me to post an update. I spent around 36 hours traveling (mainly due to long lay overs between connections), before catching a few hours sleep on my arrival. The it was straight into the work of preparing for the tournament, which starts on the 26th. As with all these events, the first major task is seeing who has/hasn't arrived. With 320+ players across both sections, there is always a chance that some players do not make it. In some cases it is visa issues, while in at least one case, trying to by tickets at the last minute failed due to no seats left on the planes. So while the expected f",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapind-and-blitz-starts-today.html",
+         "pubDate" : "Mon, 25 Dec 2023 19:04:00",
+         "title" : "2023 World Rapid and Blitz - starts today"
+      },
+      {
+         "description" : "\"The Queens Gambit\" has been one of the most successful series in recent years, and now chess has also made it onto the bestseller book lists. Thanks to author Ali Hazelwood and her book \"Check & Mate\", a modern romantic fairytale set in the world of chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-chess-fairytale-check-mate-ali-hazelwood-s-check-mate",
+         "pubDate" : "Mon, 25 Dec 2023 18:00:00",
+         "title" : "A chess fairytale: Ali Hazelwood's novel \"Check & Mate\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2819",
+         "pubDate" : "Mon, 25 Dec 2023 17:14:01",
+         "title" : "Uzbekistan's chess renaissance: 2023 World Rapid and Blitz Championships officially opened in Samarkand"
+      },
+      {
          "description" : " The World Rapid and Blitz Championships take place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -114,7 +138,7 @@ news_feed (
          "title" : "Rita Atkins: \"Gender stereotypes are changing, but they are changing slowly\""
       },
       {
-         "description" : "The 2023 FIDE World Rapid and Blitz Chess Championship takes place from 26-30 December in Samarkand, Kazakhstan. The city where the world's oldest chess pieces have been found (dating from the 6-8 century AD)&#160;will more than 350 players from 50 federations who will compete for the world champion rapid and blitz titles. FIDE World Rapid Chess Championship 2023 will be held from 26-28 December with 13 rounds (swiss system) in the Open event, and 11 rounds (swiss system) in the []",
+         "description" : "The 2023 FIDE World Rapid and Blitz Chess Championship takes place from 26-30 December in Samarkand, Uzbekistan. The city where the world's oldest chess pieces have been found (dating from the 6-8 century AD) will more than 350 players from 50 federations who will compete for the world champion rapid and blitz titles. FIDE World Rapid Chess Championship 2023 will be held from 26-28 December with 13 rounds (swiss system) in the Open event, and 11 rounds (swiss system) in the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-samarkand/",
@@ -296,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-year-in-chess",
          "pubDate" : "Fri, 22 Dec 2023 12:08:00",
          "title" : "Chess.com Launches Year In Chess!"
-      },
-      {
-         "description" : "Today's episode is about two Dutch grandmasters playing the French defence. Friso Nijboer is facing Jan Timman, and the position is quickly advancing to a very interesting middle game. A tactical masterpiece is ready to be solved by the viewer!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-two-dutch-play-the-french",
-         "pubDate" : "Fri, 22 Dec 2023 12:00:00",
-         "title" : "Svitlana's Smart Moves - Two Dutch play the French"
       },
       {
          "description" : "",
@@ -1200,14 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2783",
          "pubDate" : "Mon, 04 Dec 2023 21:30:20",
          "title" : "Invitation to the Inaugural FIDE TEC Vendor User Group Meeting"
-      },
-      {
-         "description" : "What do you get when you cross <A HREF=\"https://chessforallages.blogspot.com/2023/09/i-want-to-go-squirrel-hunting.html\">I Want To Go Squirrel Hunting</A> (September 2023), with <A HREF=\"https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html\">AI Chess Comics</A> (November 2023)? Something like this... <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl04.jpg\" WIDTH=337 HEIGHT=400><BR> <B>'Elon Musk plays chess with a squirrel.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> ...Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html",
-         "pubDate" : "Mon, 04 Dec 2023 16:34:00",
-         "title" : "Elon Musk and Squirrels"
       }
    ]
 }
