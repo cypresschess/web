@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From December 13 to 23, the Kazakhstan Chess Championship took place in Astana. After 13 rounds of play in the open, five players were tied for first place. Following a rapid tiebreak, 15-year-old Aldiyar Ansat emerged victorious. Menawhile, Ksenia Balabaeva obtained outright victory in the 10-player single round-robin. Balabaeva obtained a remarkable 7&frac12;/9 score. | Photos: Kazakhstan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kazakhstan-chess-championship-2023",
+         "pubDate" : "Tue, 26 Dec 2023 18:00:00",
+         "title" : "Aldiyar Ansat, aged 15, wins Kazakhstani Chess Championship"
+      },
+      {
+         "description" : "The 25th Asian Youth Chess Championships were held at the Al Ain Convention Centre, Al Ain, United Arab Emirates, from 13th to 21st December, 2023.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/report-on-the-asian-youth-chess-championships-2023/",
+         "pubDate" : "Tue, 26 Dec 2023 17:01:31",
+         "title" : "Report on the Asian Youth Chess Championships, 2023."
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106300019.cms\" />During the recent Sunway International chess tournament in Sitges, Spain, several leading Indian chess players, including GM Sankalp Gupta, faced a distressing ordeal due to multiple break-ins at their apartments, resulting in the loss of valuable belongings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/magnus-misses-a-chance-2",
          "pubDate" : "Tue, 26 Dec 2023 09:00:00",
          "title" : "Invite your bishop to the party"
+      },
+      {
+         "description" : "GM Magnus Carlsen&#39;s title defense is alive and well after the first day of play at the 2023 FIDE World Rapid Chess Championship when the Norweigian favorite scored 4.5/5. Carlsen is joined by GMs Arjun Erigaisi, Yu Yangyi, Vidit Gujrathi, and Ivan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-world-rapid-chess-championship-day-1",
+         "pubDate" : "Tue, 26 Dec 2023 08:45:00",
+         "title" : "Carlsen On Track For Title Defense; Five Players Lead"
       },
       {
          "description" : "Playing chess is an immensely popular activity. Solving chess problems is also very enjoyable. But how about composing problems? During our revived Christmas Puzzle week, we want to discuss different methods of how to compose your very own chess problem! We ask you to give it a try yourself. Submit your own composition and win some great prizes!",
@@ -232,14 +256,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-2-adjust-your-mindset/",
          "pubDate" : "Sat, 23 Dec 2023 14:02:29",
          "title" : "Improve Your Chess in 2024 - Part 2 - Adjust Your Mindset"
-      },
-      {
-         "description" : "Alireza Firouzja's attempt to reach the Candidates via rating at a series of matches in Chartres failed at the last hurdle. After scoring five wins in a row, the strongest junior in the world was held to a draw by Sergey Fedorchuk, thus losing 2.8 Elo points and again falling behind Wesley So in the live ratings list. The draw was followed by Firouzja disappearing from the lineups of the World Rapid and Blitz Championships. He still has a week before the year ends - will he try desperately to gain some rating again?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/way-to-candidates-firouzja-draws",
-         "pubDate" : "Sat, 23 Dec 2023 12:15:00",
-         "title" : "Firouzja held to a draw by Fedorchuk, remains behind So in ratings list"
       },
       {
          "description" : "The chess world had a busy year in 2023. From the World Championship in the spring to a busy December that featured the Champions Chess Tour Finals and a mad dash to the next Candidates Tournament, there was no shortage of chess being played. Th...",
@@ -834,14 +850,6 @@ news_feed (
          "title" : "Play Chess Against Fighting Game Legend SonicFox"
       },
       {
-         "description" : "GM Magnus Carlsen won his third title at the 2023 Champions Chess Tour Finals on Saturday. He defeated GM Wesley So 2.5-1.5 and shared that the tour &#34;came full circle&#34; in the final game where he cracked So&#39;s super-solid opening line. Carlsen won...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-champions-chess-tour-finals-title-match-carlsen-wins",
-         "pubDate" : "Sat, 16 Dec 2023 12:44:00",
-         "title" : "Carlsen Wins 3rd Title At 2023 Champions Chess Tour"
-      },
-      {
          "description" : " This is a follow up to a question asked in one the comments to a previous post. I'm not sure this is the definitive reason why there is no \"drop for mate\" in Transfer (Bughouse), but at least in my memory, this rule was active in Canberra around 1983. In that year the Australian Junior Chess Championship was held in Canberra, and was organised by Nathan Stirling. On the opening day there was an introductory event, consisting of blitz and transfer. For the transfer we were given the choice of allowing drop for checkmate, or not. IIRC the majority chose to allow 'drop for mate', and that was the rule adopted. I can remember winning at least one game using this method. However in subsequent lo",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/an-ideal-game.html",
          "pubDate" : "Wed, 13 Dec 2023 12:43:00",
          "title" : "An ideal game?"
-      },
-      {
-         "description" : "We are pleased to inform that TNSCA has already completed seven&#160;IM&#160;norm&#160;closed circuit tournaments successfully, achieving four&#160;IM&#160;norms&#160;and the eighth one is under progress at Erode. The",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/im-norm-tournament-tamil-nadu/",
-         "pubDate" : "Wed, 13 Dec 2023 10:42:54",
-         "title" : "IM Norm Tournaments Tamil Nadu"
       },
       {
          "description" : "The 2023 European Rapid and Blitz Chess Championship starts tomorrow in Zagreb, Croatia! Nearly 700 players coming from 41 European federations registered for the event, and the top seeds are: GM David Navara (CZE), GM Etienne Bacrot (FRA), GM Vasyl Ivanchuk (UKR), GM Baadur Jobava (GEO), GM Laurent Fressinet (FRA), GM Sabino Brunello (ITA), GM Alexey Sarana (SRB), GM Haik Martirosyan (ARM), GM Eltaj Safarli (AZE), GM Bogdan-Daniel Deac (ROU) etc. The highest rated Croatian grandmaster and European Chess Champion []",
