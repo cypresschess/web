@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106300019.cms\" />During the recent Sunway International chess tournament in Sitges, Spain, several leading Indian chess players, including GM Sankalp Gupta, faced a distressing ordeal due to multiple break-ins at their apartments, resulting in the loss of valuable belongings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-players-valuables-stolen-after-multiple-room-break-ins-in-spain/articleshow/106300019.cms",
+         "pubDate" : "Tue, 26 Dec 2023 15:57:48",
+         "title" : "Indian chess players' valuables stolen after multiple room break-ins in Spain"
+      },
+      {
+         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-4-train-smart/",
+         "pubDate" : "Tue, 26 Dec 2023 14:13:54",
+         "title" : "Improve Your Chess in 2024 - Part 4 - Train Smart"
+      },
+      {
          "description" : " Round 2 of the 2023 World Rapid and Blitz has begun, after the 1st round saw a number of upset results. The top 4 boards were all drawn, with Lev Aronian being the highest seeded player to collect the full point. This also the other top seeds disappear into mid-tables, with the exception of Magnus Carlsen, who gets to play on board 1 regardless of his score. As for my job as Pairings Officer, things went quite smoothly. Everyone turned up, which is quite remarkable for an event of this size, and the first round results were processed both efficiently and accurately. The only delay was caused by displaying the next round pairings, which relied on getting the giant TV's in the playing hall to",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
