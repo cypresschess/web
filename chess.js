@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Round 2 of the 2023 World Rapid and Blitz has begun, after the 1st round saw a number of upset results. The top 4 boards were all drawn, with Lev Aronian being the highest seeded player to collect the full point. This also the other top seeds disappear into mid-tables, with the exception of Magnus Carlsen, who gets to play on board 1 regardless of his score. As for my job as Pairings Officer, things went quite smoothly. Everyone turned up, which is quite remarkable for an event of this size, and the first round results were processed both efficiently and accurately. The only delay was caused by displaying the next round pairings, which relied on getting the giant TV's in the playing hall to",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/that-did-not-start-that-badly.html",
+         "pubDate" : "Tue, 26 Dec 2023 11:53:00",
+         "title" : "That did not start that badly"
+      },
+      {
+         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
+         "pubDate" : "Tue, 26 Dec 2023 10:50:00",
+         "title" : "World Rapid Championship - Live!"
+      },
+      {
          "description" : "In the diagram position it is White to move and win. White is a pawn up and has dangerous passed pawns, but the black pieces are active while the white bishop is rather clumsy. Do you see a way for White to let the bishop join the action and win the game?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,14 +240,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-certificates/",
          "pubDate" : "Sat, 23 Dec 2023 09:36:11",
          "title" : "Senior National Arbiter Seminar, Certificates"
-      },
-      {
-         "description" : "We've all experienced the evils of time trouble in our chess life. Time is ticking, panic is rising, and we make moves that we wouldn't consider if we had more time on our clock. From winning to losing - all our effort is wasted because we couldn't manage our time more efficiently. What is worse - we keep repeating this mistake over and over again.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/regina-theissl-pokorna-time-management-in-chess",
-         "pubDate" : "Sat, 23 Dec 2023 09:05:00",
-         "title" : "Regina Theissl-Pokorna - Time Management in Chess"
       },
       {
          "description" : "Indian GM Abhimanyu Puranik won his last four games to take clear first place on 8.5/10 and win the Chessable Sunway Sitges Chess Festival 2023. Four players tied for second place, with U.S. GM Brandon Jacobson taking the runner-up spot after winn...",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2785",
          "pubDate" : "Wed, 06 Dec 2023 09:17:17",
          "title" : "Chess for Freedom project among 3rd Annual Anthem Awards Finalists"
-      },
-      {
-         "description" : " This game was played in the final round of a recent Street Chess event. I'm not sure of the provenance of 8.Qd2 (due to a broken Chessbase database), but after move 11, White was well ahead. The only difficult question seemed to be the timing of the sacrifice on h6. <br /> <b>Press,Harry - Li,Hui [D55]</b><br /> Street Chess (7), 02.12.2023 <script> new PgnViewer( { boardName: \"game1431\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.c4 e6 3.Nc3 d5 4.Bg5 Be7 5.Nf3 O-O 6.e3 h6 7.Bxf6 Bxf6 8.Qd2 c6 9.h4 Nd7 10.g4 dxc4 11.g5 hxg5 12.hxg5 Bxg5 13.Bxc4 b5 14.Bd3 Bh6 15.O-O-O Re8 16.Rdg1 Kf8 17.Ne4 Nf6 18.Ne5 Nxe4 19.Bxe4 Bb7 20.Rxh6 gxh6 21.Qb4+ Qe7 22.Nd7# 1-0', pauseBetweenMoves: 500, pieceSiz",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/some-street-chess-carnage.html",
-         "pubDate" : "Tue, 05 Dec 2023 11:51:00",
-         "title" : "Some Street Chess carnage"
       }
    ]
 }
