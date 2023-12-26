@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position it is White to move and win. White is a pawn up and has dangerous passed pawns, but the black pieces are active while the white bishop is rather clumsy. Do you see a way for White to let the bishop join the action and win the game?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-misses-a-chance-2",
+         "pubDate" : "Tue, 26 Dec 2023 09:00:00",
+         "title" : "Invite your bishop to the party"
+      },
+      {
+         "description" : "Playing chess is an immensely popular activity. Solving chess problems is also very enjoyable. But how about composing problems? During our revived Christmas Puzzle week, we want to discuss different methods of how to compose your very own chess problem! We ask you to give it a try yourself. Submit your own composition and win some great prizes!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anirudh-in-boden-s-den",
+         "pubDate" : "Tue, 26 Dec 2023 08:00:00",
+         "title" : "Anirudh: In Boden's Den"
+      },
+      {
          "description" : "Frank James Marshall and Dawid Janowski are two very memorable figures of chess history. Both were outstanding competitors who became title contenders. They are remembered as two of the finest attacking players from the late 19th to the early 20th century.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -218,14 +234,6 @@ news_feed (
          "title" : "Regina Theissl-Pokorna - Time Management in Chess"
       },
       {
-         "description" : "In view of his hanging rook on c6 Black needs a good idea in the diagram position - or should I say the right gift idea? Feel free to be generous!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-nice-present",
-         "pubDate" : "Sat, 23 Dec 2023 09:00:00",
-         "title" : "A nice present"
-      },
-      {
          "description" : "Indian GM Abhimanyu Puranik won his last four games to take clear first place on 8.5/10 and win the Chessable Sunway Sitges Chess Festival 2023. Four players tied for second place, with U.S. GM Brandon Jacobson taking the runner-up spot after winn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -248,14 +256,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/12/22/11-year-old-deborah-quickpen-nigerian-chess-sensation/",
          "pubDate" : "Fri, 22 Dec 2023 19:39:42",
          "title" : "11-year-old Deborah Quickpen, Nigerian Chess sensation"
-      },
-      {
-         "description" : "In this video course, GM Surya Ganguly joins IM Sagar Shah and drawing from his colossal experience, shares some uncommon endgame wisdom. The material mostly features positions with rook against rook and a pawn, and starts by covering the fundamentals: Lucena, Philidor, and Vancura. But it quickly enters non-trivial territory, likely to challenge even masters: the slippery theoretical nuances of dealing with doubled pawns and pawns on the f- and h-files.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/surya-ganguly-endgame-essentials-you-need-to-know-vol-1-vol-2",
-         "pubDate" : "Fri, 22 Dec 2023 19:00:00",
-         "title" : "Surya Ganguly - Endgame essentials you need to know Vol.1 & Vol 2"
       },
       {
          "description" : "Chess In Slums Africa partnered with Chess.com to reach the goal of raising $50,000 to bring the education and joy of chess to 5,000 children in Africa. With an arena tournament played on Chess.com, and with a powerhouse team of commentators and g...",
@@ -1200,14 +1200,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/some-street-chess-carnage.html",
          "pubDate" : "Tue, 05 Dec 2023 11:51:00",
          "title" : "Some Street Chess carnage"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2784",
-         "pubDate" : "Tue, 05 Dec 2023 07:43:23",
-         "title" : "Proposals for changes to FIDE Ratings Regulations"
       }
    ]
 }
