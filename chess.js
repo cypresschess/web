@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Should there ever be an underrated underdog, it would be Shreyas Royal. In the London Chess Classics, the 14-year-old IM, had to face nine Grandmasters! With his ELO rating of 2404, he had a rating 200-350 lower than all other players. Still, he ended up with 4/9 points, finishing ahead of players like Moussard, Vitiugov, and McShane. Robert Ris shows us the game the young Brit played against Jules Moussard!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/never-underestimate-the-royals-the-underdog",
+         "pubDate" : "Wed, 27 Dec 2023 17:00:00",
+         "title" : "Never underestimate the Royals! - The Underdog"
+      },
+      {
+         "description" : "Alireza Firouzja has not given up. After failing to surpass Wesley So in the ratings list in a series of matches in Chartres, the youngster withdrew from the World Rapid and Blitz Championship and registered to participate in an open tournament in Rouen, France. The tournament is a 7-round Swiss Open, with Gata Kamsky (rated 2634) and Li Min Peng (2562) the second and third seeds, respectively. In the meantime, FIDE published a reviewed tournament registration procedure. | Photo: Europe Echecs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/firouzja-rouen-candidates",
+         "pubDate" : "Wed, 27 Dec 2023 15:15:00",
+         "title" : "Firouzja playing in Rouen, FIDE changes tournament registration procedure"
+      },
+      {
+         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (only 48 hours left!). This is the first sale since August, so take advantage of this rare opportunity. Get...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-5-plan-your-training/",
+         "pubDate" : "Wed, 27 Dec 2023 14:10:25",
+         "title" : "Improve Your Chess in 2024 - Part 5 - Plan Your Training"
+      },
+      {
          "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
          "pubDate" : "Wed, 27 Dec 2023 10:50:00",
          "title" : "World Rapid Championship - Live!"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Yu Yangyi, and Vladimir Fedoseev share first place on 7/9 at the 2023 FIDE World Rapid Chess Championship after Fedoseev missed a golden opportunity to defeat Yu while Carlsen was frustrated to squander winning chances against ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-world-rapid-chess-championship-day-2",
+         "pubDate" : "Wed, 27 Dec 2023 08:02:00",
+         "title" : "Missed Chances Leave Carlsen, Yu, Fedoseev Locked In Title Race"
+      },
+      {
+         "description" : "Titled Tuesdays are our beloved weekly battles where any titled player can face the likes of GM Magnus Carlsen and GM Hikaru Nakamura. Fans tune in without fail to see who will come out on top in these always-thrilling, 11-round blitz tournament...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/titled-cup-titled-tuesdays-just-got-even-more-fierce",
+         "pubDate" : "Wed, 27 Dec 2023 08:00:00",
+         "title" : "New For 2024-The Titled Cup: Titled Tuesdays Just Got Even More Fierce"
       },
       {
          "description" : "Let's say you find an interesting mating motif. Now you want to use it as the final position of a chess problem you will compose. The moves leading to it must be imaginative, clever and not very easy to find. But they must also be unique. There mustn't be alternative sets of move that lead to the final (or any) mate. For amateur composers, here's an example of a fellow amateur making a valid problem out of the position displayed.",
@@ -250,14 +290,6 @@ news_feed (
          "title" : "Has cheating (accusations) gone too far?"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 157th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to talk about the games and the legacy of Paul Keres. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-157-chess-history-in-a-nutshell-39",
-         "pubDate" : "Sun, 24 Dec 2023 15:00:00",
-         "title" : "Understanding before Moving 157: Chess history in a nutshell (39)"
-      },
-      {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -272,14 +304,6 @@ news_feed (
          "link" : "https://www.thearticle.com/russian-exodus-and-a-rising-star/",
          "pubDate" : "Sun, 24 Dec 2023 10:22:05",
          "title" : "Russian exodus - and a rising star"
-      },
-      {
-         "description" : "From a very young age, Rita Atkins has been active in the chess community, achieving notable success in various chess tournaments, reaching the title of Women's International Master (WIM) and winning the Hungarian Women's Chess Championship in 1992. She has also been involved in teaching chess and mathematics to school children and youth. In a lengthy interview with Uvencio Blanco, she remarked: \"Give it another hundred years, and there will be just as many good female players as male ones\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rita-atkins-interview-2023",
-         "pubDate" : "Sun, 24 Dec 2023 10:00:00",
-         "title" : "Rita Atkins: \"Gender stereotypes are changing, but they are changing slowly\""
       },
       {
          "description" : "The 2023 FIDE World Rapid and Blitz Chess Championship takes place from 26-30 December in Samarkand, Uzbekistan. The city where the world's oldest chess pieces have been found (dating from the 6-8 century AD) will more than 350 players from 50 federations who will compete for the world champion rapid and blitz titles. FIDE World Rapid Chess Championship 2023 will be held from 26-28 December with 13 rounds (swiss system) in the Open event, and 11 rounds (swiss system) in the []",
@@ -874,28 +898,12 @@ news_feed (
          "title" : "21 Federations Call For Rule Change To End FIDE President's Term Limit"
       },
       {
-         "description" : "Bullet Brawl&#39;s undisputed king, GM Hikaru Nakamura, secured his 15th title and $1,000 in the latest edition of the tournament, finishing on 260 points with 71 wins, two draws, and eight losses. A 27-game streak, which included wins over chess pers...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-december-16-2023",
-         "pubDate" : "Sat, 16 Dec 2023 16:01:00",
-         "title" : "Nakamura Wins Bullet Brawl With 27-Game Streak"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2803",
          "pubDate" : "Sat, 16 Dec 2023 15:56:38",
          "title" : "Refugee team to make historic debut at 45th Chess Olympiad in Budapest"
-      },
-      {
-         "description" : "Legendary fighting game champion SonicFox is best known for delivering brutal beatdowns in Mortal Kombat, but they&#39;re also a force to be reckoned with over the chess board&#38;mdash;and now they&#39;ve got an official Chess.com bot to prove it! This for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-fighting-game-legend-sonicfox",
-         "pubDate" : "Sat, 16 Dec 2023 14:30:00",
-         "title" : "Play Chess Against Fighting Game Legend SonicFox"
       },
       {
          "description" : " This is a follow up to a question asked in one the comments to a previous post. I'm not sure this is the definitive reason why there is no \"drop for mate\" in Transfer (Bughouse), but at least in my memory, this rule was active in Canberra around 1983. In that year the Australian Junior Chess Championship was held in Canberra, and was organised by Nathan Stirling. On the opening day there was an introductory event, consisting of blitz and transfer. For the transfer we were given the choice of allowing drop for checkmate, or not. IIRC the majority chose to allow 'drop for mate', and that was the rule adopted. I can remember winning at least one game using this method. However in subsequent lo",
@@ -1224,14 +1232,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/december-1973-1998-on-cover.html",
          "pubDate" : "Thu, 07 Dec 2023 16:44:00",
          "title" : "December 1973 & 1998 'On the Cover'"
-      },
-      {
-         "description" : " After yesterdays lesson in targeting the king, a slightly more restrained game, in this case played by myself. In the end my opponent took a few liberty's in the opening (taking both centre pawns gives White too much play), and never quite untangled himself. At move 17 I was planning to play Be3 with the idea of winning the exchange after 18.Nc7, but I realised it was stronger if I reversed the move order. The game ended when my opponent flagged in a losing position. <br /> <b>Press,Shaun - Grcic,Milan [E04]</b><br /> Swiss Festive Fun --- (5), 05.12.2023 <script> new PgnViewer( { boardName: \"game1432\", movesFormat: \"default\", pgnString:'1.d4 d5 2.Nf3 Nf6 3.c4 e6 4.g3 c5 5.Bg2 cxd4 6.O-O dx",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/slightly-less-violent.html",
-         "pubDate" : "Wed, 06 Dec 2023 12:49:00",
-         "title" : "Slightly less violent"
       }
    ]
 }
