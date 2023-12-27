@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Five players ended day 1 of the World Rapid Championship sharing first place with 4&frac12;/5 points. Magnus Carlsen, who assessed his play on the first day as \"so-so\", heads the leading pack, which also includes Yu Yangyi, Vidit Gujrathi, Arjun Erigaisi and Ivan Cheparinov. In the women's section, Zhu Jiner and Nurgyul Salimova are sharing first place with perfect 4/4 scores. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d1",
+         "pubDate" : "Tue, 26 Dec 2023 23:30:00",
+         "title" : "World Rapid: Carlsen among 5-player leading group"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a beginner chess class on attacks and defenses. 2023.12.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacks-defenses-beginner-breakdown-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9qwCEocx03k.jpg?itok=rRfO0N3W\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/attacks-defenses-beginner-breakdown-gm-alex-yermolinsky",
+         "pubDate" : "Tue, 26 Dec 2023 23:28:45",
+         "title" : "Attacks & Defenses | Beginner Breakdown - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes the best games from the first day (Rounds 1-5) of the 2023 World Rapid Chess Championship in Samarkand, Uzbekistan. 2023.12.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/best-world-rapid-championship-rounds-1-5-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q9Qb1G2wDWQ.jpg?itok=MGREbXxH\" alt=\"\" />",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/best-world-rapid-championship-rounds-1-5-grandmasters-choice-gm-alex-yermolinsky",
+         "pubDate" : "Tue, 26 Dec 2023 23:28:45",
+         "title" : "The Best of World Rapid Championship: Rounds 1-5 | Grandmaster's Choice - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky concludes his three-part series on the Nimzo-English. 2023.12.28 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/poor-mans-nimzo-indian-part-3-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SJ6cbF-fOD0.jpg?itok=DzJHV5IS\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/poor-mans-nimzo-indian-part-3-prepare-pro-gm-alex-yermolinsky",
+         "pubDate" : "Tue, 26 Dec 2023 23:28:45",
+         "title" : "The Poor Man's Nimzo-Indian: Part 3 | Prepare Like A Pro - GM Alex Yermolinsky"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2820",
+         "pubDate" : "Tue, 26 Dec 2023 21:04:14",
+         "title" : "Action-packed start to World Rapid Championships in Samarkand"
+      },
+      {
          "description" : "From December 13 to 23, the Kazakhstan Chess Championship took place in Astana. After 13 rounds of play in the open, five players were tied for first place. Following a rapid tiebreak, 15-year-old Aldiyar Ansat emerged victorious. Menawhile, Ksenia Balabaeva obtained outright victory in the 10-player single round-robin. Balabaeva obtained a remarkable 7&frac12;/9 score. | Photos: Kazakhstan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +80,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/that-did-not-start-that-badly.html",
          "pubDate" : "Tue, 26 Dec 2023 11:53:00",
          "title" : "That did not start that badly"
-      },
-      {
-         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
-         "pubDate" : "Tue, 26 Dec 2023 10:50:00",
-         "title" : "World Rapid Championship - Live!"
       },
       {
          "description" : "In the diagram position it is White to move and win. White is a pawn up and has dangerous passed pawns, but the black pieces are active while the white bishop is rather clumsy. Do you see a way for White to let the bishop join the action and win the game?",
@@ -912,30 +944,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/dec/15/chess-adams-wins-in-london-at-52-while-royal-14-aims-for-gm-in-hastings",
          "pubDate" : "Fri, 15 Dec 2023 08:00:23",
          "title" : "Chess: Adams wins in London at 52 while Royal, 14, aims for GM in Hastings"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky continues his three-part series on the Nimzo-English. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/poor-mans-nimzo-indian-part-2-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2tQRDnjketA.jpg?itok=DbwB2hSI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/poor-mans-nimzo-indian-part-2-prepare-pro-gm-alex-yermolinsky",
-         "pubDate" : "Fri, 15 Dec 2023 05:16:45",
-         "title" : "The Poor Man's Nimzo-Indian: Part 2 | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes his own chess games and preparation in the Nimzo-English. 2023.12.14<br /> Alex Yermolinsky vs Alexey Vyzmanavin, White Nights (1984): A17 English, Nimzo-English opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1146502\">https://www.chessgames.com/perl/chessgame?gid=1146502</a><br /> Alex Yermolinsky vs Eduardas Rozentalis, Keres Memorial (1993): A17 English, Nimzo-English opening<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1150997\">https://www.chessgames.com/perl/chessgame?gid=1150997</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/poor-mans-nimzo-indian-part-1-prepare-pro-gm-alex-yermolinsky",
-         "pubDate" : "Fri, 15 Dec 2023 05:16:45",
-         "title" : "The Poor Man's Nimzo-Indian: Part 1 | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky continues his three-part series on the English attack. 2023.12.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/english-attack-part-2-prepare-pro-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2tQRDnjketA.jpg?itok=DbwB2hSI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/english-attack-part-2-prepare-pro-gm-alex-yermolinsky",
-         "pubDate" : "Fri, 15 Dec 2023 02:16:36",
-         "title" : "English Attack: Part 2 | Prepare Like A Pro - GM Alex Yermolinsky"
       },
       {
          "description" : "The European Rapid and Blitz Chess Championship 2023 commenced today in Zagreb, Croatia with the Rapid event. The Opening ceremony took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice President Mr. Alojzije Jankovic, the President of the Croatian Chess Federation Mr. Ivica Brkic, FIDE Vice President Mr. Joran Aulin-Jansson, FIDE Secretary General Mr Lukasz Turlej, representative of the Croatian Government State Secretary of Ministry of Tourism and []",
