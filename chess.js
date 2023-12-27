@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Over a week ago, Africa crowned its Junior champions, with Hamed Wafa (Egypt) and Chahrazed Djeroud (Algeria) earning the continental titles. Thirteen federations sent representatives to Nouakchott, Mauritania, to vie for a place in chess history. Egypt and Algeria have dominated the proceedings in previous years, but several players from other federations were looking for The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/26/wafa-djeroud-win-african-juniors-2023/\">Wafa, Djeroud win African Juniors 2023!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/12/26/wafa-djeroud-win-african-juniors-2023/",
+         "pubDate" : "Wed, 27 Dec 2023 03:32:38",
+         "title" : "Wafa, Djeroud win African Juniors 2023!"
+      },
+      {
          "description" : "Five players ended day 1 of the World Rapid Championship sharing first place with 4&frac12;/5 points. Magnus Carlsen, who assessed his play on the first day as \"so-so\", heads the leading pack, which also includes Yu Yangyi, Vidit Gujrathi, Arjun Erigaisi and Ivan Cheparinov. In the women's section, Zhu Jiner and Nurgyul Salimova are sharing first place with perfect 4/4 scores. | Photo: FIDE / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "World Rapid: Carlsen among 5-player leading group"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a beginner chess class on attacks and defenses. 2023.12.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacks-defenses-beginner-breakdown-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9qwCEocx03k.jpg?itok=rRfO0N3W\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a beginner chess class on attacks and defenses, including double attacks and forks. 2023.12.26<br /> Alex Yermolinsky vs. Kutkov, 1972<br /> Yermolinsky vs. Kulikov, 1972<br /> Yermolinsky vs. Melikov, 1972 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacks-defenses-beginner-breakdown-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumb",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/attacks-defenses-beginner-breakdown-gm-alex-yermolinsky",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Attacks & Defenses | Beginner Breakdown - GM Alex Yermolinsky"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes the best games from the first day (Rounds 1-5) of the 2023 World Rapid Chess Championship in Samarkand, Uzbekistan. 2023.12.26 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/best-world-rapid-championship-rounds-1-5-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q9Qb1G2wDWQ.jpg?itok=MGREbXxH\" alt=\"\" />",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes the best games from the first day (Rounds 1-5) of the 2023 World Rapid Chess Championship in Samarkand, Uzbekistan. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/best-world-rapid-championship-rounds-1-5-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q9Qb1G2wDWQ.jpg?itok=MGREbXxH\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/best-world-rapid-championship-rounds-1-5-grandmasters-choice-gm-alex-yermolinsky",
