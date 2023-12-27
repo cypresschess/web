@@ -10,14 +10,6 @@ news_feed (
          "title" : "Never underestimate the Royals! - The Underdog"
       },
       {
-         "description" : "Alireza Firouzja has not given up. After failing to surpass Wesley So in the ratings list in a series of matches in Chartres, the youngster withdrew from the World Rapid and Blitz Championship and registered to participate in an open tournament in Rouen, France. The tournament is a 7-round Swiss Open, with Gata Kamsky (rated 2634) and Li Min Peng (2562) the second and third seeds, respectively. In the meantime, FIDE published a reviewed tournament registration procedure. | Photo: Europe Echecs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/firouzja-rouen-candidates",
-         "pubDate" : "Wed, 27 Dec 2023 15:15:00",
-         "title" : "Firouzja playing in Rouen, FIDE changes tournament registration procedure"
-      },
-      {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (only 48 hours left!). This is the first sale since August, so take advantage of this rare opportunity. Get...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -32,6 +24,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
          "pubDate" : "Wed, 27 Dec 2023 10:50:00",
          "title" : "World Rapid Championship - Live!"
+      },
+      {
+         "description" : "Alireza Firouzja has not given up. After failing to surpass Wesley So in the ratings list in a series of matches in Chartres, the youngster withdrew from the World Rapid and Blitz Championship and registered to participate in an open tournament in Rouen, France. The tournament is a 7-round Swiss Open, with Gata Kamsky (rated 2634) and Li Min Peng (2562) the second and third seeds, respectively. In the meantime, FIDE published a reviewed tournament registration procedure. | Photo: Europe Echecs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/firouzja-rouen-candidates",
+         "pubDate" : "Wed, 27 Dec 2023 10:45:00",
+         "title" : "Firouzja playing in Rouen, FIDE changes tournament registration procedure"
+      },
+      {
+         "description" : "GM Hikaru Nakamura and GM Matthias Bluebaum were the winners of Titled Tuesday on December 26, the last one of the year 2023. For Nakamura, it wrapped up yet another fabulously successful year of Titled Tuesdays. For Bluebaum, it was his first win...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-bluebaum-win-titled-tuesday-december-26-2023",
+         "pubDate" : "Wed, 27 Dec 2023 09:07:00",
+         "title" : "Nakamura Ends 2023 With Another Win"
       },
       {
          "description" : "GMs Magnus Carlsen, Yu Yangyi, and Vladimir Fedoseev share first place on 7/9 at the 2023 FIDE World Rapid Chess Championship after Fedoseev missed a golden opportunity to defeat Yu while Carlsen was frustrated to squander winning chances against ...",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-final-2023",
          "pubDate" : "Sat, 16 Dec 2023 20:47:00",
          "title" : "Champions Chess Tour Final 2023 - Games and Results"
-      },
-      {
-         "description" : "FIDE could be on the verge of scrapping its presidential term limit and allowing Russian incumbent Arkady Dvorkovich to run for four more years in office. The world chess federation&#39;s current rules&#38;mdash;brought in as an election promise by Dvor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/21-federations-call-for-end-to-fide-presidents-term-limit",
-         "pubDate" : "Sat, 16 Dec 2023 18:12:00",
-         "title" : "21 Federations Call For Rule Change To End FIDE President's Term Limit"
       },
       {
          "description" : "",
