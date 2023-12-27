@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
+         "pubDate" : "Wed, 27 Dec 2023 10:50:00",
+         "title" : "World Rapid Championship - Live!"
+      },
+      {
          "description" : "Let's say you find an interesting mating motif. Now you want to use it as the final position of a chess problem you will compose. The moves leading to it must be imaginative, clever and not very easy to find. But they must also be unique. There mustn't be alternative sets of move that lead to the final (or any) mate. For amateur composers, here's an example of a fellow amateur making a valid problem out of the position displayed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -280,14 +288,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-samarkand/",
          "pubDate" : "Sun, 24 Dec 2023 09:48:43",
          "title" : "FIDE World Rapid and Blitz Chess Championship 2023 starts in Samarkand"
-      },
-      {
-         "description" : "The General Assembly of the United Nations adopted the UN Convention against Corruption (UNCAC) on October 31, 2003 and designated December 9 as the International Anti-Corruption Day. Commemorating the twentieth anniversary, this year's theme for the International Anti-Corruption Day (IACD) was \"UNCAC at 20: Uniting the World Against Corruption\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/checkmate-to-corruption",
-         "pubDate" : "Sat, 23 Dec 2023 22:00:00",
-         "title" : "Checkmate to corruption"
       },
       {
          "description" : "GM Daniel Naroditsky has become the second player, along with GM Hikaru Nakamura, to win 10 or more Bullet Brawl&#39;s after posting a score of 272 in Saturday&#39;s event, 54 points ahead of the second-placed IM Terry Renato and 78 ahead of third, IM Yos...",
@@ -1232,14 +1232,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/slightly-less-violent.html",
          "pubDate" : "Wed, 06 Dec 2023 12:49:00",
          "title" : "Slightly less violent"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2785",
-         "pubDate" : "Wed, 06 Dec 2023 09:17:17",
-         "title" : "Chess for Freedom project among 3rd Annual Anthem Awards Finalists"
       }
    ]
 }
