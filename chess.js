@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Let's say you find an interesting mating motif. Now you want to use it as the final position of a chess problem you will compose. The moves leading to it must be imaginative, clever and not very easy to find. But they must also be unique. There mustn't be alternative sets of move that lead to the final (or any) mate. For amateur composers, here's an example of a fellow amateur making a valid problem out of the position displayed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/composing-chess-problems",
+         "pubDate" : "Wed, 27 Dec 2023 08:00:00",
+         "title" : "Composing chess problems"
+      },
+      {
+         "description" : " Day 2 of the 2023 FIDE World Rapid and Blitz is starting shortly. Day 1 went well (at least from my perspective), with lots of exciting chess, and no major incidents. There were a number of upsets on the first day, with a number of very strong GM's suffering at the hands of some younger talents. Given the faster time limit, it was no surprise that the top boards saw a number of players outside the top 50 take their turn in the spotlight of the top boards. There will be 4 rounds today in both sections, starting at 9pm Canberra time. There has been a lot of effort put into the live coverage of the games, so you are pretty much spoiled for choice when it comes to watching the event. Below is o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapind-and-blitz-starting.html",
+         "pubDate" : "Wed, 27 Dec 2023 07:52:00",
+         "title" : "2023 World Rapind and Blitz - Starting day 2"
+      },
+      {
          "description" : " Over a week ago, Africa crowned its Junior champions, with Hamed Wafa (Egypt) and Chahrazed Djeroud (Algeria) earning the continental titles. Thirteen federations sent representatives to Nouakchott, Mauritania, to vie for a place in chess history. Egypt and Algeria have dominated the proceedings in previous years, but several players from other federations were looking for The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/26/wafa-djeroud-win-african-juniors-2023/\">Wafa, Djeroud win African Juniors 2023!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -272,14 +288,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/checkmate-to-corruption",
          "pubDate" : "Sat, 23 Dec 2023 22:00:00",
          "title" : "Checkmate to corruption"
-      },
-      {
-         "description" : "The Chessable Sunway Sitges Festival took place in the municipality of Sitges, not far from Barcelona, directly on the Mediterranean. The main event, a large open tournament, came to an end on Friday after ten rounds of play with the victory of Abhimanyu Puranik. The 23-year-old Indian grandmaster was the only one of the 329 participants to achieve a score of 8&frac12;/10, leaving a four-player chasing pack half a point behind. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/abhimanyu-puranik-wins-sunway-sitges-2023",
-         "pubDate" : "Sat, 23 Dec 2023 17:30:00",
-         "title" : "Abhimanyu Puranik finishes clear first in Sitges"
       },
       {
          "description" : "GM Daniel Naroditsky has become the second player, along with GM Hikaru Nakamura, to win 10 or more Bullet Brawl&#39;s after posting a score of 272 in Saturday&#39;s event, 54 points ahead of the second-placed IM Terry Renato and 78 ahead of third, IM Yos...",
