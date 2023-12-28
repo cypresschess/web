@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kasparov Chess Foundation Academy is proud to announce stellar events in January 2024, that promise to elevate your chess game to unprecedented heights. Brace yourselves for insightful and strategic wisdom from two of the world's top chess players: Grandmaster Ramesh RB and Grandmaster Alexander Motylev.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/unlocking-chess-brilliance",
+         "pubDate" : "Thu, 28 Dec 2023 16:00:00",
+         "title" : "Unlocking Chess Brilliance"
+      },
+      {
+         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/24-hours-left-improve-your-chess-in-2024-part-6-prepare-for-roadblocks/",
+         "pubDate" : "Thu, 28 Dec 2023 14:04:55",
+         "title" : "(24 hours left) Improve Your Chess in 2024 - Part 6 - Prepare For Roadblocks"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-2.html",
          "pubDate" : "Thu, 28 Dec 2023 09:33:00",
          "title" : "2023 World Rapid and Blitz - Day 2"
+      },
+      {
+         "description" : "GM Magnus Carlsen secured the world rapid chess crown for a record fifth time along with the $60,000 first prize at the 2023 FIDE World Rapid Chess Championship after scoring 3/4 on the final day. Wins over GMs Vladimir Fedoseev and Pouya Idani pu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-world-rapid-chess-championship-day-3-carlsen-wins",
+         "pubDate" : "Thu, 28 Dec 2023 07:57:00",
+         "title" : "Carlsen Wins 5th Rapid World Championship; Bodnaruk Claims 1st"
       },
       {
          "description" : "Problemists love to construct problems in shapes that symbolize something auspicious. The great composer (and World Championship candidate) Pal Benk&ouml; sent us a problem shaped like a candle. Today we bring you two problems shaped like Christmas trees. They are not too hard, which we cannot say about the third problem, which taxes the brain.",
@@ -296,14 +320,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/retrospect-christmas-puzzles",
          "pubDate" : "Mon, 25 Dec 2023 08:00:00",
          "title" : "Retrospect: Twenty years of ChessBase Christmas Puzzles"
-      },
-      {
-         "description" : "Fabiano Caruana continued his 2023 hot streak at the end of November, and after clinching the 2023 GCT Sinquefield Cup, he became the winner of the FIDE Circuit. Given that Caruana already qualified for the Candidates in the World Cup, the second place in the FIDE Circuit (which gives a ticket to the Candidates) is worth its weight in gold. Dommaraju Gukesh, Anish Giri and Arjun Erigaisi will fight for this spot at the FIDE World Rapid and Blitz Championships in Samarkand.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/caruana-wins-fide-circuit-2023",
-         "pubDate" : "Mon, 25 Dec 2023 02:00:00",
-         "title" : "Caruana wins FIDE Circuit, second spot to be decided in Samarkand"
       },
       {
          "description" : "",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-concluded-in-croatia/",
          "pubDate" : "Sun, 17 Dec 2023 08:45:18",
          "title" : "European Rapid and Blitz Chess Championship 2023 concluded in Croatia"
-      },
-      {
-         "description" : "GM Arjun Erigaisi showed his defensive skills in a slightly difficult middlegame position to outwit GM Alexandr Predke later in a long endgame, scoring his maiden win of the event in the third round of the Chennai Grand Masters 2023. Erstwhile joi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-3",
-         "pubDate" : "Sun, 17 Dec 2023 08:35:00",
-         "title" : "Arjun Defeats Predke In Day Of Seesaw Battles"
       },
       {
          "description" : "Please find here live link of Chennai GM Chess Tournament 2023 https://cgm2023.magdisoft.com/live/",
