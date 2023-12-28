@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2821",
+         "pubDate" : "Wed, 27 Dec 2023 20:21:19",
+         "title" : "WRB 2023 Day 2: Carlsen, Yu, and Fedoseev lead Open; Bodnaruk shines in Women's Rapid"
+      },
+      {
          "description" : "Should there ever be an underrated underdog, it would be Shreyas Royal. In the London Chess Classics, the 14-year-old IM, had to face nine Grandmasters! With his ELO rating of 2404, he had a rating 200-350 lower than all other players. Still, he ended up with 4/9 points, finishing ahead of players like Moussard, Vitiugov, and McShane. Robert Ris shows us the game the young Brit played against Jules Moussard!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
