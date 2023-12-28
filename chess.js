@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2822",
+         "pubDate" : "Thu, 28 Dec 2023 11:36:34",
+         "title" : "FIDE President meets with Uzbekistan sport authorities"
+      },
+      {
+         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
+         "pubDate" : "Thu, 28 Dec 2023 10:50:00",
+         "title" : "World Rapid Championship - Live!"
+      },
+      {
+         "description" : " Day 2 once again saw a number of upsets in the Rapid section of the 2023 World Rapid and Blitz. Magnus Carlsen started with another win, before slowing down with draws in the next 3 rounds. This allowed Vladimir Fedoseev and Yangyi Yu to catch him on 7/9. There is now a large pack of 13 players half a point off the lead. One player who bounced back strongly after a slow start was GM Anton Smirnov. After score 1.5/5 on day 1, he reeled of 3 straight wins and a round 9 draw to end day 2 on 5 points. New Zealand representative Felix Xie would also be pleased with his second day results, scoring 2/4 to move up to 2.5/9. Today is the final day of the Rapid, with 4 rounds to be played. In the cas",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-2.html",
+         "pubDate" : "Thu, 28 Dec 2023 09:33:00",
+         "title" : "2023 World Rapid and Blitz - Day 2"
+      },
+      {
          "description" : "Problemists love to construct problems in shapes that symbolize something auspicious. The great composer (and World Championship candidate) Pal Benk&ouml; sent us a problem shaped like a candle. Today we bring you two problems shaped like Christmas trees. They are not too hard, which we cannot say about the third problem, which taxes the brain.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-made-rapid-progress-in-2023/articleshow/106342767.cms",
          "pubDate" : "Thu, 28 Dec 2023 06:59:34",
          "title" : "Indian chess made rapid progress in 2023"
+      },
+      {
+         "description" : "Magnus Carlsen, Vladimir Fedoseev and Yu Yangyi are sharing the lead in the open section of the World Rapid Championship after nine rounds. Carlsen and Fedoseev could have gone into the third and final day of action a half point ahead of Yu had them converted superior endgame positions in round 9. In the women's tournament, Anastasia Bodnaruk climbed to sole first place after scoring 3&frac12;/4 points on Wednesday. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d2",
+         "pubDate" : "Thu, 28 Dec 2023 06:50:00",
+         "title" : "World Rapid: Carlsen, Fedoseev and Yu co-leaders"
       },
       {
          "description" : "",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-5-plan-your-training/",
          "pubDate" : "Wed, 27 Dec 2023 14:10:25",
          "title" : "Improve Your Chess in 2024 - Part 5 - Plan Your Training"
-      },
-      {
-         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
-         "pubDate" : "Wed, 27 Dec 2023 10:50:00",
-         "title" : "World Rapid Championship - Live!"
       },
       {
          "description" : "Alireza Firouzja has not given up. After failing to surpass Wesley So in the ratings list in a series of matches in Chartres, the youngster withdrew from the World Rapid and Blitz Championship and registered to participate in an open tournament in Rouen, France. The tournament is a 7-round Swiss Open, with Gata Kamsky (rated 2634) and Li Min Peng (2562) the second and third seeds, respectively. In the meantime, FIDE published a reviewed tournament registration procedure. | Photo: Europe Echecs",
@@ -288,14 +312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2817",
          "pubDate" : "Sun, 24 Dec 2023 19:30:20",
          "title" : "Kazakhstani Championship 2023: Ansat and Balabayeva win maiden titles"
-      },
-      {
-         "description" : "ChessBase wishes all chess friends a Merry Christmas and peaceful and happy holidays! Stay healthy. For the holidays we have also prepared a small tutorial on the intricacies of password management. | Photo: Pixabay.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/merry-christmas-4",
-         "pubDate" : "Sun, 24 Dec 2023 19:00:00",
-         "title" : "Merry Christmas!"
       },
       {
          "description" : "All booms eventually run their course. Once covid confinement and the Netflix series have been forgotten, what to do with that wooden chess set gathering dust in the closet? <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/Q6_-Za8vMWM?si=fJ-YeuJ70Se2VqJQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Turning a Chess Board into Wall Hooks</B> (1:00) &#149; '[Published on] Dec 6, 2023' <P> And on that melancholy note we close the book on the long-running series that started with <A HREF=\"https://chessforallages.blogspot.com/2016/11/t",
