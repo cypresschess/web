@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yet another stunning performance, yet another title! Magnus Carlsen scored 10/13 points throughout three days of play to grab his fifth World Rapid Championship title in Samarkand. The Norwegian obtained two wins in a row at the start of day 3 and managed to win the tournament outright with draws in the final two rounds. In the women's tournament, Anastasia Bodnaruk beat Humpy Koneru in a blitz playoff to claim the title. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d3",
+         "pubDate" : "Thu, 28 Dec 2023 21:15:00",
+         "title" : "Magnus Carlsen wins fifth World Rapid Championship title!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2823",
          "pubDate" : "Thu, 28 Dec 2023 16:52:20",
-         "title" : "FIDE World Rapid Championships 2023: Carlsen and Bodnaruk win titles"
+         "title" : "Magnus Carlsen does it again: Fifth World Rapid Chess Championship title for the Norwegian"
       },
       {
          "description" : "Kasparov Chess Foundation Academy is proud to announce stellar events in January 2024, that promise to elevate your chess game to unprecedented heights. Brace yourselves for insightful and strategic wisdom from two of the world's top chess players: Grandmaster Ramesh RB and Grandmaster Alexander Motylev.",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2822",
          "pubDate" : "Thu, 28 Dec 2023 11:36:34",
          "title" : "FIDE President meets with Uzbekistan sport authorities"
-      },
-      {
-         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
-         "pubDate" : "Thu, 28 Dec 2023 10:50:00",
-         "title" : "World Rapid Championship - Live!"
       },
       {
          "description" : " Day 2 once again saw a number of upsets in the Rapid section of the 2023 World Rapid and Blitz. Magnus Carlsen started with another win, before slowing down with draws in the next 3 rounds. This allowed Vladimir Fedoseev and Yangyi Yu to catch him on 7/9. There is now a large pack of 13 players half a point off the lead. One player who bounced back strongly after a slow start was GM Anton Smirnov. After score 1.5/5 on day 1, he reeled of 3 straight wins and a round 9 draw to end day 2 on 5 points. New Zealand representative Felix Xie would also be pleased with his second day results, scoring 2/4 to move up to 2.5/9. Today is the final day of the Rapid, with 4 rounds to be played. In the cas",
@@ -1264,14 +1264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/just-right-amount.html",
          "pubDate" : "Thu, 07 Dec 2023 21:08:00",
          "title" : "Just the right amount"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2786",
-         "pubDate" : "Thu, 07 Dec 2023 18:49:56",
-         "title" : "FIDE President takes part in Advanced Tomorrow Singapore Summit 2023"
       }
    ]
 }
