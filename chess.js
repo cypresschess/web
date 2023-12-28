@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Problemists love to construct problems in shapes that symbolize something auspicious. The great composer (and World Championship candidate) Pal Benk&ouml; sent us a problem shaped like a candle. Today we bring you two problems shaped like Christmas trees. They are not too hard, which we cannot say about the third problem, which taxes the brain.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-christmassy-delight",
+         "pubDate" : "Thu, 28 Dec 2023 07:00:00",
+         "title" : "A Christmassy Delight"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106342767.cms\" />The momentum that began with the Chess Olympiad 2022 has indeed yielded positive results, as India has now established a strong presence in World Chess. While chess has consistently held a prominent position in government initiatives due to India's success in global age-group events, the significant impact of private sponsorship and the involvement of accomplished individuals in the development programme has become truly evident only recently. Vishy Anand has played a pivotal role in catalyzing this progress.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-made-rapid-progress-in-2023/articleshow/106342767.cms",
+         "pubDate" : "Thu, 28 Dec 2023 06:59:34",
+         "title" : "Indian chess made rapid progress in 2023"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -288,14 +304,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/dont-burn-it.html",
          "pubDate" : "Sun, 24 Dec 2023 16:18:00",
          "title" : "Don't Burn It"
-      },
-      {
-         "description" : "Bodhana Sivanandan is not only making headlines in England. The 8-year-old took part in the European Rapid and Blitz Chess Championships in Zagreb and was the best female participant in the blitz tournament with 8&frac12;/13 points! | Photo: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-european-rapid-2023",
-         "pubDate" : "Sun, 24 Dec 2023 16:15:00",
-         "title" : "An 8-year-old astonishes the chess world in Zagreb"
       },
       {
          "description" : " Cheating has remained in the chess headlines since the Carlsen-Niemann controversy in September 2022. In the past two years, chess has continued to grab international headlines. This is not because of the new World Champion, Ding Liren, or all the rising young players gracing the scene. It is not because of the increasing popularity of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/\">Has cheating (accusations) gone too far?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
