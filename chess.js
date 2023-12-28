@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2823",
+         "pubDate" : "Thu, 28 Dec 2023 16:52:20",
+         "title" : "FIDE World Rapid Championships 2023: Carlsen and Bodnaruk win titles"
+      },
+      {
          "description" : "Kasparov Chess Foundation Academy is proud to announce stellar events in January 2024, that promise to elevate your chess game to unprecedented heights. Brace yourselves for insightful and strategic wisdom from two of the world's top chess players: Grandmaster Ramesh RB and Grandmaster Alexander Motylev.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-2.html",
          "pubDate" : "Thu, 28 Dec 2023 09:33:00",
          "title" : "2023 World Rapid and Blitz - Day 2"
+      },
+      {
+         "description" : "Here comes another Puzzle Week on Chess.com! In 2024 we are celebrating it the week of January 8 with Chess Played Quick and other puzzle-themed streamer events, culminating with the $25,000 Puzzles World Championship on January 11-12. One of Ches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-puzzle-week-2024",
+         "pubDate" : "Thu, 28 Dec 2023 08:27:38",
+         "title" : "Puzzle Week Returns For 2024"
       },
       {
          "description" : "GM Magnus Carlsen secured the world rapid chess crown for a record fifth time along with the $60,000 first prize at the 2023 FIDE World Rapid Chess Championship after scoring 3/4 on the final day. Wins over GMs Vladimir Fedoseev and Pouya Idani pu...",
@@ -906,14 +922,6 @@ news_feed (
          "title" : "European Rapid and Blitz Championship 2023: Sarana and Navara win titles "
       },
       {
-         "description" : "British chess prodigy WCM Bodhana Sivanandan continues her remarkable chess journey with a sensational result in the European Blitz Championship where she won the prize for the best woman player. In late October, the eight-year-old prodigy made ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/british-chess-prodigy-bodhana-sivanandan",
-         "pubDate" : "Sun, 17 Dec 2023 09:40:00",
-         "title" : "8-Year-Old British Sensation Stuns Chess World In Euro Blitz"
-      },
-      {
          "description" : "The 2023 European Rapid and Blitz Chess Championships concluded yesterday in Zagreb, Croatia. The event was played from 14-16 December, with the participation of nearly 700 players coming from 41 European federations. The first event on the schedule was the European Rapid Chess Championship 2023 which took place on 14-15 December with more than 450 players. The event was played in 11 rounds, swiss system, and the last round determined the Winner and the medalists. Heading into the final round []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2786",
          "pubDate" : "Thu, 07 Dec 2023 18:49:56",
          "title" : "FIDE President takes part in Advanced Tomorrow Singapore Summit 2023"
-      },
-      {
-         "description" : "Last month's post about U.S. chess magazines 50 and 25 years ago, <A HREF=\"https://chessforallages.blogspot.com/2023/11/november-1973-1998-on-cover.html\">November 1973 & 1998 'On the Cover'</A> (November 2023), had an arty portrait on the right. This month's post has a different sort of art. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl07.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> 'The World's Top 60; FIDE Annual Rating List; Reflects all performances through July 1, 1973'<BR> <B>Right:</B> '\"No Cheating\", James Todd, 1998' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Professor Elo's latest calculations. See [inside] for the complete list. </BLOCKQUO",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/december-1973-1998-on-cover.html",
-         "pubDate" : "Thu, 07 Dec 2023 16:44:00",
-         "title" : "December 1973 & 1998 'On the Cover'"
       }
    ]
 }
