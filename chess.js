@@ -10,6 +10,14 @@ news_feed (
          "title" : "15th Rouen Open 2023 - Games and Results"
       },
       {
+         "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title fo r the 33-year-old Norwegian, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carl",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world-rapid-champion-again-and-targets-blitz",
+         "pubDate" : "Fri, 29 Dec 2023 18:43:23",
+         "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
+      },
+      {
          "description" : "Karsten M&uuml;ller is both an endgame expert and a major enthusiast of the final phases of a chess battle. Here he presents the 10 top endgames of the year, a selection of the most interesting and substantial positions seen on the board throughout 2023!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-7-believe-in-yourself/",
          "pubDate" : "Fri, 29 Dec 2023 14:03:43",
          "title" : "Improve Your Chess in 2024 - Part 7 - Believe in Yourself"
-      },
-      {
-         "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title for the Norwegian, 33, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world-rapid-champion-again-and-targets-blitz",
-         "pubDate" : "Fri, 29 Dec 2023 14:00:42",
-         "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
       },
       {
          "description" : " The World Rapid and Blitz Championships take place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc. In the rapid Magnus Carlsen won his 5th title. In the women's Anastasia Bodnaruk beat Humpy Koneru in a blitz tie-break match to take the title. I was taken by surprise by the return of tie-break matches. Reading the version ",
@@ -1272,14 +1272,6 @@ news_feed (
          "link" : "https://www.thearticle.com/we-play-the-game-of-war/",
          "pubDate" : "Sat, 09 Dec 2023 11:18:50",
          "title" : "We play the game of war"
-      },
-      {
-         "description" : " The eight-time British champion was close to defeat in round six, but stayed half a point ahead of his Indian and Iranian rivals going into the final two rounds With two rounds of nine to go this weekend in the London Classic, the eight-time British champion Michael Adams, 52, leads the top-seeded Indian Dommaraju Gukesh, 17, and Iran's Amin Tabatabaei, 22, by half a point. Leaders after round seven were Adams (England) 5, Gukesh (India) and Tabatabaei (Iran) 4.5, Mateusz Bartel (Poland) 4. <a href=\"https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape",
-         "pubDate" : "Fri, 08 Dec 2023 20:21:02",
-         "title" : "Chess: Michael Adams still leads with two rounds left in London Classic"
       }
    ]
 }
