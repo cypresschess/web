@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title for the Norwegian, 33, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world-rapid-champion-again-and-targets-blitz",
+         "pubDate" : "Fri, 29 Dec 2023 08:00:03",
+         "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
+      },
+      {
+         "description" : "Today we provide you with a master-level lesson. Leonid Ivanovich Kubbel, born in 1891 in St. Petersburg, Russia, was one of the greatest composers in chess history. One of the greatest composers of our time was GM Pal Benk&ouml;, born in 1928, died in 2019. The latter shows us how he improved on one of the most famous studies of all time, composed by the former.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/benko-improves-on-kubbel",
+         "pubDate" : "Fri, 29 Dec 2023 08:00:00",
+         "title" : "Benko improves on Kubbel"
+      },
+      {
+         "description" : " Magnus Carlsen emerged as the winner of the 2023 World Rapid Championship, after 13 rounds of very tough play. His last day could be described as an exercise in tournament management, as he started with 2 wins (including beating his closest rival Vladimir Fedoseev) before finishing with 2 draws. With the final round games on the top boards also being drawn, he finished on 10/13, half a point ahead of Fedoseev. Behind the top two were 12 players on 9 points, with Yangyi Yu finishing with the Bronze Medal on tie-break. The Women's Rapid saw a three way tie at the top, which necessitated a playoff match between the top two finishers on tie-break. After the initial 2 games, Anastasia Bodnaruk a",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-3.html",
+         "pubDate" : "Fri, 29 Dec 2023 07:15:00",
+         "title" : "2023 World Rapid and Blitz - Day 3"
+      },
+      {
          "description" : " The 15th Rouen Open takes place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja plays in this 7 round Swiss in a final, final attempt to qualify for the Candidates. FIDE probably won't rate the Chartres matches, and I have at least some sympathy with that position but surely it comes down to the rules, then the whole thing will probably go to the courts. Rouen is different to Chartres and will in my view be rated, this is a regular Swiss, Firouzja knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky and now faces fellow Iranian expat IM Kamran Shirazi who was a hero from my chess youth. Shirazi has l",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -296,14 +320,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapind-and-blitz-starts-today.html",
          "pubDate" : "Mon, 25 Dec 2023 19:04:00",
          "title" : "2023 World Rapid and Blitz - starts today"
-      },
-      {
-         "description" : "\"The Queens Gambit\" has been one of the most successful series in recent years, and now chess has also made it onto the bestseller book lists. Thanks to author Ali Hazelwood and her book \"Check & Mate\", a modern romantic fairytale set in the world of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-chess-fairytale-check-mate-ali-hazelwood-s-check-mate",
-         "pubDate" : "Mon, 25 Dec 2023 18:00:00",
-         "title" : "A chess fairytale: Ali Hazelwood's novel \"Check & Mate\""
       },
       {
          "description" : "",
