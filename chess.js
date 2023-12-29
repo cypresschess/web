@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 15th Rouen Open takes place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja plays in this 7 round Swiss in a final, final attempt to qualify for the Candidates. FIDE probably won't rate the Chartres matches, and I have at least some sympathy with that position but surely it comes down to the rules, then the whole thing will probably go to the courts. Rouen is different to Chartres and will in my view be rated, this is a regular Swiss, Firouzja knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky and now faces fellow Iranian expat IM Kamran Shirazi who was a hero from my chess youth. Shirazi has l",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/15th-rouen-open-2023",
+         "pubDate" : "Thu, 28 Dec 2023 23:31:00",
+         "title" : "15th Rouen Open 2023 - Games and Results"
+      },
+      {
          "description" : "Yet another stunning performance, yet another title! Magnus Carlsen scored 10/13 points throughout three days of play to grab his fifth World Rapid Championship title in Samarkand. The Norwegian obtained two wins in a row at the start of day 3 and managed to win the tournament outright with draws in the final two rounds. In the women's tournament, Anastasia Bodnaruk beat Humpy Koneru in a blitz playoff to claim the title. | Photo: FIDE / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/adult-improvers-why-gm-openings-might-not-suit-you/",
          "pubDate" : "Fri, 08 Dec 2023 14:00:25",
          "title" : "Adult Improvers: Why GM Openings Might Not Suit You"
-      },
-      {
-         "description" : " After a game involving direct sacrifices, and a game which was more restrained, this game lands somewhere in the middle. It does involve an attack on the king, with a piece sacrifice, but the offer of a piece was more to distract White from the best defence, rather than the overrun the White position. And unlike the other 2 games, play wasn't the best for either side, with stronger moves being available at various points. <br /> <b>Horikawa,Keisuke - Press,Shaun [C56]</b><br /> Swiss Festive Fun --- (4), 28.11.2023 <script> new PgnViewer( { boardName: \"game1433\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Bc4 Nf6 3.d4 exd4 4.Nf3 Nc6 5.e5 d5 6.Bb5 Ne4 7.O-O Bc5 8.Nxd4 Bd7 9.Nxc6 bxc6 10.Bd",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/just-right-amount.html",
-         "pubDate" : "Thu, 07 Dec 2023 21:08:00",
-         "title" : "Just the right amount"
       }
    ]
 }
