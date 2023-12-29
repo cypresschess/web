@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
+         "pubDate" : "Fri, 29 Dec 2023 10:50:00",
+         "title" : "World Blitz Championship - Live!"
+      },
+      {
+         "description" : "36 analyses from the Grand Swiss 2023: the champions Vaishali and Vidit comment on their best games as well as Abdusattorov, Deac, Erigaisi, Giri, L'Ami, Mendonca, A. and M. Muzychuk, Praggnanandhaa, Saric and others - Strategy special by Mihail Marin: Richard Rapport between originality and classicism - Creeping poison: Patrick Zelbel sheds light on the current 1. e4 c6 2.Nf3 d5 3.Nc3 Bg4 4.d4!? in the Caro-Kann Two Knights Game - \"Fundamental Endgame Knowledge\" part #7: Karsten Mueller shows how to play pawn endgames with pawns on both wings - Surprise in the Scottish Four Knights Game: Rustam Kasimdzhanov analyses the increasingly popular 5...Nxe4!? (Video) and much more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-217",
+         "pubDate" : "Fri, 29 Dec 2023 10:00:00",
+         "title" : "New: ChessBase Magazine #217"
+      },
+      {
          "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title for the Norwegian, 33, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -282,14 +298,6 @@ news_feed (
          "title" : "That did not start that badly"
       },
       {
-         "description" : "In the diagram position it is White to move and win. White is a pawn up and has dangerous passed pawns, but the black pieces are active while the white bishop is rather clumsy. Do you see a way for White to let the bishop join the action and win the game?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-misses-a-chance-2",
-         "pubDate" : "Tue, 26 Dec 2023 09:00:00",
-         "title" : "Invite your bishop to the party"
-      },
-      {
          "description" : "GM Magnus Carlsen&#39;s title defense is alive and well after the first day of play at the 2023 FIDE World Rapid Chess Championship when the Norweigian favorite scored 4.5/5. Carlsen is joined by GMs Arjun Erigaisi, Yu Yangyi, Vidit Gujrathi, and Ivan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -304,14 +312,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anirudh-in-boden-s-den",
          "pubDate" : "Tue, 26 Dec 2023 08:00:00",
          "title" : "Anirudh: In Boden's Den"
-      },
-      {
-         "description" : "Frank James Marshall and Dawid Janowski are two very memorable figures of chess history. Both were outstanding competitors who became title contenders. They are remembered as two of the finest attacking players from the late 19th to the early 20th century.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frank-james-marshall-vs-dawid-janowski-a-rivalry-of-two-decades",
-         "pubDate" : "Mon, 25 Dec 2023 23:15:00",
-         "title" : "Frank James Marshall vs. Dawid Janowski: A rivalry of two decades"
       },
       {
          "description" : " I've arrived in Samarkand for the 2023 World Rapid and Blitz, but there has been very little time for me to post an update. I spent around 36 hours traveling (mainly due to long lay overs between connections), before catching a few hours sleep on my arrival. The it was straight into the work of preparing for the tournament, which starts on the 26th. As with all these events, the first major task is seeing who has/hasn't arrived. With 320+ players across both sections, there is always a chance that some players do not make it. In some cases it is visa issues, while in at least one case, trying to by tickets at the last minute failed due to no seats left on the planes. So while the expected f",
