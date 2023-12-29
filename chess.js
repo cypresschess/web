@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 15th Rouen Open took place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja played in this 7 round Swiss in a final, final attempt to qualify for the Candidates. FIDE probably won't rate the Chartres matches, and I have at least some sympathy with that position, but surely it comes down to the regulations, then whatever FIDE decides the whole thing will probably go to the courts. Rouen is different to Chartres and will in my view be rated, this is a regular scheduled Swiss, Firouzja knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky. He then beat fellow Iranian expat IM Kamran Shirazi in the fin",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/15th-rouen-open-2023",
+         "pubDate" : "Fri, 29 Dec 2023 23:31:00",
+         "title" : "15th Rouen Open 2023 - Games and Results"
+      },
+      {
+         "description" : "In his new Game of the Week show, Merin van Delft analyses one of the wins that gave Magnus Carlsen his fifth World Rapid Championship title, an interesting battle against blindfold-chess expert Timur Gareyev. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-600-carlsen-gareyev",
+         "pubDate" : "Fri, 29 Dec 2023 17:00:00",
+         "title" : "Game of the Week #600: M. Carlsen vs T. Gareyev"
+      },
+      {
+         "description" : "Happy Holidays! This is the last part of my 7-day Newsletter series to prepare you for a successful 2024. If you want to check out the previous ones, here they are: Get Rid of Your Old Habits​ Adjust Your Mindset​ Get Comfortable With Discomfort​ Train Smart​ Plan Your Training​ Prepare For Roadblocks​ Throughout this series, you had the chance to get my course Next Level Training 30% off. As we all live in different time zones and some of you are sleeping when this email goes out, the 30%...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-7-believe-in-yourself/",
+         "pubDate" : "Fri, 29 Dec 2023 14:03:43",
+         "title" : "Improve Your Chess in 2024 - Part 7 - Believe in Yourself"
+      },
+      {
+         "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title for the Norwegian, 33, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world-rapid-champion-again-and-targets-blitz",
+         "pubDate" : "Fri, 29 Dec 2023 14:00:42",
+         "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
+      },
+      {
+         "description" : " The World Rapid and Blitz Championships take place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc. In the rapid Magnus Carlsen won his 5th title. In the women's Anastasia Bodnaruk beat Humpy Koneru in a blitz tie-break match to take the title. I was taken by surprise by the return of tie-break matches. Reading the version ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2023",
+         "pubDate" : "Fri, 29 Dec 2023 11:38:00",
+         "title" : "World Rapid and Blitz Championships 2023 - Games and Results"
+      },
+      {
          "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +58,6 @@ news_feed (
          "title" : "New: ChessBase Magazine #217"
       },
       {
-         "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title for the Norwegian, 33, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world-rapid-champion-again-and-targets-blitz",
-         "pubDate" : "Fri, 29 Dec 2023 08:00:03",
-         "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
-      },
-      {
          "description" : "Today we provide you with a master-level lesson. Leonid Ivanovich Kubbel, born in 1891 in St. Petersburg, Russia, was one of the greatest composers in chess history. One of the greatest composers of our time was GM Pal Benk&ouml;, born in 1928, died in 2019. The latter shows us how he improved on one of the most famous studies of all time, composed by the former.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-3.html",
          "pubDate" : "Fri, 29 Dec 2023 07:15:00",
          "title" : "2023 World Rapid and Blitz - Day 3"
-      },
-      {
-         "description" : " The 15th Rouen Open takes place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja plays in this 7 round Swiss in a final, final attempt to qualify for the Candidates. FIDE probably won't rate the Chartres matches, and I have at least some sympathy with that position but surely it comes down to the rules, then the whole thing will probably go to the courts. Rouen is different to Chartres and will in my view be rated, this is a regular Swiss, Firouzja knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky and now faces fellow Iranian expat IM Kamran Shirazi who was a hero from my chess youth. Shirazi has l",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/15th-rouen-open-2023",
-         "pubDate" : "Thu, 28 Dec 2023 23:31:00",
-         "title" : "15th Rouen Open 2023 - Games and Results"
       },
       {
          "description" : "Yet another stunning performance, yet another title! Magnus Carlsen scored 10/13 points throughout three days of play to grab his fifth World Rapid Championship title in Samarkand. The Norwegian obtained two wins in a row at the start of day 3 and managed to win the tournament outright with draws in the final two rounds. In the women's tournament, Anastasia Bodnaruk beat Humpy Koneru in a blitz playoff to claim the title. | Photo: FIDE / Lennart Ootes",
@@ -160,14 +184,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-5-plan-your-training/",
          "pubDate" : "Wed, 27 Dec 2023 14:10:25",
          "title" : "Improve Your Chess in 2024 - Part 5 - Plan Your Training"
-      },
-      {
-         "description" : "Alireza Firouzja has not given up. After failing to surpass Wesley So in the ratings list in a series of matches in Chartres, the youngster withdrew from the World Rapid and Blitz Championship and registered to participate in an open tournament in Rouen, France. The tournament is a 7-round Swiss Open, with Gata Kamsky (rated 2634) and Li Min Peng (2562) the second and third seeds, respectively. In the meantime, FIDE published a reviewed tournament registration procedure. | Photo: Europe Echecs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/firouzja-rouen-candidates",
-         "pubDate" : "Wed, 27 Dec 2023 10:45:00",
-         "title" : "Firouzja playing in Rouen, FIDE changes tournament registration procedure"
       },
       {
          "description" : "GM Hikaru Nakamura and GM Matthias Bluebaum were the winners of Titled Tuesday on December 26, the last one of the year 2023. For Nakamura, it wrapped up yet another fabulously successful year of Titled Tuesdays. For Bluebaum, it was his first win...",
@@ -328,14 +344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2819",
          "pubDate" : "Mon, 25 Dec 2023 17:14:01",
          "title" : "Uzbekistan's chess renaissance: 2023 World Rapid and Blitz Championships officially opened in Samarkand"
-      },
-      {
-         "description" : " The World Rapid and Blitz Championships take place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2023",
-         "pubDate" : "Mon, 25 Dec 2023 11:38:00",
-         "title" : "World Rapid and Blitz Championships 2023 - Games and Results"
       },
       {
          "description" : "Merry Christmas to one and all! Last year's Christmas post was <A HREF=\"https://chessforallages.blogspot.com/2022/12/not-dickens-christmas-story.html\">Not the Dickens Christmas Story</A> (December 2022). This year Christmas falls on a Monday, which happens to coincide with a new series last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/12/chessman-comics.html\">Chessman Comics</A> (December 2023). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl25.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Santa Claus plays chess with foxes.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> For more chess-playing foxes, see <A HREF=\"http://chess960frc.blogspot.com/2",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/dec/08/chess-englands-michael-adams-52-leads-london-classic-after-lucky-escape",
          "pubDate" : "Fri, 08 Dec 2023 20:21:02",
          "title" : "Chess: Michael Adams still leads with two rounds left in London Classic"
-      },
-      {
-         "description" : "A 1750-rated reader recently told me: A small comment to my GM Coach about not fully understanding the French turned into 13 Training sessions on every detail in the French opening, 95% of which I never saw and will probably never see.\" In a World of Abundance, more is not always better. With Limited time, your Goal should be \"Less but Better.\" This is a common appearance in Chess nowadays: a stronger player teaches a weaker player way too many lines about an opening. In this Newsletter, I...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/adult-improvers-why-gm-openings-might-not-suit-you/",
-         "pubDate" : "Fri, 08 Dec 2023 14:00:25",
-         "title" : "Adult Improvers: Why GM Openings Might Not Suit You"
       }
    ]
 }
