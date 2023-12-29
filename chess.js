@@ -10,6 +10,14 @@ news_feed (
          "title" : "15th Rouen Open 2023 - Games and Results"
       },
       {
+         "description" : "Karsten M&uuml;ller is both an endgame expert and a major enthusiast of the final phases of a chess battle. Here he presents the 10 top endgames of the year, a selection of the most interesting and substantial positions seen on the board throughout 2023!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-10-endgames-2023",
+         "pubDate" : "Fri, 29 Dec 2023 18:00:00",
+         "title" : "The top 10 endgames of 2023!"
+      },
+      {
          "description" : "In his new Game of the Week show, Merin van Delft analyses one of the wins that gave Magnus Carlsen his fifth World Rapid Championship title, an interesting battle against blindfold-chess expert Timur Gareyev. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-217",
          "pubDate" : "Fri, 29 Dec 2023 10:00:00",
          "title" : "New: ChessBase Magazine #217"
+      },
+      {
+         "description" : "GMs Daniil Dubov, Vladislav Artemiev, Magnus Carlsen, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Nihal Sarin, Arjun Erigaisi, and Alexander Riazantsev scored nine points apiece to share the lead with nine points at the end of day one of the 2023 ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-world-blitz-chess-championship-day-1",
+         "pubDate" : "Fri, 29 Dec 2023 09:54:00",
+         "title" : "Carlsen In 8-Strong Leading Pack; Gunina Dazzles With 8.5/9"
       },
       {
          "description" : "Today we provide you with a master-level lesson. Leonid Ivanovich Kubbel, born in 1891 in St. Petersburg, Russia, was one of the greatest composers in chess history. One of the greatest composers of our time was GM Pal Benk&ouml;, born in 1928, died in 2019. The latter shows us how he improved on one of the most famous studies of all time, composed by the former.",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-made-rapid-progress-in-2023/articleshow/106342767.cms",
          "pubDate" : "Thu, 28 Dec 2023 06:59:34",
          "title" : "Indian chess made rapid progress in 2023"
-      },
-      {
-         "description" : "Magnus Carlsen, Vladimir Fedoseev and Yu Yangyi are sharing the lead in the open section of the World Rapid Championship after nine rounds. Carlsen and Fedoseev could have gone into the third and final day of action a half point ahead of Yu had them converted superior endgame positions in round 9. In the women's tournament, Anastasia Bodnaruk climbed to sole first place after scoring 3&frac12;/4 points on Wednesday. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d2",
-         "pubDate" : "Thu, 28 Dec 2023 06:50:00",
-         "title" : "World Rapid: Carlsen, Fedoseev and Yu co-leaders"
       },
       {
          "description" : "",
@@ -928,14 +936,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/alice-again.html",
          "pubDate" : "Sun, 17 Dec 2023 16:18:00",
          "title" : "Alice++ Again"
-      },
-      {
-         "description" : "The World Chess Federation (FIDE) has approved a controversial motion to scrap presidential term limits leaving Arkady Dvorkovich, a former deputy prime minister of Russia, free to run for a third term in 2026. Delegates from 108 national federa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dvorkovich-gets-green-light-to-run-again-as-fide-formally-scraps-term-limits",
-         "pubDate" : "Sun, 17 Dec 2023 13:50:25",
-         "title" : "Dvorkovich Gets Green Light To Run Again As FIDE Formally Scraps Term Limits"
       },
       {
          "description" : "",
