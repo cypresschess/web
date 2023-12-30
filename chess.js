@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2825",
+         "pubDate" : "Sat, 30 Dec 2023 15:43:23",
+         "title" : "2023 World Blitz Chess Champions: Magnus Carlsen and Valentina Gunina"
+      },
+      {
+         "description" : " The World Rapid and Blitz Championships took place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc. In the rapid Magnus Carlsen won his 5th title. In the women's Anastasia Bodnaruk beat Humpy Koneru in a blitz tie-break match to take the title. I was taken by surprise by the return of tie-break matches. Reading the version ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2023",
+         "pubDate" : "Sat, 30 Dec 2023 13:56:00",
+         "title" : "World Rapid and Blitz Championships 2023 - Games and Results"
+      },
+      {
          "description" : " Day 4 of the 2023 World Rapid and Blitz turned out to be pretty wild. The big news story was the game between Nepomniachtchi and Dubov in Round 13. They agreed to a draw after dancing their knights around the board for 12 moves, reaching the starting position (with the knights have swapped starting squares). The Fairplay team immediately alerted the Chief Arbiter, who scored the game 0-0. An appeal was lodged, but at 2:15 am it was rejected. There was another appeal earlier in the tournament, around whether a clock was pressed, or whether it was faulty. This took an hour to resolve, throwing out the schedule considerably. And finally there was a technical issue with the pairings in the late",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-puzzles-fun-to-solve",
          "pubDate" : "Sat, 30 Dec 2023 08:00:00",
          "title" : "Christmas puzzles, fun to solve"
+      },
+      {
+         "description" : "GM Magnus Carlsen scored six consecutive wins in rounds 14-19 setting the tone of the second and final day at the 2023 FIDE World Blitz Chess Championship. It helped him capture the lead and win his seventh title after draws in the final two round...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-fide-world-blitz-chess-championship-day-2",
+         "pubDate" : "Sat, 30 Dec 2023 06:26:00",
+         "title" : "6-Win Streak Helps Carlsen To Take 7th Title; Gunina Pips Kosteniuk To The Post"
       },
       {
          "description" : "There was no shortage of controversy on day 1 of the World Blitz Championships in Samarkand. A dispute regarding an alleged clock malfunction delayed the start of round 7 by close to an hour, while a 13-move draw - featuring only knight moves - between Daniil Dubov and Ian Nepomniachtchi resulted in both players losing a half point as their encounter, according to the Chief Arbiter, would \"bring the game of chess into disrepute\". Meanwhile, Valentina Gunina got a 1&frac12;-point lead in the women's tournament after finishing day 1 with an astonishing 8&frac12;/9 score. | Photo: chess.com / Maria Emelianova",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/day7-success-stories/",
          "pubDate" : "Fri, 29 Dec 2023 14:03:43",
          "title" : "Day 7 - Real Chess Improvement Success Stories"
-      },
-      {
-         "description" : " The World Rapid and Blitz Championships take place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc. In the rapid Magnus Carlsen won his 5th title. In the women's Anastasia Bodnaruk beat Humpy Koneru in a blitz tie-break match to take the title. I was taken by surprise by the return of tie-break matches. Reading the version ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2023",
-         "pubDate" : "Fri, 29 Dec 2023 11:38:00",
-         "title" : "World Rapid and Blitz Championships 2023 - Games and Results"
       },
       {
          "description" : "36 analyses from the Grand Swiss 2023: the champions Vaishali and Vidit comment on their best games as well as Abdusattorov, Deac, Erigaisi, Giri, L'Ami, Mendonca, A. and M. Muzychuk, Praggnanandhaa, Saric and others - Strategy special by Mihail Marin: Richard Rapport between originality and classicism - Creeping poison: Patrick Zelbel sheds light on the current 1. e4 c6 2.Nf3 d5 3.Nc3 Bg4 4.d4!? in the Caro-Kann Two Knights Game - \"Fundamental Endgame Knowledge\" part #7: Karsten Mueller shows how to play pawn endgames with pawns on both wings - Surprise in the Scottish Four Knights Game: Rustam Kasimdzhanov analyses the increasingly popular 5...Nxe4!? (Video) and much more.",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/late-nights-and-whiskey.html",
          "pubDate" : "Mon, 18 Dec 2023 12:39:00",
          "title" : "Late nights and whiskey"
-      },
-      {
-         "description" : "The 2024 Chess.com Daily Chess Championship is now open for registration! Start your 2024 off with the resolution to play lots of chess and join one of the world&#39;s largest-ever chess events. What is the Daily Chess Championship? This prest...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-daily-chess-championship-registration",
-         "pubDate" : "Mon, 18 Dec 2023 11:40:00",
-         "title" : "The 2024 Daily Chess Championship Is Coming: Register Now"
       },
       {
          "description" : "The previous Flickr post, <A HREF=\"https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html\">AI Chess Comics</A> (November 2023), mentioned, '\"Alice\" is a recurring theme in chess art.' How does that relate to the next Flickr image? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl17.jpg\" WIDTH=368 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/181719773@N05/52292342886/\">Floating chess</A> &#169; Flickr user <I>Jaci XIV</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P> The description said, <BLOCKQUOTE> Created for: Digitalmania Group<BR> After: Vladimir Kush<BR> ***<BR> Created for the Magnificent Manipulat",
