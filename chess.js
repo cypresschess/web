@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the last Fast & Furious episode of 2023, Robert Ris analysed a spectacular victory obtained by his 15-year-old student IM Arthur de Winter. Out of a fashionable line in the Sicilian Najdorf, White's attack turned out to be faster than his opponent's. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-convincing-attack-against-najdorf",
+         "pubDate" : "Sat, 30 Dec 2023 17:30:00",
+         "title" : "Robert Ris' Fast and Furious: A convincing attack against the Najdorf"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/day7-success-stories/",
          "pubDate" : "Fri, 29 Dec 2023 14:03:43",
          "title" : "Day 7 - Real Chess Improvement Success Stories"
-      },
-      {
-         "description" : "36 analyses from the Grand Swiss 2023: the champions Vaishali and Vidit comment on their best games as well as Abdusattorov, Deac, Erigaisi, Giri, L'Ami, Mendonca, A. and M. Muzychuk, Praggnanandhaa, Saric and others - Strategy special by Mihail Marin: Richard Rapport between originality and classicism - Creeping poison: Patrick Zelbel sheds light on the current 1. e4 c6 2.Nf3 d5 3.Nc3 Bg4 4.d4!? in the Caro-Kann Two Knights Game - \"Fundamental Endgame Knowledge\" part #7: Karsten Mueller shows how to play pawn endgames with pawns on both wings - Surprise in the Scottish Four Knights Game: Rustam Kasimdzhanov analyses the increasingly popular 5...Nxe4!? (Video) and much more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-217",
-         "pubDate" : "Fri, 29 Dec 2023 10:00:00",
-         "title" : "New: ChessBase Magazine #217"
       },
       {
          "description" : "GMs Vladislav Artemiev, Magnus Carlsen, &#38;nbsp;Maxime Vachier-Lagrave, Nihal Sarin, Arjun Erigaisi, and Alexander Riazantsev scored nine points apiece to share the lead at the end of day one of the 2023 FIDE World Blitz Chess Championship. The sixt...",
@@ -1280,14 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2788",
          "pubDate" : "Sat, 09 Dec 2023 22:05:37",
          "title" : "FIDE World Cadet Rapid & Blitz Championships 2024: Registration is open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2787",
-         "pubDate" : "Sat, 09 Dec 2023 17:16:02",
-         "title" : "FIDE sets clear standards for chess organizers and event evaluation"
       }
    ]
 }
