@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position White wins with 51.Qc8! - but please don't make the move until you've seen the forced checkmate after 51...Qd4. Do we have a deal?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/three-major-pieces-on-the-back-rank",
+         "pubDate" : "Sat, 30 Dec 2023 09:00:00",
+         "title" : "Three major pieces on the back rank"
+      },
+      {
+         "description" : "Today you get three puzzles that are simply enjoyable to solve. Very strong players should try to solve them in their minds, straight from the diagrams, mere mortals can move pieces. They may be surprised to see that our live diagrams will defend for the black side, stopping you from reaching the goal. Unless you find the unexpected solutions, which will be presented to you with instructive and entertaining videos in the new year.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-puzzles-fun-to-solve",
+         "pubDate" : "Sat, 30 Dec 2023 08:00:00",
+         "title" : "Christmas puzzles, fun to solve"
+      },
+      {
          "description" : "There was no shortage of controversy on day 1 of the World Blitz Championships in Samarkand. A dispute regarding an alleged clock malfunction delayed the start of round 7 by close to an hour, while a 13-move draw - featuring only knight moves - between Daniil Dubov and Ian Nepomniachtchi resulted in both players losing a half point as their encounter, according to the Chief Arbiter, would \"bring the game of chess into disrepute\". Meanwhile, Valentina Gunina got a 1&frac12;-point lead in the women's tournament after finishing day 1 with an astonishing 8&frac12;/9 score. | Photo: chess.com / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -194,14 +210,6 @@ news_feed (
          "title" : "Indian chess made rapid progress in 2023"
       },
       {
-         "description" : "Magnus Carlsen, Vladimir Fedoseev and Yu Yangyi are sharing the lead in the open section of the World Rapid Championship after nine rounds. Carlsen and Fedoseev could have gone into the third and final day of action a half point ahead of Yu had them converted superior endgame positions in round 9. In the women's tournament, Anastasia Bodnaruk climbed to sole first place after scoring 3&frac12;/4 points on Wednesday. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d2",
-         "pubDate" : "Thu, 28 Dec 2023 06:50:00",
-         "title" : "World Rapid: Carlsen, Fedoseev and Yu co-leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -224,14 +232,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-5-plan-your-training/",
          "pubDate" : "Wed, 27 Dec 2023 14:10:25",
          "title" : "Improve Your Chess in 2024 - Part 5 - Plan Your Training"
-      },
-      {
-         "description" : "Alireza Firouzja has not given up. After failing to surpass Wesley So in the ratings list in a series of matches in Chartres, the youngster withdrew from the World Rapid and Blitz Championship and registered to participate in an open tournament in Rouen, France. The tournament is a 7-round Swiss Open, with Gata Kamsky (rated 2634) and Li Min Peng (2562) the second and third seeds, respectively. In the meantime, FIDE published a reviewed tournament registration procedure. | Photo: Europe Echecs",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/firouzja-rouen-candidates",
-         "pubDate" : "Wed, 27 Dec 2023 10:45:00",
-         "title" : "Firouzja playing in Rouen, FIDE changes tournament registration procedure"
       },
       {
          "description" : "GM Hikaru Nakamura and GM Matthias Bluebaum were the winners of Titled Tuesday on December 26, the last one of the year 2023. For Nakamura, it wrapped up yet another fabulously successful year of Titled Tuesdays. For Bluebaum, it was his first win...",
