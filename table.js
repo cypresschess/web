@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2023-12-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202312292662 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-12-05  - 12-26","22","<a href=http://www.uschess.org/msa/XtblMain.php?202312262132 target='_blank'>EVENT NAME MISSING</a>",
 "CYPRESS","2023-12-22","20","<a href=http://www.uschess.org/msa/XtblMain.php?202312220662 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-12-22","22","<a href=http://www.uschess.org/msa/XtblMain.php?202312220072 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-06-17","12","<a href=http://www.uschess.org/msa/XtblMain.php?202306172222 target='_blank'>CHESSPANDA06172023SATURDAY</a>",
 "PEARLAND","2023-06-15  - 06-16","20","<a href=http://www.uschess.org/msa/XtblMain.php?202306165922 target='_blank'>SCS SLEEP INN BEGINNERS II</a>",
 "CYPRESS","2023-06-16","36","<a href=http://www.uschess.org/msa/XtblMain.php?202306162052 target='_blank'>EVENT NAME MISSING</a>",
-"SPRING","2023-06-16","26","<a href=http://www.uschess.org/msa/XtblMain.php?202306161962 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
