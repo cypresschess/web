@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Day 4 of the 2023 World Rapid and Blitz turned out to be pretty wild. The big news story was the game between Nepomniachtchi and Dubov in Round 13. They agreed to a draw after dancing their knights around the board for 12 moves, reaching the starting position (with the knights have swapped starting squares). The Fairplay team immediately alerted the Chief Arbiter, who scored the game 0-0. An appeal was lodged, but at 2:15 am it was rejected. There was another appeal earlier in the tournament, around whether a clock was pressed, or whether it was faulty. This took an hour to resolve, throwing out the schedule considerably. And finally there was a technical issue with the pairings in the late",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-4.html",
+         "pubDate" : "Sat, 30 Dec 2023 10:09:00",
+         "title" : "2023 World Rapid and Blitz - Day 4"
+      },
+      {
+         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
+         "pubDate" : "Sat, 30 Dec 2023 09:50:00",
+         "title" : "World Blitz Championship - Live!"
+      },
+      {
+         "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title for the 33-year-old Norwegian, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carls",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world-rapid-champion-again-and-targets-blitz",
+         "pubDate" : "Sat, 30 Dec 2023 09:23:22",
+         "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
+      },
+      {
          "description" : "In the diagram position White wins with 51.Qc8! - but please don't make the move until you've seen the forced checkmate after 51...Qd4. Do we have a deal?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,14 +66,6 @@ news_feed (
          "title" : "World Blitz Championship 2023 starts in Samarkand"
       },
       {
-         "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title fo r the 33-year-old Norwegian, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carl",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world-rapid-champion-again-and-targets-blitz",
-         "pubDate" : "Fri, 29 Dec 2023 18:43:23",
-         "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
-      },
-      {
          "description" : "GM Alireza Firouzja has likely wrapped up qualification for the 2024 FIDE Candidates Chess Tournament in Toronto after winning the Rouen Open with a perfect 7/7. He beat GM Gata Kamsky along the way and picked up sufficient rating points that even...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -85,9 +101,9 @@ news_feed (
          "description" : "Happy Holidays! This is the last part of my 7-day Newsletter series to prepare you for a successful 2024. If you want to check out the previous ones, here they are: Get Rid of Your Old Habits​ Adjust Your Mindset​ Get Comfortable With Discomfort​ Train Smart​ Plan Your Training​ Prepare For Roadblocks​ Throughout this series, you had the chance to get my course Next Level Training 30% off. As we all live in different time zones and some of you are sleeping when this email goes out, the 30%...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-7-believe-in-yourself/",
+         "link" : "https://nextlevelchess.blog/day7-success-stories/",
          "pubDate" : "Fri, 29 Dec 2023 14:03:43",
-         "title" : "Improve Your Chess in 2024 - Part 7 - Believe in Yourself"
+         "title" : "Day 7 - Real Chess Improvement Success Stories"
       },
       {
          "description" : " The World Rapid and Blitz Championships take place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc. In the rapid Magnus Carlsen won his 5th title. In the women's Anastasia Bodnaruk beat Humpy Koneru in a blitz tie-break match to take the title. I was taken by surprise by the return of tie-break matches. Reading the version ",
@@ -130,14 +146,6 @@ news_feed (
          "title" : "2023 World Rapid and Blitz - Day 3"
       },
       {
-         "description" : "Yet another stunning performance, yet another title! Magnus Carlsen scored 10/13 points throughout three days of play to grab his fifth World Rapid Championship title in Samarkand. The Norwegian obtained two wins in a row at the start of day 3 and managed to win the tournament outright with draws in the final two rounds. In the women's tournament, Anastasia Bodnaruk beat Humpy Koneru in a blitz playoff to claim the title. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d3",
-         "pubDate" : "Thu, 28 Dec 2023 21:15:00",
-         "title" : "Magnus Carlsen wins fifth World Rapid Championship title!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -157,9 +165,9 @@ news_feed (
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/24-hours-left-improve-your-chess-in-2024-part-6-prepare-for-roadblocks/",
+         "link" : "https://nextlevelchess.blog/day6-setbacks/",
          "pubDate" : "Thu, 28 Dec 2023 14:04:55",
-         "title" : "(24 hours left) Improve Your Chess in 2024 - Part 6 - Prepare For Roadblocks"
+         "title" : "Day 6 - Resilient Chess Training: Navigating Setbacks for Consistent Progress"
       },
       {
          "description" : "",
@@ -229,9 +237,9 @@ news_feed (
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (only 48 hours left!). This is the first sale since August, so take advantage of this rare opportunity. Get...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-5-plan-your-training/",
+         "link" : "https://nextlevelchess.blog/day5-smart-chess-plan/",
          "pubDate" : "Wed, 27 Dec 2023 14:10:25",
-         "title" : "Improve Your Chess in 2024 - Part 5 - Plan Your Training"
+         "title" : "Day 5 - Crafting Your SMART Winning Chess Plan"
       },
       {
          "description" : "GM Hikaru Nakamura and GM Matthias Bluebaum were the winners of Titled Tuesday on December 26, the last one of the year 2023. For Nakamura, it wrapped up yet another fabulously successful year of Titled Tuesdays. For Bluebaum, it was his first win...",
@@ -333,9 +341,9 @@ news_feed (
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-4-train-smart/",
+         "link" : "https://nextlevelchess.blog/day4-strategic-chess-training/",
          "pubDate" : "Tue, 26 Dec 2023 14:13:54",
-         "title" : "Improve Your Chess in 2024 - Part 4 - Train Smart"
+         "title" : "Day 4 - Strategic Chess Training: Maximize Impact with the 80/20 Principle"
       },
       {
          "description" : " Round 2 of the 2023 World Rapid and Blitz has begun, after the 1st round saw a number of upset results. The top 4 boards were all drawn, with Lev Aronian being the highest seeded player to collect the full point. This also the other top seeds disappear into mid-tables, with the exception of Magnus Carlsen, who gets to play on board 1 regardless of his score. As for my job as Pairings Officer, things went quite smoothly. Everyone turned up, which is quite remarkable for an event of this size, and the first round results were processed both efficiently and accurately. The only delay was caused by displaying the next round pairings, which relied on getting the giant TV's in the playing hall to",
@@ -429,9 +437,9 @@ news_feed (
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-3-get-comfortable-with-discomfort/",
+         "link" : "https://nextlevelchess.blog/day3-hard-training/",
          "pubDate" : "Sun, 24 Dec 2023 13:53:12",
-         "title" : "Improve Your Chess in 2024 - Part 3 - Get Comfortable With Discomfort"
+         "title" : "Day 3 - Transforming Your Chess: The Power of Hard Training"
       },
       {
          "description" : "The Soviet (oops, Russian&hellip;) invasion of Ukraine has resulted in a number of grandmasters afflicted by conscience defecting to more liberal regimes. Putin's realm of perpetual winter was foreshadowed by Garry Kasparov's Cassandra-like prophecy, Winter is Coming. The litany of discontents is impressive, a literal brain drain of Russian elite chess players. Kramnik and Kasparov are []",
@@ -461,9 +469,9 @@ news_feed (
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-2-adjust-your-mindset/",
+         "link" : "https://nextlevelchess.blog/day2-chess-mindset-shift/",
          "pubDate" : "Sat, 23 Dec 2023 14:02:29",
-         "title" : "Improve Your Chess in 2024 - Part 2 - Adjust Your Mindset"
+         "title" : "Day 2 - Mastering Mindset: Shift from Rating Goals to Skill Improvement"
       },
       {
          "description" : "The chess world had a busy year in 2023. From the World Championship in the spring to a busy December that featured the Champions Chess Tour Finals and a mad dash to the next Candidates Tournament, there was no shortage of chess being played. Th...",
@@ -541,9 +549,9 @@ news_feed (
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-1-get-rid-of-your-old-habits/",
+         "link" : "https://nextlevelchess.blog/day1-chess-detox/",
          "pubDate" : "Fri, 22 Dec 2023 14:11:27",
-         "title" : "Improve Your Chess in 2024 - Part 1 - Get Rid of Your Old Habits"
+         "title" : "7-Day Series To Kickstart Your Chess Training - Day 1: Chess Detox"
       },
       {
          "description" : "",
@@ -1272,14 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2787",
          "pubDate" : "Sat, 09 Dec 2023 17:16:02",
          "title" : "FIDE sets clear standards for chess organizers and event evaluation"
-      },
-      {
-         "description" : "Having been immersed in Napoleonic studies in order to bring out my new book on Napoleon and Goethe, to coincide with the launch of the Ridley Scott biopic of the emperor last month, I have become increasingly aware of possible resonances between famous chess games and Napoleonic battles. The title of this week's column alludes []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/we-play-the-game-of-war/",
-         "pubDate" : "Sat, 09 Dec 2023 11:18:50",
-         "title" : "We play the game of war"
       }
    ]
 }
