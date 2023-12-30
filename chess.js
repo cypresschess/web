@@ -10,6 +10,14 @@ news_feed (
          "title" : "15th Rouen Open 2023 - Games and Results"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2824",
+         "pubDate" : "Fri, 29 Dec 2023 21:01:02",
+         "title" : "World Blitz Championship 2023 starts in Samarkand"
+      },
+      {
          "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title fo r the 33-year-old Norwegian, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carl",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -66,12 +74,12 @@ news_feed (
          "title" : "New: ChessBase Magazine #217"
       },
       {
-         "description" : "GMs Daniil Dubov, Vladislav Artemiev, Magnus Carlsen, Ian Nepomniachtchi, Maxime Vachier-Lagrave, Nihal Sarin, Arjun Erigaisi, and Alexander Riazantsev scored nine points apiece to share the lead with nine points at the end of day one of the 2023 ...",
+         "description" : "GMs Vladislav Artemiev, Magnus Carlsen, &#38;nbsp;Maxime Vachier-Lagrave, Nihal Sarin, Arjun Erigaisi, and Alexander Riazantsev scored nine points apiece to share the lead at the end of day one of the 2023 FIDE World Blitz Chess Championship. The sixt...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fide-world-blitz-chess-championship-day-1",
          "pubDate" : "Fri, 29 Dec 2023 09:54:00",
-         "title" : "Carlsen In 8-Strong Leading Pack; Gunina Dazzles With 8.5/9"
+         "title" : "Dubov, Nepomniachtchi Punished As 6 Lead; Gunina Dazzles With 8.5/9"
       },
       {
          "description" : "Today we provide you with a master-level lesson. Leonid Ivanovich Kubbel, born in 1891 in St. Petersburg, Russia, was one of the greatest composers in chess history. One of the greatest composers of our time was GM Pal Benk&ouml;, born in 1928, died in 2019. The latter shows us how he improved on one of the most famous studies of all time, composed by the former.",
@@ -170,6 +178,14 @@ news_feed (
          "title" : "Indian chess made rapid progress in 2023"
       },
       {
+         "description" : "Magnus Carlsen, Vladimir Fedoseev and Yu Yangyi are sharing the lead in the open section of the World Rapid Championship after nine rounds. Carlsen and Fedoseev could have gone into the third and final day of action a half point ahead of Yu had them converted superior endgame positions in round 9. In the women's tournament, Anastasia Bodnaruk climbed to sole first place after scoring 3&frac12;/4 points on Wednesday. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d2",
+         "pubDate" : "Thu, 28 Dec 2023 06:50:00",
+         "title" : "World Rapid: Carlsen, Fedoseev and Yu co-leaders"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -192,6 +208,14 @@ news_feed (
          "link" : "https://nextlevelchess.blog/improve-your-chess-in-2024-part-5-plan-your-training/",
          "pubDate" : "Wed, 27 Dec 2023 14:10:25",
          "title" : "Improve Your Chess in 2024 - Part 5 - Plan Your Training"
+      },
+      {
+         "description" : "Alireza Firouzja has not given up. After failing to surpass Wesley So in the ratings list in a series of matches in Chartres, the youngster withdrew from the World Rapid and Blitz Championship and registered to participate in an open tournament in Rouen, France. The tournament is a 7-round Swiss Open, with Gata Kamsky (rated 2634) and Li Min Peng (2562) the second and third seeds, respectively. In the meantime, FIDE published a reviewed tournament registration procedure. | Photo: Europe Echecs",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/firouzja-rouen-candidates",
+         "pubDate" : "Wed, 27 Dec 2023 10:45:00",
+         "title" : "Firouzja playing in Rouen, FIDE changes tournament registration procedure"
       },
       {
          "description" : "GM Hikaru Nakamura and GM Matthias Bluebaum were the winners of Titled Tuesday on December 26, the last one of the year 2023. For Nakamura, it wrapped up yet another fabulously successful year of Titled Tuesdays. For Bluebaum, it was his first win...",
@@ -242,14 +266,6 @@ news_feed (
          "title" : "Wafa, Djeroud win African Juniors 2023!"
       },
       {
-         "description" : "Five players ended day 1 of the World Rapid Championship sharing first place with 4&frac12;/5 points. Magnus Carlsen, who assessed his play on the first day as \"so-so\", heads the leading pack, which also includes Yu Yangyi, Vidit Gujrathi, Arjun Erigaisi and Ivan Cheparinov. In the women's section, Zhu Jiner and Nurgyul Salimova are sharing first place with perfect 4/4 scores. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d1",
-         "pubDate" : "Tue, 26 Dec 2023 23:30:00",
-         "title" : "World Rapid: Carlsen among 5-player leading group"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a beginner chess class on attacks and defenses, including double attacks and forks. 2023.12.26<br /> Alex Yermolinsky vs. Kutkov, 1972<br /> Yermolinsky vs. Kulikov, 1972<br /> Yermolinsky vs. Melikov, 1972 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacks-defenses-beginner-breakdown-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumb",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -280,14 +296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2820",
          "pubDate" : "Tue, 26 Dec 2023 21:04:14",
          "title" : "Action-packed start to World Rapid Championships in Samarkand"
-      },
-      {
-         "description" : "From December 13 to 23, the Kazakhstan Chess Championship took place in Astana. After 13 rounds of play in the open, five players were tied for first place. Following a rapid tiebreak, 15-year-old Aldiyar Ansat emerged victorious. Menawhile, Ksenia Balabaeva obtained outright victory in the 10-player single round-robin. Balabaeva obtained a remarkable 7&frac12;/9 score. | Photos: Kazakhstan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kazakhstan-chess-championship-2023",
-         "pubDate" : "Tue, 26 Dec 2023 18:00:00",
-         "title" : "Aldiyar Ansat, aged 15, wins Kazakhstani Chess Championship"
       },
       {
          "description" : "The 25th Asian Youth Chess Championships were held at the Al Ain Convention Centre, Al Ain, United Arab Emirates, from 13th to 21st December, 2023.",
