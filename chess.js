@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There was no shortage of controversy on day 1 of the World Blitz Championships in Samarkand. A dispute regarding an alleged clock malfunction delayed the start of round 7 by close to an hour, while a 13-move draw - featuring only knight moves - between Daniil Dubov and Ian Nepomniachtchi resulted in both players losing a half point as their encounter, according to the Chief Arbiter, would \"bring the game of chess into disrepute\". Meanwhile, Valentina Gunina got a 1&frac12;-point lead in the women's tournament after finishing day 1 with an astonishing 8&frac12;/9 score. | Photo: chess.com / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d4",
+         "pubDate" : "Sat, 30 Dec 2023 01:20:00",
+         "title" : "World Blitz: The dance of the knights"
+      },
+      {
          "description" : " The 15th Rouen Open took place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja played in this 7 round Swiss in a final, final attempt to qualify for the Candidates. FIDE probably won't rate the Chartres matches, and I have at least some sympathy with that position, but surely it comes down to the regulations, then whatever FIDE decides the whole thing will probably go to the courts. Rouen is different to Chartres and will in my view be rated, this is a regular scheduled Swiss, Firouzja knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky. He then beat fellow Iranian expat IM Kamran Shirazi in the fin",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,12 +34,28 @@ news_feed (
          "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
       },
       {
+         "description" : "GM Alireza Firouzja has likely wrapped up qualification for the 2024 FIDE Candidates Chess Tournament in Toronto after winning the Rouen Open with a perfect 7/7. He beat GM Gata Kamsky along the way and picked up sufficient rating points that even...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-wesley-so-candidates-rouen",
+         "pubDate" : "Fri, 29 Dec 2023 18:17:00",
+         "title" : "Firouzja Overtakes Wesley So To Grab Candidates Rating Spot"
+      },
+      {
          "description" : "Karsten M&uuml;ller is both an endgame expert and a major enthusiast of the final phases of a chess battle. Here he presents the 10 top endgames of the year, a selection of the most interesting and substantial positions seen on the board throughout 2023!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/top-10-endgames-2023",
          "pubDate" : "Fri, 29 Dec 2023 18:00:00",
          "title" : "The top 10 endgames of 2023!"
+      },
+      {
+         "description" : "Beginning in 2024, multiple Chess.com prize events will restrict draw offers until after move 30, and our bullet chess prize events will restrict draw offers for the entire game. While there is no doubt that a draw is a perfectly valid outcome i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-restricts-draw-offers-in-prize-events",
+         "pubDate" : "Fri, 29 Dec 2023 17:42:00",
+         "title" : "Chess.com Restricts Draw Offers In Multiple Prize Events"
       },
       {
          "description" : "In his new Game of the Week show, Merin van Delft analyses one of the wins that gave Magnus Carlsen his fifth World Rapid Championship title, an interesting battle against blindfold-chess expert Timur Gareyev. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2023",
          "pubDate" : "Fri, 29 Dec 2023 11:38:00",
          "title" : "World Rapid and Blitz Championships 2023 - Games and Results"
-      },
-      {
-         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
-         "pubDate" : "Fri, 29 Dec 2023 10:50:00",
-         "title" : "World Blitz Championship - Live!"
       },
       {
          "description" : "36 analyses from the Grand Swiss 2023: the champions Vaishali and Vidit comment on their best games as well as Abdusattorov, Deac, Erigaisi, Giri, L'Ami, Mendonca, A. and M. Muzychuk, Praggnanandhaa, Saric and others - Strategy special by Mihail Marin: Richard Rapport between originality and classicism - Creeping poison: Patrick Zelbel sheds light on the current 1. e4 c6 2.Nf3 d5 3.Nc3 Bg4 4.d4!? in the Caro-Kann Two Knights Game - \"Fundamental Endgame Knowledge\" part #7: Karsten Mueller shows how to play pawn endgames with pawns on both wings - Surprise in the Scottish Four Knights Game: Rustam Kasimdzhanov analyses the increasingly popular 5...Nxe4!? (Video) and much more.",
@@ -920,22 +936,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-daily-chess-championship-registration",
          "pubDate" : "Mon, 18 Dec 2023 11:40:00",
          "title" : "The 2024 Daily Chess Championship Is Coming: Register Now"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju scored his first victory of the tournament over GM Alexandr Predke to join GM Pentala Harikrishna in the lead with two and a half points from four rounds of the Chennai Grand Masters 2023. Harikrishna looked to be in a spot of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-4",
-         "pubDate" : "Mon, 18 Dec 2023 09:00:00",
-         "title" : "Maiden Victories For Gukesh, Maghsoodloo"
-      },
-      {
-         "description" : "GM Leinier Dominguez has pulled out of the Chessable Sunway Sitges Chess Festival 2023 at the halfway mark, explaining, &#38;ldquo;I&#38;rsquo;ve come to a point where I&#38;rsquo;m simply risking too much if I continue.&#38;rdquo; The U.S. star travelled to Spai...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dominguez-quits-sitges-wesley-so-firouzja-candidates",
-         "pubDate" : "Mon, 18 Dec 2023 03:14:00",
-         "title" : "Dominguez Drops Out; Firouzja Makes Late Bid For Wesley So's Candidates Spot"
       },
       {
          "description" : "The previous Flickr post, <A HREF=\"https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html\">AI Chess Comics</A> (November 2023), mentioned, '\"Alice\" is a recurring theme in chess art.' How does that relate to the next Flickr image? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl17.jpg\" WIDTH=368 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/181719773@N05/52292342886/\">Floating chess</A> &#169; Flickr user <I>Jaci XIV</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P> The description said, <BLOCKQUOTE> Created for: Digitalmania Group<BR> After: Vladimir Kush<BR> ***<BR> Created for the Magnificent Manipulat",
