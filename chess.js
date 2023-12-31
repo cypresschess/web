@@ -103,7 +103,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-fide-world-blitz-chess-championship-day-2",
          "pubDate" : "Sat, 30 Dec 2023 06:26:00",
-         "title" : "6-Win Streak Helps Carlsen To Take 7th Title; Gunina Pips Kosteniuk To The Post"
+         "title" : "Carlsen Wins 7th World Blitz Championship, Gunina Wins Women's"
       },
       {
          "description" : "There was no shortage of controversy on day 1 of the World Blitz Championships in Samarkand. A dispute regarding an alleged clock malfunction delayed the start of round 7 by close to an hour, while a 13-move draw - featuring only knight moves - between Daniil Dubov and Ian Nepomniachtchi resulted in both players losing a half point as their encounter, according to the Chief Arbiter, would \"bring the game of chess into disrepute\". Meanwhile, Valentina Gunina got a 1&frac12;-point lead in the women's tournament after finishing day 1 with an astonishing 8&frac12;/9 score. | Photo: chess.com / Maria Emelianova",
