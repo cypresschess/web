@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 158th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to talk about the games and the legacy of Paul Keres. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-158-chess-history-in-a-nutshell-40",
+         "pubDate" : "Sun, 31 Dec 2023 15:00:00",
+         "title" : "Understanding before Moving 158: Chess history in a nutshell (40)"
+      },
+      {
+         "description" : " Magnus Carlsen completed the double at the 2023 World Rapid and Blitz by winning the Blitz tournament with 16/21. He started the 2nd day of the Blitz with a loss to Maxime Vachier-Lagrave but finished with 7/8 to end up half a point ahead of Daniil Dubov. Vladislav Artemiev was in the lead at round 16 but fell back to 3rd place by the end. Valentina Gunina was the popular winner of the Women's Blitz, finishing with 14/17. Alexandra Kosteniuk was 2nd on 13.5, and Jiner Zhu was 3rd on 12.5. Unlike Day 4, there were no issues on the last day (at least from a pairing and organizational point of view). There was a slight delay for the final round after Carlsen queried the color allocation of his",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/2023-world-rapid-and-blitz-final-day.html",
+         "pubDate" : "Sun, 31 Dec 2023 13:31:00",
+         "title" : "2023 World Rapid and Blitz - Final Day"
+      },
+      {
+         "description" : "Today we have two very special problems. They are doubtlessly like no other chess puzzle you have seen. And warning: they are very hard. You could easily spend a substantial part of the final day of the year 2023 struggling to solve them. But if you succeed, you will experience an exhilarating feeling of pride. Take a look.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/unusual-puzzles-to-end-the-year",
+         "pubDate" : "Sun, 31 Dec 2023 12:59:37",
+         "title" : "Unusual puzzles to end the year!"
+      },
+      {
+         "description" : " The 15th Rouen Open took place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja played in this 7 round Swiss in a final, final attempt to qualify for the Candidates. Rouen is different to Chartres and will in my view be rated, this is a regular scheduled Swiss, Firouzja withdrew from the World Rapid and Blitz knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky. He then beat fellow Iranian expat IM Kamran Shirazi in the final round. Shirazi has lived in France for many years and is a frequent competitor in the Paris Championship. Now Firouzja has won this event with 7/7 and gained enough points to ove",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/15th-rouen-open-2023",
+         "pubDate" : "Sun, 31 Dec 2023 09:39:00",
+         "title" : "15th Rouen Open 2023 - Games and Results"
+      },
+      {
          "description" : "Once again, a fantastic chess year is coming to an end. As usual, Svitlana gathered some of her absolute favourite tactics, for the viewer and Arne to solve. Happy new year everybody, and see you in 2024!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/14th-chennai-gm-open-live-games-link/",
          "pubDate" : "Sun, 31 Dec 2023 07:06:15",
          "title" : "14th Chennai GM Open LIVE Games LINK"
+      },
+      {
+         "description" : "Titled Tuesdays have already been ramped up massively with the launch of the new Titled Cup, the $100,000 grand prix-style umbrella event to make our weekly tournaments in 2024 even more fierce. But if that isn&#39;t enough to get you tuning in on T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-prophet-the-fantasy-chess-game-for-titled-tuesdays",
+         "pubDate" : "Sun, 31 Dec 2023 06:14:11",
+         "title" : "Fantasy Sports Are Here: Magnus Carlsen's 'Chess Prophet' Launches For Titled Cup 2024"
       },
       {
          "description" : "Magnus Carlsen grabbed his 17th World Championship title - the 7th in blitz - by scoring 16/21 points at the World Blitz event in Samarkand. After losing his first game of the day, against Maxime Vachier-Lagrave, Carlsen grabbed six wins in a row to retake the sole lead. Two draws in the final rounds allowed him to outscore Daniil Dubov by a half point. In the women's championship, Valentina Gunina got outright victory thanks to a final-round win over Anna Muzychuk. Alexandra Kosteniuk came close to catching the eventual champion, but fell just short and took the silver medal. | Photo: FIDE / Anastasia Korolkova",
@@ -98,14 +138,6 @@ news_feed (
          "title" : "Three major pieces on the back rank"
       },
       {
-         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
-         "pubDate" : "Sat, 30 Dec 2023 08:50:00",
-         "title" : "World Blitz Championship - Live!"
-      },
-      {
          "description" : "Today you get three puzzles that are simply enjoyable to solve. Very strong players should try to solve them in their minds, straight from the diagrams, mere mortals can move pieces. They may be surprised to see that our live diagrams will defend for the black side, stopping you from reaching the goal. Unless you find the unexpected solutions, which will be presented to you with instructive and entertaining videos in the new year.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,22 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-fide-world-blitz-chess-championship-day-2",
          "pubDate" : "Sat, 30 Dec 2023 06:26:00",
          "title" : "Carlsen Wins 7th World Blitz Championship, Gunina Wins Women's"
-      },
-      {
-         "description" : "There was no shortage of controversy on day 1 of the World Blitz Championships in Samarkand. A dispute regarding an alleged clock malfunction delayed the start of round 7 by close to an hour, while a 13-move draw - featuring only knight moves - between Daniil Dubov and Ian Nepomniachtchi resulted in both players losing a half point as their encounter, according to the Chief Arbiter, would \"bring the game of chess into disrepute\". Meanwhile, Valentina Gunina got a 1&frac12;-point lead in the women's tournament after finishing day 1 with an astonishing 8&frac12;/9 score. | Photo: chess.com / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d4",
-         "pubDate" : "Sat, 30 Dec 2023 01:20:00",
-         "title" : "World Blitz: The dance of the knights"
-      },
-      {
-         "description" : " The 15th Rouen Open took place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja played in this 7 round Swiss in a final, final attempt to qualify for the Candidates. FIDE probably won't rate the Chartres matches, and I have at least some sympathy with that position, but surely it comes down to the regulations, then whatever FIDE decides the whole thing will probably go to the courts. Rouen is different to Chartres and will in my view be rated, this is a regular scheduled Swiss, Firouzja knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky. He then beat fellow Iranian expat IM Kamran Shirazi in the fin",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/15th-rouen-open-2023",
-         "pubDate" : "Fri, 29 Dec 2023 23:31:00",
-         "title" : "15th Rouen Open 2023 - Games and Results"
       },
       {
          "description" : "",
@@ -200,6 +216,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2823",
          "pubDate" : "Thu, 28 Dec 2023 16:52:20",
          "title" : "Magnus Carlsen does it again: Fifth World Rapid Chess Championship title for the Norwegian"
+      },
+      {
+         "description" : "So many problems, so little time. In last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2023/11/missing-yahoos.html\">Missing Yahoos</A> (November 2023; see the footnote below for an explanation of 'Yahoos'), I wrote, <BLOCKQUOTE> For the first time in the Yahoo series, Google News stopped including the names of all sources in its list of top stories, identifying those sources only with an icon, often unreadable. I had to add the names of many sources manually. [...] If this continues -- which it probably will -- I'll have to abandon the monthly Yahoo post. </BLOCKQUOTE> <P> Once again, this time for the month of December, the text names of many news sources were missing.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/yahoos-set-new-low.html",
+         "pubDate" : "Thu, 28 Dec 2023 16:42:00",
+         "title" : "Yahoos Set a New Low"
       },
       {
          "description" : "Kasparov Chess Foundation Academy is proud to announce stellar events in January 2024, that promise to elevate your chess game to unprecedented heights. Brace yourselves for insightful and strategic wisdom from two of the world's top chess players: Grandmaster Ramesh RB and Grandmaster Alexander Motylev.",
@@ -930,14 +954,6 @@ news_feed (
          "title" : "FM Jimmy Canty on Chessable!"
       },
       {
-         "description" : "GM Alexey Sarana&#39;s sole first place in the European Rapid Chess Championship 2023 in Zagreb means he&#39;s achieved a remarkable triple&#38;mdash;winning the European Individual, Team, and Rapid events in the same year. GM David Navara prevented a quadrup...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/european-rapid-blitz-2023-navara-sarana-ivanchuk",
-         "pubDate" : "Tue, 19 Dec 2023 02:48:00",
-         "title" : "Navara, Sarana Score Stunning European Rapid & Blitz Triples"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1256,38 +1272,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/timeless-pursuit-of-checkmate.html",
          "pubDate" : "Sun, 10 Dec 2023 16:31:00",
          "title" : "'Timeless Pursuit of Checkmate'"
-      },
-      {
-         "description" : "The 13th edition of the London Chess Classic is taking place on December 1-10 as a 10-player single round-robin with a classical time control. The event features nine super grandmasters, including the rising star of Indian chess, Dommaraju Gukesh, and the American sensation Hans Niemann. | Follow the games live starting at 14.00 local time (15.00 CET, 9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-live",
-         "pubDate" : "Sun, 10 Dec 2023 14:55:00",
-         "title" : "London Chess Classic - Live!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2790",
-         "pubDate" : "Sun, 10 Dec 2023 14:40:00",
-         "title" : "Italian Championship 2023: Moroni and Zimina defend titles"
-      },
-      {
-         "description" : " I played in the annual Transfer (bughouse) event held in Canberra each year, with middling results. However, when I had the opportunity I wheeled out was I vaguely remembered was an opening called \"Baker's Attack\". It is an early sacrifice on f7, using 1.Nf3 2.Ne5 and 3.Nxf7. The the idea is to go the hack, either with an early Qh5+, or with e4 followed by Bc4+ However, I've failed to find an online reference to it, which may mean I am misremembering the name, or that it is even a real thing. Nonetheless, it did give me a few wins, even if isn't quite effective under the rules that are normally used in the ACT* (*It has been a long tradition in Canberra Bughouse events that you cannot for a",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/bakers-attack.html",
-         "pubDate" : "Sun, 10 Dec 2023 12:14:00",
-         "title" : "Bakers Attack ? !"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2789",
-         "pubDate" : "Sun, 10 Dec 2023 12:07:32",
-         "title" : "FIDE World School Championships 2024 - Call for Bids "
       }
    ]
 }
