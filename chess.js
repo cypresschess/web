@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The traditional chess tournament in the English seaside resort of Hastings has been held immediately after Christmas for over 100 years. The event has reached its 97th edition, with rounds taking place on New Year's Eve and New Year's Day. The most important tournament, the Masters, which includes a number of titleholders, ends on January 5. French grandmaster Maxime Lagarde is the tournament's top seed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hastings-congress-2023-r3",
+         "pubDate" : "Sun, 31 Dec 2023 17:30:00",
+         "title" : "Chess on New Year's Eve at the 97th Congress in Hastings"
+      },
+      {
+         "description" : " The 15th Rouen Open took place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja played in this 7 round Swiss in a final, final attempt to qualify for the Candidates. Rouen is different to Chartres and will in my view be rated, this is a regular scheduled Swiss, Firouzja withdrew from the World Rapid and Blitz knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky. He then beat fellow Iranian expat IM Kamran Shirazi in the final round. Shirazi has lived in France for many years and is a frequent competitor in the Paris Championship. Now Firouzja has won this event with 7/7 and gained enough points to ove",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/15th-rouen-open-2023",
+         "pubDate" : "Sun, 31 Dec 2023 17:14:00",
+         "title" : "15th Rouen Open 2023 - Games and Results"
+      },
+      {
+         "description" : "<P ALIGN=CENTER> <img src=\"https://www.mark-weeks.com/cfaa/cfa-nl31.png\" width=\"400\" height=\"99\"><BR> <A HREF=\"https://cooltext.com/\">https://cooltext.com/</A> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2023/12/happy-2.html",
+         "pubDate" : "Sun, 31 Dec 2023 16:40:00",
+         "title" : "Happy 2&Hat;3*11*23!"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 158th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to talk about the games and the legacy of Paul Keres. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/unusual-puzzles-to-end-the-year",
          "pubDate" : "Sun, 31 Dec 2023 12:59:37",
          "title" : "Unusual puzzles to end the year!"
-      },
-      {
-         "description" : " The 15th Rouen Open took place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja played in this 7 round Swiss in a final, final attempt to qualify for the Candidates. Rouen is different to Chartres and will in my view be rated, this is a regular scheduled Swiss, Firouzja withdrew from the World Rapid and Blitz knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky. He then beat fellow Iranian expat IM Kamran Shirazi in the final round. Shirazi has lived in France for many years and is a frequent competitor in the Paris Championship. Now Firouzja has won this event with 7/7 and gained enough points to ove",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/15th-rouen-open-2023",
-         "pubDate" : "Sun, 31 Dec 2023 09:39:00",
-         "title" : "15th Rouen Open 2023 - Games and Results"
       },
       {
          "description" : "Once again, a fantastic chess year is coming to an end. As usual, Svitlana gathered some of her absolute favourite tactics, for the viewer and Arne to solve. Happy new year everybody, and see you in 2024!",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world-rapid-champion-again-and-targets-blitz",
          "pubDate" : "Sat, 30 Dec 2023 09:23:22",
          "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
-      },
-      {
-         "description" : "In the diagram position White wins with 51.Qc8! - but please don't make the move until you've seen the forced checkmate after 51...Qd4. Do we have a deal?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/three-major-pieces-on-the-back-rank",
-         "pubDate" : "Sat, 30 Dec 2023 09:00:00",
-         "title" : "Three major pieces on the back rank"
       },
       {
          "description" : "Today you get three puzzles that are simply enjoyable to solve. Very strong players should try to solve them in their minds, straight from the diagrams, mere mortals can move pieces. They may be surprised to see that our live diagrams will defend for the black side, stopping you from reaching the goal. Unless you find the unexpected solutions, which will be presented to you with instructive and entertaining videos in the new year.",
@@ -498,12 +506,12 @@ news_feed (
          "title" : "Don't Burn It"
       },
       {
-         "description" : " Cheating has remained in the chess headlines since the Carlsen-Niemann controversy in September 2022. In the past two years, chess has continued to grab international headlines. This is not because of the new World Champion, Ding Liren, or all the rising young players gracing the scene. It is not because of the increasing popularity of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/\">Has cheating (accusations) gone too far?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Cheating has remained in the chess headlines since the Carlsen-Niemann controversy in September 2022. In the past two years, chess has continued to grab international headlines. This is not because of the new World Champion, Ding Liren, or all the rising young players gracing the scene. It is not because of the increasing popularity of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/\">Has cheating (accusations) in chess gone too far?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/",
          "pubDate" : "Sun, 24 Dec 2023 15:13:18",
-         "title" : "Has cheating (accusations) gone too far?"
+         "title" : "Has cheating (accusations) in chess gone too far?"
       },
       {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2791",
          "pubDate" : "Sun, 10 Dec 2023 21:55:34",
          "title" : "Mert Yılmazyerli wins 2023 Turkish Championship"
-      },
-      {
-         "description" : "Well known images and well known facts combine to give a high level introduction to chess history. It's a pity there are number of small inaccuracies, including an illegal move. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/RqvydrLVQ4Q?si=ssLyWiXQMHhxfq7F\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Evolution of the Game of Chess</B> (4:40) &#149; '[Published on] Dec 7, 2023' <P> The description of the video also promises high level. <BLOCKQUOTE> Let's explore key moments and pivotal rule changes that shaped the game we love t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/timeless-pursuit-of-checkmate.html",
-         "pubDate" : "Sun, 10 Dec 2023 16:31:00",
-         "title" : "'Timeless Pursuit of Checkmate'"
       }
    ]
 }
