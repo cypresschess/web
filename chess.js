@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen grabbed his 17th World Championship title - the 7th in blitz - by scoring 16/21 points at the World Blitz event in Samarkand. After losing his first game of the day, against Maxime Vachier-Lagrave, Carlsen grabbed six wins in a row to retake the sole lead. Two draws in the final rounds allowed him to outscore Daniil Dubov by a half point. In the women's championship, Valentina Gunina got outright victory thanks to a final-round win over Anna Muzychuk. Alexandra Kosteniuk came close to catching the eventual champion, but fell just short and took the silver medal. | Photo: FIDE / Anastasia Korolkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d5",
+         "pubDate" : "Sat, 30 Dec 2023 23:50:00",
+         "title" : "Carlsen and Gunina are the 2023 world blitz champions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2826",
+         "pubDate" : "Sat, 30 Dec 2023 21:55:36",
+         "title" : "FIDE Circuit: Gukesh qualifies for Candidates 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2827",
+         "pubDate" : "Sat, 30 Dec 2023 21:36:37",
+         "title" : "Kenyan Championship 2023: Joseph Methu and Sasha Mongeli win titles "
+      },
+      {
          "description" : "In the last Fast & Furious episode of 2023, Robert Ris analysed a spectacular victory obtained by his 15-year-old student IM Arthur de Winter. Out of a fashionable line in the Sicilian Najdorf, White's attack turned out to be faster than his opponent's. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2825",
          "pubDate" : "Sat, 30 Dec 2023 15:43:23",
          "title" : "2023 World Blitz Chess Champions: Magnus Carlsen and Valentina Gunina"
+      },
+      {
+         "description" : "Popular streamer GM Oleksandr Bortnyk raced away to win 2023&#39;s last&#38;nbsp;Bullet Brawl on 240 points ahead of GM Daniel Naroditsky (232) and GM Jose Martinez (210), who finished second and third respectively. Bortnyk&#39;s title is his third of the yea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortyk-wins-bullet-brawl-december-30-2023",
+         "pubDate" : "Sat, 30 Dec 2023 15:21:00",
+         "title" : "Bortnyk Bolts To 3rd Bullet Brawl Title"
       },
       {
          "description" : " The World Rapid and Blitz Championships took place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc. In the rapid Magnus Carlsen won his 5th title. In the women's Anastasia Bodnaruk beat Humpy Koneru in a blitz tie-break match to take the title. I was taken by surprise by the return of tie-break matches. Reading the version ",
@@ -34,14 +66,6 @@ news_feed (
          "title" : "2023 World Rapid and Blitz - Day 4"
       },
       {
-         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
-         "pubDate" : "Sat, 30 Dec 2023 09:50:00",
-         "title" : "World Blitz Championship - Live!"
-      },
-      {
          "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title for the 33-year-old Norwegian, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carls",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/three-major-pieces-on-the-back-rank",
          "pubDate" : "Sat, 30 Dec 2023 09:00:00",
          "title" : "Three major pieces on the back rank"
+      },
+      {
+         "description" : "The World Rapid and Blitz Championships are taking place on December 26-30 in Samarkand, Uzbekistan. Almost the entire world elite will be competing, with Magnus Carlsen the favourite in the open tournaments and world champion Ju Wenjun participating in both women's events. | Follow the games live with expert commentary starting at 11.00 CET (5.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-live",
+         "pubDate" : "Sat, 30 Dec 2023 08:50:00",
+         "title" : "World Blitz Championship - Live!"
       },
       {
          "description" : "Today you get three puzzles that are simply enjoyable to solve. Very strong players should try to solve them in their minds, straight from the diagrams, mere mortals can move pieces. They may be surprised to see that our live diagrams will defend for the black side, stopping you from reaching the goal. Unless you find the unexpected solutions, which will be presented to you with instructive and entertaining videos in the new year.",
@@ -120,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-com-restricts-draw-offers-in-prize-events",
          "pubDate" : "Fri, 29 Dec 2023 17:42:00",
          "title" : "Chess.com Restricts Draw Offers In Multiple Prize Events"
-      },
-      {
-         "description" : "In his new Game of the Week show, Merin van Delft analyses one of the wins that gave Magnus Carlsen his fifth World Rapid Championship title, an interesting battle against blindfold-chess expert Timur Gareyev. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-600-carlsen-gareyev",
-         "pubDate" : "Fri, 29 Dec 2023 17:00:00",
-         "title" : "Game of the Week #600: M. Carlsen vs T. Gareyev"
       },
       {
          "description" : "Happy Holidays! This is the last part of my 7-day Newsletter series to prepare you for a successful 2024. If you want to check out the previous ones, here they are: Get Rid of Your Old Habits​ Adjust Your Mindset​ Get Comfortable With Discomfort​ Train Smart​ Plan Your Training​ Prepare For Roadblocks​ Throughout this series, you had the chance to get my course Next Level Training 30% off. As we all live in different time zones and some of you are sleeping when this email goes out, the 30%...",
@@ -922,14 +946,6 @@ news_feed (
          "title" : "Abu Dhabi wins bid to host 47th Chess Olympiad in 2028"
       },
       {
-         "description" : "FM Faustino Oro defeated IM Levy Rozman in the much-awaited edition of ChessKid Stars vs. Streamers: Fausti vs. GothamChess. On Monday, Oro and Rozman proved to be an extremely close matchup. After many lead changes, the prodigy scored a must-win ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-chesskid-stars-vs-streamers-fausti-vs-gothamchess",
-         "pubDate" : "Mon, 18 Dec 2023 17:56:00",
-         "title" : "Whiz Kid Beats GothamChess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1272,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2789",
          "pubDate" : "Sun, 10 Dec 2023 12:07:32",
          "title" : "FIDE World School Championships 2024 - Call for Bids "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2788",
-         "pubDate" : "Sat, 09 Dec 2023 22:05:37",
-         "title" : "FIDE World Cadet Rapid & Blitz Championships 2024: Registration is open"
       }
    ]
 }
