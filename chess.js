@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Once again, a fantastic chess year is coming to an end. As usual, Svitlana gathered some of her absolute favourite tactics, for the viewer and Arne to solve. Happy new year everybody, and see you in 2024!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-best-tactics-of-2023",
+         "pubDate" : "Sun, 31 Dec 2023 09:00:00",
+         "title" : "Svitlana's Smart Moves - Best tactics of 2023"
+      },
+      {
+         "description" : "Please Find the below 14th Chennai GM OPEN DGT Live Games Link https://view.livechesscloud.com/#9c015835-e28f-4b39-8d59-26fb01f18996",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/14th-chennai-gm-open-live-games-link/",
+         "pubDate" : "Sun, 31 Dec 2023 07:06:15",
+         "title" : "14th Chennai GM Open LIVE Games LINK"
+      },
+      {
          "description" : "Magnus Carlsen grabbed his 17th World Championship title - the 7th in blitz - by scoring 16/21 points at the World Blitz event in Samarkand. After losing his first game of the day, against Maxime Vachier-Lagrave, Carlsen grabbed six wins in a row to retake the sole lead. Two draws in the final rounds allowed him to outscore Daniil Dubov by a half point. In the women's championship, Valentina Gunina got outright victory thanks to a final-round win over Anna Muzychuk. Alexandra Kosteniuk came close to catching the eventual champion, but fell just short and took the silver medal. | Photo: FIDE / Anastasia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/firouzja-wesley-so-candidates-rouen",
          "pubDate" : "Fri, 29 Dec 2023 18:17:00",
          "title" : "Firouzja Overtakes Wesley So To Grab Candidates Rating Spot"
-      },
-      {
-         "description" : "Karsten M&uuml;ller is both an endgame expert and a major enthusiast of the final phases of a chess battle. Here he presents the 10 top endgames of the year, a selection of the most interesting and substantial positions seen on the board throughout 2023!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-10-endgames-2023",
-         "pubDate" : "Fri, 29 Dec 2023 18:00:00",
-         "title" : "The top 10 endgames of 2023!"
       },
       {
          "description" : "Beginning in 2024, multiple Chess.com prize events will restrict draw offers until after move 30, and our bullet chess prize events will restrict draw offers for the entire game. While there is no doubt that a draw is a perfectly valid outcome i...",
@@ -1112,14 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2800",
          "pubDate" : "Thu, 14 Dec 2023 11:30:32",
          "title" : "Cape Verde Championship 2023: Mariano Ortega wins fourth title"
-      },
-      {
-         "description" : "Kindly find attached live games link for the&#160;Live&#160;Games&#160;Incharge&#160;for&#160;1st&#160;Meghalaya Open Grandmasters Chess Tournament-2023 at Shillong from&#160;&#160;13th&#160;to 20th&#160;December, 2023. Live Games link :&#160;https://view.livechesscloud.com/#d9b648de-f0f4-40b2-a1e9-eaaa82568993 chess-results &#160;https://chess-results.com/tnr848636.aspx?lan=1&#38;art=0&#38;fed=IND&#38;turdet=YES&#38;flag=30",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/link-for-live-games-incharge-for-1st-meghalaya-open-grandmasters-chess-tournament-2023-at-shillong-from-13th-to-20th-december-2023/",
-         "pubDate" : "Thu, 14 Dec 2023 11:11:50",
-         "title" : "LInk for Live Games for 1st Meghalaya Open Grandmasters Chess Tournament-2023 at Shillong from 13th to 20th December, 2023."
       },
       {
          "description" : "",
