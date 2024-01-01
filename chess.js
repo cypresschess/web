@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Our chess highlights of 2023 will show how controversy served as the mainstay of headlines. The Carlsen-Niemann controversy was still bubbling as the chess community saw a dismissal on one count of the $100 million lawsuit in June. FIDE finally released a statement and, on four counts, fined the former World Champion 10,000 euros for The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/\">The Chess Drum's Highlights of 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/",
+         "pubDate" : "Mon, 01 Jan 2024 00:58:44",
+         "title" : "The Chess Drum's Highlights of 2023"
+      },
+      {
          "description" : "The traditional chess tournament in the English seaside resort of Hastings has been held immediately after Christmas for over 100 years. The event has reached its 97th edition, with rounds taking place on New Year's Eve and New Year's Day. The most important tournament, the Masters, which includes a number of titleholders, ends on January 5. French grandmaster Maxime Lagarde is the tournament's top seed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
