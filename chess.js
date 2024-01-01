@@ -1264,14 +1264,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/rise-of-online-chess-platforms-sees-a-41-decline-in-uk-chess-clu/",
          "pubDate" : "Mon, 11 Dec 2023 08:34:03",
          "title" : "Rise of online chess platforms sees a 41% decline in UK chess club membership"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2791",
-         "pubDate" : "Sun, 10 Dec 2023 21:55:34",
-         "title" : "Mert Yılmazyerli wins 2023 Turkish Championship"
       }
    ]
 }
