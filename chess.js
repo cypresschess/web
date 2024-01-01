@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are three months away from the start of the Candidates Tournaments in Toronto. With no more rated classical games in the December-2023 period, we got the names of the two players who got the rating spot in the open and women's sections - Alireza Firouzja and Humpy Koneru (pictured), respectively. The 2023 edition of the FIDE Circuit has also finished, with Gukesh grabbing the Candidates spot by finishing in second place, since Fabiano Caruana - the winner of the Circuit - was already qualified via the FIDE World Cup. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-firouzja-humpy-reach-candidates-2024",
+         "pubDate" : "Mon, 01 Jan 2024 07:00:00",
+         "title" : "Gukesh, Firouzja and Humpy make it to the Candidates"
+      },
+      {
          "description" : " Our chess highlights of 2023 will show how controversy served as the mainstay of headlines. The Carlsen-Niemann controversy was still bubbling as the chess community saw a dismissal on one count of the $100 million lawsuit in June. FIDE finally released a statement and, on four counts, fined the former World Champion 10,000 euros for The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/\">The Chess Drum's Highlights of 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2827",
          "pubDate" : "Sat, 30 Dec 2023 21:36:37",
          "title" : "Kenyan Championship 2023: Joseph Methu and Sasha Mongeli win titles "
-      },
-      {
-         "description" : "In the last Fast & Furious episode of 2023, Robert Ris analysed a spectacular victory obtained by his 15-year-old student IM Arthur de Winter. Out of a fashionable line in the Sicilian Najdorf, White's attack turned out to be faster than his opponent's. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-convincing-attack-against-najdorf",
-         "pubDate" : "Sat, 30 Dec 2023 17:30:00",
-         "title" : "Robert Ris' Fast and Furious: A convincing attack against the Najdorf"
       },
       {
          "description" : "",
