@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 1st January FIDE published its new ranking list. Firouzja, who tried hard in the last days of December to gain a few more rating points, has achieved his goal: he has overtaken Wesley So and qualified for the Candidates by rating. Magnus Carlsen is still the clear number one, ahead of Fabiano Caruana and Hikaru Nakamura in second and third, while Vincent Keymer and Praggnanandhaa are the world's best juniors. Hou Yifan continues to top the women's list and Bibisara Assaubayeva is the world's best female junior.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-rating-january-2024",
+         "pubDate" : "Mon, 01 Jan 2024 22:00:00",
+         "title" : "FIDE rating January 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2828",
+         "pubDate" : "Mon, 01 Jan 2024 21:29:15",
+         "title" : "FIDE January 2024 rating list: Firouzja and Koneru qualify for Candidates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2829",
+         "pubDate" : "Mon, 01 Jan 2024 21:03:28",
+         "title" : "Kwabena Adu-Poku and Gertrude Banini win the Ghanaian Championship 2023 "
+      },
+      {
          "description" : "Today we bring you the first instalment of solutions, to the puzzles on our Christmas Day page. It includes charming video of two 14 year old lads solving one of the problems. Today, both are Candidates for the World Championship. Solutions to the next six puzzle pages will follow soon - together with details on our composition competition, which will end on January 15.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
