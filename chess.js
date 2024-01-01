@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We wish our readers and all chess fans a happy new year 2024. It's a special year for chess: 100 years ago, the World Chess Federation FIDE was founded in Paris. | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/we-wish-you-a-happy-new-year",
+         "pubDate" : "Mon, 01 Jan 2024 11:00:00",
+         "title" : "We wish you a happy new year!"
+      },
+      {
          "description" : "We are three months away from the start of the Candidates Tournaments in Toronto. With no more rated classical games in the December-2023 period, we got the names of the two players who got the rating spot in the open and women's sections - Alireza Firouzja and Humpy Koneru (pictured), respectively. The 2023 edition of the FIDE Circuit has also finished, with Gukesh grabbing the Candidates spot by finishing in second place, since Fabiano Caruana - the winner of the Circuit - was already qualified via the FIDE World Cup. | Photo: FIDE / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/happy-2.html",
          "pubDate" : "Sun, 31 Dec 2023 16:40:00",
          "title" : "Happy 2&Hat;3*11*23!"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 158th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to talk about the games and the legacy of Paul Keres. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-158-chess-history-in-a-nutshell-40",
-         "pubDate" : "Sun, 31 Dec 2023 15:00:00",
-         "title" : "Understanding before Moving 158: Chess history in a nutshell (40)"
       },
       {
          "description" : " Magnus Carlsen completed the double at the 2023 World Rapid and Blitz by winning the Blitz tournament with 16/21. He started the 2nd day of the Blitz with a loss to Maxime Vachier-Lagrave but finished with 7/8 to end up half a point ahead of Daniil Dubov. Vladislav Artemiev was in the lead at round 16 but fell back to 3rd place by the end. Valentina Gunina was the popular winner of the Women's Blitz, finishing with 14/17. Alexandra Kosteniuk was 2nd on 13.5, and Jiner Zhu was 3rd on 12.5. Unlike Day 4, there were no issues on the last day (at least from a pairing and organizational point of view). There was a slight delay for the final round after Carlsen queried the color allocation of his",
@@ -1256,22 +1256,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/fischer-vs-carlsen.html",
          "pubDate" : "Mon, 11 Dec 2023 16:30:00",
          "title" : "Fischer vs. Carlsen"
-      },
-      {
-         "description" : "ECU E-Magazine November 2023 is out! In this edition of the ECU E-Magazine you may read about: The November 2023 issue of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded in PDF format below. ECU-Magazine_November-2023",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-november-2023/",
-         "pubDate" : "Mon, 11 Dec 2023 11:55:34",
-         "title" : "ECU E-Magazine November 2023"
-      },
-      {
-         "description" : " <p class=\"lead\">The UK government's proposed &pound;1 million investment in chess is coming at the right time according to a YouGov poll, conducted in association with World Chess and it.com Domains, which shows an extensive decline in chess club memberships. Only 6% of those who continue to play either regularly or within the past 12 months have a chess club member in the UK, whilst 41.2% have historically been a chess club member, but have left over time. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/1.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> <h2>UK player numbers static</h2> The decline in membership of the traditional chess club correlates to the as",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/rise-of-online-chess-platforms-sees-a-41-decline-in-uk-chess-clu/",
-         "pubDate" : "Mon, 11 Dec 2023 08:34:03",
-         "title" : "Rise of online chess platforms sees a 41% decline in UK chess club membership"
       }
    ]
 }
