@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today we bring you the first instalment of solutions, to the puzzles on our Christmas Day page. It includes charming video of two 14 year old lads solving one of the problems. Today, both are Candidates for the World Championship. Solutions to the next six puzzle pages will follow soon - together with details on our composition competition, which will end on January 15.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/solutions",
+         "pubDate" : "Mon, 01 Jan 2024 16:00:00",
+         "title" : "Christmas Puzzles: Solutions 1"
+      },
+      {
+         "description" : " At some stage, I will take the time too look through the games from the 2023 World Rapid and Blitz. With 160 games per round, and a total of 34 rounds (across Rapid and Blitz), the event saw approximately 5000 games played. Some were great, some were memorable (for various reasons), and a few were best forgotten. But the following game played by Australian GM Anton Smirnov in the first round of the Blitz, falls into the entertaining category. <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD3g6QJ3kx1vOKJAq7Smvb_u4RlFnPoAiS1qnm7QhWn4bNNzfQau-8LwwjeN2XMCruEdCgGvgDJIjRDlp4S6OwJQbK4U-Y7WC3sWenTqdlvGvTZvntyjnUFL",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/a-lot-of-games-to-look-at.html",
+         "pubDate" : "Mon, 01 Jan 2024 13:08:00",
+         "title" : "A lot of games to look at"
+      },
+      {
          "description" : "We wish our readers and all chess fans a happy new year 2024. It's a special year for chess: 100 years ago, the World Chess Federation FIDE was founded in Paris. | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/we-wish-you-a-happy-new-year",
          "pubDate" : "Mon, 01 Jan 2024 11:00:00",
          "title" : "We wish you a happy new year!"
+      },
+      {
+         "description" : "Happy New Year! Ring in 2024 with New Year&#38;rsquo;s resolutions, new chess goals, and a brand-new set of bots for January. For the first time ever on Chess.com, the 16th undisputed World Chess Champion and number-one player in the world since 2011,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-magnus-carlsen-bots",
+         "pubDate" : "Mon, 01 Jan 2024 07:42:00",
+         "title" : "Play Chess Against Magnus Carlsen Bots"
       },
       {
          "description" : "We are three months away from the start of the Candidates Tournaments in Toronto. With no more rated classical games in the December-2023 period, we got the names of the two players who got the rating spot in the open and women's sections - Alireza Firouzja and Humpy Koneru (pictured), respectively. The 2023 edition of the FIDE Circuit has also finished, with Gukesh grabbing the Candidates spot by finishing in second place, since Fabiano Caruana - the winner of the Circuit - was already qualified via the FIDE World Cup. | Photo: FIDE / Lennart Ootes",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Gukesh, Firouzja and Humpy make it to the Candidates"
       },
       {
-         "description" : " Our chess highlights of 2023 will show how controversy served as the mainstay of headlines. The Carlsen-Niemann controversy was still bubbling as the chess community saw a dismissal on one count of the $100 million lawsuit in June. FIDE finally released a statement and, on four counts, fined the former World Champion 10,000 euros for The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/\">The Chess Drum's Highlights of 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Our chess highlights of 2023 will show how controversy served as the mainstay of headlines. We even saw a player busted for impersonating a woman! The Carlsen-Niemann controversy was still bubbling as the chess community saw a dismissal on one count of the $100 million lawsuit in June. FIDE finally released a statement and, on The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/\">The Chess Drum's Highlights of 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/",
@@ -954,14 +978,6 @@ news_feed (
          "title" : "Gukesh Surges Ahead On Day Of Spectators' Delight"
       },
       {
-         "description" : "Chess.com is excited to announce a new addition to our Insights page! Diamond members can now check out their Opening Insights to see how well they&#39;re playing the first stage of the game. It doesn&#39;t matter if you&#39;re fond of the trusty Queen&#39;s Ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-opening-insights",
-         "pubDate" : "Tue, 19 Dec 2023 05:04:00",
-         "title" : "Explore Your Opening Play With Chess.com's New Opening Insights Feature"
-      },
-      {
          "description" : " FM Jimmy Canty III has become one of the most popular and visible online chess personalities. His rise to stardom in the streaming world comes amidst giants such as Hikaru Nakamura, Levy Rozman, and the Botez (Alexandra &#38; Andrea) sisters. This led to high-profile commentary gigs and now the 31-year-old Detroit native has become a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/\">FM Jimmy Canty on Chessable!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1248,14 +1264,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/national-honour-3cs-chess-club/",
          "pubDate" : "Tue, 12 Dec 2023 08:45:08",
          "title" : "National Honour - 3Cs Chess Club"
-      },
-      {
-         "description" : "At the end of last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2023/12/elon-musk-and-squirrels.html\">Elon Musk and Squirrels</A> (December 2023), I asked, <BLOCKQUOTE> Will this be the start of another Monday series? That depends on whether I can figure out how to make AI comic generation do what I want it to do, rather than what it wants to do. </BLOCKQUOTE> <P> While I've learned a few tricks in the week since that post, the whole process is still too much like herding cats. For this post, I used the tool to see how well it drew World Champions, both past and present. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl11.jpg\" WIDTH=334 HEIGHT=400><BR> <B",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/fischer-vs-carlsen.html",
-         "pubDate" : "Mon, 11 Dec 2023 16:30:00",
-         "title" : "Fischer vs. Carlsen"
       }
    ]
 }
