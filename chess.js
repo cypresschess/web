@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2830",
+         "pubDate" : "Tue, 02 Jan 2024 13:22:25",
+         "title" : "FIDE100 celebrations start with lecture on Folke Rogard at Rilton Cup"
+      },
+      {
          "description" : "A rising star is the 17-year-old Srilankan Susal De Silva, who won the recent U18 category in the Asian Youth Championship 2023, which was held in Al Ain (United Arab Emirates). No wonder: he is a student of world-class trainer Efstratios Grivas, who tells us that \"a Gold Medal is mostly welcomed, but hard work is in need and opening preparation is a value part of the success!\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,6 +58,14 @@ news_feed (
          "title" : "Kwabena Adu-Poku and Gertrude Banini win the Ghanaian Championship 2023 "
       },
       {
+         "description" : "A week ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/12/foxy-christmas-chess.html\">Foxy Christmas Chess</A> (December 2023), I wrote, <BLOCKQUOTE> This year Christmas falls on a Monday, which happens to coincide with a new series last seen in <I>Chessman Comics</I> (December 2023). </BLOCKQUOTE> <P> Christmas plus one week equals New Year's Day. Once again, our AI generated comics have something to say. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa01.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Father Time plays chess with New Year baby.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> After a month experimenting with this technology, it's time t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/father-time-and-new-year-baby.html",
+         "pubDate" : "Mon, 01 Jan 2024 16:29:00",
+         "title" : "Father Time and the New Year Baby"
+      },
+      {
          "description" : "Today we bring you the first instalment of solutions, to the puzzles on our Christmas Day page. It includes charming video of two 14 year old lads solving one of the problems. Today, both are Candidates for the World Championship. Solutions to the next six puzzle pages will follow soon - together with details on our composition competition, which will end on January 15.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/we-wish-you-a-happy-new-year",
          "pubDate" : "Mon, 01 Jan 2024 11:00:00",
          "title" : "We wish you a happy new year!"
-      },
-      {
-         "description" : "Happy New Year! Ring in 2024 with New Year&#38;rsquo;s resolutions, new chess goals, and a brand-new set of bots for January. For the first time ever on Chess.com, the 16th undisputed World Chess Champion and number-one player in the world since 2011,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-magnus-carlsen-bots",
-         "pubDate" : "Mon, 01 Jan 2024 07:42:00",
-         "title" : "Play Chess Against Magnus Carlsen Bots"
       },
       {
          "description" : "We are three months away from the start of the Candidates Tournaments in Toronto. With no more rated classical games in the December-2023 period, we got the names of the two players who got the rating spot in the open and women's sections - Alireza Firouzja and Humpy Koneru (pictured), respectively. The 2023 edition of the FIDE Circuit has also finished, with Gukesh grabbing the Candidates spot by finishing in second place, since Fabiano Caruana - the winner of the Circuit - was already qualified via the FIDE World Cup. | Photo: FIDE / Lennart Ootes",
@@ -154,14 +162,6 @@ news_feed (
          "title" : "14th Chennai GM Open LIVE Games LINK"
       },
       {
-         "description" : "Titled Tuesdays have already been ramped up massively with the launch of the new Titled Cup, the $100,000 grand prix-style umbrella event to make our weekly tournaments in 2024 even more fierce. But if that isn&#39;t enough to get you tuning in on T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-prophet-the-fantasy-chess-game-for-titled-tuesdays",
-         "pubDate" : "Sun, 31 Dec 2023 06:14:11",
-         "title" : "Fantasy Sports Are Here: Magnus Carlsen's 'Chess Prophet' Launches For Titled Cup 2024"
-      },
-      {
          "description" : "Magnus Carlsen grabbed his 17th World Championship title - the 7th in blitz - by scoring 16/21 points at the World Blitz event in Samarkand. After losing his first game of the day, against Maxime Vachier-Lagrave, Carlsen grabbed six wins in a row to retake the sole lead. Two draws in the final rounds allowed him to outscore Daniil Dubov by a half point. In the women's championship, Valentina Gunina got outright victory thanks to a final-round win over Anna Muzychuk. Alexandra Kosteniuk came close to catching the eventual champion, but fell just short and took the silver medal. | Photo: FIDE / Anastasia Korolkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -192,14 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2825",
          "pubDate" : "Sat, 30 Dec 2023 15:43:23",
          "title" : "2023 World Blitz Chess Champions: Magnus Carlsen and Valentina Gunina"
-      },
-      {
-         "description" : "Popular streamer GM Oleksandr Bortnyk raced away to win 2023&#39;s last&#38;nbsp;Bullet Brawl on 240 points ahead of GM Daniel Naroditsky (232) and GM Jose Martinez (210), who finished second and third respectively. Bortnyk&#39;s title is his third of the yea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortyk-wins-bullet-brawl-december-30-2023",
-         "pubDate" : "Sat, 30 Dec 2023 15:21:00",
-         "title" : "Bortnyk Bolts To 3rd Bullet Brawl Title"
       },
       {
          "description" : " The World Rapid and Blitz Championships took place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc. In the rapid Magnus Carlsen won his 5th title. In the women's Anastasia Bodnaruk beat Humpy Koneru in a blitz tie-break match to take the title. I was taken by surprise by the return of tie-break matches. Reading the version ",
@@ -234,14 +226,6 @@ news_feed (
          "title" : "Christmas puzzles, fun to solve"
       },
       {
-         "description" : "GM Magnus Carlsen scored six consecutive wins in rounds 14-19 setting the tone of the second and final day at the 2023 FIDE World Blitz Chess Championship. It helped him capture the lead and win his seventh title after draws in the final two round...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-blitz-chess-championship-day-2",
-         "pubDate" : "Sat, 30 Dec 2023 06:26:00",
-         "title" : "Carlsen Wins 7th World Blitz Championship, Gunina Wins Women's"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -250,36 +234,12 @@ news_feed (
          "title" : "World Blitz Championship 2023 starts in Samarkand"
       },
       {
-         "description" : "GM Alireza Firouzja has likely wrapped up qualification for the 2024 FIDE Candidates Chess Tournament in Toronto after winning the Rouen Open with a perfect 7/7. He beat GM Gata Kamsky along the way and picked up sufficient rating points that even...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wesley-so-candidates-rouen",
-         "pubDate" : "Fri, 29 Dec 2023 18:17:00",
-         "title" : "Firouzja Overtakes Wesley So To Grab Candidates Rating Spot"
-      },
-      {
-         "description" : "Beginning in 2024, multiple Chess.com prize events will restrict draw offers until after move 30, and our bullet chess prize events will restrict draw offers for the entire game. While there is no doubt that a draw is a perfectly valid outcome i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-restricts-draw-offers-in-prize-events",
-         "pubDate" : "Fri, 29 Dec 2023 17:42:00",
-         "title" : "Chess.com Restricts Draw Offers In Multiple Prize Events"
-      },
-      {
          "description" : "Happy Holidays! This is the last part of my 7-day Newsletter series to prepare you for a successful 2024. If you want to check out the previous ones, here they are: Get Rid of Your Old Habits​ Adjust Your Mindset​ Get Comfortable With Discomfort​ Train Smart​ Plan Your Training​ Prepare For Roadblocks​ Throughout this series, you had the chance to get my course Next Level Training 30% off. As we all live in different time zones and some of you are sleeping when this email goes out, the 30%...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/day7-success-stories/",
          "pubDate" : "Fri, 29 Dec 2023 14:03:43",
          "title" : "Day 7 - Real Chess Improvement Success Stories"
-      },
-      {
-         "description" : "GMs Vladislav Artemiev, Magnus Carlsen, &#38;nbsp;Maxime Vachier-Lagrave, Nihal Sarin, Arjun Erigaisi, and Alexander Riazantsev scored nine points apiece to share the lead at the end of day one of the 2023 FIDE World Blitz Chess Championship. The sixt...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-blitz-chess-championship-day-1",
-         "pubDate" : "Fri, 29 Dec 2023 09:54:00",
-         "title" : "Dubov, Nepomniachtchi Punished As 6 Lead; Gunina Dazzles With 8.5/9"
       },
       {
          "description" : "Today we provide you with a master-level lesson. Leonid Ivanovich Kubbel, born in 1891 in St. Petersburg, Russia, was one of the greatest composers in chess history. One of the greatest composers of our time was GM Pal Benk&ouml;, born in 1928, died in 2019. The latter shows us how he improved on one of the most famous studies of all time, composed by the former.",
@@ -346,22 +306,6 @@ news_feed (
          "title" : "2023 World Rapid and Blitz - Day 2"
       },
       {
-         "description" : "Here comes another Puzzle Week on Chess.com! In 2024 we are celebrating it the week of January 8 with Chess Played Quick and other puzzle-themed streamer events, culminating with the $25,000 Puzzles World Championship on January 11-12. One of Ches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-puzzle-week-2024",
-         "pubDate" : "Thu, 28 Dec 2023 08:27:38",
-         "title" : "Puzzle Week Returns For 2024"
-      },
-      {
-         "description" : "GM Magnus Carlsen secured the world rapid chess crown for a record fifth time along with the $60,000 first prize at the 2023 FIDE World Rapid Chess Championship after scoring 3/4 on the final day. Wins over GMs Vladimir Fedoseev and Pouya Idani pu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-rapid-chess-championship-day-3-carlsen-wins",
-         "pubDate" : "Thu, 28 Dec 2023 07:57:00",
-         "title" : "Carlsen Wins 5th Rapid World Championship; Bodnaruk Claims 1st"
-      },
-      {
          "description" : "Problemists love to construct problems in shapes that symbolize something auspicious. The great composer (and World Championship candidate) Pal Benk&ouml; sent us a problem shaped like a candle. Today we bring you two problems shaped like Christmas trees. They are not too hard, which we cannot say about the third problem, which taxes the brain.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -400,30 +344,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/day5-smart-chess-plan/",
          "pubDate" : "Wed, 27 Dec 2023 14:10:25",
          "title" : "Day 5 - Crafting Your SMART Winning Chess Plan"
-      },
-      {
-         "description" : "GM Hikaru Nakamura and GM Matthias Bluebaum were the winners of Titled Tuesday on December 26, the last one of the year 2023. For Nakamura, it wrapped up yet another fabulously successful year of Titled Tuesdays. For Bluebaum, it was his first win...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-bluebaum-win-titled-tuesday-december-26-2023",
-         "pubDate" : "Wed, 27 Dec 2023 09:07:00",
-         "title" : "Nakamura Ends 2023 With Another Win"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Yu Yangyi, and Vladimir Fedoseev share first place on 7/9 at the 2023 FIDE World Rapid Chess Championship after Fedoseev missed a golden opportunity to defeat Yu while Carlsen was frustrated to squander winning chances against ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-rapid-chess-championship-day-2",
-         "pubDate" : "Wed, 27 Dec 2023 08:02:00",
-         "title" : "Missed Chances Leave Carlsen, Yu, Fedoseev Locked In Title Race"
-      },
-      {
-         "description" : "Titled Tuesdays are our beloved weekly battles where any titled player can face the likes of GM Magnus Carlsen and GM Hikaru Nakamura. Fans tune in without fail to see who will come out on top in these always-thrilling, 11-round blitz tournament...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/titled-cup-titled-tuesdays-just-got-even-more-fierce",
-         "pubDate" : "Wed, 27 Dec 2023 08:00:00",
-         "title" : "New For 2024-The Titled Cup: Titled Tuesdays Just Got Even More Fierce"
       },
       {
          "description" : "Let's say you find an interesting mating motif. Now you want to use it as the final position of a chess problem you will compose. The moves leading to it must be imaginative, clever and not very easy to find. But they must also be unique. There mustn't be alternative sets of move that lead to the final (or any) mate. For amateur composers, here's an example of a fellow amateur making a valid problem out of the position displayed.",
@@ -512,14 +432,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/that-did-not-start-that-badly.html",
          "pubDate" : "Tue, 26 Dec 2023 11:53:00",
          "title" : "That did not start that badly"
-      },
-      {
-         "description" : "GM Magnus Carlsen&#39;s title defense is alive and well after the first day of play at the 2023 FIDE World Rapid Chess Championship when the Norweigian favorite scored 4.5/5. Carlsen is joined by GMs Arjun Erigaisi, Yu Yangyi, Vidit Gujrathi, and Ivan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-rapid-chess-championship-day-1",
-         "pubDate" : "Tue, 26 Dec 2023 08:45:00",
-         "title" : "Carlsen On Track For Title Defense; Five Players Lead"
       },
       {
          "description" : "Playing chess is an immensely popular activity. Solving chess problems is also very enjoyable. But how about composing problems? During our revived Christmas Puzzle week, we want to discuss different methods of how to compose your very own chess problem! We ask you to give it a try yourself. Submit your own composition and win some great prizes!",
@@ -618,14 +530,6 @@ news_feed (
          "title" : "FIDE World Rapid and Blitz Chess Championship 2023 starts in Samarkand"
       },
       {
-         "description" : "GM Daniel Naroditsky has become the second player, along with GM Hikaru Nakamura, to win 10 or more Bullet Brawl&#39;s after posting a score of 272 in Saturday&#39;s event, 54 points ahead of the second-placed IM Terry Renato and 78 ahead of third, IM Yos...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-december-23-2023",
-         "pubDate" : "Sat, 23 Dec 2023 14:58:00",
-         "title" : "Naroditsky Secures 10th Bullet Brawl Title"
-      },
-      {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -634,28 +538,12 @@ news_feed (
          "title" : "Day 2 - Mastering Mindset: Shift from Rating Goals to Skill Improvement"
       },
       {
-         "description" : "The chess world had a busy year in 2023. From the World Championship in the spring to a busy December that featured the Champions Chess Tour Finals and a mad dash to the next Candidates Tournament, there was no shortage of chess being played. Th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-year-in-review",
-         "pubDate" : "Sat, 23 Dec 2023 10:11:00",
-         "title" : "2023 Year In Review"
-      },
-      {
          "description" : "Senior National Arbiter Seminar, Vizianagaram, Andhra Pradesh certificates are out to download. link : https://aicf.online/SNA-Vizg.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/senior-national-arbiter-seminar-certificates/",
          "pubDate" : "Sat, 23 Dec 2023 09:36:11",
          "title" : "Senior National Arbiter Seminar, Certificates"
-      },
-      {
-         "description" : "Indian GM Abhimanyu Puranik won his last four games to take clear first place on 8.5/10 and win the Chessable Sunway Sitges Chess Festival 2023. Four players tied for second place, with U.S. GM Brandon Jacobson taking the runner-up spot after winn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/puranik-wins-sitges-erdogmus-gm-norm",
-         "pubDate" : "Sat, 23 Dec 2023 02:09:00",
-         "title" : "Puranik Wins In Sitges, 12-Year-Old Erdogmus Makes 1st GM Norm"
       },
       {
          "description" : " I am heading off later today to be a Pairings Officer at the World Rapid and Blitz Championship. Eschewing the traditional method of travelling to Samarkand, I will still be in transit for the next 36 hours. To pass the time a little light reading, in the form of the decisions made by FIDE Council at its most recent meeting <a href=\"https://fide.com/news/2815\">https://fide.com/news/2815</a> ",
@@ -674,28 +562,12 @@ news_feed (
          "title" : "11-year-old Deborah Quickpen, Nigerian Chess sensation"
       },
       {
-         "description" : "Chess In Slums Africa partnered with Chess.com to reach the goal of raising $50,000 to bring the education and joy of chess to 5,000 children in Africa. With an arena tournament played on Chess.com, and with a powerhouse team of commentators and g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-in-slums-africa-fundraiser-recap",
-         "pubDate" : "Fri, 22 Dec 2023 14:44:00",
-         "title" : "2,706 Players Compete For A Cause: Chess In Slums Africa Fundraiser"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2815",
          "pubDate" : "Fri, 22 Dec 2023 14:25:01",
          "title" : "2023 3rd FIDE Council Meeting: List of decisions"
-      },
-      {
-         "description" : "GM Alireza Firouzja had overtaken GM Wesley So on the live rating list after scoring 5/5 in a series of three matches against veterans in his home chess club of Chartres. Alas for the 20-year-old, he had one more game to play, and a draw from a lo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wesley-so-candidates",
-         "pubDate" : "Fri, 22 Dec 2023 14:17:00",
-         "title" : "Firouzja Falls At Final Candidates Hurdle, Wins Only 5.5/6, Drops Below So"
       },
       {
          "description" : " Alireza Firouzja had a final attempt to boost his rating in the January list and qualify for the Candidates by playing 6 games, three two games matches, against Alexandre Dgebuadze, Andrei Shchekachev and Sergey Fedorchuk in Chartres, 18th to 22nd December 2023. This was similar to the successful method Ding Liren used to qualify for the last Candidates. Whilst due to Covid-19 I had some sympathy with Ding trying to play enough games to qualify after an enforced break, this now just doesn't seem right to me. I think it's going to be very tricky for Firouzja to boost his rating enough anyhow. I used to be in favour of the strongest non-qualified player getting a place by rating, but I think ",
@@ -720,14 +592,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2814",
          "pubDate" : "Fri, 22 Dec 2023 14:06:22",
          "title" : "FIDE General Assembly: List of decisions"
-      },
-      {
-         "description" : "After another 12 months logged in humanity&#39;s book, we might&#39;ve lost track of how much we put into this timeless game. Thankfully, Chess.com has us covered with a brand new feature available now: YEAR IN CHESS! Look back at the stats of your fantas...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-year-in-chess",
-         "pubDate" : "Fri, 22 Dec 2023 12:08:00",
-         "title" : "Chess.com Launches Year In Chess!"
       },
       {
          "description" : "",
@@ -802,14 +666,6 @@ news_feed (
          "title" : "Congratulations GM RB Ramesh for Dronacharya Award"
       },
       {
-         "description" : "Time sure flies when you&#39;re having having fun-damental endgame clashes! It&#39;s the end of 2023 already, and what a tremendous year it was for chess! There are numerous reasons to celebrate the last 12 months&#38;mdash;so many that choosing the best amon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-chesscom-awards-vote",
-         "pubDate" : "Thu, 21 Dec 2023 13:52:00",
-         "title" : "Vote For The 2023 Chess.com Awards"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -848,14 +704,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
          "pubDate" : "Thu, 21 Dec 2023 08:50:00",
          "title" : "Chennai Grand Masters - Live!"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju defended a slightly inferior endgame successfully against GM Pentala Harikrishna and won the title on tiebreak from GM Arjun Erigaisi after the seventh and final round of the Chennai Grand Masters 2023. Arjun fired on all cylin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-7",
-         "pubDate" : "Thu, 21 Dec 2023 08:07:00",
-         "title" : "Gukesh Wins Title On Tiebreak, Overtakes Giri In Candidates' Race"
       },
       {
          "description" : "8-year-old Bodhana Sivanandan (ENG) stunned the world with her phenomenal performance at the European Rapid and Blitz Chess Championship 2023 in Zagreb, Croatia. In the last couple of days, her name appeared in Daily Mail, CNN News, BBC News, The Guardian, The Independent, The Times, Sky News, Der Spiegel, NDTW world and other media who reported about Bodhana's success in Zagreb. Scoring 8.5/13 points, Bodhana Sivanandan emerged as the best-ranked female player in the European Blitz Chess Championship 2023, ahead []",
@@ -912,30 +760,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-rapidplay-2024/",
          "pubDate" : "Wed, 20 Dec 2023 11:20:12",
          "title" : "British Rapidplay 2024"
-      },
-      {
-         "description" : "One is perhaps the greatest American chess author, and the other the greatest American chess presenter. Now, only on Chessable, you can learn from late IM Jeremy Silman&#39;s renowned classic, How To Reassess Your Chess, in a very special five-star co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chessable-course-how-to-reassess-your-chess",
-         "pubDate" : "Wed, 20 Dec 2023 09:45:00",
-         "title" : "Maurice Ashley Presents 'How To Reassess Your Chess' On Chessable"
-      },
-      {
-         "description" : "It&#39;s a minor surprise that it doesn&#39;t happen more often, but GM Magnus Carlsen and&#38;nbsp;GM Hikaru Nakamura were the winners of&#38;nbsp;Titled Tuesday on December 19. Carlsen scored 10/11 in the early event, beating Nakamura by half a point, and in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-nakamura-win-titled-tuesday-december-19-2023",
-         "pubDate" : "Wed, 20 Dec 2023 08:48:46",
-         "title" : "Carlsen Continues Building Rating Record"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju continued to lead with four points at the end of the sixth and penultimate round of the Chennai Grand Masters 2023 after his uneventful draw against GM Pavel Eljanov. GM Arjun Erigaisi continued his best effort to win the tourn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-6",
-         "pubDate" : "Wed, 20 Dec 2023 08:42:00",
-         "title" : "Gukesh Leads Before Final Round, Vies For Candidates Spot"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3I7EystMbZc.jpg?itok=KA0CeJLf\" alt=\"\" /></a></div>",
@@ -1008,14 +832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2808",
          "pubDate" : "Tue, 19 Dec 2023 09:58:32",
          "title" : "New EDU Program and Titles endorsed by the FIDE Council"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju scored his second consecutive victory by outwitting GM Sanan Sjugirov, with the black pieces and aggressive play, to jump into the sole lead with three and a half points from five rounds in the Chennai Grand Masters 2023. Overn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-4-1",
-         "pubDate" : "Tue, 19 Dec 2023 08:56:00",
-         "title" : "Gukesh Surges Ahead On Day Of Spectators' Delight"
       },
       {
          "description" : " FM Jimmy Canty III has become one of the most popular and visible online chess personalities. His rise to stardom in the streaming world comes amidst giants such as Hikaru Nakamura, Levy Rozman, and the Botez (Alexandra &#38; Andrea) sisters. This led to high-profile commentary gigs and now the 31-year-old Detroit native has become a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/\">FM Jimmy Canty on Chessable!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
