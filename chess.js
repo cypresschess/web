@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A rising star is the 17-year-old Srilankan Susal De Silva, who won the recent U18 category in the Asian Youth Championship 2023, which was held in Al Ain (United Arab Emirates). No wonder: he is a student of world-class trainer Efstratios Grivas, who tells us that \"a Gold Medal is mostly welcomed, but hard work is in need and opening preparation is a value part of the success!\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-the-value-of-preparation",
+         "pubDate" : "Tue, 02 Jan 2024 10:38:02",
+         "title" : "Grivas on the Value of Preparation"
+      },
+      {
+         "description" : "The ECU Trainers Commission organizes the first Seminar for trainers' education &#38; titles. The Seminar will be held online from 19-29 February 2024, with free participation for 25 participants nominated by European National Chess Federations and five free places for participants nominated by the ECU Commission for Women's Chess. The Seminar is specially prepared for applicants for the ECU Expert Coach title (EEC). The title may/will be awarded as per the ECU ETC Regulations. In order to get the EEC []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/the-1st-ecu-trainers-online-seminar/",
+         "pubDate" : "Tue, 02 Jan 2024 10:23:22",
+         "title" : "The 1st ECU Trainers Online Seminar"
+      },
+      {
+         "description" : "Reference to our earlier notice on subject matter published on 19 October 2023 ,please find the venue and timings for your ready reference Date:10 to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/announcement-medical-evaluation-at-patna/",
+         "pubDate" : "Tue, 02 Jan 2024 08:52:07",
+         "title" : "Announcement :Medical Evaluation at Patna"
+      },
+      {
          "description" : "On 1st January FIDE published its new ranking list. Firouzja, who tried hard in the last days of December to gain a few more rating points, has achieved his goal: he has overtaken Wesley So and qualified for the Candidates by rating. Magnus Carlsen is still the clear number one, ahead of Fabiano Caruana and Hikaru Nakamura in second and third, while Vincent Keymer and Praggnanandhaa are the world's best juniors. Hou Yifan continues to top the women's list and Bibisara Assaubayeva is the world's best female junior.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -698,14 +722,6 @@ news_feed (
          "title" : "FIDE General Assembly: List of decisions"
       },
       {
-         "description" : "The ECF Office closes at 5.00pm today [22/12/23], and will re-open for business at 9.00am on Wednesday 27th December 2023. It will also be closed...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/christmas-wishes-office-hours/",
-         "pubDate" : "Fri, 22 Dec 2023 13:00:40",
-         "title" : "Christmas wishes / office hours"
-      },
-      {
          "description" : "After another 12 months logged in humanity&#39;s book, we might&#39;ve lost track of how much we put into this timeless game. Thankfully, Chess.com has us covered with a brand new feature available now: YEAR IN CHESS! Look back at the stats of your fantas...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1082,14 +1098,6 @@ news_feed (
          "title" : "European Rapid and Blitz Chess Championship 2023 concluded in Croatia"
       },
       {
-         "description" : "Please find here live link of Chennai GM Chess Tournament 2023 https://cgm2023.magdisoft.com/live/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-chennai-gm-chess-tournament/",
-         "pubDate" : "Sun, 17 Dec 2023 04:42:14",
-         "title" : "Live Link : Chennai GM Chess Tournament"
-      },
-      {
          "description" : " The Champions Chess Tour Final took place in Toronto, Canada 9th to 16th. The mostly online tour its final in Toronto. Magnus Carlsen, Denis Lazavik, Nodirbek Abdusattorov, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Hikaru Nakamura and Wesley So. There were round robin stage of mini-matches. The top two make the knockout phase, 3rd-6th entered a survival stage double elimination stage to find two players. Magnus Carlsen beat Wesley So 2-0 in the final. Nodirbek Abdusattorov and Fabiano Caruana finished in joint 3rd place.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1272,22 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2792",
          "pubDate" : "Tue, 12 Dec 2023 20:21:28",
          "title" : "FIDE GA 2023 List of Delegates and Constitutional Commission report published"
-      },
-      {
-         "description" : "&#8212; from Chess.com GM Michael Adams said it was probably his best-ever result to win the London Chess Classic 2023 at the age of 52....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/lcc-adams-wins-with-best-ever-result-royal-makes-second-gm-norm/",
-         "pubDate" : "Tue, 12 Dec 2023 09:05:33",
-         "title" : "LCC - Adams wins with 'Best Ever Result', Royal makes second GM Norm"
-      },
-      {
-         "description" : "3Cs Chess Club have once again been given national recognition, with the club's founder Steve Rigby having secured a &#8216;Points of Light' award, a national...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/national-honour-3cs-chess-club/",
-         "pubDate" : "Tue, 12 Dec 2023 08:45:08",
-         "title" : "National Honour - 3Cs Chess Club"
       }
    ]
 }
