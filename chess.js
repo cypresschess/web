@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi stretches classical players to their limits with less time on the clock. So, how good CAN you be in quick chess? 2024.01.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-good-you-can-be-fast-time-controls-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4q1XpMGRjWs.jpg?itok=zg9DljGy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-good-you-can-be-fast-time-controls-grandmasters-choice-gm-elshan-moradiabadi",
+         "pubDate" : "Tue, 02 Jan 2024 23:34:22",
+         "title" : "How Good YOU Can Be in Fast Time Controls! | Grandmaster's Choice - GM Elshan Moradiabadi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko teaches a beginner chess class on king and pawn endgames you absolutely should know! 2024.01.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/basic-king-pawn-endgames-beginner-breakdown-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v0vNovIDrKo.jpg?itok=gxthSo7N\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/basic-king-pawn-endgames-beginner-breakdown-nm-julian-proleiko",
+         "pubDate" : "Tue, 02 Jan 2024 23:34:22",
+         "title" : "Basic King & Pawn Endgames | Beginner Breakdown - NM Julian Proleiko"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2832",
+         "pubDate" : "Tue, 02 Jan 2024 21:37:52",
+         "title" : "2023 Vodafone Fiji Championship: Manoj Kumar and Cydel Terubea clinch titles"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1002,22 +1026,6 @@ news_feed (
          "title" : "DESTROY the Scandinavian, CHASE the Lady! | Beginner Breakdown - GM Denes Boros"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows beginner chess players his method of playing against Black&#039;s Scandinavian, or 1.e4 d5. 2023.12.19 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/destroy-scandinavian-chase-queen-beginner-breakdown-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CEQg7gv4rCk.jpg?itok=dYZHyDR3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/destroy-scandinavian-chase-queen-beginner-breakdown-gm-denes-boros",
-         "pubDate" : "Tue, 19 Dec 2023 23:22:30",
-         "title" : "DESTROY the Scandinavian, CHASE the Queen! | Beginner Breakdown - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky demonstrates how a pawn advantage doesn't guarantee chess victory. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/two-extra-pawns-dont-win-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q412s39Nyco.jpg?itok=mmj5DjrU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/two-extra-pawns-dont-win-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Tue, 19 Dec 2023 23:22:30",
-         "title" : "Two Extra Pawns Don't Win! | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
          "description" : "Owen Philips has decided to stand down from the post of Manager for Accessible Chess on health grounds.&#160;During his tenure Owen has taken forward a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1288,14 +1296,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-starts-in-zagreb/",
          "pubDate" : "Wed, 13 Dec 2023 08:55:06",
          "title" : "European Rapid and Blitz Chess Championship 2023 starts in Zagreb"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2793",
-         "pubDate" : "Tue, 12 Dec 2023 20:39:50",
-         "title" : "FIDE President visits North and West African countries"
       }
    ]
 }
