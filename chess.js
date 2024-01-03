@@ -50,6 +50,14 @@ news_feed (
          "title" : "Christmas Puzzles: Solutions 2"
       },
       {
+         "description" : "Victory in the first Titled Tuesday tournaments of 2024, held January 2, went to two familiar faces. GM Maxime Vachier-Lagrave won the early event with 9.5 points and slightly better tiebreakers than GM Magnus Carlsen. Then, GM Hikaru Nakamura sco...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-nakamura-win-titled-tuesday-january-2-2024",
+         "pubDate" : "Wed, 03 Jan 2024 09:31:56",
+         "title" : "Nakamura Begins 2024 With Another Win, Leads Titled Cup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi stretches classical players to their limits with less time on the clock. So, how good CAN you be in quick chess? 2024.01.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-good-you-can-be-fast-time-controls-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4q1XpMGRjWs.jpg?itok=zg9DljGy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1096,14 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2808",
          "pubDate" : "Tue, 19 Dec 2023 09:58:32",
          "title" : "New EDU Program and Titles endorsed by the FIDE Council"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju scored his second consecutive victory by outwitting GM Sanan Sjugirov, with the black pieces and aggressive play, to jump into the sole lead with three and a half points from five rounds in the Chennai Grand Masters 2023. Overn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-4-1",
-         "pubDate" : "Tue, 19 Dec 2023 08:56:00",
-         "title" : "Gukesh Surges Ahead On Day Of Spectators' Delight"
       },
       {
          "description" : " FM Jimmy Canty III has become one of the most popular and visible online chess personalities. His rise to stardom in the streaming world comes amidst giants such as Hikaru Nakamura, Levy Rozman, and the Botez (Alexandra &#38; Andrea) sisters. This led to high-profile commentary gigs and now the 31-year-old Detroit native has become a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/\">FM Jimmy Canty on Chessable!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
