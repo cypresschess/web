@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The ECF calendar is currently experiencing problems with a potential virus / virus warning, and as such will not work at the moment. Please bear...",
+         "description" : "With the publication of FIDE's January rating list, the participants in the Candidates Tournaments in April have been practically finalised. Alireza Firouzja and Humyp Koneru qualify thanks to their ratings while Magnus Carlsen is formally qualified, but has already stated that he does not wish to play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-participants-of-the-candidates",
+         "pubDate" : "Wed, 03 Jan 2024 14:36:02",
+         "title" : "The participants of the Candidates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2833",
+         "pubDate" : "Wed, 03 Jan 2024 14:20:29",
+         "title" : "FIDE announces the first-ever World Cup for youngsters"
+      },
+      {
+         "description" : "FIDE are making some changes to their rating system and title regulations with further details at the link here https://fide.com/news/2831 The rating system changes...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-changes-to-rating-system-and-title-regulations/",
+         "pubDate" : "Wed, 03 Jan 2024 14:17:39",
+         "title" : "FIDE changes to rating system and title regulations"
+      },
+      {
+         "description" : "The Caplin Hastings International Chess Congress is well underway, and live commentary on the games with IM Richard Pert and guests can be followed every...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/caplin-hastings-international-chess-congress-live-commentary/",
+         "pubDate" : "Wed, 03 Jan 2024 13:56:59",
+         "title" : "Caplin Hastings International Chess Congress - live commentary"
+      },
+      {
+         "description" : "The ECF calendar is currently experiencing problems with a potential virus / virus warning, and as such may or may not work at the moment....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-calendar-virus-warnings/",
@@ -1288,30 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2816",
          "pubDate" : "Wed, 13 Dec 2023 21:22:24",
          "title" : "Verica Nedeljkovi&#263, 1929-2023: Serbian Grandmaster who rattled Soviet Women's chess dominance"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2795",
-         "pubDate" : "Wed, 13 Dec 2023 13:32:19",
-         "title" : "Decision on the Magnus Carlsen / Hans Niemann case"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2794",
-         "pubDate" : "Wed, 13 Dec 2023 13:01:09",
-         "title" : "Everything ready for the start of World Rapid and Blitz in Samarkand"
-      },
-      {
-         "description" : " I once read that Capablanca described the ideal chess game as one where a player played positionally correct moves, forced the win of material, and won with the last remaining pawn on the board. While I'm not convinced that all moves were positionally correct, it at least fulfilled the last of Capablanca's conditions. <br /> <b>Cheng,Larry - Press,Shaun [D03]</b><br /> Swiss Festive Fun --- (6), 12.12.2023 <script> new PgnViewer( { boardName: \"game1434\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Nf3 g6 3.Bg5 Bg7 4.e3 d5 5.Bd3 Ne4 6.Bh4 c5 7.c3 cxd4 8.exd4 O-O 9.Nbd2 Bf5 10.Qc2 Nxd2 11.Qxd2 Bxd3 12.Qxd3 Nc6 13.O-O Qb6 14.Qe2 e6 15.Rfe1 Rac8 16.Rab1 Rfe8 17.Qd2 Na5 18.Qf4 Qc7 19.Qxc7 Rxc7",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/an-ideal-game.html",
-         "pubDate" : "Wed, 13 Dec 2023 12:43:00",
-         "title" : "An ideal game?"
       }
    ]
 }
