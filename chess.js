@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF calendar is currently experiencing problems with a potential virus / virus warning, and as such will not work at the moment. Please bear...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-calendar-virus-warnings/",
+         "pubDate" : "Wed, 03 Jan 2024 11:08:45",
+         "title" : "ECF calendar - virus warnings"
+      },
+      {
+         "description" : "In part four of our Christmas Puzzle Week we had some seasonal chess problems - a candle and two Christmas trees. But we also included a helpmate in two, with a devilishly difficult retroanalytical part. Were you able to find the two solutions, and explain why one of them was illegal? Try and follow the analysis of our problem expert.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-puzzles-solutions-4",
+         "pubDate" : "Wed, 03 Jan 2024 09:52:36",
+         "title" : "Christmas Puzzles: Solutions 2"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi stretches classical players to their limits with less time on the clock. So, how good CAN you be in quick chess? 2024.01.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-good-you-can-be-fast-time-controls-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4q1XpMGRjWs.jpg?itok=zg9DljGy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2831",
          "pubDate" : "Tue, 02 Jan 2024 20:05:21",
          "title" : "New FIDE Rating and Title Regulations come into effect"
+      },
+      {
+         "description" : "A new year means turning the page to the next twelve months of 'On the Cover' posts. This year will mark the tenth anniversary of the series, which started with <A HREF=\"https://chessforallages.blogspot.com/2014/03/march-1964-on-cover.html\">March 1964 'On the Cover'</A> (March 2014). In the last post for 2023, <A HREF=\"https://chessforallages.blogspot.com/2023/12/december-1973-1998-on-cover.html\">December 1973 & 1998 'On the Cover'</A> (December 2023), I noted, <BLOCKQUOTE> Last month's post about U.S. chess magazines 50 and 25 years ago, <I>November 1973 & 1998 'On the Cover'</I> (November 2023), had an arty portrait on the right. This month's post has a different sort of art. </BLOCKQUOTE>",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/january-1974-1999-on-cover.html",
+         "pubDate" : "Tue, 02 Jan 2024 16:19:00",
+         "title" : "January 1974 & 1999 'On the Cover'"
       },
       {
          "description" : "",
@@ -1288,14 +1312,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/an-ideal-game.html",
          "pubDate" : "Wed, 13 Dec 2023 12:43:00",
          "title" : "An ideal game?"
-      },
-      {
-         "description" : "The 2023 European Rapid and Blitz Chess Championship starts tomorrow in Zagreb, Croatia! Nearly 700 players coming from 41 European federations registered for the event, and the top seeds are: GM David Navara (CZE), GM Etienne Bacrot (FRA), GM Vasyl Ivanchuk (UKR), GM Baadur Jobava (GEO), GM Laurent Fressinet (FRA), GM Sabino Brunello (ITA), GM Alexey Sarana (SRB), GM Haik Martirosyan (ARM), GM Eltaj Safarli (AZE), GM Bogdan-Daniel Deac (ROU) etc. The highest rated Croatian grandmaster and European Chess Champion []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-starts-in-zagreb/",
-         "pubDate" : "Wed, 13 Dec 2023 08:55:06",
-         "title" : "European Rapid and Blitz Chess Championship 2023 starts in Zagreb"
       }
    ]
 }
