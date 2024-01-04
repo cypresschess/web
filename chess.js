@@ -34,6 +34,14 @@ news_feed (
          "title" : "Caplin Hastings International Chess Congress - live commentary"
       },
       {
+         "description" : "FM Yosha Iglesias has etched her name in chess history as the first-ever transgender player to fulfill all the requirements for the woman international master title. The title has not been conferred yet and is pending FIDE&#39;s approval. The French...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yosha-iglesias-to-make-history-as-1st-transgender-wim",
+         "pubDate" : "Wed, 03 Jan 2024 13:19:00",
+         "title" : "Yosha Iglesias To Make History As 1st Transgender WIM, Pending FIDE Approval"
+      },
+      {
          "description" : "The ECF calendar is currently experiencing problems with a potential virus / virus warning, and as such may or may not work at the moment....",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1042,14 +1050,6 @@ news_feed (
          "title" : "Carlsen Continues Building Rating Record"
       },
       {
-         "description" : "GM Gukesh Dommaraju continued to lead with four points at the end of the sixth and penultimate round of the Chennai Grand Masters 2023 after his uneventful draw against GM Pavel Eljanov. GM Arjun Erigaisi continued his best effort to win the tourn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-6",
-         "pubDate" : "Wed, 20 Dec 2023 08:42:00",
-         "title" : "Gukesh Leads Before Final Round, Vies For Candidates Spot"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3I7EystMbZc.jpg?itok=KA0CeJLf\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1304,22 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2797",
          "pubDate" : "Thu, 14 Dec 2023 09:42:16",
          "title" : "FIDE officials take part in the Global Refugee Forum in Geneva"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2796",
-         "pubDate" : "Wed, 13 Dec 2023 21:28:54",
-         "title" : "2023 Hungarian Championship: A few unexpected results at the start"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2816",
-         "pubDate" : "Wed, 13 Dec 2023 21:22:24",
-         "title" : "Verica Nedeljkovi&#263, 1929-2023: Serbian Grandmaster who rattled Soviet Women's chess dominance"
       }
    ]
 }
