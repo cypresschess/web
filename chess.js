@@ -1280,14 +1280,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-kicked-off-in-zagreb/",
          "pubDate" : "Thu, 14 Dec 2023 23:03:14",
          "title" : "European Rapid and Blitz Chess Championship 2023 kicked off in Zagreb"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2799",
-         "pubDate" : "Thu, 14 Dec 2023 16:05:35",
-         "title" : "Leon Livai&#263 wins 2023 Croatian Championship"
       }
    ]
 }
