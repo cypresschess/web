@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2024 Australian Championship is underway in Adelaide. In good news for local readers of this blog, the top 2 places are currently held by Canberra players. IM Rishi Sardana is the top seed, and leads with 4/4. FM Fred Litchfield is in 2nd place on 3.5. Of course they are now paired in round 5, although this ensures that at least one of them will maintain the lead just before the half way mark. The Championship attracted 29 players, with 4 IM's, 2 WGM's and assorted other title players. Although title norms for this event are exempt from the normal foreigner requirement (due to it being a national championship), the performance rating required for an IM norm will be difficult to achieve,",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/2023-24-australian-championship.html",
+         "pubDate" : "Thu, 04 Jan 2024 10:58:00",
+         "title" : "2023-24 Australian Championship"
+      },
+      {
+         "description" : "With new money and new sponsors pouring in, and never before seen numbers of spectators following the games, the tendency is towards faster time controls. Classical games are played with reduced times, rapid and blitz tournamenst are gaining popularity. That provides more action and excitement for chess fans. But is it really the way to go? Rune Vik-Hansen, Norwegian philosopher, argues in favour of long games.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/long-live-classical-chess",
+         "pubDate" : "Thu, 04 Jan 2024 09:32:58",
+         "title" : "Long live classical chess"
+      },
+      {
          "description" : "The people have spoken! Over 16,000 voters chose the best games, moves, creators, and all things chess in 2023. Now, it&#39;s time for us to reveal the winners of the 2023 Chess.com Awards. GM Magnus Carlsen at the Champions Chess Tour Finals, one...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yosha-iglesias-to-make-history-as-1st-transgender-wim",
          "pubDate" : "Wed, 03 Jan 2024 13:19:00",
          "title" : "Yosha Iglesias To Make History As 1st Transgender WIM, Pending FIDE Approval"
-      },
-      {
-         "description" : "The ECF calendar is currently experiencing problems with a potential virus / virus warning, and as such may or may not work at the moment....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-calendar-virus-warnings/",
-         "pubDate" : "Wed, 03 Jan 2024 11:08:45",
-         "title" : "ECF calendar - virus warnings"
       },
       {
          "description" : "In part four of our Christmas Puzzle Week we had some seasonal chess problems - a candle and two Christmas trees. But we also included a helpmate in two, with a devilishly difficult retroanalytical part. Were you able to find the two solutions, and explain why one of them was illegal? Try and follow the analysis of our problem expert.",
@@ -1280,30 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2799",
          "pubDate" : "Thu, 14 Dec 2023 16:05:35",
          "title" : "Leon Livai&#263 wins 2023 Croatian Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2800",
-         "pubDate" : "Thu, 14 Dec 2023 11:30:32",
-         "title" : "Cape Verde Championship 2023: Mariano Ortega wins fourth title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2798",
-         "pubDate" : "Thu, 14 Dec 2023 10:13:52",
-         "title" : "FIDE joins Global Esports Federation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2797",
-         "pubDate" : "Thu, 14 Dec 2023 09:42:16",
-         "title" : "FIDE officials take part in the Global Refugee Forum in Geneva"
       }
    ]
 }
