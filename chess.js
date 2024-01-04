@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The people have spoken! Over 16,000 voters chose the best games, moves, creators, and all things chess in 2023. Now, it&#39;s time for us to reveal the winners of the 2023 Chess.com Awards. GM Magnus Carlsen at the Champions Chess Tour Finals, one...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-chesscom-awards-winners",
+         "pubDate" : "Wed, 03 Jan 2024 17:21:12",
+         "title" : "Announcing The 2023 Chess.com Awards Winners"
+      },
+      {
          "description" : "With the publication of FIDE's January rating list, the participants in the Candidates Tournaments in April have been practically finalised. Alireza Firouzja and Humyp Koneru qualify thanks to their ratings while Magnus Carlsen is formally qualified, but has already stated that he does not wish to play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chessable-course-how-to-reassess-your-chess",
          "pubDate" : "Wed, 20 Dec 2023 09:45:00",
          "title" : "Maurice Ashley Presents 'How To Reassess Your Chess' On Chessable"
-      },
-      {
-         "description" : "It&#39;s a minor surprise that it doesn&#39;t happen more often, but GM Magnus Carlsen and&#38;nbsp;GM Hikaru Nakamura were the winners of&#38;nbsp;Titled Tuesday on December 19. Carlsen scored 10/11 in the early event, beating Nakamura by half a point, and in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-nakamura-win-titled-tuesday-december-19-2023",
-         "pubDate" : "Wed, 20 Dec 2023 08:48:46",
-         "title" : "Carlsen Continues Building Rating Record"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3I7EystMbZc.jpg?itok=KA0CeJLf\" alt=\"\" /></a></div>",
