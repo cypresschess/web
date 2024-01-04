@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As expected, Magnus Carlsen has now announced on his X account that he won't be playing in the Candidates Tournament in Toronto in April, even though he qualified by winning the World Cup 2023 and by being the world's number one on the rating list. GM Nijat Abasov from Azerbaijan, who lost to Carlsen in the semifinals of the World Cup, will get Carlsen's place in the Candidates. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/it-s-official-carlsen-will-not-play-in-the-candidates",
+         "pubDate" : "Thu, 04 Jan 2024 19:58:01",
+         "title" : "It's official: Carlsen will not play in the Candidates"
+      },
+      {
          "description" : " The 2024 Australian Championship is underway in Adelaide. In good news for local readers of this blog, the top 2 places are currently held by Canberra players. IM Rishi Sardana is the top seed, and leads with 4/4. FM Fred Litchfield is in 2nd place on 3.5. Of course they are now paired in round 5, although this ensures that at least one of them will maintain the lead just before the half way mark. The Championship attracted 29 players, with 4 IM's, 2 WGM's and assorted other title players. Although title norms for this event are exempt from the normal foreigner requirement (due to it being a national championship), the performance rating required for an IM norm will be difficult to achieve,",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/01/2023-24-australian-championship.html",
          "pubDate" : "Thu, 04 Jan 2024 10:58:00",
          "title" : "2023-24 Australian Championship"
+      },
+      {
+         "description" : "In video footage from the recently concluded 2023 World Rapid Championship held in Samarkand, Uzbekistan, Poland&#39;s number one GM Jan-Krzysztof Duda refused to shake hands with Russian GM Denis Khismatullin before their game in round one.&#38;nbsp; T...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/polish-number-1-refuses-handshake-with-russian-gm",
+         "pubDate" : "Thu, 04 Jan 2024 10:41:00",
+         "title" : "Polish Number 1 Refuses Handshake With Russian GM In World Rapid Championship"
       },
       {
          "description" : "With new money and new sponsors pouring in, and never before seen numbers of spectators following the games, the tendency is towards faster time controls. Classical games are played with reduced times, rapid and blitz tournamenst are gaining popularity. That provides more action and excitement for chess fans. But is it really the way to go? Rune Vik-Hansen, Norwegian philosopher, argues in favour of long games.",
@@ -18,11 +34,19 @@ news_feed (
          "title" : "Long live classical chess"
       },
       {
+         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
+         "pubDate" : "Thu, 4 Jan 2024 03:40:52",
+         "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
+      },
+      {
          "description" : "The people have spoken! Over 16,000 voters chose the best games, moves, creators, and all things chess in 2023. Now, it&#39;s time for us to reveal the winners of the 2023 Chess.com Awards. GM Magnus Carlsen at the Champions Chess Tour Finals, one...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2023-chesscom-awards-winners",
-         "pubDate" : "Wed, 03 Jan 2024 17:21:12",
+         "pubDate" : "Wed, 03 Jan 2024 17:21:00",
          "title" : "Announcing The 2023 Chess.com Awards Winners"
       },
       {
@@ -1048,14 +1072,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-rapidplay-2024/",
          "pubDate" : "Wed, 20 Dec 2023 11:20:12",
          "title" : "British Rapidplay 2024"
-      },
-      {
-         "description" : "One is perhaps the greatest American chess author, and the other the greatest American chess presenter. Now, only on Chessable, you can learn from late IM Jeremy Silman&#39;s renowned classic, How To Reassess Your Chess, in a very special five-star co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chessable-course-how-to-reassess-your-chess",
-         "pubDate" : "Wed, 20 Dec 2023 09:45:00",
-         "title" : "Maurice Ashley Presents 'How To Reassess Your Chess' On Chessable"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3I7EystMbZc.jpg?itok=KA0CeJLf\" alt=\"\" /></a></div>",
