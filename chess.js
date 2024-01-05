@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen is missing from this year's Tata Steel Chess, but World Champion Ding Liren has returned from his sabbatical. Otherwise, the Masters and Challengers are once again very colourful, with superstars, women and young talented players. The tournament starts in a week's time. | Photo: Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/coming-soon-the-tata-steel-tournament-2024-in-wijk-aan-zee",
+         "pubDate" : "Fri, 05 Jan 2024 16:00:00",
+         "title" : "Coming soon: The Tata Steel Tournament 2024 in Wijk aan Zee"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2834",
+         "pubDate" : "Fri, 05 Jan 2024 15:16:11",
+         "title" : "Davidson Gabriel and Rose Berline Seine win the Haitian Championship"
+      },
+      {
+         "description" : "The Masters tournament in Hastings remains exciting: after 8 of 9 rounds, 3 players are leading with 6.5/8 each: Abijheet Gupta, Brandon Jacobson and Zhang Pengxiang. Half a point behind are Deep Sengupta, Eldar Gasanov and Shreyas Royal with 6.0/8. The top pairings for round nine will be Jacobson against Gupta and Zhang against Sengupta. The round starts at 15.15 CET with live commentary from Richard Pert and Matthew Sadler.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hastings-2023-24-live",
+         "pubDate" : "Fri, 05 Jan 2024 14:13:09",
+         "title" : "Hastings 2023-24, Round 9: Live"
+      },
+      {
          "description" : "How did you fare with the three fun-to-solve puzzles we provided on December 30? They were fairly subtle, one quite amuzing. We got them from Gauri Shankar is a FIDE Master with eight IM norms. He lives in Chicago and produces entertaining video shorts explaining problems and studies. You can watch them for the solutions to our Christmas selection.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Gautam Adani meets chess prodigy Praggnanandhaa, extends support"
       },
       {
-         "description" : " Ding is scheduled to return to action at the 'chess Wimbledon' where his rivals include five of the eight Candidates to challenge him for the world title later this year China's world champion, Ding Liren, has become the forgotten man of chess due to his long absence from the board since he won the classical crown which Magnus Carlsen abdicated last year, the No 1 citing lack of motivation to spend months preparing for title matches. Ding gained many admirers due to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=2488997\" title=\"\">final tie-break victory</a> over Ian Nepomniachtchi with its dramatic decider 46&hellip;Rg6! but his fans have drifted away in the course of his eight ",
+         "description" : " Ding is scheduled to return to action at the 'chess Wimbledon' that includes five of the eight Candidates to challenge him for the world title this year China's world champion, Ding Liren, has become the forgotten man of chess due to his long absence from the board since he won the classical crown Magnus Carlsen abdicated last year. The No 1 has cited a lack of motivation to spend months preparing for title matches. Ding gained many admirers due to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=2488997\" title=\"\">final tie-break victory</a> over Ian Nepomniachtchi with its dramatic decider 46&hellip;Rg6! but his fans have drifted away in the course of his eight months inaction wi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/jan/05/chess-world-champion-ding-liren-to-return-at-tata-steel-wijk-aan-zee",
@@ -72,6 +96,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/long-live-classical-chess",
          "pubDate" : "Thu, 04 Jan 2024 09:32:58",
          "title" : "Long live classical chess"
+      },
+      {
+         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39239887/early-paris-olympics-2024-predictions-india-medals-neeraj-chopra-satwiksairaj-rankireddy-chirag-shetty?device=featurephone",
+         "pubDate" : "Thu, 4 Jan 2024 08:39:13",
+         "title" : "Early Paris Olympics predictions: Who will win medals for India?"
+      },
+      {
+         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
+         "pubDate" : "Thu, 4 Jan 2024 03:40:52",
+         "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
       },
       {
          "description" : "The people have spoken! Over 16,000 voters chose the best games, moves, creators, and all things chess in 2023. Now, it&#39;s time for us to reveal the winners of the 2023 Chess.com Awards. GM Magnus Carlsen at the Champions Chess Tour Finals, one...",
@@ -1280,14 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2802",
          "pubDate" : "Fri, 15 Dec 2023 16:58:40",
          "title" : "151st FIDE Arbiters' Seminar (WOM) announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2801",
-         "pubDate" : "Fri, 15 Dec 2023 15:26:46",
-         "title" : "Carlsen and So meet in Champions Chess Tour Final"
       }
    ]
 }
