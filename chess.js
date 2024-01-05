@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi refutes the Stafford Gambit, Elephant Gambit, and more! 2024.01.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mJAbhoUXZwM.jpg?itok=8ljcioxd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi",
+         "pubDate" : "Thu, 04 Jan 2024 23:37:30",
+         "title" : "Beat Offbeat Chess Lines | Prepare Like A Pro - GM Elshan Moradiabadi"
+      },
+      {
          "description" : "As expected, Magnus Carlsen has now announced on his X account that he won't be playing in the Candidates Tournament in Toronto in April, even though he qualified by winning the World Cup 2023 and by being the world's number one on the rating list. GM Nijat Abasov from Azerbaijan, who lost to Carlsen in the semifinals of the World Cup, will get Carlsen's place in the Candidates. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/long-live-classical-chess",
          "pubDate" : "Thu, 04 Jan 2024 09:32:58",
          "title" : "Long live classical chess"
-      },
-      {
-         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
-         "pubDate" : "Thu, 4 Jan 2024 03:40:52",
-         "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
       },
       {
          "description" : "The people have spoken! Over 16,000 voters chose the best games, moves, creators, and all things chess in 2023. Now, it&#39;s time for us to reveal the winners of the 2023 Chess.com Awards. GM Magnus Carlsen at the Champions Chess Tour Finals, one...",
@@ -1106,14 +1106,6 @@ news_feed (
          "title" : "Wesley So on How He Deals With Pressure | #sinquefieldcup #grandchesstour 2023"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros shows beginner chess players his method of playing against Black's Scandinavian, or positions that can arise from 1.e4 d5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/destroy-scandinavian-chase-lady-beginner-breakdown-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CEQg7gv4rCk.jpg?itok=dYZHyDR3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/destroy-scandinavian-chase-lady-beginner-breakdown-gm-denes-boros",
-         "pubDate" : "Wed, 20 Dec 2023 02:22:46",
-         "title" : "DESTROY the Scandinavian, CHASE the Lady! | Beginner Breakdown - GM Denes Boros"
-      },
-      {
          "description" : "Owen Philips has decided to stand down from the post of Manager for Accessible Chess on health grounds.&#160;During his tenure Owen has taken forward a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1288,14 +1280,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/dec/15/chess-adams-wins-in-london-at-52-while-royal-14-aims-for-gm-in-hastings",
          "pubDate" : "Fri, 15 Dec 2023 08:00:23",
          "title" : "Chess: Adams wins in London at 52 while Royal, 14, aims for GM in Hastings"
-      },
-      {
-         "description" : "The European Rapid and Blitz Chess Championship 2023 commenced today in Zagreb, Croatia with the Rapid event. The Opening ceremony took place shortly before the start of the first round, with the attendance of the ECU President Mr. Zurab Azmaiparashvili, ECU Vice President Mr. Alojzije Jankovic, the President of the Croatian Chess Federation Mr. Ivica Brkic, FIDE Vice President Mr. Joran Aulin-Jansson, FIDE Secretary General Mr Lukasz Turlej, representative of the Croatian Government State Secretary of Ministry of Tourism and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-kicked-off-in-zagreb/",
-         "pubDate" : "Thu, 14 Dec 2023 23:03:14",
-         "title" : "European Rapid and Blitz Chess Championship 2023 kicked off in Zagreb"
       }
    ]
 }
