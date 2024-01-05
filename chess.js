@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How did you fare with the three fun-to-solve puzzles we provided on December 30? They were fairly subtle, one quite amuzing. We got them from Gauri Shankar is a FIDE Master with eight IM norms. He lives in Chicago and produces entertaining video shorts explaining problems and studies. You can watch them for the solutions to our Christmas selection.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-puzzles-solutions-5",
+         "pubDate" : "Fri, 05 Jan 2024 09:00:00",
+         "title" : "Christmas Puzzles: Solutions 3"
+      },
+      {
+         "description" : " Ding is scheduled to return to action at the \"chess Wimbledon\" where his rivals include five of the eight Candidates to challenge him for the world title later this year China's world champion, Ding Liren, has become the forgotten man of chess due to his long absence from the board since he won the classical crown which Magnus Carlsen abdicated last year, the No 1 citing lack of motivation to spend months preparing for title matches. Ding gained many admirers due to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=2488997\" title=\"\">final tie-break victory</a> over Ian Nepomniachtchi with its dramatic decider 46&hellip;Rg6! but his fans have drifted away in the course of his eight ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/jan/05/chess-world-champion-ding-liren-to-return-at-tata-steel-wijk-aan-zee",
+         "pubDate" : "Fri, 05 Jan 2024 08:00:28",
+         "title" : "Chess: World champion Ding Liren to return at Tata Steel Wijk aan Zee"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi refutes the Stafford Gambit, Elephant Gambit, and more! 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-lines-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/glbKIk6487Q.jpg?itok=DEwLfaH8\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,6 +64,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/long-live-classical-chess",
          "pubDate" : "Thu, 04 Jan 2024 09:32:58",
          "title" : "Long live classical chess"
+      },
+      {
+         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39239887/early-paris-olympics-2024-predictions-india-medals-neeraj-chopra-satwiksairaj-rankireddy-chirag-shetty?device=featurephone",
+         "pubDate" : "Thu, 4 Jan 2024 08:39:13",
+         "title" : "Early Paris Olympics predictions: Who will win medals for India?"
+      },
+      {
+         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
+         "pubDate" : "Thu, 4 Jan 2024 03:40:52",
+         "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
       },
       {
          "description" : "The people have spoken! Over 16,000 voters chose the best games, moves, creators, and all things chess in 2023. Now, it&#39;s time for us to reveal the winners of the 2023 Chess.com Awards. GM Magnus Carlsen at the Champions Chess Tour Finals, one...",
@@ -1272,14 +1304,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz.html",
          "pubDate" : "Fri, 15 Dec 2023 12:09:00",
          "title" : "2023 World Rapid and Blitz"
-      },
-      {
-         "description" : " The eight-time British champion called the London Classic \"my best ever result\" while the young talent will be close to a new English age record if he scores his third and final GM norm Michael Adams, at 52 the oldest competitor, won the 13th <a href=\"https://www.londonchessclassic.com/\" title=\"\">London Classic</a> and its &pound;15,000 first prize on Sunday. The youngest player, 14-year-old Shreyas Royal, scored his second grandmaster result and will aim immediately for his third and final norm at the traditional <a href=\"https://hastingschess.com/\" title=\"\">Caplin Hastings New Year congress</a> which starts on 28 December. Adams became the first English winner of the Classic, which during",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/dec/15/chess-adams-wins-in-london-at-52-while-royal-14-aims-for-gm-in-hastings",
-         "pubDate" : "Fri, 15 Dec 2023 08:00:23",
-         "title" : "Chess: Adams wins in London at 52 while Royal, 14, aims for GM in Hastings"
       }
    ]
 }
