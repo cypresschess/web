@@ -10,6 +10,14 @@ news_feed (
          "title" : "Christmas Puzzles: Solutions 3"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106570473.cms\" />Adani Group chairman Gautam Adani met with rising chess sensation Rameshbabu Praggnanandhaa on Friday, expressing admiration for his achievements. Adani shared a picture with Praggnanandhaa on X, emphasizing his success as an inspiration for young Indians. Adani pledged his support, highlighting Praggnanandhaa's representation of India's potential. Adani praised Praggnanandhaa's success as an inspiration for young Indians to believe in standing on the podium to celebrate their nation's greatness.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gautam-adani-meets-chess-prodigy-praggnanandhaa-extends-support/articleshow/106570473.cms",
+         "pubDate" : "Fri, 05 Jan 2024 08:45:47",
+         "title" : "Gautam Adani meets chess prodigy Praggnanandhaa, extends support"
+      },
+      {
          "description" : " Ding is scheduled to return to action at the \"chess Wimbledon\" where his rivals include five of the eight Candidates to challenge him for the world title later this year China's world champion, Ding Liren, has become the forgotten man of chess due to his long absence from the board since he won the classical crown which Magnus Carlsen abdicated last year, the No 1 citing lack of motivation to spend months preparing for title matches. Ding gained many admirers due to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=2488997\" title=\"\">final tie-break victory</a> over Ian Nepomniachtchi with its dramatic decider 46&hellip;Rg6! but his fans have drifted away in the course of his eight ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -64,22 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/long-live-classical-chess",
          "pubDate" : "Thu, 04 Jan 2024 09:32:58",
          "title" : "Long live classical chess"
-      },
-      {
-         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/39239887/early-paris-olympics-2024-predictions-india-medals-neeraj-chopra-satwiksairaj-rankireddy-chirag-shetty?device=featurephone",
-         "pubDate" : "Thu, 4 Jan 2024 08:39:13",
-         "title" : "Early Paris Olympics predictions: Who will win medals for India?"
-      },
-      {
-         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
-         "pubDate" : "Thu, 4 Jan 2024 03:40:52",
-         "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
       },
       {
          "description" : "The people have spoken! Over 16,000 voters chose the best games, moves, creators, and all things chess in 2023. Now, it&#39;s time for us to reveal the winners of the 2023 Chess.com Awards. GM Magnus Carlsen at the Champions Chess Tour Finals, one...",
