@@ -18,12 +18,12 @@ news_feed (
          "title" : "Gautam Adani meets chess prodigy Praggnanandhaa, extends support"
       },
       {
-         "description" : " Ding is scheduled to return to action at the \"chess Wimbledon\" where his rivals include five of the eight Candidates to challenge him for the world title later this year China's world champion, Ding Liren, has become the forgotten man of chess due to his long absence from the board since he won the classical crown which Magnus Carlsen abdicated last year, the No 1 citing lack of motivation to spend months preparing for title matches. Ding gained many admirers due to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=2488997\" title=\"\">final tie-break victory</a> over Ian Nepomniachtchi with its dramatic decider 46&hellip;Rg6! but his fans have drifted away in the course of his eight ",
+         "description" : " Ding is scheduled to return to action at the 'chess Wimbledon' where his rivals include five of the eight Candidates to challenge him for the world title later this year China's world champion, Ding Liren, has become the forgotten man of chess due to his long absence from the board since he won the classical crown which Magnus Carlsen abdicated last year, the No 1 citing lack of motivation to spend months preparing for title matches. Ding gained many admirers due to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=2488997\" title=\"\">final tie-break victory</a> over Ian Nepomniachtchi with its dramatic decider 46&hellip;Rg6! but his fans have drifted away in the course of his eight ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/jan/05/chess-world-champion-ding-liren-to-return-at-tata-steel-wijk-aan-zee",
          "pubDate" : "Fri, 05 Jan 2024 08:00:28",
-         "title" : "Chess: World champion Ding Liren to return at Tata Steel Wijk aan Zee"
+         "title" : "Chess: forgotten world champion Ding Liren to return at Wijk aan Zee"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi refutes the Stafford Gambit, Elephant Gambit, and more! 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-lines-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/glbKIk6487Q.jpg?itok=DEwLfaH8\" alt=\"\" /></a></div>",
@@ -1288,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2801",
          "pubDate" : "Fri, 15 Dec 2023 15:26:46",
          "title" : "Carlsen and So meet in Champions Chess Tour Final"
-      },
-      {
-         "description" : " The player lists for the 2023 World Rapid and Blitz have been released. Magnus Carlsen is the top seed in the Open events, while Wenjun Ju is the top seed for the Women's Rapid and Tengjie Lei for the Women's Blitz. All the events are incredibly strong, with the 200+ players in the Open, and 125 in the Women's event. The venue is Samarkand in Uzbekistan and the tournament runs from the 26th to the 30th of December. Full details of the tournament can be found at <a href=\"https://worldrapidandblitz2023.fide.com/\">https://worldrapidandblitz2023.fide.com/</a> I will be onsite at the event, as I am one of the Pairings Officers for the tournament. Unlike the Chess Olympiad (where I have also fill",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz.html",
-         "pubDate" : "Fri, 15 Dec 2023 12:09:00",
-         "title" : "2023 World Rapid and Blitz"
       }
    ]
 }
