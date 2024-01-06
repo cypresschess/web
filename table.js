@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-01-05","6","<a href=http://www.uschess.org/msa/XtblMain.php?202401055362 target='_blank'>REBECCA CHESS CLUB QUADS JAN 5, 2024</a>",
 "HOUSTON","2023-12-30","21","<a href=http://www.uschess.org/msa/XtblMain.php?202312303172 target='_blank'>DECEMBER30TH SATURDAY SWISS</a>",
 "SPRING","2023-12-29","28","<a href=http://www.uschess.org/msa/XtblMain.php?202312292682 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2023-12-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202312292662 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-06-23","15","<a href=http://www.uschess.org/msa/XtblMain.php?202306235722 target='_blank'>REBECCA CHESS CLUB QUADS JUNE 23, 2023</a>",
 "PEARLAND","2023-06-19  - 06-21","20","<a href=http://www.uschess.org/msa/XtblMain.php?202306215932 target='_blank'>SCS SLEEP INN ADVANCED</a>",
 "HOUSTON","2023-06-17","28","<a href=http://www.uschess.org/msa/XtblMain.php?202306172772 target='_blank'>QUADS - ALL AGES JUNE 17 2023</a>",
-"HOUSTON","2023-06-17","12","<a href=http://www.uschess.org/msa/XtblMain.php?202306172222 target='_blank'>CHESSPANDA06172023SATURDAY</a>",
 ]);
