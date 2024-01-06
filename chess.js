@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Joseph Methu won the 2023 Kenya National Chess Championship, and with it, drove away with a new car (worth 1.3 million KSh). This is the fourth year that a car has been the grand prize. Mehul Gohil has won two (2019, 2022) and Martin Njoroge (2021). The tournament occurred at the splendid Charter Hall at The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/\">Joseph Methu wins Kenyan Chess Championship and car!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/",
+         "pubDate" : "Sat, 06 Jan 2024 19:35:25",
+         "title" : "Joseph Methu wins Kenyan Chess Championship&hellip; and car!"
+      },
+      {
          "description" : "The London Chess Classic in December concluded with an impressive final dinner at London's Savoy Hotel complex, the scene of the historic world championship challenge by Nigel Short to Garry Kasparov in 1993. Next door, Simpsons-in-the-Strand, soon to be reopened after a lengthy Covid-enforced closure and renovation, is famed in chess lore, notably as the scene of []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://nextlevelchess.blog/choose-projects/",
          "pubDate" : "Sat, 06 Jan 2024 11:53:17",
          "title" : "Chess Improvement Techniques: How to Prioritize Projects for Optimal Growth"
+      },
+      {
+         "description" : "GM Magnus Carlsen was included in FIDE&#39;s full lineup for the Candidates tournament this week, but in an exclusive interview with Chess.com the former world champion says that he is formally turning down the invitation to play in Toronto. This we...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-confirms-yet-again-he-will-decline-candidates",
+         "pubDate" : "Sat, 06 Jan 2024 09:06:00",
+         "title" : "Exclusive: Carlsen Confirms He Will Formally Decline Candidates Invitation"
       },
       {
          "description" : "Magnus Carlsen is missing from this year's Tata Steel Chess, but World Champion Ding Liren has returned from his sabbatical. Otherwise, the Masters and Challengers are once again very colourful, with superstars, women and young talented players. The tournament starts in a week's time. | Photo: Tata Steel Chess",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
          "pubDate" : "Thu, 21 Dec 2023 08:50:00",
          "title" : "Chennai Grand Masters - Live!"
-      },
-      {
-         "description" : "GM Gukesh Dommaraju defended a slightly inferior endgame successfully against GM Pentala Harikrishna and won the title on tiebreak from GM Arjun Erigaisi after the seventh and final round of the Chennai Grand Masters 2023. Arjun fired on all cylin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chennai-grand-masters-2023-round-7",
-         "pubDate" : "Thu, 21 Dec 2023 08:07:00",
-         "title" : "Gukesh Wins Title On Tiebreak, Overtakes Giri In Candidates' Race"
       },
       {
          "description" : "8-year-old Bodhana Sivanandan (ENG) stunned the world with her phenomenal performance at the European Rapid and Blitz Chess Championship 2023 in Zagreb, Croatia. In the last couple of days, her name appeared in Daily Mail, CNN News, BBC News, The Guardian, The Independent, The Times, Sky News, Der Spiegel, NDTW world and other media who reported about Bodhana's success in Zagreb. Scoring 8.5/13 points, Bodhana Sivanandan emerged as the best-ranked female player in the European Blitz Chess Championship 2023, ahead []",
