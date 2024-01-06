@@ -1296,22 +1296,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/9th-vugar-gashimov-memorial-2023",
          "pubDate" : "Sat, 16 Dec 2023 10:30:00",
          "title" : "9th Vugar Gashimov Memorial 2023 - Games and Results"
-      },
-      {
-         "description" : "British Grandmaster Mickey Adams, fresh from winning the World 50+ Championship, has now scored what he describes as the success of his life by also taking first prize in the 2023 London Classic, at the age of 52. Mickey Adams has a distinctive style over the chessboard. His moves are delicate , rather than brutal, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/triumph-of-the-universal-spidey/",
-         "pubDate" : "Sat, 16 Dec 2023 05:55:20",
-         "title" : "Triumph of the Universal Spidey"
-      },
-      {
-         "description" : "ESPN India picks ten images that tell the story of the most stunning Indian sports moments witnessed throughout 2023",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/39123382/moment-year-2023-praggnanandhaa-nagalakshmi-chess-india-smile?device=featurephone",
-         "pubDate" : "Sat, 16 Dec 2023 04:37:59",
-         "title" : "Moment of the Year: Praggnanandhaa, Nagalakshmi and the mother's smile that resonated across India"
       }
    ]
 }
