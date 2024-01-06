@@ -98,6 +98,22 @@ news_feed (
          "title" : "Long live classical chess"
       },
       {
+         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39239887/early-paris-olympics-2024-predictions-india-medals-neeraj-chopra-satwiksairaj-rankireddy-chirag-shetty?device=featurephone",
+         "pubDate" : "Thu, 4 Jan 2024 08:39:13",
+         "title" : "Early Paris Olympics predictions: Who will win medals for India?"
+      },
+      {
+         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
+         "pubDate" : "Thu, 4 Jan 2024 03:40:52",
+         "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
+      },
+      {
          "description" : "The people have spoken! Over 16,000 voters chose the best games, moves, creators, and all things chess in 2023. Now, it&#39;s time for us to reveal the winners of the 2023 Chess.com Awards. GM Magnus Carlsen at the Champions Chess Tour Finals, one...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1288,6 +1304,14 @@ news_feed (
          "link" : "https://www.thearticle.com/triumph-of-the-universal-spidey/",
          "pubDate" : "Sat, 16 Dec 2023 05:55:20",
          "title" : "Triumph of the Universal Spidey"
+      },
+      {
+         "description" : "ESPN India picks ten images that tell the story of the most stunning Indian sports moments witnessed throughout 2023",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39123382/moment-year-2023-praggnanandhaa-nagalakshmi-chess-india-smile?device=featurephone",
+         "pubDate" : "Sat, 16 Dec 2023 04:37:59",
+         "title" : "Moment of the Year: Praggnanandhaa, Nagalakshmi and the mother's smile that resonated across India"
       }
    ]
 }
