@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Some topics in chess strategy are more fashionable than others. This can happen for various reasons. For example, some topics may be easy to explain and understand. This is the case with the \"good and bad bishop\" theory. Or it might happen that some strategic phenomenon becomes a favourite topic of a famous chess writer. This happened, for example, with Nimzowitsch and the art of blocking passed pawns. In the following article we will look at a very striking example of this phenomenon. | Photo: Tigran Petrosian 1973, Dutch National Archives, The Hague, Algemeen Nederlandsch Fotobureau (Anefo)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-28-how-to-defend-against-a-minority-attack",
+         "pubDate" : "Sat, 06 Jan 2024 12:00:00",
+         "title" : "The Winning Academy 28: How to Defend Against a Minority Attack?"
+      },
+      {
+         "description" : "A modern-day problem is having way too many options and relatively little time. We can't do it all. Be it in chess improvement, business, or hobbies. So, our task is to filter out the things that are really worth our time and say no to everything else. Today, I show you how to do this. []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/choose-projects/",
+         "pubDate" : "Sat, 06 Jan 2024 11:53:17",
+         "title" : "Chess Improvement Techniques: How to Prioritize Projects for Optimal Growth"
+      },
+      {
          "description" : "Magnus Carlsen is missing from this year's Tata Steel Chess, but World Champion Ding Liren has returned from his sabbatical. Otherwise, the Masters and Challengers are once again very colourful, with superstars, women and young talented players. The tournament starts in a week's time. | Photo: Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1280,22 +1296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2803",
          "pubDate" : "Sat, 16 Dec 2023 15:56:38",
          "title" : "Refugee team to make historic debut at 45th Chess Olympiad in Budapest"
-      },
-      {
-         "description" : " This is a follow up to a question asked in one the comments to a previous post. I'm not sure this is the definitive reason why there is no \"drop for mate\" in Transfer (Bughouse), but at least in my memory, this rule was active in Canberra around 1983. In that year the Australian Junior Chess Championship was held in Canberra, and was organised by Nathan Stirling. On the opening day there was an introductory event, consisting of blitz and transfer. For the transfer we were given the choice of allowing drop for checkmate, or not. IIRC the majority chose to allow 'drop for mate', and that was the rule adopted. I can remember winning at least one game using this method. However in subsequent lo",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/why-no-drop-for-mate.html",
-         "pubDate" : "Sat, 16 Dec 2023 12:07:00",
-         "title" : "Why no drop for mate?"
-      },
-      {
-         "description" : " The 9th Vugar Gashimov Memorial took place 8th to 11th December 2023. Aydin Suleymanli was the surprise winner of the rapid with 5.5/9. Richard Rapport edged out Santosh Vidit on tie-break after both scored 12/18 in the blitz. Vidit won the combined standings by half a point from Erigaisi. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/9th-vugar-gashimov-memorial-2023",
-         "pubDate" : "Sat, 16 Dec 2023 10:30:00",
-         "title" : "9th Vugar Gashimov Memorial 2023 - Games and Results"
       }
    ]
 }
