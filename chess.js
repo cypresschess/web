@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The London Chess Classic in December concluded with an impressive final dinner at London's Savoy Hotel complex, the scene of the historic world championship challenge by Nigel Short to Garry Kasparov in 1993. Next door, Simpsons-in-the-Strand, soon to be reopened after a lengthy Covid-enforced closure and renovation, is famed in chess lore, notably as the scene of []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/caviar-to-the-admiral/",
+         "pubDate" : "Sat, 06 Jan 2024 13:42:43",
+         "title" : "Caviar to the Admiral"
+      },
+      {
+         "description" : " I'm interested in receiving feedback on the current FIDE title system, especially in regards the number of titles being awarded. At this stage this is a non official request (ie not in my role as Secretary of the FIDE Qualification System) but it may turn out to lead into a more formal review. One of the main comments I do hear is about the number of (W)GM's/(W)IM's/(W)FM's currently going around, especially compared the the historical origins of the titles. On the other hand, I don't see players who are close to the title hoping that the process is made harder. One suggestion made to me today was to simply increase the peak rating required to earn a title (ie 2600 instead of 2500 for a GM)",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/tougher-titles.html",
+         "pubDate" : "Sat, 06 Jan 2024 13:00:00",
+         "title" : "Tougher titles?"
+      },
+      {
          "description" : "Some topics in chess strategy are more fashionable than others. This can happen for various reasons. For example, some topics may be easy to explain and understand. This is the case with the \"good and bad bishop\" theory. Or it might happen that some strategic phenomenon becomes a favourite topic of a famous chess writer. This happened, for example, with Nimzowitsch and the art of blocking passed pawns. In the following article we will look at a very striking example of this phenomenon. | Photo: Tigran Petrosian 1973, Dutch National Archives, The Hague, Algemeen Nederlandsch Fotobureau (Anefo)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1288,14 +1304,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-final-2023",
          "pubDate" : "Sat, 16 Dec 2023 20:47:00",
          "title" : "Champions Chess Tour Final 2023 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2803",
-         "pubDate" : "Sat, 16 Dec 2023 15:56:38",
-         "title" : "Refugee team to make historic debut at 45th Chess Olympiad in Budapest"
       }
    ]
 }
