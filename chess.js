@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 86th Tata Steel chess tournament takes place Saturday 13th to Sun 28th Jan 2024 in Wijk aan Zee. Players: Masters: Ding Liren, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, D Gukesh, R Praggnanandhaa, Parham Maghsoodloo, Wei Yi, Nodirbek Abdusattorov, Santosh Gujrathi Vidit, Jorden Van Foreest, Alexander Donchenko, Max Warmerdam and Wenjun Ju. Challengers: Anton Korobov, Hans Moke Niemann, Mustafa Yilmaz, A.R. Saleh Salem, Jaime Santos Latasa, Erwin L'Ami, Leon Luke Mendonca, Daniel Dardha, Marc Andria Maurizzi, Liam Vrolijk, Harika Dronavalli, Stefan Beukema, Deshmukh Divya and Eline Roebers. World Champion Ding Liren who has hardly played after winning the title due to ill health ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024",
+         "pubDate" : "Sun, 7 Jan 2024 15:30:00",
+         "title" : "86th Tata Steel 2024 - Games and Results"
+      },
+      {
+         "description" : " The 51st Rilton Cup took place 27th December 2023 to 5th January 2024. 11th seed Vitaly Sivuk took clear first place with 7.5/9 half a point clear of Yahli Sokolovsky and Yair Parkhov. Many of the leading seeds and well known players struggled.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/51st-rilton-cup-2023-24",
+         "pubDate" : "Sun, 7 Jan 2024 15:25:00",
+         "title" : "51st Rilton Cup 2023-24 - Games and Results"
+      },
+      {
+         "description" : "During his long career Viktor Kortschnoi (23 March 1931 - 6 June 2016) won against Botvinnik, Smyslov, Tal, Petrosian, Spassky, Fischer, Karpov, Kasparov and Carlsen. He never became World Champion himself, but you might think that \"he could beat anyone\". But this is just a clich&eacute;. For although Kortschnoi played a total of 17 games with classical time control against Anand and Kramnik in the course of his life, he never scored a full point against either of them. | Photo: Kortschnoi at the 1960 Leipzig Chess Olympiad | Photo: Tournament book",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-narrowly-missed-record-viktor-kortschnoi-against-the-world-champions",
+         "pubDate" : "Sun, 07 Jan 2024 14:00:00",
+         "title" : "A narrowly missed record: Viktor Kortschnoi against the World Champions"
+      },
+      {
+         "description" : " The 97th Caplin Hastings Congress took place 28th December 2023 to 7th January 2024. Abhijeet Gupta took clear first place with 7.5/9 half a point clear of Pengxiang Zhang. There is a final weekend tournament that followed the Masters. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/97th-caplin-hastings-congress-2023-24",
+         "pubDate" : "Sun, 7 Jan 2024 11:33:00",
+         "title" : "97th Caplin Hastings Congress 2023-24 - Games and Results"
+      },
+      {
          "description" : " The 1st China Chess King tournament was a two day rapid knockout with 12 players in Chengdu, China 6th to 7th January 2024. World Champion Ding Liren returned to the board after a lengthy layoff just prior to traveling to Wijk aan Zee for the Tata Steel Masters. 12 players compete, the top 4 seeds sat out the first round. Semifinals: Yu Yangyi beat Wei Yi 1.5-0.5 and Wang Hao beat Ding Liren 1.5-0.5. Yu Yangyi beat Wang Hao 1.5-0.5 in the final and Wei Yi won two tie-break games to beat Ding Liren and take 3rd place.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1288,22 +1320,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/late-nights-and-whiskey.html",
          "pubDate" : "Mon, 18 Dec 2023 12:39:00",
          "title" : "Late nights and whiskey"
-      },
-      {
-         "description" : "The previous Flickr post, <A HREF=\"https://chessforallages.blogspot.com/2023/11/ai-chess-comics.html\">AI Chess Comics</A> (November 2023), mentioned, '\"Alice\" is a recurring theme in chess art.' How does that relate to the next Flickr image? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl17.jpg\" WIDTH=368 HEIGHT=400><BR> <A HREF=\"https://www.flickr.com/photos/181719773@N05/52292342886/\">Floating chess</A> &#169; Flickr user <I>Jaci XIV</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P> The description said, <BLOCKQUOTE> Created for: Digitalmania Group<BR> After: Vladimir Kush<BR> ***<BR> Created for the Magnificent Manipulat",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/alice-again.html",
-         "pubDate" : "Sun, 17 Dec 2023 16:18:00",
-         "title" : "Alice++ Again"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2805",
-         "pubDate" : "Sun, 17 Dec 2023 12:37:41",
-         "title" : "Champions Chess Tour 2023: Magnus Carlsen scoops third title in a row"
       }
    ]
 }
