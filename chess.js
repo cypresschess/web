@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 1st China Chess King tournament was a two day rapid knockout with 12 players in Chengdu, China 6th to 7th January 2024. World Champion Ding Liren returned to the board after a lengthy layoff just prior to traveling to Wijk aan Zee for the Tata Steel Masters. 12 players compete, the top 4 seeds sat out the first round. Semifinals: Yu Yangyi beat Wei Yi 1.5-0.5 and Wang Hao beat Ding Liren 1.5-0.5. Yu Yangyi beat Wang Hao 1.5-0.5 in the final and Wei Yi won two tie-break games to beat Ding Liren and take 3rd place.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/1st-china-chess-king-2024",
+         "pubDate" : "Sun, 7 Jan 2024 10:13:00",
+         "title" : "1st China Chess King 2024 - Games and Results"
+      },
+      {
          "description" : "On the final day of the (really quite traumatic) year 2023 we gave you two unusual chess puzzles: one where you had to add a king and bishop to construct a mate in two, and one where you had to reconstruct the entire position. We got them from Frank Scarpa, who today provides full explanations in two very fine videos. You're 'gonna hafta' watch them to get the solutions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/christmas-puzzles-solutions-6",
          "pubDate" : "Sun, 07 Jan 2024 09:00:00",
          "title" : "Christmas Puzzles: Solutions 4"
-      },
-      {
-         "description" : " The 1st China Chess King tournament is a two day rapid knockout with 12 players in Chengdu, China 6th to 7th January 2024. World Champion Ding Liren returns to the board after a lengthy layoff just prior to traveling to Wijk aan Zee for the Tata Steel Masters. 12 players compete, the top 4 seeds sat out the first round. Semifinals: Wei Yi vs Yu Yangyi and Ding Liren vs Wang Hao. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/1st-china-chess-king-2024",
-         "pubDate" : "Sat, 6 Jan 2024 21:30:00",
-         "title" : "1st China Chess King 2024 - Games and Results"
       },
       {
          "description" : " Joseph Methu won the 2023 Kenya National Chess Championship, and with it, drove away with a new car (worth 1.3 million KSh). This is the fourth year that a car has been the grand prize. Mehul Gohil has won two (2019, 2022) and Martin Njoroge (2021). The tournament occurred at the splendid Charter Hall at The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/\">Joseph Methu wins Kenyan Chess Championship and car!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1312,14 +1312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2804",
          "pubDate" : "Sun, 17 Dec 2023 11:27:26",
          "title" : "European Rapid and Blitz Championship 2023: Sarana and Navara win titles "
-      },
-      {
-         "description" : "The 2023 European Rapid and Blitz Chess Championships concluded yesterday in Zagreb, Croatia. The event was played from 14-16 December, with the participation of nearly 700 players coming from 41 European federations. The first event on the schedule was the European Rapid Chess Championship 2023 which took place on 14-15 December with more than 450 players. The event was played in 11 rounds, swiss system, and the last round determined the Winner and the medalists. Heading into the final round []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-concluded-in-croatia/",
-         "pubDate" : "Sun, 17 Dec 2023 08:45:18",
-         "title" : "European Rapid and Blitz Chess Championship 2023 concluded in Croatia"
       }
    ]
 }
