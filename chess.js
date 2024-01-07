@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the final day of the (really quite traumatic) year 2023 we gave you two unusual chess puzzles: one where you had to add a king and bishop to construct a mate in two, and one where you had to reconstruct the entire position. We got them from Frank Scarpa, who today provides full explanations in two very fine videos. You're 'gonna hafta' watch them to get the solutions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-puzzles-solutions-6",
+         "pubDate" : "Sun, 07 Jan 2024 09:00:00",
+         "title" : "Christmas Puzzles: Solutions 4"
+      },
+      {
          "description" : " The 1st China Chess King tournament is a two day rapid knockout with 12 players in Chengdu, China 6th to 7th January 2024. World Champion Ding Liren returns to the board after a lengthy layoff just prior to traveling to Wijk aan Zee for the Tata Steel Masters. 12 players compete, the top 4 seeds sat out the first round. Semifinals: Wei Yi vs Yu Yangyi and Ding Liren vs Wang Hao. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
