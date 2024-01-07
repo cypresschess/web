@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 1st China Chess King tournament is a two day rapid knockout with 12 players in Chengdu, China 6th to 7th January 2024. World Champion Ding Liren returns to the board after a lengthy layoff just prior to traveling to Wijk aan Zee for the Tata Steel Masters. 12 players compete, the top 4 seeds sat out the first round. Semifinals: Wei Yi vs Yu Yangyi and Ding Liren vs Wang Hao. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/1st-china-chess-king-2024",
+         "pubDate" : "Sat, 6 Jan 2024 21:30:00",
+         "title" : "1st China Chess King 2024 - Games and Results"
+      },
+      {
          "description" : " Joseph Methu won the 2023 Kenya National Chess Championship, and with it, drove away with a new car (worth 1.3 million KSh). This is the fourth year that a car has been the grand prize. Mehul Gohil has won two (2019, 2022) and Martin Njoroge (2021). The tournament occurred at the splendid Charter Hall at The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/\">Joseph Methu wins Kenyan Chess Championship and car!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/",
          "pubDate" : "Sat, 06 Jan 2024 19:35:25",
          "title" : "Joseph Methu wins Kenyan Chess Championship&hellip; and car!"
+      },
+      {
+         "description" : "GM Tuan Minh Le started 2024 in style with a victory in one of the most stacked Bullet Brawl arenas ever held. GMs Hikaru Nakamura and Daniel Naroditsky, who finished in second and third respectively, were tested by super-GMs Anish Giri, Maxime Va...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tuan-minh-le-wins-bullet-brawl-january-6-2024",
+         "pubDate" : "Sat, 06 Jan 2024 15:09:00",
+         "title" : "Le Wins Bullet Brawl Ahead of Nakamura, Naroditsky"
       },
       {
          "description" : "The London Chess Classic in December concluded with an impressive final dinner at London's Savoy Hotel complex, the scene of the historic world championship challenge by Nigel Short to Garry Kasparov in 1993. Next door, Simpsons-in-the-Strand, soon to be reopened after a lengthy Covid-enforced closure and renovation, is famed in chess lore, notably as the scene of []",
@@ -1082,14 +1098,6 @@ news_feed (
          "title" : "Congratulations GM RB Ramesh for Dronacharya Award"
       },
       {
-         "description" : "Time sure flies when you&#39;re having having fun-damental endgame clashes! It&#39;s the end of 2023 already, and what a tremendous year it was for chess! There are numerous reasons to celebrate the last 12 months&#38;mdash;so many that choosing the best amon...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-chesscom-awards-vote",
-         "pubDate" : "Thu, 21 Dec 2023 13:52:00",
-         "title" : "Vote For The 2023 Chess.com Awards"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1304,14 +1312,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-rapid-and-blitz-chess-championship-2023-concluded-in-croatia/",
          "pubDate" : "Sun, 17 Dec 2023 08:45:18",
          "title" : "European Rapid and Blitz Chess Championship 2023 concluded in Croatia"
-      },
-      {
-         "description" : " The Champions Chess Tour Final took place in Toronto, Canada 9th to 16th. The mostly online tour its final in Toronto. Magnus Carlsen, Denis Lazavik, Nodirbek Abdusattorov, Alireza Firouzja, Fabiano Caruana, Maxime Vachier-Lagrave, Hikaru Nakamura and Wesley So. There were round robin stage of mini-matches. The top two make the knockout phase, 3rd-6th entered a survival stage double elimination stage to find two players. Magnus Carlsen beat Wesley So 2-0 in the final. Nodirbek Abdusattorov and Fabiano Caruana finished in joint 3rd place.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/champions-chess-tour-final-2023",
-         "pubDate" : "Sat, 16 Dec 2023 20:47:00",
-         "title" : "Champions Chess Tour Final 2023 - Games and Results"
       }
    ]
 }
