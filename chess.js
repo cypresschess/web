@@ -1304,14 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2805",
          "pubDate" : "Sun, 17 Dec 2023 12:37:41",
          "title" : "Champions Chess Tour 2023: Magnus Carlsen scoops third title in a row"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2804",
-         "pubDate" : "Sun, 17 Dec 2023 11:27:26",
-         "title" : "European Rapid and Blitz Championship 2023: Sarana and Navara win titles "
       }
    ]
 }
