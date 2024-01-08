@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2836",
+         "pubDate" : "Mon, 08 Jan 2024 15:55:24",
+         "title" : "Kosovo Championship: Nderim Saraçi and Arlinda Aliu take titles"
+      },
+      {
+         "description" : "ChessBase Magazine is breaking new ground. For almost 30 years, a Windows operating system and a ChessBase program were a must for reading the CBM. The new issue #217 (January 2024) is the first one to include full mobile access, so you can load it directly via the web browser on your iPad, tablet, Mac, etc. Thanks to the new ChessBase Books system, all content is available: Analyses, videos, repertoire articles, training exercises and the interactive training videos from the tactics, strategy and endgame columns! We invite you to join us: In this and the coming weeks, we will be offering you a complete CBM article from the current issue for free! The best first: Oliver Reeh's article \"Invas",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://books.chessbase.com/en/chessbase-magazine-january-2024-217/invasion-on-the-back",
+         "pubDate" : "Mon, 08 Jan 2024 13:00:00",
+         "title" : "CBM #217 - Now also for iPad, tablet, Mac, etc."
+      },
+      {
+         "description" : " The 2024 Australian Championship appears to be a race between two players/ With 8 rounds completed IM Rishi Sardana leads on 7/8, having conceded a second draw in todays round. FM Fred Litchfield is in 2nd place with 6/8, while the remaining players are on 5/8 or below. Sardana has a potentially tricky matchup in round 9, playing IM Stephen Solomon, while Litchfield is up against one of the tournament surprise packets, CM Daniel Melamed. While Litchfield still has chances to earn an IM norm from this event, the pairings are not doing him any favours. While he has played the required number of IM's for a 9 game norm, he hasn't played the required number of titles players (only 4 at this stag",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/2024-australian-championship-two-horse.html",
+         "pubDate" : "Mon, 08 Jan 2024 12:41:00",
+         "title" : "2024 Australian Championship - A two horse race?"
+      },
+      {
          "description" : "In general, a queen and one pawn equal two rooks - this leads us to nearly always prefer the two rooks. Is this always the case, and when it is, how can we take advantage of it. If you want to learn more about the tactics and strategy involved, it will be well to carefully follow the instructions of a world leading chess trainer and analyst, who uses high-class games to illustrate his points.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1248,22 +1272,6 @@ news_feed (
          "link" : "https://www.ft.com/content/ccc25257-6479-4ad5-843c-0a3e913498e7#new_tab",
          "pubDate" : "Mon, 18 Dec 2023 16:42:43",
          "title" : "Bodhana Sivanandan enters chess history - from Leonard Barden"
-      },
-      {
-         "description" : "A new Monday series, where last week's post was <A HREF=\"https://chessforallages.blogspot.com/2023/12/fischer-vs-carlsen.html\">Fischer vs. Carlsen</A> (December 2023), reminded me of an idea that has long been on the back burner. The following composite image is from two eBay auctions that took place in October 2001. I've always wanted to learn more about the two comics and now is the time. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl18.gif\" WIDTH=400 HEIGHT=260> <P> The descriptions for the two auctions said, <BLOCKQUOTE> <B>Left:</B> 'Chessman #1 comic was the brainchild of IM John Watson and inventor of Chessman and artist for this issue, Chris [Christine] Hendrickson",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/chessman-comics.html",
-         "pubDate" : "Mon, 18 Dec 2023 16:21:00",
-         "title" : "Chessman Comics"
-      },
-      {
-         "description" : " Except there was no whiskey. For the last week and half, I've been attending various sessions of the 2023 FIDE Congress. This of course is from the comfort of my own home, as the whole congress was being held online. This started as a result of covid, but has continued for the non Olympiad years. All very good in that counties that normally don't send a delegate in the off years were well represented, but not so good for delegates representing Oceania federations. Most meetings started at midnight Canberra time, and usually ran until 4 or 5 am in the morning. This meant that Oceania was probably less represented than other regions, although that made a difference overall is not clear. Anywa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/late-nights-and-whiskey.html",
-         "pubDate" : "Mon, 18 Dec 2023 12:39:00",
-         "title" : "Late nights and whiskey"
       }
    ]
 }
