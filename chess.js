@@ -130,14 +130,6 @@ news_feed (
          "title" : "Davidson Gabriel and Rose Berline Seine win the Haitian Championship"
       },
       {
-         "description" : "The Masters tournament in Hastings remains exciting: after 8 of 9 rounds, 3 players are leading with 6.5/8 each: Abijheet Gupta, Brandon Jacobson and Zhang Pengxiang. Half a point behind are Deep Sengupta, Eldar Gasanov and Shreyas Royal with 6.0/8. The top pairings for round nine will be Jacobson against Gupta and Zhang against Sengupta. The round starts at 15.15 CET with live commentary from Richard Pert and Matthew Sadler.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hastings-2023-24-live",
-         "pubDate" : "Fri, 05 Jan 2024 14:13:09",
-         "title" : "Hastings 2023-24, Round 9: Live"
-      },
-      {
          "description" : "How did you fare with the three fun-to-solve puzzles we provided on December 30? They were fairly subtle, one quite amuzing. We got them from Gauri Shankar is a FIDE Master with eight IM norms. He lives in Chicago and produces entertaining video shorts explaining problems and studies. You can watch them for the solutions to our Christmas selection.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -274,14 +266,6 @@ news_feed (
          "title" : "Yosha Iglesias To Make History As 1st Transgender WIM, Pending FIDE Approval"
       },
       {
-         "description" : "In part four of our Christmas Puzzle Week we had some seasonal chess problems - a candle and two Christmas trees. But we also included a helpmate in two, with a devilishly difficult retroanalytical part. Were you able to find the two solutions, and explain why one of them was illegal? Try and follow the analysis of our problem expert.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-puzzles-solutions-4",
-         "pubDate" : "Wed, 03 Jan 2024 09:52:36",
-         "title" : "Christmas Puzzles: Solutions 2"
-      },
-      {
          "description" : "Victory in the first Titled Tuesday tournaments of 2024, held January 2, went to two familiar faces. GM Maxime Vachier-Lagrave won the early event with 9.5 points and slightly better tiebreakers than GM Magnus Carlsen. Then, GM Hikaru Nakamura sco...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -338,14 +322,6 @@ news_feed (
          "title" : "FIDE100 celebrations start with lecture on Folke Rogard at Rilton Cup"
       },
       {
-         "description" : "A rising star is the 17-year-old Srilankan Susal De Silva, who won the recent U18 category in the Asian Youth Championship 2023, which was held in Al Ain (United Arab Emirates). No wonder: he is a student of world-class trainer Efstratios Grivas, who tells us that \"a Gold Medal is mostly welcomed, but hard work is in need and opening preparation is a value part of the success!\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-the-value-of-preparation",
-         "pubDate" : "Tue, 02 Jan 2024 10:38:02",
-         "title" : "Grivas on the Value of Preparation"
-      },
-      {
          "description" : "The ECU Trainers Commission organizes the first Seminar for trainers' education &#38; titles. The Seminar will be held online from 19-29 February 2024, with free participation for 25 participants nominated by European National Chess Federations and five free places for participants nominated by the ECU Commission for Women's Chess. The Seminar is specially prepared for applicants for the ECU Expert Coach title (EEC). The title may/will be awarded as per the ECU ETC Regulations. In order to get the EEC []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -360,14 +336,6 @@ news_feed (
          "link" : "https://aicf.in/announcement-medical-evaluation-at-patna/",
          "pubDate" : "Tue, 02 Jan 2024 08:52:07",
          "title" : "Announcement :Medical Evaluation at Patna"
-      },
-      {
-         "description" : "On 1st January FIDE published its new ranking list. Firouzja, who tried hard in the last days of December to gain a few more rating points, has achieved his goal: he has overtaken Wesley So and qualified for the Candidates by rating. Magnus Carlsen is still the clear number one, ahead of Fabiano Caruana and Hikaru Nakamura in second and third, while Vincent Keymer and Praggnanandhaa are the world's best juniors. Hou Yifan continues to top the women's list and Bibisara Assaubayeva is the world's best female junior.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-rating-january-2024",
-         "pubDate" : "Mon, 01 Jan 2024 22:00:00",
-         "title" : "FIDE rating January 2024"
       },
       {
          "description" : "",
@@ -394,28 +362,12 @@ news_feed (
          "title" : "Father Time and the New Year Baby"
       },
       {
-         "description" : "Today we bring you the first instalment of solutions, to the puzzles on our Christmas Day page. It includes charming video of two 14 year old lads solving one of the problems. Today, both are Candidates for the World Championship. Solutions to the next six puzzle pages will follow soon - together with details on our composition competition, which will end on January 15.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/solutions",
-         "pubDate" : "Mon, 01 Jan 2024 16:00:00",
-         "title" : "Christmas Puzzles: Solutions 1"
-      },
-      {
          "description" : " At some stage, I will take the time too look through the games from the 2023 World Rapid and Blitz. With 160 games per round, and a total of 34 rounds (across Rapid and Blitz), the event saw approximately 5000 games played. Some were great, some were memorable (for various reasons), and a few were best forgotten. But the following game played by Australian GM Anton Smirnov in the first round of the Blitz, falls into the entertaining category. <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD3g6QJ3kx1vOKJAq7Smvb_u4RlFnPoAiS1qnm7QhWn4bNNzfQau-8LwwjeN2XMCruEdCgGvgDJIjRDlp4S6OwJQbK4U-Y7WC3sWenTqdlvGvTZvntyjnUFL",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/01/a-lot-of-games-to-look-at.html",
          "pubDate" : "Mon, 01 Jan 2024 13:08:00",
          "title" : "A lot of games to look at"
-      },
-      {
-         "description" : "We wish our readers and all chess fans a happy new year 2024. It's a special year for chess: 100 years ago, the World Chess Federation FIDE was founded in Paris. | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/we-wish-you-a-happy-new-year",
-         "pubDate" : "Mon, 01 Jan 2024 11:00:00",
-         "title" : "We wish you a happy new year!"
       },
       {
          "description" : "Happy New Year! Ring in 2024 with New Year&#38;rsquo;s resolutions, new chess goals, and a brand-new set of bots for January. For the first time ever on Chess.com, the 16th undisputed World Chess Champion and number-one player in the world since 2011,...",
@@ -426,28 +378,12 @@ news_feed (
          "title" : "Play Chess Against Magnus Carlsen Bots"
       },
       {
-         "description" : "We are three months away from the start of the Candidates Tournaments in Toronto. With no more rated classical games in the December-2023 period, we got the names of the two players who got the rating spot in the open and women's sections - Alireza Firouzja and Humpy Koneru (pictured), respectively. The 2023 edition of the FIDE Circuit has also finished, with Gukesh grabbing the Candidates spot by finishing in second place, since Fabiano Caruana - the winner of the Circuit - was already qualified via the FIDE World Cup. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-firouzja-humpy-reach-candidates-2024",
-         "pubDate" : "Mon, 01 Jan 2024 07:00:00",
-         "title" : "Gukesh, Firouzja and Humpy make it to the Candidates"
-      },
-      {
          "description" : " Our chess highlights of 2023 will show how controversy served as the mainstay of headlines. We even saw a player busted for impersonating a woman! The Carlsen-Niemann controversy was still bubbling as the chess community saw a dismissal on one count of the $100 million lawsuit in June. FIDE finally released a statement and, on The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/\">The Chess Drum's Highlights of 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/",
          "pubDate" : "Mon, 01 Jan 2024 00:58:44",
          "title" : "The Chess Drum's Highlights of 2023"
-      },
-      {
-         "description" : "The traditional chess tournament in the English seaside resort of Hastings has been held immediately after Christmas for over 100 years. The event has reached its 97th edition, with rounds taking place on New Year's Eve and New Year's Day. The most important tournament, the Masters, which includes a number of titleholders, ends on January 5. French grandmaster Maxime Lagarde is the tournament's top seed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hastings-congress-2023-r3",
-         "pubDate" : "Sun, 31 Dec 2023 17:30:00",
-         "title" : "Chess on New Year's Eve at the 97th Congress in Hastings"
       },
       {
          "description" : " The 15th Rouen Open took place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja played in this 7 round Swiss in a final, final attempt to qualify for the Candidates. Rouen is different to Chartres and will in my view be rated, this is a regular scheduled Swiss, Firouzja withdrew from the World Rapid and Blitz knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky. He then beat fellow Iranian expat IM Kamran Shirazi in the final round. Shirazi has lived in France for many years and is a frequent competitor in the Paris Championship. Now Firouzja has won this event with 7/7 and gained enough points to ove",
@@ -482,14 +418,6 @@ news_feed (
          "title" : "Unusual puzzles to end the year!"
       },
       {
-         "description" : "Once again, a fantastic chess year is coming to an end. As usual, Svitlana gathered some of her absolute favourite tactics, for the viewer and Arne to solve. Happy new year everybody, and see you in 2024!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-best-tactics-of-2023",
-         "pubDate" : "Sun, 31 Dec 2023 09:00:00",
-         "title" : "Svitlana's Smart Moves - Best tactics of 2023"
-      },
-      {
          "description" : "Please Find the below 14th Chennai GM OPEN DGT Live Games Link https://view.livechesscloud.com/#9c015835-e28f-4b39-8d59-26fb01f18996",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -504,14 +432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-prophet-the-fantasy-chess-game-for-titled-tuesdays",
          "pubDate" : "Sun, 31 Dec 2023 06:14:11",
          "title" : "Fantasy Sports Are Here: Magnus Carlsen's 'Chess Prophet' Launches For Titled Cup 2024"
-      },
-      {
-         "description" : "Magnus Carlsen grabbed his 17th World Championship title - the 7th in blitz - by scoring 16/21 points at the World Blitz event in Samarkand. After losing his first game of the day, against Maxime Vachier-Lagrave, Carlsen grabbed six wins in a row to retake the sole lead. Two draws in the final rounds allowed him to outscore Daniil Dubov by a half point. In the women's championship, Valentina Gunina got outright victory thanks to a final-round win over Anna Muzychuk. Alexandra Kosteniuk came close to catching the eventual champion, but fell just short and took the silver medal. | Photo: FIDE / Anastasia Korolkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2023-d5",
-         "pubDate" : "Sat, 30 Dec 2023 23:50:00",
-         "title" : "Carlsen and Gunina are the 2023 world blitz champions"
       },
       {
          "description" : "",
@@ -658,14 +578,6 @@ news_feed (
          "title" : "Yahoos Set a New Low"
       },
       {
-         "description" : "Kasparov Chess Foundation Academy is proud to announce stellar events in January 2024, that promise to elevate your chess game to unprecedented heights. Brace yourselves for insightful and strategic wisdom from two of the world's top chess players: Grandmaster Ramesh RB and Grandmaster Alexander Motylev.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/unlocking-chess-brilliance",
-         "pubDate" : "Thu, 28 Dec 2023 16:00:00",
-         "title" : "Unlocking Chess Brilliance"
-      },
-      {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -704,14 +616,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-fide-world-rapid-chess-championship-day-3-carlsen-wins",
          "pubDate" : "Thu, 28 Dec 2023 07:57:00",
          "title" : "Carlsen Wins 5th Rapid World Championship; Bodnaruk Claims 1st"
-      },
-      {
-         "description" : "Problemists love to construct problems in shapes that symbolize something auspicious. The great composer (and World Championship candidate) Pal Benk&ouml; sent us a problem shaped like a candle. Today we bring you two problems shaped like Christmas trees. They are not too hard, which we cannot say about the third problem, which taxes the brain.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-christmassy-delight",
-         "pubDate" : "Thu, 28 Dec 2023 07:00:00",
-         "title" : "A Christmassy Delight"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106342767.cms\" />The momentum that began with the Chess Olympiad 2022 has indeed yielded positive results, as India has now established a strong presence in World Chess. While chess has consistently held a prominent position in government initiatives due to India's success in global age-group events, the significant impact of private sponsorship and the involvement of accomplished individuals in the development programme has become truly evident only recently. Vishy Anand has played a pivotal role in catalyzing this progress.",
