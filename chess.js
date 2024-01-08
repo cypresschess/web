@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Caplin Masters, part of the Hastings International Chess Congress, came to an end on Friday with a triumph for Abhijeet Gupta. The 34-year-old Indian grandmaster was the only one of 100+ participants in the event to achieve a score of 7&frac12;/9, thus getting outright victory. Pengxiang Zhang from China (7/9) came second. Behind Zhang, a group of nine players finished with 6&frac12;/9 points each. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hastings-congress-2023-final-report",
+         "pubDate" : "Mon, 08 Jan 2024 09:00:00",
+         "title" : "Abhijeet Gupta wins the Caplin Masters in Hastings"
+      },
+      {
+         "description" : "Madhya Pradesh Chess Ad Hoc Committee on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-sna-seminar-exam-at-katni-on-30-31-dec-2023/",
+         "pubDate" : "Mon, 08 Jan 2024 05:56:44",
+         "title" : "Final Report :SNA Seminar & Exam at Katni on 30 & 31 Dec 2023"
+      },
+      {
          "description" : "As the new year gets underway, it's traditional to look both forwards and backwards. 2023 saw Magnus Carlsen abdicate his world title, Ding Liren capture the vacant crown after a nail-biting match against Ian Nepomniachtchi and Ju Wenjun retain her world title also by a narrow margin after defeating her countrywoman Lei Tingjie. Jon Speelman looks back to 2023 and forward to 2024. | Photo: Fabiano Caruana | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1120,14 +1136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/eight-year-old-british-indian-schoolgirl-chess-prodigy-named-europes-best/articleshow/106161713.cms",
          "pubDate" : "Wed, 20 Dec 2023 16:16:35",
          "title" : "Eight-year-old British Indian schoolgirl chess prodigy named Europe's best"
-      },
-      {
-         "description" : "National Fair Play Orientation workshop and Seminar Certificates are out to download for Delhi and Pune. Delhi : https://aicf.online/Fair-Play-Delhi.html Pune : https://aicf.online/Fair%20Play-Pune.html Any Correction mail",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-fair-play-workshops-certificates-pune-delhi/",
-         "pubDate" : "Wed, 20 Dec 2023 12:13:26",
-         "title" : "National Fair Play Workshops Certificates, Pune & Delhi."
       },
       {
          "description" : "As it is already well-known, chess is a game of repeated motifs; a game of repeated knowledge! Once you carefully and correctly learn a motif, a pattern or an opening, your subconscious carefully stores it for use when time comes and demands! Here is a valuable lesson from a world-class chess trainer on the subject. There is a lot to learn!",
