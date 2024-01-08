@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As the new year gets underway, it's traditional to look both forwards and backwards. 2023 saw Magnus Carlsen abdicate his world title, Ding Liren capture the vacant crown after a nail-biting match against Ian Nepomniachtchi and Ju Wenjun retain her world title also by a narrow margin after defeating her countrywoman Lei Tingjie. Jon Speelman looks back to 2023 and forward to 2024. | Photo: Fabiano Caruana | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jon-speelman-to-and-fro",
+         "pubDate" : "Sun, 07 Jan 2024 21:47:46",
+         "title" : "Jon Speelman: To and fro - 2023 and 2024"
+      },
+      {
          "description" : " The 86th Tata Steel chess tournament takes place Saturday 13th to Sun 28th Jan 2024 in Wijk aan Zee. Players: Masters: Ding Liren, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, D Gukesh, R Praggnanandhaa, Parham Maghsoodloo, Wei Yi, Nodirbek Abdusattorov, Santosh Gujrathi Vidit, Jorden Van Foreest, Alexander Donchenko, Max Warmerdam and Wenjun Ju. Challengers: Anton Korobov, Hans Moke Niemann, Mustafa Yilmaz, A.R. Saleh Salem, Jaime Santos Latasa, Erwin L'Ami, Leon Luke Mendonca, Daniel Dardha, Marc Andria Maurizzi, Liam Vrolijk, Harika Dronavalli, Stefan Beukema, Deshmukh Divya and Eline Roebers. World Champion Ding Liren who has hardly played after winning the title due to ill health ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
