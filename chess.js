@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In general, a queen and one pawn equal two rooks - this leads us to nearly always prefer the two rooks. Is this always the case, and when it is, how can we take advantage of it. If you want to learn more about the tactics and strategy involved, it will be well to carefully follow the instructions of a world leading chess trainer and analyst, who uses high-class games to illustrate his points.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/efstratios-grivas-on-two-rooks-vs-queen",
+         "pubDate" : "Mon, 08 Jan 2024 12:00:00",
+         "title" : "Efstratios Grivas on Two Rooks vs. Queen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2835",
+         "pubDate" : "Mon, 08 Jan 2024 11:50:01",
+         "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration is open"
+      },
+      {
+         "description" : "Congratulations to Lan Yao, whose WGM title was confirmed by the 2023 3rd FIDE Council Meeting. Since applying for the title Lan Yao has gained...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/wgm-title-awarded-to-lan-yao/",
+         "pubDate" : "Mon, 08 Jan 2024 11:01:21",
+         "title" : "WGM title awarded to Lan Yao"
+      },
+      {
          "description" : "The Caplin Masters, part of the Hastings International Chess Congress, came to an end on Friday with a triumph for Abhijeet Gupta. The 34-year-old Indian grandmaster was the only one of 100+ participants in the event to achieve a score of 7&frac12;/9, thus getting outright victory. Pengxiang Zhang from China (7/9) came second. Behind Zhang, a group of nine players finished with 6&frac12;/9 points each. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
