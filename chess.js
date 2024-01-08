@@ -1248,30 +1248,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/",
          "pubDate" : "Tue, 19 Dec 2023 03:43:58",
          "title" : "FM Jimmy Canty on Chessable!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2807",
-         "pubDate" : "Mon, 18 Dec 2023 19:18:53",
-         "title" : "FIDE statement on rating specific tournaments"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2806",
-         "pubDate" : "Mon, 18 Dec 2023 18:05:02",
-         "title" : "Abu Dhabi wins bid to host 47th Chess Olympiad in 2028"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.ft.com/content/ccc25257-6479-4ad5-843c-0a3e913498e7#new_tab",
-         "pubDate" : "Mon, 18 Dec 2023 16:42:43",
-         "title" : "Bodhana Sivanandan enters chess history - from Leonard Barden"
       }
    ]
 }
