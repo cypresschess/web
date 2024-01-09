@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship will be held in 2024: the blitz tournament will take place on Friday (12 January), while the rapid tournament will be held on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. Alexandra Kosteniuk, Antoaneta Stefanova and Pia Cramling are included in the lineups. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-preview",
+         "pubDate" : "Tue, 09 Jan 2024 20:10:00",
+         "title" : "This weekend: European Women's Rapid and Blitz Championship"
+      },
+      {
+         "description" : "Almost 30 years ago, at the 1995 edition of the Hoogovens Tournament in Wijk aan Zee, Roberto Cifuentes and Vadim Zvjaginsev played an astounding game. Known as the 'Pearl of Wijk aan Zee', the encounter features a number of sacrifices, including a successful queen sacrifice. Zvjaginsev went all-in for the attack once Cifuentes made an innocent-looking move. Unmissable!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-pearl-of-wijk-aan-zee",
+         "pubDate" : "Tue, 09 Jan 2024 17:20:00",
+         "title" : "Robert Ris: The pearl of Wijk aan Zee"
+      },
+      {
          "description" : "This famous dictum by Dr. Tarrasch is a (very) good rule of thumb in rook endings and valid for the attacker and the defender. In the diagram position it is Black to move and win. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-rook-belongs-behind-the-passed-pawn",
          "pubDate" : "Tue, 09 Jan 2024 09:00:00",
          "title" : "The rook belongs behind the passed pawn"
-      },
-      {
-         "description" : "The 51st edition of the Rilton Cup came to an end in Stockholm on Friday. The winner of the nine-round event was the Ukrainian GM Vitaly Sivuk, who now plays for Sweden, with a score of 7&frac12;/9. Israeli IMs Yahli Sokolovsky and Yair Parkhov (both with 7/9) finished second and third, respectively. | Photos: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vitaly-sivuk-wins-rilton-cup-2024",
-         "pubDate" : "Tue, 09 Jan 2024 07:15:00",
-         "title" : "Vitaly Sivuk wins the 51st edition of the Rilton Cup"
       },
       {
          "description" : "Please find live link here https://live.mpchess.in/livea/ https://live.mpchess.in/liveb/",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2836",
          "pubDate" : "Mon, 08 Jan 2024 15:55:24",
          "title" : "Kosovo Championship: Nderim Saraçi and Arlinda Aliu take titles"
-      },
-      {
-         "description" : "Each year we try to have something unusual for the final article of the year. While the endgame studies this time may not fulfill this criterion, your author wanted to provide some deeper, partially philosophical, thoughts. | Photo: Midjourney",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-to-be-human-is",
-         "pubDate" : "Mon, 08 Jan 2024 15:36:35",
-         "title" : "Study of the Month: To be human is&hellip;?"
       },
       {
          "description" : "The exceptional feat of eight-year-old Roman Shogdzhiev, triumphing over five grandmasters in the World Rapid and Blitz Championships, earned him praise from his idol, GM Magnus Carlsen. Carlsen&#39;s double victory in the recently concluded event i...",
