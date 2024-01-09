@@ -26,6 +26,14 @@ news_feed (
          "title" : "Live game link for 2nd Indore International Grand master Chess Tournament 2024 - GM"
       },
       {
+         "description" : "World Champion Ding Liren seems ready and eager to return to the chessboard for his first classical chess tournament in eight months. &#34;I am much better than maybe two or three months ago,&#34; he said in an interview with Chess.com, a few days ahead o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ding-liren-interview-tata-steel-chess",
+         "pubDate" : "Tue, 09 Jan 2024 03:20:00",
+         "title" : "Ding Liren Ready For Tata: 'I Feel Much Better Than Before'"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -45,7 +53,7 @@ news_feed (
          "description" : "The exceptional feat of eight-year-old Roman Shogdzhiev, triumphing over five grandmasters in the World Rapid and Blitz Championships, earned him praise from his idol, GM Magnus Carlsen. Carlsen&#39;s double victory in the recently concluded event i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/exceptional-8-year-old-impresses-carlsen-beats-two-grandmasters",
+         "link" : "https://www.chess.com/news/view/roman-shogdzhiev-beats-five-grandmasters",
          "pubDate" : "Mon, 08 Jan 2024 13:18:00",
          "title" : "8-Year-Old Roman Shogdzhiev Amazes Chess World By Beating 5 Grandmasters"
       },
@@ -778,6 +786,14 @@ news_feed (
          "title" : "Report on the Asian Youth Chess Championships, 2023."
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106300019.cms\" />During the recent Sunway International chess tournament in Sitges, Spain, several leading Indian chess players, including GM Sankalp Gupta, faced a distressing ordeal due to multiple break-ins at their apartments, resulting in the loss of valuable belongings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-players-valuables-stolen-after-multiple-room-break-ins-in-spain/articleshow/106300019.cms",
+         "pubDate" : "Tue, 26 Dec 2023 15:57:48",
+         "title" : "Indian chess players' valuables stolen after multiple room break-ins in Spain"
+      },
+      {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -968,14 +984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2815",
          "pubDate" : "Fri, 22 Dec 2023 14:25:01",
          "title" : "2023 3rd FIDE Council Meeting: List of decisions"
-      },
-      {
-         "description" : "GM Alireza Firouzja had overtaken GM Wesley So on the live rating list after scoring 5/5 in a series of three matches against veterans in his home chess club of Chartres. Alas for the 20-year-old, he had one more game to play, and a draw from a lo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wesley-so-candidates",
-         "pubDate" : "Fri, 22 Dec 2023 14:17:00",
-         "title" : "Firouzja Falls At Final Candidates Hurdle, Wins Only 5.5/6, Drops Below So"
       },
       {
          "description" : " Alireza Firouzja had a final attempt to boost his rating in the January list and qualify for the Candidates by playing 6 games, three two games matches, against Alexandre Dgebuadze, Andrei Shchekachev and Sergey Fedorchuk in Chartres, 18th to 22nd December 2023. This was similar to the successful method Ding Liren used to qualify for the last Candidates. Whilst due to Covid-19 I had some sympathy with Ding trying to play enough games to qualify after an enforced break, this now just doesn't seem right to me. I think it's going to be very tricky for Firouzja to boost his rating enough anyhow. I used to be in favour of the strongest non-qualified player getting a place by rating, but I think ",
@@ -1184,14 +1192,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/manager-for-accessible-chess/",
          "pubDate" : "Tue, 19 Dec 2023 13:34:07",
          "title" : "Manager for Accessible Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2808",
-         "pubDate" : "Tue, 19 Dec 2023 09:58:32",
-         "title" : "New EDU Program and Titles endorsed by the FIDE Council"
       }
    ]
 }
