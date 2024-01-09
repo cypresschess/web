@@ -1184,14 +1184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/wesley-so-happy-be-alive-and-play-chess-sinquefieldcup-grandchesstour-2023",
          "pubDate" : "Wed, 20 Dec 2023 08:22:51",
          "title" : "Wesley So: Happy to Be Alive and Play Chess | #sinquefieldcup #grandchesstour 2023"
-      },
-      {
-         "description" : "Owen Philips has decided to stand down from the post of Manager for Accessible Chess on health grounds.&#160;During his tenure Owen has taken forward a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/manager-for-accessible-chess/",
-         "pubDate" : "Tue, 19 Dec 2023 13:34:07",
-         "title" : "Manager for Accessible Chess"
       }
    ]
 }
