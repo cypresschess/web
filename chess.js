@@ -10,6 +10,14 @@ news_feed (
          "title" : "Kosovo Championship: Nderim Saraçi and Arlinda Aliu take titles"
       },
       {
+         "description" : "Each year we try to have something unusual for the final article of the year. While the endgame studies this time may not fulfill this criterion, your author wanted to provide some deeper, partially philosophical, thoughts. | Photo: Midjourney",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-to-be-human-is",
+         "pubDate" : "Mon, 08 Jan 2024 15:36:35",
+         "title" : "Study of the Month: To be human is&hellip;?"
+      },
+      {
          "description" : "The exceptional feat of eight-year-old Roman Shogdzhiev, triumphing over five grandmasters in the World Rapid and Blitz Championships, earned him praise from his idol, GM Magnus Carlsen. Carlsen&#39;s double victory in the recently concluded event i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -98,14 +106,6 @@ news_feed (
          "title" : "51st Rilton Cup 2023-24 - Games and Results"
       },
       {
-         "description" : "During his long career Viktor Kortschnoi (23 March 1931 - 6 June 2016) won against Botvinnik, Smyslov, Tal, Petrosian, Spassky, Fischer, Karpov, Kasparov and Carlsen. He never became World Champion himself, but you might think that \"he could beat anyone\". But this is just a clich&eacute;. For although Kortschnoi played a total of 17 games with classical time control against Anand and Kramnik in the course of his life, he never scored a full point against either of them. | Photo: Kortschnoi at the 1960 Leipzig Chess Olympiad | Photo: Tournament book",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-narrowly-missed-record-viktor-kortschnoi-against-the-world-champions",
-         "pubDate" : "Sun, 07 Jan 2024 14:00:00",
-         "title" : "A narrowly missed record: Viktor Kortschnoi against the World Champions"
-      },
-      {
          "description" : " The 97th Caplin Hastings Congress took place 28th December 2023 to 7th January 2024. Abhijeet Gupta took clear first place with 7.5/9 half a point clear of Pengxiang Zhang. There is a final weekend tournament that followed the Masters. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -162,14 +162,6 @@ news_feed (
          "title" : "Tougher titles?"
       },
       {
-         "description" : "Some topics in chess strategy are more fashionable than others. This can happen for various reasons. For example, some topics may be easy to explain and understand. This is the case with the \"good and bad bishop\" theory. Or it might happen that some strategic phenomenon becomes a favourite topic of a famous chess writer. This happened, for example, with Nimzowitsch and the art of blocking passed pawns. In the following article we will look at a very striking example of this phenomenon. | Photo: Tigran Petrosian 1973, Dutch National Archives, The Hague, Algemeen Nederlandsch Fotobureau (Anefo)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-28-how-to-defend-against-a-minority-attack",
-         "pubDate" : "Sat, 06 Jan 2024 12:00:00",
-         "title" : "The Winning Academy 28: How to Defend Against a Minority Attack?"
-      },
-      {
          "description" : "A modern-day problem is having way too many options and relatively little time. We can't do it all. Be it in chess improvement, business, or hobbies. So, our task is to filter out the things that are really worth our time and say no to everything else. Today, I show you how to do this. []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -186,28 +178,12 @@ news_feed (
          "title" : "Exclusive: Carlsen Confirms He Will Formally Decline Candidates Invitation"
       },
       {
-         "description" : "Magnus Carlsen is missing from this year's Tata Steel Chess, but World Champion Ding Liren has returned from his sabbatical. Otherwise, the Masters and Challengers are once again very colourful, with superstars, women and young talented players. The tournament starts in a week's time. | Photo: Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/coming-soon-the-tata-steel-tournament-2024-in-wijk-aan-zee",
-         "pubDate" : "Fri, 05 Jan 2024 16:00:00",
-         "title" : "Coming soon: The Tata Steel Tournament 2024 in Wijk aan Zee"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2834",
          "pubDate" : "Fri, 05 Jan 2024 15:16:11",
          "title" : "Davidson Gabriel and Rose Berline Seine win the Haitian Championship"
-      },
-      {
-         "description" : "How did you fare with the three fun-to-solve puzzles we provided on December 30? They were fairly subtle, one quite amuzing. We got them from Gauri Shankar is a FIDE Master with eight IM norms. He lives in Chicago and produces entertaining video shorts explaining problems and studies. You can watch them for the solutions to our Christmas selection.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-puzzles-solutions-5",
-         "pubDate" : "Fri, 05 Jan 2024 09:00:00",
-         "title" : "Christmas Puzzles: Solutions 3"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106570473.cms\" />Adani Group chairman Gautam Adani met with rising chess sensation Rameshbabu Praggnanandhaa on Friday, expressing admiration for his achievements. Adani shared a picture with Praggnanandhaa on X, emphasizing his success as an inspiration for young Indians. Adani pledged his support, highlighting Praggnanandhaa's representation of India's potential. Adani praised Praggnanandhaa's success as an inspiration for young Indians to believe in standing on the podium to celebrate their nation's greatness.",
@@ -240,14 +216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi",
          "pubDate" : "Thu, 04 Jan 2024 23:37:30",
          "title" : "Beat Offbeat Chess Lines | Prepare Like A Pro - GM Elshan Moradiabadi"
-      },
-      {
-         "description" : "As expected, Magnus Carlsen has now announced on his X account that he won't be playing in the Candidates Tournament in Toronto in April, even though he qualified by winning the World Cup 2023 and by being the world's number one on the rating list. GM Nijat Abasov from Azerbaijan, who lost to Carlsen in the semifinals of the World Cup, will get Carlsen's place in the Candidates. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/it-s-official-carlsen-will-not-play-in-the-candidates",
-         "pubDate" : "Thu, 04 Jan 2024 19:58:01",
-         "title" : "It's official: Carlsen will not play in the Candidates"
       },
       {
          "description" : " The 2024 Australian Championship is underway in Adelaide. In good news for local readers of this blog, the top 2 places are currently held by Canberra players. IM Rishi Sardana is the top seed, and leads with 4/4. FM Fred Litchfield is in 2nd place on 3.5. Of course they are now paired in round 5, although this ensures that at least one of them will maintain the lead just before the half way mark. The Championship attracted 29 players, with 4 IM's, 2 WGM's and assorted other title players. Although title norms for this event are exempt from the normal foreigner requirement (due to it being a national championship), the performance rating required for an IM norm will be difficult to achieve,",
@@ -296,14 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2023-chesscom-awards-winners",
          "pubDate" : "Wed, 03 Jan 2024 17:21:00",
          "title" : "Announcing The 2023 Chess.com Awards Winners"
-      },
-      {
-         "description" : "With the publication of FIDE's January rating list, the participants in the Candidates Tournaments in April have been practically finalised. Alireza Firouzja and Humyp Koneru qualify thanks to their ratings while Magnus Carlsen is formally qualified, but has already stated that he does not wish to play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-participants-of-the-candidates",
-         "pubDate" : "Wed, 03 Jan 2024 14:36:02",
-         "title" : "The participants of the Candidates"
       },
       {
          "description" : "",
@@ -1240,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2808",
          "pubDate" : "Tue, 19 Dec 2023 09:58:32",
          "title" : "New EDU Program and Titles endorsed by the FIDE Council"
-      },
-      {
-         "description" : " FM Jimmy Canty III has become one of the most popular and visible online chess personalities. His rise to stardom in the streaming world comes amidst giants such as Hikaru Nakamura, Levy Rozman, and the Botez (Alexandra &#38; Andrea) sisters. This led to high-profile commentary gigs and now the 31-year-old Detroit native has become a The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/\">FM Jimmy Canty on Chessable!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/12/18/fm-jimmy-canty-on-chessable/",
-         "pubDate" : "Tue, 19 Dec 2023 03:43:58",
-         "title" : "FM Jimmy Canty on Chessable!"
       }
    ]
 }
