@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This famous dictum by Dr. Tarrasch is a (very) good rule of thumb in rook endings and valid for the attacker and the defender. In the diagram position it is Black to move and win. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-rook-belongs-behind-the-passed-pawn",
+         "pubDate" : "Tue, 09 Jan 2024 09:00:00",
+         "title" : "The rook belongs behind the passed pawn"
+      },
+      {
+         "description" : "The 51st edition of the Rilton Cup came to an end in Stockholm on Friday. The winner of the nine-round event was the Ukrainian GM Vitaly Sivuk, who now plays for Sweden, with a score of 7&frac12;/9. Israeli IMs Yahli Sokolovsky and Yair Parkhov (both with 7/9) finished second and third, respectively. | Photos: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vitaly-sivuk-wins-rilton-cup-2024",
+         "pubDate" : "Tue, 09 Jan 2024 07:15:00",
+         "title" : "Vitaly Sivuk wins the 51st edition of the Rilton Cup"
+      },
+      {
+         "description" : "Please find live link here https://live.mpchess.in/livea/ https://live.mpchess.in/liveb/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-link-for-2nd-indore-international-grand-master-chess-tournament-2024-gm/",
+         "pubDate" : "Tue, 09 Jan 2024 06:02:13",
+         "title" : "Live game link for 2nd Indore International Grand master Chess Tournament 2024 - GM"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,28 +90,12 @@ news_feed (
          "title" : "WGM title awarded to Lan Yao"
       },
       {
-         "description" : "The Caplin Masters, part of the Hastings International Chess Congress, came to an end on Friday with a triumph for Abhijeet Gupta. The 34-year-old Indian grandmaster was the only one of 100+ participants in the event to achieve a score of 7&frac12;/9, thus getting outright victory. Pengxiang Zhang from China (7/9) came second. Behind Zhang, a group of nine players finished with 6&frac12;/9 points each. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hastings-congress-2023-final-report",
-         "pubDate" : "Mon, 08 Jan 2024 09:00:00",
-         "title" : "Abhijeet Gupta wins the Caplin Masters in Hastings"
-      },
-      {
          "description" : "Madhya Pradesh Chess Ad Hoc Committee on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/final-report-sna-seminar-exam-at-katni-on-30-31-dec-2023/",
          "pubDate" : "Mon, 08 Jan 2024 05:56:44",
          "title" : "Final Report :SNA Seminar & Exam at Katni on 30 & 31 Dec 2023"
-      },
-      {
-         "description" : "As the new year gets underway, it's traditional to look both forwards and backwards. 2023 saw Magnus Carlsen abdicate his world title, Ding Liren capture the vacant crown after a nail-biting match against Ian Nepomniachtchi and Ju Wenjun retain her world title also by a narrow margin after defeating her countrywoman Lei Tingjie. Jon Speelman looks back to 2023 and forward to 2024. | Photo: Fabiano Caruana | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jon-speelman-to-and-fro",
-         "pubDate" : "Sun, 07 Jan 2024 21:47:46",
-         "title" : "Jon Speelman: To and fro - 2023 and 2024"
       },
       {
          "description" : " The 86th Tata Steel chess tournament takes place Saturday 13th to Sun 28th Jan 2024 in Wijk aan Zee. Players: Masters: Ding Liren, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, D Gukesh, R Praggnanandhaa, Parham Maghsoodloo, Wei Yi, Nodirbek Abdusattorov, Santosh Gujrathi Vidit, Jorden Van Foreest, Alexander Donchenko, Max Warmerdam and Wenjun Ju. Challengers: Anton Korobov, Hans Moke Niemann, Mustafa Yilmaz, A.R. Saleh Salem, Jaime Santos Latasa, Erwin L'Ami, Leon Luke Mendonca, Daniel Dardha, Marc Andria Maurizzi, Liam Vrolijk, Harika Dronavalli, Stefan Beukema, Deshmukh Divya and Eline Roebers. World Champion Ding Liren who has hardly played after winning the title due to ill health ",
@@ -770,14 +778,6 @@ news_feed (
          "title" : "Report on the Asian Youth Chess Championships, 2023."
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106300019.cms\" />During the recent Sunway International chess tournament in Sitges, Spain, several leading Indian chess players, including GM Sankalp Gupta, faced a distressing ordeal due to multiple break-ins at their apartments, resulting in the loss of valuable belongings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-players-valuables-stolen-after-multiple-room-break-ins-in-spain/articleshow/106300019.cms",
-         "pubDate" : "Tue, 26 Dec 2023 15:57:48",
-         "title" : "Indian chess players' valuables stolen after multiple room break-ins in Spain"
-      },
-      {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1096,14 +1096,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/pocket-sets.html",
          "pubDate" : "Thu, 21 Dec 2023 12:31:00",
          "title" : "Pocket Sets"
-      },
-      {
-         "description" : "Certificates of national Fair Play Workshop, Thoothukudi are available to download. Link : https://aicf.online/Fair-Play-Toothukudi.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-fair-play-certificates-thoothukudi/",
-         "pubDate" : "Thu, 21 Dec 2023 09:52:12",
-         "title" : "National fair Play Certificates, Thoothukudi"
       },
       {
          "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
