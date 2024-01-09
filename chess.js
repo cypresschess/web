@@ -10,6 +10,14 @@ news_feed (
          "title" : "Kosovo Championship: Nderim Saraçi and Arlinda Aliu take titles"
       },
       {
+         "description" : "The exceptional feat of eight-year-old Roman Shogdzhiev, triumphing over five grandmasters in the World Rapid and Blitz Championships, earned him praise from his idol, GM Magnus Carlsen. Carlsen&#39;s double victory in the recently concluded event i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/exceptional-8-year-old-impresses-carlsen-beats-two-grandmasters",
+         "pubDate" : "Mon, 08 Jan 2024 13:18:00",
+         "title" : "8-Year-Old Roman Shogdzhiev Amazes Chess World By Beating 5 Grandmasters"
+      },
+      {
          "description" : "ChessBase Magazine is breaking new ground. For almost 30 years, a Windows operating system and a ChessBase program were a must for reading the CBM. The new issue #217 (January 2024) is the first one to include full mobile access, so you can load it directly via the web browser on your iPad, tablet, Mac, etc. Thanks to the new ChessBase Books system, all content is available: Analyses, videos, repertoire articles, training exercises and the interactive training videos from the tactics, strategy and endgame columns! We invite you to join us: In this and the coming weeks, we will be offering you a complete CBM article from the current issue for free! The best first: Oliver Reeh's article \"Invas",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2814",
          "pubDate" : "Fri, 22 Dec 2023 14:06:22",
          "title" : "FIDE General Assembly: List of decisions"
-      },
-      {
-         "description" : "After another 12 months logged in humanity&#39;s book, we might&#39;ve lost track of how much we put into this timeless game. Thankfully, Chess.com has us covered with a brand new feature available now: YEAR IN CHESS! Look back at the stats of your fantas...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-year-in-chess",
-         "pubDate" : "Fri, 22 Dec 2023 12:08:00",
-         "title" : "Chess.com Launches Year In Chess!"
       },
       {
          "description" : "",
