@@ -1176,14 +1176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/eight-year-old-british-indian-schoolgirl-chess-prodigy-named-europes-best/articleshow/106161713.cms",
          "pubDate" : "Wed, 20 Dec 2023 16:16:35",
          "title" : "Eight-year-old British Indian schoolgirl chess prodigy named Europe's best"
-      },
-      {
-         "description" : "As it is already well-known, chess is a game of repeated motifs; a game of repeated knowledge! Once you carefully and correctly learn a motif, a pattern or an opening, your subconscious carefully stores it for use when time comes and demands! Here is a valuable lesson from a world-class chess trainer on the subject. There is a lot to learn!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/efstratios-grivas-repetead-motifs",
-         "pubDate" : "Wed, 20 Dec 2023 12:00:00",
-         "title" : "Efstratios Grivas - Repeated Motifs"
       }
    ]
 }
