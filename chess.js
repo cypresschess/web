@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The thirteenth edition of the London Chess Classic saw 52-year-old Michael Adams becoming the first Englishman to win the now traditional tournament. Shreyas Royal (pictured with his father), at 14, collected his second GM norm, and showed excellent endgame technique when required. GM Karsten M&uuml;ller selected some of the most instructive endgame positions to share with us, including a couple by the youngster of Indian origin. | Photo: London Chess Classic",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-endgames",
+         "pubDate" : "Wed, 10 Jan 2024 19:00:00",
+         "title" : "Instructive endgames from the London Chess Classic"
+      },
+      {
+         "description" : "<div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/knight-dance.1920.jpeg\" title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. screen grab from youtube\" data-title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. (screen grab from youtube)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1\" alt=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand.\" srcset=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1 1x, https://www.chesstech.org/files/knight-dance.960.jpeg?v=1 2x\" > </a> <figcaption><em>Daniil Dubov and Ian ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/match-fixing-as-a-form-of-protest/",
+         "pubDate" : "Wed, 10 Jan 2024 18:42:23",
+         "title" : "Match-fixing as a form of protest"
+      },
+      {
          "description" : "The ChessBase Christmas Puzzle week has concluded, but one final competition remains! To all amateurs and aspiring composers, now is your chance to gain fame by submitting a composition with chance for prizes too - with ChessBase publications in the brand-new eBook format up for grabs! The deadline for submission is January 21st - this article provides all other details! So good luck and happy composing to all!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-december-2023/",
          "pubDate" : "Wed, 10 Jan 2024 11:18:17",
          "title" : "ECU E-Magazine December 2023"
+      },
+      {
+         "description" : "The second set of Titled Tuesday tournaments of 2024 was won by GMs Eduardo Iturrizaga and Daniil Dubov on January 9. A total of 733 participants in the first tournament was easily the most since Titled Tuesday was split into two tournaments, smas...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/iturrizaga-dubov-win-titled-tuesday-january-9-2024",
+         "pubDate" : "Wed, 10 Jan 2024 08:52:00",
+         "title" : "Titled Cup Continues To Grow Titled Tuesday"
       },
       {
          "description" : "<div class=\"body text-secondary\"> During his Grandmaster&#039;s Choice class on the Endgame Labyrinth, Grandmaster Elshan Moradiabadi loses a bet with himself. He honors it by doing ten pushups in front of the class. 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/elshan-does-pushups-dark-room-highlight\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J6WmMv2xKGQ.jpg?itok=bXV35An6\" alt=\"\" /></a></div>",
@@ -56,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tournament-calendar-2024",
          "pubDate" : "Tue, 09 Jan 2024 23:40:00",
          "title" : "Tournament calendar 2024"
-      },
-      {
-         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship will be held in 2024: the blitz tournament will take place on Friday (12 January), while the rapid tournament will be held on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. Alexandra Kosteniuk, Antoaneta Stefanova and Pia Cramling are included in the lineups. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-preview",
-         "pubDate" : "Tue, 09 Jan 2024 20:10:00",
-         "title" : "This weekend: European Women's Rapid and Blitz Championship"
       },
       {
          "description" : "Almost 30 years ago, at the 1995 edition of the Hoogovens Tournament in Wijk aan Zee, Roberto Cifuentes and Vadim Zvjaginsev played an astounding game. Known as the 'Pearl of Wijk aan Zee', the encounter features a number of sacrifices, including a successful queen sacrifice. Zvjaginsev went all-in for the attack once Cifuentes made an innocent-looking move. Unmissable!",
@@ -128,6 +144,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2835",
          "pubDate" : "Mon, 08 Jan 2024 11:50:01",
          "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration is open"
+      },
+      {
+         "description" : "Chess has found its way back into the spotlight―this time through the lens of a new female protagonist. Check &#38;amp; Mate, written by New York Times bestselling author Ali Hazelwood, won the 2023 Goodreads Choice Award for Best Young Adult Fiction....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-novel-tops-goodreads-awards",
+         "pubDate" : "Mon, 08 Jan 2024 11:07:00",
+         "title" : "Chess Novel Tops Goodreads Awards"
       },
       {
          "description" : "Congratulations to Lan Yao, whose WGM title was confirmed by the 2023 3rd FIDE Council Meeting. Since applying for the title Lan Yao has gained...",
@@ -978,28 +1002,12 @@ news_feed (
          "title" : "Day 2 - Mastering Mindset: Shift from Rating Goals to Skill Improvement"
       },
       {
-         "description" : "The chess world had a busy year in 2023. From the World Championship in the spring to a busy December that featured the Champions Chess Tour Finals and a mad dash to the next Candidates Tournament, there was no shortage of chess being played. Th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-year-in-review",
-         "pubDate" : "Sat, 23 Dec 2023 10:11:00",
-         "title" : "2023 Year In Review"
-      },
-      {
          "description" : "Senior National Arbiter Seminar, Vizianagaram, Andhra Pradesh certificates are out to download. link : https://aicf.online/SNA-Vizg.html Any correction mail at aicfwebmaster2021@gmail.com",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/senior-national-arbiter-seminar-certificates/",
          "pubDate" : "Sat, 23 Dec 2023 09:36:11",
          "title" : "Senior National Arbiter Seminar, Certificates"
-      },
-      {
-         "description" : "Indian GM Abhimanyu Puranik won his last four games to take clear first place on 8.5/10 and win the Chessable Sunway Sitges Chess Festival 2023. Four players tied for second place, with U.S. GM Brandon Jacobson taking the runner-up spot after winn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/puranik-wins-sitges-erdogmus-gm-norm",
-         "pubDate" : "Sat, 23 Dec 2023 02:09:00",
-         "title" : "Puranik Wins In Sitges, 12-Year-Old Erdogmus Makes 1st GM Norm"
       },
       {
          "description" : " I am heading off later today to be a Pairings Officer at the World Rapid and Blitz Championship. Eschewing the traditional method of travelling to Samarkand, I will still be in transit for the next 36 hours. To pass the time a little light reading, in the form of the decisions made by FIDE Council at its most recent meeting <a href=\"https://fide.com/news/2815\">https://fide.com/news/2815</a> ",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2809",
          "pubDate" : "Wed, 20 Dec 2023 20:56:36",
          "title" : "Gergely Antal wins 2023 Hungarian Championship"
-      },
-      {
-         "description" : "The name \"Hastings\" has a very special ring to it in the chess world. In 1895 one of the most important tournaments in chess history took place in the seaside resort on the south-east coast of England, and chess tournaments are still regularly held there today - no tournament in chess history has a longer tradition. The Berlin FM J&uuml;rgen Brustkern is a great expert on Hastings and has written a book on the history of this tradition together with Norbert Wallet. In an interview with ChessBase he reveals what fascinates him so much about Hastings.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-tradition-in-hastings-an-interview-with-juergen-brustkern",
-         "pubDate" : "Wed, 20 Dec 2023 17:00:00",
-         "title" : "Chess tradition in Hastings - An interview with J&uuml;rgen Brustkern"
       }
    ]
 }
