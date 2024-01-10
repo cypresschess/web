@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ECU E-Magazine December 2023 is out! In this edition of the ECU E-Magazine you may read about: The December 2023 issue of the ECU Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below in PFD format.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-december-2023/",
+         "pubDate" : "Wed, 10 Jan 2024 11:18:17",
+         "title" : "ECU E-Magazine December 2023"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> During his Grandmaster&#039;s Choice class on the Endgame Labyrinth, Grandmaster Elshan Moradiabadi loses a bet with himself. He honors it by doing ten pushups in front of the class. 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/elshan-does-pushups-dark-room-highlight\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J6WmMv2xKGQ.jpg?itok=bXV35An6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/elshan-does-pushups-dark-room-highlight",
+         "pubDate" : "Wed, 10 Jan 2024 08:41:49",
+         "title" : "Elshan Does Pushups in a Dark Room | HIGHLIGHT"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi takes you by the hand to lead you through chess endgame puzzles, so complicated you could call them labyrinths! Positions are taken from &quot;Endgame Labyrinths&quot; by Steffen Nielsen and Jacob Aagaard: <a href=\"https://forwardchess.com/product/endgame-labyrinths\">https://forwardchess.com/product/endgame-labyrinths</a>. 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/studying-endgame-labyrinth-grandmasters-choice-gm-elsh",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1168,14 +1184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/efstratios-grivas-repetead-motifs",
          "pubDate" : "Wed, 20 Dec 2023 12:00:00",
          "title" : "Efstratios Grivas - Repeated Motifs"
-      },
-      {
-         "description" : "We're pleased to be able to confirm that the ECF are once again supporting the 4NCL in organising the 2024 edition of the British Rapidplay...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-rapidplay-2024/",
-         "pubDate" : "Wed, 20 Dec 2023 11:20:12",
-         "title" : "British Rapidplay 2024"
       }
    ]
 }
