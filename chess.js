@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ChessBase Christmas Puzzle week has concluded, but one final competition remains! To all amateurs and aspiring composers, now is your chance to gain fame by submitting a composition with chance for prizes too - with ChessBase publications in the brand-new eBook format up for grabs! The deadline for submission is January 21st - this article provides all other details! So good luck and happy composing to all!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/compose-your-own-puzzle-mate",
+         "pubDate" : "Wed, 10 Jan 2024 13:48:36",
+         "title" : "Compose your own puzzle, mate!"
+      },
+      {
          "description" : "ECU E-Magazine December 2023 is out! In this edition of the ECU E-Magazine you may read about: The December 2023 issue of the ECU Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below in PFD format.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/elshan-does-pushups-dark-room-highlight",
          "pubDate" : "Wed, 10 Jan 2024 08:41:49",
          "title" : "Elshan Does Pushups in a Dark Room | HIGHLIGHT"
+      },
+      {
+         "description" : "GM-elect Vaishali Rameshbabu has clinched one of India&#39;s most prestigious awards thanks to her chess prowess, while her brother GM Praggnanandhaa Rameshbabu has secured new backing from an Indian billionaire. Their maestro trainer GM R.B Ramesh is...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vaishali-ramesh-awards-praggnanandhaa-billionaire-backing",
+         "pubDate" : "Wed, 10 Jan 2024 06:41:15",
+         "title" : "Vaishali, Ramesh Receive Awards, Pragg Backed By India's 2nd Richest Person"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi takes you by the hand to lead you through chess endgame puzzles, so complicated you could call them labyrinths! Positions are taken from &quot;Endgame Labyrinths&quot; by Steffen Nielsen and Jacob Aagaard: <a href=\"https://forwardchess.com/product/endgame-labyrinths\">https://forwardchess.com/product/endgame-labyrinths</a>. 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/studying-endgame-labyrinth-grandmasters-choice-gm-elsh",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-pearl-of-wijk-aan-zee",
          "pubDate" : "Tue, 09 Jan 2024 17:20:00",
          "title" : "Robert Ris: The pearl of Wijk aan Zee"
-      },
-      {
-         "description" : "This famous dictum by Dr. Tarrasch is a (very) good rule of thumb in rook endings and valid for the attacker and the defender. In the diagram position it is Black to move and win. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-rook-belongs-behind-the-passed-pawn",
-         "pubDate" : "Tue, 09 Jan 2024 09:00:00",
-         "title" : "The rook belongs behind the passed pawn"
       },
       {
          "description" : "Please find live link here https://live.mpchess.in/livea/ https://live.mpchess.in/liveb/",
@@ -136,6 +144,14 @@ news_feed (
          "link" : "https://aicf.in/final-report-sna-seminar-exam-at-katni-on-30-31-dec-2023/",
          "pubDate" : "Mon, 08 Jan 2024 05:56:44",
          "title" : "Final Report :SNA Seminar & Exam at Katni on 30 & 31 Dec 2023"
+      },
+      {
+         "description" : "In the ongoing series dedicated to chess on eBay <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), last month's post was <A HREF=\"https://chessforallages.blogspot.com/2023/12/fischer-spassky-top-items-by-price.html\">Fischer - Spassky Top Items</A> (December 2023). I wrote, <BLOCKQUOTE> My short list for this post had a dozen items, any one of which could have been featured for the post. </BLOCKQUOTE> <P> This month the situation was the opposite; my short list had zero items. I looked at twice the number of eBay pages that I usually do, came up empty handed, then looked at a number of related ideas and ag",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/in-style-of.html",
+         "pubDate" : "Sun, 07 Jan 2024 16:49:00",
+         "title" : "In the Style of ..."
       },
       {
          "description" : " The 86th Tata Steel chess tournament takes place Saturday 13th to Sun 28th Jan 2024 in Wijk aan Zee. Players: Masters: Ding Liren, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, D Gukesh, R Praggnanandhaa, Parham Maghsoodloo, Wei Yi, Nodirbek Abdusattorov, Santosh Gujrathi Vidit, Jorden Van Foreest, Alexander Donchenko, Max Warmerdam and Wenjun Ju. Challengers: Anton Korobov, Hans Moke Niemann, Mustafa Yilmaz, A.R. Saleh Salem, Jaime Santos Latasa, Erwin L'Ami, Leon Luke Mendonca, Daniel Dardha, Marc Andria Maurizzi, Liam Vrolijk, Harika Dronavalli, Stefan Beukema, Deshmukh Divya and Eline Roebers. World Champion Ding Liren who has hardly played after winning the title due to ill health ",
@@ -1002,14 +1018,6 @@ news_feed (
          "title" : "11-year-old Deborah Quickpen, Nigerian Chess sensation"
       },
       {
-         "description" : "Chess In Slums Africa partnered with Chess.com to reach the goal of raising $50,000 to bring the education and joy of chess to 5,000 children in Africa. With an arena tournament played on Chess.com, and with a powerhouse team of commentators and g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-in-slums-africa-fundraiser-recap",
-         "pubDate" : "Fri, 22 Dec 2023 14:44:00",
-         "title" : "2,706 Players Compete For A Cause: Chess In Slums Africa Fundraiser"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-tradition-in-hastings-an-interview-with-juergen-brustkern",
          "pubDate" : "Wed, 20 Dec 2023 17:00:00",
          "title" : "Chess tradition in Hastings - An interview with J&uuml;rgen Brustkern"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106161713.cms\" />An eight-year-old British Indian schoolgirl has made chess history after being named the \"super talented\" best female player at a European championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/eight-year-old-british-indian-schoolgirl-chess-prodigy-named-europes-best/articleshow/106161713.cms",
-         "pubDate" : "Wed, 20 Dec 2023 16:16:35",
-         "title" : "Eight-year-old British Indian schoolgirl chess prodigy named Europe's best"
       }
    ]
 }
