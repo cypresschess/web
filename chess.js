@@ -1176,14 +1176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-rapidplay-2024/",
          "pubDate" : "Wed, 20 Dec 2023 11:20:12",
          "title" : "British Rapidplay 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3I7EystMbZc.jpg?itok=KA0CeJLf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023",
-         "pubDate" : "Wed, 20 Dec 2023 08:22:51",
-         "title" : "Wesley So on His Position in The GCT During The #sinquefieldcup #grandchesstour 2023"
       }
    ]
 }
