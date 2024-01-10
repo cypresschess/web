@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko teaches a beginner chess class on opening principles. 2024.01.09<br /> Paul Morphy vs Duke Karl / Count Isouard, Paris (1858): C41 Philidor&#039;s defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1233404\">https://www.chessgames.com/perl/chessgame?gid=1233404</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-principles-beginner-breakdown-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi takes you by the hand to lead you through chess endgame puzzles, so complicated you could call them labyrinths! Positions are taken from &quot;Endgame Labyrinths&quot; by Steffen Nielsen and Jacob Aagaard: <a href=\"https://forwardchess.com/product/endgame-labyrinths\">https://forwardchess.com/product/endgame-labyrinths</a>. 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/studying-endgame-labyrinth-grandmasters-choice-gm-elsh",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/studying-endgame-labyrinth-grandmasters-choice-gm-elshan-moradiabadi",
+         "pubDate" : "Wed, 10 Jan 2024 02:41:43",
+         "title" : "Studying the Endgame Labyrinth | Grandmaster's Choice - GM Elshan Moradiabadi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko teaches a beginner chess class on opening principles. 2024.01.09<br /> Paul Morphy vs Duke Karl / Count Isouard, Paris (1858): C41 Philidor&#039;s defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1233404\">https://www.chessgames.com/perl/chessgame?gid=1233404</a><br /> Julian Proleiko vs. Kenneth Wallach, 2023: B27 Sicilian, Hungarian variation<br /> Proleiko vs. ???, 2023: A09 Reti opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/opening-principles-beginner-breakdown-nm-julian-proleiko",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/wesley-so-his-position-gct-during-sinquefieldcup-grandchesstour-2023",
          "pubDate" : "Wed, 20 Dec 2023 08:22:51",
          "title" : "Wesley So on His Position in The GCT During The #sinquefieldcup #grandchesstour 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-fide-changes-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4rfYMXlPzS8.jpg?itok=m2wjMc-E\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-fide-changes-sinquefieldcup-grandchesstour-2023",
-         "pubDate" : "Wed, 20 Dec 2023 08:22:51",
-         "title" : "Dominguez on FIDE Changes | #sinquefieldcup #grandchesstour 2023"
       }
    ]
 }
