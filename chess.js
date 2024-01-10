@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko teaches a beginner chess class on opening principles. 2024.01.09<br /> Paul Morphy vs Duke Karl / Count Isouard, Paris (1858): C41 Philidor&#039;s defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1233404\">https://www.chessgames.com/perl/chessgame?gid=1233404</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-principles-beginner-breakdown-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/opening-principles-beginner-breakdown-nm-julian-proleiko",
+         "pubDate" : "Tue, 09 Jan 2024 23:41:41",
+         "title" : "Opening Principles | Beginner Breakdown - NM Julian Proleiko"
+      },
+      {
+         "description" : "An eventful chess year lies behind us. And an equally eventful chess year lies ahead of us. Many dates for the major and somewhat smaller international tournaments have already been announced. Here is a preview of the 2024 tournament calendar. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tournament-calendar-2024",
+         "pubDate" : "Tue, 09 Jan 2024 23:40:00",
+         "title" : "Tournament calendar 2024"
+      },
+      {
          "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship will be held in 2024: the blitz tournament will take place on Friday (12 January), while the rapid tournament will be held on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. Alexandra Kosteniuk, Antoaneta Stefanova and Pia Cramling are included in the lineups. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/roman-shogdzhiev-beats-five-grandmasters",
          "pubDate" : "Mon, 08 Jan 2024 13:18:00",
          "title" : "8-Year-Old Roman Shogdzhiev Amazes Chess World By Beating 5 Grandmasters"
-      },
-      {
-         "description" : "ChessBase Magazine is breaking new ground. For almost 30 years, a Windows operating system and a ChessBase program were a must for reading the CBM. The new issue #217 (January 2024) is the first one to include full mobile access, so you can load it directly via the web browser on your iPad, tablet, Mac, etc. Thanks to the new ChessBase Books system, all content is available: Analyses, videos, repertoire articles, training exercises and the interactive training videos from the tactics, strategy and endgame columns! We invite you to join us: In this and the coming weeks, we will be offering you a complete CBM article from the current issue for free! The best first: Oliver Reeh's article \"Invas",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://books.chessbase.com/en/chessbase-magazine-january-2024-217/invasion-on-the-back",
-         "pubDate" : "Mon, 08 Jan 2024 13:00:00",
-         "title" : "CBM #217 - Now also for iPad, tablet, Mac, etc."
       },
       {
          "description" : " The 2024 Australian Championship appears to be a race between two players/ With 8 rounds completed IM Rishi Sardana leads on 7/8, having conceded a second draw in todays round. FM Fred Litchfield is in 2nd place with 6/8, while the remaining players are on 5/8 or below. Sardana has a potentially tricky matchup in round 9, playing IM Stephen Solomon, while Litchfield is up against one of the tournament surprise packets, CM Daniel Melamed. While Litchfield still has chances to earn an IM norm from this event, the pairings are not doing him any favours. While he has played the required number of IM's for a 9 game norm, he hasn't played the required number of titles players (only 4 at this stag",
@@ -1176,14 +1184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/dominguez-fide-changes-sinquefieldcup-grandchesstour-2023",
          "pubDate" : "Wed, 20 Dec 2023 08:22:51",
          "title" : "Dominguez on FIDE Changes | #sinquefieldcup #grandchesstour 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sinquefield Cup 2023 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-happy-be-alive-and-play-chess-sinquefieldcup-grandchesstour-2023\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TsVMrRSHIBs.jpg?itok=49Pp_Ymd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-happy-be-alive-and-play-chess-sinquefieldcup-grandchesstour-2023",
-         "pubDate" : "Wed, 20 Dec 2023 08:22:51",
-         "title" : "Wesley So: Happy to Be Alive and Play Chess | #sinquefieldcup #grandchesstour 2023"
       }
    ]
 }
