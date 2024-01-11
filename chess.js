@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " IM Rishi Sardana has won the 2024 Australian Championship, by a comprehensive 2 point margin. He score and undefeated 9.5/11, to finish 2 points ahead of Yi Liu and Samuel Asaka on 7.5. Tied for 4th were Fred Litchfield and Stephen Solomon on 7. The win by Sardana was the first time a player from the Australian capital has won the national championship. It was looking like a possible ACT 1-2 finish with Litchfield, but a win by IM Solomon over Litchfield in the final round put an end to that dream. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/sardana-wins-australian-championship.html",
+         "pubDate" : "Thu, 11 Jan 2024 11:13:00",
+         "title" : "Sardana wins Australian Championship"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to deal with players who refuse to play proper moves? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/knight-dance.1920.jpeg\" title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. screen grab from youtube\" data-title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. (screen grab from youtube)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1\" alt=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand.\" srcset=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1 1x",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/match-fixing-as-a-form-of-protest/",
+         "pubDate" : "Thu, 11 Jan 2024 10:32:26",
+         "title" : "Match-fixing as a form of protest"
+      },
+      {
+         "description" : "The 86th edition of the Tata Steel Chess takes place from 12-28 January in Wijk aan Zee, the Netherlands. The event features 14 super grandmasters who will compete in a 13-round round-robin tournament.&#160;The field is led by the reigning World Chess Champion GM Ding Liren (CHN, 2780). The participants are: The rate of play will be 100 Minutes for 40 moves, followed by 50 minutes for 20 moves, then 15 minutes for the remaining moves with 30 seconds cumulative increment []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/tata-steel-chess-2024-starts-in-wijk-aan-zee/",
+         "pubDate" : "Thu, 11 Jan 2024 09:32:29",
+         "title" : "Tata Steel Chess 2024 starts in Wijk aan Zee"
+      },
+      {
+         "description" : "The ECF events calendar plugin has mysteriously stopped working overnight, and as yet we do not know why. The webmaster is already working on the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/events-calendar-currently-down/",
+         "pubDate" : "Thu, 11 Jan 2024 08:45:14",
+         "title" : "Events calendar currently down - interim solution"
+      },
+      {
          "description" : "Ding Liren played his last classical rated game on May 15, when he beat Bogdan-Daniel Deac with black in the last round of the Superbet Classic in Bucharest. Just two weeks earlier, he had defeated Ian Nepomniachtchi in a thrilling match to become the 17th undisputed world chess champion. Following his long hiatus, the Chinese ace will compete again at the Tata Steel Masters in Wijk aan Zee. A week before the start of the traditional event, he played a rapid tournament in China. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/safarli-wins-staufer-open-2024",
          "pubDate" : "Thu, 11 Jan 2024 01:10:00",
          "title" : "Eltaj Safarli prevails at traditional Staufer Open"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to deal with players who refuse to play proper moves? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/knight-dance.1920.jpeg\" title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. screen grab from youtube\" data-title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. (screen grab from youtube)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1\" alt=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand.\" srcset=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1 1x",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/match-fixing-as-a-form-of-protest/",
-         "pubDate" : "Wed, 10 Jan 2024 22:53:34",
-         "title" : "Match-fixing as a form of protest"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi demonstrates how to stymie wacky openings like the Stafford and Elephant gambits. 2024.01.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4q1XpMGRjWs.jpg?itok=zg9DljGy\" alt=\"\" /></a></div>",
@@ -144,6 +168,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ding-liren-interview-tata-steel-chess",
          "pubDate" : "Tue, 09 Jan 2024 03:20:00",
          "title" : "Ding Liren Ready For Tata: 'I Feel Much Better Than Before'"
+      },
+      {
+         "description" : "For the past month I've been using one post per week to explore <I>AI Comics</I> (*). In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/father-time-and-new-year-baby.html\">Father Time and the New Year Baby</A> (January 2024), I wrote, <BLOCKQUOTE> After a month experimenting with this technology, it's time to carry the idea one step further. &#149; Next: The chess village. </BLOCKQUOTE> <P> A 'step further' means to develop a complete story using <I>AI Comics</I> to illustrate the story. The story is mine; the illustrations are <I>AI Comics</I>. This post is the first installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa08.jpg\" WIDTH=335 HEI",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/the-chess-village.html",
+         "pubDate" : "Mon, 08 Jan 2024 16:20:00",
+         "title" : "The Chess Village"
       },
       {
          "description" : "",
@@ -1160,14 +1192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/pocket-sets.html",
          "pubDate" : "Thu, 21 Dec 2023 12:31:00",
          "title" : "Pocket Sets"
-      },
-      {
-         "description" : "ChessBase India, together with several partners and supported by the Government of Tamil Nadu, is organising the Chennai Masters 2023, the strongest classical chess tournament in the history of Indian chess, from 15 to 21 December. Gukesh D. and Arjun Erigaisi get a chance to improve their chances to reach the Candidates Tournament in an 8-player single round-robin. | Follow the games live starting at 14.45 IST (10.15 CET, 4.15 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
-         "pubDate" : "Thu, 21 Dec 2023 08:50:00",
-         "title" : "Chennai Grand Masters - Live!"
       }
    ]
 }
