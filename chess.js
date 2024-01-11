@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ding Liren played his last classical rated game on May 15, when he beat Bogdan-Daniel Deac with black in the last round of the Superbet Classic in Bucharest. Just two weeks earlier, he had defeated Ian Nepomniachtchi in a thrilling match to become the 17th undisputed world chess champion. Following his long hiatus, the Chinese ace will compete again at the Tata Steel Masters in Wijk aan Zee. A week before the start of the traditional event, he played a rapid tournament in China. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-reappears-china-rapid-tournament",
+         "pubDate" : "Thu, 11 Jan 2024 08:00:00",
+         "title" : "Ding reappears, plays rapid tournament in China"
+      },
+      {
          "description" : "A number of tournaments are traditionally organised at the turn of the year. The Staufer Open in Schw&auml;bisch Gm&uuml;nd, Germany took place for the 34th time. Well over 500 chess enthusiasts took part in two competitions. Eltaj Safarli was the clear winner in the A Open. Bettina Trabert reports.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-preview",
          "pubDate" : "Tue, 09 Jan 2024 20:10:00",
          "title" : "This weekend: European Women's Rapid and Blitz Championship"
-      },
-      {
-         "description" : "Almost 30 years ago, at the 1995 edition of the Hoogovens Tournament in Wijk aan Zee, Roberto Cifuentes and Vadim Zvjaginsev played an astounding game. Known as the 'Pearl of Wijk aan Zee', the encounter features a number of sacrifices, including a successful queen sacrifice. Zvjaginsev went all-in for the attack once Cifuentes made an innocent-looking move. Unmissable!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-pearl-of-wijk-aan-zee",
-         "pubDate" : "Tue, 09 Jan 2024 17:20:00",
-         "title" : "Robert Ris: The pearl of Wijk aan Zee"
       },
       {
          "description" : "Please find live link here https://live.mpchess.in/livea/ https://live.mpchess.in/liveb/",
