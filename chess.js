@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A number of tournaments are traditionally organised at the turn of the year. The Staufer Open in Schw&auml;bisch Gm&uuml;nd, Germany took place for the 34th time. Well over 500 chess enthusiasts took part in two competitions. Eltaj Safarli was the clear winner in the A Open. Bettina Trabert reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/safarli-wins-staufer-open-2024",
+         "pubDate" : "Thu, 11 Jan 2024 01:10:00",
+         "title" : "Eltaj Safarli prevails at traditional Staufer Open"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to deal with players who refuse to play proper moves? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/knight-dance.1920.jpeg\" title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. screen grab from youtube\" data-title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. (screen grab from youtube)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1\" alt=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand.\" srcset=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1 1x",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/match-fixing-as-a-form-of-protest/",
+         "pubDate" : "Wed, 10 Jan 2024 22:53:34",
+         "title" : "Match-fixing as a form of protest"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi demonstrates how to stymie wacky openings like the Stafford and Elephant gambits. 2024.01.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4q1XpMGRjWs.jpg?itok=zg9DljGy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi-0",
+         "pubDate" : "Wed, 10 Jan 2024 20:42:26",
+         "title" : "Beat Offbeat Chess Lines! | Prepare Like A Pro - GM Elshan Moradiabadi"
+      },
+      {
+         "description" : "The European Women's Rapid and Blitz Chess Championship 2023 starts in Monte-Carlo, Monaco! The first event on the schedule will be the Blitz Championship, taking place on the 12th of January. The event will be played in 13 single rounds (swiss system), with the time control of 3 minutes + 2 seconds increment. European Women's Rapid Chess Championship 2023 will be played on 13-14 January with 11 rounds, swiss system, with the time control of 15 minutes + 10 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2023-starts-in-monaco/",
+         "pubDate" : "Wed, 10 Jan 2024 20:36:59",
+         "title" : "European Women's Rapid and Blitz Chess Championship 2023 starts in Monaco"
+      },
+      {
          "description" : "The thirteenth edition of the London Chess Classic saw 52-year-old Michael Adams becoming the first Englishman to win the now traditional tournament. Shreyas Royal (pictured with his father), at 14, collected his second GM norm, and showed excellent endgame technique when required. GM Karsten M&uuml;ller selected some of the most instructive endgame positions to share with us, including a couple by the youngster of Indian origin. | Photo: London Chess Classic",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +42,12 @@ news_feed (
          "title" : "Instructive endgames from the London Chess Classic"
       },
       {
-         "description" : "<div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/knight-dance.1920.jpeg\" title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. screen grab from youtube\" data-title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. (screen grab from youtube)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1\" alt=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand.\" srcset=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1 1x, https://www.chesstech.org/files/knight-dance.960.jpeg?v=1 2x\" > </a> <figcaption><em>Daniil Dubov and Ian ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/match-fixing-as-a-form-of-protest/",
-         "pubDate" : "Wed, 10 Jan 2024 18:42:23",
-         "title" : "Match-fixing as a form of protest"
+         "description" : "GM Daniil Dubov missed out on tying world number-one Magnus Carlsen for first place in the FIDE World Blitz Championship 2023 after both he and GM Ian Nepomniachtchi got zero points for the knight-moves-only draw they made in round 11. In a 59-min...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-dubov-dance-knights-podcast",
+         "pubDate" : "Wed, 10 Jan 2024 15:12:00",
+         "title" : "Nepomniachtchi On The Dance Of The Knights: 'I'm Not Proud'"
       },
       {
          "description" : "The ChessBase Christmas Puzzle week has concluded, but one final competition remains! To all amateurs and aspiring composers, now is your chance to gain fame by submitting a composition with chance for prizes too - with ChessBase publications in the brand-new eBook format up for grabs! The deadline for submission is January 21st - this article provides all other details! So good luck and happy composing to all!",
@@ -54,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vaishali-ramesh-awards-praggnanandhaa-billionaire-backing",
-         "pubDate" : "Wed, 10 Jan 2024 06:41:15",
+         "pubDate" : "Wed, 10 Jan 2024 06:41:00",
          "title" : "Vaishali, Ramesh Receive Awards, Pragg Backed By India's 2nd Richest Person"
       },
       {
@@ -80,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tournament-calendar-2024",
          "pubDate" : "Tue, 09 Jan 2024 23:40:00",
          "title" : "Tournament calendar 2024"
+      },
+      {
+         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship will be held in 2024: the blitz tournament will take place on Friday (12 January), while the rapid tournament will be held on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. Alexandra Kosteniuk, Antoaneta Stefanova and Pia Cramling are included in the lineups. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-preview",
+         "pubDate" : "Tue, 09 Jan 2024 20:10:00",
+         "title" : "This weekend: European Women's Rapid and Blitz Championship"
       },
       {
          "description" : "Almost 30 years ago, at the 1995 edition of the Hoogovens Tournament in Wijk aan Zee, Roberto Cifuentes and Vadim Zvjaginsev played an astounding game. Known as the 'Pearl of Wijk aan Zee', the encounter features a number of sacrifices, including a successful queen sacrifice. Zvjaginsev went all-in for the attack once Cifuentes made an innocent-looking move. Unmissable!",
@@ -128,14 +168,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/2024-australian-championship-two-horse.html",
          "pubDate" : "Mon, 08 Jan 2024 12:41:00",
          "title" : "2024 Australian Championship - A two horse race?"
-      },
-      {
-         "description" : "In general, a queen and one pawn equal two rooks - this leads us to nearly always prefer the two rooks. Is this always the case, and when it is, how can we take advantage of it. If you want to learn more about the tactics and strategy involved, it will be well to carefully follow the instructions of a world leading chess trainer and analyst, who uses high-class games to illustrate his points.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/efstratios-grivas-on-two-rooks-vs-queen",
-         "pubDate" : "Mon, 08 Jan 2024 12:00:00",
-         "title" : "Efstratios Grivas on Two Rooks vs. Queen"
       },
       {
          "description" : "",
@@ -208,14 +240,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/1st-china-chess-king-2024",
          "pubDate" : "Sun, 7 Jan 2024 10:13:00",
          "title" : "1st China Chess King 2024 - Games and Results"
-      },
-      {
-         "description" : "On the final day of the (really quite traumatic) year 2023 we gave you two unusual chess puzzles: one where you had to add a king and bishop to construct a mate in two, and one where you had to reconstruct the entire position. We got them from Frank Scarpa, who today provides full explanations in two very fine videos. You're 'gonna hafta' watch them to get the solutions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-puzzles-solutions-6",
-         "pubDate" : "Sun, 07 Jan 2024 09:00:00",
-         "title" : "Christmas Puzzles: Solutions 4"
       },
       {
          "description" : " Joseph Methu won the 2023 Kenya National Chess Championship, and with it, drove away with a new car (worth 1.3 million KSh). This is the fourth year that a car has been the grand prize. Mehul Gohil has won two (2019, 2022) and Martin Njoroge (2021). The tournament occurred at the splendid Charter Hall at The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/\">Joseph Methu wins Kenyan Chess Championship and car!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -834,14 +858,6 @@ news_feed (
          "title" : "The Best of World Rapid Championship: Rounds 1-5 | Grandmaster's Choice - GM Alex Yermolinsky"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky concludes his three-part series on the Nimzo-English. 2023.12.28<br /> Alex Yermolinsky vs. Ricardo de Guzman, 2005: A17 English, Nimzo-English opening<br /> Yermolinsky vs. Anton Kovalyov, 2015: A17 English, Nimzo-English opening<br /> Yermolinsky vs. James Plaskett, 2020: A17 English, Queens Indian formation<br /> <a href=\"https://old.chesstempo.com/gamedb/game/4647982\">https://old.chesstempo.com/gamedb/game/4647982</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hid",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/poor-mans-nimzo-indian-part-3-prepare-pro-gm-alex-yermolinsky",
-         "pubDate" : "Tue, 26 Dec 2023 23:28:45",
-         "title" : "The Poor Man's Nimzo-Indian: Part 3 | Prepare Like A Pro - GM Alex Yermolinsky"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-samarkand/",
          "pubDate" : "Sun, 24 Dec 2023 09:48:43",
          "title" : "FIDE World Rapid and Blitz Chess Championship 2023 starts in Samarkand"
-      },
-      {
-         "description" : "GM Daniel Naroditsky has become the second player, along with GM Hikaru Nakamura, to win 10 or more Bullet Brawl&#39;s after posting a score of 272 in Saturday&#39;s event, 54 points ahead of the second-placed IM Terry Renato and 78 ahead of third, IM Yos...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-december-23-2023",
-         "pubDate" : "Sat, 23 Dec 2023 14:58:00",
-         "title" : "Naroditsky Secures 10th Bullet Brawl Title"
       },
       {
          "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
@@ -1160,22 +1168,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chennai-gms-2023-live",
          "pubDate" : "Thu, 21 Dec 2023 08:50:00",
          "title" : "Chennai Grand Masters - Live!"
-      },
-      {
-         "description" : "8-year-old Bodhana Sivanandan (ENG) stunned the world with her phenomenal performance at the European Rapid and Blitz Chess Championship 2023 in Zagreb, Croatia. In the last couple of days, her name appeared in Daily Mail, CNN News, BBC News, The Guardian, The Independent, The Times, Sky News, Der Spiegel, NDTW world and other media who reported about Bodhana's success in Zagreb. Scoring 8.5/13 points, Bodhana Sivanandan emerged as the best-ranked female player in the European Blitz Chess Championship 2023, ahead []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/8-year-old-bodhana-sivanandan-stuns-the-world-with-her-impressive-performance-at-european-rapidblitz-championship/",
-         "pubDate" : "Wed, 20 Dec 2023 21:07:36",
-         "title" : "8-year-old Bodhana Sivanandan stuns the world with her impressive performance at European Rapid&Blitz Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2809",
-         "pubDate" : "Wed, 20 Dec 2023 20:56:36",
-         "title" : "Gergely Antal wins 2023 Hungarian Championship"
       }
    ]
 }
