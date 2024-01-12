@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alexandra Kosteniuk, Sara Khadem and Bela Khotenashvili all finished the European Women's Blitz Championship with 10/13 points. Kosteniuk, who entered the final round with a 1-point advantage and lost to Khadem with white, had the best tiebreak score, and thus grabbed the gold medal. The 11-round rapid championship will take place on Saturday and Sunday. | Photos: European Chses Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-d1",
+         "pubDate" : "Fri, 12 Jan 2024 21:00:00",
+         "title" : "European Women's Blitz: Kosteniuk, Khadem and Khotenashvili reach the podium"
+      },
+      {
+         "description" : "This week GM Daniel King, apart from the usual puzzles, presents a rich strategic battle played between Maksim Chigaev and Fabiano Caruana at the recent World Rapid Championship. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-rich-strategic-battle",
+         "pubDate" : "Fri, 12 Jan 2024 19:00:00",
+         "title" : "Daniel King's Power Play Show: A rich strategic battle"
+      },
+      {
          "description" : "Between 2004 and 2007, 13th World Chess Champion Garry Kasparov recorded a large 3-volume Najdorf video course. ChessBase is publishing this great classic in a complete edition in the current ChessBase Media format. Learn from this classic of chess!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/garry-kasparov-how-to-play-the-najdorf-a-chessbase-classic",
          "pubDate" : "Fri, 12 Jan 2024 15:00:00",
          "title" : "Garry Kasparov: How to play the Najdorf - A ChessBase Classic!"
-      },
-      {
-         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship is being held in 2024: the blitz tournament on Friday (12 January) and the rapid tournament on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. | Follow the games live with expert commentary starting at 13.30 CET (7.30 ET, 18.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-live",
-         "pubDate" : "Fri, 12 Jan 2024 13:15:00",
-         "title" : "European Women's Blitz Championship - Live!"
       },
       {
          "description" : " The first ACT Chess Association event of the year was held at the Canberra Chess Club yesterday evening (11 Jan). The ACT Lightning Championship traditionally starts the chess year in Canberra, and usually attracts a good turnout. The 2024 edition saw 35 players take part, with Harry Press winning with a perfect 9/9. He finished 2 points ahead of Andrew Mather and Willis Lo, with Malik Amer and Jordan Brown a further point back. The time limit of 3m+2s favoured the younger players, although Miles Patterson and Lee Forace flew the flag for the older generation, finishing on 5.5 (+2). The next ACTCA even should be the ACT Teams Championship, which is likely to be held in late February or earl",
@@ -26,15 +34,15 @@ news_feed (
          "title" : "2024 ACT Lightning Championship"
       },
       {
-         "description" : "Today, legendary Grandmaster Vlastimil Hort celebrates his 80th birthday. A long stay of several weeks in the hospital when he was five years old and a caring doctor who played correspondence chess and explained the chess rules to him gave way to his great passion. Eduard Frey celebrates the legend's anniversary!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vlastimil-hort-turns-80",
-         "pubDate" : "Fri, 12 Jan 2024 09:00:00",
-         "title" : "Vlastimil Hort, the great chess entertainer, turns 80!"
+         "description" : "This is a flash report. The full report, including clips, screenshots, puzzles analyzed, and interviews with the players will be added here soon. GM Ray Robson did it again, winning his fifth consecutive title at the 2024 Puzzles World Champions...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-puzzles-world-championship-robson-wins",
+         "pubDate" : "Fri, 12 Jan 2024 12:04:00",
+         "title" : "Flash Report: Robson Wins 5th Consecutive Title, Beats Young Gun"
       },
       {
-         "description" : " The Chinese star, who has not played for eight months, has confirmed that he will compete at Tata Steel Wijk aan Zee and that he will take on Candidates winner in the world title match The world champion, Ding Liren, has confirmed that he will play this weekend at Tata Steel Wijk aan Zee, which has its opening round on Saturday (1.15 pm GMT start, free and live coverage on <a href=\"https://chess24.com/en\">chess24.com</a> and other leading chess websites), and runs until 28 January, and that he will defend his global crown later this year against the winner of April's eight-man Candidates at Toronto. In a frank and fascinating interview <a href=\"https://www.chess.com/news/view/ding-liren-int",
+         "description" : " The Chinese star, who has not played for eight months, has confirmed that he will compete at Tata Steel Wijk aan Zee and that he will take on Candidates winner in the world title match The world champion, Ding Liren, has confirmed that he will play this weekend at Tata Steel Wijk aan Zee, which has its opening round on Saturday (1.15 pm GMT start, free and live coverage on <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a> and other leading chess websites), and runs until 28 January, and that he will defend his global crown later this year against the winner of April's eight-man Candidates at Toronto. In a frank and fascinating interview <a href=\"https://www.chess.com/news/view/ding-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
@@ -874,14 +882,6 @@ news_feed (
          "title" : "Day 5 - Crafting Your SMART Winning Chess Plan"
       },
       {
-         "description" : "GM Hikaru Nakamura and GM Matthias Bluebaum were the winners of Titled Tuesday on December 26, the last one of the year 2023. For Nakamura, it wrapped up yet another fabulously successful year of Titled Tuesdays. For Bluebaum, it was his first win...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-bluebaum-win-titled-tuesday-december-26-2023",
-         "pubDate" : "Wed, 27 Dec 2023 09:07:00",
-         "title" : "Nakamura Ends 2023 With Another Win"
-      },
-      {
          "description" : "Let's say you find an interesting mating motif. Now you want to use it as the final position of a chess problem you will compose. The moves leading to it must be imaginative, clever and not very easy to find. But they must also be unique. There mustn't be alternative sets of move that lead to the final (or any) mate. For amateur composers, here's an example of a fellow amateur making a valid problem out of the position displayed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1080,14 +1080,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/on-road.html",
          "pubDate" : "Fri, 22 Dec 2023 21:37:00",
          "title" : "On the road"
-      },
-      {
-         "description" : " Deborah Ebimobo-ere Quickpen, Nigerian Women's National ChampionPhoto by Botswana Chess Federation Nigeria's Deborah Quickpen recently earned acclaim after winning the women's title with 9.5/11. At the time of her victory, she had toppled a record that had stood for 20 years and set the stage for a bright future. There are already signs of her The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/22/11-year-old-deborah-quickpen-nigerian-chess-sensation/\">11-year-old Deborah Quickpen, Nigerian Chess sensation</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/12/22/11-year-old-deborah-quickpen-nigerian-chess-sensation/",
-         "pubDate" : "Fri, 22 Dec 2023 19:39:42",
-         "title" : "11-year-old Deborah Quickpen, Nigerian Chess sensation"
       }
    ]
 }
