@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship is being held in 2024: the blitz tournament on Friday (12 January) and the rapid tournament on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. | Follow the games live with expert commentary starting at 13.30 CET (7.30 ET, 18.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-live",
+         "pubDate" : "Fri, 12 Jan 2024 13:15:00",
+         "title" : "European Women's Blitz Championship - Live!"
+      },
+      {
+         "description" : " The first ACT Chess Association event of the year was held at the Canberra Chess Club yesterday evening (11 Jan). The ACT Lightning Championship traditionally starts the chess year in Canberra, and usually attracts a good turnout. The 2024 edition saw 35 players take part, with Harry Press winning with a perfect 9/9. He finished 2 points ahead of Andrew Mather and Willis Lo, with Malik Amer and Jordan Brown a further point back. The time limit of 3m+2s favoured the younger players, although Miles Patterson and Lee Forace flew the flag for the older generation, finishing on 5.5 (+2). The next ACTCA even should be the ACT Teams Championship, which is likely to be held in late February or earl",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/2024-act-lightning-championship.html",
+         "pubDate" : "Fri, 12 Jan 2024 12:23:00",
+         "title" : "2024 ACT Lightning Championship"
+      },
+      {
+         "description" : "In his new Game of the Week show, Merijn van Delft analyses one of the games played by world champion Ding Liren at a rapid Chinese tournament. Ding returned to an official competition after a long hiatus. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-602-wang-ding",
+         "pubDate" : "Fri, 12 Jan 2024 10:00:00",
+         "title" : "Game of the Week #602: Wang Hao vs Ding Liren"
+      },
+      {
          "description" : "Today, legendary Grandmaster Vlastimil Hort celebrates his 80th birthday. A long stay of several weeks in the hospital when he was five years old and a caring doctor who played correspondence chess and explained the chess rules to him gave way to his great passion. Eduard Frey celebrates the legend's anniversary!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,14 +74,6 @@ news_feed (
          "title" : "Watch them solving!"
       },
       {
-         "description" : "In the first episode of 2024, Robert found a couple of Underdogs during the Rapid and Blitz World Championship. But having a 1900 rated player win against a Grandmaster with 2600, is truly rare. And when you know that the underdog is only 8-years old, it is even more impressive! The Dutch IM also found an underdog victory game by the Argentinian supertalent Oro Faustino, which is very instructive!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/8-year-old-1900-wins-against-2600-the-underdog",
-         "pubDate" : "Thu, 11 Jan 2024 14:00:00",
-         "title" : "8-Year-old 1900 wins against 2600!! - The Underdog"
-      },
-      {
          "description" : "As tradition has it, Chess.com again greeted the new year with our first event, the 2024 Puzzles World Championship. Eight players remain standing after the Puzzle Rush Royale on day one and have earned a minimum of $1,000 with a shot at the $5,00...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/events-calendar-currently-down/",
          "pubDate" : "Thu, 11 Jan 2024 08:45:14",
          "title" : "Events calendar fixed &hellip;"
-      },
-      {
-         "description" : "Ding Liren played his last classical rated game on May 15, when he beat Bogdan-Daniel Deac with black in the last round of the Superbet Classic in Bucharest. Just two weeks earlier, he had defeated Ian Nepomniachtchi in a thrilling match to become the 17th undisputed world chess champion. Following his long hiatus, the Chinese ace will compete again at the Tata Steel Masters in Wijk aan Zee. A week before the start of the traditional event, he played a rapid tournament in China. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-reappears-china-rapid-tournament",
-         "pubDate" : "Thu, 11 Jan 2024 08:00:00",
-         "title" : "Ding reappears, plays rapid tournament in China"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi demonstrates how to stymie wacky openings like the Stafford and Elephant gambits. 2024.01.11<br /> Boris Savchenko vs Viktorija Cmilyte, Politiken Cup (2011): C52 Evans gambit, Tartakower attack<br /> C40 QP counter-gambit, Maroczy gambit<br /> C50 Giuoco Piano, Jerome gambit<br /> C63 Ruy Lopez, Schliemann defence, Berger variation<br /> C42 Petrov&#039;s defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-line",
@@ -1120,38 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2814",
          "pubDate" : "Fri, 22 Dec 2023 14:06:22",
          "title" : "FIDE General Assembly: List of decisions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2813",
-         "pubDate" : "Fri, 22 Dec 2023 11:31:39",
-         "title" : "FIDE Circuit: Caruana is the winner, Gukesh moves to second position"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2812",
-         "pubDate" : "Fri, 22 Dec 2023 11:08:54",
-         "title" : "World Amateur and World Senior Championships 2024: Call for bids closed"
-      },
-      {
-         "description" : " The Chennai Grand Masters chess tournament took place in Chennai Fri 15th - Thu 21st Dec 2023. Players: Maghsoodloo, Erigaisi, Aronian, Gukesh, Sjugirov, Harikrishna, Eljanov and Predke. D Gukesh shared first place and it seems qualified by via the FIDE Circuit route for the Candidates ahead of Anish Giri. It did not occur to me that the first Indian super tournament I can remember was organised for that very purpose but it probably was. Lets do this all differently next time.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chennai-grand-masters-2023",
-         "pubDate" : "Fri, 22 Dec 2023 10:40:00",
-         "title" : "Chennai Grand Masters 2023 - "
-      },
-      {
-         "description" : "Andhra Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at Hotel Dhana",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-sna-seminar-and-examination-on-16th-and-17th-december-2023-vizianagaram-ap/",
-         "pubDate" : "Fri, 22 Dec 2023 10:37:06",
-         "title" : "Final Report - SNA Seminar and Examination on 16th and 17th December 2023 Vizianagaram, AP"
       }
    ]
 }
