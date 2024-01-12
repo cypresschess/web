@@ -2,20 +2,68 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " IM Rishi Sardana has won the 2024 Australian Championship, by a comprehensive 2 point margin. He score and undefeated 9.5/11, to finish 2 points ahead of Yi Liu and Samuel Asaka on 7.5. Tied for 4th were Fred Litchfield and Stephen Solomon on 7. The win by Sardana was the first time a player from the Australian capital has won the national championship. It was looking like a possible ACT 1-2 finish with Litchfield, but a win by IM Solomon over Litchfield in the final round put an end to that dream. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/sardana-wins-australian-championship.html",
-         "pubDate" : "Thu, 11 Jan 2024 11:13:00",
-         "title" : "Sardana wins Australian Championship"
+         "description" : "Timing is a key factor in chess. As noted by the inimitable Bobby Fischer: \"Chess is a matter of delicate judgement, knowing when to punch and how to duck\". GM Sundararajan Kidambi explores this all-important theme using games by Levon Aronian, Vishy Anand and Stockfish/Leela! | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/timing-kidambi",
+         "pubDate" : "Thu, 11 Jan 2024 22:00:00",
+         "title" : "A question of timing"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to deal with players who refuse to play proper moves? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/knight-dance.1920.jpeg\" title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. screen grab from youtube\" data-title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. (screen grab from youtube)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1\" alt=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand.\" srcset=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1 1x",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2024/match-fixing-as-a-form-of-protest/",
-         "pubDate" : "Thu, 11 Jan 2024 10:32:26",
+         "pubDate" : "Thu, 11 Jan 2024 18:38:19",
          "title" : "Match-fixing as a form of protest"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2838",
+         "pubDate" : "Thu, 11 Jan 2024 18:27:52",
+         "title" : "European Women's Rapid & Blitz Championship 2023 starts in Monte-Carlo"
+      },
+      {
+         "description" : "It's an experiment. We wanted to know how a number of different personalities reacted to some unusual problems we presented in our Christmas Puzzle week. So we gave them two positions and let them wrestle with them online. For starters, we bring you video of a super-talent, Leon Luke Mendonca, and his first-time encounter with anything like this. Did you react in similar fashion to the problems?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/watch-them-solving",
+         "pubDate" : "Thu, 11 Jan 2024 16:00:00",
+         "title" : "Watch them solving!"
+      },
+      {
+         "description" : "In the first episode of 2024, Robert found a couple of Underdogs during the Rapid and Blitz World Championship. But having a 1900 rated player win against a Grandmaster with 2600, is truly rare. And when you know that the underdog is only 8-years old, it is even more impressive! The Dutch IM also found an underdog victory game by the Argentinian supertalent Oro Faustino, which is very instructive!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/8-year-old-1900-wins-against-2600-the-underdog",
+         "pubDate" : "Thu, 11 Jan 2024 14:00:00",
+         "title" : "8-Year-old 1900 wins against 2600!! - The Underdog"
+      },
+      {
+         "description" : "As tradition has it, Chess.com again greeted the new year with our first event, the 2024 Puzzles World Championship. Eight players remain standing after the Puzzle Rush Royale on day one and have earned a minimum of $1,000 with a shot at the $5,00...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-puzzles-world-championship-day-1",
+         "pubDate" : "Thu, 11 Jan 2024 13:36:03",
+         "title" : "14-Year-Old Woodward Rivals Robson As Prodigies Prosper"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2837",
+         "pubDate" : "Thu, 11 Jan 2024 13:13:46",
+         "title" : "13th edition of \"Preparation of Teachers\" course announced"
+      },
+      {
+         "description" : " IM Rishi Sardana has won the 2024 Australian Championship, by a comprehensive 2 point margin. He score and undefeated 9.5/11, to finish 2 points ahead of Yi Liu and Samuel Asaka on 7.5. Tied for 4th were Fred Litchfield and Stephen Solomon on 7. The win by Sardana was the first time a player from the Australian capital has won the national championship. It was looking like a possible ACT 1-2 finish with Litchfield, but a win by IM Solomon over Litchfield in the final round put an end to that dream. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/sardana-wins-australian-championship.html",
+         "pubDate" : "Thu, 11 Jan 2024 11:13:00",
+         "title" : "Sardana wins Australian Championship"
       },
       {
          "description" : "The 86th edition of the Tata Steel Chess takes place from 12-28 January in Wijk aan Zee, the Netherlands. The event features 14 super grandmasters who will compete in a 13-round round-robin tournament.&#160;The field is led by the reigning World Chess Champion GM Ding Liren (CHN, 2780). The participants are: The rate of play will be 100 Minutes for 40 moves, followed by 50 minutes for 20 moves, then 15 minutes for the remaining moves with 30 seconds cumulative increment []",
@@ -26,12 +74,20 @@ news_feed (
          "title" : "Tata Steel Chess 2024 starts in Wijk aan Zee"
       },
       {
-         "description" : "The ECF events calendar plugin has mysteriously stopped working overnight, and as yet we do not know why. The webmaster is already working on the...",
+         "description" : "GM Valentina Gunina is one of seven Russian women in history to attain the chess grandmaster title. She is a three-time European women&#39;s chess champion, a five-time Russian women&#39;s chess champion, has won three gold medals with the Russian nationa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gunina-winning-world-blitz-title-battling-with-illness",
+         "pubDate" : "Thu, 11 Jan 2024 09:04:00",
+         "title" : "Gunina On Winning World Blitz Title While Battling With Serious Illness"
+      },
+      {
+         "description" : "The ECF events calendar plugin is now operational again ",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/events-calendar-currently-down/",
          "pubDate" : "Thu, 11 Jan 2024 08:45:14",
-         "title" : "Events calendar currently down - interim solution"
+         "title" : "Events calendar fixed &hellip;"
       },
       {
          "description" : "Ding Liren played his last classical rated game on May 15, when he beat Bogdan-Daniel Deac with black in the last round of the Superbet Classic in Bucharest. Just two weeks earlier, he had defeated Ian Nepomniachtchi in a thrilling match to become the 17th undisputed world chess champion. Following his long hiatus, the Chinese ace will compete again at the Tata Steel Masters in Wijk aan Zee. A week before the start of the traditional event, he played a rapid tournament in China. | Photo: Amruta Mokal",
@@ -64,14 +120,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2023-starts-in-monaco/",
          "pubDate" : "Wed, 10 Jan 2024 20:36:59",
          "title" : "European Women's Rapid and Blitz Chess Championship 2023 starts in Monaco"
-      },
-      {
-         "description" : "The thirteenth edition of the London Chess Classic saw 52-year-old Michael Adams becoming the first Englishman to win the now traditional tournament. Shreyas Royal (pictured with his father), at 14, collected his second GM norm, and showed excellent endgame technique when required. GM Karsten M&uuml;ller selected some of the most instructive endgame positions to share with us, including a couple by the youngster of Indian origin. | Photo: London Chess Classic",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/london-chess-classic-2023-endgames",
-         "pubDate" : "Wed, 10 Jan 2024 19:00:00",
-         "title" : "Instructive endgames from the London Chess Classic"
       },
       {
          "description" : "GM Daniil Dubov missed out on tying world number-one Magnus Carlsen for first place in the FIDE World Blitz Championship 2023 after both he and GM Ian Nepomniachtchi got zero points for the knight-moves-only draw they made in round 11. In a 59-min...",
@@ -136,22 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/opening-principles-beginner-breakdown-nm-julian-proleiko",
          "pubDate" : "Tue, 09 Jan 2024 23:41:41",
          "title" : "Opening Principles | Beginner Breakdown - NM Julian Proleiko"
-      },
-      {
-         "description" : "An eventful chess year lies behind us. And an equally eventful chess year lies ahead of us. Many dates for the major and somewhat smaller international tournaments have already been announced. Here is a preview of the 2024 tournament calendar. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tournament-calendar-2024",
-         "pubDate" : "Tue, 09 Jan 2024 23:40:00",
-         "title" : "Tournament calendar 2024"
-      },
-      {
-         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship will be held in 2024: the blitz tournament will take place on Friday (12 January), while the rapid tournament will be held on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. Alexandra Kosteniuk, Antoaneta Stefanova and Pia Cramling are included in the lineups. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-preview",
-         "pubDate" : "Tue, 09 Jan 2024 20:10:00",
-         "title" : "This weekend: European Women's Rapid and Blitz Championship"
       },
       {
          "description" : "Please find live link here https://live.mpchess.in/livea/ https://live.mpchess.in/liveb/",
@@ -842,14 +874,6 @@ news_feed (
          "title" : "Missed Chances Leave Carlsen, Yu, Fedoseev Locked In Title Race"
       },
       {
-         "description" : "Titled Tuesdays are our beloved weekly battles where any titled player can face the likes of GM Magnus Carlsen and GM Hikaru Nakamura. Fans tune in without fail to see who will come out on top in these always-thrilling, 11-round blitz tournament...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/titled-cup-titled-tuesdays-just-got-even-more-fierce",
-         "pubDate" : "Wed, 27 Dec 2023 08:00:00",
-         "title" : "New For 2024-The Titled Cup: Titled Tuesdays Just Got Even More Fierce"
-      },
-      {
          "description" : "Let's say you find an interesting mating motif. Now you want to use it as the final position of a chess problem you will compose. The moves leading to it must be imaginative, clever and not very easy to find. But they must also be unique. There mustn't be alternative sets of move that lead to the final (or any) mate. For amateur composers, here's an example of a fellow amateur making a valid problem out of the position displayed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -928,14 +952,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/that-did-not-start-that-badly.html",
          "pubDate" : "Tue, 26 Dec 2023 11:53:00",
          "title" : "That did not start that badly"
-      },
-      {
-         "description" : "GM Magnus Carlsen&#39;s title defense is alive and well after the first day of play at the 2023 FIDE World Rapid Chess Championship when the Norweigian favorite scored 4.5/5. Carlsen is joined by GMs Arjun Erigaisi, Yu Yangyi, Vidit Gujrathi, and Ivan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-rapid-chess-championship-day-1",
-         "pubDate" : "Tue, 26 Dec 2023 08:45:00",
-         "title" : "Carlsen On Track For Title Defense; Five Players Lead"
       },
       {
          "description" : "Playing chess is an immensely popular activity. Solving chess problems is also very enjoyable. But how about composing problems? During our revived Christmas Puzzle week, we want to discuss different methods of how to compose your very own chess problem! We ask you to give it a try yourself. Submit your own composition and win some great prizes!",
@@ -1136,62 +1152,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/dec/22/chess-bodhana-sivanandan-eight-sets-new-records-with-victory-in-zagreb",
          "pubDate" : "Fri, 22 Dec 2023 08:00:51",
          "title" : "Chess: Bodhana Sivanandan, eight, sets new records with victory in Zagreb"
-      },
-      {
-         "description" : " FIDE General Assembly determined that the 2028 Chess Olympiad will be held in Abu Dhabi, UAE. Some 42 years after UAE hosted arguably the best Olympiad in history in 1986, the country seeks to host the world's most important chess event. This event includes all member federations, and concurrent sessions are held to conduct the The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/21/uae-to-host-2028-chess-olympiad/\">UAE to host 2028 Chess Olympiad</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/12/21/uae-to-host-2028-chess-olympiad/",
-         "pubDate" : "Thu, 21 Dec 2023 20:20:24",
-         "title" : "UAE to host 2028 Chess Olympiad"
-      },
-      {
-         "description" : "GM D Gukesh drew his final encounter with compatriot Pentala Harikrishna to clinch the title on tiebreak from GM Arjun Erigaisi after the seventh and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gukesh-wins-chennai-grandmasters-2023/",
-         "pubDate" : "Thu, 21 Dec 2023 17:27:46",
-         "title" : "Gukesh wins Chennai Grandmasters 2023"
-      },
-      {
-         "description" : "All India Chess Federation congratulate IM R Vaishali for the prestigious Arjuna Award by Government of India",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-im-r-vaishali-for-arjuna-award/",
-         "pubDate" : "Thu, 21 Dec 2023 17:16:57",
-         "title" : "Congratulations IM R Vaishali for Arjuna Award"
-      },
-      {
-         "description" : "Congratulations to renowned coach GM RB Ramesh for conferred with prestigious Dronacharya Award by Government of India.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-gm-rb-ramesh-for-dronacharya-award/",
-         "pubDate" : "Thu, 21 Dec 2023 17:13:17",
-         "title" : "Congratulations GM RB Ramesh for Dronacharya Award"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2811",
-         "pubDate" : "Thu, 21 Dec 2023 13:45:11",
-         "title" : "Number of FIDE members surpasses 200 with Vanuatu and Tonga joining"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2810",
-         "pubDate" : "Thu, 21 Dec 2023 13:15:23",
-         "title" : "UAE hosts Asian Educational Seminar \"Chess for children with ASD. Learn & Teach\""
-      },
-      {
-         "description" : " While doing some random Xmas shopping the other day, I came across some 'cheap and cheerful' chess sets. The kind that would never do for a competition game, but might be handing for a casual game on Boxing Day. It occurred to me that if serious chess players were given the choice between miniature sets, and oversized 'sculpture' sets, they would probably take the miniature set. Bobby Fischer was said to carry one with him at all time, and Ulf Andersson used one on the way to becoming the highest rated Correspondence Chess player in 2002. Just in my line of sight as I type this are 5 such sets, and I suspect I have another half dozen scattered around the house. So if you are looking for a g",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/pocket-sets.html",
-         "pubDate" : "Thu, 21 Dec 2023 12:31:00",
-         "title" : "Pocket Sets"
       }
    ]
 }
