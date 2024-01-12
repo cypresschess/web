@@ -106,7 +106,7 @@ news_feed (
          "title" : "Eltaj Safarli prevails at traditional Staufer Open"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi demonstrates how to stymie wacky openings like the Stafford and Elephant gambits. 2024.01.11 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4q1XpMGRjWs.jpg?itok=zg9DljGy\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi demonstrates how to stymie wacky openings like the Stafford and Elephant gambits. 2024.01.11<br /> Boris Savchenko vs Viktorija Cmilyte, Politiken Cup (2011): C52 Evans gambit, Tartakower attack<br /> C40 QP counter-gambit, Maroczy gambit<br /> C50 Giuoco Piano, Jerome gambit<br /> C63 Ruy Lopez, Schliemann defence, Berger variation<br /> C42 Petrov&#039;s defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-line",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi-0",
