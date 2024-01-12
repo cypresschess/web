@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, legendary Grandmaster Vlastimil Hort celebrates his 80th birthday. A long stay of several weeks in the hospital when he was five years old and a caring doctor who played correspondence chess and explained the chess rules to him gave way to his great passion. Eduard Frey celebrates the legend's anniversary!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vlastimil-hort-turns-80",
+         "pubDate" : "Fri, 12 Jan 2024 09:00:00",
+         "title" : "Vlastimil Hort, the great chess entertainer, turns 80!"
+      },
+      {
+         "description" : " The Chinese star, who has not played for eight months, has confirmed that he will compete at Tata Steel Wijk aan Zee and that he will take on Candidates winner in the world title match The world champion, Ding Liren, has confirmed that he will play this weekend at Tata Steel Wijk aan Zee, which has its opening round on Saturday (1.15 pm GMT start, free and live coverage on <a href=\"https://chess24.com/en\">chess24.com</a> and other leading chess websites), and runs until 28 January, and that he will defend his global crown later this year against the winner of April's eight-man Candidates at Toronto. In a frank and fascinating interview <a href=\"https://www.chess.com/news/view/ding-liren-int",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
+         "pubDate" : "Fri, 12 Jan 2024 08:00:24",
+         "title" : "Ding Liren will defend his world chess crown: 'fans don't need to be worried'"
+      },
+      {
          "description" : "Timing is a key factor in chess. As noted by the inimitable Bobby Fischer: \"Chess is a matter of delicate judgement, knowing when to punch and how to duck\". GM Sundararajan Kidambi explores this all-important theme using games by Levon Aronian, Vishy Anand and Stockfish/Leela! | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ding-reappears-china-rapid-tournament",
          "pubDate" : "Thu, 11 Jan 2024 08:00:00",
          "title" : "Ding reappears, plays rapid tournament in China"
-      },
-      {
-         "description" : "A number of tournaments are traditionally organised at the turn of the year. The Staufer Open in Schw&auml;bisch Gm&uuml;nd, Germany took place for the 34th time. Well over 500 chess enthusiasts took part in two competitions. Eltaj Safarli was the clear winner in the A Open. Bettina Trabert reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/safarli-wins-staufer-open-2024",
-         "pubDate" : "Thu, 11 Jan 2024 01:10:00",
-         "title" : "Eltaj Safarli prevails at traditional Staufer Open"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi demonstrates how to stymie wacky openings like the Stafford and Elephant gambits. 2024.01.11<br /> Boris Savchenko vs Viktorija Cmilyte, Politiken Cup (2011): C52 Evans gambit, Tartakower attack<br /> C40 QP counter-gambit, Maroczy gambit<br /> C50 Giuoco Piano, Jerome gambit<br /> C63 Ruy Lopez, Schliemann defence, Berger variation<br /> C42 Petrov&#039;s defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-line",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-sna-seminar-and-examination-on-16th-and-17th-december-2023-vizianagaram-ap/",
          "pubDate" : "Fri, 22 Dec 2023 10:37:06",
          "title" : "Final Report - SNA Seminar and Examination on 16th and 17th December 2023 Vizianagaram, AP"
-      },
-      {
-         "description" : " The Harrow schoolgirl, who won the women's prize in the European open blitz championship, plays at Hastings next week in the chess world's longest running congress Bodhana Sivanandan, eight, who made chess history last Saturday when winning the women's prize in the European blitz championship at Zagreb, will be back at the board next week. She will compete in the Caplin Masters at Hastings, the chess world's longest running congress, which is now in its 97th edition and starts on 28 December. At Zagreb, the year four Harrow primary school pupil totalled a remarkable 8.5/13 in a field of 555 players, including 48 GMs and 50 IMs. Her tournament performance was <a href=\"https://chess-results.c",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/dec/22/chess-bodhana-sivanandan-eight-sets-new-records-with-victory-in-zagreb",
-         "pubDate" : "Fri, 22 Dec 2023 08:00:51",
-         "title" : "Chess: Bodhana Sivanandan, eight, sets new records with victory in Zagreb"
       }
    ]
 }
