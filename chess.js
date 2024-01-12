@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Between 2004 and 2007, 13th World Chess Champion Garry Kasparov recorded a large 3-volume Najdorf video course. ChessBase is publishing this great classic in a complete edition in the current ChessBase Media format. Learn from this classic of chess!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/garry-kasparov-how-to-play-the-najdorf-a-chessbase-classic",
+         "pubDate" : "Fri, 12 Jan 2024 15:00:00",
+         "title" : "Garry Kasparov: How to play the Najdorf - A ChessBase Classic!"
+      },
+      {
          "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship is being held in 2024: the blitz tournament on Friday (12 January) and the rapid tournament on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. | Follow the games live with expert commentary starting at 13.30 CET (7.30 ET, 18.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +26,6 @@ news_feed (
          "title" : "2024 ACT Lightning Championship"
       },
       {
-         "description" : "In his new Game of the Week show, Merijn van Delft analyses one of the games played by world champion Ding Liren at a rapid Chinese tournament. Ding returned to an official competition after a long hiatus. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-602-wang-ding",
-         "pubDate" : "Fri, 12 Jan 2024 10:00:00",
-         "title" : "Game of the Week #602: Wang Hao vs Ding Liren"
-      },
-      {
          "description" : "Today, legendary Grandmaster Vlastimil Hort celebrates his 80th birthday. A long stay of several weeks in the hospital when he was five years old and a caring doctor who played correspondence chess and explained the chess rules to him gave way to his great passion. Eduard Frey celebrates the legend's anniversary!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +40,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
          "pubDate" : "Fri, 12 Jan 2024 08:00:24",
          "title" : "Ding Liren will defend his world chess crown: 'fans don't need to be worried'"
+      },
+      {
+         "description" : "The new Champions Chess Tour (CCT) season kicks off this month with the return of the Chessable Masters and a faster format designed to deliver even more exciting action. Chess.com&#38;rsquo;s premier year-long event is now four main online tourname...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-2024-announced-chessable-masters",
+         "pubDate" : "Fri, 12 Jan 2024 07:45:39",
+         "title" : "Faster And Fitter: Champions Chess Tour 2024 Returns With Chessable Masters"
       },
       {
          "description" : "Timing is a key factor in chess. As noted by the inimitable Bobby Fischer: \"Chess is a matter of delicate judgement, knowing when to punch and how to duck\". GM Sundararajan Kidambi explores this all-important theme using games by Levon Aronian, Vishy Anand and Stockfish/Leela! | Photo: Amruta Mokal",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/gunina-winning-world-blitz-title-battling-with-illness",
          "pubDate" : "Thu, 11 Jan 2024 09:04:00",
          "title" : "Gunina On Winning World Blitz Title While Battling With Serious Illness"
-      },
-      {
-         "description" : "The ECF events calendar plugin is now operational again ",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/events-calendar-currently-down/",
-         "pubDate" : "Thu, 11 Jan 2024 08:45:14",
-         "title" : "Events calendar fixed &hellip;"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi demonstrates how to stymie wacky openings like the Stafford and Elephant gambits. 2024.01.11<br /> Boris Savchenko vs Viktorija Cmilyte, Politiken Cup (2011): C52 Evans gambit, Tartakower attack<br /> C40 QP counter-gambit, Maroczy gambit<br /> C50 Giuoco Piano, Jerome gambit<br /> C63 Ruy Lopez, Schliemann defence, Berger variation<br /> C42 Petrov&#039;s defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-line",
@@ -367,7 +367,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-confirms-yet-again-he-will-decline-candidates",
          "pubDate" : "Sat, 06 Jan 2024 09:06:00",
-         "title" : "Exclusive: Carlsen Confirms He Will Formally Decline Candidates Invitation"
+         "title" : "Carlsen Confirms He Will Formally Decline Candidates Invitation"
       },
       {
          "description" : "",
@@ -882,14 +882,6 @@ news_feed (
          "title" : "Nakamura Ends 2023 With Another Win"
       },
       {
-         "description" : "GMs Magnus Carlsen, Yu Yangyi, and Vladimir Fedoseev share first place on 7/9 at the 2023 FIDE World Rapid Chess Championship after Fedoseev missed a golden opportunity to defeat Yu while Carlsen was frustrated to squander winning chances against ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-rapid-chess-championship-day-2",
-         "pubDate" : "Wed, 27 Dec 2023 08:02:00",
-         "title" : "Missed Chances Leave Carlsen, Yu, Fedoseev Locked In Title Race"
-      },
-      {
          "description" : "Let's say you find an interesting mating motif. Now you want to use it as the final position of a chess problem you will compose. The moves leading to it must be imaginative, clever and not very easy to find. But they must also be unique. There mustn't be alternative sets of move that lead to the final (or any) mate. For amateur composers, here's an example of a fellow amateur making a valid problem out of the position displayed.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1096,38 +1088,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/12/22/11-year-old-deborah-quickpen-nigerian-chess-sensation/",
          "pubDate" : "Fri, 22 Dec 2023 19:39:42",
          "title" : "11-year-old Deborah Quickpen, Nigerian Chess sensation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2815",
-         "pubDate" : "Fri, 22 Dec 2023 14:25:01",
-         "title" : "2023 3rd FIDE Council Meeting: List of decisions"
-      },
-      {
-         "description" : " Alireza Firouzja had a final attempt to boost his rating in the January list and qualify for the Candidates by playing 6 games, three two games matches, against Alexandre Dgebuadze, Andrei Shchekachev and Sergey Fedorchuk in Chartres, 18th to 22nd December 2023. This was similar to the successful method Ding Liren used to qualify for the last Candidates. Whilst due to Covid-19 I had some sympathy with Ding trying to play enough games to qualify after an enforced break, this now just doesn't seem right to me. I think it's going to be very tricky for Firouzja to boost his rating enough anyhow. I used to be in favour of the strongest non-qualified player getting a place by rating, but I think ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chartres-firouzja-noel-matches-2023",
-         "pubDate" : "Fri, 22 Dec 2023 14:15:00",
-         "title" : "Chartres Firouzja Noel Matches 2023 - Games and Results"
-      },
-      {
-         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/day1-chess-detox/",
-         "pubDate" : "Fri, 22 Dec 2023 14:11:27",
-         "title" : "7-Day Series To Kickstart Your Chess Training - Day 1: Chess Detox"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2814",
-         "pubDate" : "Fri, 22 Dec 2023 14:06:22",
-         "title" : "FIDE General Assembly: List of decisions"
       }
    ]
 }
