@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new Champions Chess Tour (CCT) season kicks off this month with the return of the Chessable Masters and a faster format. Chess.com's premier year-long event now consists of four main online tournaments, increasing the intensity leading up to the live season-ending Tour Finals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/champions-chess-tour-2024-preview",
+         "pubDate" : "Sat, 13 Jan 2024 20:00:00",
+         "title" : "Four 'regular' events and a grand finale in this year's Champions Chess Tour"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2839",
+         "pubDate" : "Sat, 13 Jan 2024 18:08:39",
+         "title" : "Magnus Carlsen withdraws from the Candidates 2024, the spot goes to Nijat Abasov"
+      },
+      {
          "description" : "I recall the time when I first faced future Grandmaster John Nunn . He was wearing short trousers and his face barely popped up over the board. Here is the critical position from our very first game, played in the 1963 Surrey Junior Championship. Nunn (Black) has two passed pawns as meagre compensation for a []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-blitz-2023-videos",
          "pubDate" : "Sat, 13 Jan 2024 10:00:00",
          "title" : "OTB elite blitz action: Gukesh, Dubov and co. show their skills"
-      },
-      {
-         "description" : "Supported by his giant bishop on b6, Black became active in the diagram position - and was surprisingly quickly rewarded, as the game lasted only three more moves. Are you able to find them all?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pressure-creates-mistakes",
-         "pubDate" : "Sat, 13 Jan 2024 09:00:00",
-         "title" : "Pressure creates mistakes"
       },
       {
          "description" : " The English prodigy, eight, totalled 8.5/13 and finished 15th in a field of 105 as well as winning the prize for best junior Bodhana Sivanandan, eight, England's girl prodigy, produced a ­stunningly impressive performance on Friday afternoon at the ­European Women's Blitz Championship in Monaco. She totalled 8.5 points out of 13, finished 15th in a field of 105, won the prize for the best junior, and was the <a href=\"https://chess-results.com/tnr797941.aspx?lan=1&amp;art=9&amp;fed=ENG&amp;turdet=YES&amp;flag=30&amp;snr=44\">top English player</a>. Blitz is three minutes per player for the entire game, plus a two seconds per move increment from move one. Sivanandan <a href=\"https://chess24.co",
