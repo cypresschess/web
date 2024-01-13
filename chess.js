@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Supported by his giant bishop on b6, Black became active in the diagram position - and was surprisingly quickly rewarded, as the game lasted only three more moves. Are you able to find them all?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pressure-creates-mistakes",
+         "pubDate" : "Sat, 13 Jan 2024 09:00:00",
+         "title" : "Pressure creates mistakes"
+      },
+      {
          "description" : "Alexandra Kosteniuk, Sara Khadem and Bela Khotenashvili all finished the European Women's Blitz Championship with 10/13 points. Kosteniuk, who entered the final round with a 1-point advantage and lost to Khadem with white, had the best tiebreak score, and thus grabbed the gold medal. The 11-round rapid championship will take place on Saturday and Sunday. | Photos: European Chses Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
          "pubDate" : "Fri, 12 Jan 2024 20:45:46",
          "title" : "Chess: Bodhana Sivanandan dazzles at European Women's Blitz Championship"
-      },
-      {
-         "description" : "This week GM Daniel King, apart from the usual puzzles, presents a rich strategic battle played between Maksim Chigaev and Fabiano Caruana at the recent World Rapid Championship. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-rich-strategic-battle",
-         "pubDate" : "Fri, 12 Jan 2024 19:00:00",
-         "title" : "Daniel King's Power Play Show: A rich strategic battle"
       },
       {
          "description" : "Between 2004 and 2007, 13th World Chess Champion Garry Kasparov recorded a large 3-volume Najdorf video course. ChessBase is publishing this great classic in a complete edition in the current ChessBase Media format. Learn from this classic of chess!",
