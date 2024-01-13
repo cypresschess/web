@@ -47,7 +47,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-puzzles-world-championship-robson-wins",
          "pubDate" : "Fri, 12 Jan 2024 12:04:00",
-         "title" : "Robson Wins 5th Consecutive Title, Beats Young Gun"
+         "title" : "Ray Robson Wins 5th Consecutive Puzzles World Championship Title"
       },
       {
          "description" : "The new Champions Chess Tour (CCT) season kicks off this month with the return of the Chessable Masters and a faster format designed to deliver even more exciting action. Chess.com&#38;rsquo;s premier year-long event is now four main online tourname...",
