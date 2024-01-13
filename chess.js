@@ -10,6 +10,14 @@ news_feed (
          "title" : "European Women's Blitz: Kosteniuk, Khadem and Khotenashvili reach the podium"
       },
       {
+         "description" : " The English prodigy, eight, totalled 8.5/13 and finished 15th in a field of 105 as well as winning the prize for best junior Bodhana Sivanandan, eight, England's girl prodigy, produced a ­stunningly impressive performance on Friday afternoon at the ­European Women's Blitz Championship in Monaco. She totalled 8.5 points out of 13, finished 15th in a field of 105, won the prize for the best junior, and was the <a href=\"https://chess-results.com/tnr797941.aspx?lan=1&amp;art=9&amp;fed=ENG&amp;turdet=YES&amp;flag=30&amp;snr=44\">top English player</a>. Blitz is three minutes per player for the entire game, plus a two seconds per move increment from move one. Sivanandan <a href=\"https://chess24.co",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
+         "pubDate" : "Fri, 12 Jan 2024 20:45:46",
+         "title" : "Chess: Bodhana Sivanandan dazzles at European Women's Blitz Championship"
+      },
+      {
          "description" : "This week GM Daniel King, apart from the usual puzzles, presents a rich strategic battle played between Maksim Chigaev and Fabiano Caruana at the recent World Rapid Championship. | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,27 +42,19 @@ news_feed (
          "title" : "2024 ACT Lightning Championship"
       },
       {
-         "description" : "This is a flash report. The full report, including clips, screenshots, puzzles analyzed, and interviews with the players will be added here soon. GM Ray Robson did it again, winning his fifth consecutive title at the 2024 Puzzles World Champions...",
+         "description" : "GM Ray Robson did it again, winning his fifth consecutive title at the 2024 Puzzles World Championship. The undisputed G.O.A.T. of Puzzle Rush has won every edition of this tournament since it started in 2020. This seemed to be his toughest year...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-puzzles-world-championship-robson-wins",
          "pubDate" : "Fri, 12 Jan 2024 12:04:00",
-         "title" : "Flash Report: Robson Wins 5th Consecutive Title, Beats Young Gun"
-      },
-      {
-         "description" : " The Chinese star, who has not played for eight months, has confirmed that he will compete at Tata Steel Wijk aan Zee and that he will take on Candidates winner in the world title match The world champion, Ding Liren, has confirmed that he will play this weekend at Tata Steel Wijk aan Zee, which has its opening round on Saturday (1.15 pm GMT start, free and live coverage on <a href=\"https://chess24.com/en\" title=\"\">chess24.com</a> and other leading chess websites), and runs until 28 January, and that he will defend his global crown later this year against the winner of April's eight-man Candidates at Toronto. In a frank and fascinating interview <a href=\"https://www.chess.com/news/view/ding-",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
-         "pubDate" : "Fri, 12 Jan 2024 08:00:24",
-         "title" : "Ding Liren will defend his world chess crown: 'fans don't need to be worried'"
+         "title" : "Robson Wins 5th Consecutive Title, Beats Young Gun"
       },
       {
          "description" : "The new Champions Chess Tour (CCT) season kicks off this month with the return of the Chessable Masters and a faster format designed to deliver even more exciting action. Chess.com&#38;rsquo;s premier year-long event is now four main online tourname...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/champions-chess-tour-2024-announced-chessable-masters",
-         "pubDate" : "Fri, 12 Jan 2024 07:45:39",
+         "pubDate" : "Fri, 12 Jan 2024 07:45:00",
          "title" : "Faster And Fitter: Champions Chess Tour 2024 Returns With Chessable Masters"
       },
       {
@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://aicf.in/senior-national-arbiter-seminar-certificates/",
          "pubDate" : "Sat, 23 Dec 2023 09:36:11",
          "title" : "Senior National Arbiter Seminar, Certificates"
-      },
-      {
-         "description" : " I am heading off later today to be a Pairings Officer at the World Rapid and Blitz Championship. Eschewing the traditional method of travelling to Samarkand, I will still be in transit for the next 36 hours. To pass the time a little light reading, in the form of the decisions made by FIDE Council at its most recent meeting <a href=\"https://fide.com/news/2815\">https://fide.com/news/2815</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/on-road.html",
-         "pubDate" : "Fri, 22 Dec 2023 21:37:00",
-         "title" : "On the road"
       }
    ]
 }
