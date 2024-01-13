@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I recall the time when I first faced future Grandmaster John Nunn . He was wearing short trousers and his face barely popped up over the board. Here is the critical position from our very first game, played in the 1963 Surrey Junior Championship. Nunn (Black) has two passed pawns as meagre compensation for a []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-strategy-from-nunn-to-nimzowitsch/",
+         "pubDate" : "Sat, 13 Jan 2024 15:10:04",
+         "title" : "Chess strategy from Nunn to Nimzowitsch"
+      },
+      {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Sat, 13 Jan 2024 14:00:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship is being held in 2024: the blitz tournament on Friday (12 January) and the rapid tournament on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. | Follow the games live with expert commentary starting at 13.30 CET (7.30 ET, 18.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-live",
+         "pubDate" : "Sat, 13 Jan 2024 13:15:00",
+         "title" : "European Women's Rapid Championship - Live!"
+      },
+      {
          "description" : "The hyperactive ChessBase India team provides a wealth of content for chess fans all over the world. A couple of weeks ago, the team led by Sagar Shah made it to Samarkand and recorded numerous videos from the World Rapid and Blitz Championship. Want to feel the tension of elite blitz games caught on tape from start to finish? Find here a few examples, featuring Daniil Dubov, Dommaraju Gukesh and Divya Deshmukh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +34,12 @@ news_feed (
          "title" : "OTB elite blitz action: Gukesh, Dubov and co. show their skills"
       },
       {
-         "description" : "Alexandra Kosteniuk, Sara Khadem and Bela Khotenashvili all finished the European Women's Blitz Championship with 10/13 points. Kosteniuk, who entered the final round with a 1-point advantage and lost to Khadem with white, had the best tiebreak score, and thus grabbed the gold medal. The 11-round rapid championship will take place on Saturday and Sunday. | Photos: European Chses Union",
+         "description" : "Supported by his giant bishop on b6, Black became active in the diagram position - and was surprisingly quickly rewarded, as the game lasted only three more moves. Are you able to find them all?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-d1",
-         "pubDate" : "Fri, 12 Jan 2024 21:00:00",
-         "title" : "European Women's Blitz: Kosteniuk, Khadem and Khotenashvili reach the podium"
+         "link" : "https://en.chessbase.com/post/pressure-creates-mistakes",
+         "pubDate" : "Sat, 13 Jan 2024 09:00:00",
+         "title" : "Pressure creates mistakes"
       },
       {
          "description" : " The English prodigy, eight, totalled 8.5/13 and finished 15th in a field of 105 as well as winning the prize for best junior Bodhana Sivanandan, eight, England's girl prodigy, produced a ­stunningly impressive performance on Friday afternoon at the ­European Women's Blitz Championship in Monaco. She totalled 8.5 points out of 13, finished 15th in a field of 105, won the prize for the best junior, and was the <a href=\"https://chess-results.com/tnr797941.aspx?lan=1&amp;art=9&amp;fed=ENG&amp;turdet=YES&amp;flag=30&amp;snr=44\">top English player</a>. Blitz is three minutes per player for the entire game, plus a two seconds per move increment from move one. Sivanandan <a href=\"https://chess24.co",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
          "pubDate" : "Fri, 12 Jan 2024 20:45:46",
          "title" : "Chess: Bodhana Sivanandan dazzles at European Women's Blitz Championship"
-      },
-      {
-         "description" : "Between 2004 and 2007, 13th World Chess Champion Garry Kasparov recorded a large 3-volume Najdorf video course. ChessBase is publishing this great classic in a complete edition in the current ChessBase Media format. Learn from this classic of chess!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/garry-kasparov-how-to-play-the-najdorf-a-chessbase-classic",
-         "pubDate" : "Fri, 12 Jan 2024 15:00:00",
-         "title" : "Garry Kasparov: How to play the Najdorf - A ChessBase Classic!"
       },
       {
          "description" : " The first ACT Chess Association event of the year was held at the Canberra Chess Club yesterday evening (11 Jan). The ACT Lightning Championship traditionally starts the chess year in Canberra, and usually attracts a good turnout. The 2024 edition saw 35 players take part, with Harry Press winning with a perfect 9/9. He finished 2 points ahead of Andrew Mather and Willis Lo, with Malik Amer and Jordan Brown a further point back. The time limit of 3m+2s favoured the younger players, although Miles Patterson and Lee Forace flew the flag for the older generation, finishing on 5.5 (+2). The next ACTCA even should be the ACT Teams Championship, which is likely to be held in late February or earl",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/champions-chess-tour-2024-announced-chessable-masters",
          "pubDate" : "Fri, 12 Jan 2024 07:45:00",
          "title" : "Faster And Fitter: Champions Chess Tour 2024 Returns With Chessable Masters"
-      },
-      {
-         "description" : "Timing is a key factor in chess. As noted by the inimitable Bobby Fischer: \"Chess is a matter of delicate judgement, knowing when to punch and how to duck\". GM Sundararajan Kidambi explores this all-important theme using games by Levon Aronian, Vishy Anand and Stockfish/Leela! | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/timing-kidambi",
-         "pubDate" : "Thu, 11 Jan 2024 22:00:00",
-         "title" : "A question of timing"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to deal with players who refuse to play proper moves? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/knight-dance.1920.jpeg\" title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. screen grab from youtube\" data-title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. (screen grab from youtube)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1\" alt=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand.\" srcset=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1 1x",
@@ -330,7 +338,7 @@ news_feed (
          "title" : "1st China Chess King 2024 - Games and Results"
       },
       {
-         "description" : " Joseph Methu won the 2023 Kenya National Chess Championship, and with it, drove away with a new car (worth 1.3 million KSh). This is the fourth year that a car has been the grand prize. Mehul Gohil has won two (2019, 2022) and Martin Njoroge (2021). The tournament occurred at the splendid Charter Hall at The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/\">Joseph Methu wins Kenyan Chess Championship and car!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Joseph Methu won the 2023 Kenya National Chess Championship, and with it, drove away with a new car (worth 1.3 million KSh). This is the fourth year that a car has been the grand prize. Mehul Gohil has won two (2019, 2022) and Martin Njoroge (2021). The tournament occurred at the splendid Charter Hall at The post <a href=\"https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/\">Joseph Methu wins Kenyan Chess Championship and car!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/",
@@ -610,7 +618,7 @@ news_feed (
          "title" : "Play Chess Against Magnus Carlsen Bots"
       },
       {
-         "description" : " Our chess highlights of 2023 will show how controversy served as the mainstay of headlines. We even saw a player busted for impersonating a woman! The Carlsen-Niemann controversy was still bubbling as the chess community saw a dismissal on one count of the $100 million lawsuit in June. FIDE finally released a statement and, on The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/\">The Chess Drum's Highlights of 2023</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Our chess highlights of 2023 will show how controversy served as the mainstay of headlines. We even saw a player busted for impersonating a woman! The Carlsen-Niemann controversy was still bubbling as the chess community saw a dismissal on one count of the $100 million lawsuit in June. FIDE finally released a statement and, on The post <a href=\"https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/\">The Chess Drum's Highlights of 2023</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/",
@@ -898,7 +906,7 @@ news_feed (
          "title" : "2023 World Rapind and Blitz - Starting day 2"
       },
       {
-         "description" : " Over a week ago, Africa crowned its Junior champions, with Hamed Wafa (Egypt) and Chahrazed Djeroud (Algeria) earning the continental titles. Thirteen federations sent representatives to Nouakchott, Mauritania, to vie for a place in chess history. Egypt and Algeria have dominated the proceedings in previous years, but several players from other federations were looking for The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/26/wafa-djeroud-win-african-juniors-2023/\">Wafa, Djeroud win African Juniors 2023!</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Over a week ago, Africa crowned its Junior champions, with Hamed Wafa (Egypt) and Chahrazed Djeroud (Algeria) earning the continental titles. Thirteen federations sent representatives to Nouakchott, Mauritania, to vie for a place in chess history. Egypt and Algeria have dominated the proceedings in previous years, but several players from other federations were looking for The post <a href=\"https://www.thechessdrum.net/blog/2023/12/26/wafa-djeroud-win-african-juniors-2023/\">Wafa, Djeroud win African Juniors 2023!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/12/26/wafa-djeroud-win-african-juniors-2023/",
@@ -1026,7 +1034,7 @@ news_feed (
          "title" : "Don't Burn It"
       },
       {
-         "description" : " Cheating has remained in the chess headlines since the Carlsen-Niemann controversy in September 2022. In the past two years, chess has continued to grab international headlines. This is not because of the new World Champion, Ding Liren, or all the rising young players gracing the scene. It is not because of the increasing popularity of The post <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/\">Has cheating (accusations) in chess gone too far?</a> appeared first on <a rel=\"nofollow\" href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Cheating has remained in the chess headlines since the Carlsen-Niemann controversy in September 2022. In the past two years, chess has continued to grab international headlines. This is not because of the new World Champion, Ding Liren, or all the rising young players gracing the scene. It is not because of the increasing popularity of The post <a href=\"https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/\">Has cheating (accusations) in chess gone too far?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-samarkand/",
          "pubDate" : "Sun, 24 Dec 2023 09:48:43",
          "title" : "FIDE World Rapid and Blitz Chess Championship 2023 starts in Samarkand"
-      },
-      {
-         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/day2-chess-mindset-shift/",
-         "pubDate" : "Sat, 23 Dec 2023 14:02:29",
-         "title" : "Day 2 - Mastering Mindset: Shift from Rating Goals to Skill Improvement"
       }
    ]
 }
