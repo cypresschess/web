@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Supported by his giant bishop on b6, Black became active in the diagram position - and was surprisingly quickly rewarded, as the game lasted only three more moves. Are you able to find them all?",
+         "description" : "The hyperactive ChessBase India team provides a wealth of content for chess fans all over the world. A couple of weeks ago, the team led by Sagar Shah made it to Samarkand and recorded numerous videos from the World Rapid and Blitz Championship. Want to feel the tension of elite blitz games caught on tape from start to finish? Find here a few examples, featuring Daniil Dubov, Dommaraju Gukesh and Divya Deshmukh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pressure-creates-mistakes",
-         "pubDate" : "Sat, 13 Jan 2024 09:00:00",
-         "title" : "Pressure creates mistakes"
+         "link" : "https://en.chessbase.com/post/world-blitz-2023-videos",
+         "pubDate" : "Sat, 13 Jan 2024 10:00:00",
+         "title" : "OTB elite blitz action: Gukesh, Dubov and co. show their skills"
       },
       {
          "description" : "Alexandra Kosteniuk, Sara Khadem and Bela Khotenashvili all finished the European Women's Blitz Championship with 10/13 points. Kosteniuk, who entered the final round with a 1-point advantage and lost to Khadem with white, had the best tiebreak score, and thus grabbed the gold medal. The 11-round rapid championship will take place on Saturday and Sunday. | Photos: European Chses Union",
@@ -1064,14 +1064,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/day2-chess-mindset-shift/",
          "pubDate" : "Sat, 23 Dec 2023 14:02:29",
          "title" : "Day 2 - Mastering Mindset: Shift from Rating Goals to Skill Improvement"
-      },
-      {
-         "description" : "Senior National Arbiter Seminar, Vizianagaram, Andhra Pradesh certificates are out to download. link : https://aicf.online/SNA-Vizg.html Any correction mail at aicfwebmaster2021@gmail.com",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiter-seminar-certificates/",
-         "pubDate" : "Sat, 23 Dec 2023 09:36:11",
-         "title" : "Senior National Arbiter Seminar, Certificates"
       }
    ]
 }
