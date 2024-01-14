@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2840",
+         "pubDate" : "Sat, 13 Jan 2024 23:24:13",
+         "title" : "Tata Steel Masters 2024: Day 1 Recap"
+      },
+      {
+         "description" : " The 86th Tata Steel Masters in Wijk aan Zee got off to a lively start with wins for defending Champion Anish Giri, Alireza Firouzja, Ian Nepomniachtchi and Wei Yi. World Champion Ding Liren had a comfortable draw with black against Santosh Vidit. Masters Round 1 Standings: 1st-4th\tFirouzja, Nepomniachtchi, Giri, Wei Yi\t1pt, 5th-10th Ding Liren, Gukesh, Praggnanandhaa, Maghsoodloo, Abdusattorov, Vidit, 0.5pts 11th-14th Van Foreest, Donchenko, Warmerdam, Ju Wenjun 0pts Masters Round 2 Pairings Sunday 14th January 1pm GMT: Firouzja-Maghsoodloo, Abdusattorov-Praggnanandhaa, Wei Yi-Gukesh, Ding Liren-Donchenko, Giri-Vidit, Nepomniachtchi-Ju Wenjun, Jorden Van Foreest-Warmerdam. More details belo",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/tata-steel-2024-opens-with-four-decisive-games-in-the-masters",
+         "pubDate" : "Sat, 13 Jan 2024 21:10:00",
+         "title" : "Tata Steel 2024 opens with four decisive games in the Masters - 1"
+      },
+      {
          "description" : "The new Champions Chess Tour (CCT) season kicks off this month with the return of the Chessable Masters and a faster format. Chess.com's premier year-long event now consists of four main online tournaments, increasing the intensity leading up to the live season-ending Tour Finals.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,28 @@ news_feed (
          "title" : "Chess strategy from Nunn to Nimzowitsch"
       },
       {
+         "description" : "GM Oleksandr Bortnyk scooped up his fourth $400 Bullet Brawl win and moved into third place on the all-time winner&#39;s list after scoring 227 points during 2024&#39;s second edition. GM Daniel Naroditsky (223) and IM Yoseph Taher (191) were the main cha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wins-bullet-brawl-january-13-2024",
+         "pubDate" : "Sat, 13 Jan 2024 14:28:00",
+         "title" : "Bortnyk Battles His Way To 4th Bullet Brawl Title"
+      },
+      {
          "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
          "pubDate" : "Sat, 13 Jan 2024 14:00:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "Black was more than OK in Saturday&#39;s opening round of the 2024 Tata Steel Chess Tournament&#38;nbsp;as GMs Alireza Firouzja, Anish Giri, Ian Nepomniachtchi, and Wei Yi all started with wins with the black pieces. The Challengers group also saw four de...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-1",
+         "pubDate" : "Sat, 13 Jan 2024 13:29:00",
+         "title" : "4 Black Wins In Tata Steel Chess Masters Opening Round"
       },
       {
          "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship is being held in 2024: the blitz tournament on Friday (12 January) and the rapid tournament on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. | Follow the games live with expert commentary starting at 13.30 CET (7.30 ET, 18.00 IST)",
@@ -848,22 +880,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-2.html",
          "pubDate" : "Thu, 28 Dec 2023 09:33:00",
          "title" : "2023 World Rapid and Blitz - Day 2"
-      },
-      {
-         "description" : "Here comes another Puzzle Week on Chess.com! In 2024 we are celebrating it the week of January 8 with Chess Played Quick and other puzzle-themed streamer events, culminating with the $25,000 Puzzles World Championship on January 11-12. One of Ches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-puzzle-week-2024",
-         "pubDate" : "Thu, 28 Dec 2023 08:27:38",
-         "title" : "Puzzle Week Returns For 2024"
-      },
-      {
-         "description" : "GM Magnus Carlsen secured the world rapid chess crown for a record fifth time along with the $60,000 first prize at the 2023 FIDE World Rapid Chess Championship after scoring 3/4 on the final day. Wins over GMs Vladimir Fedoseev and Pouya Idani pu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-rapid-chess-championship-day-3-carlsen-wins",
-         "pubDate" : "Thu, 28 Dec 2023 07:57:00",
-         "title" : "Carlsen Wins 5th Rapid World Championship; Bodnaruk Claims 1st"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106342767.cms\" />The momentum that began with the Chess Olympiad 2022 has indeed yielded positive results, as India has now established a strong presence in World Chess. While chess has consistently held a prominent position in government initiatives due to India's success in global age-group events, the significant impact of private sponsorship and the involvement of accomplished individuals in the development programme has become truly evident only recently. Vishy Anand has played a pivotal role in catalyzing this progress.",
