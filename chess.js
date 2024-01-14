@@ -2,28 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 160th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and talks about the David Bronstein and his famous book about the Candidates Tournament Zurich 1953. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-160-chess-history-in-a-nutshell-41",
+         "pubDate" : "Sun, 14 Jan 2024 15:00:00",
+         "title" : "Understanding before Moving 160: Chess history in a nutshell (41)"
+      },
+      {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Sun, 14 Jan 2024 14:00:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : " After an extended post-world championship layoff, Ding Liren has returned to international chess. He is taking part in the Tata Steel masters, which began yesterday in The Netherlands. His first round opponent was Vidit (IND), and the game ended in a draw. I'm not sure if there were signs of Ding being a little rusty, as I thought White stood better for a lot of the game, although by the end, a draw was the correct result. Tata Steel is slightly unusual (at least these days) in that the players in the top section aren't all 2800+ GM's. This leads to some more combative games, as even missed half points against the back markers can affect the final outcomes. Curiously, the first round saw 4 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/ding-returns.html",
+         "pubDate" : "Sun, 14 Jan 2024 12:44:00",
+         "title" : "Ding Returns"
+      },
+      {
          "description" : "Chess legend Vlastimil Hort turned 80 on Friday. In a short interview, he talks about when and how he learned to play chess, which player he admired the most, why he left the Czechoslovak Socialist Republic and what he thinks of online chess tournaments. | See also: Vlastimil Hort, the great chess entertainer, turns 80! by Eduard Frey",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/vlastimil-hort-interview-2024",
          "pubDate" : "Sun, 14 Jan 2024 10:00:00",
          "title" : "Vlastimil Hort: \"My most interesting encounter was with Paul Keres\""
-      },
-      {
-         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship is being held in 2024: the blitz tournament on Friday (12 January) and the rapid tournament on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. | Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-live",
-         "pubDate" : "Sun, 14 Jan 2024 09:45:00",
-         "title" : "European Women's Rapid Championship - Live!"
-      },
-      {
-         "description" : "In the second Fast & Furious episode of 2024, Robert Ris once again explores complex lines in the Caro-Kann. To do so, he goes over games played by two Chinese stars: Wei Yi and Ding Liren. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-wei-ding-caro-kann",
-         "pubDate" : "Sun, 14 Jan 2024 09:00:00",
-         "title" : "Robert Ris' Fast and Furious: Wei Yi and Ding Liren navigate the Caro-Kann"
       },
       {
          "description" : "The much-anticipated Tata Steel Masters kicked off on Saturday in Wijk aan Zee. A lively first round saw four players scoring full points, all with the black pieces - Ian Nepomniachtchi, Alireza Firouzja, Anish Giri and Wei Yi are sharing the lead after the first day of action. The Challengers also saw four players grabbing wins right off the bat. | Photo: Tata Steel Chess Tournament / Lenart Ootes",
@@ -1056,30 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2817",
          "pubDate" : "Sun, 24 Dec 2023 19:30:20",
          "title" : "Kazakhstani Championship 2023: Ansat and Balabayeva win maiden titles"
-      },
-      {
-         "description" : "All booms eventually run their course. Once covid confinement and the Netflix series have been forgotten, what to do with that wooden chess set gathering dust in the closet? <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/Q6_-Za8vMWM?si=fJ-YeuJ70Se2VqJQ\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Turning a Chess Board into Wall Hooks</B> (1:00) &#149; '[Published on] Dec 6, 2023' <P> And on that melancholy note we close the book on the long-running series that started with <A HREF=\"https://chessforallages.blogspot.com/2016/11/t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/dont-burn-it.html",
-         "pubDate" : "Sun, 24 Dec 2023 16:18:00",
-         "title" : "Don't Burn It"
-      },
-      {
-         "description" : " Cheating has remained in the chess headlines since the Carlsen-Niemann controversy in September 2022. In the past two years, chess has continued to grab international headlines. This is not because of the new World Champion, Ding Liren, or all the rising young players gracing the scene. It is not because of the increasing popularity of The post <a href=\"https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/\">Has cheating (accusations) in chess gone too far?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/12/24/has-cheating-accusations-gone-too-far/",
-         "pubDate" : "Sun, 24 Dec 2023 15:13:18",
-         "title" : "Has cheating (accusations) in chess gone too far?"
-      },
-      {
-         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd, and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/day3-hard-training/",
-         "pubDate" : "Sun, 24 Dec 2023 13:53:12",
-         "title" : "Day 3 - Transforming Your Chess: The Power of Hard Training"
       }
    ]
 }
