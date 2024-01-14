@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the second Fast & Furious episode of 2024, Robert Ris once again explores complex lines in the Caro-Kann. To do so, he goes over games played by two Chinese stars: Wei Yi and Ding Liren. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-wei-ding-caro-kann",
+         "pubDate" : "Sun, 14 Jan 2024 09:00:00",
+         "title" : "Robert Ris' Fast and Furious: Wei Yi and Ding Liren navigate the Caro-Kann"
+      },
+      {
          "description" : "The much-anticipated Tata Steel Masters kicked off on Saturday in Wijk aan Zee. A lively first round saw four players scoring full points, all with the black pieces - Ian Nepomniachtchi, Alireza Firouzja, Anish Giri and Wei Yi are sharing the lead after the first day of action. The Challengers also saw four players grabbing wins right off the bat. | Photo: Tata Steel Chess Tournament / Lenart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-blitz-2023-videos",
          "pubDate" : "Sat, 13 Jan 2024 10:00:00",
          "title" : "OTB elite blitz action: Gukesh, Dubov and co. show their skills"
-      },
-      {
-         "description" : "Supported by his giant bishop on b6, Black became active in the diagram position - and was surprisingly quickly rewarded, as the game lasted only three more moves. Are you able to find them all?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/pressure-creates-mistakes",
-         "pubDate" : "Sat, 13 Jan 2024 09:00:00",
-         "title" : "Pressure creates mistakes"
       },
       {
          "description" : " The English prodigy, eight, totalled 8.5/13 and finished 15th in a field of 105 as well as winning the prize for best junior Bodhana Sivanandan, eight, England's girl prodigy, produced a ­stunningly impressive performance on Friday afternoon at the ­European Women's Blitz Championship in Monaco. She totalled 8.5 points out of 13, finished 15th in a field of 105, won the prize for the best junior, and was the <a href=\"https://chess-results.com/tnr797941.aspx?lan=1&amp;art=9&amp;fed=ENG&amp;turdet=YES&amp;flag=30&amp;snr=44\">top English player</a>. Blitz is three minutes per player for the entire game, plus a two seconds per move increment from move one. Sivanandan <a href=\"https://chess24.co",
