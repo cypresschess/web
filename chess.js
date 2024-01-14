@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess legend Vlastimil Hort turned 80 on Friday. In a short interview, he talks about when and how he learned to play chess, which player he admired the most, why he left the Czechoslovak Socialist Republic and what he thinks of online chess tournaments. | See also: Vlastimil Hort, the great chess entertainer, turns 80! by Eduard Frey",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vlastimil-hort-interview-2024",
+         "pubDate" : "Sun, 14 Jan 2024 10:00:00",
+         "title" : "Vlastimil Hort: \"My most interesting encounter was with Paul Keres\""
+      },
+      {
+         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship is being held in 2024: the blitz tournament on Friday (12 January) and the rapid tournament on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. | Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-live",
+         "pubDate" : "Sun, 14 Jan 2024 09:45:00",
+         "title" : "European Women's Rapid Championship - Live!"
+      },
+      {
          "description" : "In the second Fast & Furious episode of 2024, Robert Ris once again explores complex lines in the Caro-Kann. To do so, he goes over games played by two Chinese stars: Wei Yi and Ding Liren. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +50,6 @@ news_feed (
          "title" : "Tata Steel 2024 opens with four decisive games in the Masters - 1"
       },
       {
-         "description" : "The new Champions Chess Tour (CCT) season kicks off this month with the return of the Chessable Masters and a faster format. Chess.com's premier year-long event now consists of four main online tournaments, increasing the intensity leading up to the live season-ending Tour Finals.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/champions-chess-tour-2024-preview",
-         "pubDate" : "Sat, 13 Jan 2024 20:00:00",
-         "title" : "Four 'regular' events and a grand finale in this year's Champions Chess Tour"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-1",
          "pubDate" : "Sat, 13 Jan 2024 13:29:00",
          "title" : "4 Black Wins In Tata Steel Chess Masters Opening Round"
-      },
-      {
-         "description" : "The hyperactive ChessBase India team provides a wealth of content for chess fans all over the world. A couple of weeks ago, the team led by Sagar Shah made it to Samarkand and recorded numerous videos from the World Rapid and Blitz Championship. Want to feel the tension of elite blitz games caught on tape from start to finish? Find here a few examples, featuring Daniil Dubov, Dommaraju Gukesh and Divya Deshmukh.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-blitz-2023-videos",
-         "pubDate" : "Sat, 13 Jan 2024 10:00:00",
-         "title" : "OTB elite blitz action: Gukesh, Dubov and co. show their skills"
       },
       {
          "description" : " The English prodigy, eight, totalled 8.5/13 and finished 15th in a field of 105 as well as winning the prize for best junior Bodhana Sivanandan, eight, England's girl prodigy, produced a ­stunningly impressive performance on Friday afternoon at the ­European Women's Blitz Championship in Monaco. She totalled 8.5 points out of 13, finished 15th in a field of 105, won the prize for the best junior, and was the <a href=\"https://chess-results.com/tnr797941.aspx?lan=1&amp;art=9&amp;fed=ENG&amp;turdet=YES&amp;flag=30&amp;snr=44\">top English player</a>. Blitz is three minutes per player for the entire game, plus a two seconds per move increment from move one. Sivanandan <a href=\"https://chess24.co",
@@ -256,6 +256,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/opening-principles-beginner-breakdown-nm-julian-proleiko",
          "pubDate" : "Tue, 09 Jan 2024 23:41:41",
          "title" : "Opening Principles | Beginner Breakdown - NM Julian Proleiko"
+      },
+      {
+         "description" : "A new year means a look at the first FIDE rating list of the year. I've been doing this for so many years that I repeated that first sentence from last year without consciously copying it. Even better, I have a reliable checklist to follow. <P> 1) Identify last year's post: <A HREF=\"https://chessforallages.blogspot.com/2023/01/fide-rating-list-january-2023.html\">FIDE Rating List - January 2023</A> (January 2023). <P> 2) Identify the source of the FIDE data: <A HREF=\"https://ratings.fide.com/download_lists.phtml\">FIDE Ratings Download</A> (ratings.fide.com). <BLOCKQUOTE> STANDARD<BR> TXT format (31 Dec 2023, Sz: 9.77 MB) </BLOCKQUOTE> <P> 3) Compare some basic counts over the past few years. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/fide-rating-list-january-2024.html",
+         "pubDate" : "Tue, 09 Jan 2024 16:58:00",
+         "title" : "FIDE Rating List - January 2024"
       },
       {
          "description" : "Please find live link here https://live.mpchess.in/livea/ https://live.mpchess.in/liveb/",
@@ -1072,22 +1080,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/day3-hard-training/",
          "pubDate" : "Sun, 24 Dec 2023 13:53:12",
          "title" : "Day 3 - Transforming Your Chess: The Power of Hard Training"
-      },
-      {
-         "description" : "The Soviet (oops, Russian&hellip;) invasion of Ukraine has resulted in a number of grandmasters afflicted by conscience defecting to more liberal regimes. Putin's realm of perpetual winter was foreshadowed by Garry Kasparov's Cassandra-like prophecy, Winter is Coming. The litany of discontents is impressive, a literal brain drain of Russian elite chess players. Kramnik and Kasparov are []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/russian-exodus-and-a-rising-star/",
-         "pubDate" : "Sun, 24 Dec 2023 10:22:05",
-         "title" : "Russian exodus - and a rising star"
-      },
-      {
-         "description" : "The 2023 FIDE World Rapid and Blitz Chess Championship takes place from 26-30 December in Samarkand, Uzbekistan. The city where the world's oldest chess pieces have been found (dating from the 6-8 century AD) will more than 350 players from 50 federations who will compete for the world champion rapid and blitz titles. FIDE World Rapid Chess Championship 2023 will be held from 26-28 December with 13 rounds (swiss system) in the Open event, and 11 rounds (swiss system) in the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-world-rapid-and-blitz-chess-championship-2023-starts-in-samarkand/",
-         "pubDate" : "Sun, 24 Dec 2023 09:48:43",
-         "title" : "FIDE World Rapid and Blitz Chess Championship 2023 starts in Samarkand"
       }
    ]
 }
