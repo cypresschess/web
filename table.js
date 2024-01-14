@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2024-01-13","140","<a href=http://www.uschess.org/msa/XtblMain.php?202401138772 target='_blank'>WHARTON ACADEMY SCHOLASTIC</a>",
+"HOUSTON","2024-01-12","32","<a href=http://www.uschess.org/msa/XtblMain.php?202401128472 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2024-01-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401128462 target='_blank'>FBCC 2024 NEW YEAR OPEN</a>",
 "HOUSTON","2024-01-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401128392 target='_blank'>REBECCA CHESS CLUB QUADS JANUARY 12, 2024</a>",
 "HOUSTON","2024-01-05  - 01-07","73","<a href=http://www.uschess.org/msa/XtblMain.php?202401076542 target='_blank'>$3,000 JAN 2024 CHAMPIONSHIP</a>",
 "CYPRESS","2024-01-06","34","<a href=http://www.uschess.org/msa/XtblMain.php?202401065752 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2023-06-24  - 06-25","101","<a href=http://www.uschess.org/msa/XtblMain.php?202306257162 target='_blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2023</a>",
 "HOUSTON","2023-06-24","76","<a href=http://www.uschess.org/msa/XtblMain.php?202306246302 target='_blank'>CCUH JUNE SCHOLASTIC AND COLLEGIATE</a>",
 "HOUSTON","2023-06-24","101","<a href=http://www.uschess.org/msa/XtblMain.php?202306246142 target='_blank'>TCR: HOUSTON CITY SCHOLASTIC</a>",
-"HOUSTON","2023-06-24","11","<a href=http://www.uschess.org/msa/XtblMain.php?202306246042 target='_blank'>CHESSPANDA06242023SATURDAY</a>",
-"PEARLAND","2023-06-22  - 06-23","21","<a href=http://www.uschess.org/msa/XtblMain.php?202306235992 target='_blank'>SCS SLEEP INN ADVANCED II</a>",
-"CYPRESS","2023-06-23","34","<a href=http://www.uschess.org/msa/XtblMain.php?202306235832 target='_blank'>EVENT NAME MISSING</a>",
 ]);
