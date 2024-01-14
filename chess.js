@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Alireza Firouzja beat Parham Maghsoodloo in the second round of the Tata Steel Masters and ended up being the only player on 100% after two rounds. It looked to me like Maghsoodloo forgot his theory and was then just lost. There were wins for Gukesh and Max Warmerdam too as the event continues to excite. Praggnanandhaa drew against Abdusattorov, Ding drew against Donchenko, Giri drew against Vidit and the Nepomniachtchi against Ju Wenjun game was the last to finish, also in a draw. Round 2 Standings: 1st Firouzja 2pts 2nd-4th\tGukesh,\tGiri, Nepomniachtchi 1.5pts 5th-10th Warmerdam, Vidit, Praggnanandhaa, Abdusattorov, Wei Yi, Ding Liren 1pt 11th-13th Ju Wenjun. Donchenko, Maghsoodloo 0.5pts ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/firouzja-leads-the-tata-steel-masters-alone-on-22",
+         "pubDate" : "Sun, 14 Jan 2024 18:58:00",
+         "title" : "Firouzja leads the Tata Steel Masters alone on 2/2 - 2"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 160th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and talks about the David Bronstein and his famous book about the Candidates Tournament Zurich 1953. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/retrospect-christmas-puzzles",
          "pubDate" : "Mon, 25 Dec 2023 08:00:00",
          "title" : "Retrospect: Twenty years of ChessBase Christmas Puzzles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2817",
-         "pubDate" : "Sun, 24 Dec 2023 19:30:20",
-         "title" : "Kazakhstani Championship 2023: Ansat and Balabayeva win maiden titles"
       }
    ]
 }
