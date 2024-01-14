@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The much-anticipated Tata Steel Masters kicked off on Saturday in Wijk aan Zee. A lively first round saw four players scoring full points, all with the black pieces - Ian Nepomniachtchi, Alireza Firouzja, Anish Giri and Wei Yi are sharing the lead after the first day of action. The Challengers also saw four players grabbing wins right off the bat. | Photo: Tata Steel Chess Tournament / Lenart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r1",
+         "pubDate" : "Sun, 14 Jan 2024 01:35:00",
+         "title" : "Tata Steel Chess R1: Nepo, Wei, Giri and Firouzja score with black"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,14 +58,6 @@ news_feed (
          "title" : "Bortnyk Battles His Way To 4th Bullet Brawl Title"
       },
       {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Sat, 13 Jan 2024 14:00:00",
-         "title" : "Tata Steel Chess - Live!"
-      },
-      {
          "description" : "Black was more than OK in Saturday&#39;s opening round of the 2024 Tata Steel Chess Tournament&#38;nbsp;as GMs Alireza Firouzja, Anish Giri, Ian Nepomniachtchi, and Wei Yi all started with wins with the black pieces. The Challengers group also saw four de...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -66,20 +66,20 @@ news_feed (
          "title" : "4 Black Wins In Tata Steel Chess Masters Opening Round"
       },
       {
-         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship is being held in 2024: the blitz tournament on Friday (12 January) and the rapid tournament on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. | Follow the games live with expert commentary starting at 13.30 CET (7.30 ET, 18.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-live",
-         "pubDate" : "Sat, 13 Jan 2024 13:15:00",
-         "title" : "European Women's Rapid Championship - Live!"
-      },
-      {
          "description" : "The hyperactive ChessBase India team provides a wealth of content for chess fans all over the world. A couple of weeks ago, the team led by Sagar Shah made it to Samarkand and recorded numerous videos from the World Rapid and Blitz Championship. Want to feel the tension of elite blitz games caught on tape from start to finish? Find here a few examples, featuring Daniil Dubov, Dommaraju Gukesh and Divya Deshmukh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-blitz-2023-videos",
          "pubDate" : "Sat, 13 Jan 2024 10:00:00",
          "title" : "OTB elite blitz action: Gukesh, Dubov and co. show their skills"
+      },
+      {
+         "description" : "Supported by his giant bishop on b6, Black became active in the diagram position - and was surprisingly quickly rewarded, as the game lasted only three more moves. Are you able to find them all?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/pressure-creates-mistakes",
+         "pubDate" : "Sat, 13 Jan 2024 09:00:00",
+         "title" : "Pressure creates mistakes"
       },
       {
          "description" : " The English prodigy, eight, totalled 8.5/13 and finished 15th in a field of 105 as well as winning the prize for best junior Bodhana Sivanandan, eight, England's girl prodigy, produced a ­stunningly impressive performance on Friday afternoon at the ­European Women's Blitz Championship in Monaco. She totalled 8.5 points out of 13, finished 15th in a field of 105, won the prize for the best junior, and was the <a href=\"https://chess-results.com/tnr797941.aspx?lan=1&amp;art=9&amp;fed=ENG&amp;turdet=YES&amp;flag=30&amp;snr=44\">top English player</a>. Blitz is three minutes per player for the entire game, plus a two seconds per move increment from move one. Sivanandan <a href=\"https://chess24.co",
