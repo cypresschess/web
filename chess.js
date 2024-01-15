@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja became the first sole leader in this year's Tata Steel Masters after beating Parham Maghsoodloo with white in the second round - the Frenchman is the only player who started the event with back-to-back victories. Gukesh D. and Max Warmerdam also grabbed wins on Sunday. Meanwhile, in the Challengers, five players are sharing first place with 1&frac12;/2 points. | Photo: Tata Steel Chess Tournament / Lenart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r2",
+         "pubDate" : "Mon, 15 Jan 2024 08:05:00",
+         "title" : "Tata Steel Chess R2: Firouzja leads with 2 out of 2"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,14 +42,6 @@ news_feed (
          "title" : "Understanding before Moving 160: Chess history in a nutshell (41)"
       },
       {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Sun, 14 Jan 2024 14:00:00",
-         "title" : "Tata Steel Chess - Live!"
-      },
-      {
          "description" : " After an extended post-world championship layoff, Ding Liren has returned to international chess. He is taking part in the Tata Steel masters, which began yesterday in The Netherlands. His first round opponent was Vidit (IND), and the game ended in a draw. I'm not sure if there were signs of Ding being a little rusty, as I thought White stood better for a lot of the game, although by the end, a draw was the correct result. Tata Steel is slightly unusual (at least these days) in that the players in the top section aren't all 2800+ GM's. This leads to some more combative games, as even missed half points against the back markers can affect the final outcomes. Curiously, the first round saw 4 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -66,12 +66,12 @@ news_feed (
          "title" : "Vlastimil Hort: \"My most interesting encounter was with Paul Keres\""
       },
       {
-         "description" : "The much-anticipated Tata Steel Masters kicked off on Saturday in Wijk aan Zee. A lively first round saw four players scoring full points, all with the black pieces - Ian Nepomniachtchi, Alireza Firouzja, Anish Giri and Wei Yi are sharing the lead after the first day of action. The Challengers also saw four players grabbing wins right off the bat. | Photo: Tata Steel Chess Tournament / Lenart Ootes",
+         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship is being held in 2024: the blitz tournament on Friday (12 January) and the rapid tournament on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. | Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r1",
-         "pubDate" : "Sun, 14 Jan 2024 01:35:00",
-         "title" : "Tata Steel Chess R1: Nepo, Wei, Giri and Firouzja score with black"
+         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-live",
+         "pubDate" : "Sun, 14 Jan 2024 09:45:00",
+         "title" : "European Women's Rapid Championship - Live!"
       },
       {
          "description" : "",
@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2818",
          "pubDate" : "Mon, 25 Dec 2023 10:22:07",
          "title" : "FIDE Council approves changes in tournament registration procedure"
-      },
-      {
-         "description" : "For two decades we ended each year with traditional Christmas puzzles - here are some of the best from the early years. Many of our younger readers will not have seen them - remember, some of them were not born when we started. For others it will hopefully bring back nostalgic memories. And perhaps some additional joy on the big festive day. From today until January 1st 2024 we revive the tradition, with new contributors who will hopefully maintain it in the decades to come.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/retrospect-christmas-puzzles",
-         "pubDate" : "Mon, 25 Dec 2023 08:00:00",
-         "title" : "Retrospect: Twenty years of ChessBase Christmas Puzzles"
       }
    ]
 }
