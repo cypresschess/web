@@ -10,6 +10,14 @@ news_feed (
          "title" : "At the height of his career: Alekhine wins San Remo 1930 with 14 out of 15"
       },
       {
+         "description" : " Anish Giri joined Alireza Firouzja in the lead by beating Alexander Donchenko with the black pieces using the Modern Defence. 17.Nd4 (17.Nd2) seemed to hand Giri a little initiative, 30.Rd3 (30.cxd5) gave ground but it was 35.Qd3? that led to the loss on move 41. Jorden van Foreest also used the Modern with black against Ju Wenjun, black got to be better but it was the sequence 32...Nd4 (32...Nf4 was better) 33.f6? (33.Rxd4 was a better try) 33...Bxe5 led to the win for Van Foreest. Ding Liren scored his first win with black in a manoeuvring Two Knights/Giuoco Piano with 4.d3 against Gukesh. 19.Rd2?! (19.Bd3!) seemed a misstep and 24.Re3 (24.Rxe8) appears to be the decisive error with Ding ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/giri-joins-firouzja-in-the-lead-of-the-tata-steel-masters-on-2.53",
+         "pubDate" : "Mon, 15 Jan 2024 19:23:00",
+         "title" : "Giri joins Firouzja in the lead of the Tata Steel Masters on 2.5/3 - 3"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2842",
          "pubDate" : "Mon, 15 Jan 2024 12:48:24",
          "title" : "European Women's Rapid and Blitz Championship 2023: Alexandra Kosteniuk wins double gold"
+      },
+      {
+         "description" : "GM Anish Giri caught GM Alireza Firouzja in first place in round three of the 2024 Tata Steel Chess Tournament&#39;s Masters. The Dutchman defeated GM Alexander Donchenko and saw his compatriot GM Max Warmerdam holding Firouzja to a draw. Like the fir...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-3",
+         "pubDate" : "Mon, 15 Jan 2024 12:24:00",
+         "title" : "Giri Beats Donchenko, Catches Firouzja In 1st Place"
       },
       {
          "description" : "Every chess player likes to attack. Every chess player likes to put pressure on their opponent. But when the tables are turned, and we become the target of an attack, we may feel uncomfortable, anxious, and insecure. Yet, we can save an incredible number of defensive positions if we know the techniques and rules-of-thumb.",
@@ -882,14 +898,6 @@ news_feed (
          "title" : "World Blitz Championship 2023 starts in Samarkand"
       },
       {
-         "description" : "GM Alireza Firouzja has likely wrapped up qualification for the 2024 FIDE Candidates Chess Tournament in Toronto after winning the Rouen Open with a perfect 7/7. He beat GM Gata Kamsky along the way and picked up sufficient rating points that even...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-wesley-so-candidates-rouen",
-         "pubDate" : "Fri, 29 Dec 2023 18:17:00",
-         "title" : "Firouzja Overtakes Wesley So To Grab Candidates Rating Spot"
-      },
-      {
          "description" : "Happy Holidays! This is the last part of my 7-day Newsletter series to prepare you for a successful 2024. If you want to check out the previous ones, here they are: Get Rid of Your Old Habits​ Adjust Your Mindset​ Get Comfortable With Discomfort​ Train Smart​ Plan Your Training​ Prepare For Roadblocks​ Throughout this series, you had the chance to get my course Next Level Training 30% off. As we all live in different time zones and some of you are sleeping when this email goes out, the 30%...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anirudh-in-boden-s-den",
          "pubDate" : "Tue, 26 Dec 2023 08:00:00",
          "title" : "Anirudh: In Boden's Den"
-      },
-      {
-         "description" : " I've arrived in Samarkand for the 2023 World Rapid and Blitz, but there has been very little time for me to post an update. I spent around 36 hours traveling (mainly due to long lay overs between connections), before catching a few hours sleep on my arrival. The it was straight into the work of preparing for the tournament, which starts on the 26th. As with all these events, the first major task is seeing who has/hasn't arrived. With 320+ players across both sections, there is always a chance that some players do not make it. In some cases it is visa issues, while in at least one case, trying to by tickets at the last minute failed due to no seats left on the planes. So while the expected f",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapind-and-blitz-starts-today.html",
-         "pubDate" : "Mon, 25 Dec 2023 19:04:00",
-         "title" : "2023 World Rapid and Blitz - starts today"
       }
    ]
 }
