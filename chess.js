@@ -42,7 +42,7 @@ news_feed (
          "title" : "European Women's Rapid and Blitz Championship 2023: Alexandra Kosteniuk wins double gold"
       },
       {
-         "description" : "GM Anish Giri caught GM Alireza Firouzja in first place in round three of the 2024 Tata Steel Chess Tournament&#39;s Masters. The Dutchman defeated GM Alexander Donchenko and saw his compatriot GM Max Warmerdam holding Firouzja to a draw. Like the fir...",
+         "description" : "GM Anish Giri caught GM Alireza Firouzja in first place in round three of the 2024 Tata Steel Chess Tournament&#38;nbsp;Masters. The Dutchman defeated GM Alexander Donchenko and saw his compatriot GM Max Warmerdam hold Firouzja to a draw. As in the fi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-3",
