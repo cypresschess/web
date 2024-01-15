@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On 15 January 1930 one of the strongest chess tournaments of the time began in the Italian resort of San Remo. 16 players took part, including the reigning world champion Alexander Alekhine and chess legends such as Aron Nimzowitsch, Akiba Rubinstein and Efim Bogoljubow. Alekhine won comfortably with 14 points from 15 games, achieving one of the greatest successes of his career. His third wife, Nadasha Vasilyev, probably played a major role in this and other Alekhine successes. | Photo: Alekhine and Nadascha in San Remo 1930 | Photo: https://audiovis.nac.gov.pl/",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/at-the-height-of-his-career-alekhine-wins-san-remo-1930-with-14-out-of-15",
+         "pubDate" : "Mon, 15 Jan 2024 20:00:00",
+         "title" : "At the height of his career: Alekhine wins San Remo 1930 with 14 out of 15"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
