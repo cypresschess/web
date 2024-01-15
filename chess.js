@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2841",
+         "pubDate" : "Sun, 14 Jan 2024 22:26:42",
+         "title" : "Tata Steel Masters 2024: Firouzja grabs the lead"
+      },
+      {
+         "description" : " The African-American Chess Association (Facebook) recently posted a podcast conversation of hip-hop artists discussing chess. Chess and hip-hop have a long history. Young Guru (Gimel Keaton) weighed in on whether chess is a metaphor for life or if it is a strategy game. A short, but spirited debate occurred. The Delaware native is known for The post <a href=\"https://www.thechessdrum.net/blog/2024/01/14/is-chess-a-life-game/\">Is Chess a &#8220;Life Game&#8221;?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/01/14/is-chess-a-life-game/",
+         "pubDate" : "Sun, 14 Jan 2024 20:37:37",
+         "title" : "Is Chess a \"Life Game\"?"
+      },
+      {
          "description" : " Alireza Firouzja beat Parham Maghsoodloo in the second round of the Tata Steel Masters and ended up being the only player on 100% after two rounds. It looked to me like Maghsoodloo forgot his theory and was then just lost. There were wins for Gukesh and Max Warmerdam too as the event continues to excite. Praggnanandhaa drew against Abdusattorov, Ding drew against Donchenko, Giri drew against Vidit and the Nepomniachtchi against Ju Wenjun game was the last to finish, also in a draw. Round 2 Standings: 1st Firouzja 2pts 2nd-4th\tGukesh,\tGiri, Nepomniachtchi 1.5pts 5th-10th Warmerdam, Vidit, Praggnanandhaa, Abdusattorov, Wei Yi, Ding Liren 1pt 11th-13th Ju Wenjun. Donchenko, Maghsoodloo 0.5pts ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/ding-returns.html",
          "pubDate" : "Sun, 14 Jan 2024 12:44:00",
          "title" : "Ding Returns"
+      },
+      {
+         "description" : "After scoring 7/7 in Rouen to secure qualification for the upcoming Candidates tournament, GM Alireza Firouzja has continued his winning ways in Wijk aan Zee. The French-Iranian grandmaster on Sunday defeated GM Parham Maghsoodloo and is the only ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-2",
+         "pubDate" : "Sun, 14 Jan 2024 12:41:00",
+         "title" : "Firouzja Moves To 2/2 In Tata Steel Chess Masters"
       },
       {
          "description" : "Chess legend Vlastimil Hort turned 80 on Friday. In a short interview, he talks about when and how he learned to play chess, which player he admired the most, why he left the Czechoslovak Socialist Republic and what he thinks of online chess tournaments. | See also: Vlastimil Hort, the great chess entertainer, turns 80! by Eduard Frey",
@@ -840,14 +864,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/day7-success-stories/",
          "pubDate" : "Fri, 29 Dec 2023 14:03:43",
          "title" : "Day 7 - Real Chess Improvement Success Stories"
-      },
-      {
-         "description" : "GMs Vladislav Artemiev, Magnus Carlsen, &#38;nbsp;Maxime Vachier-Lagrave, Nihal Sarin, Arjun Erigaisi, and Alexander Riazantsev scored nine points apiece to share the lead at the end of day one of the 2023 FIDE World Blitz Chess Championship. The sixt...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-blitz-chess-championship-day-1",
-         "pubDate" : "Fri, 29 Dec 2023 09:54:00",
-         "title" : "Dubov, Nepomniachtchi Punished As 6 Lead; Gunina Dazzles With 8.5/9"
       },
       {
          "description" : "Today we provide you with a master-level lesson. Leonid Ivanovich Kubbel, born in 1891 in St. Petersburg, Russia, was one of the greatest composers in chess history. One of the greatest composers of our time was GM Pal Benk&ouml;, born in 1928, died in 2019. The latter shows us how he improved on one of the most famous studies of all time, composed by the former.",
