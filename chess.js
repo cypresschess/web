@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2843",
+         "pubDate" : "Mon, 15 Jan 2024 14:44:18",
+         "title" : "FIDE publishes the regulations for 2024 World Candidates Tournaments"
+      },
+      {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Mon, 15 Jan 2024 13:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2842",
+         "pubDate" : "Mon, 15 Jan 2024 12:48:24",
+         "title" : "European Women's Rapid and Blitz Championship 2023: Alexandra Kosteniuk wins double gold"
+      },
+      {
          "description" : "Every chess player likes to attack. Every chess player likes to put pressure on their opponent. But when the tables are turned, and we become the target of an attack, we may feel uncomfortable, anxious, and insecure. Yet, we can save an incredible number of defensive positions if we know the techniques and rules-of-thumb.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +50,20 @@ news_feed (
          "title" : "Alexandra Kosteniuk wins double gold at European Women's Rapid & Blitz Chess Championship 2023"
       },
       {
-         "description" : "Alireza Firouzja became the first sole leader in this year's Tata Steel Masters after beating Parham Maghsoodloo with white in the second round - the Frenchman is the only player who started the event with back-to-back victories. Gukesh D. and Max Warmerdam also grabbed wins on Sunday. Meanwhile, in the Challengers, five players are sharing first place with 1&frac12;/2 points. | Photo: Tata Steel Chess Tournament / Lenart Ootes",
+         "description" : "Alireza Firouzja became the first sole leader in this year's Tata Steel Masters after beating Parham Maghsoodloo with white in the second round - the Frenchman is the only player who started the event with back-to-back victories. Gukesh D. and Max Warmerdam also grabbed wins on Sunday. Meanwhile, in the Challengers, five players are sharing first place with 1&frac12;/2 points. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r2",
          "pubDate" : "Mon, 15 Jan 2024 08:05:00",
          "title" : "Tata Steel Chess R2: Firouzja leads with 2 out of 2"
+      },
+      {
+         "description" : "Tired of playing the same opening every time, but don&#39;t know where to start? Here&#39;s a great new way to expand your repertoire and get comfortable with different openings: Opening Roulette! Aimed specifically at chess improvers seeking to broaden...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/introducing-opening-roulette",
+         "pubDate" : "Mon, 15 Jan 2024 08:00:00",
+         "title" : "Introducing Opening Roulette"
       },
       {
          "description" : "",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/firouzja-leads-the-tata-steel-masters-alone-on-22",
          "pubDate" : "Sun, 14 Jan 2024 18:58:00",
          "title" : "Firouzja leads the Tata Steel Masters alone on 2/2 - 2"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 160th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and talks about the David Bronstein and his famous book about the Candidates Tournament Zurich 1953. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-160-chess-history-in-a-nutshell-41",
-         "pubDate" : "Sun, 14 Jan 2024 15:00:00",
-         "title" : "Understanding before Moving 160: Chess history in a nutshell (41)"
       },
       {
          "description" : " After an extended post-world championship layoff, Ding Liren has returned to international chess. He is taking part in the Tata Steel masters, which began yesterday in The Netherlands. His first round opponent was Vidit (IND), and the game ended in a draw. I'm not sure if there were signs of Ding being a little rusty, as I thought White stood better for a lot of the game, although by the end, a draw was the correct result. Tata Steel is slightly unusual (at least these days) in that the players in the top section aren't all 2800+ GM's. This leads to some more combative games, as even missed half points against the back markers can affect the final outcomes. Curiously, the first round saw 4 ",
@@ -856,14 +880,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/firouzja-wesley-so-candidates-rouen",
          "pubDate" : "Fri, 29 Dec 2023 18:17:00",
          "title" : "Firouzja Overtakes Wesley So To Grab Candidates Rating Spot"
-      },
-      {
-         "description" : "Beginning in 2024, multiple Chess.com prize events will restrict draw offers until after move 30, and our bullet chess prize events will restrict draw offers for the entire game. While there is no doubt that a draw is a perfectly valid outcome i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-restricts-draw-offers-in-prize-events",
-         "pubDate" : "Fri, 29 Dec 2023 17:42:00",
-         "title" : "Chess.com Restricts Draw Offers In Multiple Prize Events"
       },
       {
          "description" : "Happy Holidays! This is the last part of my 7-day Newsletter series to prepare you for a successful 2024. If you want to check out the previous ones, here they are: Get Rid of Your Old Habits​ Adjust Your Mindset​ Get Comfortable With Discomfort​ Train Smart​ Plan Your Training​ Prepare For Roadblocks​ Throughout this series, you had the chance to get my course Next Level Training 30% off. As we all live in different time zones and some of you are sleeping when this email goes out, the 30%...",
