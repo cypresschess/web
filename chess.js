@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Every chess player likes to attack. Every chess player likes to put pressure on their opponent. But when the tables are turned, and we become the target of an attack, we may feel uncomfortable, anxious, and insecure. Yet, we can save an incredible number of defensive positions if we know the techniques and rules-of-thumb.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/harald-schneider-zinner-fortify-your-defences",
+         "pubDate" : "Mon, 15 Jan 2024 12:00:00",
+         "title" : "Harald Schneider-Zinner: Fortify your defences"
+      },
+      {
+         "description" : "The term was first used by Fred Reinfeld and Irving Chernev, in 1933. It is a chess tactic in which a player, instead of playing the expected move (commonly a recapture), first interposes another move posing an immediate threat that the opponent must answer, and only then plays the expected move. Leading chess trainer and analyst, GM Efstratios Grivas, tells us how this tactical manoeuvre works.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/zwischenzug-the-intermediate-move",
+         "pubDate" : "Mon, 15 Jan 2024 12:00:00",
+         "title" : "Zwischenzug - the intermediate move"
+      },
+      {
+         "description" : "European Women's Rapid and Blitz Chess Championship 2023 took place from 11-15 January 2024 in Monte-Carlo, Monaco, gathering 120 players from 26 European federations. Alexandra Kosteniuk emerged as the Winner of both Rapid and Blitz tournaments, taking the historical double gold. European Women's Blitz Chess Championship 2023 was played on 12th of January, with 13 single rounds (swiss system). Heading into the last round of the Blitz Championship, Alexandra Kosteniuk had a sole lead, being a whole point ahead of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/alexandra-kosteniuk-wins-double-gold-at-european-womens-rapid-blitz-chess-championship-2023/",
+         "pubDate" : "Mon, 15 Jan 2024 11:20:13",
+         "title" : "Alexandra Kosteniuk wins double gold at European Women's Rapid & Blitz Chess Championship 2023"
+      },
+      {
          "description" : "Alireza Firouzja became the first sole leader in this year's Tata Steel Masters after beating Parham Maghsoodloo with white in the second round - the Frenchman is the only player who started the event with back-to-back victories. Gukesh D. and Max Warmerdam also grabbed wins on Sunday. Meanwhile, in the Challengers, five players are sharing first place with 1&frac12;/2 points. | Photo: Tata Steel Chess Tournament / Lenart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,22 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-2",
          "pubDate" : "Sun, 14 Jan 2024 12:41:00",
          "title" : "Firouzja Moves To 2/2 In Tata Steel Chess Masters"
-      },
-      {
-         "description" : "Chess legend Vlastimil Hort turned 80 on Friday. In a short interview, he talks about when and how he learned to play chess, which player he admired the most, why he left the Czechoslovak Socialist Republic and what he thinks of online chess tournaments. | See also: Vlastimil Hort, the great chess entertainer, turns 80! by Eduard Frey",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vlastimil-hort-interview-2024",
-         "pubDate" : "Sun, 14 Jan 2024 10:00:00",
-         "title" : "Vlastimil Hort: \"My most interesting encounter was with Paul Keres\""
-      },
-      {
-         "description" : "For organisational reasons, the 2023 edition of the European Women's Rapid and Blitz Championship is being held in 2024: the blitz tournament on Friday (12 January) and the rapid tournament on Saturday and Sunday (13 and 14 January). The venue is the Novotel Hotel in Monaco. | Follow the games live with expert commentary starting at 10.00 CET (4.00 ET, 14.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-women-rapid-blitz-2023-live",
-         "pubDate" : "Sun, 14 Jan 2024 09:45:00",
-         "title" : "European Women's Rapid Championship - Live!"
       },
       {
          "description" : "",
@@ -1056,22 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2819",
          "pubDate" : "Mon, 25 Dec 2023 17:14:01",
          "title" : "Uzbekistan's chess renaissance: 2023 World Rapid and Blitz Championships officially opened in Samarkand"
-      },
-      {
-         "description" : "Merry Christmas to one and all! Last year's Christmas post was <A HREF=\"https://chessforallages.blogspot.com/2022/12/not-dickens-christmas-story.html\">Not the Dickens Christmas Story</A> (December 2022). This year Christmas falls on a Monday, which happens to coincide with a new series last seen in <A HREF=\"https://chessforallages.blogspot.com/2023/12/chessman-comics.html\">Chessman Comics</A> (December 2023). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-nl25.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Santa Claus plays chess with foxes.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> For more chess-playing foxes, see <A HREF=\"http://chess960frc.blogspot.com/2",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/foxy-christmas-chess.html",
-         "pubDate" : "Mon, 25 Dec 2023 10:58:00",
-         "title" : "Foxy Christmas Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2818",
-         "pubDate" : "Mon, 25 Dec 2023 10:22:07",
-         "title" : "FIDE Council approves changes in tournament registration procedure"
       }
    ]
 }
