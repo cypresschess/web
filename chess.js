@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapind-and-blitz-starts-today.html",
          "pubDate" : "Mon, 25 Dec 2023 19:04:00",
          "title" : "2023 World Rapid and Blitz - starts today"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2819",
-         "pubDate" : "Mon, 25 Dec 2023 17:14:01",
-         "title" : "Uzbekistan's chess renaissance: 2023 World Rapid and Blitz Championships officially opened in Samarkand"
       }
    ]
 }
