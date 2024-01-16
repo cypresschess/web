@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arnold Schwarzenegger is well known for his love of chess. The Terminator actor and former governor of California has now found a chess partner who is also a physical match for him - \"The Incredible Hulk\". | Photo: Arnold Schwarzenegger",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-terminator-vs-the-incredible-hulk",
+         "pubDate" : "Tue, 16 Jan 2024 12:00:00",
+         "title" : "\"The Terminator\" vs. \"The Incredible Hulk\""
+      },
+      {
          "description" : "Defending champion Anish Giri joined Alireza Firouzja in the lead of the Tata Steel Masters after beating Alexander Donchenko with the black pieces. Full points were also scored by Ding Liren, Nodirbek Abdusattorov and Jorden van Foreest - all three grabbed their first wins of the event. In the Challengers, six players are sharing first place with 2/3 points following a round that saw five out of seven games ending decisively. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
