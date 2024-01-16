@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Defending champion Anish Giri joined Alireza Firouzja in the lead of the Tata Steel Masters after beating Alexander Donchenko with the black pieces. Full points were also scored by Ding Liren, Nodirbek Abdusattorov and Jorden van Foreest - all three grabbed their first wins of the event. In the Challengers, six players are sharing first place with 2/3 points following a round that saw five out of seven games ending decisively. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r3",
+         "pubDate" : "Tue, 16 Jan 2024 06:05:00",
+         "title" : "Tata Steel Chess R3: Giri joins Firouzja in the lead, Ding beats Gukesh"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2843",
          "pubDate" : "Mon, 15 Jan 2024 14:44:18",
          "title" : "FIDE publishes the regulations for 2024 World Candidates Tournaments"
-      },
-      {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Mon, 15 Jan 2024 13:55:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "",
@@ -80,14 +80,6 @@ news_feed (
          "link" : "https://www.europechess.org/alexandra-kosteniuk-wins-double-gold-at-european-womens-rapid-blitz-chess-championship-2023/",
          "pubDate" : "Mon, 15 Jan 2024 11:20:13",
          "title" : "Alexandra Kosteniuk wins double gold at European Women's Rapid & Blitz Chess Championship 2023"
-      },
-      {
-         "description" : "Alireza Firouzja became the first sole leader in this year's Tata Steel Masters after beating Parham Maghsoodloo with white in the second round - the Frenchman is the only player who started the event with back-to-back victories. Gukesh D. and Max Warmerdam also grabbed wins on Sunday. Meanwhile, in the Challengers, five players are sharing first place with 1&frac12;/2 points. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r2",
-         "pubDate" : "Mon, 15 Jan 2024 08:05:00",
-         "title" : "Tata Steel Chess R2: Firouzja leads with 2 out of 2"
       },
       {
          "description" : "Tired of playing the same opening every time, but don&#39;t know where to start? Here&#39;s a great new way to expand your repertoire and get comfortable with different openings: Opening Roulette! Aimed specifically at chess improvers seeking to broaden...",
@@ -1080,14 +1072,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/that-did-not-start-that-badly.html",
          "pubDate" : "Tue, 26 Dec 2023 11:53:00",
          "title" : "That did not start that badly"
-      },
-      {
-         "description" : "Playing chess is an immensely popular activity. Solving chess problems is also very enjoyable. But how about composing problems? During our revived Christmas Puzzle week, we want to discuss different methods of how to compose your very own chess problem! We ask you to give it a try yourself. Submit your own composition and win some great prizes!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anirudh-in-boden-s-den",
-         "pubDate" : "Tue, 26 Dec 2023 08:00:00",
-         "title" : "Anirudh: In Boden's Den"
       }
    ]
 }
