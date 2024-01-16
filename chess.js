@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last Tuesday, this young lad turned 15. Shreyas Royal gained his IM title in 2022, the youngest English player to do this. As a result he was invited to the London Chess Classic in December. There he was the lowest ranked player, but finished with 2630 performance, 226 points above his FIDE rating. In the Hastings Congress he missed his third GM norm by a whisker. It is time to take a closer look at this bright young talent, from whom we will be hearing a lot in the future. | Photo: Olympics.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gm-candidate-shreyas-turns-15",
+         "pubDate" : "Tue, 16 Jan 2024 20:00:00",
+         "title" : "GM candidate Shreyas turns 15!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-terminator-vs-the-incredible-hulk",
          "pubDate" : "Tue, 16 Jan 2024 12:00:00",
          "title" : "\"The Terminator\" vs. \"The Incredible Hulk\""
+      },
+      {
+         "description" : "For the first time in his career, GM Praggnanandhaa Rameshbabu took the number one spot among Indian players in the live ratings today. The 18-year-old prodigy from Chennai beat World Champion Ding Liren at the 2024 Tata Steel Chess Tournament tod...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-4",
+         "pubDate" : "Tue, 16 Jan 2024 11:48:00",
+         "title" : "Praggnanandhaa Defeats World Champion Ding, Passes Anand To Become #1 In India"
       },
       {
          "description" : "Defending champion Anish Giri joined Alireza Firouzja in the lead of the Tata Steel Masters after beating Alexander Donchenko with the black pieces. Full points were also scored by Ding Liren, Nodirbek Abdusattorov and Jorden van Foreest - all three grabbed their first wins of the event. In the Challengers, six players are sharing first place with 2/3 points following a round that saw five out of seven games ending decisively. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "https://aicf.in/14th-chennai-gm-open-live-games-link/",
          "pubDate" : "Sun, 31 Dec 2023 07:06:15",
          "title" : "14th Chennai GM Open LIVE Games LINK"
-      },
-      {
-         "description" : "Titled Tuesdays have already been ramped up massively with the launch of the new Titled Cup, the $100,000 grand prix-style umbrella event to make our weekly tournaments in 2024 even more fierce. But if that isn&#39;t enough to get you tuning in on T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-prophet-the-fantasy-chess-game-for-titled-tuesdays",
-         "pubDate" : "Sun, 31 Dec 2023 06:14:11",
-         "title" : "Fantasy Sports Are Here: Magnus Carlsen's 'Chess Prophet' Launches For Titled Cup 2024"
       },
       {
          "description" : "",
