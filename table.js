@@ -1,10 +1,12 @@
 jtable([
 "HOUSTON","2024-01-13","12","<a href=http://www.uschess.org/msa/XtblMain.php?202401139362 target='_blank'>JANUARY 13TH SCHOLASTIC</a>",
+"HOUSTON","2024-01-13","13","<a href=http://www.uschess.org/msa/XtblMain.php?202401139142 target='_blank'>KINGWOOD BLITZ KNIGHTS 0124</a>",
 "HOUSTON","2024-01-13","140","<a href=http://www.uschess.org/msa/XtblMain.php?202401138772 target='_blank'>WHARTON ACADEMY SCHOLASTIC</a>",
 "HOUSTON","2024-01-13","10","<a href=http://www.uschess.org/msa/XtblMain.php?202401130132 target='_blank'>CHESSPANDA01132024SATURDAY--ALL</a>",
 "HOUSTON","2024-01-12","32","<a href=http://www.uschess.org/msa/XtblMain.php?202401128472 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-01-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401128462 target='_blank'>FBCC 2024 NEW YEAR OPEN</a>",
 "HOUSTON","2024-01-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401128392 target='_blank'>REBECCA CHESS CLUB QUADS JANUARY 12, 2024</a>",
+"CYPRESS","2024-01-12","28","<a href=http://www.uschess.org/msa/XtblMain.php?202401120282 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-01-05  - 01-07","73","<a href=http://www.uschess.org/msa/XtblMain.php?202401076542 target='_blank'>$3,000 JAN 2024 CHAMPIONSHIP</a>",
 "CYPRESS","2024-01-06","34","<a href=http://www.uschess.org/msa/XtblMain.php?202401065752 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-01-05","36","<a href=http://www.uschess.org/msa/XtblMain.php?202401055412 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-06-02  - 06-30","10","<a href=http://www.uschess.org/msa/XtblMain.php?202306300392 target='_blank'>REBECCA CHESS CLUB JUNE MONTHLY SWI</a>",
 "HOUSTON","2023-06-30","17","<a href=http://www.uschess.org/msa/XtblMain.php?202306300352 target='_blank'>REBECCA CHESS CLUB QUADS JUNE 30, 2023</a>",
 "HOUSTON","2023-06-06  - 06-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202306278942 target='_blank'>JUNE 2023 TUESDAY NIGHT SWISS</a>",
-"LEAGUE CITY","2023-06-05  - 06-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202306268132 target='_blank'>CLCC JUNE MONDAYS</a>",
-"HOUSTON","2023-06-24  - 06-25","101","<a href=http://www.uschess.org/msa/XtblMain.php?202306257162 target='_blank'>TCR: HOUSTON CITY CHAMPIONSHIP 2023</a>",
 ]);
