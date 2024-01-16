@@ -1080,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2820",
          "pubDate" : "Tue, 26 Dec 2023 21:04:14",
          "title" : "Action-packed start to World Rapid Championships in Samarkand"
-      },
-      {
-         "description" : "The 25th Asian Youth Chess Championships were held at the Al Ain Convention Centre, Al Ain, United Arab Emirates, from 13th to 21st December, 2023.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/report-on-the-asian-youth-chess-championships-2023/",
-         "pubDate" : "Tue, 26 Dec 2023 17:01:31",
-         "title" : "Report on the Asian Youth Chess Championships, 2023."
       }
    ]
 }
