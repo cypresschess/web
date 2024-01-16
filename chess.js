@@ -18,6 +18,14 @@ news_feed (
          "title" : "Tata Steel Chess R3: Giri joins Firouzja in the lead, Ding beats Gukesh"
       },
       {
+         "description" : "GM Nijat Abasov was seeded 69th in the 2023 FIDE World Cup, but defied expectations and clinched a sensational fourth place to propel himself into the limelight. The Azerbaijani grandmaster has now been given a monumental opportunity as he&#39;s taken...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abasov-on-replacing-carlsen",
+         "pubDate" : "Tue, 16 Jan 2024 03:51:00",
+         "title" : "Abasov On Replacing Carlsen In Candidates: \"Now I Hope For Big Things\""
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -890,14 +898,6 @@ news_feed (
          "title" : "Christmas puzzles, fun to solve"
       },
       {
-         "description" : "GM Magnus Carlsen scored six consecutive wins in rounds 14-19 setting the tone of the second and final day at the 2023 FIDE World Blitz Chess Championship. It helped him capture the lead and win his seventh title after draws in the final two round...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-fide-world-blitz-chess-championship-day-2",
-         "pubDate" : "Sat, 30 Dec 2023 06:26:00",
-         "title" : "Carlsen Wins 7th World Blitz Championship, Gunina Wins Women's"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/day4-strategic-chess-training/",
          "pubDate" : "Tue, 26 Dec 2023 14:13:54",
          "title" : "Day 4 - Strategic Chess Training: Maximize Impact with the 80/20 Principle"
-      },
-      {
-         "description" : " Round 2 of the 2023 World Rapid and Blitz has begun, after the 1st round saw a number of upset results. The top 4 boards were all drawn, with Lev Aronian being the highest seeded player to collect the full point. This also the other top seeds disappear into mid-tables, with the exception of Magnus Carlsen, who gets to play on board 1 regardless of his score. As for my job as Pairings Officer, things went quite smoothly. Everyone turned up, which is quite remarkable for an event of this size, and the first round results were processed both efficiently and accurately. The only delay was caused by displaying the next round pairings, which relied on getting the giant TV's in the playing hall to",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/that-did-not-start-that-badly.html",
-         "pubDate" : "Tue, 26 Dec 2023 11:53:00",
-         "title" : "That did not start that badly"
       }
    ]
 }
