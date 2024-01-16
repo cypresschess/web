@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2845",
+         "pubDate" : "Tue, 16 Jan 2024 16:01:11",
+         "title" : "The fourth edition of Queens' Festival returns in March 2024"
+      },
+      {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Tue, 16 Jan 2024 13:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : " Another round of Tata Steel, another set of wins for Black. If I can count correctly, there have been 10 black wins and only 1 white win over the first 21 games. Is it because White is over pressing? Have a lot of White opening lines been sorted out? or just a quirk in the pairings? <br /> <b>Donchenko,Alexander (2643) - Giri,Anish (2749) [E60]</b><br /> Tata Steel Masters 2024 Wijk aan Zee, Netherlands (3.2), 15.01.2024 <script> new PgnViewer( { boardName: \"game1438\", movesFormat: \"default\", pgnString:'1.d4 d6 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.c4 Bf5 6.Qb3 Qc8 7.Nc3 Nc6 8.d5 Nd8 9.O-O O-O 10.Re1 Ne4 11.Nxe4 Bxe4 12.Bd2 b6 13.Bc3 e5 14.dxe6 Nxe6 15.Bxg7 Kxg7 16.Qc3+ Kg8 17.Nd4 Bxg2 18.Kxg2 Ng5 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/black-is-more-than-ok.html",
+         "pubDate" : "Tue, 16 Jan 2024 12:37:00",
+         "title" : "Black is more than OK"
+      },
+      {
          "description" : "Arnold Schwarzenegger is well known for his love of chess. The Terminator actor and former governor of California has now found a chess partner who is also a physical match for him - \"The Incredible Hulk\". | Photo: Arnold Schwarzenegger",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,7 +138,7 @@ news_feed (
          "title" : "Tata Steel Masters 2024: Firouzja grabs the lead"
       },
       {
-         "description" : " The African-American Chess Association (Facebook) recently posted a podcast conversation of hip-hop artists discussing chess. Chess and hip-hop have a long history. Young Guru (Gimel Keaton) weighed in on whether chess is a metaphor for life or if it is a strategy game. A short, but spirited debate occurred. The Delaware native is known for The post <a href=\"https://www.thechessdrum.net/blog/2024/01/14/is-chess-a-life-game/\">Is Chess a &#8220;Life Game&#8221;?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The African-American Chess Association (Facebook) recently posted a podcast conversation of hip-hop artists discussing chess. Chess and hip-hop have a long history and are heard in many classic songs. Young Guru (Gimel Keaton) weighed in on whether chess is a metaphor for life or if it is a strategy game. A short, but spirited debate The post <a href=\"https://www.thechessdrum.net/blog/2024/01/14/is-chess-a-life-game/\">Is Chess a &#8220;Life Game&#8221;?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/01/14/is-chess-a-life-game/",
@@ -186,6 +210,14 @@ news_feed (
          "title" : "Bortnyk Battles His Way To 4th Bullet Brawl Title"
       },
       {
+         "description" : "&#8220;After our last session, I had trouble walking straight for 2 days, it felt like I re-lived the symptoms of my Concussion,&#8221; I told my therapists two weeks ago. Her answer? &#8220;Great.&#8221; And Barbara is right. This is great news. For my long-term recovery. As a great therapist, she understands an important mechanism: If you []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/overcome-plateau/",
+         "pubDate" : "Sat, 13 Jan 2024 14:00:00",
+         "title" : "How To Overcome A Plateau In Chess Improvement"
+      },
+      {
          "description" : "Black was more than OK in Saturday&#39;s opening round of the 2024 Tata Steel Chess Tournament&#38;nbsp;as GMs Alireza Firouzja, Anish Giri, Ian Nepomniachtchi, and Wei Yi all started with wins with the black pieces. The Challengers group also saw four de...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -200,6 +232,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
          "pubDate" : "Fri, 12 Jan 2024 20:45:46",
          "title" : "Chess: Bodhana Sivanandan dazzles at European Women's Blitz Championship"
+      },
+      {
+         "description" : "Invite your friends over for a chess party because we&#39;ve got something you&#39;ll want to vibe to: SHAREABLE TOURNAMENTS! Now you have the chance to make an Arena or Swiss-tournament-cheese sandwich instantly to share with anyone and everyone! Let&#39;s t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-shareable-tournaments",
+         "pubDate" : "Fri, 12 Jan 2024 15:22:00",
+         "title" : "Shareable Tournaments Now On Chess.com"
       },
       {
          "description" : " The first ACT Chess Association event of the year was held at the Canberra Chess Club yesterday evening (11 Jan). The ACT Lightning Championship traditionally starts the chess year in Canberra, and usually attracts a good turnout. The 2024 edition saw 35 players take part, with Harry Press winning with a perfect 9/9. He finished 2 points ahead of Andrew Mather and Willis Lo, with Malik Amer and Jordan Brown a further point back. The time limit of 3m+2s favoured the younger players, although Miles Patterson and Lee Forace flew the flag for the older generation, finishing on 5.5 (+2). The next ACTCA even should be the ACT Teams Championship, which is likely to be held in late February or earl",
@@ -858,14 +898,6 @@ news_feed (
          "title" : "2023 World Blitz Chess Champions: Magnus Carlsen and Valentina Gunina"
       },
       {
-         "description" : "Popular streamer GM Oleksandr Bortnyk raced away to win 2023&#39;s last&#38;nbsp;Bullet Brawl on 240 points ahead of GM Daniel Naroditsky (232) and GM Jose Martinez (210), who finished second and third respectively. Bortnyk&#39;s title is his third of the yea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortyk-wins-bullet-brawl-december-30-2023",
-         "pubDate" : "Sat, 30 Dec 2023 15:21:00",
-         "title" : "Bortnyk Bolts To 3rd Bullet Brawl Title"
-      },
-      {
          "description" : " The World Rapid and Blitz Championships took place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc. In the rapid Magnus Carlsen won his 5th title. In the women's Anastasia Bodnaruk beat Humpy Koneru in a blitz tie-break match to take the title. I was taken by surprise by the return of tie-break matches. Reading the version ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1056,22 +1088,6 @@ news_feed (
          "link" : "https://aicf.in/report-on-the-asian-youth-chess-championships-2023/",
          "pubDate" : "Tue, 26 Dec 2023 17:01:31",
          "title" : "Report on the Asian Youth Chess Championships, 2023."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106300019.cms\" />During the recent Sunway International chess tournament in Sitges, Spain, several leading Indian chess players, including GM Sankalp Gupta, faced a distressing ordeal due to multiple break-ins at their apartments, resulting in the loss of valuable belongings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-players-valuables-stolen-after-multiple-room-break-ins-in-spain/articleshow/106300019.cms",
-         "pubDate" : "Tue, 26 Dec 2023 15:57:48",
-         "title" : "Indian chess players' valuables stolen after multiple room break-ins in Spain"
-      },
-      {
-         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/day4-strategic-chess-training/",
-         "pubDate" : "Tue, 26 Dec 2023 14:13:54",
-         "title" : "Day 4 - Strategic Chess Training: Maximize Impact with the 80/20 Principle"
       }
    ]
 }
