@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106922488.cms\" />Rameshbabu Praggnanandhaa, an 18-year-old chess prodigy from India, has become the top-rated player in the country after a win over World champion Ding Liren at the 2024 Tata Steel Chess tournament. Cricket legend Sachin Tendulkar congratulated Praggnanandhaa on social media, expressing his admiration for his remarkable achievement and wishing him continued success in chess and bringing glory to India on the international stage.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/continue-to-bring-glory-sachin-tendulkar-hails-chess-prodigy-praggnanandhaa/articleshow/106922488.cms",
+         "pubDate" : "Wed, 17 Jan 2024 08:16:52",
+         "title" : "'Continue to bring glory...': Sachin hails Praggnanandhaa"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106917799.cms\" />Rameshbabu Praggnanandhaa, an 18-year-old chess prodigy, secured the top spot among India's players after defeating World champion Ding Liren at the 2024 Tata Steel Chess tournament. Praggnanandhaa, who started playing at the age of 5, expressed surprise at the outcome and emphasized the significance of defeating a world champion. He compared the first time winning against a world champion in classical chess to feeling good. Praggnanandhaa's victory over Liren was a significant achievement for the young chess sensation.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-indias-no1-chess-player-tata-steel-chess-2024/articleshow/106917799.cms",
+         "pubDate" : "Wed, 17 Jan 2024 05:53:17",
+         "title" : "Praggnanandhaa surpasses Anand, becomes India's No.1"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1064,22 +1080,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/day5-smart-chess-plan/",
          "pubDate" : "Wed, 27 Dec 2023 14:10:25",
          "title" : "Day 5 - Crafting Your SMART Winning Chess Plan"
-      },
-      {
-         "description" : "Let's say you find an interesting mating motif. Now you want to use it as the final position of a chess problem you will compose. The moves leading to it must be imaginative, clever and not very easy to find. But they must also be unique. There mustn't be alternative sets of move that lead to the final (or any) mate. For amateur composers, here's an example of a fellow amateur making a valid problem out of the position displayed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/composing-chess-problems",
-         "pubDate" : "Wed, 27 Dec 2023 08:00:00",
-         "title" : "Composing chess problems"
-      },
-      {
-         "description" : " Day 2 of the 2023 FIDE World Rapid and Blitz is starting shortly. Day 1 went well (at least from my perspective), with lots of exciting chess, and no major incidents. There were a number of upsets on the first day, with a number of very strong GM's suffering at the hands of some younger talents. Given the faster time limit, it was no surprise that the top boards saw a number of players outside the top 50 take their turn in the spotlight of the top boards. There will be 4 rounds today in both sections, starting at 9pm Canberra time. There has been a lot of effort put into the live coverage of the games, so you are pretty much spoiled for choice when it comes to watching the event. Below is o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapind-and-blitz-starting.html",
-         "pubDate" : "Wed, 27 Dec 2023 07:52:00",
-         "title" : "2023 World Rapind and Blitz - Starting day 2"
       }
    ]
 }
