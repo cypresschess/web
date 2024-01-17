@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-01-14","10","<a href=http://www.uschess.org/msa/XtblMain.php?202401140942 target='_blank'>ADULT QUADS - JAN 14 - G/75, D5 - N</a>",
 "HOUSTON","2024-01-13","12","<a href=http://www.uschess.org/msa/XtblMain.php?202401139362 target='_blank'>JANUARY 13TH SCHOLASTIC</a>",
 "HOUSTON","2024-01-13","13","<a href=http://www.uschess.org/msa/XtblMain.php?202401139142 target='_blank'>KINGWOOD BLITZ KNIGHTS 0124</a>",
 "HOUSTON","2024-01-13","140","<a href=http://www.uschess.org/msa/XtblMain.php?202401138772 target='_blank'>WHARTON ACADEMY SCHOLASTIC</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2023-06-30","25","<a href=http://www.uschess.org/msa/XtblMain.php?202306300442 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-06-02  - 06-30","10","<a href=http://www.uschess.org/msa/XtblMain.php?202306300392 target='_blank'>REBECCA CHESS CLUB JUNE MONTHLY SWI</a>",
 "HOUSTON","2023-06-30","17","<a href=http://www.uschess.org/msa/XtblMain.php?202306300352 target='_blank'>REBECCA CHESS CLUB QUADS JUNE 30, 2023</a>",
-"HOUSTON","2023-06-06  - 06-27","19","<a href=http://www.uschess.org/msa/XtblMain.php?202306278942 target='_blank'>JUNE 2023 TUESDAY NIGHT SWISS</a>",
 ]);
