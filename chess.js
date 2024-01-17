@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Many consider Garry Kasparov to be the greatest chess player of all time. As well as being a fantastic player, he has done a lot to promote the game of chess. In 2011, he founded the Kasparov Chess Foundation, a non-profit organisation that aims to bring the many benefits of chess to children and adults around the world. The recently launched Kasparov Chess Foundation Academy offers attractive courses to raise your level of play. There's still time to register!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/last-call-to-register-at-the-kasparov-chess-foundation-academy",
+         "pubDate" : "Wed, 17 Jan 2024 14:34:21",
+         "title" : "Last Call to Register at the Kasparov Chess Foundation Academy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2847",
+         "pubDate" : "Wed, 17 Jan 2024 13:50:23",
+         "title" : "20th International Solving Contest (ISC) announced"
+      },
+      {
          "description" : "As everybody knows by now, d5 is perhaps one of the best continuations for Black in the main variation of the Yugoslav attack. But more and more players accept the variation and try to swap off queens on d4 differently, by playing the knight to a4! Finally, a trendy move for White is now to move the g-pawn forward one square!? How to deal with this as a Dragon lover? Chris Ward knows the answer, and it leads to spectacular, beautiful outcomes, of course. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1096,14 +1112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/never-underestimate-the-royals-the-underdog",
          "pubDate" : "Wed, 27 Dec 2023 17:00:00",
          "title" : "Never underestimate the Royals! - The Underdog"
-      },
-      {
-         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (only 48 hours left!). This is the first sale since August, so take advantage of this rare opportunity. Get...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/day5-smart-chess-plan/",
-         "pubDate" : "Wed, 27 Dec 2023 14:10:25",
-         "title" : "Day 5 - Crafting Your SMART Winning Chess Plan"
       }
    ]
 }
