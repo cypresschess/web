@@ -1080,14 +1080,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapind-and-blitz-starting.html",
          "pubDate" : "Wed, 27 Dec 2023 07:52:00",
          "title" : "2023 World Rapind and Blitz - Starting day 2"
-      },
-      {
-         "description" : " Over a week ago, Africa crowned its Junior champions, with Hamed Wafa (Egypt) and Chahrazed Djeroud (Algeria) earning the continental titles. Thirteen federations sent representatives to Nouakchott, Mauritania, to vie for a place in chess history. Egypt and Algeria have dominated the proceedings in previous years, but several players from other federations were looking for The post <a href=\"https://www.thechessdrum.net/blog/2023/12/26/wafa-djeroud-win-african-juniors-2023/\">Wafa, Djeroud win African Juniors 2023!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/12/26/wafa-djeroud-win-african-juniors-2023/",
-         "pubDate" : "Wed, 27 Dec 2023 03:32:38",
-         "title" : "Wafa, Djeroud win African Juniors 2023!"
       }
    ]
 }
