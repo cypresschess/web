@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As everybody knows by now, d5 is perhaps one of the best continuations for Black in the main variation of the Yugoslav attack. But more and more players accept the variation and try to swap off queens on d4 differently, by playing the knight to a4! Finally, a trendy move for White is now to move the g-pawn forward one square!? How to deal with this as a Dragon lover? Chris Ward knows the answer, and it leads to spectacular, beautiful outcomes, of course. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-this-new-g3-variation-is-getting-quite-popular",
+         "pubDate" : "Wed, 17 Jan 2024 09:44:00",
+         "title" : "The Monthly Dragon - This new g3 variation is getting quite popular!"
+      },
+      {
+         "description" : "Grandmaster R Praggnandhaa registered a resounding win against the reigning World Campion Ding Liren of China in the fourth round of 86th Tata Steel Masters",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/grandmaster-r-praggnandhaa-beat-world-campion-ding-liren/",
+         "pubDate" : "Wed, 17 Jan 2024 09:25:18",
+         "title" : "Grandmaster R Praggnandhaa beat World Champion Ding Liren"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106922488.cms\" />Rameshbabu Praggnanandhaa, an 18-year-old chess prodigy from India, has become the top-rated player in the country after a win over World champion Ding Liren at the 2024 Tata Steel Chess tournament. Cricket legend Sachin Tendulkar congratulated Praggnanandhaa on social media, expressing his admiration for his remarkable achievement and wishing him continued success in chess and bringing glory to India on the international stage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -208,6 +224,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/firouzja-leads-the-tata-steel-masters-alone-on-22",
          "pubDate" : "Sun, 14 Jan 2024 18:58:00",
          "title" : "Firouzja leads the Tata Steel Masters alone on 2/2 - 2"
+      },
+      {
+         "description" : "From Youtube's 'Man City' (Manchester City) channel. For an introduction to the team, see <A HREF=\"https://en.wikipedia.org/wiki/Manchester_City_F.C.\">Manchester City F.C.</A> (wikipedia.org; 'This article is about the men's football club'). <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/S7aRMLJYHqo?si=5WI37UztmLLCjoNt\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>When Geniuses Meet | Pep meets Chess Grandmaster Magnus Carlsen</B> (11:54) &#149; '[Published on] Dec 12, 2023' <P> The description said, <BLOCKQUOTE> A must-watch en",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/man-city-and-magnus.html",
+         "pubDate" : "Sun, 14 Jan 2024 16:36:00",
+         "title" : "Man City and Magnus"
       },
       {
          "description" : " After an extended post-world championship layoff, Ding Liren has returned to international chess. He is taking part in the Tata Steel masters, which began yesterday in The Netherlands. His first round opponent was Vidit (IND), and the game ended in a draw. I'm not sure if there were signs of Ding being a little rusty, as I thought White stood better for a lot of the game, although by the end, a draw was the correct result. Tata Steel is slightly unusual (at least these days) in that the players in the top section aren't all 2800+ GM's. This leads to some more combative games, as even missed half points against the back markers can affect the final outcomes. Curiously, the first round saw 4 ",
