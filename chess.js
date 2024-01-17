@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2846",
+         "pubDate" : "Tue, 16 Jan 2024 23:15:42",
+         "title" : "Tata Steel Masters 2024: Anish Giri pulls ahead"
+      },
+      {
+         "description" : " Defending Champion Anish Giri got off to the ideal start by leading the Tata Steel Masters alone on 3.5/4 going into the first rest day on Wednesday. Giri beat Gukesh by showing the power of a small initiative with bishops of opposite colour even in a very simplified position. Gukesh fought hard but could not survive. World Champion Ding Liren was beaten in a theoretical duel by Praggnanandhaa who slowly outplayed him. Wei Yi exploited a bad error after first time control by Parham Maghsoodloo to win. Alexander Donchenko was winning against Ian Nepomniachtchi but failed to convert in the end and the game was drawn as was Alireza Firouzja against Nodirbek Abdusattorov, Jorden van Foreest aga",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/anish-giri-leads-the-tata-steel-masters-alone-on-3.54-going-into-the-first-rest-day",
+         "pubDate" : "Tue, 16 Jan 2024 22:42:00",
+         "title" : "Anish Giri leads the Tata Steel Masters alone on 3.5/4 going into the first rest day - 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on pawn breaks. 2024.01.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thaw-out-pawn-breaks-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oYUo7wiRJDw.jpg?itok=JqV7h02t\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/thaw-out-pawn-breaks-grandmasters-choice-gm-elshan-moradiabadi",
+         "pubDate" : "Tue, 16 Jan 2024 20:46:55",
+         "title" : "Thaw Out with Pawn Breaks! | Grandmaster's Choice - GM Elshan Moradiabadi"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan discusses the chess concept of space, and how to get more of it on the board. 2024.01.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/space-chess-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8f7wkJuyw58.jpg?itok=sMFFzA1_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/space-chess-beginner-breakdown-nm-ralph-tan",
+         "pubDate" : "Tue, 16 Jan 2024 20:46:55",
+         "title" : "Space in Chess | Beginner Breakdown - NM Ralph Tan"
+      },
+      {
          "description" : "Last Tuesday, this young lad turned 15. Shreyas Royal gained his IM title in 2022, the youngest English player to do this. As a result he was invited to the London Chess Classic in December. There he was the lowest ranked player, but finished with 2630 performance, 226 points above his FIDE rating. In the Hastings Congress he missed his third GM norm by a whisker. It is time to take a closer look at this bright young talent, from whom we will be hearing a lot in the future. | Photo: Olympics.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,20 +74,12 @@ news_feed (
          "title" : "\"The Terminator\" vs. \"The Incredible Hulk\""
       },
       {
-         "description" : "For the first time in his career, GM Praggnanandhaa Rameshbabu took the number one spot among Indian players in the live ratings today. The 18-year-old prodigy from Chennai beat World Champion Ding Liren at the 2024 Tata Steel Chess Tournament tod...",
+         "description" : "For the first time in his career, GM Praggnanandhaa Rameshbabu took the number-one spot among Indian players in the live ratings on Tuesday. The 18-year-old prodigy from Chennai beat World Champion Ding Liren at the 2024 Tata Steel Chess Tournamen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-4",
          "pubDate" : "Tue, 16 Jan 2024 11:48:00",
          "title" : "Praggnanandhaa Defeats World Champion Ding, Passes Anand To Become #1 In India"
-      },
-      {
-         "description" : "Defending champion Anish Giri joined Alireza Firouzja in the lead of the Tata Steel Masters after beating Alexander Donchenko with the black pieces. Full points were also scored by Ding Liren, Nodirbek Abdusattorov and Jorden van Foreest - all three grabbed their first wins of the event. In the Challengers, six players are sharing first place with 2/3 points following a round that saw five out of seven games ending decisively. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r3",
-         "pubDate" : "Tue, 16 Jan 2024 06:05:00",
-         "title" : "Tata Steel Chess R3: Giri joins Firouzja in the lead, Ding beats Gukesh"
       },
       {
          "description" : "GM Nijat Abasov was seeded 69th in the 2023 FIDE World Cup, but defied expectations and clinched a sensational fourth place to propel himself into the limelight. The Azerbaijani grandmaster has now been given a monumental opportunity as he&#39;s taken...",
@@ -1064,30 +1088,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/12/26/wafa-djeroud-win-african-juniors-2023/",
          "pubDate" : "Wed, 27 Dec 2023 03:32:38",
          "title" : "Wafa, Djeroud win African Juniors 2023!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky teaches a beginner chess class on attacks and defenses, including double attacks and forks. 2023.12.26<br /> Alex Yermolinsky vs. Kutkov, 1972<br /> Yermolinsky vs. Kulikov, 1972<br /> Yermolinsky vs. Melikov, 1972 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attacks-defenses-beginner-breakdown-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumb",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/attacks-defenses-beginner-breakdown-gm-alex-yermolinsky",
-         "pubDate" : "Tue, 26 Dec 2023 23:28:45",
-         "title" : "Attacks & Defenses | Beginner Breakdown - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Alex Yermolinsky analyzes the best games from the first day (Rounds 1-5) of the 2023 World Rapid Chess Championship in Samarkand, Uzbekistan. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/best-world-rapid-championship-rounds-1-5-grandmasters-choice-gm-alex-yermolinsky\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q9Qb1G2wDWQ.jpg?itok=MGREbXxH\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/best-world-rapid-championship-rounds-1-5-grandmasters-choice-gm-alex-yermolinsky",
-         "pubDate" : "Tue, 26 Dec 2023 23:28:45",
-         "title" : "The Best of World Rapid Championship: Rounds 1-5 | Grandmaster's Choice - GM Alex Yermolinsky"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2820",
-         "pubDate" : "Tue, 26 Dec 2023 21:04:14",
-         "title" : "Action-packed start to World Rapid Championships in Samarkand"
       }
    ]
 }
