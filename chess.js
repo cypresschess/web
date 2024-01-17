@@ -18,7 +18,7 @@ news_feed (
          "title" : "Anish Giri leads the Tata Steel Masters alone on 3.5/4 going into the first rest day - 4"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on pawn breaks. 2024.01.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thaw-out-pawn-breaks-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oYUo7wiRJDw.jpg?itok=JqV7h02t\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on pawn breaks. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thaw-out-pawn-breaks-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oYUo7wiRJDw.jpg?itok=JqV7h02t\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/thaw-out-pawn-breaks-grandmasters-choice-gm-elshan-moradiabadi",
@@ -26,7 +26,7 @@ news_feed (
          "title" : "Thaw Out with Pawn Breaks! | Grandmaster's Choice - GM Elshan Moradiabadi"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan discusses the chess concept of space, and how to get more of it on the board. 2024.01.16 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/space-chess-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8f7wkJuyw58.jpg?itok=sMFFzA1_\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan discusses the chess concept of space, and how to get more of it on the board. A \"space advantage\" is one who controls a greater number of squares. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/space-chess-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8f7wkJuyw58.jpg?itok=sMFFzA1_\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/space-chess-beginner-breakdown-nm-ralph-tan",
