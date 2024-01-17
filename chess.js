@@ -18,6 +18,14 @@ news_feed (
          "title" : "20th International Solving Contest (ISC) announced"
       },
       {
+         "description" : "There is no drama, and all the players have been consulted&#38;mdash;that was the message from the world chess federation FIDE to dampen down any suggestion of controversy after the new regulations were released for its flagship Candidates tournament....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-reveals-shorter-games-for-women-in-the-candidates",
+         "pubDate" : "Wed, 17 Jan 2024 10:52:00",
+         "title" : "FIDE Reveals Shorter Games For Women In the Candidates"
+      },
+      {
          "description" : "As everybody knows by now, d5 is perhaps one of the best continuations for Black in the main variation of the Yugoslav attack. But more and more players accept the variation and try to swap off queens on d4 differently, by playing the knight to a4! Finally, a trendy move for White is now to move the g-pawn forward one square!? How to deal with this as a Dragon lover? Chris Ward knows the answer, and it leads to spectacular, beautiful outcomes, of course. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/grandmaster-r-praggnandhaa-beat-world-campion-ding-liren/",
          "pubDate" : "Wed, 17 Jan 2024 09:25:18",
          "title" : "Grandmaster R Praggnandhaa beat World Champion Ding Liren"
+      },
+      {
+         "description" : "As Titled Tuesday gets more crowded, with 700+ players in the early tournament and 500+ in the late tournament both of the last two weeks, ties atop the standings seem to be getting more commonplace. GM Maxime Vachier-Lagrave emerged from a five-w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-sarana-win-titled-tuesday-january-16-2024",
+         "pubDate" : "Wed, 17 Jan 2024 08:42:07",
+         "title" : "Tie-tled Tuesday Continues To Draw Crowds"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106922488.cms\" />Rameshbabu Praggnanandhaa, an 18-year-old chess prodigy from India, has become the top-rated player in the country after a win over World champion Ding Liren at the 2024 Tata Steel Chess tournament. Cricket legend Sachin Tendulkar congratulated Praggnanandhaa on social media, expressing his admiration for his remarkable achievement and wishing him continued success in chess and bringing glory to India on the international stage.",
@@ -802,14 +818,6 @@ news_feed (
          "title" : "Yosha Iglesias To Make History As 1st Transgender WIM, Pending FIDE Approval"
       },
       {
-         "description" : "Victory in the first Titled Tuesday tournaments of 2024, held January 2, went to two familiar faces. GM Maxime Vachier-Lagrave won the early event with 9.5 points and slightly better tiebreakers than GM Magnus Carlsen. Then, GM Hikaru Nakamura sco...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-nakamura-win-titled-tuesday-january-2-2024",
-         "pubDate" : "Wed, 03 Jan 2024 09:31:56",
-         "title" : "Nakamura Begins 2024 With Another Win, Leads Titled Cup"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi stretches classical players to their limits with less time on the clock. So, how good CAN you be in quick chess? 2024.01.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-good-you-can-be-fast-time-controls-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4q1XpMGRjWs.jpg?itok=zg9DljGy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/a-lot-of-games-to-look-at.html",
          "pubDate" : "Mon, 01 Jan 2024 13:08:00",
          "title" : "A lot of games to look at"
-      },
-      {
-         "description" : "Happy New Year! Ring in 2024 with New Year&#38;rsquo;s resolutions, new chess goals, and a brand-new set of bots for January. For the first time ever on Chess.com, the 16th undisputed World Chess Champion and number-one player in the world since 2011,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-magnus-carlsen-bots",
-         "pubDate" : "Mon, 01 Jan 2024 07:42:00",
-         "title" : "Play Chess Against Magnus Carlsen Bots"
       },
       {
          "description" : " Our chess highlights of 2023 will show how controversy served as the mainstay of headlines. We even saw a player busted for impersonating a woman! The Carlsen-Niemann controversy was still bubbling as the chess community saw a dismissal on one count of the $100 million lawsuit in June. FIDE finally released a statement and, on The post <a href=\"https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/\">The Chess Drum's Highlights of 2023</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1096,22 +1096,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-made-rapid-progress-in-2023/articleshow/106342767.cms",
          "pubDate" : "Thu, 28 Dec 2023 06:59:34",
          "title" : "Indian chess made rapid progress in 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2821",
-         "pubDate" : "Wed, 27 Dec 2023 20:21:19",
-         "title" : "WRB 2023 Day 2: Carlsen, Yu, and Fedoseev lead Open; Bodnaruk shines in Women's Rapid"
-      },
-      {
-         "description" : "Should there ever be an underrated underdog, it would be Shreyas Royal. In the London Chess Classics, the 14-year-old IM, had to face nine Grandmasters! With his ELO rating of 2404, he had a rating 200-350 lower than all other players. Still, he ended up with 4/9 points, finishing ahead of players like Moussard, Vitiugov, and McShane. Robert Ris shows us the game the young Brit played against Jules Moussard!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/never-underestimate-the-royals-the-underdog",
-         "pubDate" : "Wed, 27 Dec 2023 17:00:00",
-         "title" : "Never underestimate the Royals! - The Underdog"
       }
    ]
 }
