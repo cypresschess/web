@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-2.html",
          "pubDate" : "Thu, 28 Dec 2023 09:33:00",
          "title" : "2023 World Rapid and Blitz - Day 2"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106342767.cms\" />The momentum that began with the Chess Olympiad 2022 has indeed yielded positive results, as India has now established a strong presence in World Chess. While chess has consistently held a prominent position in government initiatives due to India's success in global age-group events, the significant impact of private sponsorship and the involvement of accomplished individuals in the development programme has become truly evident only recently. Vishy Anand has played a pivotal role in catalyzing this progress.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-chess-made-rapid-progress-in-2023/articleshow/106342767.cms",
-         "pubDate" : "Thu, 28 Dec 2023 06:59:34",
-         "title" : "Indian chess made rapid progress in 2023"
       }
    ]
 }
