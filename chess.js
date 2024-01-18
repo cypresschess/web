@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "No tournament player can do without the ChessBase Mega Database. But what do you need to know when setting it up on your PC? ChessBase expert Thomas Stark and Arne Kaehler show you everything you need to know about the new Mega Database 2024: Download, installation and, above all, the weekly game update, in which 5,000 new games are imported every week.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mega-database-essential-wisdom",
+         "pubDate" : "Thu, 18 Jan 2024 20:00:00",
+         "title" : "Mega Database - Essential wisdom!"
+      },
+      {
          "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/links-of-13th-14th-tn-im-norm-closed-circuit-chess-tournaments-chennai/",
          "pubDate" : "Thu, 18 Jan 2024 09:39:02",
          "title" : "Links of 13th & 14th TN IM Norm Closed Circuit Chess Tournaments - Chennai"
+      },
+      {
+         "description" : "Norway Chess always charms the year as one of the most compelling events to look out for, and 2024 is no different. Five-time winner and world number-one GM Magnus Carlsen, last year&#39;s winner GM Hikaru Nakamura, and the 17th World Champion GM Ding...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norway-chess-2024",
+         "pubDate" : "Thu, 18 Jan 2024 09:38:00",
+         "title" : "Norway Chess 2024 Returns With Women's Tournament Leveling Up Intrigue"
       },
       {
          "description" : "Please find &#160;live game link of&#160;1st Bangalore GM Tournament 2024 please do the needful Category A https://live.blrgmc.com/livea/ Category B https://live.blrgmc.com/liveb/",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "Caplin Hastings International Chess Congress - live commentary"
       },
       {
-         "description" : "FM Yosha Iglesias has etched her name in chess history as the first-ever transgender player to fulfill all the requirements for the woman international master title. The title has not been conferred yet and is pending FIDE&#39;s approval. The French...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yosha-iglesias-to-make-history-as-1st-transgender-wim",
-         "pubDate" : "Wed, 03 Jan 2024 13:19:00",
-         "title" : "Yosha Iglesias To Make History As 1st Transgender WIM, Pending FIDE Approval"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi stretches classical players to their limits with less time on the clock. So, how good CAN you be in quick chess? 2024.01.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-good-you-can-be-fast-time-controls-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4q1XpMGRjWs.jpg?itok=zg9DljGy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1080,22 +1088,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-3.html",
          "pubDate" : "Fri, 29 Dec 2023 07:15:00",
          "title" : "2023 World Rapid and Blitz - Day 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2823",
-         "pubDate" : "Thu, 28 Dec 2023 16:52:20",
-         "title" : "Magnus Carlsen does it again: Fifth World Rapid Chess Championship title for the Norwegian"
-      },
-      {
-         "description" : "So many problems, so little time. In last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2023/11/missing-yahoos.html\">Missing Yahoos</A> (November 2023; see the footnote below for an explanation of 'Yahoos'), I wrote, <BLOCKQUOTE> For the first time in the Yahoo series, Google News stopped including the names of all sources in its list of top stories, identifying those sources only with an icon, often unreadable. I had to add the names of many sources manually. [...] If this continues -- which it probably will -- I'll have to abandon the monthly Yahoo post. </BLOCKQUOTE> <P> Once again, this time for the month of December, the text names of many news sources were missing.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/yahoos-set-new-low.html",
-         "pubDate" : "Thu, 28 Dec 2023 16:42:00",
-         "title" : "Yahoos Set a New Low"
       }
    ]
 }
