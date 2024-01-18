@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Thu, 18 Jan 2024 13:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : " Gungahlin Chess Club is resuming next Tuesday, 23rd January. The first night is a bit of a casual meet and greet, with the more serious events starting the week after. If you have never played club chess before and you live in the close by (North Canberra, Gungahlin, Belconnen etc) then drop in to the Eastlakes Gungahlin Club (51 Hinder St Gungahlin) from 7pm on Tuesday. The following Tuesday sees the start of 2 events. The Gungahlin Junior Championship is for all players under 18 years old, while the Ramakrishna Memorial is for players 18 years and older. Both are 7 round events (one round per week), with a time limit of G60m+30s. The full years calendar is at <a href=\"https://sites.google",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/yahoos-set-new-low.html",
          "pubDate" : "Thu, 28 Dec 2023 16:42:00",
          "title" : "Yahoos Set a New Low"
-      },
-      {
-         "description" : "Happy Holidays! To help you prepare for a successful 2024 with lots of chess improvement, I will send out a 7-part newsletter series between Friday 22nd and Friday 29th. Each Email delivers important knowledge and reminds you to take action to help you get your Chess to the Next Level. Throughout this series, you can use code Holiday30 to get my course Next Level Training for 30% off (valid until Friday 29th, 3 PM CET). This is the first sale since August, so take advantage of this rare...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/day6-setbacks/",
-         "pubDate" : "Thu, 28 Dec 2023 14:04:55",
-         "title" : "Day 6 - Resilient Chess Training: Navigating Setbacks for Consistent Progress"
       }
    ]
 }
