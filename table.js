@@ -1,4 +1,5 @@
 jtable([
+"LEAGUE CITY","2024-01-03  - 01-17","5","<a href=http://www.uschess.org/msa/XtblMain.php?202401171902 target='_blank'>CLCC JANUARY WEDNESDAYS</a>",
 "HOUSTON","2024-01-14","10","<a href=http://www.uschess.org/msa/XtblMain.php?202401140942 target='_blank'>ADULT QUADS - JAN 14 - G/75, D5 - N</a>",
 "HOUSTON","2024-01-13","12","<a href=http://www.uschess.org/msa/XtblMain.php?202401139362 target='_blank'>JANUARY 13TH SCHOLASTIC</a>",
 "HOUSTON","2024-01-13","13","<a href=http://www.uschess.org/msa/XtblMain.php?202401139142 target='_blank'>KINGWOOD BLITZ KNIGHTS 0124</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2023-07-01","36","<a href=http://www.uschess.org/msa/XtblMain.php?202307010522 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-06-30","25","<a href=http://www.uschess.org/msa/XtblMain.php?202306300442 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-06-02  - 06-30","10","<a href=http://www.uschess.org/msa/XtblMain.php?202306300392 target='_blank'>REBECCA CHESS CLUB JUNE MONTHLY SWI</a>",
-"HOUSTON","2023-06-30","17","<a href=http://www.uschess.org/msa/XtblMain.php?202306300352 target='_blank'>REBECCA CHESS CLUB QUADS JUNE 30, 2023</a>",
 ]);
