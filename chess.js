@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri scored a second consecutive win to become the sole leader at the Tata Steel Masters in Wijk aan Zee. The defending champion defeated Gukesh D. with the white pieces. Two more games ended decisively in round 4: Wei Yi beat Parham Maghsoodloo, while Praggnanadhaa R. got the better of Ding Liren - Pragg had also beat Ding in the 2023 edition. In the Challengers, Hans Niemann, Anton Korobov and Erwin l'Ami are sharing the lead after winning their games on Tuesday. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r4",
+         "pubDate" : "Wed, 17 Jan 2024 23:40:00",
+         "title" : "Tata Steel Chess R4: Giri leads, Pragg takes down Ding"
+      },
+      {
          "description" : "Many consider Garry Kasparov to be the greatest chess player of all time. As well as being a fantastic player, he has done a lot to promote the game of chess. In 2011, he founded the Kasparov Chess Foundation, a non-profit organisation that aims to bring the many benefits of chess to children and adults around the world. The recently launched Kasparov Chess Foundation Academy offers attractive courses to raise your level of play. There's still time to register!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,28 +122,12 @@ news_feed (
          "title" : "The fourth edition of Queens' Festival returns in March 2024"
       },
       {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Tue, 16 Jan 2024 13:55:00",
-         "title" : "Tata Steel Chess - Live!"
-      },
-      {
          "description" : " Another round of Tata Steel, another set of wins for Black. If I can count correctly, there have been 10 black wins and only 1 white win over the first 21 games. Is it because White is over pressing? Have a lot of White opening lines been sorted out? or just a quirk in the pairings? <br /> <b>Donchenko,Alexander (2643) - Giri,Anish (2749) [E60]</b><br /> Tata Steel Masters 2024 Wijk aan Zee, Netherlands (3.2), 15.01.2024 <script> new PgnViewer( { boardName: \"game1438\", movesFormat: \"default\", pgnString:'1.d4 d6 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.c4 Bf5 6.Qb3 Qc8 7.Nc3 Nc6 8.d5 Nd8 9.O-O O-O 10.Re1 Ne4 11.Nxe4 Bxe4 12.Bd2 b6 13.Bc3 e5 14.dxe6 Nxe6 15.Bxg7 Kxg7 16.Qc3+ Kg8 17.Nd4 Bxg2 18.Kxg2 Ng5 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/01/black-is-more-than-ok.html",
          "pubDate" : "Tue, 16 Jan 2024 12:37:00",
          "title" : "Black is more than OK"
-      },
-      {
-         "description" : "Arnold Schwarzenegger is well known for his love of chess. The Terminator actor and former governor of California has now found a chess partner who is also a physical match for him - \"The Incredible Hulk\". | Photo: Arnold Schwarzenegger",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-terminator-vs-the-incredible-hulk",
-         "pubDate" : "Tue, 16 Jan 2024 12:00:00",
-         "title" : "\"The Terminator\" vs. \"The Incredible Hulk\""
       },
       {
          "description" : "For the first time in his career, GM Praggnanandhaa Rameshbabu took the number-one spot among Indian players in the live ratings on Tuesday. The 18-year-old prodigy from Chennai beat World Champion Ding Liren at the 2024 Tata Steel Chess Tournamen...",
@@ -160,14 +152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2844",
          "pubDate" : "Mon, 15 Jan 2024 23:11:25",
          "title" : "Tata Steel Masters 2024: Giri joins Firouzja in the lead"
-      },
-      {
-         "description" : "On 15 January 1930 one of the strongest chess tournaments of the time began in the Italian resort of San Remo. 16 players took part, including the reigning world champion Alexander Alekhine and chess legends such as Aron Nimzowitsch, Akiba Rubinstein and Efim Bogoljubow. Alekhine won comfortably with 14 points from 15 games, achieving one of the greatest successes of his career. His third wife, Nadasha Vasilyev, probably played a major role in this and other Alekhine successes. | Photo: Alekhine and Nadascha in San Remo 1930 | Photo: https://audiovis.nac.gov.pl/",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/at-the-height-of-his-career-alekhine-wins-san-remo-1930-with-14-out-of-15",
-         "pubDate" : "Mon, 15 Jan 2024 20:00:00",
-         "title" : "At the height of his career: Alekhine wins San Remo 1930 with 14 out of 15"
       },
       {
          "description" : " Anish Giri joined Alireza Firouzja in the lead by beating Alexander Donchenko with the black pieces using the Modern Defence. 17.Nd4 (17.Nd2) seemed to hand Giri a little initiative, 30.Rd3 (30.cxd5) gave ground but it was 35.Qd3? that led to the loss on move 41. Jorden van Foreest also used the Modern with black against Ju Wenjun, black got to be better but it was the sequence 32...Nd4 (32...Nf4 was better) 33.f6? (33.Rxd4 was a better try) 33...Bxe5 led to the win for Van Foreest. Ding Liren scored his first win with black in a manoeuvring Two Knights/Giuoco Piano with 4.d3 against Gukesh. 19.Rd2?! (19.Bd3!) seemed a misstep and 24.Re3 (24.Rxe8) appears to be the decisive error with Ding ",
