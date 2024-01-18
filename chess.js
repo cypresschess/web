@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Gungahlin Chess Club is resuming next Tuesday, 23rd January. The first night is a bit of a casual meet and greet, with the more serious events starting the week after. If you have never played club chess before and you live in the close by (North Canberra, Gungahlin, Belconnen etc) then drop in to the Eastlakes Gungahlin Club (51 Hinder St Gungahlin) from 7pm on Tuesday. The following Tuesday sees the start of 2 events. The Gungahlin Junior Championship is for all players under 18 years old, while the Ramakrishna Memorial is for players 18 years and older. Both are 7 round events (one round per week), with a time limit of G60m+30s. The full years calendar is at <a href=\"https://sites.google",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/gungahlin-chess-club-meet-and-greet.html",
+         "pubDate" : "Thu, 18 Jan 2024 11:46:00",
+         "title" : "Gungahlin Chess Club - Meet and greet"
+      },
+      {
+         "description" : "In real life, staying safe is often a good idea. A human being has almost always more to lose than to gain. By being a daredevil, you might gain fame or wealth, but you might also lose health, or even your life. And what is more important? Health or wealth? Life or fame? Therefore, most of us mortals are quite fearful, and rightly so. Fear protects us from unnecessary harm. However, in chess the situation is rather different.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-29-fear-the-biggest-enemy-of-a-chess-player",
+         "pubDate" : "Thu, 18 Jan 2024 10:18:38",
+         "title" : "The Winning Academy 29: Fear, the biggest enemy of a chess player"
+      },
+      {
+         "description" : "Live games&#160; 13th Tamil Nadu IM Norm Closed Circuit Chess Tournament (tamilchess.com) 14th Tamil Nadu IM Norm Closed Circuit Chess Tournament (tamilchess.com) Pairings &#38; Results",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/links-of-13th-14th-tn-im-norm-closed-circuit-chess-tournaments-chennai/",
+         "pubDate" : "Thu, 18 Jan 2024 09:39:02",
+         "title" : "Links of 13th & 14th TN IM Norm Closed Circuit Chess Tournaments - Chennai"
+      },
+      {
+         "description" : "Please find &#160;live game link of&#160;1st Bangalore GM Tournament 2024 please do the needful Category A https://live.blrgmc.com/livea/ Category B https://live.blrgmc.com/liveb/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-game-link-for-1st-bangalore-gm-tournament-2024/",
+         "pubDate" : "Thu, 18 Jan 2024 09:06:02",
+         "title" : "Live game Link for 1st Bangalore GM Tournament 2024"
+      },
+      {
          "description" : "Anish Giri scored a second consecutive win to become the sole leader at the Tata Steel Masters in Wijk aan Zee. The defending champion defeated Gukesh D. with the white pieces. Two more games ended decisively in round 4: Wei Yi beat Parham Maghsoodloo, while Praggnanadhaa R. got the better of Ding Liren - Pragg had also beat Ding in the 2023 edition. In the Challengers, Hans Niemann, Anton Korobov and Erwin l'Ami are sharing the lead after winning their games on Tuesday. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,6 +192,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/giri-joins-firouzja-in-the-lead-of-the-tata-steel-masters-on-2.53",
          "pubDate" : "Mon, 15 Jan 2024 19:23:00",
          "title" : "Giri joins Firouzja in the lead of the Tata Steel Masters on 2.5/3 - 3"
+      },
+      {
+         "description" : "A week ago I started a new Monday series requiring two artistic talents which I lack completely: story telling and illustrating. In that post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-chess-village.html\">The Chess Village</A> (January 2024), I wrote, <BLOCKQUOTE> The story starts in the Catskill mountains, in a village where almost everyone plays chess. </BLOCKQUOTE> <P> This is the second installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa15.jpg\" WIDTH=335 HEIGHT=400> <P> Some say that the villager's interest in chess stems from the presence of an unusual man who arrived in the village at some time in the recent past. He has two distinguishing cha",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/the-village-wizard.html",
+         "pubDate" : "Mon, 15 Jan 2024 16:11:00",
+         "title" : "The Village Wizard"
       },
       {
          "description" : "",
@@ -1056,22 +1096,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/day6-setbacks/",
          "pubDate" : "Thu, 28 Dec 2023 14:04:55",
          "title" : "Day 6 - Resilient Chess Training: Navigating Setbacks for Consistent Progress"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2822",
-         "pubDate" : "Thu, 28 Dec 2023 11:36:34",
-         "title" : "FIDE President meets with Uzbekistan sport authorities"
-      },
-      {
-         "description" : " Day 2 once again saw a number of upsets in the Rapid section of the 2023 World Rapid and Blitz. Magnus Carlsen started with another win, before slowing down with draws in the next 3 rounds. This allowed Vladimir Fedoseev and Yangyi Yu to catch him on 7/9. There is now a large pack of 13 players half a point off the lead. One player who bounced back strongly after a slow start was GM Anton Smirnov. After score 1.5/5 on day 1, he reeled of 3 straight wins and a round 9 draw to end day 2 on 5 points. New Zealand representative Felix Xie would also be pleased with his second day results, scoring 2/4 to move up to 2.5/9. Today is the final day of the Rapid, with 4 rounds to be played. In the cas",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-2.html",
-         "pubDate" : "Thu, 28 Dec 2023 09:33:00",
-         "title" : "2023 World Rapid and Blitz - Day 2"
       }
    ]
 }
