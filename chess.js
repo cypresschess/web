@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Fri, 19 Jan 2024 13:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Ju Wenjun, in the Masters, and Eline Roebers, in the Challengers, obtained remarkable wins over much higher-rated opponents in round 5 of the Tata Steel Chess Festival. Ju defeated an overly ambitious Alireza Firouzja, while Roebers patiently made the most of a positional advantage in her game against top seed Hans Niemann. Firouzja's loss allowed Anish Giri to go into round 6 with a full-point lead, while Erwin l'Ami is the sole leader in the Challengers. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/jan/19/chess-indias-praggnanandhaa-18-beats-world-champion-ding-at-wijk-aan-zee",
          "pubDate" : "Fri, 19 Jan 2024 08:00:24",
          "title" : "Chess: India's Praggnanandhaa, 18, beats world champion Ding at Wijk aan Zee"
+      },
+      {
+         "description" : "It may not be a record, but the world has a new youngest grandmaster&#38;mdash;14-year-old Ukrainian prodigy GM Ihor Samunenkov. The teenager&#38;rsquo;s title has been confirmed by the world chess federation FIDE this month after he met all the require...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ukrainian-prodigy-ihor-samunenkov-confirmed-as-worlds-young-grandmaster",
+         "pubDate" : "Fri, 19 Jan 2024 06:41:00",
+         "title" : "Ukrainian Prodigy Ihor Samunenkov Becomes World's Youngest Grandmaster"
       },
       {
          "description" : "",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "2023-24 Australian Championship"
       },
       {
-         "description" : "In video footage from the recently concluded 2023 World Rapid Championship held in Samarkand, Uzbekistan, Poland&#39;s number one GM Jan-Krzysztof Duda refused to shake hands with Russian GM Denis Khismatullin before their game in round one.&#38;nbsp; T...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/polish-number-1-refuses-handshake-with-russian-gm",
-         "pubDate" : "Thu, 04 Jan 2024 10:41:00",
-         "title" : "Polish Number 1 Refuses Handshake With Russian GM In World Rapid Championship"
-      },
-      {
          "description" : "With new money and new sponsors pouring in, and never before seen numbers of spectators following the games, the tendency is towards faster time controls. Classical games are played with reduced times, rapid and blitz tournamenst are gaining popularity. That provides more action and excitement for chess fans. But is it really the way to go? Rune Vik-Hansen, Norwegian philosopher, argues in favour of long games.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2824",
          "pubDate" : "Fri, 29 Dec 2023 21:01:02",
          "title" : "World Blitz Championship 2023 starts in Samarkand"
-      },
-      {
-         "description" : "Happy Holidays! This is the last part of my 7-day Newsletter series to prepare you for a successful 2024. If you want to check out the previous ones, here they are: Get Rid of Your Old Habits​ Adjust Your Mindset​ Get Comfortable With Discomfort​ Train Smart​ Plan Your Training​ Prepare For Roadblocks​ Throughout this series, you had the chance to get my course Next Level Training 30% off. As we all live in different time zones and some of you are sleeping when this email goes out, the 30%...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/day7-success-stories/",
-         "pubDate" : "Fri, 29 Dec 2023 14:03:43",
-         "title" : "Day 7 - Real Chess Improvement Success Stories"
       }
    ]
 }
