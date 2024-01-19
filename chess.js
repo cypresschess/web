@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2848",
+         "pubDate" : "Thu, 18 Jan 2024 23:11:23",
+         "title" : "Tata Steel Masters 2024: Giri extends his lead"
+      },
+      {
+         "description" : " The fifth round of the Tata Steel Masters saw just two decisive games, wins for Gukesh over Ian Nepomniachtchi and Ju Wenjun over Alireza Firouzja. The latter result meant that Anish Giri extended his lead in the tournament to a point. Giri was under some pressure by Praggnanandhaa but this was gone by first time control. In the remaining games Vidit drew with Max Warmerdam, Alexander Donchenko drew with Jorden Van Foreest, Nodirbek Abdusattorov drew with Wei Yi and Parham Maghsoodloo drew with Ding Liren. 6 out of 7 games in the Challengers were decisive leaving Erwin L'Ami in the lead on 4/5. Eline Roebers beat joint leader Hans Moke Niemann to get off the mark. Round 5 Standings: 1st Gir",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/gukesh-and-ju-wenjun-winners-in-tata-steel-masters-round-5",
+         "pubDate" : "Thu, 18 Jan 2024 21:53:00",
+         "title" : "Gukesh and Ju Wenjun winners in Tata Steel Masters Round 5 - 5"
+      },
+      {
          "description" : "No tournament player can do without the ChessBase Mega Database. But what do you need to know when setting it up on your PC? ChessBase expert Thomas Stark and Arne Kaehler show you everything you need to know about the new Mega Database 2024: Download, installation and, above all, the weekly game update, in which 5,000 new games are imported every week.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
          "pubDate" : "Thu, 18 Jan 2024 13:55:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "A draw in the fifth round was enough for GM Anish Giri to increase his lead to a full point at the 2024 Tata Steel Chess Tournament. Second-placed GM Alireza Firouzja suffered an unexpected loss against Women&#39;s World Champion Ju Wenjun, who won a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-5",
+         "pubDate" : "Thu, 18 Jan 2024 13:38:00",
+         "title" : "Ju, Roebers Upset Firouzja, Niemann While Giri Increases Lead"
       },
       {
          "description" : " Gungahlin Chess Club is resuming next Tuesday, 23rd January. The first night is a bit of a casual meet and greet, with the more serious events starting the week after. If you have never played club chess before and you live in the close by (North Canberra, Gungahlin, Belconnen etc) then drop in to the Eastlakes Gungahlin Club (51 Hinder St Gungahlin) from 7pm on Tuesday. The following Tuesday sees the start of 2 events. The Gungahlin Junior Championship is for all players under 18 years old, while the Ramakrishna Memorial is for players 18 years and older. Both are 7 round events (one round per week), with a time limit of G60m+30s. The full years calendar is at <a href=\"https://sites.google",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
          "pubDate" : "Thu, 4 Jan 2024 03:40:52",
          "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
-      },
-      {
-         "description" : "The people have spoken! Over 16,000 voters chose the best games, moves, creators, and all things chess in 2023. Now, it&#39;s time for us to reveal the winners of the 2023 Chess.com Awards. GM Magnus Carlsen at the Champions Chess Tour Finals, one...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-chesscom-awards-winners",
-         "pubDate" : "Wed, 03 Jan 2024 17:21:00",
-         "title" : "Announcing The 2023 Chess.com Awards Winners"
       },
       {
          "description" : "",
