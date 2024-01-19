@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ju Wenjun, in the Masters, and Eline Roebers, in the Challengers, obtained remarkable wins over much higher-rated opponents in round 5 of the Tata Steel Chess Festival. Ju defeated an overly ambitious Alireza Firouzja, while Roebers patiently made the most of a positional advantage in her game against top seed Hans Niemann. Firouzja's loss allowed Anish Giri to go into round 6 with a full-point lead, while Erwin l'Ami is the sole leader in the Challengers. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r5",
+         "pubDate" : "Fri, 19 Jan 2024 08:45:00",
+         "title" : "Tata Steel Chess R5: Ju upsets Firouzja, Roebers stuns Niemann"
+      },
+      {
+         "description" : "No, you haven't missed a game of the Tata Steel 2024. Svitlana decided to travel a year back in time, and analyse one of the most interesting games of the Dutch tournament, 2023. Interestingly, both protagonists - Gukesh D, and Praggnanandhaa - will face each other soon enough, again in Wijk aan Zee! This is a sweet teaser for their upcoming match-up.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-gukesh-vs-pragg-the-tata-spectacle",
+         "pubDate" : "Fri, 19 Jan 2024 08:44:45",
+         "title" : "Svitlana's Smart Moves - Gukesh vs. Pragg: The Tata spectacle!"
+      },
+      {
+         "description" : " The Chennai teenager is being backed by his country's second wealthiest individual as he bids to win the Candidates at Toronto in April and qualify for a title match against Ding later in 2024 India's rising talent Rameshbabu Praggnanandhaa had a day to remember at Tata Steel Wijk aan Zee on Tuesday. The 18-year-old from Chennai <a href=\"https://www.2700chess.com/games/ding-praggnanandhaa-r4-wijk-aan-zee-2024-01-16\">defeated China's world champion</a>, Ding Liren, with the black pieces for the second year in succession at the \"chess Wimbledon\" and also jumped to No 11 in the live rankings, where he now sits one place ahead of India's former world champion Vishy Anand. There was a curious sy",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/jan/19/chess-indias-praggnanandhaa-18-beats-world-champion-ding-at-wijk-aan-zee",
+         "pubDate" : "Fri, 19 Jan 2024 08:00:24",
+         "title" : "Chess: India's Praggnanandhaa, 18, beats world champion Ding at Wijk aan Zee"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2849",
+         "pubDate" : "Fri, 19 Jan 2024 06:27:50",
+         "title" : "Updated Tie-break Regulations effective from April 1, 2024 published"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/mega-database-essential-wisdom",
          "pubDate" : "Thu, 18 Jan 2024 20:00:00",
          "title" : "Mega Database - Essential wisdom!"
-      },
-      {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Thu, 18 Jan 2024 13:55:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "A draw in the fifth round was enough for GM Anish Giri to increase his lead to a full point at the 2024 Tata Steel Chess Tournament. Second-placed GM Alireza Firouzja suffered an unexpected loss against Women&#39;s World Champion Ju Wenjun, who won a ...",
@@ -88,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r4",
          "pubDate" : "Wed, 17 Jan 2024 23:40:00",
          "title" : "Tata Steel Chess R4: Giri leads, Pragg takes down Ding"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2845",
+         "pubDate" : "Wed, 17 Jan 2024 16:01:11",
+         "title" : "The fourth edition of Queens' Festival returns in March 2024"
       },
       {
          "description" : "Many consider Garry Kasparov to be the greatest chess player of all time. As well as being a fantastic player, he has done a lot to promote the game of chess. In 2011, he founded the Kasparov Chess Foundation, a non-profit organisation that aims to bring the many benefits of chess to children and adults around the world. The recently launched Kasparov Chess Foundation Academy offers attractive courses to raise your level of play. There's still time to register!",
@@ -192,14 +224,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/gm-candidate-shreyas-turns-15",
          "pubDate" : "Tue, 16 Jan 2024 20:00:00",
          "title" : "GM candidate Shreyas turns 15!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2845",
-         "pubDate" : "Tue, 16 Jan 2024 16:01:11",
-         "title" : "The fourth edition of Queens' Festival returns in March 2024"
       },
       {
          "description" : " Another round of Tata Steel, another set of wins for Black. If I can count correctly, there have been 10 black wins and only 1 white win over the first 21 games. Is it because White is over pressing? Have a lot of White opening lines been sorted out? or just a quirk in the pairings? <br /> <b>Donchenko,Alexander (2643) - Giri,Anish (2749) [E60]</b><br /> Tata Steel Masters 2024 Wijk aan Zee, Netherlands (3.2), 15.01.2024 <script> new PgnViewer( { boardName: \"game1438\", movesFormat: \"default\", pgnString:'1.d4 d6 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.c4 Bf5 6.Qb3 Qc8 7.Nc3 Nc6 8.d5 Nd8 9.O-O O-O 10.Re1 Ne4 11.Nxe4 Bxe4 12.Bd2 b6 13.Bc3 e5 14.dxe6 Nxe6 15.Bxg7 Kxg7 16.Qc3+ Kg8 17.Nd4 Bxg2 18.Kxg2 Ng5 ",
@@ -1088,22 +1112,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/day7-success-stories/",
          "pubDate" : "Fri, 29 Dec 2023 14:03:43",
          "title" : "Day 7 - Real Chess Improvement Success Stories"
-      },
-      {
-         "description" : "Today we provide you with a master-level lesson. Leonid Ivanovich Kubbel, born in 1891 in St. Petersburg, Russia, was one of the greatest composers in chess history. One of the greatest composers of our time was GM Pal Benk&ouml;, born in 1928, died in 2019. The latter shows us how he improved on one of the most famous studies of all time, composed by the former.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/benko-improves-on-kubbel",
-         "pubDate" : "Fri, 29 Dec 2023 08:00:00",
-         "title" : "Benko improves on Kubbel"
-      },
-      {
-         "description" : " Magnus Carlsen emerged as the winner of the 2023 World Rapid Championship, after 13 rounds of very tough play. His last day could be described as an exercise in tournament management, as he started with 2 wins (including beating his closest rival Vladimir Fedoseev) before finishing with 2 draws. With the final round games on the top boards also being drawn, he finished on 10/13, half a point ahead of Fedoseev. Behind the top two were 12 players on 9 points, with Yangyi Yu finishing with the Bronze Medal on tie-break. The Women's Rapid saw a three way tie at the top, which necessitated a playoff match between the top two finishers on tie-break. After the initial 2 games, Anastasia Bodnaruk a",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-3.html",
-         "pubDate" : "Fri, 29 Dec 2023 07:15:00",
-         "title" : "2023 World Rapid and Blitz - Day 3"
       }
    ]
 }
