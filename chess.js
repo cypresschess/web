@@ -10,6 +10,22 @@ news_feed (
          "title" : "Tata Steel Chess - Live!"
       },
       {
+         "description" : "FM Brandon Burrows achieved his first IM norm by winning one game and making nine draws that lasted an average of 10 moves. Now the World Chess Federation (FIDE) has invalidated the Las Vegas tournament and US Chess has confirmed an investigation ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-invalidates-im-norm-scored-by-hollywood-producer-through-nine-short-draws",
+         "pubDate" : "Fri, 19 Jan 2024 09:46:00",
+         "title" : "FIDE Invalidates IM Norm Scored By Hollywood Producer With 9 Short Draws"
+      },
+      {
+         "description" : "ChessKid, the scholastic extension of Chess.com aimed at a younger target audience, has reached the milestone of 10,000,000 individual child accounts.&#38;nbsp; To celebrate the achievement, ChessKid is offering free access to its Gold membership fe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesskid-celebrates-10-million-members",
+         "pubDate" : "Fri, 19 Jan 2024 09:00:00",
+         "title" : "ChessKid Unlocks FREE Access January 20 & 21 To Celebrate 10 Million Members"
+      },
+      {
          "description" : "Ju Wenjun, in the Masters, and Eline Roebers, in the Challengers, obtained remarkable wins over much higher-rated opponents in round 5 of the Tata Steel Chess Festival. Ju defeated an overly ambitious Alireza Firouzja, while Roebers patiently made the most of a positional advantage in her game against top seed Hans Niemann. Firouzja's loss allowed Anish Giri to go into round 6 with a full-point lead, while Erwin l'Ami is the sole leader in the Challengers. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Gukesh vs. Pragg: The Tata spectacle!"
       },
       {
-         "description" : " The Chennai teenager is being backed by his country's second wealthiest individual as he bids to win the Candidates at Toronto in April and qualify for a title match against Ding later in 2024 India's rising talent Rameshbabu Praggnanandhaa had a day to remember at Tata Steel Wijk aan Zee on Tuesday. The 18-year-old from Chennai <a href=\"https://www.2700chess.com/games/ding-praggnanandhaa-r4-wijk-aan-zee-2024-01-16\">defeated China's world champion</a>, Ding Liren, with the black pieces for the second year in succession at the \"chess Wimbledon\" and also jumped to No 11 in the live rankings, where he now sits one place ahead of India's former world champion Vishy Anand. There was a curious sy",
+         "description" : " The Chennai teenager is being backed by his country's second wealthiest individual as he bids to win the Candidates at Toronto in April and qualify for a title match against Ding later in 2024 India's rising talent Rameshbabu Praggnanandhaa had a day to remember at Tata Steel Wijk aan Zee on ­Tuesday. The 18-year-old from ­Chennai <a href=\"https://www.2700chess.com/games/ding-praggnanandhaa-r4-wijk-aan-zee-2024-01-16\">defeated China's world champion</a>, Ding Liren, with the black pieces for the second year in succession at the \"chess Wimbledon\" and also jumped to No 11 in the live rankings, where he now sits one place ahead of India's former world champion Vishy Anand. There was a curious ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/jan/19/chess-indias-praggnanandhaa-18-beats-world-champion-ding-at-wijk-aan-zee",
@@ -770,14 +786,6 @@ news_feed (
          "title" : "Joseph Methu wins Kenyan Chess Championship&hellip; and car!"
       },
       {
-         "description" : "GM Tuan Minh Le started 2024 in style with a victory in one of the most stacked Bullet Brawl arenas ever held. GMs Hikaru Nakamura and Daniel Naroditsky, who finished in second and third respectively, were tested by super-GMs Anish Giri, Maxime Va...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tuan-minh-le-wins-bullet-brawl-january-6-2024",
-         "pubDate" : "Sat, 06 Jan 2024 15:09:00",
-         "title" : "Le Wins Bullet Brawl Ahead of Nakamura, Naroditsky"
-      },
-      {
          "description" : "The London Chess Classic in December concluded with an impressive final dinner at London's Savoy Hotel complex, the scene of the historic world championship challenge by Nigel Short to Garry Kasparov in 1993. Next door, Simpsons-in-the-Strand, soon to be reopened after a lengthy Covid-enforced closure and renovation, is famed in chess lore, notably as the scene of []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -800,14 +808,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/choose-projects/",
          "pubDate" : "Sat, 06 Jan 2024 11:53:17",
          "title" : "Chess Improvement Techniques: How to Prioritize Projects for Optimal Growth"
-      },
-      {
-         "description" : "GM Magnus Carlsen was included in FIDE&#39;s full lineup for the Candidates tournament this week, but in an exclusive interview with Chess.com the former world champion says that he is formally turning down the invitation to play in Toronto. This we...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-confirms-yet-again-he-will-decline-candidates",
-         "pubDate" : "Sat, 06 Jan 2024 09:06:00",
-         "title" : "Carlsen Confirms He Will Formally Decline Candidates Invitation"
       },
       {
          "description" : "",
