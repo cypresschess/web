@@ -39,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-5",
          "pubDate" : "Thu, 18 Jan 2024 13:38:00",
-         "title" : "Ju, Roebers Upset Firouzja, Niemann While Giri Increases Lead"
+         "title" : "Women Ascendant In Tata Steel As Ju Wenjun Upsets Firouzja, Roebers Defeats Niemann"
       },
       {
          "description" : " Gungahlin Chess Club is resuming next Tuesday, 23rd January. The first night is a bit of a casual meet and greet, with the more serious events starting the week after. If you have never played club chess before and you live in the close by (North Canberra, Gungahlin, Belconnen etc) then drop in to the Eastlakes Gungahlin Club (51 Hinder St Gungahlin) from 7pm on Tuesday. The following Tuesday sees the start of 2 events. The Gungahlin Junior Championship is for all players under 18 years old, while the Ramakrishna Memorial is for players 18 years and older. Both are 7 round events (one round per week), with a time limit of G60m+30s. The full years calendar is at <a href=\"https://sites.google",
