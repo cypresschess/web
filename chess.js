@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Sat, 20 Jan 2024 13:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "A brainchild of Chokri Saidi, a French-Tunisian entrepreneur, the Djerba Chess Festival aims to combine chess, friendship, culture and tourism on the beautiful island of Djerba, the largest island off the coast of North Africa - which is also known as the 'island of dreams'. Furthermore, Saidi has gone a step further in his chess organizing pursuits and, from this year, he is also organizing the prestigious Jeddah International Youth Chess Festival. Diana Mihajlova informs.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1048,22 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2827",
          "pubDate" : "Sat, 30 Dec 2023 21:36:37",
          "title" : "Kenyan Championship 2023: Joseph Methu and Sasha Mongeli win titles "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2825",
-         "pubDate" : "Sat, 30 Dec 2023 15:43:23",
-         "title" : "2023 World Blitz Chess Champions: Magnus Carlsen and Valentina Gunina"
-      },
-      {
-         "description" : " The World Rapid and Blitz Championships took place in Samarkand, Uzbekistan, Tue 26th Dec to Sat 30th Dec 2023. Leading players: Carlsen, Caruana, Artemiev, Nepomniachtchi, Duda, Aronian, Martirosyan, Dubov, Yu, Rapport, MVL, Andreikin, Giri, Erigaisi, Fedoseev, Mamedyarov etc. The women's section the leading players are: Ju Wenjun, Tan Zhongyi, Lei Tingjie, Kosteniuk, Goryachkina, Lagno, Anna and Mariya Muzychuk, Saduakassova, Koneru, Dronavalli, Assaubayeva, Zhu etc. In the rapid Magnus Carlsen won his 5th title. In the women's Anastasia Bodnaruk beat Humpy Koneru in a blitz tie-break match to take the title. I was taken by surprise by the return of tie-break matches. Reading the version ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2023",
-         "pubDate" : "Sat, 30 Dec 2023 13:56:00",
-         "title" : "World Rapid and Blitz Championships 2023 - Games and Results"
       }
    ]
 }
