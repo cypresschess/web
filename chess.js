@@ -2,22 +2,6 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Sat, 20 Jan 2024 13:55:00",
-         "title" : "Tata Steel Chess - Live!"
-      },
-      {
-         "description" : "A brainchild of Chokri Saidi, a French-Tunisian entrepreneur, the Djerba Chess Festival aims to combine chess, friendship, culture and tourism on the beautiful island of Djerba, the largest island off the coast of North Africa - which is also known as the 'island of dreams'. Furthermore, Saidi has gone a step further in his chess organizing pursuits and, from this year, he is also organizing the prestigious Jeddah International Youth Chess Festival. Diana Mihajlova informs.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeddah-djerba-2024-preview",
-         "pubDate" : "Sat, 20 Jan 2024 12:00:00",
-         "title" : "Jeddah and Djerba to host emerging chess talents"
-      },
-      {
          "description" : "Salvador Dali once said: At the age of six I wanted to be a cook. At seven I wanted to be Napoleon and my ambition has been growing steadily ever since. I have never wanted to be Napoleon, but I did once harbour ambitions to be the Duke of Wellington, or at least the chessboard equivalent. At []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
