@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Top players have a rather developed sense of danger; an asset that protects them from awkward moments. In the following game from round four of the Tata Steel Tournament in Wijk aan Zee we can observe how the great Indian talent Gukesh felt comfortable in his game against top-ten grandmaster Anish Giri, completely missing the so much needed sense of danger. The very experienced chess trainer GM Efstratios Grivas takes us meticulously through the very instructive game. | Photos: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-a-sense-of-danger",
+         "pubDate" : "Sat, 20 Jan 2024 08:00:00",
+         "title" : "Grivas: A Sense of Danger"
+      },
+      {
          "description" : "Defending champion Anish Giri remains the sole leader of the Tata Steel Masters after six rounds. The Dutchman could have increased his lead, though, as he failed to convert an advantageous position against Parham Maghsoodloo on Friday. Standing a half point back is Alireza Firouzja, who bounced back from his round-5 loss by beating Wei Yi with white. In the Challegers, Erwin l'Ami escaped with a draw in his game against second-placed Anton Korobov to keep the sole lead. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world-rapid-champion-again-and-targets-blitz",
          "pubDate" : "Sat, 30 Dec 2023 09:23:22",
          "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
-      },
-      {
-         "description" : "Today you get three puzzles that are simply enjoyable to solve. Very strong players should try to solve them in their minds, straight from the diagrams, mere mortals can move pieces. They may be surprised to see that our live diagrams will defend for the black side, stopping you from reaching the goal. Unless you find the unexpected solutions, which will be presented to you with instructive and entertaining videos in the new year.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-puzzles-fun-to-solve",
-         "pubDate" : "Sat, 30 Dec 2023 08:00:00",
-         "title" : "Christmas puzzles, fun to solve"
       }
    ]
 }
