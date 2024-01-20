@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : "Defending champion Anish Giri remains the sole leader of the Tata Steel Masters after six rounds. The Dutchman could have increased his lead, though, as he failed to convert an advantageous position against Parham Maghsoodloo on Friday. Standing a half point back is Alireza Firouzja, who bounced back from his round-5 loss by beating Wei Yi with white. In the Challegers, Erwin l'Ami escaped with a draw in his game against second-placed Anton Korobov to keep the sole lead. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Fri, 19 Jan 2024 13:55:00",
-         "title" : "Tata Steel Chess - Live!"
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r6",
+         "pubDate" : "Sat, 20 Jan 2024 01:05:00",
+         "title" : "Tata Steel Chess R6: Giri misses win, remains sole leader"
+      },
+      {
+         "description" : " The sixth round of the Tata Steel Masters saw wins for Alireza Firouzja against Wei Yi, Gukesh against Jorden van Foreest and Max Warmerdam against Alexander Donchenko. The leader Anish Giri got a tremendous position against Parham Maghsoodloo almost straight out of the opening, let most of the advantage go but missed a cast iron chance after 36...Qd6? but instead, even after having a few minutes to think, allowed his opponent to get into a drawish endgame a pawn down. Nepomniachtchi-Praggnanandhaa, Ding-Abdusattorov and Ju Wenjun-Vidit were all drawn. Round 6 standings: 1st Giri 4.5pts, 2nd Firouzja 4pts, 3rd= Praggnanandhaa, Abdusattorov, Gukesh, Warmerdam 3.5pts, 7th= Wei Yi, Ding Liren,",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/giri-allows-firouzja-to-close-the-lead-after-missed-chances-against-maghsoodloo-in-tata-steel-round-6",
+         "pubDate" : "Fri, 19 Jan 2024 21:06:00",
+         "title" : "Giri allows Firouzja to close the lead after missed chances against Maghsoodloo in Tata Steel Round 6 - 6"
+      },
+      {
+         "description" : "GM Alireza Firouzja is trailing GM Anish Giri by half a point again after Friday&#39;s sixth round of the 2024 Tata Steel Chess Tournament. While the tournament leader missed several chances to beat GM Parham Maghsoodloo, Firouzja did score the full p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-6",
+         "pubDate" : "Fri, 19 Jan 2024 13:53:00",
+         "title" : "Firouzja Bounces Back In Tata Steel Chess Masters; Roebers Wins Again"
       },
       {
          "description" : "FM Brandon Burrows achieved his first IM norm by winning one game and making nine draws that lasted an average of 10 moves. Now the World Chess Federation (FIDE) has invalidated the Las Vegas tournament and US Chess has confirmed an investigation ...",
@@ -82,14 +98,6 @@ news_feed (
          "title" : "Gukesh and Ju Wenjun winners in Tata Steel Masters Round 5 - 5"
       },
       {
-         "description" : "No tournament player can do without the ChessBase Mega Database. But what do you need to know when setting it up on your PC? ChessBase expert Thomas Stark and Arne Kaehler show you everything you need to know about the new Mega Database 2024: Download, installation and, above all, the weekly game update, in which 5,000 new games are imported every week.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mega-database-essential-wisdom",
-         "pubDate" : "Thu, 18 Jan 2024 20:00:00",
-         "title" : "Mega Database - Essential wisdom!"
-      },
-      {
          "description" : "A draw in the fifth round was enough for GM Anish Giri to increase his lead to a full point at the 2024 Tata Steel Chess Tournament. Second-placed GM Alireza Firouzja suffered an unexpected loss against Women&#39;s World Champion Ju Wenjun, who won a ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/gungahlin-chess-club-meet-and-greet.html",
          "pubDate" : "Thu, 18 Jan 2024 11:46:00",
          "title" : "Gungahlin Chess Club - Meet and greet"
-      },
-      {
-         "description" : "In real life, staying safe is often a good idea. A human being has almost always more to lose than to gain. By being a daredevil, you might gain fame or wealth, but you might also lose health, or even your life. And what is more important? Health or wealth? Life or fame? Therefore, most of us mortals are quite fearful, and rightly so. Fear protects us from unnecessary harm. However, in chess the situation is rather different.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-29-fear-the-biggest-enemy-of-a-chess-player",
-         "pubDate" : "Thu, 18 Jan 2024 10:18:38",
-         "title" : "The Winning Academy 29: Fear, the biggest enemy of a chess player"
       },
       {
          "description" : "Live games&#160; 13th Tamil Nadu IM Norm Closed Circuit Chess Tournament (tamilchess.com) 14th Tamil Nadu IM Norm Closed Circuit Chess Tournament (tamilchess.com) Pairings &#38; Results",
@@ -138,28 +138,12 @@ news_feed (
          "title" : "Live game Link for 1st Bangalore GM Tournament 2024"
       },
       {
-         "description" : "Anish Giri scored a second consecutive win to become the sole leader at the Tata Steel Masters in Wijk aan Zee. The defending champion defeated Gukesh D. with the white pieces. Two more games ended decisively in round 4: Wei Yi beat Parham Maghsoodloo, while Praggnanadhaa R. got the better of Ding Liren - Pragg had also beat Ding in the 2023 edition. In the Challengers, Hans Niemann, Anton Korobov and Erwin l'Ami are sharing the lead after winning their games on Tuesday. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r4",
-         "pubDate" : "Wed, 17 Jan 2024 23:40:00",
-         "title" : "Tata Steel Chess R4: Giri leads, Pragg takes down Ding"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2845",
          "pubDate" : "Wed, 17 Jan 2024 16:01:11",
          "title" : "The fourth edition of Queens' Festival returns in March 2024"
-      },
-      {
-         "description" : "Many consider Garry Kasparov to be the greatest chess player of all time. As well as being a fantastic player, he has done a lot to promote the game of chess. In 2011, he founded the Kasparov Chess Foundation, a non-profit organisation that aims to bring the many benefits of chess to children and adults around the world. The recently launched Kasparov Chess Foundation Academy offers attractive courses to raise your level of play. There's still time to register!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/last-call-to-register-at-the-kasparov-chess-foundation-academy",
-         "pubDate" : "Wed, 17 Jan 2024 14:34:21",
-         "title" : "Last Call to Register at the Kasparov Chess Foundation Academy"
       },
       {
          "description" : "",
@@ -176,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-reveals-shorter-games-for-women-in-the-candidates",
          "pubDate" : "Wed, 17 Jan 2024 10:52:00",
          "title" : "FIDE Reveals Shorter Games For Women In the Candidates"
-      },
-      {
-         "description" : "As everybody knows by now, d5 is perhaps one of the best continuations for Black in the main variation of the Yugoslav attack. But more and more players accept the variation and try to swap off queens on d4 differently, by playing the knight to a4! Finally, a trendy move for White is now to move the g-pawn forward one square!? How to deal with this as a Dragon lover? Chris Ward knows the answer, and it leads to spectacular, beautiful outcomes, of course. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-this-new-g3-variation-is-getting-quite-popular",
-         "pubDate" : "Wed, 17 Jan 2024 09:44:00",
-         "title" : "The Monthly Dragon - This new g3 variation is getting quite popular!"
       },
       {
          "description" : "Grandmaster R Praggnandhaa registered a resounding win against the reigning World Campion Ding Liren of China in the fourth round of 86th Tata Steel Masters",
@@ -714,14 +690,6 @@ news_feed (
          "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration is open"
       },
       {
-         "description" : "Chess has found its way back into the spotlight―this time through the lens of a new female protagonist. Check &#38;amp; Mate, written by New York Times bestselling author Ali Hazelwood, won the 2023 Goodreads Choice Award for Best Young Adult Fiction....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-novel-tops-goodreads-awards",
-         "pubDate" : "Mon, 08 Jan 2024 11:07:00",
-         "title" : "Chess Novel Tops Goodreads Awards"
-      },
-      {
          "description" : "Congratulations to Lan Yao, whose WGM title was confirmed by the 2023 3rd FIDE Council Meeting. Since applying for the title Lan Yao has gained...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1104,14 +1072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/christmas-puzzles-fun-to-solve",
          "pubDate" : "Sat, 30 Dec 2023 08:00:00",
          "title" : "Christmas puzzles, fun to solve"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2824",
-         "pubDate" : "Fri, 29 Dec 2023 21:01:02",
-         "title" : "World Blitz Championship 2023 starts in Samarkand"
       }
    ]
 }
