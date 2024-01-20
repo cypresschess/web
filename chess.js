@@ -10,6 +10,22 @@ news_feed (
          "title" : "Tata Steel Chess R6: Giri misses win, remains sole leader"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2850",
+         "pubDate" : "Sat, 20 Jan 2024 00:14:55",
+         "title" : "Tata Steel Masters 2024: Firouzja closes the gap"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes profiles Magnus Carlsen at the 2023 Tata Steel Chess Tournament in Wijk aan Zee. After losing consecutive games to Giri and Abdusattorov, the champ defeated Rapport, Caruana, and Maghsoodloo. After this recording, Carlsen also defeated Arjun Erigaisi to finish tied 2nd. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-comeback-tata-steel-2023-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/fil",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsens-comeback-tata-steel-2023-wgm-thalia-cervantes",
+         "pubDate" : "Fri, 19 Jan 2024 23:49:51",
+         "title" : "Carlsen's Comeback at Tata Steel 2023 - WGM Thalia Cervantes"
+      },
+      {
          "description" : " The sixth round of the Tata Steel Masters saw wins for Alireza Firouzja against Wei Yi, Gukesh against Jorden van Foreest and Max Warmerdam against Alexander Donchenko. The leader Anish Giri got a tremendous position against Parham Maghsoodloo almost straight out of the opening, let most of the advantage go but missed a cast iron chance after 36...Qd6? but instead, even after having a few minutes to think, allowed his opponent to get into a drawish endgame a pawn down. Nepomniachtchi-Praggnanandhaa, Ding-Abdusattorov and Ju Wenjun-Vidit were all drawn. Round 6 standings: 1st Giri 4.5pts, 2nd Firouzja 4pts, 3rd= Praggnanandhaa, Abdusattorov, Gukesh, Warmerdam 3.5pts, 7th= Wei Yi, Ding Liren,",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Firouzja Bounces Back In Tata Steel Chess Masters; Roebers Wins Again"
       },
       {
-         "description" : "FM Brandon Burrows achieved his first IM norm by winning one game and making nine draws that lasted an average of 10 moves. Now the World Chess Federation (FIDE) has invalidated the Las Vegas tournament and US Chess has confirmed an investigation ...",
+         "description" : "FM Brandon Burrows achieved his first IM norm by winning one game and making nine draws that lasted an average of 10 moves. Now the World Chess Federation (FIDE) has invalidated the Las Vegas tournament and U.S. Chess has confirmed an investigatio...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-invalidates-im-norm-scored-by-hollywood-producer-through-nine-short-draws",
@@ -40,22 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesskid-celebrates-10-million-members",
          "pubDate" : "Fri, 19 Jan 2024 09:00:00",
          "title" : "ChessKid Unlocks FREE Access January 20 & 21 To Celebrate 10 Million Members"
-      },
-      {
-         "description" : "Ju Wenjun, in the Masters, and Eline Roebers, in the Challengers, obtained remarkable wins over much higher-rated opponents in round 5 of the Tata Steel Chess Festival. Ju defeated an overly ambitious Alireza Firouzja, while Roebers patiently made the most of a positional advantage in her game against top seed Hans Niemann. Firouzja's loss allowed Anish Giri to go into round 6 with a full-point lead, while Erwin l'Ami is the sole leader in the Challengers. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r5",
-         "pubDate" : "Fri, 19 Jan 2024 08:45:00",
-         "title" : "Tata Steel Chess R5: Ju upsets Firouzja, Roebers stuns Niemann"
-      },
-      {
-         "description" : "No, you haven't missed a game of the Tata Steel 2024. Svitlana decided to travel a year back in time, and analyse one of the most interesting games of the Dutch tournament, 2023. Interestingly, both protagonists - Gukesh D, and Praggnanandhaa - will face each other soon enough, again in Wijk aan Zee! This is a sweet teaser for their upcoming match-up.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-gukesh-vs-pragg-the-tata-spectacle",
-         "pubDate" : "Fri, 19 Jan 2024 08:44:45",
-         "title" : "Svitlana's Smart Moves - Gukesh vs. Pragg: The Tata spectacle!"
       },
       {
          "description" : " The Chennai teenager is being backed by his country's second wealthiest individual as he bids to win the Candidates at Toronto in April and qualify for a title match against Ding later in 2024 India's rising talent Rameshbabu Praggnanandhaa had a day to remember at Tata Steel Wijk aan Zee on ­Tuesday. The 18-year-old from ­Chennai <a href=\"https://www.2700chess.com/games/ding-praggnanandhaa-r4-wijk-aan-zee-2024-01-16\">defeated China's world champion</a>, Ding Liren, with the black pieces for the second year in succession at the \"chess Wimbledon\" and also jumped to No 11 in the live rankings, where he now sits one place ahead of India's former world champion Vishy Anand. There was a curious ",
@@ -880,14 +880,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-good-you-can-be-fast-time-controls-grandmasters-choice-gm-elshan-moradiabadi",
          "pubDate" : "Tue, 02 Jan 2024 23:34:22",
          "title" : "How Good YOU Can Be in Fast Time Controls! | Grandmaster's Choice - GM Elshan Moradiabadi"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko teaches a beginner chess class on king and pawn endgames you absolutely should know! 2024.01.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/basic-king-pawn-endgames-beginner-breakdown-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v0vNovIDrKo.jpg?itok=gxthSo7N\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/basic-king-pawn-endgames-beginner-breakdown-nm-julian-proleiko",
-         "pubDate" : "Tue, 02 Jan 2024 23:34:22",
-         "title" : "Basic King & Pawn Endgames | Beginner Breakdown - NM Julian Proleiko"
       },
       {
          "description" : "",
