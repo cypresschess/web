@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A brainchild of Chokri Saidi, a French-Tunisian entrepreneur, the Djerba Chess Festival aims to combine chess, friendship, culture and tourism on the beautiful island of Djerba, the largest island off the coast of North Africa - which is also known as the 'island of dreams'. Furthermore, Saidi has gone a step further in his chess organizing pursuits and, from this year, he is also organizing the prestigious Jeddah International Youth Chess Festival. Diana Mihajlova informs.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jeddah-djerba-2024-preview",
+         "pubDate" : "Sat, 20 Jan 2024 12:00:00",
+         "title" : "Jeddah and Djerba to host emerging chess talents"
+      },
+      {
+         "description" : "Salvador Dali once said: At the age of six I wanted to be a cook. At seven I wanted to be Napoleon and my ambition has been growing steadily ever since. I have never wanted to be Napoleon, but I did once harbour ambitions to be the Duke of Wellington, or at least the chessboard equivalent. At []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-lessons-from-the-iron-duke/",
+         "pubDate" : "Sat, 20 Jan 2024 10:19:07",
+         "title" : "Chess lessons from the Iron Duke"
+      },
+      {
          "description" : "Top players have a rather developed sense of danger; an asset that protects them from awkward moments. In the following game from round four of the Tata Steel Tournament in Wijk aan Zee we can observe how the great Indian talent Gukesh felt comfortable in his game against top-ten grandmaster Anish Giri, completely missing the so much needed sense of danger. The very experienced chess trainer GM Efstratios Grivas takes us meticulously through the very instructive game. | Photos: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grivas-a-sense-of-danger",
          "pubDate" : "Sat, 20 Jan 2024 08:00:00",
          "title" : "Grivas: A Sense of Danger"
+      },
+      {
+         "description" : "According to many (including GM Magnus Carlsen), GM Garry Kasparov is still the Greatest of All Time (GOAT) in chess. Today, it is exactly 25 years since Kasparov played his most famous and possibly best ever game, against GM Veselin Topalov in Wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/25-years-ago-kasparov-topalov-1999",
+         "pubDate" : "Sat, 20 Jan 2024 02:05:00",
+         "title" : "25 Years Ago: Kasparov-Topalov, The Pearl Of Wijk aan Zee"
       },
       {
          "description" : "Defending champion Anish Giri remains the sole leader of the Tata Steel Masters after six rounds. The Dutchman could have increased his lead, though, as he failed to convert an advantageous position against Parham Maghsoodloo on Friday. Standing a half point back is Alireza Firouzja, who bounced back from his round-5 loss by beating Wei Yi with white. In the Challegers, Erwin l'Ami escaped with a draw in his game against second-placed Anton Korobov to keep the sole lead. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "Kosovo Championship: Nderim Saraçi and Arlinda Aliu take titles"
       },
       {
-         "description" : "The exceptional feat of eight-year-old Roman Shogdzhiev, triumphing over five grandmasters in the World Rapid and Blitz Championships, earned him praise from his idol, GM Magnus Carlsen. Carlsen&#39;s double victory in the recently concluded event i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/roman-shogdzhiev-beats-five-grandmasters",
-         "pubDate" : "Mon, 08 Jan 2024 13:18:00",
-         "title" : "8-Year-Old Roman Shogdzhiev Amazes Chess World By Beating 5 Grandmasters"
-      },
-      {
          "description" : " The 2024 Australian Championship appears to be a race between two players/ With 8 rounds completed IM Rishi Sardana leads on 7/8, having conceded a second draw in todays round. FM Fred Litchfield is in 2nd place with 6/8, while the remaining players are on 5/8 or below. Sardana has a potentially tricky matchup in round 9, playing IM Stephen Solomon, while Litchfield is up against one of the tournament surprise packets, CM Daniel Melamed. While Litchfield still has chances to earn an IM norm from this event, the pairings are not doing him any favours. While he has played the required number of IM's for a 9 game norm, he hasn't played the required number of titles players (only 4 at this stag",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1048,22 +1064,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/world-rapid-and-blitz-championships-2023",
          "pubDate" : "Sat, 30 Dec 2023 13:56:00",
          "title" : "World Rapid and Blitz Championships 2023 - Games and Results"
-      },
-      {
-         "description" : " Day 4 of the 2023 World Rapid and Blitz turned out to be pretty wild. The big news story was the game between Nepomniachtchi and Dubov in Round 13. They agreed to a draw after dancing their knights around the board for 12 moves, reaching the starting position (with the knights have swapped starting squares). The Fairplay team immediately alerted the Chief Arbiter, who scored the game 0-0. An appeal was lodged, but at 2:15 am it was rejected. There was another appeal earlier in the tournament, around whether a clock was pressed, or whether it was faulty. This took an hour to resolve, throwing out the schedule considerably. And finally there was a technical issue with the pairings in the late",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2023/12/2023-world-rapid-and-blitz-day-4.html",
-         "pubDate" : "Sat, 30 Dec 2023 10:09:00",
-         "title" : "2023 World Rapid and Blitz - Day 4"
-      },
-      {
-         "description" : " Carlsen won his fifth World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, and now goes for his seventh Blitz title over 21 rounds Magnus Carlsen, the highest ranked player in history, led a 202-player field almost all the way to retain his World Rapid crown at Samarkand on Thursday with an unbeaten 10/13 total, seven wins and six draws. It was the fifth Rapid title for the 33-year-old Norwegian, who abdicated his classical crown last year as he preferred faster time limits. In rapid chess, each player has 15 minutes for all the moves plus 10 additional seconds for each move starting from move one. <a href=\"https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carls",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2023/dec/29/chess-magnus-carlsen-world-rapid-champion-again-and-targets-blitz",
-         "pubDate" : "Sat, 30 Dec 2023 09:23:22",
-         "title" : "Chess: Magnus Carlsen World Rapid champion again and targets Blitz"
       }
    ]
 }
