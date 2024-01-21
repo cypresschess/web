@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The organisers in Stavanger have announced the participants of the upcoming Norway Chess Tournament. As a novelty, a women's tournament will now be organised in parallel under the same conditions as the open event from 27 May to 7 June. Each tournament will feature six players, with both world champions included - Ju Wenjun and Ding Liren - besides local hero and world number one Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-preview",
+         "pubDate" : "Sun, 21 Jan 2024 12:00:00",
+         "title" : "Norway Chess introduces parallel women's tournament"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2851",
+         "pubDate" : "Sun, 21 Jan 2024 11:31:58",
+         "title" : "Tata Steel Masters 2024: Three-way tie on the top"
+      },
+      {
          "description" : "The standings in both the Masters and Challengers were shaken up in round 7 of the Tata Steel Chess Festival. In the Masters, Nodirbek Abdusattorov defeated former sole leader Anish Giri and is now tied for first place - both with Giri and with Gukesh D., who scored a third consecutive victory on Saturday. In the Challengers, Saleh Salem took the lead after beating Eline Roebers and seeing former leader Erwin l'Ami losing to Jaime Santos. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -55,7 +71,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/25-years-ago-kasparov-topalov-1999",
          "pubDate" : "Sat, 20 Jan 2024 02:05:00",
-         "title" : "25 Years Ago: Kasparov-Topalov, The Pearl Of Wijk aan Zee"
+         "title" : "25 Years Ago, Kasparov-Topalov Was Played In Wijk Aan Zee"
       },
       {
          "description" : "",
@@ -144,6 +160,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/gukesh-and-ju-wenjun-winners-in-tata-steel-masters-round-5",
          "pubDate" : "Thu, 18 Jan 2024 21:53:00",
          "title" : "Gukesh and Ju Wenjun winners in Tata Steel Masters Round 5 - 5"
+      },
+      {
+         "description" : "In a recent post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/fide-rating-list-january-2024.html\">FIDE Rating List - January 2024</A> (January 2024), I wondered where to go next with the data. I decided, <BLOCKQUOTE> One idea is to look at the doubling of players under the FIDE flag ('FID'). To get started, here are counts of 'FID' players for the past five years:-<BR> <BR> 2020 : 252<BR> 2021 : 254<BR> 2022 : 263<BR> 2023 : 527<BR> 2024 : 798 </BLOCKQUOTE> <P> Those numbers total 2094 players, of which 507 were rated 2000 or above. Of course, some of those players were listed as 'FID' for all five years, but I'll come back to that a bit later. <P> The key to detecting federation t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/players-under-fide-flag.html",
+         "pubDate" : "Thu, 18 Jan 2024 16:04:00",
+         "title" : "Players under the FIDE Flag"
       },
       {
          "description" : "A draw in the fifth round was enough for GM Anish Giri to increase his lead to a full point at the 2024 Tata Steel Chess Tournament. Second-placed GM Alireza Firouzja suffered an unexpected loss against Women&#39;s World Champion Ju Wenjun, who won a ...",
