@@ -26,6 +26,14 @@ news_feed (
          "title" : "Tata Steel Masters 2024: Three-way tie on the top"
       },
       {
+         "description" : "Leonid Ivanovic from Serbia has earned his place in the history books by becoming the first player under the age of nine to defeat a grandmaster in classical chess.&#38;nbsp; The chess world has recently been witnessing a surge in children scoring e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/8-year-old-becomes-youngest-to-beat-grandmaster-in-classical-chess",
+         "pubDate" : "Sun, 21 Jan 2024 07:19:00",
+         "title" : "8-Year-Old Makes History Becoming Youngest To Beat Grandmaster In Classical Chess"
+      },
+      {
          "description" : "The standings in both the Masters and Challengers were shaken up in round 7 of the Tata Steel Chess Festival. In the Masters, Nodirbek Abdusattorov defeated former sole leader Anish Giri and is now tied for first place - both with Giri and with Gukesh D., who scored a third consecutive victory on Saturday. In the Challengers, Saleh Salem took the lead after beating Eline Roebers and seeing former leader Erwin l'Ami losing to Jaime Santos. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -640,14 +648,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2023-starts-in-monaco/",
          "pubDate" : "Wed, 10 Jan 2024 20:36:59",
          "title" : "European Women's Rapid and Blitz Chess Championship 2023 starts in Monaco"
-      },
-      {
-         "description" : "GM Daniil Dubov missed out on tying world number-one Magnus Carlsen for first place in the FIDE World Blitz Championship 2023 after both he and GM Ian Nepomniachtchi got zero points for the knight-moves-only draw they made in round 11. In a 59-min...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-dubov-dance-knights-podcast",
-         "pubDate" : "Wed, 10 Jan 2024 15:12:00",
-         "title" : "Nepomniachtchi On The Dance Of The Knights: 'I'm Not Proud'"
       },
       {
          "description" : "The ChessBase Christmas Puzzle week has concluded, but one final competition remains! To all amateurs and aspiring composers, now is your chance to gain fame by submitting a composition with chance for prizes too - with ChessBase publications in the brand-new eBook format up for grabs! The deadline for submission is January 21st - this article provides all other details! So good luck and happy composing to all!",
