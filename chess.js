@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Since we can't hope to emulate the calculating ability of modern engines, what we must do is to plough a sensible course, in which we calculate as much as possible within the constraints of the time limit, aiming for positions to play in which we feel reasonably comfortable. There's little advantage in going for some horrifically complicated line in which the machine is very happy but we feel seasick! | Photo: Lennart Ootes / Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-210",
+         "pubDate" : "Sun, 21 Jan 2024 20:00:00",
+         "title" : "Jon Speelman: Sensible decision making"
+      },
+      {
          "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1016,22 +1024,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/",
          "pubDate" : "Mon, 01 Jan 2024 00:58:44",
          "title" : "The Chess Drum's Highlights of 2023"
-      },
-      {
-         "description" : " The 15th Rouen Open took place Tue 26th to Fri 29th Dec 2023. It's an event I've never covered in TWIC before. Alireza Firouzja played in this 7 round Swiss in a final, final attempt to qualify for the Candidates. Rouen is different to Chartres and will in my view be rated, this is a regular scheduled Swiss, Firouzja withdrew from the World Rapid and Blitz knew going in he would have to score 7/7. In round 6 he defeated his main obstacle, Gata Kamsky. He then beat fellow Iranian expat IM Kamran Shirazi in the final round. Shirazi has lived in France for many years and is a frequent competitor in the Paris Championship. Now Firouzja has won this event with 7/7 and gained enough points to ove",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/15th-rouen-open-2023",
-         "pubDate" : "Sun, 31 Dec 2023 17:14:00",
-         "title" : "15th Rouen Open 2023 - Games and Results"
-      },
-      {
-         "description" : "<P ALIGN=CENTER> <img src=\"https://www.mark-weeks.com/cfaa/cfa-nl31.png\" width=\"400\" height=\"99\"><BR> <A HREF=\"https://cooltext.com/\">https://cooltext.com/</A> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2023/12/happy-2.html",
-         "pubDate" : "Sun, 31 Dec 2023 16:40:00",
-         "title" : "Happy 2&Hat;3*11*23!"
       }
    ]
 }
