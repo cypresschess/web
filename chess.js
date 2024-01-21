@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Sun, 21 Jan 2024 13:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The organisers in Stavanger have announced the participants of the upcoming Norway Chess Tournament. As a novelty, a women's tournament will now be organised in parallel under the same conditions as the open event from 27 May to 7 June. Each tournament will feature six players, with both world champions included - Ju Wenjun and Ding Liren - besides local hero and world number one Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1024,22 +1032,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2023/12/happy-2.html",
          "pubDate" : "Sun, 31 Dec 2023 16:40:00",
          "title" : "Happy 2&Hat;3*11*23!"
-      },
-      {
-         "description" : " Magnus Carlsen completed the double at the 2023 World Rapid and Blitz by winning the Blitz tournament with 16/21. He started the 2nd day of the Blitz with a loss to Maxime Vachier-Lagrave but finished with 7/8 to end up half a point ahead of Daniil Dubov. Vladislav Artemiev was in the lead at round 16 but fell back to 3rd place by the end. Valentina Gunina was the popular winner of the Women's Blitz, finishing with 14/17. Alexandra Kosteniuk was 2nd on 13.5, and Jiner Zhu was 3rd on 12.5. Unlike Day 4, there were no issues on the last day (at least from a pairing and organizational point of view). There was a slight delay for the final round after Carlsen queried the color allocation of his",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/2023-world-rapid-and-blitz-final-day.html",
-         "pubDate" : "Sun, 31 Dec 2023 13:31:00",
-         "title" : "2023 World Rapid and Blitz - Final Day"
-      },
-      {
-         "description" : "Today we have two very special problems. They are doubtlessly like no other chess puzzle you have seen. And warning: they are very hard. You could easily spend a substantial part of the final day of the year 2023 struggling to solve them. But if you succeed, you will experience an exhilarating feeling of pride. Take a look.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/unusual-puzzles-to-end-the-year",
-         "pubDate" : "Sun, 31 Dec 2023 12:59:37",
-         "title" : "Unusual puzzles to end the year!"
       }
    ]
 }
