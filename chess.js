@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nodirbek Abdusattorov defeated Anish Giri in the seventh round of the Tata Steel Masters to catch the Dutchman in the lead on 4.5 points. Giri was comfortable out of the opening but just one slightly poor move 22...b5?! led to a world of trouble and an eventual loss. Gukesh also caught Giri after a slightly fortunate win against Max Warmerdam following a very late blunder by the Dutchman in a drawn rook and pawn endgame. Vidit was the beneficiary of a single very bad move from Alireza Firouzja in a known position and went on to win in 42 moves. The remaining games were drawn Parham Maghsoodloo against Ian Nepomniachtchi, Praggnanandhaa against Jorden Van Foreest, Alexander Donchenko against",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/abdusattorov-beats-giri-to-transform-the-leader-board-of-the-tata-steel-masters-after-7-rounds",
+         "pubDate" : "Sat, 20 Jan 2024 21:02:00",
+         "title" : "Abdusattorov beats Giri to transform the leader board of the Tata Steel Masters after 7 rounds - 7"
+      },
+      {
+         "description" : "With six rounds to go, the 2024 Tata Steel Chess Tournament is wide open again after GM Nodirbek Abdusattorov beat GM Anish Giri on Saturday. In doing so, the 19-year-old Uzbek grandmaster caught Giri in first place. Soon after, GM Gukesh Dommaraj...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-7",
+         "pubDate" : "Sat, 20 Jan 2024 14:37:00",
+         "title" : "Abdusattorov Beats Giri For Shared Lead With Gukesh In Tata Steel Chess Masters"
+      },
+      {
+         "description" : "With the 2024 Candidates Tournament mere months away, GM Hikaru Nakamura has shown no signs of reducing his online tournament participation, taking January&#39;s third Bullet Brawl with a commanding score of 269. Amassing 72 wins in two hours, Nakamur...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-january-20-2024",
+         "pubDate" : "Sat, 20 Jan 2024 14:16:00",
+         "title" : "Nakamura Notches 31-Game Streak In Latest Bullet Brawl Victory"
+      },
+      {
          "description" : "Salvador Dali once said: At the age of six I wanted to be a cook. At seven I wanted to be Napoleon and my ambition has been growing steadily ever since. I have never wanted to be Napoleon, but I did once harbour ambitions to be the Duke of Wellington, or at least the chessboard equivalent. At []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/25-years-ago-kasparov-topalov-1999",
          "pubDate" : "Sat, 20 Jan 2024 02:05:00",
          "title" : "25 Years Ago: Kasparov-Topalov, The Pearl Of Wijk aan Zee"
-      },
-      {
-         "description" : "Defending champion Anish Giri remains the sole leader of the Tata Steel Masters after six rounds. The Dutchman could have increased his lead, though, as he failed to convert an advantageous position against Parham Maghsoodloo on Friday. Standing a half point back is Alireza Firouzja, who bounced back from his round-5 loss by beating Wei Yi with white. In the Challegers, Erwin l'Ami escaped with a draw in his game against second-placed Anton Korobov to keep the sole lead. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r6",
-         "pubDate" : "Sat, 20 Jan 2024 01:05:00",
-         "title" : "Tata Steel Chess R6: Giri misses win, remains sole leader"
       },
       {
          "description" : "",
@@ -626,14 +642,6 @@ news_feed (
          "title" : "Elshan Does Pushups in a Dark Room | HIGHLIGHT"
       },
       {
-         "description" : "GM-elect Vaishali Rameshbabu has clinched one of India&#39;s most prestigious awards thanks to her chess prowess, while her brother GM Praggnanandhaa Rameshbabu has secured new backing from an Indian billionaire. Their maestro trainer GM R.B Ramesh is...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vaishali-ramesh-awards-praggnanandhaa-billionaire-backing",
-         "pubDate" : "Wed, 10 Jan 2024 06:41:00",
-         "title" : "Vaishali, Ramesh Receive Awards, Pragg Backed By India's 2nd Richest Person"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi takes you by the hand to lead you through chess endgame puzzles, so complicated you could call them labyrinths! Positions are taken from &quot;Endgame Labyrinths&quot; by Steffen Nielsen and Jacob Aagaard: <a href=\"https://forwardchess.com/product/endgame-labyrinths\">https://forwardchess.com/product/endgame-labyrinths</a>. 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/studying-endgame-labyrinth-grandmasters-choice-gm-elsh",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://aicf.in/live-game-link-for-2nd-indore-international-grand-master-chess-tournament-2024-gm/",
          "pubDate" : "Tue, 09 Jan 2024 06:02:13",
          "title" : "Live game link for 2nd Indore International Grand master Chess Tournament 2024 - GM"
-      },
-      {
-         "description" : "World Champion Ding Liren seems ready and eager to return to the chessboard for his first classical chess tournament in eight months. &#34;I am much better than maybe two or three months ago,&#34; he said in an interview with Chess.com, a few days ahead o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ding-liren-interview-tata-steel-chess",
-         "pubDate" : "Tue, 09 Jan 2024 03:20:00",
-         "title" : "Ding Liren Ready For Tata: 'I Feel Much Better Than Before'"
       },
       {
          "description" : "For the past month I've been using one post per week to explore <I>AI Comics</I> (*). In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/father-time-and-new-year-baby.html\">Father Time and the New Year Baby</A> (January 2024), I wrote, <BLOCKQUOTE> After a month experimenting with this technology, it's time to carry the idea one step further. &#149; Next: The chess village. </BLOCKQUOTE> <P> A 'step further' means to develop a complete story using <I>AI Comics</I> to illustrate the story. The story is mine; the illustrations are <I>AI Comics</I>. This post is the first installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa08.jpg\" WIDTH=335 HEI",
@@ -1024,22 +1024,6 @@ news_feed (
          "link" : "https://aicf.in/14th-chennai-gm-open-live-games-link/",
          "pubDate" : "Sun, 31 Dec 2023 07:06:15",
          "title" : "14th Chennai GM Open LIVE Games LINK"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2826",
-         "pubDate" : "Sat, 30 Dec 2023 21:55:36",
-         "title" : "FIDE Circuit: Gukesh qualifies for Candidates 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2827",
-         "pubDate" : "Sat, 30 Dec 2023 21:36:37",
-         "title" : "Kenyan Championship 2023: Joseph Methu and Sasha Mongeli win titles "
       }
    ]
 }
