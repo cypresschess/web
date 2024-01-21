@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The standings in both the Masters and Challengers were shaken up in round 7 of the Tata Steel Chess Festival. In the Masters, Nodirbek Abdusattorov defeated former sole leader Anish Giri and is now tied for first place - both with Giri and with Gukesh D., who scored a third consecutive victory on Saturday. In the Challengers, Saleh Salem took the lead after beating Eline Roebers and seeing former leader Erwin l'Ami losing to Jaime Santos. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r7",
+         "pubDate" : "Sun, 21 Jan 2024 02:10:00",
+         "title" : "Tata Steel Chess R7: Abdusattorov and Gukesh score, catch Giri in the lead"
+      },
+      {
          "description" : " Nodirbek Abdusattorov defeated Anish Giri in the seventh round of the Tata Steel Masters to catch the Dutchman in the lead on 4.5 points. Giri was comfortable out of the opening but just one slightly poor move 22...b5?! led to a world of trouble and an eventual loss. Gukesh also caught Giri after a slightly fortunate win against Max Warmerdam following a very late blunder by the Dutchman in a drawn rook and pawn endgame. Vidit was the beneficiary of a single very bad move from Alireza Firouzja in a known position and went on to win in 42 moves. The remaining games were drawn Parham Maghsoodloo against Ian Nepomniachtchi, Praggnanandhaa against Jorden Van Foreest, Alexander Donchenko against",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-december-2023/",
          "pubDate" : "Wed, 10 Jan 2024 11:18:17",
          "title" : "ECU E-Magazine December 2023"
-      },
-      {
-         "description" : "The second set of Titled Tuesday tournaments of 2024 was won by GMs Eduardo Iturrizaga and Daniil Dubov on January 9. A total of 733 participants in the first tournament was easily the most since Titled Tuesday was split into two tournaments, smas...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/iturrizaga-dubov-win-titled-tuesday-january-9-2024",
-         "pubDate" : "Wed, 10 Jan 2024 08:52:00",
-         "title" : "Titled Cup Continues To Grow Titled Tuesday"
       },
       {
          "description" : "<div class=\"body text-secondary\"> During his Grandmaster&#039;s Choice class on the Endgame Labyrinth, Grandmaster Elshan Moradiabadi loses a bet with himself. He honors it by doing ten pushups in front of the class. 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/elshan-does-pushups-dark-room-highlight\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J6WmMv2xKGQ.jpg?itok=bXV35An6\" alt=\"\" /></a></div>",
