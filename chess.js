@@ -1016,14 +1016,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/unusual-puzzles-to-end-the-year",
          "pubDate" : "Sun, 31 Dec 2023 12:59:37",
          "title" : "Unusual puzzles to end the year!"
-      },
-      {
-         "description" : "Please Find the below 14th Chennai GM OPEN DGT Live Games Link https://view.livechesscloud.com/#9c015835-e28f-4b39-8d59-26fb01f18996",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/14th-chennai-gm-open-live-games-link/",
-         "pubDate" : "Sun, 31 Dec 2023 07:06:15",
-         "title" : "14th Chennai GM Open LIVE Games LINK"
       }
    ]
 }
