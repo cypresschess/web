@@ -10,6 +10,14 @@ news_feed (
          "title" : "Tata Steel Masters 2024: Firouzja rejoins the leaders"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2853",
+         "pubDate" : "Sun, 21 Jan 2024 22:53:05",
+         "title" : "Armenian Championship 2024: Hovhannisyan and Gaboyan clinch titles"
+      },
+      {
          "description" : " Ian Nepomniachtchi defeated the leader Nodirbek Abdusattorov in the eighth round of the Tata Steel Masters which left the event wide open going into the second rest day. Gukesh, Giri and Firouzja lead on 5/8 but 6 more players are a point or less from the leaders with five rounds to go. Nepomniachtchi inflicted a broken pawn structure on Abdusattorov and whilst this wasn't immediately winning Abdusattorov didn't find a way to organise his pieces and he was soon just lost. Alireza Firouzja was gifted a point by Ding Liren in an equal position when the World Champion missed a straightforward tactic. The remaining game were drawn, those were Vidit-Donchenko, Warmerdam-Praggnanandhaa, Ju Wenjun",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -42,14 +50,6 @@ news_feed (
          "title" : "Firouzja Joins Leaders; Abdusattorov Falls Behind In Tata Steel Chess Masters"
       },
       {
-         "description" : "The organisers in Stavanger have announced the participants of the upcoming Norway Chess Tournament. As a novelty, a women's tournament will now be organised in parallel under the same conditions as the open event from 27 May to 7 June. Each tournament will feature six players, with both world champions included - Ju Wenjun and Ding Liren - besides local hero and world number one Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-preview",
-         "pubDate" : "Sun, 21 Jan 2024 12:00:00",
-         "title" : "Norway Chess introduces parallel women's tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/8-year-old-becomes-youngest-to-beat-grandmaster-in-classical-chess",
          "pubDate" : "Sun, 21 Jan 2024 07:19:00",
          "title" : "8-Year-Old Makes History Becoming Youngest To Beat Grandmaster In Classical Chess"
-      },
-      {
-         "description" : "The standings in both the Masters and Challengers were shaken up in round 7 of the Tata Steel Chess Festival. In the Masters, Nodirbek Abdusattorov defeated former sole leader Anish Giri and is now tied for first place - both with Giri and with Gukesh D., who scored a third consecutive victory on Saturday. In the Challengers, Saleh Salem took the lead after beating Eline Roebers and seeing former leader Erwin l'Ami losing to Jaime Santos. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r7",
-         "pubDate" : "Sun, 21 Jan 2024 02:10:00",
-         "title" : "Tata Steel Chess R7: Abdusattorov and Gukesh score, catch Giri in the lead"
       },
       {
          "description" : " Nodirbek Abdusattorov defeated Anish Giri in the seventh round of the Tata Steel Masters to catch the Dutchman in the lead on 4.5 points. Giri was comfortable out of the opening but just one slightly poor move 22...b5?! led to a world of trouble and an eventual loss. Gukesh also caught Giri after a slightly fortunate win against Max Warmerdam following a very late blunder by the Dutchman in a drawn rook and pawn endgame. Vidit was the beneficiary of a single very bad move from Alireza Firouzja in a known position and went on to win in 42 moves. The remaining games were drawn Parham Maghsoodloo against Ian Nepomniachtchi, Praggnanandhaa against Jorden Van Foreest, Alexander Donchenko against",
@@ -1032,14 +1024,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/a-lot-of-games-to-look-at.html",
          "pubDate" : "Mon, 01 Jan 2024 13:08:00",
          "title" : "A lot of games to look at"
-      },
-      {
-         "description" : " Our chess highlights of 2023 will show how controversy served as the mainstay of headlines. We even saw a player busted for impersonating a woman! The Carlsen-Niemann controversy was still bubbling as the chess community saw a dismissal on one count of the $100 million lawsuit in June. FIDE finally released a statement and, on The post <a href=\"https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/\">The Chess Drum's Highlights of 2023</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2023/12/31/the-chess-drums-highlights-of-2023/",
-         "pubDate" : "Mon, 01 Jan 2024 00:58:44",
-         "title" : "The Chess Drum's Highlights of 2023"
       }
    ]
 }
