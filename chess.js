@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2852",
+         "pubDate" : "Sun, 21 Jan 2024 23:14:05",
+         "title" : "Tata Steel Masters 2024: Firouzja rejoins the leaders"
+      },
+      {
+         "description" : " Ian Nepomniachtchi defeated the leader Nodirbek Abdusattorov in the eighth round of the Tata Steel Masters which left the event wide open going into the second rest day. Gukesh, Giri and Firouzja lead on 5/8 but 6 more players are a point or less from the leaders with five rounds to go. Nepomniachtchi inflicted a broken pawn structure on Abdusattorov and whilst this wasn't immediately winning Abdusattorov didn't find a way to organise his pieces and he was soon just lost. Alireza Firouzja was gifted a point by Ding Liren in an equal position when the World Champion missed a straightforward tactic. The remaining game were drawn, those were Vidit-Donchenko, Warmerdam-Praggnanandhaa, Ju Wenjun",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/tata-steel-masters-wide-open-after-8-rounds",
+         "pubDate" : "Sun, 21 Jan 2024 20:54:00",
+         "title" : "Tata Steel Masters wide open after 8 rounds - 8"
+      },
+      {
          "description" : "Since we can't hope to emulate the calculating ability of modern engines, what we must do is to plough a sensible course, in which we calculate as much as possible within the constraints of the time limit, aiming for positions to play in which we feel reasonably comfortable. There's little advantage in going for some horrifically complicated line in which the machine is very happy but we feel seasick! | Photo: Lennart Ootes / Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
          "pubDate" : "Sun, 21 Jan 2024 13:55:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "GM Alireza Firouzja&#39;s topsy-turvy Tata Steel Chess Tournament continued on Sunday with another bounce-back victory, this time good enough to join GMs Anish Giri and Gukesh Dommaraju in first place. GM Nodirbek Abdusattorov is not in that group any...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-8",
+         "pubDate" : "Sun, 21 Jan 2024 13:06:00",
+         "title" : "Firouzja Joins Leaders; Abdusattorov Falls Behind In Tata Steel Chess Masters"
       },
       {
          "description" : "The organisers in Stavanger have announced the participants of the upcoming Norway Chess Tournament. As a novelty, a women's tournament will now be organised in parallel under the same conditions as the open event from 27 May to 7 June. Each tournament will feature six players, with both world champions included - Ju Wenjun and Ding Liren - besides local hero and world number one Magnus Carlsen.",
@@ -632,14 +656,6 @@ news_feed (
          "link" : "https://www.europechess.org/tata-steel-chess-2024-starts-in-wijk-aan-zee/",
          "pubDate" : "Thu, 11 Jan 2024 09:32:29",
          "title" : "Tata Steel Chess 2024 starts in Wijk aan Zee"
-      },
-      {
-         "description" : "GM Valentina Gunina is one of seven Russian women in history to attain the chess grandmaster title. She is a three-time European women&#39;s chess champion, a five-time Russian women&#39;s chess champion, has won three gold medals with the Russian nationa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gunina-winning-world-blitz-title-battling-with-illness",
-         "pubDate" : "Thu, 11 Jan 2024 09:04:00",
-         "title" : "Gunina On Winning World Blitz Title While Battling With Serious Illness"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi demonstrates how to stymie wacky openings like the Stafford and Elephant gambits. 2024.01.11<br /> Boris Savchenko vs Viktorija Cmilyte, Politiken Cup (2011): C52 Evans gambit, Tartakower attack<br /> C40 QP counter-gambit, Maroczy gambit<br /> C50 Giuoco Piano, Jerome gambit<br /> C63 Ruy Lopez, Schliemann defence, Berger variation<br /> C42 Petrov&#039;s defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-line",
