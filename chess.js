@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " For some players, there is never a good time to resign. \"Play it out\" is their mantra. For others, resigning is a way of gaining at some small amount of dignity for an otherwise awful game. But generally, there is no absolutely correct answer. In the following game between Firouzja and Ding Liren, there were potentially 3 places where an understandable resignation could occur. The first was on move 21 after Firouza collected 2 pieces for a rook. The second was on move 30, when Firouzja was ahead a piece for a pawn. And the third was when it did actually happen, as Ding realised he had no more saving chances. <br /> <b>Firouzja,Alireza (2759) - Ding,Liren (2780) [D40]</b><br /> Tata Steel Ma",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/when-is-it-good-time-to-resign.html",
+         "pubDate" : "Mon, 22 Jan 2024 11:59:00",
+         "title" : "When is it a good time to resign?"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a prominent chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is pleased to present an update on its developments for the full year 2023. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.4035087719298\"> <img src=\"https://worldchess.com/news/pictures/photo_2024-01-22_12-14-06.jpg\" width=\"1280\" height=\"912\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2024-01-22_12-14-14.jpg\" width=\"1280\" height=\"956\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2024-01-22_12-14-18.jpg\" width=\"1280\" h",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fy-2023-operational-update/",
+         "pubDate" : "Mon, 22 Jan 2024 09:18:45",
+         "title" : "FY 2023 Operational Update"
+      },
+      {
          "description" : "By beating none other than world champion Ding Liren, Alireza Firouzja joined the leading pack at the Tata Steel Masters in Wijk aan Zee. The remaining decisive result of the round saw Ian Nepomniachtchi defeating former co-leader Nodirbek Abdusattorov. Meanwhile, in the Challengers, Marc'Andria Maurizzi beat Saleh Salem and leapfrogged him in the standings. Maurizzi is now the sole leader of the event with 5&frac12;/8 points. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Armenian Championship 2024: Hovhannisyan and Gaboyan clinch titles"
       },
       {
-         "description" : " Ian Nepomniachtchi defeated the leader Nodirbek Abdusattorov in the eighth round of the Tata Steel Masters which left the event wide open going into the second rest day. Gukesh, Giri and Firouzja lead on 5/8 but 6 more players are a point or less from the leaders with five rounds to go. Nepomniachtchi inflicted a broken pawn structure on Abdusattorov and whilst this wasn't immediately winning Abdusattorov didn't find a way to organise his pieces and he was soon just lost. Alireza Firouzja was gifted a point by Ding Liren in an equal position when the World Champion missed a straightforward tactic. The remaining game were drawn, those were Vidit-Donchenko, Warmerdam-Praggnanandhaa, Ju Wenjun",
+         "description" : " Ian Nepomniachtchi defeated the leader Nodirbek Abdusattorov in the eighth round of the Tata Steel Masters which left the event wide open going into the second rest day. Gukesh, Giri and Firouzja lead on 5/8 but 6 more players are a point or less from the leaders with five rounds to go. Nepomniachtchi inflicted a broken pawn structure on Abdusattorov and whilst this wasn't immediately winning Abdusattorov didn't find a way to organise his pieces and he was soon just lost. Alireza Firouzja beat Ding Liren when the latter miscalculated a tactical sequence and lost material for no compensation. The remaining game were drawn, those were Vidit-Donchenko, Warmerdam-Praggnanandhaa, Ju Wenjun, Giri",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/tata-steel-masters-wide-open-after-8-rounds",
@@ -170,7 +186,7 @@ news_feed (
          "title" : "Chess: India's Praggnanandhaa, 18, beats world champion Ding at Wijk aan Zee"
       },
       {
-         "description" : "It may not be a record, but the world has a new youngest grandmaster&#38;mdash;14-year-old Ukrainian prodigy GM Ihor Samunenkov. The teenager&#38;rsquo;s title has been confirmed by the world chess federation FIDE this month after he met all the require...",
+         "description" : "It may not be a record, but it is still a major achievement: the world has a new youngest grandmaster&#38;mdash;14-year-old Ukrainian prodigy GM Ihor Samunenkov. The teenager&#38;rsquo;s title has been confirmed by the world chess federation FIDE this m...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ukrainian-prodigy-ihor-samunenkov-confirmed-as-worlds-young-grandmaster",
