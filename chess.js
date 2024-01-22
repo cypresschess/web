@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "By beating none other than world champion Ding Liren, Alireza Firouzja joined the leading pack at the Tata Steel Masters in Wijk aan Zee. The remaining decisive result of the round saw Ian Nepomniachtchi defeating former co-leader Nodirbek Abdusattorov. Meanwhile, in the Challengers, Marc'Andria Maurizzi beat Saleh Salem and leapfrogged him in the standings. Maurizzi is now the sole leader of the event with 5&frac12;/8 points. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r8",
+         "pubDate" : "Mon, 22 Jan 2024 07:25:00",
+         "title" : "Tata Steel Chess R8: Firouzja beats Ding, shares the lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-210",
          "pubDate" : "Sun, 21 Jan 2024 20:00:00",
          "title" : "Jon Speelman: Sensible decision making"
-      },
-      {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Sun, 21 Jan 2024 13:55:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "GM Alireza Firouzja&#39;s topsy-turvy Tata Steel Chess Tournament continued on Sunday with another bounce-back victory, this time good enough to join GMs Anish Giri and Gukesh Dommaraju in first place. GM Nodirbek Abdusattorov is not in that group any...",
