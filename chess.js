@@ -933,6 +933,14 @@ news_feed (
          "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
+         "link" : "https://www.espn.com/espn/story/_/id/39239887/early-paris-olympics-2024-predictions-india-medals-neeraj-chopra-satwiksairaj-rankireddy-chirag-shetty?device=featurephone",
+         "pubDate" : "Thu, 4 Jan 2024 08:39:13",
+         "title" : "Early Paris Olympics predictions: Who will win medals for India?"
+      },
+      {
+         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
          "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
          "pubDate" : "Thu, 4 Jan 2024 03:40:52",
          "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
