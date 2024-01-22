@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the second segment of our problem-solving experiment, we invited a former world champion of chess solving (!) to answer the unorthodox chess puzzles, featured in our Dec. 31st article. This strong grandmaster breezed past the first two problems, and so we gave a final composition which proved to be slightly more challenging for the mathematician!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/watch-them-solving-2",
+         "pubDate" : "Mon, 22 Jan 2024 16:00:00",
+         "title" : "Watch them solving (2)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2854",
+         "pubDate" : "Mon, 22 Jan 2024 12:09:05",
+         "title" : "History of the Candidates: from Budapest (1950) to Toronto (2024)"
+      },
+      {
          "description" : " For some players, there is never a good time to resign. \"Play it out\" is their mantra. For others, resigning is a way of gaining at some small amount of dignity for an otherwise awful game. But generally, there is no absolutely correct answer. In the following game between Firouzja and Ding Liren, there were potentially 3 places where an understandable resignation could occur. The first was on move 21 after Firouza collected 2 pieces for a rook. The second was on move 30, when Firouzja was ahead a piece for a pawn. And the third was when it did actually happen, as Ding realised he had no more saving chances. <br /> <b>Firouzja,Alireza (2759) - Ding,Liren (2780) [D40]</b><br /> Tata Steel Ma",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -917,14 +933,6 @@ news_feed (
          "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/39239887/early-paris-olympics-2024-predictions-india-medals-neeraj-chopra-satwiksairaj-rankireddy-chirag-shetty?device=featurephone",
-         "pubDate" : "Thu, 4 Jan 2024 08:39:13",
-         "title" : "Early Paris Olympics predictions: Who will win medals for India?"
-      },
-      {
-         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
          "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
          "pubDate" : "Thu, 4 Jan 2024 03:40:52",
          "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
@@ -1024,22 +1032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2829",
          "pubDate" : "Mon, 01 Jan 2024 21:03:28",
          "title" : "Kwabena Adu-Poku and Gertrude Banini win the Ghanaian Championship 2023 "
-      },
-      {
-         "description" : "A week ago, in <A HREF=\"https://chessforallages.blogspot.com/2023/12/foxy-christmas-chess.html\">Foxy Christmas Chess</A> (December 2023), I wrote, <BLOCKQUOTE> This year Christmas falls on a Monday, which happens to coincide with a new series last seen in <I>Chessman Comics</I> (December 2023). </BLOCKQUOTE> <P> Christmas plus one week equals New Year's Day. Once again, our AI generated comics have something to say. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa01.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Father Time plays chess with New Year baby.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> After a month experimenting with this technology, it's time t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/father-time-and-new-year-baby.html",
-         "pubDate" : "Mon, 01 Jan 2024 16:29:00",
-         "title" : "Father Time and the New Year Baby"
-      },
-      {
-         "description" : " At some stage, I will take the time too look through the games from the 2023 World Rapid and Blitz. With 160 games per round, and a total of 34 rounds (across Rapid and Blitz), the event saw approximately 5000 games played. Some were great, some were memorable (for various reasons), and a few were best forgotten. But the following game played by Australian GM Anton Smirnov in the first round of the Blitz, falls into the entertaining category. <div class=\"separator\" style=\"clear: both; text-align: center;\"><a href=\"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjD3g6QJ3kx1vOKJAq7Smvb_u4RlFnPoAiS1qnm7QhWn4bNNzfQau-8LwwjeN2XMCruEdCgGvgDJIjRDlp4S6OwJQbK4U-Y7WC3sWenTqdlvGvTZvntyjnUFL",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/a-lot-of-games-to-look-at.html",
-         "pubDate" : "Mon, 01 Jan 2024 13:08:00",
-         "title" : "A lot of games to look at"
       }
    ]
 }
