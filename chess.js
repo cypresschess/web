@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE and World Chess are set to launch a Women's Wednesday Online Tournament series, a a groundbreaking move to elevate women's participation and recognition in the world of chess. The weekly event, hosted on the FIDE Online Arena platform (chessarena.com), and represents a significant stride in empowering women within the chess community. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/swiss-queens-wednesday",
+         "pubDate" : "Tue, 23 Jan 2024 21:02:23",
+         "title" : "Swiss Queens Wednesday"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows two of his games from the 2024 Charlotte Open. 2024.01.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-performance-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lIB7WoMBgHw.jpg?itok=t9rWUeaR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/my-performance-charlotte-road-2000-nm-julian-proleiko",
+         "pubDate" : "Tue, 23 Jan 2024 17:54:57",
+         "title" : "My Performance in Charlotte | Road to 2000 - NM Julian Proleiko"
+      },
+      {
          "description" : "The ECF is accepting registrations for the European Schools Championship in Limerick, Ireland between 30 May 08 June 2024. Please click here for the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -98,14 +114,6 @@ news_feed (
          "title" : "FY 2023 Operational Update"
       },
       {
-         "description" : "By beating none other than world champion Ding Liren, Alireza Firouzja joined the leading pack at the Tata Steel Masters in Wijk aan Zee. The remaining decisive result of the round saw Ian Nepomniachtchi defeating former co-leader Nodirbek Abdusattorov. Meanwhile, in the Challengers, Marc'Andria Maurizzi beat Saleh Salem and leapfrogged him in the standings. Maurizzi is now the sole leader of the event with 5&frac12;/8 points. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r8",
-         "pubDate" : "Mon, 22 Jan 2024 07:25:00",
-         "title" : "Tata Steel Chess R8: Firouzja beats Ding, shares the lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/tata-steel-masters-wide-open-after-8-rounds",
          "pubDate" : "Sun, 21 Jan 2024 20:54:00",
          "title" : "Tata Steel Masters wide open after 8 rounds - 8"
-      },
-      {
-         "description" : "Since we can't hope to emulate the calculating ability of modern engines, what we must do is to plough a sensible course, in which we calculate as much as possible within the constraints of the time limit, aiming for positions to play in which we feel reasonably comfortable. There's little advantage in going for some horrifically complicated line in which the machine is very happy but we feel seasick! | Photo: Lennart Ootes / Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-210",
-         "pubDate" : "Sun, 21 Jan 2024 20:00:00",
-         "title" : "Jon Speelman: Sensible decision making"
       },
       {
          "description" : "For this month's Flickr favorite, my short list had eight photos. Four of the eight were AI generated images and two were from the annual Tata tournament in Wijk aan Zee. Given my weakness for AI images, guess what I chose for this post? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa21.jpg\" WIDTH=345 HEIGHT=400><BR> <B>Top:</B> <A HREF=\"https://www.flickr.com/photos/ai_universe/53434638171/\">Strategische Finanzplanung: Schachspiel mit goldenen Bullen und bronzenen B&auml;renfiguren</A><BR> <B>Bottom:</B> <A HREF=\"https://www.flickr.com/photos/ai_universe/53438421042/\">Human vs AI playing Chess</A><BR> <B>Both:</B> &#169; Flickr user <I>Kostenlose Bilder mit KI</I> under <A",
@@ -1042,28 +1042,12 @@ news_feed (
          "title" : "Caplin Hastings International Chess Congress - live commentary"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi stretches classical players to their limits with less time on the clock. So, how good CAN you be in quick chess? 2024.01.02 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-good-you-can-be-fast-time-controls-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4q1XpMGRjWs.jpg?itok=zg9DljGy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-good-you-can-be-fast-time-controls-grandmasters-choice-gm-elshan-moradiabadi",
-         "pubDate" : "Tue, 02 Jan 2024 23:34:22",
-         "title" : "How Good YOU Can Be in Fast Time Controls! | Grandmaster's Choice - GM Elshan Moradiabadi"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2832",
          "pubDate" : "Tue, 02 Jan 2024 21:37:52",
          "title" : "2023 Vodafone Fiji Championship: Manoj Kumar and Cydel Terubea clinch titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2831",
-         "pubDate" : "Tue, 02 Jan 2024 20:05:21",
-         "title" : "New FIDE Rating and Title Regulations come into effect"
       }
    ]
 }
