@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF is accepting registrations for the European Schools Championship in Limerick, Ireland between 30 May 08 June 2024. Please click here for the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/euro-schools-2024/",
+         "pubDate" : "Tue, 23 Jan 2024 14:22:06",
+         "title" : "Euro Schools 2024"
+      },
+      {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Tue, 23 Jan 2024 13:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "The 84th Armenian National Championships held at the Petrosian Chess House in Tbilisi ended with a victory for Robert Hovhanissyan. Manuel Petrosyan won the silver medal ahead of Zaven Andriasian, who had the same number of points but the worse tiebreak. Susanna Gaboyan won the 79th Women's Championship. | Photos: Official page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "World Championships 2025 Call for Bids ends in 10 days"
       },
       {
-         "description" : "The ECU Board meeting on 21st January 2024, &#160;after authorisation by the ECU General Assembly 2023, approved the new rules for Fair Play and Safe Play Policy. The rules are effective from 1st January 2024. ",
+         "description" : "The ECU Board meeting on 21st January 2024, &#160;after authorisation by the ECU General Assembly 2023, approved the new rules for Fair Play and Safe Play Policy. The rules are effective from 1st January 2024. &#160;",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-board-approves-new-fair-play-and-safe-play-policy-rules/",
@@ -1048,22 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2831",
          "pubDate" : "Tue, 02 Jan 2024 20:05:21",
          "title" : "New FIDE Rating and Title Regulations come into effect"
-      },
-      {
-         "description" : "A new year means turning the page to the next twelve months of 'On the Cover' posts. This year will mark the tenth anniversary of the series, which started with <A HREF=\"https://chessforallages.blogspot.com/2014/03/march-1964-on-cover.html\">March 1964 'On the Cover'</A> (March 2014). In the last post for 2023, <A HREF=\"https://chessforallages.blogspot.com/2023/12/december-1973-1998-on-cover.html\">December 1973 & 1998 'On the Cover'</A> (December 2023), I noted, <BLOCKQUOTE> Last month's post about U.S. chess magazines 50 and 25 years ago, <I>November 1973 & 1998 'On the Cover'</I> (November 2023), had an arty portrait on the right. This month's post has a different sort of art. </BLOCKQUOTE>",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/january-1974-1999-on-cover.html",
-         "pubDate" : "Tue, 02 Jan 2024 16:19:00",
-         "title" : "January 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2830",
-         "pubDate" : "Tue, 02 Jan 2024 13:22:25",
-         "title" : "FIDE100 celebrations start with lecture on Folke Rogard at Rilton Cup"
       }
    ]
 }
