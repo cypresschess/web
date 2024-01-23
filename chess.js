@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 84th Armenian National Championships held at the Petrosian Chess House in Tbilisi ended with a victory for Robert Hovhanissyan. Manuel Petrosyan won the silver medal ahead of Zaven Andriasian, who had the same number of points but the worse tiebreak. Susanna Gaboyan won the 79th Women's Championship. | Photos: Official page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/armenian-championship-2024-hovhannisyan-and-gaboyan-clinch-titles",
+         "pubDate" : "Tue, 23 Jan 2024 12:00:00",
+         "title" : "Armenian Championship 2024: Hovhannisyan and Gaboyan clinch titles"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2856",
+         "pubDate" : "Tue, 23 Jan 2024 09:45:04",
+         "title" : "World Championships 2025 Call for Bids ends in 10 days"
+      },
+      {
+         "description" : "The ECU Board meeting on 21st January 2024, &#160;after authorisation by the ECU General Assembly 2023, approved the new rules for Fair Play and Safe Play Policy. The rules are effective from 1st January 2024. ",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-board-approves-new-fair-play-and-safe-play-policy-rules/",
+         "pubDate" : "Tue, 23 Jan 2024 09:41:50",
+         "title" : "ECU Board approves new Fair Play and Safe Play Policy rules"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a prominent chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is pleased to announce the launch of Women's Wednesday Online Tournament Series, <a href=\"https://chessarena.com/tournaments/the-swiss-queens-wednesday-1?utm_medium=article&utm_campaign=worldchess\" class=\"nu\">\"<u>Swiss Queens Wednesday</u>\"</a>, in partnership with the International Chess Federation (FIDE). <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Image-1.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> This new weekly event is dedicated to elevating women",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/launch-of-womens-wednesday-online-tournament-series/",
+         "pubDate" : "Tue, 23 Jan 2024 09:00:26",
+         "title" : "Launch of Women's Wednesday Online Tournament Series"
+      },
+      {
          "description" : "The 9th European Team Championship was played in Haifa, Israel, 35 years ago. There are many reasons why it was a notable landmark in history. It was the last time the unbeatable team from the Soviet Union took part. And it was the first time in over 25 years that they set foot on Israeli soil. They won Gold, but in the third round were surprised by the Greek team, consisting of five IMs and one FM. Efstratios Grivas, at the time a lowly IM, describes the match.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grivas-2",
          "pubDate" : "Tue, 23 Jan 2024 08:22:30",
          "title" : "The Soviets in Haifa: a final farewell"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2855",
+         "pubDate" : "Mon, 22 Jan 2024 21:11:31",
+         "title" : "FIDE and World Chess launch Women's Wednesday Online Tournament Series"
       },
       {
          "description" : "In the second segment of our problem-solving experiment, we invited a former world champion of chess solving (!) to answer the unorthodox chess puzzles, featured in our Dec. 31st article. This strong grandmaster breezed past the first two problems, and so we gave a final composition which proved to be slightly more challenging for the mathematician!",
@@ -1024,22 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2830",
          "pubDate" : "Tue, 02 Jan 2024 13:22:25",
          "title" : "FIDE100 celebrations start with lecture on Folke Rogard at Rilton Cup"
-      },
-      {
-         "description" : "The ECU Trainers Commission organizes the first Seminar for trainers' education &#38; titles. The Seminar will be held online from 19-29 February 2024, with free participation for 25 participants nominated by European National Chess Federations and five free places for participants nominated by the ECU Commission for Women's Chess. The Seminar is specially prepared for applicants for the ECU Expert Coach title (EEC). The title may/will be awarded as per the ECU ETC Regulations. In order to get the EEC []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/the-1st-ecu-trainers-online-seminar/",
-         "pubDate" : "Tue, 02 Jan 2024 10:23:22",
-         "title" : "The 1st ECU Trainers Online Seminar"
-      },
-      {
-         "description" : "Reference to our earlier notice on subject matter published on 19 October 2023 ,please find the venue and timings for your ready reference Date:10 to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/announcement-medical-evaluation-at-patna/",
-         "pubDate" : "Tue, 02 Jan 2024 08:52:07",
-         "title" : "Announcement :Medical Evaluation at Patna"
       }
    ]
 }
