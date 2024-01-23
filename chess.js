@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 9th European Team Championship was played in Haifa, Israel, 35 years ago. There are many reasons why it was a notable landmark in history. It was the last time the unbeatable team from the Soviet Union took part. And it was the first time in over 25 years that they set foot on Israeli soil. They won Gold, but in the third round were surprised by the Greek team, consisting of five IMs and one FM. Efstratios Grivas, at the time a lowly IM, describes the match.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-2",
+         "pubDate" : "Tue, 23 Jan 2024 08:22:30",
+         "title" : "The Soviets in Haifa: a final farewell"
+      },
+      {
          "description" : "In the second segment of our problem-solving experiment, we invited a former world champion of chess solving (!) to answer the unorthodox chess puzzles, featured in our Dec. 31st article. This strong grandmaster breezed past the first two problems, and so we gave a final composition which proved to be slightly more challenging for the mathematician!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-210",
          "pubDate" : "Sun, 21 Jan 2024 20:00:00",
          "title" : "Jon Speelman: Sensible decision making"
+      },
+      {
+         "description" : "For this month's Flickr favorite, my short list had eight photos. Four of the eight were AI generated images and two were from the annual Tata tournament in Wijk aan Zee. Given my weakness for AI images, guess what I chose for this post? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa21.jpg\" WIDTH=345 HEIGHT=400><BR> <B>Top:</B> <A HREF=\"https://www.flickr.com/photos/ai_universe/53434638171/\">Strategische Finanzplanung: Schachspiel mit goldenen Bullen und bronzenen B&auml;renfiguren</A><BR> <B>Bottom:</B> <A HREF=\"https://www.flickr.com/photos/ai_universe/53438421042/\">Human vs AI playing Chess</A><BR> <B>Both:</B> &#169; Flickr user <I>Kostenlose Bilder mit KI</I> under <A",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/consider-message-not-chess.html",
+         "pubDate" : "Sun, 21 Jan 2024 16:17:00",
+         "title" : "Consider the Message, Not the Chess"
       },
       {
          "description" : "GM Alireza Firouzja&#39;s topsy-turvy Tata Steel Chess Tournament continued on Sunday with another bounce-back victory, this time good enough to join GMs Anish Giri and Gukesh Dommaraju in first place. GM Nodirbek Abdusattorov is not in that group any...",
