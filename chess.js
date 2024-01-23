@@ -1024,22 +1024,6 @@ news_feed (
          "link" : "https://aicf.in/announcement-medical-evaluation-at-patna/",
          "pubDate" : "Tue, 02 Jan 2024 08:52:07",
          "title" : "Announcement :Medical Evaluation at Patna"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2828",
-         "pubDate" : "Mon, 01 Jan 2024 21:29:15",
-         "title" : "FIDE January 2024 rating list: Firouzja and Koneru qualify for Candidates"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2829",
-         "pubDate" : "Mon, 01 Jan 2024 21:03:28",
-         "title" : "Kwabena Adu-Poku and Gertrude Banini win the Ghanaian Championship 2023 "
       }
    ]
 }
