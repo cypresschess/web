@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nodirbek Abdusattorov and D Gukesh have a half point lead over Anish Giri and Praggnanandhaa going into the final rest day. There are three rounds left and it's still all to play for. Nodirbek Abdusattorov had black against Max Warmerdam in a Queen's Gambit Accepted. Yesterday's shocking turn around may well have still been affecting Warmerdam. After 13 moves the game was equal, 23.Ne2 was a clear error in a slightly worse position (23.Nd2) beautifully exploited by Abdusattorov with 24...f4! but the position remained a mess and 31..Bf5? was an error allowing white back into the game with 32.Qe3 and even be better after 35.Bxe4! and then a further blunder 39...Rd6? (39...e4!) left Warmerdam ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/abdusattorov-and-gukesh-lead-the-tata-steel-masters-with-6.510",
+         "pubDate" : "Wed, 24 Jan 2024 20:26:00",
+         "title" : "Abdusattorov and Gukesh lead the Tata Steel Masters with 6.5/10 - 10"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107123220.cms\" />Grandmaster R Praggnanandhaa defeated the reigning and four-time women's world champion Wenjun Ju from China in the ninth round of the Tata Steel Masters. The victory made Praggnanandhaa the only player in recent times to have beaten both the reigning world champions in open and women's categories. Just a week ago in the same tournament, the Indian ace had beaten Ding Liren of China.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-crushes-chinas-wenjun-ju-to-join-leaders-in-tata-steel-masters-chess/articleshow/107123220.cms",
+         "pubDate" : "Wed, 24 Jan 2024 17:22:39",
+         "title" : "Praggnanandhaa crushes Wenjun Ju to join leaders in Tata Steel Chess"
+      },
+      {
          "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -130,7 +146,7 @@ news_feed (
          "title" : "Abdusattorov, Praggnanandhaa Catch Leaders; Warmerdam Suffers Worst Nightmare"
       },
       {
-         "description" : "The 84th Armenian National Championships held at the Petrosian Chess House in Tbilisi ended with a victory for Robert Hovhanissyan. Manuel Petrosyan won the silver medal ahead of Zaven Andriasian, who had the same number of points but the worse tiebreak. Susanna Gaboyan won the 79th Women's Championship. | Photos: Official page",
+         "description" : "The 84th Armenian National Championships held at the Petrosian Chess House in Yerevan ended with a victory for Robert Hovhanissyan. Manuel Petrosyan won the silver medal ahead of Zaven Andriasian, who had the same number of points but the worse tiebreak. Susanna Gaboyan won the 79th Women's Championship. | Photos: Official page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/armenian-championship-2024-hovhannisyan-and-gaboyan-clinch-titles",
