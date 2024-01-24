@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
+         "pubDate" : "Wed, 24 Jan 2024 14:02:42",
+         "title" : "English Championship Series 2024"
+      },
+      {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Wed, 24 Jan 2024 13:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : " While it is certainly harder to play good chess than bad chess, the reasons for being bad at chess do deserve some study. I did see a quote (allegedly from Lasker), about not understanding how people could be bad at chess, but maybe I imagined it. There is a book called \"How Not To Play Chess\" by Zonosko-Borovsky, although his first rule is the rather broad \"Avoid Mistakes\". He does break it down a little, but if I was explaining this concept, I would at least have the following <ul style=\"text-align: left;\"><li>Don't get checkmated</li><li>Don't lose your queen</li><li>Don't lose other pieces</li><li>Don't lose pawns</li><li>Don't try and win by moving the same piece over and over</li></ul",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1072,30 +1088,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
          "pubDate" : "Thu, 4 Jan 2024 03:40:52",
          "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2833",
-         "pubDate" : "Wed, 03 Jan 2024 14:20:29",
-         "title" : "FIDE announces the first-ever World Cup for youngsters"
-      },
-      {
-         "description" : "FIDE are making some changes to their rating system and title regulations with further details at the link here https://fide.com/news/2831 The rating system changes...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-changes-to-rating-system-and-title-regulations/",
-         "pubDate" : "Wed, 03 Jan 2024 14:17:39",
-         "title" : "FIDE changes to rating system and title regulations"
-      },
-      {
-         "description" : "The Caplin Hastings International Chess Congress is well underway, and live commentary on the games with IM Richard Pert and guests can be followed every...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/caplin-hastings-international-chess-congress-live-commentary/",
-         "pubDate" : "Wed, 03 Jan 2024 13:56:59",
-         "title" : "Caplin Hastings International Chess Congress - live commentary"
       }
    ]
 }
