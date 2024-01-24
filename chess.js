@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ECU Board meeting on 21st January 2024, &#160;after authorisation by the ECU General Assembly 2023, approved the new ECU Rulebook.&#160;The rules are effective from 1st January 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-rulebook/",
+         "pubDate" : "Wed, 24 Jan 2024 07:59:25",
+         "title" : "ECU Rulebook"
+      },
+      {
+         "description" : "Five games ended decisively, all favouring the player who had the white pieces, in round 9 of the Tata Steel Masters. Praggnanandhaa R. and Nodirbek Abdusattorov scored victories and joined the 4-player leading pack, which also includes Gukesh D. and Anish Giri. Former co-leader Alireza Firouzja, on his part, was defeated by Alexander Donchenko. Firouzja is now one of three players standing a half point behind the leaders. In the Challengers, Marc'Andria Maurizzi remains atop the standings after beating Divya Deshmukh. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r9",
+         "pubDate" : "Wed, 24 Jan 2024 06:15:00",
+         "title" : "Tata Steel Chess R9: Eventful round leaves four players tied for first"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107099722.cms\" /> Five-time world champion and Fide deputy president V Anand stressed that the Indian trio of R Praggnanandhaa, D Gukesh and Vidit Gujrathi should not be overawed by the occasion when they make their Candidates debut in Toronto in April. In a virtual interaction with TOI, Anand spoke about the Indians' Candidates chances, importance of seconds for top tournaments, World Championship cycle and more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/euro-schools-2024/",
          "pubDate" : "Tue, 23 Jan 2024 14:22:06",
          "title" : "Euro Schools 2024"
-      },
-      {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Tue, 23 Jan 2024 13:55:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "GMs Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu won their white games in the Tata Steel Chess Tournament&#39;s ninth round to join GMs Anish Giri and Gukesh Dommaraju in the lead. GM Max Warmerdam lost in just about the worst possible way to G...",
