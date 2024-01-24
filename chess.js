@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " While it is certainly harder to play good chess than bad chess, the reasons for being bad at chess do deserve some study. I did see a quote (allegedly from Lasker), about not understanding how people could be bad at chess, but maybe I imagined it. There is a book called \"How Not To Play Chess\" by Zonosko-Borovsky, although his first rule is the rather broad \"Avoid Mistakes\". He does break it down a little, but if I was explaining this concept, I would at least have the following <ul style=\"text-align: left;\"><li>Don't get checkmated</li><li>Don't lose your queen</li><li>Don't lose other pieces</li><li>Don't lose pawns</li><li>Don't try and win by moving the same piece over and over</li></ul",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/how-not-to-play-chess.html",
+         "pubDate" : "Wed, 24 Jan 2024 12:09:00",
+         "title" : "How not to play chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2858",
+         "pubDate" : "Wed, 24 Jan 2024 11:13:30",
+         "title" : "FIDE Trainers Online Seminar 2024 announced"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows his game against GM Kayden Troff from the 2024 Charlotte Open. 2024.01.23<br /> Kayden Troff vs. Julian Proleiko, 2024: A04 Reti opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/troff-crushes-julians-dreams-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lIB7WoMBgHw.jpg?itok=t9rWUeaR\" alt=\"\" /></a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/troff-crushes-julians-dreams-charlotte-road-2000-nm-julian-proleiko",
+         "pubDate" : "Wed, 24 Jan 2024 08:56:22",
+         "title" : "Troff Crushes Julian's Dreams in Charlotte | Road to 2000 - NM Julian Proleiko"
+      },
+      {
          "description" : "The ECU Board meeting on 21st January 2024, &#160;after authorisation by the ECU General Assembly 2023, approved the new ECU Rulebook.&#160;The rules are effective from 1st January 2024.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -136,6 +160,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2855",
          "pubDate" : "Mon, 22 Jan 2024 21:11:31",
          "title" : "FIDE and World Chess launch Women's Wednesday Online Tournament Series"
+      },
+      {
+         "description" : "In the first installment of this weekly comic series we introduced a chess village and its villagers. Then we introduced <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-village-wizard.html\">The Village Wizard</A> (January 2024), where I observed, <BLOCKQUOTE> Some say that the villagers' interest in chess stems from the presence of an unusual man who arrived in the village at some time in the recent past. </BLOCKQUOTE> <P> This is the third installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa22.jpg\" WIDTH= HEIGHT=> <P> The village wizard is a retired professor of computer science who taught AI at a top-notch engineering college. He holds a patent on an imp",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/the-wizard-as-professor.html",
+         "pubDate" : "Mon, 22 Jan 2024 16:20:00",
+         "title" : "The Wizard as Professor"
       },
       {
          "description" : "In the second segment of our problem-solving experiment, we invited a former world champion of chess solving (!) to answer the unorthodox chess puzzles, featured in our Dec. 31st article. This strong grandmaster breezed past the first two problems, and so we gave a final composition which proved to be slightly more challenging for the mathematician!",
@@ -546,7 +578,7 @@ news_feed (
          "title" : "Giri joins Firouzja in the lead of the Tata Steel Masters on 2.5/3 - 3"
       },
       {
-         "description" : "A week ago I started a new Monday series requiring two artistic talents which I lack completely: story telling and illustrating. In that post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-chess-village.html\">The Chess Village</A> (January 2024), I wrote, <BLOCKQUOTE> The story starts in the Catskill mountains, in a village where almost everyone plays chess. </BLOCKQUOTE> <P> This is the second installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa15.jpg\" WIDTH=335 HEIGHT=400> <P> Some say that the villager's interest in chess stems from the presence of an unusual man who arrived in the village at some time in the recent past. He has two distinguishing cha",
+         "description" : "A week ago I started a new Monday series requiring two artistic talents which I lack completely: story telling and illustrating. In that post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-chess-village.html\">The Chess Village</A> (January 2024), I wrote, <BLOCKQUOTE> The story starts in the Catskill mountains, in a village where almost everyone plays chess. </BLOCKQUOTE> <P> This is the second installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa15.jpg\" WIDTH=335 HEIGHT=400> <P> Some say that the villagers' interest in chess stems from the presence of an unusual man who arrived in the village at some time in the recent past. He has two distinguishing cha",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2024/01/the-village-wizard.html",
@@ -848,14 +880,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/studying-endgame-labyrinth-grandmasters-choice-gm-elshan-moradiabadi",
          "pubDate" : "Wed, 10 Jan 2024 02:41:43",
          "title" : "Studying the Endgame Labyrinth | Grandmaster's Choice - GM Elshan Moradiabadi"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko teaches a beginner chess class on opening principles. 2024.01.09<br /> Paul Morphy vs Duke Karl / Count Isouard, Paris (1858): C41 Philidor&#039;s defence<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1233404\">https://www.chessgames.com/perl/chessgame?gid=1233404</a><br /> Julian Proleiko vs. Kenneth Wallach, 2023: B27 Sicilian, Hungarian variation<br /> Proleiko vs. ???, 2023: A09 Reti opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/opening-principles-beginner-breakdown-nm-julian-proleiko",
-         "pubDate" : "Tue, 09 Jan 2024 23:41:41",
-         "title" : "Opening Principles | Beginner Breakdown - NM Julian Proleiko"
       },
       {
          "description" : "A new year means a look at the first FIDE rating list of the year. I've been doing this for so many years that I repeated that first sentence from last year without consciously copying it. Even better, I have a reliable checklist to follow. <P> 1) Identify last year's post: <A HREF=\"https://chessforallages.blogspot.com/2023/01/fide-rating-list-january-2023.html\">FIDE Rating List - January 2023</A> (January 2023). <P> 2) Identify the source of the FIDE data: <A HREF=\"https://ratings.fide.com/download_lists.phtml\">FIDE Ratings Download</A> (ratings.fide.com). <BLOCKQUOTE> STANDARD<BR> TXT format (31 Dec 2023, Sz: 9.77 MB) </BLOCKQUOTE> <P> 3) Compare some basic counts over the past few years. ",
