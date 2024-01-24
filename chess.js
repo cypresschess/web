@@ -42,6 +42,14 @@ news_feed (
          "title" : "Troff Crushes Julian's Dreams in Charlotte | Road to 2000 - NM Julian Proleiko"
       },
       {
+         "description" : "GM Hikaru Nakamura and GM Jan-Krzysztof Duda took home Titled Tuesday on January 23 with 9.5 points. After Nakamura held tiebreaks over GM Wesley So and GM Vladimir Fedoseev, Duda became the first outright winner of 2024 (with seven people tied be...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-duda-win-titled-tuesday-january-23-2024",
+         "pubDate" : "Wed, 24 Jan 2024 08:54:00",
+         "title" : "Nakamura Continues Cup Lead With Another Tuesday Win"
+      },
+      {
          "description" : "The ECU Board meeting on 21st January 2024, &#160;after authorisation by the ECU General Assembly 2023, approved the new ECU Rulebook.&#160;The rules are effective from 1st January 2024.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -792,14 +800,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-puzzles-world-championship-robson-wins",
          "pubDate" : "Fri, 12 Jan 2024 12:04:00",
          "title" : "Ray Robson Wins 5th Consecutive Puzzles World Championship Title"
-      },
-      {
-         "description" : "The new Champions Chess Tour (CCT) season kicks off this month with the return of the Chessable Masters and a faster format designed to deliver even more exciting action. Chess.com&#38;rsquo;s premier year-long event is now four main online tourname...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-chess-tour-2024-announced-chessable-masters",
-         "pubDate" : "Fri, 12 Jan 2024 07:45:00",
-         "title" : "Faster And Fitter: Champions Chess Tour 2024 Returns With Chessable Masters"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to deal with players who refuse to play proper moves? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/knight-dance.1920.jpeg\" title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. screen grab from youtube\" data-title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. (screen grab from youtube)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1\" alt=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand.\" srcset=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1 1x",
