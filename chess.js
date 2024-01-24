@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107099722.cms\" /> Five-time world champion and Fide deputy president V Anand stressed that the Indian trio of R Praggnanandhaa, D Gukesh and Vidit Gujrathi should not be overawed by the occasion when they make their Candidates debut in Toronto in April. In a virtual interaction with TOI, Anand spoke about the Indians' Candidates chances, importance of seconds for top tournaments, World Championship cycle and more.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/all-three-indians-strong-enough-to-win-viswanathan-anand/articleshow/107099722.cms",
+         "pubDate" : "Wed, 24 Jan 2024 03:57:56",
+         "title" : "All three Indians strong enough to win: Viswanathan Anand"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at the best games from Round 9 of the 2024 Tata Steel Chess Tournament in Wijk aan Zee. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tata-steel-2024-round-9s-best-games-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wc98oAOaGoQ.jpg?itok=SjaY1aW0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tata-steel-2024-round-9s-best-games-grandmasters-choice-wgm-thalia-cervantes",
+         "pubDate" : "Wed, 24 Jan 2024 02:55:10",
+         "title" : "Tata Steel 2024: Round 9's Best Games | Grandmaster's Choice - WGM Thalia Cervantes"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2857",
          "pubDate" : "Tue, 23 Jan 2024 23:55:48",
          "title" : "Tata Steel Masters 2024: Four in the lead after Round 9"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at the best games from Round 9 of the 2024 Tata Steel Chess Tournament in Wijk aan Zee. 2024.01.23<br /> Nodirbek Abdusattorov vs Jorden van Foreest, Tata Steel Masters (2024): C55 Two knights defence (Modern bishop&#039;s opening)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2654637\">https://www.chessgames.com/perl/chessgame?gid=2654637</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tata-steel-2024-best",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tata-steel-2024-best-games-today-grandmasters-choice-wgm-thalia-cervantes",
+         "pubDate" : "Tue, 23 Jan 2024 23:54:57",
+         "title" : "Tata Steel 2024: The Best Games Today | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
          "description" : "FIDE and World Chess are set to launch a Women's Wednesday Online Tournament series, a a groundbreaking move to elevate women's participation and recognition in the world of chess. The weekly event, hosted on the FIDE Online Arena platform (chessarena.com), and represents a significant stride in empowering women within the chess community. Press release.",
@@ -18,7 +42,7 @@ news_feed (
          "title" : "Swiss Queens Wednesday"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows two of his games from the 2024 Charlotte Open. 2024.01.23 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-performance-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lIB7WoMBgHw.jpg?itok=t9rWUeaR\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows two of his games from the 2024 Charlotte Open. 2024.01.23<br /> Kayden Troff vs. Julian Proleiko, 2024: A04 Reti opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-performance-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lIB7WoMBgHw.jpg?itok=t9rWUeaR\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/my-performance-charlotte-road-2000-nm-julian-proleiko",
@@ -984,22 +1008,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/jan/05/chess-world-champion-ding-liren-to-return-at-tata-steel-wijk-aan-zee",
          "pubDate" : "Fri, 05 Jan 2024 08:00:28",
          "title" : "Chess: forgotten world champion Ding Liren to return at Wijk aan Zee"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi refutes the Stafford Gambit, Elephant Gambit, and more! 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-lines-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/glbKIk6487Q.jpg?itok=DEwLfaH8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beat-offbeat-chess-lines-grandmasters-choice-gm-elshan-moradiabadi",
-         "pubDate" : "Fri, 05 Jan 2024 02:37:33",
-         "title" : "Beat Offbeat Chess Lines | Grandmaster's Choice - GM Elshan Moradiabadi"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi refutes the Stafford Gambit, Elephant Gambit, and more! 2024.01.04 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mJAbhoUXZwM.jpg?itok=8ljcioxd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi",
-         "pubDate" : "Thu, 04 Jan 2024 23:37:30",
-         "title" : "Beat Offbeat Chess Lines | Prepare Like A Pro - GM Elshan Moradiabadi"
       },
       {
          "description" : " The 2024 Australian Championship is underway in Adelaide. In good news for local readers of this blog, the top 2 places are currently held by Canberra players. IM Rishi Sardana is the top seed, and leads with 4/4. FM Fred Litchfield is in 2nd place on 3.5. Of course they are now paired in round 5, although this ensures that at least one of them will maintain the lead just before the half way mark. The Championship attracted 29 players, with 4 IM's, 2 WGM's and assorted other title players. Although title norms for this event are exempt from the normal foreigner requirement (due to it being a national championship), the performance rating required for an IM norm will be difficult to achieve,",
