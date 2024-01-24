@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2857",
+         "pubDate" : "Tue, 23 Jan 2024 23:55:48",
+         "title" : "Tata Steel Masters 2024: Four in the lead after Round 9"
+      },
+      {
          "description" : "FIDE and World Chess are set to launch a Women's Wednesday Online Tournament series, a a groundbreaking move to elevate women's participation and recognition in the world of chess. The weekly event, hosted on the FIDE Online Arena platform (chessarena.com), and represents a significant stride in empowering women within the chess community. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
          "pubDate" : "Tue, 23 Jan 2024 13:55:00",
          "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "GMs Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu won their white games in the Tata Steel Chess Tournament&#39;s ninth round to join GMs Anish Giri and Gukesh Dommaraju in the lead. GM Max Warmerdam lost in just about the worst possible way to G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-9",
+         "pubDate" : "Tue, 23 Jan 2024 13:33:00",
+         "title" : "Abdusattorov, Praggnanandhaa Catch Leaders; Warmerdam Suffers Worst Nightmare"
       },
       {
          "description" : "The 84th Armenian National Championships held at the Petrosian Chess House in Tbilisi ended with a victory for Robert Hovhanissyan. Manuel Petrosyan won the silver medal ahead of Zaven Andriasian, who had the same number of points but the worse tiebreak. Susanna Gaboyan won the 79th Women's Championship. | Photos: Official page",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-2",
          "pubDate" : "Tue, 23 Jan 2024 08:22:30",
          "title" : "The Soviets in Haifa: a final farewell"
+      },
+      {
+         "description" : " The ninth round of the Tata Steel Masters moved to the AFAS Theatre in the Hague. Five of the seven games in the Masters were decisive and six of seven in the Challengers. At the end of the round four players share the lead with 5.5/9, Nodirbek Abdusattorov, Anish Giri, Gukesh and Praggnanandhaa. Wei Yi, Santosh Vidit and Alireza Firouzja are all on 5/9. Abdusattorov beat Jorden van Foreest pretty convincingly in just 24 moves. Praggnanandhaa beat Ju Wenjun taking on the Two Knights with the sharp Ng5. Giri drew with black against Ding Liren and Gukesh drew with Vidit. Alireza Firouzja lost his third game of the event when he allowed Alexander Donchenko a huge attack, Ian Nepomniachtchi los",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/tata-steel-masters-round-9-in-the-hague-sees-5-decisive-games",
+         "pubDate" : "Tue, 23 Jan 2024 00:05:00",
+         "title" : "Tata Steel Masters Round 9 in the Hague sees 5 decisive games - 9"
       },
       {
          "description" : "",
@@ -722,14 +746,6 @@ news_feed (
          "title" : "Watch them solving!"
       },
       {
-         "description" : "As tradition has it, Chess.com again greeted the new year with our first event, the 2024 Puzzles World Championship. Eight players remain standing after the Puzzle Rush Royale on day one and have earned a minimum of $1,000 with a shot at the $5,00...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-puzzles-world-championship-day-1",
-         "pubDate" : "Thu, 11 Jan 2024 13:36:03",
-         "title" : "14-Year-Old Woodward Rivals Robson As Prodigies Prosper"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/caplin-hastings-international-chess-congress-live-commentary/",
          "pubDate" : "Wed, 03 Jan 2024 13:56:59",
          "title" : "Caplin Hastings International Chess Congress - live commentary"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2832",
-         "pubDate" : "Tue, 02 Jan 2024 21:37:52",
-         "title" : "2023 Vodafone Fiji Championship: Manoj Kumar and Cydel Terubea clinch titles"
       }
    ]
 }
