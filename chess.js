@@ -34,6 +34,14 @@ news_feed (
          "title" : "Tata Steel Chess - Live!"
       },
       {
+         "description" : "With three rounds to go, GMs Gukesh Dommaraju and Nodirbek Abdusattorov lead&#38;nbsp;the Tata Steel Chess Tournament&#39;s Masters. Whereas Gukesh defeated GM Alexander Donchenko fairly smoothly, Abdusattorov needed over six hours to beat GM Max Warmerda...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-10",
+         "pubDate" : "Wed, 24 Jan 2024 13:30:00",
+         "title" : "Abdusattorov, Gukesh Lead At Tata Steel Chess Masters"
+      },
+      {
          "description" : " While it is certainly harder to play good chess than bad chess, the reasons for being bad at chess do deserve some study. I did see a quote (allegedly from Lasker), about not understanding how people could be bad at chess, but maybe I imagined it. There is a book called \"How Not To Play Chess\" by Zonosko-Borovsky, although his first rule is the rather broad \"Avoid Mistakes\". He does break it down a little, but if I was explaining this concept, I would at least have the following <ul style=\"text-align: left;\"><li>Don't get checkmated</li><li>Don't lose your queen</li><li>Don't lose other pieces</li><li>Don't lose pawns</li><li>Don't try and win by moving the same piece over and over</li></ul",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/2024-act-lightning-championship.html",
          "pubDate" : "Fri, 12 Jan 2024 12:23:00",
          "title" : "2024 ACT Lightning Championship"
-      },
-      {
-         "description" : "GM Ray Robson did it again, winning his fifth consecutive title at the 2024 Puzzles World Championship. The undisputed G.O.A.T. of Puzzle Rush has won every edition of this tournament since it started in 2020. This seemed to be his toughest year...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-puzzles-world-championship-robson-wins",
-         "pubDate" : "Fri, 12 Jan 2024 12:04:00",
-         "title" : "Ray Robson Wins 5th Consecutive Puzzles World Championship Title"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to deal with players who refuse to play proper moves? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/knight-dance.1920.jpeg\" title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. screen grab from youtube\" data-title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. (screen grab from youtube)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1\" alt=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand.\" srcset=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1 1x",
