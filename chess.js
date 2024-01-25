@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gukesh D. and Nodirbek Abdusattorov scored full points on Wednesday to go into the second rest day of the Tata Steel Masters sharing the lead with 6&frac12;/10 points. Sharing third place at a half-point distance are Praggnanandhaa R. and Anish Giri, while Ian Nepomniachtchi is one of four players standing a half point further back - Nepo joined this group thanks to a victory over world champion Ding Liren. In the Challengers, Marc'Andria Maurizzi won again and now has a full-point lead over Leon Luke Mendonca. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r10",
+         "pubDate" : "Thu, 25 Jan 2024 02:20:00",
+         "title" : "Tata Steel Chess R10: Gukesh and Abdusattorov co-leaders"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2859",
+         "pubDate" : "Thu, 25 Jan 2024 00:23:27",
+         "title" : "Tata Steel Masters 2024: Gukesh and Abdusattorov forge ahead"
+      },
+      {
          "description" : " Nodirbek Abdusattorov and D Gukesh have a half point lead over Anish Giri and Praggnanandhaa going into the final rest day. There are three rounds left and it's still all to play for. Nodirbek Abdusattorov had black against Max Warmerdam in a Queen's Gambit Accepted. Yesterday's shocking turn around may well have still been affecting Warmerdam. After 13 moves the game was equal, 23.Ne2 was a clear error in a slightly worse position (23.Nd2) beautifully exploited by Abdusattorov with 24...f4! but the position remained a mess and 31..Bf5? was an error allowing white back into the game with 32.Qe3 and even be better after 35.Bxe4! and then a further blunder 39...Rd6? (39...e4!) left Warmerdam ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
          "pubDate" : "Wed, 24 Jan 2024 14:02:42",
          "title" : "English Championship Series 2024"
-      },
-      {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Wed, 24 Jan 2024 13:55:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "With three rounds to go, GMs Gukesh Dommaraju and Nodirbek Abdusattorov lead&#38;nbsp;the Tata Steel Chess Tournament&#39;s Masters. Whereas Gukesh defeated GM Alexander Donchenko fairly smoothly, Abdusattorov needed over six hours to beat GM Max Warmerda...",
@@ -82,14 +90,6 @@ news_feed (
          "title" : "ECU Rulebook"
       },
       {
-         "description" : "Five games ended decisively, all favouring the player who had the white pieces, in round 9 of the Tata Steel Masters. Praggnanandhaa R. and Nodirbek Abdusattorov scored victories and joined the 4-player leading pack, which also includes Gukesh D. and Anish Giri. Former co-leader Alireza Firouzja, on his part, was defeated by Alexander Donchenko. Firouzja is now one of three players standing a half point behind the leaders. In the Challengers, Marc'Andria Maurizzi remains atop the standings after beating Divya Deshmukh. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r9",
-         "pubDate" : "Wed, 24 Jan 2024 06:15:00",
-         "title" : "Tata Steel Chess R9: Eventful round leaves four players tied for first"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107099722.cms\" /> Five-time world champion and Fide deputy president V Anand stressed that the Indian trio of R Praggnanandhaa, D Gukesh and Vidit Gujrathi should not be overawed by the occasion when they make their Candidates debut in Toronto in April. In a virtual interaction with TOI, Anand spoke about the Indians' Candidates chances, importance of seconds for top tournaments, World Championship cycle and more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -122,14 +122,6 @@ news_feed (
          "title" : "Tata Steel 2024: The Best Games Today | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
-         "description" : "FIDE and World Chess are set to launch a Women's Wednesday Online Tournament series, a a groundbreaking move to elevate women's participation and recognition in the world of chess. The weekly event, hosted on the FIDE Online Arena platform (chessarena.com), and represents a significant stride in empowering women within the chess community. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/swiss-queens-wednesday",
-         "pubDate" : "Tue, 23 Jan 2024 21:02:23",
-         "title" : "Swiss Queens Wednesday"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows two of his games from the 2024 Charlotte Open. 2024.01.23<br /> Kayden Troff vs. Julian Proleiko, 2024: A04 Reti opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-performance-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lIB7WoMBgHw.jpg?itok=t9rWUeaR\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -152,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-9",
          "pubDate" : "Tue, 23 Jan 2024 13:33:00",
          "title" : "Abdusattorov, Praggnanandhaa Catch Leaders; Warmerdam Suffers Worst Nightmare"
-      },
-      {
-         "description" : "The 84th Armenian National Championships held at the Petrosian Chess House in Yerevan ended with a victory for Robert Hovhanissyan. Manuel Petrosyan won the silver medal ahead of Zaven Andriasian, who had the same number of points but the worse tiebreak. Susanna Gaboyan won the 79th Women's Championship. | Photos: Official page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/armenian-championship-2024-hovhannisyan-and-gaboyan-clinch-titles",
-         "pubDate" : "Tue, 23 Jan 2024 12:00:00",
-         "title" : "Armenian Championship 2024: Hovhannisyan and Gaboyan clinch titles"
       },
       {
          "description" : "",
@@ -1096,14 +1080,6 @@ news_feed (
          "link" : "https://www.espn.com/espn/story/_/id/39239887/early-paris-olympics-2024-predictions-india-medals-neeraj-chopra-satwiksairaj-rankireddy-chirag-shetty?device=featurephone",
          "pubDate" : "Thu, 4 Jan 2024 08:39:13",
          "title" : "Early Paris Olympics predictions: Who will win medals for India?"
-      },
-      {
-         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/39239485/questions-2024-golden-90-neeraj-chopra-100-sunil-chhetri-pv-sindhu-become-goat?device=featurephone",
-         "pubDate" : "Thu, 4 Jan 2024 03:40:52",
-         "title" : "Questions for 2024: Golden 90 for Neeraj? 100 for Chhetri? Can Sindhu become GOAT?"
       }
    ]
 }
