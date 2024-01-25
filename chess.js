@@ -18,6 +18,14 @@ news_feed (
          "title" : "Tata Steel Masters 2024: Gukesh and Abdusattorov forge ahead"
       },
       {
+         "description" : "India&#38;rsquo;s greatest ever chess player, the legendary GM Viswanathan Anand, has signed as a brand ambassador for Chess.com. The five-time world champion will bring his incredible knowledge and experience to the world&#38;rsquo;s biggest chess plat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anand-signs-for-chess-com",
+         "pubDate" : "Wed, 24 Jan 2024 22:41:17",
+         "title" : "Vishy Anand Signs For Chess.com: Legend Brings His Brilliance To Our Broadcasts in 2024"
+      },
+      {
          "description" : " Nodirbek Abdusattorov and D Gukesh have a half point lead over Anish Giri and Praggnanandhaa going into the final rest day. There are three rounds left and it's still all to play for. Nodirbek Abdusattorov had black against Max Warmerdam in a Queen's Gambit Accepted. Yesterday's shocking turn around may well have still been affecting Warmerdam. After 13 moves the game was equal, 23.Ne2 was a clear error in a slightly worse position (23.Nd2) beautifully exploited by Abdusattorov with 24...f4! but the position remained a mess and 31..Bf5? was an error allowing white back into the game with 32.Qe3 and even be better after 35.Bxe4! and then a further blunder 39...Rd6? (39...e4!) left Warmerdam ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
          "pubDate" : "Fri, 12 Jan 2024 20:45:46",
          "title" : "Chess: Bodhana Sivanandan dazzles at European Women's Blitz Championship"
-      },
-      {
-         "description" : "Invite your friends over for a chess party because we&#39;ve got something you&#39;ll want to vibe to: SHAREABLE TOURNAMENTS! Now you have the chance to make an Arena or Swiss-tournament-cheese sandwich instantly to share with anyone and everyone! Let&#39;s t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-shareable-tournaments",
-         "pubDate" : "Fri, 12 Jan 2024 15:22:00",
-         "title" : "Shareable Tournaments Now On Chess.com"
       },
       {
          "description" : " The first ACT Chess Association event of the year was held at the Canberra Chess Club yesterday evening (11 Jan). The ACT Lightning Championship traditionally starts the chess year in Canberra, and usually attracts a good turnout. The 2024 edition saw 35 players take part, with Harry Press winning with a perfect 9/9. He finished 2 points ahead of Andrew Mather and Willis Lo, with Malik Amer and Jordan Brown a further point back. The time limit of 3m+2s favoured the younger players, although Miles Patterson and Lee Forace flew the flag for the older generation, finishing on 5.5 (+2). The next ACTCA even should be the ACT Teams Championship, which is likely to be held in late February or earl",
