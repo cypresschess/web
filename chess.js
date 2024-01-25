@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I saw a recent article concerning the mathematician Paul Erdos. A prolific collaborator and publisher, he was probably the first subject of the 'n degrees of separation' game, which was more popularly attached to the actor Kevin Bacon. In the world of chess there is also the concept of the Morphy number, where you trace the number of steps back to Paul Morphy, through a chain of opponents. Surprisingly, my Morphy number seems higher than either my Erdos or Bacon numbers, although the distance in time may account for this. My Erdos number is 4, having collaborated on a paper with someone whose Erdos number was 3. My Bacon number (probably 4) is somewhat tenuous, as I worked on an amateur fil",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/bacon-morphy-erdos.html",
+         "pubDate" : "Thu, 25 Jan 2024 11:42:00",
+         "title" : "Bacon, Morphy, Erdos"
+      },
+      {
+         "description" : "Game 3 of the 1972 match between Bobby Fischer and Boris Spassky has been analysed countless times. But there are still many open questions and new discoveries to be made. Karsten M&uuml;ller invites you to help him solve the riddles emerging from this fascinating, historic encounter.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-riddle-fischer-spassky-game-3",
+         "pubDate" : "Thu, 25 Jan 2024 11:00:00",
+         "title" : "Endgame riddle: Fischer vs Spassky - Game 3"
+      },
+      {
          "description" : "Gukesh D. and Nodirbek Abdusattorov scored full points on Wednesday to go into the second rest day of the Tata Steel Masters sharing the lead with 6&frac12;/10 points. Sharing third place at a half-point distance are Praggnanandhaa R. and Anish Giri, while Ian Nepomniachtchi is one of four players standing a half point further back - Nepo joined this group thanks to a victory over world champion Ding Liren. In the Challengers, Marc'Andria Maurizzi won again and now has a full-point lead over Leon Luke Mendonca. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1056,30 +1072,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/jan/05/chess-world-champion-ding-liren-to-return-at-tata-steel-wijk-aan-zee",
          "pubDate" : "Fri, 05 Jan 2024 08:00:28",
          "title" : "Chess: forgotten world champion Ding Liren to return at Wijk aan Zee"
-      },
-      {
-         "description" : " The 2024 Australian Championship is underway in Adelaide. In good news for local readers of this blog, the top 2 places are currently held by Canberra players. IM Rishi Sardana is the top seed, and leads with 4/4. FM Fred Litchfield is in 2nd place on 3.5. Of course they are now paired in round 5, although this ensures that at least one of them will maintain the lead just before the half way mark. The Championship attracted 29 players, with 4 IM's, 2 WGM's and assorted other title players. Although title norms for this event are exempt from the normal foreigner requirement (due to it being a national championship), the performance rating required for an IM norm will be difficult to achieve,",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/2023-24-australian-championship.html",
-         "pubDate" : "Thu, 04 Jan 2024 10:58:00",
-         "title" : "2023-24 Australian Championship"
-      },
-      {
-         "description" : "With new money and new sponsors pouring in, and never before seen numbers of spectators following the games, the tendency is towards faster time controls. Classical games are played with reduced times, rapid and blitz tournamenst are gaining popularity. That provides more action and excitement for chess fans. But is it really the way to go? Rune Vik-Hansen, Norwegian philosopher, argues in favour of long games.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/long-live-classical-chess",
-         "pubDate" : "Thu, 04 Jan 2024 09:32:58",
-         "title" : "Long live classical chess"
-      },
-      {
-         "description" : "With the Paris Olympics on the horizon, ESPN India takes a look at eight major questions that need to be answered in 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/espn/story/_/id/39239887/early-paris-olympics-2024-predictions-india-medals-neeraj-chopra-satwiksairaj-rankireddy-chirag-shetty?device=featurephone",
-         "pubDate" : "Thu, 4 Jan 2024 08:39:13",
-         "title" : "Early Paris Olympics predictions: Who will win medals for India?"
       }
    ]
 }
