@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the recently concluded ChessBase Christmas Composition Contest, we received many entries, and thus the decision-making was much harder! The problems submitted were tested upon the criterion of economy, harmony and aesthetics. We decided to make three articles on it, with the final one being about the prize-winners! Hope you have fun replalying these very nice little puzzles!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-christmas-puzzle-contest-1b",
+         "pubDate" : "Thu, 25 Jan 2024 18:00:00",
+         "title" : "ChessBase Christmas Puzzle Contest 1"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107153773.cms\" />Indian Grandmaster D Gukesh scored a crushing victory over Alexander Donchenko in the 10th round of Tata Steel Masters Chess on Thursday. This was Gukesh's fifth victory overall in the tournament besides two losses and the Indian moved to 6.5 points out of a possible 10. Uzbek Nodirbek Abdusattarov made sure Gukesh did not figure as the sole leader with a hard-earned victory over Max Warmerdam.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-crushes-donchenko-shares-lead-with-abdusattarov-in-tata-steel-masters-chess/articleshow/107153773.cms",
+         "pubDate" : "Thu, 25 Jan 2024 16:37:20",
+         "title" : "D Gukesh crushes Donchenko, shares lead with Abdusattarov in Tata Steel Masters Chess"
+      },
+      {
          "description" : " I saw a recent article concerning the mathematician Paul Erdos. A prolific collaborator and publisher, he was probably the first subject of the 'n degrees of separation' game, which was more popularly attached to the actor Kevin Bacon. In the world of chess there is also the concept of the Morphy number, where you trace the number of steps back to Paul Morphy, through a chain of opponents. Surprisingly, my Morphy number seems higher than either my Erdos or Bacon numbers, although the distance in time may account for this. My Erdos number is 4, having collaborated on a paper with someone whose Erdos number was 3. My Bacon number (probably 4) is somewhat tenuous, as I worked on an amateur fil",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/anand-signs-for-chess-com",
-         "pubDate" : "Wed, 24 Jan 2024 22:41:17",
+         "pubDate" : "Wed, 24 Jan 2024 22:41:00",
          "title" : "Vishy Anand Signs For Chess.com: Legend Brings His Brilliance To Our Broadcasts in 2024"
       },
       {
