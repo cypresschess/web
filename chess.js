@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2861",
+         "pubDate" : "Fri, 26 Jan 2024 14:51:53",
+         "title" : "Announcing winners of FIDE Trainer Awards 2023"
+      },
+      {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Fri, 26 Jan 2024 13:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : "From 24 to 30 January 2024, Jeddah will host a highly competitive U18 youth tournament. After three rounds, Jakub Seemann, who has won all his games so far, is in the lead. The fourth round will start today at 8:00 ET (14:00 CET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
+         "pubDate" : "Fri, 26 Jan 2024 13:44:00",
+         "title" : "Jeddah Young Masters live"
+      },
+      {
          "description" : "In his new Fast & Furious episode Robert Ris takes a close look at the Spanish encounter between Ian Nepomniachtchi and Ding Liren, who continued to discued topics they had discussed in their World Championship Match 2023. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r10",
          "pubDate" : "Thu, 25 Jan 2024 02:20:00",
          "title" : "Tata Steel Chess R10: Gukesh and Abdusattorov co-leaders"
-      },
-      {
-         "description" : "The FIDE Trainers' Online Seminar will be held on February 2-4, 2024. The seminar is being organized by the Asian Chess Federation in cooperation with the FIDE Commission for Women in Chess under the supervision of the FIDE Trainers' Commission. Artur Yusupov, Hou Yifan and Antoaneta Stefanova will be among the lecturers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-trainers-seminar-hou-yusupov",
-         "pubDate" : "Thu, 25 Jan 2024 02:05:00",
-         "title" : "FIDE Trainers Online Seminar with Hou Yifan and Artur Yusupov"
       },
       {
          "description" : "",
@@ -176,14 +192,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-rulebook/",
          "pubDate" : "Wed, 24 Jan 2024 07:59:25",
          "title" : "ECU Rulebook"
-      },
-      {
-         "description" : "Play like Magnus Carlsen, Hikaru Nakamura & Co! ChessBase Magazine gives you the chance to do just that: in an interactive training format with video feedback, you can go through selected games by top players \"Move by Move\" - together with our author, Robert Ris. We invite you: this week you can replay Magnus Carlsen's Black win against IM Bojan Maksimovic from ChessBase Magazine #217 - directly via your web browser in the new ChessBase Books format. CBM #217 is the first issue to include full mobile access. So, you can load it directly with your web browser on your iPad, tablet or Mac. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-217-now-also-as-an-e-book-for-ipad-tablet-mac-etc-3",
-         "pubDate" : "Wed, 24 Jan 2024 06:30:00",
-         "title" : "New: ChessBase Magazine on iPad"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107099722.cms\" /> Five-time world champion and Fide deputy president V Anand stressed that the Indian trio of R Praggnanandhaa, D Gukesh and Vidit Gujrathi should not be overawed by the occasion when they make their Candidates debut in Toronto in April. In a virtual interaction with TOI, Anand spoke about the Indians' Candidates chances, importance of seconds for top tournaments, World Championship cycle and more.",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/choose-projects/",
          "pubDate" : "Sat, 06 Jan 2024 11:53:17",
          "title" : "Chess Improvement Techniques: How to Prioritize Projects for Optimal Growth"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2834",
-         "pubDate" : "Fri, 05 Jan 2024 15:16:11",
-         "title" : "Davidson Gabriel and Rose Berline Seine win the Haitian Championship"
       }
    ]
 }
