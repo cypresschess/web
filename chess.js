@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Fast & Furious episode Robert Ris takes a close look at the Spanish encounter between Ian Nepomniachtchi and Ding Liren, who continued to discued topics they had discussed in their World Championship Match 2023. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ruy-lopez-nepomniachtchi-ding-liren",
+         "pubDate" : "Fri, 26 Jan 2024 12:44:06",
+         "title" : "Robert Ris' Fast and Furious: Ruy Lopez Nepomniachtchi-Ding Liren"
+      },
+      {
+         "description" : " Congratulations to Roy Teymant, who has been awarded the Order of Australia Medal, in the 2024 Australia Day Honours. The rather terse entry simply says \"For services to chess\", although it is certainly for more than that. Roy has been a long term organiser in Canberra, particularly with the Canberra Chess Club. When the club was in a bit of a slump, he took on the management role at the club, rebuilding it up to it's former glory. He has also served on the ACT Chess Association Committee for a number of years, assisting the ACTCA in organising various events in the nations capital. I believe Roy is the first local player/organiser to be recognised for work in chess, and it is a well deserv",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/roy-teymant-oam.html",
+         "pubDate" : "Fri, 26 Jan 2024 11:27:00",
+         "title" : "Roy Teymant OAM"
+      },
+      {
+         "description" : "From the 1960s to the 1980s, Klaus Darga and Hajo Hecht, together with Wolfgang Unzicker, Lothar Schmid, Robert H&uuml;bner and Helmut Pfleger, formed the backbone of the German national team. Hajo Hecht and Klaus Darga will soon be celebrating their 85th and 90th birthdays, respectively. Helmut Pfleger recalled their long-standing friendship in his latest column for \"Die Zeit\", one of the most influential and renowned weekly magazines in Germany. | Photo: Karin Darga",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-brings-people-together",
+         "pubDate" : "Fri, 26 Jan 2024 09:41:48",
+         "title" : "Chess brings people together, for a lifetime"
+      },
+      {
          "description" : "How you play chess reflects your actual personality. If you play chess with more timidity and reservation, you're likely a passive person who resorts to a diplomatic approach in the face of conflict. While a person who attacks like Mikhail Tal is likely to confront conflict head-on and rather impulsively. So, to what category do you belong?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -162,14 +186,6 @@ news_feed (
          "title" : "New: ChessBase Magazine on iPad"
       },
       {
-         "description" : "Five games ended decisively, all favouring the player who had the white pieces, in round 9 of the Tata Steel Masters. Praggnanandhaa R. and Nodirbek Abdusattorov scored victories and joined the 4-player leading pack, which also includes Gukesh D. and Anish Giri. Former co-leader Alireza Firouzja, on his part, was defeated by Alexander Donchenko. Firouzja is now one of three players standing a half point behind the leaders. In the Challengers, Marc'Andria Maurizzi remains atop the standings after beating Divya Deshmukh. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r9",
-         "pubDate" : "Wed, 24 Jan 2024 06:15:00",
-         "title" : "Tata Steel Chess R9: Eventful round leaves four players tied for first"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107099722.cms\" /> Five-time world champion and Fide deputy president V Anand stressed that the Indian trio of R Praggnanandhaa, D Gukesh and Vidit Gujrathi should not be overawed by the occasion when they make their Candidates debut in Toronto in April. In a virtual interaction with TOI, Anand spoke about the Indians' Candidates chances, importance of seconds for top tournaments, World Championship cycle and more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tata-steel-2024-best-games-today-grandmasters-choice-wgm-thalia-cervantes",
          "pubDate" : "Tue, 23 Jan 2024 23:54:57",
          "title" : "Tata Steel 2024: The Best Games Today | Grandmaster's Choice - WGM Thalia Cervantes"
-      },
-      {
-         "description" : "FIDE and World Chess are set to launch a Women's Wednesday Online Tournament series, a a groundbreaking move to elevate women's participation and recognition in the world of chess. The weekly event, hosted on the FIDE Online Arena platform (chessarena.com), and represents a significant stride in empowering women within the chess community. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/swiss-queens-wednesday",
-         "pubDate" : "Tue, 23 Jan 2024 21:02:23",
-         "title" : "Swiss Queens Wednesday"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows two of his games from the 2024 Charlotte Open. 2024.01.23<br /> Kayden Troff vs. Julian Proleiko, 2024: A04 Reti opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-performance-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lIB7WoMBgHw.jpg?itok=t9rWUeaR\" alt=\"\" /></a></div>",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2834",
          "pubDate" : "Fri, 05 Jan 2024 15:16:11",
          "title" : "Davidson Gabriel and Rose Berline Seine win the Haitian Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106570473.cms\" />Adani Group chairman Gautam Adani met with rising chess sensation Rameshbabu Praggnanandhaa on Friday, expressing admiration for his achievements. Adani shared a picture with Praggnanandhaa on X, emphasizing his success as an inspiration for young Indians. Adani pledged his support, highlighting Praggnanandhaa's representation of India's potential. Adani praised Praggnanandhaa's success as an inspiration for young Indians to believe in standing on the podium to celebrate their nation's greatness.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gautam-adani-meets-chess-prodigy-praggnanandhaa-extends-support/articleshow/106570473.cms",
-         "pubDate" : "Fri, 05 Jan 2024 08:45:47",
-         "title" : "Gautam Adani meets chess prodigy Praggnanandhaa, extends support"
       }
    ]
 }
