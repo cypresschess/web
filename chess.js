@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "How you play chess reflects your actual personality. If you play chess with more timidity and reservation, you're likely a passive person who resorts to a diplomatic approach in the face of conflict. While a person who attacks like Mikhail Tal is likely to confront conflict head-on and rather impulsively. So, to what category do you belong?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aggressive-vs-defensive-openings-chess-and-personality",
+         "pubDate" : "Fri, 26 Jan 2024 08:07:18",
+         "title" : "Aggressive vs. defensive openings: chess and personality"
+      },
+      {
+         "description" : " The 31-year-old, who took eight months off due to illness, planned a comeback at the \"chess Wimbledon\" but, with just the three weekend rounds left, he is only half a point clear of bottom place Ding Liren's comeback at Tata Steel Wijk aan Zee is in danger of eclipse this weekend as China's world champion, who took eight months off at the start of his reign due to an unspecified illness, has shown only glimpses of his former strength and has often bailed out of battle with routine draws. After 10 of the 13 rounds at the \"chess Wimbledon\", Ding trailed in ninth place with four points, just a solitary win, six draws and three defeats. He is behind all five of the candidates who will meet in T",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/jan/26/chess-ding-at-risk-of-finishing-last-as-world-champion-falters-at-wijk",
+         "pubDate" : "Fri, 26 Jan 2024 08:00:26",
+         "title" : "Chess: Ding at risk of finishing last as world champion falters at Wijk"
+      },
+      {
          "description" : "In the recently concluded ChessBase Christmas Composition Contest, we received many entries, and thus the decision-making was much harder! The problems submitted were tested upon the criterion of economy, harmony and aesthetics. We decided to make three articles on it, with the final one being about the prize-winners! Hope you have fun replalying these very nice little puzzles!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/endgame-riddle-fischer-spassky-game-3",
          "pubDate" : "Thu, 25 Jan 2024 11:00:00",
          "title" : "Endgame riddle: Fischer vs Spassky - Game 3"
+      },
+      {
+         "description" : "Gukesh D. and Nodirbek Abdusattorov scored full points on Wednesday to go into the second rest day of the Tata Steel Masters sharing the lead with 6&frac12;/10 points. Sharing third place at a half-point distance are Praggnanandhaa R. and Anish Giri, while Ian Nepomniachtchi is one of four players standing a half point further back - Nepo joined this group thanks to a victory over world champion Ding Liren. In the Challengers, Marc'Andria Maurizzi won again and now has a full-point lead over Leon Luke Mendonca. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r10",
+         "pubDate" : "Thu, 25 Jan 2024 02:20:00",
+         "title" : "Tata Steel Chess R10: Gukesh and Abdusattorov co-leaders"
+      },
+      {
+         "description" : "The FIDE Trainers' Online Seminar will be held on February 2-4, 2024. The seminar is being organized by the Asian Chess Federation in cooperation with the FIDE Commission for Women in Chess under the supervision of the FIDE Trainers' Commission. Artur Yusupov, Hou Yifan and Antoaneta Stefanova will be among the lecturers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-trainers-seminar-hou-yusupov",
+         "pubDate" : "Thu, 25 Jan 2024 02:05:00",
+         "title" : "FIDE Trainers Online Seminar with Hou Yifan and Artur Yusupov"
       },
       {
          "description" : "",
@@ -122,6 +154,22 @@ news_feed (
          "title" : "ECU Rulebook"
       },
       {
+         "description" : "Play like Magnus Carlsen, Hikaru Nakamura & Co! ChessBase Magazine gives you the chance to do just that: in an interactive training format with video feedback, you can go through selected games by top players \"Move by Move\" - together with our author, Robert Ris. We invite you: this week you can replay Magnus Carlsen's Black win against IM Bojan Maksimovic from ChessBase Magazine #217 - directly via your web browser in the new ChessBase Books format. CBM #217 is the first issue to include full mobile access. So, you can load it directly with your web browser on your iPad, tablet or Mac. Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-217-now-also-as-an-e-book-for-ipad-tablet-mac-etc-3",
+         "pubDate" : "Wed, 24 Jan 2024 06:30:00",
+         "title" : "New: ChessBase Magazine on iPad"
+      },
+      {
+         "description" : "Five games ended decisively, all favouring the player who had the white pieces, in round 9 of the Tata Steel Masters. Praggnanandhaa R. and Nodirbek Abdusattorov scored victories and joined the 4-player leading pack, which also includes Gukesh D. and Anish Giri. Former co-leader Alireza Firouzja, on his part, was defeated by Alexander Donchenko. Firouzja is now one of three players standing a half point behind the leaders. In the Challengers, Marc'Andria Maurizzi remains atop the standings after beating Divya Deshmukh. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r9",
+         "pubDate" : "Wed, 24 Jan 2024 06:15:00",
+         "title" : "Tata Steel Chess R9: Eventful round leaves four players tied for first"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107099722.cms\" /> Five-time world champion and Fide deputy president V Anand stressed that the Indian trio of R Praggnanandhaa, D Gukesh and Vidit Gujrathi should not be overawed by the occasion when they make their Candidates debut in Toronto in April. In a virtual interaction with TOI, Anand spoke about the Indians' Candidates chances, importance of seconds for top tournaments, World Championship cycle and more.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -152,6 +200,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/tata-steel-2024-best-games-today-grandmasters-choice-wgm-thalia-cervantes",
          "pubDate" : "Tue, 23 Jan 2024 23:54:57",
          "title" : "Tata Steel 2024: The Best Games Today | Grandmaster's Choice - WGM Thalia Cervantes"
+      },
+      {
+         "description" : "FIDE and World Chess are set to launch a Women's Wednesday Online Tournament series, a a groundbreaking move to elevate women's participation and recognition in the world of chess. The weekly event, hosted on the FIDE Online Arena platform (chessarena.com), and represents a significant stride in empowering women within the chess community. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/swiss-queens-wednesday",
+         "pubDate" : "Tue, 23 Jan 2024 21:02:23",
+         "title" : "Swiss Queens Wednesday"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows two of his games from the 2024 Charlotte Open. 2024.01.23<br /> Kayden Troff vs. Julian Proleiko, 2024: A04 Reti opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-performance-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lIB7WoMBgHw.jpg?itok=t9rWUeaR\" alt=\"\" /></a></div>",
@@ -202,14 +258,6 @@ news_feed (
          "title" : "Launch of Women's Wednesday Online Tournament Series"
       },
       {
-         "description" : "The 9th European Team Championship was played in Haifa, Israel, 35 years ago. There are many reasons why it was a notable landmark in history. It was the last time the unbeatable team from the Soviet Union took part. And it was the first time in over 25 years that they set foot on Israeli soil. They won Gold, but in the third round were surprised by the Greek team, consisting of five IMs and one FM. Efstratios Grivas, at the time a lowly IM, describes the match.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-2",
-         "pubDate" : "Tue, 23 Jan 2024 08:22:30",
-         "title" : "The Soviets in Haifa: a final farewell"
-      },
-      {
          "description" : " The ninth round of the Tata Steel Masters moved to the AFAS Theatre in the Hague. Five of the seven games in the Masters were decisive and six of seven in the Challengers. At the end of the round four players share the lead with 5.5/9, Nodirbek Abdusattorov, Anish Giri, Gukesh and Praggnanandhaa. Wei Yi, Santosh Vidit and Alireza Firouzja are all on 5/9. Abdusattorov beat Jorden van Foreest pretty convincingly in just 24 moves. Praggnanandhaa beat Ju Wenjun taking on the Two Knights with the sharp Ng5. Giri drew with black against Ding Liren and Gukesh drew with Vidit. Alireza Firouzja lost his third game of the event when he allowed Alexander Donchenko a huge attack, Ian Nepomniachtchi los",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -232,14 +280,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/the-wizard-as-professor.html",
          "pubDate" : "Mon, 22 Jan 2024 16:20:00",
          "title" : "The Wizard as Professor"
-      },
-      {
-         "description" : "In the second segment of our problem-solving experiment, we invited a former world champion of chess solving (!) to answer the unorthodox chess puzzles, featured in our Dec. 31st article. This strong grandmaster breezed past the first two problems, and so we gave a final composition which proved to be slightly more challenging for the mathematician!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/watch-them-solving-2",
-         "pubDate" : "Mon, 22 Jan 2024 16:00:00",
-         "title" : "Watch them solving (2)"
       },
       {
          "description" : "",
@@ -352,14 +392,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-lessons-from-the-iron-duke/",
          "pubDate" : "Sat, 20 Jan 2024 10:19:07",
          "title" : "Chess lessons from the Iron Duke"
-      },
-      {
-         "description" : "Top players have a rather developed sense of danger; an asset that protects them from awkward moments. In the following game from round four of the Tata Steel Tournament in Wijk aan Zee we can observe how the great Indian talent Gukesh felt comfortable in his game against top-ten grandmaster Anish Giri, completely missing the so much needed sense of danger. The very experienced chess trainer GM Efstratios Grivas takes us meticulously through the very instructive game. | Photos: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-a-sense-of-danger",
-         "pubDate" : "Sat, 20 Jan 2024 08:00:00",
-         "title" : "Grivas: A Sense of Danger"
       },
       {
          "description" : "According to many (including GM Magnus Carlsen), GM Garry Kasparov is still the Greatest of All Time (GOAT) in chess. Today, it is exactly 25 years since Kasparov played his most famous and possibly best ever game, against GM Veselin Topalov in Wi...",
@@ -594,14 +626,6 @@ news_feed (
          "title" : "Space in Chess | Beginner Breakdown - NM Ralph Tan"
       },
       {
-         "description" : "Last Tuesday, this young lad turned 15. Shreyas Royal gained his IM title in 2022, the youngest English player to do this. As a result he was invited to the London Chess Classic in December. There he was the lowest ranked player, but finished with 2630 performance, 226 points above his FIDE rating. In the Hastings Congress he missed his third GM norm by a whisker. It is time to take a closer look at this bright young talent, from whom we will be hearing a lot in the future. | Photo: Olympics.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gm-candidate-shreyas-turns-15",
-         "pubDate" : "Tue, 16 Jan 2024 20:00:00",
-         "title" : "GM candidate Shreyas turns 15!"
-      },
-      {
          "description" : " Another round of Tata Steel, another set of wins for Black. If I can count correctly, there have been 10 black wins and only 1 white win over the first 21 games. Is it because White is over pressing? Have a lot of White opening lines been sorted out? or just a quirk in the pairings? <br /> <b>Donchenko,Alexander (2643) - Giri,Anish (2749) [E60]</b><br /> Tata Steel Masters 2024 Wijk aan Zee, Netherlands (3.2), 15.01.2024 <script> new PgnViewer( { boardName: \"game1438\", movesFormat: \"default\", pgnString:'1.d4 d6 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.c4 Bf5 6.Qb3 Qc8 7.Nc3 Nc6 8.d5 Nd8 9.O-O O-O 10.Re1 Ne4 11.Nxe4 Bxe4 12.Bd2 b6 13.Bc3 e5 14.dxe6 Nxe6 15.Bxg7 Kxg7 16.Qc3+ Kg8 17.Nd4 Bxg2 18.Kxg2 Ng5 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -672,22 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-3",
          "pubDate" : "Mon, 15 Jan 2024 12:24:00",
          "title" : "Giri Beats Donchenko, Catches Firouzja In 1st Place"
-      },
-      {
-         "description" : "Every chess player likes to attack. Every chess player likes to put pressure on their opponent. But when the tables are turned, and we become the target of an attack, we may feel uncomfortable, anxious, and insecure. Yet, we can save an incredible number of defensive positions if we know the techniques and rules-of-thumb.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/harald-schneider-zinner-fortify-your-defences",
-         "pubDate" : "Mon, 15 Jan 2024 12:00:00",
-         "title" : "Harald Schneider-Zinner: Fortify your defences"
-      },
-      {
-         "description" : "The term was first used by Fred Reinfeld and Irving Chernev, in 1933. It is a chess tactic in which a player, instead of playing the expected move (commonly a recapture), first interposes another move posing an immediate threat that the opponent must answer, and only then plays the expected move. Leading chess trainer and analyst, GM Efstratios Grivas, tells us how this tactical manoeuvre works.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/zwischenzug-the-intermediate-move",
-         "pubDate" : "Mon, 15 Jan 2024 12:00:00",
-         "title" : "Zwischenzug - the intermediate move"
       },
       {
          "description" : "European Women's Rapid and Blitz Chess Championship 2023 took place from 11-15 January 2024 in Monte-Carlo, Monaco, gathering 120 players from 26 European federations. Alexandra Kosteniuk emerged as the Winner of both Rapid and Blitz tournaments, taking the historical double gold. European Women's Blitz Chess Championship 2023 was played on 12th of January, with 13 single rounds (swiss system). Heading into the last round of the Blitz Championship, Alexandra Kosteniuk had a sole lead, being a whole point ahead of []",
@@ -842,14 +850,6 @@ news_feed (
          "title" : "European Women's Rapid & Blitz Championship 2023 starts in Monte-Carlo"
       },
       {
-         "description" : "It's an experiment. We wanted to know how a number of different personalities reacted to some unusual problems we presented in our Christmas Puzzle week. So we gave them two positions and let them wrestle with them online. For starters, we bring you video of a super-talent, Leon Luke Mendonca, and his first-time encounter with anything like this. Did you react in similar fashion to the problems?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/watch-them-solving",
-         "pubDate" : "Thu, 11 Jan 2024 16:00:00",
-         "title" : "Watch them solving!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -888,14 +888,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2023-starts-in-monaco/",
          "pubDate" : "Wed, 10 Jan 2024 20:36:59",
          "title" : "European Women's Rapid and Blitz Chess Championship 2023 starts in Monaco"
-      },
-      {
-         "description" : "The ChessBase Christmas Puzzle week has concluded, but one final competition remains! To all amateurs and aspiring composers, now is your chance to gain fame by submitting a composition with chance for prizes too - with ChessBase publications in the brand-new eBook format up for grabs! The deadline for submission is January 21st - this article provides all other details! So good luck and happy composing to all!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/compose-your-own-puzzle-mate",
-         "pubDate" : "Wed, 10 Jan 2024 13:48:36",
-         "title" : "Compose your own puzzle, mate!"
       },
       {
          "description" : "ECU E-Magazine December 2023 is out! In this edition of the ECU E-Magazine you may read about: The December 2023 issue of the ECU Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below in PFD format.",
@@ -1072,14 +1064,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gautam-adani-meets-chess-prodigy-praggnanandhaa-extends-support/articleshow/106570473.cms",
          "pubDate" : "Fri, 05 Jan 2024 08:45:47",
          "title" : "Gautam Adani meets chess prodigy Praggnanandhaa, extends support"
-      },
-      {
-         "description" : " Ding is scheduled to return to action at the 'chess Wimbledon' that includes five of the eight Candidates to challenge him for the world title this year China's world champion, Ding Liren, has become the forgotten man of chess due to his long absence from the board since he won the classical crown Magnus Carlsen abdicated last year. The No 1 has cited a lack of motivation to spend months preparing for title matches. Ding gained many admirers due to his <a href=\"https://www.chessgames.com/perl/chessgame?gid=2488997\" title=\"\">final tie-break victory</a> over Ian Nepomniachtchi with its dramatic decider 46&hellip;Rg6! but his fans have drifted away in the course of his eight months inaction wi",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/jan/05/chess-world-champion-ding-liren-to-return-at-tata-steel-wijk-aan-zee",
-         "pubDate" : "Fri, 05 Jan 2024 08:00:28",
-         "title" : "Chess: forgotten world champion Ding Liren to return at Wijk aan Zee"
       }
    ]
 }
