@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This episode is a must-watch for every endgame beginner, and soon to be expert. Svitlana is presenting some essential endgame positions and how to deal with them. May it be rook vs. bishop, queen vs. rook, and other positions, which every chess player had on the board already, at least once in their life. Our advice: Use Fritz 19, and replay the positions from the replayer to actively learn the patterns you saw in this video.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-endgame-setups-you-need-to-know",
+         "pubDate" : "Fri, 26 Jan 2024 21:00:00",
+         "title" : "Svitlana's Smart Moves - Endgame setups you need to know!"
+      },
+      {
+         "description" : " The 31-year-old, who took eight months off due to illness, planned a comeback at the \"chess Wimbledon\" but, with just two weekend rounds left, he is only half a point clear of bottom place Ding Liren's comeback at Tata Steel Wijk aan Zee is in danger of eclipse this weekend as China's world champion, who took eight months off at the start of his reign due to an unspecified illness, has shown only glimpses of his former strength and has often bailed out of battle with routine draws. After 11 of the 13 rounds at the \"chess Wimbledon\", Ding trailed in ninth place with 4.5 points, just a solitary win, seven draws and three defeats. He is behind all five of the candidates who will meet in Toront",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/jan/26/chess-ding-at-risk-of-finishing-last-as-world-champion-falters-at-wijk",
+         "pubDate" : "Fri, 26 Jan 2024 20:26:26",
+         "title" : "Chess: Ding at risk of finishing last as world champion falters at Wijk"
+      },
+      {
+         "description" : "This week GM Daniel King looks at some games from the Tata Steel tournament, focusing on the question of technique. How do you finish a game cleanly? | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-technique-of-good-technique",
+         "pubDate" : "Fri, 26 Jan 2024 19:00:00",
+         "title" : "Daniel King's Power Play Show: The technique of good technique"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -58,14 +82,6 @@ news_feed (
          "title" : "Aggressive vs. defensive openings: chess and personality"
       },
       {
-         "description" : " The 31-year-old, who took eight months off due to illness, planned a comeback at the \"chess Wimbledon\" but, with just the three weekend rounds left, he is only half a point clear of bottom place Ding Liren's comeback at Tata Steel Wijk aan Zee is in danger of eclipse this weekend as China's world champion, who took eight months off at the start of his reign due to an unspecified illness, has shown only glimpses of his former strength and has often bailed out of battle with routine draws. After 10 of the 13 rounds at the \"chess Wimbledon\", Ding trailed in ninth place with four points, just a solitary win, six draws and three defeats. He is behind all five of the candidates who will meet in T",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/jan/26/chess-ding-at-risk-of-finishing-last-as-world-champion-falters-at-wijk",
-         "pubDate" : "Fri, 26 Jan 2024 08:00:26",
-         "title" : "Chess: Ding at risk of finishing last as world champion falters at Wijk"
-      },
-      {
          "description" : "In the recently concluded ChessBase Christmas Composition Contest, we received many entries, and thus the decision-making was much harder! The problems submitted were tested upon the criterion of economy, harmony and aesthetics. We decided to make three articles on it, with the final one being about the prize-winners! Hope you have fun replalying these very nice little puzzles!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,22 +104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/bacon-morphy-erdos.html",
          "pubDate" : "Thu, 25 Jan 2024 11:42:00",
          "title" : "Bacon, Morphy, Erdos"
-      },
-      {
-         "description" : "Game 3 of the 1972 match between Bobby Fischer and Boris Spassky has been analysed countless times. But there are still many open questions and new discoveries to be made. Karsten M&uuml;ller invites you to help him solve the riddles emerging from this fascinating, historic encounter.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-riddle-fischer-spassky-game-3",
-         "pubDate" : "Thu, 25 Jan 2024 11:00:00",
-         "title" : "Endgame riddle: Fischer vs Spassky - Game 3"
-      },
-      {
-         "description" : "Gukesh D. and Nodirbek Abdusattorov scored full points on Wednesday to go into the second rest day of the Tata Steel Masters sharing the lead with 6&frac12;/10 points. Sharing third place at a half-point distance are Praggnanandhaa R. and Anish Giri, while Ian Nepomniachtchi is one of four players standing a half point further back - Nepo joined this group thanks to a victory over world champion Ding Liren. In the Challengers, Marc'Andria Maurizzi won again and now has a full-point lead over Leon Luke Mendonca. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r10",
-         "pubDate" : "Thu, 25 Jan 2024 02:20:00",
-         "title" : "Tata Steel Chess R10: Gukesh and Abdusattorov co-leaders"
       },
       {
          "description" : "",
