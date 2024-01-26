@@ -34,14 +34,6 @@ news_feed (
          "title" : "Endgame riddle: Fischer vs Spassky - Game 3"
       },
       {
-         "description" : "Gukesh D. and Nodirbek Abdusattorov scored full points on Wednesday to go into the second rest day of the Tata Steel Masters sharing the lead with 6&frac12;/10 points. Sharing third place at a half-point distance are Praggnanandhaa R. and Anish Giri, while Ian Nepomniachtchi is one of four players standing a half point further back - Nepo joined this group thanks to a victory over world champion Ding Liren. In the Challengers, Marc'Andria Maurizzi won again and now has a full-point lead over Leon Luke Mendonca. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r10",
-         "pubDate" : "Thu, 25 Jan 2024 02:20:00",
-         "title" : "Tata Steel Chess R10: Gukesh and Abdusattorov co-leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
