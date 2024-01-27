@@ -34,7 +34,7 @@ news_feed (
          "title" : "Quintiliano's Quintet"
       },
       {
-         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After four rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 3&frac12; points. The fifth and sixth rounds are set to be played today starting at 8.00 CET (2.00 ET, 12.30 IST)",
+         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After six rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 5 points. The seventh round will be played on Sunday, January 28 starting at 14.00 CET (8.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
