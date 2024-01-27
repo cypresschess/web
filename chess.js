@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Marcel Duchamp, the quintessential chess playing artist, concluded his conventional artistic career with a work enigmatically entitled Tu m' which has widely been interpreted as either the start of the sarcastic phrase tu m'ennuies (\"you bore me\"); or tu m'emmerdes (\"you annoy me\"). Duchamp was apparently so bored with representational art that he could not []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/from-the-deathbed-of-classical-chess/",
+         "pubDate" : "Sat, 27 Jan 2024 10:35:12",
+         "title" : "From the deathbed of classical chess"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation Academy has announced an extraordinary bonus for participants of their course! The renowned grandmaster Fabiano Caruana will be sharing his insights and experiences in an exclusive interview conducted by Christian Chirila. Add it to your calendar!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/exclusive-interview-on-kcf-academy",
+         "pubDate" : "Sat, 27 Jan 2024 10:00:00",
+         "title" : "Exclusive interview on KCF Academy"
+      },
+      {
          "description" : "Starting from the diagram position, Black must make five correct decisions to win - but the win will be nice. Have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-11",
          "pubDate" : "Fri, 26 Jan 2024 13:11:00",
          "title" : "Abdusattorov Sole Leader At Tata Steel Masters; Wei Yi Wins Brilliancy"
-      },
-      {
-         "description" : "In his new Fast & Furious episode Robert Ris takes a close look at the Spanish encounter between Ian Nepomniachtchi and Ding Liren, who continued to discued topics they had discussed in their World Championship Match 2023. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-ruy-lopez-nepomniachtchi-ding-liren",
-         "pubDate" : "Fri, 26 Jan 2024 12:44:06",
-         "title" : "Robert Ris' Fast and Furious: Ruy Lopez Nepomniachtchi-Ding Liren"
       },
       {
          "description" : " Congratulations to Roy Teymant, who has been awarded the Order of Australia Medal, in the 2024 Australia Day Honours. The rather terse entry simply says \"For services to chess\", although it is certainly for more than that. Roy has been a long term organiser in Canberra, particularly with the Canberra Chess Club. When the club was in a bit of a slump, he took on the management role at the club, rebuilding it up to it's former glory. He has also served on the ACT Chess Association Committee for a number of years, assisting the ACTCA in organising various events in the nations capital. I believe Roy is the first local player/organiser to be recognised for work in chess, and it is a well deserv",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/tougher-titles.html",
          "pubDate" : "Sat, 06 Jan 2024 13:00:00",
          "title" : "Tougher titles?"
-      },
-      {
-         "description" : "A modern-day problem is having way too many options and relatively little time. We can't do it all. Be it in chess improvement, business, or hobbies. So, our task is to filter out the things that are really worth our time and say no to everything else. Today, I show you how to do this. []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/choose-projects/",
-         "pubDate" : "Sat, 06 Jan 2024 11:53:17",
-         "title" : "Chess Improvement Techniques: How to Prioritize Projects for Optimal Growth"
       }
    ]
 }
