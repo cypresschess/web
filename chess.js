@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2862",
+         "pubDate" : "Fri, 26 Jan 2024 22:47:09",
+         "title" : "Tata Steel Masters 2024: Abdusattorov forges into the lead"
+      },
+      {
+         "description" : "In the recently concluded ChessBase Christmas Composition Contest, we received many entries, and thus the decision-making was much harder! The problems submitted were tested upon the criterion of economy, harmony and aesthetics. We decided to make three articles on it, with the final one being about the prize-winners! Hope you have fun replalying these very nice little puzzles!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-christmas-puzzle-contest-1b",
+         "pubDate" : "Fri, 26 Jan 2024 21:00:00",
+         "title" : "Christmas Puzzle Contest 1 + solutions"
+      },
+      {
          "description" : "This episode is a must-watch for every endgame beginner, and soon to be expert. Svitlana is presenting some essential endgame positions and how to deal with them. May it be rook vs. bishop, queen vs. rook, and other positions, which every chess player had on the board already, at least once in their life. Our advice: Use Fritz 19, and replay the positions from the replayer to actively learn the patterns you saw in this video.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/jan/26/chess-ding-at-risk-of-finishing-last-as-world-champion-falters-at-wijk",
          "pubDate" : "Fri, 26 Jan 2024 20:26:26",
          "title" : "Chess: Ding at risk of finishing last as world champion falters at Wijk"
+      },
+      {
+         "description" : " Nodirbek Abdusattorov took the sole lead of the Tata Steel Masters with two rounds to go. Abdusattorov beat Ju Wenjun in a Two Knights with 4.d3. Ju was fine out of the opening maybe 9...Nb4 (9...f5 or 9...Bf6) was the start of problems, it got pretty difficult for black quite quickly. After 20.Bb3 white was definitely pushing for a win, and after 23...Nxf7 black was clearly under pressure, 24.Qa2 (the computer prefers 24.dxe4) was a mistake according to the engine, although I think 24...Rd8! that's supposed to be better for black isn't easy to find or understand. 24...Qc6? (24...Kg8 is not quite as bad) loses and Abdusattorov mopped up to win in 34 moves. Parham Maghsoodloo lost to Santosh",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/abdusattorov-leads-the-tata-steel-masters-with-7.511-half-a-point-clear-of-gukesh",
+         "pubDate" : "Fri, 26 Jan 2024 20:26:00",
+         "title" : "Abdusattorov leads the Tata Steel Masters with 7.5/11 half a point clear of Gukesh - 11"
       },
       {
          "description" : "This week GM Daniel King looks at some games from the Tata Steel tournament, focusing on the question of technique. How do you finish a game cleanly? | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
@@ -50,6 +74,14 @@ news_feed (
          "title" : "Jeddah Young Masters live"
       },
       {
+         "description" : "After beating GM Ju Wenjun in round 11, GM Nodirbek Abdusattorov&#38;nbsp;went into the final weekend of the Tata Steel Chess Tournament as the sole leader in the Masters group. A spectacular day of chess saw lots of fascinating games, including a bri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-11",
+         "pubDate" : "Fri, 26 Jan 2024 13:11:00",
+         "title" : "Abdusattorov Sole Leader At Tata Steel Masters; Wei Yi Wins Brilliancy"
+      },
+      {
          "description" : "In his new Fast & Furious episode Robert Ris takes a close look at the Spanish encounter between Ian Nepomniachtchi and Ding Liren, who continued to discued topics they had discussed in their World Championship Match 2023. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/aggressive-vs-defensive-openings-chess-and-personality",
          "pubDate" : "Fri, 26 Jan 2024 08:07:18",
          "title" : "Aggressive vs. defensive openings: chess and personality"
-      },
-      {
-         "description" : "In the recently concluded ChessBase Christmas Composition Contest, we received many entries, and thus the decision-making was much harder! The problems submitted were tested upon the criterion of economy, harmony and aesthetics. We decided to make three articles on it, with the final one being about the prize-winners! Hope you have fun replalying these very nice little puzzles!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-christmas-puzzle-contest-1b",
-         "pubDate" : "Thu, 25 Jan 2024 18:00:00",
-         "title" : "ChessBase Christmas Puzzle Contest 1"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107153773.cms\" />Indian Grandmaster D Gukesh scored a crushing victory over Alexander Donchenko in the 10th round of Tata Steel Masters Chess on Thursday. This was Gukesh's fifth victory overall in the tournament besides two losses and the Indian moved to 6.5 points out of a possible 10. Uzbek Nodirbek Abdusattarov made sure Gukesh did not figure as the sole leader with a hard-earned victory over Max Warmerdam.",
@@ -824,14 +848,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/overcome-plateau/",
          "pubDate" : "Sat, 13 Jan 2024 14:00:00",
          "title" : "How To Overcome A Plateau In Chess Improvement"
-      },
-      {
-         "description" : "Black was more than OK in Saturday&#39;s opening round of the 2024 Tata Steel Chess Tournament&#38;nbsp;as GMs Alireza Firouzja, Anish Giri, Ian Nepomniachtchi, and Wei Yi all started with wins with the black pieces. The Challengers group also saw four de...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-1",
-         "pubDate" : "Sat, 13 Jan 2024 13:29:00",
-         "title" : "4 Black Wins In Tata Steel Chess Masters Opening Round"
       },
       {
          "description" : " The English prodigy, eight, totalled 8.5/13 and finished 15th in a field of 105 as well as winning the prize for best junior Bodhana Sivanandan, eight, England's girl prodigy, produced a ­stunningly impressive performance on Friday afternoon at the ­European Women's Blitz Championship in Monaco. She totalled 8.5 points out of 13, finished 15th in a field of 105, won the prize for the best junior, and was the <a href=\"https://chess-results.com/tnr797941.aspx?lan=1&amp;art=9&amp;fed=ENG&amp;turdet=YES&amp;flag=30&amp;snr=44\">top English player</a>. Blitz is three minutes per player for the entire game, plus a two seconds per move increment from move one. Sivanandan <a href=\"https://chess24.co",
