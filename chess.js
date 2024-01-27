@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Trainers Commission is pleased to announce the winners of the 15th FIDE Trainer Awards 2023 and the Yuri Averbakh / Isaac Boleslavsky Award for the best book published in 2022. Ramesh R B, Abhijit Kunte and Djakhangir Agaragimov were chosen as the top trainers of the year. In the book category, a work co-authored by Sergei Tiviakov and Yulia Gokbulut received the top accolade, while Vassilios Kotronias and Mihail Marin were the runners-up. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/winners-fide-trainer-awards-2023",
+         "pubDate" : "Sat, 27 Jan 2024 20:30:00",
+         "title" : "Winners of the FIDE Trainer Awards 2023"
+      },
+      {
          "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-christmas-puzzle-contest-1b",
          "pubDate" : "Fri, 26 Jan 2024 21:00:00",
          "title" : "Christmas Puzzle Contest 1 + solutions"
-      },
-      {
-         "description" : "This episode is a must-watch for every endgame beginner, and soon to be expert. Svitlana is presenting some essential endgame positions and how to deal with them. May it be rook vs. bishop, queen vs. rook, and other positions, which every chess player had on the board already, at least once in their life. Our advice: Use Fritz 19, and replay the positions from the replayer to actively learn the patterns you saw in this video.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-endgame-setups-you-need-to-know",
-         "pubDate" : "Fri, 26 Jan 2024 21:00:00",
-         "title" : "Svitlana's Smart Moves - Endgame setups you need to know!"
       },
       {
          "description" : " The 31-year-old, who took eight months off due to illness, planned a comeback at the \"chess Wimbledon\" but, with just two weekend rounds left, he is only half a point clear of bottom place Ding Liren's comeback at Tata Steel Wijk aan Zee is in danger of eclipse this weekend as China's world champion, who took eight months off at the start of his reign due to an unspecified illness, has shown only glimpses of his former strength and has often bailed out of battle with routine draws. After 11 of the 13 rounds at the \"chess Wimbledon\", Ding trailed in ninth place with 4.5 points, just a solitary win, seven draws and three defeats. He is behind all five of the candidates who will meet in Toront",
@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/1st-china-chess-king-2024",
          "pubDate" : "Sun, 7 Jan 2024 10:13:00",
          "title" : "1st China Chess King 2024 - Games and Results"
-      },
-      {
-         "description" : " Joseph Methu won the 2023 Kenya National Chess Championship, and with it, drove away with a new car (worth 1.3 million KSh). This is the fourth year that a car has been the grand prize. Mehul Gohil has won two (2019, 2022) and Martin Njoroge (2021). The tournament occurred at the splendid Charter Hall at The post <a href=\"https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/\">Joseph Methu wins Kenyan Chess Championship and car!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/",
-         "pubDate" : "Sat, 06 Jan 2024 19:35:25",
-         "title" : "Joseph Methu wins Kenyan Chess Championship&hellip; and car!"
       }
    ]
 }
