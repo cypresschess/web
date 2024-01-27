@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Starting from the diagram position, Black must make five correct decisions to win - but the win will be nice. Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/quintiliano-s-quintet",
+         "pubDate" : "Sat, 27 Jan 2024 09:00:00",
+         "title" : "Quintiliano's Quintet"
+      },
+      {
+         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After four rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 3&frac12; points. The fifth and sixth rounds are set to be played today starting at 8.00 CET (2.00 ET, 12.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
+         "pubDate" : "Sat, 27 Jan 2024 08:00:00",
+         "title" : "Jeddah Young Masters live"
+      },
+      {
          "description" : "A magnificent round of chess saw Nodirbek Abdusattorov beating Ju Wenjun to become the sole leader at the Tata Steel Masters in Wijk aan Zee. Standing in sole second place is Gukesh D., who failed to find a couple of tactical shots that would have granted him a full point against Alireza Firouzja. Four players are sharing third place, including Wei Yi and Vidit Gujrathi, who obtained remarkable wins on Friday. In the Challengers, Marc'Andria Maurizzi grabbed a fourth consecutive win and remains a full point ahead of Leon Luke Mendonca. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,14 +90,6 @@ news_feed (
          "title" : "Announcing winners of FIDE Trainer Awards 2023"
       },
       {
-         "description" : "From 24 to 30 January 2024, Jeddah will host a highly competitive U18 youth tournament. After three rounds, Jakub Seemann, who has won all his games so far, is in the lead. The fourth round will start today at 8:00 ET (14:00 CET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
-         "pubDate" : "Fri, 26 Jan 2024 13:44:00",
-         "title" : "Jeddah Young Masters live"
-      },
-      {
          "description" : "After beating GM Ju Wenjun in round 11, GM Nodirbek Abdusattorov&#38;nbsp;went into the final weekend of the Tata Steel Chess Tournament as the sole leader in the Masters group. A spectacular day of chess saw lots of fascinating games, including a bri...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/roy-teymant-oam.html",
          "pubDate" : "Fri, 26 Jan 2024 11:27:00",
          "title" : "Roy Teymant OAM"
-      },
-      {
-         "description" : "From the 1960s to the 1980s, Klaus Darga and Hajo Hecht, together with Wolfgang Unzicker, Lothar Schmid, Robert H&uuml;bner and Helmut Pfleger, formed the backbone of the German national team. Hajo Hecht and Klaus Darga will soon be celebrating their 85th and 90th birthdays, respectively. Helmut Pfleger recalled their long-standing friendship in his latest column for \"Die Zeit\", one of the most influential and renowned weekly magazines in Germany. | Photo: Karin Darga",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-brings-people-together",
-         "pubDate" : "Fri, 26 Jan 2024 09:41:48",
-         "title" : "Chess brings people together, for a lifetime"
       },
       {
          "description" : "How you play chess reflects your actual personality. If you play chess with more timidity and reservation, you're likely a passive person who resorts to a diplomatic approach in the face of conflict. While a person who attacks like Mikhail Tal is likely to confront conflict head-on and rather impulsively. So, to what category do you belong?",
