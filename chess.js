@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A magnificent round of chess saw Nodirbek Abdusattorov beating Ju Wenjun to become the sole leader at the Tata Steel Masters in Wijk aan Zee. Standing in sole second place is Gukesh D., who failed to find a couple of tactical shots that would have granted him a full point against Alireza Firouzja. Four players are sharing third place, including Wei Yi and Vidit Gujrathi, who obtained remarkable wins on Friday. In the Challengers, Marc'Andria Maurizzi grabbed a fourth consecutive win and remains a full point ahead of Leon Luke Mendonca. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r11",
+         "pubDate" : "Sat, 27 Jan 2024 01:25:00",
+         "title" : "Tata Steel Chess R11: Abdusattorov leads, Wei and Vidit score brilliant wins"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,20 +58,20 @@ news_feed (
          "title" : "Daniel King's Power Play Show: The technique of good technique"
       },
       {
+         "description" : "CDawgVA, the PogChamps 5 champion, streaming star, and voice actor, is returning to Chess.com... in bot form! The first ever winner of a live PogChamps final, Connor has more than 3.1 million YouTube followers and 1.2 million Twitch followers. He ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-cdawgva-bot",
+         "pubDate" : "Fri, 26 Jan 2024 18:00:35",
+         "title" : "Can You Defeat PogChamps 5 Winner CDawgVA?"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2861",
          "pubDate" : "Fri, 26 Jan 2024 14:51:53",
          "title" : "Announcing winners of FIDE Trainer Awards 2023"
-      },
-      {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Fri, 26 Jan 2024 13:55:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "From 24 to 30 January 2024, Jeddah will host a highly competitive U18 youth tournament. After three rounds, Jakub Seemann, who has won all his games so far, is in the lead. The fourth round will start today at 8:00 ET (14:00 CET).",
@@ -832,14 +840,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-strategy-from-nunn-to-nimzowitsch/",
          "pubDate" : "Sat, 13 Jan 2024 15:10:04",
          "title" : "Chess strategy from Nunn to Nimzowitsch"
-      },
-      {
-         "description" : "GM Oleksandr Bortnyk scooped up his fourth $400 Bullet Brawl win and moved into third place on the all-time winner&#39;s list after scoring 227 points during 2024&#39;s second edition. GM Daniel Naroditsky (223) and IM Yoseph Taher (191) were the main cha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wins-bullet-brawl-january-13-2024",
-         "pubDate" : "Sat, 13 Jan 2024 14:28:00",
-         "title" : "Bortnyk Battles His Way To 4th Bullet Brawl Title"
       },
       {
          "description" : "&#8220;After our last session, I had trouble walking straight for 2 days, it felt like I re-lived the symptoms of my Concussion,&#8221; I told my therapists two weeks ago. Her answer? &#8220;Great.&#8221; And Barbara is right. This is great news. For my long-term recovery. As a great therapist, she understands an important mechanism: If you []",
