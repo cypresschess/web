@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2024-01-05  - 01-26","11","<a href=http://www.uschess.org/msa/XtblMain.php?202401266812 target='_blank'>REBECCA CHESS CLUB JANUARY 2024 MONTHLY SWISS</a>",
+"HOUSTON","2024-01-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202401266782 target='_blank'>REBECCA CHESS CLUB QUADS JANUARY 26. 2024</a>",
 "HOUSTON","2024-01-21","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401214492 target='_blank'>GAME GUYS 1.21.24</a>",
 "HOUSTON","2024-01-20  - 01-21","108","<a href=http://www.uschess.org/msa/XtblMain.php?202401214302 target='_blank'>TCR: TCA TEXAS TEAM CHAMPIONSHIP 2024- T</a>",
 "HOUSTON","2024-01-20","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401203452 target='_blank'>CHESSPANDA01202024SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-07-08","117","<a href=http://www.uschess.org/msa/XtblMain.php?202307085022 target='_blank'>JULY 8TH 2023 SCHOLASTIC</a>",
 "HOUSTON","2023-07-08","12","<a href=http://www.uschess.org/msa/XtblMain.php?202307084362 target='_blank'>CHESSPANDA07082023SATURDAY</a>",
 "CYPRESS","2023-07-07","34","<a href=http://www.uschess.org/msa/XtblMain.php?202307073662 target='_blank'>EVENT NAME MISSING</a>",
-"SPRING","2023-07-07","42","<a href=http://www.uschess.org/msa/XtblMain.php?202307073542 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2023-07-07","10","<a href=http://www.uschess.org/msa/XtblMain.php?202307073512 target='_blank'>FBCC 2023 BOTTLE ROCKET OPEN</a>",
 ]);
