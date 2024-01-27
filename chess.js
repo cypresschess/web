@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Sat, 27 Jan 2024 13:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
          "description" : "Marcel Duchamp, the quintessential chess playing artist, concluded his conventional artistic career with a work enigmatically entitled Tu m' which has widely been interpreted as either the start of the sarcastic phrase tu m'ennuies (\"you bore me\"); or tu m'emmerdes (\"you annoy me\"). Duchamp was apparently so bored with representational art that he could not []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/abdusattorov-leads-the-tata-steel-masters-with-7.511-half-a-point-clear-of-gukesh",
          "pubDate" : "Fri, 26 Jan 2024 20:26:00",
          "title" : "Abdusattorov leads the Tata Steel Masters with 7.5/11 half a point clear of Gukesh - 11"
-      },
-      {
-         "description" : "This week GM Daniel King looks at some games from the Tata Steel tournament, focusing on the question of technique. How do you finish a game cleanly? | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-the-technique-of-good-technique",
-         "pubDate" : "Fri, 26 Jan 2024 19:00:00",
-         "title" : "Daniel King's Power Play Show: The technique of good technique"
       },
       {
          "description" : "CDawgVA, the PogChamps 5 champion, streaming star, and voice actor, is returning to Chess.com... in bot form! The first ever winner of a live PogChamps final, Connor has more than 3.1 million YouTube followers and 1.2 million Twitch followers. He ...",
@@ -1064,22 +1064,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/01/06/joseph-methu-wins-kenyan-chess-championship-and-car/",
          "pubDate" : "Sat, 06 Jan 2024 19:35:25",
          "title" : "Joseph Methu wins Kenyan Chess Championship&hellip; and car!"
-      },
-      {
-         "description" : "The London Chess Classic in December concluded with an impressive final dinner at London's Savoy Hotel complex, the scene of the historic world championship challenge by Nigel Short to Garry Kasparov in 1993. Next door, Simpsons-in-the-Strand, soon to be reopened after a lengthy Covid-enforced closure and renovation, is famed in chess lore, notably as the scene of []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/caviar-to-the-admiral/",
-         "pubDate" : "Sat, 06 Jan 2024 13:42:43",
-         "title" : "Caviar to the Admiral"
-      },
-      {
-         "description" : " I'm interested in receiving feedback on the current FIDE title system, especially in regards the number of titles being awarded. At this stage this is a non official request (ie not in my role as Secretary of the FIDE Qualification System) but it may turn out to lead into a more formal review. One of the main comments I do hear is about the number of (W)GM's/(W)IM's/(W)FM's currently going around, especially compared the the historical origins of the titles. On the other hand, I don't see players who are close to the title hoping that the process is made harder. One suggestion made to me today was to simply increase the peak rating required to earn a title (ie 2600 instead of 2500 for a GM)",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/tougher-titles.html",
-         "pubDate" : "Sat, 06 Jan 2024 13:00:00",
-         "title" : "Tougher titles?"
       }
    ]
 }
