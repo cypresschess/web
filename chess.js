@@ -786,14 +786,6 @@ news_feed (
          "title" : "European Women's Rapid and Blitz Championship 2023: Alexandra Kosteniuk wins double gold"
       },
       {
-         "description" : "GM Anish Giri caught GM Alireza Firouzja in first place in round three of the 2024 Tata Steel Chess Tournament&#38;nbsp;Masters. The Dutchman defeated GM Alexander Donchenko and saw his compatriot GM Max Warmerdam hold Firouzja to a draw. As in the fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-3",
-         "pubDate" : "Mon, 15 Jan 2024 12:24:00",
-         "title" : "Giri Beats Donchenko, Catches Firouzja In 1st Place"
-      },
-      {
          "description" : "European Women's Rapid and Blitz Chess Championship 2023 took place from 11-15 January 2024 in Monte-Carlo, Monaco, gathering 120 players from 26 European federations. Alexandra Kosteniuk emerged as the Winner of both Rapid and Blitz tournaments, taking the historical double gold. European Women's Blitz Chess Championship 2023 was played on 12th of January, with 13 single rounds (swiss system). Heading into the last round of the Blitz Championship, Alexandra Kosteniuk had a sole lead, being a whole point ahead of []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
