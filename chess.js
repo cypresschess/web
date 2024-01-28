@@ -18,6 +18,14 @@ news_feed (
          "title" : "Understanding before Moving 162: Chess history in a nutshell (43)"
       },
       {
+         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After six rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 5 points. The seventh round will be played on Sunday, January 28 starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
+         "pubDate" : "Sun, 28 Jan 2024 14:00:00",
+         "title" : "Jeddah Young Masters live"
+      },
+      {
          "description" : "The Live game link of&#160;1st SOA International Grandmasters Chess Festival 2024 # Category &#8216;A' (1900 &#38; Above) are given below. Live game link:&#160;https://view.livechesscloud.com/#7938d5e0-6ad0-4214-a329-6353bf1808ef",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/vidit-beats-abdusattorov-five-way-tie-for-first-going-into-the-final-round-of-the-tata-steel-masters",
          "pubDate" : "Sat, 27 Jan 2024 21:22:00",
          "title" : "Vidit beats Abdusattorov, five way tie for first going into the final Round of the Tata Steel Masters - 12"
-      },
-      {
-         "description" : "The FIDE Trainers Commission is pleased to announce the winners of the 15th FIDE Trainer Awards 2023 and the Yuri Averbakh / Isaac Boleslavsky Award for the best book published in 2022. Ramesh R B, Abhijit Kunte and Djakhangir Agaragimov were chosen as the top trainers of the year. In the book category, a work co-authored by Sergei Tiviakov and Yulia Gokbulut received the top accolade, while Vassilios Kotronias and Mihail Marin were the runners-up. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/winners-fide-trainer-awards-2023",
-         "pubDate" : "Sat, 27 Jan 2024 20:30:00",
-         "title" : "Winners of the FIDE Trainer Awards 2023"
       },
       {
          "description" : "",
