@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has introduced a series of changes to the qualification paths that will be in effect for the Candidates Tournament in 2026. Most notably, the runner-up from the World Championship match no longer automatically qualifies for the Candidates. The alterations are aimed at enhancing the competitive landscape, encouraging player participation, and ensuring a fair representation of the top contenders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/changes-qualification-path-candidates",
+         "pubDate" : "Sun, 28 Jan 2024 18:00:00",
+         "title" : "Changes to qualification paths for the Candidates Tournament"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 162nd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and takes a look at the legacy of Vassily Smyslov, the seventh World Champion in the history of chess. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-162-chess-history-in-a-nutshell-43",
          "pubDate" : "Sun, 28 Jan 2024 15:00:00",
          "title" : "Understanding before Moving 162: Chess history in a nutshell (43)"
-      },
-      {
-         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After six rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 5 points. The seventh round will be played on Sunday, January 28 starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
-         "pubDate" : "Sun, 28 Jan 2024 14:00:00",
-         "title" : "Jeddah Young Masters live"
       },
       {
          "description" : "The Live game link of&#160;1st SOA International Grandmasters Chess Festival 2024 # Category &#8216;A' (1900 &#38; Above) are given below. Live game link:&#160;https://view.livechesscloud.com/#7938d5e0-6ad0-4214-a329-6353bf1808ef",
@@ -48,6 +48,22 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-classical-rapid-and-blitz-chess-championships-2024-official-regulations/",
          "pubDate" : "Sun, 28 Jan 2024 11:16:08",
          "title" : "European Youth Classical, Rapid and Blitz Chess Championships 2024 - Official regulations"
+      },
+      {
+         "description" : "GM Wei Yi clinched the trophy at the 2024 Tata Steel Chess Tournament on Sunday after winning a thrilling four-player tiebreak that also involved GMs Anish Giri, Gukesh Dommaraju, and Nodirbek Abdusattorov.&#38;nbsp; GM Leon Luke Mendonca defeated W...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-13",
+         "pubDate" : "Sun, 28 Jan 2024 10:19:00",
+         "title" : "Wei Yi Wins 2024 Tata Steel Chess Masters In Thrilling Tiebreak"
+      },
+      {
+         "description" : "IM Veselin Pantev, a prominent figure in the Bulgarian chess community, succumbed to cancer last month, leaving behind his grieving wife, WGM Adriana Nikolova, their 4-year-old daughter, and his other two children.&#38;nbsp;On December 28, at the age ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/im-veselin-pantev-1971-2023-the-greatest-person-ive-ever-met",
+         "pubDate" : "Sun, 28 Jan 2024 09:21:59",
+         "title" : "IM Veselin Pantev (1971-2023): 'The Greatest Person I've Ever Met'"
       },
       {
          "description" : "In the wake of a 2024 Candidates qualification cycle plagued with tumult and controversy, the World Chess Federation (FIDE) has announced new regulations aimed at &#34;enhancing the competitive landscape, encouraging player participation, and ensuring...",
@@ -698,14 +714,6 @@ news_feed (
          "title" : "Grandmaster R Praggnandhaa beat World Champion Ding Liren"
       },
       {
-         "description" : "As Titled Tuesday gets more crowded, with 700+ players in the early tournament and 500+ in the late tournament both of the last two weeks, ties atop the standings seem to be getting more commonplace. GM Maxime Vachier-Lagrave emerged from a five-w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-sarana-win-titled-tuesday-january-16-2024",
-         "pubDate" : "Wed, 17 Jan 2024 08:42:07",
-         "title" : "Tie-tled Tuesday Continues To Draw Crowds"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106922488.cms\" />Rameshbabu Praggnanandhaa, an 18-year-old chess prodigy from India, has become the top-rated player in the country after a win over World champion Ding Liren at the 2024 Tata Steel Chess tournament. Cricket legend Sachin Tendulkar congratulated Praggnanandhaa on social media, expressing his admiration for his remarkable achievement and wishing him continued success in chess and bringing glory to India on the international stage.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/black-is-more-than-ok.html",
          "pubDate" : "Tue, 16 Jan 2024 12:37:00",
          "title" : "Black is more than OK"
-      },
-      {
-         "description" : "For the first time in his career, GM Praggnanandhaa Rameshbabu took the number-one spot among Indian players in the live ratings on Tuesday. The 18-year-old prodigy from Chennai beat World Champion Ding Liren at the 2024 Tata Steel Chess Tournamen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-4",
-         "pubDate" : "Tue, 16 Jan 2024 11:48:00",
-         "title" : "Praggnanandhaa Defeats World Champion Ding, Passes Anand To Become #1 In India"
       },
       {
          "description" : "",
@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-sna-seminar-exam-at-katni-on-30-31-dec-2023/",
          "pubDate" : "Mon, 08 Jan 2024 05:56:44",
          "title" : "Final Report :SNA Seminar & Exam at Katni on 30 & 31 Dec 2023"
-      },
-      {
-         "description" : "In the ongoing series dedicated to chess on eBay <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), last month's post was <A HREF=\"https://chessforallages.blogspot.com/2023/12/fischer-spassky-top-items-by-price.html\">Fischer - Spassky Top Items</A> (December 2023). I wrote, <BLOCKQUOTE> My short list for this post had a dozen items, any one of which could have been featured for the post. </BLOCKQUOTE> <P> This month the situation was the opposite; my short list had zero items. I looked at twice the number of eBay pages that I usually do, came up empty handed, then looked at a number of related ideas and ag",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/in-style-of.html",
-         "pubDate" : "Sun, 07 Jan 2024 16:49:00",
-         "title" : "In the Style of ..."
       }
    ]
 }
