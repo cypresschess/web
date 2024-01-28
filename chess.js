@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Five out of seven games ended decisively in the penultimate round of the Tata Steel Masters, leaving five players tied for first place going into the last day of action. Vidit Gujrathi defeated former sole leader Nodirbek Abdusattorov to create the exciting scenario for Sunday. Vidit and Abdusattorov are joined by Gukesh D., Wei Yi and Anish Giri in the lead. Similarly, in the Challengers, Leon Luke Mendonca caught former sole leader Marc'Andria Maurizzi atop the standings. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r12",
+         "pubDate" : "Sun, 28 Jan 2024 03:45:00",
+         "title" : "Tata Steel Chess R12: Five co-leaders after Vidit beats Abdusattorov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2864",
+         "pubDate" : "Sun, 28 Jan 2024 01:04:52",
+         "title" : "Tata Steel Masters 2024: Five share the lead going into final round"
+      },
+      {
          "description" : " The twelfth and penultimate round of the Tata Steel Masters saw 5 decisive game and 7 players can walk away with the title tomorrow. Santosh Vidit did himself and almost half the field a favour by defeating the leader Nodirbek Abdusattorov in the final game to finish. The opening was a Rubinstein Nimzo-Indian and black was fine but 11...Bc4? instead of 11...Bb7 was a serious mistake. Vidit's 19.e6? (19.0-0) reduced his advantage quite a bit but white was a solid pawn up. Vidit ground away and without risk he found his way to the win. Anish Giri has a Chessable course on the French but he has only very rarely played it himself. Jorden Van Foreest hasn't had a good event and he chose the Exch",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-12",
          "pubDate" : "Sat, 27 Jan 2024 14:49:00",
          "title" : "Tata Steel Chess Masters Wide Open As Vidit Beats Abdusattorov, Becomes India's #1"
-      },
-      {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Sat, 27 Jan 2024 13:55:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : "Marcel Duchamp, the quintessential chess playing artist, concluded his conventional artistic career with a work enigmatically entitled Tu m' which has widely been interpreted as either the start of the sarcastic phrase tu m'ennuies (\"you bore me\"); or tu m'emmerdes (\"you annoy me\"). Duchamp was apparently so bored with representational art that he could not []",
