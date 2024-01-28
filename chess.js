@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 162nd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and takes a look at the legacy of Vassily Smyslov, the seventh World Champion in the history of chess. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-162-chess-history-in-a-nutshell-43",
+         "pubDate" : "Sun, 28 Jan 2024 15:00:00",
+         "title" : "Understanding before Moving 162: Chess history in a nutshell (43)"
+      },
+      {
+         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After six rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 5 points. The seventh round will be played on Sunday, January 28 starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
+         "pubDate" : "Sun, 28 Jan 2024 14:00:00",
+         "title" : "Jeddah Young Masters live"
+      },
+      {
+         "description" : "The Live game link of&#160;1st SOA International Grandmasters Chess Festival 2024 # Category &#8216;A' (1900 &#38; Above) are given below. Live game link:&#160;https://view.livechesscloud.com/#7938d5e0-6ad0-4214-a329-6353bf1808ef",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-1st-soa-international-grandmasters-chess-festival-2024-category-a-1900-above/",
+         "pubDate" : "Sun, 28 Jan 2024 13:23:28",
+         "title" : "Live Link for 1st SOA International Grandmasters Chess Festival 2024 # Category 'A' (1900 & Above)"
+      },
+      {
          "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-classical-rapid-and-blitz-chess-championships-2024-official-regulations/",
          "pubDate" : "Sun, 28 Jan 2024 11:16:08",
          "title" : "European Youth Classical, Rapid and Blitz Chess Championships 2024 - Official regulations"
+      },
+      {
+         "description" : "In the wake of a 2024 Candidates qualification cycle plagued with tumult and controversy, the World Chess Federation (FIDE) has announced new regulations aimed at &#34;enhancing the competitive landscape, encouraging player participation, and ensuring...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-announces-candidates-2026-qualification-changes",
+         "pubDate" : "Sun, 28 Jan 2024 04:58:00",
+         "title" : "FIDE Announces New Qualification Path For 2026 Candidates Tournament"
       },
       {
          "description" : "Five out of seven games ended decisively in the penultimate round of the Tata Steel Masters, leaving five players tied for first place going into the last day of action. Vidit Gujrathi defeated former sole leader Nodirbek Abdusattorov to create the exciting scenario for Sunday. Vidit and Abdusattorov are joined by Gukesh D., Wei Yi and Anish Giri in the lead. Similarly, in the Challengers, Leon Luke Mendonca caught former sole leader Marc'Andria Maurizzi atop the standings. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
@@ -96,22 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/exclusive-interview-on-kcf-academy",
          "pubDate" : "Sat, 27 Jan 2024 10:00:00",
          "title" : "Exclusive interview on KCF Academy"
-      },
-      {
-         "description" : "Starting from the diagram position, Black must make five correct decisions to win - but the win will be nice. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/quintiliano-s-quintet",
-         "pubDate" : "Sat, 27 Jan 2024 09:00:00",
-         "title" : "Quintiliano's Quintet"
-      },
-      {
-         "description" : "A magnificent round of chess saw Nodirbek Abdusattorov beating Ju Wenjun to become the sole leader at the Tata Steel Masters in Wijk aan Zee. Standing in sole second place is Gukesh D., who failed to find a couple of tactical shots that would have granted him a full point against Alireza Firouzja. Four players are sharing third place, including Wei Yi and Vidit Gujrathi, who obtained remarkable wins on Friday. In the Challengers, Marc'Andria Maurizzi grabbed a fourth consecutive win and remains a full point ahead of Leon Luke Mendonca. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r11",
-         "pubDate" : "Sat, 27 Jan 2024 01:25:00",
-         "title" : "Tata Steel Chess R11: Abdusattorov leads, Wei and Vidit score brilliant wins"
       },
       {
          "description" : "",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "Praggnanandhaa Defeats World Champion Ding, Passes Anand To Become #1 In India"
       },
       {
-         "description" : "GM Nijat Abasov was seeded 69th in the 2023 FIDE World Cup, but defied expectations and clinched a sensational fourth place to propel himself into the limelight. The Azerbaijani grandmaster has now been given a monumental opportunity as he&#39;s taken...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abasov-on-replacing-carlsen",
-         "pubDate" : "Tue, 16 Jan 2024 03:51:00",
-         "title" : "Abasov On Replacing Carlsen In Candidates: \"Now I Hope For Big Things\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1056,22 +1064,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/in-style-of.html",
          "pubDate" : "Sun, 07 Jan 2024 16:49:00",
          "title" : "In the Style of ..."
-      },
-      {
-         "description" : " The 86th Tata Steel chess tournament takes place Saturday 13th to Sun 28th Jan 2024 in Wijk aan Zee. Players: Masters: Ding Liren, Alireza Firouzja, Ian Nepomniachtchi, Anish Giri, D Gukesh, R Praggnanandhaa, Parham Maghsoodloo, Wei Yi, Nodirbek Abdusattorov, Santosh Gujrathi Vidit, Jorden Van Foreest, Alexander Donchenko, Max Warmerdam and Wenjun Ju. Challengers: Anton Korobov, Hans Moke Niemann, Mustafa Yilmaz, A.R. Saleh Salem, Jaime Santos Latasa, Erwin L'Ami, Leon Luke Mendonca, Daniel Dardha, Marc Andria Maurizzi, Liam Vrolijk, Harika Dronavalli, Stefan Beukema, Deshmukh Divya and Eline Roebers. World Champion Ding Liren who has hardly played after winning the title due to ill health ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024",
-         "pubDate" : "Sun, 7 Jan 2024 15:30:00",
-         "title" : "86th Tata Steel 2024 - Games and Results"
-      },
-      {
-         "description" : " The 51st Rilton Cup took place 27th December 2023 to 5th January 2024. 11th seed Vitaly Sivuk took clear first place with 7.5/9 half a point clear of Yahli Sokolovsky and Yair Parkhov. Many of the leading seeds and well known players struggled.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/51st-rilton-cup-2023-24",
-         "pubDate" : "Sun, 7 Jan 2024 15:25:00",
-         "title" : "51st Rilton Cup 2023-24 - Games and Results"
       }
    ]
 }
