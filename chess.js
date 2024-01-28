@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
+         "pubDate" : "Sun, 28 Jan 2024 11:55:00",
+         "title" : "Tata Steel Chess - Live!"
+      },
+      {
+         "description" : " Just spent the last few days watching the 2nd Test Match between Australia and the West Indies. In the end, the West Indies won by 8 runs (which for non cricket fans is a very close result). Having started seriously following cricket from 1974 onwards, I spent most of the first 20 years watching Australia get soundly beaten by the West Indies (1975-76 being the exception). From the late 90's onwards this flipped, with Australia being the dominate team, but as someone who thought Australia ay never win a series against the West Indies, I'm OK with todays result. Well done to the West Indies for a well deserved victory. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/i-did-enjoy-that.html",
+         "pubDate" : "Sun, 28 Jan 2024 11:49:00",
+         "title" : "I did enjoy that"
+      },
+      {
+         "description" : "The European Youth Chess Championship 2024 will take place from 21st August to 1st September 2024 in Prague, Czech Republic, and the same venue will earlier host the European Youth Rapid and Blitz Chess Championships 2024 which will be held from 16th-21st August. European Youth Chess Championship 2024 The European Youth Chess Championship 2024 will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-classical-rapid-and-blitz-chess-championships-2024-official-regulations/",
+         "pubDate" : "Sun, 28 Jan 2024 11:16:08",
+         "title" : "European Youth Classical, Rapid and Blitz Chess Championships 2024 - Official regulations"
+      },
+      {
          "description" : "Five out of seven games ended decisively in the penultimate round of the Tata Steel Masters, leaving five players tied for first place going into the last day of action. Vidit Gujrathi defeated former sole leader Nodirbek Abdusattorov to create the exciting scenario for Sunday. Vidit and Abdusattorov are joined by Gukesh D., Wei Yi and Anish Giri in the lead. Similarly, in the Challengers, Leon Luke Mendonca caught former sole leader Marc'Andria Maurizzi atop the standings. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/quintiliano-s-quintet",
          "pubDate" : "Sat, 27 Jan 2024 09:00:00",
          "title" : "Quintiliano's Quintet"
-      },
-      {
-         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After six rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 5 points. The seventh round will be played on Sunday, January 28 starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
-         "pubDate" : "Sat, 27 Jan 2024 08:00:00",
-         "title" : "Jeddah Young Masters live"
       },
       {
          "description" : "A magnificent round of chess saw Nodirbek Abdusattorov beating Ju Wenjun to become the sole leader at the Tata Steel Masters in Wijk aan Zee. Standing in sole second place is Gukesh D., who failed to find a couple of tactical shots that would have granted him a full point against Alireza Firouzja. Four players are sharing third place, including Wei Yi and Vidit Gujrathi, who obtained remarkable wins on Friday. In the Challengers, Marc'Andria Maurizzi grabbed a fourth consecutive win and remains a full point ahead of Leon Luke Mendonca. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
@@ -1056,22 +1072,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/51st-rilton-cup-2023-24",
          "pubDate" : "Sun, 7 Jan 2024 15:25:00",
          "title" : "51st Rilton Cup 2023-24 - Games and Results"
-      },
-      {
-         "description" : " The 97th Caplin Hastings Congress took place 28th December 2023 to 7th January 2024. Abhijeet Gupta took clear first place with 7.5/9 half a point clear of Pengxiang Zhang. There is a final weekend tournament that followed the Masters. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/97th-caplin-hastings-congress-2023-24",
-         "pubDate" : "Sun, 7 Jan 2024 11:33:00",
-         "title" : "97th Caplin Hastings Congress 2023-24 - Games and Results"
-      },
-      {
-         "description" : " The 1st China Chess King tournament was a two day rapid knockout with 12 players in Chengdu, China 6th to 7th January 2024. World Champion Ding Liren returned to the board after a lengthy layoff just prior to traveling to Wijk aan Zee for the Tata Steel Masters. 12 players compete, the top 4 seeds sat out the first round. Semifinals: Yu Yangyi beat Wei Yi 1.5-0.5 and Wang Hao beat Ding Liren 1.5-0.5. Yu Yangyi beat Wang Hao 1.5-0.5 in the final and Wei Yi won two tie-break games to beat Ding Liren and take 3rd place.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/1st-china-chess-king-2024",
-         "pubDate" : "Sun, 7 Jan 2024 10:13:00",
-         "title" : "1st China Chess King 2024 - Games and Results"
       }
    ]
 }
