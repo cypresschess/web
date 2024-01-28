@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The twelfth and penultimate round of the Tata Steel Masters saw 5 decisive game and 7 players can walk away with the title tomorrow. Santosh Vidit did himself and almost half the field a favour by defeating the leader Nodirbek Abdusattorov in the final game to finish. The opening was a Rubinstein Nimzo-Indian and black was fine but 11...Bc4? instead of 11...Bb7 was a serious mistake. Vidit's 19.e6? (19.0-0) reduced his advantage quite a bit but white was a solid pawn up. Vidit ground away and without risk he found his way to the win. Anish Giri has a Chessable course on the French but he has only very rarely played it himself. Jorden Van Foreest hasn't had a good event and he chose the Exch",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/vidit-beats-abdusattorov-five-way-tie-for-first-going-into-the-final-round-of-the-tata-steel-masters",
+         "pubDate" : "Sat, 27 Jan 2024 21:22:00",
+         "title" : "Vidit beats Abdusattorov, five way tie for first going into the final Round of the Tata Steel Masters - 12"
+      },
+      {
          "description" : "The FIDE Trainers Commission is pleased to announce the winners of the 15th FIDE Trainer Awards 2023 and the Yuri Averbakh / Isaac Boleslavsky Award for the best book published in 2022. Ramesh R B, Abhijit Kunte and Djakhangir Agaragimov were chosen as the top trainers of the year. In the book category, a work co-authored by Sergei Tiviakov and Yulia Gokbulut received the top accolade, while Vassilios Kotronias and Mihail Marin were the runners-up. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/winners-fide-trainer-awards-2023",
          "pubDate" : "Sat, 27 Jan 2024 20:30:00",
          "title" : "Winners of the FIDE Trainer Awards 2023"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2863",
+         "pubDate" : "Sat, 27 Jan 2024 17:29:04",
+         "title" : "Changes to qualification paths for the Candidates Tournament"
+      },
+      {
+         "description" : "GM Hikaru Nakamura secured $400 and his 17th Bullet Brawl title after putting on a tactical exhibition during Saturday&#39;s arena, adding to his Titled Tuesday win earlier in the week. Scoring 67.5/73, Nakamura accrued 246 points and was able to outl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-january-27-2024",
+         "pubDate" : "Sat, 27 Jan 2024 15:05:00",
+         "title" : "Nakamura Wins Bullet Brawl, Tries New 'Alien Gambit'"
+      },
+      {
+         "description" : "After a wild round on Saturday, there is a five-way tie for first place in the Tata Steel Chess Tournament&#39;s Masters group. With GM Vidit Gujrathi, GM Anish Giri, GM Gukesh Dommaraju, GM Nodirbek Abdusattorov, and GM Wei Yi all on 7.5/12, chances ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-12",
+         "pubDate" : "Sat, 27 Jan 2024 14:49:00",
+         "title" : "Tata Steel Chess Masters Wide Open As Vidit Beats Abdusattorov, Becomes India's #1"
       },
       {
          "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 14.00 CET (8.00 ET, 18.30 IST)",
@@ -762,14 +794,6 @@ news_feed (
          "title" : "Alexandra Kosteniuk wins double gold at European Women's Rapid & Blitz Chess Championship 2023"
       },
       {
-         "description" : "Tired of playing the same opening every time, but don&#39;t know where to start? Here&#39;s a great new way to expand your repertoire and get comfortable with different openings: Opening Roulette! Aimed specifically at chess improvers seeking to broaden...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/introducing-opening-roulette",
-         "pubDate" : "Mon, 15 Jan 2024 08:00:00",
-         "title" : "Introducing Opening Roulette"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -808,14 +832,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/ding-returns.html",
          "pubDate" : "Sun, 14 Jan 2024 12:44:00",
          "title" : "Ding Returns"
-      },
-      {
-         "description" : "After scoring 7/7 in Rouen to secure qualification for the upcoming Candidates tournament, GM Alireza Firouzja has continued his winning ways in Wijk aan Zee. The French-Iranian grandmaster on Sunday defeated GM Parham Maghsoodloo and is the only ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-2",
-         "pubDate" : "Sun, 14 Jan 2024 12:41:00",
-         "title" : "Firouzja Moves To 2/2 In Tata Steel Chess Masters"
       },
       {
          "description" : "",
