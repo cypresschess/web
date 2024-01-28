@@ -1,4 +1,7 @@
 jtable([
+"CYPRESS","2024-01-26","40","<a href=http://www.uschess.org/msa/XtblMain.php?202401266922 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2024-01-26","29","<a href=http://www.uschess.org/msa/XtblMain.php?202401266832 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2024-01-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202401266822 target='_blank'>FBCC 2024 JANUARY WINTER OPEN</a>",
 "HOUSTON","2024-01-05  - 01-26","11","<a href=http://www.uschess.org/msa/XtblMain.php?202401266812 target='_blank'>REBECCA CHESS CLUB JANUARY 2024 MONTHLY SWISS</a>",
 "HOUSTON","2024-01-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202401266782 target='_blank'>REBECCA CHESS CLUB QUADS JANUARY 26. 2024</a>",
 "HOUSTON","2024-01-21","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401214492 target='_blank'>GAME GUYS 1.21.24</a>",
@@ -196,7 +199,4 @@ jtable([
 "CYPRESS","2023-07-14  - 07-15","30","<a href=http://www.uschess.org/msa/XtblMain.php?202307157332 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2023-07-14","6","<a href=http://www.uschess.org/msa/XtblMain.php?202307147542 target='_blank'>FORT BEND CLUB TOURNAMENT 7/14/23</a>",
 "SPRING","2023-07-14","33","<a href=http://www.uschess.org/msa/XtblMain.php?202307147312 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2023-07-08","117","<a href=http://www.uschess.org/msa/XtblMain.php?202307085022 target='_blank'>JULY 8TH 2023 SCHOLASTIC</a>",
-"HOUSTON","2023-07-08","12","<a href=http://www.uschess.org/msa/XtblMain.php?202307084362 target='_blank'>CHESSPANDA07082023SATURDAY</a>",
-"CYPRESS","2023-07-07","34","<a href=http://www.uschess.org/msa/XtblMain.php?202307073662 target='_blank'>EVENT NAME MISSING</a>",
 ]);
