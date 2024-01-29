@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Leon Luke Mendonca was the surprise winner of the Tata Steel Challenger tournament in Wijk aan Zee. He started with 3 out of 6 points, and was lost in the lower part of the table, until he recovered with 6.5 points out of his last 7 games, to reach first place! The Indian Grandmaster and ChessBase Host, Arne Kaehler, started a video series in 2023, on how a typical day in a life of a professional chess player looks like. The insights of young Leon (turning 18 in March) are tremendous, and you can learn a lot in this first video. | Photo: Lennart Ootes/Tata Steel Chess Tournament 2024",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-a-typical-day-in-the-life-of-a-professional-chess-player",
+         "pubDate" : "Mon, 29 Jan 2024 21:00:00",
+         "title" : "Leon Mendonca - A typical day in the life of a professional chess player"
+      },
+      {
          "description" : "Hans-Joachim Hecht, a Grandmaster since 1973, was a member of the successful German national team in the 1960s and 1970s, became German team champion eight times with his clubs SG Solingen and Bayern Munich and won the European Cup once. Today he celebrates his 85th birthday. Congratulations to him! | Photos: German Chess Federation, M&uuml;nchener Schachakademie",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/german-grandmaster-hajo-hecht-celebrates-his-85th-birthday",
          "pubDate" : "Mon, 29 Jan 2024 17:00:00",
          "title" : "German Grandmaster Hajo Hecht celebrates his 85th birthday"
-      },
-      {
-         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After seven rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 6 points out of 7. The eighth round will be played on Monday, January 29 starting at 16.00 CET (10.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
-         "pubDate" : "Mon, 29 Jan 2024 15:45:00",
-         "title" : "Jeddah Young Masters live"
       },
       {
          "description" : "What role do traps play in chess? And what is important for successful trapping? In the current ChessBase Magazine #217, Jan Markos deals with the topic of \"traps\" in his series \"Practical Tips for the Tournament Player\" and works out four rules that you should definitely observe in your own games. We invite you: this week you can download Jan Markos' article - consisting of a video and a small collection of exercises - as a free sample. Directly via your web browser in the new ChessBase Books format. This is because CBM #217 is the first issue to also include full mobile access. So you can read it directly via your web browser on your iPad, tablet or Mac. Have fun!",
