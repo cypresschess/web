@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It was a thrilling event from start to finish. The final round of the Tata Steel Masters saw four co-leaders grabbing wins to set up a four-way blitz playoff. Wei Yi, Gukesh D., Anish Giri and Nodirbek Abdusattorov played the knockout tiebreaker, which saw 24-year-old Wei claiming overall victory after showcasing his well-known tactical sharpness in the deciding stage. Meanwhile, Leon Luke Mendonca took clear first place in the Challengers after beating Divya Deshmukh with the white pieces. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r13",
+         "pubDate" : "Mon, 29 Jan 2024 01:15:00",
+         "title" : "Wei Yi brilliantly wins Tata Steel Masters in blitz playoff"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2865",
+         "pubDate" : "Mon, 29 Jan 2024 00:19:18",
+         "title" : "Wei Yi wins 2024 Tata Steel Masters"
+      },
+      {
          "description" : " Wei Yi won the Tata Steel Masters for the first time following a tie-break, he had previously won the B-Group way back in 2015. Indeed after becoming a GM at 13 years old and the youngest ever player to reach 2700 at 15 he hasn't really lived up to this promise, this result came a bit out of the blue, and it was a late run of 4.5/5 that took him to a tie-break including a win against Santosh Vidit today. This win is 24 year old Wei Yi's greatest result. Four players reached the tie-breaks with wins today. Anish Giri played a super aggressive Reti system against Max Warmerdam and eventually broke through. Nodirbek Abdusattorov won a fluctuating struggle against Alexander Donchenko, he was a ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Understanding before Moving 162: Chess history in a nutshell (43)"
       },
       {
-         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After six rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 5 points. The seventh round will be played on Sunday, January 28 starting at 14.00 CET (8.00 ET, 18.30 IST)",
+         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After seven rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 6 points out of 7. The eighth round will be played on Monday, January 29 starting at 14.00 CET (8.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/fide-announces-candidates-2026-qualification-changes",
          "pubDate" : "Sun, 28 Jan 2024 04:58:00",
          "title" : "FIDE Announces New Qualification Path For 2026 Candidates Tournament"
-      },
-      {
-         "description" : "Five out of seven games ended decisively in the penultimate round of the Tata Steel Masters, leaving five players tied for first place going into the last day of action. Vidit Gujrathi defeated former sole leader Nodirbek Abdusattorov to create the exciting scenario for Sunday. Vidit and Abdusattorov are joined by Gukesh D., Wei Yi and Anish Giri in the lead. Similarly, in the Challengers, Leon Luke Mendonca caught former sole leader Marc'Andria Maurizzi atop the standings. | Photo: Tata Steel Chess Tournament / Jurriaan Hoefsmit",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r12",
-         "pubDate" : "Sun, 28 Jan 2024 03:45:00",
-         "title" : "Tata Steel Chess R12: Five co-leaders after Vidit beats Abdusattorov"
       },
       {
          "description" : "",
