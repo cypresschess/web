@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Wei Yi won the Tata Steel Masters for the first time following a tie-break, he had previously won the B-Group way back in 2015. Indeed after becoming a GM at 13 years old and the youngest ever player to reach 2700 at 15 he hasn't really lived up to this promise, this result came a bit out of the blue, and it was a late run of 4.5/5 that took him to a tie-break including a win against Santosh Vidit today. This win is 24 year old Wei Yi's greatest result. Four players reached the tie-breaks with wins today. Anish Giri played a super aggressive Reti system against Max Warmerdam and eventually broke through. Nodirbek Abdusattorov won a fluctuating struggle against Alexander Donchenko, he was a ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/wei-yi-wins-the-2024-tata-steel-masters-after-a-four-player-tie-break",
+         "pubDate" : "Sun, 28 Jan 2024 21:50:00",
+         "title" : "Wei Yi wins the 2024 Tata Steel Masters after a four player tie-break - 13"
+      },
+      {
          "description" : "FIDE has introduced a series of changes to the qualification paths that will be in effect for the Candidates Tournament in 2026. Most notably, the runner-up from the World Championship match no longer automatically qualifies for the Candidates. The alterations are aimed at enhancing the competitive landscape, encouraging player participation, and ensuring a fair representation of the top contenders.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "European Youth Classical, Rapid and Blitz Chess Championships 2024 - Official regulations"
       },
       {
-         "description" : "GM Wei Yi clinched the trophy at the 2024 Tata Steel Chess Tournament on Sunday after winning a thrilling four-player tiebreak that also involved GMs Anish Giri, Gukesh Dommaraju, and Nodirbek Abdusattorov.&#38;nbsp; GM Leon Luke Mendonca defeated W...",
+         "description" : "GM Wei Yi became the winner of the 2024 Tata Steel Chess Tournament on Sunday after winning a thrilling four-player tiebreak that also involved GMs Anish Giri, Gukesh Dommaraju, and Nodirbek Abdusattorov. GM Leon Luke Mendonca defeated WGM Divya...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-13",
