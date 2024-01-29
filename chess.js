@@ -1064,14 +1064,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/wgm-title-awarded-to-lan-yao/",
          "pubDate" : "Mon, 08 Jan 2024 11:01:21",
          "title" : "WGM title awarded to Lan Yao"
-      },
-      {
-         "description" : "Madhya Pradesh Chess Ad Hoc Committee on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-sna-seminar-exam-at-katni-on-30-31-dec-2023/",
-         "pubDate" : "Mon, 08 Jan 2024 05:56:44",
-         "title" : "Final Report :SNA Seminar & Exam at Katni on 30 & 31 Dec 2023"
       }
    ]
 }
