@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "What role do traps play in chess? And what is important for successful trapping? In the current ChessBase Magazine #217, Jan Markos deals with the topic of \"traps\" in his series \"Practical Tips for the Tournament Player\" and works out four rules that you should definitely observe in your own games. We invite you: this week you can download Jan Markos' article - consisting of a video and a small collection of exercises - as a free sample. Directly via your web browser in the new ChessBase Books format. This is because CBM #217 is the first issue to also include full mobile access. So you can read it directly via your web browser on your iPad, tablet or Mac. Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-217-now-also-as-an-e-book-for-ipad-tablet-mac-etc-4",
+         "pubDate" : "Mon, 29 Jan 2024 12:00:25",
+         "title" : "New: ChessBase Magazine on iPad"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107233247.cms\" />Grandmaster D Gukesh endured a heartbreak in the final tie-breaker against Wei Yi of China and had to be content with a joint second place finish at the Tata Steel Masters chess tournament. Indian Grandmaster Leon Luke Mendonca, however, won the challengers section, defeating compatriot Divya Deshmukh in the 13th and final round.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-finishes-joint-second-in-tata-steel-masters-mendonca-wins-challenger/articleshow/107233247.cms",
+         "pubDate" : "Mon, 29 Jan 2024 11:40:04",
+         "title" : "D Gukesh finishes joint second in Tata Steel Masters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2866",
+         "pubDate" : "Mon, 29 Jan 2024 10:30:48",
+         "title" : "The Infinite Chess Project launched in Tanzania"
+      },
+      {
          "description" : "It was a thrilling event from start to finish. The final round of the Tata Steel Masters saw four co-leaders grabbing wins to set up a four-way blitz playoff. Wei Yi, Gukesh D., Anish Giri and Nodirbek Abdusattorov played the knockout tiebreaker, which saw 24-year-old Wei claiming overall victory after showcasing his well-known tactical sharpness in the deciding stage. Meanwhile, Leon Luke Mendonca took clear first place in the Challengers after beating Divya Deshmukh with the white pieces. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,14 +66,6 @@ news_feed (
          "title" : "Understanding before Moving 162: Chess history in a nutshell (43)"
       },
       {
-         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After seven rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 6 points out of 7. The eighth round will be played on Monday, January 29 starting at 14.00 CET (8.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
-         "pubDate" : "Sun, 28 Jan 2024 14:00:00",
-         "title" : "Jeddah Young Masters live"
-      },
-      {
          "description" : "The Live game link of&#160;1st SOA International Grandmasters Chess Festival 2024 # Category &#8216;A' (1900 &#38; Above) are given below. Live game link:&#160;https://view.livechesscloud.com/#7938d5e0-6ad0-4214-a329-6353bf1808ef",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "European Youth Classical, Rapid and Blitz Chess Championships 2024 - Official regulations"
       },
       {
-         "description" : "GM Wei Yi became the winner of the 2024 Tata Steel Chess Tournament on Sunday after winning a thrilling four-player tiebreak that also involved GMs Anish Giri, Gukesh Dommaraju, and Nodirbek Abdusattorov. GM Leon Luke Mendonca defeated WGM Divya...",
+         "description" : "GM Wei Yi became the winner of the 2024 Tata Steel Chess Tournament on Sunday after winning a thrilling four-player tiebreak that also involved GMs Anish Giri, Gukesh Dommaraju, and Nodirbek Abdusattorov. For the first time, Wei entered the world&#39;...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-13",
@@ -239,7 +255,7 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-crushes-donchenko-shares-lead-with-abdusattarov-in-tata-steel-masters-chess/articleshow/107153773.cms",
          "pubDate" : "Thu, 25 Jan 2024 16:37:20",
-         "title" : "D Gukesh crushes Donchenko, shares lead with Abdusattarov in Tata Steel Masters Chess"
+         "title" : "D Gukesh shares lead with Abdusattarov in Tata Steel Masters Chess"
       },
       {
          "description" : " I saw a recent article concerning the mathematician Paul Erdos. A prolific collaborator and publisher, he was probably the first subject of the 'n degrees of separation' game, which was more popularly attached to the actor Kevin Bacon. In the world of chess there is also the concept of the Morphy number, where you trace the number of steps back to Paul Morphy, through a chain of opponents. Surprisingly, my Morphy number seems higher than either my Erdos or Bacon numbers, although the distance in time may account for this. My Erdos number is 4, having collaborated on a paper with someone whose Erdos number was 3. My Bacon number (probably 4) is somewhat tenuous, as I worked on an amateur fil",
@@ -1048,22 +1064,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/2024-australian-championship-two-horse.html",
          "pubDate" : "Mon, 08 Jan 2024 12:41:00",
          "title" : "2024 Australian Championship - A two horse race?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2835",
-         "pubDate" : "Mon, 08 Jan 2024 11:50:01",
-         "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration is open"
-      },
-      {
-         "description" : "Congratulations to Lan Yao, whose WGM title was confirmed by the 2023 3rd FIDE Council Meeting. Since applying for the title Lan Yao has gained...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/wgm-title-awarded-to-lan-yao/",
-         "pubDate" : "Mon, 08 Jan 2024 11:01:21",
-         "title" : "WGM title awarded to Lan Yao"
       }
    ]
 }
