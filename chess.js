@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans-Joachim Hecht, a Grandmaster since 1973, was a member of the successful German national team in the 1960s and 1970s, became German team champion eight times with his clubs SG Solingen and Bayern Munich and won the European Cup once. Today he celebrates his 85th birthday. Congratulations to him! | Photos: German Chess Federation, M&uuml;nchener Schachakademie",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/german-grandmaster-hajo-hecht-celebrates-his-85th-birthday",
+         "pubDate" : "Mon, 29 Jan 2024 17:00:00",
+         "title" : "German Grandmaster Hajo Hecht celebrates his 85th birthday"
+      },
+      {
+         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After seven rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 6 points out of 7. The eighth round will be played on Monday, January 29 starting at 16.00 CET (10.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
+         "pubDate" : "Mon, 29 Jan 2024 15:45:00",
+         "title" : "Jeddah Young Masters live"
+      },
+      {
          "description" : "What role do traps play in chess? And what is important for successful trapping? In the current ChessBase Magazine #217, Jan Markos deals with the topic of \"traps\" in his series \"Practical Tips for the Tournament Player\" and works out four rules that you should definitely observe in your own games. We invite you: this week you can download Jan Markos' article - consisting of a video and a small collection of exercises - as a free sample. Directly via your web browser in the new ChessBase Books format. This is because CBM #217 is the first issue to also include full mobile access. So you can read it directly via your web browser on your iPad, tablet or Mac. Have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,22 +64,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/wei-yi-wins-the-2024-tata-steel-masters-after-a-four-player-tie-break",
          "pubDate" : "Sun, 28 Jan 2024 21:50:00",
          "title" : "Wei Yi wins the 2024 Tata Steel Masters after a four player tie-break - 13"
-      },
-      {
-         "description" : "FIDE has introduced a series of changes to the qualification paths that will be in effect for the Candidates Tournament in 2026. Most notably, the runner-up from the World Championship match no longer automatically qualifies for the Candidates. The alterations are aimed at enhancing the competitive landscape, encouraging player participation, and ensuring a fair representation of the top contenders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/changes-qualification-path-candidates",
-         "pubDate" : "Sun, 28 Jan 2024 18:00:00",
-         "title" : "Changes to qualification paths for the Candidates Tournament"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 162nd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and takes a look at the legacy of Vassily Smyslov, the seventh World Champion in the history of chess. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-162-chess-history-in-a-nutshell-43",
-         "pubDate" : "Sun, 28 Jan 2024 15:00:00",
-         "title" : "Understanding before Moving 162: Chess history in a nutshell (43)"
       },
       {
          "description" : "The Live game link of&#160;1st SOA International Grandmasters Chess Festival 2024 # Category &#8216;A' (1900 &#38; Above) are given below. Live game link:&#160;https://view.livechesscloud.com/#7938d5e0-6ad0-4214-a329-6353bf1808ef",
@@ -1040,30 +1040,6 @@ news_feed (
          "link" : "https://aicf.in/live-game-link-for-2nd-indore-international-grand-master-chess-tournament-2024-gm/",
          "pubDate" : "Tue, 09 Jan 2024 06:02:13",
          "title" : "Live game link for 2nd Indore International Grand master Chess Tournament 2024 - GM"
-      },
-      {
-         "description" : "For the past month I've been using one post per week to explore <I>AI Comics</I> (*). In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/father-time-and-new-year-baby.html\">Father Time and the New Year Baby</A> (January 2024), I wrote, <BLOCKQUOTE> After a month experimenting with this technology, it's time to carry the idea one step further. &#149; Next: The chess village. </BLOCKQUOTE> <P> A 'step further' means to develop a complete story using <I>AI Comics</I> to illustrate the story. The story is mine; the illustrations are <I>AI Comics</I>. This post is the first installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa08.jpg\" WIDTH=335 HEI",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/the-chess-village.html",
-         "pubDate" : "Mon, 08 Jan 2024 16:20:00",
-         "title" : "The Chess Village"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2836",
-         "pubDate" : "Mon, 08 Jan 2024 15:55:24",
-         "title" : "Kosovo Championship: Nderim Saraçi and Arlinda Aliu take titles"
-      },
-      {
-         "description" : " The 2024 Australian Championship appears to be a race between two players/ With 8 rounds completed IM Rishi Sardana leads on 7/8, having conceded a second draw in todays round. FM Fred Litchfield is in 2nd place with 6/8, while the remaining players are on 5/8 or below. Sardana has a potentially tricky matchup in round 9, playing IM Stephen Solomon, while Litchfield is up against one of the tournament surprise packets, CM Daniel Melamed. While Litchfield still has chances to earn an IM norm from this event, the pairings are not doing him any favours. While he has played the required number of IM's for a 9 game norm, he hasn't played the required number of titles players (only 4 at this stag",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/2024-australian-championship-two-horse.html",
-         "pubDate" : "Mon, 08 Jan 2024 12:41:00",
-         "title" : "2024 Australian Championship - A two horse race?"
       }
    ]
 }
