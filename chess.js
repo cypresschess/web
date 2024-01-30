@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the final instalment of the problem-solving experiment, we invited Prof. Dr Vera Spillner to solve the unorthodox chess puzzles, present in the Dec. 31 article! We have already seen a grandmaster, and a former world problem champion solving the problems, so how about a chess amateur and enthusiast? Read on more to find out!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/watch-them-solving-3-vera",
+         "pubDate" : "Tue, 30 Jan 2024 22:00:00",
+         "title" : "Watch them solving (3) - Vera"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a move or sacrifice. See an example from Kasparov vs. Karpov &#039;90 and also from her own game where Thalia did not commit to a sac, but should have. 2024.01.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commit-sacrifice-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/57TY",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/commit-sacrifice-grandmasters-choice-wgm-thalia-cervantes",
+         "pubDate" : "Tue, 30 Jan 2024 21:10:38",
+         "title" : "Commit to a Sacrifice! | Grandmaster's Choice - WGM Thalia Cervantes"
+      },
+      {
          "description" : "Boris Spassky, world champion from 1969 to 1972, celebrates his 87th birthday on 30 January. Spassky is regarded as a universal player and played numerous fantastic attacking games during his career. One of his favourite openings with White was the King's Gambit, which he used to beat players such as David Bronstein, Bobby Fischer, Yasser Seirawan and Anatoly Karpov. | Photo: Boris Spassky, Chess Olympiad Saloniki 1984 | Photo: Gerhard Hund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1072,14 +1088,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-december-2023/",
          "pubDate" : "Wed, 10 Jan 2024 11:18:17",
          "title" : "ECU E-Magazine December 2023"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> During his Grandmaster&#039;s Choice class on the Endgame Labyrinth, Grandmaster Elshan Moradiabadi loses a bet with himself. He honors it by doing ten pushups in front of the class. 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/elshan-does-pushups-dark-room-highlight\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J6WmMv2xKGQ.jpg?itok=bXV35An6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/elshan-does-pushups-dark-room-highlight",
-         "pubDate" : "Wed, 10 Jan 2024 08:41:49",
-         "title" : "Elshan Does Pushups in a Dark Room | HIGHLIGHT"
       }
    ]
 }
