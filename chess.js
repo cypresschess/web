@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows one of his games from the 2024 Charlotte Open. 2024.01.30<br /> Julian Proleiko vs. Dean Ippolito, 2024 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-great-victory-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sFpw5lAge9I.jpg?itok=1ZzS6Uen\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/julians-great-victory-charlotte-road-2000-nm-julian-proleiko",
+         "pubDate" : "Tue, 30 Jan 2024 00:09:55",
+         "title" : "Julian's Great Victory in Charlotte | Road to 2000 - NM Julian Proleiko"
+      },
+      {
          "description" : "Leon Luke Mendonca was the surprise winner of the Tata Steel Challenger tournament in Wijk aan Zee. He started with 3 out of 6 points, and was lost in the lower part of the table, until he recovered with 6.5 points out of his last 7 games, to reach first place! The Indian Grandmaster and ChessBase Host, Arne Kaehler, started a video series in 2023, on how a typical day in a life of a professional chess player looks like. The insights of young Leon (turning 18 in March) are tremendous, and you can learn a lot in this first video. | Photo: Lennart Ootes/Tata Steel Chess Tournament 2024",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/elshan-does-pushups-dark-room-highlight",
          "pubDate" : "Wed, 10 Jan 2024 08:41:49",
          "title" : "Elshan Does Pushups in a Dark Room | HIGHLIGHT"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi takes you by the hand to lead you through chess endgame puzzles, so complicated you could call them labyrinths! Positions are taken from &quot;Endgame Labyrinths&quot; by Steffen Nielsen and Jacob Aagaard: <a href=\"https://forwardchess.com/product/endgame-labyrinths\">https://forwardchess.com/product/endgame-labyrinths</a>. 2024.01.09 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/studying-endgame-labyrinth-grandmasters-choice-gm-elsh",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/studying-endgame-labyrinth-grandmasters-choice-gm-elshan-moradiabadi",
-         "pubDate" : "Wed, 10 Jan 2024 02:41:43",
-         "title" : "Studying the Endgame Labyrinth | Grandmaster's Choice - GM Elshan Moradiabadi"
       },
       {
          "description" : "A new year means a look at the first FIDE rating list of the year. I've been doing this for so many years that I repeated that first sentence from last year without consciously copying it. Even better, I have a reliable checklist to follow. <P> 1) Identify last year's post: <A HREF=\"https://chessforallages.blogspot.com/2023/01/fide-rating-list-january-2023.html\">FIDE Rating List - January 2023</A> (January 2023). <P> 2) Identify the source of the FIDE data: <A HREF=\"https://ratings.fide.com/download_lists.phtml\">FIDE Ratings Download</A> (ratings.fide.com). <BLOCKQUOTE> STANDARD<BR> TXT format (31 Dec 2023, Sz: 9.77 MB) </BLOCKQUOTE> <P> 3) Compare some basic counts over the past few years. ",
