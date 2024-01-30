@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107255869.cms\" />Indian chess player Divya Deshmukh has alleged sexist behaviour from spectators at Tata Steel Masters in Wijk Aan Zee, Netherlands. Deshmukh said spectators focused on irrelevant things like her hair, clothes, and accent instead of her games. She called out the misogyny women players face routinely and the under-appreciation of women in chess.",
+         "description" : "Last weekend, Mumbai hosted the second Lollapalooza music festival on the Asian continent. The headliner was former Police singer Sting. And former World Champion Viswanathan Anand was right in the middle of the crowd, singing along as a big Police fan.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-police-vishy-anand-is-a-fan",
+         "pubDate" : "Tue, 30 Jan 2024 13:00:00",
+         "title" : "The Police: Vishy Anand is a fan"
+      },
+      {
+         "description" : " The Gungahlin Chess Club started its first tournaments of the year, with the Ramakrishna Memorial and the Gungahlin Junior Championship running side by side. A total of 44 players turned up to play, which is a good number to start the year. I was called in as the 'house man' for the Ramakrishna Memorial, and got off to a good start, scoring a nice win in 17 moves. After my opponents 8th move, I decided to check out 9.e4 as a response, and having looked at enough lines to convince me it worked, played it. I had calculated that I was better up until around move 14, and when I reached that point, realised I had a pretty quick checkmate, which my opponent kindly let me play on the board. <br />",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/01/club-season-kick-off.html",
+         "pubDate" : "Tue, 30 Jan 2024 12:09:00",
+         "title" : "Club season kick off"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107255869.cms\" />Divya Deshmukh: Indian chess player Divya Deshmukh has alleged sexist behaviour from spectators at Tata Steel Masters in Wijk Aan Zee, Netherlands. Deshmukh said spectators focused on irrelevant things like her hair, clothes, and accent instead of her games. She called out the misogyny women players face routinely and the under-appreciation of women in chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-im-divya-deshmukh-speaks-out-against-sexism-at-tata-steel-masters/articleshow/107255869.cms",
@@ -15,7 +31,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2024-preview",
          "pubDate" : "Tue, 30 Jan 2024 08:00:00",
-         "title" : "Starting Wenesday: Chessable Masters with Carlsen, Fedoseev and MVL"
+         "title" : "Starting Wednesday: Chessable Masters with Carlsen, Fedoseev and MVL"
       },
       {
          "description" : "Dear Chess Friends, The first quarterly meeting of the ECU Board was held through teleconference, on January 21. Main information and Decisions: Sincerely, &#160;Theodoros Tsorbatzoglou&#160;ECU Secretary General",
