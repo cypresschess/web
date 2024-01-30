@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107255869.cms\" />Indian chess player Divya Deshmukh has alleged sexist behaviour from spectators at Tata Steel Masters in Wijk Aan Zee, Netherlands. Deshmukh said spectators focused on irrelevant things like her hair, clothes, and accent instead of her games. She called out the misogyny women players face routinely and the under-appreciation of women in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-im-divya-deshmukh-speaks-out-against-sexism-at-tata-steel-masters/articleshow/107255869.cms",
+         "pubDate" : "Tue, 30 Jan 2024 08:13:17",
+         "title" : "Indian IM Divya Deshmukh alleges sexism by spectators"
+      },
+      {
+         "description" : "The 2024 Chessable Masters is the first of four Champions Chess Tour events and determines one of the players who'll make it to the in-person CCT Finals. The event starts on January 31 at 11:00 ET/17:00 CET. Magnus Carlsen, Maxime Vachier-Lagrave and Vladimir Fedoseev already earned spots in the Chessable Masters Division I based on their performance in last year's AI Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-preview",
+         "pubDate" : "Tue, 30 Jan 2024 08:00:00",
+         "title" : "Starting Wenesday: Chessable Masters with Carlsen, Fedoseev and MVL"
+      },
+      {
+         "description" : "Dear Chess Friends, The first quarterly meeting of the ECU Board was held through teleconference, on January 21. Main information and Decisions: Sincerely, &#160;Theodoros Tsorbatzoglou&#160;ECU Secretary General",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2024/",
+         "pubDate" : "Tue, 30 Jan 2024 07:49:33",
+         "title" : "Communique of the ECU Board Meeting - CL No1/2024"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows one of his games from the 2024 Charlotte Open. 2024.01.30<br /> Julian Proleiko vs. Dean Ippolito, 2024 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-great-victory-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sFpw5lAge9I.jpg?itok=1ZzS6Uen\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/german-grandmaster-hajo-hecht-celebrates-his-85th-birthday",
          "pubDate" : "Mon, 29 Jan 2024 17:00:00",
          "title" : "German Grandmaster Hajo Hecht celebrates his 85th birthday"
-      },
-      {
-         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After seven rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 6 points out of 7. The eighth round will be played on Monday, January 29 starting at 16.00 CET (10.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
-         "pubDate" : "Mon, 29 Jan 2024 15:45:00",
-         "title" : "Jeddah Young Masters live"
       },
       {
          "description" : "What role do traps play in chess? And what is important for successful trapping? In the current ChessBase Magazine #217, Jan Markos deals with the topic of \"traps\" in his series \"Practical Tips for the Tournament Player\" and works out four rules that you should definitely observe in your own games. We invite you: this week you can download Jan Markos' article - consisting of a video and a small collection of exercises - as a free sample. Directly via your web browser in the new ChessBase Books format. This is because CBM #217 is the first issue to also include full mobile access. So you can read it directly via your web browser on your iPad, tablet or Mac. Have fun!",
@@ -1032,14 +1048,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/fide-rating-list-january-2024.html",
          "pubDate" : "Tue, 09 Jan 2024 16:58:00",
          "title" : "FIDE Rating List - January 2024"
-      },
-      {
-         "description" : "Please find live link here https://live.mpchess.in/livea/ https://live.mpchess.in/liveb/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-link-for-2nd-indore-international-grand-master-chess-tournament-2024-gm/",
-         "pubDate" : "Tue, 09 Jan 2024 06:02:13",
-         "title" : "Live game link for 2nd Indore International Grand master Chess Tournament 2024 - GM"
       }
    ]
 }
