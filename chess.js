@@ -18,6 +18,14 @@ news_feed (
          "title" : "German Grandmaster Hajo Hecht celebrates his 85th birthday"
       },
       {
+         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. After seven rounds, Turkish IM Yagiz Kaan Erdogmus is leading the standings with 6 points out of 7. The eighth round will be played on Monday, January 29 starting at 16.00 CET (10.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
+         "pubDate" : "Mon, 29 Jan 2024 15:45:00",
+         "title" : "Jeddah Young Masters live"
+      },
+      {
          "description" : "What role do traps play in chess? And what is important for successful trapping? In the current ChessBase Magazine #217, Jan Markos deals with the topic of \"traps\" in his series \"Practical Tips for the Tournament Player\" and works out four rules that you should definitely observe in your own games. We invite you: this week you can download Jan Markos' article - consisting of a video and a small collection of exercises - as a free sample. Directly via your web browser in the new ChessBase Books format. This is because CBM #217 is the first issue to also include full mobile access. So you can read it directly via your web browser on your iPad, tablet or Mac. Have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2866",
          "pubDate" : "Mon, 29 Jan 2024 10:30:48",
          "title" : "The Infinite Chess Project launched in Tanzania"
-      },
-      {
-         "description" : "It was a thrilling event from start to finish. The final round of the Tata Steel Masters saw four co-leaders grabbing wins to set up a four-way blitz playoff. Wei Yi, Gukesh D., Anish Giri and Nodirbek Abdusattorov played the knockout tiebreaker, which saw 24-year-old Wei claiming overall victory after showcasing his well-known tactical sharpness in the deciding stage. Meanwhile, Leon Luke Mendonca took clear first place in the Challengers after beating Divya Deshmukh with the white pieces. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-r13",
-         "pubDate" : "Mon, 29 Jan 2024 01:15:00",
-         "title" : "Wei Yi brilliantly wins Tata Steel Masters in blitz playoff"
       },
       {
          "description" : "",
