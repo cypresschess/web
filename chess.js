@@ -34,14 +34,6 @@ news_feed (
          "title" : "Indian IM Divya Deshmukh alleges sexism by spectators"
       },
       {
-         "description" : "Analyzing your games just got easier with the new Explore tab in our Analysis, Game Review, and Classroom pages. Quickly see the moves masters played, game results, engine evaluations, and more all in one easy-to-use interface. With this upgrade...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-explore-tab",
-         "pubDate" : "Tue, 30 Jan 2024 08:02:57",
-         "title" : "Chess.com Announces Improved Game Analysis With New Explore Tab"
-      },
-      {
          "description" : "The 2024 Chessable Masters is the first of four Champions Chess Tour events and determines one of the players who'll make it to the in-person CCT Finals. The event starts on January 31 at 11:00 ET/17:00 CET. Magnus Carlsen, Maxime Vachier-Lagrave and Vladimir Fedoseev already earned spots in the Chessable Masters Division I based on their performance in last year's AI Cup.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -62,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/divya-deshmukh-calls-out-sexism-in-chess-after-tata-steel-appearance",
-         "pubDate" : "Tue, 30 Jan 2024 07:31:18",
+         "pubDate" : "Tue, 30 Jan 2024 07:31:00",
          "title" : "Indian Star Deshmukh Calls Out Sexism In Chess World: 'I Have Faced So Much Hatred'"
       },
       {
@@ -480,6 +472,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-9",
          "pubDate" : "Tue, 23 Jan 2024 13:33:00",
          "title" : "Abdusattorov, Praggnanandhaa Catch Leaders; Warmerdam Suffers Worst Nightmare"
+      },
+      {
+         "description" : "Analyzing your games just got easier with the new Explore tab in our Analysis, Game Review, and Classroom pages. Quickly see the moves masters played, game results, engine evaluations, and more all in one easy-to-use interface. With this upgrade...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-explore-tab",
+         "pubDate" : "Tue, 23 Jan 2024 10:30:00",
+         "title" : "Chess.com Announces Improved Game Analysis With New Explore Tab"
       },
       {
          "description" : "",
@@ -1080,14 +1080,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/elshan-does-pushups-dark-room-highlight",
          "pubDate" : "Wed, 10 Jan 2024 08:41:49",
          "title" : "Elshan Does Pushups in a Dark Room | HIGHLIGHT"
-      },
-      {
-         "description" : "A new year means a look at the first FIDE rating list of the year. I've been doing this for so many years that I repeated that first sentence from last year without consciously copying it. Even better, I have a reliable checklist to follow. <P> 1) Identify last year's post: <A HREF=\"https://chessforallages.blogspot.com/2023/01/fide-rating-list-january-2023.html\">FIDE Rating List - January 2023</A> (January 2023). <P> 2) Identify the source of the FIDE data: <A HREF=\"https://ratings.fide.com/download_lists.phtml\">FIDE Ratings Download</A> (ratings.fide.com). <BLOCKQUOTE> STANDARD<BR> TXT format (31 Dec 2023, Sz: 9.77 MB) </BLOCKQUOTE> <P> 3) Compare some basic counts over the past few years. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/fide-rating-list-january-2024.html",
-         "pubDate" : "Tue, 09 Jan 2024 16:58:00",
-         "title" : "FIDE Rating List - January 2024"
       }
    ]
 }
