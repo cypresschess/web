@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Boris Spassky, world champion from 1969 to 1972, celebrates his 87th birthday on 30 January. Spassky is regarded as a universal player and played numerous fantastic attacking games during his career. One of his favourite openings with White was the King's Gambit, which he used to beat players such as David Bronstein, Bobby Fischer, Yasser Seirawan and Anatoly Karpov. | Photo: Boris Spassky, Chess Olympiad Saloniki 1984 | Photo: Gerhard Hund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spassky-plays-the-king-s-gambit",
+         "pubDate" : "Tue, 30 Jan 2024 16:00:00",
+         "title" : "Spassky plays the King's Gambit!"
+      },
+      {
          "description" : "Last weekend, Mumbai hosted the second Lollapalooza music festival on the Asian continent. The headliner was former Police singer Sting. And former World Champion Viswanathan Anand was right in the middle of the crowd, singing along as a big Police fan.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Indian IM Divya Deshmukh alleges sexism by spectators"
       },
       {
+         "description" : "Analyzing your games just got easier with the new Explore tab in our Analysis, Game Review, and Classroom pages. Quickly see the moves masters played, game results, engine evaluations, and more all in one easy-to-use interface. With this upgrade...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-explore-tab",
+         "pubDate" : "Tue, 30 Jan 2024 08:02:57",
+         "title" : "Chess.com Announces Improved Game Analysis With New Explore Tab"
+      },
+      {
          "description" : "The 2024 Chessable Masters is the first of four Champions Chess Tour events and determines one of the players who'll make it to the in-person CCT Finals. The event starts on January 31 at 11:00 ET/17:00 CET. Magnus Carlsen, Maxime Vachier-Lagrave and Vladimir Fedoseev already earned spots in the Chessable Masters Division I based on their performance in last year's AI Cup.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2024/",
          "pubDate" : "Tue, 30 Jan 2024 07:49:33",
          "title" : "Communique of the ECU Board Meeting - CL No1/2024"
+      },
+      {
+         "description" : "18-year-old rising Indian star IM Divya Deshmukh has boldly called out sexism in the chess world following her participation in Tata Steel Chess, expressing frustration with comments about her appearance. Deshmukh finished 12th with 4.5 points i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/divya-deshmukh-calls-out-sexism-in-chess-after-tata-steel-appearance",
+         "pubDate" : "Tue, 30 Jan 2024 07:31:18",
+         "title" : "Indian Star Deshmukh Calls Out Sexism In Chess World: 'I Have Faced So Much Hatred'"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows one of his games from the 2024 Charlotte Open. 2024.01.30<br /> Julian Proleiko vs. Dean Ippolito, 2024 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-great-victory-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sFpw5lAge9I.jpg?itok=1ZzS6Uen\" alt=\"\" /></a></div>",
@@ -200,6 +224,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-12",
          "pubDate" : "Sat, 27 Jan 2024 14:49:00",
          "title" : "Tata Steel Chess Masters Wide Open As Vidit Beats Abdusattorov, Becomes India's #1"
+      },
+      {
+         "description" : "You plan a tournament and realize you could play two different sections. The question is: Which section should you play in? Here is how you decide which section to play in without feeling remorse afterward. Pros And Cons In short, the higher-up section is better for your long-term improvement as a player, while the lower []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/tournament-section/",
+         "pubDate" : "Sat, 27 Jan 2024 14:00:00",
+         "title" : "Picking The Right Chess Tournament Section"
       },
       {
          "description" : "Marcel Duchamp, the quintessential chess playing artist, concluded his conventional artistic career with a work enigmatically entitled Tu m' which has widely been interpreted as either the start of the sarcastic phrase tu m'ennuies (\"you bore me\"); or tu m'emmerdes (\"you annoy me\"). Duchamp was apparently so bored with representational art that he could not []",
@@ -602,6 +634,14 @@ news_feed (
          "title" : "Nakamura Notches 31-Game Streak In Latest Bullet Brawl Victory"
       },
       {
+         "description" : "A few days before an important tournament you realize: shit, I was so sloppy with my training and I'll pay for it. It is a common feeling with exams, big work projects, and chess tournaments. Cramming in the last minute sometimes saves our ass, but it isn't the most effective way to learn. A very []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/stick-to-chess-plan/",
+         "pubDate" : "Sat, 20 Jan 2024 14:00:00",
+         "title" : "How To Stick To Your Daily Chess Plan"
+      },
+      {
          "description" : "Salvador Dali once said: At the age of six I wanted to be a cook. At seven I wanted to be Napoleon and my ambition has been growing steadily ever since. I have never wanted to be Napoleon, but I did once harbour ambitions to be the Duke of Wellington, or at least the chessboard equivalent. At []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -738,14 +778,6 @@ news_feed (
          "title" : "Links of 13th & 14th TN IM Norm Closed Circuit Chess Tournaments - Chennai"
       },
       {
-         "description" : "Norway Chess always charms the year as one of the most compelling events to look out for, and 2024 is no different. Five-time winner and world number-one GM Magnus Carlsen, last year&#39;s winner GM Hikaru Nakamura, and the 17th World Champion GM Ding...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norway-chess-2024",
-         "pubDate" : "Thu, 18 Jan 2024 09:38:00",
-         "title" : "Norway Chess 2024 Returns With Women's Tournament Leveling Up Intrigue"
-      },
-      {
          "description" : "Please find &#160;live game link of&#160;1st Bangalore GM Tournament 2024 please do the needful Category A https://live.blrgmc.com/livea/ Category B https://live.blrgmc.com/liveb/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -768,14 +800,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2847",
          "pubDate" : "Wed, 17 Jan 2024 13:50:23",
          "title" : "20th International Solving Contest (ISC) announced"
-      },
-      {
-         "description" : "There is no drama, and all the players have been consulted&#38;mdash;that was the message from the world chess federation FIDE to dampen down any suggestion of controversy after the new regulations were released for its flagship Candidates tournament....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-reveals-shorter-games-for-women-in-the-candidates",
-         "pubDate" : "Wed, 17 Jan 2024 10:52:00",
-         "title" : "FIDE Reveals Shorter Games For Women In the Candidates"
       },
       {
          "description" : "Grandmaster R Praggnandhaa registered a resounding win against the reigning World Campion Ding Liren of China in the fourth round of 86th Tata Steel Masters",
