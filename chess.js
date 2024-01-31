@@ -26,6 +26,14 @@ news_feed (
          "title" : "Commit to a Sacrifice! | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2867",
+         "pubDate" : "Tue, 30 Jan 2024 17:08:32",
+         "title" : "FIDE wins the prestigious Anthem Award for Diversity, Equity & Inclusion"
+      },
+      {
          "description" : "Boris Spassky, world champion from 1969 to 1972, celebrates his 87th birthday on 30 January. Spassky is regarded as a universal player and played numerous fantastic attacking games during his career. One of his favourite openings with White was the King's Gambit, which he used to beat players such as David Bronstein, Bobby Fischer, Yasser Seirawan and Anatoly Karpov. | Photo: Boris Spassky, Chess Olympiad Saloniki 1984 | Photo: Gerhard Hund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
