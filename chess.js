@@ -26,12 +26,20 @@ news_feed (
          "title" : "Spassky plays the King's Gambit!"
       },
       {
-         "description" : "Last weekend, Mumbai hosted the second Lollapalooza music festival on the Asian continent. The headliner was former Police singer Sting. And former World Champion Viswanathan Anand was right in the middle of the crowd, singing along as a big Police fan.",
+         "description" : "The Tata Steel Chess Tournament is traditionally the first super-tournament of the year. It&#39;s often packed with top-level clashes, dramatic storylines, and 11th-hour plot twists, but 2024 will certainly remain one of the most memorable years in it...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/11-takeaways-from-tata-steel-chess-2024",
+         "pubDate" : "Tue, 30 Jan 2024 13:47:47",
+         "title" : "11 Takeaways From Tata Steel Chess 2024"
+      },
+      {
+         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. The ninth and final round will be played on Tuesday, January 30 starting at 14.00 CET (08.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-police-vishy-anand-is-a-fan",
-         "pubDate" : "Tue, 30 Jan 2024 13:00:00",
-         "title" : "The Police: Vishy Anand is a fan"
+         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
+         "pubDate" : "Tue, 30 Jan 2024 13:45:00",
+         "title" : "Jeddah Young Masters live"
       },
       {
          "description" : " The Gungahlin Chess Club started its first tournaments of the year, with the Ramakrishna Memorial and the Gungahlin Junior Championship running side by side. A total of 44 players turned up to play, which is a good number to start the year. I was called in as the 'house man' for the Ramakrishna Memorial, and got off to a good start, scoring a nice win in 17 moves. After my opponents 8th move, I decided to check out 9.e4 as a response, and having looked at enough lines to convince me it worked, played it. I had calculated that I was better up until around move 14, and when I reached that point, realised I had a pretty quick checkmate, which my opponent kindly let me play on the board. <br />",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-im-divya-deshmukh-speaks-out-against-sexism-at-tata-steel-masters/articleshow/107255869.cms",
          "pubDate" : "Tue, 30 Jan 2024 08:13:17",
          "title" : "Indian IM Divya Deshmukh alleges sexism by spectators"
-      },
-      {
-         "description" : "The 2024 Chessable Masters is the first of four Champions Chess Tour events and determines one of the players who'll make it to the in-person CCT Finals. The event starts on January 31 at 11:00 ET/17:00 CET. Magnus Carlsen, Maxime Vachier-Lagrave and Vladimir Fedoseev already earned spots in the Chessable Masters Division I based on their performance in last year's AI Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-preview",
-         "pubDate" : "Tue, 30 Jan 2024 08:00:00",
-         "title" : "Starting Wednesday: Chessable Masters with Carlsen, Fedoseev and MVL"
       },
       {
          "description" : "Dear Chess Friends, The first quarterly meeting of the ECU Board was held through teleconference, on January 21. Main information and Decisions: Sincerely, &#160;Theodoros Tsorbatzoglou&#160;ECU Secretary General",
@@ -80,22 +80,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/julians-great-victory-charlotte-road-2000-nm-julian-proleiko",
          "pubDate" : "Tue, 30 Jan 2024 00:09:55",
          "title" : "Julian's Great Victory in Charlotte | Road to 2000 - NM Julian Proleiko"
-      },
-      {
-         "description" : "Leon Luke Mendonca was the surprise winner of the Tata Steel Challenger tournament in Wijk aan Zee. He started with 3 out of 6 points, and was lost in the lower part of the table, until he recovered with 6.5 points out of his last 7 games, to reach first place! The Indian Grandmaster and ChessBase Host, Arne Kaehler, started a video series in 2023, on how a typical day in a life of a professional chess player looks like. The insights of young Leon (turning 18 in March) are tremendous, and you can learn a lot in this first video. | Photo: Lennart Ootes/Tata Steel Chess Tournament 2024",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-a-typical-day-in-the-life-of-a-professional-chess-player",
-         "pubDate" : "Mon, 29 Jan 2024 21:00:00",
-         "title" : "Leon Mendonca - A typical day in the life of a professional chess player"
-      },
-      {
-         "description" : "Hans-Joachim Hecht, a Grandmaster since 1973, was a member of the successful German national team in the 1960s and 1970s, became German team champion eight times with his clubs SG Solingen and Bayern Munich and won the European Cup once. Today he celebrates his 85th birthday. Congratulations to him! | Photos: German Chess Federation, M&uuml;nchener Schachakademie",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/german-grandmaster-hajo-hecht-celebrates-his-85th-birthday",
-         "pubDate" : "Mon, 29 Jan 2024 17:00:00",
-         "title" : "German Grandmaster Hajo Hecht celebrates his 85th birthday"
       },
       {
          "description" : "What role do traps play in chess? And what is important for successful trapping? In the current ChessBase Magazine #217, Jan Markos deals with the topic of \"traps\" in his series \"Practical Tips for the Tournament Player\" and works out four rules that you should definitely observe in your own games. We invite you: this week you can download Jan Markos' article - consisting of a video and a small collection of exercises - as a free sample. Directly via your web browser in the new ChessBase Books format. This is because CBM #217 is the first issue to also include full mobile access. So you can read it directly via your web browser on your iPad, tablet or Mac. Have fun!",
@@ -182,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/im-veselin-pantev-1971-2023-the-greatest-person-ive-ever-met",
-         "pubDate" : "Sun, 28 Jan 2024 09:21:59",
+         "pubDate" : "Sun, 28 Jan 2024 09:21:00",
          "title" : "IM Veselin Pantev (1971-2023): 'The Greatest Person I've Ever Met'"
       },
       {
@@ -768,14 +752,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/players-under-fide-flag.html",
          "pubDate" : "Thu, 18 Jan 2024 16:04:00",
          "title" : "Players under the FIDE Flag"
-      },
-      {
-         "description" : "A draw in the fifth round was enough for GM Anish Giri to increase his lead to a full point at the 2024 Tata Steel Chess Tournament. Second-placed GM Alireza Firouzja suffered an unexpected loss against Women&#39;s World Champion Ju Wenjun, who won a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-5",
-         "pubDate" : "Thu, 18 Jan 2024 13:38:00",
-         "title" : "Women Ascendant In Tata Steel As Ju Wenjun Upsets Firouzja, Roebers Defeats Niemann"
       },
       {
          "description" : " Gungahlin Chess Club is resuming next Tuesday, 23rd January. The first night is a bit of a casual meet and greet, with the more serious events starting the week after. If you have never played club chess before and you live in the close by (North Canberra, Gungahlin, Belconnen etc) then drop in to the Eastlakes Gungahlin Club (51 Hinder St Gungahlin) from 7pm on Tuesday. The following Tuesday sees the start of 2 events. The Gungahlin Junior Championship is for all players under 18 years old, while the Ramakrishna Memorial is for players 18 years and older. Both are 7 round events (one round per week), with a time limit of G60m+30s. The full years calendar is at <a href=\"https://sites.google",
