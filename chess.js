@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-niemann-win-titled-tuesday-january-30-2024",
-         "pubDate" : "Wed, 31 Jan 2024 07:54:59",
+         "pubDate" : "Wed, 31 Jan 2024 07:54:00",
          "title" : "Carlsen, Niemann Tussle Tuesday, Both Win"
       },
       {
