@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 controversy in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-and-hans-niemann-play-each-other-first-time-controversy-chessnews\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-carlsen-and-hans-niemann-play-each-other-first-time-controversy-chessnews",
+         "pubDate" : "Wed, 31 Jan 2024 00:10:45",
+         "title" : "Magnus Carlsen and Hans Niemann Play Each Other for the First Time Since Controversy! | #chessnews"
+      },
+      {
          "description" : "In the final instalment of the problem-solving experiment, we invited Prof. Dr Vera Spillner to solve the unorthodox chess puzzles, present in the Dec. 31 article! We have already seen a grandmaster, and a former world problem champion solving the problems, so how about a chess amateur and enthusiast? Read on more to find out!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Watch them solving (3) - Vera"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a move or sacrifice. See an example from Kasparov vs. Karpov &#039;90 and also from her own game where Thalia did not commit to a sac, but should have. 2024.01.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commit-sacrifice-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/57TY",
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a move or sacrifice. See an example from Kasparov vs. Karpov '90 and also from her own game where Thalia did not commit to a sac, but should have. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commit-sacrifice-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/57TYH2lMzak.jpg?itok",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/commit-sacrifice-grandmasters-choice-wgm-thalia-cervantes",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Indian Star Deshmukh Calls Out Sexism In Chess World: 'I Have Faced So Much Hatred'"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows one of his games from the 2024 Charlotte Open. 2024.01.30<br /> Julian Proleiko vs. Dean Ippolito, 2024 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-great-victory-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sFpw5lAge9I.jpg?itok=1ZzS6Uen\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows one of his games from the 2024 Charlotte Open. 2024.01.30<br /> Julian Proleiko vs. ???, 2024: A01 Nimzovich-Larsen attack, classical variation<br /> Julian Proleiko vs. Dean Ippolito, 2024: A05 Reti, King&#039;s Indian attack<br /> <a href=\"https://lichess.org/broadcast/2024-charlotte-open/round-3/H735B7We/mp6wmMf2\">https://lichess.org/broadcast/2024-charlotte-open/round-3/H735B7We/mp6wmMf2</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/julians-great-victory-charlotte-road-2000-nm-julian-proleiko",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://www.europechess.org/tata-steel-chess-2024-starts-in-wijk-aan-zee/",
          "pubDate" : "Thu, 11 Jan 2024 09:32:29",
          "title" : "Tata Steel Chess 2024 starts in Wijk aan Zee"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi demonstrates how to stymie wacky openings like the Stafford and Elephant gambits. 2024.01.11<br /> Boris Savchenko vs Viktorija Cmilyte, Politiken Cup (2011): C52 Evans gambit, Tartakower attack<br /> C40 QP counter-gambit, Maroczy gambit<br /> C50 Giuoco Piano, Jerome gambit<br /> C63 Ruy Lopez, Schliemann defence, Berger variation<br /> C42 Petrov&#039;s defence </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beat-offbeat-chess-line",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beat-offbeat-chess-lines-prepare-pro-gm-elshan-moradiabadi-0",
-         "pubDate" : "Wed, 10 Jan 2024 20:42:26",
-         "title" : "Beat Offbeat Chess Lines! | Prepare Like A Pro - GM Elshan Moradiabadi"
       },
       {
          "description" : "The European Women's Rapid and Blitz Chess Championship 2023 starts in Monte-Carlo, Monaco! The first event on the schedule will be the Blitz Championship, taking place on the 12th of January. The event will be played in 13 single rounds (swiss system), with the time control of 3 minutes + 2 seconds increment. European Women's Rapid Chess Championship 2023 will be played on 13-14 January with 11 rounds, swiss system, with the time control of 15 minutes + 10 seconds []",
