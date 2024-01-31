@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Last week we asked you to help us solve a historical riddle. Game 3 of the 1972 match between Bobby Fischer and Boris Spassky left many open questions and new discoveries to be made. Charles Sullivan, Wolfram Sch&ouml;n, Zoran Petronijevic helped Karsten M&uuml;ller resolve the riddles - and it turns out that Spassky could have held a draw!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-riddle-fischer-spassky-game-3-solution",
+         "pubDate" : "Wed, 31 Jan 2024 11:00:00",
+         "title" : "Endgame riddle solved: Spassky could have drawn!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2869",
+         "pubDate" : "Wed, 31 Jan 2024 08:40:34",
+         "title" : "FIDE Qualification Commission - Policy on Ratings and Titles"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 controversy in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-and-hans-niemann-play-each-other-first-time-controversy-chessnews\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,14 +66,6 @@ news_feed (
          "title" : "11 Takeaways From Tata Steel Chess 2024"
       },
       {
-         "description" : "From 24 to 30 January 2024, Jeddah is hosting a highly competitive U18 youth tournament. The ninth and final round will be played on Tuesday, January 30 starting at 14.00 CET (08.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeddah-young-masters-live",
-         "pubDate" : "Tue, 30 Jan 2024 13:45:00",
-         "title" : "Jeddah Young Masters live"
-      },
-      {
          "description" : " The Gungahlin Chess Club started its first tournaments of the year, with the Ramakrishna Memorial and the Gungahlin Junior Championship running side by side. A total of 44 players turned up to play, which is a good number to start the year. I was called in as the 'house man' for the Ramakrishna Memorial, and got off to a good start, scoring a nice win in 17 moves. After my opponents 8th move, I decided to check out 9.e4 as a response, and having looked at enough lines to convince me it worked, played it. I had calculated that I was better up until around move 14, and when I reached that point, realised I had a pretty quick checkmate, which my opponent kindly let me play on the board. <br />",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -96,6 +104,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/julians-great-victory-charlotte-road-2000-nm-julian-proleiko",
          "pubDate" : "Tue, 30 Jan 2024 00:09:55",
          "title" : "Julian's Great Victory in Charlotte | Road to 2000 - NM Julian Proleiko"
+      },
+      {
+         "description" : "In the previous installment of our weekly comic series, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-wizard-as-professor.html\">The Wizard as Professor</A> (January 2024), we learned that the Wizard has more interests than just playing chess. I noted, <BLOCKQUOTE> The village wizard [...] holds a patent on an important technique used to generate life-like forms in plasma. </BLOCKQUOTE> <P> This is the fourth installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa29.jpg\" WIDTH=335 HEIGHT=400> <P> The Wizard can use his patented AI techniques to generate the personae of chess players from the past. Since this practice is frowned upon by the general public and",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/the-ai-generator.html",
+         "pubDate" : "Mon, 29 Jan 2024 16:35:00",
+         "title" : "The AI Generator"
       },
       {
          "description" : "What role do traps play in chess? And what is important for successful trapping? In the current ChessBase Magazine #217, Jan Markos deals with the topic of \"traps\" in his series \"Practical Tips for the Tournament Player\" and works out four rules that you should definitely observe in your own games. We invite you: this week you can download Jan Markos' article - consisting of a video and a small collection of exercises - as a free sample. Directly via your web browser in the new ChessBase Books format. This is because CBM #217 is the first issue to also include full mobile access. So you can read it directly via your web browser on your iPad, tablet or Mac. Have fun!",
@@ -1064,14 +1080,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2023-starts-in-monaco/",
          "pubDate" : "Wed, 10 Jan 2024 20:36:59",
          "title" : "European Women's Rapid and Blitz Chess Championship 2023 starts in Monaco"
-      },
-      {
-         "description" : "ECU E-Magazine December 2023 is out! In this edition of the ECU E-Magazine you may read about: The December 2023 issue of the ECU Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below in PFD format.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-december-2023/",
-         "pubDate" : "Wed, 10 Jan 2024 11:18:17",
-         "title" : "ECU E-Magazine December 2023"
       }
    ]
 }
