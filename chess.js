@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/11-takeaways-from-tata-steel-chess-2024",
-         "pubDate" : "Tue, 30 Jan 2024 13:47:47",
+         "pubDate" : "Tue, 30 Jan 2024 13:47:00",
          "title" : "11 Takeaways From Tata Steel Chess 2024"
       },
       {
