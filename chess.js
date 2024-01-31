@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fritz 19 has opened a whole new area, the ChessBase Cards Exchange. There are now trading cards with motifs and information from many areas of the chess world. Cards can be acquired in various ways and traded on the market: \"Trade corld champion for a stamp...\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/trade-world-champion-for-a-stamp-chessbase-cards",
+         "pubDate" : "Wed, 31 Jan 2024 14:41:41",
+         "title" : "Trade world champion for a stamp: ChessBase Cards"
+      },
+      {
+         "description" : "Today is the 100th anniversary of the death of Curt von Bardeleben. A wealthy privateer, he was one of the best German chess players in the 1880s and 1890s. He lost his fortune during the First World War and fell seriously ill. On 31 January 1924 he fell to his death from a window.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-the-100th-anniversary-of-the-death-of-curt-von-bardeleben",
+         "pubDate" : "Wed, 31 Jan 2024 14:00:00",
+         "title" : "On the 100th anniversary of the death of Curt von Bardeleben"
+      },
+      {
          "description" : "Last week we asked you to help us solve a historical riddle. Game 3 of the 1972 match between Bobby Fischer and Boris Spassky left many open questions and new discoveries to be made. Charles Sullivan, Wolfram Sch&ouml;n, Zoran Petronijevic helped Karsten M&uuml;ller resolve the riddles - and it turns out that Spassky could have held a draw!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,22 @@ news_feed (
          "link" : "https://www.fide.com/news/2869",
          "pubDate" : "Wed, 31 Jan 2024 08:40:34",
          "title" : "FIDE Qualification Commission - Policy on Ratings and Titles"
+      },
+      {
+         "description" : "If you&#39;re just starting out with chess, you will blunder your pieces. It&#39;s just a fact of life. But while this is an inevitable part of your chess journey, it doesn&#39;t need to be a permanent one. Avoid the most common beginner mistakes and learn ho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sam-shankland-total-board-vision-chessable-course",
+         "pubDate" : "Wed, 31 Jan 2024 08:00:00",
+         "title" : "Avoid Blunders With Shankland's New Total Board Vision For Beginners Chessable Course"
+      },
+      {
+         "description" : "In a long-awaited moment, GM Magnus Carlsen and GM Hans Niemann have played another game of chess against each other, their first since September 2022. It was an 87-move draw in the early Titled Tuesday event of January 30, won by Carlsen with a 1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-niemann-win-titled-tuesday-january-30-2024",
+         "pubDate" : "Wed, 31 Jan 2024 07:54:59",
+         "title" : "Carlsen, Niemann Tussle Tuesday, Both Win"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 controversy in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-and-hans-niemann-play-each-other-first-time-controversy-chessnews\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
@@ -730,28 +762,12 @@ news_feed (
          "title" : "FIDE Invalidates IM Norm Scored By Hollywood Producer With 9 Short Draws"
       },
       {
-         "description" : "ChessKid, the scholastic extension of Chess.com aimed at a younger target audience, has reached the milestone of 10,000,000 individual child accounts.&#38;nbsp; To celebrate the achievement, ChessKid is offering free access to its Gold membership fe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-celebrates-10-million-members",
-         "pubDate" : "Fri, 19 Jan 2024 09:00:00",
-         "title" : "ChessKid Unlocks FREE Access January 20 & 21 To Celebrate 10 Million Members"
-      },
-      {
          "description" : " The Chennai teenager is being backed by his country's second wealthiest individual as he bids to win the Candidates at Toronto in April and qualify for a title match against Ding later in 2024 India's rising talent Rameshbabu Praggnanandhaa had a day to remember at Tata Steel Wijk aan Zee on ­Tuesday. The 18-year-old from ­Chennai <a href=\"https://www.2700chess.com/games/ding-praggnanandhaa-r4-wijk-aan-zee-2024-01-16\">defeated China's world champion</a>, Ding Liren, with the black pieces for the second year in succession at the \"chess Wimbledon\" and also jumped to No 11 in the live rankings, where he now sits one place ahead of India's former world champion Vishy Anand. There was a curious ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/jan/19/chess-indias-praggnanandhaa-18-beats-world-champion-ding-at-wijk-aan-zee",
          "pubDate" : "Fri, 19 Jan 2024 08:00:24",
          "title" : "Chess: India's Praggnanandhaa, 18, beats world champion Ding at Wijk aan Zee"
-      },
-      {
-         "description" : "It may not be a record, but it is still a major achievement: the world has a new youngest grandmaster&#38;mdash;14-year-old Ukrainian prodigy GM Ihor Samunenkov. The teenager&#38;rsquo;s title has been confirmed by the world chess federation FIDE this m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ukrainian-prodigy-ihor-samunenkov-confirmed-as-worlds-young-grandmaster",
-         "pubDate" : "Fri, 19 Jan 2024 06:41:00",
-         "title" : "Ukrainian Prodigy Ihor Samunenkov Becomes World's Youngest Grandmaster"
       },
       {
          "description" : "",
