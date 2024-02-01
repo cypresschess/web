@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase media manager Arne Kaehler comes up with amusing ideas daily. One of these has now been brought to life: The challenge is to study chess using all ChessBase products for at least two hours daily over a month, and to win a tournament as the group's lowest-rated player. Sounds crazy? Perhaps. But what could possibly go wrong when chess is such a delightful activity? In the forthcoming video series, Arne invites you to join his adventure, looking into nearly everything ChessBase offers, learning from chess experts, experiencing ups and downs, and, most importantly, addressing the ultimate question: Will he actually succeed? | Photo: (right) Sandra Schmidt",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-is-what-happens-when-you-train-chess-every-day-for-a-month",
+         "pubDate" : "Thu, 01 Feb 2024 07:06:00",
+         "title" : "This is What Happens When You Train Chess Every Day for a Month!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Originally from Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-piece-restriction-puzzlers-paradise-gm-denes-boros-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZB56UffqgOg.jpg?itok=HX6D3pHT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-piece-restriction-puzzlers-paradise-gm-denes-boros-shorts",
+         "pubDate" : "Thu, 01 Feb 2024 06:11:34",
+         "title" : "Chess is Piece Restriction | Puzzler's Paradise - GM Denes Boros #Shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Originally from Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-are-you-having-fun-yet-puzzlers-paradise-gm-denes-boros-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gh3i5tjHf3A.jpg?itok=GAeswy6z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-are-you-having-fun-yet-puzzlers-paradise-gm-denes-boros-shorts",
+         "pubDate" : "Thu, 01 Feb 2024 06:11:34",
+         "title" : "Chess: Are You Having Fun Yet? | Puzzler's Paradise - GM Denes Boros... #Shorts"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Erik Tkachenko and the trash-talking NM Julian Proleiko throw down in chess combat at the interim Saint Louis Chess Club. 2024.01.08 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blitz-chess-kombat-erik-tkachenko-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xkgAtlhT-VM.jpg?itok=ik2OvGT4\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -754,14 +778,6 @@ news_feed (
          "title" : "Tata Steel Masters 2024: Firouzja closes the gap"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes profiles Magnus Carlsen at the 2023 Tata Steel Chess Tournament in Wijk aan Zee. After losing consecutive games to Giri and Abdusattorov, the champ defeated Rapport, Caruana, and Maghsoodloo. After this recording, Carlsen also defeated Arjun Erigaisi to finish tied 2nd. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-comeback-tata-steel-2023-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/fil",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsens-comeback-tata-steel-2023-wgm-thalia-cervantes",
-         "pubDate" : "Fri, 19 Jan 2024 23:49:51",
-         "title" : "Carlsen's Comeback at Tata Steel 2023 - WGM Thalia Cervantes"
-      },
-      {
          "description" : " The sixth round of the Tata Steel Masters saw wins for Alireza Firouzja against Wei Yi, Gukesh against Jorden van Foreest and Max Warmerdam against Alexander Donchenko. The leader Anish Giri got a tremendous position against Parham Maghsoodloo almost straight out of the opening, let most of the advantage go but missed a cast iron chance after 36...Qd6? but instead, even after having a few minutes to think, allowed his opponent to get into a drawish endgame a pawn down. Nepomniachtchi-Praggnanandhaa, Ding-Abdusattorov and Ju Wenjun-Vidit were all drawn. Round 6 standings: 1st Giri 4.5pts, 2nd Firouzja 4pts, 3rd= Praggnanandhaa, Abdusattorov, Gukesh, Warmerdam 3.5pts, 7th= Wei Yi, Ding Liren,",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/anish-giri-leads-the-tata-steel-masters-alone-on-3.54-going-into-the-first-rest-day",
          "pubDate" : "Tue, 16 Jan 2024 22:42:00",
          "title" : "Anish Giri leads the Tata Steel Masters alone on 3.5/4 going into the first rest day - 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Elshan Moradiabadi teaches a chess class on pawn breaks. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/thaw-out-pawn-breaks-grandmasters-choice-gm-elshan-moradiabadi\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oYUo7wiRJDw.jpg?itok=JqV7h02t\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/thaw-out-pawn-breaks-grandmasters-choice-gm-elshan-moradiabadi",
-         "pubDate" : "Tue, 16 Jan 2024 20:46:55",
-         "title" : "Thaw Out with Pawn Breaks! | Grandmaster's Choice - GM Elshan Moradiabadi"
       },
       {
          "description" : " Another round of Tata Steel, another set of wins for Black. If I can count correctly, there have been 10 black wins and only 1 white win over the first 21 games. Is it because White is over pressing? Have a lot of White opening lines been sorted out? or just a quirk in the pairings? <br /> <b>Donchenko,Alexander (2643) - Giri,Anish (2749) [E60]</b><br /> Tata Steel Masters 2024 Wijk aan Zee, Netherlands (3.2), 15.01.2024 <script> new PgnViewer( { boardName: \"game1438\", movesFormat: \"default\", pgnString:'1.d4 d6 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.c4 Bf5 6.Qb3 Qc8 7.Nc3 Nc6 8.d5 Nd8 9.O-O O-O 10.Re1 Ne4 11.Nxe4 Bxe4 12.Bd2 b6 13.Bc3 e5 14.dxe6 Nxe6 15.Bxg7 Kxg7 16.Qc3+ Kg8 17.Nd4 Bxg2 18.Kxg2 Ng5 ",
