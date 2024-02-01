@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-01-02  - 01-30","26","<a href=http://www.uschess.org/msa/XtblMain.php?202401300222 target='_blank'>JAN 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-01-28","18","<a href=http://www.uschess.org/msa/XtblMain.php?202401288702 target='_blank'>SUNDAY SWISS - JAN 28 2024 - AT 1PM</a>",
 "SPRING","2024-01-27","337","<a href=http://www.uschess.org/msa/XtblMain.php?202401278092 target='_blank'>24TH KLEIN WINTER SCHOLASTIC</a>",
 "HOUSTON","2024-01-27","10","<a href=http://www.uschess.org/msa/XtblMain.php?202401277382 target='_blank'>CHESSPANDA01272024SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "LEAGUE CITY","2023-07-03  - 07-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202307177392 target='_blank'>CLCC JULY MONDAYS</a>",
 "HOUSTON","2023-07-15","15","<a href=http://www.uschess.org/msa/XtblMain.php?202307158372 target='_blank'>QUADS ALL AGES JULY 15</a>",
 "SUGAR LAND","2023-07-15","59","<a href=http://www.uschess.org/msa/XtblMain.php?202307158052 target='_blank'>FCA JULY 2023</a>",
-"HOUSTON","2023-07-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202307157802 target='_blank'>CHESSPANDA07152023SATURDAY</a>",
 ]);
