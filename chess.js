@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. On day 2, players fight to reach either of the three kncokout tournaments (Division I, II or III). | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
+         "pubDate" : "Thu, 01 Feb 2024 16:50:00",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "The 2022/23 Chessable Grand Prix has now completed, covering events from August 2022 to July 2023 with all prize winners announced and all prizes awarded....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-grand-prix/",
+         "pubDate" : "Thu, 01 Feb 2024 15:45:54",
+         "title" : "ECF Grand Prix"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Originally from Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/queen-needs-little-help-puzzlers-paradise-gm-denes-boros-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PqdxYKPIQcw.jpg?itok=gqItqMVu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/queen-needs-little-help-puzzlers-paradise-gm-denes-boros-shorts-chess",
+         "pubDate" : "Thu, 01 Feb 2024 15:11:45",
+         "title" : "The Queen Needs a Little Help | Puzzler's Paradise - GM Denes Boros | #Shorts #chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2871",
+         "pubDate" : "Thu, 01 Feb 2024 14:44:07",
+         "title" : "Tickets for the 2024 Candidates tournament go on sale"
+      },
+      {
+         "description" : "In the second instalment, we see some more compositions submitted to the Christmas Contest that are worthy of a mention but missed out on the prizes by a whisker! Though some are by beginners, others are by well-seasoned experts. But all problems were evaluated through economy, harmony and aesthetics. Hope you have fun reading these!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christmas-puzzle-contest-2",
+         "pubDate" : "Thu, 01 Feb 2024 14:30:00",
+         "title" : "Christmas Puzzle Contest (2)"
+      },
+      {
+         "description" : "The 2024 Chess Olympiad will be held in Budapest from 10 to 23 September. By their very nature, Chess Olympiads are chess festivals that bring together nations, amateurs, professionals, men and women. Hungary is a country with a long and rich chess tradition and the Chess Olympiad 2024 promises to be a chess highlight of 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/budapest-gets-ready-for-the-2024-chess-olympiad",
+         "pubDate" : "Thu, 01 Feb 2024 13:30:00",
+         "title" : "Budapest gets ready for the 2024 Chess Olympiad"
+      },
+      {
+         "description" : " In a very surprising move, chess24.com has begun the process of closing the domain despite a popular following for nearly 10 years. This has been part of an evolution and consolidation after the chess.com and PlayMagnus merger with a diverse portfolio of chess services which also included such brands as New in Chess and Chessable. The post <a href=\"https://www.thechessdrum.net/blog/2024/02/01/chess24-com-shuts-down/\">Chess24.com shuts down!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/02/01/chess24-com-shuts-down/",
+         "pubDate" : "Thu, 01 Feb 2024 13:23:10",
+         "title" : "Chess24.com shuts down!"
+      },
+      {
+         "description" : "The Board is pleased to announce the appointment of Keith Gregory as the new Chair of the ECF Awards committee. Keith is recently retired after...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-awards-committee-new-chair/",
+         "pubDate" : "Thu, 01 Feb 2024 13:09:53",
+         "title" : "ECF Awards Committee - new Chair"
+      },
+      {
+         "description" : "Sohum Lohia won his tournament in Wijk aan Zee, which means he has qualified for the Qualifiers tournament at Tata Steel next year. This tournament...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/sohum-lohia-in-wijk-aan-zee/",
+         "pubDate" : "Thu, 01 Feb 2024 13:02:33",
+         "title" : "Sohum Lohia in Wijk aan Zee"
+      },
+      {
          "description" : " The FIDE Qualification Commission has decided to restrict the use of Scheveningen and Schiller format events for earning title norms. The full announcement can be found at <a href=\"https://fide.com/news/2869\">https://fide.com/news/2869</a> As the statement says, the motivation for this decision is mainly about what titles represent. Historically, chess titles were awarded (formally or informally) as a consequence of achievements in important and significant events. I* would like to think this should still be the case, recognising that the growth in chess has lead to a growth in the number of events that may fit this criteria. Nonetheless, I believe that there still should be standards appli",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -24,6 +96,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2870",
          "pubDate" : "Thu, 01 Feb 2024 11:39:21",
          "title" : "20th International Solving Contest: Sharing the love for chess art"
+      },
+      {
+         "description" : "&#34;Here ye, here ye! Gather round as I tell a tale about the Kingdom Chess App that was just announced!&#34; a wise knight once said. In this app, you can play chess against worthy opponents for gold, battle bots, solve fun missions, and build up YOUR k...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-kingdom-chess-app",
+         "pubDate" : "Thu, 01 Feb 2024 08:15:12",
+         "title" : "Chess.com Releases Kingdom Chess App"
       },
       {
          "description" : "ChessBase media manager Arne Kaehler comes up with amusing ideas daily. One of these has now been brought to life: The challenge is to study chess using all ChessBase products for at least two hours daily over a month, and to win a tournament as the group's lowest-rated player. Sounds crazy? Perhaps. But what could possibly go wrong when chess is such a delightful activity? In the forthcoming video series, Arne invites you to join his adventure, looking into nearly everything ChessBase offers, learning from chess experts, experiencing ups and downs, and, most importantly, addressing the ultimate question: Will he actually succeed? | Photo: (right) Sandra Schmidt",
@@ -586,14 +666,6 @@ news_feed (
          "title" : "Tata Steel 2024: The Best Games Today | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows two of his games from the 2024 Charlotte Open. 2024.01.23<br /> Kayden Troff vs. Julian Proleiko, 2024: A04 Reti opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/my-performance-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lIB7WoMBgHw.jpg?itok=t9rWUeaR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/my-performance-charlotte-road-2000-nm-julian-proleiko",
-         "pubDate" : "Tue, 23 Jan 2024 17:54:57",
-         "title" : "My Performance in Charlotte | Road to 2000 - NM Julian Proleiko"
-      },
-      {
          "description" : "The ECF is accepting registrations for the European Schools Championship in Limerick, Ireland between 30 May 08 June 2024. Please click here for the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -786,14 +858,6 @@ news_feed (
          "title" : "Chess lessons from the Iron Duke"
       },
       {
-         "description" : "According to many (including GM Magnus Carlsen), GM Garry Kasparov is still the Greatest of All Time (GOAT) in chess. Today, it is exactly 25 years since Kasparov played his most famous and possibly best ever game, against GM Veselin Topalov in Wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/25-years-ago-kasparov-topalov-1999",
-         "pubDate" : "Sat, 20 Jan 2024 02:05:00",
-         "title" : "25 Years Ago, Kasparov-Topalov Was Played In Wijk Aan Zee"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -808,14 +872,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/giri-allows-firouzja-to-close-the-lead-after-missed-chances-against-maghsoodloo-in-tata-steel-round-6",
          "pubDate" : "Fri, 19 Jan 2024 21:06:00",
          "title" : "Giri allows Firouzja to close the lead after missed chances against Maghsoodloo in Tata Steel Round 6 - 6"
-      },
-      {
-         "description" : "GM Alireza Firouzja is trailing GM Anish Giri by half a point again after Friday&#39;s sixth round of the 2024 Tata Steel Chess Tournament. While the tournament leader missed several chances to beat GM Parham Maghsoodloo, Firouzja did score the full p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-6",
-         "pubDate" : "Fri, 19 Jan 2024 13:53:00",
-         "title" : "Firouzja Bounces Back In Tata Steel Chess Masters; Roebers Wins Again"
       },
       {
          "description" : " The Chennai teenager is being backed by his country's second wealthiest individual as he bids to win the Candidates at Toronto in April and qualify for a title match against Ding later in 2024 India's rising talent Rameshbabu Praggnanandhaa had a day to remember at Tata Steel Wijk aan Zee on ­Tuesday. The 18-year-old from ­Chennai <a href=\"https://www.2700chess.com/games/ding-praggnanandhaa-r4-wijk-aan-zee-2024-01-16\">defeated China's world champion</a>, Ding Liren, with the black pieces for the second year in succession at the \"chess Wimbledon\" and also jumped to No 11 in the live rankings, where he now sits one place ahead of India's former world champion Vishy Anand. There was a curious ",
@@ -1104,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2838",
          "pubDate" : "Thu, 11 Jan 2024 18:27:52",
          "title" : "European Women's Rapid & Blitz Championship 2023 starts in Monte-Carlo"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2837",
-         "pubDate" : "Thu, 11 Jan 2024 13:13:46",
-         "title" : "13th edition of \"Preparation of Teachers\" course announced"
       }
    ]
 }
