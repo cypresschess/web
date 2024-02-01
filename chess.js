@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is 1 February and FIDE has published their new World Ranking List. There have been some changes in the rankings, mainly due to the results of the tournaments in Wijk aan Zee, but Carlsen, Caruana and Nakamura continue to lead the world rankings despite not having played a FIDE rated game in January. Ju Wenjun has moved back into second place behind Hou Yifan in the women's rankings.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-february-2024",
+         "pubDate" : "Thu, 01 Feb 2024 12:00:00",
+         "title" : "FIDE ratings February 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2870",
+         "pubDate" : "Thu, 01 Feb 2024 11:39:21",
+         "title" : "20th International Solving Contest: Sharing the love for chess art"
+      },
+      {
          "description" : "ChessBase media manager Arne Kaehler comes up with amusing ideas daily. One of these has now been brought to life: The challenge is to study chess using all ChessBase products for at least two hours daily over a month, and to win a tournament as the group's lowest-rated player. Sounds crazy? Perhaps. But what could possibly go wrong when chess is such a delightful activity? In the forthcoming video series, Arne invites you to join his adventure, looking into nearly everything ChessBase offers, learning from chess experts, experiencing ups and downs, and, most importantly, addressing the ultimate question: Will he actually succeed? | Photo: (right) Sandra Schmidt",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1088,22 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2837",
          "pubDate" : "Thu, 11 Jan 2024 13:13:46",
          "title" : "13th edition of \"Preparation of Teachers\" course announced"
-      },
-      {
-         "description" : " IM Rishi Sardana has won the 2024 Australian Championship, by a comprehensive 2 point margin. He score and undefeated 9.5/11, to finish 2 points ahead of Yi Liu and Samuel Asaka on 7.5. Tied for 4th were Fred Litchfield and Stephen Solomon on 7. The win by Sardana was the first time a player from the Australian capital has won the national championship. It was looking like a possible ACT 1-2 finish with Litchfield, but a win by IM Solomon over Litchfield in the final round put an end to that dream. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/sardana-wins-australian-championship.html",
-         "pubDate" : "Thu, 11 Jan 2024 11:13:00",
-         "title" : "Sardana wins Australian Championship"
-      },
-      {
-         "description" : "The 86th edition of the Tata Steel Chess takes place from 12-28 January in Wijk aan Zee, the Netherlands. The event features 14 super grandmasters who will compete in a 13-round round-robin tournament.&#160;The field is led by the reigning World Chess Champion GM Ding Liren (CHN, 2780). The participants are: The rate of play will be 100 Minutes for 40 moves, followed by 50 minutes for 20 moves, then 15 minutes for the remaining moves with 30 seconds cumulative increment []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/tata-steel-chess-2024-starts-in-wijk-aan-zee/",
-         "pubDate" : "Thu, 11 Jan 2024 09:32:29",
-         "title" : "Tata Steel Chess 2024 starts in Wijk aan Zee"
       }
    ]
 }
