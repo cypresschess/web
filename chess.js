@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Qualification Commission has decided to restrict the use of Scheveningen and Schiller format events for earning title norms. The full announcement can be found at <a href=\"https://fide.com/news/2869\">https://fide.com/news/2869</a> As the statement says, the motivation for this decision is mainly about what titles represent. Historically, chess titles were awarded (formally or informally) as a consequence of achievements in important and significant events. I* would like to think this should still be the case, recognising that the growth in chess has lead to a growth in the number of events that may fit this criteria. Nonetheless, I believe that there still should be standards appli",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/softly-softly.html",
+         "pubDate" : "Thu, 01 Feb 2024 12:26:00",
+         "title" : "Softly, softly"
+      },
+      {
          "description" : "It is 1 February and FIDE has published their new World Ranking List. There have been some changes in the rankings, mainly due to the results of the tournaments in Wijk aan Zee, but Carlsen, Caruana and Nakamura continue to lead the world rankings despite not having played a FIDE rated game in January. Ju Wenjun has moved back into second place behind Hou Yifan in the women's rankings.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
