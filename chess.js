@@ -18,6 +18,14 @@ news_feed (
          "title" : "On the 100th anniversary of the death of Curt von Bardeleben"
       },
       {
+         "description" : "On his 25th birthday, GM Jose Martinez finished first in the all-GM Play-in of the 2024 Champions Chess Tour Chessable Masters. The penultimate round against GM Hikaru Nakamura was absolutely critical, as the Peruvian GM managed to draw a losing e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-1",
+         "pubDate" : "Wed, 31 Jan 2024 12:53:00",
+         "title" : "Martinez Wins Play-in On His Birthday"
+      },
+      {
          "description" : "Last week we asked you to help us solve a historical riddle. Game 3 of the 1972 match between Bobby Fischer and Boris Spassky left many open questions and new discoveries to be made. Charles Sullivan, Wolfram Sch&ouml;n, Zoran Petronijevic helped Karsten M&uuml;ller resolve the riddles - and it turns out that Spassky could have held a draw!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/watch-them-solving-3-vera",
          "pubDate" : "Tue, 30 Jan 2024 22:00:00",
          "title" : "Watch them solving (3) - Vera"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2868",
+         "pubDate" : "Tue, 30 Jan 2024 21:47:44",
+         "title" : "Budapest gets ready for the 2024 Chess Olympiad"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a move or sacrifice. See an example from Kasparov vs. Karpov '90 and also from her own game where Thalia did not commit to a sac, but should have. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commit-sacrifice-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/57TYH2lMzak.jpg?itok",
@@ -754,14 +770,6 @@ news_feed (
          "title" : "Firouzja Bounces Back In Tata Steel Chess Masters; Roebers Wins Again"
       },
       {
-         "description" : "FM Brandon Burrows achieved his first IM norm by winning one game and making nine draws that lasted an average of 10 moves. Now the World Chess Federation (FIDE) has invalidated the Las Vegas tournament and U.S. Chess has confirmed an investigatio...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-invalidates-im-norm-scored-by-hollywood-producer-through-nine-short-draws",
-         "pubDate" : "Fri, 19 Jan 2024 09:46:00",
-         "title" : "FIDE Invalidates IM Norm Scored By Hollywood Producer With 9 Short Draws"
-      },
-      {
          "description" : " The Chennai teenager is being backed by his country's second wealthiest individual as he bids to win the Candidates at Toronto in April and qualify for a title match against Ding later in 2024 India's rising talent Rameshbabu Praggnanandhaa had a day to remember at Tata Steel Wijk aan Zee on ­Tuesday. The 18-year-old from ­Chennai <a href=\"https://www.2700chess.com/games/ding-praggnanandhaa-r4-wijk-aan-zee-2024-01-16\">defeated China's world champion</a>, Ding Liren, with the black pieces for the second year in succession at the \"chess Wimbledon\" and also jumped to No 11 in the live rankings, where he now sits one place ahead of India's former world champion Vishy Anand. There was a curious ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://www.europechess.org/tata-steel-chess-2024-starts-in-wijk-aan-zee/",
          "pubDate" : "Thu, 11 Jan 2024 09:32:29",
          "title" : "Tata Steel Chess 2024 starts in Wijk aan Zee"
-      },
-      {
-         "description" : "The European Women's Rapid and Blitz Chess Championship 2023 starts in Monte-Carlo, Monaco! The first event on the schedule will be the Blitz Championship, taking place on the 12th of January. The event will be played in 13 single rounds (swiss system), with the time control of 3 minutes + 2 seconds increment. European Women's Rapid Chess Championship 2023 will be played on 13-14 January with 11 rounds, swiss system, with the time control of 15 minutes + 10 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-rapid-and-blitz-chess-championship-2023-starts-in-monaco/",
-         "pubDate" : "Wed, 10 Jan 2024 20:36:59",
-         "title" : "European Women's Rapid and Blitz Chess Championship 2023 starts in Monaco"
       }
    ]
 }
