@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Erik Tkachenko and the trash-talking NM Julian Proleiko throw down in chess combat at the interim Saint Louis Chess Club. 2024.01.08 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blitz-chess-kombat-erik-tkachenko-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xkgAtlhT-VM.jpg?itok=ik2OvGT4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/blitz-chess-kombat-erik-tkachenko-vs-julian-proleiko",
+         "pubDate" : "Thu, 01 Feb 2024 03:11:23",
+         "title" : "BLITZ CHESS KOMBAT: Erik Tkachenko vs. Julian Proleiko"
+      },
+      {
          "description" : "Fritz 19 has opened a whole new area, the ChessBase Cards Exchange. There are now trading cards with motifs and information from many areas of the chess world. Cards can be acquired in various ways and traded on the market: \"Trade corld champion for a stamp...\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -896,14 +904,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/thaw-out-pawn-breaks-grandmasters-choice-gm-elshan-moradiabadi",
          "pubDate" : "Tue, 16 Jan 2024 20:46:55",
          "title" : "Thaw Out with Pawn Breaks! | Grandmaster's Choice - GM Elshan Moradiabadi"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Ralph Tan discusses the chess concept of space, and how to get more of it on the board. A \"space advantage\" is one who controls a greater number of squares. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/space-chess-beginner-breakdown-nm-ralph-tan\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8f7wkJuyw58.jpg?itok=sMFFzA1_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/space-chess-beginner-breakdown-nm-ralph-tan",
-         "pubDate" : "Tue, 16 Jan 2024 20:46:55",
-         "title" : "Space in Chess | Beginner Breakdown - NM Ralph Tan"
       },
       {
          "description" : " Another round of Tata Steel, another set of wins for Black. If I can count correctly, there have been 10 black wins and only 1 white win over the first 21 games. Is it because White is over pressing? Have a lot of White opening lines been sorted out? or just a quirk in the pairings? <br /> <b>Donchenko,Alexander (2643) - Giri,Anish (2749) [E60]</b><br /> Tata Steel Masters 2024 Wijk aan Zee, Netherlands (3.2), 15.01.2024 <script> new PgnViewer( { boardName: \"game1438\", movesFormat: \"default\", pgnString:'1.d4 d6 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.c4 Bf5 6.Qb3 Qc8 7.Nc3 Nc6 8.d5 Nd8 9.O-O O-O 10.Re1 Ne4 11.Nxe4 Bxe4 12.Bd2 b6 13.Bc3 e5 14.dxe6 Nxe6 15.Bxg7 Kxg7 16.Qc3+ Kg8 17.Nd4 Bxg2 18.Kxg2 Ng5 ",
