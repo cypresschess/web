@@ -42,6 +42,14 @@ news_feed (
          "title" : "Christmas Puzzle Contest (2)"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2872",
+         "pubDate" : "Thu, 01 Feb 2024 13:46:42",
+         "title" : "FIDE February 2024 rating list: Wei Yi debuts in top 10 Open"
+      },
+      {
          "description" : "The 2024 Chess Olympiad will be held in Budapest from 10 to 23 September. By their very nature, Chess Olympiads are chess festivals that bring together nations, amateurs, professionals, men and women. Hungary is a country with a long and rich chess tradition and the Chess Olympiad 2024 promises to be a chess highlight of 2024.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -102,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-kingdom-chess-app",
-         "pubDate" : "Thu, 01 Feb 2024 08:15:12",
+         "pubDate" : "Thu, 01 Feb 2024 08:15:00",
          "title" : "Chess.com Releases Kingdom Chess App"
       },
       {
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-1",
          "pubDate" : "Wed, 31 Jan 2024 12:53:00",
          "title" : "Martinez Wins Play-in On His Birthday"
-      },
-      {
-         "description" : "Last week we asked you to help us solve a historical riddle. Game 3 of the 1972 match between Bobby Fischer and Boris Spassky left many open questions and new discoveries to be made. Charles Sullivan, Wolfram Sch&ouml;n, Zoran Petronijevic helped Karsten M&uuml;ller resolve the riddles - and it turns out that Spassky could have held a draw!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-riddle-fischer-spassky-game-3-solution",
-         "pubDate" : "Wed, 31 Jan 2024 11:00:00",
-         "title" : "Endgame riddle solved: Spassky could have drawn!"
       },
       {
          "description" : "",
@@ -234,20 +234,12 @@ news_feed (
          "title" : "FIDE wins the prestigious Anthem Award for Diversity, Equity & Inclusion"
       },
       {
-         "description" : "Boris Spassky, world champion from 1969 to 1972, celebrates his 87th birthday on 30 January. Spassky is regarded as a universal player and played numerous fantastic attacking games during his career. One of his favourite openings with White was the King's Gambit, which he used to beat players such as David Bronstein, Bobby Fischer, Yasser Seirawan and Anatoly Karpov. | Photo: Boris Spassky, Chess Olympiad Saloniki 1984 | Photo: Gerhard Hund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/spassky-plays-the-king-s-gambit",
-         "pubDate" : "Tue, 30 Jan 2024 16:00:00",
-         "title" : "Spassky plays the King's Gambit!"
-      },
-      {
          "description" : "The Tata Steel Chess Tournament is traditionally the first super-tournament of the year. It&#39;s often packed with top-level clashes, dramatic storylines, and 11th-hour plot twists, but 2024 will certainly remain one of the most memorable years in it...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/11-takeaways-from-tata-steel-chess-2024",
          "pubDate" : "Tue, 30 Jan 2024 13:47:00",
-         "title" : "11 Takeaways From Tata Steel Chess 2024"
+         "title" : "11 Things We Learned - Tata Steel Chess Tournament 2024"
       },
       {
          "description" : " The Gungahlin Chess Club started its first tournaments of the year, with the Ramakrishna Memorial and the Gungahlin Junior Championship running side by side. A total of 44 players turned up to play, which is a good number to start the year. I was called in as the 'house man' for the Ramakrishna Memorial, and got off to a good start, scoring a nice win in 17 moves. After my opponents 8th move, I decided to check out 9.e4 as a response, and having looked at enough lines to convince me it worked, played it. I had calculated that I was better up until around move 14, and when I reached that point, realised I had a pretty quick checkmate, which my opponent kindly let me play on the board. <br />",
@@ -1144,22 +1136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/2024-act-lightning-championship.html",
          "pubDate" : "Fri, 12 Jan 2024 12:23:00",
          "title" : "2024 ACT Lightning Championship"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> How to deal with players who refuse to play proper moves? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/knight-dance.1920.jpeg\" title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. screen grab from youtube\" data-title=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand. (screen grab from youtube)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1\" alt=\"Daniil Dubov and Ian Nepomniachtchi doing the knight dance in Samarkand.\" srcset=\"https://www.chesstech.org/files/knight-dance.480.jpeg?v=1 1x",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/match-fixing-as-a-form-of-protest/",
-         "pubDate" : "Thu, 11 Jan 2024 18:38:19",
-         "title" : "Match-fixing as a form of protest"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2838",
-         "pubDate" : "Thu, 11 Jan 2024 18:27:52",
-         "title" : "European Women's Rapid & Blitz Championship 2023 starts in Monte-Carlo"
       }
    ]
 }
