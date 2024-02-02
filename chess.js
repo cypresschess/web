@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 24-year-old was a grandmaster at 13 and the youngest ever 2700-rated player at 15, now he has jumped into the world top 10 with a chance to aim for the ultimate peak China's Wei Yi, 24, captured first prize last weekend in a competitive field at Tata Steel Wijk aan Zee, the annual Netherlands tournament known as the \"chess Wimbledon\" due to its ­consistent strength over many decades. Wijk, formerly ­Beverwijk, began in a small way in 1938 and still serves pea soup at its closing ­dinner in memory of its early hungry ­wartime years. At age 13, Wei was already a grandmaster. At 15, he was, and still is, the youngest in chess history to achieve an elite GM 2700 rating. Then he ­plateaued a",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/feb/02/chess-wei-yi-wins-at-wijk-aan-zee-as-former-prodigy-emerges-from-shadows",
+         "pubDate" : "Fri, 02 Feb 2024 08:00:44",
+         "title" : "Chess: Wei Yi wins at Wijk aan Zee as former prodigy emerges from shadows"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches about the concept of space in chess, using games from Magnus Carlsen and others. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-uses-space-weapon-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wBKAmm9LN3E.jpg?itok=ql-E6tFr\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
