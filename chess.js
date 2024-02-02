@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 3 sees the start of the knockout phase, with Magnus Carlsen v. Wesley So the marquee match in the Division I quarter-finals. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
+         "pubDate" : "Fri, 02 Feb 2024 16:50:00",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "With the stunning result of 5 out of 5 on board 1, Svitlana participated in the Canadian University Championship! One of her games included the Portuguese Variation in the Scandinavian Opening, which is \"Svitlana's Smart Moves\" most viewed episodes! She won against an FM, and her opponent was almost without a chance. Maybe, this opening is much better, than everybody thought?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-winning-with-the-portuguese-variation",
+         "pubDate" : "Fri, 02 Feb 2024 15:00:00",
+         "title" : "Svitlana's Smart Moves - Winning with the Portuguese Variation!"
+      },
+      {
          "description" : "The pairings of the knockout phase in all three divisions of the Chessable Masters were set up after an exciting day of online-chess action. Most notably, 17-year-old Denis Lazavik defeated Hikaru Nakamura and Anish Giri to reach Division I, while knocking his elite opponents down to Division II. Lazavik will face Maxime Vachier-Lagrave on Friday, while perennial favourite Magnus Carlsen will face the ever-dangerous Wesley So. | Photo: chess.com / Thomas Tischio",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -146,28 +162,12 @@ news_feed (
          "title" : "Softly, softly"
       },
       {
-         "description" : "It is 1 February and FIDE has published their new World Ranking List. There have been some changes in the rankings, mainly due to the results of the tournaments in Wijk aan Zee, but Carlsen, Caruana and Nakamura continue to lead the world rankings despite not having played a FIDE rated game in January. Ju Wenjun has moved back into second place behind Hou Yifan in the women's rankings.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-february-2024",
-         "pubDate" : "Thu, 01 Feb 2024 12:00:00",
-         "title" : "FIDE ratings February 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2870",
          "pubDate" : "Thu, 01 Feb 2024 11:39:21",
          "title" : "20th International Solving Contest: Sharing the love for chess art"
-      },
-      {
-         "description" : "ChessBase Magazine Extra is the ideal supplement to ChessBase Magazine. The new Extra #217 starts the new video series \"Mikhalchishin's Miniatures\" - the first part focusses on the Queen's Gambit Accepted. In addition, Nico Zwirs examines the Najdorf Variation with 6.h3 e5 7.Nf3 Be7 8.g4 b5 in his video contribution. The \"Lucky bag\" this time contains 48 analyses by Anish Giri, Ivan Saric, Samvel Ter-Sahakyan, Romain Edouard, Michal Krasenkow and many others!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-217",
-         "pubDate" : "Thu, 01 Feb 2024 11:00:00",
-         "title" : "New: CBM Extra #217"
       },
       {
          "description" : "&#34;Here ye, here ye! Gather round as I tell a tale about the Kingdom Chess App that was just announced!&#34; a wise knight once said. In this app, you can play chess against worthy opponents for gold, battle bots, solve fun missions, and build up YOUR k...",
