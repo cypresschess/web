@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches about the concept of space in chess, using games from Magnus Carlsen and others. 2024.02.01 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-uses-space-weapon-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wBKAmm9LN3E.jpg?itok=ql-E6tFr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-uses-space-weapon-prepare-pro-gm-denes-boros",
+         "pubDate" : "Thu, 01 Feb 2024 21:12:04",
+         "title" : "Carlsen Uses Space as a Weapon | Prepare Like A Pro - GM Denes Boros"
+      },
+      {
          "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. On day 2, players fight to reach either of the three kncokout tournaments (Division I, II or III). | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +88,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/sohum-lohia-in-wijk-aan-zee/",
          "pubDate" : "Thu, 01 Feb 2024 13:02:33",
          "title" : "Sohum Lohia in Wijk aan Zee"
+      },
+      {
+         "description" : "Day two of the 2024 Champions Chess Tour Chessable Masters separated 56 advancing players into three divisions. In Division I Placement, the standout was 17-year-old GM Denis &#34;the Menace&#34; Lazavik who defeated GM Hikaru Nakamura 2-0 before also s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-2",
+         "pubDate" : "Thu, 01 Feb 2024 12:41:00",
+         "title" : "Lazavik Beats Nakamura 2-0; Dubov Plays Brilliancy"
       },
       {
          "description" : " The FIDE Qualification Commission has decided to restrict the use of Scheveningen and Schiller format events for earning title norms. The full announcement can be found at <a href=\"https://fide.com/news/2869\">https://fide.com/news/2869</a> As the statement says, the motivation for this decision is mainly about what titles represent. Historically, chess titles were awarded (formally or informally) as a consequence of achievements in important and significant events. I* would like to think this should still be the case, recognising that the growth in chess has lead to a growth in the number of events that may fit this criteria. Nonetheless, I believe that there still should be standards appli",
@@ -650,14 +666,6 @@ news_feed (
          "title" : "Tata Steel Masters 2024: Four in the lead after Round 9"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at the best games from Round 9 of the 2024 Tata Steel Chess Tournament in Wijk aan Zee. 2024.01.23<br /> Nodirbek Abdusattorov vs Jorden van Foreest, Tata Steel Masters (2024): C55 Two knights defence (Modern bishop&#039;s opening)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=2654637\">https://www.chessgames.com/perl/chessgame?gid=2654637</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tata-steel-2024-best",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tata-steel-2024-best-games-today-grandmasters-choice-wgm-thalia-cervantes",
-         "pubDate" : "Tue, 23 Jan 2024 23:54:57",
-         "title" : "Tata Steel 2024: The Best Games Today | Grandmaster's Choice - WGM Thalia Cervantes"
-      },
-      {
          "description" : "The ECF is accepting registrations for the European Schools Championship in Limerick, Ireland between 30 May 08 June 2024. Please click here for the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-7",
          "pubDate" : "Sat, 20 Jan 2024 14:37:00",
          "title" : "Abdusattorov Beats Giri For Shared Lead With Gukesh In Tata Steel Chess Masters"
-      },
-      {
-         "description" : "With the 2024 Candidates Tournament mere months away, GM Hikaru Nakamura has shown no signs of reducing his online tournament participation, taking January&#39;s third Bullet Brawl with a commanding score of 269. Amassing 72 wins in two hours, Nakamur...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-january-20-2024",
-         "pubDate" : "Sat, 20 Jan 2024 14:16:00",
-         "title" : "Nakamura Notches 31-Game Streak In Latest Bullet Brawl Victory"
       },
       {
          "description" : "A few days before an important tournament you realize: shit, I was so sloppy with my training and I'll pay for it. It is a common feeling with exams, big work projects, and chess tournaments. Cramming in the last minute sometimes saves our ass, but it isn't the most effective way to learn. A very []",
