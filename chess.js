@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The pairings of the knockout phase in all three divisions of the Chessable Masters were set up after an exciting day of online-chess action. Most notably, 17-year-old Denis Lazavik defeated Hikaru Nakamura and Anish Giri to reach Division I, while knocking his elite opponents down to Division II. Lazavik will face Maxime Vachier-Lagrave on Friday, while perennial favourite Magnus Carlsen will face the ever-dangerous Wesley So. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d2",
+         "pubDate" : "Fri, 02 Feb 2024 12:10:00",
+         "title" : "Chessable Masters: Lazavik beats Nakamura and Giri"
+      },
+      {
+         "description" : "The history of the Candidates Tournaments and Candidates Matches dates back to 1950. In its anniversary year, FIDE is looking forward to the Candidates Tournaments in Toronto in April 2024 and provides an overview of the history of these competitions. | Photos: Via FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-history-of-the-candidates-from-budapest-1950-to-toronto-2024",
+         "pubDate" : "Fri, 02 Feb 2024 11:28:00",
+         "title" : "FIDE: History of the Candidates: from Budapest (1950) to Toronto (2024)"
+      },
+      {
+         "description" : "In his new Game of the Week show, Merijn van Delft turns his attention to the winner of Wijk: Chinese Grandmaster Wei Yi. Merijn takes a look how Wei Yi used the hidden potential of the seemingly harmless Colle System to win a crucial game against Vidit. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-604-wei-yi-vs-vidit",
+         "pubDate" : "Fri, 02 Feb 2024 11:00:00",
+         "title" : "Game of the Week #604: Wei Yi vs Vidit"
+      },
+      {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 217, is out. Our columnist Nagesh Havanur takes a look. 1582 games (35 annotated), with decisive encounters from the FIDE Grand Swiss deeply annotated. 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Anish Giri, Nordibek Abdusattorov, Ruslan Ponomariov, Vidit Gujrathi and Praggnanandhaa, among others. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-217-review-nagesh-havanur",
+         "pubDate" : "Fri, 02 Feb 2024 09:29:57",
+         "title" : "CBM 217: Surprises galore!"
+      },
+      {
+         "description" : "The Chess Trust is inviting nominations for the BCET Awards 2024 which are for junior schools (including colleges and other education establishments) and junior clubs...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2024/",
+         "pubDate" : "Fri, 02 Feb 2024 09:21:47",
+         "title" : "British Chess Educational Trust Awards 2024"
+      },
+      {
          "description" : " The 24-year-old was a grandmaster at 13 and the youngest ever 2700-rated player at 15, now he has jumped into the world top 10 with a chance to aim for the ultimate peak China's Wei Yi, 24, captured first prize last weekend in a competitive field at Tata Steel Wijk aan Zee, the annual Netherlands tournament known as the \"chess Wimbledon\" due to its ­consistent strength over many decades. Wijk, formerly ­Beverwijk, began in a small way in 1938 and still serves pea soup at its closing ­dinner in memory of its early hungry ­wartime years. At age 13, Wei was already a grandmaster. At 15, he was, and still is, the youngest in chess history to achieve an elite GM 2700 rating. Then he ­plateaued a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -16,14 +56,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carlsen-uses-space-weapon-prepare-pro-gm-denes-boros",
          "pubDate" : "Thu, 01 Feb 2024 21:12:04",
          "title" : "Carlsen Uses Space as a Weapon | Prepare Like A Pro - GM Denes Boros"
-      },
-      {
-         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. On day 2, players fight to reach either of the three kncokout tournaments (Division I, II or III). | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
-         "pubDate" : "Thu, 01 Feb 2024 16:50:00",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : "The 2022/23 Chessable Grand Prix has now completed, covering events from August 2022 to July 2023 with all prize winners announced and all prizes awarded....",
@@ -130,20 +162,20 @@ news_feed (
          "title" : "20th International Solving Contest: Sharing the love for chess art"
       },
       {
+         "description" : "ChessBase Magazine Extra is the ideal supplement to ChessBase Magazine. The new Extra #217 starts the new video series \"Mikhalchishin's Miniatures\" - the first part focusses on the Queen's Gambit Accepted. In addition, Nico Zwirs examines the Najdorf Variation with 6.h3 e5 7.Nf3 Be7 8.g4 b5 in his video contribution. The \"Lucky bag\" this time contains 48 analyses by Anish Giri, Ivan Saric, Samvel Ter-Sahakyan, Romain Edouard, Michal Krasenkow and many others!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-217",
+         "pubDate" : "Thu, 01 Feb 2024 11:00:00",
+         "title" : "New: CBM Extra #217"
+      },
+      {
          "description" : "&#34;Here ye, here ye! Gather round as I tell a tale about the Kingdom Chess App that was just announced!&#34; a wise knight once said. In this app, you can play chess against worthy opponents for gold, battle bots, solve fun missions, and build up YOUR k...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-releases-kingdom-chess-app",
          "pubDate" : "Thu, 01 Feb 2024 08:15:00",
          "title" : "Chess.com Releases Kingdom Chess App"
-      },
-      {
-         "description" : "ChessBase media manager Arne Kaehler comes up with amusing ideas daily. One of these has now been brought to life: The challenge is to study chess using all ChessBase products for at least two hours daily over a month, and to win a tournament as the group's lowest-rated player. Sounds crazy? Perhaps. But what could possibly go wrong when chess is such a delightful activity? In the forthcoming video series, Arne invites you to join his adventure, looking into nearly everything ChessBase offers, learning from chess experts, experiencing ups and downs, and, most importantly, addressing the ultimate question: Will he actually succeed? | Photo: (right) Sandra Schmidt",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/this-is-what-happens-when-you-train-chess-every-day-for-a-month",
-         "pubDate" : "Thu, 01 Feb 2024 07:06:00",
-         "title" : "This is What Happens When You Train Chess Every Day for a Month!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Originally from Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-piece-restriction-puzzlers-paradise-gm-denes-boros-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZB56UffqgOg.jpg?itok=HX6D3pHT\" alt=\"\" /></a></div>",
@@ -168,22 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/blitz-chess-kombat-erik-tkachenko-vs-julian-proleiko",
          "pubDate" : "Thu, 01 Feb 2024 03:11:23",
          "title" : "BLITZ CHESS KOMBAT: Erik Tkachenko vs. Julian Proleiko"
-      },
-      {
-         "description" : "Fritz 19 has opened a whole new area, the ChessBase Cards Exchange. There are now trading cards with motifs and information from many areas of the chess world. Cards can be acquired in various ways and traded on the market: \"Trade corld champion for a stamp...\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/trade-world-champion-for-a-stamp-chessbase-cards",
-         "pubDate" : "Wed, 31 Jan 2024 14:41:41",
-         "title" : "Trade world champion for a stamp: ChessBase Cards"
-      },
-      {
-         "description" : "Today is the 100th anniversary of the death of Curt von Bardeleben. A wealthy privateer, he was one of the best German chess players in the 1880s and 1890s. He lost his fortune during the First World War and fell seriously ill. On 31 January 1924 he fell to his death from a window.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-the-100th-anniversary-of-the-death-of-curt-von-bardeleben",
-         "pubDate" : "Wed, 31 Jan 2024 14:00:00",
-         "title" : "On the 100th anniversary of the death of Curt von Bardeleben"
       },
       {
          "description" : "On his 25th birthday, GM Jose Martinez finished first in the all-GM Play-in of the 2024 Champions Chess Tour Chessable Masters. The penultimate round against GM Hikaru Nakamura was absolutely critical, as the Peruvian GM managed to draw a losing e...",
@@ -226,14 +242,6 @@ news_feed (
          "title" : "Magnus Carlsen and Hans Niemann Play Each Other for the First Time Since Controversy! | #chessnews"
       },
       {
-         "description" : "In the final instalment of the problem-solving experiment, we invited Prof. Dr Vera Spillner to solve the unorthodox chess puzzles, present in the Dec. 31 article! We have already seen a grandmaster, and a former world problem champion solving the problems, so how about a chess amateur and enthusiast? Read on more to find out!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/watch-them-solving-3-vera",
-         "pubDate" : "Tue, 30 Jan 2024 22:00:00",
-         "title" : "Watch them solving (3) - Vera"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -256,6 +264,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2867",
          "pubDate" : "Tue, 30 Jan 2024 17:08:32",
          "title" : "FIDE wins the prestigious Anthem Award for Diversity, Equity & Inclusion"
+      },
+      {
+         "description" : "The series of posts centered on the Yahoo family began inauspiciously with <A HREF=\"https://chessforallages.blogspot.com/2008/04/chess-and-peanuts.html\">Chess and Peanuts</A> (April 2008; Yahoo article 'Writing for Peanuts'). They continued irregularly whenever a Yahoo.com news feed highlighted a story that had something to do with chess. <P> Starting with <A HREF=\"https://chessforallages.blogspot.com/2017/11/october-yahoos.html\">October Yahoos</A> (October 2017), the Yahoos appeared monthly through <A HREF=\"https://chessforallages.blogspot.com/2020/12/a-yahoo-backstory.html\">A Yahoo Backstory</A> (December 2020). Those were wonderful days for the Yahoos -- Covid and Netflix ensured a steady",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/01/rip-yahoos.html",
+         "pubDate" : "Tue, 30 Jan 2024 16:15:00",
+         "title" : "RIP Yahoos"
       },
       {
          "description" : "The Tata Steel Chess Tournament is traditionally the first super-tournament of the year. It&#39;s often packed with top-level clashes, dramatic storylines, and 11th-hour plot twists, but 2024 will certainly remain one of the most memorable years in it...",
@@ -314,14 +330,6 @@ news_feed (
          "title" : "The AI Generator"
       },
       {
-         "description" : "What role do traps play in chess? And what is important for successful trapping? In the current ChessBase Magazine #217, Jan Markos deals with the topic of \"traps\" in his series \"Practical Tips for the Tournament Player\" and works out four rules that you should definitely observe in your own games. We invite you: this week you can download Jan Markos' article - consisting of a video and a small collection of exercises - as a free sample. Directly via your web browser in the new ChessBase Books format. This is because CBM #217 is the first issue to also include full mobile access. So you can read it directly via your web browser on your iPad, tablet or Mac. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-217-now-also-as-an-e-book-for-ipad-tablet-mac-etc-4",
-         "pubDate" : "Mon, 29 Jan 2024 12:00:25",
-         "title" : "New: ChessBase Magazine on iPad"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107233247.cms\" />Grandmaster D Gukesh endured a heartbreak in the final tie-breaker against Wei Yi of China and had to be content with a joint second place finish at the Tata Steel Masters chess tournament. Indian Grandmaster Leon Luke Mendonca, however, won the challengers section, defeating compatriot Divya Deshmukh in the 13th and final round.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -360,14 +368,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-1st-soa-international-grandmasters-chess-festival-2024-category-a-1900-above/",
          "pubDate" : "Sun, 28 Jan 2024 13:23:28",
          "title" : "Live Link for 1st SOA International Grandmasters Chess Festival 2024 # Category 'A' (1900 & Above)"
-      },
-      {
-         "description" : "The 86th edition of the Tata Steel Chess Tournament is taking place on January 13-28 in Wijk aan Zee. Both the Masters and the Challengers 1re 14-player single round-robin events. Ding Liren, the current classical world champion, is the top seed in the Masters, which also features Ju Wenjun, the women's world champion, in the lineup. | Follow the games live with expert commentary starting at 12.00 CET (6.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tata-steel-chess-2024-live",
-         "pubDate" : "Sun, 28 Jan 2024 11:55:00",
-         "title" : "Tata Steel Chess - Live!"
       },
       {
          "description" : " Just spent the last few days watching the 2nd Test Match between Australia and the West Indies. In the end, the West Indies won by 8 runs (which for non cricket fans is a very close result). Having started seriously following cricket from 1974 onwards, I spent most of the first 20 years watching Australia get soundly beaten by the West Indies (1975-76 being the exception). From the late 90's onwards this flipped, with Australia being the dominate team, but as someone who thought Australia ay never win a series against the West Indies, I'm OK with todays result. Well done to the West Indies for a well deserved victory. ",
@@ -466,28 +466,12 @@ news_feed (
          "title" : "From the deathbed of classical chess"
       },
       {
-         "description" : "The Kasparov Chess Foundation Academy has announced an extraordinary bonus for participants of their course! The renowned grandmaster Fabiano Caruana will be sharing his insights and experiences in an exclusive interview conducted by Christian Chirila. Add it to your calendar!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/exclusive-interview-on-kcf-academy",
-         "pubDate" : "Sat, 27 Jan 2024 10:00:00",
-         "title" : "Exclusive interview on KCF Academy"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2862",
          "pubDate" : "Fri, 26 Jan 2024 22:47:09",
          "title" : "Tata Steel Masters 2024: Abdusattorov forges into the lead"
-      },
-      {
-         "description" : "In the recently concluded ChessBase Christmas Composition Contest, we received many entries, and thus the decision-making was much harder! The problems submitted were tested upon the criterion of economy, harmony and aesthetics. We decided to make three articles on it, with the final one being about the prize-winners! Hope you have fun replalying these very nice little puzzles!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-christmas-puzzle-contest-1b",
-         "pubDate" : "Fri, 26 Jan 2024 21:00:00",
-         "title" : "Christmas Puzzle Contest 1 + solutions"
       },
       {
          "description" : " The 31-year-old, who took eight months off due to illness, planned a comeback at the \"chess Wimbledon\" but, with just two weekend rounds left, he is only half a point clear of bottom place Ding Liren's comeback at Tata Steel Wijk aan Zee is in danger of eclipse this weekend as China's world champion, who took eight months off at the start of his reign due to an unspecified illness, has shown only glimpses of his former strength and has often bailed out of battle with routine draws. After 11 of the 13 rounds at the \"chess Wimbledon\", Ding trailed in ninth place with 4.5 points, just a solitary win, seven draws and three defeats. He is behind all five of the candidates who will meet in Toront",
@@ -536,14 +520,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/roy-teymant-oam.html",
          "pubDate" : "Fri, 26 Jan 2024 11:27:00",
          "title" : "Roy Teymant OAM"
-      },
-      {
-         "description" : "How you play chess reflects your actual personality. If you play chess with more timidity and reservation, you're likely a passive person who resorts to a diplomatic approach in the face of conflict. While a person who attacks like Mikhail Tal is likely to confront conflict head-on and rather impulsively. So, to what category do you belong?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aggressive-vs-defensive-openings-chess-and-personality",
-         "pubDate" : "Fri, 26 Jan 2024 08:07:18",
-         "title" : "Aggressive vs. defensive openings: chess and personality"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107153773.cms\" />Indian Grandmaster D Gukesh scored a crushing victory over Alexander Donchenko in the 10th round of Tata Steel Masters Chess on Thursday. This was Gukesh's fifth victory overall in the tournament besides two losses and the Indian moved to 6.5 points out of a possible 10. Uzbek Nodirbek Abdusattarov made sure Gukesh did not figure as the sole leader with a hard-earned victory over Max Warmerdam.",
@@ -1136,14 +1112,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
          "pubDate" : "Fri, 12 Jan 2024 20:45:46",
          "title" : "Chess: Bodhana Sivanandan dazzles at European Women's Blitz Championship"
-      },
-      {
-         "description" : " The first ACT Chess Association event of the year was held at the Canberra Chess Club yesterday evening (11 Jan). The ACT Lightning Championship traditionally starts the chess year in Canberra, and usually attracts a good turnout. The 2024 edition saw 35 players take part, with Harry Press winning with a perfect 9/9. He finished 2 points ahead of Andrew Mather and Willis Lo, with Malik Amer and Jordan Brown a further point back. The time limit of 3m+2s favoured the younger players, although Miles Patterson and Lee Forace flew the flag for the older generation, finishing on 5.5 (+2). The next ACTCA even should be the ACT Teams Championship, which is likely to be held in late February or earl",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/2024-act-lightning-championship.html",
-         "pubDate" : "Fri, 12 Jan 2024 12:23:00",
-         "title" : "2024 ACT Lightning Championship"
       }
    ]
 }
