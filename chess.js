@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Good news for chess fans all over the world, and especially for those in Germany. The largest chess tournament in Europe, the Grenke Open, and the elite Grenke Classic are back. Magnus Carlsen, Ding Liren, Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman will play in the Classic. | Photo: Grenke Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-announcement",
+         "pubDate" : "Fri, 02 Feb 2024 21:10:00",
+         "title" : "Th Grenke Classic returns, with Carlsen and Ding in the lineup"
+      },
+      {
+         "description" : " The Chessable Masters take place Fri 2nd TO Wed 7th Feb 2024. Magnus Carlsen, Wesley So, Maxime Vachier-Lagrave, Denis Lazavik, Ian Nepomniachtchi, Jose Eduardo Martinez Alcantara, Vladimir Fedoseev and Alireza Firouzja are competing for the title in Division 1. There are also Divisions 2 and 3. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2024",
+         "pubDate" : "Fri, 2 Feb 2024 19:17:00",
+         "title" : "Chessable Masters 2024 - Games and Results"
+      },
+      {
          "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 3 sees the start of the knockout phase, with Magnus Carlsen v. Wesley So the marquee match in the Division I quarter-finals. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,28 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Winning with the Portuguese Variation!"
       },
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 217, is out. Our columnist Nagesh Havanur takes a look. 1582 games (35 annotated), with decisive encounters from the FIDE Grand Swiss deeply annotated. 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Anish Giri, Nordibek Abdusattorov, Ruslan Ponomariov, Vidit Gujrathi and Praggnanandhaa, among others. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-217-review-nagesh-havanur",
+         "pubDate" : "Fri, 02 Feb 2024 12:15:00",
+         "title" : "CBM 217: Surprises galore!"
+      },
+      {
          "description" : "The pairings of the knockout phase in all three divisions of the Chessable Masters were set up after an exciting day of online-chess action. Most notably, 17-year-old Denis Lazavik defeated Hikaru Nakamura and Anish Giri to reach Division I, while knocking his elite opponents down to Division II. Lazavik will face Maxime Vachier-Lagrave on Friday, while perennial favourite Magnus Carlsen will face the ever-dangerous Wesley So. | Photo: chess.com / Thomas Tischio",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessable-masters-2024-d2",
          "pubDate" : "Fri, 02 Feb 2024 12:10:00",
          "title" : "Chessable Masters: Lazavik beats Nakamura and Giri"
+      },
+      {
+         "description" : "This is a flash report. The full report will be added to this page soon. GMs Magnus Carlsen, Jose Martinez, Vladimir Fedoseev, and Denis Lazavik won their matches on day three of the 2024 Champions Chess Tour Chessable Masters to stay in the Win...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-3",
+         "pubDate" : "Fri, 02 Feb 2024 11:40:00",
+         "title" : "Flash Report: Lazavik, Martinez, Fedoseev Prevail Against Top-20 Players"
       },
       {
          "description" : "The history of the Candidates Tournaments and Candidates Matches dates back to 1950. In its anniversary year, FIDE is looking forward to the Candidates Tournaments in Toronto in April 2024 and provides an overview of the history of these competitions. | Photos: Via FIDE",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-604-wei-yi-vs-vidit",
          "pubDate" : "Fri, 02 Feb 2024 11:00:00",
          "title" : "Game of the Week #604: Wei Yi vs Vidit"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 217, is out. Our columnist Nagesh Havanur takes a look. 1582 games (35 annotated), with decisive encounters from the FIDE Grand Swiss deeply annotated. 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Anish Giri, Nordibek Abdusattorov, Ruslan Ponomariov, Vidit Gujrathi and Praggnanandhaa, among others. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-217-review-nagesh-havanur",
-         "pubDate" : "Fri, 02 Feb 2024 09:29:57",
-         "title" : "CBM 217: Surprises galore!"
       },
       {
          "description" : "The Chess Trust is inviting nominations for the BCET Awards 2024 which are for junior schools (including colleges and other education establishments) and junior clubs...",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2872",
          "pubDate" : "Thu, 01 Feb 2024 13:46:42",
          "title" : "FIDE February 2024 rating list: Wei Yi debuts in top 10 Open"
-      },
-      {
-         "description" : "The 2024 Chess Olympiad will be held in Budapest from 10 to 23 September. By their very nature, Chess Olympiads are chess festivals that bring together nations, amateurs, professionals, men and women. Hungary is a country with a long and rich chess tradition and the Chess Olympiad 2024 promises to be a chess highlight of 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/budapest-gets-ready-for-the-2024-chess-olympiad",
-         "pubDate" : "Thu, 01 Feb 2024 13:30:00",
-         "title" : "Budapest gets ready for the 2024 Chess Olympiad"
       },
       {
          "description" : " In a very surprising move, chess24.com has begun the process of closing the domain despite a popular following for nearly 10 years. This has been part of an evolution and consolidation after the chess.com and PlayMagnus merger with a diverse portfolio of chess services which also included such brands as New in Chess and Chessable. The post <a href=\"https://www.thechessdrum.net/blog/2024/02/01/chess24-com-shuts-down/\">Chess24.com shuts down!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -808,14 +824,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/abdusattorov-beats-giri-to-transform-the-leader-board-of-the-tata-steel-masters-after-7-rounds",
          "pubDate" : "Sat, 20 Jan 2024 21:02:00",
          "title" : "Abdusattorov beats Giri to transform the leader board of the Tata Steel Masters after 7 rounds - 7"
-      },
-      {
-         "description" : "With six rounds to go, the 2024 Tata Steel Chess Tournament is wide open again after GM Nodirbek Abdusattorov beat GM Anish Giri on Saturday. In doing so, the 19-year-old Uzbek grandmaster caught Giri in first place. Soon after, GM Gukesh Dommaraj...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-7",
-         "pubDate" : "Sat, 20 Jan 2024 14:37:00",
-         "title" : "Abdusattorov Beats Giri For Shared Lead With Gukesh In Tata Steel Chess Masters"
       },
       {
          "description" : "A few days before an important tournament you realize: shit, I was so sloppy with my training and I'll pay for it. It is a common feeling with exams, big work projects, and chess tournaments. Cramming in the last minute sometimes saves our ass, but it isn't the most effective way to learn. A very []",
