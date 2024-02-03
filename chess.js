@@ -34,6 +34,22 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Winning with the Portuguese Variation!"
       },
       {
+         "description" : "The Saint Louis Chess Club has banned GM Hans Niemann for the remainder of 2024, citing alleged inappropriate behavior and damage to private property. The grandmaster has dismissed the accusations as &#34;blatant disinformation.&#34; Edited on 2/2/2024:...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-chess-club-excludes-niemann-for-vandalizing-behavior-rude-comments",
+         "pubDate" : "Fri, 02 Feb 2024 14:07:56",
+         "title" : "Saint Louis Chess Club Excludes Niemann For 'Inappropriate Behavior'"
+      },
+      {
+         "description" : "World Champion GM Ding Liren and World Rapid Champion GM Magnus Carlsen top the field for the GRENKE Chess Classic, which returns March 26-31 after a five-year hiatus. Carlsen will be looking to win a third title to add to his wins in 2015 and 201...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-ding-liren-grenke-chess-classic",
+         "pubDate" : "Fri, 02 Feb 2024 12:34:00",
+         "title" : "Carlsen, Ding To Clash As GRENKE Chess Classic Returns"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 217, is out. Our columnist Nagesh Havanur takes a look. 1582 games (35 annotated), with decisive encounters from the FIDE Grand Swiss deeply annotated. 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Anish Giri, Nordibek Abdusattorov, Ruslan Ponomariov, Vidit Gujrathi and Praggnanandhaa, among others. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,12 +66,12 @@ news_feed (
          "title" : "Chessable Masters: Lazavik beats Nakamura and Giri"
       },
       {
-         "description" : "This is a flash report. The full report will be added to this page soon. GMs Magnus Carlsen, Jose Martinez, Vladimir Fedoseev, and Denis Lazavik won their matches on day three of the 2024 Champions Chess Tour Chessable Masters to stay in the Win...",
+         "description" : "GMs Magnus Carlsen, Jose Martinez, Vladimir Fedoseev, and Denis Lazavik won their matches on day three of the 2024 Champions Chess Tour Chessable Masters to stay in the Winner&#39;s Bracket. In a day of upsets in Division I, Martinez played the Game o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-3",
          "pubDate" : "Fri, 02 Feb 2024 11:40:00",
-         "title" : "Flash Report: Lazavik, Martinez, Fedoseev Prevail Against Top-20 Players"
+         "title" : "Fedoseev, Martinez, Lazavik Prevail Against Top-20 Players"
       },
       {
          "description" : "The history of the Candidates Tournaments and Candidates Matches dates back to 1950. In its anniversary year, FIDE is looking forward to the Candidates Tournaments in Toronto in April 2024 and provides an overview of the history of these competitions. | Photos: Via FIDE",
@@ -810,14 +826,6 @@ news_feed (
          "title" : "Tata Steel Masters 2024: Three-way tie on the top"
       },
       {
-         "description" : "Leonid Ivanovic from Serbia has earned his place in the history books by becoming the first player under the age of nine to defeat a grandmaster in classical chess.&#38;nbsp; The chess world has recently been witnessing a surge in children scoring e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/8-year-old-becomes-youngest-to-beat-grandmaster-in-classical-chess",
-         "pubDate" : "Sun, 21 Jan 2024 07:19:00",
-         "title" : "8-Year-Old Makes History Becoming Youngest To Beat Grandmaster In Classical Chess"
-      },
-      {
          "description" : " Nodirbek Abdusattorov defeated Anish Giri in the seventh round of the Tata Steel Masters to catch the Dutchman in the lead on 4.5 points. Giri was comfortable out of the opening but just one slightly poor move 22...b5?! led to a world of trouble and an eventual loss. Gukesh also caught Giri after a slightly fortunate win against Max Warmerdam following a very late blunder by the Dutchman in a drawn rook and pawn endgame. Vidit was the beneficiary of a single very bad move from Alireza Firouzja in a known position and went on to win in 42 moves. The remaining games were drawn Parham Maghsoodloo against Ian Nepomniachtchi, Praggnanandhaa against Jorden Van Foreest, Alexander Donchenko against",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1112,14 +1120,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/overcome-plateau/",
          "pubDate" : "Sat, 13 Jan 2024 14:00:00",
          "title" : "How To Overcome A Plateau In Chess Improvement"
-      },
-      {
-         "description" : " The English prodigy, eight, totalled 8.5/13 and finished 15th in a field of 105 as well as winning the prize for best junior Bodhana Sivanandan, eight, England's girl prodigy, produced a ­stunningly impressive performance on Friday afternoon at the ­European Women's Blitz Championship in Monaco. She totalled 8.5 points out of 13, finished 15th in a field of 105, won the prize for the best junior, and was the <a href=\"https://chess-results.com/tnr797941.aspx?lan=1&amp;art=9&amp;fed=ENG&amp;turdet=YES&amp;flag=30&amp;snr=44\">top English player</a>. Blitz is three minutes per player for the entire game, plus a two seconds per move increment from move one. Sivanandan <a href=\"https://chess24.co",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/jan/12/ding-liren-will-defend-his-world-chess-crown-fans-dont-need-to-be-worried",
-         "pubDate" : "Fri, 12 Jan 2024 20:45:46",
-         "title" : "Chess: Bodhana Sivanandan dazzles at European Women's Blitz Championship"
       }
    ]
 }
