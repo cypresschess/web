@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 3 sees the start of the knockout phase, with Magnus Carlsen v. Wesley So the marquee match in the Division I quarter-finals. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
+         "pubDate" : "Sat, 03 Feb 2024 16:50:00",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "The Saint Louis Chess Club, the leading private chess institution in the United States, has announced that no invitations will be extended to Hans Niemann to participate in invitational events organized by the club throughout 2024. The club cites Niemann's inappropriate behaviour - including damaging private property and rude comments - as justification for their decision. Niemann has posted a number of posts on X denying the accusations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-banned-stl-2024",
+         "pubDate" : "Sat, 03 Feb 2024 15:40:00",
+         "title" : "Hans Niemann banned from the Saint Louis Chess Club throughout 2024"
+      },
+      {
+         "description" : " Some more drama in the world of chess, with the St Louis Chess Club releasing a statement concerning GM Hans Niemann. Basically it says that due to past behaviour, he is not invited to any events being organised by the St Louis Chess Club for the remainder of 2024. While they did not list the behaviour concerned, Niemann copped to damaging a hotel room while attending a previous event. And while this is a matter between Niemann and the SLCC, one aspect of it did pique my interest. In complaining about his treatment, Niemann remarked that having apologised to the hotel (and paid the cost of damages), he thought he was in the clear. The fact that they did not see it in the same way was someho",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/i-thought-we-were-good.html",
+         "pubDate" : "Sat, 03 Feb 2024 12:57:00",
+         "title" : "I thought we were good"
+      },
+      {
          "description" : "In his new Fast & Furious episode, Robert Ris once again turns his attention to the Tata Steel Tournament 2024 in Wijk aan Zee and analyses a fine and decisive win by Anish Giri in the final round against Max Warmerdam. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -39,7 +63,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grenke-classic-2024-announcement",
          "pubDate" : "Fri, 02 Feb 2024 21:10:00",
-         "title" : "Th Grenke Classic returns, with Carlsen and Ding in the lineup"
+         "title" : "The Grenke Classic returns, with Carlsen and Ding in the lineup"
       },
       {
          "description" : " The Chessable Masters take place Fri 2nd TO Wed 7th Feb 2024. Magnus Carlsen, Wesley So, Maxime Vachier-Lagrave, Denis Lazavik, Ian Nepomniachtchi, Jose Eduardo Martinez Alcantara, Vladimir Fedoseev and Alireza Firouzja are competing for the title in Division 1. There are also Divisions 2 and 3. ",
@@ -82,28 +106,12 @@ news_feed (
          "title" : "CBM 217: Surprises galore!"
       },
       {
-         "description" : "The pairings of the knockout phase in all three divisions of the Chessable Masters were set up after an exciting day of online-chess action. Most notably, 17-year-old Denis Lazavik defeated Hikaru Nakamura and Anish Giri to reach Division I, while knocking his elite opponents down to Division II. Lazavik will face Maxime Vachier-Lagrave on Friday, while perennial favourite Magnus Carlsen will face the ever-dangerous Wesley So. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d2",
-         "pubDate" : "Fri, 02 Feb 2024 12:10:00",
-         "title" : "Chessable Masters: Lazavik beats Nakamura and Giri"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Jose Martinez, Vladimir Fedoseev, and Denis Lazavik won their matches on day three of the 2024 Champions Chess Tour Chessable Masters to stay in the Winner&#39;s Bracket. In a day of upsets in Division I, Martinez played the Game o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-3",
          "pubDate" : "Fri, 02 Feb 2024 11:40:00",
          "title" : "Fedoseev, Martinez, Lazavik Prevail Against Top-20 Players"
-      },
-      {
-         "description" : "The history of the Candidates Tournaments and Candidates Matches dates back to 1950. In its anniversary year, FIDE is looking forward to the Candidates Tournaments in Toronto in April 2024 and provides an overview of the history of these competitions. | Photos: Via FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-history-of-the-candidates-from-budapest-1950-to-toronto-2024",
-         "pubDate" : "Fri, 02 Feb 2024 11:28:00",
-         "title" : "FIDE: History of the Candidates: from Budapest (1950) to Toronto (2024)"
       },
       {
          "description" : "The Chess Trust is inviting nominations for the BCET Awards 2024 which are for junior schools (including colleges and other education establishments) and junior clubs...",
@@ -1112,22 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2839",
          "pubDate" : "Sat, 13 Jan 2024 18:08:39",
          "title" : "Magnus Carlsen withdraws from the Candidates 2024, the spot goes to Nijat Abasov"
-      },
-      {
-         "description" : "I recall the time when I first faced future Grandmaster John Nunn . He was wearing short trousers and his face barely popped up over the board. Here is the critical position from our very first game, played in the 1963 Surrey Junior Championship. Nunn (Black) has two passed pawns as meagre compensation for a []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-strategy-from-nunn-to-nimzowitsch/",
-         "pubDate" : "Sat, 13 Jan 2024 15:10:04",
-         "title" : "Chess strategy from Nunn to Nimzowitsch"
-      },
-      {
-         "description" : "&#8220;After our last session, I had trouble walking straight for 2 days, it felt like I re-lived the symptoms of my Concussion,&#8221; I told my therapists two weeks ago. Her answer? &#8220;Great.&#8221; And Barbara is right. This is great news. For my long-term recovery. As a great therapist, she understands an important mechanism: If you []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/overcome-plateau/",
-         "pubDate" : "Sat, 13 Jan 2024 14:00:00",
-         "title" : "How To Overcome A Plateau In Chess Improvement"
       }
    ]
 }
