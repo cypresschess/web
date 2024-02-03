@@ -42,7 +42,7 @@ news_feed (
          "title" : "It's blitz!"
       },
       {
-         "description" : "It seems that there is a modern fashion for omitting the best lines from stage presentations of the great English classics. Thus my favourite line in Marlow - \"Egregious viceroys of these Eastern parts\" - which ringingly opens his Tamburlaine the Great, Part Two, is now standardly excised from theatrical productions. When the line is []",
+         "description" : "It seems that there is a modern fashion for omitting the best lines from stage presentations of the great English classics. Thus my favourite line in Marlowe - \"Egregious viceroys of these Eastern parts\" - which ringingly opens his Tamburlaine the Great, Part Two, is now standardly excised from theatrical productions. When the line is []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/imperious-chessmen/",
@@ -1112,14 +1112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/tata-steel-2024-opens-with-four-decisive-games-in-the-masters",
          "pubDate" : "Sat, 13 Jan 2024 21:10:00",
          "title" : "Tata Steel 2024 opens with four decisive games in the Masters - 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2839",
-         "pubDate" : "Sat, 13 Jan 2024 18:08:39",
-         "title" : "Magnus Carlsen withdraws from the Candidates 2024, the spot goes to Nijat Abasov"
       }
    ]
 }
