@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Your first task in the diagram position is to save the black queen on a3. And in the end you can even win against Carlsen - have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/it-s-blitz",
+         "pubDate" : "Sat, 03 Feb 2024 09:00:00",
+         "title" : "It's blitz!"
+      },
+      {
+         "description" : "It seems that there is a modern fashion for omitting the best lines from stage presentations of the great English classics. Thus my favourite line in Marlow - \"Egregious viceroys of these Eastern parts\" - which ringingly opens his Tamburlaine the Great, Part Two, is now standardly excised from theatrical productions. When the line is []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/imperious-chessmen/",
+         "pubDate" : "Sat, 03 Feb 2024 07:53:08",
+         "title" : "Imperious chessmen"
+      },
+      {
+         "description" : "Three out of four quarter-finals favoured the lower-rated contender in Division I of the Chessable Masters. Denis Lazavik beat Maxime Vachier-Lagrave, Jose Martinez beat Ian Nepomniachtchi and Vladimir Fedoseev beat Alireza Firouzja. The one match that ended with the rating favourite remaining in the winners' bracket was Magnus Carlsen v. Wesley So, as Carlsen obtained a 2&frac12;-1&frac12; victory. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d3",
+         "pubDate" : "Sat, 03 Feb 2024 06:55:00",
+         "title" : "Chessable Masters: Carlsen beats So, Lazavik and Martinez impress"
+      },
+      {
          "description" : "Good news for chess fans all over the world, and especially for those in Germany. The largest chess tournament in Europe, the Grenke Open, and the elite Grenke Classic are back. Magnus Carlsen, Ding Liren, Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman will play in the Classic. | Photo: Grenke Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +42,6 @@ news_feed (
          "title" : "Chessable Masters 2024 - Games and Results"
       },
       {
-         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 3 sees the start of the knockout phase, with Magnus Carlsen v. Wesley So the marquee match in the Division I quarter-finals. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
-         "pubDate" : "Fri, 02 Feb 2024 16:50:00",
-         "title" : "Chessable Masters - Live!"
-      },
-      {
          "description" : "With the stunning result of 5 out of 5 on board 1, Svitlana participated in the Canadian University Championship! One of her games included the Portuguese Variation in the Scandinavian Opening, which is \"Svitlana's Smart Moves\" most viewed episodes! She won against an FM, and her opponent was almost without a chance. Maybe, this opening is much better, than everybody thought?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-chess-club-excludes-niemann-for-vandalizing-behavior-rude-comments",
-         "pubDate" : "Fri, 02 Feb 2024 14:07:56",
+         "pubDate" : "Fri, 02 Feb 2024 14:07:00",
          "title" : "Saint Louis Chess Club Excludes Niemann For 'Inappropriate Behavior'"
       },
       {
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2871",
          "pubDate" : "Thu, 01 Feb 2024 14:44:07",
          "title" : "Tickets for the 2024 Candidates tournament go on sale"
-      },
-      {
-         "description" : "In the second instalment, we see some more compositions submitted to the Christmas Contest that are worthy of a mention but missed out on the prizes by a whisker! Though some are by beginners, others are by well-seasoned experts. But all problems were evaluated through economy, harmony and aesthetics. Hope you have fun reading these!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christmas-puzzle-contest-2",
-         "pubDate" : "Thu, 01 Feb 2024 14:30:00",
-         "title" : "Christmas Puzzle Contest (2)"
       },
       {
          "description" : "",
