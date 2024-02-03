@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Fast & Furious episode, Robert Ris once again turns his attention to the Tata Steel Tournament 2024 in Wijk aan Zee and analyses a fine and decisive win by Anish Giri in the final round against Max Warmerdam. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-anish-giri-wins-crucial-game",
+         "pubDate" : "Sat, 03 Feb 2024 12:00:00",
+         "title" : "Robert Ris' Fast and Furious: Anish Giri wins crucial game"
+      },
+      {
          "description" : "Your first task in the diagram position is to save the black queen on a3. And in the end you can even win against Carlsen - have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-history-of-the-candidates-from-budapest-1950-to-toronto-2024",
          "pubDate" : "Fri, 02 Feb 2024 11:28:00",
          "title" : "FIDE: History of the Candidates: from Budapest (1950) to Toronto (2024)"
-      },
-      {
-         "description" : "In his new Game of the Week show, Merijn van Delft turns his attention to the winner of Wijk: Chinese Grandmaster Wei Yi. Merijn takes a look how Wei Yi used the hidden potential of the seemingly harmless Colle System to win a crucial game against Vidit. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-604-wei-yi-vs-vidit",
-         "pubDate" : "Fri, 02 Feb 2024 11:00:00",
-         "title" : "Game of the Week #604: Wei Yi vs Vidit"
       },
       {
          "description" : "The Chess Trust is inviting nominations for the BCET Awards 2024 which are for junior schools (including colleges and other education establishments) and junior clubs...",
