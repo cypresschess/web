@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 5 sees the final of the Division I winners' bracket, where Magnus Carlsen will face 17-year-old online-chess specialist Denis Lazavik. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
+         "pubDate" : "Sun, 04 Feb 2024 16:50:00",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 163rd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Vassily Smyslov, the seventh World Champion in the history of chess. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-162-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 04 Feb 2024 15:00:00",
+         "title" : "Understanding before Moving 163: Chess history in a nutshell (44)"
+      },
+      {
          "description" : "In the final round of the Tata Steel Masters, five players started first equal and four of them won. Big pile ups do occur quite often at the end of open Swiss tournaments, but I don't think that I've ever seen this before at the end of a top-class all-play-all. The last round was a fantastic spectacle, so I thought I'd add some of my own observations now, augmented by some incredible moves from our silicon lords and masters. | Photo: Jurriaan Hoefsmit / Tata Steel Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,28 +106,12 @@ news_feed (
          "title" : "Chessable Masters: Carlsen beats So, Lazavik and Martinez impress"
       },
       {
-         "description" : "Good news for chess fans all over the world, and especially for those in Germany. The largest chess tournament in Europe, the Grenke Open, and the elite Grenke Classic are back. Magnus Carlsen, Ding Liren, Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman will play in the Classic. | Photo: Grenke Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-announcement",
-         "pubDate" : "Fri, 02 Feb 2024 21:10:00",
-         "title" : "The Grenke Classic returns, with Carlsen and Ding in the lineup"
-      },
-      {
          "description" : " The Chessable Masters take place Fri 2nd TO Wed 7th Feb 2024. Magnus Carlsen, Wesley So, Maxime Vachier-Lagrave, Denis Lazavik, Ian Nepomniachtchi, Jose Eduardo Martinez Alcantara, Vladimir Fedoseev and Alireza Firouzja are competing for the title in Division 1. There are also Divisions 2 and 3. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2024",
          "pubDate" : "Fri, 2 Feb 2024 19:17:00",
          "title" : "Chessable Masters 2024 - Games and Results"
-      },
-      {
-         "description" : "With the stunning result of 5 out of 5 on board 1, Svitlana participated in the Canadian University Championship! One of her games included the Portuguese Variation in the Scandinavian Opening, which is \"Svitlana's Smart Moves\" most viewed episodes! She won against an FM, and her opponent was almost without a chance. Maybe, this opening is much better, than everybody thought?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-winning-with-the-portuguese-variation",
-         "pubDate" : "Fri, 02 Feb 2024 15:00:00",
-         "title" : "Svitlana's Smart Moves - Winning with the Portuguese Variation!"
       },
       {
          "description" : "The Saint Louis Chess Club has banned GM Hans Niemann for the remainder of 2024, citing alleged inappropriate behavior and damage to private property. The grandmaster has dismissed the accusations as &#34;blatant disinformation.&#34; Edited on 2/2/2024:...",
@@ -1104,14 +1104,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/man-city-and-magnus.html",
          "pubDate" : "Sun, 14 Jan 2024 16:36:00",
          "title" : "Man City and Magnus"
-      },
-      {
-         "description" : " After an extended post-world championship layoff, Ding Liren has returned to international chess. He is taking part in the Tata Steel masters, which began yesterday in The Netherlands. His first round opponent was Vidit (IND), and the game ended in a draw. I'm not sure if there were signs of Ding being a little rusty, as I thought White stood better for a lot of the game, although by the end, a draw was the correct result. Tata Steel is slightly unusual (at least these days) in that the players in the top section aren't all 2800+ GM's. This leads to some more combative games, as even missed half points against the back markers can affect the final outcomes. Curiously, the first round saw 4 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/ding-returns.html",
-         "pubDate" : "Sun, 14 Jan 2024 12:44:00",
-         "title" : "Ding Returns"
       }
    ]
 }
