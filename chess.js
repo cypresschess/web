@@ -26,12 +26,28 @@ news_feed (
          "title" : "Hans Niemann banned from the Saint Louis Chess Club throughout 2024"
       },
       {
+         "description" : "GM Daniel Naroditsky secured $400 and his 11th Bullet Brawl title after scoring 70.5/78 in February&#39;s first edition ahead of 125 other titled players. A race of titanic proportions between Naroditsky and Chess.com&#39;s two highest-rated active bullet...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-february-3-2024",
+         "pubDate" : "Sat, 03 Feb 2024 14:31:00",
+         "title" : "Naroditsky Clinches Bullet Brawl Victory Ahead Of Nakamura"
+      },
+      {
          "description" : " Some more drama in the world of chess, with the St Louis Chess Club releasing a statement concerning GM Hans Niemann. Basically it says that due to past behaviour, he is not invited to any events being organised by the St Louis Chess Club for the remainder of 2024. While they did not list the behaviour concerned, Niemann copped to damaging a hotel room while attending a previous event. And while this is a matter between Niemann and the SLCC, one aspect of it did pique my interest. In complaining about his treatment, Niemann remarked that having apologised to the hotel (and paid the cost of damages), he thought he was in the clear. The fact that they did not see it in the same way was someho",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/02/i-thought-we-were-good.html",
          "pubDate" : "Sat, 03 Feb 2024 12:57:00",
          "title" : "I thought we were good"
+      },
+      {
+         "description" : "GM Magnus Carlsen will play GM Denis Lazavik in the Division I Winners Final of the 2024 Champions Chess Tour Chessable Masters. On day four, they respectively defeated GMs Vladimir Fedoseev and Jose Martinez. In the Losers Bracket of Division I...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-4",
+         "pubDate" : "Sat, 03 Feb 2024 12:48:00",
+         "title" : "Carlsen Reaches Winners Final Vs. Lazavik"
       },
       {
          "description" : "In his new Fast & Furious episode, Robert Ris once again turns his attention to the Tata Steel Tournament 2024 in Wijk aan Zee and analyses a fine and decisive win by Anish Giri in the final round against Max Warmerdam. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -90,12 +106,36 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Winning with the Portuguese Variation!"
       },
       {
+         "description" : "The Saint Louis Chess Club has banned GM Hans Niemann for the remainder of 2024, citing alleged inappropriate behavior and damage to private property. The grandmaster has dismissed the accusations as &#34;blatant disinformation.&#34; Edited on 2/2/2024:...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-chess-club-excludes-niemann-for-vandalizing-behavior-rude-comments",
+         "pubDate" : "Fri, 02 Feb 2024 14:07:00",
+         "title" : "Saint Louis Chess Club Excludes Niemann For 'Inappropriate Behavior'"
+      },
+      {
+         "description" : "World Champion GM Ding Liren and World Rapid Champion GM Magnus Carlsen top the field for the GRENKE Chess Classic, which returns March 26-31 after a five-year hiatus. Carlsen will be looking to win a third title to add to his wins in 2015 and 201...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-ding-liren-grenke-chess-classic",
+         "pubDate" : "Fri, 02 Feb 2024 12:34:00",
+         "title" : "Carlsen, Ding To Clash As GRENKE Chess Classic Returns"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 217, is out. Our columnist Nagesh Havanur takes a look. 1582 games (35 annotated), with decisive encounters from the FIDE Grand Swiss deeply annotated. 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Anish Giri, Nordibek Abdusattorov, Ruslan Ponomariov, Vidit Gujrathi and Praggnanandhaa, among others. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cbm-217-review-nagesh-havanur",
          "pubDate" : "Fri, 02 Feb 2024 12:15:00",
          "title" : "CBM 217: Surprises galore!"
+      },
+      {
+         "description" : "GMs Magnus Carlsen, Jose Martinez, Vladimir Fedoseev, and Denis Lazavik won their matches on day three of the 2024 Champions Chess Tour Chessable Masters to stay in the Winner&#39;s Bracket. In a day of upsets in Division I, Martinez played the Game o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-3",
+         "pubDate" : "Fri, 02 Feb 2024 11:40:00",
+         "title" : "Fedoseev, Martinez, Lazavik Prevail Against Top-20 Players"
       },
       {
          "description" : "The Chess Trust is inviting nominations for the BCET Awards 2024 which are for junior schools (including colleges and other education establishments) and junior clubs...",
@@ -186,12 +226,28 @@ news_feed (
          "title" : "Sohum Lohia in Wijk aan Zee"
       },
       {
+         "description" : "Day two of the 2024 Champions Chess Tour Chessable Masters separated 56 advancing players into three divisions. In Division I Placement, the standout was 17-year-old GM Denis &#34;the Menace&#34; Lazavik who defeated GM Hikaru Nakamura 2-0 before also s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-2",
+         "pubDate" : "Thu, 01 Feb 2024 12:41:00",
+         "title" : "Lazavik Beats Nakamura 2-0; Dubov Plays Brilliancy"
+      },
+      {
          "description" : " The FIDE Qualification Commission has decided to restrict the use of Scheveningen and Schiller format events for earning title norms. The full announcement can be found at <a href=\"https://fide.com/news/2869\">https://fide.com/news/2869</a> As the statement says, the motivation for this decision is mainly about what titles represent. Historically, chess titles were awarded (formally or informally) as a consequence of achievements in important and significant events. I* would like to think this should still be the case, recognising that the growth in chess has lead to a growth in the number of events that may fit this criteria. Nonetheless, I believe that there still should be standards appli",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/02/softly-softly.html",
          "pubDate" : "Thu, 01 Feb 2024 12:26:00",
          "title" : "Softly, softly"
+      },
+      {
+         "description" : "&#34;Here ye, here ye! Gather round as I tell a tale about the Kingdom Chess App that was just announced!&#34; a wise knight once said. In this app, you can play chess against worthy opponents for gold, battle bots, solve fun missions, and build up YOUR k...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-releases-kingdom-chess-app",
+         "pubDate" : "Thu, 01 Feb 2024 08:15:00",
+         "title" : "Chess.com Releases Kingdom Chess App"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Originally from Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-piece-restriction-puzzlers-paradise-gm-denes-boros-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZB56UffqgOg.jpg?itok=HX6D3pHT\" alt=\"\" /></a></div>",
@@ -218,12 +274,36 @@ news_feed (
          "title" : "BLITZ CHESS KOMBAT: Erik Tkachenko vs. Julian Proleiko"
       },
       {
+         "description" : "On his 25th birthday, GM Jose Martinez finished first in the all-GM Play-in of the 2024 Champions Chess Tour Chessable Masters. The penultimate round against GM Hikaru Nakamura was absolutely critical, as the Peruvian GM managed to draw a losing e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-1",
+         "pubDate" : "Wed, 31 Jan 2024 12:53:00",
+         "title" : "Martinez Wins Play-in On His Birthday"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2869",
          "pubDate" : "Wed, 31 Jan 2024 08:40:34",
          "title" : "FIDE Qualification Commission - Policy on Ratings and Titles"
+      },
+      {
+         "description" : "If you&#39;re just starting out with chess, you will blunder your pieces. It&#39;s just a fact of life. But while this is an inevitable part of your chess journey, it doesn&#39;t need to be a permanent one. Avoid the most common beginner mistakes and learn ho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sam-shankland-total-board-vision-chessable-course",
+         "pubDate" : "Wed, 31 Jan 2024 08:00:00",
+         "title" : "Avoid Blunders With Shankland's New Total Board Vision For Beginners Chessable Course"
+      },
+      {
+         "description" : "In a long-awaited moment, GM Magnus Carlsen and GM Hans Niemann have played another game of chess against each other, their first since September 2022. It was an 87-move draw in the early Titled Tuesday event of January 30, won by Carlsen with a 1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-niemann-win-titled-tuesday-january-30-2024",
+         "pubDate" : "Wed, 31 Jan 2024 07:54:00",
+         "title" : "Carlsen, Niemann Tussle Tuesday, Both Win"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 controversy in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-and-hans-niemann-play-each-other-first-time-controversy-chessnews\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
@@ -266,6 +346,14 @@ news_feed (
          "title" : "RIP Yahoos"
       },
       {
+         "description" : "The Tata Steel Chess Tournament is traditionally the first super-tournament of the year. It&#39;s often packed with top-level clashes, dramatic storylines, and 11th-hour plot twists, but 2024 will certainly remain one of the most memorable years in it...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/11-takeaways-from-tata-steel-chess-2024",
+         "pubDate" : "Tue, 30 Jan 2024 13:47:00",
+         "title" : "11 Things We Learned - Tata Steel Chess Tournament 2024"
+      },
+      {
          "description" : " The Gungahlin Chess Club started its first tournaments of the year, with the Ramakrishna Memorial and the Gungahlin Junior Championship running side by side. A total of 44 players turned up to play, which is a good number to start the year. I was called in as the 'house man' for the Ramakrishna Memorial, and got off to a good start, scoring a nice win in 17 moves. After my opponents 8th move, I decided to check out 9.e4 as a response, and having looked at enough lines to convince me it worked, played it. I had calculated that I was better up until around move 14, and when I reached that point, realised I had a pretty quick checkmate, which my opponent kindly let me play on the board. <br />",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -288,6 +376,14 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2024/",
          "pubDate" : "Tue, 30 Jan 2024 07:49:33",
          "title" : "Communique of the ECU Board Meeting - CL No1/2024"
+      },
+      {
+         "description" : "18-year-old rising Indian star IM Divya Deshmukh has boldly called out sexism in the chess world following her participation in Tata Steel Chess, expressing frustration with comments about her appearance. Deshmukh finished 12th with 4.5 points i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/divya-deshmukh-calls-out-sexism-in-chess-after-tata-steel-appearance",
+         "pubDate" : "Tue, 30 Jan 2024 07:31:00",
+         "title" : "Indian Star Deshmukh Calls Out Sexism In Chess World: 'I Have Faced So Much Hatred'"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows one of his games from the 2024 Charlotte Open. 2024.01.30<br /> Julian Proleiko vs. ???, 2024: A01 Nimzovich-Larsen attack, classical variation<br /> Julian Proleiko vs. Dean Ippolito, 2024: A05 Reti, King&#039;s Indian attack<br /> <a href=\"https://lichess.org/broadcast/2024-charlotte-open/round-3/H735B7We/mp6wmMf2\">https://lichess.org/broadcast/2024-charlotte-open/round-3/H735B7We/mp6wmMf2</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"",
@@ -362,6 +458,30 @@ news_feed (
          "title" : "European Youth Classical, Rapid and Blitz Chess Championships 2024 - Official regulations"
       },
       {
+         "description" : "GM Wei Yi became the winner of the 2024 Tata Steel Chess Tournament on Sunday after winning a thrilling four-player tiebreak that also involved GMs Anish Giri, Gukesh Dommaraju, and Nodirbek Abdusattorov. For the first time, Wei entered the world&#39;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-13",
+         "pubDate" : "Sun, 28 Jan 2024 10:19:00",
+         "title" : "Wei Yi Wins 2024 Tata Steel Chess Masters In Thrilling Tiebreak"
+      },
+      {
+         "description" : "IM Veselin Pantev, a prominent figure in the Bulgarian chess community, succumbed to cancer last month, leaving behind his grieving wife, WGM Adriana Nikolova, their 4-year-old daughter, and his other two children.&#38;nbsp;On December 28, at the age ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/im-veselin-pantev-1971-2023-the-greatest-person-ive-ever-met",
+         "pubDate" : "Sun, 28 Jan 2024 09:21:00",
+         "title" : "IM Veselin Pantev (1971-2023): 'The Greatest Person I've Ever Met'"
+      },
+      {
+         "description" : "In the wake of a 2024 Candidates qualification cycle plagued with tumult and controversy, the World Chess Federation (FIDE) has announced new regulations aimed at &#34;enhancing the competitive landscape, encouraging player participation, and ensuring...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-announces-candidates-2026-qualification-changes",
+         "pubDate" : "Sun, 28 Jan 2024 04:58:00",
+         "title" : "FIDE Announces New Qualification Path For 2026 Candidates Tournament"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -384,6 +504,22 @@ news_feed (
          "link" : "https://www.fide.com/news/2863",
          "pubDate" : "Sat, 27 Jan 2024 17:29:04",
          "title" : "Changes to qualification paths for the Candidates Tournament"
+      },
+      {
+         "description" : "GM Hikaru Nakamura secured $400 and his 17th Bullet Brawl title after putting on a tactical exhibition during Saturday&#39;s arena, adding to his Titled Tuesday win earlier in the week. Scoring 67.5/73, Nakamura accrued 246 points and was able to outl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-january-27-2024",
+         "pubDate" : "Sat, 27 Jan 2024 15:05:00",
+         "title" : "Nakamura Wins Bullet Brawl, Tries New 'Alien Gambit'"
+      },
+      {
+         "description" : "After a wild round on Saturday, there is a five-way tie for first place in the Tata Steel Chess Tournament&#39;s Masters group. With GM Vidit Gujrathi, GM Anish Giri, GM Gukesh Dommaraju, GM Nodirbek Abdusattorov, and GM Wei Yi all on 7.5/12, chances ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-12",
+         "pubDate" : "Sat, 27 Jan 2024 14:49:00",
+         "title" : "Tata Steel Chess Masters Wide Open As Vidit Beats Abdusattorov, Becomes India's #1"
       },
       {
          "description" : "You plan a tournament and realize you could play two different sections. The question is: Which section should you play in? Here is how you decide which section to play in without feeling remorse afterward. Pros And Cons In short, the higher-up section is better for your long-term improvement as a player, while the lower []",
@@ -426,12 +562,28 @@ news_feed (
          "title" : "Abdusattorov leads the Tata Steel Masters with 7.5/11 half a point clear of Gukesh - 11"
       },
       {
+         "description" : "CDawgVA, the PogChamps 5 champion, streaming star, and voice actor, is returning to Chess.com... in bot form! The first ever winner of a live PogChamps final, Connor has more than 3.1 million YouTube followers and 1.2 million Twitch followers. He ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-cdawgva-bot",
+         "pubDate" : "Fri, 26 Jan 2024 18:00:35",
+         "title" : "Can You Defeat PogChamps 5 Winner CDawgVA?"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2861",
          "pubDate" : "Fri, 26 Jan 2024 14:51:53",
          "title" : "Announcing winners of FIDE Trainer Awards 2023"
+      },
+      {
+         "description" : "After beating GM Ju Wenjun in round 11, GM Nodirbek Abdusattorov&#38;nbsp;went into the final weekend of the Tata Steel Chess Tournament as the sole leader in the Masters group. A spectacular day of chess saw lots of fascinating games, including a bri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-11",
+         "pubDate" : "Fri, 26 Jan 2024 13:11:00",
+         "title" : "Abdusattorov Sole Leader At Tata Steel Masters; Wei Yi Wins Brilliancy"
       },
       {
          "description" : " Congratulations to Roy Teymant, who has been awarded the Order of Australia Medal, in the 2024 Australia Day Honours. The rather terse entry simply says \"For services to chess\", although it is certainly for more than that. Roy has been a long term organiser in Canberra, particularly with the Canberra Chess Club. When the club was in a bit of a slump, he took on the management role at the club, rebuilding it up to it's former glory. He has also served on the ACT Chess Association Committee for a number of years, assisting the ACTCA in organising various events in the nations capital. I believe Roy is the first local player/organiser to be recognised for work in chess, and it is a well deserv",
@@ -466,6 +618,14 @@ news_feed (
          "title" : "Tata Steel Masters 2024: Gukesh and Abdusattorov forge ahead"
       },
       {
+         "description" : "India&#38;rsquo;s greatest ever chess player, the legendary GM Viswanathan Anand, has signed as a brand ambassador for Chess.com. The five-time world champion will bring his incredible knowledge and experience to the world&#38;rsquo;s biggest chess plat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anand-signs-for-chess-com",
+         "pubDate" : "Wed, 24 Jan 2024 22:41:00",
+         "title" : "Vishy Anand Signs For Chess.com: Legend Brings His Brilliance To Our Broadcasts in 2024"
+      },
+      {
          "description" : " Nodirbek Abdusattorov and D Gukesh have a half point lead over Anish Giri and Praggnanandhaa going into the final rest day. There are three rounds left and it's still all to play for. Nodirbek Abdusattorov had black against Max Warmerdam in a Queen's Gambit Accepted. Yesterday's shocking turn around may well have still been affecting Warmerdam. After 13 moves the game was equal, 23.Ne2 was a clear error in a slightly worse position (23.Nd2) beautifully exploited by Abdusattorov with 24...f4! but the position remained a mess and 31..Bf5? was an error allowing white back into the game with 32.Qe3 and even be better after 35.Bxe4! and then a further blunder 39...Rd6? (39...e4!) left Warmerdam ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -490,6 +650,14 @@ news_feed (
          "title" : "English Championship Series 2024"
       },
       {
+         "description" : "With three rounds to go, GMs Gukesh Dommaraju and Nodirbek Abdusattorov lead&#38;nbsp;the Tata Steel Chess Tournament&#39;s Masters. Whereas Gukesh defeated GM Alexander Donchenko fairly smoothly, Abdusattorov needed over six hours to beat GM Max Warmerda...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-10",
+         "pubDate" : "Wed, 24 Jan 2024 13:30:00",
+         "title" : "Abdusattorov, Gukesh Lead At Tata Steel Chess Masters"
+      },
+      {
          "description" : " While it is certainly harder to play good chess than bad chess, the reasons for being bad at chess do deserve some study. I did see a quote (allegedly from Lasker), about not understanding how people could be bad at chess, but maybe I imagined it. There is a book called \"How Not To Play Chess\" by Zonosko-Borovsky, although his first rule is the rather broad \"Avoid Mistakes\". He does break it down a little, but if I was explaining this concept, I would at least have the following <ul style=\"text-align: left;\"><li>Don't get checkmated</li><li>Don't lose your queen</li><li>Don't lose other pieces</li><li>Don't lose pawns</li><li>Don't try and win by moving the same piece over and over</li></ul",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -512,6 +680,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/troff-crushes-julians-dreams-charlotte-road-2000-nm-julian-proleiko",
          "pubDate" : "Wed, 24 Jan 2024 08:56:22",
          "title" : "Troff Crushes Julian's Dreams in Charlotte | Road to 2000 - NM Julian Proleiko"
+      },
+      {
+         "description" : "GM Hikaru Nakamura and GM Jan-Krzysztof Duda took home Titled Tuesday on January 23 with 9.5 points. After Nakamura held tiebreaks over GM Wesley So and GM Vladimir Fedoseev, Duda became the first outright winner of 2024 (with seven people tied be...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-duda-win-titled-tuesday-january-23-2024",
+         "pubDate" : "Wed, 24 Jan 2024 08:54:00",
+         "title" : "Nakamura Continues Cup Lead With Another Tuesday Win"
       },
       {
          "description" : "The ECU Board meeting on 21st January 2024, &#160;after authorisation by the ECU General Assembly 2023, approved the new ECU Rulebook.&#160;The rules are effective from 1st January 2024.",
@@ -552,6 +728,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/euro-schools-2024/",
          "pubDate" : "Tue, 23 Jan 2024 14:22:06",
          "title" : "Euro Schools 2024"
+      },
+      {
+         "description" : "GMs Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu won their white games in the Tata Steel Chess Tournament&#39;s ninth round to join GMs Anish Giri and Gukesh Dommaraju in the lead. GM Max Warmerdam lost in just about the worst possible way to G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-9",
+         "pubDate" : "Tue, 23 Jan 2024 13:33:00",
+         "title" : "Abdusattorov, Praggnanandhaa Catch Leaders; Warmerdam Suffers Worst Nightmare"
       },
       {
          "description" : "",
