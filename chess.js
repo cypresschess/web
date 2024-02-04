@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Northwest Cup took place for the first time in Oldenburg and then moved to Bad Zwischenahn. This year it celebrated its 25th anniversary. The railway strike in Germany made it difficult for participants to travel to the event, but well over 380 chess enthusiasts made it to the tournament hall, including Bettina Trabert. | Photos: Bettina Trabert",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/nordwest-cup-bad-zwischenahn-2024",
+         "pubDate" : "Sun, 04 Feb 2024 21:00:00",
+         "title" : "Italian one-two in Bad Zwischenahn"
+      },
+      {
          "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 5 sees the final of the Division I winners' bracket, where Magnus Carlsen will face 17-year-old online-chess specialist Denis Lazavik. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Chessable Masters - Live!"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2873",
+         "pubDate" : "Sun, 04 Feb 2024 16:29:01",
+         "title" : "FIDE delegation meets with Pakistan's President and PM"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 163rd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Vassily Smyslov, the seventh World Champion in the history of chess. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-before-moving-162-chess-history-in-a-nutshell-2",
          "pubDate" : "Sun, 04 Feb 2024 15:00:00",
          "title" : "Understanding before Moving 163: Chess history in a nutshell (44)"
+      },
+      {
+         "description" : "This is a flash report. The full report will be added to this page soon. On day five, GM Magnus Carlsen claimed his spot in the Division I Grand Final of the 2024 Champions Chess Tour Chessable Masters. He defeated GM Denis Lazavik 2.5-1.5 in th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-5",
+         "pubDate" : "Sun, 04 Feb 2024 12:08:00",
+         "title" : "Flash Report: Carlsen Reaches Grand Final, Defeats Dark Horse Lazavik"
       },
       {
          "description" : "In the final round of the Tata Steel Masters, five players started first equal and four of them won. Big pile ups do occur quite often at the end of open Swiss tournaments, but I don't think that I've ever seen this before at the end of a top-class all-play-all. The last round was a fantastic spectacle, so I thought I'd add some of my own observations now, augmented by some incredible moves from our silicon lords and masters. | Photo: Jurriaan Hoefsmit / Tata Steel Chess",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://www.thearticle.com/imperious-chessmen/",
          "pubDate" : "Sat, 03 Feb 2024 07:53:08",
          "title" : "Imperious chessmen"
-      },
-      {
-         "description" : "Three out of four quarter-finals favoured the lower-rated contender in Division I of the Chessable Masters. Denis Lazavik beat Maxime Vachier-Lagrave, Jose Martinez beat Ian Nepomniachtchi and Vladimir Fedoseev beat Alireza Firouzja. The one match that ended with the rating favourite remaining in the winners' bracket was Magnus Carlsen v. Wesley So, as Carlsen obtained a 2&frac12;-1&frac12; victory. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d3",
-         "pubDate" : "Sat, 03 Feb 2024 06:55:00",
-         "title" : "Chessable Masters: Carlsen beats So, Lazavik and Martinez impress"
       },
       {
          "description" : " The Chessable Masters take place Fri 2nd TO Wed 7th Feb 2024. Magnus Carlsen, Wesley So, Maxime Vachier-Lagrave, Denis Lazavik, Ian Nepomniachtchi, Jose Eduardo Martinez Alcantara, Vladimir Fedoseev and Alireza Firouzja are competing for the title in Division 1. There are also Divisions 2 and 3. ",
@@ -192,6 +208,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2871",
          "pubDate" : "Thu, 01 Feb 2024 14:44:07",
          "title" : "Tickets for the 2024 Candidates tournament go on sale"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2868",
+         "pubDate" : "Thu, 01 Feb 2024 14:39:44",
+         "title" : "Budapest gets ready for the 2024 Chess Olympiad"
       },
       {
          "description" : "",
@@ -320,14 +344,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/magnus-carlsen-and-hans-niemann-play-each-other-first-time-controversy-chessnews",
          "pubDate" : "Wed, 31 Jan 2024 00:10:45",
          "title" : "Magnus Carlsen and Hans Niemann Play Each Other for the First Time Since Controversy! | #chessnews"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2868",
-         "pubDate" : "Tue, 30 Jan 2024 21:47:44",
-         "title" : "Budapest gets ready for the 2024 Chess Olympiad"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a move or sacrifice. See an example from Kasparov vs. Karpov '90 and also from her own game where Thalia did not commit to a sac, but should have. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commit-sacrifice-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/57TYH2lMzak.jpg?itok",
@@ -738,14 +754,6 @@ news_feed (
          "title" : "Euro Schools 2024"
       },
       {
-         "description" : "GMs Nodirbek Abdusattorov and Praggnanandhaa Rameshbabu won their white games in the Tata Steel Chess Tournament&#39;s ninth round to join GMs Anish Giri and Gukesh Dommaraju in the lead. GM Max Warmerdam lost in just about the worst possible way to G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-9",
-         "pubDate" : "Tue, 23 Jan 2024 13:33:00",
-         "title" : "Abdusattorov, Praggnanandhaa Catch Leaders; Warmerdam Suffers Worst Nightmare"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1088,22 +1096,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/01/14/is-chess-a-life-game/",
          "pubDate" : "Sun, 14 Jan 2024 20:37:37",
          "title" : "Is Chess a \"Life Game\"?"
-      },
-      {
-         "description" : " Alireza Firouzja beat Parham Maghsoodloo in the second round of the Tata Steel Masters and ended up being the only player on 100% after two rounds. It looked to me like Maghsoodloo forgot his theory and was then just lost. There were wins for Gukesh and Max Warmerdam too as the event continues to excite. Praggnanandhaa drew against Abdusattorov, Ding drew against Donchenko, Giri drew against Vidit and the Nepomniachtchi against Ju Wenjun game was the last to finish, also in a draw. Round 2 Standings: 1st Firouzja 2pts 2nd-4th\tGukesh,\tGiri, Nepomniachtchi 1.5pts 5th-10th Warmerdam, Vidit, Praggnanandhaa, Abdusattorov, Wei Yi, Ding Liren 1pt 11th-13th Ju Wenjun. Donchenko, Maghsoodloo 0.5pts ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/firouzja-leads-the-tata-steel-masters-alone-on-22",
-         "pubDate" : "Sun, 14 Jan 2024 18:58:00",
-         "title" : "Firouzja leads the Tata Steel Masters alone on 2/2 - 2"
-      },
-      {
-         "description" : "From Youtube's 'Man City' (Manchester City) channel. For an introduction to the team, see <A HREF=\"https://en.wikipedia.org/wiki/Manchester_City_F.C.\">Manchester City F.C.</A> (wikipedia.org; 'This article is about the men's football club'). <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/S7aRMLJYHqo?si=5WI37UztmLLCjoNt\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>When Geniuses Meet | Pep meets Chess Grandmaster Magnus Carlsen</B> (11:54) &#149; '[Published on] Dec 12, 2023' <P> The description said, <BLOCKQUOTE> A must-watch en",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/man-city-and-magnus.html",
-         "pubDate" : "Sun, 14 Jan 2024 16:36:00",
-         "title" : "Man City and Magnus"
       }
    ]
 }
