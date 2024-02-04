@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the final round of the Tata Steel Masters, five players started first equal and four of them won. Big pile ups do occur quite often at the end of open Swiss tournaments, but I don't think that I've ever seen this before at the end of a top-class all-play-all. The last round was a fantastic spectacle, so I thought I'd add some of my own observations now, augmented by some incredible moves from our silicon lords and masters. | Photo: Jurriaan Hoefsmit / Tata Steel Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-211",
+         "pubDate" : "Sun, 04 Feb 2024 12:00:00",
+         "title" : "Jon Speelman: Five abreast"
+      },
+      {
+         "description" : "Denis Lazavik and Magnus Carlsen advanced to the winners' bracket final in Division I of the Chessable Masters. Lazavik defeated Jose Martinez, while Carlsen got the better of Vladimir Fedoseev. In the losers' bracket, Ian Nepomniachtchi and Vladimir Fedoseev remain in contention, as they knocked out Maxime Vachier-Lagrave and Wesley So respectively. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d4",
+         "pubDate" : "Sun, 04 Feb 2024 09:45:00",
+         "title" : "Chessable Masters: Lazavik to face Carlsen in winners' bracket final"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2860",
          "pubDate" : "Sat, 03 Feb 2024 19:50:05",
          "title" : "14th \"Preparation of Teachers\" course by the FIDE EDU announced"
-      },
-      {
-         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 3 sees the start of the knockout phase, with Magnus Carlsen v. Wesley So the marquee match in the Division I quarter-finals. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
-         "pubDate" : "Sat, 03 Feb 2024 16:50:00",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : "The Saint Louis Chess Club, the leading private chess institution in the United States, has announced that no invitations will be extended to Hans Niemann to participate in invitational events organized by the club throughout 2024. The club cites Niemann's inappropriate behaviour - including damaging private property and rude comments - as justification for their decision. Niemann has posted a number of posts on X denying the accusations.",
@@ -122,14 +130,6 @@ news_feed (
          "title" : "Carlsen, Ding To Clash As GRENKE Chess Classic Returns"
       },
       {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. The latest issue, CBM 217, is out. Our columnist Nagesh Havanur takes a look. 1582 games (35 annotated), with decisive encounters from the FIDE Grand Swiss deeply annotated. 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Anish Giri, Nordibek Abdusattorov, Ruslan Ponomariov, Vidit Gujrathi and Praggnanandhaa, among others. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-217-review-nagesh-havanur",
-         "pubDate" : "Fri, 02 Feb 2024 12:15:00",
-         "title" : "CBM 217: Surprises galore!"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Jose Martinez, Vladimir Fedoseev, and Denis Lazavik won their matches on day three of the 2024 Champions Chess Tour Chessable Masters to stay in the Winner&#39;s Bracket. In a day of upsets in Division I, Martinez played the Game o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -160,6 +160,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carlsen-uses-space-weapon-prepare-pro-gm-denes-boros",
          "pubDate" : "Thu, 01 Feb 2024 21:12:04",
          "title" : "Carlsen Uses Space as a Weapon | Prepare Like A Pro - GM Denes Boros"
+      },
+      {
+         "description" : "The post from earlier this week, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-ai-generator.html\">The AI Generator</A> (January 2024), was no.3700 on this blog, which means it's time for another 'Breaking the Barrier' post. In the previous post for the series, <A HREF=\"https://chessforallages.blogspot.com/2023/04/breaking-3600-barrier.html\">Breaking the 3600 Barrier</A> (April 2023), I wrote, <BLOCKQUOTE> Getting back to the 'CCRL Blitz Rating List' there are currently 17 engines rated over 3600. Based on that same list, it looks like we're already good for a 'Breaking 3700' post seven months (or so) from now, which should have at least two engines. </BLOCKQUOTE> <P> Make that ni",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/02/breaking-3700-barrier.html",
+         "pubDate" : "Thu, 01 Feb 2024 16:32:00",
+         "title" : "Breaking the 3700 Barrier"
       },
       {
          "description" : "The 2022/23 Chessable Grand Prix has now completed, covering events from August 2022 to July 2023 with all prize winners announced and all prizes awarded....",
