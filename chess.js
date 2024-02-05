@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 Sinquefield Cup game in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-hans-niemann-play-each-other-first-time-controversy-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-carlsen-hans-niemann-play-each-other-first-time-controversy-shorts",
+         "pubDate" : "Mon, 05 Feb 2024 06:16:24",
+         "title" : "Magnus Carlsen & Hans Niemann Play Each Other for the First Time Since Controversy! | #Shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Originally from Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/turn-your-chess-engines-puzzlers-paradise-gm-denes-boros-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4hERI7T6uUs.jpg?itok=nshETOgC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/turn-your-chess-engines-puzzlers-paradise-gm-denes-boros-shorts",
+         "pubDate" : "Mon, 05 Feb 2024 06:16:24",
+         "title" : "Turn Off Your Chess Engines! | Puzzler's Paradise with GM Denes Boros | #Shorts"
+      },
+      {
          "description" : "The Northwest Cup took place for the first time in Oldenburg and then moved to Bad Zwischenahn. This year it celebrated its 25th anniversary. The railway strike in Germany made it difficult for participants to travel to the event, but well over 380 chess enthusiasts made it to the tournament hall, including Bettina Trabert. | Photos: Bettina Trabert",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -698,14 +714,6 @@ news_feed (
          "title" : "FIDE Trainers Online Seminar 2024 announced"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows his game against GM Kayden Troff from the 2024 Charlotte Open. 2024.01.23<br /> Kayden Troff vs. Julian Proleiko, 2024: A04 Reti opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/troff-crushes-julians-dreams-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lIB7WoMBgHw.jpg?itok=t9rWUeaR\" alt=\"\" /></a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/troff-crushes-julians-dreams-charlotte-road-2000-nm-julian-proleiko",
-         "pubDate" : "Wed, 24 Jan 2024 08:56:22",
-         "title" : "Troff Crushes Julian's Dreams in Charlotte | Road to 2000 - NM Julian Proleiko"
-      },
-      {
          "description" : "GM Hikaru Nakamura and GM Jan-Krzysztof Duda took home Titled Tuesday on January 23 with 9.5 points. After Nakamura held tiebreaks over GM Wesley So and GM Vladimir Fedoseev, Duda became the first outright winner of 2024 (with seven people tied be...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/all-three-indians-strong-enough-to-win-viswanathan-anand/articleshow/107099722.cms",
          "pubDate" : "Wed, 24 Jan 2024 03:57:56",
          "title" : "All three Indians strong enough to win: Viswanathan Anand"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes looks at the best games from Round 9 of the 2024 Tata Steel Chess Tournament in Wijk aan Zee. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tata-steel-2024-round-9s-best-games-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wc98oAOaGoQ.jpg?itok=SjaY1aW0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tata-steel-2024-round-9s-best-games-grandmasters-choice-wgm-thalia-cervantes",
-         "pubDate" : "Wed, 24 Jan 2024 02:55:10",
-         "title" : "Tata Steel 2024: Round 9's Best Games | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
          "description" : "",
