@@ -26,6 +26,14 @@ news_feed (
          "title" : "2024 O2C Doeberl Cup - Choosing your section"
       },
       {
+         "description" : "This is a flash report. The full report will be added soon. GM Alireza Firouzja will face GM Magnus Carlsen in the Grand Final of the 2024 Champions Chess Tour Chessable Masters. On Monday, the French number-one defeated GM Ian Nepomniachtchi by...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-6",
+         "pubDate" : "Mon, 05 Feb 2024 12:04:00",
+         "title" : "Flash Report: Firouzja To Play Carlsen In Grand Final"
+      },
+      {
          "description" : "To get active play and fresh positions against the Catalan, you have to come up with something. GM Yago Santiago succeeded in doing just that in his search for his own Black repertoire. Already with the fourth move - 4...Nc6!? - Black steers the game into largely unexplored territory, and after 5.Bg2 Bde6!? 6.0-0 0-0 the starting position of his analysis in ChessBase Magazine #217 is reached. You are invited again this week: Have a look at the article with all our author's analyses as a free reading sample - directly via your web browser in the new ChessBase Books format. CBM #217 is the first issue to include full mobile access. So, you can load it directly in your web browser on your iPad,",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -706,14 +714,6 @@ news_feed (
          "title" : "English Championship Series 2024"
       },
       {
-         "description" : "With three rounds to go, GMs Gukesh Dommaraju and Nodirbek Abdusattorov lead&#38;nbsp;the Tata Steel Chess Tournament&#39;s Masters. Whereas Gukesh defeated GM Alexander Donchenko fairly smoothly, Abdusattorov needed over six hours to beat GM Max Warmerda...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-10",
-         "pubDate" : "Wed, 24 Jan 2024 13:30:00",
-         "title" : "Abdusattorov, Gukesh Lead At Tata Steel Chess Masters"
-      },
-      {
          "description" : " While it is certainly harder to play good chess than bad chess, the reasons for being bad at chess do deserve some study. I did see a quote (allegedly from Lasker), about not understanding how people could be bad at chess, but maybe I imagined it. There is a book called \"How Not To Play Chess\" by Zonosko-Borovsky, although his first rule is the rather broad \"Avoid Mistakes\". He does break it down a little, but if I was explaining this concept, I would at least have the following <ul style=\"text-align: left;\"><li>Don't get checkmated</li><li>Don't lose your queen</li><li>Don't lose other pieces</li><li>Don't lose pawns</li><li>Don't try and win by moving the same piece over and over</li></ul",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1048,14 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2844",
          "pubDate" : "Mon, 15 Jan 2024 23:11:25",
          "title" : "Tata Steel Masters 2024: Giri joins Firouzja in the lead"
-      },
-      {
-         "description" : " Anish Giri joined Alireza Firouzja in the lead by beating Alexander Donchenko with the black pieces using the Modern Defence. 17.Nd4 (17.Nd2) seemed to hand Giri a little initiative, 30.Rd3 (30.cxd5) gave ground but it was 35.Qd3? that led to the loss on move 41. Jorden van Foreest also used the Modern with black against Ju Wenjun, black got to be better but it was the sequence 32...Nd4 (32...Nf4 was better) 33.f6? (33.Rxd4 was a better try) 33...Bxe5 led to the win for Van Foreest. Ding Liren scored his first win with black in a manoeuvring Two Knights/Giuoco Piano with 4.d3 against Gukesh. 19.Rd2?! (19.Bd3!) seemed a misstep and 24.Re3 (24.Rxe8) appears to be the decisive error with Ding ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/giri-joins-firouzja-in-the-lead-of-the-tata-steel-masters-on-2.53",
-         "pubDate" : "Mon, 15 Jan 2024 19:23:00",
-         "title" : "Giri joins Firouzja in the lead of the Tata Steel Masters on 2.5/3 - 3"
       }
    ]
 }
