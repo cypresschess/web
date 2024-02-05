@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "To get active play and fresh positions against the Catalan, you have to come up with something. GM Yago Santiago succeeded in doing just that in his search for his own Black repertoire. Already with the fourth move - 4...Nc6!? - Black steers the game into largely unexplored territory, and after 5.Bg2 Bde6!? 6.0-0 0-0 the starting position of his analysis in ChessBase Magazine #217 is reached. You are invited again this week: Have a look at the article with all our author's analyses as a free reading sample - directly via your web browser in the new ChessBase Books format. CBM #217 is the first issue to include full mobile access. So, you can load it directly in your web browser on your iPad,",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-217-now-also-as-an-e-book-for-ipad-tablet-mac-etc-5",
+         "pubDate" : "Mon, 05 Feb 2024 11:32:01",
+         "title" : "CBM #217 - Now also for iPad, tablet, Mac etc."
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 Sinquefield Cup game in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-hans-niemann-play-each-other-first-time-controversy-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/turn-your-chess-engines-puzzlers-paradise-gm-denes-boros-shorts",
          "pubDate" : "Mon, 05 Feb 2024 06:16:24",
          "title" : "Turn Off Your Chess Engines! | Puzzler's Paradise with GM Denes Boros | #Shorts"
+      },
+      {
+         "description" : "On Friday, February 2, 2024, the legendary chess player Mian Sultan Khan (1903-1966) was posthumously awarded the honorary grandmaster title. FIDE President Arkady Dvorkovich presented the award to caretaker Prime Minister of Pakistan Anwaar-ul-Ha...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/honorary-grandmaster-title-posthumously-awarded-to-sultan-khan",
+         "pubDate" : "Mon, 05 Feb 2024 03:34:59",
+         "title" : "Honorary Grandmaster Title Posthumously Awarded To Sultan Khan"
       },
       {
          "description" : "The Northwest Cup took place for the first time in Oldenburg and then moved to Bad Zwischenahn. This year it celebrated its 25th anniversary. The railway strike in Germany made it difficult for participants to travel to the event, but well over 380 chess enthusiasts made it to the tournament hall, including Bettina Trabert. | Photos: Bettina Trabert",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-anish-giri-wins-crucial-game",
          "pubDate" : "Sat, 03 Feb 2024 12:00:00",
          "title" : "Robert Ris' Fast and Furious: Anish Giri wins crucial game"
-      },
-      {
-         "description" : "Your first task in the diagram position is to save the black queen on a3. And in the end you can even win against Carlsen - have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/it-s-blitz",
-         "pubDate" : "Sat, 03 Feb 2024 09:00:00",
-         "title" : "It's blitz!"
       },
       {
          "description" : "It seems that there is a modern fashion for omitting the best lines from stage presentations of the great English classics. Thus my favourite line in Marlowe - \"Egregious viceroys of these Eastern parts\" - which ringingly opens his Tamburlaine the Great, Part Two, is now standardly excised from theatrical productions. When the line is []",
@@ -714,14 +722,6 @@ news_feed (
          "title" : "FIDE Trainers Online Seminar 2024 announced"
       },
       {
-         "description" : "GM Hikaru Nakamura and GM Jan-Krzysztof Duda took home Titled Tuesday on January 23 with 9.5 points. After Nakamura held tiebreaks over GM Wesley So and GM Vladimir Fedoseev, Duda became the first outright winner of 2024 (with seven people tied be...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-duda-win-titled-tuesday-january-23-2024",
-         "pubDate" : "Wed, 24 Jan 2024 08:54:00",
-         "title" : "Nakamura Continues Cup Lead With Another Tuesday Win"
-      },
-      {
          "description" : "The ECU Board meeting on 21st January 2024, &#160;after authorisation by the ECU General Assembly 2023, approved the new ECU Rulebook.&#160;The rules are effective from 1st January 2024.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2842",
          "pubDate" : "Mon, 15 Jan 2024 12:48:24",
          "title" : "European Women's Rapid and Blitz Championship 2023: Alexandra Kosteniuk wins double gold"
-      },
-      {
-         "description" : "European Women's Rapid and Blitz Chess Championship 2023 took place from 11-15 January 2024 in Monte-Carlo, Monaco, gathering 120 players from 26 European federations. Alexandra Kosteniuk emerged as the Winner of both Rapid and Blitz tournaments, taking the historical double gold. European Women's Blitz Chess Championship 2023 was played on 12th of January, with 13 single rounds (swiss system). Heading into the last round of the Blitz Championship, Alexandra Kosteniuk had a sole lead, being a whole point ahead of []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/alexandra-kosteniuk-wins-double-gold-at-european-womens-rapid-blitz-chess-championship-2023/",
-         "pubDate" : "Mon, 15 Jan 2024 11:20:13",
-         "title" : "Alexandra Kosteniuk wins double gold at European Women's Rapid & Blitz Chess Championship 2023"
       }
    ]
 }
