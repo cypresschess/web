@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There are now only 8 weeks to go before the 2024 O2C Doeberl Cup. At this stage there are 154 entries across all the divisions, which is 37 more than this stage last year. While the tournament format is the same as last year (except for an additional Under 1600 Lightning event on Saturday evening), there is one change that players might not be aware of. Although the rating cutoffs are unchanged, FIDE is giving all players rated under 2000 a one off rating boost on the 1st March. This means that players who would normally not have a high enough rating to qualify for a section may now do so, based on their FIDE rating. To make it clear, the rating cutoffs for the various sections will not be ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/2024-o2c-doeberl-cup-choosing-your.html",
+         "pubDate" : "Mon, 05 Feb 2024 12:36:00",
+         "title" : "2024 O2C Doeberl Cup - Choosing your section"
+      },
+      {
          "description" : "To get active play and fresh positions against the Catalan, you have to come up with something. GM Yago Santiago succeeded in doing just that in his search for his own Black repertoire. Already with the fourth move - 4...Nc6!? - Black steers the game into largely unexplored territory, and after 5.Bg2 Bde6!? 6.0-0 0-0 the starting position of his analysis in ChessBase Magazine #217 is reached. You are invited again this week: Have a look at the article with all our author's analyses as a free reading sample - directly via your web browser in the new ChessBase Books format. CBM #217 is the first issue to include full mobile access. So, you can load it directly in your web browser on your iPad,",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/honorary-grandmaster-title-posthumously-awarded-to-sultan-khan",
-         "pubDate" : "Mon, 05 Feb 2024 03:34:59",
+         "pubDate" : "Mon, 05 Feb 2024 03:34:00",
          "title" : "Honorary Grandmaster Title Posthumously Awarded To Sultan Khan"
       },
       {
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2843",
          "pubDate" : "Mon, 15 Jan 2024 14:44:18",
          "title" : "FIDE publishes the regulations for 2024 World Candidates Tournaments"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2842",
-         "pubDate" : "Mon, 15 Jan 2024 12:48:24",
-         "title" : "European Women's Rapid and Blitz Championship 2023: Alexandra Kosteniuk wins double gold"
       }
    ]
 }
