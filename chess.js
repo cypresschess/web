@@ -34,12 +34,12 @@ news_feed (
          "title" : "Understanding before Moving 163: Chess history in a nutshell (44)"
       },
       {
-         "description" : "This is a flash report. The full report will be added to this page soon. On day five, GM Magnus Carlsen claimed his spot in the Division I Grand Final of the 2024 Champions Chess Tour Chessable Masters. He defeated GM Denis Lazavik 2.5-1.5 in th...",
+         "description" : "On day five, GM Magnus Carlsen claimed his spot in the Grand Final of the 2024 Champions Chess Tour Chessable Masters. He defeated GM Denis Lazavik 2.5-1.5 in the Winners Final on Sunday.&#38;nbsp; In the Division I Losers Quarterfinals, the favorit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-5",
          "pubDate" : "Sun, 04 Feb 2024 12:08:00",
-         "title" : "Flash Report: Carlsen Reaches Grand Final, Defeats Dark Horse Lazavik"
+         "title" : "Carlsen Reaches Grand Final, Defeats Dark Horse Lazavik"
       },
       {
          "description" : "In the final round of the Tata Steel Masters, five players started first equal and four of them won. Big pile ups do occur quite often at the end of open Swiss tournaments, but I don't think that I've ever seen this before at the end of a top-class all-play-all. The last round was a fantastic spectacle, so I thought I'd add some of my own observations now, augmented by some incredible moves from our silicon lords and masters. | Photo: Jurriaan Hoefsmit / Tata Steel Chess",
@@ -1080,22 +1080,6 @@ news_feed (
          "link" : "https://www.europechess.org/alexandra-kosteniuk-wins-double-gold-at-european-womens-rapid-blitz-chess-championship-2023/",
          "pubDate" : "Mon, 15 Jan 2024 11:20:13",
          "title" : "Alexandra Kosteniuk wins double gold at European Women's Rapid & Blitz Chess Championship 2023"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2841",
-         "pubDate" : "Sun, 14 Jan 2024 22:26:42",
-         "title" : "Tata Steel Masters 2024: Firouzja grabs the lead"
-      },
-      {
-         "description" : " The African-American Chess Association (Facebook) recently posted a podcast conversation of hip-hop artists discussing chess. Chess and hip-hop have a long history and are heard in many classic songs. Young Guru (Gimel Keaton) weighed in on whether chess is a metaphor for life or if it is a strategy game. A short, but spirited debate The post <a href=\"https://www.thechessdrum.net/blog/2024/01/14/is-chess-a-life-game/\">Is Chess a &#8220;Life Game&#8221;?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/01/14/is-chess-a-life-game/",
-         "pubDate" : "Sun, 14 Jan 2024 20:37:37",
-         "title" : "Is Chess a \"Life Game\"?"
       }
    ]
 }
