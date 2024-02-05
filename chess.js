@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 6 sees the semi-finals and the final of the losers' bracket in Division I. Ian Nepomniachtchi, Alireza Firouza and Denis Lazavik will fight for the right to face Magnus Carlsen in the Grand Final. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
+         "pubDate" : "Mon, 05 Feb 2024 16:50:00",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : "Magnus Carlsen advanced to the Grand Final of the Chessable Masters by beating young star Denis Lazavik in a hard-fought match. Lazavik will face either Alireza Firouzja or Ian Nepomniachtchi in the final of the losers' bracket to decide who gets to challenge Carlsen in Wednesday's deciding match. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d5",
+         "pubDate" : "Mon, 05 Feb 2024 16:20:00",
+         "title" : "Chessable Masters: Carlsen beats Lazavik, advances to Grand Final"
+      },
+      {
          "description" : " There are now only 8 weeks to go before the 2024 O2C Doeberl Cup. At this stage there are 154 entries across all the divisions, which is 37 more than this stage last year. While the tournament format is the same as last year (except for an additional Under 1600 Lightning event on Saturday evening), there is one change that players might not be aware of. Although the rating cutoffs are unchanged, FIDE is giving all players rated under 2000 a one off rating boost on the 1st March. This means that players who would normally not have a high enough rating to qualify for a section may now do so, based on their FIDE rating. To make it clear, the rating cutoffs for the various sections will not be ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/nordwest-cup-bad-zwischenahn-2024",
          "pubDate" : "Sun, 04 Feb 2024 21:00:00",
          "title" : "Italian one-two in Bad Zwischenahn"
-      },
-      {
-         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 5 sees the final of the Division I winners' bracket, where Magnus Carlsen will face 17-year-old online-chess specialist Denis Lazavik. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
-         "pubDate" : "Sun, 04 Feb 2024 16:50:00",
-         "title" : "Chessable Masters - Live!"
       },
       {
          "description" : "",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-4",
          "pubDate" : "Sat, 03 Feb 2024 12:48:00",
          "title" : "Carlsen Reaches Winners Final Vs. Lazavik"
-      },
-      {
-         "description" : "In his new Fast & Furious episode, Robert Ris once again turns his attention to the Tata Steel Tournament 2024 in Wijk aan Zee and analyses a fine and decisive win by Anish Giri in the final round against Max Warmerdam. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-anish-giri-wins-crucial-game",
-         "pubDate" : "Sat, 03 Feb 2024 12:00:00",
-         "title" : "Robert Ris' Fast and Furious: Anish Giri wins crucial game"
       },
       {
          "description" : "It seems that there is a modern fashion for omitting the best lines from stage presentations of the great English classics. Thus my favourite line in Marlowe - \"Egregious viceroys of these Eastern parts\" - which ringingly opens his Tamburlaine the Great, Part Two, is now standardly excised from theatrical productions. When the line is []",
@@ -1056,22 +1056,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/giri-joins-firouzja-in-the-lead-of-the-tata-steel-masters-on-2.53",
          "pubDate" : "Mon, 15 Jan 2024 19:23:00",
          "title" : "Giri joins Firouzja in the lead of the Tata Steel Masters on 2.5/3 - 3"
-      },
-      {
-         "description" : "A week ago I started a new Monday series requiring two artistic talents which I lack completely: story telling and illustrating. In that post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-chess-village.html\">The Chess Village</A> (January 2024), I wrote, <BLOCKQUOTE> The story starts in the Catskill mountains, in a village where almost everyone plays chess. </BLOCKQUOTE> <P> This is the second installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa15.jpg\" WIDTH=335 HEIGHT=400> <P> Some say that the villagers' interest in chess stems from the presence of an unusual man who arrived in the village at some time in the recent past. He has two distinguishing cha",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/the-village-wizard.html",
-         "pubDate" : "Mon, 15 Jan 2024 16:11:00",
-         "title" : "The Village Wizard"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2843",
-         "pubDate" : "Mon, 15 Jan 2024 14:44:18",
-         "title" : "FIDE publishes the regulations for 2024 World Candidates Tournaments"
       }
    ]
 }
