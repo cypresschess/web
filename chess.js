@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 7 sees the Grand Finals in Division II (Vincent Keymer v. Levon Aronian) and Division III (Alexander Grischuk v. Alexey Sarana). | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
+         "pubDate" : "Tue, 06 Feb 2024 16:50:00",
+         "title" : "Chessable Masters - Live!"
+      },
+      {
+         "description" : " During this Black History Month 2024, The Chess Drum will present four videos featuring puzzles of several of the chess masters in the Black Diaspora. The videos will provide some historical information about each player and then one of the puzzles from a tournament game. Most of these puzzles were featured in one of the The post <a href=\"https://www.thechessdrum.net/blog/2024/02/06/black-history-month-2024-tribute-week-1/\">Black History Month 2024 Tribute: Week 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/02/06/black-history-month-2024-tribute-week-1/",
+         "pubDate" : "Tue, 06 Feb 2024 15:39:50",
+         "title" : "Black History Month 2024 Tribute: Week 1"
+      },
+      {
          "description" : "Winning at chess is hard work. It is difficult and it costs a lot of energy. Especially calculation. Therefore, it is no surprise that our brains and minds are trying to find all the possible shortcuts. Sometimes, avoiding hard work equals being practical. However, often it is simply laziness. We are often being lazy, and we don&acute;t have enough willpower to force our minds into exact calculation. And thus, we often play a move that looks good, instead of looking for one that actually is the best. | Photo: RalfDesign, Pixabay.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/honorary-grandmaster-title-posthumously-awarded-to-sultan-khan",
          "pubDate" : "Mon, 05 Feb 2024 03:34:00",
          "title" : "Honorary Grandmaster Title Posthumously Awarded To Sultan Khan"
-      },
-      {
-         "description" : "The Northwest Cup took place for the first time in Oldenburg and then moved to Bad Zwischenahn. This year it celebrated its 25th anniversary. The railway strike in Germany made it difficult for participants to travel to the event, but well over 380 chess enthusiasts made it to the tournament hall, including Bettina Trabert. | Photos: Bettina Trabert",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/nordwest-cup-bad-zwischenahn-2024",
-         "pubDate" : "Sun, 04 Feb 2024 21:00:00",
-         "title" : "Italian one-two in Bad Zwischenahn"
       },
       {
          "description" : "The best items featured on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) are those that lead to other avenues of inquiry: 'What is this?' and 'What is that?' The item pictured below was titled 'Piggybanx Tom Brady Refractor 1/1 Chess Not Checkers Patriots'. It sold 'Pre-Owned' for $600.00 or 'Best Offer'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob04.jpg\" WIDTH=265 HEIGHT=400> <P> The description of the item added only, <BLOCKQUOTE> Piggybanx Tom Brady 1/1 Refractor. It is missing one screw for the box; it came that way. Otherwise a very nice card. </BLOCKQUOTE> <P> 'Tom Brady' is",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/anish-giri-leads-the-tata-steel-masters-alone-on-3.54-going-into-the-first-rest-day",
          "pubDate" : "Tue, 16 Jan 2024 22:42:00",
          "title" : "Anish Giri leads the Tata Steel Masters alone on 3.5/4 going into the first rest day - 4"
-      },
-      {
-         "description" : " Another round of Tata Steel, another set of wins for Black. If I can count correctly, there have been 10 black wins and only 1 white win over the first 21 games. Is it because White is over pressing? Have a lot of White opening lines been sorted out? or just a quirk in the pairings? <br /> <b>Donchenko,Alexander (2643) - Giri,Anish (2749) [E60]</b><br /> Tata Steel Masters 2024 Wijk aan Zee, Netherlands (3.2), 15.01.2024 <script> new PgnViewer( { boardName: \"game1438\", movesFormat: \"default\", pgnString:'1.d4 d6 2.Nf3 Nf6 3.g3 g6 4.Bg2 Bg7 5.c4 Bf5 6.Qb3 Qc8 7.Nc3 Nc6 8.d5 Nd8 9.O-O O-O 10.Re1 Ne4 11.Nxe4 Bxe4 12.Bd2 b6 13.Bc3 e5 14.dxe6 Nxe6 15.Bxg7 Kxg7 16.Qc3+ Kg8 17.Nd4 Bxg2 18.Kxg2 Ng5 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/black-is-more-than-ok.html",
-         "pubDate" : "Tue, 16 Jan 2024 12:37:00",
-         "title" : "Black is more than OK"
       }
    ]
 }
