@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 6 sees the semi-finals and the final of the losers' bracket in Division I. Ian Nepomniachtchi, Alireza Firouza and Denis Lazavik will fight for the right to face Magnus Carlsen in the Grand Final. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "description" : "Alireza Firouzja took down Ian Nepomniachtchi and Denis Lazavik in back-to-back matches to reach the Grand Final in Division I of the Chessable Masters. Firouzja will get a rest day before facing Carlsen in Wednesday's showdown. Tuesday will see the Grand Finals in Division II (Vincent Keymer v. Levon Aronian) and Division III (Alexander Grischuk v. Alexey Sarana). | Photo: Alireza Firouzja's X account",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
-         "pubDate" : "Mon, 05 Feb 2024 16:50:00",
-         "title" : "Chessable Masters - Live!"
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d6",
+         "pubDate" : "Mon, 05 Feb 2024 23:10:00",
+         "title" : "Chessable Masters: Firouzja sets up showdown against Carlsen"
       },
       {
-         "description" : "Magnus Carlsen advanced to the Grand Final of the Chessable Masters by beating young star Denis Lazavik in a hard-fought match. Lazavik will face either Alireza Firouzja or Ian Nepomniachtchi in the final of the losers' bracket to decide who gets to challenge Carlsen in Wednesday's deciding match. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d5",
-         "pubDate" : "Mon, 05 Feb 2024 16:20:00",
-         "title" : "Chessable Masters: Carlsen beats Lazavik, advances to Grand Final"
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows two of his games in this third lecture from the 2024 Charlotte Open. 2024.02.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-two-draws-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4O7UFy-aQc.jpg?itok=_cPEMS55\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/julians-two-draws-charlotte-road-2000-nm-julian-proleiko",
+         "pubDate" : "Mon, 05 Feb 2024 21:16:48",
+         "title" : "Julian's Two Draws at Charlotte | Road to 2000 - NM Julian Proleiko"
       },
       {
          "description" : " There are now only 8 weeks to go before the 2024 O2C Doeberl Cup. At this stage there are 154 entries across all the divisions, which is 37 more than this stage last year. While the tournament format is the same as last year (except for an additional Under 1600 Lightning event on Saturday evening), there is one change that players might not be aware of. Although the rating cutoffs are unchanged, FIDE is giving all players rated under 2000 a one off rating boost on the 1st March. This means that players who would normally not have a high enough rating to qualify for a section may now do so, based on their FIDE rating. To make it clear, the rating cutoffs for the various sections will not be ",
@@ -26,12 +26,12 @@ news_feed (
          "title" : "2024 O2C Doeberl Cup - Choosing your section"
       },
       {
-         "description" : "This is a flash report. The full report will be added soon. GM Alireza Firouzja will face GM Magnus Carlsen in the Grand Final of the 2024 Champions Chess Tour Chessable Masters. On Monday, the French number-one defeated GM Ian Nepomniachtchi by...",
+         "description" : "GM Alireza Firouzja will face GM Magnus Carlsen in the Grand Final of the 2024 Champions Chess Tour Chessable Masters. On Monday, the French number-one defeated GM Ian Nepomniachtchi by drawing the armageddon and then GM Denis Lazavik 1.5-0.5 to w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-6",
          "pubDate" : "Mon, 05 Feb 2024 12:04:00",
-         "title" : "Flash Report: Firouzja To Play Carlsen In Grand Final"
+         "title" : "Firouzja To Play Carlsen In Grand Final"
       },
       {
          "description" : "To get active play and fresh positions against the Catalan, you have to come up with something. GM Yago Santiago succeeded in doing just that in his search for his own Black repertoire. Already with the fourth move - 4...Nc6!? - Black steers the game into largely unexplored territory, and after 5.Bg2 Bde6!? 6.0-0 0-0 the starting position of his analysis in ChessBase Magazine #217 is reached. You are invited again this week: Have a look at the article with all our author's analyses as a free reading sample - directly via your web browser in the new ChessBase Books format. CBM #217 is the first issue to include full mobile access. So, you can load it directly in your web browser on your iPad,",
@@ -40,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-217-now-also-as-an-e-book-for-ipad-tablet-mac-etc-5",
          "pubDate" : "Mon, 05 Feb 2024 11:32:01",
          "title" : "CBM #217 - Now also for iPad, tablet, Mac etc."
+      },
+      {
+         "description" : "Magnus Carlsen advanced to the Grand Final of the Chessable Masters by beating young star Denis Lazavik in a hard-fought match. Lazavik will face either Alireza Firouzja or Ian Nepomniachtchi in the final of the losers' bracket to decide who gets to challenge Carlsen in Wednesday's deciding match. | Photo: chess.com / Thomas Tischio",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d5",
+         "pubDate" : "Mon, 05 Feb 2024 11:20:00",
+         "title" : "Chessable Masters: Carlsen beats Lazavik, advances to Grand Final"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 Sinquefield Cup game in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-hans-niemann-play-each-other-first-time-controversy-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
@@ -448,14 +456,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/divya-deshmukh-calls-out-sexism-in-chess-after-tata-steel-appearance",
          "pubDate" : "Tue, 30 Jan 2024 07:31:00",
          "title" : "Indian Star Deshmukh Calls Out Sexism In Chess World: 'I Have Faced So Much Hatred'"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows one of his games from the 2024 Charlotte Open. 2024.01.30<br /> Julian Proleiko vs. ???, 2024: A01 Nimzovich-Larsen attack, classical variation<br /> Julian Proleiko vs. Dean Ippolito, 2024: A05 Reti, King&#039;s Indian attack<br /> <a href=\"https://lichess.org/broadcast/2024-charlotte-open/round-3/H735B7We/mp6wmMf2\">https://lichess.org/broadcast/2024-charlotte-open/round-3/H735B7We/mp6wmMf2</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/julians-great-victory-charlotte-road-2000-nm-julian-proleiko",
-         "pubDate" : "Tue, 30 Jan 2024 00:09:55",
-         "title" : "Julian's Great Victory in Charlotte | Road to 2000 - NM Julian Proleiko"
       },
       {
          "description" : "In the previous installment of our weekly comic series, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-wizard-as-professor.html\">The Wizard as Professor</A> (January 2024), we learned that the Wizard has more interests than just playing chess. I noted, <BLOCKQUOTE> The village wizard [...] holds a patent on an important technique used to generate life-like forms in plasma. </BLOCKQUOTE> <P> This is the fourth installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa29.jpg\" WIDTH=335 HEIGHT=400> <P> The Wizard can use his patented AI techniques to generate the personae of chess players from the past. Since this practice is frowned upon by the general public and",
@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/black-is-more-than-ok.html",
          "pubDate" : "Tue, 16 Jan 2024 12:37:00",
          "title" : "Black is more than OK"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2844",
-         "pubDate" : "Mon, 15 Jan 2024 23:11:25",
-         "title" : "Tata Steel Masters 2024: Giri joins Firouzja in the lead"
       }
    ]
 }
