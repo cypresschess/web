@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Winning at chess is hard work. It is difficult and it costs a lot of energy. Especially calculation. Therefore, it is no surprise that our brains and minds are trying to find all the possible shortcuts. Sometimes, avoiding hard work equals being practical. However, often it is simply laziness. We are often being lazy, and we don&acute;t have enough willpower to force our minds into exact calculation. And thus, we often play a move that looks good, instead of looking for one that actually is the best. | Photo: RalfDesign, Pixabay.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-30-the-laziness-paradox",
+         "pubDate" : "Tue, 06 Feb 2024 12:47:26",
+         "title" : "The Winning Academy 30: The Laziness Paradox"
+      },
+      {
+         "description" : "In the 15th Penang Heritage City International Chess Open 2023 that concluded on the 22nd of December 2023, the rise of teens of South East Asia was truly apparent. Besides local favourite FM Poh Yu Tian, the other regional juniors that shone during the event included 17-year-old Indonesian IM Arfan Aditya Bagus, 14-year-olds Ivan Travis Cu and Sidabutar Uriel Noah Oloan besides Uzair Shahar of Malaysia. Edwin Lam Choong Wai reports. | Photos: Penang Chess Association's Facebook page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/juniors-on-the-rise-the-15th-penang-heritage-city-international-chess-open-2023",
+         "pubDate" : "Tue, 06 Feb 2024 10:47:34",
+         "title" : "Juniors on the rise: The 15th Penang Heritage City International Chess Open 2023"
+      },
+      {
+         "description" : "The ECU E-Magazine January 2024 is out! In this edition of the ECU Magazine you may read about: The January 2024 edition of the ECU Magazine can be read online together with interactive links, or it can be downloaded below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-january-2024/",
+         "pubDate" : "Tue, 06 Feb 2024 09:40:27",
+         "title" : "ECU E-Magazine January 2024"
+      },
+      {
          "description" : "Passed pawns can be dangerous and often lead to tactical opportunities. In the diagram position it is White to move and win. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,6 +138,14 @@ news_feed (
          "title" : "Italian one-two in Bad Zwischenahn"
       },
       {
+         "description" : "The best items featured on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) are those that lead to other avenues of inquiry: 'What is this?' and 'What is that?' The item pictured below was titled 'Piggybanx Tom Brady Refractor 1/1 Chess Not Checkers Patriots'. It sold 'Pre-Owned' for $600.00 or 'Best Offer'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob04.jpg\" WIDTH=265 HEIGHT=400> <P> The description of the item added only, <BLOCKQUOTE> Piggybanx Tom Brady 1/1 Refractor. It is missing one screw for the box; it came that way. Otherwise a very nice card. </BLOCKQUOTE> <P> 'Tom Brady' is",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/02/a-goat-says-its-chess-not-checkers.html",
+         "pubDate" : "Sun, 04 Feb 2024 16:30:00",
+         "title" : "A Goat Says, 'It's Chess Not Checkers'"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -122,28 +154,12 @@ news_feed (
          "title" : "FIDE delegation meets with Pakistan's President and PM"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 163rd episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Vassily Smyslov, the seventh World Champion in the history of chess. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-162-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 04 Feb 2024 15:00:00",
-         "title" : "Understanding before Moving 163: Chess history in a nutshell (44)"
-      },
-      {
          "description" : "On day five, GM Magnus Carlsen claimed his spot in the Grand Final of the 2024 Champions Chess Tour Chessable Masters. He defeated GM Denis Lazavik 2.5-1.5 in the Winners Final on Sunday.&#38;nbsp; In the Division I Losers Quarterfinals, the favorit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-5",
          "pubDate" : "Sun, 04 Feb 2024 12:08:00",
          "title" : "Carlsen Reaches Grand Final, Defeats Dark Horse Lazavik"
-      },
-      {
-         "description" : "In the final round of the Tata Steel Masters, five players started first equal and four of them won. Big pile ups do occur quite often at the end of open Swiss tournaments, but I don't think that I've ever seen this before at the end of a top-class all-play-all. The last round was a fantastic spectacle, so I thought I'd add some of my own observations now, augmented by some incredible moves from our silicon lords and masters. | Photo: Jurriaan Hoefsmit / Tata Steel Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-211",
-         "pubDate" : "Sun, 04 Feb 2024 12:00:00",
-         "title" : "Jon Speelman: Five abreast"
       },
       {
          "description" : "",
