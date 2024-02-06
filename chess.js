@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Passed pawns can be dangerous and often lead to tactical opportunities. In the diagram position it is White to move and win. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tactics-alert",
+         "pubDate" : "Tue, 06 Feb 2024 09:00:00",
+         "title" : "Tactics alert"
+      },
+      {
+         "description" : "Jan Henric Buettner is the man behind the Freestyle Chess G.O.A.T. Challenge in Weissenhaus, which starts on Friday and sets new standards in terms of the line-up and the presentation of a chess tournament. In an interview with Andr&eacute; Schulz, the successful entrepreneur introduces the tournament: \"It's going to be mega fun!\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-henric-buettner-freestyle-chess",
+         "pubDate" : "Tue, 06 Feb 2024 08:00:00",
+         "title" : "The man behind the Freestyle G.O.A.T. Challenge: Jan Henric Buettner"
+      },
+      {
+         "description" : "Top Board, 1st Board for all categories is live .&#160; Live Games Cloud Link :&#160;https://view.livechesscloud.com/#8670daa6-78e3-461d-acb4-c4299edcefac Chess-Results.com :&#160; Under 09 Open :&#160;https://chess-results.com/tnr882581.aspx?lan=1&#38;art=0&#38;turdet=YES&#38;flag=30 Under 11 Open :&#160;https://chess-results.com/tnr882582.aspx?lan=1&#38;art=0&#38;turdet=YES&#38;flag=30",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-12th-national-schools-chess-championship-2024/",
+         "pubDate" : "Tue, 06 Feb 2024 06:16:09",
+         "title" : "Live Games Link for 12th National Schools Chess Championship 2024"
+      },
+      {
+         "description" : "Please find The results of the FA seminar at Tirupati from 19-21 Jan 2024",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/results-of-fa-seminar-at-tirupati-from-19-21-jan-2024/",
+         "pubDate" : "Tue, 06 Feb 2024 06:12:22",
+         "title" : "Results of FA seminar at Tirupati from 19-21 Jan 2024"
+      },
+      {
          "description" : "Alireza Firouzja took down Ian Nepomniachtchi and Denis Lazavik in back-to-back matches to reach the Grand Final in Division I of the Chessable Masters. Firouzja will get a rest day before facing Carlsen in Wednesday's showdown. Tuesday will see the Grand Finals in Division II (Vincent Keymer v. Levon Aronian) and Division III (Alexander Grischuk v. Alexey Sarana). | Photo: Alireza Firouzja's X account",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,28 +146,12 @@ news_feed (
          "title" : "Jon Speelman: Five abreast"
       },
       {
-         "description" : "Denis Lazavik and Magnus Carlsen advanced to the winners' bracket final in Division I of the Chessable Masters. Lazavik defeated Jose Martinez, while Carlsen got the better of Vladimir Fedoseev. In the losers' bracket, Ian Nepomniachtchi and Vladimir Fedoseev remain in contention, as they knocked out Maxime Vachier-Lagrave and Wesley So respectively. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d4",
-         "pubDate" : "Sun, 04 Feb 2024 09:45:00",
-         "title" : "Chessable Masters: Lazavik to face Carlsen in winners' bracket final"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2860",
          "pubDate" : "Sat, 03 Feb 2024 19:50:05",
          "title" : "14th \"Preparation of Teachers\" course by the FIDE EDU announced"
-      },
-      {
-         "description" : "The Saint Louis Chess Club, the leading private chess institution in the United States, has announced that no invitations will be extended to Hans Niemann to participate in invitational events organized by the club throughout 2024. The club cites Niemann's inappropriate behaviour - including damaging private property and rude comments - as justification for their decision. Niemann has posted a number of posts on X denying the accusations.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-banned-stl-2024",
-         "pubDate" : "Sat, 03 Feb 2024 15:40:00",
-         "title" : "Hans Niemann banned from the Saint Louis Chess Club throughout 2024"
       },
       {
          "description" : "GM Daniel Naroditsky secured $400 and his 11th Bullet Brawl title after scoring 70.5/78 in February&#39;s first edition ahead of 125 other titled players. A race of titanic proportions between Naroditsky and Chess.com&#39;s two highest-rated active bullet...",
