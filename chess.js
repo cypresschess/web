@@ -26,6 +26,14 @@ news_feed (
          "title" : "The Winning Academy 30: The Laziness Paradox"
       },
       {
+         "description" : "This is the flash report. The full report will be added to this page soon. Day seven of the 2024 Champions Chess Tour Chessable Masters saw the conclusion of Divisions II and III. Although both matches went to the second set, the younger players...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-7-keymer-sarana-win",
+         "pubDate" : "Tue, 06 Feb 2024 12:10:00",
+         "title" : "Flash Report: Youngsters Shine: Keymer Wins Division II, Sarana Takes Division III"
+      },
+      {
          "description" : "In the 15th Penang Heritage City International Chess Open 2023 that concluded on the 22nd of December 2023, the rise of teens of South East Asia was truly apparent. Besides local favourite FM Poh Yu Tian, the other regional juniors that shone during the event included 17-year-old Indonesian IM Arfan Aditya Bagus, 14-year-olds Ivan Travis Cu and Sidabutar Uriel Noah Oloan besides Uzair Shahar of Malaysia. Edwin Lam Choong Wai reports. | Photos: Penang Chess Association's Facebook page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -720,14 +728,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2859",
          "pubDate" : "Thu, 25 Jan 2024 00:23:27",
          "title" : "Tata Steel Masters 2024: Gukesh and Abdusattorov forge ahead"
-      },
-      {
-         "description" : "India&#38;rsquo;s greatest ever chess player, the legendary GM Viswanathan Anand, has signed as a brand ambassador for Chess.com. The five-time world champion will bring his incredible knowledge and experience to the world&#38;rsquo;s biggest chess plat...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anand-signs-for-chess-com",
-         "pubDate" : "Wed, 24 Jan 2024 22:41:00",
-         "title" : "Vishy Anand Signs For Chess.com: Legend Brings His Brilliance To Our Broadcasts in 2024"
       },
       {
          "description" : " Nodirbek Abdusattorov and D Gukesh have a half point lead over Anish Giri and Praggnanandhaa going into the final rest day. There are three rounds left and it's still all to play for. Nodirbek Abdusattorov had black against Max Warmerdam in a Queen's Gambit Accepted. Yesterday's shocking turn around may well have still been affecting Warmerdam. After 13 moves the game was equal, 23.Ne2 was a clear error in a slightly worse position (23.Nd2) beautifully exploited by Abdusattorov with 24...f4! but the position remained a mess and 31..Bf5? was an error allowing white back into the game with 32.Qe3 and even be better after 35.Bxe4! and then a further blunder 39...Rd6? (39...e4!) left Warmerdam ",
