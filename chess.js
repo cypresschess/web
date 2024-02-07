@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Chessable Masters took place Fri 2nd to Wed 7th Feb 2024, the format was double elimination. Magnus Carlsen, Wesley So, Maxime Vachier-Lagrave, Denis Lazavik, Ian Nepomniachtchi, Jose Eduardo Martinez Alcantara, Vladimir Fedoseev and Alireza Firouzja all competed for the title in Division 1. Carlsen ended up winning the event after beating Denis Lazavik in the winners final and then in the Grand Final he lost to Alireza Firouzja, this meant both Carlsen and Firouzja had lost one match so a final match was played to decide who won, Carlsen did, 2-0. Vincent Keymer beat Levon Aronian in the Division 2 final and has qualified for the next main event, Alexey Sarana beat Alexander Grischuk i",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2024",
+         "pubDate" : "Wed, 7 Feb 2024 19:17:00",
+         "title" : "Chessable Masters 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2874",
+         "pubDate" : "Wed, 07 Feb 2024 19:05:26",
+         "title" : "Baadur Jobava wins 2024 Georgian Championship"
+      },
+      {
          "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. The last day of action sees Magnus Carlsen facing Alireza Firouzja in the Grand Final of Division I. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +50,28 @@ news_feed (
          "title" : "Robert Ris: Calculation Training - Sharpen Your Game!"
       },
       {
+         "description" : "This is a flash report. The full report will be added to this page soon. GM Magnus Carlsen won Division I of the 2024 Champions Chess Tour Chessable Masters on Wednesday. GM Alireza Firouzja took the first set of the Grand Final, impressively wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-8-carlsen-wins",
+         "pubDate" : "Wed, 07 Feb 2024 11:25:00",
+         "title" : "Flash Report: Carlsen Wins 2024 Chessable Masters"
+      },
+      {
          "description" : "In the Endgame Magic Show #260 Karsten M&uuml;ller and his guest Grandmaster Daniel Fernandez take a look at some endgame highlights from the tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-260-with-daniel-fernandez-endgames-pearls-from-wijk",
          "pubDate" : "Wed, 07 Feb 2024 09:15:11",
          "title" : "Endgame Magic #260 - With Daniel Fernandez: Endgames pearls from Wijk"
+      },
+      {
+         "description" : "GM Hikaru Nakamura continued his hot start to the year in Titled Tuesday on February 6, finishing third in the early tournament and winning the late tournament, his third win of 2024. The early event was won by Polish GM Kacper Piorun. Both he and...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/piorun-nakamura-win-titled-tuesday-february-6-2024",
+         "pubDate" : "Wed, 07 Feb 2024 09:03:40",
+         "title" : "Nakamura Extends Titled Cup Lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko demonstrates when it&#039;s okay to break opening principle &quot;rules.&quot; 2024.02.06<br /> Evan Sammons vs. Julian Proleiko, 2023: A42 Modern defence, Averbakh system </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-all-chess-rules-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4O7UFy-aQc.jpg?itok=_cPEMS5",
@@ -114,6 +146,14 @@ news_feed (
          "title" : "ECU E-Magazine January 2024"
       },
       {
+         "description" : "Passed pawns can be dangerous and often lead to tactical opportunities. In the diagram position it is White to move and win. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tactics-alert",
+         "pubDate" : "Tue, 06 Feb 2024 09:00:00",
+         "title" : "Tactics alert"
+      },
+      {
          "description" : "Top Board, 1st Board for all categories is live .&#160; Live Games Cloud Link :&#160;https://view.livechesscloud.com/#8670daa6-78e3-461d-acb4-c4299edcefac Chess-Results.com :&#160; Under 09 Open :&#160;https://chess-results.com/tnr882581.aspx?lan=1&#38;art=0&#38;turdet=YES&#38;flag=30 Under 11 Open :&#160;https://chess-results.com/tnr882582.aspx?lan=1&#38;art=0&#38;turdet=YES&#38;flag=30",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -152,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-6",
          "pubDate" : "Mon, 05 Feb 2024 12:04:00",
          "title" : "Firouzja To Play Carlsen In Grand Final"
-      },
-      {
-         "description" : "To get active play and fresh positions against the Catalan, you have to come up with something. GM Yago Santiago succeeded in doing just that in his search for his own Black repertoire. Already with the fourth move - 4...Nc6!? - Black steers the game into largely unexplored territory, and after 5.Bg2 Bde6!? 6.0-0 0-0 the starting position of his analysis in ChessBase Magazine #217 is reached. You are invited again this week: Have a look at the article with all our author's analyses as a free reading sample - directly via your web browser in the new ChessBase Books format. CBM #217 is the first issue to include full mobile access. So, you can load it directly in your web browser on your iPad,",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-217-now-also-as-an-e-book-for-ipad-tablet-mac-etc-5",
-         "pubDate" : "Mon, 05 Feb 2024 11:32:01",
-         "title" : "CBM #217 - Now also for iPad, tablet, Mac etc."
       },
       {
          "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 Sinquefield Cup game in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-hans-niemann-play-each-other-first-time-controversy-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
@@ -248,14 +280,6 @@ news_feed (
          "link" : "https://www.thearticle.com/imperious-chessmen/",
          "pubDate" : "Sat, 03 Feb 2024 07:53:08",
          "title" : "Imperious chessmen"
-      },
-      {
-         "description" : " The Chessable Masters take place Fri 2nd TO Wed 7th Feb 2024. Magnus Carlsen, Wesley So, Maxime Vachier-Lagrave, Denis Lazavik, Ian Nepomniachtchi, Jose Eduardo Martinez Alcantara, Vladimir Fedoseev and Alireza Firouzja are competing for the title in Division 1. There are also Divisions 2 and 3. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2024",
-         "pubDate" : "Fri, 2 Feb 2024 19:17:00",
-         "title" : "Chessable Masters 2024 - Games and Results"
       },
       {
          "description" : "The Saint Louis Chess Club has banned GM Hans Niemann for the remainder of 2024, citing alleged inappropriate behavior and damage to private property. The grandmaster has dismissed the accusations as &#34;blatant disinformation.&#34; Edited on 2/2/2024:...",
@@ -682,28 +706,12 @@ news_feed (
          "title" : "Abdusattorov leads the Tata Steel Masters with 7.5/11 half a point clear of Gukesh - 11"
       },
       {
-         "description" : "CDawgVA, the PogChamps 5 champion, streaming star, and voice actor, is returning to Chess.com... in bot form! The first ever winner of a live PogChamps final, Connor has more than 3.1 million YouTube followers and 1.2 million Twitch followers. He ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-cdawgva-bot",
-         "pubDate" : "Fri, 26 Jan 2024 18:00:35",
-         "title" : "Can You Defeat PogChamps 5 Winner CDawgVA?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2861",
          "pubDate" : "Fri, 26 Jan 2024 14:51:53",
          "title" : "Announcing winners of FIDE Trainer Awards 2023"
-      },
-      {
-         "description" : "After beating GM Ju Wenjun in round 11, GM Nodirbek Abdusattorov&#38;nbsp;went into the final weekend of the Tata Steel Chess Tournament as the sole leader in the Masters group. A spectacular day of chess saw lots of fascinating games, including a bri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-11",
-         "pubDate" : "Fri, 26 Jan 2024 13:11:00",
-         "title" : "Abdusattorov Sole Leader At Tata Steel Masters; Wei Yi Wins Brilliancy"
       },
       {
          "description" : " Congratulations to Roy Teymant, who has been awarded the Order of Australia Medal, in the 2024 Australia Day Honours. The rather terse entry simply says \"For services to chess\", although it is certainly for more than that. Roy has been a long term organiser in Canberra, particularly with the Canberra Chess Club. When the club was in a bit of a slump, he took on the management role at the club, rebuilding it up to it's former glory. He has also served on the ACT Chess Association Committee for a number of years, assisting the ACTCA in organising various events in the nations capital. I believe Roy is the first local player/organiser to be recognised for work in chess, and it is a well deserv",
