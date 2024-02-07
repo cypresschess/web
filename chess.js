@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Calling all ambitious players who are up for improving their calculation skills! In Calculation Training - Sharpen Your Game! a total of 73 examples have been selected, the vast majority containing multiple questions, and more than 160 questions of varying difficulty.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-sharpen-your-game-2",
+         "pubDate" : "Wed, 07 Feb 2024 12:00:00",
+         "title" : "Robert Ris: Calculation Training - Sharpen Your Game!"
+      },
+      {
          "description" : "In the Endgame Magic Show #260 Karsten M&uuml;ller and his guest Grandmaster Daniel Fernandez take a look at some endgame highlights from the tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://aicf.in/results-of-fa-seminar-at-tirupati-from-19-21-jan-2024/",
          "pubDate" : "Tue, 06 Feb 2024 06:12:22",
          "title" : "Results of FA seminar at Tirupati from 19-21 Jan 2024"
-      },
-      {
-         "description" : "Alireza Firouzja took down Ian Nepomniachtchi and Denis Lazavik in back-to-back matches to reach the Grand Final in Division I of the Chessable Masters. Firouzja will get a rest day before facing Carlsen in Wednesday's showdown. Tuesday will see the Grand Finals in Division II (Vincent Keymer v. Levon Aronian) and Division III (Alexander Grischuk v. Alexey Sarana). | Photo: Alireza Firouzja's X account",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d6",
-         "pubDate" : "Mon, 05 Feb 2024 23:10:00",
-         "title" : "Chessable Masters: Firouzja sets up showdown against Carlsen"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows two of his games in this third lecture from the 2024 Charlotte Open. 2024.02.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-two-draws-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4O7UFy-aQc.jpg?itok=_cPEMS55\" alt=\"\" /></a></div>",
@@ -1032,14 +1032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2847",
          "pubDate" : "Wed, 17 Jan 2024 13:50:23",
          "title" : "20th International Solving Contest (ISC) announced"
-      },
-      {
-         "description" : "Grandmaster R Praggnandhaa registered a resounding win against the reigning World Campion Ding Liren of China in the fourth round of 86th Tata Steel Masters",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/grandmaster-r-praggnandhaa-beat-world-campion-ding-liren/",
-         "pubDate" : "Wed, 17 Jan 2024 09:25:18",
-         "title" : "Grandmaster R Praggnandhaa beat World Champion Ding Liren"
       }
    ]
 }
