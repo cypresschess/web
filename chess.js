@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. The last day of action sees Magnus Carlsen facing Alireza Firouzja in the Grand Final of Division I. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
+         "pubDate" : "Wed, 07 Feb 2024 16:50:00",
+         "title" : "Chessable Masters Grand Final - Live!"
+      },
+      {
+         "description" : "As directed the last date of the National Amateur online entries extended to 09th February 2024,1600 PM.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-amateur-2024/",
+         "pubDate" : "Wed, 07 Feb 2024 14:21:21",
+         "title" : "National Amateur 2024"
+      },
+      {
+         "description" : "In his World Chess Championship match against Ian Nepomniachtchi, which made him the 17th World Champion in the history of chess, Chinese Grandmaster Ding Liren won the sixth game by threatening a checkmate with rook and knight. Let us see how that checkmate was utilized in endgame studies. | Photo: Midjourney",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/study-of-the-month-ding-s-wcc-game-6-checkmate-pattern-in-endgame-studies-2",
+         "pubDate" : "Wed, 07 Feb 2024 14:00:00",
+         "title" : "Study of the month: Ding's WCC game 6 checkmate pattern in endgame studies"
+      },
+      {
          "description" : "Calling all ambitious players who are up for improving their calculation skills! In Calculation Training - Sharpen Your Game! a total of 73 examples have been selected, the vast majority containing multiple questions, and more than 160 questions of varying difficulty.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,22 +112,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-january-2024/",
          "pubDate" : "Tue, 06 Feb 2024 09:40:27",
          "title" : "ECU E-Magazine January 2024"
-      },
-      {
-         "description" : "Passed pawns can be dangerous and often lead to tactical opportunities. In the diagram position it is White to move and win. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tactics-alert",
-         "pubDate" : "Tue, 06 Feb 2024 09:00:00",
-         "title" : "Tactics alert"
-      },
-      {
-         "description" : "Jan Henric Buettner is the man behind the Freestyle Chess G.O.A.T. Challenge in Weissenhaus, which starts on Friday and sets new standards in terms of the line-up and the presentation of a chess tournament. In an interview with Andr&eacute; Schulz, the successful entrepreneur introduces the tournament: \"It's going to be mega fun!\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-henric-buettner-freestyle-chess",
-         "pubDate" : "Tue, 06 Feb 2024 08:00:00",
-         "title" : "The man behind the Freestyle G.O.A.T. Challenge: Jan Henric Buettner"
       },
       {
          "description" : "Top Board, 1st Board for all categories is live .&#160; Live Games Cloud Link :&#160;https://view.livechesscloud.com/#8670daa6-78e3-461d-acb4-c4299edcefac Chess-Results.com :&#160; Under 09 Open :&#160;https://chess-results.com/tnr882581.aspx?lan=1&#38;art=0&#38;turdet=YES&#38;flag=30 Under 11 Open :&#160;https://chess-results.com/tnr882582.aspx?lan=1&#38;art=0&#38;turdet=YES&#38;flag=30",
@@ -1016,22 +1024,6 @@ news_feed (
          "link" : "https://aicf.in/live-game-link-for-1st-bangalore-gm-tournament-2024/",
          "pubDate" : "Thu, 18 Jan 2024 09:06:02",
          "title" : "Live game Link for 1st Bangalore GM Tournament 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2845",
-         "pubDate" : "Wed, 17 Jan 2024 16:01:11",
-         "title" : "The fourth edition of Queens' Festival returns in March 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2847",
-         "pubDate" : "Wed, 17 Jan 2024 13:50:23",
-         "title" : "20th International Solving Contest (ISC) announced"
       }
    ]
 }
