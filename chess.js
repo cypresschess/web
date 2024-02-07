@@ -26,12 +26,12 @@ news_feed (
          "title" : "The Winning Academy 30: The Laziness Paradox"
       },
       {
-         "description" : "This is the flash report. The full report will be added to this page soon. Day seven of the 2024 Champions Chess Tour Chessable Masters saw the conclusion of Divisions II and III. Although both matches went to the second set, the younger players...",
+         "description" : "Day seven of the 2024 Champions Chess Tour Chessable Masters saw the conclusions of Divisions II and III. Although both matches went to the second set, the younger players won in each division. GM Vincent Keymer defeated GM Levon Aronian in Divi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-7-keymer-sarana-win",
          "pubDate" : "Tue, 06 Feb 2024 12:10:00",
-         "title" : "Flash Report: Youngsters Shine: Keymer Wins Division II, Sarana Takes Division III"
+         "title" : "Youngsters Shine: Keymer Wins Division II, Sarana Takes Division III"
       },
       {
          "description" : "In the 15th Penang Heritage City International Chess Open 2023 that concluded on the 22nd of December 2023, the rise of teens of South East Asia was truly apparent. Besides local favourite FM Poh Yu Tian, the other regional juniors that shone during the event included 17-year-old Indonesian IM Arfan Aditya Bagus, 14-year-olds Ivan Travis Cu and Sidabutar Uriel Noah Oloan besides Uzair Shahar of Malaysia. Edwin Lam Choong Wai reports. | Photos: Penang Chess Association's Facebook page",
@@ -1056,22 +1056,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-indias-no1-chess-player-tata-steel-chess-2024/articleshow/106917799.cms",
          "pubDate" : "Wed, 17 Jan 2024 05:53:17",
          "title" : "Praggnanandhaa surpasses Anand, becomes India's No.1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2846",
-         "pubDate" : "Tue, 16 Jan 2024 23:15:42",
-         "title" : "Tata Steel Masters 2024: Anish Giri pulls ahead"
-      },
-      {
-         "description" : " Defending Champion Anish Giri got off to the ideal start by leading the Tata Steel Masters alone on 3.5/4 going into the first rest day on Wednesday. Giri beat Gukesh by showing the power of a small initiative with bishops of opposite colour even in a very simplified position. Gukesh fought hard but could not survive. World Champion Ding Liren was beaten in a theoretical duel by Praggnanandhaa who slowly outplayed him. Wei Yi exploited a bad error after first time control by Parham Maghsoodloo to win. Alexander Donchenko was winning against Ian Nepomniachtchi but failed to convert in the end and the game was drawn as was Alireza Firouzja against Nodirbek Abdusattorov, Jorden van Foreest aga",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/anish-giri-leads-the-tata-steel-masters-alone-on-3.54-going-into-the-first-rest-day",
-         "pubDate" : "Tue, 16 Jan 2024 22:42:00",
-         "title" : "Anish Giri leads the Tata Steel Masters alone on 3.5/4 going into the first rest day - 4"
       }
    ]
 }
