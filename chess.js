@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #260 Karsten M&uuml;ller and his guest Grandmaster Daniel Fernandez take a look at some endgame highlights from the tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-260-with-daniel-fernandez-endgames-pearls-from-wijk",
+         "pubDate" : "Wed, 07 Feb 2024 09:15:11",
+         "title" : "Endgame Magic #260 - With Daniel Fernandez: Endgames pearls from Wijk"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko demonstrates when it&#039;s okay to break opening principle &quot;rules.&quot; 2024.02.06<br /> Evan Sammons vs. Julian Proleiko, 2023: A42 Modern defence, Averbakh system </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-all-chess-rules-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4O7UFy-aQc.jpg?itok=_cPEMS5",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/breaking-all-chess-rules-road-2000-nm-julian-proleiko",
+         "pubDate" : "Wed, 07 Feb 2024 06:18:29",
+         "title" : "Breaking All of The Chess Rules! | Road to 2000 - NM Julian Proleiko"
+      },
+      {
          "description" : "Vincent Keymer won Division II of the Chessable Masters by beating Levon Aronian in the Grand Final Reset - i.e. Aronian, who came from winning the losers' bracket, beat Keymer in their first match of the day (the Grand Final per se). Similarly, Alexey Sarana won Division III in the Grand Final Reset, as he defeated Alexander Grischuk in a rematch. | Photo: WR Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-217-now-also-as-an-e-book-for-ipad-tablet-mac-etc-5",
          "pubDate" : "Mon, 05 Feb 2024 11:32:01",
          "title" : "CBM #217 - Now also for iPad, tablet, Mac etc."
-      },
-      {
-         "description" : "Magnus Carlsen advanced to the Grand Final of the Chessable Masters by beating young star Denis Lazavik in a hard-fought match. Lazavik will face either Alireza Firouzja or Ian Nepomniachtchi in the final of the losers' bracket to decide who gets to challenge Carlsen in Wednesday's deciding match. | Photo: chess.com / Thomas Tischio",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d5",
-         "pubDate" : "Mon, 05 Feb 2024 11:20:00",
-         "title" : "Chessable Masters: Carlsen beats Lazavik, advances to Grand Final"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 Sinquefield Cup game in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-hans-niemann-play-each-other-first-time-controversy-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
@@ -408,14 +416,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-are-you-having-fun-yet-puzzlers-paradise-gm-denes-boros-shorts",
          "pubDate" : "Thu, 01 Feb 2024 06:11:34",
          "title" : "Chess: Are You Having Fun Yet? | Puzzler's Paradise - GM Denes Boros... #Shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Erik Tkachenko and the trash-talking NM Julian Proleiko throw down in chess combat at the interim Saint Louis Chess Club. 2024.01.08 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blitz-chess-kombat-erik-tkachenko-vs-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xkgAtlhT-VM.jpg?itok=ik2OvGT4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/blitz-chess-kombat-erik-tkachenko-vs-julian-proleiko",
-         "pubDate" : "Thu, 01 Feb 2024 03:11:23",
-         "title" : "BLITZ CHESS KOMBAT: Erik Tkachenko vs. Julian Proleiko"
       },
       {
          "description" : "On his 25th birthday, GM Jose Martinez finished first in the all-GM Play-in of the 2024 Champions Chess Tour Chessable Masters. The penultimate round against GM Hikaru Nakamura was absolutely critical, as the Peruvian GM managed to draw a losing e...",
@@ -1040,22 +1040,6 @@ news_feed (
          "link" : "https://aicf.in/grandmaster-r-praggnandhaa-beat-world-campion-ding-liren/",
          "pubDate" : "Wed, 17 Jan 2024 09:25:18",
          "title" : "Grandmaster R Praggnandhaa beat World Champion Ding Liren"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106922488.cms\" />Rameshbabu Praggnanandhaa, an 18-year-old chess prodigy from India, has become the top-rated player in the country after a win over World champion Ding Liren at the 2024 Tata Steel Chess tournament. Cricket legend Sachin Tendulkar congratulated Praggnanandhaa on social media, expressing his admiration for his remarkable achievement and wishing him continued success in chess and bringing glory to India on the international stage.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/continue-to-bring-glory-sachin-tendulkar-hails-chess-prodigy-praggnanandhaa/articleshow/106922488.cms",
-         "pubDate" : "Wed, 17 Jan 2024 08:16:52",
-         "title" : "'Continue to bring glory...': Sachin hails Praggnanandhaa"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/106917799.cms\" />Rameshbabu Praggnanandhaa, an 18-year-old chess prodigy, secured the top spot among India's players after defeating World champion Ding Liren at the 2024 Tata Steel Chess tournament. Praggnanandhaa, who started playing at the age of 5, expressed surprise at the outcome and emphasized the significance of defeating a world champion. He compared the first time winning against a world champion in classical chess to feeling good. Praggnanandhaa's victory over Liren was a significant achievement for the young chess sensation.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-indias-no1-chess-player-tata-steel-chess-2024/articleshow/106917799.cms",
-         "pubDate" : "Wed, 17 Jan 2024 05:53:17",
-         "title" : "Praggnanandhaa surpasses Anand, becomes India's No.1"
       }
    ]
 }
