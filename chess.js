@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. Day 7 sees the Grand Finals in Division II (Vincent Keymer v. Levon Aronian) and Division III (Alexander Grischuk v. Alexey Sarana). | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "description" : "Vincent Keymer won Division II of the Chessable Masters by beating Levon Aronian in the Grand Final Reset - i.e. Aronian, who came from winning the losers' bracket, beat Keymer in their first match of the day (the Grand Final per se). Similarly, Alexey Sarana won Division III in the Grand Final Reset, as he defeated Alexander Grischuk in a rematch. | Photo: WR Chess / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
-         "pubDate" : "Tue, 06 Feb 2024 16:50:00",
-         "title" : "Chessable Masters - Live!"
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d7",
+         "pubDate" : "Wed, 07 Feb 2024 01:30:00",
+         "title" : "Chessable Masters: Keymer and Sarana prevail in Divisions II and III"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko demonstrates when it&#039;s okay to break opening principle &quot;rules.&quot; 2024.02.06<br /> Evan Sammons vs. Julian Proleiko, 2023: A42 Modern defence, Averbakh system<br /> Erik Tkachenko </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-all-rules-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4O7UFy-aQc.j",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/breaking-all-rules-road-2000-nm-julian-proleiko",
+         "pubDate" : "Wed, 07 Feb 2024 00:18:09",
+         "title" : "Breaking All of The Rules! | Road to 2000 - NM Julian Proleiko"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes continues to talk about committing to a chess move. See an example from from her own game. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commit-chess-move-already-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/if1sf59ivIs.jpg?itok=x-HxAdNQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/commit-chess-move-already-grandmasters-choice-wgm-thalia-cervantes",
+         "pubDate" : "Wed, 07 Feb 2024 00:18:09",
+         "title" : "Commit to a Chess Move Already! | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
          "description" : " During this Black History Month 2024, The Chess Drum will present four videos featuring puzzles of several of the chess masters in the Black Diaspora. The videos will provide some historical information about each player and then one of the puzzles from a tournament game. Most of these puzzles were featured in one of the The post <a href=\"https://www.thechessdrum.net/blog/2024/02/06/black-history-month-2024-tribute-week-1/\">Black History Month 2024 Tribute: Week 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -432,22 +448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-niemann-win-titled-tuesday-january-30-2024",
          "pubDate" : "Wed, 31 Jan 2024 07:54:00",
          "title" : "Carlsen, Niemann Tussle Tuesday, Both Win"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 controversy in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-and-hans-niemann-play-each-other-first-time-controversy-chessnews\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-carlsen-and-hans-niemann-play-each-other-first-time-controversy-chessnews",
-         "pubDate" : "Wed, 31 Jan 2024 00:10:45",
-         "title" : "Magnus Carlsen and Hans Niemann Play Each Other for the First Time Since Controversy! | #chessnews"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a move or sacrifice. See an example from Kasparov vs. Karpov '90 and also from her own game where Thalia did not commit to a sac, but should have. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commit-sacrifice-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/57TYH2lMzak.jpg?itok",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/commit-sacrifice-grandmasters-choice-wgm-thalia-cervantes",
-         "pubDate" : "Tue, 30 Jan 2024 21:10:38",
-         "title" : "Commit to a Sacrifice! | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
          "description" : "",
