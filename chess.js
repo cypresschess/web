@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Fast & Furious episode, Robert Ris takes a look at the final of the Chessable Masters, in which Magnus Carlsen won against Alireza Firouzja. But it was a close and exciting match, in which Firouzja showed how dangerous he is. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-anish-giri-wins-crucial-game-2",
+         "pubDate" : "Thu, 08 Feb 2024 13:12:29",
+         "title" : "Robert Ris' Fast and Furious: Well prepared and tactically alert"
+      },
+      {
+         "description" : " Putting together a new 5 shelf bookshelf. Why? Because it is the Lifeline Bookfair tomorrow. No other reason is necessary. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/things-shaun-has-been-doing-recently.html",
+         "pubDate" : "Thu, 08 Feb 2024 12:02:00",
+         "title" : "Things Shaun has been doing recently"
+      },
+      {
+         "description" : "A new super-tournament is about to start at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, world number one Magnus Carlsen and world champion Ding Liren. A single round-robin with a rapid time control will be followed by a knockout tournament with a classical time control. The event will take place on February 9-16. | More info here!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestlye-challenge-2024-preview",
+         "pubDate" : "Thu, 08 Feb 2024 11:37:41",
+         "title" : "Freestyle G.O.A.T. Challenge: An innovative, luxurious approach"
+      },
+      {
+         "description" : "Chess should be a safe and inclusive place for all. Following the adoption of the European Fair Play and Safe Play Policies, the European Chess Union is taking further steps to implement the new policy and provide training for its officials, but also for members of the association. To continue working towards this goal, the ECU Commission For Women's Chess has teamed up with the Women in Chess Foundation to enable every European federation to train certified Safe Play Ambassadors. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-commission-for-womens-chess-teams-up-with-women-in-chess-foundation/",
+         "pubDate" : "Thu, 08 Feb 2024 09:52:50",
+         "title" : "ECU Commission for Women's Chess teams up with Women in Chess Foundation"
+      },
+      {
          "description" : "The ChessBase Trading Card Market is a nice field of activity for all chess fans who enjoy chess topics. And there are so many themes and new things to discover. And it's especially great if you have a complete series. You don't necessarily have to buy trading cards with ducats, you can also swap them. Here's how it works:",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,14 +130,6 @@ news_feed (
          "title" : "Breaking All of The Chess Rules! | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "Vincent Keymer won Division II of the Chessable Masters by beating Levon Aronian in the Grand Final Reset - i.e. Aronian, who came from winning the losers' bracket, beat Keymer in their first match of the day (the Grand Final per se). Similarly, Alexey Sarana won Division III in the Grand Final Reset, as he defeated Alexander Grischuk in a rematch. | Photo: WR Chess / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d7",
-         "pubDate" : "Wed, 07 Feb 2024 01:30:00",
-         "title" : "Chessable Masters: Keymer and Sarana prevail in Divisions II and III"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko demonstrates when it&#039;s okay to break opening principle &quot;rules.&quot; 2024.02.06<br /> Evan Sammons vs. Julian Proleiko, 2023: A42 Modern defence, Averbakh system<br /> Erik Tkachenko </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-all-rules-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4O7UFy-aQc.j",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -128,14 +152,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/06/black-history-month-2024-tribute-week-1/",
          "pubDate" : "Tue, 06 Feb 2024 15:39:50",
          "title" : "Black History Month 2024 Tribute: Week 1"
-      },
-      {
-         "description" : "Winning at chess is hard work. It is difficult and it costs a lot of energy. Especially calculation. Therefore, it is no surprise that our brains and minds are trying to find all the possible shortcuts. Sometimes, avoiding hard work equals being practical. However, often it is simply laziness. We are often being lazy, and we don&acute;t have enough willpower to force our minds into exact calculation. And thus, we often play a move that looks good, instead of looking for one that actually is the best. | Photo: RalfDesign, Pixabay.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-30-the-laziness-paradox",
-         "pubDate" : "Tue, 06 Feb 2024 12:47:26",
-         "title" : "The Winning Academy 30: The Laziness Paradox"
       },
       {
          "description" : "Day seven of the 2024 Champions Chess Tour Chessable Masters saw the conclusions of Divisions II and III. Although both matches went to the second set, the younger players won in each division. GM Vincent Keymer defeated GM Levon Aronian in Divi...",
@@ -176,6 +192,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/julians-two-draws-charlotte-road-2000-nm-julian-proleiko",
          "pubDate" : "Mon, 05 Feb 2024 21:16:48",
          "title" : "Julian's Two Draws at Charlotte | Road to 2000 - NM Julian Proleiko"
+      },
+      {
+         "description" : "In the previous installment of our weekly chess comic series, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-ai-generator.html\">The AI Generator</A> (January 2024), we learned, <BLOCKQUOTE> The Wizard can use his patented AI techniques to generate animals, mainly foxes, who play chess. </BLOCKQUOTE> <P> This is the fifth installment of the series. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob05.jpg\" WIDTH= HEIGHT=> <P> The Wizard needs help for his chess activities, which mainly focus on support for the chess community -- local, regional, national, and international. He has an assistant, a much younger man, who lives in a cottage on the mansion grounds. The Wiz",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/02/the-wizards-assistant.html",
+         "pubDate" : "Mon, 05 Feb 2024 16:26:00",
+         "title" : "The Wizard's Assistant"
       },
       {
          "description" : " There are now only 8 weeks to go before the 2024 O2C Doeberl Cup. At this stage there are 154 entries across all the divisions, which is 37 more than this stage last year. While the tournament format is the same as last year (except for an additional Under 1600 Lightning event on Saturday evening), there is one change that players might not be aware of. Although the rating cutoffs are unchanged, FIDE is giving all players rated under 2000 a one off rating boost on the 1st March. This means that players who would normally not have a high enough rating to qualify for a section may now do so, based on their FIDE rating. To make it clear, the rating cutoffs for the various sections will not be ",
@@ -1008,30 +1032,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/players-under-fide-flag.html",
          "pubDate" : "Thu, 18 Jan 2024 16:04:00",
          "title" : "Players under the FIDE Flag"
-      },
-      {
-         "description" : " Gungahlin Chess Club is resuming next Tuesday, 23rd January. The first night is a bit of a casual meet and greet, with the more serious events starting the week after. If you have never played club chess before and you live in the close by (North Canberra, Gungahlin, Belconnen etc) then drop in to the Eastlakes Gungahlin Club (51 Hinder St Gungahlin) from 7pm on Tuesday. The following Tuesday sees the start of 2 events. The Gungahlin Junior Championship is for all players under 18 years old, while the Ramakrishna Memorial is for players 18 years and older. Both are 7 round events (one round per week), with a time limit of G60m+30s. The full years calendar is at <a href=\"https://sites.google",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/gungahlin-chess-club-meet-and-greet.html",
-         "pubDate" : "Thu, 18 Jan 2024 11:46:00",
-         "title" : "Gungahlin Chess Club - Meet and greet"
-      },
-      {
-         "description" : "Live games&#160; 13th Tamil Nadu IM Norm Closed Circuit Chess Tournament (tamilchess.com) 14th Tamil Nadu IM Norm Closed Circuit Chess Tournament (tamilchess.com) Pairings &#38; Results",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/links-of-13th-14th-tn-im-norm-closed-circuit-chess-tournaments-chennai/",
-         "pubDate" : "Thu, 18 Jan 2024 09:39:02",
-         "title" : "Links of 13th & 14th TN IM Norm Closed Circuit Chess Tournaments - Chennai"
-      },
-      {
-         "description" : "Please find &#160;live game link of&#160;1st Bangalore GM Tournament 2024 please do the needful Category A https://live.blrgmc.com/livea/ Category B https://live.blrgmc.com/liveb/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-game-link-for-1st-bangalore-gm-tournament-2024/",
-         "pubDate" : "Thu, 18 Jan 2024 09:06:02",
-         "title" : "Live game Link for 1st Bangalore GM Tournament 2024"
       }
    ]
 }
