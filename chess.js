@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ChessBase Trading Card Market is a nice field of activity for all chess fans who enjoy chess topics. And there are so many themes and new things to discover. And it's especially great if you have a complete series. You don't necessarily have to buy trading cards with ducats, you can also swap them. Here's how it works:",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-trading-cards-swap-trade-have-fun",
+         "pubDate" : "Thu, 08 Feb 2024 09:04:19",
+         "title" : "Chess Trading Cards: Swap, trade, have fun"
+      },
+      {
          "description" : "Magnus Carlsen won the Chessable Masters after defeating Alireza Firouzja in the Grand Final Reset of Division I. Firouzja started the day with two wins in a row, and obtained a draw in game 4 to set up a rematch. In the Reset, however, it was Carlsen who scored first. Firouzja then failed to make the most of an advantageous position, as he allowed Carlsen to turn the tables and get a 2-0 final victory.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-7-keymer-sarana-win",
          "pubDate" : "Tue, 06 Feb 2024 12:10:00",
          "title" : "Youngsters Shine: Keymer Wins Division II, Sarana Takes Division III"
-      },
-      {
-         "description" : "In the 15th Penang Heritage City International Chess Open 2023 that concluded on the 22nd of December 2023, the rise of teens of South East Asia was truly apparent. Besides local favourite FM Poh Yu Tian, the other regional juniors that shone during the event included 17-year-old Indonesian IM Arfan Aditya Bagus, 14-year-olds Ivan Travis Cu and Sidabutar Uriel Noah Oloan besides Uzair Shahar of Malaysia. Edwin Lam Choong Wai reports. | Photos: Penang Chess Association's Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/juniors-on-the-rise-the-15th-penang-heritage-city-international-chess-open-2023",
-         "pubDate" : "Tue, 06 Feb 2024 10:47:34",
-         "title" : "Juniors on the rise: The 15th Penang Heritage City International Chess Open 2023"
       },
       {
          "description" : "The ECU E-Magazine January 2024 is out! In this edition of the ECU Magazine you may read about: The January 2024 edition of the ECU Magazine can be read online together with interactive links, or it can be downloaded below.",
