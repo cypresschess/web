@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. Our columnist Nagesh Havanur offers a review with focus on chess in the 21st Century.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/megabase-2024-review-nagesh-havanur",
+         "pubDate" : "Thu, 08 Feb 2024 20:00:00",
+         "title" : "MegaBase 2024: Chess marches on!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis Chess Conference, an Innovative Educational Chess Event, to be Held in America's Chess Capital </strong><br /><br /> \t<strong>Educational Chess Event to Feature Renowned Chess Experts, Educational Workshops and Community Engagement Opportunities This Fall</strong><br /><br /> \t <br /><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/slideshow/ChessConference_Horizontal",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-conference-press-release",
+         "pubDate" : "Thu, 08 Feb 2024 18:17:01",
+         "title" : "Saint Louis Chess Conference Press Release!"
+      },
+      {
          "description" : "Chess960 or Freestyle chess will soon be the centre of attention. The 1st German Chess960 Championship will take place in Berlin, Germany, on 9 February and in the German spa Weissenhaus at the Baltic see the world's best chess players will compete in the Freestyle Chess G.O.A.T. Challenge. But who invented this form of chess? Chess historian Hans D. Post has been searching the archives. | Picture: Philip Julius van Zuylen van Nijevelt, who probably was the first to come up with the idea of Chess960 or Freestyle chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,14 +130,6 @@ news_feed (
          "title" : "Robert Ris: Calculation Training - Sharpen Your Game!"
       },
       {
-         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. The last day of action sees Magnus Carlsen facing Alireza Firouzja in the Grand Final of Division I. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
-         "pubDate" : "Wed, 07 Feb 2024 11:50:00",
-         "title" : "Chessable Masters Grand Final - Live!"
-      },
-      {
          "description" : "GM Magnus Carlsen won Division I of the 2024 Champions Chess Tour Chessable Masters on Wednesday. GM Alireza Firouzja took the first set of the Grand Final, impressively winning the first two games in a row, but the world number-one struck back in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -134,7 +142,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/piorun-nakamura-win-titled-tuesday-february-6-2024",
-         "pubDate" : "Wed, 07 Feb 2024 09:03:40",
+         "pubDate" : "Wed, 07 Feb 2024 09:03:00",
          "title" : "Nakamura Extends Titled Cup Lead"
       },
       {
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-piece-restriction-puzzlers-paradise-gm-denes-boros-shorts",
          "pubDate" : "Thu, 01 Feb 2024 06:11:34",
          "title" : "Chess is Piece Restriction | Puzzler's Paradise - GM Denes Boros #Shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Originally from Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-are-you-having-fun-yet-puzzlers-paradise-gm-denes-boros-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/gh3i5tjHf3A.jpg?itok=GAeswy6z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-are-you-having-fun-yet-puzzlers-paradise-gm-denes-boros-shorts",
-         "pubDate" : "Thu, 01 Feb 2024 06:11:34",
-         "title" : "Chess: Are You Having Fun Yet? | Puzzler's Paradise - GM Denes Boros... #Shorts"
       },
       {
          "description" : "On his 25th birthday, GM Jose Martinez finished first in the all-GM Play-in of the 2024 Champions Chess Tour Chessable Masters. The penultimate round against GM Hikaru Nakamura was absolutely critical, as the Peruvian GM managed to draw a losing e...",
