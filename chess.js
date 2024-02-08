@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen won the Chessable Masters after defeating Alireza Firouzja in the Grand Final Reset of Division I. Firouzja started the day with two wins in a row, and obtained a draw in game 4 to set up a rematch. In the Reset, however, it was Carlsen who scored first. Firouzja then failed to make the most of an advantageous position, as he allowed Carlsen to turn the tables and get a 2-0 final victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d8",
+         "pubDate" : "Wed, 07 Feb 2024 22:15:00",
+         "title" : "Carlsen beats resilient Firouzja, wins Chessable Masters"
+      },
+      {
          "description" : " The Chessable Masters took place Fri 2nd to Wed 7th Feb 2024, the format was double elimination. Magnus Carlsen, Wesley So, Maxime Vachier-Lagrave, Denis Lazavik, Ian Nepomniachtchi, Jose Eduardo Martinez Alcantara, Vladimir Fedoseev and Alireza Firouzja all competed for the title in Division 1. Carlsen ended up winning the event after beating Denis Lazavik in the winners final and then in the Grand Final he lost to Alireza Firouzja, this meant both Carlsen and Firouzja had lost one match so a final match was played to decide who won, Carlsen did, 2-0. Vincent Keymer beat Levon Aronian in the Division 2 final and has qualified for the next main event, Alexey Sarana beat Alexander Grischuk i",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2874",
          "pubDate" : "Wed, 07 Feb 2024 19:05:26",
          "title" : "Baadur Jobava wins 2024 Georgian Championship"
-      },
-      {
-         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. The last day of action sees Magnus Carlsen facing Alireza Firouzja in the Grand Final of Division I. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
-         "pubDate" : "Wed, 07 Feb 2024 16:50:00",
-         "title" : "Chessable Masters Grand Final - Live!"
       },
       {
          "description" : "As directed the last date of the National Amateur online entries extended to 09th February 2024,1600 PM.",
@@ -50,12 +50,20 @@ news_feed (
          "title" : "Robert Ris: Calculation Training - Sharpen Your Game!"
       },
       {
-         "description" : "This is a flash report. The full report will be added to this page soon. GM Magnus Carlsen won Division I of the 2024 Champions Chess Tour Chessable Masters on Wednesday. GM Alireza Firouzja took the first set of the Grand Final, impressively wi...",
+         "description" : "The 2024 Chessable Masters is the first of four events preceding the Champions Chess Tour in-person Finals. The last day of action sees Magnus Carlsen facing Alireza Firouzja in the Grand Final of Division I. | Follow the games live with expert commentary starting at 17.00 CET (11.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessable-masters-2024-live",
+         "pubDate" : "Wed, 07 Feb 2024 11:50:00",
+         "title" : "Chessable Masters Grand Final - Live!"
+      },
+      {
+         "description" : "GM Magnus Carlsen won Division I of the 2024 Champions Chess Tour Chessable Masters on Wednesday. GM Alireza Firouzja took the first set of the Grand Final, impressively winning the first two games in a row, but the world number-one struck back in...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-8-carlsen-wins",
          "pubDate" : "Wed, 07 Feb 2024 11:25:00",
-         "title" : "Flash Report: Carlsen Wins 2024 Chessable Masters"
+         "title" : "Carlsen Wins 2024 Chessable Masters"
       },
       {
          "description" : "In the Endgame Magic Show #260 Karsten M&uuml;ller and his guest Grandmaster Daniel Fernandez take a look at some endgame highlights from the tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-january-2024/",
          "pubDate" : "Tue, 06 Feb 2024 09:40:27",
          "title" : "ECU E-Magazine January 2024"
-      },
-      {
-         "description" : "Passed pawns can be dangerous and often lead to tactical opportunities. In the diagram position it is White to move and win. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tactics-alert",
-         "pubDate" : "Tue, 06 Feb 2024 09:00:00",
-         "title" : "Tactics alert"
       },
       {
          "description" : "Top Board, 1st Board for all categories is live .&#160; Live Games Cloud Link :&#160;https://view.livechesscloud.com/#8670daa6-78e3-461d-acb4-c4299edcefac Chess-Results.com :&#160; Under 09 Open :&#160;https://chess-results.com/tnr882581.aspx?lan=1&#38;art=0&#38;turdet=YES&#38;flag=30 Under 11 Open :&#160;https://chess-results.com/tnr882582.aspx?lan=1&#38;art=0&#38;turdet=YES&#38;flag=30",
