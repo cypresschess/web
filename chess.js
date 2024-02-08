@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess960 or Freestyle chess will soon be the centre of attention. The 1st German Chess960 Championship will take place in Berlin, Germany, on 9 February and in the German spa Weissenhaus at the Baltic see the world's best chess players will compete in the Freestyle Chess G.O.A.T. Challenge. But who invented this form of chess? Chess historian Hans D. Post has been searching the archives. | Picture: Philip Julius van Zuylen van Nijevelt, who probably was the first to come up with the idea of Chess960 or Freestyle chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess960-or-freestyle-chess-how-it-all-began",
+         "pubDate" : "Thu, 08 Feb 2024 16:00:00",
+         "title" : "Chess960 or Freestyle Chess: How it all began"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2876",
+         "pubDate" : "Thu, 08 Feb 2024 14:45:12",
+         "title" : "Magnus Carlsen strikes back to win 2024 Chessable Masters"
+      },
+      {
          "description" : "In his new Fast & Furious episode, Robert Ris takes a look at the final of the Chessable Masters, in which Magnus Carlsen won against Alireza Firouzja. But it was a close and exciting match, in which Firouzja showed how dangerous he is. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-anish-giri-wins-crucial-game-2",
          "pubDate" : "Thu, 08 Feb 2024 13:12:29",
          "title" : "Robert Ris' Fast and Furious: Well prepared and tactically alert"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2875",
+         "pubDate" : "Thu, 08 Feb 2024 12:57:18",
+         "title" : "FIDE Aid Package to Open Tournaments 2024"
       },
       {
          "description" : " Putting together a new 5 shelf bookshelf. Why? Because it is the Lifeline Bookfair tomorrow. No other reason is necessary. ",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-8-carlsen-wins",
          "pubDate" : "Wed, 07 Feb 2024 11:25:00",
          "title" : "Carlsen Wins 2024 Chessable Masters"
-      },
-      {
-         "description" : "In the Endgame Magic Show #260 Karsten M&uuml;ller and his guest Grandmaster Daniel Fernandez take a look at some endgame highlights from the tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-magic-260-with-daniel-fernandez-endgames-pearls-from-wijk",
-         "pubDate" : "Wed, 07 Feb 2024 09:15:11",
-         "title" : "Endgame Magic #260 - With Daniel Fernandez: Endgames pearls from Wijk"
       },
       {
          "description" : "GM Hikaru Nakamura continued his hot start to the year in Titled Tuesday on February 6, finishing third in the early tournament and winning the late tournament, his third win of 2024. The early event was won by Polish GM Kacper Piorun. Both he and...",
@@ -1024,14 +1040,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/gukesh-and-ju-wenjun-winners-in-tata-steel-masters-round-5",
          "pubDate" : "Thu, 18 Jan 2024 21:53:00",
          "title" : "Gukesh and Ju Wenjun winners in Tata Steel Masters Round 5 - 5"
-      },
-      {
-         "description" : "In a recent post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/fide-rating-list-january-2024.html\">FIDE Rating List - January 2024</A> (January 2024), I wondered where to go next with the data. I decided, <BLOCKQUOTE> One idea is to look at the doubling of players under the FIDE flag ('FID'). To get started, here are counts of 'FID' players for the past five years:-<BR> <BR> 2020 : 252<BR> 2021 : 254<BR> 2022 : 263<BR> 2023 : 527<BR> 2024 : 798 </BLOCKQUOTE> <P> Those numbers total 2094 players, of which 507 were rated 2000 or above. Of course, some of those players were listed as 'FID' for all five years, but I'll come back to that a bit later. <P> The key to detecting federation t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/players-under-fide-flag.html",
-         "pubDate" : "Thu, 18 Jan 2024 16:04:00",
-         "title" : "Players under the FIDE Flag"
       }
    ]
 }
