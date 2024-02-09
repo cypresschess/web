@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, world number one Magnus Carlsen and world champion Ding Liren. The single round-robin kicks off today, February 9, with the first four rounds of rapid chess. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
+         "pubDate" : "Fri, 09 Feb 2024 12:51:04",
+         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+      },
+      {
+         "description" : " This years Lifeline Book Fair was absolutely packed. Even getting there early left me a long way back in the queue. Fortunately there was quite a large collection of chess books on offer, so I didn't miss out on the bargains. Somewhat shamefully I did by a book on the London System, but I made up for it by grabbing a copy of the Jan Timman classic \"The Art of Chess Analysis\". At first I thought I already owned a copy but it turns out that it was a significant omission from my library. I did grab a few other titles, and also was interviewed by ABC Radio while browsing. As the Book Fair runs until Sunday I will probably make the effort to return towards the end, to see what remains. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/2024-book-fair.html",
+         "pubDate" : "Fri, 09 Feb 2024 11:58:00",
+         "title" : "2024 Book Fair"
+      },
+      {
+         "description" : "The games of the Weissenhaus G.O.A.T. Challenge begin on Friday, 9 February, at 1 pm. But before the tournament begins, there will be a press conference at which the participants will answer questions from spectators and journalists. Follow the press conference live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-g-o-a-t-challenge-pressekonferenz-live-2",
+         "pubDate" : "Fri, 09 Feb 2024 11:28:40",
+         "title" : "Weissenhaus G.O.A.T. Challenge: Press Conference - live!"
+      },
+      {
+         "description" : "The Tata Steel 2024 tournament is over, and the masters tournament had at least one clear Underdog with Ju Wenjun, as the only player with a rating under 2600! But despite this setting, she won against the third highest rated player - Alireza Firouzja. Master coach Robert Ris describes perfectly well, why this happened, what went wrong for Alireza, and what Ju Wenjun accomplished delightfully.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wenjun-s-masterpiece-against-firouzja-the-underdog",
+         "pubDate" : "Fri, 09 Feb 2024 11:00:00",
+         "title" : "Wenjun's masterpiece against Firouzja - The Underdog"
+      },
+      {
+         "description" : "A new super tournament starts in Weissenhaus, near Hamburg, Germany, today. But it is not just any other super tournament. This event is introduced by none other than the World no.1 Magnus Carlsen himself and it will be in Fischer-Random format or as Carlsen likes to say, Freestyle. Hence, the name WEISSENHAUS Freestyle Chess G.O.A.T. Challenge. Carlsen's handpicked opponents for this eight-player tournament are: Fabiano Caruana (USA), Ding Liren (CHN), Alireza Firouzja (FRA), Nodirbek Abdusattorov (UZB), D Gukesh, Vincent Keymer (GER) and Levon Aronian (USA). There will be four rounds of Rapid games played today in Playoffs. Round 1 starts today at 1 p.m. CET, 5:30 p.m. IST, 7 a.m. EST. | P",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/carlsen-set-to-face-ding-liren-and-co-at-weissenhaus-freestyle-g-o-a-t-challenge",
+         "pubDate" : "Fri, 09 Feb 2024 10:16:01",
+         "title" : "Carlsen set to face Ding Liren and co. at Weissenhaus Freestyle G.O.A.T. Challenge"
+      },
+      {
          "description" : "The World Chess Hall of Fame is known for its wonderful exhibitions on various subjects related to chess. Now, the Hall of Fame announced its new exhibition: Donna Dodson's \"Match of the Matriarchs and other Amazonomachies\". It will start on 15 February and centers on women's stories and lives, and the history of women in chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/5-things-we-learned-2024-cct-chessable-masters",
-         "pubDate" : "Thu, 08 Feb 2024 20:58:50",
+         "pubDate" : "Thu, 08 Feb 2024 20:58:00",
          "title" : "5 Things We Learned - Chessable Masters 2024"
       },
       {
@@ -80,14 +120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2876",
          "pubDate" : "Thu, 08 Feb 2024 14:45:12",
          "title" : "Magnus Carlsen strikes back to win 2024 Chessable Masters"
-      },
-      {
-         "description" : "In his new Fast & Furious episode, Robert Ris takes a look at the final of the Chessable Masters, in which Magnus Carlsen won against Alireza Firouzja. But it was a close and exciting match, in which Firouzja showed how dangerous he is. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-anish-giri-wins-crucial-game-2",
-         "pubDate" : "Thu, 08 Feb 2024 13:12:29",
-         "title" : "Robert Ris' Fast and Furious: Well prepared and tactically alert"
       },
       {
          "description" : "",
@@ -128,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-trading-cards-swap-trade-have-fun",
          "pubDate" : "Thu, 08 Feb 2024 09:04:19",
          "title" : "Chess Trading Cards: Swap, trade, have fun"
-      },
-      {
-         "description" : "Magnus Carlsen won the Chessable Masters after defeating Alireza Firouzja in the Grand Final Reset of Division I. Firouzja started the day with two wins in a row, and obtained a draw in game 4 to set up a rematch. In the Reset, however, it was Carlsen who scored first. Firouzja then failed to make the most of an advantageous position, as he allowed Carlsen to turn the tables and get a 2-0 final victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessable-masters-2024-d8",
-         "pubDate" : "Wed, 07 Feb 2024 22:15:00",
-         "title" : "Carlsen beats resilient Firouzja, wins Chessable Masters"
       },
       {
          "description" : " The Chessable Masters took place Fri 2nd to Wed 7th Feb 2024, the format was double elimination. Magnus Carlsen, Wesley So, Maxime Vachier-Lagrave, Denis Lazavik, Ian Nepomniachtchi, Jose Eduardo Martinez Alcantara, Vladimir Fedoseev and Alireza Firouzja all competed for the title in Division 1. Carlsen ended up winning the event after beating Denis Lazavik in the winners final and then in the Grand Final he lost to Alireza Firouzja, this meant both Carlsen and Firouzja had lost one match so a final match was played to decide who won, Carlsen did, 2-0. Vincent Keymer beat Levon Aronian in the Division 2 final and has qualified for the next main event, Alexey Sarana beat Alexander Grischuk i",
