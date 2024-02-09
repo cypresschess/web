@@ -18,7 +18,7 @@ news_feed (
          "title" : "Ding Liren in Hamburg"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into the preparation methods of the greatest players of all time, like Garry Kasparov and others. 2024.02.08 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/way-goats-prepare-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PcEwecIMd6k.jpg?itok=tiNaIxmg\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into the preparation methods of the greatest players of all time, like world champions Garry Kasparov, Vishy Anand, Vladimir Kramnik. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/way-goats-prepare-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PcEwecIMd6k.jpg?itok=tiNaIxmg\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/way-goats-prepare-prepare-pro-gm-denes-boros",
