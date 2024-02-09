@@ -26,6 +26,14 @@ news_feed (
          "title" : "Weissenhaus G.O.A.T. Challenge: Press Conference - live!"
       },
       {
+         "description" : "To the surprise of everyone he won the 2023 World Championship in Astana, but then disappeared from public view. Ding Liren played just a very few games - until the Tata Steel tournament in Wijk ann Zee. There he did not do well at all. We invited him, like so many others, to come to Hamburg to do a refresher course in the use of the ChessBase software, which he did. Frederic Friedel reports. | Photos ©Nils Rohde/ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-in-hamburg",
+         "pubDate" : "Fri, 09 Feb 2024 11:20:00",
+         "title" : "Ding Liren in Hamburg"
+      },
+      {
          "description" : "The Tata Steel 2024 tournament is over, and the masters tournament had at least one clear Underdog with Ju Wenjun, as the only player with a rating under 2600! But despite this setting, she won against the third highest rated player - Alireza Firouzja. Master coach Robert Ris describes perfectly well, why this happened, what went wrong for Alireza, and what Ju Wenjun accomplished delightfully.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +58,7 @@ news_feed (
          "title" : "World Chess Hall of Fame to Premiere New Exhibition: Donna Dodson: Match of the Matriarchs and other Amazonomachies"
       },
       {
-         "description" : " The Norwegian, 33, continues to dominate online chess and has won 14 of the the past 17 Tour finals he has contested Magnus Carlsen, the world No 1, maintained his ­outstanding record in the online Champions Tour this week with a victory in the <a href=\"https://www.chess.com/today\">Chessable Masters</a>. The Norwegian, 33, has now won 14 of the 17 Tour finals he has contested. However, it was not an easy passage. Carlsen lost to Alireza Firouzja 1.5â€‘2.5 in the Chessable Masters final, but under the rules he had the right to a return match which he won 2-0. The pair were evenly matched, with Carlsen's strategic depth offset by the 20-year-old Frenchman's ferocious tactical skills, and its ",
+         "description" : " The Norwegian, 33, continues to dominate online chess and has won 14 of the the past 17 Tour finals he has contested Magnus Carlsen, the world No 1, maintained his ­outstanding record in the online Champions Tour this week with a victory in the <a href=\"https://www.chess.com/today\">Chessable Masters</a>. The Norwegian, 33, has now won 14 of the 17 Tour finals he has contested. However, it was not an easy passage. Carlsen lost to Alireza Firouzja 1.5â€‘2.5 in the Chessable Masters final, but under the rules he had the right to a return match, which he won 2-0. The pair were evenly matched, with Carlsen's strategic depth offset by the 20-year-old Frenchman's ferocious tactical skills, and its",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/feb/09/chess-carlsen-beats-firouzja-to-secure-another-champions-tour-title",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/weissenhaus-freestyle-chess-goat-challenge-2024",
          "pubDate" : "Thu, 8 Feb 2024 22:31:00",
          "title" : "Weissenhaus Freestyle Chess GOAT Challenge 2024 - Games and Results"
-      },
-      {
-         "description" : "To the surprise of everyone he won the 2023 World Championship in Astana, but then disappeared from public view. Ding Liren played just a very few games - until the Tata Steel tournament in Wijk ann Zee. There he did not do well at all. We invited him, like so many others, to come to Hamburg to do a refresher course in the use of the ChessBase software, which he did. Frederic Friedel reports. | Photos ©Nils Rohde/ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-in-hamburg",
-         "pubDate" : "Thu, 08 Feb 2024 22:00:00",
-         "title" : "Ding Liren in Hamburg"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into the preparation methods of the greatest players of all time, like world champions Garry Kasparov, Vishy Anand, Vladimir Kramnik. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/way-goats-prepare-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PcEwecIMd6k.jpg?itok=tiNaIxmg\" alt=\"\" /></a></div>",
