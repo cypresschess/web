@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Weissenhaus Freestyle Chess GOAT Challenge takes place Fri 9th to 16th Feb 2024. Rapid Round Robin followed by a Knockout at Standard time controls. This is Fischer Random, Chess960, Shuffle Chess by another name. Players: Magnus Carlsen, Alireza Firouzja, Fabiano Caruana, D Gukesh, Levon Aronian, Vincent Keymer, Ding Liren and Nodirbek Abdusattorov. I don't have the ability to display Chess960 but will try and produce a downloadable file each day. Truthfully I've never found Chess960 at all interesting.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/weissenhaus-freestyle-chess-goat-challenge-2024",
+         "pubDate" : "Thu, 8 Feb 2024 22:31:00",
+         "title" : "Weissenhaus Freestyle Chess GOAT Challenge 2024 - Games and Results"
+      },
+      {
+         "description" : "To the surprise of everyone he won the 2023 World Championship in Astana, but then disappeared from public view. Ding Liren played just a very few games - until the Tata Steel tournament in Wijk ann Zee. There he did not do well at all. We invited him, like so many others, to come to Hamburg to do a refresher course in the use of the ChessBase software, which he did. Frederic Friedel reports. | Photos ©Nils Rohde/ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-in-hamburg",
+         "pubDate" : "Thu, 08 Feb 2024 22:00:00",
+         "title" : "Ding Liren in Hamburg"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into the preparation methods of the greatest players of all time, like Garry Kasparov and others. 2024.02.08 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/way-goats-prepare-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PcEwecIMd6k.jpg?itok=tiNaIxmg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/way-goats-prepare-prepare-pro-gm-denes-boros",
+         "pubDate" : "Thu, 08 Feb 2024 21:20:24",
+         "title" : "The Way GOATs Prepare | Prepare Like A Pro - GM Denes Boros"
+      },
+      {
          "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. Our columnist Nagesh Havanur offers a review with focus on chess in the 21st Century.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/study-of-the-month-ding-s-wcc-game-6-checkmate-pattern-in-endgame-studies-2",
          "pubDate" : "Wed, 07 Feb 2024 14:00:00",
          "title" : "Study of the month: Ding's WCC game 6 checkmate pattern in endgame studies"
-      },
-      {
-         "description" : "Calling all ambitious players who are up for improving their calculation skills! In Calculation Training - Sharpen Your Game! a total of 73 examples have been selected, the vast majority containing multiple questions, and more than 160 questions of varying difficulty.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-sharpen-your-game-2",
-         "pubDate" : "Wed, 07 Feb 2024 12:00:00",
-         "title" : "Robert Ris: Calculation Training - Sharpen Your Game!"
       },
       {
          "description" : "GM Magnus Carlsen won Division I of the 2024 Champions Chess Tour Chessable Masters on Wednesday. GM Alireza Firouzja took the first set of the Grand Final, impressively winning the first two games in a row, but the world number-one struck back in...",
@@ -480,14 +496,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-releases-kingdom-chess-app",
          "pubDate" : "Thu, 01 Feb 2024 08:15:00",
          "title" : "Chess.com Releases Kingdom Chess App"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Originally from Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-piece-restriction-puzzlers-paradise-gm-denes-boros-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZB56UffqgOg.jpg?itok=HX6D3pHT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-piece-restriction-puzzlers-paradise-gm-denes-boros-shorts",
-         "pubDate" : "Thu, 01 Feb 2024 06:11:34",
-         "title" : "Chess is Piece Restriction | Puzzler's Paradise - GM Denes Boros #Shorts"
       },
       {
          "description" : "On his 25th birthday, GM Jose Martinez finished first in the all-GM Play-in of the 2024 Champions Chess Tour Chessable Masters. The penultimate round against GM Hikaru Nakamura was absolutely critical, as the Peruvian GM managed to draw a losing e...",
@@ -1024,22 +1032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2849",
          "pubDate" : "Fri, 19 Jan 2024 06:27:50",
          "title" : "Updated Tie-break Regulations effective from April 1, 2024 published"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2848",
-         "pubDate" : "Thu, 18 Jan 2024 23:11:23",
-         "title" : "Tata Steel Masters 2024: Giri extends his lead"
-      },
-      {
-         "description" : " The fifth round of the Tata Steel Masters saw just two decisive games, wins for Gukesh over Ian Nepomniachtchi and Ju Wenjun over Alireza Firouzja. The latter result meant that Anish Giri extended his lead in the tournament to a point. Giri was under some pressure by Praggnanandhaa but this was gone by first time control. In the remaining games Vidit drew with Max Warmerdam, Alexander Donchenko drew with Jorden Van Foreest, Nodirbek Abdusattorov drew with Wei Yi and Parham Maghsoodloo drew with Ding Liren. 6 out of 7 games in the Challengers were decisive leaving Erwin L'Ami in the lead on 4/5. Eline Roebers beat joint leader Hans Moke Niemann to get off the mark. Round 5 Standings: 1st Gir",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/gukesh-and-ju-wenjun-winners-in-tata-steel-masters-round-5",
-         "pubDate" : "Thu, 18 Jan 2024 21:53:00",
-         "title" : "Gukesh and Ju Wenjun winners in Tata Steel Masters Round 5 - 5"
       }
    ]
 }
