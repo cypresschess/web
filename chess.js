@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Hall of Fame is known for its wonderful exhibitions on various subjects related to chess. Now, the Hall of Fame announced its new exhibition: Donna Dodson's \"Match of the Matriarchs and other Amazonomachies\". It will start on 15 February and centers on women's stories and lives, and the history of women in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-chess-hall-of-fame-to-premiere-new-exhibition-donna-dodson-match-of-the-matriarchs-and-other-amazonomachies",
+         "pubDate" : "Fri, 09 Feb 2024 08:36:27",
+         "title" : "World Chess Hall of Fame to Premiere New Exhibition: Donna Dodson: Match of the Matriarchs and other Amazonomachies"
+      },
+      {
+         "description" : " The Norwegian, 33, continues to dominate online chess and has won 14 of the the past 17 Tour finals he has contested Magnus Carlsen, the world No 1, maintained his ­outstanding record in the online Champions Tour this week with a victory in the <a href=\"https://www.chess.com/today\">Chessable Masters</a>. The Norwegian, 33, has now won 14 of the 17 Tour finals he has contested. However, it was not an easy passage. Carlsen lost to Alireza Firouzja 1.5â€‘2.5 in the Chessable Masters final, but under the rules he had the right to a return match which he won 2-0. The pair were evenly matched, with Carlsen's strategic depth offset by the 20-year-old Frenchman's ferocious tactical skills, and its ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/feb/09/chess-carlsen-beats-firouzja-to-secure-another-champions-tour-title",
+         "pubDate" : "Fri, 09 Feb 2024 08:00:37",
+         "title" : "Chess: Carlsen beats Firouzja to secure another Champions Tour title"
+      },
+      {
          "description" : " The Weissenhaus Freestyle Chess GOAT Challenge takes place Fri 9th to 16th Feb 2024. Rapid Round Robin followed by a Knockout at Standard time controls. This is Fischer Random, Chess960, Shuffle Chess by another name. Players: Magnus Carlsen, Alireza Firouzja, Fabiano Caruana, D Gukesh, Levon Aronian, Vincent Keymer, Ding Liren and Nodirbek Abdusattorov. I don't have the ability to display Chess960 but will try and produce a downloadable file each day. Truthfully I've never found Chess960 at all interesting.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/way-goats-prepare-prepare-pro-gm-denes-boros",
          "pubDate" : "Thu, 08 Feb 2024 21:20:24",
          "title" : "The Way GOATs Prepare | Prepare Like A Pro - GM Denes Boros"
+      },
+      {
+         "description" : "The first event of the 2024 Champions Chess Tour, the 2024 Chessable Masters, is in the books, and plenty has happened in the tournament that lasted eight days. Some things aren&#39;t new, like the fact that GM Magnus Carlsen won again. But plenty i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/5-things-we-learned-2024-cct-chessable-masters",
+         "pubDate" : "Thu, 08 Feb 2024 20:58:50",
+         "title" : "5 Things We Learned - Chessable Masters 2024"
       },
       {
          "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. Our columnist Nagesh Havanur offers a review with focus on chess in the 21st Century.",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://aicf.in/national-amateur-2024/",
          "pubDate" : "Wed, 07 Feb 2024 14:21:21",
          "title" : "National Amateur 2024"
-      },
-      {
-         "description" : "In his World Chess Championship match against Ian Nepomniachtchi, which made him the 17th World Champion in the history of chess, Chinese Grandmaster Ding Liren won the sixth game by threatening a checkmate with rook and knight. Let us see how that checkmate was utilized in endgame studies. | Photo: Midjourney",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/study-of-the-month-ding-s-wcc-game-6-checkmate-pattern-in-endgame-studies-2",
-         "pubDate" : "Wed, 07 Feb 2024 14:00:00",
-         "title" : "Study of the month: Ding's WCC game 6 checkmate pattern in endgame studies"
       },
       {
          "description" : "GM Magnus Carlsen won Division I of the 2024 Champions Chess Tour Chessable Masters on Wednesday. GM Alireza Firouzja took the first set of the Grand Final, impressively winning the first two games in a row, but the world number-one struck back in...",
@@ -706,14 +722,6 @@ news_feed (
          "title" : "Nakamura Wins Bullet Brawl, Tries New 'Alien Gambit'"
       },
       {
-         "description" : "After a wild round on Saturday, there is a five-way tie for first place in the Tata Steel Chess Tournament&#39;s Masters group. With GM Vidit Gujrathi, GM Anish Giri, GM Gukesh Dommaraju, GM Nodirbek Abdusattorov, and GM Wei Yi all on 7.5/12, chances ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-12",
-         "pubDate" : "Sat, 27 Jan 2024 14:49:00",
-         "title" : "Tata Steel Chess Masters Wide Open As Vidit Beats Abdusattorov, Becomes India's #1"
-      },
-      {
          "description" : "You plan a tournament and realize you could play two different sections. The question is: Which section should you play in? Here is how you decide which section to play in without feeling remorse afterward. Pros And Cons In short, the higher-up section is better for your long-term improvement as a player, while the lower []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1016,22 +1024,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/giri-allows-firouzja-to-close-the-lead-after-missed-chances-against-maghsoodloo-in-tata-steel-round-6",
          "pubDate" : "Fri, 19 Jan 2024 21:06:00",
          "title" : "Giri allows Firouzja to close the lead after missed chances against Maghsoodloo in Tata Steel Round 6 - 6"
-      },
-      {
-         "description" : " The Chennai teenager is being backed by his country's second wealthiest individual as he bids to win the Candidates at Toronto in April and qualify for a title match against Ding later in 2024 India's rising talent Rameshbabu Praggnanandhaa had a day to remember at Tata Steel Wijk aan Zee on ­Tuesday. The 18-year-old from ­Chennai <a href=\"https://www.2700chess.com/games/ding-praggnanandhaa-r4-wijk-aan-zee-2024-01-16\">defeated China's world champion</a>, Ding Liren, with the black pieces for the second year in succession at the \"chess Wimbledon\" and also jumped to No 11 in the live rankings, where he now sits one place ahead of India's former world champion Vishy Anand. There was a curious ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/jan/19/chess-indias-praggnanandhaa-18-beats-world-champion-ding-at-wijk-aan-zee",
-         "pubDate" : "Fri, 19 Jan 2024 08:00:24",
-         "title" : "Chess: India's Praggnanandhaa, 18, beats world champion Ding at Wijk aan Zee"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2849",
-         "pubDate" : "Fri, 19 Jan 2024 06:27:50",
-         "title" : "Updated Tie-break Regulations effective from April 1, 2024 published"
       }
    ]
 }
