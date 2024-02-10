@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are more than a month in, and this is a good time to assess your chess Training in 2024. Assuming you have established some sort of a training routine, here are three metrics you should track to know if you are doing well: This Newsletter explains Why &#38; How. Simplify Your Training I'm not []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/training-metrics/",
+         "pubDate" : "Sat, 10 Feb 2024 15:30:27",
+         "title" : "The Three Essential Chess Training Metrics You Need To Track"
+      },
+      {
          "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, world number one Magnus Carlsen and world champion Ding Liren. The last three rounds of the rapid round-robin are set to take place today, February 10. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
          "pubDate" : "Sat, 10 Feb 2024 12:50:00",
          "title" : "Freestyle G.O.A.T. Challenge - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107585056.cms\" />Grandmaster D Gukesh delivered a series of remarkable moves, defeating World No. 1 Magnus Carlsen of Norway, Levon Aronian of Armenia, and ultimately the reigning world champion Ding Liren of China on the opening day of the Weissenhaus Chess Challenge.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-beats-carlsen-joint-second-after-day-one-of-freestyle-chess-news/articleshow/107585056.cms",
+         "pubDate" : "Sat, 10 Feb 2024 12:45:06",
+         "title" : "Gukesh beats Carlsen; joint second after day one of Freestyle Chess"
       },
       {
          "description" : "The Jeddah Youth Chess Festival was held from 24 to 30 January in this Red Sea port in Saudi Arabia. It was a celebration of youth, chess and friendship while soaking the culture and hospitality of a welcoming nation that is opening its doors and hearts to chess and all sports. Diana Mihajlova reports.",
@@ -384,6 +400,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-february-3-2024",
          "pubDate" : "Sat, 03 Feb 2024 14:31:00",
          "title" : "Naroditsky Clinches Bullet Brawl Victory Ahead Of Nakamura"
+      },
+      {
+         "description" : "An optimal learning process needs the right information in the right order. Kids need to learn addition, but first, they need crucial information about the numbers and how to count. 2+1 is unsolvable if you don't know that after 2 comes 3. Sadly, that's how most adult improvers are taught nowadays. Random information in random []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/beginner-chess-training-done-right/",
+         "pubDate" : "Sat, 03 Feb 2024 14:00:00",
+         "title" : "Beginner Chess Training Done Right"
       },
       {
          "description" : " Some more drama in the world of chess, with the St Louis Chess Club releasing a statement concerning GM Hans Niemann. Basically it says that due to past behaviour, he is not invited to any events being organised by the St Louis Chess Club for the remainder of 2024. While they did not list the behaviour concerned, Niemann copped to damaging a hotel room while attending a previous event. And while this is a matter between Niemann and the SLCC, one aspect of it did pique my interest. In complaining about his treatment, Niemann remarked that having apologised to the hotel (and paid the cost of damages), he thought he was in the clear. The fact that they did not see it in the same way was someho",
@@ -1016,14 +1040,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/abdusattorov-beats-giri-to-transform-the-leader-board-of-the-tata-steel-masters-after-7-rounds",
          "pubDate" : "Sat, 20 Jan 2024 21:02:00",
          "title" : "Abdusattorov beats Giri to transform the leader board of the Tata Steel Masters after 7 rounds - 7"
-      },
-      {
-         "description" : "A few days before an important tournament you realize: shit, I was so sloppy with my training and I'll pay for it. It is a common feeling with exams, big work projects, and chess tournaments. Cramming in the last minute sometimes saves our ass, but it isn't the most effective way to learn. A very []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/stick-to-chess-plan/",
-         "pubDate" : "Sat, 20 Jan 2024 14:00:00",
-         "title" : "How To Stick To Your Daily Chess Plan"
       }
    ]
 }
