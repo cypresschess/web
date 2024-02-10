@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Dommaraju Gukesh beat the GOAT, GM Magnus Carlsen, after whom the 2024 Freestyle Chess G.O.A.T. Challenge is named, as a new Chess960 supertournament began in Germany. He also took down World Champion Ding Liren, who lost all four games, while ...",
+         "description" : "<div class=\"body text-secondary\"> Originally on Twitch. 2024.01.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/understand-when-break-through-grandmasters-choice-wgm-thalia-cervantes-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HQxCQwJ4KhI.jpg?itok=okjNlBAl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/understand-when-break-through-grandmasters-choice-wgm-thalia-cervantes-shorts-chess",
+         "pubDate" : "Sat, 10 Feb 2024 00:21:40",
+         "title" : "Understand When to Break Through | Grandmaster's Choice - WGM Thalia Cervantes #Shorts #chess"
+      },
+      {
+         "description" : "GM Dommaraju Gukesh beat the GOAT, GM Magnus Carlsen, after whom the 2024 Freestyle Chess G.O.A.T. Challenge is named, as a new Chess960 super-tournament began in Germany. He also took down World Champion Ding Liren, who lost all four games, while...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-1",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "Botez Sisters, GothamChess, & Other Chess Celebrities Join The ChessKid National Festival"
       },
       {
+         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, world number one Magnus Carlsen and world champion Ding Liren. The last three rounds of the rapid round-robin are set to take place today, February 10. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
+         "pubDate" : "Fri, 09 Feb 2024 12:51:04",
+         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+      },
+      {
          "description" : " This years Lifeline Book Fair was absolutely packed. Even getting there early left me a long way back in the queue. Fortunately there was quite a large collection of chess books on offer, so I didn't miss out on the bargains. Somewhat shamefully I did by a book on the London System, but I made up for it by grabbing a copy of the Jan Timman classic \"The Art of Chess Analysis\". At first I thought I already owned a copy but it turns out that it was a significant omission from my library. I did grab a few other titles, and also was interviewed by ABC Radio while browsing. As the Book Fair runs until Sunday I will probably make the effort to return towards the end, to see what remains. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/02/2024-book-fair.html",
          "pubDate" : "Fri, 09 Feb 2024 11:58:00",
          "title" : "2024 Book Fair"
+      },
+      {
+         "description" : "The games of the Weissenhaus G.O.A.T. Challenge begin on Friday, 9 February, at 1 pm. But before the tournament begins, there will be a press conference at which the participants will answer questions from spectators and journalists. Follow the press conference live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/weissenhaus-g-o-a-t-challenge-pressekonferenz-live-2",
+         "pubDate" : "Fri, 09 Feb 2024 11:28:40",
+         "title" : "Weissenhaus G.O.A.T. Challenge: Press Conference - live!"
       },
       {
          "description" : "To the surprise of everyone he won the 2023 World Championship in Astana, but then disappeared from public view. Ding Liren played just a very few games - until the Tata Steel tournament in Wijk ann Zee. There he did not do well at all. We invited him, like so many others, to come to Hamburg to do a refresher course in the use of the ChessBase software, which he did. Frederic Friedel reports. | Photos ©Nils Rohde/ChessBase",
@@ -138,28 +162,12 @@ news_feed (
          "title" : "Things Shaun has been doing recently"
       },
       {
-         "description" : "A new super-tournament is about to start at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, world number one Magnus Carlsen and world champion Ding Liren. A single round-robin with a rapid time control will be followed by a knockout tournament with a classical time control. The event will take place on February 9-16. | More info here!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestlye-challenge-2024-preview",
-         "pubDate" : "Thu, 08 Feb 2024 11:37:41",
-         "title" : "Freestyle G.O.A.T. Challenge: An innovative, luxurious approach"
-      },
-      {
          "description" : "Chess should be a safe and inclusive place for all. Following the adoption of the European Fair Play and Safe Play Policies, the European Chess Union is taking further steps to implement the new policy and provide training for its officials, but also for members of the association. To continue working towards this goal, the ECU Commission For Women's Chess has teamed up with the Women in Chess Foundation to enable every European federation to train certified Safe Play Ambassadors. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-commission-for-womens-chess-teams-up-with-women-in-chess-foundation/",
          "pubDate" : "Thu, 08 Feb 2024 09:52:50",
          "title" : "ECU Commission for Women's Chess teams up with Women in Chess Foundation"
-      },
-      {
-         "description" : "The ChessBase Trading Card Market is a nice field of activity for all chess fans who enjoy chess topics. And there are so many themes and new things to discover. And it's especially great if you have a complete series. You don't necessarily have to buy trading cards with ducats, you can also swap them. Here's how it works:",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-trading-cards-swap-trade-have-fun",
-         "pubDate" : "Thu, 08 Feb 2024 09:04:19",
-         "title" : "Chess Trading Cards: Swap, trade, have fun"
       },
       {
          "description" : " The Chessable Masters took place Fri 2nd to Wed 7th Feb 2024, the format was double elimination. Magnus Carlsen, Wesley So, Maxime Vachier-Lagrave, Denis Lazavik, Ian Nepomniachtchi, Jose Eduardo Martinez Alcantara, Vladimir Fedoseev and Alireza Firouzja all competed for the title in Division 1. Carlsen ended up winning the event after beating Denis Lazavik in the winners final and then in the Grand Final he lost to Alireza Firouzja, this meant both Carlsen and Firouzja had lost one match so a final match was played to decide who won, Carlsen did, 2-0. Vincent Keymer beat Levon Aronian in the Division 2 final and has qualified for the next main event, Alexey Sarana beat Alexander Grischuk i",
@@ -448,14 +456,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-grand-prix/",
          "pubDate" : "Thu, 01 Feb 2024 15:45:54",
          "title" : "ECF Grand Prix"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Originally from Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/queen-needs-little-help-puzzlers-paradise-gm-denes-boros-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PqdxYKPIQcw.jpg?itok=gqItqMVu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/queen-needs-little-help-puzzlers-paradise-gm-denes-boros-shorts-chess",
-         "pubDate" : "Thu, 01 Feb 2024 15:11:45",
-         "title" : "The Queen Needs a Little Help | Puzzler's Paradise - GM Denes Boros | #Shorts #chess"
       },
       {
          "description" : "",
