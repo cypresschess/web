@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, world number one Magnus Carlsen and world champion Ding Liren. The single round-robin kicks off today, February 9, with the first four rounds of rapid chess. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
-         "pubDate" : "Fri, 09 Feb 2024 12:51:04",
-         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+         "description" : "GM Dommaraju Gukesh beat the GOAT, GM Magnus Carlsen, after whom the 2024 Freestyle Chess G.O.A.T. Challenge is named, as a new Chess960 supertournament began in Germany. He also took down World Champion Ding Liren, who lost all four games, while ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-1",
+         "pubDate" : "Fri, 09 Feb 2024 15:19:52",
+         "title" : "Gukesh Beats Carlsen As Keymer Takes Early Freestyle Chess Lead"
+      },
+      {
+         "description" : "The inaugural ChessKid National Festival is only a week away, and some of the chess world&#39;s most famous names are getting ready to descend on Charlotte, North Carolina to join the festivities. Tickets for the ChessKid National Festival are still...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/botez-sisters-gothamchess-join-chesskid-national-festival",
+         "pubDate" : "Fri, 09 Feb 2024 13:22:00",
+         "title" : "Botez Sisters, GothamChess, & Other Chess Celebrities Join The ChessKid National Festival"
       },
       {
          "description" : " This years Lifeline Book Fair was absolutely packed. Even getting there early left me a long way back in the queue. Fortunately there was quite a large collection of chess books on offer, so I didn't miss out on the bargains. Somewhat shamefully I did by a book on the London System, but I made up for it by grabbing a copy of the Jan Timman classic \"The Art of Chess Analysis\". At first I thought I already owned a copy but it turns out that it was a significant omission from my library. I did grab a few other titles, and also was interviewed by ABC Radio while browsing. As the Book Fair runs until Sunday I will probably make the effort to return towards the end, to see what remains. ",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/2024-book-fair.html",
          "pubDate" : "Fri, 09 Feb 2024 11:58:00",
          "title" : "2024 Book Fair"
-      },
-      {
-         "description" : "The games of the Weissenhaus G.O.A.T. Challenge begin on Friday, 9 February, at 1 pm. But before the tournament begins, there will be a press conference at which the participants will answer questions from spectators and journalists. Follow the press conference live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-g-o-a-t-challenge-pressekonferenz-live-2",
-         "pubDate" : "Fri, 09 Feb 2024 11:28:40",
-         "title" : "Weissenhaus G.O.A.T. Challenge: Press Conference - live!"
       },
       {
          "description" : "To the surprise of everyone he won the 2023 World Championship in Astana, but then disappeared from public view. Ding Liren played just a very few games - until the Tata Steel tournament in Wijk ann Zee. There he did not do well at all. We invited him, like so many others, to come to Hamburg to do a refresher course in the use of the ChessBase software, which he did. Frederic Friedel reports. | Photos ©Nils Rohde/ChessBase",
@@ -738,14 +738,6 @@ news_feed (
          "title" : "Changes to qualification paths for the Candidates Tournament"
       },
       {
-         "description" : "GM Hikaru Nakamura secured $400 and his 17th Bullet Brawl title after putting on a tactical exhibition during Saturday&#39;s arena, adding to his Titled Tuesday win earlier in the week. Scoring 67.5/73, Nakamura accrued 246 points and was able to outl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-january-27-2024",
-         "pubDate" : "Sat, 27 Jan 2024 15:05:00",
-         "title" : "Nakamura Wins Bullet Brawl, Tries New 'Alien Gambit'"
-      },
-      {
          "description" : "You plan a tournament and realize you could play two different sections. The question is: Which section should you play in? Here is how you decide which section to play in without feeling remorse afterward. Pros And Cons In short, the higher-up section is better for your long-term improvement as a player, while the lower []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1032,22 +1024,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-lessons-from-the-iron-duke/",
          "pubDate" : "Sat, 20 Jan 2024 10:19:07",
          "title" : "Chess lessons from the Iron Duke"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2850",
-         "pubDate" : "Sat, 20 Jan 2024 00:14:55",
-         "title" : "Tata Steel Masters 2024: Firouzja closes the gap"
-      },
-      {
-         "description" : " The sixth round of the Tata Steel Masters saw wins for Alireza Firouzja against Wei Yi, Gukesh against Jorden van Foreest and Max Warmerdam against Alexander Donchenko. The leader Anish Giri got a tremendous position against Parham Maghsoodloo almost straight out of the opening, let most of the advantage go but missed a cast iron chance after 36...Qd6? but instead, even after having a few minutes to think, allowed his opponent to get into a drawish endgame a pawn down. Nepomniachtchi-Praggnanandhaa, Ding-Abdusattorov and Ju Wenjun-Vidit were all drawn. Round 6 standings: 1st Giri 4.5pts, 2nd Firouzja 4pts, 3rd= Praggnanandhaa, Abdusattorov, Gukesh, Warmerdam 3.5pts, 7th= Wei Yi, Ding Liren,",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/giri-allows-firouzja-to-close-the-lead-after-missed-chances-against-maghsoodloo-in-tata-steel-round-6",
-         "pubDate" : "Fri, 19 Jan 2024 21:06:00",
-         "title" : "Giri allows Firouzja to close the lead after missed chances against Maghsoodloo in Tata Steel Round 6 - 6"
       }
    ]
 }
