@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position it is Black to move, and he skillfully used his bishops to bring down the white king - that's right, plural!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sandwiched",
+         "pubDate" : "Sat, 10 Feb 2024 09:00:00",
+         "title" : "Sandwiched"
+      },
+      {
+         "description" : "The first day of the preliminary rapid stage in the Freestyle G.O.A.T. Challenge saw Vincent Keymer emerging as sole leader with 3&frac12;/4 points. To reach this score, the German star defeated Ding Liren, Fabiano Caruana and Levon Aronian, while his one draw was signed in his game against Magnus Carlsen. Gukesh D and Nodirbek Abdusattorov are sharing second place a half point back.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d1",
+         "pubDate" : "Sat, 10 Feb 2024 08:00:00",
+         "title" : "Freestyle Challenge: Keymer leads, Ding struggles"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Originally on Twitch. 2024.01.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/if-yasser-seirawan-says-its-good-its-good-road-2000-nm-julian-proleiko-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SgkOge9YjVM.jpg?itok=t8l3OGCI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/if-yasser-seirawan-says-its-good-its-good-road-2000-nm-julian-proleiko-shorts-chess",
+         "pubDate" : "Sat, 10 Feb 2024 06:21:50",
+         "title" : "If Yasser Seirawan Says It's Good, It's Good | Road to 2000 - NM Julian Proleiko #Shorts #chess"
+      },
+      {
+         "description" : "Several years ago a DADA Movement exhibition was staged in the Pompidou Centre, Paris. The work of Marcel Duchamp took centre stage. One of the exhibits was a chess set designed by the Master himself, a set on which I had previously personally played while visiting Alexina \"Teeny\" Duchamp (Marcel's widow) at her chateau just outside the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/duchamp-cage-and-katabasis/",
+         "pubDate" : "Sat, 10 Feb 2024 04:48:53",
+         "title" : "Duchamp, Cage and Katabasis"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Originally on Twitch. 2024.01.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/understand-when-break-through-grandmasters-choice-wgm-thalia-cervantes-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HQxCQwJ4KhI.jpg?itok=okjNlBAl\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -14,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-1",
-         "pubDate" : "Fri, 09 Feb 2024 15:19:52",
+         "pubDate" : "Fri, 09 Feb 2024 15:19:00",
          "title" : "Gukesh Beats Carlsen As Keymer Takes Early Freestyle Chess Lead"
       },
       {
@@ -24,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/botez-sisters-gothamchess-join-chesskid-national-festival",
          "pubDate" : "Fri, 09 Feb 2024 13:22:00",
          "title" : "Botez Sisters, GothamChess, & Other Chess Celebrities Join The ChessKid National Festival"
-      },
-      {
-         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, world number one Magnus Carlsen and world champion Ding Liren. The last three rounds of the rapid round-robin are set to take place today, February 10. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
-         "pubDate" : "Fri, 09 Feb 2024 12:51:04",
-         "title" : "Freestyle G.O.A.T. Challenge - Live!"
       },
       {
          "description" : " This years Lifeline Book Fair was absolutely packed. Even getting there early left me a long way back in the queue. Fortunately there was quite a large collection of chess books on offer, so I didn't miss out on the bargains. Somewhat shamefully I did by a book on the London System, but I made up for it by grabbing a copy of the Jan Timman classic \"The Art of Chess Analysis\". At first I thought I already owned a copy but it turns out that it was a significant omission from my library. I did grab a few other titles, and also was interviewed by ABC Radio while browsing. As the Book Fair runs until Sunday I will probably make the effort to return towards the end, to see what remains. ",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/5-things-we-learned-2024-cct-chessable-masters",
          "pubDate" : "Thu, 08 Feb 2024 20:58:00",
          "title" : "5 Things We Learned - Chessable Masters 2024"
-      },
-      {
-         "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. Our columnist Nagesh Havanur offers a review with focus on chess in the 21st Century.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/megabase-2024-review-nagesh-havanur",
-         "pubDate" : "Thu, 08 Feb 2024 20:00:00",
-         "title" : "MegaBase 2024: Chess marches on!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <strong>Saint Louis Chess Conference, an Innovative Educational Chess Event, to be Held in America's Chess Capital </strong><br /><br /> \t<strong>Educational Chess Event to Feature Renowned Chess Experts, Educational Workshops and Community Engagement Opportunities This Fall</strong><br /><br /> \t <br /><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/slideshow/ChessConference_Horizontal",
@@ -432,14 +448,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/feb/02/chess-wei-yi-wins-at-wijk-aan-zee-as-former-prodigy-emerges-from-shadows",
          "pubDate" : "Fri, 02 Feb 2024 08:00:44",
          "title" : "Chess: Wei Yi wins at Wijk aan Zee as former prodigy emerges from shadows"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros teaches about the concept of space in chess, using games from Magnus Carlsen and others. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-uses-space-weapon-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wBKAmm9LN3E.jpg?itok=ql-E6tFr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsen-uses-space-weapon-prepare-pro-gm-denes-boros",
-         "pubDate" : "Thu, 01 Feb 2024 21:12:04",
-         "title" : "Carlsen Uses Space as a Weapon | Prepare Like A Pro - GM Denes Boros"
       },
       {
          "description" : "The post from earlier this week, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-ai-generator.html\">The AI Generator</A> (January 2024), was no.3700 on this blog, which means it's time for another 'Breaking the Barrier' post. In the previous post for the series, <A HREF=\"https://chessforallages.blogspot.com/2023/04/breaking-3600-barrier.html\">Breaking the 3600 Barrier</A> (April 2023), I wrote, <BLOCKQUOTE> Getting back to the 'CCRL Blitz Rating List' there are currently 17 engines rated over 3600. Based on that same list, it looks like we're already good for a 'Breaking 3700' post seven months (or so) from now, which should have at least two engines. </BLOCKQUOTE> <P> Make that ni",
