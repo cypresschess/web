@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, world number one Magnus Carlsen and world champion Ding Liren. The last three rounds of the rapid round-robin are set to take place today, February 10. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
+         "pubDate" : "Sat, 10 Feb 2024 12:50:00",
+         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+      },
+      {
+         "description" : "The Jeddah Youth Chess Festival was held from 24 to 30 January in this Red Sea port in Saudi Arabia. It was a celebration of youth, chess and friendship while soaking the culture and hospitality of a welcoming nation that is opening its doors and hearts to chess and all sports. Diana Mihajlova reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jeddah-youth-festival-report-1",
+         "pubDate" : "Sat, 10 Feb 2024 12:00:00",
+         "title" : "Jeddah International Youth Chess Festival: Impeccable"
+      },
+      {
+         "description" : "In his new Game of the Week show, Merijn van Delft analyses a crucial and fantastic attacking game that helped Vincent Keymer to win Division II of the Chessable Masters. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-605-l-aronian-vs-v-keymer",
+         "pubDate" : "Sat, 10 Feb 2024 11:00:00",
+         "title" : "Game of the Week #605: L. Aronian vs V. Keymer"
+      },
+      {
          "description" : "In the diagram position it is Black to move, and he skillfully used his bishops to bring down the white king - that's right, plural!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,30 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ding-in-hamburg",
          "pubDate" : "Fri, 09 Feb 2024 11:20:00",
          "title" : "Ding Liren in Hamburg"
-      },
-      {
-         "description" : "The Tata Steel 2024 tournament is over, and the masters tournament had at least one clear Underdog with Ju Wenjun, as the only player with a rating under 2600! But despite this setting, she won against the third highest rated player - Alireza Firouzja. Master coach Robert Ris describes perfectly well, why this happened, what went wrong for Alireza, and what Ju Wenjun accomplished delightfully.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wenjun-s-masterpiece-against-firouzja-the-underdog",
-         "pubDate" : "Fri, 09 Feb 2024 11:00:00",
-         "title" : "Wenjun's masterpiece against Firouzja - The Underdog"
-      },
-      {
-         "description" : "A new super tournament starts in Weissenhaus, near Hamburg, Germany, today. But it is not just any other super tournament. This event is introduced by none other than the World no.1 Magnus Carlsen himself and it will be in Fischer-Random format or as Carlsen likes to say, Freestyle. Hence, the name WEISSENHAUS Freestyle Chess G.O.A.T. Challenge. Carlsen's handpicked opponents for this eight-player tournament are: Fabiano Caruana (USA), Ding Liren (CHN), Alireza Firouzja (FRA), Nodirbek Abdusattorov (UZB), D Gukesh, Vincent Keymer (GER) and Levon Aronian (USA). There will be four rounds of Rapid games played today in Playoffs. Round 1 starts today at 1 p.m. CET, 5:30 p.m. IST, 7 a.m. EST. | P",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/carlsen-set-to-face-ding-liren-and-co-at-weissenhaus-freestyle-g-o-a-t-challenge",
-         "pubDate" : "Fri, 09 Feb 2024 10:16:01",
-         "title" : "Carlsen set to face Ding Liren and co. at Weissenhaus Freestyle G.O.A.T. Challenge"
-      },
-      {
-         "description" : "The World Chess Hall of Fame is known for its wonderful exhibitions on various subjects related to chess. Now, the Hall of Fame announced its new exhibition: Donna Dodson's \"Match of the Matriarchs and other Amazonomachies\". It will start on 15 February and centers on women's stories and lives, and the history of women in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-chess-hall-of-fame-to-premiere-new-exhibition-donna-dodson-match-of-the-matriarchs-and-other-amazonomachies",
-         "pubDate" : "Fri, 09 Feb 2024 08:36:27",
-         "title" : "World Chess Hall of Fame to Premiere New Exhibition: Donna Dodson: Match of the Matriarchs and other Amazonomachies"
       },
       {
          "description" : " The Norwegian, 33, continues to dominate online chess and has won 14 of the the past 17 Tour finals he has contested Magnus Carlsen, the world No 1, maintained his ­outstanding record in the online Champions Tour this week with a victory in the <a href=\"https://www.chess.com/today\">Chessable Masters</a>. The Norwegian, 33, has now won 14 of the 17 Tour finals he has contested. However, it was not an easy passage. Carlsen lost to Alireza Firouzja 1.5â€‘2.5 in the Chessable Masters final, but under the rules he had the right to a return match, which he won 2-0. The pair were evenly matched, with Carlsen's strategic depth offset by the 20-year-old Frenchman's ferocious tactical skills, and its",
@@ -1024,14 +1024,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/stick-to-chess-plan/",
          "pubDate" : "Sat, 20 Jan 2024 14:00:00",
          "title" : "How To Stick To Your Daily Chess Plan"
-      },
-      {
-         "description" : "Salvador Dali once said: At the age of six I wanted to be a cook. At seven I wanted to be Napoleon and my ambition has been growing steadily ever since. I have never wanted to be Napoleon, but I did once harbour ambitions to be the Duke of Wellington, or at least the chessboard equivalent. At []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-lessons-from-the-iron-duke/",
-         "pubDate" : "Sat, 20 Jan 2024 10:19:07",
-         "title" : "Chess lessons from the Iron Duke"
       }
    ]
 }
