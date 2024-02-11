@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two tournaments focused on attracting the strongest promising talents in the world are devised, organised and sponsored by Chokri Saidi, an entrepreneur in love with chess, arts, travel, philosophy, psychology and spirituality. In an interview conducted by Diana Mihajlova, the chess enthusiast asserted: \"I like to believe that God invented chess\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chokri-saidi-interview-2024",
+         "pubDate" : "Sun, 11 Feb 2024 18:05:00",
+         "title" : "Chokri Saidi: \"I like to believe that God invented chess\""
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 164th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Vassily Smyslov, the seventh World Champion in the history of chess. | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/2024-book-fair.html",
          "pubDate" : "Fri, 09 Feb 2024 11:58:00",
          "title" : "2024 Book Fair"
-      },
-      {
-         "description" : "To the surprise of everyone he won the 2023 World Championship in Astana, but then disappeared from public view. Ding Liren played just a very few games - until the Tata Steel tournament in Wijk ann Zee. There he did not do well at all. We invited him, like so many others, to come to Hamburg to do a refresher course in the use of the ChessBase software, which he did. Frederic Friedel reports. | Photos ©Nils Rohde/ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-in-hamburg",
-         "pubDate" : "Fri, 09 Feb 2024 11:20:00",
-         "title" : "Ding Liren in Hamburg"
       },
       {
          "description" : " The Norwegian, 33, continues to dominate online chess and has won 14 of the the past 17 Tour finals he has contested Magnus Carlsen, the world No 1, maintained his ­outstanding record in the online Champions Tour this week with a victory in the <a href=\"https://www.chess.com/today\">Chessable Masters</a>. The Norwegian, 33, has now won 14 of the 17 Tour finals he has contested. However, it was not an easy passage. Carlsen lost to Alireza Firouzja 1.5â€‘2.5 in the Chessable Masters final, but under the rules he had the right to a return match, which he won 2-0. The pair were evenly matched, with Carlsen's strategic depth offset by the 20-year-old Frenchman's ferocious tactical skills, and its",
