@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 164th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Vassily Smyslov, the seventh World Champion in the history of chess. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-164-chess-history-in-a-nutshell-45",
+         "pubDate" : "Sun, 11 Feb 2024 15:00:00",
+         "title" : "Understanding before Moving 164: Chess history in a nutshell (45)"
+      },
+      {
+         "description" : " There are some games where you just fall into the trap of playing for tricks. Common sense disappears and instead, each move is based on some dodgy 2 move trick you hope your opponent will fall for. Here is an example where White tries for a tricky idea around move 12, which basically loses. After that he just keeps digging a deeper hole, hoping his opponent might fall in (Narrators voice: No he didn't) <br /> <b>Stevanic,David (2294) - Kozlovic,Jernej (2174) [C52]</b><br /> 28th HIT Open 2024 Nova Gorica SLO (9.12), 02.02.2024 <script> new PgnViewer( { boardName: \"game1441\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.Qb3 Qf6 8.O-O Bb6 9.e5",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/the-downside-of-playing-for-tricks.html",
+         "pubDate" : "Sun, 11 Feb 2024 12:58:00",
+         "title" : "The downside of playing for tricks"
+      },
+      {
          "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The first classical game of the quarter-finals is taking place today, February 11. Carlsen faces the ever-dangerous Alireza Firouzja. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/game-of-the-week-605-l-aronian-vs-v-keymer",
          "pubDate" : "Sat, 10 Feb 2024 11:00:00",
          "title" : "Game of the Week #605: L. Aronian vs V. Keymer"
-      },
-      {
-         "description" : "In the diagram position it is Black to move, and he skillfully used his bishops to bring down the white king - that's right, plural!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sandwiched",
-         "pubDate" : "Sat, 10 Feb 2024 09:00:00",
-         "title" : "Sandwiched"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Originally on Twitch. 2024.01.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/if-yasser-seirawan-says-its-good-its-good-road-2000-nm-julian-proleiko-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SgkOge9YjVM.jpg?itok=t8l3OGCI\" alt=\"\" /></a></div>",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/tata-steel-masters-wide-open-after-8-rounds",
          "pubDate" : "Sun, 21 Jan 2024 20:54:00",
          "title" : "Tata Steel Masters wide open after 8 rounds - 8"
-      },
-      {
-         "description" : "For this month's Flickr favorite, my short list had eight photos. Four of the eight were AI generated images and two were from the annual Tata tournament in Wijk aan Zee. Given my weakness for AI images, guess what I chose for this post? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa21.jpg\" WIDTH=345 HEIGHT=400><BR> <B>Top:</B> <A HREF=\"https://www.flickr.com/photos/ai_universe/53434638171/\">Strategische Finanzplanung: Schachspiel mit goldenen Bullen und bronzenen B&auml;renfiguren</A><BR> <B>Bottom:</B> <A HREF=\"https://www.flickr.com/photos/ai_universe/53438421042/\">Human vs AI playing Chess</A><BR> <B>Both:</B> &#169; Flickr user <I>Kostenlose Bilder mit KI</I> under <A",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/consider-message-not-chess.html",
-         "pubDate" : "Sun, 21 Jan 2024 16:17:00",
-         "title" : "Consider the Message, Not the Chess"
       }
    ]
 }
