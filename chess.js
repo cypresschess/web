@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nodirbek Abdusattorov was the top scorer in the rapid stage of the Freestyle G.O.A.T. Challenge in Germany. The Uzbek prodigy was the only player to remain undefeated in the single round-robin, and got to collect four wins in seven rounds, including a fine positional victory over Magnus Carlsen. Vincent Keymer finished second thanks to his great performance on Friday, while Fabiano Caruana climbed to third place after collecting 2&frac12; out of 3 points on the second day of action. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d2",
+         "pubDate" : "Sat, 10 Feb 2024 22:10:00",
+         "title" : "Freestyle Challenge: Abdusattorov beats Carlsen, wins rapid section"
+      },
+      {
          "description" : "We are more than a month in, and this is a good time to assess your chess Training in 2024. Assuming you have established some sort of a training routine, here are three metrics you should track to know if you are doing well: This Newsletter explains Why &#38; How. Simplify Your Training I'm not []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "The Three Essential Chess Training Metrics You Need To Track"
       },
       {
-         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, world number one Magnus Carlsen and world champion Ding Liren. The last three rounds of the rapid round-robin are set to take place today, February 10. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
-         "pubDate" : "Sat, 10 Feb 2024 12:50:00",
-         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+         "description" : "GM Nodirbek Abdusattorov beat GM Magnus Carlsen in the final round of the 2024 Freestyle Chess G.O.A.T. Challenge Rapid to top the standings with an unbeaten 5.5/7. That set up a Quarterfinal against World Champion Ding Liren, who made a last-roun...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-2",
+         "pubDate" : "Sat, 10 Feb 2024 14:31:00",
+         "title" : "Abdusattorov Beats Carlsen To Win Rapid, Plays Ding In Quarterfinals"
+      },
+      {
+         "description" : "Bullet Brawl records fell on Saturday after Chess.com&#39;s highest-rated bullet and blitz chess player, GM Hikaru Nakamura, swept through the field and amassed a score of 320. With 82 wins, one draw, and one loss to his name, only Peru&#39;s IM Renato Te...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-10-2024",
+         "pubDate" : "Sat, 10 Feb 2024 14:11:00",
+         "title" : "Nakamura Shatters Bullet Brawl Record With 82.5/84 Score"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107585056.cms\" />Grandmaster D Gukesh delivered a series of remarkable moves, defeating World No. 1 Magnus Carlsen of Norway, Levon Aronian of Armenia, and ultimately the reigning world champion Ding Liren of China on the opening day of the Weissenhaus Chess Challenge.",
@@ -730,22 +746,6 @@ news_feed (
          "title" : "Wei Yi Wins 2024 Tata Steel Chess Masters In Thrilling Tiebreak"
       },
       {
-         "description" : "IM Veselin Pantev, a prominent figure in the Bulgarian chess community, succumbed to cancer last month, leaving behind his grieving wife, WGM Adriana Nikolova, their 4-year-old daughter, and his other two children.&#38;nbsp;On December 28, at the age ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/im-veselin-pantev-1971-2023-the-greatest-person-ive-ever-met",
-         "pubDate" : "Sun, 28 Jan 2024 09:21:00",
-         "title" : "IM Veselin Pantev (1971-2023): 'The Greatest Person I've Ever Met'"
-      },
-      {
-         "description" : "In the wake of a 2024 Candidates qualification cycle plagued with tumult and controversy, the World Chess Federation (FIDE) has announced new regulations aimed at &#34;enhancing the competitive landscape, encouraging player participation, and ensuring...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-announces-candidates-2026-qualification-changes",
-         "pubDate" : "Sun, 28 Jan 2024 04:58:00",
-         "title" : "FIDE Announces New Qualification Path For 2026 Candidates Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1032,14 +1032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2851",
          "pubDate" : "Sun, 21 Jan 2024 11:31:58",
          "title" : "Tata Steel Masters 2024: Three-way tie on the top"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov defeated Anish Giri in the seventh round of the Tata Steel Masters to catch the Dutchman in the lead on 4.5 points. Giri was comfortable out of the opening but just one slightly poor move 22...b5?! led to a world of trouble and an eventual loss. Gukesh also caught Giri after a slightly fortunate win against Max Warmerdam following a very late blunder by the Dutchman in a drawn rook and pawn endgame. Vidit was the beneficiary of a single very bad move from Alireza Firouzja in a known position and went on to win in 42 moves. The remaining games were drawn Parham Maghsoodloo against Ian Nepomniachtchi, Praggnanandhaa against Jorden Van Foreest, Alexander Donchenko against",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/abdusattorov-beats-giri-to-transform-the-leader-board-of-the-tata-steel-masters-after-7-rounds",
-         "pubDate" : "Sat, 20 Jan 2024 21:02:00",
-         "title" : "Abdusattorov beats Giri to transform the leader board of the Tata Steel Masters after 7 rounds - 7"
       }
    ]
 }
