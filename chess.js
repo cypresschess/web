@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The first classical game of the quarter-finals is taking place today, February 11. Carlsen faces the ever-dangerous Alireza Firouzja. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
+         "pubDate" : "Sun, 11 Feb 2024 12:50:00",
+         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107601123.cms\" />Grandmaster D Gukesh of India secured a sixth-place finish in the rapid play-offs of the Weissenhaus Freestyle Chess challenge, having lost the final three rounds.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-d-gukesh-loses-three-rounds-finishes-sixth-in-play-offs/articleshow/107601123.cms",
+         "pubDate" : "Sun, 11 Feb 2024 10:50:04",
+         "title" : "Freestyle Chess: D Gukesh loses three rounds, finishes sixth in play-offs"
+      },
+      {
+         "description" : "Baadur Jobava won the Georgian Chess Championship for a fourth time in his career after scoring 7/9 points at the 2024 edition of the event, which ended earlier this week. The tournament took place in Tbilisi from January 29 to February 7 as a 10-player single round-robin with a classical time control. Nikolozi Kacharava and defending champion Mikheil Mchedlishvili finished in shared second place with 5&frac12; points each. Kachavara took home the silver medal based on tiebreak criteria. | Photos: Georgian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/baadur-jobava-wins-georgian-championship-2024",
+         "pubDate" : "Sun, 11 Feb 2024 10:00:00",
+         "title" : "Baadur Jobava claims fourth Georgian national title"
+      },
+      {
          "description" : "Nodirbek Abdusattorov was the top scorer in the rapid stage of the Freestyle G.O.A.T. Challenge in Germany. The Uzbek prodigy was the only player to remain undefeated in the single round-robin, and got to collect four wins in seven rounds, including a fine positional victory over Magnus Carlsen. Vincent Keymer finished second thanks to his great performance on Friday, while Fabiano Caruana climbed to third place after collecting 2&frac12; out of 3 points on the second day of action. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,14 +90,6 @@ news_feed (
          "title" : "Sandwiched"
       },
       {
-         "description" : "The first day of the preliminary rapid stage in the Freestyle G.O.A.T. Challenge saw Vincent Keymer emerging as sole leader with 3&frac12;/4 points. To reach this score, the German star defeated Ding Liren, Fabiano Caruana and Levon Aronian, while his one draw was signed in his game against Magnus Carlsen. Gukesh D and Nodirbek Abdusattorov are sharing second place a half point back.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d1",
-         "pubDate" : "Sat, 10 Feb 2024 08:00:00",
-         "title" : "Freestyle Challenge: Keymer leads, Ding struggles"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Originally on Twitch. 2024.01.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/if-yasser-seirawan-says-its-good-its-good-road-2000-nm-julian-proleiko-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SgkOge9YjVM.jpg?itok=t8l3OGCI\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -122,14 +138,6 @@ news_feed (
          "title" : "2024 Book Fair"
       },
       {
-         "description" : "The games of the Weissenhaus G.O.A.T. Challenge begin on Friday, 9 February, at 1 pm. But before the tournament begins, there will be a press conference at which the participants will answer questions from spectators and journalists. Follow the press conference live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/weissenhaus-g-o-a-t-challenge-pressekonferenz-live-2",
-         "pubDate" : "Fri, 09 Feb 2024 11:28:40",
-         "title" : "Weissenhaus G.O.A.T. Challenge: Press Conference - live!"
-      },
-      {
          "description" : "To the surprise of everyone he won the 2023 World Championship in Astana, but then disappeared from public view. Ding Liren played just a very few games - until the Tata Steel tournament in Wijk ann Zee. There he did not do well at all. We invited him, like so many others, to come to Hamburg to do a refresher course in the use of the ChessBase software, which he did. Frederic Friedel reports. | Photos ©Nils Rohde/ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -176,6 +184,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-conference-press-release",
          "pubDate" : "Thu, 08 Feb 2024 18:17:01",
          "title" : "Saint Louis Chess Conference Press Release!"
+      },
+      {
+         "description" : "The previous 'On the Cover' post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/january-1974-1999-on-cover.html\">January 1974 & 1999 'On the Cover'</A> (January 2024), had several twists on the World Championships of 50 and 25 years ago. In the current post, we return to important events of national interest. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob08.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'EuroDisney and the World Rapids for Kids' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> James Tarjan, winner of the American Open in California. Carl Budd's story is [inside]. Photo by Paula Muller. </BLOCKQUOTE> <P> The Carl ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/02/february-1974-1999-on-cover.html",
+         "pubDate" : "Thu, 08 Feb 2024 16:36:00",
+         "title" : "February 1974 & 1999 'On the Cover'"
       },
       {
          "description" : "Chess960 or Freestyle chess will soon be the centre of attention. The 1st German Chess960 Championship will take place in Berlin, Germany, on 9 February and in the German spa Weissenhaus at the Baltic see the world's best chess players will compete in the Freestyle Chess G.O.A.T. Challenge. But who invented this form of chess? Chess historian Hans D. Post has been searching the archives. | Picture: Philip Julius van Zuylen van Nijevelt, who probably was the first to come up with the idea of Chess960 or Freestyle chess.",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/consider-message-not-chess.html",
          "pubDate" : "Sun, 21 Jan 2024 16:17:00",
          "title" : "Consider the Message, Not the Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2851",
-         "pubDate" : "Sun, 21 Jan 2024 11:31:58",
-         "title" : "Tata Steel Masters 2024: Three-way tie on the top"
       }
    ]
 }
