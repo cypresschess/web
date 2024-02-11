@@ -738,14 +738,6 @@ news_feed (
          "title" : "European Youth Classical, Rapid and Blitz Chess Championships 2024 - Official regulations"
       },
       {
-         "description" : "GM Wei Yi became the winner of the 2024 Tata Steel Chess Tournament on Sunday after winning a thrilling four-player tiebreak that also involved GMs Anish Giri, Gukesh Dommaraju, and Nodirbek Abdusattorov. For the first time, Wei entered the world&#39;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tata-steel-chess-round-13",
-         "pubDate" : "Sun, 28 Jan 2024 10:19:00",
-         "title" : "Wei Yi Wins 2024 Tata Steel Chess Masters In Thrilling Tiebreak"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
