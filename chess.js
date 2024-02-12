@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Greetings everyone! As we continue to celebrate Black History Month, February 12th marks the 23rd anniversary of The Chess Drum. It has been a long journey, but a very interesting one. At midnight, I hit the &#8220;enter&#8221; key to make &#8220;www.thechessdrum.net&#8221; live and the beat has been going ever since. In these years I have The post <a href=\"https://www.thechessdrum.net/blog/2024/02/12/black-history-month-2024-tribute-week-2/\">Black History Month 2024 Tribute: Week 2</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/02/12/black-history-month-2024-tribute-week-2/",
+         "pubDate" : "Mon, 12 Feb 2024 06:04:21",
+         "title" : "Black History Month 2024 Tribute: Week 2"
+      },
+      {
+         "description" : "The first (classical) games of the quarter-finals at the Freestyle G.O.A.T. Chess Challenge took place on Sunday. World number one Magnus Carlsen and world champion Ding Liren both suffered defeats with the black pieces, as they were outplayed by Alireza Firouzja and Nodirbek Abdusattorov, respectively. The one 'veteran' to score a win was Fabiano Caruana, who got the better of Gukesh D, while Vincent Keymer and Levon Aronian signed a draw after a wild, entertaining struggle. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d3",
+         "pubDate" : "Mon, 12 Feb 2024 05:10:00",
+         "title" : "Freestyle Challenge: Firouzja beats Carlsen, Abdusattorov beats Ding"
+      },
+      {
          "description" : "Two tournaments focused on attracting the strongest promising talents in the world are devised, organised and sponsored by Chokri Saidi, an entrepreneur in love with chess, arts, travel, philosophy, psychology and spirituality. In an interview conducted by Diana Mihajlova, the chess enthusiast asserted: \"I like to believe that God invented chess\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/the-downside-of-playing-for-tricks.html",
          "pubDate" : "Sun, 11 Feb 2024 12:58:00",
          "title" : "The downside of playing for tricks"
-      },
-      {
-         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The first classical game of the quarter-finals is taking place today, February 11. Carlsen faces the ever-dangerous Alireza Firouzja. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
-         "pubDate" : "Sun, 11 Feb 2024 12:50:00",
-         "title" : "Freestyle G.O.A.T. Challenge - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107601123.cms\" />Grandmaster D Gukesh of India secured a sixth-place finish in the rapid play-offs of the Weissenhaus Freestyle Chess challenge, having lost the final three rounds.",
