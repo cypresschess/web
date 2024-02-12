@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The second classical games of the quarter-finals are taking place today, February 12. Carlsen and Ding are both in must-win situations. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
+         "pubDate" : "Mon, 12 Feb 2024 12:40:00",
+         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+      },
+      {
+         "description" : " After the success of his book \"Oops I Resigned Again\", GM Ian Rogers has released a follow up. \"Oops I Resigned One More Time\". Once again the book looks at the tragic side of chess, where players prematurely throw in the towel, instead of finding the saving, or even the winning, move. Each chapter consists of 5 positions, where the reader is asked to find the saving move. With 20 chapters, there are 100 position of varying degrees of difficulty to work through. But that's not all! Every position has a story attached to it, whether it is the circumstances behind the game, a potted history of one of the players involved, or just an amusing anecdote related to the position. So you actually ge",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/oops-i-resigned-one-more-time.html",
+         "pubDate" : "Mon, 12 Feb 2024 12:25:00",
+         "title" : "Oops I Resigned One More Time"
+      },
+      {
+         "description" : "In the concluding article for the Christmas Composition Contest, we see the final prize-winning compositions, which were a touch ahead of the others! Like always, all compositions were evaluated on the basis of economy, harmony and aesthetics! We also included a special prize for the best story behind the composition, and the cook-stopping that took place! Hope you enjoyed reading the article and playing through the excellent compositions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-puzzle-competition-winners",
+         "pubDate" : "Mon, 12 Feb 2024 11:19:34",
+         "title" : "ChessBase Puzzle Competition winners"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2877",
+         "pubDate" : "Mon, 12 Feb 2024 09:26:42",
+         "title" : "Tickets for the 2024 Candidates: Early bird offer expires this week"
+      },
+      {
+         "description" : "The Mitropa Cup 2024 starts this Wednesday in Apolda, Germany. The event will be played from 15-23 February at the local city hall, Stadthalle Apolda. The event is played in Open and Women's sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160;The Championships are played in 9 rounds, round-robin system, with time control of 90 minutes for 40 moves, followed by 30 minutes to finish the game, with 30 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/mitropa-cup-2024-starts-in-apolda-germany/",
+         "pubDate" : "Mon, 12 Feb 2024 09:21:13",
+         "title" : "Mitropa Cup 2024 starts in Apolda, Germany"
+      },
+      {
          "description" : " Greetings everyone! As we continue to celebrate Black History Month, February 12th marks the 23rd anniversary of The Chess Drum. It has been a long journey, but a very interesting one. At midnight, I hit the &#8220;enter&#8221; key to make &#8220;www.thechessdrum.net&#8221; live and the beat has been going ever since. In these years I have The post <a href=\"https://www.thechessdrum.net/blog/2024/02/12/black-history-month-2024-tribute-week-2/\">Black History Month 2024 Tribute: Week 2</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -24,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chokri-saidi-interview-2024",
          "pubDate" : "Sun, 11 Feb 2024 18:05:00",
          "title" : "Chokri Saidi: \"I like to believe that God invented chess\""
+      },
+      {
+         "description" : "Some chess history, some chess math. If this video had nothing more than that, I wouldn't have selected it for this month's featured video. The hook for me was the sequence of 17 chess images, all appearing to be AI-generated. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/2Ns8nH25Kqg?si=a3s9a4S1Tm0lgR3R\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Chess: The Game of Infinite Possibilities</B> (9:08) &#149; '[Published on] Feb 7, 2024' <P> The description explains, <BLOCKQUOTE> Dive into the captivating world of chess, a game t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/02/chess-history-math-and-art.html",
+         "pubDate" : "Sun, 11 Feb 2024 16:28:00",
+         "title" : "Chess History, Math, and Art"
       },
       {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 164th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Vassily Smyslov, the seventh World Champion in the history of chess. | Photo: Pascal Simon",
@@ -104,22 +152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-beats-carlsen-joint-second-after-day-one-of-freestyle-chess-news/articleshow/107585056.cms",
          "pubDate" : "Sat, 10 Feb 2024 12:45:06",
          "title" : "Gukesh beats Carlsen; joint second after day one of Freestyle Chess"
-      },
-      {
-         "description" : "The Jeddah Youth Chess Festival was held from 24 to 30 January in this Red Sea port in Saudi Arabia. It was a celebration of youth, chess and friendship while soaking the culture and hospitality of a welcoming nation that is opening its doors and hearts to chess and all sports. Diana Mihajlova reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeddah-youth-festival-report-1",
-         "pubDate" : "Sat, 10 Feb 2024 12:00:00",
-         "title" : "Jeddah International Youth Chess Festival: Impeccable"
-      },
-      {
-         "description" : "In his new Game of the Week show, Merijn van Delft analyses a crucial and fantastic attacking game that helped Vincent Keymer to win Division II of the Chessable Masters. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-605-l-aronian-vs-v-keymer",
-         "pubDate" : "Sat, 10 Feb 2024 11:00:00",
-         "title" : "Game of the Week #605: L. Aronian vs V. Keymer"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Originally on Twitch. 2024.01.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/if-yasser-seirawan-says-its-good-its-good-road-2000-nm-julian-proleiko-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SgkOge9YjVM.jpg?itok=t8l3OGCI\" alt=\"\" /></a></div>",
@@ -992,30 +1024,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/the-wizard-as-professor.html",
          "pubDate" : "Mon, 22 Jan 2024 16:20:00",
          "title" : "The Wizard as Professor"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2854",
-         "pubDate" : "Mon, 22 Jan 2024 12:09:05",
-         "title" : "History of the Candidates: from Budapest (1950) to Toronto (2024)"
-      },
-      {
-         "description" : " For some players, there is never a good time to resign. \"Play it out\" is their mantra. For others, resigning is a way of gaining at some small amount of dignity for an otherwise awful game. But generally, there is no absolutely correct answer. In the following game between Firouzja and Ding Liren, there were potentially 3 places where an understandable resignation could occur. The first was on move 21 after Firouza collected 2 pieces for a rook. The second was on move 30, when Firouzja was ahead a piece for a pawn. And the third was when it did actually happen, as Ding realised he had no more saving chances. <br /> <b>Firouzja,Alireza (2759) - Ding,Liren (2780) [D40]</b><br /> Tata Steel Ma",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/when-is-it-good-time-to-resign.html",
-         "pubDate" : "Mon, 22 Jan 2024 11:59:00",
-         "title" : "When is it a good time to resign?"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a prominent chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is pleased to present an update on its developments for the full year 2023. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1280\" data-ratio=\"1.4035087719298\"> <img src=\"https://worldchess.com/news/pictures/photo_2024-01-22_12-14-06.jpg\" width=\"1280\" height=\"912\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2024-01-22_12-14-14.jpg\" width=\"1280\" height=\"956\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/photo_2024-01-22_12-14-18.jpg\" width=\"1280\" h",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fy-2023-operational-update/",
-         "pubDate" : "Mon, 22 Jan 2024 09:18:45",
-         "title" : "FY 2023 Operational Update"
       }
    ]
 }
