@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the Endgame Magic Show #261 Karsten M&uuml;ller continues to take a look at endgame highlights from the tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-magic-260-with-daniel-fernandez-endgames-pearls-from-wijk-2",
+         "pubDate" : "Mon, 12 Feb 2024 19:00:00",
+         "title" : "Endgame Magic #261 - Endgame pearls from Wijk (Part 2)"
+      },
+      {
          "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The second classical games of the quarter-finals are taking place today, February 12. Carlsen and Ding are both in must-win situations. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/baadur-jobava-wins-georgian-championship-2024",
          "pubDate" : "Sun, 11 Feb 2024 10:00:00",
          "title" : "Baadur Jobava claims fourth Georgian national title"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov was the top scorer in the rapid stage of the Freestyle G.O.A.T. Challenge in Germany. The Uzbek prodigy was the only player to remain undefeated in the single round-robin, and got to collect four wins in seven rounds, including a fine positional victory over Magnus Carlsen. Vincent Keymer finished second thanks to his great performance on Friday, while Fabiano Caruana climbed to third place after collecting 2&frac12; out of 3 points on the second day of action. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d2",
-         "pubDate" : "Sat, 10 Feb 2024 22:10:00",
-         "title" : "Freestyle Challenge: Abdusattorov beats Carlsen, wins rapid section"
       },
       {
          "description" : "We are more than a month in, and this is a good time to assess your chess Training in 2024. Assuming you have established some sort of a training routine, here are three metrics you should track to know if you are doing well: This Newsletter explains Why &#38; How. Simplify Your Training I'm not []",
