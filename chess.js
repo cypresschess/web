@@ -1016,14 +1016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2855",
          "pubDate" : "Mon, 22 Jan 2024 21:11:31",
          "title" : "FIDE and World Chess launch Women's Wednesday Online Tournament Series"
-      },
-      {
-         "description" : "In the first installment of this weekly comic series we introduced a chess village and its villagers. Then we introduced <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-village-wizard.html\">The Village Wizard</A> (January 2024), where I observed, <BLOCKQUOTE> Some say that the villagers' interest in chess stems from the presence of an unusual man who arrived in the village at some time in the recent past. </BLOCKQUOTE> <P> This is the third installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa22.jpg\" WIDTH= HEIGHT=> <P> The village wizard is a retired professor of computer science who taught AI at a top-notch engineering college. He holds a patent on an imp",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/the-wizard-as-professor.html",
-         "pubDate" : "Mon, 22 Jan 2024 16:20:00",
-         "title" : "The Wizard as Professor"
       }
    ]
 }
