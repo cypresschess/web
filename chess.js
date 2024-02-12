@@ -18,6 +18,14 @@ news_feed (
          "title" : "Understanding before Moving 164: Chess history in a nutshell (45)"
       },
       {
+         "description" : "World Champion Ding Liren and world number-one Magnus Carlsen both have to hit back on Monday to keep alive hopes of winning the 2024 Freestyle Chess G.O.A.T. Challenge after they erred in the opening and were put to the sword by GMs Nodirbek Abdu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-3",
+         "pubDate" : "Sun, 11 Feb 2024 13:06:00",
+         "title" : "Carlsen, Ding Defeated In First Classical Chess960 Games"
+      },
+      {
          "description" : " There are some games where you just fall into the trap of playing for tricks. Common sense disappears and instead, each move is based on some dodgy 2 move trick you hope your opponent will fall for. Here is an example where White tries for a tricky idea around move 12, which basically loses. After that he just keeps digging a deeper hole, hoping his opponent might fall in (Narrators voice: No he didn't) <br /> <b>Stevanic,David (2294) - Kozlovic,Jernej (2174) [C52]</b><br /> 28th HIT Open 2024 Nova Gorica SLO (9.12), 02.02.2024 <script> new PgnViewer( { boardName: \"game1441\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.Qb3 Qf6 8.O-O Bb6 9.e5",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -690,14 +698,6 @@ news_feed (
          "title" : "Communique of the ECU Board Meeting - CL No1/2024"
       },
       {
-         "description" : "18-year-old rising Indian star IM Divya Deshmukh has boldly called out sexism in the chess world following her participation in Tata Steel Chess, expressing frustration with comments about her appearance. Deshmukh finished 12th with 4.5 points i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/divya-deshmukh-calls-out-sexism-in-chess-after-tata-steel-appearance",
-         "pubDate" : "Tue, 30 Jan 2024 07:31:00",
-         "title" : "Indian Star Deshmukh Calls Out Sexism In Chess World: 'I Have Faced So Much Hatred'"
-      },
-      {
          "description" : "In the previous installment of our weekly comic series, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-wizard-as-professor.html\">The Wizard as Professor</A> (January 2024), we learned that the Wizard has more interests than just playing chess. I noted, <BLOCKQUOTE> The village wizard [...] holds a patent on an important technique used to generate life-like forms in plasma. </BLOCKQUOTE> <P> This is the fourth installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa29.jpg\" WIDTH=335 HEIGHT=400> <P> The Wizard can use his patented AI techniques to generate the personae of chess players from the past. Since this practice is frowned upon by the general public and",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1008,30 +1008,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/fy-2023-operational-update/",
          "pubDate" : "Mon, 22 Jan 2024 09:18:45",
          "title" : "FY 2023 Operational Update"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2852",
-         "pubDate" : "Sun, 21 Jan 2024 23:14:05",
-         "title" : "Tata Steel Masters 2024: Firouzja rejoins the leaders"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2853",
-         "pubDate" : "Sun, 21 Jan 2024 22:53:05",
-         "title" : "Armenian Championship 2024: Hovhannisyan and Gaboyan clinch titles"
-      },
-      {
-         "description" : " Ian Nepomniachtchi defeated the leader Nodirbek Abdusattorov in the eighth round of the Tata Steel Masters which left the event wide open going into the second rest day. Gukesh, Giri and Firouzja lead on 5/8 but 6 more players are a point or less from the leaders with five rounds to go. Nepomniachtchi inflicted a broken pawn structure on Abdusattorov and whilst this wasn't immediately winning Abdusattorov didn't find a way to organise his pieces and he was soon just lost. Alireza Firouzja beat Ding Liren when the latter miscalculated a tactical sequence and lost material for no compensation. The remaining game were drawn, those were Vidit-Donchenko, Warmerdam-Praggnanandhaa, Ju Wenjun, Giri",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/tata-steel-masters-wide-open-after-8-rounds",
-         "pubDate" : "Sun, 21 Jan 2024 20:54:00",
-         "title" : "Tata Steel Masters wide open after 8 rounds - 8"
       }
    ]
 }
