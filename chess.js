@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In endgames, knights are often surprisingly helpless against a rook. In the diagram position, White is an exchange down, but seems to be close to a draw because only two black pawns remain on the board. However, Black has a way to win - what should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-vs-knight",
+         "pubDate" : "Tue, 13 Feb 2024 09:00:00",
+         "title" : "Rook vs knight"
+      },
+      {
+         "description" : "In January, Leon Mendonca won the prestigious Tata Steel Challengers tournament, and now he has analysed the 13 games he played in the tournament! In a video of more than 150 minutes (maybe a better choice than a Netflix movie tonight?), Leon shares his thoughts and insights, in the opening, the middlegame and the endgame. Instructive, entertaining, and a must for any chess fan!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-marathon-all-13-tata-games-fully-analysed",
+         "pubDate" : "Tue, 13 Feb 2024 08:48:10",
+         "title" : "Leon Mendonca Marathon - All 13 Tata games fully analysed!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2879",
+         "pubDate" : "Tue, 13 Feb 2024 06:30:53",
+         "title" : "Chess Torch Ceremony in India to mark FIDE's 100th-anniversary celebration"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Masters Julian Proleiko and Ralph Tan go head to head in G/1 bullet chess at the Saint Louis Chess Club. Julian Proleiko vs. Ralph Tan, 2024: A06 Reti, Nimzovich-Larsen attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bullet-proleiko-vs-tan-old-and-slow-and-bad-stl-chess-club-duels\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zzm8sMZRieY.jpg?itok=ec0IJC1p\" alt=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/bullet-proleiko-vs-tan-old-and-slow-and-bad-stl-chess-club-duels",
+         "pubDate" : "Tue, 13 Feb 2024 06:26:26",
+         "title" : "BULLET: Proleiko vs. Tan | \"Old and Slow and Bad\" | STL Chess Club DUELS"
+      },
+      {
+         "description" : " Hello everyone! The Chess Drum has covered a lot of chess events over the past 23 years. This coverage has included six Olympiads, several Grand Chess Tour events, national events and visits to many chess communities around the world. Photo Essays from The Chess Drum (Daaim Shabazz) After covering the world's elite players and local The post <a href=\"https://www.thechessdrum.net/blog/2024/02/12/the-chess-drum-is-23/\">The Chess Drum is 23!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/02/12/the-chess-drum-is-23/",
+         "pubDate" : "Tue, 13 Feb 2024 04:59:24",
+         "title" : "The Chess Drum is 23!"
+      },
+      {
          "description" : "Magnus Carlsen is set to face Nodirbek Abusattorov in the semi-finals of the Freestyle G.O.A.T. Challenge after beating Alireza Firouzja in rapid tiebreaks. Abdusattorov drew Ding Liren to get a 1&frac12;-&frac12; victory in their mini-match. In the other pairing of the semi-finals, Levon Aronian will play Fabiano Caruana. Aronian defeated Vincent Keymer in the second encounter of their match, while Caruana obtained the half point he needed to beat Gukesh D in their 2-game confrontation. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,6 +98,14 @@ news_feed (
          "title" : "Mitropa Cup 2024 starts in Apolda, Germany"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2878",
+         "pubDate" : "Mon, 12 Feb 2024 08:35:43",
+         "title" : "Georg Meier wins VII Marcel Duchamp Cup in Montevideo"
+      },
+      {
          "description" : " Greetings everyone! As we continue to celebrate Black History Month, February 12th marks the 23rd anniversary of The Chess Drum. It has been a long journey, but a very interesting one. At midnight, I hit the &#8220;enter&#8221; key to make &#8220;www.thechessdrum.net&#8221; live and the beat has been going ever since. In these years I have The post <a href=\"https://www.thechessdrum.net/blog/2024/02/12/black-history-month-2024-tribute-week-2/\">Black History Month 2024 Tribute: Week 2</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -90,14 +138,6 @@ news_feed (
          "title" : "Chess History, Math, and Art"
       },
       {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 164th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and continues to take a look at the legacy of Vassily Smyslov, the seventh World Champion in the history of chess. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-164-chess-history-in-a-nutshell-45",
-         "pubDate" : "Sun, 11 Feb 2024 15:00:00",
-         "title" : "Understanding before Moving 164: Chess history in a nutshell (45)"
-      },
-      {
          "description" : "World Champion Ding Liren and world number-one Magnus Carlsen both have to hit back on Monday to keep alive hopes of winning the 2024 Freestyle Chess G.O.A.T. Challenge after they erred in the opening and were put to the sword by GMs Nodirbek Abdu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -120,14 +160,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-d-gukesh-loses-three-rounds-finishes-sixth-in-play-offs/articleshow/107601123.cms",
          "pubDate" : "Sun, 11 Feb 2024 10:50:04",
          "title" : "Freestyle Chess: D Gukesh loses three rounds, finishes sixth in play-offs"
-      },
-      {
-         "description" : "Baadur Jobava won the Georgian Chess Championship for a fourth time in his career after scoring 7/9 points at the 2024 edition of the event, which ended earlier this week. The tournament took place in Tbilisi from January 29 to February 7 as a 10-player single round-robin with a classical time control. Nikolozi Kacharava and defending champion Mikheil Mchedlishvili finished in shared second place with 5&frac12; points each. Kachavara took home the silver medal based on tiebreak criteria. | Photos: Georgian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/baadur-jobava-wins-georgian-championship-2024",
-         "pubDate" : "Sun, 11 Feb 2024 10:00:00",
-         "title" : "Baadur Jobava claims fourth Georgian national title"
       },
       {
          "description" : "We are more than a month in, and this is a good time to assess your chess Training in 2024. Assuming you have established some sort of a training routine, here are three metrics you should track to know if you are doing well: This Newsletter explains Why &#38; How. Simplify Your Training I'm not []",
@@ -440,14 +472,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/magnus-carlsen-hans-niemann-play-each-other-first-time-controversy-shorts",
          "pubDate" : "Mon, 05 Feb 2024 06:16:24",
          "title" : "Magnus Carlsen & Hans Niemann Play Each Other for the First Time Since Controversy! | #Shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Originally from Twitch. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/turn-your-chess-engines-puzzlers-paradise-gm-denes-boros-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4hERI7T6uUs.jpg?itok=nshETOgC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/turn-your-chess-engines-puzzlers-paradise-gm-denes-boros-shorts",
-         "pubDate" : "Mon, 05 Feb 2024 06:16:24",
-         "title" : "Turn Off Your Chess Engines! | Puzzler's Paradise with GM Denes Boros | #Shorts"
       },
       {
          "description" : "On Friday, February 2, 2024, the legendary chess player Mian Sultan Khan (1903-1966) was posthumously awarded the honorary grandmaster title. FIDE President Arkady Dvorkovich presented the award to caretaker Prime Minister of Pakistan Anwaar-ul-Ha...",
