@@ -18,6 +18,14 @@ news_feed (
          "title" : "Endgame Magic #261 - Endgame pearls from Wijk (Part 2)"
       },
       {
+         "description" : "World Champion Magnus Carlsen hit back with three wins to beat GM Alireza Firouzja and book a 2024 Freestyle Chess G.O.A.T. Challenge Semifinal against GM Nodirbek Abdusattorov, who eased past GM Ding Liren. It was the day the &#34;veterans&#34; struck ba...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-4",
+         "pubDate" : "Mon, 12 Feb 2024 16:26:00",
+         "title" : "Carlsen Storms Back To Join Abdusattorov, Caruana, Aronian In Semis"
+      },
+      {
          "description" : " After the success of his book \"Oops I Resigned Again\", GM Ian Rogers has released a follow up. \"Oops I Resigned One More Time\". Once again the book looks at the tragic side of chess, where players prematurely throw in the towel, instead of finding the saving, or even the winning, move. Each chapter consists of 5 positions, where the reader is asked to find the saving move. With 20 chapters, there are 100 position of varying degrees of difficulty to work through. But that's not all! Every position has a story attached to it, whether it is the circumstances behind the game, a potted history of one of the players involved, or just an amusing anecdote related to the position. So you actually ge",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/rip-yahoos.html",
          "pubDate" : "Tue, 30 Jan 2024 16:15:00",
          "title" : "RIP Yahoos"
-      },
-      {
-         "description" : "The Tata Steel Chess Tournament is traditionally the first super-tournament of the year. It&#39;s often packed with top-level clashes, dramatic storylines, and 11th-hour plot twists, but 2024 will certainly remain one of the most memorable years in it...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/11-takeaways-from-tata-steel-chess-2024",
-         "pubDate" : "Tue, 30 Jan 2024 13:47:00",
-         "title" : "11 Things We Learned - Tata Steel Chess Tournament 2024"
       },
       {
          "description" : " The Gungahlin Chess Club started its first tournaments of the year, with the Ramakrishna Memorial and the Gungahlin Junior Championship running side by side. A total of 44 players turned up to play, which is a good number to start the year. I was called in as the 'house man' for the Ramakrishna Memorial, and got off to a good start, scoring a nice win in 17 moves. After my opponents 8th move, I decided to check out 9.e4 as a response, and having looked at enough lines to convince me it worked, played it. I had calculated that I was better up until around move 14, and when I reached that point, realised I had a pretty quick checkmate, which my opponent kindly let me play on the board. <br />",
