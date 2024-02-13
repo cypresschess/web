@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In about two weeks, on 26 February 2024, the fifth Prague International Chess Festival (PICF) will begin. This year the four best juniors in the world - Praggnanandhaa, Gukesh, Abdusattorov and Keymer - will be in Prague to complete the strong field of Vidit, Rapport, Maghsoodloo, Navara, Bartel and Nguyen. But as tournament director Petr Boleslav explains in an interview, this is just one reason to combine a visit to one of Europe's most beautiful cities with chess. | Picture: Festival logo 2024",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-festival-prague-an-interview-with-tournament-director-petr-boleslav",
+         "pubDate" : "Tue, 13 Feb 2024 16:00:00",
+         "title" : "Chess Festival Prague: An interview with tournament director Petr Boleslav"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2881",
+         "pubDate" : "Tue, 13 Feb 2024 15:11:51",
+         "title" : "Chess to make an appearance at the 13th African Games in Accra"
+      },
+      {
+         "description" : "Welcome to the 2nd edition of my Beginner Chess Mastery behind-the-scenes newsletter. Last week, I shared why I decided to create this new course. Today, I want to share with you my thoughts on creating a great (Beginner) Chess Course. Then, I will share the curriculum for Beginner Chess Mastery. A great course always starts with the end in mind. As I mentioned yesterday, it is especially hard to find great resources for players rated below 1200 Online. So, the goal for this course is simple:...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/bcm-2-what-makes-a-great-beginner-course/",
+         "pubDate" : "Tue, 13 Feb 2024 14:05:50",
+         "title" : "(BCM #2) What Makes a Great Beginner Course"
+      },
+      {
          "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The semi-finals kick off on Tuesday: Carlsen v. Abdusattorov and Aronian v. Caruana. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/leon-mendonca-marathon-all-13-tata-games-fully-analysed",
          "pubDate" : "Tue, 13 Feb 2024 08:48:10",
          "title" : "Leon Mendonca Marathon - All 13 Tata games fully analysed!"
+      },
+      {
+         "description" : "The Saint Louis Chess Club has announced its lineup for this year&#38;rsquo;s American Cup boasting &#34;16 of the strongest chess players in America.&#34; Eight GMs are on the roster for the $250,000 Open section headed by U.S. number-one GM Fabiano Caruan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-so-krush-and-lee-headline-2024-american-cup",
+         "pubDate" : "Tue, 13 Feb 2024 08:21:38",
+         "title" : "Caruana, So, Krush, And Lee Headline 2024 American Cup"
       },
       {
          "description" : "",
@@ -98,12 +130,28 @@ news_feed (
          "title" : "Oops I Resigned One More Time"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2878",
+         "pubDate" : "Mon, 12 Feb 2024 11:35:43",
+         "title" : "Georg Meier wins VII Marcel Duchamp Cup in Montevideo"
+      },
+      {
          "description" : "In the concluding article for the Christmas Composition Contest, we see the final prize-winning compositions, which were a touch ahead of the others! Like always, all compositions were evaluated on the basis of economy, harmony and aesthetics! We also included a special prize for the best story behind the composition, and the cook-stopping that took place! Hope you enjoyed reading the article and playing through the excellent compositions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-puzzle-competition-winners",
          "pubDate" : "Mon, 12 Feb 2024 11:19:34",
          "title" : "ChessBase Puzzle Competition winners"
+      },
+      {
+         "description" : "The 2024 British Chess Championships will take place in Hull from Thursday 25th July to Sunday 4th August. This will be the 110th British Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-championships-2024/",
+         "pubDate" : "Mon, 12 Feb 2024 09:46:10",
+         "title" : "British Chess Championships 2024"
       },
       {
          "description" : "",
@@ -122,28 +170,12 @@ news_feed (
          "title" : "Mitropa Cup 2024 starts in Apolda, Germany"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2878",
-         "pubDate" : "Mon, 12 Feb 2024 08:35:43",
-         "title" : "Georg Meier wins VII Marcel Duchamp Cup in Montevideo"
-      },
-      {
          "description" : " Greetings everyone! As we continue to celebrate Black History Month, February 12th marks the 23rd anniversary of The Chess Drum. It has been a long journey, but a very interesting one. At midnight, I hit the &#8220;enter&#8221; key to make &#8220;www.thechessdrum.net&#8221; live and the beat has been going ever since. In these years I have The post <a href=\"https://www.thechessdrum.net/blog/2024/02/12/black-history-month-2024-tribute-week-2/\">Black History Month 2024 Tribute: Week 2</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/02/12/black-history-month-2024-tribute-week-2/",
          "pubDate" : "Mon, 12 Feb 2024 06:04:21",
          "title" : "Black History Month 2024 Tribute: Week 2"
-      },
-      {
-         "description" : "The first (classical) games of the quarter-finals at the Freestyle G.O.A.T. Chess Challenge took place on Sunday. World number one Magnus Carlsen and world champion Ding Liren both suffered defeats with the black pieces, as they were outplayed by Alireza Firouzja and Nodirbek Abdusattorov, respectively. The one 'veteran' to score a win was Fabiano Caruana, who got the better of Gukesh D, while Vincent Keymer and Levon Aronian signed a draw after a wild, entertaining struggle. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d3",
-         "pubDate" : "Mon, 12 Feb 2024 05:10:00",
-         "title" : "Freestyle Challenge: Firouzja beats Carlsen, Abdusattorov beats Ding"
       },
       {
          "description" : "Some chess history, some chess math. If this video had nothing more than that, I wouldn't have selected it for this month's featured video. The hook for me was the sequence of 17 chess images, all appearing to be AI-generated. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/2Ns8nH25Kqg?si=a3s9a4S1Tm0lgR3R\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Chess: The Game of Infinite Possibilities</B> (9:08) &#149; '[Published on] Feb 7, 2024' <P> The description explains, <BLOCKQUOTE> Dive into the captivating world of chess, a game t",
@@ -738,14 +770,6 @@ news_feed (
          "title" : "Avoid Blunders With Shankland's New Total Board Vision For Beginners Chessable Course"
       },
       {
-         "description" : "In a long-awaited moment, GM Magnus Carlsen and GM Hans Niemann have played another game of chess against each other, their first since September 2022. It was an 87-move draw in the early Titled Tuesday event of January 30, won by Carlsen with a 1...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-niemann-win-titled-tuesday-january-30-2024",
-         "pubDate" : "Wed, 31 Jan 2024 07:54:00",
-         "title" : "Carlsen, Niemann Tussle Tuesday, Both Win"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1016,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2857",
          "pubDate" : "Tue, 23 Jan 2024 23:55:48",
          "title" : "Tata Steel Masters 2024: Four in the lead after Round 9"
-      },
-      {
-         "description" : "The ECF is accepting registrations for the European Schools Championship in Limerick, Ireland between 30 May 08 June 2024. Please click here for the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/euro-schools-2024/",
-         "pubDate" : "Tue, 23 Jan 2024 14:22:06",
-         "title" : "Euro Schools 2024"
       }
    ]
 }
