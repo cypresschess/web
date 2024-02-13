@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The semi-finals kick off on Tuesday: Carlsen v. Abdusattorov and Aronian v. Caruana. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
+         "pubDate" : "Tue, 13 Feb 2024 12:40:00",
+         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2880",
+         "pubDate" : "Tue, 13 Feb 2024 11:58:46",
+         "title" : "International Congress on Chess, Education and Health in Menorca: A New Look into the Future"
+      },
+      {
          "description" : "In endgames, knights are often surprisingly helpless against a rook. In the diagram position, White is an exchange down, but seems to be close to a draw because only two black pawns remain on the board. However, Black has a way to win - what should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +74,7 @@ news_feed (
          "title" : "Endgame Magic #261 - Endgame pearls from Wijk (Part 2)"
       },
       {
-         "description" : "World Champion Magnus Carlsen hit back with three wins to beat GM Alireza Firouzja and book a 2024 Freestyle Chess G.O.A.T. Challenge Semifinal against GM Nodirbek Abdusattorov, who eased past GM Ding Liren. It was the day the &#34;veterans&#34; struck ba...",
+         "description" : "World number-one Magnus Carlsen hit back with three wins to beat GM Alireza Firouzja and book a 2024 Freestyle Chess G.O.A.T. Challenge Semifinal against GM Nodirbek Abdusattorov, who eased past GM Ding Liren. It was the day the &#34;veterans&#34; struck ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-4",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d3",
          "pubDate" : "Mon, 12 Feb 2024 05:10:00",
          "title" : "Freestyle Challenge: Firouzja beats Carlsen, Abdusattorov beats Ding"
-      },
-      {
-         "description" : "Two tournaments focused on attracting the strongest promising talents in the world are devised, organised and sponsored by Chokri Saidi, an entrepreneur in love with chess, arts, travel, philosophy, psychology and spirituality. In an interview conducted by Diana Mihajlova, the chess enthusiast asserted: \"I like to believe that God invented chess\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chokri-saidi-interview-2024",
-         "pubDate" : "Sun, 11 Feb 2024 18:05:00",
-         "title" : "Chokri Saidi: \"I like to believe that God invented chess\""
       },
       {
          "description" : "Some chess history, some chess math. If this video had nothing more than that, I wouldn't have selected it for this month's featured video. The hook for me was the sequence of 17 chess images, all appearing to be AI-generated. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/2Ns8nH25Kqg?si=a3s9a4S1Tm0lgR3R\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Chess: The Game of Infinite Possibilities</B> (9:08) &#149; '[Published on] Feb 7, 2024' <P> The description explains, <BLOCKQUOTE> Dive into the captivating world of chess, a game t",
@@ -400,6 +408,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/06/black-history-month-2024-tribute-week-1/",
          "pubDate" : "Tue, 06 Feb 2024 15:39:50",
          "title" : "Black History Month 2024 Tribute: Week 1"
+      },
+      {
+         "description" : "Welcome to the first edition of my Behind-the-scenes Beginner Chess Mastery newsletter. This newsletter will go out every Tuesday to just those people on the waitlist for my upcoming course, Beginner Chess Mastery, and is totally separate from my Friday Grandmaster insights (you'll keep getting those weekly emails.) Between now and the release of Beginner Chess Mastery on March 19th, I'm going to share more details on the course: Why I created this course Who this course is for What will be...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/bcm1-why-i-created-beginner-chess-mastery/",
+         "pubDate" : "Tue, 06 Feb 2024 14:06:00",
+         "title" : "(BCM#1) Why I created Beginner Chess Mastery"
       },
       {
          "description" : "Day seven of the 2024 Champions Chess Tour Chessable Masters saw the conclusions of Divisions II and III. Although both matches went to the second set, the younger players won in each division. GM Vincent Keymer defeated GM Levon Aronian in Divi...",
@@ -1000,30 +1016,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/euro-schools-2024/",
          "pubDate" : "Tue, 23 Jan 2024 14:22:06",
          "title" : "Euro Schools 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2856",
-         "pubDate" : "Tue, 23 Jan 2024 09:45:04",
-         "title" : "World Championships 2025 Call for Bids ends in 10 days"
-      },
-      {
-         "description" : "The ECU Board meeting on 21st January 2024, &#160;after authorisation by the ECU General Assembly 2023, approved the new rules for Fair Play and Safe Play Policy. The rules are effective from 1st January 2024. &#160;",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-board-approves-new-fair-play-and-safe-play-policy-rules/",
-         "pubDate" : "Tue, 23 Jan 2024 09:41:50",
-         "title" : "ECU Board approves new Fair Play and Safe Play Policy rules"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a prominent chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is pleased to announce the launch of Women's Wednesday Online Tournament Series, <a href=\"https://chessarena.com/tournaments/the-swiss-queens-wednesday-1?utm_medium=article&utm_campaign=worldchess\" class=\"nu\">\"<u>Swiss Queens Wednesday</u>\"</a>, in partnership with the International Chess Federation (FIDE). <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Image-1.png\" width=\"1920\" height=\"1080\" alt=\"\" /> </div> This new weekly event is dedicated to elevating women",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/launch-of-womens-wednesday-online-tournament-series/",
-         "pubDate" : "Tue, 23 Jan 2024 09:00:26",
-         "title" : "Launch of Women's Wednesday Online Tournament Series"
       }
    ]
 }
