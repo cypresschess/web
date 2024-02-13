@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen is set to face Nodirbek Abusattorov in the semi-finals of the Freestyle G.O.A.T. Challenge after beating Alireza Firouzja in rapid tiebreaks. Abdusattorov drew Ding Liren to get a 1&frac12;-&frac12; victory in their mini-match. In the other pairing of the semi-finals, Levon Aronian will play Fabiano Caruana. Aronian defeated Vincent Keymer in the second encounter of their match, while Caruana obtained the half point he needed to beat Gukesh D in their 2-game confrontation. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d4",
+         "pubDate" : "Mon, 12 Feb 2024 23:45:00",
+         "title" : "Freestyle Challenge: Carlsen takes down Firouzja in tiebreaks"
+      },
+      {
          "description" : "In the Endgame Magic Show #261 Karsten M&uuml;ller continues to take a look at endgame highlights from the tournament in Wijk aan Zee. | You can watch the Endgame Magic Show on-demand with a ChessBase Premium account.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/endgame-magic-260-with-daniel-fernandez-endgames-pearls-from-wijk-2",
          "pubDate" : "Mon, 12 Feb 2024 19:00:00",
          "title" : "Endgame Magic #261 - Endgame pearls from Wijk (Part 2)"
-      },
-      {
-         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The second classical games of the quarter-finals are taking place today, February 12. Carlsen and Ding are both in must-win situations. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
-         "pubDate" : "Mon, 12 Feb 2024 12:40:00",
-         "title" : "Freestyle G.O.A.T. Challenge - Live!"
       },
       {
          "description" : " After the success of his book \"Oops I Resigned Again\", GM Ian Rogers has released a follow up. \"Oops I Resigned One More Time\". Once again the book looks at the tragic side of chess, where players prematurely throw in the towel, instead of finding the saving, or even the winning, move. Each chapter consists of 5 positions, where the reader is asked to find the saving move. With 20 chapters, there are 100 position of varying degrees of difficulty to work through. But that's not all! Every position has a story attached to it, whether it is the circumstances behind the game, a potted history of one of the players involved, or just an amusing anecdote related to the position. So you actually ge",
@@ -1000,22 +1000,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/launch-of-womens-wednesday-online-tournament-series/",
          "pubDate" : "Tue, 23 Jan 2024 09:00:26",
          "title" : "Launch of Women's Wednesday Online Tournament Series"
-      },
-      {
-         "description" : " The ninth round of the Tata Steel Masters moved to the AFAS Theatre in the Hague. Five of the seven games in the Masters were decisive and six of seven in the Challengers. At the end of the round four players share the lead with 5.5/9, Nodirbek Abdusattorov, Anish Giri, Gukesh and Praggnanandhaa. Wei Yi, Santosh Vidit and Alireza Firouzja are all on 5/9. Abdusattorov beat Jorden van Foreest pretty convincingly in just 24 moves. Praggnanandhaa beat Ju Wenjun taking on the Two Knights with the sharp Ng5. Giri drew with black against Ding Liren and Gukesh drew with Vidit. Alireza Firouzja lost his third game of the event when he allowed Alexander Donchenko a huge attack, Ian Nepomniachtchi los",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/tata-steel-masters-round-9-in-the-hague-sees-5-decisive-games",
-         "pubDate" : "Tue, 23 Jan 2024 00:05:00",
-         "title" : "Tata Steel Masters Round 9 in the Hague sees 5 decisive games - 9"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2855",
-         "pubDate" : "Mon, 22 Jan 2024 21:11:31",
-         "title" : "FIDE and World Chess launch Women's Wednesday Online Tournament Series"
       }
    ]
 }
