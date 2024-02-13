@@ -10,6 +10,14 @@ news_feed (
          "title" : "Freestyle G.O.A.T. Challenge - Live!"
       },
       {
+         "description" : "On the occasion of Torch Hand-Off ceremony AICF is conducting Olympiad Torch Ceremony 2024 Open Blitz on 14 Feb 2024 at Major Dhyan Chand National",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/olympiad-torch-ceremony-2024-open-blitz-on-14-feb-2024/",
+         "pubDate" : "Tue, 13 Feb 2024 12:17:26",
+         "title" : "Olympiad Torch Ceremony 2024 Open Blitz on 14 Feb 2024"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
