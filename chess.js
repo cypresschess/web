@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2884",
+         "pubDate" : "Wed, 14 Feb 2024 16:13:11",
+         "title" : "Starting with a bang: Chess Torch Ceremony kicks off FIDE's centennial celebration"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2883",
+         "pubDate" : "Wed, 14 Feb 2024 13:27:06",
+         "title" : " FIDE announces 2024 World Corporate Chess Championship"
+      },
+      {
+         "description" : " A shameless plug for an eventual 12 part series on Basic Endings for Beginners (based on the book of the title by JH Blake) <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"369\" src=\"https://www.youtube.com/embed/xDOJf4A-Wmo\" width=\"444\" youtube-src-id=\"xDOJf4A-Wmo\"></iframe></div><br /> The direct link is <a href=\"https://youtu.be/xDOJf4A-Wmo?si=Ti4Mi_2wZA_NB4t8\">https://youtu.be/xDOJf4A-Wmo?si=Ti4Mi_2wZA_NB4t8</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/some-basic-endgame-tips-on-youtube.html",
+         "pubDate" : "Wed, 14 Feb 2024 12:47:00",
+         "title" : "Some basic endgame tips on youtube"
+      },
+      {
          "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The second games of the semi-finals are being played on Wednesday, February 14: Abdusattorov v. Carlsen and Caruana v. Aronian. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +58,28 @@ news_feed (
          "title" : "Glorney Cup 2024"
       },
       {
+         "description" : "GM Jan-Krzysztof Duda and GM Kirill Alekseenko, two former world championship candidates, emerged from tied standings to win Titled Tuesday on February 13. Duda needed to overcome four other players in tiebreaks, while Alekseenko only had to outsc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-alekseenko-win-titled-tuesday-february-13-2024",
+         "pubDate" : "Wed, 14 Feb 2024 08:11:00",
+         "title" : "Candidates Win On Tuesday"
+      },
+      {
          "description" : "Please find the below links of&#160;11th National Amateur Chess Championship 2024 Below 2300 OPEN (11th National Amateur Chess Championship 2024 Below 2300 OPEN)&#160; &#160; Link&#160;https://view.livechesscloud.com#b2b667a3-42a7-4e83-b192-5c2ef449d886",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/11th-national-amateur-chess-championship-2024-dgt-live-link/",
          "pubDate" : "Wed, 14 Feb 2024 07:16:09",
          "title" : "11th National Amateur Chess Championship 2024 - DGT LIVE - LINK"
+      },
+      {
+         "description" : "Chess.com is ready to knock it outta the park again with the launch of a new tournament featuring stars from the Cleveland Guardians Major League Baseball team. SlugChamps: Guardians Chess Club will pit eight teammates from one of America&#38;rsquo;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cleveland-guardians-step-up-to-the-plate-for-slugchamps",
+         "pubDate" : "Wed, 14 Feb 2024 06:55:00",
+         "title" : "Cleveland Guardians Step Up To The Plate For SlugChamps-The Baseball Stars Tournament"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Originally from Grandmaster&#039;s Choice on YouTube. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/reality-playing-kasparov-grandmasters-choice-wgm-thalia-cervantes-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZPwt6Ylc5a4.jpg?itok=SWriO6Vj\" alt=\"\" /></a></div>",
@@ -122,7 +162,7 @@ news_feed (
          "title" : "Carlsen, Aronian With One Foot In Freestyle Chess Final"
       },
       {
-         "description" : "In about two weeks, on 26 February 2024, the fifth Prague International Chess Festival (PICF) will begin. This year the four best juniors in the world - Praggnanandhaa, Gukesh, Abdusattorov and Keymer - will be in Prague to complete the strong field of Vidit, Rapport, Maghsoodloo, Navara, Bartel and Nguyen. But as tournament director Petr Boleslav explains in an interview, this is just one reason to combine a visit to one of Europe's most beautiful cities with chess. | Picture: Festival logo 2024",
+         "description" : "In about two weeks, on 26 February 2024, the sixth Prague International Chess Festival (PICF) will begin. This year the four best juniors in the world - Praggnanandhaa, Gukesh, Abdusattorov and Keymer - will be in Prague to complete the strong field of Vidit, Rapport, Maghsoodloo, Navara, Bartel and Nguyen. But as tournament director Petr Boleslav explains in an interview, this is just one reason to combine a visit to one of Europe's most beautiful cities with chess. | Picture: Festival logo 2024",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chess-festival-prague-an-interview-with-tournament-director-petr-boleslav",
@@ -192,6 +232,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/12/the-chess-drum-is-23/",
          "pubDate" : "Tue, 13 Feb 2024 04:59:24",
          "title" : "The Chess Drum is 23!"
+      },
+      {
+         "description" : "A Monday post means it's time for another installment in our weekly AI chess comic series. In the previous episode, <A HREF=\"https://chessforallages.blogspot.com/2024/02/the-wizards-assistant.html\">The Wizard's Assistant</A> (February 2024), we learned, <BLOCKQUOTE> The Wizard and his assistant meet at least once a day and generally discuss the latest challenges facing the chess world. </BLOCKQUOTE> <P> This is the sixth and last installment of the introduction to the series. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob12.jpg\" WIDTH= HEIGHT=> <P> The Wizard's assistant is often accompanied by his longtime girlfriend, who is herself a keen chess player. Some say the girlf",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/02/the-assistants-girlfriend.html",
+         "pubDate" : "Mon, 12 Feb 2024 16:37:00",
+         "title" : "The Assistant's Girlfriend"
       },
       {
          "description" : "World number-one Magnus Carlsen hit back with three wins to beat GM Alireza Firouzja and book a 2024 Freestyle Chess G.O.A.T. Challenge Semifinal against GM Nodirbek Abdusattorov, who eased past GM Ding Liren. It was the day the &#34;veterans&#34; struck ...",
@@ -778,14 +826,6 @@ news_feed (
          "title" : "Chess.com Releases Kingdom Chess App"
       },
       {
-         "description" : "On his 25th birthday, GM Jose Martinez finished first in the all-GM Play-in of the 2024 Champions Chess Tour Chessable Masters. The penultimate round against GM Hikaru Nakamura was absolutely critical, as the Peruvian GM managed to draw a losing e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-1",
-         "pubDate" : "Wed, 31 Jan 2024 12:53:00",
-         "title" : "Martinez Wins Play-in On His Birthday"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1016,14 +1056,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-crushes-chinas-wenjun-ju-to-join-leaders-in-tata-steel-masters-chess/articleshow/107123220.cms",
          "pubDate" : "Wed, 24 Jan 2024 17:22:39",
          "title" : "Praggnanandhaa crushes Wenjun Ju to join leaders in Tata Steel Chess"
-      },
-      {
-         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
-         "pubDate" : "Wed, 24 Jan 2024 14:02:42",
-         "title" : "English Championship Series 2024"
       }
    ]
 }
