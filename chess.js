@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the below links of&#160;11th National Amateur Chess Championship 2024 Below 2300 OPEN (11th National Amateur Chess Championship 2024 Below 2300 OPEN)&#160; &#160; Link&#160;https://view.livechesscloud.com#b2b667a3-42a7-4e83-b192-5c2ef449d886",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/11th-national-amateur-chess-championship-2024-dgt-live-link/",
+         "pubDate" : "Wed, 14 Feb 2024 07:16:09",
+         "title" : "11th National Amateur Chess Championship 2024 - DGT LIVE - LINK"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Originally from Grandmaster&#039;s Choice on YouTube. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/reality-playing-kasparov-grandmasters-choice-wgm-thalia-cervantes-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZPwt6Ylc5a4.jpg?itok=SWriO6Vj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/reality-playing-kasparov-grandmasters-choice-wgm-thalia-cervantes-shorts-chess",
+         "pubDate" : "Wed, 14 Feb 2024 06:28:26",
+         "title" : "Reality of Playing Like Kasparov | Grandmaster's Choice - WGM Thalia Cervantes #Shorts #chess"
+      },
+      {
+         "description" : "Magnus Carlsen and Levon Aronian defeated Nodirbek Abdusattorov and Fabiano Caruana respectively to get ahead on the scoreboard in the semi-finals of the Freestyle G.O.A.T. Challenge. Meanwhile, in the consolation bracket, Alireza Firouzja and Vincent Keymer got the better of Ding Liren and Gukesh D. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d5",
+         "pubDate" : "Wed, 14 Feb 2024 06:05:00",
+         "title" : "Freestyle Challenge: Carlsen and Aronian score"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes shows two examples of targeting your opponent&#039;s king, while all of their pieces reside elsewhere. 2024.02.13<br /> Thalia Cervantes vs. Pedro Tabuenca, 2023: A53 Old Indian defence<br /> Louis Paulsen vs Paul Morphy, 1st American Chess Congress, New York (1857)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1242884\">https://www.chessgames.com/perl/chessgame?gid=1242884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/bcm-2-what-makes-a-great-beginner-course/",
          "pubDate" : "Tue, 13 Feb 2024 14:05:50",
          "title" : "(BCM #2) What Makes a Great Beginner Course"
-      },
-      {
-         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The semi-finals kick off on Tuesday: Carlsen v. Abdusattorov and Aronian v. Caruana. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
-         "pubDate" : "Tue, 13 Feb 2024 12:40:00",
-         "title" : "Freestyle G.O.A.T. Challenge - Live!"
       },
       {
          "description" : "On the occasion of Torch Hand-Off ceremony AICF is conducting Olympiad Torch Ceremony 2024 Open Blitz on 14 Feb 2024 at Major Dhyan Chand National",
@@ -368,14 +384,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/5-things-we-learned-2024-cct-chessable-masters",
          "pubDate" : "Thu, 08 Feb 2024 20:58:00",
          "title" : "5 Things We Learned - Chessable Masters 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"><h2><strong>Saint Louis Chess Conference, an Innovative Educational Chess Event, to be Held in America's Chess Capital</strong></h2>&amp;nbsp <strong>Educational Chess Event to Feature Renowned Chess Experts, Educational Workshops and Community Engagement Opportunities This Fall</strong> &amp;nbsp </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/slideshow/ChessConference_Horizontal%20Club%20Slid",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saint-louis-chess-conference-press-release",
-         "pubDate" : "Thu, 08 Feb 2024 18:17:01",
-         "title" : "Saint Louis Chess Conference Press Release!"
       },
       {
          "description" : "The previous 'On the Cover' post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/january-1974-1999-on-cover.html\">January 1974 & 1999 'On the Cover'</A> (January 2024), had several twists on the World Championships of 50 and 25 years ago. In the current post, we return to important events of national interest. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob08.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'EuroDisney and the World Rapids for Kids' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> James Tarjan, winner of the American Open in California. Carl Budd's story is [inside]. Photo by Paula Muller. </BLOCKQUOTE> <P> The Carl ",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2858",
          "pubDate" : "Wed, 24 Jan 2024 11:13:30",
          "title" : "FIDE Trainers Online Seminar 2024 announced"
-      },
-      {
-         "description" : "The ECU Board meeting on 21st January 2024, &#160;after authorisation by the ECU General Assembly 2023, approved the new ECU Rulebook.&#160;The rules are effective from 1st January 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-rulebook/",
-         "pubDate" : "Wed, 24 Jan 2024 07:59:25",
-         "title" : "ECU Rulebook"
       }
    ]
 }
