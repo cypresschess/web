@@ -50,6 +50,14 @@ news_feed (
          "title" : "Efstratios Grivas: Activating the Queen"
       },
       {
+         "description" : "GM Hikaru Nakamura recently extended his record on Chess.com to become the first player ever to break 3400 in blitz. His new high of 3405 is 28 points higher than number two on the list, GM Magnus Carlsen. The electrifying online blitz rivalry b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-becomes-first-to-break-3400-on-chess-com",
+         "pubDate" : "Wed, 14 Feb 2024 10:17:34",
+         "title" : "Nakamura Becomes First To Break 3400 In Blitz On Chess.com"
+      },
+      {
          "description" : "The 2024 Glorney Cup will take place between 23-25 July at the University of Hull. There will be 6 teams: England; England A; Ireland; International;...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -79,7 +87,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cleveland-guardians-step-up-to-the-plate-for-slugchamps",
          "pubDate" : "Wed, 14 Feb 2024 06:55:00",
-         "title" : "Cleveland Guardians Step Up To The Plate For SlugChamps-The Baseball Stars Tournament"
+         "title" : "Cleveland Guardians Step Up To The Plate For SlugChamps-The First Baseball Stars Chess Tournament"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Originally from Grandmaster&#039;s Choice on YouTube. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/reality-playing-kasparov-grandmasters-choice-wgm-thalia-cervantes-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZPwt6Ylc5a4.jpg?itok=SWriO6Vj\" alt=\"\" /></a></div>",
@@ -818,14 +826,6 @@ news_feed (
          "title" : "Softly, softly"
       },
       {
-         "description" : "&#34;Here ye, here ye! Gather round as I tell a tale about the Kingdom Chess App that was just announced!&#34; a wise knight once said. In this app, you can play chess against worthy opponents for gold, battle bots, solve fun missions, and build up YOUR k...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-releases-kingdom-chess-app",
-         "pubDate" : "Thu, 01 Feb 2024 08:15:00",
-         "title" : "Chess.com Releases Kingdom Chess App"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1040,22 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2859",
          "pubDate" : "Thu, 25 Jan 2024 00:23:27",
          "title" : "Tata Steel Masters 2024: Gukesh and Abdusattorov forge ahead"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov and D Gukesh have a half point lead over Anish Giri and Praggnanandhaa going into the final rest day. There are three rounds left and it's still all to play for. Nodirbek Abdusattorov had black against Max Warmerdam in a Queen's Gambit Accepted. Yesterday's shocking turn around may well have still been affecting Warmerdam. After 13 moves the game was equal, 23.Ne2 was a clear error in a slightly worse position (23.Nd2) beautifully exploited by Abdusattorov with 24...f4! but the position remained a mess and 31..Bf5? was an error allowing white back into the game with 32.Qe3 and even be better after 35.Bxe4! and then a further blunder 39...Rd6? (39...e4!) left Warmerdam ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/abdusattorov-and-gukesh-lead-the-tata-steel-masters-with-6.510",
-         "pubDate" : "Wed, 24 Jan 2024 20:26:00",
-         "title" : "Abdusattorov and Gukesh lead the Tata Steel Masters with 6.5/10 - 10"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107123220.cms\" />Grandmaster R Praggnanandhaa defeated the reigning and four-time women's world champion Wenjun Ju from China in the ninth round of the Tata Steel Masters. The victory made Praggnanandhaa the only player in recent times to have beaten both the reigning world champions in open and women's categories. Just a week ago in the same tournament, the Indian ace had beaten Ding Liren of China.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-crushes-chinas-wenjun-ju-to-join-leaders-in-tata-steel-masters-chess/articleshow/107123220.cms",
-         "pubDate" : "Wed, 24 Jan 2024 17:22:39",
-         "title" : "Praggnanandhaa crushes Wenjun Ju to join leaders in Tata Steel Chess"
       }
    ]
 }
