@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes shows two examples of targeting your opponent&#039;s king, while all of their pieces reside elsewhere. 2024.02.13<br /> Thalia Cervantes vs. Pedro Tabuenca, 2023: A53 Old Indian defence<br /> Louis Paulsen vs Paul Morphy, 1st American Chess Congress, New York (1857)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1242884\">https://www.chessgames.com/perl/chessgame?gid=1242884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/punish-your-opponents-bad-development-grandmasters-choice-wgm-thalia-cervantes",
+         "pubDate" : "Wed, 14 Feb 2024 03:28:14",
+         "title" : "Punish Your Opponent's Bad Development! | Grandmaster's Choice - WGM Thalia Cervantes"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko looks at a chess game from Dutch Grandmaster Robby Kevlishvili, who Julian will play in an upcoming tournament. 2024.02.13<br /> Robby Kevlishvili vs. Mark Heimann, 2023: C67 Ruy Lopez, Berlin defence, open variation<br /> <a href=\"https://www.365chess.com/game.php?gid=4444559\">https://www.365chess.com/game.php?gid=4444559</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robby-kevlishvilis-game-i-road-2000-nm-julian-proleiko\"><img",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/robby-kevlishvilis-game-i-road-2000-nm-julian-proleiko",
+         "pubDate" : "Wed, 14 Feb 2024 03:28:14",
+         "title" : "Robby Kevlishvili's Game That I Like | Road to 2000 - NM Julian Proleiko"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Originally from Road to 2000 class on YouTube. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/main-2-skills-chess-players-have-road-2000-nm-julian-proleiko-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xb8VJBgOMds.jpg?itok=eWHS2vrm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/main-2-skills-chess-players-have-road-2000-nm-julian-proleiko-shorts-chess",
+         "pubDate" : "Wed, 14 Feb 2024 00:27:40",
+         "title" : "The Main 2 Skills Chess Players Have | Road to 2000 - NM Julian Proleiko #Shorts #chess"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko looks at chess games from Dutch Grandmaster Robby Kevlishvili, who Julian will play in an upcoming tournament. 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robby-kevlishvilis-games-i-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9imkpfQgwgY.jpg?itok=8BGdliI8\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "Robby Kevlishvili's Games That I Like | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes shows two examples of targeting your opponent&#039;s king, while all of their pieces reside elsewhere. 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attack-lonesome-king-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mcHdwajSsrU.jpg?itok=A1RMxmLP\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes shows two examples of targeting your opponent&#039;s king, while all of their pieces reside elsewhere. 2024.02.13<br /> Thalia Cervantes vs. Pedro Tabuenca, 2023: A53 Old Indian defence<br /> Louis Paulsen vs Paul Morphy, 1st American Chess Congress, New York (1857)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1242884\">https://www.chessgames.com/perl/chessgame?gid=1242884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/attack-lonesome-king-grandmasters-choice-wgm-thalia-cervantes",
@@ -440,30 +464,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/piorun-nakamura-win-titled-tuesday-february-6-2024",
          "pubDate" : "Wed, 07 Feb 2024 09:03:00",
          "title" : "Nakamura Extends Titled Cup Lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko demonstrates when it&#039;s okay to break opening principle &quot;rules.&quot; 2024.02.06<br /> Evan Sammons vs. Julian Proleiko, 2023: A42 Modern defence, Averbakh system </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-all-chess-rules-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4O7UFy-aQc.jpg?itok=_cPEMS5",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/breaking-all-chess-rules-road-2000-nm-julian-proleiko",
-         "pubDate" : "Wed, 07 Feb 2024 06:18:29",
-         "title" : "Breaking All of The Chess Rules! | Road to 2000 - NM Julian Proleiko"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko demonstrates when it&#039;s okay to break opening principle &quot;rules.&quot; 2024.02.06<br /> Evan Sammons vs. Julian Proleiko, 2023: A42 Modern defence, Averbakh system<br /> Erik Tkachenko </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/breaking-all-rules-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4O7UFy-aQc.j",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/breaking-all-rules-road-2000-nm-julian-proleiko",
-         "pubDate" : "Wed, 07 Feb 2024 00:18:09",
-         "title" : "Breaking All of The Rules! | Road to 2000 - NM Julian Proleiko"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes continues to talk about committing to a chess move. See an example from from her own game. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commit-chess-move-already-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/if1sf59ivIs.jpg?itok=x-HxAdNQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/commit-chess-move-already-grandmasters-choice-wgm-thalia-cervantes",
-         "pubDate" : "Wed, 07 Feb 2024 00:18:09",
-         "title" : "Commit to a Chess Move Already! | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
          "description" : " During this Black History Month 2024, The Chess Drum will present four videos featuring puzzles of several of the chess masters in the Black Diaspora. The videos will provide some historical information about each player and then one of the puzzles from a tournament game. Most of these puzzles were featured in one of the The post <a href=\"https://www.thechessdrum.net/blog/2024/02/06/black-history-month-2024-tribute-week-1/\">Black History Month 2024 Tribute: Week 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1024,14 +1024,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-rulebook/",
          "pubDate" : "Wed, 24 Jan 2024 07:59:25",
          "title" : "ECU Rulebook"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107099722.cms\" /> Five-time world champion and Fide deputy president V Anand stressed that the Indian trio of R Praggnanandhaa, D Gukesh and Vidit Gujrathi should not be overawed by the occasion when they make their Candidates debut in Toronto in April. In a virtual interaction with TOI, Anand spoke about the Indians' Candidates chances, importance of seconds for top tournaments, World Championship cycle and more.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/all-three-indians-strong-enough-to-win-viswanathan-anand/articleshow/107099722.cms",
-         "pubDate" : "Wed, 24 Jan 2024 03:57:56",
-         "title" : "All three Indians strong enough to win: Viswanathan Anand"
       }
    ]
 }
