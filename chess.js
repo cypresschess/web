@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The second games of the semi-finals are being played on Wednesday, February 14: Abdusattorov v. Carlsen and Caruana v. Aronian. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
+         "pubDate" : "Wed, 14 Feb 2024 12:40:00",
+         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+      },
+      {
+         "description" : "On the occasion of the 100th anniversary since its founding, FIDE is set to launch the Chess Torch Relay, a global movement aimed at celebrating the rich history of the game and bringing together the entire chess community. As part of the FIDE 100 celebration, the torch relay will commence on February 14 in New Delhi, India, at the Major Dhyan National Stadium.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-torch-ceremony-in-india-to-mark-fide-s-100th-anniversary-celebration",
+         "pubDate" : "Wed, 14 Feb 2024 12:35:31",
+         "title" : "Chess Torch Ceremony in India to mark FIDE's 100th-anniversary celebration"
+      },
+      {
+         "description" : "Development and piece activation are well-known assets that every decent player seeks during his game. So, centralisation is the key-word which comes to our thoughts when we are talking on the above subjects. But there are cases where the de-centralisation can be the alternative option! Well, of course we talk about 'healthy' ideas, which can help us to improve an inferior or better position, depending on the circumstances. Our internationally famous trainer explains.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/efstratios-grivas-activating-the-queen",
+         "pubDate" : "Wed, 14 Feb 2024 11:00:00",
+         "title" : "Efstratios Grivas: Activating the Queen"
+      },
+      {
+         "description" : "The 2024 Glorney Cup will take place between 23-25 July at the University of Hull. There will be 6 teams: England; England A; Ireland; International;...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/glorney-cup-2024/",
+         "pubDate" : "Wed, 14 Feb 2024 09:21:15",
+         "title" : "Glorney Cup 2024"
+      },
+      {
          "description" : "Please find the below links of&#160;11th National Amateur Chess Championship 2024 Below 2300 OPEN (11th National Amateur Chess Championship 2024 Below 2300 OPEN)&#160; &#160; Link&#160;https://view.livechesscloud.com#b2b667a3-42a7-4e83-b192-5c2ef449d886",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -66,6 +98,14 @@ news_feed (
          "title" : "Attack the Lonesome King! | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2882",
+         "pubDate" : "Tue, 13 Feb 2024 21:05:08",
+         "title" : "FIDE World Senior Team Championship 2024: Registration is open"
+      },
+      {
          "description" : "Month by month, we learn how to master, and tame the powerful Dragon, with Dragon expert Chris Ward. But do you know what's really annoying? When nobody wants to accept the Dragon against you! Chris heard all of your cries for help, and made a special episode of the basics, ideas, plans, traps, and more for plenty of Anti-Sicilians, and other openings, which try to dodge our beloved Sicilian Dragon. A \"Must Watch\" episode for everyone, who experienced something similar. (And we know, you have ...) | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,22 +162,6 @@ news_feed (
          "title" : "International Congress on Chess, Education and Health in Menorca: A New Look into the Future"
       },
       {
-         "description" : "In endgames, knights are often surprisingly helpless against a rook. In the diagram position, White is an exchange down, but seems to be close to a draw because only two black pawns remain on the board. However, Black has a way to win - what should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-vs-knight",
-         "pubDate" : "Tue, 13 Feb 2024 09:00:00",
-         "title" : "Rook vs knight"
-      },
-      {
-         "description" : "In January, Leon Mendonca won the prestigious Tata Steel Challengers tournament, and now he has analysed the 13 games he played in the tournament! In a video of more than 150 minutes (maybe a better choice than a Netflix movie tonight?), Leon shares his thoughts and insights, in the opening, the middlegame and the endgame. Instructive, entertaining, and a must for any chess fan!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-marathon-all-13-tata-games-fully-analysed",
-         "pubDate" : "Tue, 13 Feb 2024 08:48:10",
-         "title" : "Leon Mendonca Marathon - All 13 Tata games fully analysed!"
-      },
-      {
          "description" : "The Saint Louis Chess Club has announced its lineup for this year&#38;rsquo;s American Cup boasting &#34;16 of the strongest chess players in America.&#34; Eight GMs are on the roster for the $250,000 Open section headed by U.S. number-one GM Fabiano Caruan...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/12/the-chess-drum-is-23/",
          "pubDate" : "Tue, 13 Feb 2024 04:59:24",
          "title" : "The Chess Drum is 23!"
-      },
-      {
-         "description" : "Magnus Carlsen is set to face Nodirbek Abusattorov in the semi-finals of the Freestyle G.O.A.T. Challenge after beating Alireza Firouzja in rapid tiebreaks. Abdusattorov drew Ding Liren to get a 1&frac12;-&frac12; victory in their mini-match. In the other pairing of the semi-finals, Levon Aronian will play Fabiano Caruana. Aronian defeated Vincent Keymer in the second encounter of their match, while Caruana obtained the half point he needed to beat Gukesh D in their 2-game confrontation. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d4",
-         "pubDate" : "Mon, 12 Feb 2024 23:45:00",
-         "title" : "Freestyle Challenge: Carlsen takes down Firouzja in tiebreaks"
       },
       {
          "description" : "World number-one Magnus Carlsen hit back with three wins to beat GM Alireza Firouzja and book a 2024 Freestyle Chess G.O.A.T. Challenge Semifinal against GM Nodirbek Abdusattorov, who eased past GM Ding Liren. It was the day the &#34;veterans&#34; struck ...",
@@ -1008,22 +1024,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
          "pubDate" : "Wed, 24 Jan 2024 14:02:42",
          "title" : "English Championship Series 2024"
-      },
-      {
-         "description" : " While it is certainly harder to play good chess than bad chess, the reasons for being bad at chess do deserve some study. I did see a quote (allegedly from Lasker), about not understanding how people could be bad at chess, but maybe I imagined it. There is a book called \"How Not To Play Chess\" by Zonosko-Borovsky, although his first rule is the rather broad \"Avoid Mistakes\". He does break it down a little, but if I was explaining this concept, I would at least have the following <ul style=\"text-align: left;\"><li>Don't get checkmated</li><li>Don't lose your queen</li><li>Don't lose other pieces</li><li>Don't lose pawns</li><li>Don't try and win by moving the same piece over and over</li></ul",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/how-not-to-play-chess.html",
-         "pubDate" : "Wed, 24 Jan 2024 12:09:00",
-         "title" : "How not to play chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2858",
-         "pubDate" : "Wed, 24 Jan 2024 11:13:30",
-         "title" : "FIDE Trainers Online Seminar 2024 announced"
       }
    ]
 }
