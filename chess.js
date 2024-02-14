@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko looks at chess games from Dutch Grandmaster Robby Kevlishvili, who Julian will play in an upcoming tournament. 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robby-kevlishvilis-games-i-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9imkpfQgwgY.jpg?itok=8BGdliI8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/robby-kevlishvilis-games-i-road-2000-nm-julian-proleiko",
+         "pubDate" : "Tue, 13 Feb 2024 21:27:42",
+         "title" : "Robby Kevlishvili's Games That I Like | Road to 2000 - NM Julian Proleiko"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes shows two examples of targeting your opponent&#039;s king, while all of their pieces reside elsewhere. 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/attack-lonesome-king-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mcHdwajSsrU.jpg?itok=A1RMxmLP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/attack-lonesome-king-grandmasters-choice-wgm-thalia-cervantes",
+         "pubDate" : "Tue, 13 Feb 2024 21:27:42",
+         "title" : "Attack the Lonesome King! | Grandmaster's Choice - WGM Thalia Cervantes"
+      },
+      {
          "description" : "Month by month, we learn how to master, and tame the powerful Dragon, with Dragon expert Chris Ward. But do you know what's really annoying? When nobody wants to accept the Dragon against you! Chris heard all of your cries for help, and made a special episode of the basics, ideas, plans, traps, and more for plenty of Anti-Sicilians, and other openings, which try to dodge our beloved Sicilian Dragon. A \"Must Watch\" episode for everyone, who experienced something similar. (And we know, you have ...) | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-monthly-dragon-and-now-for-something-completely-different",
          "pubDate" : "Tue, 13 Feb 2024 20:00:00",
          "title" : "The Monthly Dragon - And now for something completely different - The Anti Anti-Sicilian Basics"
+      },
+      {
+         "description" : "GM Magnus Carlsen won what he described as &#34;a very interesting, strategic game&#34; to take the lead against GM Nodirbek Abdusattorov in the 2024 Freestyle Chess G.O.A.T. Challenge Semifinals. GM Levon Aronian also left GM Fabiano Caruana needing to w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-5",
+         "pubDate" : "Tue, 13 Feb 2024 16:10:00",
+         "title" : "Carlsen, Aronian With One Foot In Freestyle Chess Final"
       },
       {
          "description" : "In about two weeks, on 26 February 2024, the fifth Prague International Chess Festival (PICF) will begin. This year the four best juniors in the world - Praggnanandhaa, Gukesh, Abdusattorov and Keymer - will be in Prague to complete the strong field of Vidit, Rapport, Maghsoodloo, Navara, Bartel and Nguyen. But as tournament director Petr Boleslav explains in an interview, this is just one reason to combine a visit to one of Europe's most beautiful cities with chess. | Picture: Festival logo 2024",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "Results of FA seminar at Tirupati from 19-21 Jan 2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows two of his games in this third lecture from the 2024 Charlotte Open. 2024.02.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-two-draws-charlotte-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t4O7UFy-aQc.jpg?itok=_cPEMS55\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/julians-two-draws-charlotte-road-2000-nm-julian-proleiko",
-         "pubDate" : "Mon, 05 Feb 2024 21:16:48",
-         "title" : "Julian's Two Draws at Charlotte | Road to 2000 - NM Julian Proleiko"
-      },
-      {
          "description" : "In the previous installment of our weekly chess comic series, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-ai-generator.html\">The AI Generator</A> (January 2024), we learned, <BLOCKQUOTE> The Wizard can use his patented AI techniques to generate animals, mainly foxes, who play chess. </BLOCKQUOTE> <P> This is the fifth installment of the series. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob05.jpg\" WIDTH= HEIGHT=> <P> The Wizard needs help for his chess activities, which mainly focus on support for the chess community -- local, regional, national, and international. He has an assistant, a much younger man, who lives in a cottage on the mansion grounds. The Wiz",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -520,14 +536,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-6",
          "pubDate" : "Mon, 05 Feb 2024 12:04:00",
          "title" : "Firouzja To Play Carlsen In Grand Final"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen and Hans Niemann played against each other for the first time since their infamous 2022 Sinquefield Cup game in a Titled Tuesday Event. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-carlsen-hans-niemann-play-each-other-first-time-controversy-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OqHf47W_v5E.jpg?itok=nUgIh6nV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-carlsen-hans-niemann-play-each-other-first-time-controversy-shorts",
-         "pubDate" : "Mon, 05 Feb 2024 06:16:24",
-         "title" : "Magnus Carlsen & Hans Niemann Play Each Other for the First Time Since Controversy! | #Shorts"
       },
       {
          "description" : "On Friday, February 2, 2024, the legendary chess player Mian Sultan Khan (1903-1966) was posthumously awarded the honorary grandmaster title. FIDE President Arkady Dvorkovich presented the award to caretaker Prime Minister of Pakistan Anwaar-ul-Ha...",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2869",
          "pubDate" : "Wed, 31 Jan 2024 08:40:34",
          "title" : "FIDE Qualification Commission - Policy on Ratings and Titles"
-      },
-      {
-         "description" : "If you&#39;re just starting out with chess, you will blunder your pieces. It&#39;s just a fact of life. But while this is an inevitable part of your chess journey, it doesn&#39;t need to be a permanent one. Avoid the most common beginner mistakes and learn ho...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sam-shankland-total-board-vision-chessable-course",
-         "pubDate" : "Wed, 31 Jan 2024 08:00:00",
-         "title" : "Avoid Blunders With Shankland's New Total Board Vision For Beginners Chessable Course"
       },
       {
          "description" : "",
@@ -1032,14 +1032,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/all-three-indians-strong-enough-to-win-viswanathan-anand/articleshow/107099722.cms",
          "pubDate" : "Wed, 24 Jan 2024 03:57:56",
          "title" : "All three Indians strong enough to win: Viswanathan Anand"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2857",
-         "pubDate" : "Tue, 23 Jan 2024 23:55:48",
-         "title" : "Tata Steel Masters 2024: Four in the lead after Round 9"
       }
    ]
 }
