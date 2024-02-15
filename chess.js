@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Online bullying or &#8220;cyberbullying&#8221; has become a household term to describe a dangerous social interaction that may involve degrading insults, false characterizations, extortion, blackmailing and predatory stalking. On January 31, 2024, there was a U.S. Senate Judiciary hearing on child safety. It focused on social media platforms with the idea of passing legislation to protect The post <a href=\"https://www.thechessdrum.net/blog/2024/02/14/how-will-chess-address-cyberbullying/\">How Will Chess Address Cyberbullying?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/02/14/how-will-chess-address-cyberbullying/",
+         "pubDate" : "Wed, 14 Feb 2024 23:51:35",
+         "title" : "How Will Chess Address Cyberbullying?"
+      },
+      {
+         "description" : "Fabiano Caruana and Magnus Carlsen, the two highest-rated players in the world, will play the final match at the Freestyle G.O.A.T. Chess Challenge. While Carlsen defeated Nodirbek Abdusattorov by a 1&frac12;-&frac12; score, Caruana's match against Levon Aronian went all the way to Armageddon. Caruana twice blundered in winning positions in what was a thrilling confrontation. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d6",
+         "pubDate" : "Wed, 14 Feb 2024 22:50:00",
+         "title" : "Freestyle Challenge: Caruana beats Aronian in thrilling tiebreaks"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2884",
          "pubDate" : "Wed, 14 Feb 2024 16:13:11",
          "title" : "Starting with a bang: Chess Torch Ceremony kicks off FIDE's centennial celebration"
+      },
+      {
+         "description" : "They may be playing Chess960 instead of regular chess, but it&#39;s world number-one Magnus Carlsen and number-two Fabiano Caruana who will contest the Final of the 2024 Freestyle Chess G.O.A.T. Challenge after Carlsen eased past GM Nodirbek Abdusatto...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-6",
+         "pubDate" : "Wed, 14 Feb 2024 15:58:11",
+         "title" : "Caruana Blunders 2 Rooks But Still Sets Up Carlsen Final"
       },
       {
          "description" : "",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/some-basic-endgame-tips-on-youtube.html",
          "pubDate" : "Wed, 14 Feb 2024 12:47:00",
          "title" : "Some basic endgame tips on youtube"
-      },
-      {
-         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The second games of the semi-finals are being played on Wednesday, February 14: Abdusattorov v. Carlsen and Caruana v. Aronian. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
-         "pubDate" : "Wed, 14 Feb 2024 12:40:00",
-         "title" : "Freestyle G.O.A.T. Challenge - Live!"
       },
       {
          "description" : "On the occasion of the 100th anniversary since its founding, FIDE is set to launch the Chess Torch Relay, a global movement aimed at celebrating the rich history of the game and bringing together the entire chess community. As part of the FIDE 100 celebration, the torch relay will commence on February 14 in New Delhi, India, at the Major Dhyan National Stadium.",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-becomes-first-to-break-3400-on-chess-com",
-         "pubDate" : "Wed, 14 Feb 2024 10:17:34",
+         "pubDate" : "Wed, 14 Feb 2024 10:17:00",
          "title" : "Nakamura Becomes First To Break 3400 In Blitz On Chess.com"
       },
       {
@@ -810,14 +826,6 @@ news_feed (
          "title" : "Sohum Lohia in Wijk aan Zee"
       },
       {
-         "description" : "Day two of the 2024 Champions Chess Tour Chessable Masters separated 56 advancing players into three divisions. In Division I Placement, the standout was 17-year-old GM Denis &#34;the Menace&#34; Lazavik who defeated GM Hikaru Nakamura 2-0 before also s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-2",
-         "pubDate" : "Thu, 01 Feb 2024 12:41:00",
-         "title" : "Lazavik Beats Nakamura 2-0; Dubov Plays Brilliancy"
-      },
-      {
          "description" : " The FIDE Qualification Commission has decided to restrict the use of Scheveningen and Schiller format events for earning title norms. The full announcement can be found at <a href=\"https://fide.com/news/2869\">https://fide.com/news/2869</a> As the statement says, the motivation for this decision is mainly about what titles represent. Historically, chess titles were awarded (formally or informally) as a consequence of achievements in important and significant events. I* would like to think this should still be the case, recognising that the growth in chess has lead to a growth in the number of events that may fit this criteria. Nonetheless, I believe that there still should be standards appli",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/bacon-morphy-erdos.html",
          "pubDate" : "Thu, 25 Jan 2024 11:42:00",
          "title" : "Bacon, Morphy, Erdos"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2859",
-         "pubDate" : "Thu, 25 Jan 2024 00:23:27",
-         "title" : "Tata Steel Masters 2024: Gukesh and Abdusattorov forge ahead"
       }
    ]
 }
