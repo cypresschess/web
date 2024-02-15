@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The final match facing Magnus Carlsen and Fabiano Caruana kicks off on Thursday, February 15. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "description" : "Magnus Carlsen and Fabiano Caruana signed a draw in the first game of the finals at the Freestyle G.O.A.T. Chess Challenge. In the match for third place, Levon Aronian barely escaped with a draw against Nodirbek Abdusattorov, while Alireza Firouzja got the better of Gukesh D in the fight for fifth place. Finally, in the match for seventh place, Vincent Keymer defeated an out-of-form Ding Liren. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
-         "pubDate" : "Thu, 15 Feb 2024 12:40:00",
-         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d7",
+         "pubDate" : "Thu, 15 Feb 2024 20:15:00",
+         "title" : "Freestyle Challenge: Ding's woes continue"
+      },
+      {
+         "description" : "In his new Game of the Week show, Merijn van Delft shows an interesting game from the German Bundesliga, in which White showed ways to overcome the Berlin wall. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-606-a-pavlidis-vs-l-mcshane",
+         "pubDate" : "Thu, 15 Feb 2024 20:00:00",
+         "title" : "Game of the Week #606: A. Pavlidis vs L. McShane"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>The 2024 American Cup</title> <h1 style=\"color: #000000;\">The 2024 American Cup: Showcasing America's Finest Chess Talents</h1> <strong>Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors</strong> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-american-cup-showcasing-americas-finest-chess-talents",
+         "pubDate" : "Thu, 15 Feb 2024 17:10:43",
+         "title" : "The 2024 American Cup: Showcasing America's Finest Chess Talents"
       },
       {
          "description" : "A strong outlook of nonchalance is associated with the term \"modern\" in chess. It typically insinuates that a player is not grossly concerned with conventional strategies, especially having to control the center immediately. This article highlights Modern Defense, its core ideas, key variations, and how to play against it.",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/reality-playing-kasparov-grandmasters-choice-wgm-thalia-cervantes-shorts-chess",
          "pubDate" : "Wed, 14 Feb 2024 06:28:26",
          "title" : "Reality of Playing Like Kasparov | Grandmaster's Choice - WGM Thalia Cervantes #Shorts #chess"
-      },
-      {
-         "description" : "Magnus Carlsen and Levon Aronian defeated Nodirbek Abdusattorov and Fabiano Caruana respectively to get ahead on the scoreboard in the semi-finals of the Freestyle G.O.A.T. Challenge. Meanwhile, in the consolation bracket, Alireza Firouzja and Vincent Keymer got the better of Ding Liren and Gukesh D. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d5",
-         "pubDate" : "Wed, 14 Feb 2024 06:05:00",
-         "title" : "Freestyle Challenge: Carlsen and Aronian score"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes shows two examples of targeting your opponent&#039;s king, while all of their pieces reside elsewhere. 2024.02.13<br /> Thalia Cervantes vs. Pedro Tabuenca, 2023: A53 Old Indian defence<br /> Louis Paulsen vs Paul Morphy, 1st American Chess Congress, New York (1857)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1242884\">https://www.chessgames.com/perl/chessgame?gid=1242884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/weissenhaus-freestyle-chess-goat-challenge-2024",
          "pubDate" : "Thu, 8 Feb 2024 22:31:00",
          "title" : "Weissenhaus Freestyle Chess GOAT Challenge 2024 - Games and Results"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros dives into the preparation methods of the greatest players of all time, like world champions Garry Kasparov, Vishy Anand, Vladimir Kramnik. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/way-goats-prepare-prepare-pro-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PcEwecIMd6k.jpg?itok=tiNaIxmg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/way-goats-prepare-prepare-pro-gm-denes-boros",
-         "pubDate" : "Thu, 08 Feb 2024 21:20:24",
-         "title" : "The Way GOATs Prepare | Prepare Like A Pro - GM Denes Boros"
       },
       {
          "description" : "The first event of the 2024 Champions Chess Tour, the 2024 Chessable Masters, is in the books, and plenty has happened in the tournament that lasted eight days. Some things aren&#39;t new, like the fact that GM Magnus Carlsen won again. But plenty i...",
@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/roy-teymant-oam.html",
          "pubDate" : "Fri, 26 Jan 2024 11:27:00",
          "title" : "Roy Teymant OAM"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107153773.cms\" />Indian Grandmaster D Gukesh scored a crushing victory over Alexander Donchenko in the 10th round of Tata Steel Masters Chess on Thursday. This was Gukesh's fifth victory overall in the tournament besides two losses and the Indian moved to 6.5 points out of a possible 10. Uzbek Nodirbek Abdusattarov made sure Gukesh did not figure as the sole leader with a hard-earned victory over Max Warmerdam.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-crushes-donchenko-shares-lead-with-abdusattarov-in-tata-steel-masters-chess/articleshow/107153773.cms",
-         "pubDate" : "Thu, 25 Jan 2024 16:37:20",
-         "title" : "D Gukesh shares lead with Abdusattarov in Tata Steel Masters Chess"
       }
    ]
 }
