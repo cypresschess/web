@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The final match facing Magnus Carlsen and Fabiano Caruana kicks off on Thursday, February 15. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
+         "pubDate" : "Thu, 15 Feb 2024 12:40:00",
+         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+      },
+      {
+         "description" : "A strong outlook of nonchalance is associated with the term \"modern\" in chess. It typically insinuates that a player is not grossly concerned with conventional strategies, especially having to control the center immediately. This article highlights Modern Defense, its core ideas, key variations, and how to play against it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-modern-defense-and-its-ideas",
+         "pubDate" : "Thu, 15 Feb 2024 10:56:53",
+         "title" : "The Modern Defense and its Ideas"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2885",
+         "pubDate" : "Thu, 15 Feb 2024 09:34:22",
+         "title" : "FIDE delegation visits headquarters of IndianOil Corporation"
+      },
+      {
          "description" : " Online bullying or &#8220;cyberbullying&#8221; has become a household term to describe a dangerous social interaction that may involve degrading insults, false characterizations, extortion, blackmailing and predatory stalking. On January 31, 2024, there was a U.S. Senate Judiciary hearing on child safety. It focused on social media platforms with the idea of passing legislation to protect The post <a href=\"https://www.thechessdrum.net/blog/2024/02/14/how-will-chess-address-cyberbullying/\">How Will Chess Address Cyberbullying?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -170,28 +194,12 @@ news_feed (
          "title" : "FIDE World Senior Team Championship 2024: Registration is open"
       },
       {
-         "description" : "Month by month, we learn how to master, and tame the powerful Dragon, with Dragon expert Chris Ward. But do you know what's really annoying? When nobody wants to accept the Dragon against you! Chris heard all of your cries for help, and made a special episode of the basics, ideas, plans, traps, and more for plenty of Anti-Sicilians, and other openings, which try to dodge our beloved Sicilian Dragon. A \"Must Watch\" episode for everyone, who experienced something similar. (And we know, you have ...) | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-and-now-for-something-completely-different",
-         "pubDate" : "Tue, 13 Feb 2024 20:00:00",
-         "title" : "The Monthly Dragon - And now for something completely different - The Anti Anti-Sicilian Basics"
-      },
-      {
          "description" : "GM Magnus Carlsen won what he described as &#34;a very interesting, strategic game&#34; to take the lead against GM Nodirbek Abdusattorov in the 2024 Freestyle Chess G.O.A.T. Challenge Semifinals. GM Levon Aronian also left GM Fabiano Caruana needing to w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-5",
          "pubDate" : "Tue, 13 Feb 2024 16:10:00",
          "title" : "Carlsen, Aronian With One Foot In Freestyle Chess Final"
-      },
-      {
-         "description" : "In about two weeks, on 26 February 2024, the sixth Prague International Chess Festival (PICF) will begin. This year the four best juniors in the world - Praggnanandhaa, Gukesh, Abdusattorov and Keymer - will be in Prague to complete the strong field of Vidit, Rapport, Maghsoodloo, Navara, Bartel and Nguyen. But as tournament director Petr Boleslav explains in an interview, this is just one reason to combine a visit to one of Europe's most beautiful cities with chess. | Picture: Festival logo 2024",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-festival-prague-an-interview-with-tournament-director-petr-boleslav",
-         "pubDate" : "Tue, 13 Feb 2024 16:00:00",
-         "title" : "Chess Festival Prague: An interview with tournament director Petr Boleslav"
       },
       {
          "description" : "",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-crushes-donchenko-shares-lead-with-abdusattarov-in-tata-steel-masters-chess/articleshow/107153773.cms",
          "pubDate" : "Thu, 25 Jan 2024 16:37:20",
          "title" : "D Gukesh shares lead with Abdusattarov in Tata Steel Masters Chess"
-      },
-      {
-         "description" : " I saw a recent article concerning the mathematician Paul Erdos. A prolific collaborator and publisher, he was probably the first subject of the 'n degrees of separation' game, which was more popularly attached to the actor Kevin Bacon. In the world of chess there is also the concept of the Morphy number, where you trace the number of steps back to Paul Morphy, through a chain of opponents. Surprisingly, my Morphy number seems higher than either my Erdos or Bacon numbers, although the distance in time may account for this. My Erdos number is 4, having collaborated on a paper with someone whose Erdos number was 3. My Bacon number (probably 4) is somewhat tenuous, as I worked on an amateur fil",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/bacon-morphy-erdos.html",
-         "pubDate" : "Thu, 25 Jan 2024 11:42:00",
-         "title" : "Bacon, Morphy, Erdos"
       }
    ]
 }
