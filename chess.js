@@ -26,6 +26,14 @@ news_feed (
          "title" : "FIDE delegation visits headquarters of IndianOil Corporation"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2835",
+         "pubDate" : "Thu, 15 Feb 2024 08:50:01",
+         "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration ends in 10 days"
+      },
+      {
          "description" : " Online bullying or &#8220;cyberbullying&#8221; has become a household term to describe a dangerous social interaction that may involve degrading insults, false characterizations, extortion, blackmailing and predatory stalking. On January 31, 2024, there was a U.S. Senate Judiciary hearing on child safety. It focused on social media platforms with the idea of passing legislation to protect The post <a href=\"https://www.thechessdrum.net/blog/2024/02/14/how-will-chess-address-cyberbullying/\">How Will Chess Address Cyberbullying?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
