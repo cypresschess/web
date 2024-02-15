@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-6",
-         "pubDate" : "Wed, 14 Feb 2024 15:58:11",
+         "pubDate" : "Wed, 14 Feb 2024 15:58:00",
          "title" : "Caruana Blunders 2 Rooks But Still Sets Up Carlsen Final"
       },
       {
