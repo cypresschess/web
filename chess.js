@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen beats Alireza Firouzja in the first playoff of the Freestyle Chess G.O.A.T. Challenge, says his next opponent Abdusattorov is &quot;the guy who&#039;s played the best chess here.&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-beats-alireza-first-playoff-freestyle-goat-moves-abdusattorov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1FQeJg0FL1U.jpg?i",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-beats-alireza-first-playoff-freestyle-goat-moves-abdusattorov",
+         "pubDate" : "Thu, 15 Feb 2024 21:31:53",
+         "title" : "Magnus beats Alireza in first playoff of Freestyle G.O.A.T. Moves onto Abdusattorov"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> After defeating Nodirbek Abdusattorov, Magnus Carlsen will face off against Fabiano Caruana in a showdown between the world&#039;s two highest rated chess players at the Freestyle Chess G.O.A.T. Challenge. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-and-fabi-face-showdown-between-worlds-two-highest-ranked-players\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sxL-JQUt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-and-fabi-face-showdown-between-worlds-two-highest-ranked-players",
+         "pubDate" : "Thu, 15 Feb 2024 21:31:53",
+         "title" : "Magnus and Fabi to Face Off in Showdown Between World's Two Highest Ranked Players"
+      },
+      {
          "description" : "Magnus Carlsen and Fabiano Caruana signed a draw in the first game of the finals at the Freestyle G.O.A.T. Chess Challenge. In the match for third place, Levon Aronian barely escaped with a draw against Nodirbek Abdusattorov, while Alireza Firouzja got the better of Gukesh D in the fight for fifth place. Finally, in the match for seventh place, Vincent Keymer defeated an out-of-form Ding Liren. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2024-american-cup-showcasing-americas-finest-chess-talents",
          "pubDate" : "Thu, 15 Feb 2024 17:10:43",
          "title" : "The 2024 American Cup: Showcasing America's Finest Chess Talents"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen missed a chance for more as he made a draw with Black against GM Fabiano Caruana in game one of the 2024 Freestyle Chess G.O.A.T. Challenge Final. GM Levon Aronian found a miracle escape against&#38;nbsp;GM Nodirbek Abd...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-7",
+         "pubDate" : "Thu, 15 Feb 2024 13:04:00",
+         "title" : "Carlsen-Caruana Final Starts With Draw As Firouzja, Keymer Win"
       },
       {
          "description" : "A strong outlook of nonchalance is associated with the term \"modern\" in chess. It typically insinuates that a player is not grossly concerned with conventional strategies, especially having to control the center immediately. This article highlights Modern Defense, its core ideas, key variations, and how to play against it.",
@@ -418,28 +442,12 @@ news_feed (
          "title" : "Gukesh beats Carlsen; joint second after day one of Freestyle Chess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Originally on Twitch. 2024.01.30 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/if-yasser-seirawan-says-its-good-its-good-road-2000-nm-julian-proleiko-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SgkOge9YjVM.jpg?itok=t8l3OGCI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/if-yasser-seirawan-says-its-good-its-good-road-2000-nm-julian-proleiko-shorts-chess",
-         "pubDate" : "Sat, 10 Feb 2024 06:21:50",
-         "title" : "If Yasser Seirawan Says It's Good, It's Good | Road to 2000 - NM Julian Proleiko #Shorts #chess"
-      },
-      {
          "description" : "Several years ago a DADA Movement exhibition was staged in the Pompidou Centre, Paris. The work of Marcel Duchamp took centre stage. One of the exhibits was a chess set designed by the Master himself, a set on which I had previously personally played while visiting Alexina \"Teeny\" Duchamp (Marcel's widow) at her chateau just outside the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/duchamp-cage-and-katabasis/",
          "pubDate" : "Sat, 10 Feb 2024 04:48:53",
          "title" : "Duchamp, Cage and Katabasis"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Originally on Twitch. 2024.01.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/understand-when-break-through-grandmasters-choice-wgm-thalia-cervantes-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HQxCQwJ4KhI.jpg?itok=okjNlBAl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/understand-when-break-through-grandmasters-choice-wgm-thalia-cervantes-shorts-chess",
-         "pubDate" : "Sat, 10 Feb 2024 00:21:40",
-         "title" : "Understand When to Break Through | Grandmaster's Choice - WGM Thalia Cervantes #Shorts #chess"
       },
       {
          "description" : "GM Dommaraju Gukesh beat the GOAT, GM Magnus Carlsen, after whom the 2024 Freestyle Chess G.O.A.T. Challenge is named, as a new Chess960 super-tournament began in Germany. He also took down World Champion Ding Liren, who lost all four games, while...",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-ding-liren-grenke-chess-classic",
          "pubDate" : "Fri, 02 Feb 2024 12:34:00",
          "title" : "Carlsen, Ding To Clash As GRENKE Chess Classic Returns"
-      },
-      {
-         "description" : "GMs Magnus Carlsen, Jose Martinez, Vladimir Fedoseev, and Denis Lazavik won their matches on day three of the 2024 Champions Chess Tour Chessable Masters to stay in the Winner&#39;s Bracket. In a day of upsets in Division I, Martinez played the Game o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-3",
-         "pubDate" : "Fri, 02 Feb 2024 11:40:00",
-         "title" : "Fedoseev, Martinez, Lazavik Prevail Against Top-20 Players"
       },
       {
          "description" : "The Chess Trust is inviting nominations for the BCET Awards 2024 which are for junior schools (including colleges and other education establishments) and junior clubs...",
