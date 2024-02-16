@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen beats Alireza Firouzja in the first playoff of the Freestyle Chess G.O.A.T. Challenge, says his next opponent Abdusattorov is &quot;the guy who&#039;s played the best chess here.&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-beats-alireza-playoff-1-freestyle-goat-moves-abdusattorov-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1FQeJg0FL1U.jp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-beats-alireza-playoff-1-freestyle-goat-moves-abdusattorov-shorts",
+         "pubDate" : "Fri, 16 Feb 2024 00:31:46",
+         "title" : "Magnus Beats Alireza in playoff #1 of Freestyle G.O.A.T.; Moves onto Abdusattorov #Shorts"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> After defeating Nodirbek Abdusattorov, Magnus Carlsen will face off against Fabiano Caruana in a showdown between the world&#039;s two highest FIDE-rated chess players at the Freestyle Chess G.O.A.T. Challenge. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-and-fabi-face-showdown-between-worlds-two-highest-fide-ranked-players-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/magnus-and-fabi-face-showdown-between-worlds-two-highest-fide-ranked-players-shorts",
+         "pubDate" : "Fri, 16 Feb 2024 00:31:46",
+         "title" : "Magnus and Fabi to Face Off! Showdown Between World's Two Highest FIDE-Ranked Players #shorts"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Magnus Carlsen beats Alireza Firouzja in the first playoff of the Freestyle Chess G.O.A.T. Challenge, says his next opponent Abdusattorov is &quot;the guy who&#039;s played the best chess here.&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-beats-alireza-first-playoff-freestyle-goat-moves-abdusattorov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1FQeJg0FL1U.jpg?i",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -218,14 +234,6 @@ news_feed (
          "title" : "Robby Kevlishvili's Games That I Like | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes shows two examples of targeting your opponent&#039;s king, while all of their pieces reside elsewhere. 2024.02.13<br /> Thalia Cervantes vs. Pedro Tabuenca, 2023: A53 Old Indian defence<br /> Louis Paulsen vs Paul Morphy, 1st American Chess Congress, New York (1857)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1242884\">https://www.chessgames.com/perl/chessgame?gid=1242884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/attack-lonesome-king-grandmasters-choice-wgm-thalia-cervantes",
-         "pubDate" : "Tue, 13 Feb 2024 21:27:42",
-         "title" : "Attack the Lonesome King! | Grandmaster's Choice - WGM Thalia Cervantes"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -288,14 +296,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2879",
          "pubDate" : "Tue, 13 Feb 2024 06:30:53",
          "title" : "Chess Torch Ceremony in India to mark FIDE's 100th-anniversary celebration"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Masters Julian Proleiko and Ralph Tan go head to head in G/1 bullet chess at the Saint Louis Chess Club. Julian Proleiko vs. Ralph Tan, 2024: A06 Reti, Nimzovich-Larsen attack </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/bullet-proleiko-vs-tan-old-and-slow-and-bad-stl-chess-club-duels\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zzm8sMZRieY.jpg?itok=ec0IJC1p\" alt=\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/bullet-proleiko-vs-tan-old-and-slow-and-bad-stl-chess-club-duels",
-         "pubDate" : "Tue, 13 Feb 2024 06:26:26",
-         "title" : "BULLET: Proleiko vs. Tan | \"Old and Slow and Bad\" | STL Chess Club DUELS"
       },
       {
          "description" : " Hello everyone! The Chess Drum has covered a lot of chess events over the past 23 years. This coverage has included six Olympiads, several Grand Chess Tour events, national events and visits to many chess communities around the world. Photo Essays from The Chess Drum (Daaim Shabazz) After covering the world's elite players and local The post <a href=\"https://www.thechessdrum.net/blog/2024/02/12/the-chess-drum-is-23/\">The Chess Drum is 23!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
