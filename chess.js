@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The final day of action sees the two highest-rated players in the world, Magnus Carlsen and Fabiano Caruana, fighting for the title. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
+         "pubDate" : "Fri, 16 Feb 2024 12:40:00",
+         "title" : "Freestyle G.O.A.T. Challenge - Live!"
+      },
+      {
+         "description" : "The second World Corporate Chess Championship will consist of a series of online events that will conclude with an over-the-board final in New York in June. The event is open to teams representing legally recognized companies from all around the world. Every team has a right to include one invited player who is not directly employed at the company or is a member of the board.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-corporate-ch-2024-announcement",
+         "pubDate" : "Fri, 16 Feb 2024 12:00:00",
+         "title" : "World Corporate Chess Championship Finals to take place in New York"
+      },
+      {
+         "description" : "One of the most effective ways to improve your chess understanding is to know where your pieces belong and how to adapt when the board situation changes. When there's no forced tactics, one must formulate a plan for what to do. Instead of looking for a win or advantage, it's often easier to identify a piece that can improve its position and function. Even improving your worst piece is a simple concept that avoids assessment insecurity.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rb-ramesh-improve-your-pieces-a-winning-system-you-need-to-know",
+         "pubDate" : "Fri, 16 Feb 2024 11:14:00",
+         "title" : "RB Ramesh: Improve your pieces - a winning system you need to know"
+      },
+      {
          "description" : "You probably know exactly what an illegal move is. But do you know how it should be dealt with? And what are the consequences of other irregularities are handled in a serious tournament game? IA Tamas Gyomber, a member of the ECU Arbiter Council, has vast experience in this area. And he tells us everything we need to know.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/feb/16/chess-carlsen-v-caruana-in-freestyle-final-as-ding-loses-seven-in-a-row",
          "pubDate" : "Fri, 16 Feb 2024 08:00:40",
          "title" : "Chess: Carlsen v Caruana in freestyle final as Ding loses seven in a row"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2886",
+         "pubDate" : "Fri, 16 Feb 2024 01:18:23",
+         "title" : "Iivo Nei and Andreas Dueckstein awarded Honorary Grandmaster title"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Magnus Carlsen beats Alireza Firouzja in the first playoff of the Freestyle Chess G.O.A.T. Challenge, says his next opponent Abdusattorov is &quot;the guy who&#039;s played the best chess here.&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-beats-alireza-playoff-1-freestyle-goat-moves-abdusattorov-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1FQeJg0FL1U.jp",
@@ -58,14 +90,6 @@ news_feed (
          "title" : "Freestyle Challenge: Ding's woes continue"
       },
       {
-         "description" : "In his new Game of the Week show, Merijn van Delft shows an interesting game from the German Bundesliga, in which White showed ways to overcome the Berlin wall. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-606-a-pavlidis-vs-l-mcshane",
-         "pubDate" : "Thu, 15 Feb 2024 20:00:00",
-         "title" : "Game of the Week #606: A. Pavlidis vs L. McShane"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>The 2024 American Cup</title> <strong>Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors</strong> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -80,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-7",
          "pubDate" : "Thu, 15 Feb 2024 13:04:00",
          "title" : "Carlsen-Caruana Final Starts With Draw As Firouzja, Keymer Win"
-      },
-      {
-         "description" : "A strong outlook of nonchalance is associated with the term \"modern\" in chess. It typically insinuates that a player is not grossly concerned with conventional strategies, especially having to control the center immediately. This article highlights Modern Defense, its core ideas, key variations, and how to play against it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-modern-defense-and-its-ideas",
-         "pubDate" : "Thu, 15 Feb 2024 10:56:53",
-         "title" : "The Modern Defense and its Ideas"
       },
       {
          "description" : "",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/14/how-will-chess-address-cyberbullying/",
          "pubDate" : "Wed, 14 Feb 2024 23:51:35",
          "title" : "How Will Chess Address Cyberbullying?"
-      },
-      {
-         "description" : "Fabiano Caruana and Magnus Carlsen, the two highest-rated players in the world, will play the final match at the Freestyle G.O.A.T. Chess Challenge. While Carlsen defeated Nodirbek Abdusattorov by a 1&frac12;-&frac12; score, Caruana's match against Levon Aronian went all the way to Armageddon. Caruana twice blundered in winning positions in what was a thrilling confrontation. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d6",
-         "pubDate" : "Wed, 14 Feb 2024 22:50:00",
-         "title" : "Freestyle Challenge: Caruana beats Aronian in thrilling tiebreaks"
       },
       {
          "description" : "",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2861",
          "pubDate" : "Fri, 26 Jan 2024 14:51:53",
          "title" : "Announcing winners of FIDE Trainer Awards 2023"
-      },
-      {
-         "description" : " Congratulations to Roy Teymant, who has been awarded the Order of Australia Medal, in the 2024 Australia Day Honours. The rather terse entry simply says \"For services to chess\", although it is certainly for more than that. Roy has been a long term organiser in Canberra, particularly with the Canberra Chess Club. When the club was in a bit of a slump, he took on the management role at the club, rebuilding it up to it's former glory. He has also served on the ACT Chess Association Committee for a number of years, assisting the ACTCA in organising various events in the nations capital. I believe Roy is the first local player/organiser to be recognised for work in chess, and it is a well deserv",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/roy-teymant-oam.html",
-         "pubDate" : "Fri, 26 Jan 2024 11:27:00",
-         "title" : "Roy Teymant OAM"
       }
    ]
 }
