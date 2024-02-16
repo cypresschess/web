@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "You probably know exactly what an illegal move is. But do you know how it should be dealt with? And what are the consequences of other irregularities are handled in a serious tournament game? IA Tamas Gyomber, a member of the ECU Arbiter Council, has vast experience in this area. And he tells us everything we need to know.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/illegal-moves-and-irregularities",
+         "pubDate" : "Fri, 16 Feb 2024 08:31:12",
+         "title" : "Illegal moves and irregularities"
+      },
+      {
+         "description" : " The world No 1 recovered from a slow start to defeat young rivals Firouzja and Abdusattorov while China's world champion has been unable to shake off a losing spiral \"Freestyle chess\" is a new name for the variant where the back rank pieces are placed randomly, so as to make the game more a test of skill and imagination than memory of book openings. It used to be called Fischer Random after its inventor, then Chess 960 or Chess 9LX after the number of possible starting positions. Elite grandmasters like it, and this week a $200,000 event is in ­progress at the Weissenhaus resort on Germany's Baltic Sea coast. Half of the eight competitors, including the world No 1, Magnus Carlsen, and the w",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/feb/16/chess-carlsen-v-caruana-in-freestyle-final-as-ding-loses-seven-in-a-row",
+         "pubDate" : "Fri, 16 Feb 2024 08:00:40",
+         "title" : "Chess: Carlsen v Caruana in freestyle final as Ding loses seven in a row"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Magnus Carlsen beats Alireza Firouzja in the first playoff of the Freestyle Chess G.O.A.T. Challenge, says his next opponent Abdusattorov is &quot;the guy who&#039;s played the best chess here.&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-beats-alireza-playoff-1-freestyle-goat-moves-abdusattorov-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1FQeJg0FL1U.jp",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,7 +66,7 @@ news_feed (
          "title" : "Game of the Week #606: A. Pavlidis vs L. McShane"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>The 2024 American Cup</title> <h1 style=\"color: #000000;\">The 2024 American Cup: Showcasing America's Finest Chess Talents</h1> <strong>Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors</strong> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "description" : "<div class=\"body text-secondary\"> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>The 2024 American Cup</title> <strong>Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors</strong> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2024-american-cup-showcasing-americas-finest-chess-talents",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/some-basic-endgame-tips-on-youtube.html",
          "pubDate" : "Wed, 14 Feb 2024 12:47:00",
          "title" : "Some basic endgame tips on youtube"
-      },
-      {
-         "description" : "On the occasion of the 100th anniversary since its founding, FIDE is set to launch the Chess Torch Relay, a global movement aimed at celebrating the rich history of the game and bringing together the entire chess community. As part of the FIDE 100 celebration, the torch relay will commence on February 14 in New Delhi, India, at the Major Dhyan National Stadium.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-torch-ceremony-in-india-to-mark-fide-s-100th-anniversary-celebration",
-         "pubDate" : "Wed, 14 Feb 2024 12:35:31",
-         "title" : "Chess Torch Ceremony in India to mark FIDE's 100th-anniversary celebration"
       },
       {
          "description" : "Development and piece activation are well-known assets that every decent player seeks during his game. So, centralisation is the key-word which comes to our thoughts when we are talking on the above subjects. But there are cases where the de-centralisation can be the alternative option! Well, of course we talk about 'healthy' ideas, which can help us to improve an inferior or better position, depending on the circumstances. Our internationally famous trainer explains.",
