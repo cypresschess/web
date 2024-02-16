@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2888",
+         "pubDate" : "Fri, 16 Feb 2024 18:31:24",
+         "title" : "2024 Montenegrin Championship: Nikita Petrov clinches title"
+      },
+      {
+         "description" : " The world No 1 recovers from a slow start to defeat young rivals Firouzja and Abdusattorov while China's world champion is unable to shake off a losing spiral \"Freestyle chess\" is a new name for the variant where the back rank pieces are placed randomly, so as to make the game more a test of skill and imagination than memory of book openings. It used to be called Fischer Random after its inventor, then Chess 960 or Chess 9LX after the number of possible starting positions. Elite grandmasters like it, and this week a $200,000 event took place at the Weissenhaus resort on Germany's Baltic Sea coast. Half of the eight competitors, including the world No 1, Magnus Carlsen, and the world champio",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/feb/16/chess-carlsen-v-caruana-in-freestyle-final-as-ding-loses-seven-in-a-row",
+         "pubDate" : "Fri, 16 Feb 2024 16:47:04",
+         "title" : "Chess: Carlsen beats Caruana in freestyle final while Ding finishes last"
+      },
+      {
          "description" : "The 2024 ACT Teams Rapid Championship is being held on Sunday, 3rd March 2024, at Campbell High. This event is open to all ACTCA members as well as all members of the ACTJCL. The format of the tournament is teams of 4, playing 7 rounds of 15 minute chess. The last event was held in 2022 and a good time was had by all.<div><br /><b>Tournament Details</b><br />Date: Sunday 3rd March 2024 - Registration from 9:30am, Prize giving at 3:30pm<br /><br />Venue: Campbell High School, Trealor Cres, Campbell ACT<br /><br />Rounds: 7<br /><br />Time control: G15+5s<br /><br />Prizes: 1st, 2nd and 3rd placed trophies. Medals for the best scorer on each board. Bonus prizes for best dressed team, best work",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/illegal-moves-and-irregularities",
          "pubDate" : "Fri, 16 Feb 2024 08:31:12",
          "title" : "Illegal moves and irregularities"
-      },
-      {
-         "description" : " The world No 1 recovered from a slow start to defeat young rivals Firouzja and Abdusattorov while China's world champion has been unable to shake off a losing spiral \"Freestyle chess\" is a new name for the variant where the back rank pieces are placed randomly, so as to make the game more a test of skill and imagination than memory of book openings. It used to be called Fischer Random after its inventor, then Chess 960 or Chess 9LX after the number of possible starting positions. Elite grandmasters like it, and this week a $200,000 event is in ­progress at the Weissenhaus resort on Germany's Baltic Sea coast. Half of the eight competitors, including the world No 1, Magnus Carlsen, and the w",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/feb/16/chess-carlsen-v-caruana-in-freestyle-final-as-ding-loses-seven-in-a-row",
-         "pubDate" : "Fri, 16 Feb 2024 08:00:40",
-         "title" : "Chess: Carlsen v Caruana in freestyle final as Ding loses seven in a row"
       },
       {
          "description" : "NM Jalen Wang was victorious in the Variants Community Series (VCS) Crazyhouse Championship on Thursday and took home $1,000 for winning the Final. FM Roee Aroesti made $750 for second place, while NM Isaac Chiu and Patrik Nystrom earned $500 ea...",
@@ -130,6 +138,14 @@ news_feed (
          "title" : "Freestyle Challenge: Ding's woes continue"
       },
       {
+         "description" : "In his new Game of the Week show, Merijn van Delft shows an interesting game from the German Bundesliga, in which White showed ways to overcome the Berlin wall. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-606-a-pavlidis-vs-l-mcshane",
+         "pubDate" : "Thu, 15 Feb 2024 20:00:00",
+         "title" : "Game of the Week #606: A. Pavlidis vs L. McShane"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>The 2024 American Cup</title> <strong>Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors</strong> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -200,14 +216,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/some-basic-endgame-tips-on-youtube.html",
          "pubDate" : "Wed, 14 Feb 2024 12:47:00",
          "title" : "Some basic endgame tips on youtube"
-      },
-      {
-         "description" : "Development and piece activation are well-known assets that every decent player seeks during his game. So, centralisation is the key-word which comes to our thoughts when we are talking on the above subjects. But there are cases where the de-centralisation can be the alternative option! Well, of course we talk about 'healthy' ideas, which can help us to improve an inferior or better position, depending on the circumstances. Our internationally famous trainer explains.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/efstratios-grivas-activating-the-queen",
-         "pubDate" : "Wed, 14 Feb 2024 11:00:00",
-         "title" : "Efstratios Grivas: Activating the Queen"
       },
       {
          "description" : "GM Hikaru Nakamura recently extended his record on Chess.com to become the first player ever to break 3400 in blitz. His new high of 3405 is 28 points higher than number two on the list, GM Magnus Carlsen. The electrifying online blitz rivalry b...",
@@ -1040,22 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2862",
          "pubDate" : "Fri, 26 Jan 2024 22:47:09",
          "title" : "Tata Steel Masters 2024: Abdusattorov forges into the lead"
-      },
-      {
-         "description" : " The 31-year-old, who took eight months off due to illness, planned a comeback at the \"chess Wimbledon\" but, with just two weekend rounds left, he is only half a point clear of bottom place Ding Liren's comeback at Tata Steel Wijk aan Zee is in danger of eclipse this weekend as China's world champion, who took eight months off at the start of his reign due to an unspecified illness, has shown only glimpses of his former strength and has often bailed out of battle with routine draws. After 11 of the 13 rounds at the \"chess Wimbledon\", Ding trailed in ninth place with 4.5 points, just a solitary win, seven draws and three defeats. He is behind all five of the candidates who will meet in Toront",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/jan/26/chess-ding-at-risk-of-finishing-last-as-world-champion-falters-at-wijk",
-         "pubDate" : "Fri, 26 Jan 2024 20:26:26",
-         "title" : "Chess: Ding at risk of finishing last as world champion falters at Wijk"
-      },
-      {
-         "description" : " Nodirbek Abdusattorov took the sole lead of the Tata Steel Masters with two rounds to go. Abdusattorov beat Ju Wenjun in a Two Knights with 4.d3. Ju was fine out of the opening maybe 9...Nb4 (9...f5 or 9...Bf6) was the start of problems, it got pretty difficult for black quite quickly. After 20.Bb3 white was definitely pushing for a win, and after 23...Nxf7 black was clearly under pressure, 24.Qa2 (the computer prefers 24.dxe4) was a mistake according to the engine, although I think 24...Rd8! that's supposed to be better for black isn't easy to find or understand. 24...Qc6? (24...Kg8 is not quite as bad) loses and Abdusattorov mopped up to win in 34 moves. Parham Maghsoodloo lost to Santosh",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/abdusattorov-leads-the-tata-steel-masters-with-7.511-half-a-point-clear-of-gukesh",
-         "pubDate" : "Fri, 26 Jan 2024 20:26:00",
-         "title" : "Abdusattorov leads the Tata Steel Masters with 7.5/11 half a point clear of Gukesh - 11"
       }
    ]
 }
