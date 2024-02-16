@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 ACT Teams Rapid Championship is being held on Sunday, 3rd March 2024, at Campbell High. This event is open to all ACTCA members as well as all members of the ACTJCL. The format of the tournament is teams of 4, playing 7 rounds of 15 minute chess. The last event was held in 2022 and a good time was had by all.<div><br /><b>Tournament Details</b><br />Date: Sunday 3rd March 2024 - Registration from 9:30am, Prize giving at 3:30pm<br /><br />Venue: Campbell High School, Trealor Cres, Campbell ACT<br /><br />Rounds: 7<br /><br />Time control: G15+5s<br /><br />Prizes: 1st, 2nd and 3rd placed trophies. Medals for the best scorer on each board. Bonus prizes for best dressed team, best work",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/2024-act-teams-competition.html",
+         "pubDate" : "Fri, 16 Feb 2024 13:02:00",
+         "title" : "2024 ACT Teams Competition"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2887",
+         "pubDate" : "Fri, 16 Feb 2024 12:40:21",
+         "title" : "FIDE establishes closer cooperation with International School Sport Federation"
+      },
+      {
          "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The final day of action sees the two highest-rated players in the world, Magnus Carlsen and Fabiano Caruana, fighting for the title. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,30 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/feb/16/chess-carlsen-v-caruana-in-freestyle-final-as-ding-loses-seven-in-a-row",
          "pubDate" : "Fri, 16 Feb 2024 08:00:40",
          "title" : "Chess: Carlsen v Caruana in freestyle final as Ding loses seven in a row"
+      },
+      {
+         "description" : "NM Jalen Wang was victorious in the Variants Community Series (VCS) Crazyhouse Championship on Thursday and took home $1,000 for winning the Final. FM Roee Aroesti made $750 for second place, while NM Isaac Chiu and Patrik Nystrom earned $500 ea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-vcs-crazyhouse-wang-wins",
+         "pubDate" : "Fri, 16 Feb 2024 07:23:37",
+         "title" : "National Master Halts GM Martinez's Reign In Crazyhouse Championship"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen defeated GM Fabiano Caruana in the final classical game to win the inaugural 2024 Freestyle Chess G.O.A.T. Challenge and the $60,000 top prize. GM Levon Aronian took third place with a powerful win over GM Nodirbek ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-8",
+         "pubDate" : "Fri, 16 Feb 2024 07:12:00",
+         "title" : "Carlsen Beats Caruana To Win Freestyle Chess G.O.A.T. Challenge"
+      },
+      {
+         "description" : "Chess.com is excited to announce the launch of Team Chess Battle&#38;mdash;a new tournament that brings banter, chat, and great games from some of the best in the business. What makes this event different? It&#38;rsquo;s a 2v2 team tournament where the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/team-chess-battle-with-nakamura-giri-gothamchess",
+         "pubDate" : "Fri, 16 Feb 2024 06:59:38",
+         "title" : "Team Chess Battle: The Star-Studded New 2v2 Tournament With Nakamura, Giri, GothamChess, And&hellip; Jan Gustafsson"
       },
       {
          "description" : "",
@@ -738,36 +778,12 @@ news_feed (
          "title" : "I thought we were good"
       },
       {
-         "description" : "GM Magnus Carlsen will play GM Denis Lazavik in the Division I Winners Final of the 2024 Champions Chess Tour Chessable Masters. On day four, they respectively defeated GMs Vladimir Fedoseev and Jose Martinez. In the Losers Bracket of Division I...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-4",
-         "pubDate" : "Sat, 03 Feb 2024 12:48:00",
-         "title" : "Carlsen Reaches Winners Final Vs. Lazavik"
-      },
-      {
          "description" : "It seems that there is a modern fashion for omitting the best lines from stage presentations of the great English classics. Thus my favourite line in Marlowe - \"Egregious viceroys of these Eastern parts\" - which ringingly opens his Tamburlaine the Great, Part Two, is now standardly excised from theatrical productions. When the line is []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/imperious-chessmen/",
          "pubDate" : "Sat, 03 Feb 2024 07:53:08",
          "title" : "Imperious chessmen"
-      },
-      {
-         "description" : "The Saint Louis Chess Club has banned GM Hans Niemann for the remainder of 2024, citing alleged inappropriate behavior and damage to private property. The grandmaster has dismissed the accusations as &#34;blatant disinformation.&#34; Edited on 2/2/2024:...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-chess-club-excludes-niemann-for-vandalizing-behavior-rude-comments",
-         "pubDate" : "Fri, 02 Feb 2024 14:07:00",
-         "title" : "Saint Louis Chess Club Excludes Niemann For 'Inappropriate Behavior'"
-      },
-      {
-         "description" : "World Champion GM Ding Liren and World Rapid Champion GM Magnus Carlsen top the field for the GRENKE Chess Classic, which returns March 26-31 after a five-year hiatus. Carlsen will be looking to win a third title to add to his wins in 2015 and 201...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-ding-liren-grenke-chess-classic",
-         "pubDate" : "Fri, 02 Feb 2024 12:34:00",
-         "title" : "Carlsen, Ding To Clash As GRENKE Chess Classic Returns"
       },
       {
          "description" : "The Chess Trust is inviting nominations for the BCET Awards 2024 which are for junior schools (including colleges and other education establishments) and junior clubs...",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/abdusattorov-leads-the-tata-steel-masters-with-7.511-half-a-point-clear-of-gukesh",
          "pubDate" : "Fri, 26 Jan 2024 20:26:00",
          "title" : "Abdusattorov leads the Tata Steel Masters with 7.5/11 half a point clear of Gukesh - 11"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2861",
-         "pubDate" : "Fri, 26 Jan 2024 14:51:53",
-         "title" : "Announcing winners of FIDE Trainer Awards 2023"
       }
    ]
 }
