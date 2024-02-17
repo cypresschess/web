@@ -50,14 +50,6 @@ news_feed (
          "title" : "FIDE establishes closer cooperation with International School Sport Federation"
       },
       {
-         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The final day of action sees the two highest-rated players in the world, Magnus Carlsen and Fabiano Caruana, fighting for the title. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
-         "pubDate" : "Fri, 16 Feb 2024 12:40:00",
-         "title" : "Freestyle G.O.A.T. Challenge - Live!"
-      },
-      {
          "description" : "The second World Corporate Chess Championship will consist of a series of online events that will conclude with an over-the-board final in New York in June. The event is open to teams representing legally recognized companies from all around the world. Every team has a right to include one invited player who is not directly employed at the company or is a member of the board.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/illegal-moves-and-irregularities",
          "pubDate" : "Fri, 16 Feb 2024 08:31:12",
          "title" : "Illegal moves and irregularities"
+      },
+      {
+         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The final day of action sees the two highest-rated players in the world, Magnus Carlsen and Fabiano Caruana, fighting for the title. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
+         "pubDate" : "Fri, 16 Feb 2024 08:25:00",
+         "title" : "Freestyle G.O.A.T. Challenge - Live!"
       },
       {
          "description" : "NM Jalen Wang was victorious in the Variants Community Series (VCS) Crazyhouse Championship on Thursday and took home $1,000 for winning the Final. FM Roee Aroesti made $750 for second place, while NM Isaac Chiu and Patrik Nystrom earned $500 ea...",
