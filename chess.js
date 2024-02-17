@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find details here Click here for Election Notice Click here for Form 2",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-election-on-10-03-2024/",
+         "pubDate" : "Sat, 17 Feb 2024 12:05:40",
+         "title" : "AICF Election on 10.03.2024"
+      },
+      {
+         "description" : "Just before the 1986 world championship in London I was sitting in the living room of our Kensington flat, writing the programme notes for the forthcoming clash between Garry Kasparov and Anatoly Karpov. At one point, while writing, I dropped my pen. It was a British Airways cross between a ballpoint and felt tip. It had []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/shakespeare-borges-and-plasketts-immortal/",
+         "pubDate" : "Sat, 17 Feb 2024 12:05:20",
+         "title" : "Shakespeare, Borges and 'Plaskett's Immortal'"
+      },
+      {
          "description" : "Would you be kind enough to save the precious white passed pawn d6 in the diagram position? Many thanks in advance!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,14 +1048,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/tournament-section/",
          "pubDate" : "Sat, 27 Jan 2024 14:00:00",
          "title" : "Picking The Right Chess Tournament Section"
-      },
-      {
-         "description" : "Marcel Duchamp, the quintessential chess playing artist, concluded his conventional artistic career with a work enigmatically entitled Tu m' which has widely been interpreted as either the start of the sarcastic phrase tu m'ennuies (\"you bore me\"); or tu m'emmerdes (\"you annoy me\"). Duchamp was apparently so bored with representational art that he could not []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/from-the-deathbed-of-classical-chess/",
-         "pubDate" : "Sat, 27 Jan 2024 10:35:12",
-         "title" : "From the deathbed of classical chess"
       }
    ]
 }
