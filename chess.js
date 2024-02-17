@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/vidit-beats-abdusattorov-five-way-tie-for-first-going-into-the-final-round-of-the-tata-steel-masters",
          "pubDate" : "Sat, 27 Jan 2024 21:22:00",
          "title" : "Vidit beats Abdusattorov, five way tie for first going into the final Round of the Tata Steel Masters - 12"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2863",
-         "pubDate" : "Sat, 27 Jan 2024 17:29:04",
-         "title" : "Changes to qualification paths for the Candidates Tournament"
       }
    ]
 }
