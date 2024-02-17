@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Would you be kind enough to save the precious white passed pawn d6 in the diagram position? Many thanks in advance!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tough-guy",
+         "pubDate" : "Sat, 17 Feb 2024 09:00:00",
+         "title" : "Tough guy"
+      },
+      {
          "description" : "Magnus Carlsen defeated Fabiano Caruana with the white pieces to claim overall victory at the first edition of the Freestyle G.O.A.T. Chess Challenge. The Norwegian took home the US$ 60,000 first prize for his efforts. Levon Aronian grabbed third place after beating Nodirbek Abdusattorov, while Alireza Firouzja secured an invitation to the next edition of the event by beating Gukesh D in the fight for fifth place. | Photo: Nils Rohde / ChessBase",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/magnus-and-fabi-face-showdown-between-worlds-two-highest-ranked-players",
          "pubDate" : "Thu, 15 Feb 2024 21:31:53",
          "title" : "Magnus and Fabi to Face Off in Showdown Between World's Two Highest Ranked Players"
-      },
-      {
-         "description" : "Magnus Carlsen and Fabiano Caruana signed a draw in the first game of the finals at the Freestyle G.O.A.T. Chess Challenge. In the match for third place, Levon Aronian barely escaped with a draw against Nodirbek Abdusattorov, while Alireza Firouzja got the better of Gukesh D in the fight for fifth place. Finally, in the match for seventh place, Vincent Keymer defeated an out-of-form Ding Liren. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d7",
-         "pubDate" : "Thu, 15 Feb 2024 20:15:00",
-         "title" : "Freestyle Challenge: Ding's woes continue"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>The 2024 American Cup</title> <strong>Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors</strong> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
