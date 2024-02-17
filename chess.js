@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen defeated Fabiano Caruana with the white pieces to claim overall victory at the first edition of the Freestyle G.O.A.T. Chess Challenge. The Norwegian took home the US$ 60,000 first prize for his efforts. Levon Aronian grabbed third place after beating Nodirbek Abdusattorov, while Alireza Firouzja secured an invitation to the next edition of the event by beating Gukesh D in the fight for fifth place. | Photo: Nils Rohde / ChessBase",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d8",
+         "pubDate" : "Sat, 17 Feb 2024 00:50:00",
+         "title" : "Magnus Carlsen wins first edition of the Freestyle G.O.A.T. Challenge"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/2024-act-teams-competition.html",
          "pubDate" : "Fri, 16 Feb 2024 13:02:00",
          "title" : "2024 ACT Teams Competition"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen defeated GM Fabiano Caruana in the final classical game to win the inaugural 2024 Freestyle Chess G.O.A.T. Challenge and the $60,000 top prize. GM Levon Aronian took third place with a powerful win over GM Nodirbek ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-8",
+         "pubDate" : "Fri, 16 Feb 2024 13:00:00",
+         "title" : "Carlsen Beats Caruana To Win Freestyle Chess G.O.A.T. Challenge"
       },
       {
          "description" : "",
@@ -74,19 +90,11 @@ news_feed (
          "title" : "National Master Halts GM Martinez's Reign In Crazyhouse Championship"
       },
       {
-         "description" : "World number-one Magnus Carlsen defeated GM Fabiano Caruana in the final classical game to win the inaugural 2024 Freestyle Chess G.O.A.T. Challenge and the $60,000 top prize. GM Levon Aronian took third place with a powerful win over GM Nodirbek ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-8",
-         "pubDate" : "Fri, 16 Feb 2024 07:12:00",
-         "title" : "Carlsen Beats Caruana To Win Freestyle Chess G.O.A.T. Challenge"
-      },
-      {
          "description" : "Chess.com is excited to announce the launch of Team Chess Battle&#38;mdash;a new tournament that brings banter, chat, and great games from some of the best in the business. What makes this event different? It&#38;rsquo;s a 2v2 team tournament where the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/team-chess-battle-with-nakamura-giri-gothamchess",
-         "pubDate" : "Fri, 16 Feb 2024 06:59:38",
+         "pubDate" : "Fri, 16 Feb 2024 06:59:00",
          "title" : "Team Chess Battle: The Star-Studded New 2v2 Tournament With Nakamura, Giri, GothamChess, And&hellip; Jan Gustafsson"
       },
       {
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d7",
          "pubDate" : "Thu, 15 Feb 2024 20:15:00",
          "title" : "Freestyle Challenge: Ding's woes continue"
-      },
-      {
-         "description" : "In his new Game of the Week show, Merijn van Delft shows an interesting game from the German Bundesliga, in which White showed ways to overcome the Berlin wall. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-606-a-pavlidis-vs-l-mcshane",
-         "pubDate" : "Thu, 15 Feb 2024 20:00:00",
-         "title" : "Game of the Week #606: A. Pavlidis vs L. McShane"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>The 2024 American Cup</title> <strong>Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors</strong> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "https://www.thearticle.com/from-the-deathbed-of-classical-chess/",
          "pubDate" : "Sat, 27 Jan 2024 10:35:12",
          "title" : "From the deathbed of classical chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2862",
-         "pubDate" : "Fri, 26 Jan 2024 22:47:09",
-         "title" : "Tata Steel Masters 2024: Abdusattorov forges into the lead"
       }
    ]
 }
