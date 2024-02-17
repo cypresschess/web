@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Jeddah Youth Chess Festival was held from 24 to 30 January in this Red Sea port in Saudi Arabia. It was a celebration of youth, chess and friendship. In the Young Masters tournament, a 10-players single round-robin for rising stars aged 18 or younger, Yagiz Kaan Erdogmus from Turkey finished first with 6&frac12; points. Volodar Murzin (FIDE), Raunak Sadhwani (India) and Andy Woodward (United States) obtained 6 points each.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jeddah-youth-festival-report-2",
+         "pubDate" : "Sat, 17 Feb 2024 17:00:00",
+         "title" : "Jeddah Youth Chess Festival: Erdogmus comes out on top"
+      },
+      {
+         "description" : "After a big revelation, I left my last Hypnosis session with a deep sense of peace. Most of the things we worry about do not matter at all. Getting paired against an underrated kid -> doesn't matter.Losing from a won position -> doesn't matter.Losing 6 games in a row -> doesn't matter. This thought is []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/doesnt-matter/",
+         "pubDate" : "Sat, 17 Feb 2024 14:00:00",
+         "title" : "A Surprising Revelation For Less Stress and Better Results"
+      },
+      {
          "description" : "Please find details here Click here for Election Notice Click here for Form 2",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -74,6 +90,14 @@ news_feed (
          "title" : "FIDE establishes closer cooperation with International School Sport Federation"
       },
       {
+         "description" : "One of the most effective ways to improve your chess understanding is to know where your pieces belong and how to adapt when the board situation changes. When there's no forced tactics, one must formulate a plan for what to do. Instead of looking for a win or advantage, it's often easier to identify a piece that can improve its position and function. Even improving your worst piece is a simple concept that avoids assessment insecurity.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rb-ramesh-improve-your-pieces-a-winning-system-you-need-to-know",
+         "pubDate" : "Fri, 16 Feb 2024 12:15:00",
+         "title" : "RB Ramesh: Improve your pieces - a winning system you need to know"
+      },
+      {
          "description" : "The second World Corporate Chess Championship will consist of a series of online events that will conclude with an over-the-board final in New York in June. The event is open to teams representing legally recognized companies from all around the world. Every team has a right to include one invited player who is not directly employed at the company or is a member of the board.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,28 +106,12 @@ news_feed (
          "title" : "World Corporate Chess Championship Finals to take place in New York"
       },
       {
-         "description" : "One of the most effective ways to improve your chess understanding is to know where your pieces belong and how to adapt when the board situation changes. When there's no forced tactics, one must formulate a plan for what to do. Instead of looking for a win or advantage, it's often easier to identify a piece that can improve its position and function. Even improving your worst piece is a simple concept that avoids assessment insecurity.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rb-ramesh-improve-your-pieces-a-winning-system-you-need-to-know",
-         "pubDate" : "Fri, 16 Feb 2024 11:14:00",
-         "title" : "RB Ramesh: Improve your pieces - a winning system you need to know"
-      },
-      {
          "description" : "You probably know exactly what an illegal move is. But do you know how it should be dealt with? And what are the consequences of other irregularities are handled in a serious tournament game? IA Tamas Gyomber, a member of the ECU Arbiter Council, has vast experience in this area. And he tells us everything we need to know.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/illegal-moves-and-irregularities",
          "pubDate" : "Fri, 16 Feb 2024 08:31:12",
          "title" : "Illegal moves and irregularities"
-      },
-      {
-         "description" : "A new super-tournament is taking place on February 9-16 at the Weissenhaus Luxury Resort in Germany. The Freestyle Chess G.O.A.T. Challenge is an 8-player, innovative event featuring, among others, Magnus Carlsen and world champion Ding Liren. The final day of action sees the two highest-rated players in the world, Magnus Carlsen and Fabiano Caruana, fighting for the title. | Follow the games live with expert commentary starting at 13.00 CET (7.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-live",
-         "pubDate" : "Fri, 16 Feb 2024 08:25:00",
-         "title" : "Freestyle G.O.A.T. Challenge - Live!"
       },
       {
          "description" : "NM Jalen Wang was victorious in the Variants Community Series (VCS) Crazyhouse Championship on Thursday and took home $1,000 for winning the Final. FM Roee Aroesti made $750 for second place, while NM Isaac Chiu and Patrik Nystrom earned $500 ea...",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2863",
          "pubDate" : "Sat, 27 Jan 2024 17:29:04",
          "title" : "Changes to qualification paths for the Candidates Tournament"
-      },
-      {
-         "description" : "You plan a tournament and realize you could play two different sections. The question is: Which section should you play in? Here is how you decide which section to play in without feeling remorse afterward. Pros And Cons In short, the higher-up section is better for your long-term improvement as a player, while the lower []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/tournament-section/",
-         "pubDate" : "Sat, 27 Jan 2024 14:00:00",
-         "title" : "Picking The Right Chess Tournament Section"
       }
    ]
 }
