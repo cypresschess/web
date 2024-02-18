@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2889",
+         "pubDate" : "Sat, 17 Feb 2024 20:36:56",
+         "title" : "Magnus Carlsen wins inaugural Freestyle Chess G.O.A.T. Challenge"
+      },
+      {
          "description" : "The Jeddah Youth Chess Festival was held from 24 to 30 January in this Red Sea port in Saudi Arabia. It was a celebration of youth, chess and friendship. In the Young Masters tournament, a 10-players single round-robin for rising stars aged 18 or younger, Yagiz Kaan Erdogmus from Turkey finished first with 6&frac12; points. Volodar Murzin (FIDE), Raunak Sadhwani (India) and Andy Woodward (United States) obtained 6 points each.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Jeddah Youth Chess Festival: Erdogmus comes out on top"
       },
       {
+         "description" : "The king of Bullet Brawl&#38;nbsp;GM Hikaru Nakamura has claimed his 19th title and $400 after a dominant performance during the latest edition, finishing 59 points ahead of the second and third-placed players; GMs Oleksandr Bortnyk and Arjun Erigaisi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-17-2024",
+         "pubDate" : "Sat, 17 Feb 2024 14:45:03",
+         "title" : "Nakamura \"Beep-Bops\" To 19th Bullet Brawl Title"
+      },
+      {
          "description" : "After a big revelation, I left my last Hypnosis session with a deep sense of peace. Most of the things we worry about do not matter at all. Getting paired against an underrated kid -> doesn't matter.Losing from a won position -> doesn't matter.Losing 6 games in a row -> doesn't matter. This thought is []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/doesnt-matter/",
          "pubDate" : "Sat, 17 Feb 2024 14:00:00",
          "title" : "A Surprising Revelation For Less Stress and Better Results"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen enhanced his claim to be the greatest of all time Friday as he won the 2024 Freestyle Chess G.O.A.T. Challenge by defeating world number-two Fabiano Caruana in the final match. We take a look at what else we learned...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9-things-we-learned-2024-freestyle-chess-goat-challenge",
+         "pubDate" : "Sat, 17 Feb 2024 13:43:00",
+         "title" : "9 Things We Learned - Freestyle Chess G.O.A.T. Challenge 2024"
       },
       {
          "description" : "Please find details here Click here for Election Notice Click here for Form 2",
@@ -770,28 +794,12 @@ news_feed (
          "title" : "FIDE delegation meets with Pakistan's President and PM"
       },
       {
-         "description" : "On day five, GM Magnus Carlsen claimed his spot in the Grand Final of the 2024 Champions Chess Tour Chessable Masters. He defeated GM Denis Lazavik 2.5-1.5 in the Winners Final on Sunday.&#38;nbsp; In the Division I Losers Quarterfinals, the favorit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-5",
-         "pubDate" : "Sun, 04 Feb 2024 12:08:00",
-         "title" : "Carlsen Reaches Grand Final, Defeats Dark Horse Lazavik"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2860",
          "pubDate" : "Sat, 03 Feb 2024 19:50:05",
          "title" : "14th \"Preparation of Teachers\" course by the FIDE EDU announced"
-      },
-      {
-         "description" : "GM Daniel Naroditsky secured $400 and his 11th Bullet Brawl title after scoring 70.5/78 in February&#39;s first edition ahead of 125 other titled players. A race of titanic proportions between Naroditsky and Chess.com&#39;s two highest-rated active bullet...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-february-3-2024",
-         "pubDate" : "Sat, 03 Feb 2024 14:31:00",
-         "title" : "Naroditsky Clinches Bullet Brawl Victory Ahead Of Nakamura"
       },
       {
          "description" : "An optimal learning process needs the right information in the right order. Kids need to learn addition, but first, they need crucial information about the numbers and how to count. 2+1 is unsolvable if you don't know that after 2 comes 3. Sadly, that's how most adult improvers are taught nowadays. Random information in random []",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2864",
          "pubDate" : "Sun, 28 Jan 2024 01:04:52",
          "title" : "Tata Steel Masters 2024: Five share the lead going into final round"
-      },
-      {
-         "description" : " The twelfth and penultimate round of the Tata Steel Masters saw 5 decisive game and 7 players can walk away with the title tomorrow. Santosh Vidit did himself and almost half the field a favour by defeating the leader Nodirbek Abdusattorov in the final game to finish. The opening was a Rubinstein Nimzo-Indian and black was fine but 11...Bc4? instead of 11...Bb7 was a serious mistake. Vidit's 19.e6? (19.0-0) reduced his advantage quite a bit but white was a solid pawn up. Vidit ground away and without risk he found his way to the win. Anish Giri has a Chessable course on the French but he has only very rarely played it himself. Jorden Van Foreest hasn't had a good event and he chose the Exch",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/vidit-beats-abdusattorov-five-way-tie-for-first-going-into-the-final-round-of-the-tata-steel-masters",
-         "pubDate" : "Sat, 27 Jan 2024 21:22:00",
-         "title" : "Vidit beats Abdusattorov, five way tie for first going into the final Round of the Tata Steel Masters - 12"
       }
    ]
 }
