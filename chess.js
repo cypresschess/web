@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the United States and Canada, February is Black History Month, a tradition that began in 1926 and seeks to commemorate important people and events in the history of the African diaspora. A good occasion for US Chess National Master and renowned coach Jerald Times to draw attention to the growing number of successful black chess players and the history of black chess players in the United States. | Photo: Rochelle Ballantyne | Source: YouTube, Stanford 125, Rochelle Ballantyne",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-rise-of-black-chess-players",
+         "pubDate" : "Sun, 18 Feb 2024 16:38:43",
+         "title" : "The Rise of Black Chess Players"
+      },
+      {
+         "description" : "Today's column is about sacrifices and the exchange in particular. If you're shown a chess position cold, then the first thing you do normally is to count the pieces just to check that the material is fairly balanced. But the relative activity is at least as important. The \"joy of innumeracy\" might turn out to be a valuable (in)ability in many chess positions! | Pictured: Lu Miaoyi at the 2023 Rapid and Blitz World Championships. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-212",
+         "pubDate" : "Sun, 18 Feb 2024 16:00:00",
+         "title" : "Jon Speelman: The joy of innumeracy"
+      },
+      {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 165th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and has the pleasure to present the attacking skills of Mihail Tal. | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-164-chess-history-in-a-nutshell-2",
+         "pubDate" : "Sun, 18 Feb 2024 15:00:00",
+         "title" : "Understanding before Moving 165: Chess history in a nutshell (46)"
+      },
+      {
          "description" : "The FIDE Council awarded the title of Honorary Grandmaster to Andreas Dueckstein (Austria) and Iivo Nei (Estonia) for their consistently strong results in the 1950s-70s. Nei was an 8-time Estonian who tied for first with Paul Keres in Beverwijk (later Hoogovens). Dueckstein won the Austrian national championship three times and obtained victories over the likes of Mikhail Botvinnik and Bent Larsen. | Photos: Ron Kroon and Wim van Rossem / Anefo (Dutch National Archives)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,30 +88,6 @@ news_feed (
          "link" : "https://www.thearticle.com/shakespeare-borges-and-plasketts-immortal/",
          "pubDate" : "Sat, 17 Feb 2024 12:05:20",
          "title" : "Shakespeare, Borges and 'Plaskett's Immortal'"
-      },
-      {
-         "description" : "One of the most effective ways to improve your chess understanding is to know where your pieces belong and how to adapt when the board situation changes. When there's no forced tactics, one must formulate a plan for what to do. Instead of looking for a win or advantage, it's often easier to identify a piece that can improve its position and function. Even improving your worst piece is a simple concept that avoids assessment insecurity.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rb-ramesh-improve-your-pieces-a-winning-system-you-need-to-know",
-         "pubDate" : "Sat, 17 Feb 2024 09:05:00",
-         "title" : "RB Ramesh: Improve your pieces - a winning system you need to know"
-      },
-      {
-         "description" : "Would you be kind enough to save the precious white passed pawn d6 in the diagram position? Many thanks in advance!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tough-guy",
-         "pubDate" : "Sat, 17 Feb 2024 09:00:00",
-         "title" : "Tough guy"
-      },
-      {
-         "description" : "Magnus Carlsen defeated Fabiano Caruana with the white pieces to claim overall victory at the first edition of the Freestyle G.O.A.T. Chess Challenge. The Norwegian took home the US$ 60,000 first prize for his efforts. Levon Aronian grabbed third place after beating Nodirbek Abdusattorov, while Alireza Firouzja secured an invitation to the next edition of the event by beating Gukesh D in the fight for fifth place. | Photo: Nils Rohde / ChessBase",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-challenge-2024-d8",
-         "pubDate" : "Sat, 17 Feb 2024 00:50:00",
-         "title" : "Magnus Carlsen wins first edition of the Freestyle G.O.A.T. Challenge"
       },
       {
          "description" : "",
@@ -992,14 +992,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/wei-yi-wins-the-2024-tata-steel-masters-after-a-four-player-tie-break",
          "pubDate" : "Sun, 28 Jan 2024 21:50:00",
          "title" : "Wei Yi wins the 2024 Tata Steel Masters after a four player tie-break - 13"
-      },
-      {
-         "description" : "The Live game link of&#160;1st SOA International Grandmasters Chess Festival 2024 # Category &#8216;A' (1900 &#38; Above) are given below. Live game link:&#160;https://view.livechesscloud.com/#7938d5e0-6ad0-4214-a329-6353bf1808ef",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-1st-soa-international-grandmasters-chess-festival-2024-category-a-1900-above/",
-         "pubDate" : "Sun, 28 Jan 2024 13:23:28",
-         "title" : "Live Link for 1st SOA International Grandmasters Chess Festival 2024 # Category 'A' (1900 & Above)"
       }
    ]
 }
