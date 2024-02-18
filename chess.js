@@ -18,12 +18,12 @@ news_feed (
          "title" : "Jeddah Youth Chess Festival: Erdogmus comes out on top"
       },
       {
-         "description" : "The king of Bullet Brawl&#38;nbsp;GM Hikaru Nakamura has claimed his 19th title and $400 after a dominant performance during the latest edition, finishing 59 points ahead of the second and third-placed players; GMs Oleksandr Bortnyk and Arjun Erigaisi...",
+         "description" : "The king of Bullet Brawl, GM Hikaru Nakamura, has claimed his 19th title and $400 after a dominant performance during the latest edition, finishing 59 points ahead of the second- and third-placed players, GMs Oleksandr Bortnyk and Arjun Erigaisi, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-17-2024",
-         "pubDate" : "Sat, 17 Feb 2024 14:45:03",
-         "title" : "Nakamura \"Beep-Bops\" To 19th Bullet Brawl Title"
+         "pubDate" : "Sat, 17 Feb 2024 14:45:00",
+         "title" : "Nakamura 'Bebops' To 19th Bullet Brawl Title"
       },
       {
          "description" : "After a big revelation, I left my last Hypnosis session with a deep sense of peace. Most of the things we worry about do not matter at all. Getting paired against an underrated kid -> doesn't matter.Losing from a won position -> doesn't matter.Losing 6 games in a row -> doesn't matter. This thought is []",
@@ -770,14 +770,6 @@ news_feed (
          "title" : "Firouzja To Play Carlsen In Grand Final"
       },
       {
-         "description" : "On Friday, February 2, 2024, the legendary chess player Mian Sultan Khan (1903-1966) was posthumously awarded the honorary grandmaster title. FIDE President Arkady Dvorkovich presented the award to caretaker Prime Minister of Pakistan Anwaar-ul-Ha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/honorary-grandmaster-title-posthumously-awarded-to-sultan-khan",
-         "pubDate" : "Mon, 05 Feb 2024 03:34:00",
-         "title" : "Honorary Grandmaster Title Posthumously Awarded To Sultan Khan"
-      },
-      {
          "description" : "The best items featured on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) are those that lead to other avenues of inquiry: 'What is this?' and 'What is that?' The item pictured below was titled 'Piggybanx Tom Brady Refractor 1/1 Chess Not Checkers Patriots'. It sold 'Pre-Owned' for $600.00 or 'Best Offer'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob04.jpg\" WIDTH=265 HEIGHT=400> <P> The description of the item added only, <BLOCKQUOTE> Piggybanx Tom Brady 1/1 Refractor. It is missing one screw for the box; it came that way. Otherwise a very nice card. </BLOCKQUOTE> <P> 'Tom Brady' is",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1032,14 +1024,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-classical-rapid-and-blitz-chess-championships-2024-official-regulations/",
          "pubDate" : "Sun, 28 Jan 2024 11:16:08",
          "title" : "European Youth Classical, Rapid and Blitz Chess Championships 2024 - Official regulations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2864",
-         "pubDate" : "Sun, 28 Jan 2024 01:04:52",
-         "title" : "Tata Steel Masters 2024: Five share the lead going into final round"
       }
    ]
 }
