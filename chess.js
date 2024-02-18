@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Council awarded the title of Honorary Grandmaster to Andreas Dueckstein (Austria) and Iivo Nei (Estonia) for their consistently strong results in the 1950s-70s. Nei was an 8-time Estonian who tied for first with Paul Keres in Beverwijk (later Hoogovens). Dueckstein won the Austrian national championship three times and obtained victories over the likes of Mikhail Botvinnik and Bent Larsen. | Photos: Ron Kroon and Wim van Rossem / Anefo (Dutch National Archives)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/iivo-nei-andreas-dueckstein-honorary-gms",
+         "pubDate" : "Sun, 18 Feb 2024 07:00:00",
+         "title" : "Iivo Nei and Andreas Dueckstein awarded Honorary GM titles"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://www.thearticle.com/shakespeare-borges-and-plasketts-immortal/",
          "pubDate" : "Sat, 17 Feb 2024 12:05:20",
          "title" : "Shakespeare, Borges and 'Plaskett's Immortal'"
+      },
+      {
+         "description" : "One of the most effective ways to improve your chess understanding is to know where your pieces belong and how to adapt when the board situation changes. When there's no forced tactics, one must formulate a plan for what to do. Instead of looking for a win or advantage, it's often easier to identify a piece that can improve its position and function. Even improving your worst piece is a simple concept that avoids assessment insecurity.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rb-ramesh-improve-your-pieces-a-winning-system-you-need-to-know",
+         "pubDate" : "Sat, 17 Feb 2024 09:05:00",
+         "title" : "RB Ramesh: Improve your pieces - a winning system you need to know"
       },
       {
          "description" : "Would you be kind enough to save the precious white passed pawn d6 in the diagram position? Many thanks in advance!",
@@ -114,28 +130,12 @@ news_feed (
          "title" : "FIDE establishes closer cooperation with International School Sport Federation"
       },
       {
-         "description" : "One of the most effective ways to improve your chess understanding is to know where your pieces belong and how to adapt when the board situation changes. When there's no forced tactics, one must formulate a plan for what to do. Instead of looking for a win or advantage, it's often easier to identify a piece that can improve its position and function. Even improving your worst piece is a simple concept that avoids assessment insecurity.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rb-ramesh-improve-your-pieces-a-winning-system-you-need-to-know",
-         "pubDate" : "Fri, 16 Feb 2024 12:15:00",
-         "title" : "RB Ramesh: Improve your pieces - a winning system you need to know"
-      },
-      {
          "description" : "The second World Corporate Chess Championship will consist of a series of online events that will conclude with an over-the-board final in New York in June. The event is open to teams representing legally recognized companies from all around the world. Every team has a right to include one invited player who is not directly employed at the company or is a member of the board.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/world-corporate-ch-2024-announcement",
          "pubDate" : "Fri, 16 Feb 2024 12:00:00",
          "title" : "World Corporate Chess Championship Finals to take place in New York"
-      },
-      {
-         "description" : "You probably know exactly what an illegal move is. But do you know how it should be dealt with? And what are the consequences of other irregularities are handled in a serious tournament game? IA Tamas Gyomber, a member of the ECU Arbiter Council, has vast experience in this area. And he tells us everything we need to know.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/illegal-moves-and-irregularities",
-         "pubDate" : "Fri, 16 Feb 2024 08:31:12",
-         "title" : "Illegal moves and irregularities"
       },
       {
          "description" : "NM Jalen Wang was victorious in the Variants Community Series (VCS) Crazyhouse Championship on Thursday and took home $1,000 for winning the Final. FM Roee Aroesti made $750 for second place, while NM Isaac Chiu and Patrik Nystrom earned $500 ea...",
