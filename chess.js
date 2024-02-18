@@ -130,14 +130,6 @@ news_feed (
          "title" : "FIDE establishes closer cooperation with International School Sport Federation"
       },
       {
-         "description" : "The second World Corporate Chess Championship will consist of a series of online events that will conclude with an over-the-board final in New York in June. The event is open to teams representing legally recognized companies from all around the world. Every team has a right to include one invited player who is not directly employed at the company or is a member of the board.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-corporate-ch-2024-announcement",
-         "pubDate" : "Fri, 16 Feb 2024 12:00:00",
-         "title" : "World Corporate Chess Championship Finals to take place in New York"
-      },
-      {
          "description" : "NM Jalen Wang was victorious in the Variants Community Series (VCS) Crazyhouse Championship on Thursday and took home $1,000 for winning the Final. FM Roee Aroesti made $750 for second place, while NM Isaac Chiu and Patrik Nystrom earned $500 ea...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1008,22 +1000,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-1st-soa-international-grandmasters-chess-festival-2024-category-a-1900-above/",
          "pubDate" : "Sun, 28 Jan 2024 13:23:28",
          "title" : "Live Link for 1st SOA International Grandmasters Chess Festival 2024 # Category 'A' (1900 & Above)"
-      },
-      {
-         "description" : " Just spent the last few days watching the 2nd Test Match between Australia and the West Indies. In the end, the West Indies won by 8 runs (which for non cricket fans is a very close result). Having started seriously following cricket from 1974 onwards, I spent most of the first 20 years watching Australia get soundly beaten by the West Indies (1975-76 being the exception). From the late 90's onwards this flipped, with Australia being the dominate team, but as someone who thought Australia ay never win a series against the West Indies, I'm OK with todays result. Well done to the West Indies for a well deserved victory. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/i-did-enjoy-that.html",
-         "pubDate" : "Sun, 28 Jan 2024 11:49:00",
-         "title" : "I did enjoy that"
-      },
-      {
-         "description" : "The European Youth Chess Championship 2024 will take place from 21st August to 1st September 2024 in Prague, Czech Republic, and the same venue will earlier host the European Youth Rapid and Blitz Chess Championships 2024 which will be held from 16th-21st August. European Youth Chess Championship 2024 The European Youth Chess Championship 2024 will be played in 6 age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each championship will be played in 9 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-classical-rapid-and-blitz-chess-championships-2024-official-regulations/",
-         "pubDate" : "Sun, 28 Jan 2024 11:16:08",
-         "title" : "European Youth Classical, Rapid and Blitz Chess Championships 2024 - Official regulations"
       }
    ]
 }
