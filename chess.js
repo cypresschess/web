@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jan Henric Buettner, the driving force behind the G.O.A.T. Freestyle Challenge, had promised that the tournament in Weissenhaus would set a new milestone in the presentation of chess. This was indeed the case, and expectations were exceeded. It was the players themselves who had the most fun. The focus was not on opening knowledge, but on creativity and talent. Gregor Poniewasz has collected sounds and pictures from the final day of play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-remarkably-bold-tournament",
+         "pubDate" : "Mon, 19 Feb 2024 20:00:00",
+         "title" : "\"A remarkably bold tournament\""
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -62,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/8-year-old-ashwath-kaushik-beats-chess-grandmaster-sets-new-record",
-         "pubDate" : "Mon, 19 Feb 2024 07:59:22",
+         "pubDate" : "Mon, 19 Feb 2024 07:59:00",
          "title" : "8-Year-Old Ashwath Beats Chess Grandmaster, Sets New World Record"
       },
       {
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/speelman-agony-212",
          "pubDate" : "Sun, 18 Feb 2024 16:00:00",
          "title" : "Jon Speelman: The joy of innumeracy"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 165th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and has the pleasure to present the attacking skills of Mihail Tal. | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-164-chess-history-in-a-nutshell-2",
-         "pubDate" : "Sun, 18 Feb 2024 15:00:00",
-         "title" : "Understanding before Moving 165: Chess history in a nutshell (46)"
       },
       {
          "description" : "",
@@ -1008,14 +1008,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2024/",
          "pubDate" : "Tue, 30 Jan 2024 07:49:33",
          "title" : "Communique of the ECU Board Meeting - CL No1/2024"
-      },
-      {
-         "description" : "In the previous installment of our weekly comic series, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-wizard-as-professor.html\">The Wizard as Professor</A> (January 2024), we learned that the Wizard has more interests than just playing chess. I noted, <BLOCKQUOTE> The village wizard [...] holds a patent on an important technique used to generate life-like forms in plasma. </BLOCKQUOTE> <P> This is the fourth installment. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oa29.jpg\" WIDTH=335 HEIGHT=400> <P> The Wizard can use his patented AI techniques to generate the personae of chess players from the past. Since this practice is frowned upon by the general public and",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/the-ai-generator.html",
-         "pubDate" : "Mon, 29 Jan 2024 16:35:00",
-         "title" : "The AI Generator"
       }
    ]
 }
