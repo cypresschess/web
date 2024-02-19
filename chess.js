@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2890",
+         "pubDate" : "Sun, 18 Feb 2024 22:26:47",
+         "title" : "Cuban Championship: Quesada Perez and Ordaz Valdes win titles"
+      },
+      {
          "description" : "In the United States and Canada, February is Black History Month, a tradition that began in 1926 and seeks to commemorate important people and events in the history of the African diaspora. A good occasion for US Chess National Master and renowned coach Jerald Times to draw attention to the growing number of successful black chess players and the history of black chess players in the United States. | Photo: Rochelle Ballantyne | Source: YouTube, Stanford 125, Rochelle Ballantyne",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -976,22 +984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2866",
          "pubDate" : "Mon, 29 Jan 2024 10:30:48",
          "title" : "The Infinite Chess Project launched in Tanzania"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2865",
-         "pubDate" : "Mon, 29 Jan 2024 00:19:18",
-         "title" : "Wei Yi wins 2024 Tata Steel Masters"
-      },
-      {
-         "description" : " Wei Yi won the Tata Steel Masters for the first time following a tie-break, he had previously won the B-Group way back in 2015. Indeed after becoming a GM at 13 years old and the youngest ever player to reach 2700 at 15 he hasn't really lived up to this promise, this result came a bit out of the blue, and it was a late run of 4.5/5 that took him to a tie-break including a win against Santosh Vidit today. This win is 24 year old Wei Yi's greatest result. Four players reached the tie-breaks with wins today. Anish Giri played a super aggressive Reti system against Max Warmerdam and eventually broke through. Nodirbek Abdusattorov won a fluctuating struggle against Alexander Donchenko, he was a ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/86th-tata-steel-2024/wei-yi-wins-the-2024-tata-steel-masters-after-a-four-player-tie-break",
-         "pubDate" : "Sun, 28 Jan 2024 21:50:00",
-         "title" : "Wei Yi wins the 2024 Tata Steel Masters after a four player tie-break - 13"
       }
    ]
 }
