@@ -7,7 +7,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2890",
          "pubDate" : "Sun, 18 Feb 2024 22:26:47",
-         "title" : "Cuban Championship: Quesada Perez and Ordaz Valdes win titles"
+         "title" : "Cuban Championship: Ernesto Quesada and Lisandra Ordaz win titles"
       },
       {
          "description" : "In the United States and Canada, February is Black History Month, a tradition that began in 1926 and seeks to commemorate important people and events in the history of the African diaspora. A good occasion for US Chess National Master and renowned coach Jerald Times to draw attention to the growing number of successful black chess players and the history of black chess players in the United States. | Photo: Rochelle Ballantyne | Source: YouTube, Stanford 125, Rochelle Ballantyne",
