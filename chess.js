@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Arabian Karpov Cup, as part of the 1st Jeddah International Youth Festival, successfully fulfilled its mission: to present a platform for young players from the Arab and African regions to play in an international tournament, so as to increase their rating or simply to gain experience. Emirati WCM Rouda Essa Al Sarkal, aged 15, won the event after obtaining 7&frac12;/9 points and outscoring Humaidan Mohamed Alzaabi on tie-break criteria. | Photos: Diana Mihajlova and the Jeddah Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arabian-karpov-cup-2024",
+         "pubDate" : "Mon, 19 Feb 2024 07:00:00",
+         "title" : "Arabian Karpov Cup: Rouda Essa Al Sarkal stuns the field"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2889",
          "pubDate" : "Sat, 17 Feb 2024 20:36:56",
          "title" : "Magnus Carlsen wins inaugural Freestyle Chess G.O.A.T. Challenge"
-      },
-      {
-         "description" : "The Jeddah Youth Chess Festival was held from 24 to 30 January in this Red Sea port in Saudi Arabia. It was a celebration of youth, chess and friendship. In the Young Masters tournament, a 10-players single round-robin for rising stars aged 18 or younger, Yagiz Kaan Erdogmus from Turkey finished first with 6&frac12; points. Volodar Murzin (FIDE), Raunak Sadhwani (India) and Andy Woodward (United States) obtained 6 points each.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jeddah-youth-festival-report-2",
-         "pubDate" : "Sat, 17 Feb 2024 17:00:00",
-         "title" : "Jeddah Youth Chess Festival: Erdogmus comes out on top"
       },
       {
          "description" : "The king of Bullet Brawl, GM Hikaru Nakamura, has claimed his 19th title and $400 after a dominant performance during the latest edition, finishing 59 points ahead of the second- and third-placed players, GMs Oleksandr Bortnyk and Arjun Erigaisi, ...",
