@@ -1,10 +1,14 @@
 jtable([
+"HOUSTON","2024-02-18","5","<a href=http://www.uschess.org/msa/XtblMain.php?202402181762 target='_blank'>SUNDAY SWISS - FEB 18 2024 - AT 1PM</a>",
+"SUGAR LAND","2024-02-18","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402181572 target='_blank'>CYGA02182024</a>",
+"HOUSTON","2024-02-17","6","<a href=http://www.uschess.org/msa/XtblMain.php?202402171532 target='_blank'>CHESSPANDA02172024SATURDAY</a>",
 "HOUSTON","2024-02-17","190","<a href=http://www.uschess.org/msa/XtblMain.php?202402170922 target='_blank'>TCR: TCA REGION V CHAMPIONSHIP 2024</a>",
 "SPRING","2024-02-16","25","<a href=http://www.uschess.org/msa/XtblMain.php?202402160392 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-02-16","28","<a href=http://www.uschess.org/msa/XtblMain.php?202402160352 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-02-11","8","<a href=http://www.uschess.org/msa/XtblMain.php?202402117902 target='_blank'>ADULT QUADS - FEB 11TH - G/75, D5 -</a>",
 "HOUSTON","2024-02-10","132","<a href=http://www.uschess.org/msa/XtblMain.php?202402107082 target='_blank'>EASTWOOD ACADEMY TOURNAMENT</a>",
 "HOUSTON","2024-02-10","6","<a href=http://www.uschess.org/msa/XtblMain.php?202402106412 target='_blank'>CHESSPANDA02102024SATURDAY</a>",
+"HOUSTON","2024-02-10","23","<a href=http://www.uschess.org/msa/XtblMain.php?202402106312 target='_blank'>FEBRUARY 10TH SCHOLASTIC</a>",
 "SPRING","2024-02-09","27","<a href=http://www.uschess.org/msa/XtblMain.php?202402096032 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-02-09","24","<a href=http://www.uschess.org/msa/XtblMain.php?202402095922 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-02-04","8","<a href=http://www.uschess.org/msa/XtblMain.php?202402044322 target='_blank'>GAME GUYS 02.04.24</a>",
@@ -195,8 +199,4 @@ jtable([
 "SPRING","2023-08-04","28","<a href=http://www.uschess.org/msa/XtblMain.php?202308049342 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2023-08-04","32","<a href=http://www.uschess.org/msa/XtblMain.php?202308049152 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-08-04","18","<a href=http://www.uschess.org/msa/XtblMain.php?202308049102 target='_blank'>REBECCA CHESS CLUB QUADS AUGUST 4, 2023</a>",
-"SUGAR LAND","2023-08-04","10","<a href=http://www.uschess.org/msa/XtblMain.php?202308049092 target='_blank'>CHOCOLATE CHIP COOKIE OPEN</a>",
-"HOUSTON","2023-07-30","11","<a href=http://www.uschess.org/msa/XtblMain.php?202307306342 target='_blank'>JULY 30TH 2023 SUNDAY SWISS</a>",
-"HOUSTON","2023-07-29","10","<a href=http://www.uschess.org/msa/XtblMain.php?202307295522 target='_blank'>CHESSPANDA07292023SATURDAY</a>",
-"SUGAR LAND","2023-07-28","8","<a href=http://www.uschess.org/msa/XtblMain.php?202307286082 target='_blank'>FORT BEND CLUB TOURNAMENT 7/28/23</a>",
 ]);
