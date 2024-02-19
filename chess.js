@@ -5,6 +5,30 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2893",
+         "pubDate" : "Mon, 19 Feb 2024 15:41:56",
+         "title" : "In memory of David Bronstein on the 100th anniversary of his birth"
+      },
+      {
+         "description" : " Greetings everyone! I hope you have enjoyed the first two sets of puzzles for this year's Black History Month tribute. You can revisit them (Week 1, Week 2). This week I will present a set of seven puzzles, one of which is a composition by Theophilius Thompson. Bear in mind, these puzzles are not only The post <a href=\"https://www.thechessdrum.net/blog/2024/02/19/black-history-month-2024-tribute-week-3/\">Black History Month 2024 Tribute: Week 3</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/02/19/black-history-month-2024-tribute-week-3/",
+         "pubDate" : "Mon, 19 Feb 2024 13:46:29",
+         "title" : "Black History Month 2024 Tribute: Week 3"
+      },
+      {
+         "description" : "In his new Fast & Furious episode, Robert Ris takes a look at a game from Baadur Jobava, which helped the creative Grandmaster to win the Georgian Championship 2024. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-jobava-strikes",
+         "pubDate" : "Mon, 19 Feb 2024 13:30:47",
+         "title" : "Robert Ris' Fast and Furious: Jobava strikes"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2892",
          "pubDate" : "Mon, 19 Feb 2024 11:06:48",
          "title" : "FIDE launches the ChessMom initiative"
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open-starts-today/",
          "pubDate" : "Mon, 19 Feb 2024 10:00:37",
          "title" : "2nd Cambridge International Open starts today!"
+      },
+      {
+         "description" : "On Sunday, eight-year-old Ashwath Kaushik from Singapore smashed the record to become the youngest player ever to defeat a grandmaster in classical chess. Just a month prior Leonid Ivanovic from Serbia dethroned GM Awonder Liang to become the fi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/8-year-old-ashwath-kaushik-beats-chess-grandmaster-sets-new-record",
+         "pubDate" : "Mon, 19 Feb 2024 07:59:22",
+         "title" : "8-Year-Old Ashwath Beats Chess Grandmaster, Sets New World Record"
       },
       {
          "description" : "The Arabian Karpov Cup, as part of the 1st Jeddah International Youth Festival, successfully fulfilled its mission: to present a platform for young players from the Arab and African regions to play in an international tournament, so as to increase their rating or simply to gain experience. Emirati WCM Rouda Essa Al Sarkal, aged 15, won the event after obtaining 7&frac12;/9 points and outscoring Humaidan Mohamed Alzaabi on tie-break criteria. | Photos: Diana Mihajlova and the Jeddah Chess Festival",
@@ -784,14 +816,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/2024-o2c-doeberl-cup-choosing-your.html",
          "pubDate" : "Mon, 05 Feb 2024 12:36:00",
          "title" : "2024 O2C Doeberl Cup - Choosing your section"
-      },
-      {
-         "description" : "GM Alireza Firouzja will face GM Magnus Carlsen in the Grand Final of the 2024 Champions Chess Tour Chessable Masters. On Monday, the French number-one defeated GM Ian Nepomniachtchi by drawing the armageddon and then GM Denis Lazavik 1.5-0.5 to w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-6",
-         "pubDate" : "Mon, 05 Feb 2024 12:04:00",
-         "title" : "Firouzja To Play Carlsen In Grand Final"
       },
       {
          "description" : "The best items featured on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) are those that lead to other avenues of inquiry: 'What is this?' and 'What is that?' The item pictured below was titled 'Piggybanx Tom Brady Refractor 1/1 Chess Not Checkers Patriots'. It sold 'Pre-Owned' for $600.00 or 'Best Offer'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob04.jpg\" WIDTH=265 HEIGHT=400> <P> The description of the item added only, <BLOCKQUOTE> Piggybanx Tom Brady 1/1 Refractor. It is missing one screw for the box; it came that way. Otherwise a very nice card. </BLOCKQUOTE> <P> 'Tom Brady' is",
