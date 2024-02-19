@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2892",
+         "pubDate" : "Mon, 19 Feb 2024 11:06:48",
+         "title" : "FIDE launches the ChessMom initiative"
+      },
+      {
+         "description" : "The experiment of preparing to win a tournament as the lowest rated player in just 30 days is running, and the first week started. ChessBase content manager Arne has to start somewhere. But where? By writing a Masterplan! With this, he can concentrate on tactics, openings, middlegames, and endgames for the upcoming weeks. Furthermore, Arne chooses 40 Fritztrainers, fools around with ChessBase 17, and the Mega Database, to study all of his opponents in the tournament!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/becoming-a-chess-genius-in-30-days-here-is-the-masterplan",
+         "pubDate" : "Mon, 19 Feb 2024 11:00:00",
+         "title" : "Becoming a Chess Genius in 30 Days? - Here is the Masterplan!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2891",
+         "pubDate" : "Mon, 19 Feb 2024 10:56:11",
+         "title" : "FIDE Endorses ChessNoteR N6 & N9 devices"
+      },
+      {
+         "description" : "The 2nd Cambridge International Open Chess Tournament runs from today Monday 19th February to Saturday 24th February 2024 in Cambridge. This will be...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open-starts-today/",
+         "pubDate" : "Mon, 19 Feb 2024 10:00:37",
+         "title" : "2nd Cambridge International Open starts today!"
+      },
+      {
          "description" : "The Arabian Karpov Cup, as part of the 1st Jeddah International Youth Festival, successfully fulfilled its mission: to present a platform for young players from the Arab and African regions to play in an international tournament, so as to increase their rating or simply to gain experience. Emirati WCM Rouda Essa Al Sarkal, aged 15, won the event after obtaining 7&frac12;/9 points and outscoring Humaidan Mohamed Alzaabi on tie-break criteria. | Photos: Diana Mihajlova and the Jeddah Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/understanding-before-moving-164-chess-history-in-a-nutshell-2",
          "pubDate" : "Sun, 18 Feb 2024 15:00:00",
          "title" : "Understanding before Moving 165: Chess history in a nutshell (46)"
-      },
-      {
-         "description" : "The FIDE Council awarded the title of Honorary Grandmaster to Andreas Dueckstein (Austria) and Iivo Nei (Estonia) for their consistently strong results in the 1950s-70s. Nei was an 8-time Estonian who tied for first with Paul Keres in Beverwijk (later Hoogovens). Dueckstein won the Austrian national championship three times and obtained victories over the likes of Mikhail Botvinnik and Bent Larsen. | Photos: Ron Kroon and Wim van Rossem / Anefo (Dutch National Archives)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/iivo-nei-andreas-dueckstein-honorary-gms",
-         "pubDate" : "Sun, 18 Feb 2024 07:00:00",
-         "title" : "Iivo Nei and Andreas Dueckstein awarded Honorary GM titles"
       },
       {
          "description" : "",
@@ -968,22 +992,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/the-ai-generator.html",
          "pubDate" : "Mon, 29 Jan 2024 16:35:00",
          "title" : "The AI Generator"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107233247.cms\" />Grandmaster D Gukesh endured a heartbreak in the final tie-breaker against Wei Yi of China and had to be content with a joint second place finish at the Tata Steel Masters chess tournament. Indian Grandmaster Leon Luke Mendonca, however, won the challengers section, defeating compatriot Divya Deshmukh in the 13th and final round.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-finishes-joint-second-in-tata-steel-masters-mendonca-wins-challenger/articleshow/107233247.cms",
-         "pubDate" : "Mon, 29 Jan 2024 11:40:04",
-         "title" : "D Gukesh finishes joint second in Tata Steel Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2866",
-         "pubDate" : "Mon, 29 Jan 2024 10:30:48",
-         "title" : "The Infinite Chess Project launched in Tanzania"
       }
    ]
 }
