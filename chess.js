@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 4th Djerba Chess Festival kicked off on Sunday with a strong Masters line-up as the headliner. In addition to some young guns, including Hans Niemann, chess legend Vasyl Ivanchuk is also taking part. After two rounds, Bilen Bellahcene and Hans Niemann sahre the lead with 1.5/2 each. | Photos: Tournament page",
+         "description" : "On 19 February 2024 David Bronstein, one of the most creative players in the history of chess, who in 1951 missed the World Champion title by only a draw, would have celebrated his 100th birthday. Emil Sutovsky pays tribute to this outstanding grandmaster. | Photo: juegosdeajedrez.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-memory-of-david-bronstein-on-the-100th-anniversary-of-his-birth",
+         "pubDate" : "Tue, 20 Feb 2024 17:00:00",
+         "title" : "In memory of David Bronstein on the 100th anniversary of his birth"
+      },
+      {
+         "description" : "Two British Championships on the trot for David Hodge.&#160; Chess solving Championships, that is.&#160; He was the winner at last year's Winton British Chess Solving...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship/",
+         "pubDate" : "Tue, 20 Feb 2024 15:24:57",
+         "title" : "Winton British Chess Solving Championship"
+      },
+      {
+         "description" : "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Round 1 The Commonwealth Chess Championship 2024 was inaugurated on 20th February 2024 at the Melaka International Trade Center, Convention Centre in the historical",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/commonwealth-chess-championship-2024/",
+         "pubDate" : "Tue, 20 Feb 2024 14:57:05",
+         "title" : " Commonwealth Chess Championship 2024"
+      },
+      {
+         "description" : "Welcome to the 3rd edition of my Beginner Chess Mastery behind-the-scenes newsletter. Last week, I shared what makes for a great Beginner Chess Course. Today, I want to talk about the problem with other Beginner resources. There are three problems that came up repeatedly in my research for this course: The resource isn't for real beginners. The resource is way too big. The resource explains what but not why. 1) The Resource isn't for real Beginners. English is not my native language, but...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/bcm-3-what-is-wrong-with-other-beginner-resources/",
+         "pubDate" : "Tue, 20 Feb 2024 14:04:27",
+         "title" : "(BCM #3) What is Wrong with Other Beginner Resources"
+      },
+      {
+         "description" : "The 4th Djerba Chess Festival kicked off on Sunday with a strong Masters line-up as the headliner. In addition to some young guns, including Hans Niemann, chess legend Vasyl Ivanchuk is also taking part. After two rounds, Bilen Bellahcene and Hans Niemann share the lead with 1.5/2 each. | Photos: Tournament page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/niemann-and-bellahcene-lead-in-djerba",
          "pubDate" : "Tue, 20 Feb 2024 13:28:33",
          "title" : "Niemann and Bellahcene lead in Djerba"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107856033.cms\" />An eight-year-old Indian-origin boy defeated Polish chess grandmaster Jacek Stopa at the Burgdorfer Stadthaus Open in Switzerland on Sunday, becoming the youngest player to defeat a GM in classical chess. Ashwath Kaushik, who represented Singapore, defeated Stopa, who at 37 is nearly five times older than him, according to a Channel News Asia report. The previous record was set only a few weeks earlier when Serbia's Leonid Ivanovic, who is several months older than Ashwath, beat 60-year-old Bulgarian grandmaster Milko Popchev at the Belgrade Open.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/8-year-old-indian-origin-boy-from-singapore-beats-polish-grandmaster-breaks-record/articleshow/107856033.cms",
+         "pubDate" : "Tue, 20 Feb 2024 12:29:16",
+         "title" : "8-year-old Indian-origin boy beats Polish GM, breaks record"
       },
       {
          "description" : "Monday 26 February 2024 is the official opening of the Prague Chess Festival 2024 and the first round will be played on Tuesday 27 February. Both the Masters and the Challengers tournaments have an interesting and strong field and with Praggnanandhaa, Gukesh, Nodirbek Abdusattorov and Vincent Keymer the four best junior players in the world will meet in Prague. Guest of honour at the opening ceremony will be Vishy Anand, who will also give a lecture and sign autographs.",
@@ -16,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/vishy-anand-opens-prague-chess-festival-2024",
          "pubDate" : "Tue, 20 Feb 2024 11:36:02",
          "title" : "Vishy Anand opens Prague Chess Festival 2024"
-      },
-      {
-         "description" : "Knight and bishop are stronger than a rook, but the rook is by no means helpless. In the diagram position it is Black to move and draw. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-vs-knight-and-bishop",
-         "pubDate" : "Tue, 20 Feb 2024 09:00:00",
-         "title" : "Rook vs knight and bishop"
       },
       {
          "description" : "from 10-17th Feb 2024 AICF EVENT CODE : 325102/325103/325104/325105/325106RAJ(S)/2024 Venue : SMS Stadium, Jaipur, Rajasthan, &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Chief Arbiter's Report 11th National Amateur Chess Championship 2024",
@@ -1024,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2867",
          "pubDate" : "Tue, 30 Jan 2024 17:08:32",
          "title" : "FIDE wins the prestigious Anthem Award for Diversity, Equity & Inclusion"
-      },
-      {
-         "description" : "The series of posts centered on the Yahoo family began inauspiciously with <A HREF=\"https://chessforallages.blogspot.com/2008/04/chess-and-peanuts.html\">Chess and Peanuts</A> (April 2008; Yahoo article 'Writing for Peanuts'). They continued irregularly whenever a Yahoo.com news feed highlighted a story that had something to do with chess. <P> Starting with <A HREF=\"https://chessforallages.blogspot.com/2017/11/october-yahoos.html\">October Yahoos</A> (October 2017), the Yahoos appeared monthly through <A HREF=\"https://chessforallages.blogspot.com/2020/12/a-yahoo-backstory.html\">A Yahoo Backstory</A> (December 2020). Those were wonderful days for the Yahoos -- Covid and Netflix ensured a steady",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/01/rip-yahoos.html",
-         "pubDate" : "Tue, 30 Jan 2024 16:15:00",
-         "title" : "RIP Yahoos"
       }
    ]
 }
