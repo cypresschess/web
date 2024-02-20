@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Knight and bishop are stronger than a rook, but the rook is by no means helpless. In the diagram position it is Black to move and draw. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-vs-knight-and-bishop",
+         "pubDate" : "Tue, 20 Feb 2024 09:00:00",
+         "title" : "Rook vs knight and bishop"
+      },
+      {
+         "description" : "from 10-17th Feb 2024 AICF EVENT CODE : 325102/325103/325104/325105/325106RAJ(S)/2024 Venue : SMS Stadium, Jaipur, Rajasthan, &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Chief Arbiter's Report 11th National Amateur Chess Championship 2024",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-11th-national-amateur-chess-championship-2024/",
+         "pubDate" : "Tue, 20 Feb 2024 05:51:39",
+         "title" : "Final Report of 11th National Amateur Chess Championship 2024"
+      },
+      {
+         "description" : "The Mitropa Cup is taking place on February 15-23 in Apolda, Germany. Ten teams from Central Europe (also including Italy) are playing single round-robins in the open and the women's categories. After five rounds, the German squads are leading both competitions. In the open, Germany has a perfect 10/10 score, while in the women's, Germany has drawn twice so far, with Switzerland and Slovakia. | Photo: Frank Hoppe",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mitropa-cup-2024-r5",
+         "pubDate" : "Tue, 20 Feb 2024 05:40:00",
+         "title" : "Mitropa Cup: German teams lead both sections"
+      },
+      {
          "description" : " Yesterday (19 February) was the 100th anniversary of the birth of David Bronstein. Although he never became World Champion (tying his only match 12-12 with Mikhail Botvinnik) he was still one of the most consequential figures in modern chess. Early on in his career he developed or strengthened a number of important opening systems, while towards the end he participated in a number of matches involving increasingly strong chess engines. An inventive attacking player, Bronstein demonstrated a propensity for sacrificial play from the very start of his chess career, <br /> <b>Bronstein,David I - Zaslavsky,A [C43]</b><br /> Bronstein in Kiev Kiev, 1938 <script> new PgnViewer( { boardName: \"game1",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -114,20 +138,12 @@ news_feed (
          "title" : "Cuban Championship: Ernesto Quesada and Lisandra Ordaz win titles"
       },
       {
-         "description" : "In the United States and Canada, February is Black History Month, a tradition that began in 1926 and seeks to commemorate important people and events in the history of the African diaspora. A good occasion for US Chess National Master and renowned coach Jerald Times to draw attention to the growing number of successful black chess players and the history of black chess players in the United States. | Photo: Rochelle Ballantyne | Source: YouTube, Stanford 125, Rochelle Ballantyne",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-rise-of-black-chess-players",
-         "pubDate" : "Sun, 18 Feb 2024 16:38:43",
-         "title" : "The Rise of Black Chess Players"
-      },
-      {
-         "description" : "Today's column is about sacrifices and the exchange in particular. If you're shown a chess position cold, then the first thing you do normally is to count the pieces just to check that the material is fairly balanced. But the relative activity is at least as important. The \"joy of innumeracy\" might turn out to be a valuable (in)ability in many chess positions! | Pictured: Lu Miaoyi at the 2023 Rapid and Blitz World Championships. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-212",
-         "pubDate" : "Sun, 18 Feb 2024 16:00:00",
-         "title" : "Jon Speelman: The joy of innumeracy"
+         "description" : "It took me some time to figure out what is shown in this photo. The title ('Chess') didn't help much and the description was missing. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob18.jpg\" WIDTH=400 HEIGHT=290><BR> <A HREF=\"https://www.flickr.com/photos/skooksie/53520068633/\">Chess</A> &#169; Flickr user <I>skooksie</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-sa/2.0/\">Creative Commons</A>.<BR> <P> The first useful identifying text said, <BLOCKQUOTE> This photo is in 1 album &#149; Mardi Gras 2024 &#149; 444 items </BLOCKQUOTE> <P> OK, I got it. It's a night time shot of a <I>Mardi Gras</I> float with a big hand on the top of the float and a chess game on t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/02/chess-jeudi-gras.html",
+         "pubDate" : "Sun, 18 Feb 2024 16:50:00",
+         "title" : "Chess Jeudi Gras"
       },
       {
          "description" : "",
@@ -1016,22 +1032,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/01/club-season-kick-off.html",
          "pubDate" : "Tue, 30 Jan 2024 12:09:00",
          "title" : "Club season kick off"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107255869.cms\" />Divya Deshmukh: Indian chess player Divya Deshmukh has alleged sexist behaviour from spectators at Tata Steel Masters in Wijk Aan Zee, Netherlands. Deshmukh said spectators focused on irrelevant things like her hair, clothes, and accent instead of her games. She called out the misogyny women players face routinely and the under-appreciation of women in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-im-divya-deshmukh-speaks-out-against-sexism-at-tata-steel-masters/articleshow/107255869.cms",
-         "pubDate" : "Tue, 30 Jan 2024 08:13:17",
-         "title" : "Indian IM Divya Deshmukh alleges sexism by spectators"
-      },
-      {
-         "description" : "Dear Chess Friends, The first quarterly meeting of the ECU Board was held through teleconference, on January 21. Main information and Decisions: Sincerely, &#160;Theodoros Tsorbatzoglou&#160;ECU Secretary General",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-cl-no1-2024/",
-         "pubDate" : "Tue, 30 Jan 2024 07:49:33",
-         "title" : "Communique of the ECU Board Meeting - CL No1/2024"
       }
    ]
 }
