@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Saint Louis Chess Club is excited to announce the return of the American Cup, one of the nation's premier chess tournaments, to Saint Louis. Now in its third year, the event will run from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs - an increase from 2023 - the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-preview",
+         "pubDate" : "Tue, 20 Feb 2024 21:00:00",
+         "title" : "The 2024 American Cup: Showcasing America's finest chess talents"
+      },
+      {
          "description" : "On 19 February 2024 David Bronstein, one of the most creative players in the history of chess, who in 1951 missed the World Champion title by only a draw, would have celebrated his 100th birthday. Emil Sutovsky pays tribute to this outstanding grandmaster. | Photo: juegosdeajedrez.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,6 +66,14 @@ news_feed (
          "title" : "Vishy Anand opens Prague Chess Festival 2024"
       },
       {
+         "description" : "Knight and bishop are stronger than a rook, but the rook is by no means helpless. In the diagram position it is Black to move and draw. What should he do?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-vs-knight-and-bishop",
+         "pubDate" : "Tue, 20 Feb 2024 09:00:00",
+         "title" : "Rook vs knight and bishop"
+      },
+      {
          "description" : "from 10-17th Feb 2024 AICF EVENT CODE : 325102/325103/325104/325105/325106RAJ(S)/2024 Venue : SMS Stadium, Jaipur, Rajasthan, &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Chief Arbiter's Report 11th National Amateur Chess Championship 2024",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2895",
          "pubDate" : "Mon, 19 Feb 2024 21:58:25",
          "title" : "Georgian Women's Championship: Lela Javakhishvili wins fifth title"
-      },
-      {
-         "description" : "Jan Henric Buettner, the driving force behind the G.O.A.T. Freestyle Challenge, had promised that the tournament in Weissenhaus would set a new milestone in the presentation of chess. This was indeed the case, and expectations were exceeded. It was the players themselves who had the most fun. The focus was not on opening knowledge, but on creativity and talent. Gregor Poniewasz has collected sounds and pictures from the final day of play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-remarkably-bold-tournament",
-         "pubDate" : "Mon, 19 Feb 2024 20:00:00",
-         "title" : "\"A remarkably bold tournament\""
       },
       {
          "description" : "",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2892",
          "pubDate" : "Mon, 19 Feb 2024 11:06:48",
          "title" : "FIDE launches the ChessMom initiative"
-      },
-      {
-         "description" : "The experiment of preparing to win a tournament as the lowest rated player in just 30 days is running, and the first week started. ChessBase content manager Arne has to start somewhere. But where? By writing a Masterplan! With this, he can concentrate on tactics, openings, middlegames, and endgames for the upcoming weeks. Furthermore, Arne chooses 40 Fritztrainers, fools around with ChessBase 17, and the Mega Database, to study all of his opponents in the tournament!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/becoming-a-chess-genius-in-30-days-here-is-the-masterplan",
-         "pubDate" : "Mon, 19 Feb 2024 11:00:00",
-         "title" : "Becoming a Chess Genius in 30 Days? - Here is the Masterplan!"
       },
       {
          "description" : "",
@@ -1048,14 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2869",
          "pubDate" : "Wed, 31 Jan 2024 08:40:34",
          "title" : "FIDE Qualification Commission - Policy on Ratings and Titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2867",
-         "pubDate" : "Tue, 30 Jan 2024 17:08:32",
-         "title" : "FIDE wins the prestigious Anthem Award for Diversity, Equity & Inclusion"
       }
    ]
 }
