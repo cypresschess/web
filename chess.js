@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 4th Djerba Chess Festival kicked off on Sunday with a strong Masters line-up as the headliner. In addition to some young guns, including Hans Niemann, chess legend Vasyl Ivanchuk is also taking part. After two rounds, Bilen Bellahcene and Hans Niemann sahre the lead with 1.5/2 each. | Photos: Tournament page",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-and-bellahcene-lead-in-djerba",
+         "pubDate" : "Tue, 20 Feb 2024 13:28:33",
+         "title" : "Niemann and Bellahcene lead in Djerba"
+      },
+      {
+         "description" : "Monday 26 February 2024 is the official opening of the Prague Chess Festival 2024 and the first round will be played on Tuesday 27 February. Both the Masters and the Challengers tournaments have an interesting and strong field and with Praggnanandhaa, Gukesh, Nodirbek Abdusattorov and Vincent Keymer the four best junior players in the world will meet in Prague. Guest of honour at the opening ceremony will be Vishy Anand, who will also give a lecture and sign autographs.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vishy-anand-opens-prague-chess-festival-2024",
+         "pubDate" : "Tue, 20 Feb 2024 11:36:02",
+         "title" : "Vishy Anand opens Prague Chess Festival 2024"
+      },
+      {
          "description" : "Knight and bishop are stronger than a rook, but the rook is by no means helpless. In the diagram position it is Black to move and draw. What should he do?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,6 +66,14 @@ news_feed (
          "title" : "\"A remarkably bold tournament\""
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2894",
+         "pubDate" : "Mon, 19 Feb 2024 19:39:07",
+         "title" : "FIDE World Cadet U8, U10, U12 Championships 2024: Call for Bids"
+      },
+      {
          "description" : "Please find the certificates here Open Girls Rank Name Rank Name 1 Daksh Goyal 1 Mrittika Mallick 2 Jihan Tejas Shah 2 Sneha Halder 3",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/19/black-history-month-2024-tribute-week-3/",
          "pubDate" : "Mon, 19 Feb 2024 13:46:29",
          "title" : "Black History Month 2024 Tribute: Week 3"
-      },
-      {
-         "description" : "In his new Fast & Furious episode, Robert Ris takes a look at a game from Baadur Jobava, which helped the creative Grandmaster to win the Georgian Championship 2024. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-jobava-strikes",
-         "pubDate" : "Mon, 19 Feb 2024 13:30:47",
-         "title" : "Robert Ris' Fast and Furious: Jobava strikes"
       },
       {
          "description" : "",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/8-year-old-ashwath-kaushik-beats-chess-grandmaster-sets-new-record",
          "pubDate" : "Mon, 19 Feb 2024 07:59:00",
          "title" : "8-Year-Old Ashwath Beats Chess Grandmaster, Sets New World Record"
-      },
-      {
-         "description" : "The Arabian Karpov Cup, as part of the 1st Jeddah International Youth Festival, successfully fulfilled its mission: to present a platform for young players from the Arab and African regions to play in an international tournament, so as to increase their rating or simply to gain experience. Emirati WCM Rouda Essa Al Sarkal, aged 15, won the event after obtaining 7&frac12;/9 points and outscoring Humaidan Mohamed Alzaabi on tie-break criteria. | Photos: Diana Mihajlova and the Jeddah Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arabian-karpov-cup-2024",
-         "pubDate" : "Mon, 19 Feb 2024 07:00:00",
-         "title" : "Arabian Karpov Cup: Rouda Essa Al Sarkal stuns the field"
       },
       {
          "description" : "",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/01/rip-yahoos.html",
          "pubDate" : "Tue, 30 Jan 2024 16:15:00",
          "title" : "RIP Yahoos"
-      },
-      {
-         "description" : " The Gungahlin Chess Club started its first tournaments of the year, with the Ramakrishna Memorial and the Gungahlin Junior Championship running side by side. A total of 44 players turned up to play, which is a good number to start the year. I was called in as the 'house man' for the Ramakrishna Memorial, and got off to a good start, scoring a nice win in 17 moves. After my opponents 8th move, I decided to check out 9.e4 as a response, and having looked at enough lines to convince me it worked, played it. I had calculated that I was better up until around move 14, and when I reached that point, realised I had a pretty quick checkmate, which my opponent kindly let me play on the board. <br />",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/01/club-season-kick-off.html",
-         "pubDate" : "Tue, 30 Jan 2024 12:09:00",
-         "title" : "Club season kick off"
       }
    ]
 }
