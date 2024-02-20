@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Yesterday (19 February) was the 100th anniversary of the birth of David Bronstein. Although he never became World Champion (tying his only match 12-12 with Mikhail Botvinnik) he was still one of the most consequential figures in modern chess. Early on in his career he developed or strengthened a number of important opening systems, while towards the end he participated in a number of matches involving increasingly strong chess engines. An inventive attacking player, Bronstein demonstrated a propensity for sacrificial play from the very start of his chess career, <br /> <b>Bronstein,David I - Zaslavsky,A [C43]</b><br /> Bronstein in Kiev Kiev, 1938 <script> new PgnViewer( { boardName: \"game1",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/david-bronstein.html",
+         "pubDate" : "Mon, 19 Feb 2024 22:27:00",
+         "title" : "David Bronstein"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2895",
+         "pubDate" : "Mon, 19 Feb 2024 21:58:25",
+         "title" : "Georgian Women's Championship: Lela Javakhishvili wins fifth title"
+      },
+      {
          "description" : "Jan Henric Buettner, the driving force behind the G.O.A.T. Freestyle Challenge, had promised that the tournament in Weissenhaus would set a new milestone in the presentation of chess. This was indeed the case, and expectations were exceeded. It was the players themselves who had the most fun. The focus was not on opening knowledge, but on creativity and talent. Gregor Poniewasz has collected sounds and pictures from the final day of play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-remarkably-bold-tournament",
          "pubDate" : "Mon, 19 Feb 2024 20:00:00",
          "title" : "\"A remarkably bold tournament\""
+      },
+      {
+         "description" : "Please find the certificates here Open Girls Rank Name Rank Name 1 Daksh Goyal 1 Mrittika Mallick 2 Jihan Tejas Shah 2 Sneha Halder 3",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-national-under-15-chess-championship-27-12-2023-to-04-01-2024/",
+         "pubDate" : "Mon, 19 Feb 2024 17:09:40",
+         "title" : "Certificates of National Under 15 Chess Championship 27.12.2023 to 04.01.2024"
       },
       {
          "description" : "",
