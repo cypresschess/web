@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1st Dortmund International Chess Days will take place from 10 to 18 August 2024 at the Cultural Centre Alte Schmiede in Dortmund. Frederik Sane and Leon Mendonca have already confirmed their participation in the A-Open. Elisabeth P&auml;htz and Dinara Wagner will play a match to find out who is the number one in German women's chess. | (From left to right) Dirk Schaufelberger (CEO of Sparkasse Dortmund), Alexander Donchenko, Frederik Svane, Leon Luke Mendonca | Photo: Michelle Lassak",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sparkassen-chess-trophy-2024",
+         "pubDate" : "Wed, 21 Feb 2024 12:00:00",
+         "title" : "Sparkassen Chess Trophy 2024"
+      },
+      {
+         "description" : "Durres Albania 25th to 29th April, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players and accompanying",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-cadet-rapid-blitz-chess-championship-2024/",
+         "pubDate" : "Wed, 21 Feb 2024 09:41:14",
+         "title" : "FIDE World Cadet Rapid & Blitz Chess Championship - 2024"
+      },
+      {
          "description" : "The 1959 Candidates Tournament saw an inspired Mikhail Tal emerging victorious with 20/28 points in a quadruple round-robin. On his way to victory, Tal, aged 22 at the time, defeated Bobby Fischer, aged 16, in all four of their confrontations. GM Daniel King analysed one of these games, where Tal fearlessly grabs material, allowing Fischer to create a dangerous attack. The game, along with Daniel King's voice-over, was featured in an animation produced by Umang Mankodiya.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,14 +114,6 @@ news_feed (
          "title" : "Vishy Anand opens Prague Chess Festival 2024"
       },
       {
-         "description" : "Knight and bishop are stronger than a rook, but the rook is by no means helpless. In the diagram position it is Black to move and draw. What should he do?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-vs-knight-and-bishop",
-         "pubDate" : "Tue, 20 Feb 2024 09:00:00",
-         "title" : "Rook vs knight and bishop"
-      },
-      {
          "description" : "from 10-17th Feb 2024 AICF EVENT CODE : 325102/325103/325104/325105/325106RAJ(S)/2024 Venue : SMS Stadium, Jaipur, Rajasthan, &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Chief Arbiter's Report 11th National Amateur Chess Championship 2024",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -144,6 +152,14 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-national-under-15-chess-championship-27-12-2023-to-04-01-2024/",
          "pubDate" : "Mon, 19 Feb 2024 17:09:40",
          "title" : "Certificates of National Under 15 Chess Championship 27.12.2023 to 04.01.2024"
+      },
+      {
+         "description" : "Last week's Monday post was the last in a series of six posts in an experiment using the 'AI Comic' software. The six posts each featured an image picturing part of the story, corresponding to one page in the comic. The six images are reproduced below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob19.jpg\" WIDTH=400 HEIGHT=340><BR> <B>A Chess Village and Its Wizard</B> <P> The six posts corresponding to each page/image are linked here:- <UL> <LI> <B>1st - </B> 2024-01-08: <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-chess-village.html\">The Chess Village</A> <LI> <B>2nd - </B> 2024-01-15: <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-village-wizard.h",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/02/first-adventures-in-ai-comics.html",
+         "pubDate" : "Mon, 19 Feb 2024 16:33:00",
+         "title" : "First Adventures in AI Comics"
       },
       {
          "description" : "",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/softly-softly.html",
          "pubDate" : "Thu, 01 Feb 2024 12:26:00",
          "title" : "Softly, softly"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2869",
-         "pubDate" : "Wed, 31 Jan 2024 08:40:34",
-         "title" : "FIDE Qualification Commission - Policy on Ratings and Titles"
       }
    ]
 }
