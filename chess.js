@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The German teams continue to dominate the Mitropa Cup in Apolda, Germany. In round 6 both German teams won against France, and with this win Germany defended its lead in the Open while the women's team took the sole lead. | Photos: German Chess Federation/Frank Hoppe",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mitropa-cup-both-german-teams-in-the-lead",
+         "pubDate" : "Wed, 21 Feb 2024 13:39:39",
+         "title" : "Mitropa Cup: Both German teams in the lead"
+      },
+      {
          "description" : "The 1st Dortmund International Chess Days will take place from 10 to 18 August 2024 at the Cultural Centre Alte Schmiede in Dortmund. Frederik Sane and Leon Mendonca have already confirmed their participation in the A-Open. Elisabeth P&auml;htz and Dinara Wagner will play a match to find out who is the number one in German women's chess. | (From left to right) Dirk Schaufelberger (CEO of Sparkasse Dortmund), Alexander Donchenko, Frederik Svane, Leon Luke Mendonca | Photo: Michelle Lassak",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/8-year-old-indian-origin-boy-from-singapore-beats-polish-grandmaster-breaks-record/articleshow/107856033.cms",
          "pubDate" : "Tue, 20 Feb 2024 12:29:16",
          "title" : "8-year-old Indian-origin boy beats Polish GM, breaks record"
-      },
-      {
-         "description" : "Monday 26 February 2024 is the official opening of the Prague Chess Festival 2024 and the first round will be played on Tuesday 27 February. Both the Masters and the Challengers tournaments have an interesting and strong field and with Praggnanandhaa, Gukesh, Nodirbek Abdusattorov and Vincent Keymer the four best junior players in the world will meet in Prague. Guest of honour at the opening ceremony will be Vishy Anand, who will also give a lecture and sign autographs.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vishy-anand-opens-prague-chess-festival-2024",
-         "pubDate" : "Tue, 20 Feb 2024 11:36:02",
-         "title" : "Vishy Anand opens Prague Chess Festival 2024"
       },
       {
          "description" : "from 10-17th Feb 2024 AICF EVENT CODE : 325102/325103/325104/325105/325106RAJ(S)/2024 Venue : SMS Stadium, Jaipur, Rajasthan, &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Chief Arbiter's Report 11th National Amateur Chess Championship 2024",
