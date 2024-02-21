@@ -26,7 +26,7 @@ news_feed (
          "title" : "Found scoresheets"
       },
       {
-         "description" : "The Saint Louis Chess Club is excited to announce the return of the American Cup, one of the nation's premier chess tournaments, to Saint Louis. Now in its third year, the event will run from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs - an increase from 2023 - the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Photo: Lennart Ootes",
+         "description" : "The Saint Louis Chess Club is excited to announce the return of the American Cup, one of the nation's premier chess tournaments, to Saint Louis. Now in its third year, the event will run from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs - an increase from 2023 - the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Photo: Austin Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/american-cup-2024-preview",
