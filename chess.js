@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 1959 Candidates Tournament saw an inspired Mikhail Tal emerging victorious with 20/28 points in a quadruple round-robin. On his way to victory, Tal, aged 22 at the time, defeated Bobby Fischer, aged 16, in all four of their confrontations. GM Daniel King analysed one of these games, where Tal fearlessly grabs material, allowing Fischer to create a dangerous attack. The game, along with Daniel King's voice-over, was featured in an animation produced by Umang Mankodiya.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tal-took-that-pawn-candidates-1959",
+         "pubDate" : "Wed, 21 Feb 2024 01:00:00",
+         "title" : "Tal took that pawn? Analysis by GM Daniel King"
+      },
+      {
+         "description" : " One of the simple pleasures in life is finding a book that you know nothing about, and discovering it is quite a good read. I've had occasion to do this, usually when travelling, or simply out and about. The chess equivalent of this may well be finding a left behind scoresheet at a tournament or club. The game below is from one such scoresheet. To be fair, it was actually played on the board next to mine at the Gungahlin Chess Club yesterday evening, but if one of the players hadn't left it behind, then I doubt I would have remembered enough of the game to put it here. The game itself has a few points of interest. Before the game Matt Radisich was being encourage to play the Albin Counter G",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/found-scoresheets.html",
+         "pubDate" : "Tue, 20 Feb 2024 22:22:00",
+         "title" : "Found scoresheets"
+      },
+      {
          "description" : "The Saint Louis Chess Club is excited to announce the return of the American Cup, one of the nation's premier chess tournaments, to Saint Louis. Now in its third year, the event will run from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs - an increase from 2023 - the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-11th-national-amateur-chess-championship-2024/",
          "pubDate" : "Tue, 20 Feb 2024 05:51:39",
          "title" : "Final Report of 11th National Amateur Chess Championship 2024"
-      },
-      {
-         "description" : "The Mitropa Cup is taking place on February 15-23 in Apolda, Germany. Ten teams from Central Europe (also including Italy) are playing single round-robins in the open and the women's categories. After five rounds, the German squads are leading both competitions. In the open, Germany has a perfect 10/10 score, while in the women's, Germany has drawn twice so far, with Switzerland and Slovakia. | Photo: Frank Hoppe",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mitropa-cup-2024-r5",
-         "pubDate" : "Tue, 20 Feb 2024 05:40:00",
-         "title" : "Mitropa Cup: German teams lead both sections"
       },
       {
          "description" : " Yesterday (19 February) was the 100th anniversary of the birth of David Bronstein. Although he never became World Champion (tying his only match 12-12 with Mikhail Botvinnik) he was still one of the most consequential figures in modern chess. Early on in his career he developed or strengthened a number of important opening systems, while towards the end he participated in a number of matches involving increasingly strong chess engines. An inventive attacking player, Bronstein demonstrated a propensity for sacrificial play from the very start of his chess career, <br /> <b>Bronstein,David I - Zaslavsky,A [C43]</b><br /> Bronstein in Kiev Kiev, 1938 <script> new PgnViewer( { boardName: \"game1",
