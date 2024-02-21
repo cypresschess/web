@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The extensive supporting programme of the Freestyle tournament in Weissenhaus also included boxing training for the players and anyone interested. The training took place under the guidance of Denno Probst and his team from Chessboxing Cologne. Fabiano Caruana was not the only one to have fun. | Photos: Chessboxing Cologne",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/boxing-training-for-freestyle-stars",
+         "pubDate" : "Wed, 21 Feb 2024 18:00:00",
+         "title" : "Boxing training for Freestyle stars"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2896",
+         "pubDate" : "Wed, 21 Feb 2024 16:51:38",
+         "title" : "List of Open Tournaments to receive FIDE Aid Packages 2024"
+      },
+      {
          "description" : "The German teams continue to dominate the Mitropa Cup in Apolda, Germany. In round 6 both German teams won against France, and with this win Germany defended its lead in the Open while the women's team took the sole lead. | Photos: German Chess Federation/Frank Hoppe",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/mitropa-cup-both-german-teams-in-the-lead",
          "pubDate" : "Wed, 21 Feb 2024 13:39:39",
          "title" : "Mitropa Cup: Both German teams in the lead"
+      },
+      {
+         "description" : "This is a flash report. The full article will be added to this page soon. GM Fabiano Caruana and GM Cristian Chirila cut the proverbial opening ribbon of the inaugural 2024 Team Chess Battle by beating&#38;nbsp;GM Anish Giri and IM Danny Rensch with...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-caruana-chirila-win",
+         "pubDate" : "Wed, 21 Feb 2024 12:19:46",
+         "title" : "Flash Report: Caruana & Chirila's Chemistry Squares Away Giri & Rensch"
       },
       {
          "description" : "The 1st Dortmund International Chess Days will take place from 10 to 18 August 2024 at the Cultural Centre Alte Schmiede in Dortmund. Frederik Sane and Leon Mendonca have already confirmed their participation in the A-Open. Elisabeth P&auml;htz and Dinara Wagner will play a match to find out who is the number one in German women's chess. | (From left to right) Dirk Schaufelberger (CEO of Sparkasse Dortmund), Alexander Donchenko, Frederik Svane, Leon Luke Mendonca | Photo: Michelle Lassak",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/fide-world-cadet-rapid-blitz-chess-championship-2024/",
          "pubDate" : "Wed, 21 Feb 2024 09:41:14",
          "title" : "FIDE World Cadet Rapid & Blitz Chess Championship - 2024"
+      },
+      {
+         "description" : "GM Anish Giri earned his first win in Titled Tuesday on February 20, taking the early edition with a score of 10/11. In the late event, GM Velimir Ivic also scored 10/11, making for a rare day with no tiebreaks for first place. Early Tournamen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/giri-ivic-win-titled-tuesday-february-20-2024",
+         "pubDate" : "Wed, 21 Feb 2024 08:48:08",
+         "title" : "Twitter King Now Titled Tuesday King"
       },
       {
          "description" : "The 1959 Candidates Tournament saw an inspired Mikhail Tal emerging victorious with 20/28 points in a quadruple round-robin. On his way to victory, Tal, aged 22 at the time, defeated Bobby Fischer, aged 16, in all four of their confrontations. GM Daniel King analysed one of these games, where Tal fearlessly grabs material, allowing Fischer to create a dangerous attack. The game, along with Daniel King's voice-over, was featured in an animation produced by Umang Mankodiya.",
@@ -98,14 +130,6 @@ news_feed (
          "title" : "(BCM #3) What is Wrong with Other Beginner Resources"
       },
       {
-         "description" : "The 4th Djerba Chess Festival kicked off on Sunday with a strong Masters line-up as the headliner. In addition to some young guns, including Hans Niemann, chess legend Vasyl Ivanchuk is also taking part. After two rounds, Bilen Bellahcene and Hans Niemann share the lead with 1.5/2 each. | Photos: Tournament page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-and-bellahcene-lead-in-djerba",
-         "pubDate" : "Tue, 20 Feb 2024 13:28:33",
-         "title" : "Niemann and Bellahcene lead in Djerba"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107856033.cms\" />An eight-year-old Indian-origin boy defeated Polish chess grandmaster Jacek Stopa at the Burgdorfer Stadthaus Open in Switzerland on Sunday, becoming the youngest player to defeat a GM in classical chess. Ashwath Kaushik, who represented Singapore, defeated Stopa, who at 37 is nearly five times older than him, according to a Channel News Asia report. The previous record was set only a few weeks earlier when Serbia's Leonid Ivanovic, who is several months older than Ashwath, beat 60-year-old Bulgarian grandmaster Milko Popchev at the Belgrade Open.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -165,6 +189,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2892",
+         "pubDate" : "Mon, 19 Feb 2024 16:06:48",
+         "title" : "FIDE launches the ChessMom initiative"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2893",
          "pubDate" : "Mon, 19 Feb 2024 15:41:56",
          "title" : "In memory of David Bronstein on the 100th anniversary of his birth"
@@ -176,14 +208,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/19/black-history-month-2024-tribute-week-3/",
          "pubDate" : "Mon, 19 Feb 2024 13:46:29",
          "title" : "Black History Month 2024 Tribute: Week 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2892",
-         "pubDate" : "Mon, 19 Feb 2024 11:06:48",
-         "title" : "FIDE launches the ChessMom initiative"
       },
       {
          "description" : "",
@@ -840,22 +864,6 @@ news_feed (
          "link" : "https://aicf.in/national-amateur-2024/",
          "pubDate" : "Wed, 07 Feb 2024 14:21:21",
          "title" : "National Amateur 2024"
-      },
-      {
-         "description" : "GM Magnus Carlsen won Division I of the 2024 Champions Chess Tour Chessable Masters on Wednesday. GM Alireza Firouzja took the first set of the Grand Final, impressively winning the first two games in a row, but the world number-one struck back in...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-8-carlsen-wins",
-         "pubDate" : "Wed, 07 Feb 2024 11:25:00",
-         "title" : "Carlsen Wins 2024 Chessable Masters"
-      },
-      {
-         "description" : "GM Hikaru Nakamura continued his hot start to the year in Titled Tuesday on February 6, finishing third in the early tournament and winning the late tournament, his third win of 2024. The early event was won by Polish GM Kacper Piorun. Both he and...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/piorun-nakamura-win-titled-tuesday-february-6-2024",
-         "pubDate" : "Wed, 07 Feb 2024 09:03:00",
-         "title" : "Nakamura Extends Titled Cup Lead"
       },
       {
          "description" : " During this Black History Month 2024, The Chess Drum will present four videos featuring puzzles of several of the chess masters in the Black Diaspora. The videos will provide some historical information about each player and then one of the puzzles from a tournament game. Most of these puzzles were featured in one of the The post <a href=\"https://www.thechessdrum.net/blog/2024/02/06/black-history-month-2024-tribute-week-1/\">Black History Month 2024 Tribute: Week 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
