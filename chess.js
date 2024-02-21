@@ -10,6 +10,14 @@ news_feed (
          "title" : "Tal took that pawn? Analysis by GM Daniel King"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko talks about knowing your opponent's style and repertoire. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-scary-opponents-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h65mXo0jaCs.jpg?itok=Z9ApfnHE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/julians-scary-opponents-road-2000-nm-julian-proleiko",
+         "pubDate" : "Wed, 21 Feb 2024 00:40:24",
+         "title" : "Julian's Scary Opponents | Road to 2000 - NM Julian Proleiko"
+      },
+      {
          "description" : " One of the simple pleasures in life is finding a book that you know nothing about, and discovering it is quite a good read. I've had occasion to do this, usually when travelling, or simply out and about. The chess equivalent of this may well be finding a left behind scoresheet at a tournament or club. The game below is from one such scoresheet. To be fair, it was actually played on the board next to mine at the Gungahlin Chess Club yesterday evening, but if one of the players hadn't left it behind, then I doubt I would have remembered enough of the game to put it here. The game itself has a few points of interest. Before the game Matt Radisich was being encourage to play the Albin Counter G",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2024-preview",
          "pubDate" : "Tue, 20 Feb 2024 21:00:00",
          "title" : "The 2024 American Cup: Showcasing America's finest chess talents"
+      },
+      {
+         "description" : "Cleveland Guardians outfielder Steven Kwan stepped up to the challenge and earned locker-room bragging rights after taking out the first edition of SlugChamps on Tuesday. In a high-octane final against shortstop Daniel Schneemann, Kwan scored 2.5/...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/steven-kwan-wins-slugchamps-guardians-chess-club",
+         "pubDate" : "Tue, 20 Feb 2024 18:49:00",
+         "title" : "Kwan Knocks SlugChamps Out Of The Park"
       },
       {
          "description" : "On 19 February 2024 David Bronstein, one of the most creative players in the history of chess, who in 1951 missed the World Champion title by only a draw, would have celebrated his 100th birthday. Emil Sutovsky pays tribute to this outstanding grandmaster. | Photo: juegosdeajedrez.com",
@@ -474,22 +490,6 @@ news_feed (
          "title" : "Robby Kevlishvili's Game That I Like | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Originally from Road to 2000 class on YouTube. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/main-2-skills-chess-players-have-road-2000-nm-julian-proleiko-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xb8VJBgOMds.jpg?itok=eWHS2vrm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/main-2-skills-chess-players-have-road-2000-nm-julian-proleiko-shorts-chess",
-         "pubDate" : "Wed, 14 Feb 2024 00:27:40",
-         "title" : "The Main 2 Skills Chess Players Have | Road to 2000 - NM Julian Proleiko #Shorts #chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko looks at chess games from Dutch Grandmaster Robby Kevlishvili, who Julian will play in an upcoming tournament. 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robby-kevlishvilis-games-i-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9imkpfQgwgY.jpg?itok=8BGdliI8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/robby-kevlishvilis-games-i-road-2000-nm-julian-proleiko",
-         "pubDate" : "Tue, 13 Feb 2024 21:27:42",
-         "title" : "Robby Kevlishvili's Games That I Like | Road to 2000 - NM Julian Proleiko"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -856,14 +856,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/bcm1-why-i-created-beginner-chess-mastery/",
          "pubDate" : "Tue, 06 Feb 2024 14:06:00",
          "title" : "(BCM#1) Why I created Beginner Chess Mastery"
-      },
-      {
-         "description" : "Day seven of the 2024 Champions Chess Tour Chessable Masters saw the conclusions of Divisions II and III. Although both matches went to the second set, the younger players won in each division. GM Vincent Keymer defeated GM Levon Aronian in Divi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-7-keymer-sarana-win",
-         "pubDate" : "Tue, 06 Feb 2024 12:10:00",
-         "title" : "Youngsters Shine: Keymer Wins Division II, Sarana Takes Division III"
       },
       {
          "description" : "The ECU E-Magazine January 2024 is out! In this edition of the ECU Magazine you may read about: The January 2024 edition of the ECU Magazine can be read online together with interactive links, or it can be downloaded below.",
