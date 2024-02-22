@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Germans are still on the road to success in the Mitropa Cup, beating Hungary 3-1 in round 7 of the Open and the women's tournament. Both German teams defended their lead in both tournaments and in both tournaments Switzerland is their closest rival. | Photos: German Chess Federation / Frank Hoppe",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mitropa-cup-germany-continues-to-win",
+         "pubDate" : "Thu, 22 Feb 2024 12:20:52",
+         "title" : "Mitropa Cup: Germany continues to win"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2897",
+         "pubDate" : "Thu, 22 Feb 2024 12:18:15",
+         "title" : "Queens' Chess Festival 2024: Registration continues"
+      },
+      {
+         "description" : " The flipside to yesterday's post on Found Scoresheets, are lost scoresheets. Sometimes they legitimately disappear, but in some case, they are \"lost\" because looking at them is somewhat painful. As an example, the scoresheet for the game below was \"lost\" for a number of days. Having collected an undeserved point*, and generally unhappy with the course of the game, I couldn't locate the scoresheet the next day. To be honest, I didn't look terribly hard for it either, and assumed it had gone out with the rubbish. In fact it was where I normally put my scoresheets after a game (in my bag), but it took me a week to realise this. So here is a \"lost scoresheet\" game, with apologies to my opponent",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/lost-scoresheets.html",
+         "pubDate" : "Thu, 22 Feb 2024 12:12:00",
+         "title" : "Lost scoresheets"
+      },
+      {
+         "description" : "Magnus Carlsen was challenged, and he won what he called his \"dream tournament.\" The world number one rated player was crowned the winner of the inaugural Freestyle Chess G.O.A.T. Challenge on Friday afternoon at the closing ceremony, held in the playing hall half an hour after the last game had ended. After the players received their prizes, organizer and host Jan Henric Buettner (pictured) announced big plans for the future. | Picture: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-henric-buettner-my-dream-is-a-grand-slam-of-freestyle-chess-g-o-a-t-challenges-on-five-continents",
+         "pubDate" : "Thu, 22 Feb 2024 11:25:26",
+         "title" : "Jan Henric Buettner: \"My dream is a Grand Slam of Freestyle Chess G.O.A.T. Challenges on five continents\""
+      },
+      {
          "description" : "The road to Toronto for the 2024 Candidates Tournament is getting shorter and shorter. Some of the candidates were active in Wijk aan Zee. Thorsten Cmiel took a look at their games. Who is in good form and who is struggling? | Photos: Jurriaan Hoefsmit & Lennart Ootes - Tata Steel Chess Tournament 2024",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,14 +98,6 @@ news_feed (
          "title" : "Twitter King Now Titled Tuesday King"
       },
       {
-         "description" : "The 1959 Candidates Tournament saw an inspired Mikhail Tal emerging victorious with 20/28 points in a quadruple round-robin. On his way to victory, Tal, aged 22 at the time, defeated Bobby Fischer, aged 16, in all four of their confrontations. GM Daniel King analysed one of these games, where Tal fearlessly grabs material, allowing Fischer to create a dangerous attack. The game, along with Daniel King's voice-over, was featured in an animation produced by Umang Mankodiya.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tal-took-that-pawn-candidates-1959",
-         "pubDate" : "Wed, 21 Feb 2024 01:00:00",
-         "title" : "Tal took that pawn? Analysis by GM Daniel King"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko prepares for his opponents in an upcoming Grandmaster Norm tournament by looking at a game from every one of them, and how SCARY they are! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-scary-opponents-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h65mXo0jaCs.jpg?itok=Z9ApfnHE\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -88,14 +112,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/found-scoresheets.html",
          "pubDate" : "Tue, 20 Feb 2024 22:22:00",
          "title" : "Found scoresheets"
-      },
-      {
-         "description" : "The Saint Louis Chess Club is excited to announce the return of the American Cup, one of the nation's premier chess tournaments, to Saint Louis. Now in its third year, the event will run from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs - an increase from 2023 - the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-preview",
-         "pubDate" : "Tue, 20 Feb 2024 21:00:00",
-         "title" : "The 2024 American Cup: Showcasing America's finest chess talents"
       },
       {
          "description" : "Cleveland Guardians outfielder Steven Kwan stepped up to the challenge and earned locker-room bragging rights after taking out the first edition of SlugChamps on Tuesday. In a high-octane final against shortstop Daniel Schneemann, Kwan scored 2.5/...",
@@ -1056,14 +1072,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/sohum-lohia-in-wijk-aan-zee/",
          "pubDate" : "Thu, 01 Feb 2024 13:02:33",
          "title" : "Sohum Lohia in Wijk aan Zee"
-      },
-      {
-         "description" : " The FIDE Qualification Commission has decided to restrict the use of Scheveningen and Schiller format events for earning title norms. The full announcement can be found at <a href=\"https://fide.com/news/2869\">https://fide.com/news/2869</a> As the statement says, the motivation for this decision is mainly about what titles represent. Historically, chess titles were awarded (formally or informally) as a consequence of achievements in important and significant events. I* would like to think this should still be the case, recognising that the growth in chess has lead to a growth in the number of events that may fit this criteria. Nonetheless, I believe that there still should be standards appli",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/softly-softly.html",
-         "pubDate" : "Thu, 01 Feb 2024 12:26:00",
-         "title" : "Softly, softly"
       }
    ]
 }
