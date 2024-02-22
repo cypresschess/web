@@ -50,6 +50,22 @@ news_feed (
          "title" : "Jan Henric Buettner: \"My dream is a Grand Slam of Freestyle Chess G.O.A.T. Challenges on five continents\""
       },
       {
+         "description" : "The line-up for the 2024 Grand Chess Tour has been announced, with teenage GMs Gukesh Dommaraju (17), Praggnanandhaa Rameshbabu (18), and Nodirbek Abdusattorov (19) the three newcomers, replacing GMs Richard Rapport, Jan-Krzysztof Duda, and World ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-grand-chess-tour-gukesh-praggnanandhaa-abdusattorov",
+         "pubDate" : "Thu, 22 Feb 2024 11:23:00",
+         "title" : "Gukesh, Praggnanandhaa, Abdusattorov Join 2024 Grand Chess Tour"
+      },
+      {
+         "description" : "This is a flash report. The full article will be added to this page soon. GM Wesley So and IM Alice Lee advance to the Semifinals of the 2024 Team Chess Battle. On Thursday, they defeated GM Peter Leko and GM Pia Cramling 2-0, following up on ye...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-so-lee-win",
+         "pubDate" : "Thu, 22 Feb 2024 11:09:00",
+         "title" : "Flash Report: Team Wesley So & Alice Lee Kill With Kindness And Strong Chess"
+      },
+      {
          "description" : "The inaugural 2024 ChessKid National Festival, which took place over four days on President&#39;s Day weekend in Charlotte, North Carolina, was advertised as &#34;The Ultimate In-Person Chess Celebration.&#34; 431 kids participated in 11 possible tournament...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -778,22 +794,6 @@ news_feed (
          "title" : "Duchamp, Cage and Katabasis"
       },
       {
-         "description" : "GM Dommaraju Gukesh beat the GOAT, GM Magnus Carlsen, after whom the 2024 Freestyle Chess G.O.A.T. Challenge is named, as a new Chess960 super-tournament began in Germany. He also took down World Champion Ding Liren, who lost all four games, while...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-1",
-         "pubDate" : "Fri, 09 Feb 2024 15:19:00",
-         "title" : "Gukesh Beats Carlsen As Keymer Takes Early Freestyle Chess Lead"
-      },
-      {
-         "description" : "The inaugural ChessKid National Festival is only a week away, and some of the chess world&#39;s most famous names are getting ready to descend on Charlotte, North Carolina to join the festivities. Tickets for the ChessKid National Festival are still...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/botez-sisters-gothamchess-join-chesskid-national-festival",
-         "pubDate" : "Fri, 09 Feb 2024 13:22:00",
-         "title" : "Botez Sisters, GothamChess, & Other Chess Celebrities Join The ChessKid National Festival"
-      },
-      {
          "description" : " This years Lifeline Book Fair was absolutely packed. Even getting there early left me a long way back in the queue. Fortunately there was quite a large collection of chess books on offer, so I didn't miss out on the bargains. Somewhat shamefully I did by a book on the London System, but I made up for it by grabbing a copy of the Jan Timman classic \"The Art of Chess Analysis\". At first I thought I already owned a copy but it turns out that it was a significant omission from my library. I did grab a few other titles, and also was interviewed by ABC Radio while browsing. As the Book Fair runs until Sunday I will probably make the effort to return towards the end, to see what remains. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1000,14 +1000,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/feb/02/chess-wei-yi-wins-at-wijk-aan-zee-as-former-prodigy-emerges-from-shadows",
          "pubDate" : "Fri, 02 Feb 2024 08:00:44",
          "title" : "Chess: Wei Yi wins at Wijk aan Zee as former prodigy emerges from shadows"
-      },
-      {
-         "description" : "The post from earlier this week, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-ai-generator.html\">The AI Generator</A> (January 2024), was no.3700 on this blog, which means it's time for another 'Breaking the Barrier' post. In the previous post for the series, <A HREF=\"https://chessforallages.blogspot.com/2023/04/breaking-3600-barrier.html\">Breaking the 3600 Barrier</A> (April 2023), I wrote, <BLOCKQUOTE> Getting back to the 'CCRL Blitz Rating List' there are currently 17 engines rated over 3600. Based on that same list, it looks like we're already good for a 'Breaking 3700' post seven months (or so) from now, which should have at least two engines. </BLOCKQUOTE> <P> Make that ni",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/02/breaking-3700-barrier.html",
-         "pubDate" : "Thu, 01 Feb 2024 16:32:00",
-         "title" : "Breaking the 3700 Barrier"
       }
    ]
 }
