@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Unichess and Emmedi Sport ASD invite you to Sardinia World Chess Festival 2024. The inaugural edition of this festival is offering a total prize fund of €50100. The top three prizes are €10000, €6000 and €4000 each. There are three categories - Open A (>1999), Open B (<2000) and Open C (<1600). There are 15 main prizes in Open A and ten each in Open B and C. That's not all. Total 78 prizes are up for grabs. Entry is FREE for players rated above 2450. For everyone else, entry fee is €100 by 31st March €130 till 15th April after organizing committee agrees. Eleven players have 2600, 19 players above 2500, 17 GMs and 9 IMs have already confirmed participation from 15 countries acros",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/play-sardinia-world-chess-festival-2024-in-italy-s-strongest-tournament-ever-with-a-50100-prize-fund-2",
+         "pubDate" : "Thu, 22 Feb 2024 16:26:41",
+         "title" : "Play Sardinia World Chess Festival 2024 in Italy's strongest tournament ever with a €50100 prize fund"
+      },
+      {
+         "description" : "To All Office Bearers / State Associations, Greetings from AICF! Kindly send your nominations/names for the elections of 2024-2027 of AICF in consonance with the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/notice-aicf-election-on-10-03-2024/",
+         "pubDate" : "Thu, 22 Feb 2024 14:45:50",
+         "title" : "Notice :AICF Election on 10.03.2024"
+      },
+      {
          "description" : "The Germans are still on the road to success in the Mitropa Cup, beating Hungary 3-1 in round 7 of the Open and the women's tournament. Both German teams defended their lead in both tournaments and in both tournaments Switzerland is their closest rival. | Photos: German Chess Federation / Frank Hoppe",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/jan-henric-buettner-my-dream-is-a-grand-slam-of-freestyle-chess-g-o-a-t-challenges-on-five-continents",
          "pubDate" : "Thu, 22 Feb 2024 11:25:26",
          "title" : "Jan Henric Buettner: \"My dream is a Grand Slam of Freestyle Chess G.O.A.T. Challenges on five continents\""
+      },
+      {
+         "description" : "The inaugural 2024 ChessKid National Festival, which took place over four days on President&#39;s Day weekend in Charlotte, North Carolina, was advertised as &#34;The Ultimate In-Person Chess Celebration.&#34; 431 kids participated in 11 possible tournament...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesskid-national-festival-recap",
+         "pubDate" : "Thu, 22 Feb 2024 07:10:00",
+         "title" : "1st-Ever ChessKid National Festival Brings Together Kids And Creators"
       },
       {
          "description" : "The road to Toronto for the 2024 Candidates Tournament is getting shorter and shorter. Some of the candidates were active in Wijk aan Zee. Thorsten Cmiel took a look at their games. Who is in good form and who is struggling? | Photos: Jurriaan Hoefsmit & Lennart Ootes - Tata Steel Chess Tournament 2024",
@@ -71,15 +95,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-caruana-chirila-win",
          "pubDate" : "Wed, 21 Feb 2024 12:19:00",
-         "title" : "Caruana & Chirila's Chemistry Conquers Giri & Rensch"
-      },
-      {
-         "description" : "The 1st Dortmund International Chess Days will take place from 10 to 18 August 2024 at the Cultural Centre Alte Schmiede in Dortmund. Frederik Sane and Leon Mendonca have already confirmed their participation in the A-Open. Elisabeth P&auml;htz and Dinara Wagner will play a match to find out who is the number one in German women's chess. | (From left to right) Dirk Schaufelberger (CEO of Sparkasse Dortmund), Alexander Donchenko, Frederik Svane, Leon Luke Mendonca | Photo: Michelle Lassak",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sparkassen-chess-trophy-2024",
-         "pubDate" : "Wed, 21 Feb 2024 12:00:00",
-         "title" : "Sparkassen Chess Trophy 2024"
+         "title" : "Team C-Squared Neutralizes Novelty From Bickering Giri & Rensch"
       },
       {
          "description" : "Durres Albania 25th to 29th April, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players and accompanying",
@@ -234,12 +250,12 @@ news_feed (
          "title" : "FIDE Endorses ChessNoteR N6 & N9 devices"
       },
       {
-         "description" : "The 2nd Cambridge International Open Chess Tournament runs from today Monday 19th February to Saturday 24th February 2024 in Cambridge. This will be...",
+         "description" : "The 2nd Cambridge International Open Chess Tournament is running from&#160; Monday 19th February to Saturday 24th February 2024 in Cambridge. This is a nine round...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open-starts-today/",
          "pubDate" : "Mon, 19 Feb 2024 10:00:37",
-         "title" : "2nd Cambridge International Open starts today!"
+         "title" : "2nd Cambridge International Open now in progress!"
       },
       {
          "description" : "On Sunday, eight-year-old Ashwath Kaushik from Singapore smashed the record to become the youngest player ever to defeat a grandmaster in classical chess. Just a month prior Leonid Ivanovic from Serbia dethroned GM Awonder Liang to become the fi...",
@@ -802,14 +818,6 @@ news_feed (
          "title" : "Weissenhaus Freestyle Chess GOAT Challenge 2024 - Games and Results"
       },
       {
-         "description" : "The first event of the 2024 Champions Chess Tour, the 2024 Chessable Masters, is in the books, and plenty has happened in the tournament that lasted eight days. Some things aren&#39;t new, like the fact that GM Magnus Carlsen won again. But plenty i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/5-things-we-learned-2024-cct-chessable-masters",
-         "pubDate" : "Thu, 08 Feb 2024 20:58:00",
-         "title" : "5 Things We Learned - Chessable Masters 2024"
-      },
-      {
          "description" : "The previous 'On the Cover' post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/january-1974-1999-on-cover.html\">January 1974 & 1999 'On the Cover'</A> (January 2024), had several twists on the World Championships of 50 and 25 years ago. In the current post, we return to important events of national interest. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob08.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'EuroDisney and the World Rapids for Kids' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> James Tarjan, winner of the American Open in California. Carl Budd's story is [inside]. Photo by Paula Muller. </BLOCKQUOTE> <P> The Carl ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -914,14 +922,6 @@ news_feed (
          "title" : "Live Games Link for 12th National Schools Chess Championship 2024"
       },
       {
-         "description" : "Please find The results of the FA seminar at Tirupati from 19-21 Jan 2024",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/results-of-fa-seminar-at-tirupati-from-19-21-jan-2024/",
-         "pubDate" : "Tue, 06 Feb 2024 06:12:22",
-         "title" : "Results of FA seminar at Tirupati from 19-21 Jan 2024"
-      },
-      {
          "description" : "In the previous installment of our weekly chess comic series, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-ai-generator.html\">The AI Generator</A> (January 2024), we learned, <BLOCKQUOTE> The Wizard can use his patented AI techniques to generate animals, mainly foxes, who play chess. </BLOCKQUOTE> <P> This is the fifth installment of the series. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob05.jpg\" WIDTH= HEIGHT=> <P> The Wizard needs help for his chess activities, which mainly focus on support for the chess community -- local, regional, national, and international. He has an assistant, a much younger man, who lives in a cottage on the mansion grounds. The Wiz",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1008,70 +1008,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/02/breaking-3700-barrier.html",
          "pubDate" : "Thu, 01 Feb 2024 16:32:00",
          "title" : "Breaking the 3700 Barrier"
-      },
-      {
-         "description" : "The 2022/23 Chessable Grand Prix has now completed, covering events from August 2022 to July 2023 with all prize winners announced and all prizes awarded....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-grand-prix/",
-         "pubDate" : "Thu, 01 Feb 2024 15:45:54",
-         "title" : "ECF Grand Prix"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2871",
-         "pubDate" : "Thu, 01 Feb 2024 14:44:07",
-         "title" : "Tickets for the 2024 Candidates tournament go on sale"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2868",
-         "pubDate" : "Thu, 01 Feb 2024 14:39:44",
-         "title" : "Budapest gets ready for the 2024 Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2870",
-         "pubDate" : "Thu, 01 Feb 2024 14:39:21",
-         "title" : "20th International Solving Contest: Sharing the love for chess art"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2872",
-         "pubDate" : "Thu, 01 Feb 2024 13:46:42",
-         "title" : "FIDE February 2024 rating list: Wei Yi debuts in top 10 Open"
-      },
-      {
-         "description" : " In a very surprising move, chess24.com has begun the process of closing the domain despite a popular following for nearly 10 years. This has been part of an evolution and consolidation after the chess.com and PlayMagnus merger with a diverse portfolio of chess services which also included such brands as New in Chess and Chessable. The post <a href=\"https://www.thechessdrum.net/blog/2024/02/01/chess24-com-shuts-down/\">Chess24.com shuts down!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/02/01/chess24-com-shuts-down/",
-         "pubDate" : "Thu, 01 Feb 2024 13:23:10",
-         "title" : "Chess24.com shuts down!"
-      },
-      {
-         "description" : "The Board is pleased to announce the appointment of Keith Gregory as the new Chair of the ECF Awards committee. Keith is recently retired after...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-awards-committee-new-chair/",
-         "pubDate" : "Thu, 01 Feb 2024 13:09:53",
-         "title" : "ECF Awards Committee - new Chair"
-      },
-      {
-         "description" : "Sohum Lohia won his tournament in Wijk aan Zee, which means he has qualified for the Qualifiers tournament at Tata Steel next year. This tournament...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/sohum-lohia-in-wijk-aan-zee/",
-         "pubDate" : "Thu, 01 Feb 2024 13:02:33",
-         "title" : "Sohum Lohia in Wijk aan Zee"
       }
    ]
 }
