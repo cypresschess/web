@@ -1,4 +1,5 @@
 jtable([
+"LEAGUE CITY","2024-02-07  - 02-21","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402213442 target='_blank'>CLCC FEBRUARY WEDNESDAYS</a>",
 "HOUSTON","2024-02-18","5","<a href=http://www.uschess.org/msa/XtblMain.php?202402181762 target='_blank'>SUNDAY SWISS - FEB 18 2024 - AT 1PM</a>",
 "SUGAR LAND","2024-02-18","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402181572 target='_blank'>CYGA02182024</a>",
 "KINGWOOD","2024-02-17","14","<a href=http://www.uschess.org/msa/XtblMain.php?202402172662 target='_blank'>KINGWOOD BLITZ 17 FEB 24</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-08-04  - 08-06","46","<a href=http://www.uschess.org/msa/XtblMain.php?202308060152 target='_blank'>$2500AUGUSTCHAMPIONSHIP</a>",
 "HOUSTON","2023-08-05","5","<a href=http://www.uschess.org/msa/XtblMain.php?202308059362 target='_blank'>CHESSPANDA08052023SATURDAY</a>",
 "SPRING","2023-08-04","28","<a href=http://www.uschess.org/msa/XtblMain.php?202308049342 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2023-08-04","32","<a href=http://www.uschess.org/msa/XtblMain.php?202308049152 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
