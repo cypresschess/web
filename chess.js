@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The road to Toronto for the 2024 Candidates Tournament is getting shorter and shorter. Some of the candidates were active in Wijk aan Zee. Thorsten Cmiel took a look at their games. Who is in good form and who is struggling? | Photos: Jurriaan Hoefsmit & Lennart Ootes - Tata Steel Chess Tournament 2024",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/on-the-way-to-toronto-wijk-aan-zee",
+         "pubDate" : "Wed, 21 Feb 2024 23:35:00",
+         "title" : "On the way to Toronto: Candidates' performances in Wijk aan Zee"
+      },
+      {
          "description" : "The extensive supporting programme of the Freestyle tournament in Weissenhaus also included boxing training for the players and anyone interested. The training took place under the guidance of Denno Probst and his team from Chessboxing Cologne. Fabiano Caruana was not the only one to have fun. | Photos: Chessboxing Cologne",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Mitropa Cup: Both German teams in the lead"
       },
       {
-         "description" : "This is a flash report. The full article will be added to this page soon. GM Fabiano Caruana and GM Cristian Chirila cut the proverbial opening ribbon of the inaugural 2024 Team Chess Battle by beating&#38;nbsp;GM Anish Giri and IM Danny Rensch with...",
+         "description" : "GM Fabiano Caruana and GM Cristian Chirila cut the proverbial opening ribbon of the inaugural 2024 Team Chess Battle by beating&#38;nbsp;GM Anish Giri and IM Danny Rensch with a 2-0 score.&#38;nbsp; After losing game one while trash-talking his own team...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-caruana-chirila-win",
-         "pubDate" : "Wed, 21 Feb 2024 12:19:46",
-         "title" : "Flash Report: Caruana & Chirila's Chemistry Squares Away Giri & Rensch"
+         "pubDate" : "Wed, 21 Feb 2024 12:19:00",
+         "title" : "Caruana & Chirila's Chemistry Conquers Giri & Rensch"
       },
       {
          "description" : "The 1st Dortmund International Chess Days will take place from 10 to 18 August 2024 at the Cultural Centre Alte Schmiede in Dortmund. Frederik Sane and Leon Mendonca have already confirmed their participation in the A-Open. Elisabeth P&auml;htz and Dinara Wagner will play a match to find out who is the number one in German women's chess. | (From left to right) Dirk Schaufelberger (CEO of Sparkasse Dortmund), Alexander Donchenko, Frederik Svane, Leon Luke Mendonca | Photo: Michelle Lassak",
@@ -66,7 +74,7 @@ news_feed (
          "title" : "Tal took that pawn? Analysis by GM Daniel King"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko talks about knowing your opponent's style and repertoire. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-scary-opponents-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h65mXo0jaCs.jpg?itok=Z9ApfnHE\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko prepares for his opponents in an upcoming Grandmaster Norm tournament by looking at a game from every one of them, and how SCARY they are! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-scary-opponents-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h65mXo0jaCs.jpg?itok=Z9ApfnHE\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/julians-scary-opponents-road-2000-nm-julian-proleiko",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/steven-kwan-wins-slugchamps-guardians-chess-club",
          "pubDate" : "Tue, 20 Feb 2024 18:49:00",
          "title" : "Kwan Knocks SlugChamps Out Of The Park"
-      },
-      {
-         "description" : "On 19 February 2024 David Bronstein, one of the most creative players in the history of chess, who in 1951 missed the World Champion title by only a draw, would have celebrated his 100th birthday. Emil Sutovsky pays tribute to this outstanding grandmaster. | Photo: juegosdeajedrez.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-memory-of-david-bronstein-on-the-100th-anniversary-of-his-birth",
-         "pubDate" : "Tue, 20 Feb 2024 17:00:00",
-         "title" : "In memory of David Bronstein on the 100th anniversary of his birth"
       },
       {
          "description" : "Two British Championships on the trot for David Hodge.&#160; Chess solving Championships, that is.&#160; He was the winner at last year's Winton British Chess Solving...",
