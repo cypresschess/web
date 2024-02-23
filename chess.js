@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Around the turn of the century, there was worldwide interest regarding chess confrontations between humans and computers. One of the last top-notch events featuring such a battle was seen in 2005, when three strong grandmasters played a match against three of the best engines in the world. In the end, Hydra, Junior and Fritz defeated Alexander Khalifman, Ruslan Ponomariov and Rustam Kasimdzhanov by an 8-4 score. The match took place in Bilbao, and saw Ponomariov beating Fritz in a memorable encounter.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/throwback-thursday-man-machine-bilbao-2005",
+         "pubDate" : "Thu, 22 Feb 2024 21:50:00",
+         "title" : "Throwback Thursday: Man v. Machine in Bilbao (2005)"
+      },
+      {
          "description" : "Unichess and Emmedi Sport ASD invite you to Sardinia World Chess Festival 2024. The inaugural edition of this festival is offering a total prize fund of €50100. The top three prizes are €10000, €6000 and €4000 each. There are three categories - Open A (>1999), Open B (<2000) and Open C (<1600). There are 15 main prizes in Open A and ten each in Open B and C. That's not all. Total 78 prizes are up for grabs. Entry is FREE for players rated above 2450. For everyone else, entry fee is €100 by 31st March €130 till 15th April after organizing committee agrees. Eleven players have 2600, 19 players above 2500, 17 GMs and 9 IMs have already confirmed participation from 15 countries acros",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,12 +66,12 @@ news_feed (
          "title" : "Gukesh, Praggnanandhaa, Abdusattorov Join 2024 Grand Chess Tour"
       },
       {
-         "description" : "This is a flash report. The full article will be added to this page soon. GM Wesley So and IM Alice Lee advance to the Semifinals of the 2024 Team Chess Battle. On Thursday, they defeated GM Peter Leko and GM Pia Cramling 2-0, following up on ye...",
+         "description" : "GM Wesley So and IM Alice Lee advance to the Semifinals of the 2024 Team Chess Battle. On Thursday, they defeated GM Peter Leko and GM Pia Cramling 2-0, following up on yesterday&#39;s sweep with another. Even the seeds of trash talk bloomed into co...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-so-lee-win",
          "pubDate" : "Thu, 22 Feb 2024 11:09:00",
-         "title" : "Flash Report: Team Wesley So & Alice Lee Kill With Kindness And Strong Chess"
+         "title" : "Team Wesley So & Alice Lee Kill With Kindness In Quarterfinals"
       },
       {
          "description" : "The inaugural 2024 ChessKid National Festival, which took place over four days on President&#39;s Day weekend in Charlotte, North Carolina, was advertised as &#34;The Ultimate In-Person Chess Celebration.&#34; 431 kids participated in 11 possible tournament...",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2896",
          "pubDate" : "Wed, 21 Feb 2024 16:51:38",
          "title" : "List of Open Tournaments to receive FIDE Aid Packages 2024"
-      },
-      {
-         "description" : "The German teams continue to dominate the Mitropa Cup in Apolda, Germany. In round 6 both German teams won against France, and with this win Germany defended its lead in the Open while the women's team took the sole lead. | Photos: German Chess Federation/Frank Hoppe",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mitropa-cup-both-german-teams-in-the-lead",
-         "pubDate" : "Wed, 21 Feb 2024 13:39:39",
-         "title" : "Mitropa Cup: Both German teams in the lead"
       },
       {
          "description" : "GM Fabiano Caruana and GM Cristian Chirila cut the proverbial opening ribbon of the inaugural 2024 Team Chess Battle by beating&#38;nbsp;GM Anish Giri and IM Danny Rensch with a 2-0 score.&#38;nbsp; After losing game one while trash-talking his own team...",
