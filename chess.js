@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev shows typical attacks in the Italian opening and ideas in the 1.e4 e5 pawn structure. 2024.02.22<br /> Jiabao Zhang vs. Maxim Litvinov, ???: C53 Giuoco Piano<br /> Fabricio Mercado-Diaz vs. Eshaan Hebbar, ???: C53 Giuoco Piano </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/win-italian-game-prepare-pro-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_fiel",
+         "description" : " The world No 1's impressive victory last week has put the random chess variant into the spotlight and its billionaire organiser plans to expand into all five continents next year After the success of last week's Freestyle Chess event where the world No 1, Magnus Carlsen, defeated the world No 2, Fabiano Caruana, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2662846T\">in the final</a>, its billionaire organiser, Jan Buettner, who made his fortune from AOL Europe, has stepped up his interest further. Buettner adopted a hands-on personal approach to the all-star event and his enthusiasm and involvement shone <a href=\"https://www.youtube.com/watch?v=KxqVl_ZbT0w\">in an interview</a> he ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/feb/23/freestyle-chess-plans-2025-global-tour-for-carlsen-and-the-worlds-top-players",
+         "pubDate" : "Fri, 23 Feb 2024 08:00:42",
+         "title" : "Freestyle Chess plans 2025 global Tour for Carlsen and the world's top players"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev shows typical attacks in the Italian opening and ideas in the 1.e4 e5 pawn structure. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/win-italian-game-prepare-pro-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p4nPEpXldAM.jpg?itok=w7Nb4CD3\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/win-italian-game-prepare-pro-gm-vladimir-georgiev",
@@ -992,14 +1000,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2024/",
          "pubDate" : "Fri, 02 Feb 2024 09:21:47",
          "title" : "British Chess Educational Trust Awards 2024"
-      },
-      {
-         "description" : " The 24-year-old was a grandmaster at 13 and the youngest ever 2700-rated player at 15, now he has jumped into the world top 10 with a chance to aim for the ultimate peak China's Wei Yi, 24, captured first prize last weekend in a competitive field at Tata Steel Wijk aan Zee, the annual Netherlands tournament known as the \"chess Wimbledon\" due to its ­consistent strength over many decades. Wijk, formerly ­Beverwijk, began in a small way in 1938 and still serves pea soup at its closing ­dinner in memory of its early hungry ­wartime years. At age 13, Wei was already a grandmaster. At 15, he was, and still is, the youngest in chess history to achieve an elite GM 2700 rating. Then he ­plateaued a",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/feb/02/chess-wei-yi-wins-at-wijk-aan-zee-as-former-prodigy-emerges-from-shadows",
-         "pubDate" : "Fri, 02 Feb 2024 08:00:44",
-         "title" : "Chess: Wei Yi wins at Wijk aan Zee as former prodigy emerges from shadows"
       }
    ]
 }
