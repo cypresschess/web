@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As expected after the penultimate round, the German teams obtained a double victory at the Mitropa Cup and the Women's Mitropa Cup. Germany competed with almost all of their best players and had a successful dress rehearsal for the upcoming Chess Olympiad in Budapest in September. | Photos: Frank Hoppe, Katharina Reinecke (German Chess Federation)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mitropa-cup-2024-germany-double-gold",
+         "pubDate" : "Fri, 23 Feb 2024 21:10:00",
+         "title" : "Double gold for Germany at the Mitropa Cup"
+      },
+      {
+         "description" : "This week GM Daniel King analyses a few adventurous positions reached at the Freestyle G.O.A.T. Challenge in Germany, as he found a particular theme that kept appearing! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-freestyling-fischer-random",
+         "pubDate" : "Fri, 23 Feb 2024 19:00:00",
+         "title" : "Daniel King's Power Play Show: Freestyling Fischer Random"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a chess move when your intuition says to &quot;go for it.&quot; 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-does-your-chess-intuition-say-grandmasters-choice-wgm-thalia-cervantes-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TVaC2W7PEMY.jpg?itok=9REiJ2u6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/what-does-your-chess-intuition-say-grandmasters-choice-wgm-thalia-cervantes-chess",
+         "pubDate" : "Fri, 23 Feb 2024 18:54:10",
+         "title" : "What Does Your Chess Intuition Say? | Grandmaster's Choice - WGM Thalia Cervantes #chess"
+      },
+      {
+         "description" : "The Cuban Championships, open and women's, took place on February 5-17 in two different parts of the Caribbean island: Holgu&iacute;n and Pinar del R&iacute;o, respectively. Both events were decided on tiebreakers, with Ernesto Quesada and Lisandra Ordaz emerging victorious.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cuban-championships-2024-report",
+         "pubDate" : "Fri, 23 Feb 2024 18:00:00",
+         "title" : "Cuban Championships: Ernesto Quesada and Lisandra Ordaz victorious"
+      },
+      {
          "description" : "The Grand Chess Tour announced today the players selected to compete in the full 2024 tour. Joining the likes of Fabiano Caruana, Wesley So and Maxime Vachier-Lagrave are three rising stars who had not been 'regulars' in the tour previously: Gukesh D (pictured), Praggnanandhaa R and Nodirbek Abdusattorov. The first event of the series kicks off on May 6 in Warsaw, Poland. | Photo: Grand Chess Tour",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grand-chess-tour-2024-lineup",
          "pubDate" : "Fri, 23 Feb 2024 16:30:00",
          "title" : "GCT 2024: Gukesh, Pragg and Abdusattorov full tour participants"
+      },
+      {
+         "description" : "Around the turn of the century, there was worldwide interest regarding chess confrontations between humans and computers. One of the last top-notch events featuring such a battle was seen in 2005, when three strong grandmasters played a match against three of the best engines in the world. In the end, Hydra, Junior and Fritz defeated Alexander Khalifman, Ruslan Ponomariov and Rustam Kasimdzhanov by an 8-4 score. The match took place in Bilbao, and saw Ponomariov beating Fritz in a memorable encounter.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/throwback-thursday-man-machine-bilbao-2005",
+         "pubDate" : "Fri, 23 Feb 2024 11:00:00",
+         "title" : "Throwback Thursday: Man v. Machine in Bilbao (2005)"
       },
       {
          "description" : "In his new Game of the Week show, Merijn van Delft turns his attention to the Mitropa Cup and looks at a fine attacking game won by German Grandmaster Matthias Bluebaum against Swiss Grandmaster Nico Georgiadis. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
@@ -42,36 +82,12 @@ news_feed (
          "title" : "Win With The Italian Game! | Prepare Like A Pro - GM Vladimir Georgiev"
       },
       {
-         "description" : "Around the turn of the century, there was worldwide interest regarding chess confrontations between humans and computers. One of the last top-notch events featuring such a battle was seen in 2005, when three strong grandmasters played a match against three of the best engines in the world. In the end, Hydra, Junior and Fritz defeated Alexander Khalifman, Ruslan Ponomariov and Rustam Kasimdzhanov by an 8-4 score. The match took place in Bilbao, and saw Ponomariov beating Fritz in a memorable encounter.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/throwback-thursday-man-machine-bilbao-2005",
-         "pubDate" : "Thu, 22 Feb 2024 21:50:00",
-         "title" : "Throwback Thursday: Man v. Machine in Bilbao (2005)"
-      },
-      {
-         "description" : "Unichess and Emmedi Sport ASD invite you to Sardinia World Chess Festival 2024. The inaugural edition of this festival is offering a total prize fund of €50100. The top three prizes are €10000, €6000 and €4000 each. There are three categories - Open A (>1999), Open B (<2000) and Open C (<1600). There are 15 main prizes in Open A and ten each in Open B and C. That's not all. Total 78 prizes are up for grabs. Entry is FREE for players rated above 2450. For everyone else, entry fee is €100 by 31st March €130 till 15th April after organizing committee agrees. Eleven players have 2600, 19 players above 2500, 17 GMs and 9 IMs have already confirmed participation from 15 countries acros",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/play-sardinia-world-chess-festival-2024-in-italy-s-strongest-tournament-ever-with-a-50100-prize-fund-2",
-         "pubDate" : "Thu, 22 Feb 2024 16:26:41",
-         "title" : "Play Sardinia World Chess Festival 2024 in Italy's strongest tournament ever with a €50100 prize fund"
-      },
-      {
          "description" : "To All Office Bearers / State Associations, Greetings from AICF! Kindly send your nominations/names for the elections of 2024-2027 of AICF in consonance with the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/notice-aicf-election-on-10-03-2024/",
          "pubDate" : "Thu, 22 Feb 2024 14:45:50",
          "title" : "Notice :AICF Election on 10.03.2024"
-      },
-      {
-         "description" : "The Germans are still on the road to success in the Mitropa Cup, beating Hungary 3-1 in round 7 of the Open and the women's tournament. Both German teams defended their lead in both tournaments and in both tournaments Switzerland is their closest rival. | Photos: German Chess Federation / Frank Hoppe",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mitropa-cup-germany-continues-to-win",
-         "pubDate" : "Thu, 22 Feb 2024 12:20:52",
-         "title" : "Mitropa Cup: Germany continues to win"
       },
       {
          "description" : "",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/lost-scoresheets.html",
          "pubDate" : "Thu, 22 Feb 2024 12:12:00",
          "title" : "Lost scoresheets"
-      },
-      {
-         "description" : "Magnus Carlsen was challenged, and he won what he called his \"dream tournament.\" The world number one rated player was crowned the winner of the inaugural Freestyle Chess G.O.A.T. Challenge on Friday afternoon at the closing ceremony, held in the playing hall half an hour after the last game had ended. After the players received their prizes, organizer and host Jan Henric Buettner (pictured) announced big plans for the future. | Picture: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-henric-buettner-my-dream-is-a-grand-slam-of-freestyle-chess-g-o-a-t-challenges-on-five-continents",
-         "pubDate" : "Thu, 22 Feb 2024 11:25:26",
-         "title" : "Jan Henric Buettner: \"My dream is a Grand Slam of Freestyle Chess G.O.A.T. Challenges on five continents\""
       },
       {
          "description" : "The line-up for the 2024 Grand Chess Tour has been announced, with teenage GMs Gukesh Dommaraju (17), Praggnanandhaa Rameshbabu (18), and Nodirbek Abdusattorov (19) the three newcomers, replacing GMs Richard Rapport, Jan-Krzysztof Duda, and World ...",
@@ -584,14 +592,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/reality-playing-kasparov-grandmasters-choice-wgm-thalia-cervantes-shorts-chess",
          "pubDate" : "Wed, 14 Feb 2024 06:28:26",
          "title" : "Reality of Playing Like Kasparov | Grandmaster's Choice - WGM Thalia Cervantes #Shorts #chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes shows two examples of targeting your opponent&#039;s king, while all of their pieces reside elsewhere. 2024.02.13<br /> Thalia Cervantes vs. Pedro Tabuenca, 2023: A53 Old Indian defence<br /> Louis Paulsen vs Paul Morphy, 1st American Chess Congress, New York (1857)<br /> <a href=\"https://www.chessgames.com/perl/chessgame?gid=1242884\">https://www.chessgames.com/perl/chessgame?gid=1242884</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a hre",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/punish-your-opponents-bad-development-grandmasters-choice-wgm-thalia-cervantes",
-         "pubDate" : "Wed, 14 Feb 2024 03:28:14",
-         "title" : "Punish Your Opponent's Bad Development! | Grandmaster's Choice - WGM Thalia Cervantes"
       },
       {
          "description" : "",
