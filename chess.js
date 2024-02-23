@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour announced today the players selected to compete in the full 2024 tour. Joining the likes of Fabiano Caruana, Wesley So and Maxime Vachier-Lagrave are three rising stars who had not been 'regulars' in the tour previously: Gukesh D (pictured), Praggnanandhaa R and Nodirbek Abdusattorov. The first event of the series kicks off on May 6 in Warsaw, Poland. | Photo: Grand Chess Tour",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-2024-lineup",
+         "pubDate" : "Fri, 23 Feb 2024 16:30:00",
+         "title" : "GCT 2024: Gukesh, Pragg and Abdusattorov full tour participants"
+      },
+      {
          "description" : "In his new Game of the Week show, Merijn van Delft turns his attention to the Mitropa Cup and looks at a fine attacking game won by German Grandmaster Matthias Bluebaum against Swiss Grandmaster Nico Georgiadis. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chesskid-national-festival-recap",
          "pubDate" : "Thu, 22 Feb 2024 07:10:00",
          "title" : "1st-Ever ChessKid National Festival Brings Together Kids And Creators"
-      },
-      {
-         "description" : "The road to Toronto for the 2024 Candidates Tournament is getting shorter and shorter. Some of the candidates were active in Wijk aan Zee. Thorsten Cmiel took a look at their games. Who is in good form and who is struggling? | Photos: Jurriaan Hoefsmit & Lennart Ootes - Tata Steel Chess Tournament 2024",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/on-the-way-to-toronto-wijk-aan-zee",
-         "pubDate" : "Wed, 21 Feb 2024 23:35:00",
-         "title" : "On the way to Toronto: Candidates' performances in Wijk aan Zee"
       },
       {
          "description" : "",
