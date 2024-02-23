@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev shows typical attacks in the Italian opening and ideas in the 1.e4 e5 pawn structure. 2024.02.22<br /> Jiabao Zhang vs. Maxim Litvinov, ???: C53 Giuoco Piano<br /> Fabricio Mercado-Diaz vs. Eshaan Hebbar, ???: C53 Giuoco Piano </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/win-italian-game-prepare-pro-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/win-italian-game-prepare-pro-gm-vladimir-georgiev",
+         "pubDate" : "Fri, 23 Feb 2024 00:51:04",
+         "title" : "Win With The Italian Game! | Prepare Like A Pro - GM Vladimir Georgiev"
+      },
+      {
          "description" : "Around the turn of the century, there was worldwide interest regarding chess confrontations between humans and computers. One of the last top-notch events featuring such a battle was seen in 2005, when three strong grandmasters played a match against three of the best engines in the world. In the end, Hydra, Junior and Fritz defeated Alexander Khalifman, Ruslan Ponomariov and Rustam Kasimdzhanov by an 8-4 score. The match took place in Bilbao, and saw Ponomariov beating Fritz in a memorable encounter.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -568,14 +576,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/punish-your-opponents-bad-development-grandmasters-choice-wgm-thalia-cervantes",
          "pubDate" : "Wed, 14 Feb 2024 03:28:14",
          "title" : "Punish Your Opponent's Bad Development! | Grandmaster's Choice - WGM Thalia Cervantes"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko looks at a chess game from Dutch Grandmaster Robby Kevlishvili, who Julian will play in an upcoming tournament. 2024.02.13<br /> Robby Kevlishvili vs. Mark Heimann, 2023: C67 Ruy Lopez, Berlin defence, open variation<br /> <a href=\"https://www.365chess.com/game.php?gid=4444559\">https://www.365chess.com/game.php?gid=4444559</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/robby-kevlishvilis-game-i-road-2000-nm-julian-proleiko\"><img",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/robby-kevlishvilis-game-i-road-2000-nm-julian-proleiko",
-         "pubDate" : "Wed, 14 Feb 2024 03:28:14",
-         "title" : "Robby Kevlishvili's Game That I Like | Road to 2000 - NM Julian Proleiko"
       },
       {
          "description" : "",
