@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his new Game of the Week show, Merijn van Delft turns his attention to the Mitropa Cup and looks at a fine attacking game won by German Grandmaster Matthias Bluebaum against Swiss Grandmaster Nico Georgiadis. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-week-607-m-bluebaum-vs-n-georgiadis",
+         "pubDate" : "Fri, 23 Feb 2024 10:55:25",
+         "title" : "Game of the Week #607: M. Bluebaum vs N. Georgiadis"
+      },
+      {
+         "description" : "The ECF is accepting registrations for the European Youth Chess Championship in Prague (Czech Republic). The Rapid and Blitz tournaments run from 16 August ...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/european-youth-chess-championships-2024/",
+         "pubDate" : "Fri, 23 Feb 2024 09:15:17",
+         "title" : "European Youth Chess Championships 2024"
+      },
+      {
          "description" : " The world No 1's impressive victory last week has put the random chess variant into the spotlight and its billionaire organiser plans to expand into all five continents next year After the success of last week's Freestyle Chess event where the world No 1, Magnus Carlsen, defeated the world No 2, Fabiano Caruana, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2662846T\">in the final</a>, its billionaire organiser, Jan Buettner, who made his fortune from AOL Europe, has stepped up his interest further. Buettner adopted a hands-on personal approach to the all-star event and his enthusiasm and involvement shone <a href=\"https://www.youtube.com/watch?v=KxqVl_ZbT0w\">in an interview</a> he ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/on-the-way-to-toronto-wijk-aan-zee",
          "pubDate" : "Wed, 21 Feb 2024 23:35:00",
          "title" : "On the way to Toronto: Candidates' performances in Wijk aan Zee"
-      },
-      {
-         "description" : "The extensive supporting programme of the Freestyle tournament in Weissenhaus also included boxing training for the players and anyone interested. The training took place under the guidance of Denno Probst and his team from Chessboxing Cologne. Fabiano Caruana was not the only one to have fun. | Photos: Chessboxing Cologne",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/boxing-training-for-freestyle-stars",
-         "pubDate" : "Wed, 21 Feb 2024 18:00:00",
-         "title" : "Boxing training for Freestyle stars"
       },
       {
          "description" : "",
@@ -992,14 +1000,6 @@ news_feed (
          "link" : "https://www.thearticle.com/imperious-chessmen/",
          "pubDate" : "Sat, 03 Feb 2024 07:53:08",
          "title" : "Imperious chessmen"
-      },
-      {
-         "description" : "The Chess Trust is inviting nominations for the BCET Awards 2024 which are for junior schools (including colleges and other education establishments) and junior clubs...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2024/",
-         "pubDate" : "Fri, 02 Feb 2024 09:21:47",
-         "title" : "British Chess Educational Trust Awards 2024"
       }
    ]
 }
