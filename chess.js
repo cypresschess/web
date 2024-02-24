@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Transgenderism, especially amongst teenagers, is one of the great causes c&eacute;lêbres of our times. Both Rishi Sunak and Sir Keir Starmer found themselves in hot water over this issue during Prime Minister's questions earlier this month. The mother of a murdered transgender teenager was present in the House of Commons, while Rishi was busy insulting Sir Keir about his inability to []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/pawns-are-transgender-deon-and-philidor/",
+         "pubDate" : "Sat, 24 Feb 2024 11:15:46",
+         "title" : "Pawns are transgender: d'Éon and Philidor"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2898",
+         "pubDate" : "Sat, 24 Feb 2024 10:57:14",
+         "title" : "Mitropa Cup 2024: Germany wins double gold"
+      },
+      {
+         "description" : "The Kasparov Chess Foundation Academy invites you to watch an interview with grandmaster Elisabeth Paehtz, one of the strongest German female chess players since her youth. On February 25, 17:00 CET, Elisabeth will give a live interview at KCF Academy. Add it to your calendar!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-interview-on-kasparov-chess-foundation",
+         "pubDate" : "Sat, 24 Feb 2024 10:00:00",
+         "title" : "Elisabeth Paehtz interview on Kasparov Chess Foundation"
+      },
+      {
+         "description" : "The 2024 Mitropa Cup took place from 15-23 February in Apolda, Germany, with the participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. Germany emerged as the Winner of both Open and Women's sections, winning a historical double gold. Scoring perfect 18 match points, German team convincingly won the Open event with a round to spare. The Winning team competed in the following composition: Switzerland clinched silver with the score of 14 match []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/germany-wins-double-gold-at-the-mitropa-cup-2024/",
+         "pubDate" : "Sat, 24 Feb 2024 09:58:12",
+         "title" : "Germany wins double gold at the Mitropa Cup 2024"
+      },
+      {
          "description" : "In the diagram position, the white king will soon bite the queenside dust - somehow no wonder with the Bf5 controlling the b1-square. What would you do with Black?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/what-does-your-chess-intuition-say-grandmasters-choice-wgm-thalia-cervantes-chess",
          "pubDate" : "Fri, 23 Feb 2024 18:54:10",
          "title" : "What Does Your Chess Intuition Say? | Grandmaster's Choice - WGM Thalia Cervantes #chess"
-      },
-      {
-         "description" : "The Cuban Championships, open and women's, took place on February 5-17 in two different parts of the Caribbean island: Holgu&iacute;n and Pinar del R&iacute;o, respectively. Both events were decided on tiebreakers, with Ernesto Quesada and Lisandra Ordaz emerging victorious.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cuban-championships-2024-report",
-         "pubDate" : "Fri, 23 Feb 2024 18:00:00",
-         "title" : "Cuban Championships: Ernesto Quesada and Lisandra Ordaz victorious"
       },
       {
          "description" : "The Grand Chess Tour announced today the players selected to compete in the full 2024 tour. Joining the likes of Fabiano Caruana, Wesley So and Maxime Vachier-Lagrave are three rising stars who had not been 'regulars' in the tour previously: Gukesh D (pictured), Praggnanandhaa R and Nodirbek Abdusattorov. The first event of the series kicks off on May 6 in Warsaw, Poland. | Photo: Grand Chess Tour",
