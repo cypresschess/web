@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the diagram position, the white king will soon bite the queenside dust - somehow no wonder with the Bf5 controlling the b1-square. What would you do with Black?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/castling-queenside-be-careful",
+         "pubDate" : "Sat, 24 Feb 2024 09:00:00",
+         "title" : "Castling queenside? Be careful!"
+      },
+      {
+         "description" : "The fourth edition of the Djerba Chess Festival is taking place on February 17-25 on the island of Djerba in Tunisia. Situated on the south-east coast of Tunisia, Djerba is a small, flat island at only 54 metres above sea level. The main event is the Masters, an 8-player single round-robin. After five rounds, Hans Niemann and Daniel Dardha (pictured) are sharing the lead. | All photos by Diana Mihajlova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/djerba-festival-2024-r5",
+         "pubDate" : "Sat, 24 Feb 2024 07:00:00",
+         "title" : "Djerba Chess Festival: Niemann and Dardha share the lead"
+      },
+      {
          "description" : "As expected after the penultimate round, the German teams obtained a double victory at the Mitropa Cup and the Women's Mitropa Cup. Germany competed with almost all of their best players and had a successful dress rehearsal for the upcoming Chess Olympiad in Budapest in September. | Photos: Frank Hoppe, Katharina Reinecke (German Chess Federation)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,22 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-chess-tour-2024-lineup",
          "pubDate" : "Fri, 23 Feb 2024 16:30:00",
          "title" : "GCT 2024: Gukesh, Pragg and Abdusattorov full tour participants"
-      },
-      {
-         "description" : "Around the turn of the century, there was worldwide interest regarding chess confrontations between humans and computers. One of the last top-notch events featuring such a battle was seen in 2005, when three strong grandmasters played a match against three of the best engines in the world. In the end, Hydra, Junior and Fritz defeated Alexander Khalifman, Ruslan Ponomariov and Rustam Kasimdzhanov by an 8-4 score. The match took place in Bilbao, and saw Ponomariov beating Fritz in a memorable encounter.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/throwback-thursday-man-machine-bilbao-2005",
-         "pubDate" : "Fri, 23 Feb 2024 11:00:00",
-         "title" : "Throwback Thursday: Man v. Machine in Bilbao (2005)"
-      },
-      {
-         "description" : "In his new Game of the Week show, Merijn van Delft turns his attention to the Mitropa Cup and looks at a fine attacking game won by German Grandmaster Matthias Bluebaum against Swiss Grandmaster Nico Georgiadis. | Merijn's show is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-week-607-m-bluebaum-vs-n-georgiadis",
-         "pubDate" : "Fri, 23 Feb 2024 10:55:25",
-         "title" : "Game of the Week #607: M. Bluebaum vs N. Georgiadis"
       },
       {
          "description" : "The ECF is accepting registrations for the European Youth Chess Championship in Prague (Czech Republic). The Rapid and Blitz tournaments run from 16 August ...",
@@ -992,14 +992,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/i-thought-we-were-good.html",
          "pubDate" : "Sat, 03 Feb 2024 12:57:00",
          "title" : "I thought we were good"
-      },
-      {
-         "description" : "It seems that there is a modern fashion for omitting the best lines from stage presentations of the great English classics. Thus my favourite line in Marlowe - \"Egregious viceroys of these Eastern parts\" - which ringingly opens his Tamburlaine the Great, Part Two, is now standardly excised from theatrical productions. When the line is []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/imperious-chessmen/",
-         "pubDate" : "Sat, 03 Feb 2024 07:53:08",
-         "title" : "Imperious chessmen"
       }
    ]
 }
