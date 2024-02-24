@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Shakira Luster recently captained the Marist chess team at the Illinois State High School team championship scoring a sparkling 7/7. The Chess Drum audience will know her from her successes at St. Ethelreda Grammar School and her appearance at the Chicago Open. Now a senior at Marist, she is finishing her high school career on The post <a href=\"https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/\">Shakira Luster: Marist's Chess Queen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/",
+         "pubDate" : "Sat, 24 Feb 2024 16:07:56",
+         "title" : "Shakira Luster: Marist's Chess Queen"
+      },
+      {
+         "description" : "If I had a pill that would improve your focus, mood &#38; memory, would you take it? I bet you would. And you would even pay quite a bit for it. Sadly, I don't have such a pill. But in this Newsletter, I will show you four ways to improve your focus, mood &#38; brain []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/brain-upgrade/",
+         "pubDate" : "Sat, 24 Feb 2024 14:00:00",
+         "title" : "Upgrade Your Chess Brain"
+      },
+      {
+         "description" : " The Canberra Show is on this weekend, and I plan to visit tomorrow. There is even a chess themed craft competition this year, with prizes for the best crafted chess sets. However (according to Philp Vels, who tipped me off), the distinguishing feature of every set on display, is that they are all set up incorrectly. Apart from the usual 'white on right' error, there are also some sets with the kings and queens on the wrong starting squares, or the slightly more imaginative, king opposite queen across the board. I will take photos. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/off-to-show.html",
+         "pubDate" : "Sat, 24 Feb 2024 12:53:00",
+         "title" : "Off to the show"
+      },
+      {
          "description" : "Transgenderism, especially amongst teenagers, is one of the great causes c&eacute;lêbres of our times. Both Rishi Sunak and Sir Keir Starmer found themselves in hot water over this issue during Prime Minister's questions earlier this month. The mother of a murdered transgender teenager was present in the House of Commons, while Rishi was busy insulting Sir Keir about his inability to []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1000,22 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2860",
          "pubDate" : "Sat, 03 Feb 2024 19:50:05",
          "title" : "14th \"Preparation of Teachers\" course by the FIDE EDU announced"
-      },
-      {
-         "description" : "An optimal learning process needs the right information in the right order. Kids need to learn addition, but first, they need crucial information about the numbers and how to count. 2+1 is unsolvable if you don't know that after 2 comes 3. Sadly, that's how most adult improvers are taught nowadays. Random information in random []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/beginner-chess-training-done-right/",
-         "pubDate" : "Sat, 03 Feb 2024 14:00:00",
-         "title" : "Beginner Chess Training Done Right"
-      },
-      {
-         "description" : " Some more drama in the world of chess, with the St Louis Chess Club releasing a statement concerning GM Hans Niemann. Basically it says that due to past behaviour, he is not invited to any events being organised by the St Louis Chess Club for the remainder of 2024. While they did not list the behaviour concerned, Niemann copped to damaging a hotel room while attending a previous event. And while this is a matter between Niemann and the SLCC, one aspect of it did pique my interest. In complaining about his treatment, Niemann remarked that having apologised to the hotel (and paid the cost of damages), he thought he was in the clear. The fact that they did not see it in the same way was someho",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/i-thought-we-were-good.html",
-         "pubDate" : "Sat, 03 Feb 2024 12:57:00",
-         "title" : "I thought we were good"
       }
    ]
 }
