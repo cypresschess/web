@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Methodical Attacking Principles within certain pawn structures hold high importance. From the opening to the middlegame, the patterns, plans, and theories derived from our initial pawn moves necessitate different actions. Those who frequently play the Queen's Gambit likely have a better understanding of an isolated pawn compared to aficionados of the Ruy Lopez. Svitlana discusses an excellent game by Jan-Krzysztof Duda, highlighting how he gradually leverages his pawn structure advantage for an unstoppable attack.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-methodical-attacking-like-duda",
+         "pubDate" : "Sat, 24 Feb 2024 19:42:28",
+         "title" : "Svitlana's Smart Moves - Methodical Attacking like Duda!"
+      },
+      {
+         "description" : "Click here for Form 1",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/form-1-aicf-election-on-10-03-2024/",
+         "pubDate" : "Sat, 24 Feb 2024 18:27:53",
+         "title" : "Form 1 : AICF Election on 10.03.2024"
+      },
+      {
+         "description" : "Klaus Darga was one of the best German players in the 1960s and 1970s. Darga represented Germany in team events multiple times and belonged to the extended world elite before he gave up his career for professional reasons around 1970. He later worked as a national coach for the German Chess Federation. Today he is celebrating his 90th birthday, making him the oldest chess grandmaster in the world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/klaus-darga-turns-90-years-old",
+         "pubDate" : "Sat, 24 Feb 2024 18:00:00",
+         "title" : "Klaus Darga, who beat Larsen, Portisch and Spassky, turns 90"
+      },
+      {
          "description" : " Shakira Luster recently captained the Marist chess team at the Illinois State High School team championship scoring a sparkling 7/7. The Chess Drum audience will know her from her successes at St. Ethelreda Grammar School and her appearance at the Chicago Open. Now a senior at Marist, she is finishing her high school career on The post <a href=\"https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/\">Shakira Luster: Marist's Chess Queen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -82,28 +106,12 @@ news_feed (
          "title" : "Double gold for Germany at the Mitropa Cup"
       },
       {
-         "description" : "This week GM Daniel King analyses a few adventurous positions reached at the Freestyle G.O.A.T. Challenge in Germany, as he found a particular theme that kept appearing! | Power Play is on air most Fridays. Watch it on-demand with a ChessBase Premium account. All the usual puzzles, games and instruction will be on offer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-king-s-power-play-show-freestyling-fischer-random",
-         "pubDate" : "Fri, 23 Feb 2024 19:00:00",
-         "title" : "Daniel King's Power Play Show: Freestyling Fischer Random"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a chess move when your intuition says to &quot;go for it.&quot; 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-does-your-chess-intuition-say-grandmasters-choice-wgm-thalia-cervantes-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TVaC2W7PEMY.jpg?itok=9REiJ2u6\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/what-does-your-chess-intuition-say-grandmasters-choice-wgm-thalia-cervantes-chess",
          "pubDate" : "Fri, 23 Feb 2024 18:54:10",
          "title" : "What Does Your Chess Intuition Say? | Grandmaster's Choice - WGM Thalia Cervantes #chess"
-      },
-      {
-         "description" : "The Grand Chess Tour announced today the players selected to compete in the full 2024 tour. Joining the likes of Fabiano Caruana, Wesley So and Maxime Vachier-Lagrave are three rising stars who had not been 'regulars' in the tour previously: Gukesh D (pictured), Praggnanandhaa R and Nodirbek Abdusattorov. The first event of the series kicks off on May 6 in Warsaw, Poland. | Photo: Grand Chess Tour",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-2024-lineup",
-         "pubDate" : "Fri, 23 Feb 2024 16:30:00",
-         "title" : "GCT 2024: Gukesh, Pragg and Abdusattorov full tour participants"
       },
       {
          "description" : "The ECF is accepting registrations for the European Youth Chess Championship in Prague (Czech Republic). The Rapid and Blitz tournaments run from 16 August ...",
@@ -978,14 +986,6 @@ news_feed (
          "title" : "ECU E-Magazine January 2024"
       },
       {
-         "description" : "Top Board, 1st Board for all categories is live .&#160; Live Games Cloud Link :&#160;https://view.livechesscloud.com/#8670daa6-78e3-461d-acb4-c4299edcefac Chess-Results.com :&#160; Under 09 Open :&#160;https://chess-results.com/tnr882581.aspx?lan=1&#38;art=0&#38;turdet=YES&#38;flag=30 Under 11 Open :&#160;https://chess-results.com/tnr882582.aspx?lan=1&#38;art=0&#38;turdet=YES&#38;flag=30",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-12th-national-schools-chess-championship-2024/",
-         "pubDate" : "Tue, 06 Feb 2024 06:16:09",
-         "title" : "Live Games Link for 12th National Schools Chess Championship 2024"
-      },
-      {
          "description" : "In the previous installment of our weekly chess comic series, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-ai-generator.html\">The AI Generator</A> (January 2024), we learned, <BLOCKQUOTE> The Wizard can use his patented AI techniques to generate animals, mainly foxes, who play chess. </BLOCKQUOTE> <P> This is the fifth installment of the series. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob05.jpg\" WIDTH= HEIGHT=> <P> The Wizard needs help for his chess activities, which mainly focus on support for the chess community -- local, regional, national, and international. He has an assistant, a much younger man, who lives in a cottage on the mansion grounds. The Wiz",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1016,14 +1016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2873",
          "pubDate" : "Sun, 04 Feb 2024 16:29:01",
          "title" : "FIDE delegation meets with Pakistan's President and PM"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2860",
-         "pubDate" : "Sat, 03 Feb 2024 19:50:05",
-         "title" : "14th \"Preparation of Teachers\" course by the FIDE EDU announced"
       }
    ]
 }
