@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find the certificates here for Below 2300 Open and Below 2300 Women Below 2300 Open Below 2300 Women Rank Name Rank Name",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-national-amateur-chess-championship-13-02-2024-to-17-02-2024/",
+         "pubDate" : "Sun, 25 Feb 2024 01:15:15",
+         "title" : "Certificates of National Amateur Chess Championship 13.02.2024 to 17.02.2024"
+      },
+      {
          "description" : "Open Section Lalith Babu M R is the sole leader Grand Master Lalith Babu M R (5.5) defeated second seed GM Vaibhav Suri (4.5) on",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -698,14 +706,6 @@ news_feed (
          "title" : "(BCM #2) What Makes a Great Beginner Course"
       },
       {
-         "description" : "On the occasion of Torch Hand-Off ceremony AICF is conducting Olympiad Torch Ceremony 2024 Open Blitz on 14 Feb 2024 at Major Dhyan Chand National",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/olympiad-torch-ceremony-2024-open-blitz-on-14-feb-2024/",
-         "pubDate" : "Tue, 13 Feb 2024 12:17:26",
-         "title" : "Olympiad Torch Ceremony 2024 Open Blitz on 14 Feb 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -848,14 +848,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/training-metrics/",
          "pubDate" : "Sat, 10 Feb 2024 15:30:27",
          "title" : "The Three Essential Chess Training Metrics You Need To Track"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov beat GM Magnus Carlsen in the final round of the 2024 Freestyle Chess G.O.A.T. Challenge Rapid to top the standings with an unbeaten 5.5/7. That set up a Quarterfinal against World Champion Ding Liren, who made a last-roun...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-2",
-         "pubDate" : "Sat, 10 Feb 2024 14:31:00",
-         "title" : "Abdusattorov Beats Carlsen To Win Rapid, Plays Ding In Quarterfinals"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107585056.cms\" />Grandmaster D Gukesh delivered a series of remarkable moves, defeating World No. 1 Magnus Carlsen of Norway, Levon Aronian of Armenia, and ultimately the reigning world champion Ding Liren of China on the opening day of the Weissenhaus Chess Challenge.",
