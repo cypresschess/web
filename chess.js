@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Open Section Lalith Babu M R is the sole leader Grand Master Lalith Babu M R (5.5) defeated second seed GM Vaibhav Suri (4.5) on",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/round-6commonwealth-chess-championship-2024/",
+         "pubDate" : "Sun, 25 Feb 2024 00:13:05",
+         "title" : "Round 6:Commonwealth Chess Championship 2024"
+      },
+      {
+         "description" : "After an intense tournament at Weissenhaus, Sagar Shah and Amruta Mokal had a free week before their trip to the Prague Masters. They decided to use this time to visit the residence of Anish Giri and Sopiko Guramishvili in The Hague. The plan was to record an opening video course for ChessBase. This was done quite efficiently in three days, and the course is a 7-hour masterclass covering opening play. Moreover, the trip turned out to be much more than just recordings. For the author, experiencing the life of a beautiful family, which combines ambition, love and respect, was extremely enjoyable!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/beautiful-world-anish-giri-sopiko-guramishvili",
+         "pubDate" : "Sat, 24 Feb 2024 23:00:00",
+         "title" : "The beautiful world of Anish Giri and Sopiko Guramishvili"
+      },
+      {
          "description" : "The Methodical Attacking Principles within certain pawn structures hold high importance. From the opening to the middlegame, the patterns, plans, and theories derived from our initial pawn moves necessitate different actions. Those who frequently play the Queen's Gambit likely have a better understanding of an isolated pawn compared to aficionados of the Ruy Lopez. Svitlana discusses an excellent game by Jan-Krzysztof Duda, highlighting how he gradually leverages his pawn structure advantage for an unstoppable attack.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/",
          "pubDate" : "Sat, 24 Feb 2024 16:07:56",
          "title" : "Shakira Luster: Marist's Chess Queen"
+      },
+      {
+         "description" : "In a Bullet Brawl showdown between two of the quickest players in chess, GMs Daniel Naroditsky and Andrew Tang, Naroditsky came out on top on Saturday. Claiming his 12th title and the $400 first prize, the U.S. commentator scored 247 points in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-february-24-2024",
+         "pubDate" : "Sat, 24 Feb 2024 14:56:00",
+         "title" : "Naroditsky Records 48-Game Unbeaten Streak In Bullet Brawl"
       },
       {
          "description" : "If I had a pill that would improve your focus, mood &#38; memory, would you take it? I bet you would. And you would even pay quite a bit for it. Sadly, I don't have such a pill. But in this Newsletter, I will show you four ways to improve your focus, mood &#38; brain []",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/djerba-festival-2024-r5",
          "pubDate" : "Sat, 24 Feb 2024 07:00:00",
          "title" : "Djerba Chess Festival: Niemann and Dardha share the lead"
-      },
-      {
-         "description" : "As expected after the penultimate round, the German teams obtained a double victory at the Mitropa Cup and the Women's Mitropa Cup. Germany competed with almost all of their best players and had a successful dress rehearsal for the upcoming Chess Olympiad in Budapest in September. | Photos: Frank Hoppe, Katharina Reinecke (German Chess Federation)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mitropa-cup-2024-germany-double-gold",
-         "pubDate" : "Fri, 23 Feb 2024 21:10:00",
-         "title" : "Double gold for Germany at the Mitropa Cup"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a chess move when your intuition says to &quot;go for it.&quot; 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-does-your-chess-intuition-say-grandmasters-choice-wgm-thalia-cervantes-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TVaC2W7PEMY.jpg?itok=9REiJ2u6\" alt=\"\" /></a></div>",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "Abdusattorov Beats Carlsen To Win Rapid, Plays Ding In Quarterfinals"
       },
       {
-         "description" : "Bullet Brawl records fell on Saturday after Chess.com&#39;s highest-rated bullet and blitz chess player, GM Hikaru Nakamura, swept through the field and amassed a score of 320. With 82 wins, one draw, and one loss to his name, only Peru&#39;s IM Renato Te...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-10-2024",
-         "pubDate" : "Sat, 10 Feb 2024 14:11:00",
-         "title" : "Nakamura Shatters Bullet Brawl Record With 82.5/84 Score"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107585056.cms\" />Grandmaster D Gukesh delivered a series of remarkable moves, defeating World No. 1 Magnus Carlsen of Norway, Levon Aronian of Armenia, and ultimately the reigning world champion Ding Liren of China on the opening day of the Weissenhaus Chess Challenge.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2874",
          "pubDate" : "Wed, 07 Feb 2024 19:05:26",
          "title" : "Baadur Jobava wins 2024 Georgian Championship"
-      },
-      {
-         "description" : "As directed the last date of the National Amateur online entries extended to 09th February 2024,1600 PM.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-amateur-2024/",
-         "pubDate" : "Wed, 07 Feb 2024 14:21:21",
-         "title" : "National Amateur 2024"
       },
       {
          "description" : " During this Black History Month 2024, The Chess Drum will present four videos featuring puzzles of several of the chess masters in the Black Diaspora. The videos will provide some historical information about each player and then one of the puzzles from a tournament game. Most of these puzzles were featured in one of the The post <a href=\"https://www.thechessdrum.net/blog/2024/02/06/black-history-month-2024-tribute-week-1/\">Black History Month 2024 Tribute: Week 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
