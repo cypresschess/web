@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. In the first part of his review he dealt with the treatment of chess in the 21st Century in the MegaBase. Here he offers a rare discovery from a world championship match that fell into oblivion.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/megabase-2024-revisited-nagesh-havanur",
+         "pubDate" : "Sun, 25 Feb 2024 18:05:00",
+         "title" : "MegaBase 2024 Revisited: World Championship Drama"
+      },
+      {
+         "description" : " Rochelle Ballantyne has come a long way since starring in &#8220;Brooklyn Castle.&#8221; In a recent article on chess.com, she reflects on her journey including the trials and tribulations. She also discusses her path in which she managed tough decisions about chess and her career. After earning a Master's in Education Policy from Colombia and a The post <a href=\"https://www.thechessdrum.net/blog/2024/02/25/rochelle-ballantyne-on-chess-career-new-path/\">Rochelle Ballantyne on chess career, new path</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/02/25/rochelle-ballantyne-on-chess-career-new-path/",
+         "pubDate" : "Sun, 25 Feb 2024 17:13:54",
+         "title" : "Rochelle Ballantyne on chess career, new path"
+      },
+      {
          "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 166th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and talks about Mikhail Tal and the phenomenon of the \"Angstgegner\". | Photo: Pascal Simon",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://aicf.in/form-1-aicf-election-on-10-03-2024/",
          "pubDate" : "Sat, 24 Feb 2024 18:27:53",
          "title" : "Form 1 : AICF Election on 10.03.2024"
-      },
-      {
-         "description" : "Klaus Darga was one of the best German players in the 1960s and 1970s. Darga represented Germany in team events multiple times and belonged to the extended world elite before he gave up his career for professional reasons around 1970. He later worked as a national coach for the German Chess Federation. Today he is celebrating his 90th birthday, making him the oldest chess grandmaster in the world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/klaus-darga-turns-90-years-old",
-         "pubDate" : "Sat, 24 Feb 2024 18:00:00",
-         "title" : "Klaus Darga, who beat Larsen, Portisch and Spassky, turns 90"
       },
       {
          "description" : " Shakira Luster recently captained the Marist chess team at the Illinois State High School team championship scoring a sparkling 7/7. The Chess Drum audience will know her from her successes at St. Ethelreda Grammar School and her appearance at the Chicago Open. Now a senior at Marist, she is finishing her high school career on The post <a href=\"https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/\">Shakira Luster: Marist's Chess Queen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
