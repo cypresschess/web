@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vasily Smyslov had this to say about beauty in chess: \"Perhaps chess and music are drawn together by laws of harmony and beauty that are difficult to formulate and difficult to grasp\". This quote and a fascinating endgame from the Candidates Tournament in Yekaterinburg prompted GM Sundararajan Kidambi to consider new ways to approach a chess position. The endgame was played in the game between Wang Hao (pictured) and Maxime Vachier-Lagrave. | Photo: FIDE / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/search-of-harmony-kidambi",
+         "pubDate" : "Sun, 25 Feb 2024 11:00:00",
+         "title" : "In search of harmony"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107979503.cms\" />Young tennis ace Rameshbabu Praggnanandhaa exudes confidence in India's potential to dominate the global stage, citing the strength of Indian players. In an interview with TOI during the Times of India Sports Awards (TOISA) ceremony, he discussed his achievements, strategic approach, and the strong bond he shares with his siblings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-prodigy-rameshbabu-praggnanandhaa-confident-india-will-rule-the-world/articleshow/107979503.cms",
          "pubDate" : "Sun, 25 Feb 2024 04:43:52",
          "title" : "Praggnanandhaa confident India can dominate the chess world"
+      },
+      {
+         "description" : "British rising star WCM Bodhana Sivanandan has delivered another extraordinary performance that is likely to catapult her to world number-one among chess players under nine years years of age. The schoolgirl now boasts one of the highest ratings e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bodhana-sivanandan-third-highest-rated-8-year-old-chess-player-ever",
+         "pubDate" : "Sun, 25 Feb 2024 03:25:09",
+         "title" : "Bodhana Sivanandan Becomes 3rd Highest Rated 8-Year-Old Chess Player Ever"
       },
       {
          "description" : "Please find the certificates here for Below 2000 Open and Below 2000 Women Below 2000 Open Below 2000 Women Rank Name Rank Name 1 Shah",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/castling-queenside-be-careful",
          "pubDate" : "Sat, 24 Feb 2024 09:00:00",
          "title" : "Castling queenside? Be careful!"
-      },
-      {
-         "description" : "The fourth edition of the Djerba Chess Festival is taking place on February 17-25 on the island of Djerba in Tunisia. Situated on the south-east coast of Tunisia, Djerba is a small, flat island at only 54 metres above sea level. The main event is the Masters, an 8-player single round-robin. After five rounds, Hans Niemann and Daniel Dardha (pictured) are sharing the lead. | All photos by Diana Mihajlova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/djerba-festival-2024-r5",
-         "pubDate" : "Sat, 24 Feb 2024 07:00:00",
-         "title" : "Djerba Chess Festival: Niemann and Dardha share the lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a chess move when your intuition says to &quot;go for it.&quot; 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-does-your-chess-intuition-say-grandmasters-choice-wgm-thalia-cervantes-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TVaC2W7PEMY.jpg?itok=9REiJ2u6\" alt=\"\" /></a></div>",
