@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Please find the certificates here for Below 2300 Open and Below 2300 Women Below 2300 Open Below 2300 Women Rank Name Rank Name",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107979503.cms\" />Young tennis ace Rameshbabu Praggnanandhaa exudes confidence in India's potential to dominate the global stage, citing the strength of Indian players. In an interview with TOI during the Times of India Sports Awards (TOISA) ceremony, he discussed his achievements, strategic approach, and the strong bond he shares with his siblings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-prodigy-rameshbabu-praggnanandhaa-confident-india-will-rule-the-world/articleshow/107979503.cms",
+         "pubDate" : "Sun, 25 Feb 2024 04:43:52",
+         "title" : "Praggnanandhaa confident India can dominate the chess world"
+      },
+      {
+         "description" : "Please find the certificates here for Below 2000 Open and Below 2000 Women Below 2000 Open Below 2000 Women Rank Name Rank Name 1 Shah",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificates-of-national-amateur-chess-championship-13-02-2024-to-17-02-2024/",
