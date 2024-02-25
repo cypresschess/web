@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 166th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and talks about Mikhail Tal and the phenomenon of the \"Angstgegner\". | Photo: Pascal Simon",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-before-moving-166-chess-history-in-a-nutshell-47",
+         "pubDate" : "Sun, 25 Feb 2024 15:00:00",
+         "title" : "Understanding before Moving 166: Chess history in a nutshell (47)"
+      },
+      {
          "description" : "Vasily Smyslov had this to say about beauty in chess: \"Perhaps chess and music are drawn together by laws of harmony and beauty that are difficult to formulate and difficult to grasp\". This quote and a fascinating endgame from the Candidates Tournament in Yekaterinburg prompted GM Sundararajan Kidambi to consider new ways to approach a chess position. The endgame was played in the game between Wang Hao (pictured) and Maxime Vachier-Lagrave. | Photo: FIDE / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://www.europechess.org/germany-wins-double-gold-at-the-mitropa-cup-2024/",
          "pubDate" : "Sat, 24 Feb 2024 09:58:12",
          "title" : "Germany wins double gold at the Mitropa Cup 2024"
-      },
-      {
-         "description" : "In the diagram position, the white king will soon bite the queenside dust - somehow no wonder with the Bf5 controlling the b1-square. What would you do with Black?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/castling-queenside-be-careful",
-         "pubDate" : "Sat, 24 Feb 2024 09:00:00",
-         "title" : "Castling queenside? Be careful!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a chess move when your intuition says to &quot;go for it.&quot; 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-does-your-chess-intuition-say-grandmasters-choice-wgm-thalia-cervantes-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TVaC2W7PEMY.jpg?itok=9REiJ2u6\" alt=\"\" /></a></div>",
@@ -1008,22 +1008,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/2024-o2c-doeberl-cup-choosing-your.html",
          "pubDate" : "Mon, 05 Feb 2024 12:36:00",
          "title" : "2024 O2C Doeberl Cup - Choosing your section"
-      },
-      {
-         "description" : "The best items featured on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010) are those that lead to other avenues of inquiry: 'What is this?' and 'What is that?' The item pictured below was titled 'Piggybanx Tom Brady Refractor 1/1 Chess Not Checkers Patriots'. It sold 'Pre-Owned' for $600.00 or 'Best Offer'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob04.jpg\" WIDTH=265 HEIGHT=400> <P> The description of the item added only, <BLOCKQUOTE> Piggybanx Tom Brady 1/1 Refractor. It is missing one screw for the box; it came that way. Otherwise a very nice card. </BLOCKQUOTE> <P> 'Tom Brady' is",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/02/a-goat-says-its-chess-not-checkers.html",
-         "pubDate" : "Sun, 04 Feb 2024 16:30:00",
-         "title" : "A Goat Says, 'It's Chess Not Checkers'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2873",
-         "pubDate" : "Sun, 04 Feb 2024 16:29:01",
-         "title" : "FIDE delegation meets with Pakistan's President and PM"
       }
    ]
 }
