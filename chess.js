@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Chess is often considered a calm and quiet game, where the only sound the clicking of the pieces. But what if we could hear the heartbeat of the players, and see how their body reacts to the tension and excitement of the game? That is exactly what was done in the Freestyle Chess 2024 event in Weissenhaus, where the heart rate of some of the world's best chess players were monitored as they faced each other! We start this series with a look back at how it all started. | Photo Lennart Ootes",
+         "description" : "Eva Moser was the best female chess player in Austrian history and one of the few female players to win the absolute title of her country. The Austrian Chess Federation is honouring the world-class player, who died too young, with an international women's chess tournament. From Sunday in Graz. | Photo: Austrian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eva-moser-momerial-tournament",
+         "pubDate" : "Mon, 26 Feb 2024 20:00:00",
+         "title" : "A memorial tournament for Eva Moser"
+      },
+      {
+         "description" : " The 6th Prague International Chess Festival takes place Mon 26th Feb to Thu 7th Mar 2024. There are two strong Round Robin tournaments. The Masters with Abdusattorov, Praggnanandhaa, Vidit, Gukesh, Keymer, Rapport, Maghsoodloo, Navara, Bartel and Thai Dai Van Nguyen. The Challengers isn't too shabby either with Korobov, L'Ami, Santos Latasa, Rodshtein etc. There are other events such as the Futures, Open, Rapids, Chess960 and many amateur groups too. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/6th-prague-international-chess-festival-2024",
+         "pubDate" : "Mon, 26 Feb 2024 18:32:00",
+         "title" : "6th Prague International Chess Festival 2024 - Games and Results"
+      },
+      {
+         "description" : "Chess is often considered a calm and quiet game, where the only sound is the clicking of the pieces. But what if we could hear the heartbeat of the players, and see how their body reacts to the tension and excitement of the game? That is exactly what was done in the Freestyle Chess 2024 event in Weissenhaus, where the heart rate of some of the world's best chess players were monitored as they faced each other! We start this series with a look back at how it all started. | Photo Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-heart-racing-experience",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/25/rochelle-ballantyne-on-chess-career-new-path/",
          "pubDate" : "Sun, 25 Feb 2024 17:13:54",
          "title" : "Rochelle Ballantyne on chess career, new path"
-      },
-      {
-         "description" : "Herman Grooten is an International Master, a renowned trainer and the author of several highly acclaimed books on chess training and strategy. In the 166th episode of his ChessBase show \"Understanding before moving\" Herman continues his series \"Chess history in a nutshell\" and talks about Mikhail Tal and the phenomenon of the \"Angstgegner\". | Photo: Pascal Simon",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-before-moving-166-chess-history-in-a-nutshell-47",
-         "pubDate" : "Sun, 25 Feb 2024 15:00:00",
-         "title" : "Understanding before Moving 166: Chess history in a nutshell (47)"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107979503.cms\" />Young tennis ace Rameshbabu Praggnanandhaa exudes confidence in India's potential to dominate the global stage, citing the strength of Indian players. In an interview with TOI during the Times of India Sports Awards (TOISA) ceremony, he discussed his achievements, strategic approach, and the strong bond he shares with his siblings.",
@@ -450,12 +458,12 @@ news_feed (
          "title" : "FIDE Endorses ChessNoteR N6 & N9 devices"
       },
       {
-         "description" : "The 2nd Cambridge International Open Chess Tournament is running from&#160; Monday 19th February to Saturday 24th February 2024 in Cambridge. This is a nine round...",
+         "description" : "The 2nd Cambridge International Open Chess Tournament ran from&#160; Monday 19th February to Saturday 24th February 2024 in Cambridge. The event provides an opportunity for...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open-starts-today/",
          "pubDate" : "Mon, 19 Feb 2024 10:00:37",
-         "title" : "2nd Cambridge International Open now in progress!"
+         "title" : "2nd Cambridge International Open - results"
       },
       {
          "description" : "On Sunday, eight-year-old Ashwath Kaushik from Singapore smashed the record to become the youngest player ever to defeat a grandmaster in classical chess. Just a month prior Leonid Ivanovic from Serbia dethroned GM Awonder Liang to become the fi...",
