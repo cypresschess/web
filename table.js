@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2024-02-25","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402256342 target='_blank'>EVENT NAME MISSING</a>",
+"HOUSTON","2024-02-24","238","<a href=http://www.uschess.org/msa/XtblMain.php?202402245852 target='_blank'>2024 DEBAKEY CHESS TOURNAMENT</a>",
 "HOUSTON","2024-02-24","10","<a href=http://www.uschess.org/msa/XtblMain.php?202402245262 target='_blank'>FEBRUARY 24TH SATURDAY SWISS AT NOO</a>",
 "HOUSTON","2024-02-24","44","<a href=http://www.uschess.org/msa/XtblMain.php?202402245012 target='_blank'>PISD FEB 2024- FEB 2024 HS</a>",
 "HOUSTON","2024-02-24","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402245002 target='_blank'>CHESSPANDA02242024SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2023-08-18","40","<a href=http://www.uschess.org/msa/XtblMain.php?202308187302 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2023-08-18","34","<a href=http://www.uschess.org/msa/XtblMain.php?202308186712 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "CYPRESS","2023-08-14","36","<a href=http://www.uschess.org/msa/XtblMain.php?202308144622 target='_blank'>CYPRESS KNIGHTS</a>",
-"HOUSTON","2023-08-13","10","<a href=http://www.uschess.org/msa/XtblMain.php?202308133862 target='_blank'>AUGUST 13TH 2023 SUNDAY SWISS</a>",
-"HOUSTON","2023-08-12","35","<a href=http://www.uschess.org/msa/XtblMain.php?202308123012 target='_blank'>AUGUST 12TH 2023 SCHOLASTIC</a>",
 ]);
