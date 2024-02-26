@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess is often considered a calm and quiet game, where the only sound the clicking of the pieces. But what if we could hear the heartbeat of the players, and see how their body reacts to the tension and excitement of the game? That is exactly what was done in the Freestyle Chess 2024 event in Weissenhaus, where the heart rate of some of the world's best chess players were monitored as they faced each other! We start this series with a look back at how it all started. | Photo Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-heart-racing-experience",
+         "pubDate" : "Mon, 26 Feb 2024 15:00:00",
+         "title" : "A Heart-Racing Experience! (1)"
+      },
+      {
+         "description" : " While sorting out some games from my current club event, I was struck by the similarity between the game featured in the \"Found Scoresheets\" article, and the one played below. They both used a combination of the knight and dark squared bishop to attack c7, and in both cases Nb5 was an important move. The other interesting thing was that they were played at exactly the same time, on the same table (this game being on Board 2). I'm sure some advanced plagiarism detector might have something to say about that, but apart from noticing that Nb5 was a threat in the board 1 game, I can't say that I borrowed anything specifically from it. <br /> <b>Press,Shaun - Garland,Liam [E67]</b><br /> Rama Me",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/similar-concepts.html",
+         "pubDate" : "Mon, 26 Feb 2024 12:33:00",
+         "title" : "Similar concepts"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,14 +98,6 @@ news_feed (
          "title" : "Understanding before Moving 166: Chess history in a nutshell (47)"
       },
       {
-         "description" : "Vasily Smyslov had this to say about beauty in chess: \"Perhaps chess and music are drawn together by laws of harmony and beauty that are difficult to formulate and difficult to grasp\". This quote and a fascinating endgame from the Candidates Tournament in Yekaterinburg prompted GM Sundararajan Kidambi to consider new ways to approach a chess position. The endgame was played in the game between Wang Hao (pictured) and Maxime Vachier-Lagrave. | Photo: FIDE / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/search-of-harmony-kidambi",
-         "pubDate" : "Sun, 25 Feb 2024 11:00:00",
-         "title" : "In search of harmony"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107979503.cms\" />Young tennis ace Rameshbabu Praggnanandhaa exudes confidence in India's potential to dominate the global stage, citing the strength of Indian players. In an interview with TOI during the Times of India Sports Awards (TOISA) ceremony, he discussed his achievements, strategic approach, and the strong bond he shares with his siblings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -102,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bodhana-sivanandan-third-highest-rated-8-year-old-chess-player-ever",
-         "pubDate" : "Sun, 25 Feb 2024 03:25:09",
+         "pubDate" : "Sun, 25 Feb 2024 03:25:00",
          "title" : "Bodhana Sivanandan Becomes 3rd Highest Rated 8-Year-Old Chess Player Ever"
       },
       {
@@ -1032,22 +1040,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-january-2024/",
          "pubDate" : "Tue, 06 Feb 2024 09:40:27",
          "title" : "ECU E-Magazine January 2024"
-      },
-      {
-         "description" : "In the previous installment of our weekly chess comic series, <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-ai-generator.html\">The AI Generator</A> (January 2024), we learned, <BLOCKQUOTE> The Wizard can use his patented AI techniques to generate animals, mainly foxes, who play chess. </BLOCKQUOTE> <P> This is the fifth installment of the series. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob05.jpg\" WIDTH= HEIGHT=> <P> The Wizard needs help for his chess activities, which mainly focus on support for the chess community -- local, regional, national, and international. He has an assistant, a much younger man, who lives in a cottage on the mansion grounds. The Wiz",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/02/the-wizards-assistant.html",
-         "pubDate" : "Mon, 05 Feb 2024 16:26:00",
-         "title" : "The Wizard's Assistant"
-      },
-      {
-         "description" : " There are now only 8 weeks to go before the 2024 O2C Doeberl Cup. At this stage there are 154 entries across all the divisions, which is 37 more than this stage last year. While the tournament format is the same as last year (except for an additional Under 1600 Lightning event on Saturday evening), there is one change that players might not be aware of. Although the rating cutoffs are unchanged, FIDE is giving all players rated under 2000 a one off rating boost on the 1st March. This means that players who would normally not have a high enough rating to qualify for a section may now do so, based on their FIDE rating. To make it clear, the rating cutoffs for the various sections will not be ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/2024-o2c-doeberl-cup-choosing-your.html",
-         "pubDate" : "Mon, 05 Feb 2024 12:36:00",
-         "title" : "2024 O2C Doeberl Cup - Choosing your section"
       }
    ]
 }
