@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rounds 9-11 of the German League (Bundesliga) took place from Friday to Sunday in Viernheim, a midsize industrial town on Mannheim's outskirts. On Saturday, the all-important clash between Viernheim and Baden-Baden saw Viernheim coming out on top thanks to wins by Parham Maghsoodloo and David Anton. After round 11, Viernheim are leading the standings with a perfect score, 3 match points ahead of the defending champions from Baden-Baden. Vishy Anand, Hikaru Nakamura and Nijat Abasov all played during the weekend, with Anand beating Abasov to re-enter the world's top-10 in the live ratings list. | Photo: Angelika Valkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bundesliga-2024-r11",
+         "pubDate" : "Sun, 25 Feb 2024 23:00:00",
+         "title" : "Bundesliga: Viernheim clear leaders, Anand back in the top 10"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2835",
+         "pubDate" : "Sun, 25 Feb 2024 21:15:01",
+         "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration deadline extended"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2899",
+         "pubDate" : "Sun, 25 Feb 2024 21:00:51",
+         "title" : "Gligoric Trophy 2024: Call for Nominations"
+      },
+      {
          "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. In the first part of his review he dealt with the treatment of chess in the 21st Century in the MegaBase. Here he offers a rare discovery from a world championship match that fell into oblivion.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/beautiful-world-anish-giri-sopiko-guramishvili",
          "pubDate" : "Sat, 24 Feb 2024 23:00:00",
          "title" : "The beautiful world of Anish Giri and Sopiko Guramishvili"
-      },
-      {
-         "description" : "The Methodical Attacking Principles within certain pawn structures hold high importance. From the opening to the middlegame, the patterns, plans, and theories derived from our initial pawn moves necessitate different actions. Those who frequently play the Queen's Gambit likely have a better understanding of an isolated pawn compared to aficionados of the Ruy Lopez. Svitlana discusses an excellent game by Jan-Krzysztof Duda, highlighting how he gradually leverages his pawn structure advantage for an unstoppable attack.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-methodical-attacking-like-duda",
-         "pubDate" : "Sat, 24 Feb 2024 19:42:28",
-         "title" : "Svitlana's Smart Moves - Methodical Attacking like Duda!"
       },
       {
          "description" : "Click here for Form 1",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2885",
          "pubDate" : "Thu, 15 Feb 2024 09:34:22",
          "title" : "FIDE delegation visits headquarters of IndianOil Corporation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2835",
-         "pubDate" : "Thu, 15 Feb 2024 08:50:01",
-         "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration ends in 10 days"
       },
       {
          "description" : " Online bullying or &#8220;cyberbullying&#8221; has become a household term to describe a dangerous social interaction that may involve degrading insults, false characterizations, extortion, blackmailing and predatory stalking. On January 31, 2024, there was a U.S. Senate Judiciary hearing on child safety. It focused on social media platforms with the idea of passing legislation to protect The post <a href=\"https://www.thechessdrum.net/blog/2024/02/14/how-will-chess-address-cyberbullying/\">How Will Chess Address Cyberbullying?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
