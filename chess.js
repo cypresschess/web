@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2901",
+         "pubDate" : "Mon, 26 Feb 2024 10:21:10",
+         "title" : "FIDE World Corporate Chess Championship 2024: Registration is open"
+      },
+      {
+         "description" : "The Svetozar Gligoric Trophy is an award given by FIDE to the individual who displays exemplary behaviour promoting the spirit of fair play and sportsmanship in chess. Proposals for nominations from Continental Federations, National Federations, and FIDE Commissions shall be submitted to the Gligoric Trophy Award Commission of FIDE no later than 10 August 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gligoric-trophy-2024-nominations",
+         "pubDate" : "Mon, 26 Feb 2024 10:00:00",
+         "title" : "Gligoric Trophy 2024: Call for nominations"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2900",
+         "pubDate" : "Mon, 26 Feb 2024 09:12:24",
+         "title" : "From Board to Wardrobe: Official FIDE Online Store Launched"
+      },
+      {
          "description" : "The 6th Prague International Chess Festival starts tomorrow in Czech Republic and will take place from 27th February 7th March at Don Giovanni Hotel Prague. The Festival features Masters, Challengers, and Futures tournament, supported by the European Chess Union, as well as the Karel Janecek Open Chess Tournament, and a variety of side events that will take place simultaneously. The main, Masters event, is played with 10 grandmasters in the field who will compete in 9 rounds, round-robin system. []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -21,17 +45,17 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2835",
-         "pubDate" : "Sun, 25 Feb 2024 21:15:01",
-         "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration deadline extended"
+         "link" : "https://www.fide.com/news/2899",
+         "pubDate" : "Sun, 25 Feb 2024 22:00:51",
+         "title" : "Gligoric Trophy 2024: Call for Nominations"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2899",
-         "pubDate" : "Sun, 25 Feb 2024 21:00:51",
-         "title" : "Gligoric Trophy 2024: Call for Nominations"
+         "link" : "https://www.fide.com/news/2835",
+         "pubDate" : "Sun, 25 Feb 2024 21:15:01",
+         "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration deadline extended"
       },
       {
          "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. In the first part of his review he dealt with the treatment of chess in the 21st Century in the MegaBase. Here he offers a rare discovery from a world championship match that fell into oblivion.",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://aicf.in/round-6commonwealth-chess-championship-2024/",
          "pubDate" : "Sun, 25 Feb 2024 00:13:05",
          "title" : "Round 6:Commonwealth Chess Championship 2024"
-      },
-      {
-         "description" : "After an intense tournament at Weissenhaus, Sagar Shah and Amruta Mokal had a free week before their trip to the Prague Masters. They decided to use this time to visit the residence of Anish Giri and Sopiko Guramishvili in The Hague. The plan was to record an opening video course for ChessBase. This was done quite efficiently in three days, and the course is a 7-hour masterclass covering opening play. Moreover, the trip turned out to be much more than just recordings. For the author, experiencing the life of a beautiful family, which combines ambition, love and respect, was extremely enjoyable!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/beautiful-world-anish-giri-sopiko-guramishvili",
-         "pubDate" : "Sat, 24 Feb 2024 23:00:00",
-         "title" : "The beautiful world of Anish Giri and Sopiko Guramishvili"
       },
       {
          "description" : "Click here for Form 1",
