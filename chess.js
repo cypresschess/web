@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Prague International Chess Festival starts tomorrow in Czech Republic and will take place from 27th February 7th March at Don Giovanni Hotel Prague. The Festival features Masters, Challengers, and Futures tournament, supported by the European Chess Union, as well as the Karel Janecek Open Chess Tournament, and a variety of side events that will take place simultaneously. The main, Masters event, is played with 10 grandmasters in the field who will compete in 9 rounds, round-robin system. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/prague-international-chess-festival-2024-starts/",
+         "pubDate" : "Mon, 26 Feb 2024 07:46:30",
+         "title" : "Prague International Chess Festival 2024 starts"
+      },
+      {
          "description" : "Rounds 9-11 of the German League (Bundesliga) took place from Friday to Sunday in Viernheim, a midsize industrial town on Mannheim's outskirts. On Saturday, the all-important clash between Viernheim and Baden-Baden saw Viernheim coming out on top thanks to wins by Parham Maghsoodloo and David Anton. After round 11, Viernheim are leading the standings with a perfect score, 3 match points ahead of the defending champions from Baden-Baden. Vishy Anand, Hikaru Nakamura and Nijat Abasov all played during the weekend, with Anand beating Abasov to re-enter the world's top-10 in the live ratings list. | Photo: Angelika Valkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
