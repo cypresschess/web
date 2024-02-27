@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Michael Adams was the rating favourite at the second edition of the Cambridge International Open. However, the reigning World Senior 50+ Champion struggled to beat his lower-rated opponents at first, as he was only in the upper middle of the field halfway through. Thanks to a strong final spurt, though, the former World Championship candidate went on to win yet another tournament. | Photos: Shohreh Bayat / Cambridge Chess Open",
+         "description" : "As directed the last date of the National Rapid &#38; Blitz 2024 online entries extended to 01st March 2024,1600 PM.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-rapid-blitz-2024/",
+         "pubDate" : "Tue, 27 Feb 2024 11:42:36",
+         "title" : "National Rapid & Blitz 2024"
+      },
+      {
+         "description" : "Lela Javakhishvili emerged as the winner of the Georgian Women's Championship 2024. One of the most successful Georgian chess players, Lela clinched her fifth national title. As is often the case in Georgian Women's championships, it was a very close race among the top-rated players and the members of the very strong national team. Nino Batsiashvili and Meri Arabidze finished in second and third place, respectively.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lela-javakhishvili-wins-georgian-women-ch-2024",
+         "pubDate" : "Tue, 27 Feb 2024 11:00:00",
+         "title" : "Georgian Women's Championship: Lela Javakhishvili grabs fifth title"
+      },
+      {
+         "description" : "Please find the notice here :Notice",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/notice-dated-27-02-2024/",
+         "pubDate" : "Tue, 27 Feb 2024 10:42:26",
+         "title" : "Notice dated 27.02.2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2902",
+         "pubDate" : "Tue, 27 Feb 2024 09:55:29",
+         "title" : "FIDE Chess School Award established"
+      },
+      {
+         "description" : "Michael Adams was the rating favourite at the second edition of the Cambridge International Open. However, the reigning World Senior 50+ Champion struggled to beat his lower-rated opponents at first, as he was only in the upper middle of the field halfway through. Thanks to a strong final spurt, though, the former World Championship candidate went on to win yet another tournament. | Photos: Shohreh Bayat and Reza Islam / Cambridge Chess Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/michael-adams-wins-cambridge-tournament-2024",
          "pubDate" : "Tue, 27 Feb 2024 09:00:00",
          "title" : "And the winner is... Michael Adams"
+      },
+      {
+         "description" : "Rook endings might have large drawish tendencies, but they are often difficult to hold. In the diagram position, White is a pawn down, but can still draw. How?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rook-vs-knight-and-bishop-2",
+         "pubDate" : "Tue, 27 Feb 2024 09:00:00",
+         "title" : "The right way"
+      },
+      {
+         "description" : "It's official: the 10th edition of the Francophone Chess Championships will take place this summer, from August 12th to 20th in Quebec City. This event is the flagship annual event of the International Association of Francophone Chess (AIDEF), which, as an affiliated organization, officially represents the Francophonie within the International Chess Federation (FIDE). The Francophone Championship, comprising classical and blitz games, will take place at the Maurice Pollack Pavilion of Laval University, the venue which can accommodate up to 900 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/10-rencontres-internationales-des-echecs-francophones-ridef/",
+         "pubDate" : "Tue, 27 Feb 2024 08:31:01",
+         "title" : "10 ° Rencontres Internationales des Echecs Francophones (RIDEF)"
       },
       {
          "description" : " <p class=\"lead\">World Chess plc (LSE:CHSS), a prominent chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is pleased to provide updates on strategic developments, including the appointment of a Chief Marketing Officer, player acquisition metrics, and the continuation of its collaboration with FIDE. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2024-02-27_10-43-10.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> <h2>Introducing Andrew Winton as Chief Marketing Officer</h2> World Chess welcomes Andrew Winton, ",
@@ -24,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/robert-ris-abdusattorov-attacks",
          "pubDate" : "Mon, 26 Feb 2024 22:30:00",
          "title" : "Robert Ris: Abdusattorov attacks from all sides"
-      },
-      {
-         "description" : "Eva Moser was the best female chess player in Austrian history and one of the few female players to win the absolute title of her country. The Austrian Chess Federation is honouring the world-class player, who died too young, with an international women's chess tournament. From Sunday in Graz. | Photo: Austrian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eva-moser-momerial-tournament",
-         "pubDate" : "Mon, 26 Feb 2024 20:00:00",
-         "title" : "A memorial tournament for Eva Moser"
       },
       {
          "description" : " The 6th Prague International Chess Festival takes place Mon 26th Feb (opening ceremony) to Thu 7th Mar 2024. There are two strong Round Robin tournaments. The Masters with Abdusattorov, Praggnanandhaa, Vidit, Gukesh, Keymer, Rapport, Maghsoodloo, Navara, Bartel and Thai Dai Van Nguyen. The Challengers isn't too shabby either with Korobov, L'Ami, Santos Latasa, Rodshtein etc. There are other events such as the Futures, Open, Rapids, Chess960 and many amateur groups too. ",
@@ -72,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2901",
          "pubDate" : "Mon, 26 Feb 2024 10:21:10",
          "title" : "FIDE World Corporate Chess Championship 2024: Registration is open"
-      },
-      {
-         "description" : "The Svetozar Gligoric Trophy is an award given by FIDE to the individual who displays exemplary behaviour promoting the spirit of fair play and sportsmanship in chess. Proposals for nominations from Continental Federations, National Federations, and FIDE Commissions shall be submitted to the Gligoric Trophy Award Commission of FIDE no later than 10 August 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gligoric-trophy-2024-nominations",
-         "pubDate" : "Mon, 26 Feb 2024 10:00:00",
-         "title" : "Gligoric Trophy 2024: Call for nominations"
       },
       {
          "description" : "",
@@ -538,14 +570,6 @@ news_feed (
          "title" : "9 Things We Learned - Freestyle Chess G.O.A.T. Challenge 2024"
       },
       {
-         "description" : "Please find details here Click here for Election Notice Click here for Form 2",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-election-on-10-03-2024/",
-         "pubDate" : "Sat, 17 Feb 2024 12:05:40",
-         "title" : "AICF Election on 10.03.2024."
-      },
-      {
          "description" : "Just before the 1986 world championship in London I was sitting in the living room of our Kensington flat, writing the programme notes for the forthcoming clash between Garry Kasparov and Anatoly Karpov. At one point, while writing, I dropped my pen. It was a British Airways cross between a ballpoint and felt tip. It had []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -736,14 +760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/duda-alekseenko-win-titled-tuesday-february-13-2024",
          "pubDate" : "Wed, 14 Feb 2024 08:11:00",
          "title" : "Candidates Win On Tuesday"
-      },
-      {
-         "description" : "Please find the below links of&#160;11th National Amateur Chess Championship 2024 Below 2300 OPEN (11th National Amateur Chess Championship 2024 Below 2300 OPEN)&#160; &#160; Link&#160;https://view.livechesscloud.com#b2b667a3-42a7-4e83-b192-5c2ef449d886",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/11th-national-amateur-chess-championship-2024-dgt-live-link/",
-         "pubDate" : "Wed, 14 Feb 2024 07:16:09",
-         "title" : "11th National Amateur Chess Championship 2024 - DGT LIVE - LINK"
       },
       {
          "description" : "Chess.com is ready to knock it outta the park again with the launch of a new tournament featuring stars from the Cleveland Guardians Major League Baseball team. SlugChamps: Guardians Chess Club will pit eight teammates from one of America&#38;rsquo;...",
@@ -1048,14 +1064,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/bcm1-why-i-created-beginner-chess-mastery/",
          "pubDate" : "Tue, 06 Feb 2024 14:06:00",
          "title" : "(BCM#1) Why I created Beginner Chess Mastery"
-      },
-      {
-         "description" : "The ECU E-Magazine January 2024 is out! In this edition of the ECU Magazine you may read about: The January 2024 edition of the ECU Magazine can be read online together with interactive links, or it can be downloaded below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-january-2024/",
-         "pubDate" : "Tue, 06 Feb 2024 09:40:27",
-         "title" : "ECU E-Magazine January 2024"
       }
    ]
 }
