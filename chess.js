@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The German Bundesliga is a traditional team tournament featuring some of the best players in the world. After 11 rounds in the 2023/24 season, Viernheim have a clear 3-point lead over the perennial favourites from Baden-Baden. In round 9, Viernheim's Nodirbek Abdusattorov obtained a memorable attacking victory over Gata Kamsky. The game was expertly analysed by IM Robert Ris!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-abdusattorov-attacks",
+         "pubDate" : "Mon, 26 Feb 2024 22:30:00",
+         "title" : "Robert Ris: Abdusattorov attacks from all sides"
+      },
+      {
          "description" : "Eva Moser was the best female chess player in Austrian history and one of the few female players to win the absolute title of her country. The Austrian Chess Federation is honouring the world-class player, who died too young, with an international women's chess tournament. From Sunday in Graz. | Photo: Austrian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "A memorial tournament for Eva Moser"
       },
       {
-         "description" : " The 6th Prague International Chess Festival takes place Mon 26th Feb to Thu 7th Mar 2024. There are two strong Round Robin tournaments. The Masters with Abdusattorov, Praggnanandhaa, Vidit, Gukesh, Keymer, Rapport, Maghsoodloo, Navara, Bartel and Thai Dai Van Nguyen. The Challengers isn't too shabby either with Korobov, L'Ami, Santos Latasa, Rodshtein etc. There are other events such as the Futures, Open, Rapids, Chess960 and many amateur groups too. ",
+         "description" : " The 6th Prague International Chess Festival takes place Mon 26th Feb (opening ceremony) to Thu 7th Mar 2024. There are two strong Round Robin tournaments. The Masters with Abdusattorov, Praggnanandhaa, Vidit, Gukesh, Keymer, Rapport, Maghsoodloo, Navara, Bartel and Thai Dai Van Nguyen. The Challengers isn't too shabby either with Korobov, L'Ami, Santos Latasa, Rodshtein etc. There are other events such as the Futures, Open, Rapids, Chess960 and many amateur groups too. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/6th-prague-international-chess-festival-2024",
          "pubDate" : "Mon, 26 Feb 2024 18:32:00",
          "title" : "6th Prague International Chess Festival 2024 - Games and Results"
+      },
+      {
+         "description" : "This is a flash report. The full report is coming soon.&#38;nbsp; GMs Daniel Naroditsky and Robert Hess knocked out the commentators who inspire them, GMs Peter Svidler and Jan Gustafsson, as they advanced to the Semifinals of the 2024 Team Chess Ba...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-naroditsky-hess-win",
+         "pubDate" : "Mon, 26 Feb 2024 15:16:00",
+         "title" : "Flash Report: Naroditsky & Hess Beat Their Commentary Inspirations"
       },
       {
          "description" : "Chess is often considered a calm and quiet game, where the only sound is the clicking of the pieces. But what if we could hear the heartbeat of the players, and see how their body reacts to the tension and excitement of the game? That is exactly what was done in the Freestyle Chess 2024 event in Weissenhaus, where the heart rate of some of the world's best chess players were monitored as they faced each other! We start this series with a look back at how it all started. | Photo Lennart Ootes",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2835",
          "pubDate" : "Sun, 25 Feb 2024 21:15:01",
          "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration deadline extended"
-      },
-      {
-         "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. In the first part of his review he dealt with the treatment of chess in the 21st Century in the MegaBase. Here he offers a rare discovery from a world championship match that fell into oblivion.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/megabase-2024-revisited-nagesh-havanur",
-         "pubDate" : "Sun, 25 Feb 2024 18:05:00",
-         "title" : "MegaBase 2024 Revisited: World Championship Drama"
       },
       {
          "description" : " Rochelle Ballantyne has come a long way since starring in &#8220;Brooklyn Castle.&#8221; In a recent article on chess.com, she reflects on her journey including the trials and tribulations. She also discusses her path in which she managed tough decisions about chess and her career. After earning a Master's in Education Policy from Colombia and a The post <a href=\"https://www.thechessdrum.net/blog/2024/02/25/rochelle-ballantyne-on-chess-career-new-path/\">Rochelle Ballantyne on chess career, new path</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/02/chess-history-math-and-art.html",
          "pubDate" : "Sun, 11 Feb 2024 16:28:00",
          "title" : "Chess History, Math, and Art"
-      },
-      {
-         "description" : "World Champion Ding Liren and world number-one Magnus Carlsen both have to hit back on Monday to keep alive hopes of winning the 2024 Freestyle Chess G.O.A.T. Challenge after they erred in the opening and were put to the sword by GMs Nodirbek Abdu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-3",
-         "pubDate" : "Sun, 11 Feb 2024 13:06:00",
-         "title" : "Carlsen, Ding Defeated In First Classical Chess960 Games"
       },
       {
          "description" : " There are some games where you just fall into the trap of playing for tricks. Common sense disappears and instead, each move is based on some dodgy 2 move trick you hope your opponent will fall for. Here is an example where White tries for a tricky idea around move 12, which basically loses. After that he just keeps digging a deeper hole, hoping his opponent might fall in (Narrators voice: No he didn't) <br /> <b>Stevanic,David (2294) - Kozlovic,Jernej (2174) [C52]</b><br /> 28th HIT Open 2024 Nova Gorica SLO (9.12), 02.02.2024 <script> new PgnViewer( { boardName: \"game1441\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.Qb3 Qf6 8.O-O Bb6 9.e5",
