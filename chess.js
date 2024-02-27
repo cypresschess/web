@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Michael Adams was the rating favourite at the second edition of the Cambridge International Open. However, the reigning World Senior 50+ Champion struggled to beat his lower-rated opponents at first, as he was only in the upper middle of the field halfway through. Thanks to a strong final spurt, though, the former World Championship candidate went on to win yet another tournament. | Photos: Shohreh Bayat / Cambridge Chess Open",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/michael-adams-wins-cambridge-tournament-2024",
+         "pubDate" : "Tue, 27 Feb 2024 09:00:00",
+         "title" : "And the winner is... Michael Adams"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess plc (LSE:CHSS), a prominent chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is pleased to provide updates on strategic developments, including the appointment of a Chief Marketing Officer, player acquisition metrics, and the continuation of its collaboration with FIDE. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2024-02-27_10-43-10.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> <h2>Introducing Andrew Winton as Chief Marketing Officer</h2> World Chess welcomes Andrew Winton, ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-announces-strategic-updates-and-celebrates-chess-his/",
+         "pubDate" : "Tue, 27 Feb 2024 07:44:04",
+         "title" : "World Chess Announces Strategic Updates and Celebrates Chess History with Special Edition Sets"
+      },
+      {
          "description" : "The German Bundesliga is a traditional team tournament featuring some of the best players in the world. After 11 rounds in the 2023/24 season, Viernheim have a clear 3-point lead over the perennial favourites from Baden-Baden. In round 9, Viernheim's Nodirbek Abdusattorov obtained a memorable attacking victory over Gata Kamsky. The game was expertly analysed by IM Robert Ris!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.europechess.org/prague-international-chess-festival-2024-starts/",
          "pubDate" : "Mon, 26 Feb 2024 07:46:30",
          "title" : "Prague International Chess Festival 2024 starts"
-      },
-      {
-         "description" : "Rounds 9-11 of the German League (Bundesliga) took place from Friday to Sunday in Viernheim, a midsize industrial town on Mannheim's outskirts. On Saturday, the all-important clash between Viernheim and Baden-Baden saw Viernheim coming out on top thanks to wins by Parham Maghsoodloo and David Anton. After round 11, Viernheim are leading the standings with a perfect score, 3 match points ahead of the defending champions from Baden-Baden. Vishy Anand, Hikaru Nakamura and Nijat Abasov all played during the weekend, with Anand beating Abasov to re-enter the world's top-10 in the live ratings list. | Photo: Angelika Valkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bundesliga-2024-r11",
-         "pubDate" : "Sun, 25 Feb 2024 23:00:00",
-         "title" : "Bundesliga: Viernheim clear leaders, Anand back in the top 10"
       },
       {
          "description" : "",
@@ -535,7 +543,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aicf-election-on-10-03-2024/",
          "pubDate" : "Sat, 17 Feb 2024 12:05:40",
-         "title" : "AICF Election on 10.03.2024"
+         "title" : "AICF Election on 10.03.2024."
       },
       {
          "description" : "Just before the 1986 world championship in London I was sitting in the living room of our Kensington flat, writing the programme notes for the forthcoming clash between Garry Kasparov and Anatoly Karpov. At one point, while writing, I dropped my pen. It was a British Airways cross between a ballpoint and felt tip. It had []",
