@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tani Adewumi earned his fourth IM norm at the Southwest Open in Irving, Texas (outside of Dallas) last weekend. It was his first in an open tournament. Due to rule changes each player is required to have at least one of their GM/IM title norms earned in an open tournament. This reduces the chance of The post <a href=\"https://www.thechessdrum.net/blog/2024/02/27/tani-adewumi-gets-required-im-norm/\">Tani Adewumi gets required IM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/02/27/tani-adewumi-gets-required-im-norm/",
+         "pubDate" : "Tue, 27 Feb 2024 16:07:35",
+         "title" : "Tani Adewumi gets required IM norm!"
+      },
+      {
+         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
+         "pubDate" : "Tue, 27 Feb 2024 14:50:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "Welcome to the 4th edition of my Beginner Chess Mastery behind-the-scenes newsletter. Last week I shared what mistakes I saw in other Beginner Courses. Since I first announced Beginner Chess Mastery, many have asked me: What will the course cost? Today I'm going to share with you how I've settled on the pricing and how much I will charge. The Cost of Beginner Chess Mastery As you might know, my first course NLT is in the premium segment, going for $297. NLT has compressed learnings from 15+...",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/bcm-4-how-much-will-beginner-chess-mastery-cost/",
+         "pubDate" : "Tue, 27 Feb 2024 14:06:35",
+         "title" : "(BCM #4) How Much Will Beginner Chess Mastery Cost?"
+      },
+      {
          "description" : "As directed the last date of the National Rapid &#38; Blitz 2024 online entries extended to 01st March 2024,1600 PM.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-announces-strategic-updates-and-celebrates-chess-his/",
          "pubDate" : "Tue, 27 Feb 2024 07:44:04",
          "title" : "World Chess Announces Strategic Updates and Celebrates Chess History with Special Edition Sets"
-      },
-      {
-         "description" : "The German Bundesliga is a traditional team tournament featuring some of the best players in the world. After 11 rounds in the 2023/24 season, Viernheim have a clear 3-point lead over the perennial favourites from Baden-Baden. In round 9, Viernheim's Nodirbek Abdusattorov obtained a memorable attacking victory over Gata Kamsky. The game was expertly analysed by IM Robert Ris!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-abdusattorov-attacks",
-         "pubDate" : "Mon, 26 Feb 2024 22:30:00",
-         "title" : "Robert Ris: Abdusattorov attacks from all sides"
       },
       {
          "description" : " The 6th Prague International Chess Festival takes place Mon 26th Feb (opening ceremony) to Thu 7th Mar 2024. There are two strong Round Robin tournaments. The Masters with Abdusattorov, Praggnanandhaa, Vidit, Gukesh, Keymer, Rapport, Maghsoodloo, Navara, Bartel and Thai Dai Van Nguyen. The Challengers isn't too shabby either with Korobov, L'Ami, Santos Latasa, Rodshtein etc. There are other events such as the Futures, Open, Rapids, Chess960 and many amateur groups too. ",
@@ -1048,22 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2874",
          "pubDate" : "Wed, 07 Feb 2024 19:05:26",
          "title" : "Baadur Jobava wins 2024 Georgian Championship"
-      },
-      {
-         "description" : " During this Black History Month 2024, The Chess Drum will present four videos featuring puzzles of several of the chess masters in the Black Diaspora. The videos will provide some historical information about each player and then one of the puzzles from a tournament game. Most of these puzzles were featured in one of the The post <a href=\"https://www.thechessdrum.net/blog/2024/02/06/black-history-month-2024-tribute-week-1/\">Black History Month 2024 Tribute: Week 1</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/02/06/black-history-month-2024-tribute-week-1/",
-         "pubDate" : "Tue, 06 Feb 2024 15:39:50",
-         "title" : "Black History Month 2024 Tribute: Week 1"
-      },
-      {
-         "description" : "Welcome to the first edition of my Behind-the-scenes Beginner Chess Mastery newsletter. This newsletter will go out every Tuesday to just those people on the waitlist for my upcoming course, Beginner Chess Mastery, and is totally separate from my Friday Grandmaster insights (you'll keep getting those weekly emails.) Between now and the release of Beginner Chess Mastery on March 19th, I'm going to share more details on the course: Why I created this course Who this course is for What will be...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/bcm1-why-i-created-beginner-chess-mastery/",
-         "pubDate" : "Tue, 06 Feb 2024 14:06:00",
-         "title" : "(BCM#1) Why I created Beginner Chess Mastery"
       }
    ]
 }
