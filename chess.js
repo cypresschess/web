@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With a large number of extremely successful students, not least the World Championship candidate Praggnanandhaa Rameshbabu, Indian chess coach Ramachandran Ramesh is regarded as a remarkable coach, the Pep Guardiola of chess. In his recently launched FritzTrainer \"Improve your pieces: A winning system you need to know\", he shares the secret of his chess training. Stefan Liebig reviews the course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ramesh-fritztrainer-review",
+         "pubDate" : "Tue, 27 Feb 2024 20:00:00",
+         "title" : "\"Improve your pieces\" by RB Ramesh - A review"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2903",
+         "pubDate" : "Tue, 27 Feb 2024 17:28:30",
+         "title" : "Prague Chess Festival 2024 kicks off in Czech capital "
+      },
+      {
          "description" : " Tani Adewumi earned his fourth IM norm at the Southwest Open in Irving, Texas (outside of Dallas) last weekend. It was his first in an open tournament. Due to rule changes each player is required to have at least one of their GM/IM title norms earned in an open tournament. This reduces the chance of The post <a href=\"https://www.thechessdrum.net/blog/2024/02/27/tani-adewumi-gets-required-im-norm/\">Tani Adewumi gets required IM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/michael-adams-wins-cambridge-tournament-2024",
          "pubDate" : "Tue, 27 Feb 2024 09:00:00",
          "title" : "And the winner is... Michael Adams"
-      },
-      {
-         "description" : "Rook endings might have large drawish tendencies, but they are often difficult to hold. In the diagram position, White is a pawn down, but can still draw. How?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rook-vs-knight-and-bishop-2",
-         "pubDate" : "Tue, 27 Feb 2024 09:00:00",
-         "title" : "The right way"
       },
       {
          "description" : "It's official: the 10th edition of the Francophone Chess Championships will take place this summer, from August 12th to 20th in Quebec City. This event is the flagship annual event of the International Association of Francophone Chess (AIDEF), which, as an affiliated organization, officially represents the Francophonie within the International Chess Federation (FIDE). The Francophone Championship, comprising classical and blitz games, will take place at the Maurice Pollack Pavilion of Laval University, the venue which can accommodate up to 900 []",
