@@ -26,12 +26,12 @@ news_feed (
          "title" : "6th Prague International Chess Festival 2024 - Games and Results"
       },
       {
-         "description" : "This is a flash report. The full report is coming soon.&#38;nbsp; GMs Daniel Naroditsky and Robert Hess knocked out the commentators who inspire them, GMs Peter Svidler and Jan Gustafsson, as they advanced to the Semifinals of the 2024 Team Chess Ba...",
+         "description" : "GMs Daniel Naroditsky and Robert Hess knocked out the commentators who inspire them, GMs Peter Svidler and Jan Gustafsson, as they advanced to the Semifinals of the 2024 Team Chess Battle. Gustafsson and Svidler brought their trash-talk A-games ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-naroditsky-hess-win",
          "pubDate" : "Mon, 26 Feb 2024 15:16:00",
-         "title" : "Flash Report: Naroditsky & Hess Beat Their Commentary Inspirations"
+         "title" : "Never Meet Your Heroes: Naroditsky & Hess Beat Their Commentary Inspirations"
       },
       {
          "description" : "Chess is often considered a calm and quiet game, where the only sound is the clicking of the pieces. But what if we could hear the heartbeat of the players, and see how their body reacts to the tension and excitement of the game? That is exactly what was done in the Freestyle Chess 2024 event in Weissenhaus, where the heart rate of some of the world's best chess players were monitored as they faced each other! We start this series with a look back at how it all started. | Photo Lennart Ootes",
