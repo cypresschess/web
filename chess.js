@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108074449.cms\" />Grandmaster Mitrabha Guha reigned supreme in the Commonwealth Chess championship that concluded at Melaka, Malaysia, on Tuesday. Guha, who bagged a silver medal in the last edition of the tournament in Sri Lanka, ended with 7.5 points in the nine-round tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-mitrabha-guha-wins-commonwealth-chess-crown/articleshow/108074449.cms",
+         "pubDate" : "Wed, 28 Feb 2024 11:12:31",
+         "title" : "GM Mitrabha Guha wins Commonwealth Chess crown"
+      },
+      {
+         "description" : "In a world where experience is often said to take the lead, young prodigies are proving it wrong. An 8-year-old boy defeated a grandmaster in classical chess - he is the youngest ever to achieve this feat! This victory over GM Jacek Stopa from Poland marked a significant highlight of the Burgdorfer Stadthaus Open in Switzerland. Tina Popli writes about Ashwath's remarkable feat and his journey so far. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ashwath-kaushik-youngest-ever-gm-classical",
+         "pubDate" : "Wed, 28 Feb 2024 11:00:00",
+         "title" : "8-year-old Ashwath Kaushik becomes the youngest ever to beat a GM in classical chess"
+      },
+      {
+         "description" : "Open Section India won 9 Gold, 9 Silver and 6 Bronze in Commonwealth Chess Mitrabha Guha triumphs the Open section. GM Mitrabha Guha won the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-bags-24-medals-in-commonwealth-chess-championship-2024-melaka-malaysia/",
+         "pubDate" : "Wed, 28 Feb 2024 09:34:11",
+         "title" : "India bags 24 medals in Commonwealth Chess Championship 2024 Melaka , Malaysia"
+      },
+      {
+         "description" : "The European Chess Union invites the National federations members to submit bids for the organization of European Chess Championships in 2025, 2026 and the European Open &#38; Women Team Championship 2027. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form what they relate to. Any document that reaches the ECU office after the official []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2025-2026-2027/",
+         "pubDate" : "Wed, 28 Feb 2024 08:35:33",
+         "title" : "INVITATION FOR BIDS: European Chess Championships 2025-2026-2027"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev dissects different world class positions and asks whether a potential exchange is a good trade or a bad trade. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/good-or-bad-trade-grandmasters-choice-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E7ylfT6FZN0.jpg?itok=L76isNcU\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -78,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-1",
-         "pubDate" : "Tue, 27 Feb 2024 13:46:30",
+         "pubDate" : "Tue, 27 Feb 2024 13:46:00",
          "title" : "Abdusattorov Enters Live Top 10 After Win In Prague Masters Opening Round"
       },
       {
@@ -122,14 +154,6 @@ news_feed (
          "title" : "FIDE Chess School Award established"
       },
       {
-         "description" : "Michael Adams was the rating favourite at the second edition of the Cambridge International Open. However, the reigning World Senior 50+ Champion struggled to beat his lower-rated opponents at first, as he was only in the upper middle of the field halfway through. Thanks to a strong final spurt, though, the former World Championship candidate went on to win yet another tournament. | Photos: Shohreh Bayat and Reza Islam / Cambridge Chess Open",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/michael-adams-wins-cambridge-tournament-2024",
-         "pubDate" : "Tue, 27 Feb 2024 09:00:00",
-         "title" : "And the winner is... Michael Adams"
-      },
-      {
          "description" : "It's official: the 10th edition of the Francophone Chess Championships will take place this summer, from August 12th to 20th in Quebec City. This event is the flagship annual event of the International Association of Francophone Chess (AIDEF), which, as an affiliated organization, officially represents the Francophonie within the International Chess Federation (FIDE). The Francophone Championship, comprising classical and blitz games, will take place at the Maurice Pollack Pavilion of Laval University, the venue which can accommodate up to 900 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -152,6 +176,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/6th-prague-international-chess-festival-2024",
          "pubDate" : "Mon, 26 Feb 2024 18:32:00",
          "title" : "6th Prague International Chess Festival 2024 - Games and Results"
+      },
+      {
+         "description" : "Last week's post, <A HREF=\"https://chessforallages.blogspot.com/2024/02/first-adventures-in-ai-comics.html\">First Adventures in AI Comics</A> (February 2024), discussed some of the challenges using AI Comic software. One of my paragraphs mentioned, <BLOCKQUOTE> The 2 x 2 format of each page is somewhat monotonous. The free version of the software, which is the version I've been using, offers four different formats of which 2 x 2 is the simplest. Since they can be interchanged easily, I could experiment with the other formats, but there's a significant constraint. There is no control over what part of the story is shown in the individual panels -- four panels in the example of the 2 x 2 forma",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/02/chess-comics-grids-and-panels.html",
+         "pubDate" : "Mon, 26 Feb 2024 16:30:00",
+         "title" : "Chess Comics - Grids and Panels"
       },
       {
          "description" : "GMs Daniel Naroditsky and Robert Hess knocked out the commentators who inspire them, GMs Peter Svidler and Jan Gustafsson, as they advanced to the Semifinals of the 2024 Team Chess Battle. Gustafsson and Svidler brought their trash-talk A-games ...",
@@ -528,14 +560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2894",
          "pubDate" : "Mon, 19 Feb 2024 19:39:07",
          "title" : "FIDE World Cadet U8, U10, U12 Championships 2024: Call for Bids"
-      },
-      {
-         "description" : "Please find the certificates here Open Girls Rank Name Rank Name 1 Daksh Goyal 1 Mrittika Mallick 2 Jihan Tejas Shah 2 Sneha Halder 3",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-national-under-15-chess-championship-27-12-2023-to-04-01-2024/",
-         "pubDate" : "Mon, 19 Feb 2024 17:09:40",
-         "title" : "Certificates of National Under 15 Chess Championship 27.12.2023 to 04.01.2024"
       },
       {
          "description" : "Last week's Monday post was the last in a series of six posts in an experiment using the 'AI Comic' software. The six posts each featured an image picturing part of the story, corresponding to one page in the comic. The six images are reproduced below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob19.jpg\" WIDTH=400 HEIGHT=340><BR> <B>A Chess Village and Its Wizard</B> <P> The six posts corresponding to each page/image are linked here:- <UL> <LI> <B>1st - </B> 2024-01-08: <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-chess-village.html\">The Chess Village</A> <LI> <B>2nd - </B> 2024-01-15: <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-village-wizard.h",
