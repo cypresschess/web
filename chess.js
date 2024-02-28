@@ -42,12 +42,28 @@ news_feed (
          "title" : "8-year-old Ashwath Kaushik becomes the youngest ever to beat a GM in classical chess"
       },
       {
+         "description" : "For the first time ever, both Titled Tuesday winners came one draw away from a perfect score, as both GM Minh Le in the early tournament and GM Hikaru Nakamura in the late tournament &#34;settled&#34; for scores of 10.5/11 and full-point outright victorie...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/le-nakamura-win-titled-tuesday-february-27-2024",
+         "pubDate" : "Wed, 28 Feb 2024 10:34:00",
+         "title" : "Two Near-Perfections In Titled Tuesday"
+      },
+      {
          "description" : "Open Section India won 9 Gold, 9 Silver and 6 Bronze in Commonwealth Chess Mitrabha Guha triumphs the Open section. GM Mitrabha Guha won the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/india-bags-24-medals-in-commonwealth-chess-championship-2024-melaka-malaysia/",
          "pubDate" : "Wed, 28 Feb 2024 09:34:11",
          "title" : "India bags 24 medals in Commonwealth Chess Championship 2024 Melaka , Malaysia"
+      },
+      {
+         "description" : "Last week, FIDE launched the ChessMom initiative, a pilot project that will offer financial assistance to ten female players traveling with their infants to the 45th Chess Olympiad, which takes place in Budapest, Hungary, this September. All expen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/new-chessmom-initiative-encourages-support-for-competitors-with-children",
+         "pubDate" : "Wed, 28 Feb 2024 09:02:00",
+         "title" : "New ChessMom Initiative Encourages Support For Competitors With Children"
       },
       {
          "description" : "The European Chess Union invites the National federations members to submit bids for the organization of European Chess Championships in 2025, 2026 and the European Open &#38; Women Team Championship 2027. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form what they relate to. Any document that reaches the ECU office after the official []",
@@ -70,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/matt-thomas-gothamchess-and-danny-rensch-at-mit-sloan",
-         "pubDate" : "Wed, 28 Feb 2024 06:51:15",
+         "pubDate" : "Wed, 28 Feb 2024 06:51:00",
          "title" : "GothamChess And Chessboxer Matt Thomas Discuss Punching Power Of The Game At MIT"
       },
       {
@@ -834,28 +850,12 @@ news_feed (
          "title" : "Some basic endgame tips on youtube"
       },
       {
-         "description" : "GM Hikaru Nakamura recently extended his record on Chess.com to become the first player ever to break 3400 in blitz. His new high of 3405 is 28 points higher than number two on the list, GM Magnus Carlsen. The electrifying online blitz rivalry b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-becomes-first-to-break-3400-on-chess-com",
-         "pubDate" : "Wed, 14 Feb 2024 10:17:00",
-         "title" : "Nakamura Becomes First To Break 3400 In Blitz On Chess.com"
-      },
-      {
          "description" : "The 2024 Glorney Cup will take place between 23-25 July at the University of Hull. There will be 6 teams: England; England A; Ireland; International;...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/glorney-cup-2024/",
          "pubDate" : "Wed, 14 Feb 2024 09:21:15",
          "title" : "Glorney Cup 2024"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda and GM Kirill Alekseenko, two former world championship candidates, emerged from tied standings to win Titled Tuesday on February 13. Duda needed to overcome four other players in tiebreaks, while Alekseenko only had to outsc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-alekseenko-win-titled-tuesday-february-13-2024",
-         "pubDate" : "Wed, 14 Feb 2024 08:11:00",
-         "title" : "Candidates Win On Tuesday"
       },
       {
          "description" : "",
@@ -1088,22 +1088,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-commission-for-womens-chess-teams-up-with-women-in-chess-foundation/",
          "pubDate" : "Thu, 08 Feb 2024 09:52:50",
          "title" : "ECU Commission for Women's Chess teams up with Women in Chess Foundation"
-      },
-      {
-         "description" : " The Chessable Masters took place Fri 2nd to Wed 7th Feb 2024, the format was double elimination. Magnus Carlsen, Wesley So, Maxime Vachier-Lagrave, Denis Lazavik, Ian Nepomniachtchi, Jose Eduardo Martinez Alcantara, Vladimir Fedoseev and Alireza Firouzja all competed for the title in Division 1. Carlsen ended up winning the event after beating Denis Lazavik in the winners final and then in the Grand Final he lost to Alireza Firouzja, this meant both Carlsen and Firouzja had lost one match so a final match was played to decide who won, Carlsen did, 2-0. Vincent Keymer beat Levon Aronian in the Division 2 final and has qualified for the next main event, Alexey Sarana beat Alexander Grischuk i",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chessable-masters-2024",
-         "pubDate" : "Wed, 7 Feb 2024 19:17:00",
-         "title" : "Chessable Masters 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2874",
-         "pubDate" : "Wed, 07 Feb 2024 19:05:26",
-         "title" : "Baadur Jobava wins 2024 Georgian Championship"
       }
    ]
 }
