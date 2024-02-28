@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The SV Werder Bremen - internationally best-known for its many successes in football - is celebrating its 125th anniversary and the chub's chess department is celebrating its 75th birthday. To mark the anniversary, the chess players have organised a strong tournament with a very mixed field of participants. The tournament will start next Saturday (2 March).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jubilee-tournament-125-years-werder-bremen-75-years-of-chess",
+         "pubDate" : "Wed, 28 Feb 2024 17:00:00",
+         "title" : "Jubilee tournament - 125 years Werder Bremen - 75 years of chess"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108080378.cms\" />India's R Praggnanandhaa came up with a scintillating performance to grind down German Vincent Keymer in the first round of the Prague Masters Chess tournament that got underway on Wednesday. With this win Praggnanandhaa also added some more spice to the tale around the highest rated Indian as he again overtook Viswanathan Anand in live rating to clinch the top spot in the country.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-crushes-vincent-keymer-in-prague-masters-chess-opener/articleshow/108080378.cms",
+         "pubDate" : "Wed, 28 Feb 2024 14:57:26",
+         "title" : "Praggnanandhaa crushes Vincent Keymer in Prague Masters opener"
+      },
+      {
+         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
+         "pubDate" : "Wed, 28 Feb 2024 14:50:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108074449.cms\" />Grandmaster Mitrabha Guha reigned supreme in the Commonwealth Chess championship that concluded at Melaka, Malaysia, on Tuesday. Guha, who bagged a silver medal in the last edition of the tournament in Sri Lanka, ended with 7.5 points in the nine-round tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +56,22 @@ news_feed (
          "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2025-2026-2027/",
          "pubDate" : "Wed, 28 Feb 2024 08:35:33",
          "title" : "INVITATION FOR BIDS: European Chess Championships 2025-2026-2027"
+      },
+      {
+         "description" : "They&#38;rsquo;ve got their offensive lines ready, and they&#38;rsquo;re ready to sack! But we&#38;rsquo;re not talking gridiron here, this is a game on another grid&#38;mdash;chess. Next month the Maryland Terrapins become the latest team to take the field for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maryland-terrapins-play-chess-in-blitzchamps",
+         "pubDate" : "Wed, 28 Feb 2024 07:56:25",
+         "title" : "Into The Endzonegame! Maryland Terrapins Take To Chess For Next Edition Of BlitzChamps"
+      },
+      {
+         "description" : "What is the future of chess? Which formats will be popular? How much of a punch does chessboxing pack? These are some of the burning questions Chess.com&#39;s panel of experts will examine at this year&#39;s MIT Sloan Sports Analytics Conference. Starti...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/matt-thomas-gothamchess-and-danny-rensch-at-mit-sloan",
+         "pubDate" : "Wed, 28 Feb 2024 06:51:15",
+         "title" : "GothamChess And Chessboxer Matt Thomas Discuss Punching Power Of The Game At MIT"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev dissects different world class positions and asks whether a potential exchange is a good trade or a bad trade. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/good-or-bad-trade-grandmasters-choice-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E7ylfT6FZN0.jpg?itok=L76isNcU\" alt=\"\" /></a></div>",
@@ -72,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-vladimir-georgiev",
          "pubDate" : "Tue, 27 Feb 2024 22:04:09",
          "title" : "Grandmaster's Choice - GM Vladimir Georgiev"
-      },
-      {
-         "description" : "With a large number of extremely successful students, not least the World Championship candidate Praggnanandhaa Rameshbabu, Indian chess coach Ramachandran Ramesh is regarded as a remarkable coach, the Pep Guardiola of chess. In his recently launched FritzTrainer \"Improve your pieces: A winning system you need to know\", he shares the secret of his chess training. Stefan Liebig reviews the course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ramesh-fritztrainer-review",
-         "pubDate" : "Tue, 27 Feb 2024 20:00:00",
-         "title" : "\"Improve your pieces\" by RB Ramesh - A review"
       },
       {
          "description" : "",
@@ -128,14 +160,6 @@ news_feed (
          "link" : "https://aicf.in/national-rapid-blitz-2024/",
          "pubDate" : "Tue, 27 Feb 2024 11:42:36",
          "title" : "National Rapid & Blitz 2024"
-      },
-      {
-         "description" : "Lela Javakhishvili emerged as the winner of the Georgian Women's Championship 2024. One of the most successful Georgian chess players, Lela clinched her fifth national title. As is often the case in Georgian Women's championships, it was a very close race among the top-rated players and the members of the very strong national team. Nino Batsiashvili and Meri Arabidze finished in second and third place, respectively.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lela-javakhishvili-wins-georgian-women-ch-2024",
-         "pubDate" : "Tue, 27 Feb 2024 11:00:00",
-         "title" : "Georgian Women's Championship: Lela Javakhishvili grabs fifth title"
       },
       {
          "description" : "Please find the notice here :Notice",
@@ -834,28 +858,12 @@ news_feed (
          "title" : "Candidates Win On Tuesday"
       },
       {
-         "description" : "Chess.com is ready to knock it outta the park again with the launch of a new tournament featuring stars from the Cleveland Guardians Major League Baseball team. SlugChamps: Guardians Chess Club will pit eight teammates from one of America&#38;rsquo;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cleveland-guardians-step-up-to-the-plate-for-slugchamps",
-         "pubDate" : "Wed, 14 Feb 2024 06:55:00",
-         "title" : "Cleveland Guardians Step Up To The Plate For SlugChamps-The First Baseball Stars Chess Tournament"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2882",
          "pubDate" : "Tue, 13 Feb 2024 21:05:08",
          "title" : "FIDE World Senior Team Championship 2024: Registration is open"
-      },
-      {
-         "description" : "GM Magnus Carlsen won what he described as &#34;a very interesting, strategic game&#34; to take the lead against GM Nodirbek Abdusattorov in the 2024 Freestyle Chess G.O.A.T. Challenge Semifinals. GM Levon Aronian also left GM Fabiano Caruana needing to w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-5",
-         "pubDate" : "Tue, 13 Feb 2024 16:10:00",
-         "title" : "Carlsen, Aronian With One Foot In Freestyle Chess Final"
       },
       {
          "description" : "",
