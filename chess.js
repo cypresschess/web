@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The sixth edition of the Prague Chess Festival kicked off at the Don Giovanni Hotel in the Czech capital. In the Masters, Praggnanandhaa, Nodirbek Abdusattorov and Parham Maghsoodloo started with wins to become the tournament's early co-leaders. Pragg's victory, over Vincent Keymer, was remarkable, as the Indian star sacrificed a piece early on and managed to convert his attack into a full point while facing a tough defensive effort by his opponent. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-r1",
+         "pubDate" : "Tue, 27 Feb 2024 23:00:00",
+         "title" : "Prague Chess Festival: Pragg beats Keymer in attacking style"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows his most devastating chess mistakes and what he learned from them. 2024.02.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-mistakes-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Bb6idDa0510.jpg?itok=K2TDhXgj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/julians-mistakes-road-2000-nm-julian-proleiko",
+         "pubDate" : "Tue, 27 Feb 2024 22:04:09",
+         "title" : "Julian's Mistakes | Road to 2000 - NM Julian Proleiko"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev teaches a chess class on a topic of his choice. 2024.02.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E7ylfT6FZN0.jpg?itok=L76isNcU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-vladimir-georgiev",
+         "pubDate" : "Tue, 27 Feb 2024 22:04:09",
+         "title" : "Grandmaster's Choice - GM Vladimir Georgiev"
+      },
+      {
          "description" : "With a large number of extremely successful students, not least the World Championship candidate Praggnanandhaa Rameshbabu, Indian chess coach Ramachandran Ramesh is regarded as a remarkable coach, the Pep Guardiola of chess. In his recently launched FritzTrainer \"Improve your pieces: A winning system you need to know\", he shares the secret of his chess training. Stefan Liebig reviews the course.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,20 +50,28 @@ news_feed (
          "title" : "Tani Adewumi gets required IM norm!"
       },
       {
-         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
-         "pubDate" : "Tue, 27 Feb 2024 14:50:00",
-         "title" : "Prague Chess Festival - Live!"
-      },
-      {
          "description" : "Welcome to the 4th edition of my Beginner Chess Mastery behind-the-scenes newsletter. Last week I shared what mistakes I saw in other Beginner Courses. Since I first announced Beginner Chess Mastery, many have asked me: What will the course cost? Today I'm going to share with you how I've settled on the pricing and how much I will charge. The Cost of Beginner Chess Mastery As you might know, my first course NLT is in the premium segment, going for $297. NLT has compressed learnings from 15+...",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/bcm-4-how-much-will-beginner-chess-mastery-cost/",
          "pubDate" : "Tue, 27 Feb 2024 14:06:35",
          "title" : "(BCM #4) How Much Will Beginner Chess Mastery Cost?"
+      },
+      {
+         "description" : "For the first time in his career, GM Nodirbek Abdusattorov entered the world top 10 on the live rating list today. The Uzbek grandmaster defeated GM Thai Dai Van Nguyen in what was a combative opening round of the Prague Masters. GM Praggnanandh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-1",
+         "pubDate" : "Tue, 27 Feb 2024 13:46:30",
+         "title" : "Abdusattorov Enters Live Top 10 After Win In Prague Masters Opening Round"
+      },
+      {
+         "description" : "In our second consecutive match to go to an armageddon tiebreaker this season, GM Hikaru Nakamura and IM Levy Rozman defeated GMs Jorden van Foreest and Eric Hansen 2-1. Next, they&#39;ll play the legendary commentator team, GMs Daniel Naroditsky and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-nakamura-rozman-win",
+         "pubDate" : "Tue, 27 Feb 2024 13:35:00",
+         "title" : "Nakamura, GothamChess Dream Team Wins In Armageddon"
       },
       {
          "description" : "As directed the last date of the National Rapid &#38; Blitz 2024 online entries extended to 01st March 2024,1600 PM.",
@@ -698,14 +730,6 @@ news_feed (
          "title" : "Magnus and Fabi to Face Off in Showdown Between World's Two Highest Ranked Players"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> <meta charset=\"UTF-8\" /> <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /> <title>The 2024 American Cup</title> <strong>Saint Louis to Host Exciting Double-Elimination Tournament, Offering $400,000 in Prizes to Elite Competitors</strong> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-american-cup-showcasing-americas-finest-chess-talents",
-         "pubDate" : "Thu, 15 Feb 2024 17:10:43",
-         "title" : "The 2024 American Cup: Showcasing America's Finest Chess Talents"
-      },
-      {
          "description" : "World number-one Magnus Carlsen missed a chance for more as he made a draw with Black against GM Fabiano Caruana in game one of the 2024 Freestyle Chess G.O.A.T. Challenge Final. GM Levon Aronian found a miracle escape against&#38;nbsp;GM Nodirbek Abd...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -794,14 +818,6 @@ news_feed (
          "title" : "Cleveland Guardians Step Up To The Plate For SlugChamps-The First Baseball Stars Chess Tournament"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Originally from Grandmaster&#039;s Choice on YouTube. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/reality-playing-kasparov-grandmasters-choice-wgm-thalia-cervantes-shorts-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZPwt6Ylc5a4.jpg?itok=SWriO6Vj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/reality-playing-kasparov-grandmasters-choice-wgm-thalia-cervantes-shorts-chess",
-         "pubDate" : "Wed, 14 Feb 2024 06:28:26",
-         "title" : "Reality of Playing Like Kasparov | Grandmaster's Choice - WGM Thalia Cervantes #Shorts #chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -842,14 +858,6 @@ news_feed (
          "title" : "International Congress on Chess, Education and Health in Menorca: A New Look into the Future"
       },
       {
-         "description" : "The Saint Louis Chess Club has announced its lineup for this year&#38;rsquo;s American Cup boasting &#34;16 of the strongest chess players in America.&#34; Eight GMs are on the roster for the $250,000 Open section headed by U.S. number-one GM Fabiano Caruan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-so-krush-and-lee-headline-2024-american-cup",
-         "pubDate" : "Tue, 13 Feb 2024 08:21:38",
-         "title" : "Caruana, So, Krush, And Lee Headline 2024 American Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -872,14 +880,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/02/the-assistants-girlfriend.html",
          "pubDate" : "Mon, 12 Feb 2024 16:37:00",
          "title" : "The Assistant's Girlfriend"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen hit back with three wins to beat GM Alireza Firouzja and book a 2024 Freestyle Chess G.O.A.T. Challenge Semifinal against GM Nodirbek Abdusattorov, who eased past GM Ding Liren. It was the day the &#34;veterans&#34; struck ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-4",
-         "pubDate" : "Mon, 12 Feb 2024 16:26:00",
-         "title" : "Carlsen Storms Back To Join Abdusattorov, Caruana, Aronian In Semis"
       },
       {
          "description" : " After the success of his book \"Oops I Resigned Again\", GM Ian Rogers has released a follow up. \"Oops I Resigned One More Time\". Once again the book looks at the tragic side of chess, where players prematurely throw in the towel, instead of finding the saving, or even the winning, move. Each chapter consists of 5 positions, where the reader is asked to find the saving move. With 20 chapters, there are 100 position of varying degrees of difficulty to work through. But that's not all! Every position has a story attached to it, whether it is the circumstances behind the game, a potted history of one of the players involved, or just an amusing anecdote related to the position. So you actually ge",
