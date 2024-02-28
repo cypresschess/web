@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev dissects different world class positions and asks whether a potential exchange is a good trade or a bad trade. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/good-or-bad-trade-grandmasters-choice-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E7ylfT6FZN0.jpg?itok=L76isNcU\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/good-or-bad-trade-grandmasters-choice-gm-vladimir-georgiev",
+         "pubDate" : "Wed, 28 Feb 2024 01:04:12",
+         "title" : "Good or Bad Trade? | Grandmaster's Choice - GM Vladimir Georgiev"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows his chess mistakes from the GM Norm event he just played in Saint Louis, and what he learned from them. 2024.02.27<br /> Robby Kevlishvili vs. Julian Proleiko, 2024<br /> Proleiko vs. Dambasuren Batsuren, 2024: C45 Scotch game<br /> Dimitar Mardov vs. Proleiko, 2024 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-mistakes-gm-norm-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/julians-mistakes-gm-norm-road-2000-nm-julian-proleiko",
+         "pubDate" : "Wed, 28 Feb 2024 01:04:12",
+         "title" : "Julian's Mistakes from the GM Norm | Road to 2000 - NM Julian Proleiko"
+      },
+      {
          "description" : "The sixth edition of the Prague Chess Festival kicked off at the Don Giovanni Hotel in the Czech capital. In the Masters, Praggnanandhaa, Nodirbek Abdusattorov and Parham Maghsoodloo started with wins to become the tournament's early co-leaders. Pragg's victory, over Vincent Keymer, was remarkable, as the Indian star sacrificed a piece early on and managed to convert his attack into a full point while facing a tough defensive effort by his opponent. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,22 +728,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/magnus-and-fabi-face-showdown-between-worlds-two-highest-fide-ranked-players-shorts",
          "pubDate" : "Fri, 16 Feb 2024 00:31:46",
          "title" : "Magnus and Fabi to Face Off! Showdown Between World's Two Highest FIDE-Ranked Players #shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen beats Alireza Firouzja in the first playoff of the Freestyle Chess G.O.A.T. Challenge, says his next opponent Abdusattorov is &quot;the guy who&#039;s played the best chess here.&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-beats-alireza-first-playoff-freestyle-goat-moves-abdusattorov\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1FQeJg0FL1U.jpg?i",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-beats-alireza-first-playoff-freestyle-goat-moves-abdusattorov",
-         "pubDate" : "Thu, 15 Feb 2024 21:31:53",
-         "title" : "Magnus beats Alireza in first playoff of Freestyle G.O.A.T. Moves onto Abdusattorov"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> After defeating Nodirbek Abdusattorov, Magnus Carlsen will face off against Fabiano Caruana in a showdown between the world&#039;s two highest rated chess players at the Freestyle Chess G.O.A.T. Challenge. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-and-fabi-face-showdown-between-worlds-two-highest-ranked-players\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sxL-JQUt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-and-fabi-face-showdown-between-worlds-two-highest-ranked-players",
-         "pubDate" : "Thu, 15 Feb 2024 21:31:53",
-         "title" : "Magnus and Fabi to Face Off in Showdown Between World's Two Highest Ranked Players"
       },
       {
          "description" : "World number-one Magnus Carlsen missed a chance for more as he made a draw with Black against GM Fabiano Caruana in game one of the 2024 Freestyle Chess G.O.A.T. Challenge Final. GM Levon Aronian found a miracle escape against&#38;nbsp;GM Nodirbek Abd...",
