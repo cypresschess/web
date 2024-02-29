@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Parham Maghsoodloo became the first sole leader at the Masters section of the Prague Chess Festival after beating Praggnanandhaa Rameshbabu with the white pieces. Maghsoodloo thus ended Pragg's undefeated streak of 47 games. In the one other decisive game of the round, Dommaraju Gukesh got the better of Thai Dai Van Nguyen. Meanwhile, Ediz Gurel scored a win to join Anton Korobov in the lead of the Challengers section. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-r2",
+         "pubDate" : "Thu, 29 Feb 2024 02:15:00",
+         "title" : "Prague: Maghsoodloo beats Pragg, leads"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> In-person audience member purposes a questionable sacrifice. 2024.02.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/audience-offers-sacrifice-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ukJaLUHQdUw.jpg?itok=QhjAh4z1\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-crushes-vincent-keymer-in-prague-masters-chess-opener/articleshow/108080378.cms",
          "pubDate" : "Wed, 28 Feb 2024 14:57:26",
          "title" : "Praggnanandhaa crushes Vincent Keymer in Prague Masters opener"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
-         "pubDate" : "Wed, 28 Feb 2024 14:50:00",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu hadn&#39;t lost for 47 classical games straight, but today that impressive streak came to an end. He lost to GM Parham Maghsoodloo, who is the proud leader of the Prague Masters with a 100 percent score. GM Gukesh Dommar...",
