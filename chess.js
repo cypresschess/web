@@ -42,6 +42,14 @@ news_feed (
          "title" : "New World Record: 8-year-old beats Grandmaster - The Underdog"
       },
       {
+         "description" : "Get ready to do some damage. Learn how to go straight for your opponent&#39;s throat from move one with GM Jan Gustafsson&#39;s new Aggressive 1.e4 Repertoire Part I on Chessable! Click the button below to try out the Short &#38;amp; Sweet free version o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jan-gustafsson-aggressive-1e4-repertoire",
+         "pubDate" : "Thu, 29 Feb 2024 10:42:11",
+         "title" : "Get Aggressive With GM Jan Gustafsson's New 1.e4 Chessable Course"
+      },
+      {
          "description" : "In the recent Freestyle event, heart rates of the players were measured in classical chess, with slow time controls. In bullet and blitz formats, where intuition prevails, heart rates remain relatively low compared to slower time controls like Rapid or Classical, which allow more contemplation during critical positions. Here are observations provided by the leading expert on the heart rate data shared during the Weissenhaus event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -810,14 +818,6 @@ news_feed (
          "title" : "Iivo Nei and Andreas Dueckstein awarded Honorary Grandmaster title"
       },
       {
-         "description" : "World number-one Magnus Carlsen missed a chance for more as he made a draw with Black against GM Fabiano Caruana in game one of the 2024 Freestyle Chess G.O.A.T. Challenge Final. GM Levon Aronian found a miracle escape against&#38;nbsp;GM Nodirbek Abd...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-7",
-         "pubDate" : "Thu, 15 Feb 2024 13:04:00",
-         "title" : "Carlsen-Caruana Final Starts With Draw As Firouzja, Keymer Win"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/weissenhaus-freestyle-chess-goat-challenge-2024",
          "pubDate" : "Thu, 8 Feb 2024 22:31:00",
          "title" : "Weissenhaus Freestyle Chess GOAT Challenge 2024 - Games and Results"
-      },
-      {
-         "description" : "The previous 'On the Cover' post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/january-1974-1999-on-cover.html\">January 1974 & 1999 'On the Cover'</A> (January 2024), had several twists on the World Championships of 50 and 25 years ago. In the current post, we return to important events of national interest. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob08.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'EuroDisney and the World Rapids for Kids' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> James Tarjan, winner of the American Open in California. Carl Budd's story is [inside]. Photo by Paula Muller. </BLOCKQUOTE> <P> The Carl ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/02/february-1974-1999-on-cover.html",
-         "pubDate" : "Thu, 08 Feb 2024 16:36:00",
-         "title" : "February 1974 & 1999 'On the Cover'"
       }
    ]
 }
