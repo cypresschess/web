@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
+         "pubDate" : "Thu, 29 Feb 2024 14:50:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "Please click here for Form 3",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-election-form-3/",
+         "pubDate" : "Thu, 29 Feb 2024 12:51:08",
+         "title" : "AICF election :Form 3"
+      },
+      {
          "description" : " In honour of the 29th of Feb, I've dug up a game that was played on the 29th of Feb, and lasted 29 moves! <br /> <b>Fressinet,Laurent (2700) - Ding,Liren (2766) [D78]</b><br /> China Elite Mind blitz Huaian (20), 29.02.2016 <script> new PgnViewer( { boardName: \"game1446\", movesFormat: \"default\", pgnString:'1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.O-O O-O 6.c4 c6 7.b3 dxc4 8.bxc4 c5 9.Bb2 Qb6 10.Qb3 cxd4 11.Nxd4 Na6 12.e3 Nc5 13.Qa3 e5 14.Nb5 Be6 15.Nd2 Rad8 16.Rfd1 Rd3 17.Nb3 Rfd8 18.Rxd3 Nxd3 19.Bc3 Rd7 20.Qxa7 Qxa7 21.Nxa7 Bxc4 22.Rd1 Nd5 23.Ba1 N5b4 24.Na5 Ba6 25.Bf1 e4 26.Bxg7 Kxg7 27.Nc8 Nd5 28.Nb3 Rd8 29.Na7 Ra8 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /> <br /> <di",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -594,14 +610,6 @@ news_feed (
          "title" : "8-year-old Indian-origin boy beats Polish GM, breaks record"
       },
       {
-         "description" : "from 10-17th Feb 2024 AICF EVENT CODE : 325102/325103/325104/325105/325106RAJ(S)/2024 Venue : SMS Stadium, Jaipur, Rajasthan, &#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Chief Arbiter's Report 11th National Amateur Chess Championship 2024",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-11th-national-amateur-chess-championship-2024/",
-         "pubDate" : "Tue, 20 Feb 2024 05:51:39",
-         "title" : "Final Report of 11th National Amateur Chess Championship 2024"
-      },
-      {
          "description" : " Yesterday (19 February) was the 100th anniversary of the birth of David Bronstein. Although he never became World Champion (tying his only match 12-12 with Mikhail Botvinnik) he was still one of the most consequential figures in modern chess. Early on in his career he developed or strengthened a number of important opening systems, while towards the end he participated in a number of matches involving increasingly strong chess engines. An inventive attacking player, Bronstein demonstrated a propensity for sacrificial play from the very start of his chess career, <br /> <b>Bronstein,David I - Zaslavsky,A [C43]</b><br /> Bronstein in Kiev Kiev, 1938 <script> new PgnViewer( { boardName: \"game1",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1040,30 +1048,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/02/february-1974-1999-on-cover.html",
          "pubDate" : "Thu, 08 Feb 2024 16:36:00",
          "title" : "February 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "Chess960 or Freestyle chess will soon be the centre of attention. The 1st German Chess960 Championship will take place in Berlin, Germany, on 9 February and in the German spa Weissenhaus at the Baltic see the world's best chess players will compete in the Freestyle Chess G.O.A.T. Challenge. But who invented this form of chess? Chess historian Hans D. Post has been searching the archives. | Picture: Philip Julius van Zuylen van Nijevelt, who probably was the first to come up with the idea of Chess960 or Freestyle chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess960-or-freestyle-chess-how-it-all-began",
-         "pubDate" : "Thu, 08 Feb 2024 16:00:00",
-         "title" : "Chess960 or Freestyle Chess: How it all began"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2876",
-         "pubDate" : "Thu, 08 Feb 2024 14:45:12",
-         "title" : "Magnus Carlsen strikes back to win 2024 Chessable Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2875",
-         "pubDate" : "Thu, 08 Feb 2024 12:57:18",
-         "title" : "FIDE Aid Package to Open Tournaments 2024"
       }
    ]
 }
