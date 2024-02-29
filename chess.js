@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> In-person audience member purposes a questionable sacrifice. 2024.02.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/audience-offers-sacrifice-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ukJaLUHQdUw.jpg?itok=QhjAh4z1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/audience-offers-sacrifice-grandmasters-choice-wgm-thalia-cervantes",
+         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
+         "title" : "Audience Offers A Sacrifice | Grandmaster's Choice - WGM Thalia Cervantes"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Julian forgets his purpose and blows a win. 2024.02.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-forget-why-you-made-move-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jLcCV_TKdVs.jpg?itok=_Yrz7qQD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dont-forget-why-you-made-move-road-2000-nm-julian-proleiko",
+         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
+         "title" : "Don't Forget Why You Made a Move! | Road to 2000 - NM Julian Proleiko"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Viewer suggests an illegal move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/qg1-illegal-highly-effective-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cJ7kPMvhEkw.jpg?itok=fxXxIY29\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/qg1-illegal-highly-effective-road-2000-nm-julian-proleiko",
+         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
+         "title" : "Qg1? Illegal, but Highly Effective! | Road to 2000 - NM Julian Proleiko"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Behind the pawns, there is room to improve. 2024.02.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/seize-initiative-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yq0pN3IYCs4.jpg?itok=LuzWolZe\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/seize-initiative-grandmasters-choice-wgm-thalia-cervantes",
+         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
+         "title" : "Seize the Initiative | Grandmaster's Choice - WGM Thalia Cervantes"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Boros likens the Carlsbad structure to World War I. 2024.02.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsbad-pawn-structure-trench-warfare-grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4gQ6jLM2Cy8.jpg?itok=VMdxVGx2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsbad-pawn-structure-trench-warfare-grandmaster-psychology-gm-denes-boros",
+         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
+         "title" : "Carlsbad Pawn Structure is Trench Warfare! | Grandmaster Psychology - GM Denes Boros"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Understanding the stability of the Carlsbad pawn structure. 2024.02.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/oh-stability-carlsbad-structure-black-grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BawuuQaxbEM.jpg?itok=sRPUtURL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/oh-stability-carlsbad-structure-black-grandmaster-psychology-gm-denes-boros",
+         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
+         "title" : "Oh, The Stability! Carlsbad Structure for Black | Grandmaster Psychology - GM Denes Boros"
+      },
+      {
+         "description" : "The Queen's Gambit Declined (QGD), is a highly popular opening for players of all levels, from absolute beginners to World Champions. Known for giving a solid position, many play this opening from the Black side, however, things aren't as simple as they seem to be.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/iniyan-panneerselvam-a-repertoire-against-the-queen-s-gambit-declined-with-4-bg5",
+         "pubDate" : "Wed, 28 Feb 2024 22:00:00",
+         "title" : "Iniyan Panneerselvam: A Repertoire against the Queen's Gambit Declined with 4.Bg5"
+      },
+      {
          "description" : "The SV Werder Bremen - internationally best-known for its many successes in football - is celebrating its 125th anniversary and the chub's chess department is celebrating its 75th birthday. To mark the anniversary, the chess players have organised a strong tournament with a very mixed field of participants. The tournament will start next Saturday (2 March).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
          "pubDate" : "Wed, 28 Feb 2024 14:50:00",
          "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu hadn&#39;t lost for 47 classical games straight, but today that impressive streak came to an end. He lost to GM Parham Maghsoodloo, who is the proud leader of the Prague Masters with a 100 percent score. GM Gukesh Dommar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-2",
+         "pubDate" : "Wed, 28 Feb 2024 13:11:00",
+         "title" : "Maghsoodloo Ends Praggnanandhaa's 47-Game Unbeaten Streak"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108074449.cms\" />Grandmaster Mitrabha Guha reigned supreme in the Commonwealth Chess championship that concluded at Melaka, Malaysia, on Tuesday. Guha, who bagged a silver medal in the last edition of the tournament in Sri Lanka, ended with 7.5 points in the nine-round tournament.",
@@ -106,28 +170,12 @@ news_feed (
          "title" : "Julian's Mistakes from the GM Norm | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "The sixth edition of the Prague Chess Festival kicked off at the Don Giovanni Hotel in the Czech capital. In the Masters, Praggnanandhaa, Nodirbek Abdusattorov and Parham Maghsoodloo started with wins to become the tournament's early co-leaders. Pragg's victory, over Vincent Keymer, was remarkable, as the Indian star sacrificed a piece early on and managed to convert his attack into a full point while facing a tough defensive effort by his opponent. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-r1",
-         "pubDate" : "Tue, 27 Feb 2024 23:00:00",
-         "title" : "Prague Chess Festival: Pragg beats Keymer in attacking style"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows his most devastating chess mistakes and what he learned from them. 2024.02.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-mistakes-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Bb6idDa0510.jpg?itok=K2TDhXgj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/julians-mistakes-road-2000-nm-julian-proleiko",
          "pubDate" : "Tue, 27 Feb 2024 22:04:09",
          "title" : "Julian's Mistakes | Road to 2000 - NM Julian Proleiko"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev teaches a chess class on a topic of his choice. 2024.02.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/grandmasters-choice-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E7ylfT6FZN0.jpg?itok=L76isNcU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/grandmasters-choice-gm-vladimir-georgiev",
-         "pubDate" : "Tue, 27 Feb 2024 22:04:09",
-         "title" : "Grandmaster's Choice - GM Vladimir Georgiev"
       },
       {
          "description" : "",
@@ -402,14 +450,6 @@ news_feed (
          "title" : "Germany wins double gold at the Mitropa Cup 2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Woman Grandmaster Thalia Cervantes talks about committing to a chess move when your intuition says to &quot;go for it.&quot; 2024.02.13 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-does-your-chess-intuition-say-grandmasters-choice-wgm-thalia-cervantes-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TVaC2W7PEMY.jpg?itok=9REiJ2u6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-does-your-chess-intuition-say-grandmasters-choice-wgm-thalia-cervantes-chess",
-         "pubDate" : "Fri, 23 Feb 2024 18:54:10",
-         "title" : "What Does Your Chess Intuition Say? | Grandmaster's Choice - WGM Thalia Cervantes #chess"
-      },
-      {
          "description" : "The ECF is accepting registrations for the European Youth Chess Championship in Prague (Czech Republic). The Rapid and Blitz tournaments run from 16 August ...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -424,14 +464,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/feb/23/freestyle-chess-plans-2025-global-tour-for-carlsen-and-the-worlds-top-players",
          "pubDate" : "Fri, 23 Feb 2024 08:00:42",
          "title" : "Freestyle Chess plans 2025 global Tour for Carlsen and the world's top players"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev shows typical attacks in the Italian opening and ideas in the 1.e4 e5 pawn structure. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/win-italian-game-prepare-pro-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/p4nPEpXldAM.jpg?itok=w7Nb4CD3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/win-italian-game-prepare-pro-gm-vladimir-georgiev",
-         "pubDate" : "Fri, 23 Feb 2024 00:51:04",
-         "title" : "Win With The Italian Game! | Prepare Like A Pro - GM Vladimir Georgiev"
       },
       {
          "description" : "To All Office Bearers / State Associations, Greetings from AICF! Kindly send your nominations/names for the elections of 2024-2027 of AICF in consonance with the",
@@ -512,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/giri-ivic-win-titled-tuesday-february-20-2024",
          "pubDate" : "Wed, 21 Feb 2024 08:48:08",
          "title" : "Twitter King Now Titled Tuesday King"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko prepares for his opponents in an upcoming Grandmaster Norm tournament by looking at a game from every one of them, and how SCARY they are! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-scary-opponents-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/h65mXo0jaCs.jpg?itok=Z9ApfnHE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/julians-scary-opponents-road-2000-nm-julian-proleiko",
-         "pubDate" : "Wed, 21 Feb 2024 00:40:24",
-         "title" : "Julian's Scary Opponents | Road to 2000 - NM Julian Proleiko"
       },
       {
          "description" : " One of the simple pleasures in life is finding a book that you know nothing about, and discovering it is quite a good read. I've had occasion to do this, usually when travelling, or simply out and about. The chess equivalent of this may well be finding a left behind scoresheet at a tournament or club. The game below is from one such scoresheet. To be fair, it was actually played on the board next to mine at the Gungahlin Chess Club yesterday evening, but if one of the players hadn't left it behind, then I doubt I would have remembered enough of the game to put it here. The game itself has a few points of interest. Before the game Matt Radisich was being encourage to play the Albin Counter G",
@@ -778,22 +802,6 @@ news_feed (
          "title" : "Iivo Nei and Andreas Dueckstein awarded Honorary Grandmaster title"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Magnus Carlsen beats Alireza Firouzja in the first playoff of the Freestyle Chess G.O.A.T. Challenge, says his next opponent Abdusattorov is &quot;the guy who&#039;s played the best chess here.&quot; </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-beats-alireza-playoff-1-freestyle-goat-moves-abdusattorov-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1FQeJg0FL1U.jp",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-beats-alireza-playoff-1-freestyle-goat-moves-abdusattorov-shorts",
-         "pubDate" : "Fri, 16 Feb 2024 00:31:46",
-         "title" : "Magnus Beats Alireza in playoff #1 of Freestyle G.O.A.T.; Moves onto Abdusattorov #Shorts"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> After defeating Nodirbek Abdusattorov, Magnus Carlsen will face off against Fabiano Caruana in a showdown between the world&#039;s two highest FIDE-rated chess players at the Freestyle Chess G.O.A.T. Challenge. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/magnus-and-fabi-face-showdown-between-worlds-two-highest-fide-ranked-players-shorts\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/magnus-and-fabi-face-showdown-between-worlds-two-highest-fide-ranked-players-shorts",
-         "pubDate" : "Fri, 16 Feb 2024 00:31:46",
-         "title" : "Magnus and Fabi to Face Off! Showdown Between World's Two Highest FIDE-Ranked Players #shorts"
-      },
-      {
          "description" : "World number-one Magnus Carlsen missed a chance for more as he made a draw with Black against GM Fabiano Caruana in game one of the 2024 Freestyle Chess G.O.A.T. Challenge Final. GM Levon Aronian found a miracle escape against&#38;nbsp;GM Nodirbek Abd...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2884",
          "pubDate" : "Wed, 14 Feb 2024 16:13:11",
          "title" : "Starting with a bang: Chess Torch Ceremony kicks off FIDE's centennial celebration"
-      },
-      {
-         "description" : "They may be playing Chess960 instead of regular chess, but it&#39;s world number-one Magnus Carlsen and number-two Fabiano Caruana who will contest the Final of the 2024 Freestyle Chess G.O.A.T. Challenge after Carlsen eased past GM Nodirbek Abdusatto...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-6",
-         "pubDate" : "Wed, 14 Feb 2024 15:58:00",
-         "title" : "Caruana Blunders 2 Rooks But Still Sets Up Carlsen Final"
       },
       {
          "description" : "",
