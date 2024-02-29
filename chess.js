@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the recent Freestyle event, heart rates of the players were measured in classical chess, with slow time controls. In bullet and blitz formats, where intuition prevails, heart rates remain relatively low compared to slower time controls like Rapid or Classical, which allow more contemplation during critical positions. Here are observations provided by the leading expert on the heart rate data shared during the Weissenhaus event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-heart-racing-experience-2",
+         "pubDate" : "Thu, 29 Feb 2024 09:00:00",
+         "title" : "A Heart-Racing Experience! (2)"
+      },
+      {
          "description" : "Parham Maghsoodloo became the first sole leader at the Masters section of the Prague Chess Festival after beating Praggnanandhaa Rameshbabu with the white pieces. Maghsoodloo thus ended Pragg's undefeated streak of 47 games. In the one other decisive game of the round, Dommaraju Gukesh got the better of Thai Dai Van Nguyen. Meanwhile, Ediz Gurel scored a win to join Anton Korobov in the lead of the Challengers section. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +104,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-mitrabha-guha-wins-commonwealth-chess-crown/articleshow/108074449.cms",
          "pubDate" : "Wed, 28 Feb 2024 11:12:31",
          "title" : "GM Mitrabha Guha wins Commonwealth Chess crown"
-      },
-      {
-         "description" : "In a world where experience is often said to take the lead, young prodigies are proving it wrong. An 8-year-old boy defeated a grandmaster in classical chess - he is the youngest ever to achieve this feat! This victory over GM Jacek Stopa from Poland marked a significant highlight of the Burgdorfer Stadthaus Open in Switzerland. Tina Popli writes about Ashwath's remarkable feat and his journey so far. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ashwath-kaushik-youngest-ever-gm-classical",
-         "pubDate" : "Wed, 28 Feb 2024 11:00:00",
-         "title" : "8-year-old Ashwath Kaushik becomes the youngest ever to beat a GM in classical chess"
       },
       {
          "description" : "For the first time ever, both Titled Tuesday winners came one draw away from a perfect score, as both GM Minh Le in the early tournament and GM Hikaru Nakamura in the late tournament &#34;settled&#34; for scores of 10.5/11 and full-point outright victorie...",
