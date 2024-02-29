@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " In honour of the 29th of Feb, I've dug up a game that was played on the 29th of Feb, and lasted 29 moves! <br /> <b>Fressinet,Laurent (2700) - Ding,Liren (2766) [D78]</b><br /> China Elite Mind blitz Huaian (20), 29.02.2016 <script> new PgnViewer( { boardName: \"game1446\", movesFormat: \"default\", pgnString:'1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.O-O O-O 6.c4 c6 7.b3 dxc4 8.bxc4 c5 9.Bb2 Qb6 10.Qb3 cxd4 11.Nxd4 Na6 12.e3 Nc5 13.Qa3 e5 14.Nb5 Be6 15.Nd2 Rad8 16.Rfd1 Rd3 17.Nb3 Rfd8 18.Rxd3 Nxd3 19.Bc3 Rd7 20.Qxa7 Qxa7 21.Nxa7 Bxc4 22.Rd1 Nd5 23.Ba1 N5b4 24.Na5 Ba6 25.Bf1 e4 26.Bxg7 Kxg7 27.Nc8 Nd5 28.Nb3 Rd8 29.Na7 Ra8 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /> <br /> <di",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/02/every-4-years.html",
+         "pubDate" : "Thu, 29 Feb 2024 12:19:00",
+         "title" : "Every 4 years"
+      },
+      {
+         "description" : " The 5th Shenzhen Longgang Chess Masters takes place 29th February to 7th March 2024. Players: Anish Giri, Arjun Erigaisi, Yu Yangyi, Vladislav Artemiev, Daniil Dubov, Bu Xiangzhi, Ma Qun and Xu Xiangyu.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/5th-shenzhen-longgang-chess-masters-2024",
+         "pubDate" : "Thu, 29 Feb 2024 11:53:00",
+         "title" : "5th Shenzhen Longgang Chess Masters 2024 - Games and Results"
+      },
+      {
+         "description" : "In the latest episode of \"The Underdog,\" we have a monumental moment in chess history, where 8-year-old Ashwath Kaushik shattered expectations by defeating a grandmaster in a classical chess game. Despite the crazy rating difference of almost 500 points, Ashwath demonstrated remarkable skill and strategic finesse. IM Robert Ris provides a comprehensive analysis of the game, breaking down the critical moves and strategies that led to this young prodigy's incredible victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-world-record-8-year-old-beats-grandmaster-the-underdog",
+         "pubDate" : "Thu, 29 Feb 2024 10:51:16",
+         "title" : "New World Record: 8-year-old beats Grandmaster - The Underdog"
+      },
+      {
          "description" : "In the recent Freestyle event, heart rates of the players were measured in classical chess, with slow time controls. In bullet and blitz formats, where intuition prevails, heart rates remain relatively low compared to slower time controls like Rapid or Classical, which allow more contemplation during critical positions. Here are observations provided by the leading expert on the heart rate data shared during the Weissenhaus event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/iniyan-panneerselvam-a-repertoire-against-the-queen-s-gambit-declined-with-4-bg5",
          "pubDate" : "Wed, 28 Feb 2024 22:00:00",
          "title" : "Iniyan Panneerselvam: A Repertoire against the Queen's Gambit Declined with 4.Bg5"
-      },
-      {
-         "description" : "The SV Werder Bremen - internationally best-known for its many successes in football - is celebrating its 125th anniversary and the chub's chess department is celebrating its 75th birthday. To mark the anniversary, the chess players have organised a strong tournament with a very mixed field of participants. The tournament will start next Saturday (2 March).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jubilee-tournament-125-years-werder-bremen-75-years-of-chess",
-         "pubDate" : "Wed, 28 Feb 2024 17:00:00",
-         "title" : "Jubilee tournament - 125 years Werder Bremen - 75 years of chess"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108080378.cms\" />India's R Praggnanandhaa came up with a scintillating performance to grind down German Vincent Keymer in the first round of the Prague Masters Chess tournament that got underway on Wednesday. With this win Praggnanandhaa also added some more spice to the tale around the highest rated Indian as he again overtook Viswanathan Anand in live rating to clinch the top spot in the country.",
@@ -192,14 +208,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/27/tani-adewumi-gets-required-im-norm/",
          "pubDate" : "Tue, 27 Feb 2024 16:07:35",
          "title" : "Tani Adewumi gets required IM norm!"
-      },
-      {
-         "description" : "Welcome to the 4th edition of my Beginner Chess Mastery behind-the-scenes newsletter. Last week I shared what mistakes I saw in other Beginner Courses. Since I first announced Beginner Chess Mastery, many have asked me: What will the course cost? Today I'm going to share with you how I've settled on the pricing and how much I will charge. The Cost of Beginner Chess Mastery As you might know, my first course NLT is in the premium segment, going for $297. NLT has compressed learnings from 15+...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/bcm-4-how-much-will-beginner-chess-mastery-cost/",
-         "pubDate" : "Tue, 27 Feb 2024 14:06:35",
-         "title" : "(BCM #4) How Much Will Beginner Chess Mastery Cost?"
       },
       {
          "description" : "For the first time in his career, GM Nodirbek Abdusattorov entered the world top 10 on the live rating list today. The Uzbek grandmaster defeated GM Thai Dai Van Nguyen in what was a combative opening round of the Prague Masters. GM Praggnanandh...",
@@ -578,14 +586,6 @@ news_feed (
          "title" : " Commonwealth Chess Championship 2024"
       },
       {
-         "description" : "Welcome to the 3rd edition of my Beginner Chess Mastery behind-the-scenes newsletter. Last week, I shared what makes for a great Beginner Chess Course. Today, I want to talk about the problem with other Beginner resources. There are three problems that came up repeatedly in my research for this course: The resource isn't for real beginners. The resource is way too big. The resource explains what but not why. 1) The Resource isn't for real Beginners. English is not my native language, but...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/bcm-3-what-is-wrong-with-other-beginner-resources/",
-         "pubDate" : "Tue, 20 Feb 2024 14:04:27",
-         "title" : "(BCM #3) What is Wrong with Other Beginner Resources"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107856033.cms\" />An eight-year-old Indian-origin boy defeated Polish chess grandmaster Jacek Stopa at the Burgdorfer Stadthaus Open in Switzerland on Sunday, becoming the youngest player to defeat a GM in classical chess. Ashwath Kaushik, who represented Singapore, defeated Stopa, who at 37 is nearly five times older than him, according to a Channel News Asia report. The previous record was set only a few weeks earlier when Serbia's Leonid Ivanovic, who is several months older than Ashwath, beat 60-year-old Bulgarian grandmaster Milko Popchev at the Belgrade Open.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -874,14 +874,6 @@ news_feed (
          "title" : "Chess to make an appearance at the 13th African Games in Accra"
       },
       {
-         "description" : "Welcome to the 2nd edition of my Beginner Chess Mastery behind-the-scenes newsletter. Last week, I shared why I decided to create this new course. Today, I want to share with you my thoughts on creating a great (Beginner) Chess Course. Then, I will share the curriculum for Beginner Chess Mastery. A great course always starts with the end in mind. As I mentioned yesterday, it is especially hard to find great resources for players rated below 1200 Online. So, the goal for this course is simple:...",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/bcm-2-what-makes-a-great-beginner-course/",
-         "pubDate" : "Tue, 13 Feb 2024 14:05:50",
-         "title" : "(BCM #2) What Makes a Great Beginner Course"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1072,22 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2875",
          "pubDate" : "Thu, 08 Feb 2024 12:57:18",
          "title" : "FIDE Aid Package to Open Tournaments 2024"
-      },
-      {
-         "description" : " Putting together a new 5 shelf bookshelf. Why? Because it is the Lifeline Bookfair tomorrow. No other reason is necessary. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/things-shaun-has-been-doing-recently.html",
-         "pubDate" : "Thu, 08 Feb 2024 12:02:00",
-         "title" : "Things Shaun has been doing recently"
-      },
-      {
-         "description" : "Chess should be a safe and inclusive place for all. Following the adoption of the European Fair Play and Safe Play Policies, the European Chess Union is taking further steps to implement the new policy and provide training for its officials, but also for members of the association. To continue working towards this goal, the ECU Commission For Women's Chess has teamed up with the Women in Chess Foundation to enable every European federation to train certified Safe Play Ambassadors. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-commission-for-womens-chess-teams-up-with-women-in-chess-foundation/",
-         "pubDate" : "Thu, 08 Feb 2024 09:52:50",
-         "title" : "ECU Commission for Women's Chess teams up with Women in Chess Foundation"
       }
    ]
 }
