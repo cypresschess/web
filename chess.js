@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
+         "pubDate" : "Fri, 01 Mar 2024 14:50:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
          "description" : "With the top players mainly playing online and freestyle, there has been little change at the top of the rankings. Magnus Carlsen, the current World Champion in Rapid and Blitz, is still the world number one, as he has been since July 2011. Fabiano Caruana follows in second place and is the only other player besides Carlsen with a rating of 2800+.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fide-ratings-march-2024",
          "pubDate" : "Fri, 01 Mar 2024 13:00:00",
          "title" : "FIDE ratings March 2024"
+      },
+      {
+         "description" : " The 1st of March FIDE Rating List saw the proposed rating 'compression' come into effect. All rated players under 2000 were given a rating boost, based on the formula New rating = Old rating + (0.4 * (2000 - Old rating)). So for a player rated 1001 that would bee 400 points, while a player rated 1990, that would be 4 points. From a local point of view there ware 2 main effects. Firstly, lots of players qualify for higher categories in the upcoming Doeberl Cup. Secondly, there may well be a lot of 'farming' going on, as older players regain some of the points previously lost to younger players (ie rather than avoiding junior players, it may be an advantage in playing them as their ratings in",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/xmas-day-for-chess-players.html",
+         "pubDate" : "Fri, 01 Mar 2024 12:42:00",
+         "title" : "Xmas day for chess players"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108137552.cms\" />For the second consecutive day, Grandmaster R Praggnanandhaa made a critical blunder, leading to his defeat against Richard Rapport of Romania in the third round of the Prague Masters Chess tournament.",
@@ -72,6 +88,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/5th-shenzhen-longgang-chess-masters-2024",
          "pubDate" : "Thu, 29 Feb 2024 11:53:00",
          "title" : "5th Shenzhen Longgang Chess Masters 2024 - Games and Results"
+      },
+      {
+         "description" : "It&#38;rsquo;s March, and murder is afoot! Play against five suspects in this month-long chess murder mystery! Check back throughout the month as you unlock new dialogue, clues, and hints while playing these five fun characters.&#38;nbsp; Solve The Myst...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-mystery-bots",
+         "pubDate" : "Thu, 29 Feb 2024 10:49:00",
+         "title" : "Can You Find Out Who Murdered The Green Pawn In This Chess Murder Mystery?"
       },
       {
          "description" : "Get ready to do some damage. Learn how to go straight for your opponent&#39;s throat from move one with GM Jan Gustafsson&#39;s new Aggressive 1.e4 Repertoire Part I on Chessable! Click the button below to try out the Short &#38;amp; Sweet free version o...",
@@ -808,14 +832,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2887",
          "pubDate" : "Fri, 16 Feb 2024 12:40:21",
          "title" : "FIDE establishes closer cooperation with International School Sport Federation"
-      },
-      {
-         "description" : "NM Jalen Wang was victorious in the Variants Community Series (VCS) Crazyhouse Championship on Thursday and took home $1,000 for winning the Final. FM Roee Aroesti made $750 for second place, while NM Isaac Chiu and Patrik Nystrom earned $500 ea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-vcs-crazyhouse-wang-wins",
-         "pubDate" : "Fri, 16 Feb 2024 07:23:37",
-         "title" : "National Master Halts GM Martinez's Reign In Crazyhouse Championship"
       },
       {
          "description" : "",
