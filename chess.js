@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tata Steel 2024: Analyses of the tournament winner Wei Yi as well as Nodirbek Abdusattorov, Alexander Donchenko, Alireza Firouzja, Anish Giri, Erwin l'Ami, Praggnanandhaa, Eline Roebers and Vidit Gujrathi - Mihail Marin looks back at Linares 1992: Kasparov vs. the young generation - French &agrave; la Erigaisi: Sergey Grigoriants serves up a fresh idea in the Advance Variation: 1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 f6!? - Inviting Nimzo-Inder: In the fashionable variation 4.f3 d5 5.a3 Be7 6.e4 dxe4 7.fxe4 c5 White gets a protected passed pawn on d5; Jan Werle shows why Black can afford it! - \"Fundamental Endgame Knowledge\" Part #8: What you need to know in the endgame with bishop ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-218",
+         "pubDate" : "Fri, 01 Mar 2024 09:00:00",
+         "title" : "New: ChessBase Magazine #218"
+      },
+      {
+         "description" : " The eight-time British champion, 52, has played 63 games without defeat, while Ruqayya Rida, 12, scored against two GMs and Bodhana Sivanandan, eight, is the new world No 1 under-nine Michael Adams has now won seven major tournaments in a row without loss of a game. The eight-time ­British champion trailed the leaders in last week's ­Cambridge International Open all the way until the ninth and final round, but surged when it ­mattered and won the &pound;1500 prize for the second year in succession. <a href=\"https://www.theguardian.com/sport/2024/mar/01/chess-adams-wins-seventh-straight-first-prize-as-englands-girls-set-records\">Continue reading...</a>",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/mar/01/chess-adams-wins-seventh-straight-first-prize-as-englands-girls-set-records",
+         "pubDate" : "Fri, 01 Mar 2024 08:00:53",
+         "title" : "Chess: Adams wins seventh straight first prize as England's girls set records"
+      },
+      {
          "description" : "An eventful third round in the Masters section of the Prague Chess Festival saw Nodirbek Abdusattorov beating David Navara to catch Parham Maghsoodloo in the lead of the standings. Richard Rapport and Thai Dai Van Nguyen also scored full points - Rapport inflicted Praggnanandhaa's second loss in a row after the Indian prodigy blundered twice from a superior position. In the Challengers, Abhimanyu Mishra defeated Vaclav Finek to join Anton Korobov and Ediz Gurel in the lead. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/giri-and-erigaisi-have-good-start-at-top-tournament-in-shenzhen-china",
          "pubDate" : "Thu, 29 Feb 2024 18:35:09",
          "title" : "Giri and Erigaisi have good start at top tournament in Shenzhen, China"
-      },
-      {
-         "description" : "In his new Fast & Furious episode, Robert Ris takes a look how Praggnanandhaa and Vincent Keymer set the board on fire in the first round of the Prague Chess Festival. They started with an Italian and were both willing to enter a complicated and sharp theoretical line. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-pragg-and-keymer-set-board-on-fire",
-         "pubDate" : "Thu, 29 Feb 2024 18:00:00",
-         "title" : "Robert Ris' Fast and Furious: Pragg and Keymer set board on fire"
       },
       {
          "description" : "Please click here for Form 3",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/2024-book-fair.html",
          "pubDate" : "Fri, 09 Feb 2024 11:58:00",
          "title" : "2024 Book Fair"
-      },
-      {
-         "description" : " The Norwegian, 33, continues to dominate online chess and has won 14 of the the past 17 Tour finals he has contested Magnus Carlsen, the world No 1, maintained his ­outstanding record in the online Champions Tour this week with a victory in the <a href=\"https://www.chess.com/today\">Chessable Masters</a>. The Norwegian, 33, has now won 14 of the 17 Tour finals he has contested. However, it was not an easy passage. Carlsen lost to Alireza Firouzja 1.5â€‘2.5 in the Chessable Masters final, but under the rules he had the right to a return match, which he won 2-0. The pair were evenly matched, with Carlsen's strategic depth offset by the 20-year-old Frenchman's ferocious tactical skills, and its",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/feb/09/chess-carlsen-beats-firouzja-to-secure-another-champions-tour-title",
-         "pubDate" : "Fri, 09 Feb 2024 08:00:37",
-         "title" : "Chess: Carlsen beats Firouzja to secure another Champions Tour title"
       }
    ]
 }
