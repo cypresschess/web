@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Did you know that your brain makes up just 2% of your body's weight, but accounts for 20% of its energy use. During a chess game you can burn a lot of calories by just thinking. Intel project manager (and avid chess researcher) Ashwin Subramanian uses the latest monitoring data to analyse the process. He says it is critical for all players to \"eat right\". And to also do specific breathing exercises, which have measurably improved his play.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-heart-racing-experience-3",
+         "pubDate" : "Fri, 01 Mar 2024 21:00:00",
+         "title" : "A Heart-Racing Experience! (3)"
+      },
+      {
+         "description" : "Click here Form 4",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-electionform-4/",
+         "pubDate" : "Fri, 01 Mar 2024 16:54:53",
+         "title" : "AICF Election:Form 4"
+      },
+      {
          "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship/",
          "pubDate" : "Tue, 20 Feb 2024 15:24:57",
          "title" : "Winton British Chess Solving Championship"
-      },
-      {
-         "description" : "&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Round 1 The Commonwealth Chess Championship 2024 was inaugurated on 20th February 2024 at the Melaka International Trade Center, Convention Centre in the historical",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commonwealth-chess-championship-2024/",
-         "pubDate" : "Tue, 20 Feb 2024 14:57:05",
-         "title" : " Commonwealth Chess Championship 2024"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107856033.cms\" />An eight-year-old Indian-origin boy defeated Polish chess grandmaster Jacek Stopa at the Burgdorfer Stadthaus Open in Switzerland on Sunday, becoming the youngest player to defeat a GM in classical chess. Ashwath Kaushik, who represented Singapore, defeated Stopa, who at 37 is nearly five times older than him, according to a Channel News Asia report. The previous record was set only a few weeks earlier when Serbia's Leonid Ivanovic, who is several months older than Ashwath, beat 60-year-old Bulgarian grandmaster Milko Popchev at the Belgrade Open.",
