@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "description" : "An eventful third round in the Masters section of the Prague Chess Festival saw Nodirbek Abdusattorov beating David Navara to catch Parham Maghsoodloo in the lead of the standings. Richard Rapport and Thai Dai Van Nguyen also scored full points - Rapport inflicted Praggnanandhaa's second loss in a row after the Indian prodigy blundered twice from a superior position. In the Challengers, Abhimanyu Mishra defeated Vaclav Finek to join Anton Korobov and Ediz Gurel in the lead. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
-         "pubDate" : "Thu, 29 Feb 2024 14:50:00",
-         "title" : "Prague Chess Festival - Live!"
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-r3",
+         "pubDate" : "Fri, 01 Mar 2024 01:10:00",
+         "title" : "Prague: Abdusattorov catches Maghsoodloo, Pragg blunders"
+      },
+      {
+         "description" : "A top grandmaster tournament, the 5th Shenzhen Chess Masters, began today in Longgang, a district of the Chinese metropolis with a population of 17 million. Eight players are taking part, including five players with an Elo rating of over 2700. Anish Giri and Erigaisi started with victories.| Photos: Shenzhen News Network",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/giri-and-erigaisi-have-good-start-at-top-tournament-in-shenzhen-china",
+         "pubDate" : "Thu, 29 Feb 2024 18:35:09",
+         "title" : "Giri and Erigaisi have good start at top tournament in Shenzhen, China"
+      },
+      {
+         "description" : "In his new Fast & Furious episode, Robert Ris takes a look how Praggnanandhaa and Vincent Keymer set the board on fire in the first round of the Prague Chess Festival. They started with an Italian and were both willing to enter a complicated and sharp theoretical line. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-pragg-and-keymer-set-board-on-fire",
+         "pubDate" : "Thu, 29 Feb 2024 18:00:00",
+         "title" : "Robert Ris' Fast and Furious: Pragg and Keymer set board on fire"
       },
       {
          "description" : "Please click here for Form 3",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://aicf.in/aicf-election-form-3/",
          "pubDate" : "Thu, 29 Feb 2024 12:51:08",
          "title" : "AICF election :Form 3"
+      },
+      {
+         "description" : "GM David Navara was winning for one move, but eventually GM Nodirbek Abdusattorov scored the full point in their game and now shares the lead at the Prague Masters after today&#39;s third round. The Uzbek grandmaster caught GM Parham Maghsoodloo, who ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-3",
+         "pubDate" : "Thu, 29 Feb 2024 12:43:00",
+         "title" : "Abdusattorov Catches Maghsoodloo As Prague Masters Sees Blunders, Turnarounds"
       },
       {
          "description" : " In honour of the 29th of Feb, I've dug up a game that was played on the 29th of Feb, and lasted 29 moves! <br /> <b>Fressinet,Laurent (2700) - Ding,Liren (2766) [D78]</b><br /> China Elite Mind blitz Huaian (20), 29.02.2016 <script> new PgnViewer( { boardName: \"game1446\", movesFormat: \"default\", pgnString:'1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.O-O O-O 6.c4 c6 7.b3 dxc4 8.bxc4 c5 9.Bb2 Qb6 10.Qb3 cxd4 11.Nxd4 Na6 12.e3 Nc5 13.Qa3 e5 14.Nb5 Be6 15.Nd2 Rad8 16.Rfd1 Rd3 17.Nb3 Rfd8 18.Rxd3 Nxd3 19.Bc3 Rd7 20.Qxa7 Qxa7 21.Nxa7 Bxc4 22.Rd1 Nd5 23.Ba1 N5b4 24.Na5 Ba6 25.Bf1 e4 26.Bxg7 Kxg7 27.Nc8 Nd5 28.Nb3 Rd8 29.Na7 Ra8 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /> <br /> <di",
@@ -34,14 +58,6 @@ news_feed (
          "title" : "5th Shenzhen Longgang Chess Masters 2024 - Games and Results"
       },
       {
-         "description" : "In the latest episode of \"The Underdog,\" we have a monumental moment in chess history, where 8-year-old Ashwath Kaushik shattered expectations by defeating a grandmaster in a classical chess game. Despite the crazy rating difference of almost 500 points, Ashwath demonstrated remarkable skill and strategic finesse. IM Robert Ris provides a comprehensive analysis of the game, breaking down the critical moves and strategies that led to this young prodigy's incredible victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-world-record-8-year-old-beats-grandmaster-the-underdog",
-         "pubDate" : "Thu, 29 Feb 2024 10:51:16",
-         "title" : "New World Record: 8-year-old beats Grandmaster - The Underdog"
-      },
-      {
          "description" : "Get ready to do some damage. Learn how to go straight for your opponent&#39;s throat from move one with GM Jan Gustafsson&#39;s new Aggressive 1.e4 Repertoire Part I on Chessable! Click the button below to try out the Short &#38;amp; Sweet free version o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-heart-racing-experience-2",
          "pubDate" : "Thu, 29 Feb 2024 09:00:00",
          "title" : "A Heart-Racing Experience! (2)"
-      },
-      {
-         "description" : "Parham Maghsoodloo became the first sole leader at the Masters section of the Prague Chess Festival after beating Praggnanandhaa Rameshbabu with the white pieces. Maghsoodloo thus ended Pragg's undefeated streak of 47 games. In the one other decisive game of the round, Dommaraju Gukesh got the better of Thai Dai Van Nguyen. Meanwhile, Ediz Gurel scored a win to join Anton Korobov in the lead of the Challengers section. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-r2",
-         "pubDate" : "Thu, 29 Feb 2024 02:15:00",
-         "title" : "Prague: Maghsoodloo beats Pragg, leads"
       },
       {
          "description" : "<div class=\"body text-secondary\"> In-person audience member purposes a questionable sacrifice. 2024.02.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/audience-offers-sacrifice-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ukJaLUHQdUw.jpg?itok=QhjAh4z1\" alt=\"\" /></a></div>",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/oh-stability-carlsbad-structure-black-grandmaster-psychology-gm-denes-boros",
          "pubDate" : "Wed, 28 Feb 2024 22:06:37",
          "title" : "Oh, The Stability! Carlsbad Structure for Black | Grandmaster Psychology - GM Denes Boros"
-      },
-      {
-         "description" : "The Queen's Gambit Declined (QGD), is a highly popular opening for players of all levels, from absolute beginners to World Champions. Known for giving a solid position, many play this opening from the Black side, however, things aren't as simple as they seem to be.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/iniyan-panneerselvam-a-repertoire-against-the-queen-s-gambit-declined-with-4-bg5",
-         "pubDate" : "Wed, 28 Feb 2024 22:00:00",
-         "title" : "Iniyan Panneerselvam: A Repertoire against the Queen's Gambit Declined with 4.Bg5"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108080378.cms\" />India's R Praggnanandhaa came up with a scintillating performance to grind down German Vincent Keymer in the first round of the Prague Masters Chess tournament that got underway on Wednesday. With this win Praggnanandhaa also added some more spice to the tale around the highest rated Indian as he again overtook Viswanathan Anand in live rating to clinch the top spot in the country.",
@@ -802,14 +802,6 @@ news_feed (
          "title" : "National Master Halts GM Martinez's Reign In Crazyhouse Championship"
       },
       {
-         "description" : "Chess.com is excited to announce the launch of Team Chess Battle&#38;mdash;a new tournament that brings banter, chat, and great games from some of the best in the business. What makes this event different? It&#38;rsquo;s a 2v2 team tournament where the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/team-chess-battle-with-nakamura-giri-gothamchess",
-         "pubDate" : "Fri, 16 Feb 2024 06:59:00",
-         "title" : "Team Chess Battle: The Star-Studded New 2v2 Tournament With Nakamura, Giri, GothamChess, And&hellip; Jan Gustafsson"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1032,14 +1024,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/feb/09/chess-carlsen-beats-firouzja-to-secure-another-champions-tour-title",
          "pubDate" : "Fri, 09 Feb 2024 08:00:37",
          "title" : "Chess: Carlsen beats Firouzja to secure another Champions Tour title"
-      },
-      {
-         "description" : " The Weissenhaus Freestyle Chess GOAT Challenge takes place Fri 9th to 16th Feb 2024. Rapid Round Robin followed by a Knockout at Standard time controls. This is Fischer Random, Chess960, Shuffle Chess by another name. Players: Magnus Carlsen, Alireza Firouzja, Fabiano Caruana, D Gukesh, Levon Aronian, Vincent Keymer, Ding Liren and Nodirbek Abdusattorov. I don't have the ability to display Chess960 but will try and produce a downloadable file each day. Truthfully I've never found Chess960 at all interesting.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/weissenhaus-freestyle-chess-goat-challenge-2024",
-         "pubDate" : "Thu, 8 Feb 2024 22:31:00",
-         "title" : "Weissenhaus Freestyle Chess GOAT Challenge 2024 - Games and Results"
       }
    ]
 }
