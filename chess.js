@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With the top players mainly playing online and freestyle, there has been little change at the top of the rankings. Magnus Carlsen, the current World Champion in Rapid and Blitz, is still the world number one, as he has been since July 2011. Fabiano Caruana follows in second place and is the only other player besides Carlsen with a rating of 2800+.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-march-2024",
+         "pubDate" : "Fri, 01 Mar 2024 13:00:00",
+         "title" : "FIDE ratings March 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108137552.cms\" />For the second consecutive day, Grandmaster R Praggnanandhaa made a critical blunder, leading to his defeat against Richard Rapport of Romania in the third round of the Prague Masters Chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-r-praggnanandhaa-blunders-again-goes-down-to-richard-rapport/articleshow/108137552.cms",
+         "pubDate" : "Fri, 01 Mar 2024 10:30:26",
+         "title" : "Prague Masters: R Praggnanandhaa blunders again, goes down to Richard Rapport"
+      },
+      {
          "description" : "Tata Steel 2024: Analyses of the tournament winner Wei Yi as well as Nodirbek Abdusattorov, Alexander Donchenko, Alireza Firouzja, Anish Giri, Erwin l'Ami, Praggnanandhaa, Eline Roebers and Vidit Gujrathi - Mihail Marin looks back at Linares 1992: Kasparov vs. the young generation - French &agrave; la Erigaisi: Sergey Grigoriants serves up a fresh idea in the Advance Variation: 1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 f6!? - Inviting Nimzo-Inder: In the fashionable variation 4.f3 d5 5.a3 Be7 6.e4 dxe4 7.fxe4 c5 White gets a protected passed pawn on d5; Jan Werle shows why Black can afford it! - \"Fundamental Endgame Knowledge\" Part #8: What you need to know in the endgame with bishop ",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2024-r3",
          "pubDate" : "Fri, 01 Mar 2024 01:10:00",
          "title" : "Prague: Abdusattorov catches Maghsoodloo, Pragg blunders"
-      },
-      {
-         "description" : "A top grandmaster tournament, the 5th Shenzhen Chess Masters, began today in Longgang, a district of the Chinese metropolis with a population of 17 million. Eight players are taking part, including five players with an Elo rating of over 2700. Anish Giri and Erigaisi started with victories.| Photos: Shenzhen News Network",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/giri-and-erigaisi-have-good-start-at-top-tournament-in-shenzhen-china",
-         "pubDate" : "Thu, 29 Feb 2024 18:35:09",
-         "title" : "Giri and Erigaisi have good start at top tournament in Shenzhen, China"
       },
       {
          "description" : "Please click here for Form 3",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://www.thearticle.com/duchamp-cage-and-katabasis/",
          "pubDate" : "Sat, 10 Feb 2024 04:48:53",
          "title" : "Duchamp, Cage and Katabasis"
-      },
-      {
-         "description" : " This years Lifeline Book Fair was absolutely packed. Even getting there early left me a long way back in the queue. Fortunately there was quite a large collection of chess books on offer, so I didn't miss out on the bargains. Somewhat shamefully I did by a book on the London System, but I made up for it by grabbing a copy of the Jan Timman classic \"The Art of Chess Analysis\". At first I thought I already owned a copy but it turns out that it was a significant omission from my library. I did grab a few other titles, and also was interviewed by ABC Radio while browsing. As the Book Fair runs until Sunday I will probably make the effort to return towards the end, to see what remains. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/2024-book-fair.html",
-         "pubDate" : "Fri, 09 Feb 2024 11:58:00",
-         "title" : "2024 Book Fair"
       }
    ]
 }
