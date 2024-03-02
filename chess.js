@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After a quiet round in the Masters section of the Prague Chess Festival - with five draws - Nodirbek Abdusattorov and Parham Maghsoodloo continue to share the lead with 3/4 points each. On the other hand, the Challengers saw three games ending decisively in round 4, with co-leaders Anton Korobov and Ediz Gurel (pictured) both scoring full points to remain atop the standings. The third winner of the day was Vaishali R, who now has a fifty-percent score after having kicked off the event with two losses in a row. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-r4",
+         "pubDate" : "Sat, 02 Mar 2024 02:00:00",
+         "title" : "Prague: Korobov and Gurel grab crucial wins in the Challengers"
+      },
+      {
          "description" : "Did you know that your brain makes up just 2% of your body's weight, but accounts for 20% of its energy use. During a chess game you can burn a lot of calories by just thinking. Intel project manager (and avid chess researcher) Ashwin Subramanian uses the latest monitoring data to analyse the process. He says it is critical for all players to \"eat right\". And to also do specific breathing exercises, which have measurably improved his play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/a-heart-racing-experience-3",
          "pubDate" : "Fri, 01 Mar 2024 21:00:00",
          "title" : "A Heart-Racing Experience! (3)"
+      },
+      {
+         "description" : "One of the world&#39;s most prestigious tournaments is facing a significant hurdle as FIDE has announced a public appeal to the Canadian authorities to expedite the visa process for several players. For the first time in history, the much anticipate...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-makes-urgent-visa-appeal-to-canadian-government-regarding-candidates",
+         "pubDate" : "Fri, 01 Mar 2024 19:57:10",
+         "title" : "FIDE Makes 'Urgent Visa Appeal' To Canadian Government Regarding Candidates"
       },
       {
          "description" : "Click here Form 4",
@@ -26,28 +42,12 @@ news_feed (
          "title" : "Celebrate International Women's Day With A Special Arena Tournament & Roundtable"
       },
       {
-         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
-         "pubDate" : "Fri, 01 Mar 2024 14:50:00",
-         "title" : "Prague Chess Festival - Live!"
-      },
-      {
          "description" : "Chess.com is excited to announce our newest chess variant, Chess With Checkers! This fresh variant follows the same rules as regular chess, with one exception: everything on the board looks like checkers pieces. Click the button below to try ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-with-checkers",
          "pubDate" : "Fri, 01 Mar 2024 14:10:00",
          "title" : "Play Chess With Checker Pieces Like Magnus Carlsen"
-      },
-      {
-         "description" : "With the top players mainly playing online and freestyle, there has been little change at the top of the rankings. Magnus Carlsen, the current World Champion in Rapid and Blitz, is still the world number one, as he has been since July 2011. Fabiano Caruana follows in second place and is the only other player besides Carlsen with a rating of 2800+.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-march-2024",
-         "pubDate" : "Fri, 01 Mar 2024 13:00:00",
-         "title" : "FIDE ratings March 2024"
       },
       {
          "description" : " The 1st of March FIDE Rating List saw the proposed rating 'compression' come into effect. All rated players under 2000 were given a rating boost, based on the formula New rating = Old rating + (0.4 * (2000 - Old rating)). So for a player rated 1001 that would bee 400 points, while a player rated 1990, that would be 4 points. From a local point of view there ware 2 main effects. Firstly, lots of players qualify for higher categories in the upcoming Doeberl Cup. Secondly, there may well be a lot of 'farming' going on, as older players regain some of the points previously lost to younger players (ie rather than avoiding junior players, it may be an advantage in playing them as their ratings in",
@@ -760,14 +760,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open-starts-today/",
          "pubDate" : "Mon, 19 Feb 2024 10:00:37",
          "title" : "2nd Cambridge International Open - results"
-      },
-      {
-         "description" : "On Sunday, eight-year-old Ashwath Kaushik from Singapore smashed the record to become the youngest player ever to defeat a grandmaster in classical chess. Just a month prior Leonid Ivanovic from Serbia dethroned GM Awonder Liang to become the fi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/8-year-old-ashwath-kaushik-beats-chess-grandmaster-sets-new-record",
-         "pubDate" : "Mon, 19 Feb 2024 07:59:00",
-         "title" : "8-Year-Old Ashwath Beats Chess Grandmaster, Sets New World Record"
       },
       {
          "description" : "",
