@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two games ended decisively in round 3 of the strong Shenzhen Masters. Yu Yangyi became the sole leader by beating Vladislav Artemiev with the white pieces. Arjun Erigaisi (pictured), meanwhile, bounced back from his loss against Bu Xiangzhi with a fine victory over Anish Giri. | Photo: Liang Ziming",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/shenzhen-masters-round-3-yu-grabs-the-lead",
+         "pubDate" : "Sat, 02 Mar 2024 20:30:00",
+         "title" : "Shenzhen Masters, Round 3: Yu leads, Arjun beats Giri"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2906",
+         "pubDate" : "Sat, 02 Mar 2024 19:18:23",
+         "title" : "Africa U8 Chess Champion wins prestigious national award in Kenya"
+      },
+      {
          "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
