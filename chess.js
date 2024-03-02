@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today sees the annual Varsity Match between the Universities of Oxford and Cambridge, hosted as usual by the Royal Automobile Club in Pall Mall. The current score is: Cambridge 60 wins to Oxford's 58; 23 matches have been drawn. The respective teams and ratings are as follows, with Oxford names first: Varsity Match number 142 Board​​ Oxford Cambridge 1. ​​Tom O'Gorman (2321)​​ []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/unseen-blushes-hans-niemann-and-the-varsity-match/",
+         "pubDate" : "Sat, 02 Mar 2024 12:15:03",
+         "title" : "Unseen blushes: Hans Niemann and the Varsity Match"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2905",
+         "pubDate" : "Sat, 02 Mar 2024 11:19:24",
+         "title" : "FIDE Chessable Academy's third season continues its commitment to personal growth and chess mastery"
+      },
+      {
+         "description" : "The Freestyle Chess Tournament in Weissenhaus generated a great deal of interest in the chess world. Perhaps we got to see the chess of the future. Given the success of the event, Jan Henric Buettner announced that he plans to continue supporting the royal game. The entrepreneur is now planning a Freestyle Chess Grand Slam. And he wants to sponsor Vincent Keymer and other talented players on their way to the top. | Photos: Freestyle Chess / Weissenhaus Resort",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-hendric-buettner-plans-for-the-future",
+         "pubDate" : "Sat, 02 Mar 2024 10:00:00",
+         "title" : "Jan Henric Buettner's plans for the future"
+      },
+      {
+         "description" : "Check here for Under 15 Open &#38; Under 15 Girls Under 15 Open Under 15 Girls Rank Name Rank Name 1 Arnav Agrawal 1 Drishtee",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-of-national-school-2024-at-patna-from-06-february-10-february-2024/",
+         "pubDate" : "Sat, 02 Mar 2024 08:33:29",
+         "title" : "Certificates of National School Chess Championship 2024 in Patna from 06 February- 10 February 2024"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108156663.cms\" />The International Chess Federation has raised concerns about the delayed visa issuance for players participating in the Candidates event in Toronto, which is one of the world's most prestigious chess tournaments. FIDE urges Canada to expedite visa application processing to ensure the timely arrival of contenders, including five Indian players, including two women competitors.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -18,6 +50,14 @@ news_feed (
          "title" : "Prague: Korobov and Gurel grab crucial wins in the Challengers"
       },
       {
+         "description" : "GM Nodirbek Abdusattorov and GM Parham Maghsoodloo continue to lead the Prague Masters after four rounds as all games on Friday ended in draws. Day five starts on Saturday at 9 a.m. ET / 15:00 CET / 7:30 p.m. IST. Prague Masters | Round 4 Result...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-4",
+         "pubDate" : "Sat, 02 Mar 2024 01:18:00",
+         "title" : "White Presses, Black Holds: All Draws In Prague"
+      },
+      {
          "description" : "Did you know that your brain makes up just 2% of your body's weight, but accounts for 20% of its energy use. During a chess game you can burn a lot of calories by just thinking. Intel project manager (and avid chess researcher) Ashwin Subramanian uses the latest monitoring data to analyse the process. He says it is critical for all players to \"eat right\". And to also do specific breathing exercises, which have measurably improved his play.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +66,7 @@ news_feed (
          "title" : "A Heart-Racing Experience! (3)"
       },
       {
-         "description" : "One of the world&#39;s most prestigious tournaments is facing a significant hurdle as FIDE has announced a public appeal to the Canadian authorities to expedite the visa process for several players. For the first time in history, the much anticipate...",
+         "description" : "One of the world&#39;s most prestigious tournaments is facing a significant hurdle as FIDE has announced a public appeal to the Canadian authorities to expedite the visa process for several players. Update, March 2: Canadian Chess Federation President...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-makes-urgent-visa-appeal-to-canadian-government-regarding-candidates",
@@ -650,14 +690,6 @@ news_feed (
          "title" : "Team C-Squared Neutralizes Novelty From Bickering Giri & Rensch"
       },
       {
-         "description" : "Durres Albania 25th to 29th April, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;The Players and accompanying",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-cadet-rapid-blitz-chess-championship-2024/",
-         "pubDate" : "Wed, 21 Feb 2024 09:41:14",
-         "title" : "FIDE World Cadet Rapid & Blitz Chess Championship - 2024"
-      },
-      {
          "description" : "GM Anish Giri earned his first win in Titled Tuesday on February 20, taking the early edition with a score of 10/11. In the late event, GM Velimir Ivic also scored 10/11, making for a rare day with no tiebreaks for first place. Early Tournamen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -672,14 +704,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/found-scoresheets.html",
          "pubDate" : "Tue, 20 Feb 2024 22:22:00",
          "title" : "Found scoresheets"
-      },
-      {
-         "description" : "Cleveland Guardians outfielder Steven Kwan stepped up to the challenge and earned locker-room bragging rights after taking out the first edition of SlugChamps on Tuesday. In a high-octane final against shortstop Daniel Schneemann, Kwan scored 2.5/...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/steven-kwan-wins-slugchamps-guardians-chess-club",
-         "pubDate" : "Tue, 20 Feb 2024 18:49:00",
-         "title" : "Kwan Knocks SlugChamps Out Of The Park"
       },
       {
          "description" : "Two British Championships on the trot for David Hodge.&#160; Chess solving Championships, that is.&#160; He was the winner at last year's Winton British Chess Solving...",
