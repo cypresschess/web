@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108156663.cms\" />The International Chess Federation has raised concerns about the delayed visa issuance for players participating in the Candidates event in Toronto, which is one of the world's most prestigious chess tournaments. FIDE urges Canada to expedite visa application processing to ensure the timely arrival of contenders, including five Indian players, including two women competitors.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-raises-concerns-over-visa-delay-for-chess-players-ahead-of-candidates-event/articleshow/108156663.cms",
+         "pubDate" : "Sat, 02 Mar 2024 06:37:05",
+         "title" : "FIDE raises concerns over visa delay for chess players ahead of Candidates event"
+      },
+      {
          "description" : "After a quiet round in the Masters section of the Prague Chess Festival - with five draws - Nodirbek Abdusattorov and Parham Maghsoodloo continue to share the lead with 3/4 points each. On the other hand, the Challengers saw three games ending decisively in round 4, with co-leaders Anton Korobov and Ediz Gurel (pictured) both scoring full points to remain atop the standings. The third winner of the day was Vaishali R, who now has a fifty-percent score after having kicked off the event with two losses in a row. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -22,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-makes-urgent-visa-appeal-to-canadian-government-regarding-candidates",
-         "pubDate" : "Fri, 01 Mar 2024 19:57:10",
+         "pubDate" : "Fri, 01 Mar 2024 19:57:00",
          "title" : "FIDE Makes 'Urgent Visa Appeal' To Canadian Government Regarding Candidates"
       },
       {
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-beats-carlsen-joint-second-after-day-one-of-freestyle-chess-news/articleshow/107585056.cms",
          "pubDate" : "Sat, 10 Feb 2024 12:45:06",
          "title" : "Gukesh beats Carlsen; joint second after day one of Freestyle Chess"
-      },
-      {
-         "description" : "Several years ago a DADA Movement exhibition was staged in the Pompidou Centre, Paris. The work of Marcel Duchamp took centre stage. One of the exhibits was a chess set designed by the Master himself, a set on which I had previously personally played while visiting Alexina \"Teeny\" Duchamp (Marcel's widow) at her chateau just outside the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/duchamp-cage-and-katabasis/",
-         "pubDate" : "Sat, 10 Feb 2024 04:48:53",
-         "title" : "Duchamp, Cage and Katabasis"
       }
    ]
 }
