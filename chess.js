@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
+         "pubDate" : "Sat, 02 Mar 2024 14:50:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
          "description" : "Today sees the annual Varsity Match between the Universities of Oxford and Cambridge, hosted as usual by the Royal Automobile Club in Pall Mall. The current score is: Cambridge 60 wins to Oxford's 58; 23 matches have been drawn. The respective teams and ratings are as follows, with Oxford names first: Varsity Match number 142 Board​​ Oxford Cambridge 1. ​​Tom O'Gorman (2321)​​ []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1048,22 +1056,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-d-gukesh-loses-three-rounds-finishes-sixth-in-play-offs/articleshow/107601123.cms",
          "pubDate" : "Sun, 11 Feb 2024 10:50:04",
          "title" : "Freestyle Chess: D Gukesh loses three rounds, finishes sixth in play-offs"
-      },
-      {
-         "description" : "We are more than a month in, and this is a good time to assess your chess Training in 2024. Assuming you have established some sort of a training routine, here are three metrics you should track to know if you are doing well: This Newsletter explains Why &#38; How. Simplify Your Training I'm not []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/training-metrics/",
-         "pubDate" : "Sat, 10 Feb 2024 15:30:27",
-         "title" : "The Three Essential Chess Training Metrics You Need To Track"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107585056.cms\" />Grandmaster D Gukesh delivered a series of remarkable moves, defeating World No. 1 Magnus Carlsen of Norway, Levon Aronian of Armenia, and ultimately the reigning world champion Ding Liren of China on the opening day of the Weissenhaus Chess Challenge.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-beats-carlsen-joint-second-after-day-one-of-freestyle-chess-news/articleshow/107585056.cms",
-         "pubDate" : "Sat, 10 Feb 2024 12:45:06",
-         "title" : "Gukesh beats Carlsen; joint second after day one of Freestyle Chess"
       }
    ]
 }
