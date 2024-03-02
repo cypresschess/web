@@ -18,12 +18,28 @@ news_feed (
          "title" : "AICF Election:Form 4"
       },
       {
+         "description" : "March is Women&#39;s History Month, and to celebrate the impact that women have had&#38;mdash;and continue to have&#38;mdash;on the game of chess, we&#39;re hosting a special arena tournament and roundtable discussion featuring some of the leading women&#39;s voices ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/international-womens-day-arena-2024",
+         "pubDate" : "Fri, 01 Mar 2024 16:04:59",
+         "title" : "Celebrate International Women's Day With A Special Arena Tournament & Roundtable"
+      },
+      {
          "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
          "pubDate" : "Fri, 01 Mar 2024 14:50:00",
          "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "Chess.com is excited to announce our newest chess variant, Chess With Checkers! This fresh variant follows the same rules as regular chess, with one exception: everything on the board looks like checkers pieces. Click the button below to try ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-with-checkers",
+         "pubDate" : "Fri, 01 Mar 2024 14:10:00",
+         "title" : "Play Chess With Checker Pieces Like Magnus Carlsen"
       },
       {
          "description" : "With the top players mainly playing online and freestyle, there has been little change at the top of the rankings. Magnus Carlsen, the current World Champion in Rapid and Blitz, is still the world number one, as he has been since July 2011. Fabiano Caruana follows in second place and is the only other player besides Carlsen with a rating of 2800+.",
@@ -40,6 +56,22 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/xmas-day-for-chess-players.html",
          "pubDate" : "Fri, 01 Mar 2024 12:42:00",
          "title" : "Xmas day for chess players"
+      },
+      {
+         "description" : "GMs Fabiano Caruana and Cristian Chirila are off to the Final of the 2024 Team Chess Battle. On Friday, they defeated&#38;nbsp;GM Wesley So and IM Alice Lee 1.5-0.5 to advance.&#38;nbsp; Some say the hardest thing in chess is to win a won position. Both...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-sf-caruana-chirila-win",
+         "pubDate" : "Fri, 01 Mar 2024 12:35:00",
+         "title" : "Team C-Squared Defends Impossible Endgame, Reaches Final"
+      },
+      {
+         "description" : "Today, FIDE, the chess world-governing body, made a significant move in an attempt to combat rating deflation and improve the accuracy of the ranking system by adjusting the rating for hundreds of thousands of players. Nonetheless, the extensive o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-adds-rating-points-to-more-than-300-000-players",
+         "pubDate" : "Fri, 01 Mar 2024 12:25:15",
+         "title" : "FIDE Adjusts Ratings For 350,000 Players In Major Change"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108137552.cms\" />For the second consecutive day, Grandmaster R Praggnanandhaa made a critical blunder, leading to his defeat against Richard Rapport of Romania in the third round of the Prague Masters Chess tournament.",
@@ -64,14 +96,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/mar/01/chess-adams-wins-seventh-straight-first-prize-as-englands-girls-set-records",
          "pubDate" : "Fri, 01 Mar 2024 08:00:53",
          "title" : "Chess: Adams wins seventh straight first prize as England's girls set records"
-      },
-      {
-         "description" : "An eventful third round in the Masters section of the Prague Chess Festival saw Nodirbek Abdusattorov beating David Navara to catch Parham Maghsoodloo in the lead of the standings. Richard Rapport and Thai Dai Van Nguyen also scored full points - Rapport inflicted Praggnanandhaa's second loss in a row after the Indian prodigy blundered twice from a superior position. In the Challengers, Abhimanyu Mishra defeated Vaclav Finek to join Anton Korobov and Ediz Gurel in the lead. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-r3",
-         "pubDate" : "Fri, 01 Mar 2024 01:10:00",
-         "title" : "Prague: Abdusattorov catches Maghsoodloo, Pragg blunders"
       },
       {
          "description" : "Please click here for Form 3",
@@ -770,28 +794,12 @@ news_feed (
          "title" : "Magnus Carlsen wins inaugural Freestyle Chess G.O.A.T. Challenge"
       },
       {
-         "description" : "The king of Bullet Brawl, GM Hikaru Nakamura, has claimed his 19th title and $400 after a dominant performance during the latest edition, finishing 59 points ahead of the second- and third-placed players, GMs Oleksandr Bortnyk and Arjun Erigaisi, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-february-17-2024",
-         "pubDate" : "Sat, 17 Feb 2024 14:45:00",
-         "title" : "Nakamura 'Bebops' To 19th Bullet Brawl Title"
-      },
-      {
          "description" : "After a big revelation, I left my last Hypnosis session with a deep sense of peace. Most of the things we worry about do not matter at all. Getting paired against an underrated kid -> doesn't matter.Losing from a won position -> doesn't matter.Losing 6 games in a row -> doesn't matter. This thought is []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
          "link" : "https://nextlevelchess.blog/doesnt-matter/",
          "pubDate" : "Sat, 17 Feb 2024 14:00:00",
          "title" : "A Surprising Revelation For Less Stress and Better Results"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen enhanced his claim to be the greatest of all time Friday as he won the 2024 Freestyle Chess G.O.A.T. Challenge by defeating world number-two Fabiano Caruana in the final match. We take a look at what else we learned...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/9-things-we-learned-2024-freestyle-chess-goat-challenge",
-         "pubDate" : "Sat, 17 Feb 2024 13:43:00",
-         "title" : "9 Things We Learned - Freestyle Chess G.O.A.T. Challenge 2024"
       },
       {
          "description" : "Just before the 1986 world championship in London I was sitting in the living room of our Kensington flat, writing the programme notes for the forthcoming clash between Garry Kasparov and Anatoly Karpov. At one point, while writing, I dropped my pen. It was a British Airways cross between a ballpoint and felt tip. It had []",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/2024-act-teams-competition.html",
          "pubDate" : "Fri, 16 Feb 2024 13:02:00",
          "title" : "2024 ACT Teams Competition"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen defeated GM Fabiano Caruana in the final classical game to win the inaugural 2024 Freestyle Chess G.O.A.T. Challenge and the $60,000 top prize. GM Levon Aronian took third place with a powerful win over GM Nodirbek ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-freestyle-chess-goat-challenge-day-8",
-         "pubDate" : "Fri, 16 Feb 2024 13:00:00",
-         "title" : "Carlsen Beats Caruana To Win Freestyle Chess G.O.A.T. Challenge"
       },
       {
          "description" : "",
