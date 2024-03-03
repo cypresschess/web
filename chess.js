@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A smooth victory over Mateusz Bartel allowed Nodirbek Abdusattorov to become the sole leader of the Masters section in the Prague Chess Festival. Praggnanandhaa R and David Navara also scored full points in an eventful fifth round, the last one before the rest day. In the Challengers, Anton Korobov and Ediz Gurel continue to be the co-leaders, as both players obtained victories on Saturday. | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-r5",
+         "pubDate" : "Sun, 03 Mar 2024 01:45:00",
+         "title" : "Prague: Abdusattorov sole leader, Pragg beats Vidit"
+      },
+      {
          "description" : "Two games ended decisively in round 3 of the strong Shenzhen Masters. Yu Yangyi became the sole leader by beating Vladislav Artemiev with the white pieces. Arjun Erigaisi (pictured), meanwhile, bounced back from his loss against Bu Xiangzhi with a fine victory over Anish Giri. | Photo: Liang Ziming",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-march-2-2024",
          "pubDate" : "Sat, 02 Mar 2024 15:20:00",
          "title" : "Tang Places Queen En Prise To Steal Bullet Brawl Title From Naroditsky"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
-         "pubDate" : "Sat, 02 Mar 2024 14:50:00",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "Today sees the annual Varsity Match between the Universities of Oxford and Cambridge, hosted as usual by the Royal Automobile Club in Pall Mall. The current score is: Cambridge 60 wins to Oxford's 58; 23 matches have been drawn. The respective teams and ratings are as follows, with Oxford names first: Varsity Match number 142 Board​​ Oxford Cambridge 1. ​​Tom O'Gorman (2321)​​ []",
@@ -712,14 +712,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2896",
          "pubDate" : "Wed, 21 Feb 2024 16:51:38",
          "title" : "List of Open Tournaments to receive FIDE Aid Packages 2024"
-      },
-      {
-         "description" : "GM Fabiano Caruana and GM Cristian Chirila cut the proverbial opening ribbon of the inaugural 2024 Team Chess Battle by beating&#38;nbsp;GM Anish Giri and IM Danny Rensch with a 2-0 score.&#38;nbsp; After losing game one while trash-talking his own team...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-caruana-chirila-win",
-         "pubDate" : "Wed, 21 Feb 2024 12:19:00",
-         "title" : "Team C-Squared Neutralizes Novelty From Bickering Giri & Rensch"
       },
       {
          "description" : " One of the simple pleasures in life is finding a book that you know nothing about, and discovering it is quite a good read. I've had occasion to do this, usually when travelling, or simply out and about. The chess equivalent of this may well be finding a left behind scoresheet at a tournament or club. The game below is from one such scoresheet. To be fair, it was actually played on the board next to mine at the Gungahlin Chess Club yesterday evening, but if one of the players hadn't left it behind, then I doubt I would have remembered enough of the game to put it here. The game itself has a few points of interest. Before the game Matt Radisich was being encourage to play the Albin Counter G",
