@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Djerba Masters was an 8-player single round-robin featuring a mix of rising stars and experienced grandmasters. In the end, Daniel Dardha and Hans Niemann tied for first place with 4&frac12; points each. Dardha was declared tournament winner thanks to his better tiebreak score. World junior champion Marc'Andria Maurizzi tied for third place with fan favourite Vasyl Ivanchuk. | All photos by Diana Mihajlova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dardha-niemann-win-djerba-masters-2024",
+         "pubDate" : "Sun, 03 Mar 2024 17:35:00",
+         "title" : "Djerba Masters: Dardha edges Niemann on tiebreaks to win event"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108184346.cms\" />Indian Grandmaster R Praggnanandhaa crashed through the defenses of compatriot Vidit Gujrathi but D Gukesh suffered a shock defeat from a position of strength against Czech Republic's David Navara in the fifth round of the Prague Masters.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -46,16 +54,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-5",
-         "pubDate" : "Sun, 03 Mar 2024 00:38:31",
+         "pubDate" : "Sun, 03 Mar 2024 00:38:00",
          "title" : "Abdusattorov Up To World #5 As Praggnanandhaa, Navara Also Win"
-      },
-      {
-         "description" : "Two games ended decisively in round 3 of the strong Shenzhen Masters. Yu Yangyi became the sole leader by beating Vladislav Artemiev with the white pieces. Arjun Erigaisi (pictured), meanwhile, bounced back from his loss against Bu Xiangzhi with a fine victory over Anish Giri. | Photo: Liang Ziming",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/shenzhen-masters-round-3-yu-grabs-the-lead",
-         "pubDate" : "Sat, 02 Mar 2024 20:30:00",
-         "title" : "Shenzhen Masters, Round 3: Yu leads, Arjun beats Giri"
       },
       {
          "description" : "",
@@ -90,15 +90,7 @@ news_feed (
          "title" : "FIDE Chessable Academy's third season continues its commitment to personal growth and chess mastery"
       },
       {
-         "description" : "The Freestyle Chess Tournament in Weissenhaus generated a great deal of interest in the chess world. Perhaps we got to see the chess of the future. Given the success of the event, Jan Henric Buettner announced that he plans to continue supporting the royal game. The entrepreneur is now planning a Freestyle Chess Grand Slam. And he wants to sponsor Vincent Keymer and other talented players on their way to the top. | Photos: Freestyle Chess / Weissenhaus Resort",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-hendric-buettner-plans-for-the-future",
-         "pubDate" : "Sat, 02 Mar 2024 10:00:00",
-         "title" : "Jan Henric Buettner's plans for the future"
-      },
-      {
-         "description" : "Under 13 Open Under 13 Girls Under 11 Open Uner 11 Girls Rank Name Rank Name Rank Name Rank Name 1 Reyan Md. 1 Maitreyi",
+         "description" : "Check here for Under 13 Open &#38; Under 13 Girls and Under 11 Open &#38; Under 11 Girls Under 13 Open Under 13 Girls Under",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificates-of-national-school-2024-at-patna-from-06-february-10-february-2024/",
@@ -112,14 +104,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-raises-concerns-over-visa-delay-for-chess-players-ahead-of-candidates-event/articleshow/108156663.cms",
          "pubDate" : "Sat, 02 Mar 2024 06:37:05",
          "title" : "FIDE raises concerns over visa delay for chess players ahead of Candidates event"
-      },
-      {
-         "description" : "After a quiet round in the Masters section of the Prague Chess Festival - with five draws - Nodirbek Abdusattorov and Parham Maghsoodloo continue to share the lead with 3/4 points each. On the other hand, the Challengers saw three games ending decisively in round 4, with co-leaders Anton Korobov and Ediz Gurel (pictured) both scoring full points to remain atop the standings. The third winner of the day was Vaishali R, who now has a fifty-percent score after having kicked off the event with two losses in a row. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-r4",
-         "pubDate" : "Sat, 02 Mar 2024 02:00:00",
-         "title" : "Prague: Korobov and Gurel grab crucial wins in the Challengers"
       },
       {
          "description" : "GM Nodirbek Abdusattorov and GM Parham Maghsoodloo continue to lead the Prague Masters after four rounds as all games on Friday ended in draws. Day five starts on Saturday at 9 a.m. ET / 15:00 CET / 7:30 p.m. IST. Prague Masters | Round 4 Result...",
