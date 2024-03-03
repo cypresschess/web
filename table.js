@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2024-03-01","25","<a href=http://www.uschess.org/msa/XtblMain.php?202403019522 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-02-06  - 02-27","25","<a href=http://www.uschess.org/msa/XtblMain.php?202402279312 target='_blank'>FebTuesdayNightSwiss24</a>",
 "HOUSTON","2024-02-25","52","<a href=http://www.uschess.org/msa/XtblMain.php?202402257572 target='_blank'>SRI MEENAKSHI TEMPLE 2024</a>",
 "SUGAR LAND","2024-02-25","4","<a href=http://www.uschess.org/msa/XtblMain.php?202402256592 target='_blank'>CYGA02252024</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-08-04  - 08-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202308250802 target='_blank'>REBECCA CHESS CLUB AUGUST 2023 MONTHLY SWISS</a>",
 "HOUSTON","2023-08-19  - 08-20","70","<a href=http://www.uschess.org/msa/XtblMain.php?202308208042 target='_blank'>TCR: HOUSTON SUMMER CHAMPIONSHIP 2023</a>",
 "HOUSTON","2023-08-19","88","<a href=http://www.uschess.org/msa/XtblMain.php?202308196472 target='_blank'>TCR: HOUSTON SUMMER SCHOLASTIC 2023</a>",
-"HOUSTON","2023-08-19","4","<a href=http://www.uschess.org/msa/XtblMain.php?202308196332 target='_blank'>CHESSPANDA08192023SATURDAY</a>",
 ]);
