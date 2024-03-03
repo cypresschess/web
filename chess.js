@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2907",
+         "pubDate" : "Sun, 03 Mar 2024 11:14:31",
+         "title" : "PICF 2024 Masters: Abdusattorov leads halfway through"
+      },
+      {
          "description" : "Do you need special batteries to play chess? No, a battery in chess refers to piece formation! A battery is a formation that consists of two or more pieces on the same rank, file, or diagonal. In a more detailed way, a battery refers to a configuration of heavy pieces (rooks or queens) that occupy the same file. It can also refer to long-range pieces (queens and bishops) that occupy the same diagonal. Learn more about the strength of the chess battery from chess trainer Efstratios Grivas.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2024-r5",
          "pubDate" : "Sun, 03 Mar 2024 01:45:00",
          "title" : "Prague: Abdusattorov sole leader, Pragg beats Vidit"
+      },
+      {
+         "description" : "Nineteen-year-old GM Nodirbek Abdusattorov overtook GMs Alireza Firouzja and Ian Nepomniachtchi to enter the world top-five after a smooth win over GM Mateusz Bartel in round five of the Prague Masters. There were huge turnarounds elsewhere, with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-5",
+         "pubDate" : "Sun, 03 Mar 2024 00:38:31",
+         "title" : "Abdusattorov Up To World #5 As Praggnanandhaa, Navara Also Win"
       },
       {
          "description" : "Two games ended decisively in round 3 of the strong Shenzhen Masters. Yu Yangyi became the sole leader by beating Vladislav Artemiev with the white pieces. Arjun Erigaisi (pictured), meanwhile, bounced back from his loss against Bu Xiangzhi with a fine victory over Anish Giri. | Photo: Liang Ziming",
@@ -184,6 +200,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/mar/01/chess-adams-wins-seventh-straight-first-prize-as-englands-girls-set-records",
          "pubDate" : "Fri, 01 Mar 2024 08:00:53",
          "title" : "Chess: Adams wins seventh straight first prize as England's girls set records"
+      },
+      {
+         "description" : "I ended last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/rip-yahoos.html\">RIP Yahoos</A> (January 2024), saying, <BLOCKQUOTE> After three years the Google Yahoos also ran out of steam: <I>Yahoos Set a New Low</I> (December 2023; 'So many problems, so little time.'). It's time to let them sleep in peace. </BLOCKQUOTE> <P> But what if they don't want to sleep in peace? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob29.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Zombies play chess.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> Looks like I better rethink the whole thing. <P> [Yahoos (mainstream news stories about chess) are deriv",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/02/yahoo-zombies-want-chess.html",
+         "pubDate" : "Thu, 29 Feb 2024 16:09:00",
+         "title" : "Yahoo Zombies Want Chess"
       },
       {
          "description" : "Please click here for Form 3",
@@ -706,14 +730,6 @@ news_feed (
          "title" : "Team Wesley So & Alice Lee Kill With Kindness In Quarterfinals"
       },
       {
-         "description" : "The inaugural 2024 ChessKid National Festival, which took place over four days on President&#39;s Day weekend in Charlotte, North Carolina, was advertised as &#34;The Ultimate In-Person Chess Celebration.&#34; 431 kids participated in 11 possible tournament...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesskid-national-festival-recap",
-         "pubDate" : "Thu, 22 Feb 2024 07:10:00",
-         "title" : "1st-Ever ChessKid National Festival Brings Together Kids And Creators"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1064,14 +1080,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/the-downside-of-playing-for-tricks.html",
          "pubDate" : "Sun, 11 Feb 2024 12:58:00",
          "title" : "The downside of playing for tricks"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107601123.cms\" />Grandmaster D Gukesh of India secured a sixth-place finish in the rapid play-offs of the Weissenhaus Freestyle Chess challenge, having lost the final three rounds.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/freestyle-chess-d-gukesh-loses-three-rounds-finishes-sixth-in-play-offs/articleshow/107601123.cms",
-         "pubDate" : "Sun, 11 Feb 2024 10:50:04",
-         "title" : "Freestyle Chess: D Gukesh loses three rounds, finishes sixth in play-offs"
       }
    ]
 }
