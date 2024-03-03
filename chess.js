@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108184346.cms\" />Indian Grandmaster R Praggnanandhaa crashed through the defenses of compatriot Vidit Gujrathi but D Gukesh suffered a shock defeat from a position of strength against Czech Republic's David Navara in the fifth round of the Prague Masters.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-checkmates-gujrathi-gukesh-falters-against-navara/articleshow/108184346.cms",
+         "pubDate" : "Sun, 03 Mar 2024 15:53:14",
+         "title" : "Praggnanandhaa checkmates Gujrathi, Gukesh falters against Navara"
+      },
+      {
+         "description" : " It might seem a long way off, but the wheels are already in motion for Federations planning to attend the 2024 Chess Olympiad. It will be held in Budapest in mid September, but Federations are already able to register their attendance. In fact the deadline for doing so is sometime next week, so the organisers are clearly trying to have a solid estimate of numbers well in advance. Although the actual team registrations are not open as yet, I do note that the New Zealand Chess Federation is off to an early start, having already selected their squads. Normally the Australian teams are selected some time after Easter, while for other teams in the region selections are often complicated by avail",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/2024-olympiad.html",
+         "pubDate" : "Sun, 03 Mar 2024 12:51:00",
+         "title" : "2024 Olympiad"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "Jan Henric Buettner's plans for the future"
       },
       {
-         "description" : "Check here for Under 15 Open &#38; Under 15 Girls Under 15 Open Under 15 Girls Rank Name Rank Name 1 Arnav Agrawal 1 Drishtee",
+         "description" : "Under 13 Open Under 13 Girls Under 11 Open Uner 11 Girls Rank Name Rank Name Rank Name Rank Name 1 Reyan Md. 1 Maitreyi",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificates-of-national-school-2024-at-patna-from-06-february-10-february-2024/",
@@ -1064,22 +1080,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/12/black-history-month-2024-tribute-week-2/",
          "pubDate" : "Mon, 12 Feb 2024 06:04:21",
          "title" : "Black History Month 2024 Tribute: Week 2"
-      },
-      {
-         "description" : "Some chess history, some chess math. If this video had nothing more than that, I wouldn't have selected it for this month's featured video. The hook for me was the sequence of 17 chess images, all appearing to be AI-generated. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/2Ns8nH25Kqg?si=a3s9a4S1Tm0lgR3R\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe><BR> <B>Chess: The Game of Infinite Possibilities</B> (9:08) &#149; '[Published on] Feb 7, 2024' <P> The description explains, <BLOCKQUOTE> Dive into the captivating world of chess, a game t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/02/chess-history-math-and-art.html",
-         "pubDate" : "Sun, 11 Feb 2024 16:28:00",
-         "title" : "Chess History, Math, and Art"
-      },
-      {
-         "description" : " There are some games where you just fall into the trap of playing for tricks. Common sense disappears and instead, each move is based on some dodgy 2 move trick you hope your opponent will fall for. Here is an example where White tries for a tricky idea around move 12, which basically loses. After that he just keeps digging a deeper hole, hoping his opponent might fall in (Narrators voice: No he didn't) <br /> <b>Stevanic,David (2294) - Kozlovic,Jernej (2174) [C52]</b><br /> 28th HIT Open 2024 Nova Gorica SLO (9.12), 02.02.2024 <script> new PgnViewer( { boardName: \"game1441\", movesFormat: \"default\", pgnString:'1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Ba5 6.d4 exd4 7.Qb3 Qf6 8.O-O Bb6 9.e5",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/the-downside-of-playing-for-tricks.html",
-         "pubDate" : "Sun, 11 Feb 2024 12:58:00",
-         "title" : "The downside of playing for tricks"
       }
    ]
 }
