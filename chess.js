@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Do you need special batteries to play chess? No, a battery in chess refers to piece formation! A battery is a formation that consists of two or more pieces on the same rank, file, or diagonal. In a more detailed way, a battery refers to a configuration of heavy pieces (rooks or queens) that occupy the same file. It can also refer to long-range pieces (queens and bishops) that occupy the same diagonal. Learn more about the strength of the chess battery from chess trainer Efstratios Grivas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-underdeveloped-battery",
+         "pubDate" : "Sun, 03 Mar 2024 08:00:00",
+         "title" : "Grivas: Underdeveloped Battery"
+      },
+      {
          "description" : "A smooth victory over Mateusz Bartel allowed Nodirbek Abdusattorov to become the sole leader of the Masters section in the Prague Chess Festival. Praggnanandhaa R and David Navara also scored full points in an eventful fifth round, the last one before the rest day. In the Challengers, Anton Korobov and Ediz Gurel continue to be the co-leaders, as both players obtained victories on Saturday. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
