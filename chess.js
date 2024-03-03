@@ -118,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/international-womens-day-arena-2024",
-         "pubDate" : "Fri, 01 Mar 2024 16:04:59",
+         "pubDate" : "Fri, 01 Mar 2024 16:04:00",
          "title" : "Celebrate International Women's Day With A Special Arena Tournament & Roundtable"
       },
       {
@@ -150,7 +150,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fide-adds-rating-points-to-more-than-300-000-players",
-         "pubDate" : "Fri, 01 Mar 2024 12:25:15",
+         "pubDate" : "Fri, 01 Mar 2024 12:25:00",
          "title" : "FIDE Adjusts Ratings For 350,000 Players In Major Change"
       },
       {
