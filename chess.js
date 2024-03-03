@@ -18,6 +18,14 @@ news_feed (
          "title" : "Africa U8 Chess Champion wins prestigious national award in Kenya"
       },
       {
+         "description" : "A single point and mere seconds decided the latest edition of Bullet Brawl after GM Andrew Tang executed&#38;nbsp;a 15-move win to steal the $400 first prize from GM Daniel Naroditsky in Saturday&#39;s event.&#38;nbsp; Ukraine&#39;s GM Oleksandr Bortnyk wasn&#39;t ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-march-2-2024",
+         "pubDate" : "Sat, 02 Mar 2024 15:20:00",
+         "title" : "Tang Places Queen En Prise To Steal Bullet Brawl Title From Naroditsky"
+      },
+      {
          "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-caruana-chirila-win",
          "pubDate" : "Wed, 21 Feb 2024 12:19:00",
          "title" : "Team C-Squared Neutralizes Novelty From Bickering Giri & Rensch"
-      },
-      {
-         "description" : "GM Anish Giri earned his first win in Titled Tuesday on February 20, taking the early edition with a score of 10/11. In the late event, GM Velimir Ivic also scored 10/11, making for a rare day with no tiebreaks for first place. Early Tournamen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/giri-ivic-win-titled-tuesday-february-20-2024",
-         "pubDate" : "Wed, 21 Feb 2024 08:48:08",
-         "title" : "Twitter King Now Titled Tuesday King"
       },
       {
          "description" : " One of the simple pleasures in life is finding a book that you know nothing about, and discovering it is quite a good read. I've had occasion to do this, usually when travelling, or simply out and about. The chess equivalent of this may well be finding a left behind scoresheet at a tournament or club. The game below is from one such scoresheet. To be fair, it was actually played on the board next to mine at the Gungahlin Chess Club yesterday evening, but if one of the players hadn't left it behind, then I doubt I would have remembered enough of the game to put it here. The game itself has a few points of interest. Before the game Matt Radisich was being encourage to play the Albin Counter G",
