@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four weeks before the start of the Candidates Tournament in Toronto, almost all the participants and their travelling companions are still waiting for the visas they applied for months ago to be issued. FIDE has now sent an \"urgent visa appeal to the Canadian government\" and is even considering moving the \"most prestigious tournament in the chess world\" to another country. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-visa-trouble",
+         "pubDate" : "Mon, 04 Mar 2024 07:42:24",
+         "title" : "Candidates Tournament: Visa trouble"
+      },
+      {
          "description" : "A fortnight ago, I showed a game by Lu Miaoyi, a ferocious 14-year-old Chinese girl. This started me thinking about the best attacking players of all time. I don't have an ordered list myself, just some names which I think should go very close to the top. Here I analysed three brilliant attacking wins by Rashid Nezhmetdinov (pictured), Paul Keres and Wei Yi. What is your top ten of attacking players? Share your list in the comments section.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-5",
          "pubDate" : "Sun, 03 Mar 2024 00:38:00",
          "title" : "Abdusattorov Up To World #5 As Praggnanandhaa, Navara Also Win"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2904",
+         "pubDate" : "Sat, 02 Mar 2024 21:35:56",
+         "title" : "FIDE Candidates 2024: Pairings announced"
       },
       {
          "description" : "",
@@ -1072,14 +1088,6 @@ news_feed (
          "link" : "https://www.europechess.org/mitropa-cup-2024-starts-in-apolda-germany/",
          "pubDate" : "Mon, 12 Feb 2024 09:21:13",
          "title" : "Mitropa Cup 2024 starts in Apolda, Germany"
-      },
-      {
-         "description" : " Greetings everyone! As we continue to celebrate Black History Month, February 12th marks the 23rd anniversary of The Chess Drum. It has been a long journey, but a very interesting one. At midnight, I hit the &#8220;enter&#8221; key to make &#8220;www.thechessdrum.net&#8221; live and the beat has been going ever since. In these years I have The post <a href=\"https://www.thechessdrum.net/blog/2024/02/12/black-history-month-2024-tribute-week-2/\">Black History Month 2024 Tribute: Week 2</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/02/12/black-history-month-2024-tribute-week-2/",
-         "pubDate" : "Mon, 12 Feb 2024 06:04:21",
-         "title" : "Black History Month 2024 Tribute: Week 2"
       }
    ]
 }
