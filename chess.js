@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ultimate chess companion bundle: Fritz 19 paired with the Fritz Powerbook 2024. Elevate your game with Fritz 19's advanced AI and deep analysis tools that challenge and teach players of all skill levels. Then, take your strategy to the next level with the Fritz Powerbook 2024, offering over 25 million openings, variations, and patterns derived from real-world games and top-level matches. Together, they provide an unparalleled chess training experience, combining tactical depth with a vast knowledge base to sharpen your skills and strategies like never before. This bundle is now €139.90 instead of €179.90!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-19-fritz-powerbook-2024-bundle",
+         "pubDate" : "Mon, 04 Mar 2024 12:47:54",
+         "title" : "Fritz 19 & Fritz Powerbook 2024 Bundle!"
+      },
+      {
+         "description" : "Please find the Link for Broadcasting live games of National Rapid Chess Tournament, Nashik (Maharashtra) from 04th March to 6th March 2024 https://www.chess.com/events/2024-indian-rapid-chess-championship",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-broadcasting-live-games-of-national-rapid-2024/",
+         "pubDate" : "Mon, 04 Mar 2024 11:05:21",
+         "title" : "Live Link for Broadcasting live games of National Rapid 2024"
+      },
+      {
+         "description" : "A battery is a formation that consists of two or more pieces on the same rank, file, or diagonal. In a more detailed way, a battery refers to a configuration of heavy pieces (rooks or queens) that occupy the same file. It can also refer to long-range pieces (queens and bishops) that occupy the same diagonal. Learn more about the strength of the chess battery in part two of a mini-series by chess trainer Efstratios Grivas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-underdeveloped-battery-2",
+         "pubDate" : "Mon, 04 Mar 2024 11:00:00",
+         "title" : "Grivas: Underdeveloped Battery (2)"
+      },
+      {
+         "description" : "Tenders are now invited for the bookstall, coaching and/or commentary at the British Chess Championships 2024 in Hull click here",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/bcc-2024-tenders-invited/",
+         "pubDate" : "Mon, 04 Mar 2024 10:40:56",
+         "title" : "BCC 2024 tenders invited"
+      },
+      {
+         "description" : "Click here Form 6",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-election-form-6/",
+         "pubDate" : "Mon, 04 Mar 2024 10:32:01",
+         "title" : "AICF Election :Form 6"
+      },
+      {
+         "description" : "Find the crosstable here. Congratulations also to Trisha Kanyamarala on becoming&#160;the first Irish player and the first female player to tie for first place.",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/danny-gormally-wins-2024-british-rapidplay-championship/",
+         "pubDate" : "Mon, 04 Mar 2024 10:30:19",
+         "title" : "Danny Gormally wins the 2024 British Rapidplay Championship!"
+      },
+      {
+         "description" : "Finance Council Meeting 27th April 2024 to ECF Council Members This notice is a reminder of the arrangements for the next Finance Council meeting...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-finance-council-meeting-2/",
+         "pubDate" : "Mon, 04 Mar 2024 10:09:01",
+         "title" : "ECF Finance Council Meeting"
+      },
+      {
          "description" : "Four weeks before the start of the Candidates Tournament in Toronto, almost all the participants and their travelling companions are still waiting for the visas they applied for months ago to be issued. FIDE has now sent an \"urgent visa appeal to the Canadian government\" and is even considering moving the \"most prestigious tournament in the chess world\" to another country. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -634,14 +690,6 @@ news_feed (
          "title" : "Round 6:Commonwealth Chess Championship 2024"
       },
       {
-         "description" : "Click here for Form 1",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/form-1-aicf-election-on-10-03-2024/",
-         "pubDate" : "Sat, 24 Feb 2024 18:27:53",
-         "title" : "Form 1 : AICF Election on 10.03.2024"
-      },
-      {
          "description" : " Shakira Luster recently captained the Marist chess team at the Illinois State High School team championship scoring a sparkling 7/7. The Chess Drum audience will know her from her successes at St. Ethelreda Grammar School and her appearance at the Chicago Open. Now a senior at Marist, she is finishing her high school career on The post <a href=\"https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/\">Shakira Luster: Marist's Chess Queen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -720,14 +768,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/feb/23/freestyle-chess-plans-2025-global-tour-for-carlsen-and-the-worlds-top-players",
          "pubDate" : "Fri, 23 Feb 2024 08:00:42",
          "title" : "Freestyle Chess plans 2025 global Tour for Carlsen and the world's top players"
-      },
-      {
-         "description" : "To All Office Bearers / State Associations, Greetings from AICF! Kindly send your nominations/names for the elections of 2024-2027 of AICF in consonance with the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/notice-aicf-election-on-10-03-2024/",
-         "pubDate" : "Thu, 22 Feb 2024 14:45:50",
-         "title" : "Notice :AICF Election on 10.03.2024"
       },
       {
          "description" : "",
@@ -1040,54 +1080,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/02/the-assistants-girlfriend.html",
          "pubDate" : "Mon, 12 Feb 2024 16:37:00",
          "title" : "The Assistant's Girlfriend"
-      },
-      {
-         "description" : " After the success of his book \"Oops I Resigned Again\", GM Ian Rogers has released a follow up. \"Oops I Resigned One More Time\". Once again the book looks at the tragic side of chess, where players prematurely throw in the towel, instead of finding the saving, or even the winning, move. Each chapter consists of 5 positions, where the reader is asked to find the saving move. With 20 chapters, there are 100 position of varying degrees of difficulty to work through. But that's not all! Every position has a story attached to it, whether it is the circumstances behind the game, a potted history of one of the players involved, or just an amusing anecdote related to the position. So you actually ge",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/oops-i-resigned-one-more-time.html",
-         "pubDate" : "Mon, 12 Feb 2024 12:25:00",
-         "title" : "Oops I Resigned One More Time"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2878",
-         "pubDate" : "Mon, 12 Feb 2024 11:35:43",
-         "title" : "Georg Meier wins VII Marcel Duchamp Cup in Montevideo"
-      },
-      {
-         "description" : "In the concluding article for the Christmas Composition Contest, we see the final prize-winning compositions, which were a touch ahead of the others! Like always, all compositions were evaluated on the basis of economy, harmony and aesthetics! We also included a special prize for the best story behind the composition, and the cook-stopping that took place! Hope you enjoyed reading the article and playing through the excellent compositions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-puzzle-competition-winners",
-         "pubDate" : "Mon, 12 Feb 2024 11:19:34",
-         "title" : "ChessBase Puzzle Competition winners"
-      },
-      {
-         "description" : "The 2024 British Chess Championships will take place in Hull from Thursday 25th July to Sunday 4th August. This will be the 110th British Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-championships-2024/",
-         "pubDate" : "Mon, 12 Feb 2024 09:46:10",
-         "title" : "British Chess Championships 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2877",
-         "pubDate" : "Mon, 12 Feb 2024 09:26:42",
-         "title" : "Tickets for the 2024 Candidates: Early bird offer expires this week"
-      },
-      {
-         "description" : "The Mitropa Cup 2024 starts this Wednesday in Apolda, Germany. The event will be played from 15-23 February at the local city hall, Stadthalle Apolda. The event is played in Open and Women's sections separately, with participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland.&#160;The Championships are played in 9 rounds, round-robin system, with time control of 90 minutes for 40 moves, followed by 30 minutes to finish the game, with 30 seconds []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/mitropa-cup-2024-starts-in-apolda-germany/",
-         "pubDate" : "Mon, 12 Feb 2024 09:21:13",
-         "title" : "Mitropa Cup 2024 starts in Apolda, Germany"
       }
    ]
 }
