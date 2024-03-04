@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/12/the-chess-drum-is-23/",
          "pubDate" : "Tue, 13 Feb 2024 04:59:24",
          "title" : "The Chess Drum is 23!"
-      },
-      {
-         "description" : "A Monday post means it's time for another installment in our weekly AI chess comic series. In the previous episode, <A HREF=\"https://chessforallages.blogspot.com/2024/02/the-wizards-assistant.html\">The Wizard's Assistant</A> (February 2024), we learned, <BLOCKQUOTE> The Wizard and his assistant meet at least once a day and generally discuss the latest challenges facing the chess world. </BLOCKQUOTE> <P> This is the sixth and last installment of the introduction to the series. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob12.jpg\" WIDTH= HEIGHT=> <P> The Wizard's assistant is often accompanied by his longtime girlfriend, who is herself a keen chess player. Some say the girlf",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/02/the-assistants-girlfriend.html",
-         "pubDate" : "Mon, 12 Feb 2024 16:37:00",
-         "title" : "The Assistant's Girlfriend"
       }
    ]
 }
