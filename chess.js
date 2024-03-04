@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A fortnight ago, I showed a game by Lu Miaoyi, a ferocious 14-year-old Chinese girl. This started me thinking about the best attacking players of all time. I don't have an ordered list myself, just some names which I think should go very close to the top. Here I analysed three brilliant attacking wins by Rashid Nezhmetdinov (pictured), Paul Keres and Wei Yi. What is your top ten of attacking players? Share your list in the comments section.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-213",
+         "pubDate" : "Sun, 03 Mar 2024 22:45:00",
+         "title" : "Jon Speelman: Charge of the chestnuts!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2908",
+         "pubDate" : "Sun, 03 Mar 2024 21:59:48",
+         "title" : "Romanian Championship 2024: Parligras and Lehaci win titles"
+      },
+      {
          "description" : "The Djerba Masters was an 8-player single round-robin featuring a mix of rising stars and experienced grandmasters. In the end, Daniel Dardha and Hans Niemann tied for first place with 4&frac12; points each. Dardha was declared tournament winner thanks to his better tiebreak score. World junior champion Marc'Andria Maurizzi tied for third place with fan favourite Vasyl Ivanchuk. | All photos by Diana Mihajlova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
