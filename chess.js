@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
+         "pubDate" : "Mon, 04 Mar 2024 14:50:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
          "description" : "The ultimate chess companion bundle: Fritz 19 paired with the Fritz Powerbook 2024. Elevate your game with Fritz 19's advanced AI and deep analysis tools that challenge and teach players of all skill levels. Then, take your strategy to the next level with the Fritz Powerbook 2024, offering over 25 million openings, variations, and patterns derived from real-world games and top-level matches. Together, they provide an unparalleled chess training experience, combining tactical depth with a vast knowledge base to sharpen your skills and strategies like never before. This bundle is now €139.90 instead of €179.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +50,7 @@ news_feed (
          "title" : "AICF Election :Form 6"
       },
       {
-         "description" : "Find the crosstable here. Congratulations also to Trisha Kanyamarala on becoming&#160;the first Irish player and the first female player to tie for first place.",
+         "description" : "Find the crosstable here. Congratulations also to Trisha Kanyamarala on becoming&#160;the first Irish player and the first female player to tie for first place. An...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/danny-gormally-wins-2024-british-rapidplay-championship/",
@@ -66,28 +74,12 @@ news_feed (
          "title" : "Candidates Tournament: Visa trouble"
       },
       {
-         "description" : "A fortnight ago, I showed a game by Lu Miaoyi, a ferocious 14-year-old Chinese girl. This started me thinking about the best attacking players of all time. I don't have an ordered list myself, just some names which I think should go very close to the top. Here I analysed three brilliant attacking wins by Rashid Nezhmetdinov (pictured), Paul Keres and Wei Yi. What is your top ten of attacking players? Share your list in the comments section.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-213",
-         "pubDate" : "Sun, 03 Mar 2024 22:45:00",
-         "title" : "Jon Speelman: Charge of the chestnuts!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2908",
          "pubDate" : "Sun, 03 Mar 2024 21:59:48",
          "title" : "Romanian Championship 2024: Parligras and Lehaci win titles"
-      },
-      {
-         "description" : "The Djerba Masters was an 8-player single round-robin featuring a mix of rising stars and experienced grandmasters. In the end, Daniel Dardha and Hans Niemann tied for first place with 4&frac12; points each. Dardha was declared tournament winner thanks to his better tiebreak score. World junior champion Marc'Andria Maurizzi tied for third place with fan favourite Vasyl Ivanchuk. | All photos by Diana Mihajlova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dardha-niemann-win-djerba-masters-2024",
-         "pubDate" : "Sun, 03 Mar 2024 17:35:00",
-         "title" : "Djerba Masters: Dardha edges Niemann on tiebreaks to win event"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108184346.cms\" />Indian Grandmaster R Praggnanandhaa crashed through the defenses of compatriot Vidit Gujrathi but D Gukesh suffered a shock defeat from a position of strength against Czech Republic's David Navara in the fifth round of the Prague Masters.",
@@ -120,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-underdeveloped-battery",
          "pubDate" : "Sun, 03 Mar 2024 08:00:00",
          "title" : "Grivas: Underdeveloped Battery"
-      },
-      {
-         "description" : "A smooth victory over Mateusz Bartel allowed Nodirbek Abdusattorov to become the sole leader of the Masters section in the Prague Chess Festival. Praggnanandhaa R and David Navara also scored full points in an eventful fifth round, the last one before the rest day. In the Challengers, Anton Korobov and Ediz Gurel continue to be the co-leaders, as both players obtained victories on Saturday. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-r5",
-         "pubDate" : "Sun, 03 Mar 2024 01:45:00",
-         "title" : "Prague: Abdusattorov sole leader, Pragg beats Vidit"
       },
       {
          "description" : "Nineteen-year-old GM Nodirbek Abdusattorov overtook GMs Alireza Firouzja and Ian Nepomniachtchi to enter the world top-five after a smooth win over GM Mateusz Bartel in round five of the Prague Masters. There were huge turnarounds elsewhere, with ...",
