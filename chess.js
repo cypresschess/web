@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new issue of ChessBase Magazine offers complete mobile access again in ChessBase book format - all analyses, repertoire articles, videos and training exercises can be loaded directly via your web browser! Alexey Kuzmin's article on the Bukavshin Variation in the Catalan Opening (1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Be7 5.Bg2 0-0 6.0-0 dxc4 7.Qc2 b6!?.) is available as a free sample this week. Take a look and get to know a fresh side line for Black!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-3",
+         "pubDate" : "Tue, 05 Mar 2024 12:00:00",
+         "title" : "New: CBM #218 - incl. ChessBase book for iPad, Tablet & Co!"
+      },
+      {
          "description" : "An exciting sixth round at the Masters tournament in Prague saw Praggnanandhaa taking down frontrunner Nodirbek Abdusattorov - who remains as the sole leader despite the loss. Parham Maghsoodloo, who entered the round in sole second place, was defeated by Thai Dai Van Nguyen, while Vincent Keymer beat Vidit Gujrathi and Mateusz Bartel got the better of Gukesh. In the Challengers, Ediz Gurel is now the sole leader, as Anton Korobov, who was sharing first place before round 6, was defeated by Maxim Rodshtein. | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2881",
          "pubDate" : "Tue, 13 Feb 2024 15:11:51",
          "title" : "Chess to make an appearance at the 13th African Games in Accra"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2880",
-         "pubDate" : "Tue, 13 Feb 2024 11:58:46",
-         "title" : "International Congress on Chess, Education and Health in Menorca: A New Look into the Future"
       }
    ]
 }
