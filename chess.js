@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108243619.cms\" />Indian Grandmaster R Praggnanandhaa defeated overnight sole leader Nodirbek Abdusattarov of Uzbekistan to stake his claim for the top honours at the Prague Masters chess tournament. Winning with the black pieces, Praggnanandhaa came within striking distance of the sole leader in the ten-player round-robin event that still has three rounds remaining. Things worked out even better for Praggnanandhaa as the second-placed Parham Maghsoodloo of Iran went down to Nguyen Thai Dai Van of the Czech Republic.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-crushes-nodirbek-abdusattarov-to-be-joint-second-in-prague-masters/articleshow/108243619.cms",
+         "pubDate" : "Tue, 05 Mar 2024 15:14:26",
+         "title" : "Praggnanandhaa crushes Abdusattarov to be joint second in Prague Masters"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2910",
+         "pubDate" : "Tue, 05 Mar 2024 14:55:56",
+         "title" : "Getting more women's teams to the Chess Olympiad"
+      },
+      {
+         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
+         "pubDate" : "Tue, 05 Mar 2024 14:50:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : " The headline is a little dramatic, in that there are lots of proper GM events. But the Shenzen Masters kind of feels like a pre-covid GM event, rather than the an event that is squeezed between the next online KO/Rapid/Troll-fest that seems to be prevalent today. Four local GM's and 4 foreign GM's in the 2600-2800 range has seen some entertaining games. The one game I picked from the tournament is a 30 mover, surprisingly won by Black using the Petroff. In the end the sneaky black pawn on b2 made all the difference. <br /> <b>Erigaisi,Arjun (2738) - Bu Xiangzhi (2671) [C43]</b><br /> 5th Shenzhen Longgang Shenzhen CHN (2), 01.03.2024 <script> new PgnViewer( { boardName: \"game1447\", movesFor",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/a-proper-gm-event.html",
+         "pubDate" : "Tue, 05 Mar 2024 12:31:00",
+         "title" : "A proper GM event"
+      },
+      {
          "description" : "The new issue of ChessBase Magazine offers complete mobile access again in ChessBase book format - all analyses, repertoire articles, videos and training exercises can be loaded directly via your web browser! Alexey Kuzmin's article on the Bukavshin Variation in the Catalan Opening (1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Be7 5.Bg2 0-0 6.0-0 dxc4 7.Qc2 b6!?.) is available as a free sample this week. Take a look and get to know a fresh side line for Black!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,14 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2882",
          "pubDate" : "Tue, 13 Feb 2024 21:05:08",
          "title" : "FIDE World Senior Team Championship 2024: Registration is open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2881",
-         "pubDate" : "Tue, 13 Feb 2024 15:11:51",
-         "title" : "Chess to make an appearance at the 13th African Games in Accra"
       }
    ]
 }
