@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An exciting sixth round at the Masters tournament in Prague saw Praggnanandhaa taking down frontrunner Nodirbek Abdusattorov - who remains as the sole leader despite the loss. Parham Maghsoodloo, who entered the round in sole second place, was defeated by Thai Dai Van Nguyen, while Vincent Keymer beat Vidit Gujrathi and Mateusz Bartel got the better of Gukesh. In the Challengers, Ediz Gurel is now the sole leader, as Anton Korobov, who was sharing first place before round 6, was defeated by Maxim Rodshtein. | Photo: Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-r6",
+         "pubDate" : "Tue, 05 Mar 2024 06:40:00",
+         "title" : "Prague: Keymer traps Vidit's queen, Pragg beats Abdusattorov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2909",
+         "pubDate" : "Tue, 05 Mar 2024 06:11:57",
+         "title" : "Andr&eacute; Meylan and Marija Zvereva win 2024 Monaco Championship"
+      },
+      {
          "description" : "After four rounds of the Shenzhen Masters, a trio of players - Bu, Yu and Erigaisi - are leading the table. Bu defeated Anish Giri with the white pieces. After a good start, things are not going well for the Dutchman. | Photos: Liang Ziming (Organiser)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,28 +26,12 @@ news_feed (
          "title" : "Shenzhen Masters, Round 4: Bu, Yu and Erigaisi lead"
       },
       {
-         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
-         "pubDate" : "Mon, 04 Mar 2024 14:50:00",
-         "title" : "Prague Chess Festival - Live!"
-      },
-      {
          "description" : "In a remarkable leaderboard twist, GM Nodirbek Abdusattorov kept his half-point lead at the Prague Masters despite losing to GM Praggnanandhaa Rameshbabu on Monday. This was possible because runner-up GM Parham Maghsoodloo suffered his first loss ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-6",
-         "pubDate" : "Mon, 04 Mar 2024 14:19:53",
+         "pubDate" : "Mon, 04 Mar 2024 14:19:00",
          "title" : "Abdusattorov Maintains Lead Despite Losing To Praggnanandhaa"
-      },
-      {
-         "description" : "The ultimate chess companion bundle: Fritz 19 paired with the Fritz Powerbook 2024. Elevate your game with Fritz 19's advanced AI and deep analysis tools that challenge and teach players of all skill levels. Then, take your strategy to the next level with the Fritz Powerbook 2024, offering over 25 million openings, variations, and patterns derived from real-world games and top-level matches. Together, they provide an unparalleled chess training experience, combining tactical depth with a vast knowledge base to sharpen your skills and strategies like never before. This bundle is now €139.90 instead of €179.90!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-19-fritz-powerbook-2024-bundle",
-         "pubDate" : "Mon, 04 Mar 2024 12:47:54",
-         "title" : "Fritz 19 & Fritz Powerbook 2024 Bundle!"
       },
       {
          "description" : "Please find the Link for Broadcasting live games of National Rapid Chess Tournament, Nashik (Maharashtra) from 04th March to 6th March 2024 https://www.chess.com/events/2024-indian-rapid-chess-championship",
@@ -80,14 +80,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-finance-council-meeting-2/",
          "pubDate" : "Mon, 04 Mar 2024 10:09:01",
          "title" : "ECF Finance Council Meeting"
-      },
-      {
-         "description" : "Four weeks before the start of the Candidates Tournament in Toronto, almost all the participants and their travelling companions are still waiting for the visas they applied for months ago to be issued. FIDE has now sent an \"urgent visa appeal to the Canadian government\" and is even considering moving the \"most prestigious tournament in the chess world\" to another country. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-visa-trouble",
-         "pubDate" : "Mon, 04 Mar 2024 07:42:24",
-         "title" : "Candidates Tournament: Visa trouble"
       },
       {
          "description" : "",
@@ -1048,22 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2880",
          "pubDate" : "Tue, 13 Feb 2024 11:58:46",
          "title" : "International Congress on Chess, Education and Health in Menorca: A New Look into the Future"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2879",
-         "pubDate" : "Tue, 13 Feb 2024 06:30:53",
-         "title" : "Chess Torch Ceremony in India to mark FIDE's 100th-anniversary celebration"
-      },
-      {
-         "description" : " Hello everyone! The Chess Drum has covered a lot of chess events over the past 23 years. This coverage has included six Olympiads, several Grand Chess Tour events, national events and visits to many chess communities around the world. Photo Essays from The Chess Drum (Daaim Shabazz) After covering the world's elite players and local The post <a href=\"https://www.thechessdrum.net/blog/2024/02/12/the-chess-drum-is-23/\">The Chess Drum is 23!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/02/12/the-chess-drum-is-23/",
-         "pubDate" : "Tue, 13 Feb 2024 04:59:24",
-         "title" : "The Chess Drum is 23!"
       }
    ]
 }
