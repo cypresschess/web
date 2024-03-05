@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After four rounds of the Shenzhen Masters, a trio of players - Bu, Yu and Erigaisi - are leading the table. Bu defeated Anish Giri with the white pieces. After a good start, things are not going well for the Dutchman. | Photos: Liang Ziming (Organiser)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/shenzhen-masters-bu-yu-and-erigaisi-lead",
+         "pubDate" : "Mon, 04 Mar 2024 22:19:09",
+         "title" : "Shenzhen Masters, Round 4: Bu, Yu and Erigaisi lead"
+      },
+      {
          "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
          "pubDate" : "Mon, 04 Mar 2024 14:50:00",
          "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "In a remarkable leaderboard twist, GM Nodirbek Abdusattorov kept his half-point lead at the Prague Masters despite losing to GM Praggnanandhaa Rameshbabu on Monday. This was possible because runner-up GM Parham Maghsoodloo suffered his first loss ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-6",
+         "pubDate" : "Mon, 04 Mar 2024 14:19:53",
+         "title" : "Abdusattorov Maintains Lead Despite Losing To Praggnanandhaa"
       },
       {
          "description" : "The ultimate chess companion bundle: Fritz 19 paired with the Fritz Powerbook 2024. Elevate your game with Fritz 19's advanced AI and deep analysis tools that challenge and teach players of all skill levels. Then, take your strategy to the next level with the Fritz Powerbook 2024, offering over 25 million openings, variations, and patterns derived from real-world games and top-level matches. Together, they provide an unparalleled chess training experience, combining tactical depth with a vast knowledge base to sharpen your skills and strategies like never before. This bundle is now €139.90 instead of €179.90!",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-grand-chess-tour-gukesh-praggnanandhaa-abdusattorov",
          "pubDate" : "Thu, 22 Feb 2024 11:23:00",
          "title" : "Gukesh, Praggnanandhaa, Abdusattorov Join 2024 Grand Chess Tour"
-      },
-      {
-         "description" : "GM Wesley So and IM Alice Lee advance to the Semifinals of the 2024 Team Chess Battle. On Thursday, they defeated GM Peter Leko and GM Pia Cramling 2-0, following up on yesterday&#39;s sweep with another. Even the seeds of trash talk bloomed into co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-so-lee-win",
-         "pubDate" : "Thu, 22 Feb 2024 11:09:00",
-         "title" : "Team Wesley So & Alice Lee Kill With Kindness In Quarterfinals"
       },
       {
          "description" : "",
