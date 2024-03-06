@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Djerba Chess Festival was not all about the Masters tournament, as a number of open tournaments and side events took place concurrently. Chokri Saidi, the festival's organiser, noted: \"I am a businessman, but nothing gives me greater pleasure than seeing children and players from all over the region and from further abroad giving all their being into a game of chess\". | Pictured: Arezki Bouhini from Algeria | All photos by Diana Mihajlova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/djerba-festival-2024-open-tournaments",
+         "pubDate" : "Tue, 05 Mar 2024 22:00:00",
+         "title" : "Djerba Chess Festival: Open tournaments and side events"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108243619.cms\" />Indian Grandmaster R Praggnanandhaa defeated overnight sole leader Nodirbek Abdusattarov of Uzbekistan to stake his claim for the top honours at the Prague Masters chess tournament. Winning with the black pieces, Praggnanandhaa came within striking distance of the sole leader in the ten-player round-robin event that still has three rounds remaining. Things worked out even better for Praggnanandhaa as the second-placed Parham Maghsoodloo of Iran went down to Nguyen Thai Dai Van of the Czech Republic.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
          "pubDate" : "Tue, 05 Mar 2024 14:50:00",
          "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "GMs Daniel Naroditsky and Robert Hess won their semifinal match against GM Hikaru Nakamura and IM Levy Rozman in the 2024 Team Chess Battle on Tuesday. The commentator duo pressed with an extra pawn in game one but was met with stiff, 99%-accura...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-sf-naroditsky-hess-win",
+         "pubDate" : "Tue, 05 Mar 2024 14:16:00",
+         "title" : "Naroditsky, Hess Say No To Draw, Play For Win With Black"
       },
       {
          "description" : " The headline is a little dramatic, in that there are lots of proper GM events. But the Shenzen Masters kind of feels like a pre-covid GM event, rather than the an event that is squeezed between the next online KO/Rapid/Troll-fest that seems to be prevalent today. Four local GM's and 4 foreign GM's in the 2600-2800 range has seen some entertaining games. The one game I picked from the tournament is a 30 mover, surprisingly won by Black using the Petroff. In the end the sneaky black pawn on b2 made all the difference. <br /> <b>Erigaisi,Arjun (2738) - Bu Xiangzhi (2671) [C43]</b><br /> 5th Shenzhen Longgang Shenzhen CHN (2), 01.03.2024 <script> new PgnViewer( { boardName: \"game1447\", movesFor",
@@ -818,14 +834,6 @@ news_feed (
          "title" : "Lost scoresheets"
       },
       {
-         "description" : "The line-up for the 2024 Grand Chess Tour has been announced, with teenage GMs Gukesh Dommaraju (17), Praggnanandhaa Rameshbabu (18), and Nodirbek Abdusattorov (19) the three newcomers, replacing GMs Richard Rapport, Jan-Krzysztof Duda, and World ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-grand-chess-tour-gukesh-praggnanandhaa-abdusattorov",
-         "pubDate" : "Thu, 22 Feb 2024 11:23:00",
-         "title" : "Gukesh, Praggnanandhaa, Abdusattorov Join 2024 Grand Chess Tour"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/glorney-cup-2024/",
          "pubDate" : "Wed, 14 Feb 2024 09:21:15",
          "title" : "Glorney Cup 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2882",
-         "pubDate" : "Tue, 13 Feb 2024 21:05:08",
-         "title" : "FIDE World Senior Team Championship 2024: Registration is open"
       }
    ]
 }
