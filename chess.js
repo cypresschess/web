@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Djerba Chess Festival was not all about the Masters tournament, as a number of open tournaments and side events took place concurrently. Chokri Saidi, the festival's organiser, noted: \"I am a businessman, but nothing gives me greater pleasure than seeing children and players from all over the region and from further abroad giving all their being into a game of chess\". | Pictured: Arezki Bouhini from Algeria | All photos by Diana Mihajlova",
+         "description" : "Nodirbek Abdusattorov bounced back from his round-6 loss by beating Vincent Keymer at the Masters section of the Prague Chess Festival. Thus, Abdusattorov continues to be the sole leader with two rounds to go. Parham Maghsoodloo got the better of Vidit and now stands in sole second place. In the all-Indian confrontation between Praggnanandhaa and Gukesh (pictured), the latter escaped with a draw in a 91-move game. Meanwhile, Anton Korobov caught Ediz Gurel in the lead of the Challengers. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/djerba-festival-2024-open-tournaments",
-         "pubDate" : "Tue, 05 Mar 2024 22:00:00",
-         "title" : "Djerba Chess Festival: Open tournaments and side events"
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-r7",
+         "pubDate" : "Wed, 06 Mar 2024 03:45:00",
+         "title" : "Prague: Abdusattorov scores, Gukesh escapes"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju dug deep to rescue a 91-move draw against GM Praggnanandhaa Rameshbabu in round seven of the Prague Masters. GM Nodirbek Abdusattorov shrugged off defeat from the day before to beat GM Vincent Keymer and retain the sole lead, t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-7",
+         "pubDate" : "Tue, 05 Mar 2024 16:30:00",
+         "title" : "Gukesh Escapes Against Praggnanandhaa, Abdusattorov Hits Back"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108243619.cms\" />Indian Grandmaster R Praggnanandhaa defeated overnight sole leader Nodirbek Abdusattarov of Uzbekistan to stake his claim for the top honours at the Prague Masters chess tournament. Winning with the black pieces, Praggnanandhaa came within striking distance of the sole leader in the ten-player round-robin event that still has three rounds remaining. Things worked out even better for Praggnanandhaa as the second-placed Parham Maghsoodloo of Iran went down to Nguyen Thai Dai Van of the Czech Republic.",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2910",
          "pubDate" : "Tue, 05 Mar 2024 14:55:56",
          "title" : "Getting more women's teams to the Chess Olympiad"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
-         "pubDate" : "Tue, 05 Mar 2024 14:50:00",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "GMs Daniel Naroditsky and Robert Hess won their semifinal match against GM Hikaru Nakamura and IM Levy Rozman in the 2024 Team Chess Battle on Tuesday. The commentator duo pressed with an extra pawn in game one but was met with stiff, 99%-accura...",
@@ -58,28 +58,12 @@ news_feed (
          "title" : "New: CBM #218 - incl. ChessBase book for iPad, Tablet & Co!"
       },
       {
-         "description" : "An exciting sixth round at the Masters tournament in Prague saw Praggnanandhaa taking down frontrunner Nodirbek Abdusattorov - who remains as the sole leader despite the loss. Parham Maghsoodloo, who entered the round in sole second place, was defeated by Thai Dai Van Nguyen, while Vincent Keymer beat Vidit Gujrathi and Mateusz Bartel got the better of Gukesh. In the Challengers, Ediz Gurel is now the sole leader, as Anton Korobov, who was sharing first place before round 6, was defeated by Maxim Rodshtein. | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-r6",
-         "pubDate" : "Tue, 05 Mar 2024 06:40:00",
-         "title" : "Prague: Keymer traps Vidit's queen, Pragg beats Abdusattorov"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2909",
          "pubDate" : "Tue, 05 Mar 2024 06:11:57",
          "title" : "Andr&eacute; Meylan and Marija Zvereva win 2024 Monaco Championship"
-      },
-      {
-         "description" : "After four rounds of the Shenzhen Masters, a trio of players - Bu, Yu and Erigaisi - are leading the table. Bu defeated Anish Giri with the white pieces. After a good start, things are not going well for the Dutchman. | Photos: Liang Ziming (Organiser)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/shenzhen-masters-bu-yu-and-erigaisi-lead",
-         "pubDate" : "Mon, 04 Mar 2024 22:19:09",
-         "title" : "Shenzhen Masters, Round 4: Bu, Yu and Erigaisi lead"
       },
       {
          "description" : "In a remarkable leaderboard twist, GM Nodirbek Abdusattorov kept his half-point lead at the Prague Masters despite losing to GM Praggnanandhaa Rameshbabu on Monday. This was possible because runner-up GM Parham Maghsoodloo suffered his first loss ...",
@@ -96,14 +80,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-broadcasting-live-games-of-national-rapid-2024/",
          "pubDate" : "Mon, 04 Mar 2024 11:05:21",
          "title" : "Live Link for Broadcasting live games of National Rapid 2024"
-      },
-      {
-         "description" : "A battery is a formation that consists of two or more pieces on the same rank, file, or diagonal. In a more detailed way, a battery refers to a configuration of heavy pieces (rooks or queens) that occupy the same file. It can also refer to long-range pieces (queens and bishops) that occupy the same diagonal. Learn more about the strength of the chess battery in part two of a mini-series by chess trainer Efstratios Grivas.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-underdeveloped-battery-2",
-         "pubDate" : "Mon, 04 Mar 2024 11:00:00",
-         "title" : "Grivas: Underdeveloped Battery (2)"
       },
       {
          "description" : "Tenders are now invited for the bookstall, coaching and/or commentary at the British Chess Championships 2024 in Hull click here",
@@ -168,14 +144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2907",
          "pubDate" : "Sun, 03 Mar 2024 11:14:31",
          "title" : "PICF 2024 Masters: Abdusattorov leads halfway through"
-      },
-      {
-         "description" : "Do you need special batteries to play chess? No, a battery in chess refers to piece formation! A battery is a formation that consists of two or more pieces on the same rank, file, or diagonal. In a more detailed way, a battery refers to a configuration of heavy pieces (rooks or queens) that occupy the same file. It can also refer to long-range pieces (queens and bishops) that occupy the same diagonal. Learn more about the strength of the chess battery from chess trainer Efstratios Grivas.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-underdeveloped-battery",
-         "pubDate" : "Sun, 03 Mar 2024 08:00:00",
-         "title" : "Grivas: Underdeveloped Battery"
       },
       {
          "description" : "Nineteen-year-old GM Nodirbek Abdusattorov overtook GMs Alireza Firouzja and Ian Nepomniachtchi to enter the world top-five after a smooth win over GM Mateusz Bartel in round five of the Prague Masters. There were huge turnarounds elsewhere, with ...",
@@ -744,14 +712,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/",
          "pubDate" : "Sat, 24 Feb 2024 16:07:56",
          "title" : "Shakira Luster: Marist's Chess Queen"
-      },
-      {
-         "description" : "In a Bullet Brawl showdown between two of the quickest players in chess, GMs Daniel Naroditsky and Andrew Tang, Naroditsky came out on top on Saturday. Claiming his 12th title and the $400 first prize, the U.S. commentator scored 247 points in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-february-24-2024",
-         "pubDate" : "Sat, 24 Feb 2024 14:56:00",
-         "title" : "Naroditsky Records 48-Game Unbeaten Streak In Bullet Brawl"
       },
       {
          "description" : "If I had a pill that would improve your focus, mood &#38; memory, would you take it? I bet you would. And you would even pay quite a bit for it. Sadly, I don't have such a pill. But in this Newsletter, I will show you four ways to improve your focus, mood &#38; brain []",
