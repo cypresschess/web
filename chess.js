@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The International Chess Federation is pleased to announce the continuation of its support to chess veterans. The grants will be awarded to distinguished players, coaches...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/call-for-submissions-fide-veterans-support-program/",
+         "pubDate" : "Wed, 06 Mar 2024 16:08:38",
+         "title" : "Call for submissions - FIDE Veterans Support Program"
+      },
+      {
+         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
+         "pubDate" : "Wed, 06 Mar 2024 14:50:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108274284.cms\" />Indian Grandmaster R Praggnanandhaa failed to register a win from an advantageous position against compatriot D Gukesh as their seventh round match ended in a draw in the Prague Masters Chess tournament on Wednesday. Praggnandhaa came very close to beating Gukesh who played black but in the end they split points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-escapes-with-a-draw-against-praggnanandhaa-in-prague-masters-chess/articleshow/108274284.cms",
+         "pubDate" : "Wed, 06 Mar 2024 14:49:48",
+         "title" : "Gukesh escapes with a draw against Praggnanandhaa in Prague Masters"
+      },
+      {
          "description" : "Yevhenii Yelieiev is an International Master, German U25 Champion, and a short while ago he invited the public to join him on his \"Journey to Grandmaster\" on YouTube. As part of this journey he offers training and training advice and also checks training materials. In a recent video he wondered whether \"Do you really need to buy ChessBase in 2024?\" - and answered this question with a resounding \"Yes\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2024-official-regulations/",
          "pubDate" : "Wed, 06 Mar 2024 08:55:55",
          "title" : "European Senior Chess Championship 2024 - Official regulations"
+      },
+      {
+         "description" : "Big names won the Titled Tuesday events of March 5: GM Alireza Firouzja&#38;nbsp;and GM Hikaru Nakamura, both of whom will be playing in the Candidates Tournament in four weeks. Firouzja won in the last round to reach a five-way tie on 9.5 points wher...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-nakamura-win-titled-tuesday-march-5-2024",
+         "pubDate" : "Wed, 06 Mar 2024 07:50:23",
+         "title" : "Firouzja, Nakamura Nearing Candidates Form"
       },
       {
          "description" : "Nodirbek Abdusattorov bounced back from his round-6 loss by beating Vincent Keymer at the Masters section of the Prague Chess Festival. Thus, Abdusattorov continues to be the sole leader with two rounds to go. Parham Maghsoodloo got the better of Vidit and now stands in sole second place. In the all-Indian confrontation between Praggnanandhaa and Gukesh (pictured), the latter escaped with a draw in a 91-move game. Meanwhile, Anton Korobov caught Ediz Gurel in the lead of the Challengers. | Photo: Petr Vrabec",
@@ -1032,30 +1064,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/14/how-will-chess-address-cyberbullying/",
          "pubDate" : "Wed, 14 Feb 2024 23:51:35",
          "title" : "How Will Chess Address Cyberbullying?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2884",
-         "pubDate" : "Wed, 14 Feb 2024 16:13:11",
-         "title" : "Starting with a bang: Chess Torch Ceremony kicks off FIDE's centennial celebration"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2883",
-         "pubDate" : "Wed, 14 Feb 2024 13:27:06",
-         "title" : " FIDE announces 2024 World Corporate Chess Championship"
-      },
-      {
-         "description" : " A shameless plug for an eventual 12 part series on Basic Endings for Beginners (based on the book of the title by JH Blake) <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"369\" src=\"https://www.youtube.com/embed/xDOJf4A-Wmo\" width=\"444\" youtube-src-id=\"xDOJf4A-Wmo\"></iframe></div><br /> The direct link is <a href=\"https://youtu.be/xDOJf4A-Wmo?si=Ti4Mi_2wZA_NB4t8\">https://youtu.be/xDOJf4A-Wmo?si=Ti4Mi_2wZA_NB4t8</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/some-basic-endgame-tips-on-youtube.html",
-         "pubDate" : "Wed, 14 Feb 2024 12:47:00",
-         "title" : "Some basic endgame tips on youtube"
       }
    ]
 }
