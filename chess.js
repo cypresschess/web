@@ -26,6 +26,14 @@ news_feed (
          "title" : "Gukesh escapes with a draw against Praggnanandhaa in Prague Masters"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2912",
+         "pubDate" : "Wed, 06 Mar 2024 14:06:09",
+         "title" : "FIDE Resolution on suspending membership of Egyptian Chess Federation"
+      },
+      {
          "description" : "Yevhenii Yelieiev is an International Master, German U25 Champion, and a short while ago he invited the public to join him on his \"Journey to Grandmaster\" on YouTube. As part of this journey he offers training and training advice and also checks training materials. In a recent video he wondered whether \"Do you really need to buy ChessBase in 2024?\" - and answered this question with a resounding \"Yes\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kcf-academy-chess-prodigy-abhi",
          "pubDate" : "Wed, 06 Mar 2024 11:00:00",
          "title" : "KCF Academy: Chess Prodigy Abhi"
+      },
+      {
+         "description" : "Former world champion and Putin critic GM Garry Kasparov has been added to Russia&#39;s list of &#34;terrorists and extremists.&#34; The chess legend calls it &#34;an honor.&#34; Kasparov&#39;s name is included in the list of &#34;terrorists and extremists&#34; by the Russian ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/garry-kasparov-added-to-russias-list-of-terrorists-and-extremists",
+         "pubDate" : "Wed, 06 Mar 2024 10:49:00",
+         "title" : "Garry Kasparov Added To Russia's List Of 'Terrorists And Extremists'"
       },
       {
          "description" : "",
@@ -288,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-4",
          "pubDate" : "Sat, 02 Mar 2024 01:18:00",
          "title" : "White Presses, Black Holds: All Draws In Prague"
-      },
-      {
-         "description" : "Did you know that your brain makes up just 2% of your body's weight, but accounts for 20% of its energy use. During a chess game you can burn a lot of calories by just thinking. Intel project manager (and avid chess researcher) Ashwin Subramanian uses the latest monitoring data to analyse the process. He says it is critical for all players to \"eat right\". And to also do specific breathing exercises, which have measurably improved his play.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-heart-racing-experience-3",
-         "pubDate" : "Fri, 01 Mar 2024 21:00:00",
-         "title" : "A Heart-Racing Experience! (3)"
       },
       {
          "description" : "One of the world&#39;s most prestigious tournaments is facing a significant hurdle as FIDE has announced a public appeal to the Canadian authorities to expedite the visa process for several players. Update, March 2: Canadian Chess Federation President...",
@@ -752,14 +760,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-prodigy-rameshbabu-praggnanandhaa-confident-india-will-rule-the-world/articleshow/107979503.cms",
          "pubDate" : "Sun, 25 Feb 2024 04:43:52",
          "title" : "Praggnanandhaa confident India can dominate the chess world"
-      },
-      {
-         "description" : "British rising star WCM Bodhana Sivanandan has delivered another extraordinary performance that is likely to catapult her to world number-one among chess players under nine years years of age. The schoolgirl now boasts one of the highest ratings e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bodhana-sivanandan-third-highest-rated-8-year-old-chess-player-ever",
-         "pubDate" : "Sun, 25 Feb 2024 03:25:00",
-         "title" : "Bodhana Sivanandan Becomes 3rd Highest Rated 8-Year-Old Chess Player Ever"
       },
       {
          "description" : "Please find the certificates here for Below 2000 Open and Below 2000 Women Below 2000 Open Below 2000 Women Rank Name Rank Name 1 Shah",
