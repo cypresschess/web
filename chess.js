@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Yevhenii Yelieiev is an International Master, German U25 Champion, and a short while ago he invited the public to join him on his \"Journey to Grandmaster\" on YouTube. As part of this journey he offers training and training advice and also checks training materials. In a recent video he wondered whether \"Do you really need to buy ChessBase in 2024?\" - and answered this question with a resounding \"Yes\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yevhenii-yelieiev-do-you-really-need-to-buy-chessbase-in-2024",
+         "pubDate" : "Wed, 06 Mar 2024 12:47:55",
+         "title" : "Yevhenii Yelieiev: \"Do you really need to buy ChessBase in 2024?\""
+      },
+      {
+         "description" : "Step into the world of chess brilliance with Abhimanyu Mishra, the youngest chess grandmaster in history! At just twelve years old, Mishra captivated the chess world with his exceptional talent and unwavering dedication. In an exclusive interview at the Kasparov Chess Foundation Academy, Abhimanyu shares insights into his remarkable journey, including his experience training with the legendary Garry Kasparov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-academy-chess-prodigy-abhi",
+         "pubDate" : "Wed, 06 Mar 2024 11:00:00",
+         "title" : "KCF Academy: Chess Prodigy Abhi"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2911",
+         "pubDate" : "Wed, 06 Mar 2024 10:43:42",
+         "title" : "Call for submissions: FIDE Veterans Support Program 2024"
+      },
+      {
+         "description" : "The European Senior Chess Championship 2024 will be held from October 24 (arrival day) to November 3 (departure day) in Lignano Sabbiadoro, Italy. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 seconds per movestarting from move []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-chess-championship-2024-official-regulations/",
+         "pubDate" : "Wed, 06 Mar 2024 08:55:55",
+         "title" : "European Senior Chess Championship 2024 - Official regulations"
+      },
+      {
          "description" : "Nodirbek Abdusattorov bounced back from his round-6 loss by beating Vincent Keymer at the Masters section of the Prague Chess Festival. Thus, Abdusattorov continues to be the sole leader with two rounds to go. Parham Maghsoodloo got the better of Vidit and now stands in sole second place. In the all-Indian confrontation between Praggnanandhaa and Gukesh (pictured), the latter escaped with a draw in a 91-move game. Meanwhile, Anton Korobov caught Ediz Gurel in the lead of the Challengers. | Photo: Petr Vrabec",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +96,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2909",
          "pubDate" : "Tue, 05 Mar 2024 06:11:57",
          "title" : "Andr&eacute; Meylan and Marija Zvereva win 2024 Monaco Championship"
+      },
+      {
+         "description" : "Wobbling on with this weekly, Monday series, the previous post was <A HREF=\"https://chessforallages.blogspot.com/2024/02/chess-comics-grids-and-panels.html\">Chess Comics - Grids and Panels</A> (February 2024). At the end of that post, I gave myself a direction:- <BLOCKQUOTE> How should I use the different grids to create a more interesting series of pages? I really have no idea. [...] Maybe I should spend some time on this subject. </BLOCKQUOTE> <P> As usual, the time I used was spent badly and I have only the following composite image to show for it. The left, colored portion is an excuse to use another AI generated image on this chess blog. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/03/comics-scholarship-not-necessarily-chess.html",
+         "pubDate" : "Mon, 04 Mar 2024 16:51:00",
+         "title" : "Comics Scholarship, Not Necessarily Chess"
       },
       {
          "description" : "In a remarkable leaderboard twist, GM Nodirbek Abdusattorov kept his half-point lead at the Prague Masters despite losing to GM Praggnanandhaa Rameshbabu on Monday. This was possible because runner-up GM Parham Maghsoodloo suffered his first loss ...",
@@ -1016,14 +1056,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/some-basic-endgame-tips-on-youtube.html",
          "pubDate" : "Wed, 14 Feb 2024 12:47:00",
          "title" : "Some basic endgame tips on youtube"
-      },
-      {
-         "description" : "The 2024 Glorney Cup will take place between 23-25 July at the University of Hull. There will be 6 teams: England; England A; Ireland; International;...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/glorney-cup-2024/",
-         "pubDate" : "Wed, 14 Feb 2024 09:21:15",
-         "title" : "Glorney Cup 2024"
       }
    ]
 }
