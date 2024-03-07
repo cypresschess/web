@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Philidor Defence is celebrated for its historical significance and varied tactical approaches, including the aggressive early f5 push and the more dubious line involving an early d4 pawn exchange and fianchetto. This video course, by GM Christian Bauer, shows the Philidor Defence's main positions and White's significant deviations, highlighting the nuanced manoeuvres in a semi-closed middlegame that challenge White's comfort.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christian-bauer-the-evergreen-philidor",
+         "pubDate" : "Thu, 07 Mar 2024 09:00:00",
+         "title" : "Christian Bauer: The evergreen Philidor"
+      },
+      {
          "description" : "Nodirbek Abdusattorov claimed overall victory at the Prague Masters with a round to spare after prevailing in a wild encounter against Parham Maghsoodloo. The Uzbek GM's 6/8 score in the Czech capital allowed him to gain 15.5 Elo points and climb to fourth place in the live ratings list. Round 8 also saw Gukesh beating Vincent Keymer. Meanwhile, in the Challengers, Jaime Santos defeated Anton Korobov and is now sharing the lead with Ediz Gurel. Gurel's draw with Erwin l'Ami secured him a third and final GM norm. | Photo: Anezka Kruzikova / Prague Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-eight",
-         "pubDate" : "Wed, 06 Mar 2024 13:46:48",
+         "pubDate" : "Wed, 06 Mar 2024 13:46:00",
          "title" : "Abdusattorov Wins Prague Masters With Round To Spare As New World Number 4"
       },
       {
