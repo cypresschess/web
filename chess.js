@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 British Chess Championship will be held in Hull with the first competitions starting in the evening of Thursday 25th July 2024 with the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/arbiters-call-of-interest/",
+         "pubDate" : "Thu, 07 Mar 2024 13:00:17",
+         "title" : "Arbiters - Call of Interest for the BCC and the Glorney Cup"
+      },
+      {
          "description" : " <p class=\"lead\">A recent survey conducted by World Chess among participants of the Swiss Queens Wednesdays, an elite online chess tournament series, has revealed a significant shift in perceptions among female chess players regarding gender barriers in the sport. A remarkable 65% of respondents expressed confidence that a woman will become the world chess champion, with 32% believing it could happen in less than 5 years and 33% foreseeing it within the next decade. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-1321316385.png\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">This optimistic outlook from the majority of respondents undersco",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "Majority of elite female chess players believe a woman will be World Champion"
       },
       {
-         "description" : "The Prague Chess Festival takes place from 27 February to 7 March at the Don Giovanni Hotel in Prague and ends today. But the winner of the Masters is already clear: After a dramatic victory in round 8, Nodirbek Abdusattorov won the Masters with one round to spare. The Masters and Challengers tournaments are the main events, each a 10-player single round robin with classic time control. | Follow the games live with commentary - the last round starts at 11.00 CET (5.00 ET, 15.30 IST) | Photo: Petr Vrabec",
+         "description" : "Nodirbek Abdusattorov is the sixth champion of the prestigious chess festival. In the process the the 19-year-old Usbek grandmaster rose to the fourth position in the world live ranking, ahead of the reigning world champion Ding Liren. All games of the final round were drawn, and can be replayed, with engine commentary, in this report. You can also watch the live commentary by ChessBase India, if you missed it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
          "pubDate" : "Thu, 07 Mar 2024 10:50:00",
-         "title" : "Prague Chess Festival - Live!"
+         "title" : "Prague Chess Festival - Abdusattorov triumphs, 1&frac12; points ahead of the field"
       },
       {
          "description" : "Greek grandmaster Stamatis Kourkoulos-Arditis is on the verge of victory at the Karel Janecek Open, which is being held as part of the Prague Chess Festival. With one round to go, he has 7.5 out of 8, and is one point ahead of six players with 6.5 out of 8. In round 8, Kourkoulos-Arditis scored an important win with Black in a theoretically interesting and tactically rich game. | Photo: Johannes Fischer",
@@ -42,12 +50,20 @@ news_feed (
          "title" : "Christian Bauer: The evergreen Philidor"
       },
       {
-         "description" : "Nodirbek Abdusattorov claimed overall victory at the Prague Masters with a round to spare after prevailing in a wild encounter against Parham Maghsoodloo. The Uzbek GM's 6/8 score in the Czech capital allowed him to gain 15.5 Elo points and climb to fourth place in the live ratings list. Round 8 also saw Gukesh beating Vincent Keymer. Meanwhile, in the Challengers, Jaime Santos defeated Anton Korobov and is now sharing the lead with Ediz Gurel. Gurel's draw with Erwin l'Ami secured him a third and final GM norm. | Photo: Anezka Kruzikova / Prague Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-r8",
-         "pubDate" : "Thu, 07 Mar 2024 02:10:00",
-         "title" : "Nodirbek Abdusattorov wins Prague Masters with a round to spare"
+         "description" : "GM Bu Xiangzhi edged out GMs Yu Yangyi&#38;nbsp;and Arjun Erigaisi on tiebreaks to win the fifth edition of the Shenzhen Longgang Chess Masters on Thursday. All three finished on 4.5/7, with Bu having the best tiebreaks. It wasn&#39;t a good week for GM A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bu-xiangzhi-wins-2024-shenzhen-longgang-chess-masters",
+         "pubDate" : "Thu, 07 Mar 2024 06:54:02",
+         "title" : "Bu Xiangzhi Wins Shenzhen Masters On Tiebreaks, Giri Drops Out Of Top 10"
+      },
+      {
+         "description" : "You could almost hear the collective sigh of relief from FIDE officials and the Toronto organizers as clearance was given for the Candidates Tournament after visa issues were resolved just in time. It was a dramatic turn of events when on Friday...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/candidates-given-green-light-visa-issues-resolved",
+         "pubDate" : "Thu, 07 Mar 2024 06:50:00",
+         "title" : "Candidates Given Green Light As Visa Issues Resolved Just In Time"
       },
       {
          "description" : "The International Chess Federation is pleased to announce the continuation of its support to chess veterans. The grants will be awarded to distinguished players, coaches...",
@@ -82,22 +98,6 @@ news_feed (
          "title" : "Abdusattorov Wins Prague Masters With Round To Spare As New World Number 4"
       },
       {
-         "description" : "Yevhenii Yelieiev is an International Master, German U25 Champion, and a short while ago he invited the public to join him on his \"Journey to Grandmaster\" on YouTube. As part of this journey he offers training and training advice and also checks training materials. In a recent video he wondered whether \"Do you really need to buy ChessBase in 2024?\" - and answered this question with a resounding \"Yes\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yevhenii-yelieiev-do-you-really-need-to-buy-chessbase-in-2024",
-         "pubDate" : "Wed, 06 Mar 2024 12:47:55",
-         "title" : "Yevhenii Yelieiev: \"Do you really need to buy ChessBase in 2024?\""
-      },
-      {
-         "description" : "Step into the world of chess brilliance with Abhimanyu Mishra, the youngest chess grandmaster in history! At just twelve years old, Mishra captivated the chess world with his exceptional talent and unwavering dedication. In an exclusive interview at the Kasparov Chess Foundation Academy, Abhimanyu shares insights into his remarkable journey, including his experience training with the legendary Garry Kasparov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-academy-chess-prodigy-abhi",
-         "pubDate" : "Wed, 06 Mar 2024 11:00:00",
-         "title" : "KCF Academy: Chess Prodigy Abhi"
-      },
-      {
          "description" : "Former world champion and Putin critic GM Garry Kasparov has been added to Russia&#39;s list of &#34;terrorists and extremists.&#34; The chess legend calls it &#34;an honor.&#34; Kasparov&#39;s name is included in the list of &#34;terrorists and extremists&#34; by the Russian ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/firouzja-nakamura-win-titled-tuesday-march-5-2024",
          "pubDate" : "Wed, 06 Mar 2024 07:50:23",
          "title" : "Firouzja, Nakamura Nearing Candidates Form"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov bounced back from his round-6 loss by beating Vincent Keymer at the Masters section of the Prague Chess Festival. Thus, Abdusattorov continues to be the sole leader with two rounds to go. Parham Maghsoodloo got the better of Vidit and now stands in sole second place. In the all-Indian confrontation between Praggnanandhaa and Gukesh (pictured), the latter escaped with a draw in a 91-move game. Meanwhile, Anton Korobov caught Ediz Gurel in the lead of the Challengers. | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-r7",
-         "pubDate" : "Wed, 06 Mar 2024 03:45:00",
-         "title" : "Prague: Abdusattorov scores, Gukesh escapes"
       },
       {
          "description" : "GM Gukesh Dommaraju dug deep to rescue a 91-move draw against GM Praggnanandhaa Rameshbabu in round seven of the Prague Masters. GM Nodirbek Abdusattorov shrugged off defeat from the day before to beat GM Vincent Keymer and retain the sole lead, t...",
@@ -176,14 +168,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/a-proper-gm-event.html",
          "pubDate" : "Tue, 05 Mar 2024 12:31:00",
          "title" : "A proper GM event"
-      },
-      {
-         "description" : "The new issue of ChessBase Magazine offers complete mobile access again in ChessBase book format - all analyses, repertoire articles, videos and training exercises can be loaded directly via your web browser! Alexey Kuzmin's article on the Bukavshin Variation in the Catalan Opening (1.d4 d5 2.c4 e6 3.Nf3 Nf6 4.g3 Be7 5.Bg2 0-0 6.0-0 dxc4 7.Qc2 b6!?.) is available as a free sample this week. Take a look and get to know a fresh side line for Black!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-3",
-         "pubDate" : "Tue, 05 Mar 2024 12:00:00",
-         "title" : "New: CBM #218 - incl. ChessBase book for iPad, Tablet & Co!"
       },
       {
          "description" : "",
@@ -656,22 +640,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/27/tani-adewumi-gets-required-im-norm/",
          "pubDate" : "Tue, 27 Feb 2024 16:07:35",
          "title" : "Tani Adewumi gets required IM norm!"
-      },
-      {
-         "description" : "For the first time in his career, GM Nodirbek Abdusattorov entered the world top 10 on the live rating list today. The Uzbek grandmaster defeated GM Thai Dai Van Nguyen in what was a combative opening round of the Prague Masters. GM Praggnanandh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-1",
-         "pubDate" : "Tue, 27 Feb 2024 13:46:00",
-         "title" : "Abdusattorov Enters Live Top 10 After Win In Prague Masters Opening Round"
-      },
-      {
-         "description" : "In our second consecutive match to go to an armageddon tiebreaker this season, GM Hikaru Nakamura and IM Levy Rozman defeated GMs Jorden van Foreest and Eric Hansen 2-1. Next, they&#39;ll play the legendary commentator team, GMs Daniel Naroditsky and ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-nakamura-rozman-win",
-         "pubDate" : "Tue, 27 Feb 2024 13:35:00",
-         "title" : "Nakamura, GothamChess Dream Team Wins In Armageddon"
       },
       {
          "description" : "As directed the last date of the National Rapid &#38; Blitz 2024 online entries extended to 01st March 2024,1600 PM.",
