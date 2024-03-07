@@ -34,6 +34,14 @@ news_feed (
          "title" : "FIDE Resolution on suspending membership of Egyptian Chess Federation"
       },
       {
+         "description" : "The Prague Masters&#38;nbsp;has become a dream tournament for GM Nodirbek Abdusattorov. In a field with three candidates, the 19-year-old Uzbek GM secured victory with a round to spare today while moving to world number four in the live ratings, surpa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-eight",
+         "pubDate" : "Wed, 06 Mar 2024 13:46:48",
+         "title" : "Abdusattorov Wins Prague Masters With Round To Spare As New World Number 4"
+      },
+      {
          "description" : "Yevhenii Yelieiev is an International Master, German U25 Champion, and a short while ago he invited the public to join him on his \"Journey to Grandmaster\" on YouTube. As part of this journey he offers training and training advice and also checks training materials. In a recent video he wondered whether \"Do you really need to buy ChessBase in 2024?\" - and answered this question with a resounding \"Yes\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -682,14 +690,6 @@ news_feed (
          "title" : "Chess Comics - Grids and Panels"
       },
       {
-         "description" : "GMs Daniel Naroditsky and Robert Hess knocked out the commentators who inspire them, GMs Peter Svidler and Jan Gustafsson, as they advanced to the Semifinals of the 2024 Team Chess Battle. Gustafsson and Svidler brought their trash-talk A-games ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-qf-naroditsky-hess-win",
-         "pubDate" : "Mon, 26 Feb 2024 15:16:00",
-         "title" : "Never Meet Your Heroes: Naroditsky & Hess Beat Their Commentary Inspirations"
-      },
-      {
          "description" : "Chess is often considered a calm and quiet game, where the only sound is the clicking of the pieces. But what if we could hear the heartbeat of the players, and see how their body reacts to the tension and excitement of the game? That is exactly what was done in the Freestyle Chess 2024 event in Weissenhaus, where the heart rate of some of the world's best chess players were monitored as they faced each other! We start this series with a look back at how it all started. | Photo Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2885",
          "pubDate" : "Thu, 15 Feb 2024 09:34:22",
          "title" : "FIDE delegation visits headquarters of IndianOil Corporation"
-      },
-      {
-         "description" : " Online bullying or &#8220;cyberbullying&#8221; has become a household term to describe a dangerous social interaction that may involve degrading insults, false characterizations, extortion, blackmailing and predatory stalking. On January 31, 2024, there was a U.S. Senate Judiciary hearing on child safety. It focused on social media platforms with the idea of passing legislation to protect The post <a href=\"https://www.thechessdrum.net/blog/2024/02/14/how-will-chess-address-cyberbullying/\">How Will Chess Address Cyberbullying?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/02/14/how-will-chess-address-cyberbullying/",
-         "pubDate" : "Wed, 14 Feb 2024 23:51:35",
-         "title" : "How Will Chess Address Cyberbullying?"
       }
    ]
 }
