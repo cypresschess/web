@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <p class=\"lead\">A recent survey conducted by World Chess among participants of the Swiss Queens Wednesdays, an elite online chess tournament series, has revealed a significant shift in perceptions among female chess players regarding gender barriers in the sport. A remarkable 65% of respondents expressed confidence that a woman will become the world chess champion, with 32% believing it could happen in less than 5 years and 33% foreseeing it within the next decade. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-1321316385.png\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">This optimistic outlook from the majority of respondents undersco",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/survey-majority-of-elite-female-chess-players-believe-a-woman-wi/",
+         "pubDate" : "Thu, 07 Mar 2024 11:14:39",
+         "title" : "Survey: Majority of Elite Female Chess Players Believe a Woman Will Be World Chess Champion"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2913",
+         "pubDate" : "Thu, 07 Mar 2024 11:09:22",
+         "title" : "Majority of elite female chess players believe a woman will be World Champion"
+      },
+      {
+         "description" : "The Prague Chess Festival takes place from 27 February to 7 March at the Don Giovanni Hotel in Prague and ends today. But the winner of the Masters is already clear: After a dramatic victory in round 8, Nodirbek Abdusattorov won the Masters with one round to spare. The Masters and Challengers tournaments are the main events, each a 10-player single round robin with classic time control. | Follow the games live with commentary - the last round starts at 11.00 CET (5.00 ET, 15.30 IST) | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
+         "pubDate" : "Thu, 07 Mar 2024 10:50:00",
+         "title" : "Prague Chess Festival - Live!"
+      },
+      {
+         "description" : "Greek grandmaster Stamatis Kourkoulos-Arditis is on the verge of victory at the Karel Janecek Open, which is being held as part of the Prague Chess Festival. With one round to go, he has 7.5 out of 8, and is one point ahead of six players with 6.5 out of 8. In round 8, Kourkoulos-Arditis scored an important win with Black in a theoretically interesting and tactically rich game. | Photo: Johannes Fischer",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-open-gm-kourkoulos-arditis-on-the-brink-of-victory",
+         "pubDate" : "Thu, 07 Mar 2024 09:58:47",
+         "title" : "Prague Open: GM Kourkoulos-Arditis on the brink of victory"
+      },
+      {
          "description" : "The Philidor Defence is celebrated for its historical significance and varied tactical approaches, including the aggressive early f5 push and the more dubious line involving an early d4 pawn exchange and fianchetto. This video course, by GM Christian Bauer, shows the Philidor Defence's main positions and White's significant deviations, highlighting the nuanced manoeuvres in a semi-closed middlegame that challenge White's comfort.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -298,7 +330,7 @@ news_feed (
          "title" : "FIDE Chessable Academy's third season continues its commitment to personal growth and chess mastery"
       },
       {
-         "description" : "Check here for Under 13 Open &#38; Under 13 Girls and Under 11 Open &#38; Under 11 Girls Under 13 Open Under 13 Girls Under",
+         "description" : "Click her for Under 09 Open &#38; Under 09 Girls Under 09 Open Under 09 Girls Rank Name Rank Name 1 Oishik Mondal 1 Divi",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificates-of-national-school-2024-at-patna-from-06-february-10-february-2024/",
@@ -1056,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2886",
          "pubDate" : "Fri, 16 Feb 2024 01:18:23",
          "title" : "Iivo Nei and Andreas Dueckstein awarded Honorary Grandmaster title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2885",
-         "pubDate" : "Thu, 15 Feb 2024 09:34:22",
-         "title" : "FIDE delegation visits headquarters of IndianOil Corporation"
       }
    ]
 }
