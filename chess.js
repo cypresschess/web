@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen has been the World #1, since 2011! Apart from his tremendous chess talent, he also has a relatively higher HRV: his heart rate is typically between 75 bpm - 95 bpm, which enables him to balance alertness (for tactical danger and opportunities) and calmness (to optimize logical thinking and decision-making)! Calm heartbeats during critical moments lead to better decisions!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-heart-racing-experience-4",
+         "pubDate" : "Thu, 07 Mar 2024 18:00:00",
+         "title" : "A Heart-Racing Experience! (4)"
+      },
+      {
+         "description" : "To All Office Bearers / State Associations/State Representatives Greetings from AICF! This is to inform you that due to unavoidable circumstances, the venue &#38; accommodation",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/kind-attentionaicf-election/",
+         "pubDate" : "Thu, 07 Mar 2024 17:24:15",
+         "title" : "Kind Attention:AICF Election"
+      },
+      {
          "description" : "The 2024 British Chess Championship will be held in Hull with the first competitions starting in the evening of Thursday 25th July 2024 with the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2913",
          "pubDate" : "Thu, 07 Mar 2024 11:09:22",
          "title" : "Majority of elite female chess players believe a woman will be World Champion"
+      },
+      {
+         "description" : "GM Nodirbek Abdusattorov kept his newly accomplished world number-four status by finishing the 2024 Prague Masters&#38;nbsp;with a quick draw against GM Richard Rapport. Thursday&#39;s final round saw draws on all boards, so Abdusattorov won the tournamen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-9",
+         "pubDate" : "Thu, 07 Mar 2024 11:00:33",
+         "title" : "Abdusattorov Maintains World #4 Position As Prague Masters Ends With All Draws"
       },
       {
          "description" : "Nodirbek Abdusattorov is the sixth champion of the prestigious chess festival. In the process the the 19-year-old Usbek grandmaster rose to the fourth position in the world live ranking, ahead of the reigning world champion Ding Liren. All games of the final round were drawn, and can be replayed, with engine commentary, in this report. You can also watch the live commentary by ChessBase India, if you missed it.",
@@ -594,14 +618,6 @@ news_feed (
          "title" : "Into The Endzonegame! Maryland Terrapins Take To Chess For Next Edition Of BlitzChamps"
       },
       {
-         "description" : "What is the future of chess? Which formats will be popular? How much of a punch does chessboxing pack? These are some of the burning questions Chess.com&#39;s panel of experts will examine at this year&#39;s MIT Sloan Sports Analytics Conference. Starti...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/matt-thomas-gothamchess-and-danny-rensch-at-mit-sloan",
-         "pubDate" : "Wed, 28 Feb 2024 06:51:00",
-         "title" : "GothamChess And Chessboxer Matt Thomas Discuss Punching Power Of The Game At MIT"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev dissects different world class positions and asks whether a potential exchange is a good trade or a bad trade. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/good-or-bad-trade-grandmasters-choice-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E7ylfT6FZN0.jpg?itok=L76isNcU\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -776,14 +792,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-of-national-amateur-chess-championship-13-02-2024-to-17-02-2024/",
          "pubDate" : "Sun, 25 Feb 2024 01:15:15",
          "title" : "Certificates of National Amateur Chess Championship 13.02.2024 to 17.02.2024"
-      },
-      {
-         "description" : "Open Section Lalith Babu M R is the sole leader Grand Master Lalith Babu M R (5.5) defeated second seed GM Vaibhav Suri (4.5) on",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/round-6commonwealth-chess-championship-2024/",
-         "pubDate" : "Sun, 25 Feb 2024 00:13:05",
-         "title" : "Round 6:Commonwealth Chess Championship 2024"
       },
       {
          "description" : " Shakira Luster recently captained the Marist chess team at the Illinois State High School team championship scoring a sparkling 7/7. The Chess Drum audience will know her from her successes at St. Ethelreda Grammar School and her appearance at the Chicago Open. Now a senior at Marist, she is finishing her high school career on The post <a href=\"https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/\">Shakira Luster: Marist's Chess Queen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
