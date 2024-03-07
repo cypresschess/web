@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nodirbek Abdusattorov claimed overall victory at the Prague Masters with a round to spare after prevailing in a wild encounter against Parham Maghsoodloo. The Uzbek GM's 6/8 score in the Czech capital allowed him to gain 15.5 Elo points and climb to fourth place in the live ratings list. Round 8 also saw Gukesh beating Vincent Keymer. Meanwhile, in the Challengers, Jaime Santos defeated Anton Korobov and is now sharing the lead with Ediz Gurel. Gurel's draw with Erwin l'Ami secured him a third and final GM norm. | Photo: Anezka Kruzikova / Prague Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-r8",
+         "pubDate" : "Thu, 07 Mar 2024 02:10:00",
+         "title" : "Nodirbek Abdusattorov wins Prague Masters with a round to spare"
+      },
+      {
          "description" : "The International Chess Federation is pleased to announce the continuation of its support to chess veterans. The grants will be awarded to distinguished players, coaches...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/call-for-submissions-fide-veterans-support-program/",
          "pubDate" : "Wed, 06 Mar 2024 16:08:38",
          "title" : "Call for submissions - FIDE Veterans Support Program"
-      },
-      {
-         "description" : "The Prague Chess Festival is taking place from February 27 to March 7 at the Don Giovanni Hotel in the Czech capital. The Masters and the Challengers tournaments are the main events, each a 10-player single round-robin with a classical time control. | Follow the games live with computer-assisted analysis starting at 15.00 CET (9.00 ET, 19.30 IST) | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
-         "pubDate" : "Wed, 06 Mar 2024 14:50:00",
-         "title" : "Prague Chess Festival - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108274284.cms\" />Indian Grandmaster R Praggnanandhaa failed to register a win from an advantageous position against compatriot D Gukesh as their seventh round match ended in a draw in the Prague Masters Chess tournament on Wednesday. Praggnandhaa came very close to beating Gukesh who played black but in the end they split points.",
