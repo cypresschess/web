@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The top seed fought back from a fifth-round blunder and won the title after a playoff with Ireland's No 1, woman Trisha Kanyamaraia Danny Gormally, the top seed, fought back from a fifth-round blunder to claim the British Rapidplay title (one-hour games) after 11 rounds in two days at Peterborough last weekend and so continued a surge of form and creativity in his late 40s. His victory came after he tied for first on 9/11 with Ireland's No 1 woman, Trisha ­Kanyamaraia, and won their two-game blitz play-off 1.5-0.5. Gormally was already one of England's best players in the early 2000s, but after he missed out on the national title he played less for a few years. Then he made his name with th",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2916",
+         "pubDate" : "Fri, 08 Mar 2024 11:35:44",
+         "title" : "Nodirbek Abdusattorov wins Prague Festival Masters"
+      },
+      {
+         "description" : "Check here certificates for A &#38; B category , NO Name 1 Sethu Madhav Upadhyayula 2 Aman Kumar Gupta 3 Utkarsh Agrawal 4 Dhas Kuldeep",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-katni-from-30th-to-31st-december-2023/",
+         "pubDate" : "Fri, 08 Mar 2024 11:31:30",
+         "title" : "Certificates for SNA Seminar held at Katni from 30th to 31st December 2023"
+      },
+      {
+         "description" : "Chess players have certainly heard of Daniel Fernandez, who has already published a couple of Fritztrainers for ChessBase. But recently, non-chess players also got to know him because of a YouTube video with the title - \"We Used An Adult Toy To Beat A Chess Grandmaster\". How did this video happen? Are chess players cheating more often nowadays? And why can Daniel speak at least five languages, and helped out in a koala sanctuary? This, and many more questions, you can see in the interview with the English Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/behind-the-board-an-interview-with-gm-daniel-fernandez",
+         "pubDate" : "Fri, 08 Mar 2024 10:00:00",
+         "title" : "Behind the board: An interview with GM Daniel Fernandez"
+      },
+      {
+         "description" : " The top seed fought back from a fifth-round blunder and won the title after a playoff with Ireland's No 1 woman, Trisha Kanyamaraia Danny Gormally, the top seed, fought back from a fifth-round blunder to claim the British Rapidplay title (one-hour games) after 11 rounds in two days at Peterborough last weekend and so continued a surge of form and creativity in his late 40s. His victory came after he tied for first on 9/11 with Ireland's No 1 woman, Trisha ­Kanyamaraia, and won their two-game blitz play-off 1.5-0.5. Gormally was already one of England's best players in the early 2000s, but after he missed out on the national title he played less for a few years. Then he made his name with th",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/mar/08/chess-danny-gormally-holds-off-junior-challengers-to-win-british-rapidplay",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/arbiters-call-of-interest/",
          "pubDate" : "Thu, 07 Mar 2024 13:00:17",
          "title" : "Arbiters - Call of Interest for the BCC and the Glorney Cup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2914",
+         "pubDate" : "Thu, 07 Mar 2024 12:11:41",
+         "title" : "Swiss Wednesday Women's Series: February recap"
       },
       {
          "description" : " <p class=\"lead\">A recent survey conducted by World Chess among participants of the Swiss Queens Wednesdays, an elite online chess tournament series, has revealed a significant shift in perceptions among female chess players regarding gender barriers in the sport. A remarkable 65% of respondents expressed confidence that a woman will become the world chess champion, with 32% believing it could happen in less than 5 years and 33% foreseeing it within the next decade. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-1321316385.png\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">This optimistic outlook from the majority of respondents undersco",
@@ -192,6 +224,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-7",
          "pubDate" : "Tue, 05 Mar 2024 16:30:00",
          "title" : "Gukesh Escapes Against Praggnanandhaa, Abdusattorov Hits Back"
+      },
+      {
+         "description" : "This post marks the tenth anniversary of the first 'On the Cover' post, which was <A HREF=\"https://chessforallages.blogspot.com/2014/03/march-1964-on-cover.html\">March 1964 'On the Cover'</A> (March 2014). For the first five years the posts showed the covers of the two leading American chess magazines of the 1960s. <P> The series changed direction in <A HREF=\"https://chessforallages.blogspot.com/2019/11/november-1969-1994-on-cover.html\">November 1969 & 1994 'On the Cover'</A> (November 2019), shifting to the format showing both 50 and 25 years ago. For last month's post, see <A HREF=\"https://chessforallages.blogspot.com/2024/02/february-1974-1999-on-cover.html\">February 1974 & 1999 'On the C",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/03/march-1974-1999-on-cover.html",
+         "pubDate" : "Tue, 05 Mar 2024 16:01:00",
+         "title" : "March 1974 & 1999 'On the Cover'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108243619.cms\" />Indian Grandmaster R Praggnanandhaa defeated overnight sole leader Nodirbek Abdusattarov of Uzbekistan to stake his claim for the top honours at the Prague Masters chess tournament. Winning with the black pieces, Praggnanandhaa came within striking distance of the sole leader in the ten-player round-robin event that still has three rounds remaining. Things worked out even better for Praggnanandhaa as the second-placed Parham Maghsoodloo of Iran went down to Nguyen Thai Dai Van of the Czech Republic.",
@@ -816,14 +856,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-prodigy-rameshbabu-praggnanandhaa-confident-india-will-rule-the-world/articleshow/107979503.cms",
          "pubDate" : "Sun, 25 Feb 2024 04:43:52",
          "title" : "Praggnanandhaa confident India can dominate the chess world"
-      },
-      {
-         "description" : "Please find the certificates here for Below 2000 Open and Below 2000 Women Below 2000 Open Below 2000 Women Rank Name Rank Name 1 Shah",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-national-amateur-chess-championship-13-02-2024-to-17-02-2024/",
-         "pubDate" : "Sun, 25 Feb 2024 01:15:15",
-         "title" : "Certificates of National Amateur Chess Championship 13.02.2024 to 17.02.2024"
       },
       {
          "description" : " Shakira Luster recently captained the Marist chess team at the Illinois State High School team championship scoring a sparkling 7/7. The Chess Drum audience will know her from her successes at St. Ethelreda Grammar School and her appearance at the Chicago Open. Now a senior at Marist, she is finishing her high school career on The post <a href=\"https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/\">Shakira Luster: Marist's Chess Queen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
