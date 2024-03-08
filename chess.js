@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The top seed fought back from a fifth-round blunder and won the title after a playoff with Ireland's No 1, woman Trisha Kanyamaraia Danny Gormally, the top seed, fought back from a fifth-round blunder to claim the British Rapidplay title (one-hour games) after 11 rounds in two days at Peterborough last weekend and so continued a surge of form and creativity in his late 40s. His victory came after he tied for first on 9/11 with Ireland's No 1 woman, Trisha ­Kanyamaraia, and won their two-game blitz play-off 1.5-0.5. Gormally was already one of England's best players in the early 2000s, but after he missed out on the national title he played less for a few years. Then he made his name with th",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/mar/08/chess-danny-gormally-holds-off-junior-challengers-to-win-british-rapidplay",
+         "pubDate" : "Fri, 08 Mar 2024 08:00:48",
+         "title" : "Chess: Danny Gormally holds off junior challengers to win British Rapidplay"
+      },
+      {
+         "description" : "The ECU E-Magazine February 2024 is out! In this edition of the ECU Magazine you may read about: The February 2024 edition of the ECU Magazine can be read online together with interactive links and videos, or it can be downloaded below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-february-2024/",
+         "pubDate" : "Fri, 08 Mar 2024 07:54:21",
+         "title" : "ECU E-Magazine February 2024"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
