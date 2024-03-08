@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2887",
          "pubDate" : "Fri, 16 Feb 2024 12:40:21",
          "title" : "FIDE establishes closer cooperation with International School Sport Federation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2886",
-         "pubDate" : "Fri, 16 Feb 2024 01:18:23",
-         "title" : "Iivo Nei and Andreas Dueckstein awarded Honorary Grandmaster title"
       }
    ]
 }
