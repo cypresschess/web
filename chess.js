@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2915",
+         "pubDate" : "Thu, 07 Mar 2024 21:46:50",
+         "title" : "Women's Chess Commission - empowering equality"
+      },
+      {
+         "description" : "The sixth edition of the Prague Chess Festival came to an end in the capital of the Czech Republic. Nodirbek Abdusattorov had already secured tournament victory in the Masters after the penultimate round. Meanwhile, the Challengers saw Ediz Gurel, aged 15, beating Anton Korobov to win the tournament outright. The prodigy also became the youngest-ever Turkish player to get the GM title. | Photo: Anezka Kruzikova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-r9",
+         "pubDate" : "Thu, 07 Mar 2024 21:20:00",
+         "title" : "Prague: Ediz Gurel wins Challengers, grabs third GM norm"
+      },
+      {
          "description" : "Magnus Carlsen has been the World #1, since 2011! Apart from his tremendous chess talent, he also has a relatively higher HRV: his heart rate is typically between 75 bpm - 95 bpm, which enables him to balance alertness (for tactical danger and opportunities) and calmness (to optimize logical thinking and decision-making)! Calm heartbeats during critical moments lead to better decisions!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-9",
-         "pubDate" : "Thu, 07 Mar 2024 11:00:33",
+         "pubDate" : "Thu, 07 Mar 2024 11:00:00",
          "title" : "Abdusattorov Maintains World #4 Position As Prague Masters Ends With All Draws"
       },
       {
