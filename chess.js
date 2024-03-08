@@ -50,7 +50,7 @@ news_feed (
          "title" : "Behind the board: An interview with GM Daniel Fernandez"
       },
       {
-         "description" : " The top seed fought back from a fifth-round blunder and won the title after a playoff with Ireland's No 1 woman, Trisha Kanyamaraia Danny Gormally, the top seed, fought back from a fifth-round blunder to claim the British Rapidplay title (one-hour games) after 11 rounds in two days at Peterborough last weekend and so continued a surge of form and creativity in his late 40s. His victory came after he tied for first on 9/11 with Ireland's No 1 woman, Trisha ­Kanyamaraia, and won their two-game blitz play-off 1.5-0.5. Gormally was already one of England's best players in the early 2000s, but after he missed out on the national title he played less for a few years. Then he made his name with th",
+         "description" : " The top seed fought back from a fifth-round blunder and won the title after a playoff with Ireland's No 1 woman, Trisha Kanyamarala Danny Gormally, the top seed, fought back from a fifth-round blunder to claim the British Rapidplay title (one-hour games) after 11 rounds in two days at Peterborough last weekend and so continued a surge of form and creativity in his late 40s. His victory came after he tied for first on 9/11 with Ireland's No 1 woman, Trisha ­Kanyamarala, and won their two-game blitz playoff 1.5-0.5. Gormally was already one of England's best players in the early 2000s, but after he missed out on the national title he played less for a few years. Then he made his name with the",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/mar/08/chess-danny-gormally-holds-off-junior-challengers-to-win-british-rapidplay",
@@ -1112,22 +1112,6 @@ news_feed (
          "link" : "https://www.thearticle.com/shakespeare-borges-and-plasketts-immortal/",
          "pubDate" : "Sat, 17 Feb 2024 12:05:20",
          "title" : "Shakespeare, Borges and 'Plaskett's Immortal'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2888",
-         "pubDate" : "Fri, 16 Feb 2024 18:31:24",
-         "title" : "2024 Montenegrin Championship: Nikita Petrov clinches title"
-      },
-      {
-         "description" : " The world No 1 recovers from a slow start to defeat young rivals Firouzja and Abdusattorov while China's world champion is unable to shake off a losing spiral \"Freestyle chess\" is a new name for the variant where the back rank pieces are placed randomly, so as to make the game more a test of skill and imagination than memory of book openings. It used to be called Fischer Random after its inventor, then Chess 960 or Chess 9LX after the number of possible starting positions. Elite grandmasters like it, and this week a $200,000 event took place at the Weissenhaus resort on Germany's Baltic Sea coast. Half of the eight competitors, including the world No 1, Magnus Carlsen, and the world champio",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/feb/16/chess-carlsen-v-caruana-in-freestyle-final-as-ding-loses-seven-in-a-row",
-         "pubDate" : "Fri, 16 Feb 2024 16:47:04",
-         "title" : "Chess: Carlsen beats Caruana in freestyle final while Ding finishes last"
       }
    ]
 }
