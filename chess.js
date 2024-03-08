@@ -3,6 +3,30 @@ news_feed (
    "items" : [
       {
          "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-2024/#new_tab",
+         "pubDate" : "Fri, 08 Mar 2024 16:16:13",
+         "title" : "ECF Online Grand Prix 2024"
+      },
+      {
+         "description" : "Freestyle Chess, formerly known as Chess960 or Fischer-Random, has recently shot into spotlight after eight of the world's top grandmasters played in a recent tournament conducted in Weissenhaus, Germany. But what made this so intriguing, and what parallels can be drawn between regular chess and Freestyle? And: how can I train Freestyle using my current ChessBase software?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-handle-freestyle-chess",
+         "pubDate" : "Fri, 08 Mar 2024 15:00:00",
+         "title" : "How to handle Freestyle chess"
+      },
+      {
+         "description" : " Try and visualise the following position - White:Kf1, Rd6, Pa7,d7,g3,h3 Black: Kd8, Ra2, Pg5,g6,h7 How do you play as white? (From the book Cognitive Chess by Konstantin Chernyshov) Despite getting the position in my head quite quickly, it still took me around 5 minutes before I worked out the winning idea. See how well you can do. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/some-blindfold-practice.html",
+         "pubDate" : "Fri, 08 Mar 2024 13:03:00",
+         "title" : "Some blindfold practice"
+      },
+      {
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2916",
@@ -1104,22 +1128,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/feb/16/chess-carlsen-v-caruana-in-freestyle-final-as-ding-loses-seven-in-a-row",
          "pubDate" : "Fri, 16 Feb 2024 16:47:04",
          "title" : "Chess: Carlsen beats Caruana in freestyle final while Ding finishes last"
-      },
-      {
-         "description" : "The 2024 ACT Teams Rapid Championship is being held on Sunday, 3rd March 2024, at Campbell High. This event is open to all ACTCA members as well as all members of the ACTJCL. The format of the tournament is teams of 4, playing 7 rounds of 15 minute chess. The last event was held in 2022 and a good time was had by all.<div><br /><b>Tournament Details</b><br />Date: Sunday 3rd March 2024 - Registration from 9:30am, Prize giving at 3:30pm<br /><br />Venue: Campbell High School, Trealor Cres, Campbell ACT<br /><br />Rounds: 7<br /><br />Time control: G15+5s<br /><br />Prizes: 1st, 2nd and 3rd placed trophies. Medals for the best scorer on each board. Bonus prizes for best dressed team, best work",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/2024-act-teams-competition.html",
-         "pubDate" : "Fri, 16 Feb 2024 13:02:00",
-         "title" : "2024 ACT Teams Competition"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2887",
-         "pubDate" : "Fri, 16 Feb 2024 12:40:21",
-         "title" : "FIDE establishes closer cooperation with International School Sport Federation"
       }
    ]
 }
