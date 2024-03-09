@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bu Xiangzhi, Yu Yangyi and Arjun Erigaisi finished the fifth edition of the Shenzhen Masters tied for first place with 4&frac12;/7 points each. The first tiebreak criterion was the number of points collected in their direct encounters, and it was Bu who had the best score, as he had defeated Arjun in the second round. Thus, Bu got the first prize, Yu finished second and Arjun finished third. | Photos: Liang Ziming / Chinese Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bu-xiangzhi-wins-shenzhen-masters-2024",
+         "pubDate" : "Sat, 09 Mar 2024 08:00:00",
+         "title" : "Bu Xiangzhi wins Shenzhen Masters"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
