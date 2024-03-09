@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Want to know how to stick to effective Chess Training? Here is a hard truth you'll need to know: The most fun things aren't the ones that bring us ahead. And they don't make us happy either. Just look at the typical spoilt millionaire child. For their whole lives, they can do what is fun: []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/fun-chess-training/",
+         "pubDate" : "Sat, 09 Mar 2024 13:30:00",
+         "title" : "Fun and Progress: A Guide to Effective Chess Training"
+      },
+      {
          "description" : "It is certainly one of the most famous games in chess history: the 13-year-old future FIDE World Champion Bobby Fischer played a spectacular combination against IM Donald Byrne, one that has been shown and analysed by generations of chess players and writers. Today on what would have been Bobby's 81 birthday, GM Efstratios Grivas gives us a comprehensive summary of all available analysis, including those of Garry Kasparov and GM Karsten Mueller of ChessBase. Many other sources were taken into account to make sure that no blind spots are remaining!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-final-caruana-chirila-win",
-         "pubDate" : "Fri, 08 Mar 2024 14:48:52",
+         "pubDate" : "Fri, 08 Mar 2024 14:48:00",
          "title" : "Caruana, Chirila Take 1st Crown In 2024 Team Chess Battle"
       },
       {
@@ -1104,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2889",
          "pubDate" : "Sat, 17 Feb 2024 20:36:56",
          "title" : "Magnus Carlsen wins inaugural Freestyle Chess G.O.A.T. Challenge"
-      },
-      {
-         "description" : "After a big revelation, I left my last Hypnosis session with a deep sense of peace. Most of the things we worry about do not matter at all. Getting paired against an underrated kid -> doesn't matter.Losing from a won position -> doesn't matter.Losing 6 games in a row -> doesn't matter. This thought is []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/doesnt-matter/",
-         "pubDate" : "Sat, 17 Feb 2024 14:00:00",
-         "title" : "A Surprising Revelation For Less Stress and Better Results"
       }
    ]
 }
