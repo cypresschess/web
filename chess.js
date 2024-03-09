@@ -18,6 +18,14 @@ news_feed (
          "title" : "How to handle Freestyle chess"
       },
       {
+         "description" : "GMs Fabiano Caruana and Cristian Chirila (aka Team C-Squared) won the inaugural&#38;nbsp;2024 Team Chess Battle on Friday. In the Final, they defeated the commentary dream team of GMs Daniel Naroditsky and Robert Hess 1.5-0.5. In game one, they prop...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-final-caruana-chirila-win",
+         "pubDate" : "Fri, 08 Mar 2024 14:48:52",
+         "title" : "Caruana, Chirila Take 1st Crown In 2024 Team Chess Battle"
+      },
+      {
          "description" : " Try and visualise the following position - White:Kf1, Rd6, Pa7,d7,g3,h3 Black: Kd8, Ra2, Pg5,g6,h7 How do you play as white? (From the book Cognitive Chess by Konstantin Chernyshov) Despite getting the position in my head quite quickly, it still took me around 5 minutes before I worked out the winning idea. See how well you can do. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2025-2026-2027/",
          "pubDate" : "Wed, 28 Feb 2024 08:35:33",
          "title" : "INVITATION FOR BIDS: European Chess Championships 2025-2026-2027"
-      },
-      {
-         "description" : "They&#38;rsquo;ve got their offensive lines ready, and they&#38;rsquo;re ready to sack! But we&#38;rsquo;re not talking gridiron here, this is a game on another grid&#38;mdash;chess. Next month the Maryland Terrapins become the latest team to take the field for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maryland-terrapins-play-chess-in-blitzchamps",
-         "pubDate" : "Wed, 28 Feb 2024 07:56:25",
-         "title" : "Into The Endzonegame! Maryland Terrapins Take To Chess For Next Edition Of BlitzChamps"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev dissects different world class positions and asks whether a potential exchange is a good trade or a bad trade. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/good-or-bad-trade-grandmasters-choice-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E7ylfT6FZN0.jpg?itok=L76isNcU\" alt=\"\" /></a></div>",
