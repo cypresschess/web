@@ -82,14 +82,6 @@ news_feed (
          "title" : "Women's Chess Commission - empowering equality"
       },
       {
-         "description" : "The sixth edition of the Prague Chess Festival came to an end in the capital of the Czech Republic. Nodirbek Abdusattorov had already secured tournament victory in the Masters after the penultimate round. Meanwhile, the Challengers saw Ediz Gurel, aged 15, beating Anton Korobov to win the tournament outright. The prodigy also became the youngest-ever Turkish player to get the GM title. | Photo: Anezka Kruzikova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-r9",
-         "pubDate" : "Thu, 07 Mar 2024 21:20:00",
-         "title" : "Prague: Ediz Gurel wins Challengers, grabs third GM norm"
-      },
-      {
          "description" : "Magnus Carlsen has been the World #1, since 2011! Apart from his tremendous chess talent, he also has a relatively higher HRV: his heart rate is typically between 75 bpm - 95 bpm, which enables him to balance alertness (for tactical danger and opportunities) and calmness (to optimize logical thinking and decision-making)! Calm heartbeats during critical moments lead to better decisions!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,22 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
          "pubDate" : "Thu, 07 Mar 2024 10:50:00",
          "title" : "Prague Chess Festival - Abdusattorov triumphs, 1&frac12; points ahead of the field"
-      },
-      {
-         "description" : "Greek grandmaster Stamatis Kourkoulos-Arditis is on the verge of victory at the Karel Janecek Open, which is being held as part of the Prague Chess Festival. With one round to go, he has 7.5 out of 8, and is one point ahead of six players with 6.5 out of 8. In round 8, Kourkoulos-Arditis scored an important win with Black in a theoretically interesting and tactically rich game. | Photo: Johannes Fischer",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-open-gm-kourkoulos-arditis-on-the-brink-of-victory",
-         "pubDate" : "Thu, 07 Mar 2024 09:58:47",
-         "title" : "Prague Open: GM Kourkoulos-Arditis on the brink of victory"
-      },
-      {
-         "description" : "The Philidor Defence is celebrated for its historical significance and varied tactical approaches, including the aggressive early f5 push and the more dubious line involving an early d4 pawn exchange and fianchetto. This video course, by GM Christian Bauer, shows the Philidor Defence's main positions and White's significant deviations, highlighting the nuanced manoeuvres in a semi-closed middlegame that challenge White's comfort.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christian-bauer-the-evergreen-philidor",
-         "pubDate" : "Thu, 07 Mar 2024 09:00:00",
-         "title" : "Christian Bauer: The evergreen Philidor"
       },
       {
          "description" : "GM Bu Xiangzhi edged out GMs Yu Yangyi&#38;nbsp;and Arjun Erigaisi on tiebreaks to win the fifth edition of the Shenzhen Longgang Chess Masters on Thursday. All three finished on 4.5/7, with Bu having the best tiebreaks. It wasn&#39;t a good week for GM A...",
