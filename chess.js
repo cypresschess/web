@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jaroslav Svoboda, Jaroslav Svoboda, the owner of Czech Inn Hotels and operator of the Hotel Don Giovanni, the venue of the Prague Chess Festival, is a passionate chess fan. In a short interview he reveals that he learnt to play chess rather late in life, talks about his friendship to Vlastimil Hort and explains why Bobby Fischer is not an ideal role model. | Photo: The Hotel Don Giovanni",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/i-love-the-game-an-interview-with-jaroslav-svoboda-chess-fan-and-sponsor",
+         "pubDate" : "Sat, 09 Mar 2024 17:58:05",
+         "title" : "\"I love the game\" - An interview with Jaroslav Svoboda, chess fan and sponsor"
+      },
+      {
          "description" : "Want to know how to stick to effective Chess Training? Here is a hard truth you'll need to know: The most fun things aren't the ones that bring us ahead. And they don't make us happy either. Just look at the typical spoilt millionaire child. For their whole lives, they can do what is fun: []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
