@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is certainly one of the most famous games in chess history: the 13-year-old future FIDE World Champion Bobby Fischer played a spectacular combination against IM Donald Byrne, one that has been shown and analysed by generations of chess players and writers. Today on what would have been Bobby's 81 birthday, GM Efstratios Grivas gives us a comprehensive summary of all available analysis, including those of Garry Kasparov and GM Karsten Mueller of ChessBase. Many other sources were taken into account to make sure that no blind spots are remaining!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/game-of-the-century-a-full-summary",
+         "pubDate" : "Sat, 09 Mar 2024 12:00:00",
+         "title" : "Game of the Century - a full summary"
+      },
+      {
+         "description" : "The annual contest between the teams of Oxford and Cambridge Universities is the oldest surviving fixture in the chess world. Often described as \"The Boat Race of the Brain\", this clash of mental arms was founded in the 1870s. The first encounter was actually attended by three chess titans of the day: Wilhelm Steinitz, Johannes Zukertort and, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/oxford-scoops-the-glittering-prizes/",
+         "pubDate" : "Sat, 09 Mar 2024 08:37:15",
+         "title" : "Oxford scoops the glittering prizes"
+      },
+      {
          "description" : "Bu Xiangzhi, Yu Yangyi and Arjun Erigaisi finished the fifth edition of the Shenzhen Masters tied for first place with 4&frac12;/7 points each. The first tiebreak criterion was the number of points collected in their direct encounters, and it was Bu who had the best score, as he had defeated Arjun in the second round. Thus, Bu got the first prize, Yu finished second and Arjun finished third. | Photos: Liang Ziming / Chinese Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -424,6 +440,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2905",
          "pubDate" : "Sat, 02 Mar 2024 11:19:24",
          "title" : "FIDE Chessable Academy's third season continues its commitment to personal growth and chess mastery"
+      },
+      {
+         "description" : "Embarking on your chess journey? Discover why mastering chess basics for beginners is the key to your success. The solution to 90% of your chess problems is surprisingly simple. However, many chess players believe they need sophisticated training to boost their ratings. The catch lies in human psychology - the basics aren't flashy or particularly []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/mastering-chess-basics-the-gateway-to-success-for-beginners/",
+         "pubDate" : "Sat, 02 Mar 2024 10:28:18",
+         "title" : "Mastering Chess Basics: The Gateway to Success for Beginners."
       },
       {
          "description" : "Click her for Under 09 Open &#38; Under 09 Girls Under 09 Open Under 09 Girls Rank Name Rank Name 1 Oishik Mondal 1 Divi",
@@ -1088,14 +1112,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/doesnt-matter/",
          "pubDate" : "Sat, 17 Feb 2024 14:00:00",
          "title" : "A Surprising Revelation For Less Stress and Better Results"
-      },
-      {
-         "description" : "Just before the 1986 world championship in London I was sitting in the living room of our Kensington flat, writing the programme notes for the forthcoming clash between Garry Kasparov and Anatoly Karpov. At one point, while writing, I dropped my pen. It was a British Airways cross between a ballpoint and felt tip. It had []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/shakespeare-borges-and-plasketts-immortal/",
-         "pubDate" : "Sat, 17 Feb 2024 12:05:20",
-         "title" : "Shakespeare, Borges and 'Plaskett's Immortal'"
       }
    ]
 }
