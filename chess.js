@@ -18,7 +18,7 @@ news_feed (
          "title" : "13th African Games: Egypt wins Mixed Team Rapid"
       },
       {
-         "description" : "Jaroslav Svoboda, Jaroslav Svoboda, the owner of Czech Inn Hotels and operator of the Hotel Don Giovanni, the venue of the Prague Chess Festival, is a passionate chess fan. In a short interview he reveals that he learnt to play chess rather late in life, talks about his friendship to Vlastimil Hort and explains why Bobby Fischer is not an ideal role model. | Photo: The Hotel Don Giovanni",
+         "description" : "Jaroslav Svoboda, the owner of Czech Inn Hotels and operator of the Hotel Don Giovanni, the venue of the Prague Chess Festival, is a passionate chess fan. In a short interview he reveals that he learnt to play chess rather late in life, talks about his friendship to Vlastimil Hort and explains why Bobby Fischer is not an ideal role model. | Photo: The Hotel Don Giovanni",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/i-love-the-game-an-interview-with-jaroslav-svoboda-chess-fan-and-sponsor",
