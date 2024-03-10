@@ -1,4 +1,9 @@
 jtable([
+"HOUSTON","2024-03-09","9","<a href=http://www.uschess.org/msa/XtblMain.php?202403094452 target='_blank'>CHESSPANDA03092024SATURDAY</a>",
+"HOUSTON","2024-03-09","9","<a href=http://www.uschess.org/msa/XtblMain.php?202403094282 target='_blank'>MARCH 9TH SCHOLASTIC</a>",
+"CYPRESS","2024-03-08","24","<a href=http://www.uschess.org/msa/XtblMain.php?202403084072 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2024-03-08","33","<a href=http://www.uschess.org/msa/XtblMain.php?202403084012 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2024-03-08","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403083972 target='_blank'>FBCC 2024 NATIONAL PEANUT CLUSTER O</a>",
 "HOUSTON","2024-03-08","4","<a href=http://www.uschess.org/msa/XtblMain.php?202403083962 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 8, 2024</a>",
 "HOUSTON","2024-03-01  - 03-03","420","<a href=http://www.uschess.org/msa/XtblMain.php?202403032992 target='_blank'>2024 NCENTRL TEXAS SCHOLASTIC CHAMP</a>",
 "HOUSTON","2024-03-01  - 03-03","36","<a href=http://www.uschess.org/msa/XtblMain.php?202403031462 target='_blank'>$2,000 MARCH FIDE</a>",
@@ -194,9 +199,4 @@ jtable([
 "CYPRESS","2023-09-01","28","<a href=http://www.uschess.org/msa/XtblMain.php?202309014802 target='_blank'>KNIGHTS OFCYPRESS</a>",
 "HOUSTON","2023-08-01  - 08-29","25","<a href=http://www.uschess.org/msa/XtblMain.php?202308293732 target='_blank'>AUGUST 2023 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2023-08-26","6","<a href=http://www.uschess.org/msa/XtblMain.php?202308263482 target='_blank'>ADULT SWISS AUG 26</a>",
-"SPRING","2023-08-26","160","<a href=http://www.uschess.org/msa/XtblMain.php?202308261892 target='_blank'>KLEIN BACK-TO-SCHOOL SCHOLASTIC</a>",
-"HOUSTON","2023-08-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202308261242 target='_blank'>CHESSPANDA08262023SATURDAY</a>",
-"SPRING","2023-08-25","31","<a href=http://www.uschess.org/msa/XtblMain.php?202308252932 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2023-08-25","32","<a href=http://www.uschess.org/msa/XtblMain.php?202308250952 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2023-08-25","14","<a href=http://www.uschess.org/msa/XtblMain.php?202308250832 target='_blank'>REBECCA CHESS CLUB QUADS AUGUST 25, 2023</a>",
 ]);
