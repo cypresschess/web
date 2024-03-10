@@ -26,12 +26,12 @@ news_feed (
          "title" : "\"I love the game\" - An interview with Jaroslav Svoboda, chess fan and sponsor"
       },
       {
-         "description" : "GM Daniel Naroditsky secured his 13th Bullet Brawl title and $400 on Saturday ahead of 160 titled players with a score of 237 and most importantly, outpacing his nemesis GM Hikaru Nakamura who finished on 236. GM Jose Martinez&#39;s lofty score of 1...",
+         "description" : "GM Daniel Naroditsky secured his 13th Bullet Brawl title and $400 on Saturday ahead of 160 titled players with a score of 237 and, most importantly, outpacing his nemesis GM Hikaru Nakamura who finished on 236. GM Jose Martinez&#39;s lofty score of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-march-9-2024",
-         "pubDate" : "Sat, 09 Mar 2024 15:41:15",
-         "title" : "Naroditsky \"Comeback Of The Century\" Stops Nakamura From Winning 20th Title"
+         "pubDate" : "Sat, 09 Mar 2024 15:41:00",
+         "title" : "Naroditsky's 'Comeback Of The Century' Stops Nakamura From Winning 20th Title"
       },
       {
          "description" : "Want to know how to stick to effective Chess Training? Here is a hard truth you'll need to know: The most fun things aren't the ones that bring us ahead. And they don't make us happy either. Just look at the typical spoilt millionaire child. For their whole lives, they can do what is fun: []",
@@ -728,14 +728,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-mitrabha-guha-wins-commonwealth-chess-crown/articleshow/108074449.cms",
          "pubDate" : "Wed, 28 Feb 2024 11:12:31",
          "title" : "GM Mitrabha Guha wins Commonwealth Chess crown"
-      },
-      {
-         "description" : "For the first time ever, both Titled Tuesday winners came one draw away from a perfect score, as both GM Minh Le in the early tournament and GM Hikaru Nakamura in the late tournament &#34;settled&#34; for scores of 10.5/11 and full-point outright victorie...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/le-nakamura-win-titled-tuesday-february-27-2024",
-         "pubDate" : "Wed, 28 Feb 2024 10:34:00",
-         "title" : "Two Near-Perfections In Titled Tuesday"
       },
       {
          "description" : "Open Section India won 9 Gold, 9 Silver and 6 Bronze in Commonwealth Chess Mitrabha Guha triumphs the Open section. GM Mitrabha Guha won the",
