@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Carlsbad Pawn structure, or formation, is normally deriving from the Queen's Gambit declined, London System, or the Caro-Kann. A common structure, which actually has some ideas, and plans to accomplish. Svitlana tells us, what the major plans are for White, and Black, by showing us two example games. One of them is Garry Kasparov vs. Nigel Short!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-what-is-the-carlsbad-pawn-structure",
+         "pubDate" : "Sun, 10 Mar 2024 17:00:00",
+         "title" : "Svitlana's Smart Moves - What is the Carlsbad Pawn Structure?"
+      },
+      {
+         "description" : "Click here for FORM 15",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-new-elected-office-bearers-for-2024-2027/",
+         "pubDate" : "Sun, 10 Mar 2024 16:06:30",
+         "title" : "AICF Newly Elected Office Bearers for 2024-2027"
+      },
+      {
          "description" : "The ChessBase opening tutorials are a compact, quick introduction to opening theory. They will soon be available in full in the new ChessBase book format. Volume one on the open games (1.e4 e5) has already been published. In an interview with Stefan Liebig, chess trainer and grandmaster Dorian Rogozenco explains the concept: \"Memorising variations is a thing of the past\". | Photos: German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dorian-rogozenco-interview-2024",
          "pubDate" : "Sun, 10 Mar 2024 12:00:00",
          "title" : "Dorian Rogozenco: \"Memorising variations is a thing of the past\""
+      },
+      {
+         "description" : "Team C-Squared (GMs Fabiano Caruana and Cristian Chirila) claimed the first Team Chess Battle title this Friday, a new format that elevates chess from a silent duel on the 64 squares. Not quite hand-and-brain or Banter Blitz, but a sort of combina...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-5-things-we-learned",
+         "pubDate" : "Sun, 10 Mar 2024 11:14:00",
+         "title" : "5 Things We Learned - Team Chess Battle 2024"
       },
       {
          "description" : "The 57th edition of the Biel Chess Festival will take place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event.",
@@ -37,7 +61,7 @@ news_feed (
          "description" : "GM Daniel Naroditsky secured his 13th Bullet Brawl title and $400 on Saturday ahead of 160 titled players with a score of 237 and, most importantly, outpacing his nemesis GM Hikaru Nakamura who finished on 236. GM Jose Martinez&#39;s lofty score of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-march-9-2024",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-march-9-2024",
          "pubDate" : "Sat, 09 Mar 2024 15:41:00",
          "title" : "Naroditsky's 'Comeback Of The Century' Stops Nakamura From Winning 20th Title"
       },
@@ -714,14 +738,6 @@ news_feed (
          "title" : "Praggnanandhaa crushes Vincent Keymer in Prague Masters opener"
       },
       {
-         "description" : "GM Praggnanandhaa Rameshbabu hadn&#39;t lost for 47 classical games straight, but today that impressive streak came to an end. He lost to GM Parham Maghsoodloo, who is the proud leader of the Prague Masters with a 100 percent score. GM Gukesh Dommar...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-2",
-         "pubDate" : "Wed, 28 Feb 2024 13:11:00",
-         "title" : "Maghsoodloo Ends Praggnanandhaa's 47-Game Unbeaten Streak"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108074449.cms\" />Grandmaster Mitrabha Guha reigned supreme in the Commonwealth Chess championship that concluded at Melaka, Malaysia, on Tuesday. Guha, who bagged a silver medal in the last edition of the tournament in Sri Lanka, ended with 7.5 points in the nine-round tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -792,14 +808,6 @@ news_feed (
          "link" : "https://aicf.in/national-rapid-blitz-2024/",
          "pubDate" : "Tue, 27 Feb 2024 11:42:36",
          "title" : "National Rapid & Blitz 2024"
-      },
-      {
-         "description" : "Please find the notice here :Notice",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/notice-dated-27-02-2024/",
-         "pubDate" : "Tue, 27 Feb 2024 10:42:26",
-         "title" : "Notice dated 27.02.2024"
       },
       {
          "description" : "",
@@ -1112,14 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2890",
          "pubDate" : "Sun, 18 Feb 2024 22:26:47",
          "title" : "Cuban Championship: Ernesto Quesada and Lisandra Ordaz win titles"
-      },
-      {
-         "description" : "It took me some time to figure out what is shown in this photo. The title ('Chess') didn't help much and the description was missing. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob18.jpg\" WIDTH=400 HEIGHT=290><BR> <A HREF=\"https://www.flickr.com/photos/skooksie/53520068633/\">Chess</A> &#169; Flickr user <I>skooksie</I> under <A HREF=\"https://creativecommons.org/licenses/by-nc-sa/2.0/\">Creative Commons</A>.<BR> <P> The first useful identifying text said, <BLOCKQUOTE> This photo is in 1 album &#149; Mardi Gras 2024 &#149; 444 items </BLOCKQUOTE> <P> OK, I got it. It's a night time shot of a <I>Mardi Gras</I> float with a big hand on the top of the float and a chess game on t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/02/chess-jeudi-gras.html",
-         "pubDate" : "Sun, 18 Feb 2024 16:50:00",
-         "title" : "Chess Jeudi Gras"
       }
    ]
 }
