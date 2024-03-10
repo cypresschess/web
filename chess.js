@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Swiss Queens Wednesday Series, launched in partnership with the International Chess Federation (FIDE), is an initiative aimed at boosting women's participation in chess. With tournaments every Wednesday, the series has attracted some of the strongest players from around the world. Five editions were played in February, with Martha Fierro, Valentina Gunina, Anastasia Bodnaruk, Gunay Mammadzada and Polina Shuvalova emerging victorious in each of them.",
+         "description" : "The ChessBase opening tutorials are a compact, quick introduction to opening theory. They will soon be available in full in the new ChessBase book format. Volume one on the open games (1.e4 e5) has already been published. In an interview with Stefan Liebig, chess trainer and grandmaster Dorian Rogozenco explains the concept: \"Memorising variations is a thing of the past\". | Photos: German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/swiss-women-series-february-2024-recap",
-         "pubDate" : "Sun, 10 Mar 2024 01:00:00",
-         "title" : "Swiss Women's Series: Fierro, Gunina and Bodnaruk among winners"
+         "link" : "https://en.chessbase.com/post/dorian-rogozenco-interview-2024",
+         "pubDate" : "Sun, 10 Mar 2024 12:00:00",
+         "title" : "Dorian Rogozenco: \"Memorising variations is a thing of the past\""
+      },
+      {
+         "description" : "The 57th edition of the Biel Chess Festival will take place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-chess-festival-2024-preview",
+         "pubDate" : "Sun, 10 Mar 2024 09:30:00",
+         "title" : "In July: Biel Festival with Pragg, Keymer and a revamped format"
       },
       {
          "description" : "",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.thearticle.com/oxford-scoops-the-glittering-prizes/",
          "pubDate" : "Sat, 09 Mar 2024 08:37:15",
          "title" : "Oxford scoops the glittering prizes"
-      },
-      {
-         "description" : "Bu Xiangzhi, Yu Yangyi and Arjun Erigaisi finished the fifth edition of the Shenzhen Masters tied for first place with 4&frac12;/7 points each. The first tiebreak criterion was the number of points collected in their direct encounters, and it was Bu who had the best score, as he had defeated Arjun in the second round. Thus, Bu got the first prize, Yu finished second and Arjun finished third. | Photos: Liang Ziming / Chinese Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bu-xiangzhi-wins-shenzhen-masters-2024",
-         "pubDate" : "Sat, 09 Mar 2024 08:00:00",
-         "title" : "Bu Xiangzhi wins Shenzhen Masters"
       },
       {
          "description" : "",
