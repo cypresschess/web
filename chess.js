@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 12 to 21 March, the American Cup 2024 will be held in Saint Louis, this time in the World Chess Hall of Fame, with an open and a women's tournament. Most of the chess elite from the United States will take part in the knockout tournaments with a double-elimination format. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-pairings",
+         "pubDate" : "Sun, 10 Mar 2024 22:00:00",
+         "title" : "The American Cup kicks off on Tuesday: Pairings and schedule"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2918",
+         "pubDate" : "Sun, 10 Mar 2024 21:51:37",
+         "title" : "13th African Games Individual Rapid: Egypt clinch double gold"
+      },
+      {
          "description" : "The Carlsbad Pawn structure, or formation, is normally deriving from the Queen's Gambit declined, London System, or the Caro-Kann. A common structure, which actually has some ideas, and plans to accomplish. Svitlana tells us, what the major plans are for White, and Black, by showing us two example games. One of them is Garry Kasparov vs. Nigel Short!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open-starts-today/",
          "pubDate" : "Mon, 19 Feb 2024 10:00:37",
          "title" : "2nd Cambridge International Open - results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2890",
-         "pubDate" : "Sun, 18 Feb 2024 22:26:47",
-         "title" : "Cuban Championship: Ernesto Quesada and Lisandra Ordaz win titles"
       }
    ]
 }
