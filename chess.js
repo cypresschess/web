@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Swiss Queens Wednesday Series, launched in partnership with the International Chess Federation (FIDE), is an initiative aimed at boosting women's participation in chess. With tournaments every Wednesday, the series has attracted some of the strongest players from around the world. Five editions were played in February, with Martha Fierro, Valentina Gunina, Anastasia Bodnaruk, Gunay Mammadzada and Polina Shuvalova emerging victorious in each of them.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/swiss-women-series-february-2024-recap",
+         "pubDate" : "Sun, 10 Mar 2024 01:00:00",
+         "title" : "Swiss Women's Series: Fierro, Gunina and Bodnaruk among winners"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2917",
+         "pubDate" : "Sat, 09 Mar 2024 20:59:34",
+         "title" : "13th African Games: Egypt wins Mixed Team Rapid"
+      },
+      {
          "description" : "Jaroslav Svoboda, Jaroslav Svoboda, the owner of Czech Inn Hotels and operator of the Hotel Don Giovanni, the venue of the Prague Chess Festival, is a passionate chess fan. In a short interview he reveals that he learnt to play chess rather late in life, talks about his friendship to Vlastimil Hort and explains why Bobby Fischer is not an ideal role model. | Photo: The Hotel Don Giovanni",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/i-love-the-game-an-interview-with-jaroslav-svoboda-chess-fan-and-sponsor",
          "pubDate" : "Sat, 09 Mar 2024 17:58:05",
          "title" : "\"I love the game\" - An interview with Jaroslav Svoboda, chess fan and sponsor"
+      },
+      {
+         "description" : "GM Daniel Naroditsky secured his 13th Bullet Brawl title and $400 on Saturday ahead of 160 titled players with a score of 237 and most importantly, outpacing his nemesis GM Hikaru Nakamura who finished on 236. GM Jose Martinez&#39;s lofty score of 1...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-march-9-2024",
+         "pubDate" : "Sat, 09 Mar 2024 15:41:15",
+         "title" : "Naroditsky \"Comeback Of The Century\" Stops Nakamura From Winning 20th Title"
       },
       {
          "description" : "Want to know how to stick to effective Chess Training? Here is a hard truth you'll need to know: The most fun things aren't the ones that bring us ahead. And they don't make us happy either. Just look at the typical spoilt millionaire child. For their whole lives, they can do what is fun: []",
@@ -722,14 +746,6 @@ news_feed (
          "title" : "India bags 24 medals in Commonwealth Chess Championship 2024 Melaka , Malaysia"
       },
       {
-         "description" : "Last week, FIDE launched the ChessMom initiative, a pilot project that will offer financial assistance to ten female players traveling with their infants to the 45th Chess Olympiad, which takes place in Budapest, Hungary, this September. All expen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/new-chessmom-initiative-encourages-support-for-competitors-with-children",
-         "pubDate" : "Wed, 28 Feb 2024 09:02:00",
-         "title" : "New ChessMom Initiative Encourages Support For Competitors With Children"
-      },
-      {
          "description" : "The European Chess Union invites the National federations members to submit bids for the organization of European Chess Championships in 2025, 2026 and the European Open &#38; Women Team Championship 2027. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form what they relate to. Any document that reaches the ECU office after the official []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/02/chess-jeudi-gras.html",
          "pubDate" : "Sun, 18 Feb 2024 16:50:00",
          "title" : "Chess Jeudi Gras"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2889",
-         "pubDate" : "Sat, 17 Feb 2024 20:36:56",
-         "title" : "Magnus Carlsen wins inaugural Freestyle Chess G.O.A.T. Challenge"
       }
    ]
 }
