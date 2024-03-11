@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess is a fun game - ask the countless millions who play it. But apart from the contest at the board, there are additional forms for you to enjoy, like chess puzzles and studies. Many of them defy the imagination. Today we start a new column, and have three deceptively simple - but enchanting - examples for you to solve. The sources and solutions will be provided in a week. Until then, have fun working things out all by yourself.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-puzzle-challenge-01",
+         "pubDate" : "Mon, 11 Mar 2024 19:00:00",
+         "title" : "ChessBase Puzzle Challenge - 01"
+      },
+      {
          "description" : "The 6th Prague International Chess Festival ended on 7 March. Nodirbek Abdusattorov won the Masters and moved up to 4th place on the live Elo list. Sagar Shah and Amruta Mokal from ChessBase India accompanied the festival as commentators. In a video they recall nine highlights of the festival on a tour of Prague, one of the most beautiful cities in Europe.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2919",
          "pubDate" : "Mon, 11 Mar 2024 09:13:20",
          "title" : "World Cup U8, U10, U12: Last call for wild cards "
+      },
+      {
+         "description" : "The Chess.com community celebrated International Women&#39;s Day on Friday with a roundtable discussion featuring leading female voices in chess as well as a two-hour blitz arena, which was won by Mexico&#39;s NM Emilio Hernandez. The discussion, led by...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/international-womens-day-roundtable-arena-2024",
+         "pubDate" : "Mon, 11 Mar 2024 08:36:00",
+         "title" : "Leading Voices In Chess Celebrate 'Positive Change' On International Women's Day"
       },
       {
          "description" : "The Jubilee Tournament of the Werder sports club in Bremen's \"Werder-Halle\" came to an end on Sunday with a victory for India's Aditya Mittal. For the 17-year-old, who is also a member of the Werder Bremen team in the Bundesliga, a draw against Czech GM Vojtech Plat was enough to win the tournament with a full-point advantage over Polish GM Pawel Teclaf. | Photos: Werder Bremen Sports Club",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "Can You Find Out Who Murdered The Green Pawn In This Chess Murder Mystery?"
       },
       {
-         "description" : "Get ready to do some damage. Learn how to go straight for your opponent&#39;s throat from move one with GM Jan Gustafsson&#39;s new Aggressive 1.e4 Repertoire Part I on Chessable! Click the button below to try out the Short &#38;amp; Sweet free version o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jan-gustafsson-aggressive-1e4-repertoire",
-         "pubDate" : "Thu, 29 Feb 2024 10:42:11",
-         "title" : "Get Aggressive With GM Jan Gustafsson's New 1.e4 Chessable Course"
-      },
-      {
          "description" : "In the recent Freestyle event, heart rates of the players were measured in classical chess, with slow time controls. In bullet and blitz formats, where intuition prevails, heart rates remain relatively low compared to slower time controls like Rapid or Classical, which allow more contemplation during critical positions. Here are observations provided by the leading expert on the heart rate data shared during the Weissenhaus event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1128,30 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2894",
          "pubDate" : "Mon, 19 Feb 2024 19:39:07",
          "title" : "FIDE World Cadet U8, U10, U12 Championships 2024: Call for Bids"
-      },
-      {
-         "description" : "Last week's Monday post was the last in a series of six posts in an experiment using the 'AI Comic' software. The six posts each featured an image picturing part of the story, corresponding to one page in the comic. The six images are reproduced below. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob19.jpg\" WIDTH=400 HEIGHT=340><BR> <B>A Chess Village and Its Wizard</B> <P> The six posts corresponding to each page/image are linked here:- <UL> <LI> <B>1st - </B> 2024-01-08: <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-chess-village.html\">The Chess Village</A> <LI> <B>2nd - </B> 2024-01-15: <A HREF=\"https://chessforallages.blogspot.com/2024/01/the-village-wizard.h",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/02/first-adventures-in-ai-comics.html",
-         "pubDate" : "Mon, 19 Feb 2024 16:33:00",
-         "title" : "First Adventures in AI Comics"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2892",
-         "pubDate" : "Mon, 19 Feb 2024 16:06:48",
-         "title" : "FIDE launches the ChessMom initiative"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2893",
-         "pubDate" : "Mon, 19 Feb 2024 15:41:56",
-         "title" : "In memory of David Bronstein on the 100th anniversary of his birth"
       }
    ]
 }
