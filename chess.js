@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2920",
+         "pubDate" : "Mon, 11 Mar 2024 22:57:28",
+         "title" : "13th African Games: Egypt rules supreme"
+      },
+      {
          "description" : "Chess is a fun game - ask the countless millions who play it. But apart from the contest at the board, there are additional forms for you to enjoy, like chess puzzles and studies. Many of them defy the imagination. Today we start a new column, and have three deceptively simple - but enchanting - examples for you to solve. The sources and solutions will be provided in a week. Until then, have fun working things out all by yourself.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,14 +34,6 @@ news_feed (
          "title" : "Burning bridges"
       },
       {
-         "description" : "This week we are once again offering you a free sample from the current ChessBase Magazine #218 in ChessBase book format: strategy expert Mihail Marin looks back on the 1992 Linares tournament - one of the strongest tournaments in chess history, which also marked an important historical moment: the end of the dominance of the two \"Ks\" - Kasparov and Karpov. In his article, Mihail Marin analyses games by Kasparov, Karpov, Ivanchuk, Short, Anand, Timman and others. Including many training exercises and two interactive training videos. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-4",
-         "pubDate" : "Mon, 11 Mar 2024 10:00:00",
-         "title" : "New: CBM #218 - Linares 1992"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,36 +50,12 @@ news_feed (
          "title" : "Leading Voices In Chess Celebrate 'Positive Change' On International Women's Day"
       },
       {
-         "description" : "The Jubilee Tournament of the Werder sports club in Bremen's \"Werder-Halle\" came to an end on Sunday with a victory for India's Aditya Mittal. For the 17-year-old, who is also a member of the Werder Bremen team in the Bundesliga, a draw against Czech GM Vojtech Plat was enough to win the tournament with a full-point advantage over Polish GM Pawel Teclaf. | Photos: Werder Bremen Sports Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aditya-mittal-wins-werder-bremen-tournament-2024",
-         "pubDate" : "Mon, 11 Mar 2024 08:00:00",
-         "title" : "Aditya Mittal clear winner of the Werder Bremen Jubilee Tournament"
-      },
-      {
-         "description" : "From 12 to 21 March, the American Cup 2024 will be held in Saint Louis, this time in the World Chess Hall of Fame, with an open and a women's tournament. Most of the chess elite from the United States will take part in the knockout tournaments with a double-elimination format. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-pairings",
-         "pubDate" : "Sun, 10 Mar 2024 22:00:00",
-         "title" : "The American Cup kicks off on Tuesday: Pairings and schedule"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2918",
          "pubDate" : "Sun, 10 Mar 2024 21:51:37",
          "title" : "13th African Games Individual Rapid: Egypt clinch double gold"
-      },
-      {
-         "description" : "The Carlsbad Pawn structure, or formation, is normally deriving from the Queen's Gambit declined, London System, or the Caro-Kann. A common structure, which actually has some ideas, and plans to accomplish. Svitlana tells us, what the major plans are for White, and Black, by showing us two example games. One of them is Garry Kasparov vs. Nigel Short!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-what-is-the-carlsbad-pawn-structure",
-         "pubDate" : "Sun, 10 Mar 2024 17:00:00",
-         "title" : "Svitlana's Smart Moves - What is the Carlsbad Pawn Structure?"
       },
       {
          "description" : "I thought this video looked familiar and, sure enough, I had already featured 'HCIRL no.1' from the same Youtube channel in <A HREF=\"https://chessforallages.blogspot.com/2023/06/bond-siblings-bond.html\">Bond, Siblings Bond</A> (June 2023). This second release was also good for more than a few laughs. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/DUaiSzhGZiI?si=edpeDr4pVT0vGXVH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe> <BR> <B>Human Chess In Real Life 2</B> (31:42) &#149; '[Published on] Mar 1, 2024' <P> Everything I said in the no",
@@ -98,14 +74,6 @@ news_feed (
          "title" : "AICF Newly Elected Office Bearers for 2024-2027"
       },
       {
-         "description" : "The ChessBase opening tutorials are a compact, quick introduction to opening theory. They will soon be available in full in the new ChessBase book format. Volume one on the open games (1.e4 e5) has already been published. In an interview with Stefan Liebig, chess trainer and grandmaster Dorian Rogozenco explains the concept: \"Memorising variations is a thing of the past\". | Photos: German Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dorian-rogozenco-interview-2024",
-         "pubDate" : "Sun, 10 Mar 2024 12:00:00",
-         "title" : "Dorian Rogozenco: \"Memorising variations is a thing of the past\""
-      },
-      {
          "description" : "Team C-Squared (GMs Fabiano Caruana and Cristian Chirila) claimed the first Team Chess Battle title this Friday, a new format that elevates chess from a silent duel on the 64 squares. Not quite hand-and-brain or Banter Blitz, but a sort of combina...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,28 +82,12 @@ news_feed (
          "title" : "5 Things We Learned - Team Chess Battle 2024"
       },
       {
-         "description" : "The 57th edition of the Biel Chess Festival will take place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-chess-festival-2024-preview",
-         "pubDate" : "Sun, 10 Mar 2024 09:30:00",
-         "title" : "In July: Biel Festival with Pragg, Keymer and a revamped format"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2917",
          "pubDate" : "Sat, 09 Mar 2024 20:59:34",
          "title" : "13th African Games: Egypt wins Mixed Team Rapid"
-      },
-      {
-         "description" : "Jaroslav Svoboda, the owner of Czech Inn Hotels and operator of the Hotel Don Giovanni, the venue of the Prague Chess Festival, is a passionate chess fan. In a short interview he reveals that he learnt to play chess rather late in life, talks about his friendship to Vlastimil Hort and explains why Bobby Fischer is not an ideal role model. | Photo: The Hotel Don Giovanni",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/i-love-the-game-an-interview-with-jaroslav-svoboda-chess-fan-and-sponsor",
-         "pubDate" : "Sat, 09 Mar 2024 17:58:05",
-         "title" : "\"I love the game\" - An interview with Jaroslav Svoboda, chess fan and sponsor"
       },
       {
          "description" : "GM Daniel Naroditsky secured his 13th Bullet Brawl title and $400 on Saturday ahead of 160 titled players with a score of 237 and, most importantly, outpacing his nemesis GM Hikaru Nakamura who finished on 236. GM Jose Martinez&#39;s lofty score of ...",
@@ -176,14 +128,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-2024/#new_tab",
          "pubDate" : "Fri, 08 Mar 2024 16:16:13",
          "title" : "ECF Online Grand Prix 2024"
-      },
-      {
-         "description" : "Freestyle Chess, formerly known as Chess960 or Fischer-Random, has recently shot into spotlight after eight of the world's top grandmasters played in a recent tournament conducted in Weissenhaus, Germany. But what made this so intriguing, and what parallels can be drawn between regular chess and Freestyle? And: how can I train Freestyle using my current ChessBase software?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-handle-freestyle-chess",
-         "pubDate" : "Fri, 08 Mar 2024 15:00:00",
-         "title" : "How to handle Freestyle chess"
       },
       {
          "description" : "GMs Fabiano Caruana and Cristian Chirila (aka Team C-Squared) won the inaugural&#38;nbsp;2024 Team Chess Battle on Friday. In the Final, they defeated the commentary dream team of GMs Daniel Naroditsky and Robert Hess 1.5-0.5. In game one, they prop...",
@@ -1112,30 +1056,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/8-year-old-indian-origin-boy-from-singapore-beats-polish-grandmaster-breaks-record/articleshow/107856033.cms",
          "pubDate" : "Tue, 20 Feb 2024 12:29:16",
          "title" : "8-year-old Indian-origin boy beats Polish GM, breaks record"
-      },
-      {
-         "description" : " Yesterday (19 February) was the 100th anniversary of the birth of David Bronstein. Although he never became World Champion (tying his only match 12-12 with Mikhail Botvinnik) he was still one of the most consequential figures in modern chess. Early on in his career he developed or strengthened a number of important opening systems, while towards the end he participated in a number of matches involving increasingly strong chess engines. An inventive attacking player, Bronstein demonstrated a propensity for sacrificial play from the very start of his chess career, <br /> <b>Bronstein,David I - Zaslavsky,A [C43]</b><br /> Bronstein in Kiev Kiev, 1938 <script> new PgnViewer( { boardName: \"game1",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/david-bronstein.html",
-         "pubDate" : "Mon, 19 Feb 2024 22:27:00",
-         "title" : "David Bronstein"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2895",
-         "pubDate" : "Mon, 19 Feb 2024 21:58:25",
-         "title" : "Georgian Women's Championship: Lela Javakhishvili wins fifth title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2894",
-         "pubDate" : "Mon, 19 Feb 2024 19:39:07",
-         "title" : "FIDE World Cadet U8, U10, U12 Championships 2024: Call for Bids"
       }
    ]
 }
