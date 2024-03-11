@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Jubilee Tournament of the Werder sports club in Bremen's \"Werder-Halle\" came to an end on Sunday with a victory for India's Aditya Mittal. For the 17-year-old, who is also a member of the Werder Bremen team in the Bundesliga, a draw against Czech GM Vojtech Plat was enough to win the tournament with a full-point advantage over Polish GM Pawel Teclaf. | Photos: Werder Bremen Sports Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aditya-mittal-wins-werder-bremen-tournament-2024",
+         "pubDate" : "Mon, 11 Mar 2024 08:00:00",
+         "title" : "Aditya Mittal clear winner of the Werder Bremen Jubilee Tournament"
+      },
+      {
          "description" : "From 12 to 21 March, the American Cup 2024 will be held in Saint Louis, this time in the World Chess Hall of Fame, with an open and a women's tournament. Most of the chess elite from the United States will take part in the knockout tournaments with a double-elimination format. | Photo: Austin Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
