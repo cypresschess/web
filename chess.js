@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 6th Prague International Chess Festival ended on 7 March. Nodirbek Abdusattorov won the Masters and moved up to 4th place on the live Elo list. Sagar Shah and Amruta Mokal from ChessBase India accompanied the festival as commentators. In a video they recall nine highlights of the festival on a tour of Prague, one of the most beautiful cities in Europe.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/9-highlights-of-the-chess-festival-prague",
+         "pubDate" : "Mon, 11 Mar 2024 16:00:00",
+         "title" : "9 Highlights of the Chess Festival Prague"
+      },
+      {
+         "description" : " One advantage higher rated players often have, is that their lower rated opponents feel the need to do something dramatic, to try and avoid being ground down. I fell into this trap recently, blundering a piece to a faulty combination last week at my club, while the example below came from the final round of the Ballarat Begonia Open. While top seed GM Gawain Jones would be expected to win this final round clash, his opponents over optimistic attack made the task a lot simpler. <br /> <b>Jones,Gawain (2618) - Chan,Kris (2071) [E90]</b><br /> Begonia Open 2024 Ballarat, Australia (7.1), 11.03.2024 <script> new PgnViewer( { boardName: \"game1448\", movesFormat: \"default\", pgnString:'1.Nf3 Nf6 2.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/burning-bridges.html",
+         "pubDate" : "Mon, 11 Mar 2024 12:14:00",
+         "title" : "Burning bridges"
+      },
+      {
+         "description" : "This week we are once again offering you a free sample from the current ChessBase Magazine #218 in ChessBase book format: strategy expert Mihail Marin looks back on the 1992 Linares tournament - one of the strongest tournaments in chess history, which also marked an important historical moment: the end of the dominance of the two \"Ks\" - Kasparov and Karpov. In his article, Mihail Marin analyses games by Kasparov, Karpov, Ivanchuk, Short, Anand, Timman and others. Including many training exercises and two interactive training videos. Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-4",
+         "pubDate" : "Mon, 11 Mar 2024 10:00:00",
+         "title" : "New: CBM #218 - Linares 1992"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2919",
+         "pubDate" : "Mon, 11 Mar 2024 09:13:20",
+         "title" : "World Cup U8, U10, U12: Last call for wild cards "
+      },
+      {
          "description" : "The Jubilee Tournament of the Werder sports club in Bremen's \"Werder-Halle\" came to an end on Sunday with a victory for India's Aditya Mittal. For the 17-year-old, who is also a member of the Werder Bremen team in the Bundesliga, a draw against Czech GM Vojtech Plat was enough to win the tournament with a full-point advantage over Polish GM Pawel Teclaf. | Photos: Werder Bremen Sports Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-what-is-the-carlsbad-pawn-structure",
          "pubDate" : "Sun, 10 Mar 2024 17:00:00",
          "title" : "Svitlana's Smart Moves - What is the Carlsbad Pawn Structure?"
+      },
+      {
+         "description" : "I thought this video looked familiar and, sure enough, I had already featured 'HCIRL no.1' from the same Youtube channel in <A HREF=\"https://chessforallages.blogspot.com/2023/06/bond-siblings-bond.html\">Bond, Siblings Bond</A> (June 2023). This second release was also good for more than a few laughs. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/DUaiSzhGZiI?si=edpeDr4pVT0vGXVH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe> <BR> <B>Human Chess In Real Life 2</B> (31:42) &#149; '[Published on] Mar 1, 2024' <P> Everything I said in the no",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/03/shiloh-and-bros-no2.html",
+         "pubDate" : "Sun, 10 Mar 2024 16:25:00",
+         "title" : "Shiloh and Bros No.2"
       },
       {
          "description" : "Click here for FORM 15",
@@ -1112,30 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2893",
          "pubDate" : "Mon, 19 Feb 2024 15:41:56",
          "title" : "In memory of David Bronstein on the 100th anniversary of his birth"
-      },
-      {
-         "description" : " Greetings everyone! I hope you have enjoyed the first two sets of puzzles for this year's Black History Month tribute. You can revisit them (Week 1, Week 2). This week I will present a set of seven puzzles, one of which is a composition by Theophilius Thompson. Bear in mind, these puzzles are not only The post <a href=\"https://www.thechessdrum.net/blog/2024/02/19/black-history-month-2024-tribute-week-3/\">Black History Month 2024 Tribute: Week 3</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/02/19/black-history-month-2024-tribute-week-3/",
-         "pubDate" : "Mon, 19 Feb 2024 13:46:29",
-         "title" : "Black History Month 2024 Tribute: Week 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2891",
-         "pubDate" : "Mon, 19 Feb 2024 10:56:11",
-         "title" : "FIDE Endorses ChessNoteR N6 & N9 devices"
-      },
-      {
-         "description" : "The 2nd Cambridge International Open Chess Tournament ran from&#160; Monday 19th February to Saturday 24th February 2024 in Cambridge. The event provides an opportunity for...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2nd-cambridge-international-open-starts-today/",
-         "pubDate" : "Mon, 19 Feb 2024 10:00:37",
-         "title" : "2nd Cambridge International Open - results"
       }
    ]
 }
