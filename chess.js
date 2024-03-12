@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2922",
+         "pubDate" : "Tue, 12 Mar 2024 21:45:32",
+         "title" : "Lesotho Championship: Motlomelo Lihloela and Ngatane Lieketseng win titles"
+      },
+      {
+         "description" : " The American Cup takes place Tue 12th to Thu 21st Mar in Saint Louis. The format is a knock-out tournament with double elimination. A mixture of Classical first and then rapid games are played followed by tie-breaks if required. Open event: Caruana, So, Dominguez, Aronian, Shankland, Robson, Sevian and Oparin. Women's: Krush, Lee, Tokhirjonova, Zatonskih, Paikidze, Abrahamyan, Jennifer Yu, Zoey Tang. I will try to produce some live coverage but the format is very taxing. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2024",
+         "pubDate" : "Tue, 12 Mar 2024 21:12:00",
+         "title" : "American Cup 2024 - Games and Results"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -714,14 +730,6 @@ news_feed (
          "title" : "AICF election :Form 3"
       },
       {
-         "description" : "GM David Navara was winning for one move, but eventually GM Nodirbek Abdusattorov scored the full point in their game and now shares the lead at the Prague Masters after today&#39;s third round. The Uzbek grandmaster caught GM Parham Maghsoodloo, who ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-3",
-         "pubDate" : "Thu, 29 Feb 2024 12:43:00",
-         "title" : "Abdusattorov Catches Maghsoodloo As Prague Masters Sees Blunders, Turnarounds"
-      },
-      {
          "description" : " In honour of the 29th of Feb, I've dug up a game that was played on the 29th of Feb, and lasted 29 moves! <br /> <b>Fressinet,Laurent (2700) - Ding,Liren (2766) [D78]</b><br /> China Elite Mind blitz Huaian (20), 29.02.2016 <script> new PgnViewer( { boardName: \"game1446\", movesFormat: \"default\", pgnString:'1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.O-O O-O 6.c4 c6 7.b3 dxc4 8.bxc4 c5 9.Bb2 Qb6 10.Qb3 cxd4 11.Nxd4 Na6 12.e3 Nc5 13.Qa3 e5 14.Nb5 Be6 15.Nd2 Rad8 16.Rfd1 Rd3 17.Nb3 Rfd8 18.Rxd3 Nxd3 19.Bc3 Rd7 20.Qxa7 Qxa7 21.Nxa7 Bxc4 22.Rd1 Nd5 23.Ba1 N5b4 24.Na5 Ba6 25.Bf1 e4 26.Bxg7 Kxg7 27.Nc8 Nd5 28.Nb3 Rd8 29.Na7 Ra8 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /> <br /> <di",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2896",
          "pubDate" : "Wed, 21 Feb 2024 16:51:38",
          "title" : "List of Open Tournaments to receive FIDE Aid Packages 2024"
-      },
-      {
-         "description" : " One of the simple pleasures in life is finding a book that you know nothing about, and discovering it is quite a good read. I've had occasion to do this, usually when travelling, or simply out and about. The chess equivalent of this may well be finding a left behind scoresheet at a tournament or club. The game below is from one such scoresheet. To be fair, it was actually played on the board next to mine at the Gungahlin Chess Club yesterday evening, but if one of the players hadn't left it behind, then I doubt I would have remembered enough of the game to put it here. The game itself has a few points of interest. Before the game Matt Radisich was being encourage to play the Albin Counter G",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/found-scoresheets.html",
-         "pubDate" : "Tue, 20 Feb 2024 22:22:00",
-         "title" : "Found scoresheets"
       }
    ]
 }
