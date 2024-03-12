@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is quite a difficult task to find the right trainer for a chess player. More so when there are so many lucrative options available. While some prefer to work on their own, others need a chess coach to guide and help them improve their game. FM Peter Long shares his experiences as a trainer, including the most frequent challenges he had to face. Chess has evolved as a sport over time, which means the training aspect of the game has also changed. | Photo: European Chess Union - Education Commission",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/key-challenges-trainers-1",
+         "pubDate" : "Tue, 12 Mar 2024 10:00:00",
+         "title" : "Key challenges of chess trainers (pt. 1)"
+      },
+      {
+         "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 6-16 May 2024. The Seminar will be held online, with free participation for 25 participants nominated by European National Chess Federations and five free places for participants nominated by the ECU Commission for Women's Chess. The Seminar is specially prepared for applicants for the ECU Expert Coach (EEC) and the ECU Junior Coach (EJC) titles. In order to get the EEC or EJC title, each participant []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/the-2nd-ecu-trainers-online-seminar/",
+         "pubDate" : "Tue, 12 Mar 2024 08:10:36",
+         "title" : "The 2nd ECU Trainers Online Seminar"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
