@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2921",
+         "pubDate" : "Tue, 12 Mar 2024 15:24:05",
+         "title" : "AICF election concluded; Shri Nitin Narang and Shri Dev A Patel take charge"
+      },
+      {
+         "description" : "Who hasn't experienced it? You're prepared for an exciting game in the open Najdorf Sicilian, and suddenly your opponent puts one of the seemingly countless minor variations on the board - in order to avoid the main Najdorf variations. Should you be frustrated? Absolutely not! Luis Engel uncovers the Anti-Sicilians, so you can prepare well.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/luis-engel-uncovering-the-anti-sicilians",
+         "pubDate" : "Tue, 12 Mar 2024 14:00:00",
+         "title" : "Luis Engel - Uncovering the Anti-Sicilians!"
+      },
+      {
+         "description" : "Dive into the minds of chess legends as the Kasparov Chess Foundation Academy unveils exclusive interviews with two of the brightest stars: Fabiano Caruana and Peter Svidler! Subscribers of the KCF Academy have full access to these captivating conversations, offering a glimpse into the strategies, stories, and experiences that have shaped their illustrious careers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-interviews-with-caruana-and-svidler",
+         "pubDate" : "Tue, 12 Mar 2024 13:00:00",
+         "title" : "KCF: Interviews with Caruana and Svidler"
+      },
+      {
          "description" : "It is quite a difficult task to find the right trainer for a chess player. More so when there are so many lucrative options available. While some prefer to work on their own, others need a chess coach to guide and help them improve their game. FM Peter Long shares his experiences as a trainer, including the most frequent challenges he had to face. Chess has evolved as a sport over time, which means the training aspect of the game has also changed. | Photo: European Chess Union - Education Commission",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://www.europechess.org/the-2nd-ecu-trainers-online-seminar/",
          "pubDate" : "Tue, 12 Mar 2024 08:10:36",
          "title" : "The 2nd ECU Trainers Online Seminar"
+      },
+      {
+         "description" : "The historic Biel Chess Festival, one of the biggest events in the European chess calendar, has announced its super-strong lineup for 2024 featuring a sharp focus on youth. The event, which has been running in the Swiss lakeside city since 1968,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/praggnanandhaa-and-vaishali-top-line-up-for-super-strong-biel-chess-festival",
+         "pubDate" : "Tue, 12 Mar 2024 07:12:00",
+         "title" : "Praggnanandhaa, Vaishali Top Lineup For Super-Strong Biel Chess Festival"
       },
       {
          "description" : "",
@@ -698,14 +730,6 @@ news_feed (
          "title" : "5th Shenzhen Longgang Chess Masters 2024 - Games and Results"
       },
       {
-         "description" : "It&#38;rsquo;s March, and murder is afoot! Play against five suspects in this month-long chess murder mystery! Check back throughout the month as you unlock new dialogue, clues, and hints while playing these five fun characters.&#38;nbsp; Solve The Myst...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-mystery-bots",
-         "pubDate" : "Thu, 29 Feb 2024 10:49:00",
-         "title" : "Can You Find Out Who Murdered The Green Pawn In This Chess Murder Mystery?"
-      },
-      {
          "description" : "In the recent Freestyle event, heart rates of the players were measured in classical chess, with slow time controls. In bullet and blitz formats, where intuition prevails, heart rates remain relatively low compared to slower time controls like Rapid or Classical, which allow more contemplation during critical positions. Here are observations provided by the leading expert on the heart rate data shared during the Weissenhaus event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1056,22 +1080,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/found-scoresheets.html",
          "pubDate" : "Tue, 20 Feb 2024 22:22:00",
          "title" : "Found scoresheets"
-      },
-      {
-         "description" : "Two British Championships on the trot for David Hodge.&#160; Chess solving Championships, that is.&#160; He was the winner at last year's Winton British Chess Solving...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship/",
-         "pubDate" : "Tue, 20 Feb 2024 15:24:57",
-         "title" : "Winton British Chess Solving Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107856033.cms\" />An eight-year-old Indian-origin boy defeated Polish chess grandmaster Jacek Stopa at the Burgdorfer Stadthaus Open in Switzerland on Sunday, becoming the youngest player to defeat a GM in classical chess. Ashwath Kaushik, who represented Singapore, defeated Stopa, who at 37 is nearly five times older than him, according to a Channel News Asia report. The previous record was set only a few weeks earlier when Serbia's Leonid Ivanovic, who is several months older than Ashwath, beat 60-year-old Bulgarian grandmaster Milko Popchev at the Belgrade Open.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/8-year-old-indian-origin-boy-from-singapore-beats-polish-grandmaster-breaks-record/articleshow/107856033.cms",
-         "pubDate" : "Tue, 20 Feb 2024 12:29:16",
-         "title" : "8-year-old Indian-origin boy beats Polish GM, breaks record"
       }
    ]
 }
