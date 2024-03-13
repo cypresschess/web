@@ -18,6 +18,14 @@ news_feed (
          "title" : "The Modern Gentlemen"
       },
       {
+         "description" : "Forget Barbie, Oppenheimer or Poor Things. The 96th Academy Awards also marked a triumph for &#34;War Is Over!&#34; becoming the second chess-themed winner of the &#39;Best Animated Short Film&#39; award. Drawing inspiration from the iconic peace anthem &#39;Happy ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-themed-animated-short-war-is-over-wins-oscar",
+         "pubDate" : "Wed, 13 Mar 2024 13:14:09",
+         "title" : "Chess-Themed Animated Short 'War Is Over' Wins Oscar Award"
+      },
+      {
          "description" : "The 2024 Reykjavik Open opens tomorrow and will be played from 15th-21st March at the Harpa Music and Conference Center. The Opening party is scheduled for the 14th of March, starting at 18:00 (local time). . The event will be played in 9 rounds, swiss system, with more than 400 participants coming from 49 countries. The tournament attracted 114 titled players, and the top-seeds are: GM Deac Bogdan-Daniel (ROU, 2690), GM Ivanchuk Vasyl (UKR, 2623), GM Xu Xiangyu (CHN, 2623), []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -688,14 +696,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-electionform-4/",
          "pubDate" : "Fri, 01 Mar 2024 16:54:53",
          "title" : "AICF Election:Form 4"
-      },
-      {
-         "description" : "March is Women&#39;s History Month, and to celebrate the impact that women have had&#38;mdash;and continue to have&#38;mdash;on the game of chess, we&#39;re hosting a special arena tournament and roundtable discussion featuring some of the leading women&#39;s voices ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/international-womens-day-arena-2024",
-         "pubDate" : "Fri, 01 Mar 2024 16:04:00",
-         "title" : "Celebrate International Women's Day With A Special Arena Tournament & Roundtable"
       },
       {
          "description" : " The 1st of March FIDE Rating List saw the proposed rating 'compression' come into effect. All rated players under 2000 were given a rating boost, based on the formula New rating = Old rating + (0.4 * (2000 - Old rating)). So for a player rated 1001 that would bee 400 points, while a player rated 1990, that would be 4 points. From a local point of view there ware 2 main effects. Firstly, lots of players qualify for higher categories in the upcoming Doeberl Cup. Secondly, there may well be a lot of 'farming' going on, as older players regain some of the points previously lost to younger players (ie rather than avoiding junior players, it may be an advantage in playing them as their ratings in",
