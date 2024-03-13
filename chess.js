@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third edition of the American Cup kicked off at the World Chess Hall of Fame in Saint Louis. Each match saw the contenders playing a classical game and a rapid game on opening day. In the open, only Fabiano Caruana scored back-to-back wins (over Grigoriy Oparin), which means he only needs a draw on Wednesday to advance to the next stage in the Champions Bracket. Meanwhile, three out of four matches finished with 2-0 scores in the women's section, with Nazi Paikidze, Alice Lee and Gulrukhbegim Tokhirjonova obtaining consecutive wins on the first day of action. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-d1",
+         "pubDate" : "Wed, 13 Mar 2024 05:05:00",
+         "title" : "American Cup: Caruana gets 2-point advantage over Oparin"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-1",
          "pubDate" : "Tue, 12 Mar 2024 19:06:00",
          "title" : "Caruana, Lee, Tokhirjonova Start With Double Wins"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
-         "pubDate" : "Tue, 12 Mar 2024 18:50:00",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "",
