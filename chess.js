@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
+         "pubDate" : "Wed, 13 Mar 2024 18:50:00",
+         "title" : "The American Cup: Live!"
+      },
+      {
          "description" : "The Modern Gentlemen is the name of the joint project by musicians Matt Goss and Jason Kouchak. It revolves around the art of being a true gentleman in the modern world. For the two music lovers, chess is an essential part of this. | Photos: Julian Paix",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-to-work-with-the-laws-of-chess",
          "pubDate" : "Wed, 13 Mar 2024 12:00:00",
          "title" : "How to work with the Laws of Chess"
+      },
+      {
+         "description" : "GM Hikaru Nakamura and GM Bogdan-Daniel Deac were the winners of Titled Tuesday on March 12. For Nakamura, it was his third week in a row with a win and his first early tournament win in that time. For Deac, it was his first win in over a year. Co...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-deac-win-titled-tuesday-march-12-2024",
+         "pubDate" : "Wed, 13 Mar 2024 09:17:11",
+         "title" : "Nakamura Wins For A Third Straight Week"
       },
       {
          "description" : "A WGM / WIM women's norm event. Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining...",
@@ -682,28 +698,12 @@ news_feed (
          "title" : "Celebrate International Women's Day With A Special Arena Tournament & Roundtable"
       },
       {
-         "description" : "Chess.com is excited to announce our newest chess variant, Chess With Checkers! This fresh variant follows the same rules as regular chess, with one exception: everything on the board looks like checkers pieces. Click the button below to try ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-with-checkers",
-         "pubDate" : "Fri, 01 Mar 2024 14:10:00",
-         "title" : "Play Chess With Checker Pieces Like Magnus Carlsen"
-      },
-      {
          "description" : " The 1st of March FIDE Rating List saw the proposed rating 'compression' come into effect. All rated players under 2000 were given a rating boost, based on the formula New rating = Old rating + (0.4 * (2000 - Old rating)). So for a player rated 1001 that would bee 400 points, while a player rated 1990, that would be 4 points. From a local point of view there ware 2 main effects. Firstly, lots of players qualify for higher categories in the upcoming Doeberl Cup. Secondly, there may well be a lot of 'farming' going on, as older players regain some of the points previously lost to younger players (ie rather than avoiding junior players, it may be an advantage in playing them as their ratings in",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/03/xmas-day-for-chess-players.html",
          "pubDate" : "Fri, 01 Mar 2024 12:42:00",
          "title" : "Xmas day for chess players"
-      },
-      {
-         "description" : "GMs Fabiano Caruana and Cristian Chirila are off to the Final of the 2024 Team Chess Battle. On Friday, they defeated&#38;nbsp;GM Wesley So and IM Alice Lee 1.5-0.5 to advance.&#38;nbsp; Some say the hardest thing in chess is to win a won position. Both...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-sf-caruana-chirila-win",
-         "pubDate" : "Fri, 01 Mar 2024 12:35:00",
-         "title" : "Team C-Squared Defends Impossible Endgame, Reaches Final"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108137552.cms\" />For the second consecutive day, Grandmaster R Praggnanandhaa made a critical blunder, leading to his defeat against Richard Rapport of Romania in the third round of the Prague Masters Chess tournament.",
@@ -1096,14 +1096,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/lost-scoresheets.html",
          "pubDate" : "Thu, 22 Feb 2024 12:12:00",
          "title" : "Lost scoresheets"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2896",
-         "pubDate" : "Wed, 21 Feb 2024 16:51:38",
-         "title" : "List of Open Tournaments to receive FIDE Aid Packages 2024"
       }
    ]
 }
