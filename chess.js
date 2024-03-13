@@ -18,6 +18,14 @@ news_feed (
          "title" : "American Cup 2024 - Games and Results"
       },
       {
+         "description" : "Day one of the 2024 American Cup saw a whopping 13 decisive games across the Open and Women&#39;s tournaments in St. Louis on Tuesday. GM Fabiano Caruana got off to a 2-0 start against GM Grigoriy Oparin, while GM Wesley So is the only other player ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-american-cup-day-1",
+         "pubDate" : "Tue, 12 Mar 2024 19:06:00",
+         "title" : "Caruana, Lee, Tokhirjonova Start With Double Wins"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kcf-interviews-with-caruana-and-svidler",
          "pubDate" : "Tue, 12 Mar 2024 13:00:00",
          "title" : "KCF: Interviews with Caruana and Svidler"
-      },
-      {
-         "description" : "It is quite a difficult task to find the right trainer for a chess player. More so when there are so many lucrative options available. While some prefer to work on their own, others need a chess coach to guide and help them improve their game. FM Peter Long shares his experiences as a trainer, including the most frequent challenges he had to face. Chess has evolved as a sport over time, which means the training aspect of the game has also changed. | Photo: European Chess Union - Education Commission",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/key-challenges-trainers-1",
-         "pubDate" : "Tue, 12 Mar 2024 10:00:00",
-         "title" : "Key challenges of chess trainers (pt. 1)"
       },
       {
          "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 6-16 May 2024. The Seminar will be held online, with free participation for 25 participants nominated by European National Chess Federations and five free places for participants nominated by the ECU Commission for Women's Chess. The Seminar is specially prepared for applicants for the ECU Expert Coach (EEC) and the ECU Junior Coach (EJC) titles. In order to get the EEC or EJC title, each participant []",
@@ -176,14 +176,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/fun-chess-training/",
          "pubDate" : "Sat, 09 Mar 2024 13:30:00",
          "title" : "Fun and Progress: A Guide to Effective Chess Training"
-      },
-      {
-         "description" : "It is certainly one of the most famous games in chess history: the 13-year-old future FIDE World Champion Bobby Fischer played a spectacular combination against IM Donald Byrne, one that has been shown and analysed by generations of chess players and writers. Today on what would have been Bobby's 81 birthday, GM Efstratios Grivas gives us a comprehensive summary of all available analysis, including those of Garry Kasparov and GM Karsten Mueller of ChessBase. Many other sources were taken into account to make sure that no blind spots are remaining!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/game-of-the-century-a-full-summary",
-         "pubDate" : "Sat, 09 Mar 2024 12:00:00",
-         "title" : "Game of the Century - a full summary"
       },
       {
          "description" : "The annual contest between the teams of Oxford and Cambridge Universities is the oldest surviving fixture in the chess world. Often described as \"The Boat Race of the Brain\", this clash of mental arms was founded in the 1870s. The first encounter was actually attended by three chess titans of the day: Wilhelm Steinitz, Johannes Zukertort and, []",
@@ -680,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-team-chess-battle-sf-caruana-chirila-win",
          "pubDate" : "Fri, 01 Mar 2024 12:35:00",
          "title" : "Team C-Squared Defends Impossible Endgame, Reaches Final"
-      },
-      {
-         "description" : "Today, FIDE, the chess world-governing body, made a significant move in an attempt to combat rating deflation and improve the accuracy of the ranking system by adjusting the rating for hundreds of thousands of players. Nonetheless, the extensive o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-adds-rating-points-to-more-than-300-000-players",
-         "pubDate" : "Fri, 01 Mar 2024 12:25:00",
-         "title" : "FIDE Adjusts Ratings For 350,000 Players In Major Change"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108137552.cms\" />For the second consecutive day, Grandmaster R Praggnanandhaa made a critical blunder, leading to his defeat against Richard Rapport of Romania in the third round of the Prague Masters Chess tournament.",
