@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"As arbiters, we must first and foremost have full knowledge of the Laws of Chess. The Laws of Chess are like the Bible, everything starts there.\" In this article IA Alon Shulman shares his thought process in dealing with cases, on implementing the Laws of Chess. Arbiters must first and foremost have full knowledge of them, everything starts there. Those laws are the basis of every decision that are make. \"Secondly, we must always bear in mind that those laws don't cover everything, and we need to impose the rational of the laws as a whole.\" | Photo Mark Livshitz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-work-with-the-laws-of-chess",
+         "pubDate" : "Wed, 13 Mar 2024 12:00:00",
+         "title" : "How to work with the Laws of Chess"
+      },
+      {
+         "description" : "A WGM / WIM women's norm event. Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/the-8th-menchik-memorial/",
+         "pubDate" : "Wed, 13 Mar 2024 08:50:01",
+         "title" : "The 8th Menchik Memorial"
+      },
+      {
          "description" : "The third edition of the American Cup kicked off at the World Chess Hall of Fame in Saint Louis. Each match saw the contenders playing a classical game and a rapid game on opening day. In the open, only Fabiano Caruana scored back-to-back wins (over Grigoriy Oparin), which means he only needs a draw on Wednesday to advance to the next stage in the Champions Bracket. Meanwhile, three out of four matches finished with 2-0 scores in the women's section, with Nazi Paikidze, Alice Lee and Gulrukhbegim Tokhirjonova obtaining consecutive wins on the first day of action. | Photo: Austin Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
