@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Modern Gentlemen is the name of the joint project by musicians Matt Goss and Jason Kouchak. It revolves around the art of being a true gentleman in the modern world. For the two music lovers, chess is an essential part of this. | Photos: Julian Paix",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-modern-gentlemen",
+         "pubDate" : "Wed, 13 Mar 2024 15:00:00",
+         "title" : "The Modern Gentlemen"
+      },
+      {
+         "description" : "The 2024 Reykjavik Open opens tomorrow and will be played from 15th-21st March at the Harpa Music and Conference Center. The Opening party is scheduled for the 14th of March, starting at 18:00 (local time). . The event will be played in 9 rounds, swiss system, with more than 400 participants coming from 49 countries. The tournament attracted 114 titled players, and the top-seeds are: GM Deac Bogdan-Daniel (ROU, 2690), GM Ivanchuk Vasyl (UKR, 2623), GM Xu Xiangyu (CHN, 2623), []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/reykjavik-open-2024-opens-tomorrow/",
+         "pubDate" : "Wed, 13 Mar 2024 13:04:07",
+         "title" : "Reykjavik Open 2024 opens tomorrow"
+      },
+      {
          "description" : "\"As arbiters, we must first and foremost have full knowledge of the Laws of Chess. The Laws of Chess are like the Bible, everything starts there.\" In this article IA Alon Shulman shares his thought process in dealing with cases, on implementing the Laws of Chess. Arbiters must first and foremost have full knowledge of them, everything starts there. Those laws are the basis of every decision that are make. \"Secondly, we must always bear in mind that those laws don't cover everything, and we need to impose the rational of the laws as a whole.\" | Photo Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -47,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-1",
          "pubDate" : "Tue, 12 Mar 2024 19:06:00",
-         "title" : "Caruana, Lee, Tokhirjonova Start With Double Wins"
+         "title" : "Caruana, Lee, Tokhirjonova, Paikidze Start With Double Wins"
       },
       {
          "description" : "",
