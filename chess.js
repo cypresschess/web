@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This episode was lost in the depths of 2023, but luckily returned! The Gruenfeld is a very hyper-modern opening, which gives White the centre, while Black has to fight around the flanks. If Black knows the opening well, White has a difficult time gaining some advantage. But with an example game from Vincent Keymer, the move \"h4\" is a beautiful way to attack the Black pieces. Svitlana shows us how to master this idea.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-fight-the-gruenfeld-with-h4",
+         "pubDate" : "Thu, 14 Mar 2024 23:30:00",
+         "title" : "Svitlana's Smart Moves - How to fight the Gruenfeld with h4!"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
