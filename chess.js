@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-themed-animated-short-war-is-over-wins-oscar",
-         "pubDate" : "Wed, 13 Mar 2024 13:14:09",
+         "pubDate" : "Wed, 13 Mar 2024 13:14:00",
          "title" : "Chess-Themed Animated Short 'War Is Over' Wins Oscar Award"
       },
       {
