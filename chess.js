@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "43rd National Team Chess Championship - 2024 &#38; 21st National Team Chess Championship for Women - 2024 from 29th March to 04th April, 2024 Dharamshala,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-chess-chmapionship-2024/",
+         "pubDate" : "Thu, 14 Mar 2024 10:29:43",
+         "title" : "National Team Chess Chmapionship 2024"
+      },
+      {
+         "description" : "In this year's Academy Awards a wonderful 11-minute film won the award for Best Animated Short. It was inspired by John Lennon and Yoko Ono's 1971 peace anthem \"Happy Xmas (War Is Over)\". The short film \"WAR IS OVER!\" was created by son Sean Ono Lennon and director Dave Mullins. It is set in an alternate WWI reality where two soldiers on opposite sides of the conflict play a game of chess. The game used in the film was suggested by chess historian Edward Winter, and has a highly unusual ending.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/war-is-over-and-chess",
+         "pubDate" : "Thu, 14 Mar 2024 10:26:37",
+         "title" : "\"War is over\" and chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2923",
+         "pubDate" : "Thu, 14 Mar 2024 10:23:02",
+         "title" : "African Individual Championships 2024 commence in Accra, Ghana"
+      },
+      {
          "description" : "Maryland Terrapins defensive back Chantz Harley took out top honors in the sixth installment of BlitzChamps after defeating fellow back Dante Trader Jr. in the fourth game of their finals match. with a &#34;Hail Mary&#34; pawn promotion that secured the t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -888,14 +912,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/27/tani-adewumi-gets-required-im-norm/",
          "pubDate" : "Tue, 27 Feb 2024 16:07:35",
          "title" : "Tani Adewumi gets required IM norm!"
-      },
-      {
-         "description" : "As directed the last date of the National Rapid &#38; Blitz 2024 online entries extended to 01st March 2024,1600 PM.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-rapid-blitz-2024/",
-         "pubDate" : "Tue, 27 Feb 2024 11:42:36",
-         "title" : "National Rapid & Blitz 2024"
       },
       {
          "description" : "",
