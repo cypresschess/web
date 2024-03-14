@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "WGM Mitra Hejazipor was born on 19 February 1993 in Mashdad, Iran, and became Iranian Women's Champion in 2012. But she left her country because she did not want to wear the hijab, or headscarf, and went to France, where she became a French citizen in 2023. She also became the French women's champion that year. She recently played in the Werder Bremen Jubilee Tournament, which ended last week. After the tournament Mitra Hejazipor found time for an interview with Vera J&uuml;rgens and talked about her career, how chess helped her to see the world and whether she would like to become a professional chess player. | Photos: Werder Bremen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/im-interview-mitra-hejazipour",
+         "pubDate" : "Thu, 14 Mar 2024 16:00:00",
+         "title" : "\"I love Paris and I am very happy in France!\": An interview with Iranian and French WGM Mitra Hejazipour"
+      },
+      {
+         "description" : "Four players advanced to the Champions Bracket's semifinals in each section of the American Cup. While all the quarterfinal matches in the women's event were decided after three or four games, one match in the open event was decided in blitz tiebreaks - Levon Aronian got the better of Sam Sevian in the 3-minute phase. Aronian will face Fabiano Caruana in the next stage, while Wesley So will play against Ray Robson, who defeated Leinier Dominguez in a sharp battle. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-d2",
+         "pubDate" : "Thu, 14 Mar 2024 12:55:00",
+         "title" : "American Cup: Robson and Aronian win thrilling matches"
+      },
+      {
+         "description" : " If you are a Canberra resident (or live close by) there are a couple of important Annual General Meetings coming up. The ACT Junior Chess League AGM is on Sunday 17th March 1:30pm at Campbell High School (during the ACTJCL Autumn Allegro). It is open to the parents of members of the ACTJCL. The ACTJCL has been running without a full committee for the last few years and so there is a need for parents to step up and fill the executive roles. The ACT Chess Association AGM is being held on Thursday 28th March 7:00pm at the Canberra Southern Cross Club, Woden. This is during the Doeberl Cup, so members can drop in a spectate the Premier, before attending the AGM. Unlike the Junior Chess League, ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/some-important-agms.html",
+         "pubDate" : "Thu, 14 Mar 2024 12:31:00",
+         "title" : "Some important AGM's"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2924",
+         "pubDate" : "Thu, 14 Mar 2024 12:03:15",
+         "title" : "American Cup 2024: Round 1 recap"
+      },
+      {
          "description" : "43rd National Team Chess Championship - 2024 &#38; 21st National Team Chess Championship for Women - 2024 from 29th March to 04th April, 2024 Dharamshala,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -26,12 +58,12 @@ news_feed (
          "title" : "African Individual Championships 2024 commence in Accra, Ghana"
       },
       {
-         "description" : "Maryland Terrapins defensive back Chantz Harley took out top honors in the sixth installment of BlitzChamps after defeating fellow back Dante Trader Jr. in the fourth game of their finals match. with a &#34;Hail Mary&#34; pawn promotion that secured the t...",
+         "description" : "Maryland Terrapins defensive back Chantz Harley took top honors in the sixth installment of BlitzChamps after defeating fellow back Dante Trader Jr. in the fourth game of their finals match with a &#34;Hail Mary&#34; pawn promotion that secured the title....",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/harley-chantz-wins-blitzchamps-maryland",
-         "pubDate" : "Wed, 13 Mar 2024 20:13:33",
-         "title" : "Harley's \"Hail Mary\" Clinches BlitzChamps Title"
+         "pubDate" : "Wed, 13 Mar 2024 20:13:00",
+         "title" : "Harley's 'Hail Mary' Clinches BlitzChamps Title"
       },
       {
          "description" : "Eight players continue in the Champions Brackets of the 2024 American Cup after day two, while the other eight are one match loss away from elimination. GM Fabiano Caruana and&#38;nbsp;GM Wesley So clinched their matches with a game to spare. GM Ray...",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-2",
          "pubDate" : "Wed, 13 Mar 2024 19:00:00",
          "title" : "Veterans Laugh Last: Aronian Wins Blitz Playoffs, Krush Recovers In Women's"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
-         "pubDate" : "Wed, 13 Mar 2024 18:50:00",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "The Modern Gentlemen is the name of the joint project by musicians Matt Goss and Jason Kouchak. It revolves around the art of being a true gentleman in the modern world. For the two music lovers, chess is an essential part of this. | Photos: Julian Paix",
@@ -96,14 +120,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-8th-menchik-memorial/",
          "pubDate" : "Wed, 13 Mar 2024 08:50:01",
          "title" : "The 8th Menchik Memorial"
-      },
-      {
-         "description" : "The third edition of the American Cup kicked off at the World Chess Hall of Fame in Saint Louis. Each match saw the contenders playing a classical game and a rapid game on opening day. In the open, only Fabiano Caruana scored back-to-back wins (over Grigoriy Oparin), which means he only needs a draw on Wednesday to advance to the next stage in the Champions Bracket. Meanwhile, three out of four matches finished with 2-0 scores in the women's section, with Nazi Paikidze, Alice Lee and Gulrukhbegim Tokhirjonova obtaining consecutive wins on the first day of action. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-d1",
-         "pubDate" : "Wed, 13 Mar 2024 05:05:00",
-         "title" : "American Cup: Caruana gets 2-point advantage over Oparin"
       },
       {
          "description" : "",
@@ -1096,22 +1112,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/feb/23/freestyle-chess-plans-2025-global-tour-for-carlsen-and-the-worlds-top-players",
          "pubDate" : "Fri, 23 Feb 2024 08:00:42",
          "title" : "Freestyle Chess plans 2025 global Tour for Carlsen and the world's top players"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2897",
-         "pubDate" : "Thu, 22 Feb 2024 12:18:15",
-         "title" : "Queens' Chess Festival 2024: Registration continues"
-      },
-      {
-         "description" : " The flipside to yesterday's post on Found Scoresheets, are lost scoresheets. Sometimes they legitimately disappear, but in some case, they are \"lost\" because looking at them is somewhat painful. As an example, the scoresheet for the game below was \"lost\" for a number of days. Having collected an undeserved point*, and generally unhappy with the course of the game, I couldn't locate the scoresheet the next day. To be honest, I didn't look terribly hard for it either, and assumed it had gone out with the rubbish. In fact it was where I normally put my scoresheets after a game (in my bag), but it took me a week to realise this. So here is a \"lost scoresheet\" game, with apologies to my opponent",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/lost-scoresheets.html",
-         "pubDate" : "Thu, 22 Feb 2024 12:12:00",
-         "title" : "Lost scoresheets"
       }
    ]
 }
