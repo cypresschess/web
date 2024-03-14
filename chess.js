@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
+         "pubDate" : "Thu, 14 Mar 2024 18:50:00",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2925",
+         "pubDate" : "Thu, 14 Mar 2024 17:06:28",
+         "title" : "VAR and idChess broadcast debut in 55th Ladies' International Tournament in Serbia"
+      },
+      {
          "description" : "WGM Mitra Hejazipor was born on 19 February 1993 in Mashdad, Iran, and became Iranian Women's Champion in 2012. But she left her country because she did not want to wear the hijab, or headscarf, and went to France, where she became a French citizen in 2023. She also became the French women's champion that year. She recently played in the Werder Bremen Jubilee Tournament, which ended last week. After the tournament Mitra Hejazipor found time for an interview with Vera J&uuml;rgens and talked about her career, how chess helped her to see the world and whether she would like to become a professional chess player. | Photos: Werder Bremen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -39,7 +55,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-team-chess-chmapionship-2024/",
          "pubDate" : "Thu, 14 Mar 2024 10:29:43",
-         "title" : "National Team Chess Chmapionship 2024"
+         "title" : "National Team Chess Championship 2024"
       },
       {
          "description" : "In this year's Academy Awards a wonderful 11-minute film won the award for Best Animated Short. It was inspired by John Lennon and Yoko Ono's 1971 peace anthem \"Happy Xmas (War Is Over)\". The short film \"WAR IS OVER!\" was created by son Sean Ono Lennon and director Dave Mullins. It is set in an alternate WWI reality where two soldiers on opposite sides of the conflict play a game of chess. The game used in the film was suggested by chess historian Edward Winter, and has a highly unusual ending.",
