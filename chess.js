@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maryland Terrapins defensive back Chantz Harley took out top honors in the sixth installment of BlitzChamps after defeating fellow back Dante Trader Jr. in the fourth game of their finals match. with a &#34;Hail Mary&#34; pawn promotion that secured the t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/harley-chantz-wins-blitzchamps-maryland",
+         "pubDate" : "Wed, 13 Mar 2024 20:13:33",
+         "title" : "Harley's \"Hail Mary\" Clinches BlitzChamps Title"
+      },
+      {
+         "description" : "Eight players continue in the Champions Brackets of the 2024 American Cup after day two, while the other eight are one match loss away from elimination. GM Fabiano Caruana and&#38;nbsp;GM Wesley So clinched their matches with a game to spare. GM Ray...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-american-cup-day-2",
+         "pubDate" : "Wed, 13 Mar 2024 19:00:00",
+         "title" : "Veterans Laugh Last: Aronian Wins Blitz Playoffs, Krush Recovers In Women's"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -672,22 +688,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-raises-concerns-over-visa-delay-for-chess-players-ahead-of-candidates-event/articleshow/108156663.cms",
          "pubDate" : "Sat, 02 Mar 2024 06:37:05",
          "title" : "FIDE raises concerns over visa delay for chess players ahead of Candidates event"
-      },
-      {
-         "description" : "GM Nodirbek Abdusattorov and GM Parham Maghsoodloo continue to lead the Prague Masters after four rounds as all games on Friday ended in draws. Day five starts on Saturday at 9 a.m. ET / 15:00 CET / 7:30 p.m. IST. Prague Masters | Round 4 Result...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-4",
-         "pubDate" : "Sat, 02 Mar 2024 01:18:00",
-         "title" : "White Presses, Black Holds: All Draws In Prague"
-      },
-      {
-         "description" : "One of the world&#39;s most prestigious tournaments is facing a significant hurdle as FIDE has announced a public appeal to the Canadian authorities to expedite the visa process for several players. Update, March 2: Canadian Chess Federation President...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-makes-urgent-visa-appeal-to-canadian-government-regarding-candidates",
-         "pubDate" : "Fri, 01 Mar 2024 19:57:00",
-         "title" : "FIDE Makes 'Urgent Visa Appeal' To Canadian Government Regarding Candidates"
       },
       {
          "description" : "Click here Form 4",
