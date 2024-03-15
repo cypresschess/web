@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first players to be eliminated in the open section of the American Cup were Grigoriy Oparin and Sam Shankland. Oparin was defeated by Sam Sevian, while Shankland played no fewer than eight games before being knocked out by Leinier Dominguez. In the women's section, Anna Zatonskih and Tatev Abrahamyan were eliminated by Zoey Tang and Jennifer Yu respectively. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-d3",
+         "pubDate" : "Fri, 15 Mar 2024 02:30:00",
+         "title" : "American Cup: Dominguez knocks out Shankland in nerve-racking playoff"
+      },
+      {
+         "description" : " Jayvon Davis won the under-1600 section of the Delaware State Open last weekend allowing him to use his winning method as teaching material. Davis runs a website called &#8220;Chess Express&#8221; targeting younger age groups. Based in Delaware, his success will undoubtedly make his students proud and give more credence to how chess can inspire. Davis The post <a href=\"https://www.thechessdrum.net/blog/2024/03/14/jayvon-davis-express-wins-in-delaware/\">&#8220;Jayvon Davis Express&#8221; wins in Delaware!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/03/14/jayvon-davis-express-wins-in-delaware/",
+         "pubDate" : "Fri, 15 Mar 2024 01:54:24",
+         "title" : "\"Jayvon Davis Express\" wins in Delaware!"
+      },
+      {
          "description" : "This episode was lost in the depths of 2023, but luckily returned! The Gruenfeld is a very hyper-modern opening, which gives White the centre, while Black has to fight around the flanks. If Black knows the opening well, White has a difficult time gaining some advantage. But with an example game from Vincent Keymer, the move \"h4\" is a beautiful way to attack the Black pieces. Svitlana shows us how to master this idea.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-fight-the-gruenfeld-with-h4",
          "pubDate" : "Thu, 14 Mar 2024 23:30:00",
          "title" : "Svitlana's Smart Moves - How to fight the Gruenfeld with h4!"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
-         "pubDate" : "Thu, 14 Mar 2024 18:50:00",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/im-interview-mitra-hejazipour",
          "pubDate" : "Thu, 14 Mar 2024 16:00:00",
          "title" : "\"I love Paris and I am very happy in France!\": An interview with Iranian and French WGM Mitra Hejazipour"
-      },
-      {
-         "description" : "Four players advanced to the Champions Bracket's semifinals in each section of the American Cup. While all the quarterfinal matches in the women's event were decided after three or four games, one match in the open event was decided in blitz tiebreaks - Levon Aronian got the better of Sam Sevian in the 3-minute phase. Aronian will face Fabiano Caruana in the next stage, while Wesley So will play against Ray Robson, who defeated Leinier Dominguez in a sharp battle. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-d2",
-         "pubDate" : "Thu, 14 Mar 2024 12:55:00",
-         "title" : "American Cup: Robson and Aronian win thrilling matches"
       },
       {
          "description" : " If you are a Canberra resident (or live close by) there are a couple of important Annual General Meetings coming up. The ACT Junior Chess League AGM is on Sunday 17th March 1:30pm at Campbell High School (during the ACTJCL Autumn Allegro). It is open to the parents of members of the ACTJCL. The ACTJCL has been running without a full committee for the last few years and so there is a need for parents to step up and fill the executive roles. The ACT Chess Association AGM is being held on Thursday 28th March 7:00pm at the Canberra Southern Cross Club, Woden. This is during the Doeberl Cup, so members can drop in a spectate the Premier, before attending the AGM. Unlike the Junior Chess League, ",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://aicf.in/national-team-chess-chmapionship-2024/",
          "pubDate" : "Thu, 14 Mar 2024 10:29:43",
          "title" : "National Team Chess Championship 2024"
-      },
-      {
-         "description" : "In this year's Academy Awards a wonderful 11-minute film won the award for Best Animated Short. It was inspired by John Lennon and Yoko Ono's 1971 peace anthem \"Happy Xmas (War Is Over)\". The short film \"WAR IS OVER!\" was created by son Sean Ono Lennon and director Dave Mullins. It is set in an alternate WWI reality where two soldiers on opposite sides of the conflict play a game of chess. The game used in the film was suggested by chess historian Edward Winter, and has a highly unusual ending.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/war-is-over-and-chess",
-         "pubDate" : "Thu, 14 Mar 2024 10:26:37",
-         "title" : "\"War is over\" and chess"
       },
       {
          "description" : "",
@@ -178,22 +170,6 @@ news_feed (
          "title" : "AICF election concluded; Shri Nitin Narang and Shri Dev A Patel take charge"
       },
       {
-         "description" : "Who hasn't experienced it? You're prepared for an exciting game in the open Najdorf Sicilian, and suddenly your opponent puts one of the seemingly countless minor variations on the board - in order to avoid the main Najdorf variations. Should you be frustrated? Absolutely not! Luis Engel uncovers the Anti-Sicilians, so you can prepare well.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/luis-engel-uncovering-the-anti-sicilians",
-         "pubDate" : "Tue, 12 Mar 2024 14:00:00",
-         "title" : "Luis Engel - Uncovering the Anti-Sicilians!"
-      },
-      {
-         "description" : "Dive into the minds of chess legends as the Kasparov Chess Foundation Academy unveils exclusive interviews with two of the brightest stars: Fabiano Caruana and Peter Svidler! Subscribers of the KCF Academy have full access to these captivating conversations, offering a glimpse into the strategies, stories, and experiences that have shaped their illustrious careers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-interviews-with-caruana-and-svidler",
-         "pubDate" : "Tue, 12 Mar 2024 13:00:00",
-         "title" : "KCF: Interviews with Caruana and Svidler"
-      },
-      {
          "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 6-16 May 2024. The Seminar will be held online, with free participation for 25 participants nominated by European National Chess Federations and five free places for participants nominated by the ECU Commission for Women's Chess. The Seminar is specially prepared for applicants for the ECU Expert Coach (EEC) and the ECU Junior Coach (EJC) titles. In order to get the EEC or EJC title, each participant []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -224,14 +200,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-puzzle-challenge-01",
          "pubDate" : "Mon, 11 Mar 2024 19:00:00",
          "title" : "ChessBase Puzzle Challenge - 01"
-      },
-      {
-         "description" : "The 6th Prague International Chess Festival ended on 7 March. Nodirbek Abdusattorov won the Masters and moved up to 4th place on the live Elo list. Sagar Shah and Amruta Mokal from ChessBase India accompanied the festival as commentators. In a video they recall nine highlights of the festival on a tour of Prague, one of the most beautiful cities in Europe.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/9-highlights-of-the-chess-festival-prague",
-         "pubDate" : "Mon, 11 Mar 2024 16:00:00",
-         "title" : "9 Highlights of the Chess Festival Prague"
       },
       {
          "description" : " One advantage higher rated players often have, is that their lower rated opponents feel the need to do something dramatic, to try and avoid being ground down. I fell into this trap recently, blundering a piece to a faulty combination last week at my club, while the example below came from the final round of the Ballarat Begonia Open. While top seed GM Gawain Jones would be expected to win this final round clash, his opponents over optimistic attack made the task a lot simpler. <br /> <b>Jones,Gawain (2618) - Chan,Kris (2071) [E90]</b><br /> Begonia Open 2024 Ballarat, Australia (7.1), 11.03.2024 <script> new PgnViewer( { boardName: \"game1448\", movesFormat: \"default\", pgnString:'1.Nf3 Nf6 2.",
