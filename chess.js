@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The first players to be eliminated in the open section of the American Cup were Grigoriy Oparin and Sam Shankland. Oparin was defeated by Sam Sevian, while Shankland played no fewer than eight games before being knocked out by Leinier Dominguez. In the women's section, Anna Zatonskih and Tatev Abrahamyan were eliminated by Zoey Tang and Jennifer Yu respectively. | Photo: Lennart Ootes",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-in-prisons/",
+         "pubDate" : "Fri, 15 Mar 2024 11:29:27",
+         "title" : "Chess in Prisons and why it matters - Carl Portman"
+      },
+      {
+         "description" : "Have you ever finished last in a tournament? Well, it happened to Vidit Gujrathi at the Prague Masters 2024. As Vidit himself pointed out, this might be the first time ever that he finished last in his entire chess career. And it happened 20 days before the most important event of his life - the Candidates, this cannot really be a good sign, can it?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-d3",
-         "pubDate" : "Fri, 15 Mar 2024 02:30:00",
-         "title" : "American Cup: Dominguez knocks out Shankland in nerve-racking playoff"
+         "link" : "https://en.chessbase.com/post/what-can-you-learn-from-vidit",
+         "pubDate" : "Fri, 15 Mar 2024 11:00:00",
+         "title" : "What can you learn from Vidit"
+      },
+      {
+         "description" : " More than 400 players, including several young English talents, are competing in Iceland's premier event More than half a century on, the Bobby Fischer v Boris Spassky series at Reykjavik 1972 remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where for a brief period a galaxy of talent made England the No 2 chess nation behind the Soviet Union. On Friday, the annual Reykjavik Open starts at the Harpa conference centre in the heart of the city with a full ­complement of 420 players, ranging from elite grandmasters to ordinary amateurs, nearly a tenth of them British. The excursion on the tournament's free morning includes a visi",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/mar/15/chess-fischer-v-spassky-revisited-reykjavik-open-echoes-1972-match",
+         "pubDate" : "Fri, 15 Mar 2024 08:00:46",
+         "title" : "Chess: Fischer v Spassky revisited - Reykjavik Open echoes 1972 match"
       },
       {
          "description" : " Jayvon Davis won the under-1600 section of the Delaware State Open last weekend allowing him to use his winning method as teaching material. Davis runs a website called &#8220;Chess Express&#8221; targeting younger age groups. Based in Delaware, his success will undoubtedly make his students proud and give more credence to how chess can inspire. Davis The post <a href=\"https://www.thechessdrum.net/blog/2024/03/14/jayvon-davis-express-wins-in-delaware/\">&#8220;Jayvon Davis Express&#8221; wins in Delaware!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/14/jayvon-davis-express-wins-in-delaware/",
          "pubDate" : "Fri, 15 Mar 2024 01:54:24",
          "title" : "\"Jayvon Davis Express\" wins in Delaware!"
-      },
-      {
-         "description" : "This episode was lost in the depths of 2023, but luckily returned! The Gruenfeld is a very hyper-modern opening, which gives White the centre, while Black has to fight around the flanks. If Black knows the opening well, White has a difficult time gaining some advantage. But with an example game from Vincent Keymer, the move \"h4\" is a beautiful way to attack the Black pieces. Svitlana shows us how to master this idea.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-how-to-fight-the-gruenfeld-with-h4",
-         "pubDate" : "Thu, 14 Mar 2024 23:30:00",
-         "title" : "Svitlana's Smart Moves - How to fight the Gruenfeld with h4!"
       },
       {
          "description" : "GM Irina Krush and IM Alice Lee went each 2-0 on day three of the 2024 American Cup. GM Ray Robson has taken the lead vs. GM Wesley So while GMs&#38;nbsp;Fabiano Caruana and Levon Aronian are tied so far.&#38;nbsp; Meanwhile, the Elimination Bracket beg...",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2925",
          "pubDate" : "Thu, 14 Mar 2024 17:06:28",
          "title" : "VAR and idChess broadcast debut in 55th Ladies' International Tournament in Serbia"
-      },
-      {
-         "description" : "WGM Mitra Hejazipor was born on 19 February 1993 in Mashdad, Iran, and became Iranian Women's Champion in 2012. But she left her country because she did not want to wear the hijab, or headscarf, and went to France, where she became a French citizen in 2023. She also became the French women's champion that year. She recently played in the Werder Bremen Jubilee Tournament, which ended last week. After the tournament Mitra Hejazipor found time for an interview with Vera J&uuml;rgens and talked about her career, how chess helped her to see the world and whether she would like to become a professional chess player. | Photos: Werder Bremen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/im-interview-mitra-hejazipour",
-         "pubDate" : "Thu, 14 Mar 2024 16:00:00",
-         "title" : "\"I love Paris and I am very happy in France!\": An interview with Iranian and French WGM Mitra Hejazipour"
       },
       {
          "description" : " If you are a Canberra resident (or live close by) there are a couple of important Annual General Meetings coming up. The ACT Junior Chess League AGM is on Sunday 17th March 1:30pm at Campbell High School (during the ACTJCL Autumn Allegro). It is open to the parents of members of the ACTJCL. The ACTJCL has been running without a full committee for the last few years and so there is a need for parents to step up and fill the executive roles. The ACT Chess Association AGM is being held on Thursday 28th March 7:00pm at the Canberra Southern Cross Club, Woden. This is during the Doeberl Cup, so members can drop in a spectate the Premier, before attending the AGM. Unlike the Junior Chess League, ",
@@ -96,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-2",
          "pubDate" : "Wed, 13 Mar 2024 19:00:00",
          "title" : "Veterans Laugh Last: Aronian Wins Blitz Playoffs, Krush Recovers In Women's"
-      },
-      {
-         "description" : "The Modern Gentlemen is the name of the joint project by musicians Matt Goss and Jason Kouchak. It revolves around the art of being a true gentleman in the modern world. For the two music lovers, chess is an essential part of this. | Photos: Julian Paix",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-modern-gentlemen",
-         "pubDate" : "Wed, 13 Mar 2024 15:00:00",
-         "title" : "The Modern Gentlemen"
       },
       {
          "description" : "Forget Barbie, Oppenheimer or Poor Things. The 96th Academy Awards also marked a triumph for &#34;War Is Over!&#34; becoming the second chess-themed winner of the &#39;Best Animated Short Film&#39; award. Drawing inspiration from the iconic peace anthem &#39;Happy ...",
@@ -706,7 +698,7 @@ news_feed (
          "title" : "Mastering Chess Basics: The Gateway to Success for Beginners."
       },
       {
-         "description" : "Click her for Under 09 Open &#38; Under 09 Girls Under 09 Open Under 09 Girls Rank Name Rank Name 1 Oishik Mondal 1 Divi",
+         "description" : "Click here for Under 07 Open &#38; Under 07 Girls National U 07 National U 07 Girls Rank Name Rank Name 1 Takkshanth Anand 1",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificates-of-national-school-2024-at-patna-from-06-february-10-february-2024/",
@@ -1088,22 +1080,6 @@ news_feed (
          "link" : "https://www.europechess.org/germany-wins-double-gold-at-the-mitropa-cup-2024/",
          "pubDate" : "Sat, 24 Feb 2024 09:58:12",
          "title" : "Germany wins double gold at the Mitropa Cup 2024"
-      },
-      {
-         "description" : "The ECF is accepting registrations for the European Youth Chess Championship in Prague (Czech Republic). The Rapid and Blitz tournaments run from 16 August ...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/european-youth-chess-championships-2024/",
-         "pubDate" : "Fri, 23 Feb 2024 09:15:17",
-         "title" : "European Youth Chess Championships 2024"
-      },
-      {
-         "description" : " The world No 1's impressive victory last week has put the random chess variant into the spotlight and its billionaire organiser plans to expand into all five continents next year After the success of last week's Freestyle Chess event where the world No 1, Magnus Carlsen, defeated the world No 2, Fabiano Caruana, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2662846T\">in the final</a>, its billionaire organiser, Jan Buettner, who made his fortune from AOL Europe, has stepped up his interest further. Buettner adopted a hands-on personal approach to the all-star event and his enthusiasm and involvement shone <a href=\"https://www.youtube.com/watch?v=KxqVl_ZbT0w\">in an interview</a> he ",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/feb/23/freestyle-chess-plans-2025-global-tour-for-carlsen-and-the-worlds-top-players",
-         "pubDate" : "Fri, 23 Feb 2024 08:00:42",
-         "title" : "Freestyle Chess plans 2025 global Tour for Carlsen and the world's top players"
       }
    ]
 }
