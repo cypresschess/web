@@ -26,6 +26,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - How to fight the Gruenfeld with h4!"
       },
       {
+         "description" : "GM Irina Krush and IM Alice Lee went each 2-0 on day three of the 2024 American Cup. GM Ray Robson has taken the lead vs. GM Wesley So while GMs&#38;nbsp;Fabiano Caruana and Levon Aronian are tied so far.&#38;nbsp; Meanwhile, the Elimination Bracket beg...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-american-cup-day-3",
+         "pubDate" : "Thu, 14 Mar 2024 21:08:56",
+         "title" : "Krush, Lee Storm To 2-0; Eliminations Begin"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2906",
          "pubDate" : "Sat, 02 Mar 2024 19:18:23",
          "title" : "Africa U8 Chess Champion wins prestigious national award in Kenya"
-      },
-      {
-         "description" : "A single point and mere seconds decided the latest edition of Bullet Brawl after GM Andrew Tang executed&#38;nbsp;a 15-move win to steal the $400 first prize from GM Daniel Naroditsky in Saturday&#39;s event.&#38;nbsp; Ukraine&#39;s GM Oleksandr Bortnyk wasn&#39;t ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-march-2-2024",
-         "pubDate" : "Sat, 02 Mar 2024 15:20:00",
-         "title" : "Tang Places Queen En Prise To Steal Bullet Brawl Title From Naroditsky"
       },
       {
          "description" : "Today sees the annual Varsity Match between the Universities of Oxford and Cambridge, hosted as usual by the Royal Automobile Club in Pall Mall. The current score is: Cambridge 60 wins to Oxford's 58; 23 matches have been drawn. The respective teams and ratings are as follows, with Oxford names first: Varsity Match number 142 Board​​ Oxford Cambridge 1. ​​Tom O'Gorman (2321)​​ []",
