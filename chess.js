@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Freestyle Chess G.O.A.T Challenge in Weissenhaus caused quite a stir. Now Magnus Carlsen and Jan Henric Buettner are following suit and announcing the founding of the Freestyle Chess Players Club. They are also launching the Freestyle Chess Grand Slam Tour. Four to six tournaments a year are planned, the first in India in November 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/magnus-carlsen-and-jan-henric-buettner-found-freestyle-chess-players-club",
+         "pubDate" : "Fri, 15 Mar 2024 14:00:00",
+         "title" : "Magnus Carlsen and Jan Henric Buettner found Freestyle Chess Players Club"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -34,11 +42,11 @@ news_feed (
          "title" : "\"Jayvon Davis Express\" wins in Delaware!"
       },
       {
-         "description" : "GM Irina Krush and IM Alice Lee went each 2-0 on day three of the 2024 American Cup. GM Ray Robson has taken the lead vs. GM Wesley So while GMs&#38;nbsp;Fabiano Caruana and Levon Aronian are tied so far.&#38;nbsp; Meanwhile, the Elimination Bracket beg...",
+         "description" : "GM Irina Krush and IM Alice Lee each went 2-0 on day three of the 2024 American Cup. GM Ray Robson has taken the lead vs. GM Wesley So while GMs&#38;nbsp;Fabiano Caruana and Levon Aronian are tied so far.&#38;nbsp; Meanwhile, the Elimination Bracket beg...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-3",
-         "pubDate" : "Thu, 14 Mar 2024 21:08:56",
+         "pubDate" : "Thu, 14 Mar 2024 21:08:00",
          "title" : "Krush, Lee Storm To 2-0; Eliminations Begin"
       },
       {
