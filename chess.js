@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Brewington Hardaway is coming off of his second GM norm in the New York Invitational. The 14-year old International Master continues to make rapid progress toward the coveted GM title. An interesting discussion took place at the Marshall Chess Club on February 20th, 2024, for Black History Month. Hardaway aptly corrected the moderator to include The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/with-two-gm-norms-hardaway-charts-course/\">With two GM norms, Hardaway charts course</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/03/15/with-two-gm-norms-hardaway-charts-course/",
+         "pubDate" : "Fri, 15 Mar 2024 20:42:43",
+         "title" : "With two GM norms, Hardaway charts course"
+      },
+      {
          "description" : " The recently concluded All-African Games were held in Ghana's capital, Accra, and chess was one of the events. The last event was held in 2019 in Rabat, Morocco. The Chess Drum has covered previous editions of the All-African Games, and this event attracted 18 countries. Top African players, including Grandmasters Bassem Amin (EGY) and Bilel The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/13th-all-african-games-accra-ghana/\">13th All-African Games (Accra, Ghana)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/carlsen-launches-luxury-freestyle-tour-across-five-continents",
-         "pubDate" : "Fri, 15 Mar 2024 11:35:01",
+         "pubDate" : "Fri, 15 Mar 2024 11:35:00",
          "title" : "Carlsen, Buettner Unveil Extravagant Chess960 Grand Slam Tour Across 5 Continents"
       },
       {
