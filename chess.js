@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The recently concluded All-African Games were held in Ghana's capital, Accra, and chess was one of the events. The last event was held in 2019 in Rabat, Morocco. The Chess Drum has covered previous editions of the All-African Games, and this event attracted 18 countries. Top African players, including Grandmasters Bassem Amin (EGY) and Bilel The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/13th-all-african-games-accra-ghana/\">13th All-African Games (Accra, Ghana)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/03/15/13th-all-african-games-accra-ghana/",
+         "pubDate" : "Fri, 15 Mar 2024 18:56:17",
+         "title" : "13th All-African Games (Accra, Ghana)"
+      },
+      {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
+         "pubDate" : "Fri, 15 Mar 2024 18:50:00",
+         "title" : "The American Cup: Live!"
+      },
+      {
          "description" : "The Freestyle Chess G.O.A.T Challenge in Weissenhaus caused quite a stir. Now Magnus Carlsen and Jan Henric Buettner are following suit and announcing the founding of the Freestyle Chess Players Club. They are also launching the Freestyle Chess Grand Slam Tour. Four to six tournaments a year are planned, the first in India in November 2024.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/magnus-carlsen-and-jan-henric-buettner-found-freestyle-chess-players-club",
          "pubDate" : "Fri, 15 Mar 2024 14:00:00",
          "title" : "Magnus Carlsen and Jan Henric Buettner found Freestyle Chess Players Club"
+      },
+      {
+         "description" : "In a move that could potentially shake up the chess world, GM Magnus Carlsen and German entrepreneur Jan-Henric Buettner have launched the Freestyle Chess Grand Slam Tour, a new ambitious series of Chess960 tournaments that will run across five co...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-launches-luxury-freestyle-tour-across-five-continents",
+         "pubDate" : "Fri, 15 Mar 2024 11:35:01",
+         "title" : "Carlsen, Buettner Unveil Extravagant Chess960 Grand Slam Tour Across 5 Continents"
       },
       {
          "description" : "",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "What can you learn from Vidit"
       },
       {
-         "description" : " More than 400 players, including several young English talents, are competing in Iceland's premier event More than half a century on, the Bobby Fischer v Boris Spassky series at Reykjavik 1972 remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where for a brief period a galaxy of talent made England the No 2 chess nation behind the Soviet Union. On Friday, the annual Reykjavik Open starts at the Harpa conference centre in the heart of the city with a full ­complement of 420 players, ranging from elite grandmasters to ordinary amateurs, nearly a tenth of them British. The excursion on the tournament's free morning includes a visi",
+         "description" : " More than 400 players, including several young English talents, are competing in Iceland's premier event More than half a century on, the Bobby Fischer v Boris Spassky series at Reykjavik in 1972 remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where, for a brief period, a galaxy of talent made England the No 2 chess nation behind the Soviet Union. On Friday, the annual Reykjavik Open starts at the Harpa conference centre in the heart of the city with a full ­complement of 420 players, ranging from elite grandmasters to ordinary amateurs, nearly a tenth of them British. The excursion on the tournament's free morning includes a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/mar/15/chess-fischer-v-spassky-revisited-reykjavik-open-echoes-1972-match",
