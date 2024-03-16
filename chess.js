@@ -10,6 +10,14 @@ news_feed (
          "title" : "Mega Database - Every user needs to know this!"
       },
       {
+         "description" : "As the February issue of this year's British Chess Magazine arrived, my attention was swiftly drawn to the astounding news that an eight year old, Leonid Ivanovic from Serbia, had become the youngest player ever (eight years and eleven months) to defeat a grandmaster in classic tournament play (rather than a blitz or rapid format). True, his []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-moves-of-babes-and-sucklings/",
+         "pubDate" : "Sat, 16 Mar 2024 11:53:55",
+         "title" : "The moves of babes and sucklings"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,11 +58,11 @@ news_feed (
          "title" : "2024 African Individual Chess Championships (Accra, Ghana)"
       },
       {
-         "description" : "GMs Levon Aronian and Ray Robson prevailed against their respective world top ten opponents, GM Fabiano Caruana and Wesley So, on day four of the 2024 American Cup. They advance to meet in the Finals. In the Women&#39;s section, GM Irina Krush and A...",
+         "description" : "GMs Levon Aronian and Ray Robson prevailed against their respective world top-10 opponents, GM Fabiano Caruana and Wesley So, on day four of the 2024 American Cup. They advance to meet in the Finals. In the Women&#39;s section, GM Irina Krush and Al...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-4",
-         "pubDate" : "Fri, 15 Mar 2024 20:44:59",
+         "pubDate" : "Fri, 15 Mar 2024 20:44:00",
          "title" : "The Finals Are Set: Aronian vs. Robson, 5x Krush vs. Lee"
       },
       {
@@ -1104,22 +1112,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/",
          "pubDate" : "Sat, 24 Feb 2024 16:07:56",
          "title" : "Shakira Luster: Marist's Chess Queen"
-      },
-      {
-         "description" : "If I had a pill that would improve your focus, mood &#38; memory, would you take it? I bet you would. And you would even pay quite a bit for it. Sadly, I don't have such a pill. But in this Newsletter, I will show you four ways to improve your focus, mood &#38; brain []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/brain-upgrade/",
-         "pubDate" : "Sat, 24 Feb 2024 14:00:00",
-         "title" : "Upgrade Your Chess Brain"
-      },
-      {
-         "description" : " The Canberra Show is on this weekend, and I plan to visit tomorrow. There is even a chess themed craft competition this year, with prizes for the best crafted chess sets. However (according to Philp Vels, who tipped me off), the distinguishing feature of every set on display, is that they are all set up incorrectly. Apart from the usual 'white on right' error, there are also some sets with the kings and queens on the wrong starting squares, or the slightly more imaginative, king opposite queen across the board. I will take photos. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/off-to-show.html",
-         "pubDate" : "Sat, 24 Feb 2024 12:53:00",
-         "title" : "Off to the show"
       }
    ]
 }
