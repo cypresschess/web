@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "No tournament player can do without the ChessBase Mega Database. But what do you need to know when setting it up on your PC? ChessBase expert Thomas Stark and Arne Kaehler show you everything you need to know about the new Mega Database 2024: Finding the best games, annotated games, and ChessBase magazine articles.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mega-database-every-user-needs-to-know-this",
+         "pubDate" : "Sat, 16 Mar 2024 12:00:00",
+         "title" : "Mega Database - Every user needs to know this!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2926",
+         "pubDate" : "Sat, 16 Mar 2024 11:10:45",
+         "title" : "American Cup 2024: Round 2 recap"
+      },
+      {
+         "description" : "European Chess Union in cooperation with the English Chess Federation launched the new competition this year Youth Online Nations League. The event was played from 17 January 13 March, in 9 rounds, with the participation of 10 teams represented by more than 100 players. Ukraine Debut Chess School triumphed in the event scoring all nine victories and 18 match points. The composition of the Winning team: Losing only to the Winners team, England A scored 16 match points []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ukraine-wins-the-first-youth-online-nations-league/",
+         "pubDate" : "Sat, 16 Mar 2024 09:53:58",
+         "title" : "Ukraine wins the first Youth Online Nations League"
+      },
+      {
          "description" : "All India Chess Federation is going to organize two days Online Arbiter Refresher Course for all IAs, FAs &#38; SNAs on 21-22 March 2024, 25-26",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -256,6 +280,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-puzzle-challenge-01",
          "pubDate" : "Mon, 11 Mar 2024 19:00:00",
          "title" : "ChessBase Puzzle Challenge - 01"
+      },
+      {
+         "description" : "The most recent post in the current Monday series on chess comics was <A HREF=\"https://chessforallages.blogspot.com/2024/03/comics-scholarship-not-necessarily-chess.html\">Comics Scholarship, Not Necessarily Chess</A> (March 2024). At the end of the post I wrote, <BLOCKQUOTE> In the same Google search, the top result was <I>The Comics Grid: Journal of Comics Scholarship</I> (comicsgrid.com). [...] I look forward to discovering the journal. </BLOCKQUOTE> <P> That was then, but this is now. The first article in the journal is currently <A HREF=\"https://www.comicsgrid.com/article/id/10250/\">Labra | Caught Between Manga and the Graphic Novel: Two Cartoonists' Trajectories in Contemporary Argentin",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/03/comic-scholarship.html",
+         "pubDate" : "Mon, 11 Mar 2024 16:05:00",
+         "title" : "Comic Scholarship"
       },
       {
          "description" : " One advantage higher rated players often have, is that their lower rated opponents feel the need to do something dramatic, to try and avoid being ground down. I fell into this trap recently, blundering a piece to a faulty combination last week at my club, while the example below came from the final round of the Ballarat Begonia Open. While top seed GM Gawain Jones would be expected to win this final round clash, his opponents over optimistic attack made the task a lot simpler. <br /> <b>Jones,Gawain (2618) - Chan,Kris (2071) [E90]</b><br /> Begonia Open 2024 Ballarat, Australia (7.1), 11.03.2024 <script> new PgnViewer( { boardName: \"game1448\", movesFormat: \"default\", pgnString:'1.Nf3 Nf6 2.",
@@ -1088,38 +1120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/off-to-show.html",
          "pubDate" : "Sat, 24 Feb 2024 12:53:00",
          "title" : "Off to the show"
-      },
-      {
-         "description" : "Transgenderism, especially amongst teenagers, is one of the great causes c&eacute;lêbres of our times. Both Rishi Sunak and Sir Keir Starmer found themselves in hot water over this issue during Prime Minister's questions earlier this month. The mother of a murdered transgender teenager was present in the House of Commons, while Rishi was busy insulting Sir Keir about his inability to []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/pawns-are-transgender-deon-and-philidor/",
-         "pubDate" : "Sat, 24 Feb 2024 11:15:46",
-         "title" : "Pawns are transgender: d'Éon and Philidor"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2898",
-         "pubDate" : "Sat, 24 Feb 2024 10:57:14",
-         "title" : "Mitropa Cup 2024: Germany wins double gold"
-      },
-      {
-         "description" : "The Kasparov Chess Foundation Academy invites you to watch an interview with grandmaster Elisabeth Paehtz, one of the strongest German female chess players since her youth. On February 25, 17:00 CET, Elisabeth will give a live interview at KCF Academy. Add it to your calendar!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/elisabeth-paehtz-interview-on-kasparov-chess-foundation",
-         "pubDate" : "Sat, 24 Feb 2024 10:00:00",
-         "title" : "Elisabeth Paehtz interview on Kasparov Chess Foundation"
-      },
-      {
-         "description" : "The 2024 Mitropa Cup took place from 15-23 February in Apolda, Germany, with the participation of 10 federations: Austria, Croatia, Czech Republic, France, Germany, Hungary, Italy, Slovakia, Slovenia and Switzerland. Germany emerged as the Winner of both Open and Women's sections, winning a historical double gold. Scoring perfect 18 match points, German team convincingly won the Open event with a round to spare. The Winning team competed in the following composition: Switzerland clinched silver with the score of 14 match []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/germany-wins-double-gold-at-the-mitropa-cup-2024/",
-         "pubDate" : "Sat, 24 Feb 2024 09:58:12",
-         "title" : "Germany wins double gold at the Mitropa Cup 2024"
       }
    ]
 }
