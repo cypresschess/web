@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2024-03-15","16","<a href=http://www.uschess.org/msa/XtblMain.php?202403158402 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 15, 2024</a>",
+"SUGAR LAND","2024-03-15","4","<a href=http://www.uschess.org/msa/XtblMain.php?202403158392 target='_blank'>FBCC 2024 SPRING BREAK OPEN</a>",
 "HOUSTON","2024-03-08  - 03-10","251","<a href=http://www.uschess.org/msa/XtblMain.php?202403106152 target='_blank'>2024 LONE STAR OPEN CHESS CHAMPIONS</a>",
 "HOUSTON","2024-03-09","104","<a href=http://www.uschess.org/msa/XtblMain.php?202403096212 target='_blank'>2024 LONE STAR SCHOLASTIC</a>",
 "HOUSTON","2024-03-09","9","<a href=http://www.uschess.org/msa/XtblMain.php?202403094452 target='_blank'>CHESSPANDA03092024SATURDAY</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-09-01  - 09-04","4","<a href=http://www.uschess.org/msa/XtblMain.php?202309047062 target='_blank'>LOGAN AND FRIENDS MATCHES</a>",
 "HOUSTON","2023-09-01  - 09-04","389","<a href=http://www.uschess.org/msa/XtblMain.php?202309046512 target='_blank'>89TH ANNUAL SOUTHWEST OPEN</a>",
 "SPRING","2023-09-01","30","<a href=http://www.uschess.org/msa/XtblMain.php?202309014872 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2023-09-01","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309014822 target='_blank'>FBCC 2023 LABOR DAY OPE</a>",
-"CYPRESS","2023-09-01","28","<a href=http://www.uschess.org/msa/XtblMain.php?202309014802 target='_blank'>KNIGHTS OFCYPRESS</a>",
 ]);
