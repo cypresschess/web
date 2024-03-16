@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2024 African Individual Chess Championships (AICC) have begun! Twenty-four countries have assembled in Accra-Ghana to compete for glory, titles, and spots in the World Cup. Only days after the chess competition of the All-African Games had concluded, the continental championship attracted 42 open players (12 from host Ghana) and 29 women players. The games The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/2024-african-individual-chess-championships-accra-ghana/\">2024 African Individual Chess Championships (Accra, Ghana)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/03/15/2024-african-individual-chess-championships-accra-ghana/",
+         "pubDate" : "Sat, 16 Mar 2024 01:02:27",
+         "title" : "2024 African Individual Chess Championships (Accra, Ghana)"
+      },
+      {
          "description" : " Brewington Hardaway is coming off of his second GM norm in the New York Invitational. The 14-year old International Master continues to make rapid progress toward the coveted GM title. An interesting discussion took place at the Marshall Chess Club on February 20th, 2024, for Black History Month. Hardaway aptly corrected the moderator to include The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/with-two-gm-norms-hardaway-charts-course/\">With two GM norms, Hardaway charts course</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
