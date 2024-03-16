@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
+         "pubDate" : "Sat, 16 Mar 2024 18:50:00",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "With more than 500 participants, the Capelle-la-Grande Open is the largest open tournament in France. First held in 1985, it celebrated its 40th edition this year. Indian grandmaster Abhimanyu Puranik won the 9-round Swiss open. Italian grandmaster Lorenzo Lodici collected as many points as the tournament winner, but had a worse tiebreak score. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/abhimanyu-puranik-wins-40-cappelle-la-grande-open",
+         "pubDate" : "Sat, 16 Mar 2024 16:30:00",
+         "title" : "Abhimanyu Puranik wins 40th Cappelle la Grande Open"
+      },
+      {
          "description" : "No tournament player can do without the ChessBase Mega Database. But what do you need to know when setting it up on your PC? ChessBase expert Thomas Stark and Arne Kaehler show you everything you need to know about the new Mega Database 2024: Finding the best games, annotated games, and ChessBase magazine articles.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1104,14 +1120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-prodigy-rameshbabu-praggnanandhaa-confident-india-will-rule-the-world/articleshow/107979503.cms",
          "pubDate" : "Sun, 25 Feb 2024 04:43:52",
          "title" : "Praggnanandhaa confident India can dominate the chess world"
-      },
-      {
-         "description" : " Shakira Luster recently captained the Marist chess team at the Illinois State High School team championship scoring a sparkling 7/7. The Chess Drum audience will know her from her successes at St. Ethelreda Grammar School and her appearance at the Chicago Open. Now a senior at Marist, she is finishing her high school career on The post <a href=\"https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/\">Shakira Luster: Marist's Chess Queen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/02/24/shakira-luster-marists-chess-queen/",
-         "pubDate" : "Sat, 24 Feb 2024 16:07:56",
-         "title" : "Shakira Luster: Marist's Chess Queen"
       }
    ]
 }
