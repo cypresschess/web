@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All India Chess Federation is going to organize two days Online Arbiter Refresher Course for all IAs, FAs &#38; SNAs on 21-22 March 2024, 25-26",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/arbiter-refresher-course-2024-25/",
+         "pubDate" : "Sat, 16 Mar 2024 07:00:30",
+         "title" : "ARBITER REFRESHER COURSE 2024-25"
+      },
+      {
+         "description" : "Levon Aronian and Ray Robson defeated Fabiano Caruana and Wesley So respectively to reach the final of the Champions Bracket in the open section of the American Cup. Meanwhile, the women's tournament saw Irina Krush and Alice Lee getting clear wins to advance to the final in the Champions Bracket for a third year in a row. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-d4",
+         "pubDate" : "Sat, 16 Mar 2024 06:40:00",
+         "title" : "American Cup: Aronian and Robson reach Champions Bracket final"
+      },
+      {
          "description" : " The 2024 African Individual Chess Championships (AICC) have begun! Twenty-four countries have assembled in Accra-Ghana to compete for glory, titles, and spots in the World Cup. Only days after the chess competition of the All-African Games had concluded, the continental championship attracted 42 open players (12 from host Ghana) and 29 women players. The games The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/2024-african-individual-chess-championships-accra-ghana/\">2024 African Individual Chess Championships (Accra, Ghana)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/03/15/2024-african-individual-chess-championships-accra-ghana/",
          "pubDate" : "Sat, 16 Mar 2024 01:02:27",
          "title" : "2024 African Individual Chess Championships (Accra, Ghana)"
+      },
+      {
+         "description" : "GMs Levon Aronian and Ray Robson prevailed against their respective world top ten opponents, GM Fabiano Caruana and Wesley So, on day four of the 2024 American Cup. They advance to meet in the Finals. In the Women&#39;s section, GM Irina Krush and A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-american-cup-day-4",
+         "pubDate" : "Fri, 15 Mar 2024 20:44:59",
+         "title" : "The Finals Are Set: Aronian vs. Robson, 5x Krush vs. Lee"
       },
       {
          "description" : " Brewington Hardaway is coming off of his second GM norm in the New York Invitational. The 14-year old International Master continues to make rapid progress toward the coveted GM title. An interesting discussion took place at the Marshall Chess Club on February 20th, 2024, for Black History Month. Hardaway aptly corrected the moderator to include The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/with-two-gm-norms-hardaway-charts-course/\">With two GM norms, Hardaway charts course</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -24,22 +48,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/15/13th-all-african-games-accra-ghana/",
          "pubDate" : "Fri, 15 Mar 2024 18:56:17",
          "title" : "13th All-African Games (Accra, Ghana)"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
-         "pubDate" : "Fri, 15 Mar 2024 18:50:00",
-         "title" : "The American Cup: Live!"
-      },
-      {
-         "description" : "The Freestyle Chess G.O.A.T Challenge in Weissenhaus caused quite a stir. Now Magnus Carlsen and Jan Henric Buettner are following suit and announcing the founding of the Freestyle Chess Players Club. They are also launching the Freestyle Chess Grand Slam Tour. Four to six tournaments a year are planned, the first in India in November 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/magnus-carlsen-and-jan-henric-buettner-found-freestyle-chess-players-club",
-         "pubDate" : "Fri, 15 Mar 2024 14:00:00",
-         "title" : "Magnus Carlsen and Jan Henric Buettner found Freestyle Chess Players Club"
       },
       {
          "description" : "In a move that could potentially shake up the chess world, GM Magnus Carlsen and German entrepreneur Jan-Henric Buettner have launched the Freestyle Chess Grand Slam Tour, a new ambitious series of Chess960 tournaments that will run across five co...",
@@ -698,14 +706,6 @@ news_feed (
          "title" : "PICF 2024 Masters: Abdusattorov leads halfway through"
       },
       {
-         "description" : "Nineteen-year-old GM Nodirbek Abdusattorov overtook GMs Alireza Firouzja and Ian Nepomniachtchi to enter the world top-five after a smooth win over GM Mateusz Bartel in round five of the Prague Masters. There were huge turnarounds elsewhere, with ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-5",
-         "pubDate" : "Sun, 03 Mar 2024 00:38:00",
-         "title" : "Abdusattorov Up To World #5 As Praggnanandhaa, Navara Also Win"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -904,14 +904,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-mitrabha-guha-wins-commonwealth-chess-crown/articleshow/108074449.cms",
          "pubDate" : "Wed, 28 Feb 2024 11:12:31",
          "title" : "GM Mitrabha Guha wins Commonwealth Chess crown"
-      },
-      {
-         "description" : "Open Section India won 9 Gold, 9 Silver and 6 Bronze in Commonwealth Chess Mitrabha Guha triumphs the Open section. GM Mitrabha Guha won the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-bags-24-medals-in-commonwealth-chess-championship-2024-melaka-malaysia/",
-         "pubDate" : "Wed, 28 Feb 2024 09:34:11",
-         "title" : "India bags 24 medals in Commonwealth Chess Championship 2024 Melaka , Malaysia"
       },
       {
          "description" : "The European Chess Union invites the National federations members to submit bids for the organization of European Chess Championships in 2025, 2026 and the European Open &#38; Women Team Championship 2027. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form what they relate to. Any document that reaches the ECU office after the official []",
