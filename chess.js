@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The African Individual Championships 2024 kicked off on March 13 in Accra, Ghana, the city that recently hosted the chess competition of the 13th African Games. Both the open and the women's championships are 9-round Swiss events with a classical time control. The events run until March 20.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/african-individual-championships-2024",
+         "pubDate" : "Sat, 16 Mar 2024 23:00:00",
+         "title" : "African Individual Championships taking place in Ghana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2927",
+         "pubDate" : "Sat, 16 Mar 2024 20:29:02",
+         "title" : "FIDE World School Chess Championship 2024: Registration is open"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "Abhimanyu Puranik wins 40th Cappelle la Grande Open"
       },
       {
-         "description" : "No tournament player can do without the ChessBase Mega Database. But what do you need to know when setting it up on your PC? ChessBase expert Thomas Stark and Arne Kaehler show you everything you need to know about the new Mega Database 2024: Finding the best games, annotated games, and ChessBase magazine articles.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mega-database-every-user-needs-to-know-this",
-         "pubDate" : "Sat, 16 Mar 2024 12:00:00",
-         "title" : "Mega Database - Every user needs to know this!"
+         "description" : "GM Hikaru Nakamura posted a commanding 307 score and confirmed his 20th Bullet Brawl title on Saturday after outpacing his rivals GMs Daniel Naroditsky and Andrew Tang by margins of 59 and 69 points respectively. Winning $400 for his efforts ahe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-march-16-2024",
+         "pubDate" : "Sat, 16 Mar 2024 16:06:17",
+         "title" : "Nakamura Sets 59-Game Streak Record, Captures 20th Title"
       },
       {
          "description" : "As the February issue of this year's British Chess Magazine arrived, my attention was swiftly drawn to the astounding news that an eight year old, Leonid Ivanovic from Serbia, had become the youngest player ever (eight years and eleven months) to defeat a grandmaster in classic tournament play (rather than a blitz or rapid format). True, his []",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://aicf.in/arbiter-refresher-course-2024-25/",
          "pubDate" : "Sat, 16 Mar 2024 07:00:30",
          "title" : "ARBITER REFRESHER COURSE 2024-25"
-      },
-      {
-         "description" : "Levon Aronian and Ray Robson defeated Fabiano Caruana and Wesley So respectively to reach the final of the Champions Bracket in the open section of the American Cup. Meanwhile, the women's tournament saw Irina Krush and Alice Lee getting clear wins to advance to the final in the Champions Bracket for a third year in a row. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-d4",
-         "pubDate" : "Sat, 16 Mar 2024 06:40:00",
-         "title" : "American Cup: Aronian and Robson reach Champions Bracket final"
       },
       {
          "description" : " The 2024 African Individual Chess Championships (AICC) have begun! Twenty-four countries have assembled in Accra-Ghana to compete for glory, titles, and spots in the World Cup. Only days after the chess competition of the All-African Games had concluded, the continental championship attracted 42 open players (12 from host Ghana) and 29 women players. The games The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/2024-african-individual-chess-championships-accra-ghana/\">2024 African Individual Chess Championships (Accra, Ghana)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/03/comics-scholarship-not-necessarily-chess.html",
          "pubDate" : "Mon, 04 Mar 2024 16:51:00",
          "title" : "Comics Scholarship, Not Necessarily Chess"
-      },
-      {
-         "description" : "In a remarkable leaderboard twist, GM Nodirbek Abdusattorov kept his half-point lead at the Prague Masters despite losing to GM Praggnanandhaa Rameshbabu on Monday. This was possible because runner-up GM Parham Maghsoodloo suffered his first loss ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-6",
-         "pubDate" : "Mon, 04 Mar 2024 14:19:00",
-         "title" : "Abdusattorov Maintains Lead Despite Losing To Praggnanandhaa"
       },
       {
          "description" : "Please find the Link for Broadcasting live games of National Rapid Chess Tournament, Nashik (Maharashtra) from 04th March to 6th March 2024 https://www.chess.com/events/2024-indian-rapid-chess-championship",
