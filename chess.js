@@ -18,6 +18,14 @@ news_feed (
          "title" : "FIDE World School Chess Championship 2024: Registration is open"
       },
       {
+         "description" : "While the favorites lead in the Champions section, it was a day of comebacks in the Elimination Bracket on day five of the 2024 American Cup.&#38;nbsp; GM Levon Aronian&#38;nbsp;went 2/2 vs. GM Ray Robson, putting the latter in a must-win position for b...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-american-cup-day-5",
+         "pubDate" : "Sat, 16 Mar 2024 20:14:25",
+         "title" : "Aronian Sweeps, Krush Leads, Comebacks For Caruana, So, Yu"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-march-16-2024",
-         "pubDate" : "Sat, 16 Mar 2024 16:06:17",
+         "pubDate" : "Sat, 16 Mar 2024 16:06:00",
          "title" : "Nakamura Sets 59-Game Streak Record, Captures 20th Title"
       },
       {
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2910",
          "pubDate" : "Tue, 05 Mar 2024 14:55:56",
          "title" : "Getting more women's teams to the Chess Olympiad"
-      },
-      {
-         "description" : "GMs Daniel Naroditsky and Robert Hess won their semifinal match against GM Hikaru Nakamura and IM Levy Rozman in the 2024 Team Chess Battle on Tuesday. The commentator duo pressed with an extra pawn in game one but was met with stiff, 99%-accura...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-sf-naroditsky-hess-win",
-         "pubDate" : "Tue, 05 Mar 2024 14:16:00",
-         "title" : "Naroditsky, Hess Say No To Draw, Play For Win With Black"
       },
       {
          "description" : " The headline is a little dramatic, in that there are lots of proper GM events. But the Shenzen Masters kind of feels like a pre-covid GM event, rather than the an event that is squeezed between the next online KO/Rapid/Troll-fest that seems to be prevalent today. Four local GM's and 4 foreign GM's in the 2600-2800 range has seen some entertaining games. The one game I picked from the tournament is a 30 mover, surprisingly won by Black using the Petroff. In the end the sneaky black pawn on b2 made all the difference. <br /> <b>Erigaisi,Arjun (2738) - Bu Xiangzhi (2671) [C43]</b><br /> 5th Shenzhen Longgang Shenzhen CHN (2), 01.03.2024 <script> new PgnViewer( { boardName: \"game1447\", movesFor",
