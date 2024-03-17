@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Education Commission is pleased to announce its new initiative: the launch of the FIDE Chess School Award. The award is established to enhance the quality and position of chess in the primary and secondary education systems around the world. FIDE's wish to provide recognition and motivation for existing Chess in Education activities and programs in schools through a certification process.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-chess-school-award-established",
+         "pubDate" : "Sun, 17 Mar 2024 13:00:00",
+         "title" : "FIDE Chess School Award established"
+      },
+      {
+         "description" : " Every time someone mentions the Jobava London to me, I feel compelled to point out that the true author of this opening was Canberra junior player, Gary Wilson. Indeed, Wilson was playing it before Jobava was born (Nov 1983), so credit where credit is due. I'm now seeing a similar case, although to be fair, it isn't an exact copy. Anna Cramling has created her own opening, The Cow. Not so much an opening as a system, the basic moves are e3,d3,Ne2-Ng3,Nd2-b3,Be2,Bd2. White allows Black to opportunity to build the big centre, before trying to dismantle it. If White played 1.d4 (instead of d3), it would be very similar to a system that Canberra player Erik Jochimsen has been playing for years.",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/roll-your-own-openings.html",
+         "pubDate" : "Sun, 17 Mar 2024 12:54:00",
+         "title" : "Roll your own openings"
+      },
+      {
          "description" : "On yet another day of thrilling chess, Fabiano Caruana and Wesley So advanced to the final of the Elimination Bracket by knocking out Leinier Dominguez and Sam Sevian respectively. In the final match of the Champions Bracket, Levon Aronian got a 2-0 lead against Ray Robson. In the women's section, Irina Krush has a 1-point lead over Alice Lee in the Champions Bracket, while Gulrukhbegim Tokhirjonova and Jennifer Yu advanced to the final in the Elimination Bracket. | Photo: Austin Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "African Individual Championships taking place in Ghana"
       },
       {
-         "description" : "The semifinalists for the 2024 Collegiate Chess League (CCL) have been decided after The University of Texas Rio Grande Valley (UTRGV) staved off a late comeback against the National Technical University of Athens, while The University of Missouri...",
+         "description" : "The semifinalists for the 2024 Collegiate Chess League (CCL) have been decided after The University of Texas Rio Grande Valley (UTRGV) staved off a late comeback by the National Technical University of Athens, while the University of Missouri (Miz...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-spring-quarterfinals-mizzou-utrgv",
-         "pubDate" : "Sat, 16 Mar 2024 21:02:16",
-         "title" : "Harshit Sets Up Mizzou-SLU Semifinal; UTRGV Eliminates Athens"
+         "pubDate" : "Sat, 16 Mar 2024 21:02:00",
+         "title" : "Harshit Sets Up Mizzou-SLU Semifinal, UTRGV Eliminates Athens"
       },
       {
          "description" : "",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-5",
-         "pubDate" : "Sat, 16 Mar 2024 20:14:25",
+         "pubDate" : "Sat, 16 Mar 2024 20:14:00",
          "title" : "Aronian Sweeps, Krush Leads, Comebacks For Caruana, So, Yu"
       },
       {
