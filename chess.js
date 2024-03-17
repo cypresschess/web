@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Who hasn't experienced it? You're prepared for an exciting game in the open Najdorf Sicilian, and suddenly your opponent puts one of the seemingly countless minor variations on the board - in order to avoid the main Najdorf variations. Should you be frustrated? Absolutely not! Luis Engel uncovers the Anti-Sicilians, so you can prepare well.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/luis-engel-uncovering-the-anti-sicilians",
+         "pubDate" : "Sun, 17 Mar 2024 23:00:00",
+         "title" : "Luis Engel - Uncovering the Anti-Sicilians!"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2928",
          "pubDate" : "Sun, 17 Mar 2024 17:36:49",
          "title" : "FIDE World Junior U20 Championship 2024: Registration is open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2929",
+         "pubDate" : "Sun, 17 Mar 2024 14:45:13",
+         "title" : "15th \"Preparation of Teachers\" course: Last call for registration"
       },
       {
          "description" : " Every time someone mentions the Jobava London to me, I feel compelled to point out that the true author of this opening was Canberra junior player, Gary Wilson. Indeed, Wilson was playing it before Jobava was born (Nov 1983), so credit where credit is due. I'm now seeing a similar case, although to be fair, it isn't an exact copy. Anna Cramling has created her own opening, The Cow. Not so much an opening as a system, the basic moves are e3,d3,Ne2-Ng3,Nd2-b3,Be2,Bd2. White allows Black to opportunity to build the big centre, before trying to dismantle it. If White played 1.d4 (instead of d3), it would be very similar to a system that Canberra player Erik Jochimsen has been playing for years.",
@@ -1096,22 +1112,6 @@ news_feed (
          "link" : "https://www.europechess.org/prague-international-chess-festival-2024-starts/",
          "pubDate" : "Mon, 26 Feb 2024 07:46:30",
          "title" : "Prague International Chess Festival 2024 starts"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2899",
-         "pubDate" : "Sun, 25 Feb 2024 22:00:51",
-         "title" : "Gligoric Trophy 2024: Call for Nominations"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2835",
-         "pubDate" : "Sun, 25 Feb 2024 21:15:01",
-         "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration deadline extended"
       }
    ]
 }
