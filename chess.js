@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Education Commission is pleased to announce its new initiative: the launch of the FIDE Chess School Award. The award is established to enhance the quality and position of chess in the primary and secondary education systems around the world. FIDE's wish to provide recognition and motivation for existing Chess in Education activities and programs in schools through a certification process.",
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-chess-school-award-established",
-         "pubDate" : "Sun, 17 Mar 2024 13:00:00",
-         "title" : "FIDE Chess School Award established"
+         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
+         "pubDate" : "Sun, 17 Mar 2024 18:50:00",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "The reigning World Rapid Women's champion, IM Anastasia Bodnaruk scored an unbeaten 7&frac12;/9 to win te 2nd International Women's Chess Championship 2024. She finished a half point ahead of two players: IM Soumya Swaminathan and WIM Mariam Mkrtchyan scored 7/9 points each. They secured second and third place respectively according to tie-breaks. | Photo: Uzbekistan Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bodnaruk-wins-international-womens-ch-2024",
+         "pubDate" : "Sun, 17 Mar 2024 18:10:00",
+         "title" : "Bodnaruk wins International Women's Championship in Uzbekistan"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2928",
+         "pubDate" : "Sun, 17 Mar 2024 17:36:49",
+         "title" : "FIDE World Junior U20 Championship 2024: Registration is open"
       },
       {
          "description" : " Every time someone mentions the Jobava London to me, I feel compelled to point out that the true author of this opening was Canberra junior player, Gary Wilson. Indeed, Wilson was playing it before Jobava was born (Nov 1983), so credit where credit is due. I'm now seeing a similar case, although to be fair, it isn't an exact copy. Anna Cramling has created her own opening, The Cow. Not so much an opening as a system, the basic moves are e3,d3,Ne2-Ng3,Nd2-b3,Be2,Bd2. White allows Black to opportunity to build the big centre, before trying to dismantle it. If White played 1.d4 (instead of d3), it would be very similar to a system that Canberra player Erik Jochimsen has been playing for years.",
@@ -16,22 +32,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/roll-your-own-openings.html",
          "pubDate" : "Sun, 17 Mar 2024 12:54:00",
          "title" : "Roll your own openings"
-      },
-      {
-         "description" : "On yet another day of thrilling chess, Fabiano Caruana and Wesley So advanced to the final of the Elimination Bracket by knocking out Leinier Dominguez and Sam Sevian respectively. In the final match of the Champions Bracket, Levon Aronian got a 2-0 lead against Ray Robson. In the women's section, Irina Krush has a 1-point lead over Alice Lee in the Champions Bracket, while Gulrukhbegim Tokhirjonova and Jennifer Yu advanced to the final in the Elimination Bracket. | Photo: Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-d5",
-         "pubDate" : "Sun, 17 Mar 2024 04:40:00",
-         "title" : "American Cup: Caruana and So reach Elimination Bracket final"
-      },
-      {
-         "description" : "The African Individual Championships 2024 kicked off on March 13 in Accra, Ghana, the city that recently hosted the chess competition of the 13th African Games. Both the open and the women's championships are 9-round Swiss events with a classical time control. The events run until March 20.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/african-individual-championships-2024",
-         "pubDate" : "Sat, 16 Mar 2024 23:00:00",
-         "title" : "African Individual Championships taking place in Ghana"
       },
       {
          "description" : "The semifinalists for the 2024 Collegiate Chess League (CCL) have been decided after The University of Texas Rio Grande Valley (UTRGV) staved off a late comeback by the National Technical University of Athens, while the University of Missouri (Miz...",
@@ -56,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-5",
          "pubDate" : "Sat, 16 Mar 2024 20:14:00",
          "title" : "Aronian Sweeps, Krush Leads, Comebacks For Caruana, So, Yu"
-      },
-      {
-         "description" : "With more than 500 participants, the Capelle-la-Grande Open is the largest open tournament in France. First held in 1985, it celebrated its 40th edition this year. Indian grandmaster Abhimanyu Puranik won the 9-round Swiss open. Italian grandmaster Lorenzo Lodici collected as many points as the tournament winner, but had a worse tiebreak score. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/abhimanyu-puranik-wins-40-cappelle-la-grande-open",
-         "pubDate" : "Sat, 16 Mar 2024 16:30:00",
-         "title" : "Abhimanyu Puranik wins 40th Cappelle la Grande Open"
       },
       {
          "description" : "GM Hikaru Nakamura posted a commanding 307 score and confirmed his 20th Bullet Brawl title on Saturday after outpacing his rivals GMs Daniel Naroditsky and Andrew Tang by margins of 59 and 69 points respectively. Winning $400 for his efforts ahe...",
@@ -1120,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2835",
          "pubDate" : "Sun, 25 Feb 2024 21:15:01",
          "title" : "World Cadet U8, U10 and U12 Rapid & Blitz Championship: Registration deadline extended"
-      },
-      {
-         "description" : " Rochelle Ballantyne has come a long way since starring in &#8220;Brooklyn Castle.&#8221; In a recent article on chess.com, she reflects on her journey including the trials and tribulations. She also discusses her path in which she managed tough decisions about chess and her career. After earning a Master's in Education Policy from Colombia and a The post <a href=\"https://www.thechessdrum.net/blog/2024/02/25/rochelle-ballantyne-on-chess-career-new-path/\">Rochelle Ballantyne on chess career, new path</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/02/25/rochelle-ballantyne-on-chess-career-new-path/",
-         "pubDate" : "Sun, 25 Feb 2024 17:13:54",
-         "title" : "Rochelle Ballantyne on chess career, new path"
       }
    ]
 }
