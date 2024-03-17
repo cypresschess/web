@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On yet another day of thrilling chess, Fabiano Caruana and Wesley So advanced to the final of the Elimination Bracket by knocking out Leinier Dominguez and Sam Sevian respectively. In the final match of the Champions Bracket, Levon Aronian got a 2-0 lead against Ray Robson. In the women's section, Irina Krush has a 1-point lead over Alice Lee in the Champions Bracket, while Gulrukhbegim Tokhirjonova and Jennifer Yu advanced to the final in the Elimination Bracket. | Photo: Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-d5",
+         "pubDate" : "Sun, 17 Mar 2024 04:40:00",
+         "title" : "American Cup: Caruana and So reach Elimination Bracket final"
+      },
+      {
          "description" : "The African Individual Championships 2024 kicked off on March 13 in Accra, Ghana, the city that recently hosted the chess competition of the 13th African Games. Both the open and the women's championships are 9-round Swiss events with a classical time control. The events run until March 20.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/african-individual-championships-2024",
          "pubDate" : "Sat, 16 Mar 2024 23:00:00",
          "title" : "African Individual Championships taking place in Ghana"
+      },
+      {
+         "description" : "The semifinalists for the 2024 Collegiate Chess League (CCL) have been decided after The University of Texas Rio Grande Valley (UTRGV) staved off a late comeback against the National Technical University of Athens, while The University of Missouri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-spring-quarterfinals-mizzou-utrgv",
+         "pubDate" : "Sat, 16 Mar 2024 21:02:16",
+         "title" : "Harshit Sets Up Mizzou-SLU Semifinal; UTRGV Eliminates Athens"
       },
       {
          "description" : "",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-5",
          "pubDate" : "Sat, 16 Mar 2024 20:14:25",
          "title" : "Aronian Sweeps, Krush Leads, Comebacks For Caruana, So, Yu"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
-         "pubDate" : "Sat, 16 Mar 2024 18:50:00",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "With more than 500 participants, the Capelle-la-Grande Open is the largest open tournament in France. First held in 1985, it celebrated its 40th edition this year. Indian grandmaster Abhimanyu Puranik won the 9-round Swiss open. Italian grandmaster Lorenzo Lodici collected as many points as the tournament winner, but had a worse tiebreak score. | Photos: Official website",
@@ -634,14 +642,6 @@ news_feed (
          "title" : "Firouzja, Nakamura Nearing Candidates Form"
       },
       {
-         "description" : "GM Gukesh Dommaraju dug deep to rescue a 91-move draw against GM Praggnanandhaa Rameshbabu in round seven of the Prague Masters. GM Nodirbek Abdusattorov shrugged off defeat from the day before to beat GM Vincent Keymer and retain the sole lead, t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-7",
-         "pubDate" : "Tue, 05 Mar 2024 16:30:00",
-         "title" : "Gukesh Escapes Against Praggnanandhaa, Abdusattorov Hits Back"
-      },
-      {
          "description" : "This post marks the tenth anniversary of the first 'On the Cover' post, which was <A HREF=\"https://chessforallages.blogspot.com/2014/03/march-1964-on-cover.html\">March 1964 'On the Cover'</A> (March 2014). For the first five years the posts showed the covers of the two leading American chess magazines of the 1960s. <P> The series changed direction in <A HREF=\"https://chessforallages.blogspot.com/2019/11/november-1969-1994-on-cover.html\">November 1969 & 1994 'On the Cover'</A> (November 2019), shifting to the format showing both 50 and 25 years ago. For last month's post, see <A HREF=\"https://chessforallages.blogspot.com/2024/02/february-1974-1999-on-cover.html\">February 1974 & 1999 'On the C",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1112,14 +1112,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/25/rochelle-ballantyne-on-chess-career-new-path/",
          "pubDate" : "Sun, 25 Feb 2024 17:13:54",
          "title" : "Rochelle Ballantyne on chess career, new path"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/107979503.cms\" />Young tennis ace Rameshbabu Praggnanandhaa exudes confidence in India's potential to dominate the global stage, citing the strength of Indian players. In an interview with TOI during the Times of India Sports Awards (TOISA) ceremony, he discussed his achievements, strategic approach, and the strong bond he shares with his siblings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-prodigy-rameshbabu-praggnanandhaa-confident-india-will-rule-the-world/articleshow/107979503.cms",
-         "pubDate" : "Sun, 25 Feb 2024 04:43:52",
-         "title" : "Praggnanandhaa confident India can dominate the chess world"
       }
    ]
 }
