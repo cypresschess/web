@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Step into the illustrious world of chess greatness for an interview with IGM Vladimir Tukmakov at the Kasparov Chess Foundation Academy! Tukmakov is a former top player of the end of the 20th century. His chess education was in the Ukrainian city of Odesa, where he still resides nowadays. Subscribers of the KCF Academy have full access to the captivating interview on March 24, 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-academy-vladimir-tukmakov",
+         "pubDate" : "Mon, 18 Mar 2024 23:00:00",
+         "title" : "KCF Academy: Vladimir Tukmakov"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2931",
+         "pubDate" : "Mon, 18 Mar 2024 21:27:10",
+         "title" : "FIDE World Corporate Championship 2024 starts with two qualifiers"
+      },
+      {
          "description" : " The Reykjavik Open takes place 15th to 21st March 2024. Leading players: Bogdan-Daniel Deac, Vasyl Ivanchuk, Xiangyu Xu, Jules Moussard, Matthieu Cornette, Paulius Pultinevicius etc.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
