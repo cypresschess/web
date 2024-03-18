@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Reykjavik Open takes place 15th to 21st March 2024. Leading players: Bogdan-Daniel Deac, Vasyl Ivanchuk, Xiangyu Xu, Jules Moussard, Matthieu Cornette, Paulius Pultinevicius etc.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2024",
+         "pubDate" : "Mon, 18 Mar 2024 18:56:00",
+         "title" : "Reykjavik Open 2024 - Games and Results"
+      },
+      {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
+         "pubDate" : "Mon, 18 Mar 2024 18:50:00",
+         "title" : "The American Cup: Live!"
+      },
+      {
          "description" : "Endgame training on the computer is much easier and more efficient than it used to be. The quickest way to learn is with a good coach. Surya Ganguly was Anand's second for a long time, but he is also great at teaching the basics, as he does with his course \"Endgame Essentials\". Unmissable!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1080,22 +1096,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-announces-strategic-updates-and-celebrates-chess-his/",
          "pubDate" : "Tue, 27 Feb 2024 07:44:04",
          "title" : "World Chess Announces Strategic Updates and Celebrates Chess History with Special Edition Sets"
-      },
-      {
-         "description" : " The 6th Prague International Chess Festival takes place Mon 26th Feb (opening ceremony) to Thu 7th Mar 2024. There are two strong Round Robin tournaments. The Masters with Abdusattorov, Praggnanandhaa, Vidit, Gukesh, Keymer, Rapport, Maghsoodloo, Navara, Bartel and Thai Dai Van Nguyen. The Challengers isn't too shabby either with Korobov, L'Ami, Santos Latasa, Rodshtein etc. There are other events such as the Futures, Open, Rapids, Chess960 and many amateur groups too. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/6th-prague-international-chess-festival-2024",
-         "pubDate" : "Mon, 26 Feb 2024 18:32:00",
-         "title" : "6th Prague International Chess Festival 2024 - Games and Results"
-      },
-      {
-         "description" : "Last week's post, <A HREF=\"https://chessforallages.blogspot.com/2024/02/first-adventures-in-ai-comics.html\">First Adventures in AI Comics</A> (February 2024), discussed some of the challenges using AI Comic software. One of my paragraphs mentioned, <BLOCKQUOTE> The 2 x 2 format of each page is somewhat monotonous. The free version of the software, which is the version I've been using, offers four different formats of which 2 x 2 is the simplest. Since they can be interchanged easily, I could experiment with the other formats, but there's a significant constraint. There is no control over what part of the story is shown in the individual panels -- four panels in the example of the 2 x 2 forma",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/02/chess-comics-grids-and-panels.html",
-         "pubDate" : "Mon, 26 Feb 2024 16:30:00",
-         "title" : "Chess Comics - Grids and Panels"
       }
    ]
 }
