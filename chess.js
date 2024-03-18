@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2923",
+         "pubDate" : "Mon, 18 Mar 2024 10:23:02",
+         "title" : "African Championships 2024: Bassem Amin and Jesse February lead with three rounds to go"
+      },
+      {
          "description" : "Who hasn't experienced it? You're prepared for an exciting game in the open Najdorf Sicilian, and suddenly your opponent puts one of the seemingly countless minor variations on the board - in order to avoid the main Najdorf variations. Should you be frustrated? Absolutely not! Luis Engel uncovers the Anti-Sicilians, so you can prepare well.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/luis-engel-uncovering-the-anti-sicilians",
          "pubDate" : "Sun, 17 Mar 2024 23:00:00",
          "title" : "Luis Engel - Uncovering the Anti-Sicilians!"
+      },
+      {
+         "description" : "GMs Levon Aronian and Irina Krush prevailed in the Champions Bracket on day six of the 2024 American Cup.&#38;nbsp; With pragmatic play, Aronian equalized vs.&#38;nbsp;GM Ray Robson, clinching the match with ease after his 2-0 start the day before. Chan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-american-cup-day-6",
+         "pubDate" : "Sun, 17 Mar 2024 19:09:39",
+         "title" : "Aronian, Krush Triumph In Champions Bracket"
       },
       {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
@@ -224,14 +240,6 @@ news_feed (
          "link" : "https://aicf.in/national-team-chess-chmapionship-2024/",
          "pubDate" : "Thu, 14 Mar 2024 10:29:43",
          "title" : "National Team Chess Championship 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2923",
-         "pubDate" : "Thu, 14 Mar 2024 10:23:02",
-         "title" : "African Individual Championships 2024 commence in Accra, Ghana"
       },
       {
          "description" : "Maryland Terrapins defensive back Chantz Harley took top honors in the sixth installment of BlitzChamps after defeating fellow back Dante Trader Jr. in the fourth game of their finals match with a &#34;Hail Mary&#34; pawn promotion that secured the title....",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2024-official-regulations/",
          "pubDate" : "Wed, 06 Mar 2024 08:55:55",
          "title" : "European Senior Chess Championship 2024 - Official regulations"
-      },
-      {
-         "description" : "Big names won the Titled Tuesday events of March 5: GM Alireza Firouzja&#38;nbsp;and GM Hikaru Nakamura, both of whom will be playing in the Candidates Tournament in four weeks. Firouzja won in the last round to reach a five-way tie on 9.5 points wher...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-nakamura-win-titled-tuesday-march-5-2024",
-         "pubDate" : "Wed, 06 Mar 2024 07:50:23",
-         "title" : "Firouzja, Nakamura Nearing Candidates Form"
       },
       {
          "description" : "This post marks the tenth anniversary of the first 'On the Cover' post, which was <A HREF=\"https://chessforallages.blogspot.com/2014/03/march-1964-on-cover.html\">March 1964 'On the Cover'</A> (March 2014). For the first five years the posts showed the covers of the two leading American chess magazines of the 1960s. <P> The series changed direction in <A HREF=\"https://chessforallages.blogspot.com/2019/11/november-1969-1994-on-cover.html\">November 1969 & 1994 'On the Cover'</A> (November 2019), shifting to the format showing both 50 and 25 years ago. For last month's post, see <A HREF=\"https://chessforallages.blogspot.com/2024/02/february-1974-1999-on-cover.html\">February 1974 & 1999 'On the C",
