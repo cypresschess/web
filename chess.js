@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Endgame training on the computer is much easier and more efficient than it used to be. The quickest way to learn is with a good coach. Surya Ganguly was Anand's second for a long time, but he is also great at teaching the basics, as he does with his course \"Endgame Essentials\". Unmissable!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-essentials-surya-ganguly-appetisers",
+         "pubDate" : "Mon, 18 Mar 2024 15:00:00",
+         "title" : "Endgame Essentials with Surya Ganguly: Two appetisers"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2930",
+         "pubDate" : "Mon, 18 Mar 2024 12:18:16",
+         "title" : "American Cup 2024: Aronian and Krush win Champions brackets"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-6",
-         "pubDate" : "Sun, 17 Mar 2024 19:09:39",
+         "pubDate" : "Sun, 17 Mar 2024 19:09:00",
          "title" : "Aronian, Krush Triumph In Champions Bracket"
       },
       {
@@ -1080,22 +1096,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/02/chess-comics-grids-and-panels.html",
          "pubDate" : "Mon, 26 Feb 2024 16:30:00",
          "title" : "Chess Comics - Grids and Panels"
-      },
-      {
-         "description" : "Chess is often considered a calm and quiet game, where the only sound is the clicking of the pieces. But what if we could hear the heartbeat of the players, and see how their body reacts to the tension and excitement of the game? That is exactly what was done in the Freestyle Chess 2024 event in Weissenhaus, where the heart rate of some of the world's best chess players were monitored as they faced each other! We start this series with a look back at how it all started. | Photo Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-heart-racing-experience",
-         "pubDate" : "Mon, 26 Feb 2024 15:00:00",
-         "title" : "A Heart-Racing Experience! (1)"
-      },
-      {
-         "description" : " While sorting out some games from my current club event, I was struck by the similarity between the game featured in the \"Found Scoresheets\" article, and the one played below. They both used a combination of the knight and dark squared bishop to attack c7, and in both cases Nb5 was an important move. The other interesting thing was that they were played at exactly the same time, on the same table (this game being on Board 2). I'm sure some advanced plagiarism detector might have something to say about that, but apart from noticing that Nb5 was a threat in the board 1 game, I can't say that I borrowed anything specifically from it. <br /> <b>Press,Shaun - Garland,Liam [E67]</b><br /> Rama Me",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/similar-concepts.html",
-         "pubDate" : "Mon, 26 Feb 2024 12:33:00",
-         "title" : "Similar concepts"
       }
    ]
 }
