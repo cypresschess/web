@@ -10,6 +10,14 @@ news_feed (
          "title" : "African Championships 2024: Bassem Amin and Jesse February lead with three rounds to go"
       },
       {
+         "description" : "Live Games Live Link for Velammal AICF Women Grandmaster Round Robin Chess Tournament, 2024 Live games :&#160;https://live.tamilchess.com/WGMRR/index.html Chess Results Link :&#160;https://chess-results.com/tnr911363.aspx?lan=1&#38;turdet=YES",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-velammal-aicf-international-women-grandmaster-chess-tournament-2024/",
+         "pubDate" : "Mon, 18 Mar 2024 08:45:52",
+         "title" : "Live Games Link for Velammal - AICF International Women Grandmaster Chess Tournament 2024"
+      },
+      {
          "description" : "Chess is a really fun game to play, but equally enjoyable is solving artificial positions - problems and studies - many that defy the imagination. In this ChessBase Challenge instalment, we have a set of puzzles that can challenge your brain. Can you solve the position? Can you find the mind-boggling strategy that is required to reach the goal? You have a week to do so. Then we will provide the full solution.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +42,6 @@ news_feed (
          "title" : "Aronian, Krush Triumph In Champions Bracket"
       },
       {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
-         "pubDate" : "Sun, 17 Mar 2024 18:50:00",
-         "title" : "The American Cup: Live!"
-      },
-      {
          "description" : "The reigning World Rapid Women's champion, IM Anastasia Bodnaruk scored an unbeaten 7&frac12;/9 to win te 2nd International Women's Chess Championship 2024. She finished a half point ahead of two players: IM Soumya Swaminathan and WIM Mariam Mkrtchyan scored 7/9 points each. They secured second and third place respectively according to tie-breaks. | Photo: Uzbekistan Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2928",
          "pubDate" : "Sun, 17 Mar 2024 17:36:49",
          "title" : "FIDE World Junior U20 Championship 2024: Registration is open"
+      },
+      {
+         "description" : "Flickr displays this photo in portrait format. The Royal Academy reference below displays the photo in landscape format, so I did the same. It's more economical in its use of space. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oc17.jpg\" WIDTH=400 HEIGHT=270><BR> <A HREF=\"https://www.flickr.com/photos/dou_ble_you/53588519345/\">Marcel Duchamp and Salvador Dal&iacute; playing chess during filming for 'A Soft Self-Portrait', 1966</A><BR> &#169; Flickr user <I>dou_ble_you</I> under <A HREF=\"https://creativecommons.org/licenses/by-nd/2.0/\">Creative Commons</A>.<BR> <P> The title of the photo is also the description. I found another copy at <A HREF=\"https://www.royalacademy.org.uk",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/03/conceptual-artist-and-surreal-artist.html",
+         "pubDate" : "Sun, 17 Mar 2024 16:47:00",
+         "title" : "Conceptual Artist and Surreal Artist"
       },
       {
          "description" : "",
@@ -898,14 +906,6 @@ news_feed (
          "title" : "Yahoo Zombies Want Chess"
       },
       {
-         "description" : "Please click here for Form 3",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-election-form-3/",
-         "pubDate" : "Thu, 29 Feb 2024 12:51:08",
-         "title" : "AICF election :Form 3"
-      },
-      {
          "description" : " In honour of the 29th of Feb, I've dug up a game that was played on the 29th of Feb, and lasted 29 moves! <br /> <b>Fressinet,Laurent (2700) - Ding,Liren (2766) [D78]</b><br /> China Elite Mind blitz Huaian (20), 29.02.2016 <script> new PgnViewer( { boardName: \"game1446\", movesFormat: \"default\", pgnString:'1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.O-O O-O 6.c4 c6 7.b3 dxc4 8.bxc4 c5 9.Bb2 Qb6 10.Qb3 cxd4 11.Nxd4 Na6 12.e3 Nc5 13.Qa3 e5 14.Nb5 Be6 15.Nd2 Rad8 16.Rfd1 Rd3 17.Nb3 Rfd8 18.Rxd3 Nxd3 19.Bc3 Rd7 20.Qxa7 Qxa7 21.Nxa7 Bxc4 22.Rd1 Nd5 23.Ba1 N5b4 24.Na5 Ba6 25.Bf1 e4 26.Bxg7 Kxg7 27.Nc8 Nd5 28.Nb3 Rd8 29.Na7 Ra8 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /> <br /> <di",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1096,30 +1096,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/02/similar-concepts.html",
          "pubDate" : "Mon, 26 Feb 2024 12:33:00",
          "title" : "Similar concepts"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2901",
-         "pubDate" : "Mon, 26 Feb 2024 10:21:10",
-         "title" : "FIDE World Corporate Chess Championship 2024: Registration is open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2900",
-         "pubDate" : "Mon, 26 Feb 2024 09:12:24",
-         "title" : "From Board to Wardrobe: Official FIDE Online Store Launched"
-      },
-      {
-         "description" : "The 6th Prague International Chess Festival starts tomorrow in Czech Republic and will take place from 27th February 7th March at Don Giovanni Hotel Prague. The Festival features Masters, Challengers, and Futures tournament, supported by the European Chess Union, as well as the Karel Janecek Open Chess Tournament, and a variety of side events that will take place simultaneously. The main, Masters event, is played with 10 grandmasters in the field who will compete in 9 rounds, round-robin system. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/prague-international-chess-festival-2024-starts/",
-         "pubDate" : "Mon, 26 Feb 2024 07:46:30",
-         "title" : "Prague International Chess Festival 2024 starts"
       }
    ]
 }
