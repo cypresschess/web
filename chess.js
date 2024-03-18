@@ -10,6 +10,14 @@ news_feed (
          "title" : "African Championships 2024: Bassem Amin and Jesse February lead with three rounds to go"
       },
       {
+         "description" : "Chess is a really fun game to play, but equally enjoyable is solving artificial positions - problems and studies - many that defy the imagination. In this ChessBase Challenge instalment, we have a set of puzzles that can challenge your brain. Can you solve the position? Can you find the mind-boggling strategy that is required to reach the goal? You have a week to do so. Then we will provide the full solution.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-puzzle-challenge-02",
+         "pubDate" : "Mon, 18 Mar 2024 08:00:00",
+         "title" : "ChessBase Puzzle Challenge - 02"
+      },
+      {
          "description" : "Who hasn't experienced it? You're prepared for an exciting game in the open Najdorf Sicilian, and suddenly your opponent puts one of the seemingly countless minor variations on the board - in order to avoid the main Najdorf variations. Should you be frustrated? Absolutely not! Luis Engel uncovers the Anti-Sicilians, so you can prepare well.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
