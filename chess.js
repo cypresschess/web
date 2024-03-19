@@ -34,6 +34,14 @@ news_feed (
          "title" : "The American Cup: Live!"
       },
       {
+         "description" : "GM Wesley So and IM Alice Lee have risen out of the Elimination Bracket to challenge GMs Levon Aronian and Irina Krush in the Grand Finals of the 2024 American Cup.&#38;nbsp; After a brilliant game by GM Ray Robson to take the lead, So won on demand...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-american-cup-day-7",
+         "pubDate" : "Mon, 18 Mar 2024 18:30:00",
+         "title" : "So, Lee Rise to Grand Finals"
+      },
+      {
          "description" : "Endgame training on the computer is much easier and more efficient than it used to be. The quickest way to learn is with a good coach. Surya Ganguly was Anand's second for a long time, but he is also great at teaching the basics, as he does with his course \"Endgame Essentials\". Unmissable!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +712,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-eight",
          "pubDate" : "Wed, 06 Mar 2024 13:46:00",
          "title" : "Abdusattorov Wins Prague Masters With Round To Spare As New World Number 4"
-      },
-      {
-         "description" : "Former world champion and Putin critic GM Garry Kasparov has been added to Russia&#39;s list of &#34;terrorists and extremists.&#34; The chess legend calls it &#34;an honor.&#34; Kasparov&#39;s name is included in the list of &#34;terrorists and extremists&#34; by the Russian ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/garry-kasparov-added-to-russias-list-of-terrorists-and-extremists",
-         "pubDate" : "Wed, 06 Mar 2024 10:49:00",
-         "title" : "Garry Kasparov Added To Russia's List Of 'Terrorists And Extremists'"
       },
       {
          "description" : "",
