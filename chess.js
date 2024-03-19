@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Philidor Defence is an old but very solid defence against 1.e4. However, Black can also play very actively in various positions. French grandmaster Christian Bauer is an expert on this opening and presents here a repertoire that is easy to master. Christian Hoethe has reviewed the course.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/review-christian-bauer-evergreen-philidor",
+         "pubDate" : "Tue, 19 Mar 2024 23:00:00",
+         "title" : "Review - Christian Bauer's \"The evergreen Philidor\""
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/julians-mistakes-gm-norm-road-2000-nm-julian-proleiko",
          "pubDate" : "Wed, 28 Feb 2024 01:04:12",
          "title" : "Julian's Mistakes from the GM Norm | Road to 2000 - NM Julian Proleiko"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows his most devastating chess mistakes and what he learned from them. 2024.02.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/julians-mistakes-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Bb6idDa0510.jpg?itok=K2TDhXgj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/julians-mistakes-road-2000-nm-julian-proleiko",
-         "pubDate" : "Tue, 27 Feb 2024 22:04:09",
-         "title" : "Julian's Mistakes | Road to 2000 - NM Julian Proleiko"
       }
    ]
 }
