@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The famous Reykjav&iacute;k Open is up and running, and ready for some surprises. Popular streamer Alexandra Botez managed to win against a South African opponent rated almost 400 Elo points higher than her! In the French Defence, her opponent played the MacCutcheon, which was covered by Robert Ris in ChessBase Magazine 198, and his Fast and Furious show (Links below). In the wild game, with several sacrifices, Alexandra converted the endgame in her favour.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/alexandra-botez-is-spectacular-in-reykjavk-the-underdog",
+         "pubDate" : "Tue, 19 Mar 2024 08:00:00",
+         "title" : "Alexandra Botez spectacular in Reykjav&iacute;k - The Underdog"
+      },
+      {
+         "description" : "FIDE World School Chess Championship 2024 will be held from 30th April to 10th May 2024 at Lima, Peru and players who participated in the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-school-chess-championship-2024/",
+         "pubDate" : "Tue, 19 Mar 2024 07:04:01",
+         "title" : "World School Chess Championship - 2024"
+      },
+      {
          "description" : "Step into the illustrious world of chess greatness for an interview with IGM Vladimir Tukmakov at the Kasparov Chess Foundation Academy! Tukmakov is a former top player of the end of the 20th century. His chess education was in the Ukrainian city of Odesa, where he still resides nowadays. Subscribers of the KCF Academy have full access to the captivating interview on March 24, 2024.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-raises-concerns-over-visa-delay-for-chess-players-ahead-of-candidates-event/articleshow/108156663.cms",
          "pubDate" : "Sat, 02 Mar 2024 06:37:05",
          "title" : "FIDE raises concerns over visa delay for chess players ahead of Candidates event"
-      },
-      {
-         "description" : "Click here Form 4",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-electionform-4/",
-         "pubDate" : "Fri, 01 Mar 2024 16:54:53",
-         "title" : "AICF Election:Form 4"
       },
       {
          "description" : " The 1st of March FIDE Rating List saw the proposed rating 'compression' come into effect. All rated players under 2000 were given a rating boost, based on the formula New rating = Old rating + (0.4 * (2000 - Old rating)). So for a player rated 1001 that would bee 400 points, while a player rated 1990, that would be 4 points. From a local point of view there ware 2 main effects. Firstly, lots of players qualify for higher categories in the upcoming Doeberl Cup. Secondly, there may well be a lot of 'farming' going on, as older players regain some of the points previously lost to younger players (ie rather than avoiding junior players, it may be an advantage in playing them as their ratings in",
