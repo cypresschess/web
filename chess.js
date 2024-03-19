@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Be well-prepared with the new Opening Encyclopaedia 2024! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-new-opening-encyclopaedia-2024-your-easy-access-to-opening-theory",
+         "pubDate" : "Tue, 19 Mar 2024 16:00:00",
+         "title" : "The New Opening Encyclopaedia 2024 - Your easy access to Opening Theory"
+      },
+      {
+         "description" : " I only learned today that the line 1.e4 e5 2.Nf3 Nc6 3.Bc4 f5?! was the Rousseau Gambit. I'd heard this opening discussed numerous times within the Canberra chess scene, but for some reason I thought it was a different opening, and the moves above were just sort of dodgy Italian/Latvian hybrid (The Italvian Opening?). I'd even played it in the past at fast time limits, albeit with little success. Despite it's poor reputation it sometimes works out for Black. Here GM Dejan Bojkov comes undone against Pavel Dimitrov in what appears to be a brutal kingside hack. <br /> <b>Bojkov,Dejan (2514) - Dimitrov,Pavel (2304) [C50]</b><br /> BUL-chT-A 62nd Sunny Beach (1.3), 19.09.2012 <script> new PgnVi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/i-was-today-years-old.html",
+         "pubDate" : "Tue, 19 Mar 2024 12:47:00",
+         "title" : "I was today years old"
+      },
+      {
+         "description" : "Please find the provisional list for Batch 1A , further zoom link will share to candidates email id tomorrow . Batch 1 A Please note",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-1a-on-21-22-march-2024/",
+         "pubDate" : "Tue, 19 Mar 2024 11:48:36",
+         "title" : "AICF Arbiter Refresher Seminar Batch 1A on 21-22 March 2024"
+      },
+      {
          "description" : "The centre of the chessboard is a crucial area that significantly impacts the game. The centre consists of the four squares in the middle of the board: d4, d5, e4, and e5. Control over the centre often provides a decisive advantage in chess. Why? Because every piece (except the rook) controls more squares when it is centralised. Remember, whoever dominates the centre often gains an advantage. So, keep an eye on those central squares during your games!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/world-school-chess-championship-2024/",
          "pubDate" : "Tue, 19 Mar 2024 07:04:01",
          "title" : "World School Chess Championship - 2024"
+      },
+      {
+         "description" : "Chess.com, the world&#38;rsquo;s leading chess platform, has been named as one of Fast Company&#39;s World&#39;s Most Innovative Companies for 2024. This year&#38;rsquo;s list shines a spotlight on businesses that are shaping industry and culture through their ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-named-in-fast-companys-worlds-most-innovative-companies-list",
+         "pubDate" : "Tue, 19 Mar 2024 05:23:29",
+         "title" : "Chess.com Named In Fast Company's Annual List Of The World's Most Innovative Companies"
       },
       {
          "description" : "Step into the illustrious world of chess greatness for an interview with IGM Vladimir Tukmakov at the Kasparov Chess Foundation Academy! Tukmakov is a former top player of the end of the 20th century. His chess education was in the Ukrainian city of Odesa, where he still resides nowadays. Subscribers of the KCF Academy have full access to the captivating interview on March 24, 2024.",
@@ -66,6 +98,14 @@ news_feed (
          "title" : "So, Lee Rise to Grand Finals"
       },
       {
+         "description" : "This weekly series on comic software started with an imaginary chess village in the Catskill mountains, last seen in <A HREF=\"https://chessforallages.blogspot.com/2024/02/chess-comics-grids-and-panels.html\">Chess Comics - Grids and Panels</A> (February 2024). To explore the grids and panels, <BLOCKQUOTE> I went back to the first comic page in the series, <I>The Chess Village</I> (January 2024), copied the prompt I used to make the image shown in the post, and re-entered the prompt into the software. </BLOCKQUOTE> <P> Chess villages are not all imaginary. Not too long ago I mentioned two in the monthly news post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/this-month-features-bottom",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/03/real-chess-villages.html",
+         "pubDate" : "Mon, 18 Mar 2024 16:45:00",
+         "title" : "Real Chess Villages"
+      },
+      {
          "description" : "Endgame training on the computer is much easier and more efficient than it used to be. The quickest way to learn is with a good coach. Surya Ganguly was Anand's second for a long time, but he is also great at teaching the basics, as he does with his course \"Endgame Essentials\". Unmissable!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -87,7 +127,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2923",
          "pubDate" : "Mon, 18 Mar 2024 10:23:02",
-         "title" : "African Championships 2024: Bassem Amin and Jesse February lead with three rounds to go"
+         "title" : "​​​​​​​African Championship: Bassem Amin and February in the lead with two rounds to go"
       },
       {
          "description" : "Live Games Live Link for Velammal AICF Women Grandmaster Round Robin Chess Tournament, 2024 Live games :&#160;https://live.tamilchess.com/WGMRR/index.html Chess Results Link :&#160;https://chess-results.com/tnr911363.aspx?lan=1&#38;turdet=YES",
@@ -730,14 +770,6 @@ news_feed (
          "title" : "FIDE Resolution on suspending membership of Egyptian Chess Federation"
       },
       {
-         "description" : "The Prague Masters&#38;nbsp;has become a dream tournament for GM Nodirbek Abdusattorov. In a field with three candidates, the 19-year-old Uzbek GM secured victory with a round to spare today while moving to world number four in the live ratings, surpa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-eight",
-         "pubDate" : "Wed, 06 Mar 2024 13:46:00",
-         "title" : "Abdusattorov Wins Prague Masters With Round To Spare As New World Number 4"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -912,14 +944,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/mastering-chess-basics-the-gateway-to-success-for-beginners/",
          "pubDate" : "Sat, 02 Mar 2024 10:28:18",
          "title" : "Mastering Chess Basics: The Gateway to Success for Beginners."
-      },
-      {
-         "description" : "Click here for Under 07 Open &#38; Under 07 Girls National U 07 National U 07 Girls Rank Name Rank Name 1 Takkshanth Anand 1",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-of-national-school-2024-at-patna-from-06-february-10-february-2024/",
-         "pubDate" : "Sat, 02 Mar 2024 08:33:29",
-         "title" : "Certificates of National School Chess Championship 2024 in Patna from 06 February- 10 February 2024"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108156663.cms\" />The International Chess Federation has raised concerns about the delayed visa issuance for players participating in the Candidates event in Toronto, which is one of the world's most prestigious chess tournaments. FIDE urges Canada to expedite visa application processing to ensure the timely arrival of contenders, including five Indian players, including two women competitors.",
