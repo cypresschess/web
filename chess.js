@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
+         "pubDate" : "Tue, 19 Mar 2024 18:50:00",
+         "title" : "The American Cup: Live!"
+      },
+      {
          "description" : "Be well-prepared with the new Opening Encyclopaedia 2024! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +42,6 @@ news_feed (
          "title" : "A Fight for the Centre"
       },
       {
-         "description" : "The famous Reykjav&iacute;k Open is up and running, and ready for some surprises. Popular streamer Alexandra Botez managed to win against a South African opponent rated almost 400 Elo points higher than her! In the French Defence, her opponent played the MacCutcheon, which was covered by Robert Ris in ChessBase Magazine 198, and his Fast and Furious show (Links below). In the wild game, with several sacrifices, Alexandra converted the endgame in her favour.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/alexandra-botez-is-spectacular-in-reykjavk-the-underdog",
-         "pubDate" : "Tue, 19 Mar 2024 08:00:00",
-         "title" : "Alexandra Botez spectacular in Reykjav&iacute;k - The Underdog"
-      },
-      {
          "description" : "FIDE World School Chess Championship 2024 will be held from 30th April to 10th May 2024 at Lima, Peru and players who participated in the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -56,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-com-named-in-fast-companys-worlds-most-innovative-companies-list",
          "pubDate" : "Tue, 19 Mar 2024 05:23:29",
          "title" : "Chess.com Named In Fast Company's Annual List Of The World's Most Innovative Companies"
-      },
-      {
-         "description" : "Step into the illustrious world of chess greatness for an interview with IGM Vladimir Tukmakov at the Kasparov Chess Foundation Academy! Tukmakov is a former top player of the end of the 20th century. His chess education was in the Ukrainian city of Odesa, where he still resides nowadays. Subscribers of the KCF Academy have full access to the captivating interview on March 24, 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-academy-vladimir-tukmakov",
-         "pubDate" : "Mon, 18 Mar 2024 23:00:00",
-         "title" : "KCF Academy: Vladimir Tukmakov"
       },
       {
          "description" : "",
@@ -82,14 +74,6 @@ news_feed (
          "title" : "Reykjavik Open 2024 - Games and Results"
       },
       {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
-         "pubDate" : "Mon, 18 Mar 2024 18:50:00",
-         "title" : "The American Cup: Live!"
-      },
-      {
          "description" : "GM Wesley So and IM Alice Lee have risen out of the Elimination Bracket to challenge GMs Levon Aronian and Irina Krush in the Grand Finals of the 2024 American Cup.&#38;nbsp; After a brilliant game by GM Ray Robson to take the lead, So won on demand...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -104,14 +88,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/03/real-chess-villages.html",
          "pubDate" : "Mon, 18 Mar 2024 16:45:00",
          "title" : "Real Chess Villages"
-      },
-      {
-         "description" : "Endgame training on the computer is much easier and more efficient than it used to be. The quickest way to learn is with a good coach. Surya Ganguly was Anand's second for a long time, but he is also great at teaching the basics, as he does with his course \"Endgame Essentials\". Unmissable!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-essentials-surya-ganguly-appetisers",
-         "pubDate" : "Mon, 18 Mar 2024 15:00:00",
-         "title" : "Endgame Essentials with Surya Ganguly: Two appetisers"
       },
       {
          "description" : "",
@@ -160,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-6",
          "pubDate" : "Sun, 17 Mar 2024 19:09:00",
          "title" : "Aronian, Krush Triumph In Champions Bracket"
-      },
-      {
-         "description" : "The reigning World Rapid Women's champion, IM Anastasia Bodnaruk scored an unbeaten 7&frac12;/9 to win te 2nd International Women's Chess Championship 2024. She finished a half point ahead of two players: IM Soumya Swaminathan and WIM Mariam Mkrtchyan scored 7/9 points each. They secured second and third place respectively according to tie-breaks. | Photo: Uzbekistan Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bodnaruk-wins-international-womens-ch-2024",
-         "pubDate" : "Sun, 17 Mar 2024 18:10:00",
-         "title" : "Bodnaruk wins International Women's Championship in Uzbekistan"
       },
       {
          "description" : "",
@@ -1112,22 +1080,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/julians-mistakes-road-2000-nm-julian-proleiko",
          "pubDate" : "Tue, 27 Feb 2024 22:04:09",
          "title" : "Julian's Mistakes | Road to 2000 - NM Julian Proleiko"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2903",
-         "pubDate" : "Tue, 27 Feb 2024 17:28:30",
-         "title" : "Prague Chess Festival 2024 kicks off in Czech capital "
-      },
-      {
-         "description" : " Tani Adewumi earned his fourth IM norm at the Southwest Open in Irving, Texas (outside of Dallas) last weekend. It was his first in an open tournament. Due to rule changes each player is required to have at least one of their GM/IM title norms earned in an open tournament. This reduces the chance of The post <a href=\"https://www.thechessdrum.net/blog/2024/02/27/tani-adewumi-gets-required-im-norm/\">Tani Adewumi gets required IM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/02/27/tani-adewumi-gets-required-im-norm/",
-         "pubDate" : "Tue, 27 Feb 2024 16:07:35",
-         "title" : "Tani Adewumi gets required IM norm!"
       }
    ]
 }
