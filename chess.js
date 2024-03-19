@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The centre of the chessboard is a crucial area that significantly impacts the game. The centre consists of the four squares in the middle of the board: d4, d5, e4, and e5. Control over the centre often provides a decisive advantage in chess. Why? Because every piece (except the rook) controls more squares when it is centralised. Remember, whoever dominates the centre often gains an advantage. So, keep an eye on those central squares during your games!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/a-fight-for-the-centre",
+         "pubDate" : "Tue, 19 Mar 2024 11:00:00",
+         "title" : "A Fight for the Centre"
+      },
+      {
          "description" : "The famous Reykjav&iacute;k Open is up and running, and ready for some surprises. Popular streamer Alexandra Botez managed to win against a South African opponent rated almost 400 Elo points higher than her! In the French Defence, her opponent played the MacCutcheon, which was covered by Robert Ris in ChessBase Magazine 198, and his Fast and Furious show (Links below). In the wild game, with several sacrifices, Alexandra converted the endgame in her favour.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1096,30 +1104,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/02/27/tani-adewumi-gets-required-im-norm/",
          "pubDate" : "Tue, 27 Feb 2024 16:07:35",
          "title" : "Tani Adewumi gets required IM norm!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2902",
-         "pubDate" : "Tue, 27 Feb 2024 09:55:29",
-         "title" : "FIDE Chess School Award established"
-      },
-      {
-         "description" : "It's official: the 10th edition of the Francophone Chess Championships will take place this summer, from August 12th to 20th in Quebec City. This event is the flagship annual event of the International Association of Francophone Chess (AIDEF), which, as an affiliated organization, officially represents the Francophonie within the International Chess Federation (FIDE). The Francophone Championship, comprising classical and blitz games, will take place at the Maurice Pollack Pavilion of Laval University, the venue which can accommodate up to 900 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/10-rencontres-internationales-des-echecs-francophones-ridef/",
-         "pubDate" : "Tue, 27 Feb 2024 08:31:01",
-         "title" : "10 ° Rencontres Internationales des Echecs Francophones (RIDEF)"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess plc (LSE:CHSS), a prominent chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is pleased to provide updates on strategic developments, including the appointment of a Chief Marketing Officer, player acquisition metrics, and the continuation of its collaboration with FIDE. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2024-02-27_10-43-10.jpg\" width=\"1280\" height=\"853\" alt=\"\" /> <div class=\"e2-text-caption\">Photo: World Chess</div> </div> <h2>Introducing Andrew Winton as Chief Marketing Officer</h2> World Chess welcomes Andrew Winton, ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-announces-strategic-updates-and-celebrates-chess-his/",
-         "pubDate" : "Tue, 27 Feb 2024 07:44:04",
-         "title" : "World Chess Announces Strategic Updates and Celebrates Chess History with Special Edition Sets"
       }
    ]
 }
