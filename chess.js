@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We just witnessed beautiful chess in Weissenhaus, Germany, played by the top players, which may have led you to start believing you can do the same! But openings can be a great challenge when dealing with Chess960, since one may not know where to start. Thus, we share five tips which may help in battling through the hazy storm of displaced pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/five-freestyle-opening-tips",
+         "pubDate" : "Wed, 20 Mar 2024 09:00:00",
+         "title" : "Five Freestyle Opening Tips!"
+      },
+      {
          "description" : "The Philidor Defence is an old but very solid defence against 1.e4. However, Black can also play very actively in various positions. French grandmaster Christian Bauer is an expert on this opening and presents here a repertoire that is easy to master. Christian Hoethe has reviewed the course.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/review-christian-bauer-evergreen-philidor",
          "pubDate" : "Tue, 19 Mar 2024 23:00:00",
          "title" : "Review - Christian Bauer's \"The evergreen Philidor\""
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
-         "pubDate" : "Tue, 19 Mar 2024 18:50:00",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "IM Alice Lee captured the lead vs. GM Irina Krush for the first time in a match in the Grand Final of the 2024 American Cup.&#38;nbsp;GMs Levon Aronian and Wesley So had a peaceful day, making two draws and leaving the fate of their match entirely on ...",
@@ -1048,22 +1048,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-crushes-vincent-keymer-in-prague-masters-chess-opener/articleshow/108080378.cms",
          "pubDate" : "Wed, 28 Feb 2024 14:57:26",
          "title" : "Praggnanandhaa crushes Vincent Keymer in Prague Masters opener"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108074449.cms\" />Grandmaster Mitrabha Guha reigned supreme in the Commonwealth Chess championship that concluded at Melaka, Malaysia, on Tuesday. Guha, who bagged a silver medal in the last edition of the tournament in Sri Lanka, ended with 7.5 points in the nine-round tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gm-mitrabha-guha-wins-commonwealth-chess-crown/articleshow/108074449.cms",
-         "pubDate" : "Wed, 28 Feb 2024 11:12:31",
-         "title" : "GM Mitrabha Guha wins Commonwealth Chess crown"
-      },
-      {
-         "description" : "The European Chess Union invites the National federations members to submit bids for the organization of European Chess Championships in 2025, 2026 and the European Open &#38; Women Team Championship 2027. The bids must be submitted exclusively in the Bid form regulated by the ECU (in the attachment). For any additional documents delivered separately from the bid form, it must be stated in the bid form what they relate to. Any document that reaches the ECU office after the official []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2025-2026-2027/",
-         "pubDate" : "Wed, 28 Feb 2024 08:35:33",
-         "title" : "INVITATION FOR BIDS: European Chess Championships 2025-2026-2027"
       }
    ]
 }
