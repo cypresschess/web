@@ -18,6 +18,14 @@ news_feed (
          "title" : "The American Cup: Live!"
       },
       {
+         "description" : "IM Alice Lee captured the lead vs. GM Irina Krush for the first time in a match in the Grand Final of the 2024 American Cup.&#38;nbsp;GMs Levon Aronian and Wesley So had a peaceful day, making two draws and leaving the fate of their match entirely on ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-american-cup-day-8",
+         "pubDate" : "Tue, 19 Mar 2024 18:48:00",
+         "title" : "Lee Seizes 1st-Ever Lead Vs. Krush"
+      },
+      {
          "description" : "Be well-prepared with the new Opening Encyclopaedia 2024! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -111,7 +119,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2923",
          "pubDate" : "Mon, 18 Mar 2024 10:23:02",
-         "title" : "​​​​​​​African Championship: Bassem Amin and February in the lead with two rounds to go"
+         "title" : "​​​​​​​African Championship 2024: Bassem Amin wins title"
       },
       {
          "description" : "Live Games Live Link for Velammal AICF Women Grandmaster Round Robin Chess Tournament, 2024 Live games :&#160;https://live.tamilchess.com/WGMRR/index.html Chess Results Link :&#160;https://chess-results.com/tnr911363.aspx?lan=1&#38;turdet=YES",
@@ -714,14 +722,6 @@ news_feed (
          "title" : "Bu Xiangzhi Wins Shenzhen Masters On Tiebreaks, Giri Drops Out Of Top 10"
       },
       {
-         "description" : "You could almost hear the collective sigh of relief from FIDE officials and the Toronto organizers as clearance was given for the Candidates Tournament after visa issues were resolved just in time. It was a dramatic turn of events when on Friday...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/candidates-given-green-light-visa-issues-resolved",
-         "pubDate" : "Thu, 07 Mar 2024 06:50:00",
-         "title" : "Candidates Given Green Light As Visa Issues Resolved Just In Time"
-      },
-      {
          "description" : "The International Chess Federation is pleased to announce the continuation of its support to chess veterans. The grants will be awarded to distinguished players, coaches...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1064,22 +1064,6 @@ news_feed (
          "link" : "https://www.europechess.org/invitation-for-bids-european-chess-championships-2025-2026-2027/",
          "pubDate" : "Wed, 28 Feb 2024 08:35:33",
          "title" : "INVITATION FOR BIDS: European Chess Championships 2025-2026-2027"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Vladimir Georgiev dissects different world class positions and asks whether a potential exchange is a good trade or a bad trade. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/good-or-bad-trade-grandmasters-choice-gm-vladimir-georgiev\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/E7ylfT6FZN0.jpg?itok=L76isNcU\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/good-or-bad-trade-grandmasters-choice-gm-vladimir-georgiev",
-         "pubDate" : "Wed, 28 Feb 2024 01:04:12",
-         "title" : "Good or Bad Trade? | Grandmaster's Choice - GM Vladimir Georgiev"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko shows his chess mistakes from the GM Norm event he just played in Saint Louis, and what he learned from them. 2024.02.27<br /> Robby Kevlishvili vs. Julian Proleiko, 2024<br /> Proleiko vs. Dambasuren Batsuren, 2024: C45 Scotch game<br /> Dimitar Mardov vs. Proleiko, 2024<br /> Luka Budisavljevic vs. Proleiko, 2024<br /> Proleiko vs. Tatev Abrahamyan, 2024<br /> Kostya Kavutskiy vs. Proleiko, 2024<br /> Proleiko vs. Beloslava Krasteva, 2024 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/julians-mistakes-gm-norm-road-2000-nm-julian-proleiko",
-         "pubDate" : "Wed, 28 Feb 2024 01:04:12",
-         "title" : "Julian's Mistakes from the GM Norm | Road to 2000 - NM Julian Proleiko"
       }
    ]
 }
