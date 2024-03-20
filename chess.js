@@ -10,6 +10,14 @@ news_feed (
          "title" : "Five Freestyle Opening Tips!"
       },
       {
+         "description" : "The 2024 Candidates Tournament is rapidly approaching, and it could very well be a landmark moment in chess history once all is said and done. Exciting young talents combine with established veterans of the game, with the winner taking on current ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-candidates-prediction-contest",
+         "pubDate" : "Wed, 20 Mar 2024 07:22:19",
+         "title" : "Who Will Win The Candidates? Tell Us And Win Prizes!"
+      },
+      {
          "description" : "The Philidor Defence is an old but very solid defence against 1.e4. However, Black can also play very actively in various positions. French grandmaster Christian Bauer is an expert on this opening and presents here a repertoire that is easy to master. Christian Hoethe has reviewed the course.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -70,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chess-com-named-in-fast-companys-worlds-most-innovative-companies-list",
-         "pubDate" : "Tue, 19 Mar 2024 05:23:29",
+         "pubDate" : "Tue, 19 Mar 2024 05:23:00",
          "title" : "Chess.com Named In Fast Company's Annual List Of The World's Most Innovative Companies"
       },
       {
@@ -714,14 +722,6 @@ news_feed (
          "title" : "Prague Chess Festival - Abdusattorov triumphs, 1&frac12; points ahead of the field"
       },
       {
-         "description" : "GM Bu Xiangzhi edged out GMs Yu Yangyi&#38;nbsp;and Arjun Erigaisi on tiebreaks to win the fifth edition of the Shenzhen Longgang Chess Masters on Thursday. All three finished on 4.5/7, with Bu having the best tiebreaks. It wasn&#39;t a good week for GM A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bu-xiangzhi-wins-2024-shenzhen-longgang-chess-masters",
-         "pubDate" : "Thu, 07 Mar 2024 06:54:02",
-         "title" : "Bu Xiangzhi Wins Shenzhen Masters On Tiebreaks, Giri Drops Out Of Top 10"
-      },
-      {
          "description" : "The International Chess Federation is pleased to announce the continuation of its support to chess veterans. The grants will be awarded to distinguished players, coaches...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/oh-stability-carlsbad-structure-black-grandmaster-psychology-gm-denes-boros",
          "pubDate" : "Wed, 28 Feb 2024 22:06:37",
          "title" : "Oh, The Stability! Carlsbad Structure for Black | Grandmaster Psychology - GM Denes Boros"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108080378.cms\" />India's R Praggnanandhaa came up with a scintillating performance to grind down German Vincent Keymer in the first round of the Prague Masters Chess tournament that got underway on Wednesday. With this win Praggnanandhaa also added some more spice to the tale around the highest rated Indian as he again overtook Viswanathan Anand in live rating to clinch the top spot in the country.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-crushes-vincent-keymer-in-prague-masters-chess-opener/articleshow/108080378.cms",
-         "pubDate" : "Wed, 28 Feb 2024 14:57:26",
-         "title" : "Praggnanandhaa crushes Vincent Keymer in Prague Masters opener"
       }
    ]
 }
