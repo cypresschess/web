@@ -42,12 +42,12 @@ news_feed (
          "title" : "I was today years old"
       },
       {
-         "description" : "Please find the provisional list for Batch 1A , further zoom link will share to candidates email id tomorrow . Batch 1 A Please note",
+         "description" : "Please find the provisional list for Batch 1A &#38; 1 B , further zoom link will share to candidates email id today. Batch 1 A",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-1a-on-21-22-march-2024/",
          "pubDate" : "Tue, 19 Mar 2024 11:48:36",
-         "title" : "AICF Arbiter Refresher Seminar Batch 1A on 21-22 March 2024"
+         "title" : "AICF Arbiter Refresher Seminar Batch 1A & 1 B on 21-22 March 2024"
       },
       {
          "description" : "The centre of the chessboard is a crucial area that significantly impacts the game. The centre consists of the four squares in the middle of the board: d4, d5, e4, and e5. Control over the centre often provides a decisive advantage in chess. Why? Because every piece (except the rook) controls more squares when it is centralised. Remember, whoever dominates the centre often gains an advantage. So, keep an eye on those central squares during your games!",
