@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
+         "pubDate" : "Thu, 21 Mar 2024 18:50:00",
+         "title" : "The American Cup: Live!"
+      },
+      {
          "description" : "A recent addition to the Encyclopaedia is the \"opening trends\" section, developed by Dorian Rogozenco. In this segment, he explores nine of the most favored openings through video discussions, offering his insights on the effectiveness and power of the variations. Furthermore, the software has an opening highlight selection of the last 12 months, and another three videos by experts Mihail Marin, Luis Engel, and Daniel King.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/mar/01/chess-adams-wins-seventh-straight-first-prize-as-englands-girls-set-records",
          "pubDate" : "Fri, 01 Mar 2024 08:00:53",
          "title" : "Chess: Adams wins seventh straight first prize as England's girls set records"
-      },
-      {
-         "description" : "I ended last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/01/rip-yahoos.html\">RIP Yahoos</A> (January 2024), saying, <BLOCKQUOTE> After three years the Google Yahoos also ran out of steam: <I>Yahoos Set a New Low</I> (December 2023; 'So many problems, so little time.'). It's time to let them sleep in peace. </BLOCKQUOTE> <P> But what if they don't want to sleep in peace? <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-ob29.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Zombies play chess.'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> Looks like I better rethink the whole thing. <P> [Yahoos (mainstream news stories about chess) are deriv",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/02/yahoo-zombies-want-chess.html",
-         "pubDate" : "Thu, 29 Feb 2024 16:09:00",
-         "title" : "Yahoo Zombies Want Chess"
       }
    ]
 }
