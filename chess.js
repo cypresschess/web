@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A recent addition to the Encyclopaedia is the \"opening trends\" section, developed by Dorian Rogozenco. In this segment, he explores nine of the most favored openings through video discussions, offering his insights on the effectiveness and power of the variations. Furthermore, the software has an opening highlight selection of the last 12 months, and another three videos by experts Mihail Marin, Luis Engel, and Daniel King.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2024-discovering-current-opening-trends",
+         "pubDate" : "Thu, 21 Mar 2024 14:00:00",
+         "title" : "Opening Encyclopaedia 2024 - Discovering current opening trends"
+      },
+      {
+         "description" : " The 2024 O2C Doeberl Cup starts in a week, and at this stage the event is very close to breaking last years attendance record. The Premier is the strongest it has been for years, with 5 GM's, 8 IM's and 27 other titles players. Both the Major (Under 2100) and Minor (Under 1800) have reached capacity, while there are a few spots left in the Mini (Under 1500) and the Under 1200 event. With last years Blitz event attracting a field of 177 players, this years Blitz will have 2 sections. There will be an early starting Under 1600 event (beginning at 5:30pm on the Saturday), and the Open event (starting at 7:30pm). And for the first time since 2019 there will be an onsite commentator, with GM Dar",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-1-week-to-go.html",
+         "pubDate" : "Thu, 21 Mar 2024 13:10:00",
+         "title" : "2024 O2C Doeberl Cup - 1 week to go"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2932",
          "pubDate" : "Thu, 21 Mar 2024 10:08:05",
          "title" : "Levon Aronian wins American Cup 2024"
+      },
+      {
+         "description" : "A group of strong-minded and strong-legged chess enthusiasts banded together and walked 13 miles (21 kilometers) across New York on March 16 to raise over $11,000 for The Gift of Chess.&#38;nbsp; This charitable organization seeks to transform lives...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gift-of-chess-fundraising-walk-2024",
+         "pubDate" : "Thu, 21 Mar 2024 08:00:00",
+         "title" : "Chess Community Raises $11,000+ In Inaugural New York Charity Walk"
       },
       {
          "description" : " The 1st CARICOM Chess Classic took place in Georgetown, Guyana, a nation with a rich chess tradition. Guyana was previously a regional powerhouse with a number of strong masters. More recently, the federation has rejuvenated and has launched an initiative that will bring shades of the old Caribbean Chess Championships from decades ago. #CARICOM DSG The post <a href=\"https://www.thechessdrum.net/blog/2024/03/20/trinidad-tobago-takes-1st-caricom-chess-classic/\">Trinidad &#038; Tobago takes 1st CARICOM Chess Classic!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -554,14 +578,6 @@ news_feed (
          "title" : "13th African Games: Egypt wins Mixed Team Rapid"
       },
       {
-         "description" : "GM Daniel Naroditsky secured his 13th Bullet Brawl title and $400 on Saturday ahead of 160 titled players with a score of 237 and, most importantly, outpacing his nemesis GM Hikaru Nakamura who finished on 236. GM Jose Martinez&#39;s lofty score of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-march-9-2024",
-         "pubDate" : "Sat, 09 Mar 2024 15:41:00",
-         "title" : "Naroditsky's 'Comeback Of The Century' Stops Nakamura From Winning 20th Title"
-      },
-      {
          "description" : "Want to know how to stick to effective Chess Training? Here is a hard truth you'll need to know: The most fun things aren't the ones that bring us ahead. And they don't make us happy either. Just look at the typical spoilt millionaire child. For their whole lives, they can do what is fun: []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -944,22 +960,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/02/yahoo-zombies-want-chess.html",
          "pubDate" : "Thu, 29 Feb 2024 16:09:00",
          "title" : "Yahoo Zombies Want Chess"
-      },
-      {
-         "description" : " In honour of the 29th of Feb, I've dug up a game that was played on the 29th of Feb, and lasted 29 moves! <br /> <b>Fressinet,Laurent (2700) - Ding,Liren (2766) [D78]</b><br /> China Elite Mind blitz Huaian (20), 29.02.2016 <script> new PgnViewer( { boardName: \"game1446\", movesFormat: \"default\", pgnString:'1.Nf3 d5 2.g3 g6 3.Bg2 Bg7 4.d4 Nf6 5.O-O O-O 6.c4 c6 7.b3 dxc4 8.bxc4 c5 9.Bb2 Qb6 10.Qb3 cxd4 11.Nxd4 Na6 12.e3 Nc5 13.Qa3 e5 14.Nb5 Be6 15.Nd2 Rad8 16.Rfd1 Rd3 17.Nb3 Rfd8 18.Rxd3 Nxd3 19.Bc3 Rd7 20.Qxa7 Qxa7 21.Nxa7 Bxc4 22.Rd1 Nd5 23.Ba1 N5b4 24.Na5 Ba6 25.Bf1 e4 26.Bxg7 Kxg7 27.Nc8 Nd5 28.Nb3 Rd8 29.Na7 Ra8 0-1', pauseBetweenMoves: 500, pieceSize: 29 } ); </script> <br /> <br /> <di",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/02/every-4-years.html",
-         "pubDate" : "Thu, 29 Feb 2024 12:19:00",
-         "title" : "Every 4 years"
-      },
-      {
-         "description" : " The 5th Shenzhen Longgang Chess Masters takes place 29th February to 7th March 2024. Players: Anish Giri, Arjun Erigaisi, Yu Yangyi, Vladislav Artemiev, Daniil Dubov, Bu Xiangzhi, Ma Qun and Xu Xiangyu.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/5th-shenzhen-longgang-chess-masters-2024",
-         "pubDate" : "Thu, 29 Feb 2024 11:53:00",
-         "title" : "5th Shenzhen Longgang Chess Masters 2024 - Games and Results"
       }
    ]
 }
