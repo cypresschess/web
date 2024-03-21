@@ -18,6 +18,14 @@ news_feed (
          "title" : "The American Cup: Live!"
       },
       {
+         "description" : "GM Levon Aronian won his maiden title at the 2024 American Cup on Wednesday. Continuing to play in this tournament what he calls &#34;adventurous chess,&#34; he defeated GM Wesley So only in the final rapid game&#38;mdash;and with the black pieces.&#38;nbsp; Th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-american-cup-day-9-aronian-wins",
+         "pubDate" : "Wed, 20 Mar 2024 18:34:00",
+         "title" : "Aronian Wins 2024 American Cup Without Losing A Single Game"
+      },
+      {
          "description" : "After GM Pranav Venkatesh won the early edition of the March 19 Titled Tuesday with relative ease, GM Magnus Carlsen needed the second tiebreak to earn his first win in the event since January 30. It was little-known Chinese GM Xu Xiangyu who push...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -600,14 +608,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-2024/#new_tab",
          "pubDate" : "Fri, 08 Mar 2024 16:16:13",
          "title" : "ECF Online Grand Prix 2024"
-      },
-      {
-         "description" : "GMs Fabiano Caruana and Cristian Chirila (aka Team C-Squared) won the inaugural&#38;nbsp;2024 Team Chess Battle on Friday. In the Final, they defeated the commentary dream team of GMs Daniel Naroditsky and Robert Hess 1.5-0.5. In game one, they prop...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-final-caruana-chirila-win",
-         "pubDate" : "Fri, 08 Mar 2024 14:48:00",
-         "title" : "Caruana, Chirila Take 1st Crown In 2024 Team Chess Battle"
       },
       {
          "description" : " Try and visualise the following position - White:Kf1, Rd6, Pa7,d7,g3,h3 Black: Kd8, Ra2, Pg5,g6,h7 How do you play as white? (From the book Cognitive Chess by Konstantin Chernyshov) Despite getting the position in my head quite quickly, it still took me around 5 minutes before I worked out the winning idea. See how well you can do. <br /> ",
