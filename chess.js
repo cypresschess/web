@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2932",
+         "pubDate" : "Thu, 21 Mar 2024 10:08:05",
+         "title" : "Levon Aronian wins American Cup 2024"
+      },
+      {
          "description" : " The 1st CARICOM Chess Classic took place in Georgetown, Guyana, a nation with a rich chess tradition. Guyana was previously a regional powerhouse with a number of strong masters. More recently, the federation has rejuvenated and has launched an initiative that will bring shades of the old Caribbean Chess Championships from decades ago. #CARICOM DSG The post <a href=\"https://www.thechessdrum.net/blog/2024/03/20/trinidad-tobago-takes-1st-caricom-chess-classic/\">Trinidad &#038; Tobago takes 1st CARICOM Chess Classic!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/03/20/trinidad-tobago-takes-1st-caricom-chess-classic/",
          "pubDate" : "Thu, 21 Mar 2024 00:01:39",
          "title" : "Trinidad & Tobago takes 1st CARICOM Chess Classic!"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
-         "pubDate" : "Wed, 20 Mar 2024 18:50:00",
-         "title" : "The American Cup: Live!"
       },
       {
          "description" : "GM Levon Aronian won his maiden title at the 2024 American Cup on Wednesday. Continuing to play in this tournament what he calls &#34;adventurous chess,&#34; he defeated GM Wesley So only in the final rapid game&#38;mdash;and with the black pieces.&#38;nbsp; Th...",
@@ -960,14 +960,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/5th-shenzhen-longgang-chess-masters-2024",
          "pubDate" : "Thu, 29 Feb 2024 11:53:00",
          "title" : "5th Shenzhen Longgang Chess Masters 2024 - Games and Results"
-      },
-      {
-         "description" : "In the recent Freestyle event, heart rates of the players were measured in classical chess, with slow time controls. In bullet and blitz formats, where intuition prevails, heart rates remain relatively low compared to slower time controls like Rapid or Classical, which allow more contemplation during critical positions. Here are observations provided by the leading expert on the heart rate data shared during the Weissenhaus event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-heart-racing-experience-2",
-         "pubDate" : "Thu, 29 Feb 2024 09:00:00",
-         "title" : "A Heart-Racing Experience! (2)"
       }
    ]
 }
