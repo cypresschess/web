@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "We just witnessed beautiful chess in Weissenhaus, Germany, played by the top players, which may have led you to start believing you can do the same! But openings can be a great challenge when dealing with Chess960, since one may not know where to start. Thus, we share five tips which may help in battling through the hazy storm of displaced pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/five-freestyle-opening-tips",
-         "pubDate" : "Wed, 20 Mar 2024 09:00:00",
-         "title" : "Five Freestyle Opening Tips!"
+         "description" : " The 1st CARICOM Chess Classic took place in Georgetown, Guyana, a nation with a rich chess tradition. Guyana was previously a regional powerhouse with a number of strong masters. More recently, the federation has rejuvenated and has launched an initiative that will bring shades of the old Caribbean Chess Championships from decades ago. #CARICOM DSG The post <a href=\"https://www.thechessdrum.net/blog/2024/03/20/trinidad-tobago-takes-1st-caricom-chess-classic/\">Trinidad &#038; Tobago takes 1st CARICOM Chess Classic!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/03/20/trinidad-tobago-takes-1st-caricom-chess-classic/",
+         "pubDate" : "Thu, 21 Mar 2024 00:01:39",
+         "title" : "Trinidad & Tobago takes 1st CARICOM Chess Classic!"
       },
       {
-         "description" : "The 2024 Candidates Tournament is rapidly approaching, and it could very well be a landmark moment in chess history once all is said and done. Exciting young talents combine with established veterans of the game, with the winner taking on current ...",
+         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
+         "pubDate" : "Wed, 20 Mar 2024 18:50:00",
+         "title" : "The American Cup: Live!"
+      },
+      {
+         "description" : "After GM Pranav Venkatesh won the early edition of the March 19 Titled Tuesday with relative ease, GM Magnus Carlsen needed the second tiebreak to earn his first win in the event since January 30. It was little-known Chinese GM Xu Xiangyu who push...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-candidates-prediction-contest",
-         "pubDate" : "Wed, 20 Mar 2024 07:22:19",
-         "title" : "Who Will Win The Candidates? Tell Us And Win Prizes!"
+         "link" : "https://www.chess.com/news/view/pranav-carlsen-win-titled-tuesday-march-19-2024",
+         "pubDate" : "Wed, 20 Mar 2024 08:49:00",
+         "title" : "Carlsen Clinches One Of Closest Tuesdays Yet"
       },
       {
          "description" : "The Philidor Defence is an old but very solid defence against 1.e4. However, Black can also play very actively in various positions. French grandmaster Christian Bauer is an expert on this opening and presents here a repertoire that is easy to master. Christian Hoethe has reviewed the course.",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-8",
          "pubDate" : "Tue, 19 Mar 2024 18:48:00",
          "title" : "Lee Seizes 1st-Ever Lead Vs. Krush"
-      },
-      {
-         "description" : "Be well-prepared with the new Opening Encyclopaedia 2024! Whether you want to build up a reliable and powerful opening repertoire or find new opening ideas for your existing repertoire, the Opening Encyclopaedia covers the entire opening theory and is the ideal start for your opening training. Many new articles enrich the current theory with new or revisited ideas. The Encyclopaedia can help you learn openings quickly and give you a head start on your next opponent. Each article contains explanations and annotated games illustrating typical plans to deepen your understanding.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-new-opening-encyclopaedia-2024-your-easy-access-to-opening-theory",
-         "pubDate" : "Tue, 19 Mar 2024 16:00:00",
-         "title" : "The New Opening Encyclopaedia 2024 - Your easy access to Opening Theory"
       },
       {
          "description" : " I only learned today that the line 1.e4 e5 2.Nf3 Nc6 3.Bc4 f5?! was the Rousseau Gambit. I'd heard this opening discussed numerous times within the Canberra chess scene, but for some reason I thought it was a different opening, and the moves above were just sort of dodgy Italian/Latvian hybrid (The Italvian Opening?). I'd even played it in the past at fast time limits, albeit with little success. Despite it's poor reputation it sometimes works out for Black. Here GM Dejan Bojkov comes undone against Pavel Dimitrov in what appears to be a brutal kingside hack. <br /> <b>Bojkov,Dejan (2514) - Dimitrov,Pavel (2304) [C50]</b><br /> BUL-chT-A 62nd Sunny Beach (1.3), 19.09.2012 <script> new PgnVi",
@@ -103,7 +103,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-american-cup-day-7",
          "pubDate" : "Mon, 18 Mar 2024 18:30:00",
-         "title" : "So, Lee Rise to Grand Finals"
+         "title" : "So, Lee Rise To Grand Finals"
       },
       {
          "description" : "This weekly series on comic software started with an imaginary chess village in the Catskill mountains, last seen in <A HREF=\"https://chessforallages.blogspot.com/2024/02/chess-comics-grids-and-panels.html\">Chess Comics - Grids and Panels</A> (February 2024). To explore the grids and panels, <BLOCKQUOTE> I went back to the first comic page in the series, <I>The Chess Village</I> (January 2024), copied the prompt I used to make the image shown in the post, and re-entered the prompt into the software. </BLOCKQUOTE> <P> Chess villages are not all imaginary. Not too long ago I mentioned two in the monthly news post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/this-month-features-bottom",
@@ -127,7 +127,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2923",
          "pubDate" : "Mon, 18 Mar 2024 10:23:02",
-         "title" : "​​​​​​​African Championship 2024: Bassem Amin wins title"
+         "title" : "African Championship 2024: Bassem Amin and Jesse February win titles"
       },
       {
          "description" : "Live Games Live Link for Velammal AICF Women Grandmaster Round Robin Chess Tournament, 2024 Live games :&#160;https://live.tamilchess.com/WGMRR/index.html Chess Results Link :&#160;https://chess-results.com/tnr911363.aspx?lan=1&#38;turdet=YES",
@@ -312,6 +312,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/what-can-you-learn-from-vidit",
          "pubDate" : "Fri, 15 Mar 2024 11:00:00",
          "title" : "What can you learn from Vidit"
+      },
+      {
+         "description" : "The 2024 Candidates Tournament is rapidly approaching, and it could very well be a landmark moment in chess history once all is said and done. Exciting young talents combine with established veterans of the game, with the winner taking on current ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-candidates-prediction-contest",
+         "pubDate" : "Fri, 15 Mar 2024 09:25:00",
+         "title" : "Who Will Win The Candidates? Tell Us And Win Prizes!"
       },
       {
          "description" : " More than 400 players, including several young English talents, are competing in Iceland's premier event More than half a century on, the Bobby Fischer v Boris Spassky series at Reykjavik in 1972 remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where, for a brief period, a galaxy of talent made England the No 2 chess nation behind the Soviet Union. On Friday, the annual Reykjavik Open starts at the Harpa conference centre in the heart of the city with a full �complement of 420 players, ranging from elite grandmasters to ordinary amateurs, nearly a tenth of them British. The excursion on the tournament's free morning includes a",
@@ -706,14 +714,6 @@ news_feed (
          "title" : "Majority of elite female chess players believe a woman will be World Champion"
       },
       {
-         "description" : "GM Nodirbek Abdusattorov kept his newly accomplished world number-four status by finishing the 2024 Prague Masters&#38;nbsp;with a quick draw against GM Richard Rapport. Thursday&#39;s final round saw draws on all boards, so Abdusattorov won the tournamen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-prague-chess-festival-round-9",
-         "pubDate" : "Thu, 07 Mar 2024 11:00:00",
-         "title" : "Abdusattorov Maintains World #4 Position As Prague Masters Ends With All Draws"
-      },
-      {
          "description" : "Nodirbek Abdusattorov is the sixth champion of the prestigious chess festival. In the process the the 19-year-old Usbek grandmaster rose to the fourth position in the world live ranking, ahead of the reigning world champion Ding Liren. All games of the final round were drawn, and can be replayed, with engine commentary, in this report. You can also watch the live commentary by ChessBase India, if you missed it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -992,54 +992,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-heart-racing-experience-2",
          "pubDate" : "Thu, 29 Feb 2024 09:00:00",
          "title" : "A Heart-Racing Experience! (2)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In-person audience member purposes a questionable sacrifice. 2024.02.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/audience-offers-sacrifice-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ukJaLUHQdUw.jpg?itok=QhjAh4z1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/audience-offers-sacrifice-grandmasters-choice-wgm-thalia-cervantes",
-         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
-         "title" : "Audience Offers A Sacrifice | Grandmaster's Choice - WGM Thalia Cervantes"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Julian forgets his purpose and blows a win. 2024.02.27 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dont-forget-why-you-made-move-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jLcCV_TKdVs.jpg?itok=_Yrz7qQD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dont-forget-why-you-made-move-road-2000-nm-julian-proleiko",
-         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
-         "title" : "Don't Forget Why You Made a Move! | Road to 2000 - NM Julian Proleiko"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Viewer suggests an illegal move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/qg1-illegal-highly-effective-road-2000-nm-julian-proleiko\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cJ7kPMvhEkw.jpg?itok=fxXxIY29\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/qg1-illegal-highly-effective-road-2000-nm-julian-proleiko",
-         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
-         "title" : "Qg1? Illegal, but Highly Effective! | Road to 2000 - NM Julian Proleiko"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Behind the pawns, there is room to improve. 2024.02.20 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/seize-initiative-grandmasters-choice-wgm-thalia-cervantes\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yq0pN3IYCs4.jpg?itok=LuzWolZe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/seize-initiative-grandmasters-choice-wgm-thalia-cervantes",
-         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
-         "title" : "Seize the Initiative | Grandmaster's Choice - WGM Thalia Cervantes"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Boros likens the Carlsbad structure to World War I. 2024.02.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsbad-pawn-structure-trench-warfare-grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4gQ6jLM2Cy8.jpg?itok=VMdxVGx2\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/carlsbad-pawn-structure-trench-warfare-grandmaster-psychology-gm-denes-boros",
-         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
-         "title" : "Carlsbad Pawn Structure is Trench Warfare! | Grandmaster Psychology - GM Denes Boros"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Understanding the stability of the Carlsbad pawn structure. 2024.02.21 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/oh-stability-carlsbad-structure-black-grandmaster-psychology-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BawuuQaxbEM.jpg?itok=sRPUtURL\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/oh-stability-carlsbad-structure-black-grandmaster-psychology-gm-denes-boros",
-         "pubDate" : "Wed, 28 Feb 2024 22:06:37",
-         "title" : "Oh, The Stability! Carlsbad Structure for Black | Grandmaster Psychology - GM Denes Boros"
       }
    ]
 }
