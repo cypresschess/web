@@ -1,4 +1,5 @@
 jtable([
+"LEAGUE CITY","2024-03-06  - 03-20","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403202042 target='_blank'>CLCC MARCH WEDNESDAYS</a>",
 "CYPRESS","2024-03-15","26","<a href=http://www.uschess.org/msa/XtblMain.php?202403158532 target='_blank'>Knights of Cypress</a>",
 "SPRING","2024-03-15","30","<a href=http://www.uschess.org/msa/XtblMain.php?202403158492 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-03-15","16","<a href=http://www.uschess.org/msa/XtblMain.php?202403158402 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 15, 2024</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-09-08","14","<a href=http://www.uschess.org/msa/XtblMain.php?202309087642 target='_blank'>REBECCA CHESS CLUB QUADS SEPTEMBER 8, 2023</a>",
 "SUGAR LAND","2023-09-08","12","<a href=http://www.uschess.org/msa/XtblMain.php?202309087612 target='_blank'>FBCC 2023 HOT SEPTEMBER NIGHT OPEN</a>",
 "CYPRESS","2023-09-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202309087602 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2023-09-01  - 09-04","4","<a href=http://www.uschess.org/msa/XtblMain.php?202309047062 target='_blank'>LOGAN AND FRIENDS MATCHES</a>",
 ]);
