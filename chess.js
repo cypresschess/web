@@ -34,14 +34,6 @@ news_feed (
          "title" : "Carlsen Clinches One Of Closest Tuesdays Yet"
       },
       {
-         "description" : "The Philidor Defence is an old but very solid defence against 1.e4. However, Black can also play very actively in various positions. French grandmaster Christian Bauer is an expert on this opening and presents here a repertoire that is easy to master. Christian Hoethe has reviewed the course.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/review-christian-bauer-evergreen-philidor",
-         "pubDate" : "Tue, 19 Mar 2024 23:00:00",
-         "title" : "Review - Christian Bauer's \"The evergreen Philidor\""
-      },
-      {
          "description" : "IM Alice Lee captured the lead vs. GM Irina Krush for the first time in a match in the Grand Final of the 2024 American Cup.&#38;nbsp;GMs Levon Aronian and Wesley So had a peaceful day, making two draws and leaving the fate of their match entirely on ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,14 +56,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-1a-on-21-22-march-2024/",
          "pubDate" : "Tue, 19 Mar 2024 11:48:36",
          "title" : "AICF Arbiter Refresher Seminar Batch 1A & 1 B on 21-22 March 2024"
-      },
-      {
-         "description" : "The centre of the chessboard is a crucial area that significantly impacts the game. The centre consists of the four squares in the middle of the board: d4, d5, e4, and e5. Control over the centre often provides a decisive advantage in chess. Why? Because every piece (except the rook) controls more squares when it is centralised. Remember, whoever dominates the centre often gains an advantage. So, keep an eye on those central squares during your games!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-fight-for-the-centre",
-         "pubDate" : "Tue, 19 Mar 2024 11:00:00",
-         "title" : "A Fight for the Centre"
       },
       {
          "description" : "FIDE World School Chess Championship 2024 will be held from 30th April to 10th May 2024 at Lima, Peru and players who participated in the",
@@ -496,14 +480,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2920",
          "pubDate" : "Mon, 11 Mar 2024 22:57:28",
          "title" : "13th African Games: Egypt rules supreme"
-      },
-      {
-         "description" : "Chess is a fun game - ask the countless millions who play it. But apart from the contest at the board, there are additional forms for you to enjoy, like chess puzzles and studies. Many of them defy the imagination. Today we start a new column, and have three deceptively simple - but enchanting - examples for you to solve. The sources and solutions will be provided in a week. Until then, have fun working things out all by yourself.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-puzzle-challenge-01",
-         "pubDate" : "Mon, 11 Mar 2024 19:00:00",
-         "title" : "ChessBase Puzzle Challenge - 01"
       },
       {
          "description" : "The most recent post in the current Monday series on chess comics was <A HREF=\"https://chessforallages.blogspot.com/2024/03/comics-scholarship-not-necessarily-chess.html\">Comics Scholarship, Not Necessarily Chess</A> (March 2024). At the end of the post I wrote, <BLOCKQUOTE> In the same Google search, the top result was <I>The Comics Grid: Journal of Comics Scholarship</I> (comicsgrid.com). [...] I look forward to discovering the journal. </BLOCKQUOTE> <P> That was then, but this is now. The first article in the journal is currently <A HREF=\"https://www.comicsgrid.com/article/id/10250/\">Labra | Caught Between Manga and the Graphic Novel: Two Cartoonists' Trajectories in Contemporary Argentin",
