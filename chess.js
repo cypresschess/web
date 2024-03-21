@@ -26,6 +26,14 @@ news_feed (
          "title" : "2024 O2C Doeberl Cup - 1 week to go"
       },
       {
+         "description" : "A paralyzed man is able to play chess with the help of a chip produced by Neuralink and implanted into his brain. A video posted on Wednesday evening on the social media platform X showing the remarkable achievement has been viewed over 70 million...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/paraplegic-plays-chess-helped-by-neuralink-chip-in-brain",
+         "pubDate" : "Thu, 21 Mar 2024 12:32:00",
+         "title" : "Neuralink Chip In Brain Helps Paraplegic Person Play Chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
