@@ -66,7 +66,7 @@ news_feed (
          "title" : "ECF Level 1 Arbiter Course - June/July 2024"
       },
       {
-         "description" : "14-year-old WGM Lu Miaoyi gained 200 rating points, secured the IM title, came close to scoring a GM norm, and skyrocketed to the world number-two spot for girls under 20, all in the past year. The Chinese teenager is already reaching historic lev...",
+         "description" : "14-year-old WGM Lu Miaoyi gained 200 rating points, secured the IM title, came close to scoring a GM norm, and skyrocketed to the world number-two spot for girls under 20, all in the past few months. The Chinese teenager is already reaching histor...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lu-miaoyi-becomes-worlds-4th-youngest-female-im",
