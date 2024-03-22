@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "14-year-old IM Alice Lee is the first player ever to emerge from the Elimination Bracket to win the American Cup. She defeated GM Irina Krush for the second time on Thursday, in the blitz playoffs after four decisive rapid games, to win her maiden...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-american-cup-day-10-alice-lee-wins",
+         "pubDate" : "Thu, 21 Mar 2024 19:01:00",
+         "title" : "14-Year-Old Alice Lee Wins Women's American Cup In Blitz Playoffs"
+      },
+      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-new-elected-office-bearers-for-2024-2027/",
          "pubDate" : "Sun, 10 Mar 2024 16:06:30",
          "title" : "AICF Newly Elected Office Bearers for 2024-2027"
-      },
-      {
-         "description" : "Team C-Squared (GMs Fabiano Caruana and Cristian Chirila) claimed the first Team Chess Battle title this Friday, a new format that elevates chess from a silent duel on the 64 squares. Not quite hand-and-brain or Banter Blitz, but a sort of combina...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-team-chess-battle-5-things-we-learned",
-         "pubDate" : "Sun, 10 Mar 2024 11:14:00",
-         "title" : "5 Things We Learned - Team Chess Battle 2024"
       },
       {
          "description" : "",
