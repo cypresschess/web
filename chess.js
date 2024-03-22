@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
+         "pubDate" : "Fri, 22 Mar 2024 11:23:05",
+         "title" : "ECF Level 1 Arbiter Course - June/July 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2933",
+         "pubDate" : "Fri, 22 Mar 2024 10:28:04",
+         "title" : "FIDE torch relay reaches Africa"
+      },
+      {
+         "description" : "The 2024 Reykjavik Open took place from 15-21 March in Iceland with the participation of more than 400 players from 49 federations. Six players headed into the last round co-leading the event and the last round determined the Winner. Among three direct clashes between the leaders, only GM Bogdan-Daniel Deac (ROU, 2690) managed to score a victory and emerged as the sole winner of the event. Bogdan-Daniel Deac defeated GM Alisher Suleymenov (KAZ, 2506) to finish the event with the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/bogdan-daniel-deac-wins-reykjavik-open-2024/",
+         "pubDate" : "Fri, 22 Mar 2024 09:45:35",
+         "title" : "Bogdan-Daniel Deac wins Reykjavik Open 2024"
+      },
+      {
+         "description" : " Freestyle Chess (also known as Fischer Random and Chess 960) has announced a $1m tournament in each of five continents Freestyle Chess, which made an <a href=\"https://www.theguardian.com/sport/2024/feb/23/freestyle-chess-plans-2025-global-tour-for-carlsen-and-the-worlds-top-players\">impressive debut last month</a>, has firmed up its plans to expand into five continents next year, as well as enlisting the top 25 elite grandmasters into a new club for its competing players. The variant, also known as Fischer Random and Chess 960, has the back rank pieces on both sides on random squares, with Black's pieces placed equal-and-opposite to their White counterparts. German promoter Jan Buettner, wh",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/mar/22/richest-chess-tour-announced-for-2025-as-freestyle-wins-global-appeal",
+         "pubDate" : "Fri, 22 Mar 2024 08:00:32",
+         "title" : "Richest chess tour announced for 2025 as freestyle wins global appeal"
+      },
+      {
          "description" : "Romanian grandmaster Bogdan-Daniel Deac won the Reykjavik Open after scoring 7&frac12;/9 points, leaving seven players tied for second place a half point back. According to tiebreak criteria, Sebastian Maze from France and Paulius Pultinevicius from Lithuania grabbed second and third place, respectively. Deac entered the event as the rating favourite, and obtained clear first place after scoring back-to-back wins in the final two rounds. | Photo: Hallfr&iacute;√∞ur Sigur√∞ard&oacute;ttir",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "Bogdan-Daniel Deac outright winner in Reykjavik"
       },
       {
-         "description" : "Please find the provisional list for Batch 2A . Kindly note Batch 2 B will be updated soon . Batch 2A Further note that zoom",
+         "description" : "Please find the provisional list for Batch 2A . Kindly note Batch 2 B will be updated soon . Batch 2 A Further note that",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-2a-1-b-on-25-26-march-2024/",
@@ -952,30 +984,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/xmas-day-for-chess-players.html",
          "pubDate" : "Fri, 01 Mar 2024 12:42:00",
          "title" : "Xmas day for chess players"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108137552.cms\" />For the second consecutive day, Grandmaster R Praggnanandhaa made a critical blunder, leading to his defeat against Richard Rapport of Romania in the third round of the Prague Masters Chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/prague-masters-r-praggnanandhaa-blunders-again-goes-down-to-richard-rapport/articleshow/108137552.cms",
-         "pubDate" : "Fri, 01 Mar 2024 10:30:26",
-         "title" : "Prague Masters: R Praggnanandhaa blunders again, goes down to Richard Rapport"
-      },
-      {
-         "description" : "Tata Steel 2024: Analyses of the tournament winner Wei Yi as well as Nodirbek Abdusattorov, Alexander Donchenko, Alireza Firouzja, Anish Giri, Erwin l'Ami, Praggnanandhaa, Eline Roebers and Vidit Gujrathi - Mihail Marin looks back at Linares 1992: Kasparov vs. the young generation - French &agrave; la Erigaisi: Sergey Grigoriants serves up a fresh idea in the Advance Variation: 1.e4 e6 2.d4 d5 3.e5 c5 4.c3 Nc6 5.Nf3 Bd7 6.Be2 f6!? - Inviting Nimzo-Inder: In the fashionable variation 4.f3 d5 5.a3 Be7 6.e4 dxe4 7.fxe4 c5 White gets a protected passed pawn on d5; Jan Werle shows why Black can afford it! - \"Fundamental Endgame Knowledge\" Part #8: What you need to know in the endgame with bishop ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-218",
-         "pubDate" : "Fri, 01 Mar 2024 09:00:00",
-         "title" : "New: ChessBase Magazine #218"
-      },
-      {
-         "description" : " The eight-time British champion, 52, has played 63 games without defeat, while Ruqayya Rida, 12, scored against two GMs and Bodhana Sivanandan, eight, is the new world No 1 under-nine Michael Adams has now won seven major tournaments in a row without loss of a game. The eight-time ≠British champion trailed the leaders in last week's ≠Cambridge International Open all the way until the ninth and final round, but surged when it ≠mattered and won the &pound;1500 prize for the second year in succession. <a href=\"https://www.theguardian.com/sport/2024/mar/01/chess-adams-wins-seventh-straight-first-prize-as-englands-girls-set-records\">Continue reading...</a>",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/mar/01/chess-adams-wins-seventh-straight-first-prize-as-englands-girls-set-records",
-         "pubDate" : "Fri, 01 Mar 2024 08:00:53",
-         "title" : "Chess: Adams wins seventh straight first prize as England's girls set records"
       }
    ]
 }
