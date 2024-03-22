@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Romanian grandmaster Bogdan-Daniel Deac won the Reykjavik Open after scoring 7&frac12;/9 points, leaving seven players tied for second place a half point back. According to tiebreak criteria, Sebastian Maze from France and Paulius Pultinevicius from Lithuania grabbed second and third place, respectively. Deac entered the event as the rating favourite, and obtained clear first place after scoring back-to-back wins in the final two rounds. | Photo: Hallfr&iacute;ður Sigurðard&oacute;ttir",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reykjavik-open-2024-final-report",
+         "pubDate" : "Fri, 22 Mar 2024 07:00:00",
+         "title" : "Bogdan-Daniel Deac outright winner in Reykjavik"
+      },
+      {
+         "description" : "Please find the provisional list for Batch 2A . Kindly note Batch 2 B will be updated soon . Batch 2A Further note that zoom",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-2a-1-b-on-25-26-march-2024/",
+         "pubDate" : "Fri, 22 Mar 2024 04:44:46",
+         "title" : "AICF Arbiter Refresher Seminar Batch 2 A & 2 B on 25-26 March 2024"
+      },
+      {
          "description" : "14-year-old IM Alice Lee is the first player ever to emerge from the Elimination Bracket to win the American Cup. She defeated GM Irina Krush for the second time on Thursday, in the blitz playoffs after four decisive rapid games, to win her maiden...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -832,14 +848,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/bcc-2024-tenders-invited/",
          "pubDate" : "Mon, 04 Mar 2024 10:40:56",
          "title" : "BCC 2024 tenders invited"
-      },
-      {
-         "description" : "Click here Form 6",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-election-form-6/",
-         "pubDate" : "Mon, 04 Mar 2024 10:32:01",
-         "title" : "AICF Election :Form 6"
       },
       {
          "description" : "Find the crosstable here. Congratulations also to Trisha Kanyamarala on becoming&#160;the first Irish player and the first female player to tie for first place. An...",
