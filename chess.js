@@ -10,12 +10,28 @@ news_feed (
          "title" : "American Cup 2024 - Games and Results"
       },
       {
+         "description" : "Levon Aronian and Alice Lee emerged victorious at the 2024 edition of the American Cup. While Aronian did not lose a single game throughout the event, Lee managed to beat defending champion Irina Krush twice in a row in hard-fought matches. At 14, Lee played her third consecutive Grand Final in the event, as Krush had defeated her in the previous two editions. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/american-cup-2024-d10",
+         "pubDate" : "Fri, 22 Mar 2024 20:00:00",
+         "title" : "Aronian and Lee clinch American Cup titles!"
+      },
+      {
          "description" : " The Reykjavik Open took place 15th to 21st March 2024. Leading players: Bogdan-Daniel Deac, Vasyl Ivanchuk, Xiangyu Xu, Jules Moussard, Matthieu Cornette, Paulius Pultinevicius etc. Top seed Bogdan-Daniel Deac won with 7.5/9 half a point clear of the field.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2024",
          "pubDate" : "Fri, 22 Mar 2024 18:56:00",
          "title" : "Reykjavik Open 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2024/03/Menchik-Memorial-2024-Round-1.pdf#new_tab",
+         "pubDate" : "Fri, 22 Mar 2024 16:48:23",
+         "title" : "Menchik Memorial 2024 Round 1"
       },
       {
          "description" : "29-year-old Noland Arbaugh became the first user of Neuralink. He mentioned in the livestream that about eight years ago he had a freak diving accident. It dislocated his C4 and C5 vertebrae, which made him quadriplegic. He is paralysed and has no sensation of movement below the shoulders. Noland controlled a computer cursor with his brain using Brain Computer Interface. Check out this fascinating piece of technology. | Photo: Neuralink",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
          "pubDate" : "Fri, 22 Mar 2024 11:23:05",
          "title" : "ECF Level 1 Arbiter Course - June/July 2024"
+      },
+      {
+         "description" : "14-year-old WGM Lu Miaoyi gained 200 rating points, secured the IM title, came close to scoring a GM norm, and skyrocketed to the world number-two spot for girls under 20, all in the past year. The Chinese teenager is already reaching historic lev...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lu-miaoyi-becomes-worlds-4th-youngest-female-im",
+         "pubDate" : "Fri, 22 Mar 2024 11:13:13",
+         "title" : "Lu Miaoyi, World's 4th Youngest Female IM, Continues To Shine"
       },
       {
          "description" : "",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2024-live",
          "pubDate" : "Thu, 21 Mar 2024 18:50:00",
          "title" : "The American Cup: Live!"
-      },
-      {
-         "description" : "A recent addition to the Encyclopaedia is the \"opening trends\" section, developed by Dorian Rogozenco. In this segment, he explores nine of the most favored openings through video discussions, offering his insights on the effectiveness and power of the variations. Furthermore, the software has an opening highlight selection of the last 12 months, and another three videos by experts Mihail Marin, Luis Engel, and Daniel King.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2024-discovering-current-opening-trends",
-         "pubDate" : "Thu, 21 Mar 2024 14:00:00",
-         "title" : "Opening Encyclopaedia 2024 - Discovering current opening trends"
       },
       {
          "description" : " The 2024 O2C Doeberl Cup starts in a week, and at this stage the event is very close to breaking last years attendance record. The Premier is the strongest it has been for years, with 5 GM's, 8 IM's and 27 other titles players. Both the Major (Under 2100) and Minor (Under 1800) have reached capacity, while there are a few spots left in the Mini (Under 1500) and the Under 1200 event. With last years Blitz event attracting a field of 177 players, this years Blitz will have 2 sections. There will be an early starting Under 1600 event (beginning at 5:30pm on the Saturday), and the Open event (starting at 7:30pm). And for the first time since 2019 there will be an onsite commentator, with GM Dar",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2919",
          "pubDate" : "Mon, 11 Mar 2024 09:13:20",
          "title" : "World Cup U8, U10, U12: Last call for wild cards "
-      },
-      {
-         "description" : "The Chess.com community celebrated International Women&#39;s Day on Friday with a roundtable discussion featuring leading female voices in chess as well as a two-hour blitz arena, which was won by Mexico&#39;s NM Emilio Hernandez. The discussion, led by...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/international-womens-day-roundtable-arena-2024",
-         "pubDate" : "Mon, 11 Mar 2024 08:36:00",
-         "title" : "Leading Voices In Chess Celebrate 'Positive Change' On International Women's Day"
       },
       {
          "description" : "",
