@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The American Cup took place Tue 12th to Thu 21st Mar in Saint Louis. The format was a knock-out tournament with double elimination. A mixture of Classical first and then rapid games are played followed by tie-breaks if required. Open event: Caruana, So, Dominguez, Aronian, Shankland, Robson, Sevian and Oparin. Women's: Krush, Lee, Tokhirjonova, Zatonskih, Paikidze, Abrahamyan, Jennifer Yu, Zoey Tang. Levon Aronian was unbeaten throughout and defeated Wesley So 2.5-1.5 in the Grand Final. Alice Lee won the women's event, she lost to Irina Krush in the original final, beat her in the Grand Final and then won the final two blitz games in the Grand Final reset.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2024",
+         "pubDate" : "Fri, 22 Mar 2024 21:12:00",
+         "title" : "American Cup 2024 - Games and Results"
+      },
+      {
+         "description" : " The Reykjavik Open took place 15th to 21st March 2024. Leading players: Bogdan-Daniel Deac, Vasyl Ivanchuk, Xiangyu Xu, Jules Moussard, Matthieu Cornette, Paulius Pultinevicius etc. Top seed Bogdan-Daniel Deac won with 7.5/9 half a point clear of the field.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2024",
+         "pubDate" : "Fri, 22 Mar 2024 18:56:00",
+         "title" : "Reykjavik Open 2024 - Games and Results"
+      },
+      {
+         "description" : "29-year-old Noland Arbaugh became the first user of Neuralink. He mentioned in the livestream that about eight years ago he had a freak diving accident. It dislocated his C4 and C5 vertebrae, which made him quadriplegic. He is paralysed and has no sensation of movement below the shoulders. Noland controlled a computer cursor with his brain using Brain Computer Interface. Check out this fascinating piece of technology. | Photo: Neuralink",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/quadriplegic-plays-chess-neuralink",
+         "pubDate" : "Fri, 22 Mar 2024 16:00:00",
+         "title" : "29-year-old quadriplegic plays chess online using a Brain Computer Interface"
+      },
+      {
+         "description" : " Jacorey Bynum broke the 2200 barrier last weekend at the Southern Chess Classic, earning the coveted title of National Master! It is a testament to the values of chess education. Jacorey BynumPhoto from jbking07 (chess.com) Jacorey learned to play chess in August 2017 as a positive outlet during a difficult period in life. He started The post <a href=\"https://www.thechessdrum.net/blog/2024/03/22/jacorey-bynum-makes-national-master/\">Jacorey Bynum makes National Master!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/03/22/jacorey-bynum-makes-national-master/",
+         "pubDate" : "Fri, 22 Mar 2024 15:04:08",
+         "title" : "Jacorey Bynum makes National Master!"
+      },
+      {
+         "description" : " Saw this on youtube (no link cause I am lazy)<br />\"Is checkers a better game than chess?\" No <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/simple-questions-with-simple-answers.html",
+         "pubDate" : "Fri, 22 Mar 2024 12:17:00",
+         "title" : "Simple questions with simple answers"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2933",
          "pubDate" : "Fri, 22 Mar 2024 10:28:04",
          "title" : "FIDE torch relay reaches Africa"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2932",
+         "pubDate" : "Fri, 22 Mar 2024 10:08:05",
+         "title" : "Levon Aronian and Alice Lee win American Cup 2024"
       },
       {
          "description" : "The 2024 Reykjavik Open took place from 15-21 March in Iceland with the participation of more than 400 players from 49 federations. Six players headed into the last round co-leading the event and the last round determined the Winner. Among three direct clashes between the leaders, only GM Bogdan-Daniel Deac (ROU, 2690) managed to score a victory and emerged as the sole winner of the event. Bogdan-Daniel Deac defeated GM Alisher Suleymenov (KAZ, 2506) to finish the event with the []",
@@ -88,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/paraplegic-plays-chess-helped-by-neuralink-chip-in-brain",
          "pubDate" : "Thu, 21 Mar 2024 12:32:00",
          "title" : "Neuralink Chip In Brain Helps Paraplegic Person Play Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2932",
-         "pubDate" : "Thu, 21 Mar 2024 10:08:05",
-         "title" : "Levon Aronian wins American Cup 2024"
       },
       {
          "description" : "A group of strong-minded and strong-legged chess enthusiasts banded together and walked 13 miles (21 kilometers) across New York on March 16 to raise over $11,000 for The Gift of Chess.&#38;nbsp; This charitable organization seeks to transform lives...",
@@ -176,14 +216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2931",
          "pubDate" : "Mon, 18 Mar 2024 21:27:10",
          "title" : "FIDE World Corporate Championship 2024 starts with two qualifiers"
-      },
-      {
-         "description" : " The Reykjavik Open takes place 15th to 21st March 2024. Leading players: Bogdan-Daniel Deac, Vasyl Ivanchuk, Xiangyu Xu, Jules Moussard, Matthieu Cornette, Paulius Pultinevicius etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2024",
-         "pubDate" : "Mon, 18 Mar 2024 18:56:00",
-         "title" : "Reykjavik Open 2024 - Games and Results"
       },
       {
          "description" : "GM Wesley So and IM Alice Lee have risen out of the Elimination Bracket to challenge GMs Levon Aronian and Irina Krush in the Grand Finals of the 2024 American Cup.&#38;nbsp; After a brilliant game by GM Ray Robson to take the lead, So won on demand...",
@@ -528,14 +560,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2922",
          "pubDate" : "Tue, 12 Mar 2024 21:45:32",
          "title" : "Lesotho Championship: Motlomelo Lihloela and Ngatane Lieketseng win titles"
-      },
-      {
-         "description" : " The American Cup takes place Tue 12th to Thu 21st Mar in Saint Louis. The format is a knock-out tournament with double elimination. A mixture of Classical first and then rapid games are played followed by tie-breaks if required. Open event: Caruana, So, Dominguez, Aronian, Shankland, Robson, Sevian and Oparin. Women's: Krush, Lee, Tokhirjonova, Zatonskih, Paikidze, Abrahamyan, Jennifer Yu, Zoey Tang. I will try to produce some live coverage but the format is very taxing. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2024",
-         "pubDate" : "Tue, 12 Mar 2024 21:12:00",
-         "title" : "American Cup 2024 - Games and Results"
       },
       {
          "description" : "Day one of the 2024 American Cup saw a whopping 13 decisive games across the Open and Women&#39;s tournaments in St. Louis on Tuesday. GM Fabiano Caruana got off to a 2-0 start against GM Grigoriy Oparin, while GM Wesley So is the only other player ...",
@@ -976,14 +1000,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-raises-concerns-over-visa-delay-for-chess-players-ahead-of-candidates-event/articleshow/108156663.cms",
          "pubDate" : "Sat, 02 Mar 2024 06:37:05",
          "title" : "FIDE raises concerns over visa delay for chess players ahead of Candidates event"
-      },
-      {
-         "description" : " The 1st of March FIDE Rating List saw the proposed rating 'compression' come into effect. All rated players under 2000 were given a rating boost, based on the formula New rating = Old rating + (0.4 * (2000 - Old rating)). So for a player rated 1001 that would bee 400 points, while a player rated 1990, that would be 4 points. From a local point of view there ware 2 main effects. Firstly, lots of players qualify for higher categories in the upcoming Doeberl Cup. Secondly, there may well be a lot of 'farming' going on, as older players regain some of the points previously lost to younger players (ie rather than avoiding junior players, it may be an advantage in playing them as their ratings in",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/xmas-day-for-chess-players.html",
-         "pubDate" : "Fri, 01 Mar 2024 12:42:00",
-         "title" : "Xmas day for chess players"
       }
    ]
 }
