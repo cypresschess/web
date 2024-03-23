@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We are nearly through Q1 of 2024 already. This is where we get to witness the huge difference between motivation and systems. I hope you've used my&#160;7-day series&#160;at the end of last year to build the latter. If you haven't, you probably realize by now that just motivation won't get you far, at least not []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/habits-not-motivation/",
+         "pubDate" : "Sat, 23 Mar 2024 12:03:12",
+         "title" : "Habits, Not Motivation"
+      },
+      {
          "description" : "As I have been regularly demonstrating in this column, chess is one of the world's oldest games of war, sharing a similar antiquity to the Chinese encirclement game of Go, Chinese chess (aka Xiangqi), and the Japanese game of Shogi. However, chess is generally said to have been developed, not in China or Japan, but in []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -368,6 +376,14 @@ news_feed (
          "link" : "https://www.thearticle.com/the-moves-of-babes-and-sucklings/",
          "pubDate" : "Sat, 16 Mar 2024 11:53:55",
          "title" : "The moves of babes and sucklings"
+      },
+      {
+         "description" : "Is it really worth paying for chess content? Or is all the free chess learning content available on the internet enough? In this article, I will tell you what free content is really worth studying, and when it makes sense to invest some money to save a lot of time and energy. We All Love []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/free-chess-learning/",
+         "pubDate" : "Sat, 16 Mar 2024 11:22:06",
+         "title" : "Chess Learning: Free Vs Paid Chess Content"
       },
       {
          "description" : "",
@@ -968,14 +984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2906",
          "pubDate" : "Sat, 02 Mar 2024 19:18:23",
          "title" : "Africa U8 Chess Champion wins prestigious national award in Kenya"
-      },
-      {
-         "description" : "Today sees the annual Varsity Match between the Universities of Oxford and Cambridge, hosted as usual by the Royal Automobile Club in Pall Mall. The current score is: Cambridge 60 wins to Oxford's 58; 23 matches have been drawn. The respective teams and ratings are as follows, with Oxford names first: Varsity Match number 142 Board​​ Oxford Cambridge 1. ​​Tom O'Gorman (2321)​​ []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/unseen-blushes-hans-niemann-and-the-varsity-match/",
-         "pubDate" : "Sat, 02 Mar 2024 12:15:03",
-         "title" : "Unseen blushes: Hans Niemann and the Varsity Match"
       }
    ]
 }
