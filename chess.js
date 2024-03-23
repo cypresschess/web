@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "45th Chess Olympiad is scheduled to be held at Budapest, Hungary from 10th to 23rd September 2024. As per the selection regulations of AICF, the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/qualification-criteria-for-the-chess-olympiad-2024/",
+         "pubDate" : "Sat, 23 Mar 2024 06:09:17",
+         "title" : "Qualification criteria for the 45th Chess Olympiad 2024"
+      },
+      {
+         "description" : "Saving the best for the last is a popular saying. The sixth edition of the Prague International Chess Festival awarded best-game prizes for each round. There was also a prize for the most spectacular game of the tournament named Lubom&iacute;r Kav&aacute;lek Prize. Nodirbek Abdusattorov won it for his round-8 victory over Parham Maghsoodloo. In this article, we share with you the games which won the prize each round, with commentary by ChessBase India's Amruta Mokal and Sagar Shah | Photo: Petr Vrabec",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/prague-festival-2024-best-games",
+         "pubDate" : "Sat, 23 Mar 2024 06:00:00",
+         "title" : "Best games of the Prague Chess Festival 2024"
+      },
+      {
          "description" : " The American Cup took place Tue 12th to Thu 21st Mar in Saint Louis. The format was a knock-out tournament with double elimination. A mixture of Classical first and then rapid games are played followed by tie-breaks if required. Open event: Caruana, So, Dominguez, Aronian, Shankland, Robson, Sevian and Oparin. Women's: Krush, Lee, Tokhirjonova, Zatonskih, Paikidze, Abrahamyan, Jennifer Yu, Zoey Tang. Levon Aronian was unbeaten throughout and defeated Wesley So 2.5-1.5 in the Grand Final. Alice Lee won the women's event, she lost to Irina Krush in the original final, beat her in the Grand Final and then won the final two blitz games in the Grand Final reset.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/wp-content/uploads/2024/03/Menchik-Memorial-2024-Round-1.pdf#new_tab",
          "pubDate" : "Fri, 22 Mar 2024 16:48:23",
          "title" : "Menchik Memorial 2024 Round 1"
-      },
-      {
-         "description" : "29-year-old Noland Arbaugh became the first user of Neuralink. He mentioned in the livestream that about eight years ago he had a freak diving accident. It dislocated his C4 and C5 vertebrae, which made him quadriplegic. He is paralysed and has no sensation of movement below the shoulders. Noland controlled a computer cursor with his brain using Brain Computer Interface. Check out this fascinating piece of technology. | Photo: Neuralink",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/quadriplegic-plays-chess-neuralink",
-         "pubDate" : "Fri, 22 Mar 2024 16:00:00",
-         "title" : "29-year-old quadriplegic plays chess online using a Brain Computer Interface"
       },
       {
          "description" : " Jacorey Bynum broke the 2200 barrier last weekend at the Southern Chess Classic, earning the coveted title of National Master! It is a testament to the values of chess education. Jacorey BynumPhoto from jbking07 (chess.com) Jacorey learned to play chess in August 2017 as a positive outlet during a difficult period in life. He started The post <a href=\"https://www.thechessdrum.net/blog/2024/03/22/jacorey-bynum-makes-national-master/\">Jacorey Bynum makes National Master!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -106,15 +114,7 @@ news_feed (
          "title" : "Richest chess tour announced for 2025 as freestyle wins global appeal"
       },
       {
-         "description" : "Romanian grandmaster Bogdan-Daniel Deac won the Reykjavik Open after scoring 7&frac12;/9 points, leaving seven players tied for second place a half point back. According to tiebreak criteria, Sebastian Maze from France and Paulius Pultinevicius from Lithuania grabbed second and third place, respectively. Deac entered the event as the rating favourite, and obtained clear first place after scoring back-to-back wins in the final two rounds. | Photo: Hallfr&iacute;ður Sigurðard&oacute;ttir",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reykjavik-open-2024-final-report",
-         "pubDate" : "Fri, 22 Mar 2024 07:00:00",
-         "title" : "Bogdan-Daniel Deac outright winner in Reykjavik"
-      },
-      {
-         "description" : "Please find the provisional list for Batch 2A . Kindly note Batch 2 B will be updated soon . Batch 2 A Further note that",
+         "description" : "Please find the provisional list for Batch 2A . Kindly note Batch 2 B will be updated soon . Batch 2 A Batch 2 B",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-2a-1-b-on-25-26-march-2024/",
@@ -280,14 +280,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-puzzle-challenge-02",
          "pubDate" : "Mon, 18 Mar 2024 08:00:00",
          "title" : "ChessBase Puzzle Challenge - 02"
-      },
-      {
-         "description" : "Who hasn't experienced it? You're prepared for an exciting game in the open Najdorf Sicilian, and suddenly your opponent puts one of the seemingly countless minor variations on the board - in order to avoid the main Najdorf variations. Should you be frustrated? Absolutely not! Luis Engel uncovers the Anti-Sicilians, so you can prepare well.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/luis-engel-uncovering-the-anti-sicilians",
-         "pubDate" : "Sun, 17 Mar 2024 23:00:00",
-         "title" : "Luis Engel - Uncovering the Anti-Sicilians!"
       },
       {
          "description" : "GMs Levon Aronian and Irina Krush prevailed in the Champions Bracket on day six of the 2024 American Cup.&#38;nbsp; With pragmatic play, Aronian equalized vs.&#38;nbsp;GM Ray Robson, clinching the match with ease after his 2-0 start the day before. Chan...",
@@ -898,14 +890,6 @@ news_feed (
          "title" : "Comics Scholarship, Not Necessarily Chess"
       },
       {
-         "description" : "Please find the Link for Broadcasting live games of National Rapid Chess Tournament, Nashik (Maharashtra) from 04th March to 6th March 2024 https://www.chess.com/events/2024-indian-rapid-chess-championship",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-broadcasting-live-games-of-national-rapid-2024/",
-         "pubDate" : "Mon, 04 Mar 2024 11:05:21",
-         "title" : "Live Link for Broadcasting live games of National Rapid 2024"
-      },
-      {
          "description" : "Tenders are now invited for the bookstall, coaching and/or commentary at the British Chess Championships 2024 in Hull click here",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1000,14 +984,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/mastering-chess-basics-the-gateway-to-success-for-beginners/",
          "pubDate" : "Sat, 02 Mar 2024 10:28:18",
          "title" : "Mastering Chess Basics: The Gateway to Success for Beginners."
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108156663.cms\" />The International Chess Federation has raised concerns about the delayed visa issuance for players participating in the Candidates event in Toronto, which is one of the world's most prestigious chess tournaments. FIDE urges Canada to expedite visa application processing to ensure the timely arrival of contenders, including five Indian players, including two women competitors.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-raises-concerns-over-visa-delay-for-chess-players-ahead-of-candidates-event/articleshow/108156663.cms",
-         "pubDate" : "Sat, 02 Mar 2024 06:37:05",
-         "title" : "FIDE raises concerns over visa delay for chess players ahead of Candidates event"
       }
    ]
 }
