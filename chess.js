@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As I have been regularly demonstrating in this column, chess is one of the world's oldest games of war, sharing a similar antiquity to the Chinese encirclement game of Go, Chinese chess (aka Xiangqi), and the Japanese game of Shogi. However, chess is generally said to have been developed, not in China or Japan, but in []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-black-and-white-yet-colour-blind/",
+         "pubDate" : "Sat, 23 Mar 2024 08:25:07",
+         "title" : "Chess: black and white yet colour blind"
+      },
+      {
          "description" : "45th Chess Olympiad is scheduled to be held at Budapest, Hungary from 10th to 23rd September 2024. As per the selection regulations of AICF, the",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -968,22 +976,6 @@ news_feed (
          "link" : "https://www.thearticle.com/unseen-blushes-hans-niemann-and-the-varsity-match/",
          "pubDate" : "Sat, 02 Mar 2024 12:15:03",
          "title" : "Unseen blushes: Hans Niemann and the Varsity Match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2905",
-         "pubDate" : "Sat, 02 Mar 2024 11:19:24",
-         "title" : "FIDE Chessable Academy's third season continues its commitment to personal growth and chess mastery"
-      },
-      {
-         "description" : "Embarking on your chess journey? Discover why mastering chess basics for beginners is the key to your success. The solution to 90% of your chess problems is surprisingly simple. However, many chess players believe they need sophisticated training to boost their ratings. The catch lies in human psychology - the basics aren't flashy or particularly []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/mastering-chess-basics-the-gateway-to-success-for-beginners/",
-         "pubDate" : "Sat, 02 Mar 2024 10:28:18",
-         "title" : "Mastering Chess Basics: The Gateway to Success for Beginners."
       }
    ]
 }
