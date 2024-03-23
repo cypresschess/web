@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The most important tournament of the year begins on April 3 in Toronto, Canada: the Candidates Tournament. Eight participants, 14 rounds, the winner plays for the World Championship. Two of the eight participants have already won one or more Candidates Tournaments, four have already played one or more Candidates Tournaments, the youngest candidate is 17, the oldest is 36 years old. But who will win? | Photos: Official website / FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-poll",
+         "pubDate" : "Sat, 23 Mar 2024 20:00:00",
+         "title" : "Who will win the 2024 Candidates Tournament?"
+      },
+      {
          "description" : "We are nearly through Q1 of 2024 already. This is where we get to witness the huge difference between motivation and systems. I hope you've used my&#160;7-day series&#160;at the end of last year to build the latter. If you haven't, you probably realize by now that just motivation won't get you far, at least not []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -976,14 +984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2904",
          "pubDate" : "Sat, 02 Mar 2024 21:35:56",
          "title" : "FIDE Candidates 2024: Pairings announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2906",
-         "pubDate" : "Sat, 02 Mar 2024 19:18:23",
-         "title" : "Africa U8 Chess Champion wins prestigious national award in Kenya"
       }
    ]
 }
