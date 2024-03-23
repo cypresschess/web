@@ -10,6 +10,14 @@ news_feed (
          "title" : "Who will win the 2024 Candidates Tournament?"
       },
       {
+         "description" : "GM Hikaru Nakamura&#39;s Bullet Brawl rampage continued on Saturday with another $400 performance in a two-hour arena that featured the likes of GMs Magnus Carlsen and Vincent Keymer. Scoring 232, the 2024 Candidates Tournament hopeful was challenged ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-nakamura-wins-bullet-brawl-march-23-2024",
+         "pubDate" : "Sat, 23 Mar 2024 16:14:49",
+         "title" : "Nakamura Tops Field Featuring Carlsen, Naroditsky, Keymer"
+      },
+      {
          "description" : "We are nearly through Q1 of 2024 already. This is where we get to witness the huge difference between motivation and systems. I hope you've used my&#160;7-day series&#160;at the end of last year to build the latter. If you haven't, you probably realize by now that just motivation won't get you far, at least not []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -626,14 +634,6 @@ news_feed (
          "title" : "The 2nd ECU Trainers Online Seminar"
       },
       {
-         "description" : "The historic Biel Chess Festival, one of the biggest events in the European chess calendar, has announced its super-strong lineup for 2024 featuring a sharp focus on youth. The event, which has been running in the Swiss lakeside city since 1968,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/praggnanandhaa-and-vaishali-top-line-up-for-super-strong-biel-chess-festival",
-         "pubDate" : "Tue, 12 Mar 2024 07:12:00",
-         "title" : "Praggnanandhaa, Vaishali Top Lineup For Super-Strong Biel Chess Festival"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -976,14 +976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2907",
          "pubDate" : "Sun, 03 Mar 2024 11:14:31",
          "title" : "PICF 2024 Masters: Abdusattorov leads halfway through"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2904",
-         "pubDate" : "Sat, 02 Mar 2024 21:35:56",
-         "title" : "FIDE Candidates 2024: Pairings announced"
       }
    ]
 }
