@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nowadays when we talk about Bullet Chess definitely we refer to timing, and we mean a one-minute game. But there were times when this term could have a completely different meaning! ...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-bullet-chess",
+         "pubDate" : "Sun, 24 Mar 2024 09:00:00",
+         "title" : "Grivas on Bullet Chess"
+      },
+      {
          "description" : "It's the final opportunity for interested Arbiters to take action, such as registering or signing up for the Refresher course before it concludes or fills",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/2024-olympiad.html",
          "pubDate" : "Sun, 03 Mar 2024 12:51:00",
          "title" : "2024 Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2907",
-         "pubDate" : "Sun, 03 Mar 2024 11:14:31",
-         "title" : "PICF 2024 Masters: Abdusattorov leads halfway through"
       }
    ]
 }
