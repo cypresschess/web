@@ -968,14 +968,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-checkmates-gujrathi-gukesh-falters-against-navara/articleshow/108184346.cms",
          "pubDate" : "Sun, 03 Mar 2024 15:53:14",
          "title" : "Praggnanandhaa checkmates Gujrathi, Gukesh falters against Navara"
-      },
-      {
-         "description" : " It might seem a long way off, but the wheels are already in motion for Federations planning to attend the 2024 Chess Olympiad. It will be held in Budapest in mid September, but Federations are already able to register their attendance. In fact the deadline for doing so is sometime next week, so the organisers are clearly trying to have a solid estimate of numbers well in advance. Although the actual team registrations are not open as yet, I do note that the New Zealand Chess Federation is off to an early start, having already selected their squads. Normally the Australian teams are selected some time after Easter, while for other teams in the region selections are often complicated by avail",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/2024-olympiad.html",
-         "pubDate" : "Sun, 03 Mar 2024 12:51:00",
-         "title" : "2024 Olympiad"
       }
    ]
 }
