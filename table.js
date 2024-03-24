@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2024-03-23","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403233612 target='_blank'>MARCH 23RD SATURDAY SWISS AT NOON</a>",
+"SPRING","2024-03-22","33","<a href=http://www.uschess.org/msa/XtblMain.php?202403223012 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2024-03-22","25","<a href=http://www.uschess.org/msa/XtblMain.php?202403222902 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SUGAR LAND","2024-03-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403222812 target='_blank'>FBCC 2024 NATIONAL PUPPY OPEN</a>",
 "HOUSTON","2024-03-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403222772 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 22,2024</a>",
 "LEAGUE CITY","2024-03-06  - 03-20","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403202042 target='_blank'>CLCC MARCH WEDNESDAYS</a>",
 "CYPRESS","2024-03-15","26","<a href=http://www.uschess.org/msa/XtblMain.php?202403158532 target='_blank'>Knights of Cypress</a>",
@@ -195,8 +199,4 @@ jtable([
 "HOUSTON","2023-09-15","22","<a href=http://www.uschess.org/msa/XtblMain.php?202309151112 target='_blank'>REBECCA CHESS CLUB QUADS SEPTEMBER 15, 2023</a>",
 "CYPRESS","2023-09-15","28","<a href=http://www.uschess.org/msa/XtblMain.php?202309151022 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-09-09","18","<a href=http://www.uschess.org/msa/XtblMain.php?202309099942 target='_blank'>CHEAPO QUADS - ALL AGES SEPT 9TH 20</a>",
-"HOUSTON","2023-09-09","5","<a href=http://www.uschess.org/msa/XtblMain.php?202309097852 target='_blank'>CHESSPANDA09092023SATURDAY</a>",
-"SPRING","2023-09-08","37","<a href=http://www.uschess.org/msa/XtblMain.php?202309087672 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2023-09-08","14","<a href=http://www.uschess.org/msa/XtblMain.php?202309087642 target='_blank'>REBECCA CHESS CLUB QUADS SEPTEMBER 8, 2023</a>",
-"SUGAR LAND","2023-09-08","12","<a href=http://www.uschess.org/msa/XtblMain.php?202309087612 target='_blank'>FBCC 2023 HOT SEPTEMBER NIGHT OPEN</a>",
 ]);
