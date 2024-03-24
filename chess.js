@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We have all been there: after a win in an open tournament, it is time to face a stronger opponent, and we struggle to figure out how to play the opening. Our recently launched Opening Encyclopaedia can be of great help in these situations. GM Dorian Rogozenco, a well-known and experienced chess trainer, demonstrates how to employ this excellent tool to prepare an effective strategy - and face the game confidently!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2024-preparation-rogozenco",
+         "pubDate" : "Sun, 24 Mar 2024 17:45:00",
+         "title" : "Prepare against a stronger opponent in less than 30 minutes!"
+      },
+      {
+         "description" : " GM Bassem Amin and WIM Jesse February took the titles at the 2024 African Individual Chess Championship (AICC). It would be Amin's seventh (2009,&#160;2013,&#160;2015&#160;and&#160;2017, 2018, 2022, 2024) and February's second (winning in 2021). While Amin was dominant throughout the tournament, February had to wait until the last round when the result would be final. Photo The post <a href=\"https://www.thechessdrum.net/blog/2024/03/24/amin-february-win-2024-african-individuals/\">Amin, February win 2024 African Individuals!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/03/24/amin-february-win-2024-african-individuals/",
+         "pubDate" : "Sun, 24 Mar 2024 16:54:09",
+         "title" : "Amin, February win 2024 African Individuals!"
+      },
+      {
          "description" : "Nowadays when we talk about Bullet Chess definitely we refer to timing, and we mean a one-minute game. But there were times when this term could have a completely different meaning! ...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-3a-on-03-04-april-2024/",
          "pubDate" : "Sun, 24 Mar 2024 06:25:04",
          "title" : "AICF Arbiter Refresher Seminar Batch 3A on 03-04 April 2024"
-      },
-      {
-         "description" : "The most important tournament of the year begins on April 3 in Toronto, Canada: the Candidates Tournament. Eight participants, 14 rounds, the winner plays for the World Championship. Two of the eight participants have already won one or more Candidates Tournaments, four have already played one or more Candidates Tournaments, the youngest candidate is 17, the oldest is 36 years old. But who will win? | Photos: Official website / FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-poll",
-         "pubDate" : "Sat, 23 Mar 2024 20:00:00",
-         "title" : "Who will win the 2024 Candidates Tournament?"
       },
       {
          "description" : "GM Hikaru Nakamura&#39;s Bullet Brawl rampage continued on Saturday with another $400 performance in a two-hour arena that featured the likes of GMs Magnus Carlsen and Vincent Keymer. Scoring 232, the 2024 Candidates Tournament hopeful was challenged ...",
@@ -66,28 +74,12 @@ news_feed (
          "title" : "Qualification criteria for the 45th Chess Olympiad 2024"
       },
       {
-         "description" : "Saving the best for the last is a popular saying. The sixth edition of the Prague International Chess Festival awarded best-game prizes for each round. There was also a prize for the most spectacular game of the tournament named Lubom&iacute;r Kav&aacute;lek Prize. Nodirbek Abdusattorov won it for his round-8 victory over Parham Maghsoodloo. In this article, we share with you the games which won the prize each round, with commentary by ChessBase India's Amruta Mokal and Sagar Shah | Photo: Petr Vrabec",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-best-games",
-         "pubDate" : "Sat, 23 Mar 2024 06:00:00",
-         "title" : "Best games of the Prague Chess Festival 2024"
-      },
-      {
          "description" : " The American Cup took place Tue 12th to Thu 21st Mar in Saint Louis. The format was a knock-out tournament with double elimination. A mixture of Classical first and then rapid games are played followed by tie-breaks if required. Open event: Caruana, So, Dominguez, Aronian, Shankland, Robson, Sevian and Oparin. Women's: Krush, Lee, Tokhirjonova, Zatonskih, Paikidze, Abrahamyan, Jennifer Yu, Zoey Tang. Levon Aronian was unbeaten throughout and defeated Wesley So 2.5-1.5 in the Grand Final. Alice Lee won the women's event, she lost to Irina Krush in the original final, beat her in the Grand Final and then won the final two blitz games in the Grand Final reset.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2024",
          "pubDate" : "Fri, 22 Mar 2024 21:12:00",
          "title" : "American Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "Levon Aronian and Alice Lee emerged victorious at the 2024 edition of the American Cup. While Aronian did not lose a single game throughout the event, Lee managed to beat defending champion Irina Krush twice in a row in hard-fought matches. At 14, Lee played her third consecutive Grand Final in the event, as Krush had defeated her in the previous two editions. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-d10",
-         "pubDate" : "Fri, 22 Mar 2024 20:00:00",
-         "title" : "Aronian and Lee clinch American Cup titles!"
       },
       {
          "description" : " The Reykjavik Open took place 15th to 21st March 2024. Leading players: Bogdan-Daniel Deac, Vasyl Ivanchuk, Xiangyu Xu, Jules Moussard, Matthieu Cornette, Paulius Pultinevicius etc. Top seed Bogdan-Daniel Deac won with 7.5/9 half a point clear of the field.",
@@ -960,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2908",
          "pubDate" : "Sun, 03 Mar 2024 21:59:48",
          "title" : "Romanian Championship 2024: Parligras and Lehaci win titles"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108184346.cms\" />Indian Grandmaster R Praggnanandhaa crashed through the defenses of compatriot Vidit Gujrathi but D Gukesh suffered a shock defeat from a position of strength against Czech Republic's David Navara in the fifth round of the Prague Masters.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-checkmates-gujrathi-gukesh-falters-against-navara/articleshow/108184346.cms",
-         "pubDate" : "Sun, 03 Mar 2024 15:53:14",
-         "title" : "Praggnanandhaa checkmates Gujrathi, Gukesh falters against Navara"
       }
    ]
 }
