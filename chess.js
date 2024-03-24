@@ -626,14 +626,6 @@ news_feed (
          "title" : "Lesotho Championship: Motlomelo Lihloela and Ngatane Lieketseng win titles"
       },
       {
-         "description" : "Day one of the 2024 American Cup saw a whopping 13 decisive games across the Open and Women&#39;s tournaments in St. Louis on Tuesday. GM Fabiano Caruana got off to a 2-0 start against GM Grigoriy Oparin, while GM Wesley So is the only other player ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-american-cup-day-1",
-         "pubDate" : "Tue, 12 Mar 2024 19:06:00",
-         "title" : "Caruana, Lee, Tokhirjonova, Paikidze Start With Double Wins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -944,14 +936,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-finance-council-meeting-2/",
          "pubDate" : "Mon, 04 Mar 2024 10:09:01",
          "title" : "ECF Finance Council Meeting"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2908",
-         "pubDate" : "Sun, 03 Mar 2024 21:59:48",
-         "title" : "Romanian Championship 2024: Parligras and Lehaci win titles"
       }
    ]
 }
