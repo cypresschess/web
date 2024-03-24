@@ -13,8 +13,8 @@ news_feed (
          "description" : "GM Hikaru Nakamura&#39;s Bullet Brawl rampage continued on Saturday with another $400 performance in a two-hour arena that featured the likes of GMs Magnus Carlsen and Vincent Keymer. Scoring 232, the 2024 Candidates Tournament hopeful was challenged ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-nakamura-wins-bullet-brawl-march-23-2024",
-         "pubDate" : "Sat, 23 Mar 2024 16:14:49",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-march-23-2024",
+         "pubDate" : "Sat, 23 Mar 2024 16:14:00",
          "title" : "Nakamura Tops Field Featuring Carlsen, Naroditsky, Keymer"
       },
       {
