@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's the final opportunity for interested Arbiters to take action, such as registering or signing up for the Refresher course before it concludes or fills",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-refresher-seminar-for-indian-arbiters-2024-25-last-call/",
+         "pubDate" : "Sun, 24 Mar 2024 06:58:51",
+         "title" : "AICF Refresher Seminar for Indian Arbiters 2024-25. (Last Call )"
+      },
+      {
+         "description" : "Please find the provisional list for Batch 3A Batch 3A Further note that zoom link and other details will be shared to final selected arbiters",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-3a-on-03-04-april-2024/",
+         "pubDate" : "Sun, 24 Mar 2024 06:25:04",
+         "title" : "AICF Arbiter Refresher Seminar Batch 3A on 03-04 April 2024"
+      },
+      {
          "description" : "The most important tournament of the year begins on April 3 in Toronto, Canada: the Candidates Tournament. Eight participants, 14 rounds, the winner plays for the World Championship. Two of the eight participants have already won one or more Candidates Tournaments, four have already played one or more Candidates Tournaments, the youngest candidate is 17, the oldest is 36 years old. But who will win? | Photos: Official website / FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -738,14 +754,6 @@ news_feed (
          "title" : "Nodirbek Abdusattorov wins Prague Festival Masters"
       },
       {
-         "description" : "Check here certificates for A &#38; B category , NO Name 1 Sethu Madhav Upadhyayula 2 Aman Kumar Gupta 3 Utkarsh Agrawal 4 Dhas Kuldeep",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-katni-from-30th-to-31st-december-2023/",
-         "pubDate" : "Fri, 08 Mar 2024 11:31:30",
-         "title" : "Certificates for SNA Seminar held at Katni from 30th to 31st December 2023"
-      },
-      {
          "description" : "Chess players have certainly heard of Daniel Fernandez, who has already published a couple of Fritztrainers for ChessBase. But recently, non-chess players also got to know him because of a YouTube video with the title - \"We Used An Adult Toy To Beat A Chess Grandmaster\". How did this video happen? Are chess players cheating more often nowadays? And why can Daniel speak at least five languages, and helped out in a koala sanctuary? This, and many more questions, you can see in the interview with the English Grandmaster.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -784,14 +792,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-heart-racing-experience-4",
          "pubDate" : "Thu, 07 Mar 2024 18:00:00",
          "title" : "A Heart-Racing Experience! (4)"
-      },
-      {
-         "description" : "To All Office Bearers / State Associations/State Representatives Greetings from AICF! This is to inform you that due to unavoidable circumstances, the venue &#38; accommodation",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/kind-attentionaicf-election/",
-         "pubDate" : "Thu, 07 Mar 2024 17:24:15",
-         "title" : "Kind Attention:AICF Election"
       },
       {
          "description" : "The 2024 British Chess Championship will be held in Hull with the first competitions starting in the evening of Thursday 25th July 2024 with the...",
