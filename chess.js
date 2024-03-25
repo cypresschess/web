@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "\"Everyone has been waiting for this chess festival\", writes Alex Winkler in a press release from the organisation of the GRENKE Chess Classic and the GRENKE Chess Open. Six international stars, including Magnus Carlsen and Vincent Keymer, will compete in the Classic, which starts tomorrow, Tuesday 26 March, while over 2500 players will take part in the Open. But last-minute entrants can still take part: the registration is still open!",
+         "description" : "A young Chinese girl, Lu Miaoyi, made a big impression in the Reykjav&iacute;k Open 2024. Her mother, Yu Yuanyuan, is also a Woman Grandmaster. It is already clear that her 14-year-old daughter will soon overtake her and win the IM title and then the title of grandmaster. | Photo: Hallfr&iacute;ður Sigurðard&oacute;ttir / Reykjavik Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-preview",
-         "pubDate" : "Mon, 25 Mar 2024 17:30:00",
-         "title" : "The GRENKE Chess Classic is about to start!"
+         "link" : "https://en.chessbase.com/post/miaoyi-li-on-the-way-to-gm-title",
+         "pubDate" : "Mon, 25 Mar 2024 22:30:00",
+         "title" : "On the way to the GM title: Lu Miaoyi, 14 years old"
       },
       {
          "description" : "The above amounts include Entry Fee and Bank Charges only. If additional players and accompanying persons need accommodation kindly contact the organizer directly. Payment mode:",
@@ -34,6 +34,14 @@ news_feed (
          "title" : "FIDE World School Rapid and Blitz Championships 2024: Registration is open"
       },
       {
+         "description" : "[Editor&#39;s note: Lula is one of the most popular Chess.com streamers with tens of thousands of fans. She started playing in December 2020 and earned her WCM title in 2024. This article is about her personal experience at the 2024 Reykjavik Open&#38;nbs...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/my-return-to-reykjavik",
+         "pubDate" : "Mon, 25 Mar 2024 12:41:00",
+         "title" : "My Return To Reykjavik"
+      },
+      {
          "description" : "Take a look at this picture. It is not a Hollywood star, but a chess celebrity. Can you recognize him? Capablanca, Nezhmetdinov, Frank Marshall? No, not any of them! The answer is Andor Lilienthal, an extraordinary chess grandmaster, born in Moscow, but moved to Hungary. In his career, he played against ten world champions, and defeated six of them. Retrospect by Himank Ghosh. | Photo: Edward Winter's Chess Notes archives.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,14 +58,6 @@ news_feed (
          "title" : "FIDE Candidates 2024: All set for the chess tournament of the year in Toronto"
       },
       {
-         "description" : "Dutch IM Robert Ris is a much sought-after coach in his home country and is also a very prolific author. Mario Ziegler took a look at his latest FritzTrainer - one focused on tactics - for Glarean Magazine. \"Calculation Training - Sharpen your Game\" is a nice collection of new tactics exercises. The reviewer concluded: \"Robert Ris has a pleasant style of presentation and responds to the reader's probable solution suggestions\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-review",
-         "pubDate" : "Mon, 25 Mar 2024 03:00:00",
-         "title" : "Robert Ris: Calculation Training - A review"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,28 +66,12 @@ news_feed (
          "title" : "Reykjavik Open 2024: Bogdan-Daniel Deac captures title"
       },
       {
-         "description" : "We have all been there: after a win in an open tournament, it is time to face a stronger opponent, and we struggle to figure out how to play the opening. Our recently launched Opening Encyclopaedia can be of great help in these situations. GM Dorian Rogozenco, a well-known and experienced chess trainer, demonstrates how to employ this excellent tool to prepare an effective strategy - and face the game confidently!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2024-preparation-rogozenco",
-         "pubDate" : "Sun, 24 Mar 2024 17:45:00",
-         "title" : "Prepare against a stronger opponent in less than 30 minutes!"
-      },
-      {
          "description" : " GM Bassem Amin and WIM Jesse February took the titles at the 2024 African Individual Chess Championship (AICC). It would be Amin's seventh (2009,&#160;2013,&#160;2015&#160;and&#160;2017, 2018, 2022, 2024) and February's second (winning in 2021). While Amin was dominant throughout the tournament, February had to wait until the last round when the result would be final. Photo The post <a href=\"https://www.thechessdrum.net/blog/2024/03/24/amin-february-win-2024-african-individuals/\">Amin, February win 2024 African Individuals!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/03/24/amin-february-win-2024-african-individuals/",
          "pubDate" : "Sun, 24 Mar 2024 16:54:09",
          "title" : "Amin, February win 2024 African Individuals!"
-      },
-      {
-         "description" : "Nowadays when we talk about Bullet Chess definitely we refer to timing, and we mean a one-minute game. But there were times when this term could have a completely different meaning! ...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-bullet-chess",
-         "pubDate" : "Sun, 24 Mar 2024 09:00:00",
-         "title" : "Grivas on Bullet Chess"
       },
       {
          "description" : "It's the final opportunity for interested Arbiters to take action, such as registering or signing up for the Refresher course before it concludes or fills",
@@ -664,14 +648,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-to-work-with-the-laws-of-chess",
          "pubDate" : "Wed, 13 Mar 2024 12:00:00",
          "title" : "How to work with the Laws of Chess"
-      },
-      {
-         "description" : "GM Hikaru Nakamura and GM Bogdan-Daniel Deac were the winners of Titled Tuesday on March 12. For Nakamura, it was his third week in a row with a win and his first early tournament win in that time. For Deac, it was his first win in over a year. Co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-deac-win-titled-tuesday-march-12-2024",
-         "pubDate" : "Wed, 13 Mar 2024 09:17:11",
-         "title" : "Nakamura Wins For A Third Straight Week"
       },
       {
          "description" : "A WGM / WIM women's norm event. Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining...",
