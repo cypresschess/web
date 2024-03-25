@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " With the 2024 O2C Doeberl Cup starting on Thursday, the first of the visiting GM''s are starting to arrive. The 2024 Commonwealth Champion GM Mitrabha Guha is arriving early tomorrow, and will be soon followed by a number of other strong players. Coming off a number of recent good results, Guha looks to be in form, and may prove a threat to tope seed GM Hrant Melkumyan, who is aiming for his third win in a row (and 4th overall). <br /> <b>Mitrabha,Guha (2526) - Rohith Krishna S (2410) [A36]</b><br /> 202 Commonwealth Championship, Round 9 <script> new PgnViewer( { boardName: \"game1450\", movesFormat: \"default\", pgnString:'1.c4 Nf6 2.Nc3 c5 3.g3 Nc6 4.Bg2 g6 5.e3 Bg7 6.Nge2 O-O 7.d4 cxd4 8.ex",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-arriving-gms.html",
+         "pubDate" : "Mon, 25 Mar 2024 12:52:00",
+         "title" : "2024 O2C Doeberl Cup - Arriving GM's"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2936",
+         "pubDate" : "Mon, 25 Mar 2024 12:47:46",
+         "title" : "FIDE World School Rapid and Blitz Championships 2024: Registration is open"
+      },
+      {
          "description" : "Take a look at this picture. It is not a Hollywood star, but a chess celebrity. Can you recognize him? Capablanca, Nezhmetdinov, Frank Marshall? No, not any of them! The answer is Andor Lilienthal, an extraordinary chess grandmaster, born in Moscow, but moved to Hungary. In his career, he played against ten world champions, and defeated six of them. Retrospect by Himank Ghosh. | Photo: Edward Winter's Chess Notes archives.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
