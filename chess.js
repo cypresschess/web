@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Take a look at this picture. It is not a Hollywood star, but a chess celebrity. Can you recognize him? Capablanca, Nezhmetdinov, Frank Marshall? No, not any of them! The answer is Andor Lilienthal, an extraordinary chess grandmaster, born in Moscow, but moved to Hungary. In his career, he played against ten world champions, and defeated six of them. Retrospect by Himank Ghosh. | Photo: Edward Winter's Chess Notes archives.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/he-played-ten-world-champions",
+         "pubDate" : "Mon, 25 Mar 2024 12:00:00",
+         "title" : "He played ten World Champions!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2935",
+         "pubDate" : "Mon, 25 Mar 2024 08:09:58",
+         "title" : "FIDE Candidates 2024: All set for the chess tournament of the year in Toronto"
+      },
+      {
          "description" : "Dutch IM Robert Ris is a much sought-after coach in his home country and is also a very prolific author. Mario Ziegler took a look at his latest FritzTrainer - one focused on tactics - for Glarean Magazine. \"Calculation Training - Sharpen your Game\" is a nice collection of new tactics exercises. The reviewer concluded: \"Robert Ris has a pleasant style of presentation and responds to the reader's probable solution suggestions\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-review",
          "pubDate" : "Mon, 25 Mar 2024 03:00:00",
          "title" : "Robert Ris: Calculation Training - A review"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2934",
+         "pubDate" : "Sun, 24 Mar 2024 18:47:29",
+         "title" : "Reykjavik Open 2024: Bogdan-Daniel Deac captures title"
       },
       {
          "description" : "We have all been there: after a win in an open tournament, it is time to face a stronger opponent, and we struggle to figure out how to play the opening. Our recently launched Opening Encyclopaedia can be of great help in these situations. GM Dorian Rogozenco, a well-known and experienced chess trainer, demonstrates how to employ this excellent tool to prepare an effective strategy - and face the game confidently!",
@@ -98,12 +122,12 @@ news_feed (
          "title" : "Reykjavik Open 2024 - Games and Results"
       },
       {
-         "description" : "",
+         "description" : "Follow these links for round-by-round reports on this event from IA Matthew Carr! Menchik Memorial 2024 Round 1 &#124; Menchik Memorial 2024 Round 2 Menchik...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/wp-content/uploads/2024/03/Menchik-Memorial-2024-Round-1.pdf#new_tab",
+         "link" : "https://www.englishchess.org.uk/menchik-memorial-2024-reports/",
          "pubDate" : "Fri, 22 Mar 2024 16:48:23",
-         "title" : "Menchik Memorial 2024 Round 1"
+         "title" : "Menchik Memorial 2024 - reports"
       },
       {
          "description" : " Jacorey Bynum broke the 2200 barrier last weekend at the Southern Chess Classic, earning the coveted title of National Master! It is a testament to the values of chess education. Jacorey BynumPhoto from jbking07 (chess.com) Jacorey learned to play chess in August 2017 as a positive outlet during a difficult period in life. He started The post <a href=\"https://www.thechessdrum.net/blog/2024/03/22/jacorey-bynum-makes-national-master/\">Jacorey Bynum makes National Master!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -920,30 +944,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/03/comics-scholarship-not-necessarily-chess.html",
          "pubDate" : "Mon, 04 Mar 2024 16:51:00",
          "title" : "Comics Scholarship, Not Necessarily Chess"
-      },
-      {
-         "description" : "Tenders are now invited for the bookstall, coaching and/or commentary at the British Chess Championships 2024 in Hull click here",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/bcc-2024-tenders-invited/",
-         "pubDate" : "Mon, 04 Mar 2024 10:40:56",
-         "title" : "BCC 2024 tenders invited"
-      },
-      {
-         "description" : "Find the crosstable here. Congratulations also to Trisha Kanyamarala on becoming&#160;the first Irish player and the first female player to tie for first place. An...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/danny-gormally-wins-2024-british-rapidplay-championship/",
-         "pubDate" : "Mon, 04 Mar 2024 10:30:19",
-         "title" : "Danny Gormally wins the 2024 British Rapidplay Championship!"
-      },
-      {
-         "description" : "Finance Council Meeting 27th April 2024 to ECF Council Members This notice is a reminder of the arrangements for the next Finance Council meeting...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-finance-council-meeting-2/",
-         "pubDate" : "Mon, 04 Mar 2024 10:09:01",
-         "title" : "ECF Finance Council Meeting"
       }
    ]
 }
