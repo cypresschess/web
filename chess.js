@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Everyone has been waiting for this chess festival\", writes Alex Winkler in a press release from the organisation of the GRENKE Chess Classic and the GRENKE Chess Open. Six international stars, including Magnus Carlsen and Vincent Keymer, will compete in the Classic, which starts tomorrow, Tuesday 26 March, while over 2500 players will take part in the Open. But last-minute entrants can still take part: the registration is still open!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-preview",
+         "pubDate" : "Mon, 25 Mar 2024 17:30:00",
+         "title" : "The GRENKE Chess Classic is about to start!"
+      },
+      {
+         "description" : "The above amounts include Entry Fee and Bank Charges only. If additional players and accompanying persons need accommodation kindly contact the organizer directly. Payment mode:",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-junior-open-girls-chess-championships-2024-from-1st-to-14th-june-2024-at-gandhinagar-gujarat/",
+         "pubDate" : "Mon, 25 Mar 2024 15:47:56",
+         "title" : "FIDE WORLD JUNIOR (OPEN & GIRLS) CHESS CHAMPIONSHIPS-2024 from 1st to 14th June, 2024 at Gandhinagar, Gujarat"
+      },
+      {
          "description" : " With the 2024 O2C Doeberl Cup starting on Thursday, the first of the visiting GM''s are starting to arrive. The 2024 Commonwealth Champion GM Mitrabha Guha is arriving early tomorrow, and will be soon followed by a number of other strong players. Coming off a number of recent good results, Guha looks to be in form, and may prove a threat to tope seed GM Hrant Melkumyan, who is aiming for his third win in a row (and 4th overall). <br /> <b>Mitrabha,Guha (2526) - Rohith Krishna S (2410) [A36]</b><br /> 202 Commonwealth Championship, Round 9 <script> new PgnViewer( { boardName: \"game1450\", movesFormat: \"default\", pgnString:'1.c4 Nf6 2.Nc3 c5 3.g3 Nc6 4.Bg2 g6 5.e3 Bg7 6.Nge2 O-O 7.d4 cxd4 8.ex",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -738,14 +754,6 @@ news_feed (
          "title" : "Shiloh and Bros No.2"
       },
       {
-         "description" : "Click here for FORM 15",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-new-elected-office-bearers-for-2024-2027/",
-         "pubDate" : "Sun, 10 Mar 2024 16:06:30",
-         "title" : "AICF Newly Elected Office Bearers for 2024-2027"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -952,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2909",
          "pubDate" : "Tue, 05 Mar 2024 06:11:57",
          "title" : "Andr&eacute; Meylan and Marija Zvereva win 2024 Monaco Championship"
-      },
-      {
-         "description" : "Wobbling on with this weekly, Monday series, the previous post was <A HREF=\"https://chessforallages.blogspot.com/2024/02/chess-comics-grids-and-panels.html\">Chess Comics - Grids and Panels</A> (February 2024). At the end of that post, I gave myself a direction:- <BLOCKQUOTE> How should I use the different grids to create a more interesting series of pages? I really have no idea. [...] Maybe I should spend some time on this subject. </BLOCKQUOTE> <P> As usual, the time I used was spent badly and I have only the following composite image to show for it. The left, colored portion is an excuse to use another AI generated image on this chess blog. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/03/comics-scholarship-not-necessarily-chess.html",
-         "pubDate" : "Mon, 04 Mar 2024 16:51:00",
-         "title" : "Comics Scholarship, Not Necessarily Chess"
       }
    ]
 }
