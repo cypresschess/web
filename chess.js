@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dutch IM Robert Ris is a much sought-after coach in his home country and is also a very prolific author. Mario Ziegler took a look at his latest FritzTrainer - one focused on tactics - for Glarean Magazine. \"Calculation Training - Sharpen your Game\" is a nice collection of new tactics exercises. The reviewer concluded: \"Robert Ris has a pleasant style of presentation and responds to the reader's probable solution suggestions\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-calculation-training-review",
+         "pubDate" : "Mon, 25 Mar 2024 03:00:00",
+         "title" : "Robert Ris: Calculation Training - A review"
+      },
+      {
          "description" : "We have all been there: after a win in an open tournament, it is time to face a stronger opponent, and we struggle to figure out how to play the opening. Our recently launched Opening Encyclopaedia can be of great help in these situations. GM Dorian Rogozenco, a well-known and experienced chess trainer, demonstrates how to employ this excellent tool to prepare an effective strategy - and face the game confidently!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
