@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
+         "pubDate" : "Tue, 26 Mar 2024 14:45:00",
+         "title" : "GRENKE Chess Classic - Live!"
+      },
+      {
          "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8. Will he succeed? And how will you do, dear viewer?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "Yochanan Afek's chess compositions"
       },
       {
-         "description" : "A young Chinese girl, Lu Miaoyi, made a big impression in the Reykjav&iacute;k Open 2024. Her mother, Yu Yuanyuan, is also a Woman Grandmaster. It is already clear that her 14-year-old daughter will soon overtake her and win the IM title and then the title of grandmaster. | Photo: Hallfr&iacute;ður Sigurðard&oacute;ttir / Reykjavik Open",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/miaoyi-li-on-the-way-to-gm-title",
-         "pubDate" : "Mon, 25 Mar 2024 22:30:00",
-         "title" : "On the way to the GM title: Lu Miaoyi, 14 years old"
+         "description" : "In a fresh podcast interview released Monday, GM Magnus Carlsen talked about his two favorites for the Candidates Tournament that begins in Toronto on April 4, his future in classical events, his new motivation, the Chess960 tour, and much more. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-on-candidates",
+         "pubDate" : "Tue, 26 Mar 2024 06:23:00",
+         "title" : "Carlsen On Candidates, His Classical Chess Future, Freestyle Chess, And More"
       },
       {
          "description" : "The above amounts include Entry Fee and Bank Charges only. If additional players and accompanying persons need accommodation kindly contact the organizer directly. Payment mode:",
@@ -920,30 +928,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/03/march-1974-1999-on-cover.html",
          "pubDate" : "Tue, 05 Mar 2024 16:01:00",
          "title" : "March 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108243619.cms\" />Indian Grandmaster R Praggnanandhaa defeated overnight sole leader Nodirbek Abdusattarov of Uzbekistan to stake his claim for the top honours at the Prague Masters chess tournament. Winning with the black pieces, Praggnanandhaa came within striking distance of the sole leader in the ten-player round-robin event that still has three rounds remaining. Things worked out even better for Praggnanandhaa as the second-placed Parham Maghsoodloo of Iran went down to Nguyen Thai Dai Van of the Czech Republic.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-crushes-nodirbek-abdusattarov-to-be-joint-second-in-prague-masters/articleshow/108243619.cms",
-         "pubDate" : "Tue, 05 Mar 2024 15:14:26",
-         "title" : "Praggnanandhaa crushes Abdusattarov to be joint second in Prague Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2910",
-         "pubDate" : "Tue, 05 Mar 2024 14:55:56",
-         "title" : "Getting more women's teams to the Chess Olympiad"
-      },
-      {
-         "description" : " The headline is a little dramatic, in that there are lots of proper GM events. But the Shenzen Masters kind of feels like a pre-covid GM event, rather than the an event that is squeezed between the next online KO/Rapid/Troll-fest that seems to be prevalent today. Four local GM's and 4 foreign GM's in the 2600-2800 range has seen some entertaining games. The one game I picked from the tournament is a 30 mover, surprisingly won by Black using the Petroff. In the end the sneaky black pawn on b2 made all the difference. <br /> <b>Erigaisi,Arjun (2738) - Bu Xiangzhi (2671) [C43]</b><br /> 5th Shenzhen Longgang Shenzhen CHN (2), 01.03.2024 <script> new PgnViewer( { boardName: \"game1447\", movesFor",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/a-proper-gm-event.html",
-         "pubDate" : "Tue, 05 Mar 2024 12:31:00",
-         "title" : "A proper GM event"
       }
    ]
 }
