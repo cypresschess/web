@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8. Will he succeed? And how will you do, dear viewer?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-best-tactics-of-all-men-s-candidates",
+         "pubDate" : "Tue, 26 Mar 2024 12:00:00",
+         "title" : "Svitlana's Smart Moves - The best tactics of all men's candidates!"
+      },
+      {
+         "description" : "Yochanan Afek, International Grandmaster of chess composition, has been providing us with articles for decades. He lives in Amsterdam, where Sagar Shah caught up with him and conducted a 90-minute interview, discussing some of the great problem compositions that we have from him. We have the puzzles in a replay board, where you can follow the discussion, using the built-in engine to answer residual questions you might have. Very entertaining and instructive.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yochanan-afek-s-chess-compositions",
+         "pubDate" : "Tue, 26 Mar 2024 09:00:00",
+         "title" : "Yochanan Afek's chess compositions"
+      },
+      {
          "description" : "A young Chinese girl, Lu Miaoyi, made a big impression in the Reykjav&iacute;k Open 2024. Her mother, Yu Yuanyuan, is also a Woman Grandmaster. It is already clear that her 14-year-old daughter will soon overtake her and win the IM title and then the title of grandmaster. | Photo: Hallfr&iacute;ður Sigurðard&oacute;ttir / Reykjavik Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
