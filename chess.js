@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournament 2024 is set to take place in Toronto, Canada, on April 3-23. This event marks a historic occasion as it is the first time the Candidates and the Women's Candidates are organized together under one roof and on the same dates. The opening ceremony will take place on the evening of April 3, while both tournaments will be set in motion on April 4 at 14.30 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-ready-2",
+         "pubDate" : "Tue, 26 Mar 2024 20:00:00",
+         "title" : "FIDE Candidates 2024: All set for the tournament of the year in Toronto"
+      },
+      {
+         "description" : " The GRENKE Chess Classic is a double round robin tournament played at an accelerated 45 minutes plus 10 seconds a move time control. Magnus Carlsen, Ding Liren, MVL, Richard Rapport, Vincent Keymer and Daniel Fridman play two rounds a day 26th to 31st March 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/grenke-chess-classic-2024",
+         "pubDate" : "Tue, 26 Mar 2024 16:23:00",
+         "title" : "GRENKE Chess Classic 2024 - Games and Results"
+      },
+      {
          "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
          "pubDate" : "Tue, 26 Mar 2024 14:45:00",
          "title" : "GRENKE Chess Classic - Live!"
-      },
-      {
-         "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8. Will he succeed? And how will you do, dear viewer?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-best-tactics-of-all-men-s-candidates",
-         "pubDate" : "Tue, 26 Mar 2024 12:00:00",
-         "title" : "Svitlana's Smart Moves - The best tactics of all men's candidates!"
       },
       {
          "description" : "Yochanan Afek, International Grandmaster of chess composition, has been providing us with articles for decades. He lives in Amsterdam, where Sagar Shah caught up with him and conducted a 90-minute interview, discussing some of the great problem compositions that we have from him. We have the puzzles in a replay board, where you can follow the discussion, using the built-in engine to answer residual questions you might have. Very entertaining and instructive.",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-chess-championship-2024-official-regulations/",
          "pubDate" : "Wed, 06 Mar 2024 08:55:55",
          "title" : "European Senior Chess Championship 2024 - Official regulations"
-      },
-      {
-         "description" : "This post marks the tenth anniversary of the first 'On the Cover' post, which was <A HREF=\"https://chessforallages.blogspot.com/2014/03/march-1964-on-cover.html\">March 1964 'On the Cover'</A> (March 2014). For the first five years the posts showed the covers of the two leading American chess magazines of the 1960s. <P> The series changed direction in <A HREF=\"https://chessforallages.blogspot.com/2019/11/november-1969-1994-on-cover.html\">November 1969 & 1994 'On the Cover'</A> (November 2019), shifting to the format showing both 50 and 25 years ago. For last month's post, see <A HREF=\"https://chessforallages.blogspot.com/2024/02/february-1974-1999-on-cover.html\">February 1974 & 1999 'On the C",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/03/march-1974-1999-on-cover.html",
-         "pubDate" : "Tue, 05 Mar 2024 16:01:00",
-         "title" : "March 1974 & 1999 'On the Cover'"
       }
    ]
 }
