@@ -928,14 +928,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/a-proper-gm-event.html",
          "pubDate" : "Tue, 05 Mar 2024 12:31:00",
          "title" : "A proper GM event"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2909",
-         "pubDate" : "Tue, 05 Mar 2024 06:11:57",
-         "title" : "Andr&eacute; Meylan and Marija Zvereva win 2024 Monaco Championship"
       }
    ]
 }
