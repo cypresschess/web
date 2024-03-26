@@ -2,6 +2,7 @@ jtable([
 "HOUSTON","2024-03-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403244412 target='_blank'>QUADS - ALL AGES -SUNDAY MARCH 24 A</a>",
 "HOUSTON","2024-03-23","145","<a href=http://www.uschess.org/msa/XtblMain.php?202403233832 target='_blank'>CLEAR HORIZONS HS SCHOLASTIC</a>",
 "HOUSTON","2024-03-23","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403233612 target='_blank'>MARCH 23RD SATURDAY SWISS AT NOON</a>",
+"HOUSTON","2024-03-23","10","<a href=http://www.uschess.org/msa/XtblMain.php?202403233222 target='_blank'>CHESSPANDA03232024SATURDAY</a>",
 "SPRING","2024-03-22","33","<a href=http://www.uschess.org/msa/XtblMain.php?202403223012 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-03-22","25","<a href=http://www.uschess.org/msa/XtblMain.php?202403222902 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2024-03-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403222812 target='_blank'>FBCC 2024 NATIONAL PUPPY OPEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-09-16","10","<a href=http://www.uschess.org/msa/XtblMain.php?202309161462 target='_blank'>CHESSPANDA09162023SATURDAY</a>",
 "SPRING","2023-09-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202309151142 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-09-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309151132 target='_blank'>FBCC 2023 SEPTEMBER RAIN OPEN</a>",
-"HOUSTON","2023-09-15","22","<a href=http://www.uschess.org/msa/XtblMain.php?202309151112 target='_blank'>REBECCA CHESS CLUB QUADS SEPTEMBER 15, 2023</a>",
 ]);
