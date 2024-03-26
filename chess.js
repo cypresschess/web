@@ -10,12 +10,28 @@ news_feed (
          "title" : "FIDE Candidates 2024: All set for the tournament of the year in Toronto"
       },
       {
-         "description" : " The GRENKE Chess Classic is a double round robin tournament played at an accelerated 45 minutes plus 10 seconds a move time control. Magnus Carlsen, Ding Liren, MVL, Richard Rapport, Vincent Keymer and Daniel Fridman play two rounds a day 26th to 31st March 2024.",
+         "description" : " The GRENKE Chess Classic is a double round robin tournament played at an accelerated 45 minutes plus 10 seconds a move time control. Magnus Carlsen, Ding Liren, MVL, Richard Rapport, Vincent Keymer and Daniel Fridman play two rounds a day 26th to 31st March 2024. Then on April 1st there is a final set of tie-break matches 1st vs 2nd, 3rd vs 4th and 5th vs 6th to decide the exact final placings.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/grenke-chess-classic-2024",
          "pubDate" : "Tue, 26 Mar 2024 16:23:00",
          "title" : "GRENKE Chess Classic 2024 - Games and Results"
+      },
+      {
+         "description" : "GM Ben Finegold is known for his sharp wit and even sharper tactics. And now you have the chance to experience both of these when you play his official Chess.com bot! Play The Finegold Bot This iconic American grandmaster has been entertaining...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ben-finegold-bot-announcement",
+         "pubDate" : "Tue, 26 Mar 2024 15:25:39",
+         "title" : "Take On The New GM Ben Finegold Bot!"
+      },
+      {
+         "description" : "GM Richard Rapport pounced on a blunder by world number-one Magnus Carlsen, then made a draw against World Champion Ding Liren, to end day one of the 2024 GRENKE Chess Classic in the sole lead on 1.5/2. Carlsen hit back to beat GM Daniel Fridman w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-1",
+         "pubDate" : "Tue, 26 Mar 2024 15:17:00",
+         "title" : "Rapport Beats Carlsen To Grab Early GRENKE Chess Classic Lead"
       },
       {
          "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
          "pubDate" : "Tue, 26 Mar 2024 14:45:00",
          "title" : "GRENKE Chess Classic - Live!"
-      },
-      {
-         "description" : "Yochanan Afek, International Grandmaster of chess composition, has been providing us with articles for decades. He lives in Amsterdam, where Sagar Shah caught up with him and conducted a 90-minute interview, discussing some of the great problem compositions that we have from him. We have the puzzles in a replay board, where you can follow the discussion, using the built-in engine to answer residual questions you might have. Very entertaining and instructive.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yochanan-afek-s-chess-compositions",
-         "pubDate" : "Tue, 26 Mar 2024 09:00:00",
-         "title" : "Yochanan Afek's chess compositions"
       },
       {
          "description" : "In a fresh podcast interview released Monday, GM Magnus Carlsen talked about his two favorites for the Candidates Tournament that begins in Toronto on April 4, his future in classical events, his new motivation, the Chess960 tour, and much more. ...",
@@ -206,7 +214,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/lu-miaoyi-becomes-worlds-4th-youngest-female-im",
-         "pubDate" : "Fri, 22 Mar 2024 11:13:13",
+         "pubDate" : "Fri, 22 Mar 2024 11:13:00",
          "title" : "Lu Miaoyi, World's 4th Youngest Female IM, Continues To Shine"
       },
       {
@@ -648,22 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/harley-chantz-wins-blitzchamps-maryland",
          "pubDate" : "Wed, 13 Mar 2024 20:13:00",
          "title" : "Harley's 'Hail Mary' Clinches BlitzChamps Title"
-      },
-      {
-         "description" : "Eight players continue in the Champions Brackets of the 2024 American Cup after day two, while the other eight are one match loss away from elimination. GM Fabiano Caruana and&#38;nbsp;GM Wesley So clinched their matches with a game to spare. GM Ray...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-american-cup-day-2",
-         "pubDate" : "Wed, 13 Mar 2024 19:00:00",
-         "title" : "Veterans Laugh Last: Aronian Wins Blitz Playoffs, Krush Recovers In Women's"
-      },
-      {
-         "description" : "Forget Barbie, Oppenheimer or Poor Things. The 96th Academy Awards also marked a triumph for &#34;War Is Over!&#34; becoming the second chess-themed winner of the &#39;Best Animated Short Film&#39; award. Drawing inspiration from the iconic peace anthem &#39;Happy ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-themed-animated-short-war-is-over-wins-oscar",
-         "pubDate" : "Wed, 13 Mar 2024 13:14:00",
-         "title" : "Chess-Themed Animated Short 'War Is Over' Wins Oscar Award"
       },
       {
          "description" : "The 2024 Reykjavik Open opens tomorrow and will be played from 15th-21st March at the Harpa Music and Conference Center. The Opening party is scheduled for the 14th of March, starting at 18:00 (local time). . The event will be played in 9 rounds, swiss system, with more than 400 participants coming from 49 countries. The tournament attracted 114 titled players, and the top-seeds are: GM Deac Bogdan-Daniel (ROU, 2690), GM Ivanchuk Vasyl (UKR, 2623), GM Xu Xiangyu (CHN, 2623), []",
