@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Candidates Tournament 2024 is set to take place in Toronto, Canada, on April 3-23. This event marks a historic occasion as it is the first time the Candidates and the Women's Candidates are organized together under one roof and on the same dates. The opening ceremony will take place on the evening of April 3, while both tournaments will be set in motion on April 4 at 14.30 local time.",
+         "description" : "The first two rounds of the Grenke Chess Classic were played on Tuesday at the Congress Centre in Karlsruhe. Richard Rapport emerged as the sole leader after beating Magnus Carlsen and drawing Ding Liren. Carlsen bounced back from his loss in round 1 by beating the tournament's underdog, Daniel Fridman. | Photos: Grenke Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-ready-2",
-         "pubDate" : "Tue, 26 Mar 2024 20:00:00",
-         "title" : "FIDE Candidates 2024: All set for the tournament of the year in Toronto"
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d1",
+         "pubDate" : "Wed, 27 Mar 2024 01:40:00",
+         "title" : "Grenke Classic: Rapport beats Carlsen, leads"
       },
       {
          "description" : " The GRENKE Chess Classic is a double round robin tournament played at an accelerated 45 minutes plus 10 seconds a move time control. Magnus Carlsen, Ding Liren, MVL, Richard Rapport, Vincent Keymer and Daniel Fridman play two rounds a day 26th to 31st March 2024. Then on April 1st there is a final set of tie-break matches 1st vs 2nd, 3rd vs 4th and 5th vs 6th to decide the exact final placings.",
@@ -32,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-1",
          "pubDate" : "Tue, 26 Mar 2024 15:17:00",
          "title" : "Rapport Beats Carlsen To Grab Early GRENKE Chess Classic Lead"
-      },
-      {
-         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
-         "pubDate" : "Tue, 26 Mar 2024 14:45:00",
-         "title" : "GRENKE Chess Classic - Live!"
       },
       {
          "description" : "In a fresh podcast interview released Monday, GM Magnus Carlsen talked about his two favorites for the Candidates Tournament that begins in Toronto on April 4, his future in classical events, his new motivation, the Chess960 tour, and much more. ...",
