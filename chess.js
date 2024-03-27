@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the beginning of 2017 Siegfried Hornecker, who later wanted to be called Sarah, published his first \"Study of the Month\" on the ChessBase website, which has appeared regularly ever since. These were knowledgeable and entertaining columns in which Hornecker introduced a wide audience to the world of studies, compositions and problems. However, it has now been announced that Hornecker died on Saturday 22 March, shortly after his/her 38th birthday, as a result of sepsis. An obituary by Martin Minski. | Photo: Martin Minski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/obituary-sarah-siegfried-hornecker-19-03-1986-22-03-2024",
+         "pubDate" : "Wed, 27 Mar 2024 11:00:00",
+         "title" : "Obituary: Sarah (Siegfried) Hornecker (19.03.1986 - 22.03.2024)"
+      },
+      {
          "description" : "The first two rounds of the Grenke Chess Classic were played on Tuesday at the Congress Centre in Karlsruhe. Richard Rapport emerged as the sole leader after beating Magnus Carlsen and drawing Ding Liren. Carlsen bounced back from his loss in round 1 by beating the tournament's underdog, Daniel Fridman. | Photos: Grenke Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-on-candidates",
          "pubDate" : "Tue, 26 Mar 2024 06:23:00",
          "title" : "Carlsen On Candidates, His Classical Chess Future, Freestyle Chess, And More"
+      },
+      {
+         "description" : "You know that your blogging activity is teetering on the brink when you can only manage one post in a single week. Last week we had <A HREF=\"https://chessforallages.blogspot.com/2024/03/real-chess-villages.html\">Real Chess Villages</A> (March 2024), as the weekly post in a Monday series on AI comics. The prompt for the image in that post was 'Chess village Kerala' and I ended the post saying, <BLOCKQUOTE> Although I'm no expert on [India], never having visited, the village structures and the villagers' clothing look to me to be decidedly Indian. </BLOCKQUOTE> <P> What to do a week later? Let's follow that up with some images related to Indian Hindu culture. <I>Non sequiturs 'R' Us.</I> <P AL",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/03/hindu-gods-play-chess.html",
+         "pubDate" : "Mon, 25 Mar 2024 16:09:00",
+         "title" : "Hindu Gods Play Chess"
       },
       {
          "description" : "The above amounts include Entry Fee and Bank Charges only. If additional players and accompanying persons need accommodation kindly contact the organizer directly. Payment mode:",
@@ -896,22 +912,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2912",
          "pubDate" : "Wed, 06 Mar 2024 14:06:09",
          "title" : "FIDE Resolution on suspending membership of Egyptian Chess Federation"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2911",
-         "pubDate" : "Wed, 06 Mar 2024 10:43:42",
-         "title" : "Call for submissions: FIDE Veterans Support Program 2024"
-      },
-      {
-         "description" : "The European Senior Chess Championship 2024 will be held from October 24 (arrival day) to November 3 (departure day) in Lignano Sabbiadoro, Italy. The event will be played in two age categories: 50+ and 65+, open and women's sections separately. Each Championship will be played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves followed by 30 minutes for the rest of the game with an addition of 30 seconds per movestarting from move []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-chess-championship-2024-official-regulations/",
-         "pubDate" : "Wed, 06 Mar 2024 08:55:55",
-         "title" : "European Senior Chess Championship 2024 - Official regulations"
       }
    ]
 }
