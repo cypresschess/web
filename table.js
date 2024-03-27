@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-03-05  - 03-26","22","<a href=http://www.uschess.org/msa/XtblMain.php?202403266482 target='_blank'>MARCH 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-03-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403244412 target='_blank'>QUADS - ALL AGES -SUNDAY MARCH 24 A</a>",
 "HOUSTON","2024-03-23","145","<a href=http://www.uschess.org/msa/XtblMain.php?202403233832 target='_blank'>CLEAR HORIZONS HS SCHOLASTIC</a>",
 "HOUSTON","2024-03-23","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403233612 target='_blank'>MARCH 23RD SATURDAY SWISS AT NOON</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-09-16","171","<a href=http://www.uschess.org/msa/XtblMain.php?202309162042 target='_blank'>IMPACT LEADERSHIP ACADEMY</a>",
 "HOUSTON","2023-09-16","10","<a href=http://www.uschess.org/msa/XtblMain.php?202309161462 target='_blank'>CHESSPANDA09162023SATURDAY</a>",
 "SPRING","2023-09-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202309151142 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2023-09-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309151132 target='_blank'>FBCC 2023 SEPTEMBER RAIN OPEN</a>",
 ]);
