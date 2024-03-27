@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Small Nations Individual Open and Women's Chess Championships 2024 will take place from 22nd-30th June in Andorra la Vella, Andorra supported by the European Chess Union. The 6th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship will be simultaneously played in the same venue. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-small-nations-individual-chess-championships-2024/",
+         "pubDate" : "Wed, 27 Mar 2024 15:19:02",
+         "title" : "European Small Nations Individual Chess Championships 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> SAINT LOUIS, March 26, 2024 - <strong>The 2024 American Cup is one for the history books as 14-year-old International Master (IM) Alice Lee clinched her first major tournament win, while Grandmaster (GM) Levon Aronian captured his first American Cup win and first victory as an American player in the Women's and Open tournaments, respectively.</strong><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/international-master-alice-lee-and-grandmaster-levon-aronian-win-american-cup-women%E2%80%99s-and-open",
+         "pubDate" : "Wed, 27 Mar 2024 14:47:40",
+         "title" : "International Master Alice Lee and Grandmaster Levon Aronian Win American Cup Women's and Open Tournaments"
+      },
+      {
+         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
+         "pubDate" : "Wed, 27 Mar 2024 14:45:00",
+         "title" : "GRENKE Chess Classic - Live!"
+      },
+      {
+         "description" : " The 2024 O2C Doeberl Cup begins tomorrow, with the first 2 rounds of the Premier. The pairings for the Premier are available at <a href=\"https://chess-results.com/tnr915556.aspx?lan=1&amp;art=2&amp;rd=1\">https://chess-results.com/tnr915556.aspx?lan=1&amp;art=2&amp;rd=1</a> As with any large tournament (416 players in total) there have been a couple of hiccups. We lost a couple of GM's at the last(ish) minute, in at least one case due to the sudden scheduling of a national teams event. On the other hand the event has attracted a larger than usual group of titled players, so there will be plenty of exciting games. The first round begins at 1pm tomorrow, with round 2 at 7pm. There will be live",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-starts-tomorrow.html",
+         "pubDate" : "Wed, 27 Mar 2024 12:29:00",
+         "title" : "2024 O2C Doeberl Cup - Starts tomorrow"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2937",
+         "pubDate" : "Wed, 27 Mar 2024 12:06:13",
+         "title" : "FIDE World Junior Rapid & Blitz Championships 2024: Registration is open"
+      },
+      {
          "description" : "At the beginning of 2017 Siegfried Hornecker, who later wanted to be called Sarah, published his first \"Study of the Month\" on the ChessBase website, which has appeared regularly ever since. These were knowledgeable and entertaining columns in which Hornecker introduced a wide audience to the world of studies, compositions and problems. However, it has now been announced that Hornecker died on Saturday 22 March, shortly after his/her 38th birthday, as a result of sepsis. An obituary by Martin Minski. | Photo: Martin Minski",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +50,36 @@ news_feed (
          "title" : "Obituary: Sarah (Siegfried) Hornecker (19.03.1986 - 22.03.2024)"
       },
       {
+         "description" : "After GM Denis Lazavik upset GM Alireza Firouzja in the 10th round of the early Titled Tuesday event of March 26 and went on to win, Firouzja scored a dominant 10.5/11 in the late contest to capture the second tournament. It was Lazavik&#39;s first wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-firouzja-win-titled-tuesday-march-26-2024",
+         "pubDate" : "Wed, 27 Mar 2024 07:57:56",
+         "title" : "Firouzja Dominates Late After Nearly Winning Early"
+      },
+      {
+         "description" : "10-year-old prodigy FM Faustino Oro is once again in the spotlight. Now a clip of the Argentinian beating world number-one Magnus Carlsen in Chess.com&#39;s Bullet Brawl has captured the attention of millions of viewers within a few days. Few player...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/10-year-old-faustino-oro-goes-viral-after-beating-carlsen",
+         "pubDate" : "Wed, 27 Mar 2024 06:22:58",
+         "title" : "10-Year-Old Fausti Oro Goes Viral After Beating Magnus Carlsen On Chess.com"
+      },
+      {
          "description" : "The first two rounds of the Grenke Chess Classic were played on Tuesday at the Congress Centre in Karlsruhe. Richard Rapport emerged as the sole leader after beating Magnus Carlsen and drawing Ding Liren. Carlsen bounced back from his loss in round 1 by beating the tournament's underdog, Daniel Fridman. | Photos: Grenke Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grenke-classic-2024-d1",
          "pubDate" : "Wed, 27 Mar 2024 01:40:00",
          "title" : "Grenke Classic: Rapport beats Carlsen, leads"
+      },
+      {
+         "description" : "The FIDE Candidates Tournament 2024 is set to take place in Toronto, Canada, on April 3-23. This event marks a historic occasion as it is the first time the Candidates and the Women's Candidates are organized together under one roof and on the same dates. The opening ceremony will take place on the evening of April 3, while both tournaments will be set in motion on April 4 at 14.30 local time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-ready-2",
+         "pubDate" : "Tue, 26 Mar 2024 20:00:21",
+         "title" : "FIDE Candidates 2024: All set for the tournament of the year in Toronto"
       },
       {
          "description" : " The GRENKE Chess Classic is a double round robin tournament played at an accelerated 45 minutes plus 10 seconds a move time control. Magnus Carlsen, Ding Liren, MVL, Richard Rapport, Vincent Keymer and Daniel Fridman play two rounds a day 26th to 31st March 2024. Then on April 1st there is a final set of tie-break matches 1st vs 2nd, 3rd vs 4th and 5th vs 6th to decide the exact final placings.",
@@ -618,14 +682,6 @@ news_feed (
          "title" : "\"Jayvon Davis Express\" wins in Delaware!"
       },
       {
-         "description" : "GM Irina Krush and IM Alice Lee each went 2-0 on day three of the 2024 American Cup. GM Ray Robson has taken the lead vs. GM Wesley So while GMs&#38;nbsp;Fabiano Caruana and Levon Aronian are tied so far.&#38;nbsp; Meanwhile, the Elimination Bracket beg...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-american-cup-day-3",
-         "pubDate" : "Thu, 14 Mar 2024 21:08:00",
-         "title" : "Krush, Lee Storm To 2-0; Eliminations Begin"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -656,14 +712,6 @@ news_feed (
          "link" : "https://aicf.in/national-team-chess-chmapionship-2024/",
          "pubDate" : "Thu, 14 Mar 2024 10:29:43",
          "title" : "National Team Chess Championship 2024"
-      },
-      {
-         "description" : "Maryland Terrapins defensive back Chantz Harley took top honors in the sixth installment of BlitzChamps after defeating fellow back Dante Trader Jr. in the fourth game of their finals match with a &#34;Hail Mary&#34; pawn promotion that secured the title....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/harley-chantz-wins-blitzchamps-maryland",
-         "pubDate" : "Wed, 13 Mar 2024 20:13:00",
-         "title" : "Harley's 'Hail Mary' Clinches BlitzChamps Title"
       },
       {
          "description" : "The 2024 Reykjavik Open opens tomorrow and will be played from 15th-21st March at the Harpa Music and Conference Center. The Opening party is scheduled for the 14th of March, starting at 18:00 (local time). . The event will be played in 9 rounds, swiss system, with more than 400 participants coming from 49 countries. The tournament attracted 114 titled players, and the top-seeds are: GM Deac Bogdan-Daniel (ROU, 2690), GM Ivanchuk Vasyl (UKR, 2623), GM Xu Xiangyu (CHN, 2623), []",
@@ -896,22 +944,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/call-for-submissions-fide-veterans-support-program/",
          "pubDate" : "Wed, 06 Mar 2024 16:08:38",
          "title" : "Call for submissions - FIDE Veterans Support Program"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108274284.cms\" />Indian Grandmaster R Praggnanandhaa failed to register a win from an advantageous position against compatriot D Gukesh as their seventh round match ended in a draw in the Prague Masters Chess tournament on Wednesday. Praggnandhaa came very close to beating Gukesh who played black but in the end they split points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-escapes-with-a-draw-against-praggnanandhaa-in-prague-masters-chess/articleshow/108274284.cms",
-         "pubDate" : "Wed, 06 Mar 2024 14:49:48",
-         "title" : "Gukesh escapes with a draw against Praggnanandhaa in Prague Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2912",
-         "pubDate" : "Wed, 06 Mar 2024 14:06:09",
-         "title" : "FIDE Resolution on suspending membership of Egyptian Chess Federation"
       }
    ]
 }
