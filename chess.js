@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two rounds featuring turnarounds and missed chances left Richard Rapport atop the standings of the Grenke Chess Classic with a 1-point lead over Magnus Carlsen, Ding Liren and Vincent Keymer. Rapport drew Keymer and beat Daniel Fridman in rounds 3 and 4, while both Carlsen and Keymer obtained big advantages which they were unable to convert into full points. The marquee matchup of the day saw Ding holding a draw with black against Carlsen. | Photo: Angelika Valkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d2",
+         "pubDate" : "Wed, 27 Mar 2024 22:30:00",
+         "title" : "Grenke Classic: Rapport widens the gap after eventful pair of rounds"
+      },
+      {
+         "description" : "GM Richard Rapport now leads the 2024 GRENKE Chess Classic by a full point after beating GM Daniel Fridman to score 1.5/2 for a second day in a row. Elsewhere time pressure saw wins evaporate for world number-one Magnus Carlsen (against GM Maxime ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-2",
+         "pubDate" : "Wed, 27 Mar 2024 15:28:27",
+         "title" : "Rapport Extends Leads As Carlsen, Keymer, MVL Miss Huge Chances"
+      },
+      {
          "description" : "The European Small Nations Individual Open and Women's Chess Championships 2024 will take place from 22nd-30th June in Andorra la Vella, Andorra, supported by the European Chess Union. The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship will be simultaneously played in the same venue. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/international-master-alice-lee-and-grandmaster-levon-aronian-win-american-cup-women%E2%80%99s-and-open",
          "pubDate" : "Wed, 27 Mar 2024 14:47:40",
          "title" : "International Master Alice Lee and Grandmaster Levon Aronian Win American Cup Women's and Open Tournaments"
-      },
-      {
-         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
-         "pubDate" : "Wed, 27 Mar 2024 14:45:00",
-         "title" : "GRENKE Chess Classic - Live!"
       },
       {
          "description" : " The 2024 O2C Doeberl Cup begins tomorrow, with the first 2 rounds of the Premier. The pairings for the Premier are available at <a href=\"https://chess-results.com/tnr915556.aspx?lan=1&amp;art=2&amp;rd=1\">https://chess-results.com/tnr915556.aspx?lan=1&amp;art=2&amp;rd=1</a> As with any large tournament (416 players in total) there have been a couple of hiccups. We lost a couple of GM's at the last(ish) minute, in at least one case due to the sudden scheduling of a national teams event. On the other hand the event has attracted a larger than usual group of titled players, so there will be plenty of exciting games. The first round begins at 1pm tomorrow, with round 2 at 7pm. There will be live",
@@ -64,22 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/10-year-old-faustino-oro-goes-viral-after-beating-carlsen",
          "pubDate" : "Wed, 27 Mar 2024 06:22:00",
          "title" : "10-Year-Old Fausti Oro Goes Viral After Beating Magnus Carlsen On Chess.com"
-      },
-      {
-         "description" : "The first two rounds of the Grenke Chess Classic were played on Tuesday at the Congress Centre in Karlsruhe. Richard Rapport emerged as the sole leader after beating Magnus Carlsen and drawing Ding Liren. Carlsen bounced back from his loss in round 1 by beating the tournament's underdog, Daniel Fridman. | Photos: Grenke Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d1",
-         "pubDate" : "Wed, 27 Mar 2024 01:40:00",
-         "title" : "Grenke Classic: Rapport beats Carlsen, leads"
-      },
-      {
-         "description" : "The FIDE Candidates Tournament 2024 is set to take place in Toronto, Canada, on April 3-23. This event marks a historic occasion as it is the first time the Candidates and the Women's Candidates are organized together under one roof and on the same dates. The opening ceremony will take place on the evening of April 3, while both tournaments will be set in motion on April 4 at 14.30 local time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-ready-2",
-         "pubDate" : "Tue, 26 Mar 2024 20:00:21",
-         "title" : "FIDE Candidates 2024: All set for the tournament of the year in Toronto"
       },
       {
          "description" : " The GRENKE Chess Classic is a double round robin tournament played at an accelerated 45 minutes plus 10 seconds a move time control. Magnus Carlsen, Ding Liren, MVL, Richard Rapport, Vincent Keymer and Daniel Fridman play two rounds a day 26th to 31st March 2024. Then on April 1st there is a final set of tie-break matches 1st vs 2nd, 3rd vs 4th and 5th vs 6th to decide the exact final placings.",
@@ -656,14 +648,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/what-can-you-learn-from-vidit",
          "pubDate" : "Fri, 15 Mar 2024 11:00:00",
          "title" : "What can you learn from Vidit"
-      },
-      {
-         "description" : "The 2024 Candidates Tournament is rapidly approaching, and it could very well be a landmark moment in chess history once all is said and done. Exciting young talents combine with established veterans of the game, with the winner taking on current ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-candidates-prediction-contest",
-         "pubDate" : "Fri, 15 Mar 2024 09:25:00",
-         "title" : "Who Will Win The Candidates? Tell Us And Win Prizes!"
       },
       {
          "description" : " More than 400 players, including several young English talents, are competing in Iceland's premier event More than half a century on, the Bobby Fischer v Boris Spassky series at Reykjavik in 1972 remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where, for a brief period, a galaxy of talent made England the No 2 chess nation behind the Soviet Union. On Friday, the annual Reykjavik Open starts at the Harpa conference centre in the heart of the city with a full ­complement of 420 players, ranging from elite grandmasters to ordinary amateurs, nearly a tenth of them British. The excursion on the tournament's free morning includes a",
