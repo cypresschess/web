@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The European Small Nations Individual Open and Women's Chess Championships 2024 will take place from 22nd-30th June in Andorra la Vella, Andorra supported by the European Chess Union. The 6th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship will be simultaneously played in the same venue. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes []",
+         "description" : "The European Small Nations Individual Open and Women's Chess Championships 2024 will take place from 22nd-30th June in Andorra la Vella, Andorra, supported by the European Chess Union. The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship will be simultaneously played in the same venue. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-small-nations-individual-chess-championships-2024/",
@@ -62,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/10-year-old-faustino-oro-goes-viral-after-beating-carlsen",
-         "pubDate" : "Wed, 27 Mar 2024 06:22:58",
+         "pubDate" : "Wed, 27 Mar 2024 06:22:00",
          "title" : "10-Year-Old Fausti Oro Goes Viral After Beating Magnus Carlsen On Chess.com"
       },
       {
@@ -936,14 +936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
          "pubDate" : "Thu, 07 Mar 2024 10:50:00",
          "title" : "Prague Chess Festival - Abdusattorov triumphs, 1&frac12; points ahead of the field"
-      },
-      {
-         "description" : "The International Chess Federation is pleased to announce the continuation of its support to chess veterans. The grants will be awarded to distinguished players, coaches...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/call-for-submissions-fide-veterans-support-program/",
-         "pubDate" : "Wed, 06 Mar 2024 16:08:38",
-         "title" : "Call for submissions - FIDE Veterans Support Program"
       }
    ]
 }
