@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2024 O2C Doeberl Cup began with the first 2 rounds of the Premier section. This year's field includes 4 GM's, 8 IM's and 38 titled players overall. While the top boards saw the usual rating gap between top half an bottom half, this actually shrunk on the lower boards, in part due to the recent changes to the FIDE Rating System. Consequently there were a few upsets in the first round, and even into the second. Defending champion GM Hrant Melkumyan started the tournament with 2 straightforward wins (including one over Harry Press). 2nd seed Mitrabha Guhu found round 2 a lot tougher, salvaging a draw against FM Michael Steadmen (NZ) from a position where he was a lot worse. IM Das from Ind",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-1.html",
+         "pubDate" : "Thu, 28 Mar 2024 21:37:00",
+         "title" : "2024 O2C Doeberl Cup - Day 1"
+      },
+      {
          "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-february-2024/",
          "pubDate" : "Fri, 08 Mar 2024 07:54:21",
          "title" : "ECU E-Magazine February 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2915",
-         "pubDate" : "Thu, 07 Mar 2024 21:46:50",
-         "title" : "Women's Chess Commission - empowering equality"
       }
    ]
 }
