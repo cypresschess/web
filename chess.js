@@ -896,30 +896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2914",
          "pubDate" : "Thu, 07 Mar 2024 12:11:41",
          "title" : "Swiss Wednesday Women's Series: February recap"
-      },
-      {
-         "description" : " <p class=\"lead\">A recent survey conducted by World Chess among participants of the Swiss Queens Wednesdays, an elite online chess tournament series, has revealed a significant shift in perceptions among female chess players regarding gender barriers in the sport. A remarkable 65% of respondents expressed confidence that a woman will become the world chess champion, with 32% believing it could happen in less than 5 years and 33% foreseeing it within the next decade. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Frame-1321316385.png\" width=\"1600\" height=\"900\" alt=\"\" /> <div class=\"e2-text-caption\">This optimistic outlook from the majority of respondents undersco",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/survey-majority-of-elite-female-chess-players-believe-a-woman-wi/",
-         "pubDate" : "Thu, 07 Mar 2024 11:14:39",
-         "title" : "Survey: Majority of Elite Female Chess Players Believe a Woman Will Be World Chess Champion"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2913",
-         "pubDate" : "Thu, 07 Mar 2024 11:09:22",
-         "title" : "Majority of elite female chess players believe a woman will be World Champion"
-      },
-      {
-         "description" : "Nodirbek Abdusattorov is the sixth champion of the prestigious chess festival. In the process the the 19-year-old Usbek grandmaster rose to the fourth position in the world live ranking, ahead of the reigning world champion Ding Liren. All games of the final round were drawn, and can be replayed, with engine commentary, in this report. You can also watch the live commentary by ChessBase India, if you missed it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/prague-festival-2024-live",
-         "pubDate" : "Thu, 07 Mar 2024 10:50:00",
-         "title" : "Prague Chess Festival - Abdusattorov triumphs, 1&frac12; points ahead of the field"
       }
    ]
 }
