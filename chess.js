@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Two rounds featuring turnarounds and missed chances left Richard Rapport atop the standings of the Grenke Chess Classic with a 1-point lead over Magnus Carlsen, Ding Liren and Vincent Keymer. Rapport drew Keymer and beat Daniel Fridman in rounds 3 and 4, while both Carlsen and Keymer obtained big advantages which they were unable to convert into full points. The marquee matchup of the day saw Ding holding a draw with black against Carlsen. | Photo: Angelika Valkova",
+         "description" : "What to do against 1.e4? Many players choose to open with the Sicilian to play for a win with Black and get interesting positions, but they are afraid of the long forced variations in the Najdorf, the Dragon or the Sveshnikov. The Kalashnikov Variation (1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6!?) is an interesting alternative. The positions offer a wealth of tactical and strategic possibilities, but the theory is straightforward. In a new course, French GM Fabien Libiszewski shows how to score in the Kalashnikov Variation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d2",
-         "pubDate" : "Wed, 27 Mar 2024 22:30:00",
-         "title" : "Grenke Classic: Rapport widens the gap after eventful pair of rounds"
+         "link" : "https://en.chessbase.com/post/new-master-the-sicilian-kalashnikov-by-fabien-libiszewski",
+         "pubDate" : "Thu, 28 Mar 2024 16:00:00",
+         "title" : "New: \"Master the Sicilian Kalashnikov\" by Fabien Libiszewski"
+      },
+      {
+         "description" : "It is quite difficult to find the right trainer for a chess player. More so when there are so many lucrative options available. While some prefer to work on their own, others need a chess coach to guide and help them improve their game. Peter Long shares his experiences and thoughts as a trainer. Instead of focusing on gaining more knowledge, attending camps and playing tournaments incessantly, creating a structure will help students to fix their gaps and become stronger players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/key-challenges-trainers-2",
+         "pubDate" : "Thu, 28 Mar 2024 13:30:00",
+         "title" : "Key challenges of chess trainers (pt. 2)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2938",
+         "pubDate" : "Thu, 28 Mar 2024 11:57:42",
+         "title" : "Across the board: Fostering unity and empowerment in Africa through chess"
+      },
+      {
+         "description" : "It is the prestigious annual event that brings together the global sports industry&#39;s big players&#38;mdash;and yet again Chess.com was there to discuss the hot topics facing the game. Cheating, format changes, branding, issues of governance, and eve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/top-level-chess-is-a-bubble-gothamchess-rensch-canty-discuss-games-future-at-mit",
+         "pubDate" : "Thu, 28 Mar 2024 07:12:56",
+         "title" : "'Top-Level Chess Is A Bubble': GothamChess, Rensch, Canty Discuss Game's Future At MIT"
       },
       {
          "description" : "GM Richard Rapport&#38;nbsp;leads the 2024 GRENKE Chess Classic by a full point after beating GM Daniel Fridman to score 1.5/2 for the second day in a row. Elsewhere time pressure saw wins evaporate for world number-one Magnus Carlsen (against GM Maxi...",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2937",
          "pubDate" : "Wed, 27 Mar 2024 12:06:13",
          "title" : "FIDE World Junior Rapid & Blitz Championships 2024: Registration is open"
-      },
-      {
-         "description" : "At the beginning of 2017 Siegfried Hornecker, who later wanted to be called Sarah, published his first \"Study of the Month\" on the ChessBase website, which has appeared regularly ever since. These were knowledgeable and entertaining columns in which Hornecker introduced a wide audience to the world of studies, compositions and problems. However, it has now been announced that Hornecker died on Saturday 22 March, shortly after his/her 38th birthday, as a result of sepsis. An obituary by Martin Minski. | Photo: Martin Minski",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/obituary-sarah-siegfried-hornecker-19-03-1986-22-03-2024",
-         "pubDate" : "Wed, 27 Mar 2024 11:00:00",
-         "title" : "Obituary: Sarah (Siegfried) Hornecker (19.03.1986 - 22.03.2024)"
       },
       {
          "description" : "After GM Denis Lazavik upset GM Alireza Firouzja in the 10th round of the early Titled Tuesday event of March 26 and went on to win, Firouzja scored a dominant 10.5/11 in the late contest to capture the second tournament. It was Lazavik&#39;s first wi...",
@@ -626,14 +642,6 @@ news_feed (
          "title" : "13th All-African Games (Accra, Ghana)"
       },
       {
-         "description" : "In a move that could potentially shake up the chess world, GM Magnus Carlsen and German entrepreneur Jan-Henric Buettner have launched the Freestyle Chess Grand Slam Tour, a new ambitious series of Chess960 tournaments that will run across five co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-launches-luxury-freestyle-tour-across-five-continents",
-         "pubDate" : "Fri, 15 Mar 2024 11:35:00",
-         "title" : "Carlsen, Buettner Unveil Extravagant Chess960 Grand Slam Tour Across 5 Continents"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -880,22 +888,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/a-heart-racing-experience-4",
          "pubDate" : "Thu, 07 Mar 2024 18:00:00",
          "title" : "A Heart-Racing Experience! (4)"
-      },
-      {
-         "description" : "The 2024 British Chess Championship will be held in Hull with the first competitions starting in the evening of Thursday 25th July 2024 with the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/arbiters-call-of-interest/",
-         "pubDate" : "Thu, 07 Mar 2024 13:00:17",
-         "title" : "Arbiters - Call of Interest for the BCC and the Glorney Cup"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2914",
-         "pubDate" : "Thu, 07 Mar 2024 12:11:41",
-         "title" : "Swiss Wednesday Women's Series: February recap"
       }
    ]
 }
