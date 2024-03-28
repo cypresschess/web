@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
+         "pubDate" : "Thu, 28 Mar 2024 18:15:00",
+         "title" : "GRENKE Chess Classic - Live!"
+      },
+      {
+         "description" : "The European Chess Union Trainers' Commission (ECU-ETC) was formed at the end of 2022. The Commission's Council was made-up by I.Sokolov (Chairman), Adrian Mikhalchishin (Honorary Chairman), Efstratios Grivas (Secretary), Miguel Illescas (Member), Antoaneta Stefanova (Member), Jana Krivec (Adviser) and Luke McShane (Adviser). The cream of the cream of Europe! It took some time before all official procedures were done and requirements were met, but we wanted to be sure that we make everything nice, smoothly and legally. In the end []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-trainers-commission-projects/",
+         "pubDate" : "Thu, 28 Mar 2024 16:29:31",
+         "title" : "ECU Trainers Commission Projects"
+      },
+      {
          "description" : "What to do against 1.e4? Many players choose to open with the Sicilian to play for a win with Black and get interesting positions, but they are afraid of the long forced variations in the Najdorf, the Dragon or the Sveshnikov. The Kalashnikov Variation (1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6!?) is an interesting alternative. The positions offer a wealth of tactical and strategic possibilities, but the theory is straightforward. In a new course, French GM Fabien Libiszewski shows how to score in the Kalashnikov Variation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -880,14 +896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2915",
          "pubDate" : "Thu, 07 Mar 2024 21:46:50",
          "title" : "Women's Chess Commission - empowering equality"
-      },
-      {
-         "description" : "Magnus Carlsen has been the World #1, since 2011! Apart from his tremendous chess talent, he also has a relatively higher HRV: his heart rate is typically between 75 bpm - 95 bpm, which enables him to balance alertness (for tactical danger and opportunities) and calmness (to optimize logical thinking and decision-making)! Calm heartbeats during critical moments lead to better decisions!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/a-heart-racing-experience-4",
-         "pubDate" : "Thu, 07 Mar 2024 18:00:00",
-         "title" : "A Heart-Racing Experience! (4)"
       }
    ]
 }
