@@ -10,11 +10,11 @@ news_feed (
          "title" : "Grenke Classic: Rapport widens the gap after eventful pair of rounds"
       },
       {
-         "description" : "GM Richard Rapport now leads the 2024 GRENKE Chess Classic by a full point after beating GM Daniel Fridman to score 1.5/2 for a second day in a row. Elsewhere time pressure saw wins evaporate for world number-one Magnus Carlsen (against GM Maxime ...",
+         "description" : "GM Richard Rapport&#38;nbsp;leads the 2024 GRENKE Chess Classic by a full point after beating GM Daniel Fridman to score 1.5/2 for the second day in a row. Elsewhere time pressure saw wins evaporate for world number-one Magnus Carlsen (against GM Maxi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-2",
-         "pubDate" : "Wed, 27 Mar 2024 15:28:27",
+         "pubDate" : "Wed, 27 Mar 2024 15:28:00",
          "title" : "Rapport Extends Leads As Carlsen, Keymer, MVL Miss Huge Chances"
       },
       {
