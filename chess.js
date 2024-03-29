@@ -10,6 +10,14 @@ news_feed (
          "title" : "2024 O2C Doeberl Cup - Day 1"
       },
       {
+         "description" : "World number-one Magnus Carlsen called it &#34;kind of insane to get two Benoni games in one day&#34; as he defeated GM Vincent Keymer with the black pieces and then GM Richard Rapport with White to upend the standings and take a one-point lead. Rapport, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-3",
+         "pubDate" : "Thu, 28 Mar 2024 19:57:54",
+         "title" : "Carlsen Storms Into Sole Lead In Karlsruhe"
+      },
+      {
          "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/new-master-the-sicilian-kalashnikov-by-fabien-libiszewski",
          "pubDate" : "Thu, 28 Mar 2024 16:00:00",
          "title" : "New: \"Master the Sicilian Kalashnikov\" by Fabien Libiszewski"
-      },
-      {
-         "description" : "It is quite difficult to find the right trainer for a chess player. More so when there are so many lucrative options available. While some prefer to work on their own, others need a chess coach to guide and help them improve their game. Peter Long shares his experiences and thoughts as a trainer. Instead of focusing on gaining more knowledge, attending camps and playing tournaments incessantly, creating a structure will help students to fix their gaps and become stronger players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/key-challenges-trainers-2",
-         "pubDate" : "Thu, 28 Mar 2024 13:30:00",
-         "title" : "Key challenges of chess trainers (pt. 2)"
       },
       {
          "description" : "",
@@ -640,14 +640,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/15/2024-african-individual-chess-championships-accra-ghana/",
          "pubDate" : "Sat, 16 Mar 2024 01:02:27",
          "title" : "2024 African Individual Chess Championships (Accra, Ghana)"
-      },
-      {
-         "description" : "GMs Levon Aronian and Ray Robson prevailed against their respective world top-10 opponents, GM Fabiano Caruana and Wesley So, on day four of the 2024 American Cup. They advance to meet in the Finals. In the Women&#39;s section, GM Irina Krush and Al...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-american-cup-day-4",
-         "pubDate" : "Fri, 15 Mar 2024 20:44:00",
-         "title" : "The Finals Are Set: Aronian vs. Robson, 5x Krush vs. Lee"
       },
       {
          "description" : " Brewington Hardaway is coming off of his second GM norm in the New York Invitational. The 14-year old International Master continues to make rapid progress toward the coveted GM title. An interesting discussion took place at the Marshall Chess Club on February 20th, 2024, for Black History Month. Hardaway aptly corrected the moderator to include The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/with-two-gm-norms-hardaway-charts-course/\">With two GM norms, Hardaway charts course</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
