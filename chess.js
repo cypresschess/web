@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen scored back-to-back wins on Thursday to take the lead at the Grenke Chess Classic in Karlsruhe. Carlsen defeated Vincent Keymer and former leader Richard Rapport to go into the rest day a full point ahead of Rapport, Ding Liren and Maxime Vachier-Lagrave. The remaining four rounds of the double round-robin will be played during the weekend, with the final playoff set to take place on Monday. | Photo: Angelika Valkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d3",
+         "pubDate" : "Fri, 29 Mar 2024 04:30:00",
+         "title" : "Grenke Classic: Carlsen wins two games in a row, takes the lead"
+      },
+      {
          "description" : " The 2024 O2C Doeberl Cup began with the first 2 rounds of the Premier section. This year's field includes 4 GM's, 8 IM's and 38 titled players overall. While the top boards saw the usual rating gap between top half an bottom half, this actually shrunk on the lower boards, in part due to the recent changes to the FIDE Rating System. Consequently there were a few upsets in the first round, and even into the second. Defending champion GM Hrant Melkumyan started the tournament with 2 straightforward wins (including one over Harry Press). 2nd seed Mitrabha Guhu found round 2 a lot tougher, salvaging a draw against FM Michael Steadmen (NZ) from a position where he was a lot worse. IM Das from Ind",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -14,16 +22,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-3",
-         "pubDate" : "Thu, 28 Mar 2024 19:57:54",
+         "pubDate" : "Thu, 28 Mar 2024 19:57:00",
          "title" : "Carlsen Storms Into Sole Lead In Karlsruhe"
-      },
-      {
-         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
-         "pubDate" : "Thu, 28 Mar 2024 18:15:00",
-         "title" : "GRENKE Chess Classic - Live!"
       },
       {
          "description" : "The European Chess Union Trainers' Commission (ECU-ETC) was formed at the end of 2022. The Commission's Council was made-up by I.Sokolov (Chairman), Adrian Mikhalchishin (Honorary Chairman), Efstratios Grivas (Secretary), Miguel Illescas (Member), Antoaneta Stefanova (Member), Jana Krivec (Adviser) and Luke McShane (Adviser). The cream of the cream of Europe! It took some time before all official procedures were done and requirements were met, but we wanted to be sure that we make everything nice, smoothly and legally. In the end []",
@@ -32,14 +32,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-trainers-commission-projects/",
          "pubDate" : "Thu, 28 Mar 2024 16:29:31",
          "title" : "ECU Trainers Commission Projects"
-      },
-      {
-         "description" : "What to do against 1.e4? Many players choose to open with the Sicilian to play for a win with Black and get interesting positions, but they are afraid of the long forced variations in the Najdorf, the Dragon or the Sveshnikov. The Kalashnikov Variation (1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 e5 5.Nb5 d6!?) is an interesting alternative. The positions offer a wealth of tactical and strategic possibilities, but the theory is straightforward. In a new course, French GM Fabien Libiszewski shows how to score in the Kalashnikov Variation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-master-the-sicilian-kalashnikov-by-fabien-libiszewski",
-         "pubDate" : "Thu, 28 Mar 2024 16:00:00",
-         "title" : "New: \"Master the Sicilian Kalashnikov\" by Fabien Libiszewski"
       },
       {
          "description" : "",
