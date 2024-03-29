@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Day 2 of the 2024 O2C Doeberl Cup saw the rest of the sections join up with the Premier. 413 players in total sat down to play when all events officially began at 1pm on Friday, which is once again, a record entry for the tournament. Round 3 of the Premier had a sensation on the top board, with GM Hrant Melkumyan having a walkover win againt GM M Venkatesh. Suffering the effects of jet lag, Venkatesh overslept, missing the 1pm start, and the 30 minute deadline to show up. The extra rest probably assisted Melkumyan, as he won a very long round 4 game against IM Peng Chen to reach 4/4. In joint second are IM Rishi Sardana, IM James Morris, and FM Albert Winkelman. Sardana and Morris drew thei",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-2.html",
+         "pubDate" : "Fri, 29 Mar 2024 23:29:00",
+         "title" : "2024 O2C Doeberl Cup - Day 2"
+      },
+      {
          "description" : "All chess players aspire to create a lasting masterpiece over the board. And if sacrifices appeal to the artistic side of a chess player, what can be a better way than to sacrifice the most powerful of all pieces, the queen? GM Sundararajan Kidambi presents three games featuring remarkable (positional) queen sacrifices! | Pictured: Karthikeyan Murali | Photo: Niklesh Jain / ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
