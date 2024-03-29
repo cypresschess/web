@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/isa-kasimi-igors-rausis-1961-2024",
-         "pubDate" : "Fri, 29 Mar 2024 04:03:52",
+         "pubDate" : "Fri, 29 Mar 2024 04:03:00",
          "title" : "Isa Kasimi (Igors Rausis) 1961-2024"
       },
       {
@@ -58,7 +58,7 @@ news_feed (
          "title" : "2024 O2C Doeberl Cup - Day 1"
       },
       {
-         "description" : "World number-one Magnus Carlsen called it &#34;kind of insane to get two Benoni games in one day&#34; as he defeated GM Vincent Keymer with the black pieces and then GM Richard Rapport with White to upend the standings and take a one-point lead. Rapport, ...",
+         "description" : "World number one Magnus Carlsen called it &#34;kind of insane to get two Benoni games in one day&#34; as he defeated GM Vincent Keymer with the black pieces and then GM Richard Rapport with White to upend the standings and take a one-point lead. Rapport, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-3",
@@ -864,22 +864,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-2024/#new_tab",
          "pubDate" : "Fri, 08 Mar 2024 16:16:13",
          "title" : "ECF Online Grand Prix 2024"
-      },
-      {
-         "description" : " Try and visualise the following position - White:Kf1, Rd6, Pa7,d7,g3,h3 Black: Kd8, Ra2, Pg5,g6,h7 How do you play as white? (From the book Cognitive Chess by Konstantin Chernyshov) Despite getting the position in my head quite quickly, it still took me around 5 minutes before I worked out the winning idea. See how well you can do. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/some-blindfold-practice.html",
-         "pubDate" : "Fri, 08 Mar 2024 13:03:00",
-         "title" : "Some blindfold practice"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2916",
-         "pubDate" : "Fri, 08 Mar 2024 11:35:44",
-         "title" : "Nodirbek Abdusattorov wins Prague Festival Masters"
       }
    ]
 }
