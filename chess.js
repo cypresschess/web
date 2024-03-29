@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All chess players aspire to create a lasting masterpiece over the board. And if sacrifices appeal to the artistic side of a chess player, what can be a better way than to sacrifice the most powerful of all pieces, the queen? GM Sundararajan Kidambi presents three games featuring remarkable (positional) queen sacrifices! | Pictured: Karthikeyan Murali | Photo: Niklesh Jain / ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/queen-sacrifice-kidambi",
+         "pubDate" : "Fri, 29 Mar 2024 18:30:00",
+         "title" : "Sacrificing the queen"
+      },
+      {
          "description" : "If you want to make progress in chess, sooner or later you will have to deal with your opening repertoire. It is better to approach this complex subject systematically than to get lost in a mass of videos, books and clever tips. To help with this, the Opening Encyclopaedia 2024 informs about the latest opening developments and provides basic knowledge.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2939",
          "pubDate" : "Fri, 29 Mar 2024 09:00:27",
          "title" : "FIDE Candidates Tournament 2024 to feature the Iconic World Chess Sets "
-      },
-      {
-         "description" : "Magnus Carlsen scored back-to-back wins on Thursday to take the lead at the Grenke Chess Classic in Karlsruhe. Carlsen defeated Vincent Keymer and former leader Richard Rapport to go into the rest day a full point ahead of Rapport, Ding Liren and Maxime Vachier-Lagrave. The remaining four rounds of the double round-robin will be played during the weekend, with the final playoff set to take place on Monday. | Photo: Angelika Valkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d3",
-         "pubDate" : "Fri, 29 Mar 2024 04:30:00",
-         "title" : "Grenke Classic: Carlsen wins two games in a row, takes the lead"
       },
       {
          "description" : "Isa Kasimi, better known as Igors Rausis, the Latvian International Master and coach who was banned for six years and was stripped of his GM title after being caught cheating, has died at the age of 62. The news was confirmed by his ex-wife Olita ...",
@@ -856,14 +856,6 @@ news_feed (
          "link" : "https://www.thearticle.com/oxford-scoops-the-glittering-prizes/",
          "pubDate" : "Sat, 09 Mar 2024 08:37:15",
          "title" : "Oxford scoops the glittering prizes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-online-grand-prix-2024/#new_tab",
-         "pubDate" : "Fri, 08 Mar 2024 16:16:13",
-         "title" : "ECF Online Grand Prix 2024"
       }
    ]
 }
