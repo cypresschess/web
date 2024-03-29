@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you want to make progress in chess, sooner or later you will have to deal with your opening repertoire. It is better to approach this complex subject systematically than to get lost in a mass of videos, books and clever tips. To help with this, the Opening Encyclopaedia 2024 informs about the latest opening developments and provides basic knowledge.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2024-trends-and-masses-of-information",
+         "pubDate" : "Fri, 29 Mar 2024 12:00:00",
+         "title" : "Opening Encyclopaedia 2024 - Trends and masses of information"
+      },
+      {
+         "description" : "Please find the live game links for National Team Chess Championship 2024 Open: http://fritzserver.org/LocalUser/live/indnatteam/open/index.html Women: http://fritzserver.org/LocalUser/live/indnatteam/women/index.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-national-teams-chess-championship-2024/",
+         "pubDate" : "Fri, 29 Mar 2024 09:52:31",
+         "title" : "Live Games : National Teams Chess Championship 2024"
+      },
+      {
+         "description" : " <p class=\"lead\">The Iconic World Chess Sets will be used at the FIDE Candidates Tournament and the Championship Match; FIDE Continues Collaboration with World Chess on the Chess Sets for 2024-2025. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2024-03-29_12-09-46.jpg\" width=\"1280\" height=\"1060\" alt=\"\" /> </div> Toronto, March 29 - The tradition that has lasted since 2012 continues as the major FIDE events, including the upcoming FIDE Candidates Tournament 2024 as well as the 2024 Championship Match, will exclusively use the iconic World Chess Championship sets. The sets, designed by Pentagram for World Chess, have become synonymous with the pinnacle of c",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2024-to-feature-the-iconic-world-ches/",
+         "pubDate" : "Fri, 29 Mar 2024 09:12:19",
+         "title" : "FIDE Candidates Tournament 2024 to feature the Iconic World Chess Sets"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2939",
+         "pubDate" : "Fri, 29 Mar 2024 09:00:27",
+         "title" : "FIDE Candidates Tournament 2024 to feature the Iconic World Chess Sets "
+      },
+      {
          "description" : "Magnus Carlsen scored back-to-back wins on Thursday to take the lead at the Grenke Chess Classic in Karlsruhe. Carlsen defeated Vincent Keymer and former leader Richard Rapport to go into the rest day a full point ahead of Rapport, Ding Liren and Maxime Vachier-Lagrave. The remaining four rounds of the double round-robin will be played during the weekend, with the final playoff set to take place on Monday. | Photo: Angelika Valkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grenke-classic-2024-d3",
          "pubDate" : "Fri, 29 Mar 2024 04:30:00",
          "title" : "Grenke Classic: Carlsen wins two games in a row, takes the lead"
+      },
+      {
+         "description" : "Isa Kasimi, better known as Igors Rausis, the Latvian International Master and coach who was banned for six years and was stripped of his GM title after being caught cheating, has died at the age of 62. The news was confirmed by his ex-wife Olita ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/isa-kasimi-igors-rausis-1961-2024",
+         "pubDate" : "Fri, 29 Mar 2024 04:03:52",
+         "title" : "Isa Kasimi (Igors Rausis) 1961-2024"
       },
       {
          "description" : " The 2024 O2C Doeberl Cup began with the first 2 rounds of the Premier section. This year's field includes 4 GM's, 8 IM's and 38 titled players overall. While the top boards saw the usual rating gap between top half an bottom half, this actually shrunk on the lower boards, in part due to the recent changes to the FIDE Rating System. Consequently there were a few upsets in the first round, and even into the second. Defending champion GM Hrant Melkumyan started the tournament with 2 straightforward wins (including one over Harry Press). 2nd seed Mitrabha Guhu found round 2 a lot tougher, salvaging a draw against FM Michael Steadmen (NZ) from a position where he was a lot worse. IM Das from Ind",
@@ -218,12 +258,12 @@ news_feed (
          "title" : "AICF Refresher Seminar for Indian Arbiters 2024-25. (Last Call )"
       },
       {
-         "description" : "Please find the provisional list for Batch 3A Batch 3A Further note that zoom link and other details will be shared to final selected arbiters",
+         "description" : "Please find the provisional list for Batch 3A &#38; 3B Batch 3A Batch 3B Further note that zoom link and other details will be shared",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-3a-on-03-04-april-2024/",
          "pubDate" : "Sun, 24 Mar 2024 06:25:04",
-         "title" : "AICF Arbiter Refresher Seminar Batch 3A on 03-04 April 2024"
+         "title" : "AICF Arbiter Refresher Seminar Batch 3A & 3B on 03-04 April 2024"
       },
       {
          "description" : "GM Hikaru Nakamura&#39;s Bullet Brawl rampage continued on Saturday with another $400 performance in a two-hour arena that featured the likes of GMs Magnus Carlsen and Vincent Keymer. Scoring 232, the 2024 Candidates Tournament hopeful was challenged ...",
@@ -578,14 +618,6 @@ news_feed (
          "title" : "Aronian Sweeps, Krush Leads, Comebacks For Caruana, So, Yu"
       },
       {
-         "description" : "GM Hikaru Nakamura posted a commanding 307 score and confirmed his 20th Bullet Brawl title on Saturday after outpacing his rivals GMs Daniel Naroditsky and Andrew Tang by margins of 59 and 69 points respectively. Winning $400 for his efforts ahe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-march-16-2024",
-         "pubDate" : "Sat, 16 Mar 2024 16:06:00",
-         "title" : "Nakamura Sets 59-Game Streak Record, Captures 20th Title"
-      },
-      {
          "description" : "As the February issue of this year's British Chess Magazine arrived, my attention was swiftly drawn to the astounding news that an eight year old, Leonid Ivanovic from Serbia, had become the youngest player ever (eight years and eleven months) to defeat a grandmaster in classic tournament play (rather than a blitz or rapid format). True, his []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -704,14 +736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2924",
          "pubDate" : "Thu, 14 Mar 2024 12:03:15",
          "title" : "American Cup 2024: Round 1 recap"
-      },
-      {
-         "description" : "43rd National Team Chess Championship - 2024 &#38; 21st National Team Chess Championship for Women - 2024 from 29th March to 04th April, 2024 Dharamshala,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-team-chess-chmapionship-2024/",
-         "pubDate" : "Thu, 14 Mar 2024 10:29:43",
-         "title" : "National Team Chess Championship 2024"
       },
       {
          "description" : "The 2024 Reykjavik Open opens tomorrow and will be played from 15th-21st March at the Harpa Music and Conference Center. The Opening party is scheduled for the 14th of March, starting at 18:00 (local time). . The event will be played in 9 rounds, swiss system, with more than 400 participants coming from 49 countries. The tournament attracted 114 titled players, and the top-seeds are: GM Deac Bogdan-Daniel (ROU, 2690), GM Ivanchuk Vasyl (UKR, 2623), GM Xu Xiangyu (CHN, 2623), []",
@@ -856,30 +880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2916",
          "pubDate" : "Fri, 08 Mar 2024 11:35:44",
          "title" : "Nodirbek Abdusattorov wins Prague Festival Masters"
-      },
-      {
-         "description" : "Chess players have certainly heard of Daniel Fernandez, who has already published a couple of Fritztrainers for ChessBase. But recently, non-chess players also got to know him because of a YouTube video with the title - \"We Used An Adult Toy To Beat A Chess Grandmaster\". How did this video happen? Are chess players cheating more often nowadays? And why can Daniel speak at least five languages, and helped out in a koala sanctuary? This, and many more questions, you can see in the interview with the English Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/behind-the-board-an-interview-with-gm-daniel-fernandez",
-         "pubDate" : "Fri, 08 Mar 2024 10:00:00",
-         "title" : "Behind the board: An interview with GM Daniel Fernandez"
-      },
-      {
-         "description" : " The top seed fought back from a fifth-round blunder and won the title after a playoff with Ireland's No 1 woman, Trisha Kanyamarala Danny Gormally, the top seed, fought back from a fifth-round blunder to claim the British Rapidplay title (one-hour games) after 11 rounds in two days at Peterborough last weekend and so continued a surge of form and creativity in his late 40s. His victory came after he tied for first on 9/11 with Ireland's No 1 woman, Trisha ­Kanyamarala, and won their two-game blitz playoff 1.5-0.5. Gormally was already one of England's best players in the early 2000s, but after he missed out on the national title he played less for a few years. Then he made his name with the",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/mar/08/chess-danny-gormally-holds-off-junior-challengers-to-win-british-rapidplay",
-         "pubDate" : "Fri, 08 Mar 2024 08:00:48",
-         "title" : "Chess: Danny Gormally holds off junior challengers to win British Rapidplay"
-      },
-      {
-         "description" : "The ECU E-Magazine February 2024 is out! In this edition of the ECU Magazine you may read about: The February 2024 edition of the ECU Magazine can be read online together with interactive links and videos, or it can be downloaded below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-february-2024/",
-         "pubDate" : "Fri, 08 Mar 2024 07:54:21",
-         "title" : "ECU E-Magazine February 2024"
       }
    ]
 }
