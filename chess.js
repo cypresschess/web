@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " GM Hrant Melkumyan is on track for another Doeberl Cup win, starting the tournament with 6 from 6. In the morning round he defeated reigning Australian Champion IM Rishi Sardana, and then IM Mihajlo Radovanovic in the afternoon round. He is now a full point ahead of second place with 3 rounds to play. One of the players in 2nd place is FM Albert Winkelman, who has good chances of scoring an IM norm. He has a performance rating over 2500 and his round 7 pairing against GM M Venkatesh gives him the required mix of opponents for a valid norm. Also in 2nd place are IM James Morris, IM Peng Cheng, and FM Fred Litchfield. Despite Litchfield's good score (5/6), starting the event with a round 1 lo",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-3.html",
+         "pubDate" : "Sat, 30 Mar 2024 20:48:00",
+         "title" : "2024 O2C Doeberl Cup - Day 3"
+      },
+      {
          "description" : "In his first-ever confrontation against Magnus Carlsen, Faustino Oro from Argentina, aged 10, defeated the former world champion in a 1-minute game. After becoming the youngest player to ever earn an IM norm in 2023, the 'Messi of chess' moved from Argentina to Spain, where he intends to continue making progress in chess. | Robert Ris analysed Oro's memorable victory.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,22 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/30/2024-hbcu-chess-classic-atlanta-ga/",
          "pubDate" : "Sat, 30 Mar 2024 17:24:53",
          "title" : "2024 HBCU Chess Classic (Atlanta, GA)"
+      },
+      {
+         "description" : "Daniel Naroditsky took out the $400 first prize in March&#39;s final Bullet Brawl on Saturday, winning 73 games en route to a mammoth score of 261. Claiming his fourth title of the year and 14th in Bullet Brawl history, Naroditsky emphatically finishe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-march-30-2024",
+         "pubDate" : "Sat, 30 Mar 2024 16:23:15",
+         "title" : "Naroditsky Wins Clash Of Streamers"
+      },
+      {
+         "description" : "GM Richard Rapport bounced back from 0/2 on Friday to beat World Champion Ding Liren and GM Vincent Keymer, closing the gap at the top to half a point. GM Magnus Carlsen remains the sole leader after defeating GM Daniel Fridman, with Rapport and C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-4",
+         "pubDate" : "Sat, 30 Mar 2024 15:52:44",
+         "title" : "Rapport Beats Ding As Carlsen-Rapport Title Battle Looms"
       },
       {
          "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
@@ -642,28 +666,12 @@ news_feed (
          "title" : "Roll your own openings"
       },
       {
-         "description" : "The semifinalists for the 2024 Collegiate Chess League (CCL) have been decided after The University of Texas Rio Grande Valley (UTRGV) staved off a late comeback by the National Technical University of Athens, while the University of Missouri (Miz...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-collegiate-chess-league-spring-quarterfinals-mizzou-utrgv",
-         "pubDate" : "Sat, 16 Mar 2024 21:02:00",
-         "title" : "Harshit Sets Up Mizzou-SLU Semifinal, UTRGV Eliminates Athens"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2927",
          "pubDate" : "Sat, 16 Mar 2024 20:29:02",
          "title" : "FIDE World School Chess Championship 2024: Registration is open"
-      },
-      {
-         "description" : "While the favorites lead in the Champions section, it was a day of comebacks in the Elimination Bracket on day five of the 2024 American Cup.&#38;nbsp; GM Levon Aronian&#38;nbsp;went 2/2 vs. GM Ray Robson, putting the latter in a must-win position for b...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-american-cup-day-5",
-         "pubDate" : "Sat, 16 Mar 2024 20:14:00",
-         "title" : "Aronian Sweeps, Krush Leads, Comebacks For Caruana, So, Yu"
       },
       {
          "description" : "As the February issue of this year's British Chess Magazine arrived, my attention was swiftly drawn to the astounding news that an eight year old, Leonid Ivanovic from Serbia, had become the youngest player ever (eight years and eleven months) to defeat a grandmaster in classic tournament play (rather than a blitz or rapid format). True, his []",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/03/shiloh-and-bros-no2.html",
          "pubDate" : "Sun, 10 Mar 2024 16:25:00",
          "title" : "Shiloh and Bros No.2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2917",
-         "pubDate" : "Sat, 09 Mar 2024 20:59:34",
-         "title" : "13th African Games: Egypt wins Mixed Team Rapid"
       }
    ]
 }
