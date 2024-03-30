@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2940",
+         "pubDate" : "Sat, 30 Mar 2024 00:23:42",
+         "title" : "Oncological Chess shines at International Congress in Menorca"
+      },
+      {
          "description" : " Day 2 of the 2024 O2C Doeberl Cup saw the rest of the sections join up with the Premier. 413 players in total sat down to play when all events officially began at 1pm on Friday, which is once again, a record entry for the tournament. Round 3 of the Premier had a sensation on the top board, with GM Hrant Melkumyan having a walkover win againt GM M Venkatesh. Suffering the effects of jet lag, Venkatesh overslept, missing the 1pm start, and the 30 minute deadline to show up. The extra rest probably assisted Melkumyan, as he won a very long round 4 game against IM Peng Chen to reach 4/4. In joint second are IM Rishi Sardana, IM James Morris, and FM Albert Winkelman. Sardana and Morris drew thei",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -166,7 +174,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/ben-finegold-bot-announcement",
-         "pubDate" : "Tue, 26 Mar 2024 15:25:39",
+         "pubDate" : "Tue, 26 Mar 2024 15:25:00",
          "title" : "Take On The New GM Ben Finegold Bot!"
       },
       {
