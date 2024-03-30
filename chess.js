@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In his first-ever confrontation against Magnus Carlsen, Faustino Oro from Argentina, aged 10, defeated the former world champion in a 1-minute game. After becoming the youngest player to ever earn an IM norm in 2023, the 'Messi of chess' moved from Argentina to Spain, where he intends to continue making progress in chess. | Robert Ris analysed Oro's memorable victory.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-faustino-oro-beats-magnus-carlsen",
+         "pubDate" : "Sat, 30 Mar 2024 19:30:00",
+         "title" : "Robert Ris analyses Faustino Oro's bullet win over Magnus Carlsen"
+      },
+      {
+         "description" : " Participants at the 2023 HBCU Chess ClassicPhoto by TBO Chess Society All roads will lead to Atlanta for the 2nd Annual HBCU Chess Classic! Teams from Historically Black Colleges and Universities will send their best players to compete for prizes 2024 HBCU Chess Classic April 20th-21st, 2024Georgia Institute of Technology -Exhibition Hall460 4th St NWAtlanta, The post <a href=\"https://www.thechessdrum.net/blog/2024/03/30/2024-hbcu-chess-classic-atlanta-ga/\">2024 HBCU Chess Classic (Atlanta, GA)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/03/30/2024-hbcu-chess-classic-atlanta-ga/",
+         "pubDate" : "Sat, 30 Mar 2024 17:24:53",
+         "title" : "2024 HBCU Chess Classic (Atlanta, GA)"
+      },
+      {
          "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,22 +64,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-2.html",
          "pubDate" : "Fri, 29 Mar 2024 23:29:00",
          "title" : "2024 O2C Doeberl Cup - Day 2"
-      },
-      {
-         "description" : "All chess players aspire to create a lasting masterpiece over the board. And if sacrifices appeal to the artistic side of a chess player, what can be a better way than to sacrifice the most powerful of all pieces, the queen? GM Sundararajan Kidambi presents three games featuring remarkable (positional) queen sacrifices! | Pictured: Karthikeyan Murali | Photo: Niklesh Jain / ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/queen-sacrifice-kidambi",
-         "pubDate" : "Fri, 29 Mar 2024 18:30:00",
-         "title" : "Sacrificing the queen"
-      },
-      {
-         "description" : "If you want to make progress in chess, sooner or later you will have to deal with your opening repertoire. It is better to approach this complex subject systematically than to get lost in a mass of videos, books and clever tips. To help with this, the Opening Encyclopaedia 2024 informs about the latest opening developments and provides basic knowledge.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-encyclopaedia-2024-trends-and-masses-of-information",
-         "pubDate" : "Fri, 29 Mar 2024 12:00:00",
-         "title" : "Opening Encyclopaedia 2024 - Trends and masses of information"
       },
       {
          "description" : "Please find the live game links for National Team Chess Championship 2024 Open: http://fritzserver.org/LocalUser/live/indnatteam/open/index.html Women: http://fritzserver.org/LocalUser/live/indnatteam/women/index.html",
