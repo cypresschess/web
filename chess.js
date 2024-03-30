@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At first sight it looks scary, but Black gets also his portion of chances. Very often a complicated fight arises, where all results can be possible. If you want to study this opening, it would be well to follow the didactic analysis of a world-class trainer, who played successfully against it on his 32nd birthday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-the-four-pawns-attack",
+         "pubDate" : "Sat, 30 Mar 2024 08:00:00",
+         "title" : "Grivas on the Four Pawns Attack"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
