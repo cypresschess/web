@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2024-03-08  - 03-29","7","<a href=http://www.uschess.org/msa/XtblMain.php?202403297942 target='_blank'>REBECCA CHESS CLUB MARCH 2024 MONTHLY SWISS</a>",
+"HOUSTON","2024-03-29","16","<a href=http://www.uschess.org/msa/XtblMain.php?202403297922 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 29,2024</a>",
+"CYPRESS","2024-03-29","22","<a href=http://www.uschess.org/msa/XtblMain.php?202403297902 target='_blank'>Knights of Cypress</a>",
 "HOUSTON","2024-03-05  - 03-26","22","<a href=http://www.uschess.org/msa/XtblMain.php?202403266482 target='_blank'>MARCH 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-03-24","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403244412 target='_blank'>QUADS - ALL AGES -SUNDAY MARCH 24 A</a>",
 "HOUSTON","2024-03-23","145","<a href=http://www.uschess.org/msa/XtblMain.php?202403233832 target='_blank'>CLEAR HORIZONS HS SCHOLASTIC</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2023-09-22","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309225292 target='_blank'>REBECCA CHESS CLUB QUADS SEPTEMBER 22, 2023</a>",
 "CYPRESS","2023-09-08  - 09-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202309225192 target='_blank'>KNIGHTS OF CYPRESS SEP RR</a>",
 "HOUSTON","2023-09-18","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309180642 target='_blank'>CHEAPO QUADS - ALL AGES SATURDAY NO</a>",
-"HOUSTON","2023-09-15  - 09-17","44","<a href=http://www.uschess.org/msa/XtblMain.php?202309172752 target='_blank'>$3,000 STUDIO  SEPT 2023 CHAMPIONSH</a>",
-"HOUSTON","2023-09-16","171","<a href=http://www.uschess.org/msa/XtblMain.php?202309162042 target='_blank'>IMPACT LEADERSHIP ACADEMY</a>",
-"HOUSTON","2023-09-16","10","<a href=http://www.uschess.org/msa/XtblMain.php?202309161462 target='_blank'>CHESSPANDA09162023SATURDAY</a>",
 ]);
