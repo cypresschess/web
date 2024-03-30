@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "At first sight it looks scary, but Black gets also his portion of chances. Very often a complicated fight arises, where all results can be possible. If you want to study this opening, it would be well to follow the didactic analysis of a world-class trainer, who played successfully against it on his 32nd birthday.",
+         "description" : "Make no mistake: the second volume of the Korchnoi biographical saga Viktor Korchnoi: Year by Year (1969-1980) by Hans Renette and Tibor Karolyi (published by Elk and Ruby) is a must-buy for any serious chess enthusiast. Viktor Korchnoi was one of the chess greats, possibly the greatest not to have won the world championship. His rivals []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/korchnoi-karpov-euwe-and-me/",
+         "pubDate" : "Sat, 30 Mar 2024 10:57:29",
+         "title" : "Korchnoi, Karpov, Euwe and me"
+      },
+      {
+         "description" : "At first sight it looks scary, but Black also gets his portion of chances. Very often a complicated fight arises, where all results can be possible. If you want to study this opening, it would be well to follow the didactic analysis of a world-class trainer, who played successfully against it on his 32nd birthday.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grivas-on-the-four-pawns-attack",
@@ -872,14 +880,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/fun-chess-training/",
          "pubDate" : "Sat, 09 Mar 2024 13:30:00",
          "title" : "Fun and Progress: A Guide to Effective Chess Training"
-      },
-      {
-         "description" : "The annual contest between the teams of Oxford and Cambridge Universities is the oldest surviving fixture in the chess world. Often described as \"The Boat Race of the Brain\", this clash of mental arms was founded in the 1870s. The first encounter was actually attended by three chess titans of the day: Wilhelm Steinitz, Johannes Zukertort and, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/oxford-scoops-the-glittering-prizes/",
-         "pubDate" : "Sat, 09 Mar 2024 08:37:15",
-         "title" : "Oxford scoops the glittering prizes"
       }
    ]
 }
