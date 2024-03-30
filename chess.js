@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
+         "pubDate" : "Sat, 30 Mar 2024 14:45:00",
+         "title" : "GRENKE Chess Classic - Live!"
+      },
+      {
+         "description" : " Florida's Capital City is warming up, and chess is in full bloom. Over the past two years, Jacob Sperber has organized five rapid tournaments in the Tallahassee area. His initiative has rejuvenated chess in Florida's capital and has provided some consistency. The most recent event was held at the Benjamin L. Perry Public Library on The post <a href=\"https://www.thechessdrum.net/blog/2024/03/30/capital-city-open-v-tallahassee-florida/\">Capital City Open V (Tallahassee, Florida)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/03/30/capital-city-open-v-tallahassee-florida/",
+         "pubDate" : "Sat, 30 Mar 2024 13:18:32",
+         "title" : "Capital City Open V (Tallahassee, Florida)"
+      },
+      {
          "description" : "Make no mistake: the second volume of the Korchnoi biographical saga Viktor Korchnoi: Year by Year (1969-1980) by Hans Renette and Tibor Karolyi (published by Elk and Ruby) is a must-buy for any serious chess enthusiast. Viktor Korchnoi was one of the chess greats, possibly the greatest not to have won the world championship. His rivals []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -872,14 +888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2917",
          "pubDate" : "Sat, 09 Mar 2024 20:59:34",
          "title" : "13th African Games: Egypt wins Mixed Team Rapid"
-      },
-      {
-         "description" : "Want to know how to stick to effective Chess Training? Here is a hard truth you'll need to know: The most fun things aren't the ones that bring us ahead. And they don't make us happy either. Just look at the typical spoilt millionaire child. For their whole lives, they can do what is fun: []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/fun-chess-training/",
-         "pubDate" : "Sat, 09 Mar 2024 13:30:00",
-         "title" : "Fun and Progress: A Guide to Effective Chess Training"
       }
    ]
 }
