@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen continues to be the sole leader at the Grenke Chess Classic in Karlsruhe. Second-placed Richard Rapport closed the gap between him and the leader to a half point after collecting back-to-back victories on Saturday. Maxime Vachier-Lagrave stands in sole third place a full point behind Rapport, and is set to face the Romanian representative in the penultimate round. | Photo: Angelika Valkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d4",
+         "pubDate" : "Sun, 31 Mar 2024 03:30:00",
+         "title" : "Grenke Classic: Rapport scores 2/2, now a half point behind Carlsen"
+      },
+      {
          "description" : " GM Hrant Melkumyan is on track for another Doeberl Cup win, starting the tournament with 6 from 6. In the morning round he defeated reigning Australian Champion IM Rishi Sardana, and then IM Mihajlo Radovanovic in the afternoon round. He is now a full point ahead of second place with 3 rounds to play. One of the players in 2nd place is FM Albert Winkelman, who has good chances of scoring an IM norm. He has a performance rating over 2500 and his round 7 pairing against GM M Venkatesh gives him the required mix of opponents for a valid norm. Also in 2nd place are IM James Morris, IM Peng Cheng, and FM Fred Litchfield. Despite Litchfield's good score (5/6), starting the event with a round 1 lo",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,11 +34,11 @@ news_feed (
          "title" : "2024 HBCU Chess Classic (Atlanta, GA)"
       },
       {
-         "description" : "Daniel Naroditsky took out the $400 first prize in March&#39;s final Bullet Brawl on Saturday, winning 73 games en route to a mammoth score of 261. Claiming his fourth title of the year and 14th in Bullet Brawl history, Naroditsky emphatically finishe...",
+         "description" : "Daniel Naroditsky took the $400 first prize in March&#39;s final Bullet Brawl on Saturday, winning 73 games en route to a mammoth score of 261. Claiming his fourth title of the year and 14th in Bullet Brawl history, Naroditsky emphatically finished 27...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-march-30-2024",
-         "pubDate" : "Sat, 30 Mar 2024 16:23:15",
+         "pubDate" : "Sat, 30 Mar 2024 16:23:00",
          "title" : "Naroditsky Wins Clash Of Streamers"
       },
       {
@@ -38,16 +46,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-4",
-         "pubDate" : "Sat, 30 Mar 2024 15:52:44",
+         "pubDate" : "Sat, 30 Mar 2024 15:52:00",
          "title" : "Rapport Beats Ding As Carlsen-Rapport Title Battle Looms"
-      },
-      {
-         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
-         "pubDate" : "Sat, 30 Mar 2024 14:45:00",
-         "title" : "GRENKE Chess Classic - Live!"
       },
       {
          "description" : " Florida's Capital City is warming up, and chess is in full bloom. Over the past two years, Jacob Sperber has organized five rapid tournaments in the Tallahassee area. His initiative has rejuvenated chess in Florida's capital and has provided some consistency. The most recent event was held at the Benjamin L. Perry Public Library on The post <a href=\"https://www.thechessdrum.net/blog/2024/03/30/capital-city-open-v-tallahassee-florida/\">Capital City Open V (Tallahassee, Florida)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
