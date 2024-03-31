@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this pictorial Quiz for Easter, you need to guess who is in the photograph. Ten chess players in rare and unusual photographs. Some are easy, others are less easy, some include a hint. Check it out! At the bottom you will find the solutions and photo credits. Happy Easter to everyone!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/easter-photo-quiz-2024",
+         "pubDate" : "Sun, 31 Mar 2024 10:00:00",
+         "title" : "Easter Photo Quiz - Guess Who"
+      },
+      {
          "description" : "Magnus Carlsen continues to be the sole leader at the Grenke Chess Classic in Karlsruhe. Second-placed Richard Rapport closed the gap between him and the leader to a half point after collecting back-to-back victories on Saturday. Maxime Vachier-Lagrave stands in sole third place a full point behind Rapport, and is set to face the Romanian representative in the penultimate round. | Photo: Angelika Valkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
