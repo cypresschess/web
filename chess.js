@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
+         "pubDate" : "Sun, 31 Mar 2024 14:45:00",
+         "title" : "GRENKE Chess Classic - Live!"
+      },
+      {
          "description" : "In this pictorial Quiz for Easter, you need to guess who is in the photograph. Ten chess players in rare and unusual photographs. Some are easy, others are less easy, some include a hint. Check it out! At the bottom you will find the solutions and photo credits. Happy Easter to everyone!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
