@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In our second ChessBase Challenge instalment we gave you a set of puzzles that were meant to challenge your mind. Were you able to solve the positions, each with a mind-boggling idea required to reach the goal? You had two weeks to do so. Today we provide the solutions.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/puzzle-challenge-2-solutions",
+         "pubDate" : "Sun, 31 Mar 2024 20:00:00",
+         "title" : "Puzzle Challenge 2 - Solutions"
+      },
+      {
          "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-3.html",
          "pubDate" : "Sat, 30 Mar 2024 20:48:00",
          "title" : "2024 O2C Doeberl Cup - Day 3"
-      },
-      {
-         "description" : "In his first-ever confrontation against Magnus Carlsen, Faustino Oro from Argentina, aged 10, defeated the former world champion in a 1-minute game. After becoming the youngest player to ever earn an IM norm in 2023, the 'Messi of chess' moved from Argentina to Spain, where he intends to continue making progress in chess. | Robert Ris analysed Oro's memorable victory.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-faustino-oro-beats-magnus-carlsen",
-         "pubDate" : "Sat, 30 Mar 2024 19:30:00",
-         "title" : "Robert Ris analyses Faustino Oro's bullet win over Magnus Carlsen"
       },
       {
          "description" : " Participants at the 2023 HBCU Chess ClassicPhoto by TBO Chess Society All roads will lead to Atlanta for the 2nd Annual HBCU Chess Classic! Teams from Historically Black Colleges and Universities will send their best players to compete for prizes 2024 HBCU Chess Classic April 20th-21st, 2024Georgia Institute of Technology -Exhibition Hall460 4th St NWAtlanta, The post <a href=\"https://www.thechessdrum.net/blog/2024/03/30/2024-hbcu-chess-classic-atlanta-ga/\">2024 HBCU Chess Classic (Atlanta, GA)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -80,14 +80,6 @@ news_feed (
          "link" : "https://www.thearticle.com/korchnoi-karpov-euwe-and-me/",
          "pubDate" : "Sat, 30 Mar 2024 10:57:29",
          "title" : "Korchnoi, Karpov, Euwe and me"
-      },
-      {
-         "description" : "At first sight it looks scary, but Black also gets his portion of chances. Very often a complicated fight arises, where all results can be possible. If you want to study this opening, it would be well to follow the didactic analysis of a world-class trainer, who played successfully against it on his 32nd birthday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-the-four-pawns-attack",
-         "pubDate" : "Sat, 30 Mar 2024 08:00:00",
-         "title" : "Grivas on the Four Pawns Attack"
       },
       {
          "description" : "",
@@ -304,14 +296,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/my-return-to-reykjavik",
          "pubDate" : "Mon, 25 Mar 2024 12:41:00",
          "title" : "My Return To Reykjavik"
-      },
-      {
-         "description" : "Take a look at this picture. It is not a Hollywood star, but a chess celebrity. Can you recognize him? Capablanca, Nezhmetdinov, Frank Marshall? No, not any of them! The answer is Andor Lilienthal, an extraordinary chess grandmaster, born in Moscow, but moved to Hungary. In his career, he played against ten world champions, and defeated six of them. Retrospect by Himank Ghosh. | Photo: Edward Winter's Chess Notes archives.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/he-played-ten-world-champions",
-         "pubDate" : "Mon, 25 Mar 2024 12:00:00",
-         "title" : "He played ten World Champions!"
       },
       {
          "description" : "",
@@ -896,14 +880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2918",
          "pubDate" : "Sun, 10 Mar 2024 21:51:37",
          "title" : "13th African Games Individual Rapid: Egypt clinch double gold"
-      },
-      {
-         "description" : "I thought this video looked familiar and, sure enough, I had already featured 'HCIRL no.1' from the same Youtube channel in <A HREF=\"https://chessforallages.blogspot.com/2023/06/bond-siblings-bond.html\">Bond, Siblings Bond</A> (June 2023). This second release was also good for more than a few laughs. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/DUaiSzhGZiI?si=edpeDr4pVT0vGXVH\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen></iframe> <BR> <B>Human Chess In Real Life 2</B> (31:42) &#149; '[Published on] Mar 1, 2024' <P> Everything I said in the no",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/03/shiloh-and-bros-no2.html",
-         "pubDate" : "Sun, 10 Mar 2024 16:25:00",
-         "title" : "Shiloh and Bros No.2"
       }
    ]
 }
