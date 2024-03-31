@@ -1,4 +1,8 @@
 jtable([
+"HOUSTON","2024-03-30","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403308632 target='_blank'>ADULTS ONLY - MARCH 30TH SATURDAY S</a>",
+"HOUSTON","2024-03-30","105","<a href=http://www.uschess.org/msa/XtblMain.php?202403308402 target='_blank'>TCR: EASTER BUNNY BLAST</a>",
+"HOUSTON","2024-03-30","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403308222 target='_blank'>CHESSPANDA03302024SATURDAY</a>",
+"SPRING","2024-03-29","32","<a href=http://www.uschess.org/msa/XtblMain.php?202403298062 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-03-08  - 03-29","7","<a href=http://www.uschess.org/msa/XtblMain.php?202403297942 target='_blank'>REBECCA CHESS CLUB MARCH 2024 MONTHLY SWISS</a>",
 "HOUSTON","2024-03-29","16","<a href=http://www.uschess.org/msa/XtblMain.php?202403297922 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 29,2024</a>",
 "CYPRESS","2024-03-29","22","<a href=http://www.uschess.org/msa/XtblMain.php?202403297902 target='_blank'>Knights of Cypress</a>",
@@ -195,8 +199,4 @@ jtable([
 "HOUSTON","2023-09-23","32","<a href=http://www.uschess.org/msa/XtblMain.php?202309231092 target='_blank'>SEPT  23RD SCHOLASTIC</a>",
 "CYPRESS","2023-09-22","25","<a href=http://www.uschess.org/msa/XtblMain.php?202309225392 target='_blank'>KNIGHTS OF CYPRESS1</a>",
 "SPRING","2023-09-22","31","<a href=http://www.uschess.org/msa/XtblMain.php?202309225322 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2023-09-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202309225312 target='_blank'>FBCC 2023 FALL OPEN</a>",
-"HOUSTON","2023-09-22","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309225292 target='_blank'>REBECCA CHESS CLUB QUADS SEPTEMBER 22, 2023</a>",
-"CYPRESS","2023-09-08  - 09-22","10","<a href=http://www.uschess.org/msa/XtblMain.php?202309225192 target='_blank'>KNIGHTS OF CYPRESS SEP RR</a>",
-"HOUSTON","2023-09-18","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309180642 target='_blank'>CHEAPO QUADS - ALL AGES SATURDAY NO</a>",
 ]);
