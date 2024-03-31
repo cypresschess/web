@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2941",
+         "pubDate" : "Sun, 31 Mar 2024 22:28:41",
+         "title" : "Danish Championship: Boris Chatalbashev retains title"
+      },
+      {
          "description" : "In our second ChessBase Challenge instalment we gave you a set of puzzles that were meant to challenge your mind. Were you able to solve the positions, each with a mind-boggling idea required to reach the goal? You had two weeks to do so. Today we provide the solutions.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/puzzle-challenge-2-solutions",
          "pubDate" : "Sun, 31 Mar 2024 20:00:00",
          "title" : "Puzzle Challenge 2 - Solutions"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen beat&#38;nbsp;GM Vincent Keymer to wrap up victory in the 2024 GRENKE Chess Classic round-robin. He now faces GM Richard Rapport in Monday&#39;s title match, while GM Maxime Vachier-Lagrave takes on Keymer for third place. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-5",
+         "pubDate" : "Sun, 31 Mar 2024 15:37:03",
+         "title" : "Carlsen Wins Round-Robin As Ding Suffers"
       },
       {
          "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
@@ -626,14 +642,6 @@ news_feed (
          "title" : "ChessBase Puzzle Challenge - 02"
       },
       {
-         "description" : "GMs Levon Aronian and Irina Krush prevailed in the Champions Bracket on day six of the 2024 American Cup.&#38;nbsp; With pragmatic play, Aronian equalized vs.&#38;nbsp;GM Ray Robson, clinching the match with ease after his 2-0 start the day before. Chan...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-american-cup-day-6",
-         "pubDate" : "Sun, 17 Mar 2024 19:09:00",
-         "title" : "Aronian, Krush Triumph In Champions Bracket"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -872,14 +880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2919",
          "pubDate" : "Mon, 11 Mar 2024 09:13:20",
          "title" : "World Cup U8, U10, U12: Last call for wild cards "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2918",
-         "pubDate" : "Sun, 10 Mar 2024 21:51:37",
-         "title" : "13th African Games Individual Rapid: Egypt clinch double gold"
       }
    ]
 }
