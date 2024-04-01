@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " GM Hrant Melkumyan ended the 4th day of the 2024 O2C Doeberl Cup with one hand firmly attached to the trophy. After a draw in round 7 against IM James Morris, he played a nice attacking game against FM Fred Litchfield to maintain his one point lead over the chasing pack. Chinese IM Peng Cheng holds down second place after beating Morris in Round 8, with the Indian trio of GM Guha, GM Venkatesh and IM Das in equal third. Of interest to the Canberra Chess community is FM Albert Winkelmans final round games against IM Das. A win for Winkelman will secure him an IM norm, his first. Other Canberra players on the top boards are IM Junta Ikeda (Board 4) and FM Frred Litchfield (Board 7). The final",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/2024-o2c-doeberl-cup-day-4.html",
+         "pubDate" : "Mon, 01 Apr 2024 00:33:00",
+         "title" : "2024 O2C Doeberl Cup - Day 4"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2941",
          "pubDate" : "Sun, 31 Mar 2024 22:28:41",
          "title" : "Danish Championship: Boris Chatalbashev retains title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2942",
+         "pubDate" : "Sun, 31 Mar 2024 21:51:25",
+         "title" : "Johan-Sebastian Christiansen triumphs in Mar del Plata"
       },
       {
          "description" : "In our second ChessBase Challenge instalment we gave you a set of puzzles that were meant to challenge your mind. Were you able to solve the positions, each with a mind-boggling idea required to reach the goal? You had two weeks to do so. Today we provide the solutions.",
@@ -22,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-5",
-         "pubDate" : "Sun, 31 Mar 2024 15:37:03",
+         "pubDate" : "Sun, 31 Mar 2024 15:37:00",
          "title" : "Carlsen Wins Round-Robin As Ding Suffers"
       },
       {
