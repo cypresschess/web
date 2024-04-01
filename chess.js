@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2944",
+         "pubDate" : "Mon, 01 Apr 2024 11:24:29",
+         "title" : "FIDE April 2024 rating list: Abdusattorov, Erigaisi crack top 10"
+      },
+      {
          "description" : "Apart from a few minor modifications, the game has remained unchanged for over a thousand years. However, with the advent of comprehensive, systematic preparation it has become less interesting. FIDE has decided that some radical measures need to be taken to save chess. Here's what they have decided.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
