@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen defeated Richard Rapport 1&frac12;-&frac12; on Monday to win the seventh edition of the Grenke Chess Classic. This was Carlsen's sixth consecutive tournament victory. Maxime Vachier-Lagrave grabbed third place after beating Vincent Keymer in blitz playoffs, while Ding Liren beat Daniel Fridman 1&frac12;-&frac12; to claim fifth place. | Photo: Angelika Valkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d6",
+         "pubDate" : "Mon, 01 Apr 2024 22:30:00",
+         "title" : "Magnus Carlsen wins Grenke Chess Classic for a third time"
+      },
+      {
          "description" : "The unforgettable City of Mar del Plata International Chess Open, one of the oldest tournaments in South America, celebrated its 53rd edition from March 23-30 at the Hotel Provincial. After nine exciting rounds, GM Johan-Sebastian Christiansen, a member of the Norwegian Olympic team, was crowned undefeated champion. Four participants finished a half-point behind the champion, with GMs Diego Flores and Leonardo Trist&aacute;n completing the podium thanks to superior Buchholz scores. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "The best students of FIDE Chessable Academy shine in unique in-person training camp"
       },
       {
-         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
-         "pubDate" : "Mon, 01 Apr 2024 14:45:00",
-         "title" : "GRENKE Chess Classic - Live!"
+         "description" : "GM Magnus Carlsen scored a brilliant win then pulled off a great escape to beat GM Richard Rapport 1.5-0.5 and win the GRENKE Chess Classic for a third time. GM Maxime Vachier-Lagrave beat GM Vincent Keymer in blitz tiebreaks to take third place, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-final",
+         "pubDate" : "Mon, 01 Apr 2024 14:21:00",
+         "title" : "Carlsen Wins 3rd GRENKE Chess Classic, Niemann Takes Open"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108948117.cms\" />Among the Indian contenders in the open category are the immensely talented R Praggnanandhaa, D Gukesh, and Vidit Gujrathi, all poised to showcase their prowess on the global stage. However, five-time world champion Viswanathan Anand's perspective underscores the need for them to acclimate to the tournament atmosphere before aiming for top honours.",
@@ -602,14 +610,6 @@ news_feed (
          "title" : "Carlsen Clinches One Of Closest Tuesdays Yet"
       },
       {
-         "description" : "IM Alice Lee captured the lead vs. GM Irina Krush for the first time in a match in the Grand Final of the 2024 American Cup.&#38;nbsp;GMs Levon Aronian and Wesley So had a peaceful day, making two draws and leaving the fate of their match entirely on ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-american-cup-day-8",
-         "pubDate" : "Tue, 19 Mar 2024 18:48:00",
-         "title" : "Lee Seizes 1st-Ever Lead Vs. Krush"
-      },
-      {
          "description" : " I only learned today that the line 1.e4 e5 2.Nf3 Nc6 3.Bc4 f5?! was the Rousseau Gambit. I'd heard this opening discussed numerous times within the Canberra chess scene, but for some reason I thought it was a different opening, and the moves above were just sort of dodgy Italian/Latvian hybrid (The Italvian Opening?). I'd even played it in the past at fast time limits, albeit with little success. Despite it's poor reputation it sometimes works out for Black. Here GM Dejan Bojkov comes undone against Pavel Dimitrov in what appears to be a brutal kingside hack. <br /> <b>Bojkov,Dejan (2514) - Dimitrov,Pavel (2304) [C50]</b><br /> BUL-chT-A 62nd Sunny Beach (1.3), 19.09.2012 <script> new PgnVi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -888,14 +888,6 @@ news_feed (
          "link" : "https://www.europechess.org/the-2nd-ecu-trainers-online-seminar/",
          "pubDate" : "Tue, 12 Mar 2024 08:10:36",
          "title" : "The 2nd ECU Trainers Online Seminar"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2920",
-         "pubDate" : "Mon, 11 Mar 2024 22:57:28",
-         "title" : "13th African Games: Egypt rules supreme"
       }
    ]
 }
