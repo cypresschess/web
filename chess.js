@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE decides: New format for chess"
       },
       {
+         "description" : "The FIDE Candidates Tournament 2024 is set to kick off this Wednesday in Toronto, Canada! For the first time ever, the same venue will host the FIDE Candidates and the FIDE Women's Candidates Tournaments. The events will be played from 3-22 April at The Great Hall, located in the heart of Toronto's West End. Both events are held as 14-player round-robin tournaments. The total prize fund of the events is 750.000 euros (500.000 euros for the Open section, and 250.000 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-candidates-tournament-2024-starts-in-toronto-canada/",
+         "pubDate" : "Mon, 01 Apr 2024 08:24:18",
+         "title" : "FIDE Candidates Tournament 2024 starts in Toronto, Canada"
+      },
+      {
          "description" : "Magnus Carlsen was the top scorer in the 10-round all-play-all section of the Grenke Chess Classic. Carlsen is set to face second-placed Richard Rapport in Monday's 2-game final match. Maxime Vachier-Lagrave will face Vincent Keymer in the match for third place, while Ding Liren will play against Daniel Fridman in the match for fifth place. | Photo: Angelika Valkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -896,14 +904,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/burning-bridges.html",
          "pubDate" : "Mon, 11 Mar 2024 12:14:00",
          "title" : "Burning bridges"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2919",
-         "pubDate" : "Mon, 11 Mar 2024 09:13:20",
-         "title" : "World Cup U8, U10, U12: Last call for wild cards "
       }
    ]
 }
