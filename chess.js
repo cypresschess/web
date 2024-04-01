@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Apart from a few minor modifications, the game has remained unchanged for over a thousand years. However, with the advent of comprehensive, systematic preparation it has become less interesting. FIDE has decided that some radical measures need to be taken to save chess. Here's what they have decided.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-decides-new-format-for-chess",
+         "pubDate" : "Mon, 01 Apr 2024 09:00:00",
+         "title" : "FIDE decides: New format for chess"
+      },
+      {
+         "description" : "Magnus Carlsen was the top scorer in the 10-round all-play-all section of the Grenke Chess Classic. Carlsen is set to face second-placed Richard Rapport in Monday's 2-game final match. Maxime Vachier-Lagrave will face Vincent Keymer in the match for third place, while Ding Liren will play against Daniel Fridman in the match for fifth place. | Photo: Angelika Valkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d5",
+         "pubDate" : "Mon, 01 Apr 2024 07:10:00",
+         "title" : "Grenke Classic: Carlsen and Rapport to fight for first place"
+      },
+      {
          "description" : " GM Hrant Melkumyan ended the 4th day of the 2024 O2C Doeberl Cup with one hand firmly attached to the trophy. After a draw in round 7 against IM James Morris, he played a nice attacking game against FM Fred Litchfield to maintain his one point lead over the chasing pack. Chinese IM Peng Cheng holds down second place after beating Morris in Round 8, with the Indian trio of GM Guha, GM Venkatesh and IM Das in equal third. Of interest to the Canberra Chess community is FM Albert Winkelmans final round games against IM Das. A win for Winkelman will secure him an IM norm, his first. Other Canberra players on the top boards are IM Junta Ikeda (Board 4) and FM Frred Litchfield (Board 7). The final",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-5",
          "pubDate" : "Sun, 31 Mar 2024 15:37:00",
          "title" : "Carlsen Wins Round-Robin As Ding Suffers"
-      },
-      {
-         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
-         "pubDate" : "Sun, 31 Mar 2024 14:45:00",
-         "title" : "GRENKE Chess Classic - Live!"
       },
       {
          "description" : "In this pictorial Quiz for Easter, you need to guess who is in the photograph. Ten chess players in rare and unusual photographs. Some are easy, others are less easy, some include a hint. Check it out! At the bottom you will find the solutions and photo credits. Happy Easter to everyone!",
