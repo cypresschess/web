@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The unforgettable City of Mar del Plata International Chess Open, one of the oldest tournaments in South America, celebrated its 53rd edition from March 23-30 at the Hotel Provincial. After nine exciting rounds, GM Johan-Sebastian Christiansen, a member of the Norwegian Olympic team, was crowned undefeated champion. Four participants finished a half-point behind the champion, with GMs Diego Flores and Leonardo Trist&aacute;n completing the podium thanks to superior Buchholz scores. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/christiansen-wins-mar-del-plata-open-2024",
+         "pubDate" : "Mon, 01 Apr 2024 20:30:00",
+         "title" : "Johan-Sebastian Christiansen triumphs in Mar del Plata"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2945",
+         "pubDate" : "Mon, 01 Apr 2024 16:14:20",
+         "title" : "The best students of FIDE Chessable Academy shine in unique in-person training camp"
+      },
+      {
          "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2944",
          "pubDate" : "Mon, 01 Apr 2024 11:24:29",
          "title" : "FIDE April 2024 rating list: Abdusattorov, Erigaisi crack top 10"
+      },
+      {
+         "description" : "Only a select few in the annals of chess history have broken into the world top-five before their 20th birthday. GM Nodirbek Abdusattorov has now joined that prestigious list, and shares his insights with Chess.com on his rise from prodigy to ches...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-enters-world-top-5-before-age-20",
+         "pubDate" : "Mon, 01 Apr 2024 10:19:00",
+         "title" : "Abdusattorov Enters World Top 5 Before Age 20: 'I Always Wanted To Break Records'"
       },
       {
          "description" : "Apart from a few minor modifications, the game has remained unchanged for over a thousand years. However, with the advent of comprehensive, systematic preparation it has become less interesting. FIDE has decided that some radical measures need to be taken to save chess. Here's what they have decided.",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2942",
          "pubDate" : "Sun, 31 Mar 2024 21:51:25",
          "title" : "Johan-Sebastian Christiansen triumphs in Mar del Plata"
-      },
-      {
-         "description" : "In our second ChessBase Challenge instalment we gave you a set of puzzles that were meant to challenge your mind. Were you able to solve the positions, each with a mind-boggling idea required to reach the goal? You had two weeks to do so. Today we provide the solutions.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/puzzle-challenge-2-solutions",
-         "pubDate" : "Sun, 31 Mar 2024 20:00:00",
-         "title" : "Puzzle Challenge 2 - Solutions"
       },
       {
          "description" : "World number-one Magnus Carlsen beat&#38;nbsp;GM Vincent Keymer to wrap up victory in the 2024 GRENKE Chess Classic round-robin. He now faces GM Richard Rapport in Monday&#39;s title match, while GM Maxime Vachier-Lagrave takes on Keymer for third place. ...",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "World School Chess Championship - 2024"
       },
       {
-         "description" : "Chess.com, the world&#38;rsquo;s leading chess platform, has been named as one of Fast Company&#39;s World&#39;s Most Innovative Companies for 2024. This year&#38;rsquo;s list shines a spotlight on businesses that are shaping industry and culture through their ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-named-in-fast-companys-worlds-most-innovative-companies-list",
-         "pubDate" : "Tue, 19 Mar 2024 05:23:00",
-         "title" : "Chess.com Named In Fast Company's Annual List Of The World's Most Innovative Companies"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -888,14 +896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2920",
          "pubDate" : "Mon, 11 Mar 2024 22:57:28",
          "title" : "13th African Games: Egypt rules supreme"
-      },
-      {
-         "description" : "The most recent post in the current Monday series on chess comics was <A HREF=\"https://chessforallages.blogspot.com/2024/03/comics-scholarship-not-necessarily-chess.html\">Comics Scholarship, Not Necessarily Chess</A> (March 2024). At the end of the post I wrote, <BLOCKQUOTE> In the same Google search, the top result was <I>The Comics Grid: Journal of Comics Scholarship</I> (comicsgrid.com). [...] I look forward to discovering the journal. </BLOCKQUOTE> <P> That was then, but this is now. The first article in the journal is currently <A HREF=\"https://www.comicsgrid.com/article/id/10250/\">Labra | Caught Between Manga and the Graphic Novel: Two Cartoonists' Trajectories in Contemporary Argentin",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/03/comic-scholarship.html",
-         "pubDate" : "Mon, 11 Mar 2024 16:05:00",
-         "title" : "Comic Scholarship"
       }
    ]
 }
