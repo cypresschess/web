@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The GRENKE Chess Classic is taking place from March 26 to April 1 in Karlsruhe, Germany. The tournament is a 6-player double round-robin with a time control of 45 minutes for the game plus 10-second increments per move. World champion Ding Liren and world number one Magnus Carlsen are joined by Vincent Keymer, Maxime Vachier-Lagrave, Richard Rapport and Daniel Fridman. | Follow the action live with expert commentary starting at 15.00 CET (10.00 ET, 19.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grenke-classic-2024-live",
+         "pubDate" : "Mon, 01 Apr 2024 14:45:00",
+         "title" : "GRENKE Chess Classic - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108948117.cms\" />Among the Indian contenders in the open category are the immensely talented R Praggnanandhaa, D Gukesh, and Vidit Gujrathi, all poised to showcase their prowess on the global stage. However, five-time world champion Viswanathan Anand's perspective underscores the need for them to acclimate to the tournament atmosphere before aiming for top honours.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indians-are-a-long-shot-in-candidates-says-legendary-viswanathan-anand/articleshow/108948117.cms",
+         "pubDate" : "Mon, 01 Apr 2024 12:35:41",
+         "title" : "Indians are a long shot in Candidates, says Viswanathan Anand"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "FIDE Candidates Tournament 2024 starts in Toronto, Canada"
       },
       {
-         "description" : "Magnus Carlsen was the top scorer in the 10-round all-play-all section of the Grenke Chess Classic. Carlsen is set to face second-placed Richard Rapport in Monday's 2-game final match. Maxime Vachier-Lagrave will face Vincent Keymer in the match for third place, while Ding Liren will play against Daniel Fridman in the match for fifth place. | Photo: Angelika Valkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d5",
-         "pubDate" : "Mon, 01 Apr 2024 07:10:00",
-         "title" : "Grenke Classic: Carlsen and Rapport to fight for first place"
+         "description" : "Chess.com is excited to announce a complete overhaul of the chess-playing experience, now especially crafted for the next generation of young talents.&#38;nbsp; With a swipe-centered approach and multiple new features, playing chess is easier and mo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-massive-changes-to-website",
+         "pubDate" : "Mon, 01 Apr 2024 06:00:00",
+         "title" : "Chess.com Announces Massive Changes To Website: Gameplay, Interface, and More!"
       },
       {
          "description" : " GM Hrant Melkumyan ended the 4th day of the 2024 O2C Doeberl Cup with one hand firmly attached to the trophy. After a draw in round 7 against IM James Morris, he played a nice attacking game against FM Fred Litchfield to maintain his one point lead over the chasing pack. Chinese IM Peng Cheng holds down second place after beating Morris in Round 8, with the Indian trio of GM Guha, GM Venkatesh and IM Das in equal third. Of interest to the Canberra Chess community is FM Albert Winkelmans final round games against IM Das. A win for Winkelman will secure him an IM norm, his first. Other Canberra players on the top boards are IM Junta Ikeda (Board 4) and FM Frred Litchfield (Board 7). The final",
@@ -72,22 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-5",
          "pubDate" : "Sun, 31 Mar 2024 15:37:00",
          "title" : "Carlsen Wins Round-Robin As Ding Suffers"
-      },
-      {
-         "description" : "In this pictorial Quiz for Easter, you need to guess who is in the photograph. Ten chess players in rare and unusual photographs. Some are easy, others are less easy, some include a hint. Check it out! At the bottom you will find the solutions and photo credits. Happy Easter to everyone!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/easter-photo-quiz-2024",
-         "pubDate" : "Sun, 31 Mar 2024 10:00:00",
-         "title" : "Easter Photo Quiz - Guess Who"
-      },
-      {
-         "description" : "Magnus Carlsen continues to be the sole leader at the Grenke Chess Classic in Karlsruhe. Second-placed Richard Rapport closed the gap between him and the leader to a half point after collecting back-to-back victories on Saturday. Maxime Vachier-Lagrave stands in sole third place a full point behind Rapport, and is set to face the Romanian representative in the penultimate round. | Photo: Angelika Valkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d4",
-         "pubDate" : "Sun, 31 Mar 2024 03:30:00",
-         "title" : "Grenke Classic: Rapport scores 2/2, now a half point behind Carlsen"
       },
       {
          "description" : " GM Hrant Melkumyan is on track for another Doeberl Cup win, starting the tournament with 6 from 6. In the morning round he defeated reigning Australian Champion IM Rishi Sardana, and then IM Mihajlo Radovanovic in the afternoon round. He is now a full point ahead of second place with 3 rounds to play. One of the players in 2nd place is FM Albert Winkelman, who has good chances of scoring an IM norm. He has a performance rating over 2500 and his round 7 pairing against GM M Venkatesh gives him the required mix of opponents for a valid norm. Also in 2nd place are IM James Morris, IM Peng Cheng, and FM Fred Litchfield. Despite Litchfield's good score (5/6), starting the event with a round 1 lo",
@@ -634,14 +634,6 @@ news_feed (
          "title" : "FIDE World Corporate Championship 2024 starts with two qualifiers"
       },
       {
-         "description" : "GM Wesley So and IM Alice Lee have risen out of the Elimination Bracket to challenge GMs Levon Aronian and Irina Krush in the Grand Finals of the 2024 American Cup.&#38;nbsp; After a brilliant game by GM Ray Robson to take the lead, So won on demand...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-american-cup-day-7",
-         "pubDate" : "Mon, 18 Mar 2024 18:30:00",
-         "title" : "So, Lee Rise To Grand Finals"
-      },
-      {
          "description" : "This weekly series on comic software started with an imaginary chess village in the Catskill mountains, last seen in <A HREF=\"https://chessforallages.blogspot.com/2024/02/chess-comics-grids-and-panels.html\">Chess Comics - Grids and Panels</A> (February 2024). To explore the grids and panels, <BLOCKQUOTE> I went back to the first comic page in the series, <I>The Chess Village</I> (January 2024), copied the prompt I used to make the image shown in the post, and re-entered the prompt into the software. </BLOCKQUOTE> <P> Chess villages are not all imaginary. Not too long ago I mentioned two in the monthly news post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/this-month-features-bottom",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -904,14 +896,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/03/comic-scholarship.html",
          "pubDate" : "Mon, 11 Mar 2024 16:05:00",
          "title" : "Comic Scholarship"
-      },
-      {
-         "description" : " One advantage higher rated players often have, is that their lower rated opponents feel the need to do something dramatic, to try and avoid being ground down. I fell into this trap recently, blundering a piece to a faulty combination last week at my club, while the example below came from the final round of the Ballarat Begonia Open. While top seed GM Gawain Jones would be expected to win this final round clash, his opponents over optimistic attack made the task a lot simpler. <br /> <b>Jones,Gawain (2618) - Chan,Kris (2071) [E90]</b><br /> Begonia Open 2024 Ballarat, Australia (7.1), 11.03.2024 <script> new PgnViewer( { boardName: \"game1448\", movesFormat: \"default\", pgnString:'1.Nf3 Nf6 2.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/burning-bridges.html",
-         "pubDate" : "Mon, 11 Mar 2024 12:14:00",
-         "title" : "Burning bridges"
       }
    ]
 }
