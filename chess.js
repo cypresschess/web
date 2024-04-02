@@ -94,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chessup-2-now-you-can-play-chess-com-games-directly-on-a-board",
-         "pubDate" : "Tue, 02 Apr 2024 07:52:07",
+         "pubDate" : "Tue, 02 Apr 2024 07:52:00",
          "title" : "ChessUp 2: Now You Can Play Chess.com Games Directly On A Board"
       },
       {
