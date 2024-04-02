@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The international chess championship \"Vladimir Dvorkovich Memorial - Aktobe Open 2024\" is scheduled to be staged from May 23 (arrival day) - June 2 (departure), 2024, in the western Kazakh metropolis. The event is dedicated to the memory of the leading chess arbiter and organizer, who was a member of the teams of Anatoly Karpov and Garry Kasparov.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/memorial-tournament-in-kazakhstan",
+         "pubDate" : "Tue, 02 Apr 2024 09:00:00",
+         "title" : "Memorial tournament in Kazakhstan"
+      },
+      {
          "description" : "Magnus Carlsen defeated Richard Rapport 1&frac12;-&frac12; on Monday to win the seventh edition of the Grenke Chess Classic. This was Carlsen's sixth consecutive tournament victory. Maxime Vachier-Lagrave grabbed third place after beating Vincent Keymer in blitz playoffs, while Ding Liren beat Daniel Fridman 1&frac12;-&frac12; to claim fifth place. | Photo: Angelika Valkova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grenke-classic-2024-d6",
          "pubDate" : "Mon, 01 Apr 2024 22:30:00",
          "title" : "Magnus Carlsen wins Grenke Chess Classic for a third time"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2946",
+         "pubDate" : "Mon, 01 Apr 2024 20:58:00",
+         "title" : "Breaking the limits: How FIDE's Infinite Chess project helps people with autism"
       },
       {
          "description" : "The unforgettable City of Mar del Plata International Chess Open, one of the oldest tournaments in South America, celebrated its 53rd edition from March 23-30 at the Hotel Provincial. After nine exciting rounds, GM Johan-Sebastian Christiansen, a member of the Norwegian Olympic team, was crowned undefeated champion. Four participants finished a half-point behind the champion, with GMs Diego Flores and Leonardo Trist&aacute;n completing the podium thanks to superior Buchholz scores. | Photos: Official website",
@@ -224,6 +240,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-3",
          "pubDate" : "Thu, 28 Mar 2024 19:57:00",
          "title" : "Carlsen Storms Into Sole Lead In Karlsruhe"
+      },
+      {
+         "description" : "Last month we fretted that <A HREF=\"https://chessforallages.blogspot.com/2024/02/yahoo-zombies-want-chess.html\">Yahoo Zombies Want Chess</A> (February 2024). This month they got what they wanted. For the first time since <A HREF=\"https://chessforallages.blogspot.com/2022/12/how-many-for-carlsen-for-niemann.html\">How Many for Carlsen? For Niemann?</A> (December 2022), Yahoo.com delivered chess Yahoos ... two of them ... on consecutive days ... just after the zombies post. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oc28.gif\" WIDTH=400 HEIGHT=175><BR> <B>Top:</B> 'Is the United States overestimating China's power? &#149; Most Americans see China as the biggest threat to the ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/03/real-yahoos-sort-of-spotted-again.html",
+         "pubDate" : "Thu, 28 Mar 2024 16:46:00",
+         "title" : "Real Yahoos (Sort Of) Spotted Again"
       },
       {
          "description" : "The European Chess Union Trainers' Commission (ECU-ETC) was formed at the end of 2022. The Commission's Council was made-up by I.Sokolov (Chairman), Adrian Mikhalchishin (Honorary Chairman), Efstratios Grivas (Secretary), Miguel Illescas (Member), Antoaneta Stefanova (Member), Jana Krivec (Adviser) and Luke McShane (Adviser). The cream of the cream of Europe! It took some time before all official procedures were done and requirements were met, but we wanted to be sure that we make everything nice, smoothly and legally. In the end []",
