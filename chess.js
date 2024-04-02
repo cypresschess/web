@@ -26,6 +26,14 @@ news_feed (
          "title" : "FIDE Candidates 2024 - Games and Results"
       },
       {
+         "description" : "12-year-old Turkish chess sensation IM Yagiz Kaan Erdogmus is the new youngest grandmaster in the world and the fourth youngest to achieve the title in history. He earned his third grandmaster norm in Germany on Monday and his title is pending app...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/erdogmus-becomes-worlds-youngest-grandmaster-at-12",
+         "pubDate" : "Tue, 02 Apr 2024 13:07:04",
+         "title" : "Erdogmus Becomes World's Youngest Grandmaster At 12"
+      },
+      {
          "description" : " GM Hrant Melkumyan has recorded his 3rd O2C Doeberl Cup tournament win in a row, after a dominant performance in the 2024 edition. Going into the final round a full point ahead, he drew with GM Mitrabha Guha to reach 8/9. IM Peng Cheng also drew on board 2, to take 2nd place on 7/9. IM Arghyadip Das defeated FM Albert Winkleman on board 3 to take a share of 2nd, also ending Winkelman's chances of scoring an IM norm in the process. The Major was won by Bryan Yang on 6..5/7. He finished a point ahead of Elliot Wong, Ethan Chang and Daniel Wang. The Minor was shared between Austin Chen and Chee Seng Lue, who both scored 6/7. The Mini saw Aden Power finish with a perfect 7/7, a full point ahead",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -106,28 +114,12 @@ news_feed (
          "title" : "Lisa Lane, 1933-2024"
       },
       {
-         "description" : "Magnus Carlsen defeated Richard Rapport 1&frac12;-&frac12; on Monday to win the seventh edition of the Grenke Chess Classic. This was Carlsen's sixth consecutive tournament victory. Maxime Vachier-Lagrave grabbed third place after beating Vincent Keymer in blitz playoffs, while Ding Liren beat Daniel Fridman 1&frac12;-&frac12; to claim fifth place. | Photo: Angelika Valkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grenke-classic-2024-d6",
-         "pubDate" : "Mon, 01 Apr 2024 22:30:00",
-         "title" : "Magnus Carlsen wins Grenke Chess Classic for a third time"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2946",
          "pubDate" : "Mon, 01 Apr 2024 20:58:00",
          "title" : "Breaking the limits: How FIDE's Infinite Chess project helps people with autism"
-      },
-      {
-         "description" : "The unforgettable City of Mar del Plata International Chess Open, one of the oldest tournaments in South America, celebrated its 53rd edition from March 23-30 at the Hotel Provincial. After nine exciting rounds, GM Johan-Sebastian Christiansen, a member of the Norwegian Olympic team, was crowned undefeated champion. Four participants finished a half-point behind the champion, with GMs Diego Flores and Leonardo Trist&aacute;n completing the podium thanks to superior Buchholz scores. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/christiansen-wins-mar-del-plata-open-2024",
-         "pubDate" : "Mon, 01 Apr 2024 20:30:00",
-         "title" : "Johan-Sebastian Christiansen triumphs in Mar del Plata"
       },
       {
          "description" : "",
@@ -698,14 +690,6 @@ news_feed (
          "title" : "Neuralink Chip In Brain Helps Paraplegic Person Play Chess"
       },
       {
-         "description" : "A group of strong-minded and strong-legged chess enthusiasts banded together and walked 13 miles (21 kilometers) across New York on March 16 to raise over $11,000 for The Gift of Chess.&#38;nbsp; This charitable organization seeks to transform lives...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gift-of-chess-fundraising-walk-2024",
-         "pubDate" : "Thu, 21 Mar 2024 08:00:00",
-         "title" : "Chess Community Raises $11,000+ In Inaugural New York Charity Walk"
-      },
-      {
          "description" : " The 1st CARICOM Chess Classic took place in Georgetown, Guyana, a nation with a rich chess tradition. Guyana was previously a regional powerhouse with a number of strong masters. More recently, the federation has rejuvenated and has launched an initiative that will bring shades of the old Caribbean Chess Championships from decades ago. #CARICOM DSG The post <a href=\"https://www.thechessdrum.net/blog/2024/03/20/trinidad-tobago-takes-1st-caricom-chess-classic/\">Trinidad &#038; Tobago takes 1st CARICOM Chess Classic!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -960,14 +944,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/the-8th-menchik-memorial/",
          "pubDate" : "Wed, 13 Mar 2024 08:50:01",
          "title" : "The 8th Menchik Memorial"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2922",
-         "pubDate" : "Tue, 12 Mar 2024 21:45:32",
-         "title" : "Lesotho Championship: Motlomelo Lihloela and Ngatane Lieketseng win titles"
       }
    ]
 }
