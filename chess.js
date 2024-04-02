@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Candidates tournament takes place in The Great Hall in Toronto, Canada. Round 1 is on Thursday 4th April and the final Round is Sunday 21st April with tie-breaks on the 22nd April if required. Play starts at 14:30 local time which is 19:30 BST. The winner will play Ding Liren in a match for the World Chess Championship later this year. Players: Ian Nepomniachtchi, R Praggnanandhaa, Fabiano Caruana, Nijat Abasov, Vidit Gujrathi, Hikaru Nakamura, Gukesh D , Alireza Firouzja. The event is a double round robin, the Indian and US players will play each other early in each cycle. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024",
+         "pubDate" : "Tue, 2 Apr 2024 13:12:00",
+         "title" : "FIDE Candidates 2024 - Games and Results"
+      },
+      {
+         "description" : " GM Hrant Melkumyan has recorded his 3rd O2C Doeberl Cup tournament win in a row, after a dominant performance in the 2024 edition. Going into the final round a full point ahead, he drew with GM Mitrabha Guha to reach 8/9. IM Peng Cheng also drew on board 2, to take 2nd place on 7/9. IM Arghyadip Das defeated FM Albert Winkleman on board 3 to take a share of 2nd, also ending Winkelman's chances of scoring an IM norm in the process. The Major was won by Bryan Yang on 6..5/7. He finished a point ahead of Elliot Wong, Ethan Chang and Daniel Wang. The Minor was shared between Austin Chen and Chee Seng Lue, who both scored 6/7. The Mini saw Aden Power finish with a perfect 7/7, a full point ahead",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/2024-o2c-doeberl-cup-three-in-row-for.html",
+         "pubDate" : "Tue, 02 Apr 2024 12:48:00",
+         "title" : "2024 O2C Doeberl Cup - Three in a row for Melkumyan"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2947",
+         "pubDate" : "Tue, 02 Apr 2024 11:57:43",
+         "title" : "FIDE World Cup Under 8, 10, 12: Personal right players"
+      },
+      {
+         "description" : " The FIDE Women's Candidates Tournament takes place alongside the Candidates tournament in Toronto 3 April to 22 April 2024. The same format as the open event, double round robin with play starting 14:30 local 19:30 BST. The winner will play the current Women's World Chess Champion Ju Wenjun for the title in 2025. Players: Lei Tingjie, Kateryna Lagno, Aleksandra Goryachkina, Nurgyul Salimova, Anna Muzychuk, R Vaishali, Tan Zhongyi and Koneru Humpy.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024",
+         "pubDate" : "Tue, 2 Apr 2024 11:16:00",
+         "title" : "FIDE Women's Candidates Tournament 2024 - Games and Results"
+      },
+      {
          "description" : "We asked you this question before. Now two highly qualified experts, both multiple World Champions, weigh in. And you have one more chance to tell us what you think. In the meantime, Sagar Shah of ChessBase India has arrived in Toronto and will be filing daily reports from there - with video impressions and interviews, in his inimitable style. It is going to be exciting, believe you us!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
