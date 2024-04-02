@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's and women's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8 in both videos. Will he succeed? And how will you do, dear viewer? These two videos are the perfect start to get into the mood for the candidates tournament!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-best-tactics-of-all-candidates-double-edition",
+         "pubDate" : "Tue, 02 Apr 2024 15:00:00",
+         "title" : "Svitlana's Smart Moves - The best tactics of all candidates! Double Edition!"
+      },
+      {
+         "description" : "The strong A-Open, played alongside the Grenke Chess Classic, saw Hans Niemann becoming the outright winner after scoring 8/9 points. A victory with black in the final round, over Velimir Ivic, gave the rising star clear first place. Nine players finished a half point behind the winner, with Ivan Saric and Vladimir Fedoseev grabbing second and thid place on tiebreaks. | Photo: Angelika Valkova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-wins-grenke-open-2024",
+         "pubDate" : "Tue, 02 Apr 2024 15:00:00",
+         "title" : "Hans Niemann scores 8/9 to win strong Grenke Open"
+      },
+      {
          "description" : " The FIDE Candidates tournament takes place in The Great Hall in Toronto, Canada. Round 1 is on Thursday 4th April and the final Round is Sunday 21st April with tie-breaks on the 22nd April if required. Play starts at 14:30 local time which is 19:30 BST. The winner will play Ding Liren in a match for the World Chess Championship later this year. Players: Ian Nepomniachtchi, R Praggnanandhaa, Fabiano Caruana, Nijat Abasov, Vidit Gujrathi, Hikaru Nakamura, Gukesh D , Alireza Firouzja. The event is a double round robin, the Indian and US players will play each other early in each cycle. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -72,6 +88,22 @@ news_feed (
          "link" : "https://aicf.in/announcement-medical-evaluation-at-chennai-on-10-april-2024/",
          "pubDate" : "Tue, 02 Apr 2024 08:07:29",
          "title" : "Announcement :Medical Evaluation at Chennai on 10 April 2024"
+      },
+      {
+         "description" : "It&#38;rsquo;s the ingenious new device that&#38;rsquo;s set to revolutionize the way you play games on Chess.com&#38;mdash;and here&#39;s how you can get one. The new ChessUp 2 is a major leap forward in smart chessboards. Following on from the market-leading ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chessup-2-now-you-can-play-chess-com-games-directly-on-a-board",
+         "pubDate" : "Tue, 02 Apr 2024 07:52:07",
+         "title" : "ChessUp 2: Now You Can Play Chess.com Games Directly On A Board"
+      },
+      {
+         "description" : "It&#39;s late at night at the Marshall Chess Club in New York City, early 1960s. Smoke wafts between shadowed men playing chess under lamplights. But what stands out most in this historic photograph is the sole young woman, exhaling the fog of war ove...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lisa-lane-1933-2024",
+         "pubDate" : "Tue, 02 Apr 2024 06:31:13",
+         "title" : "Lisa Lane, 1933-2024"
       },
       {
          "description" : "Magnus Carlsen defeated Richard Rapport 1&frac12;-&frac12; on Monday to win the seventh edition of the Grenke Chess Classic. This was Carlsen's sixth consecutive tournament victory. Maxime Vachier-Lagrave grabbed third place after beating Vincent Keymer in blitz playoffs, while Ding Liren beat Daniel Fridman 1&frac12;-&frac12; to claim fifth place. | Photo: Angelika Valkova",
@@ -154,7 +186,7 @@ news_feed (
          "title" : "FIDE Candidates Tournament 2024 starts in Toronto, Canada"
       },
       {
-         "description" : "Chess.com is excited to announce a complete overhaul of the chess-playing experience, now especially crafted for the next generation of young talents.&#38;nbsp; With a swipe-centered approach and multiple new features, playing chess is easier and mo...",
+         "description" : "Edited on April 2, 2023: Happy April Fools&#39; Day, everyone. Stay safe! Chess.com is excited to announce a complete overhaul of the chess-playing experience, now especially crafted for the next generation of young talents.&#38;nbsp; With a swipe-cen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-announces-massive-changes-to-website",
@@ -682,22 +714,6 @@ news_feed (
          "title" : "Trinidad & Tobago takes 1st CARICOM Chess Classic!"
       },
       {
-         "description" : "GM Levon Aronian won his maiden title at the 2024 American Cup on Wednesday. Continuing to play in this tournament what he calls &#34;adventurous chess,&#34; he defeated GM Wesley So only in the final rapid game&#38;mdash;and with the black pieces.&#38;nbsp; Th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-american-cup-day-9-aronian-wins",
-         "pubDate" : "Wed, 20 Mar 2024 18:34:00",
-         "title" : "Aronian Wins 2024 American Cup Without Losing A Single Game"
-      },
-      {
-         "description" : "After GM Pranav Venkatesh won the early edition of the March 19 Titled Tuesday with relative ease, GM Magnus Carlsen needed the second tiebreak to earn his first win in the event since January 30. It was little-known Chinese GM Xu Xiangyu who push...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranav-carlsen-win-titled-tuesday-march-19-2024",
-         "pubDate" : "Wed, 20 Mar 2024 08:49:00",
-         "title" : "Carlsen Clinches One Of Closest Tuesdays Yet"
-      },
-      {
          "description" : " I only learned today that the line 1.e4 e5 2.Nf3 Nc6 3.Bc4 f5?! was the Rousseau Gambit. I'd heard this opening discussed numerous times within the Canberra chess scene, but for some reason I thought it was a different opening, and the moves above were just sort of dodgy Italian/Latvian hybrid (The Italvian Opening?). I'd even played it in the past at fast time limits, albeit with little success. Despite it's poor reputation it sometimes works out for Black. Here GM Dejan Bojkov comes undone against Pavel Dimitrov in what appears to be a brutal kingside hack. <br /> <b>Bojkov,Dejan (2514) - Dimitrov,Pavel (2304) [C50]</b><br /> BUL-chT-A 62nd Sunny Beach (1.3), 19.09.2012 <script> new PgnVi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -952,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2922",
          "pubDate" : "Tue, 12 Mar 2024 21:45:32",
          "title" : "Lesotho Championship: Motlomelo Lihloela and Ngatane Lieketseng win titles"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2921",
-         "pubDate" : "Tue, 12 Mar 2024 15:24:05",
-         "title" : "AICF election concluded; Shri Nitin Narang and Shri Dev A Patel take charge"
       }
    ]
 }
