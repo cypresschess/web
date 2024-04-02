@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We asked you this question before. Now two highly qualified experts, both multiple World Champions, weigh in. And you have one more chance to tell us what you think. In the meantime, Sagar Shah of ChessBase India has arrived in Toronto and will be filing daily reports from there - with video impressions and interviews, in his inimitable style. It is going to be exciting, believe you us!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-who-will-win",
+         "pubDate" : "Tue, 02 Apr 2024 11:00:00",
+         "title" : "Candidates: Who will win?"
+      },
+      {
+         "description" : "The English Chess Federation is inviting expressions of interest from clubs and organisers interested in purchasing chess clocks at discounted rates (indicative prices DGT...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/dgt-clocks/",
+         "pubDate" : "Tue, 02 Apr 2024 10:51:19",
+         "title" : "DGT Clocks"
+      },
+      {
          "description" : "The international chess championship \"Vladimir Dvorkovich Memorial - Aktobe Open 2024\" is scheduled to be staged from May 23 (arrival day) - June 2 (departure), 2024, in the western Kazakh metropolis. The event is dedicated to the memory of the leading chess arbiter and organizer, who was a member of the teams of Anatoly Karpov and Garry Kasparov.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/memorial-tournament-in-kazakhstan",
          "pubDate" : "Tue, 02 Apr 2024 09:00:00",
          "title" : "Memorial tournament in Kazakhstan"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2943",
+         "pubDate" : "Tue, 02 Apr 2024 08:37:56",
+         "title" : "World Rapid and Blitz Team Championships 2024 to take place in August"
+      },
+      {
+         "description" : "Medical Evaluation of the age of Chess Players: The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/announcement-medical-evaluation-at-chennai-on-10-april-2024/",
+         "pubDate" : "Tue, 02 Apr 2024 08:07:29",
+         "title" : "Announcement :Medical Evaluation at Chennai on 10 April 2024"
       },
       {
          "description" : "Magnus Carlsen defeated Richard Rapport 1&frac12;-&frac12; on Monday to win the seventh edition of the Grenke Chess Classic. This was Carlsen's sixth consecutive tournament victory. Maxime Vachier-Lagrave grabbed third place after beating Vincent Keymer in blitz playoffs, while Ding Liren beat Daniel Fridman 1&frac12;-&frac12; to claim fifth place. | Photo: Angelika Valkova",
@@ -778,14 +810,6 @@ news_feed (
          "title" : "Ukraine wins the first Youth Online Nations League"
       },
       {
-         "description" : "All India Chess Federation is going to organize two days Online Arbiter Refresher Course for all IAs, FAs &#38; SNAs on 21-22 March 2024, 25-26",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/arbiter-refresher-course-2024-25/",
-         "pubDate" : "Sat, 16 Mar 2024 07:00:30",
-         "title" : "ARBITER REFRESHER COURSE 2024-25"
-      },
-      {
          "description" : " The 2024 African Individual Chess Championships (AICC) have begun! Twenty-four countries have assembled in Accra-Ghana to compete for glory, titles, and spots in the World Cup. Only days after the chess competition of the All-African Games had concluded, the continental championship attracted 42 open players (12 from host Ghana) and 29 women players. The games The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/2024-african-individual-chess-championships-accra-ghana/\">2024 African Individual Chess Championships (Accra, Ghana)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -904,14 +928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2921",
          "pubDate" : "Tue, 12 Mar 2024 15:24:05",
          "title" : "AICF election concluded; Shri Nitin Narang and Shri Dev A Patel take charge"
-      },
-      {
-         "description" : "The ECU Trainers Commission organizes the second Seminar for trainers' education &#38; titles, from 6-16 May 2024. The Seminar will be held online, with free participation for 25 participants nominated by European National Chess Federations and five free places for participants nominated by the ECU Commission for Women's Chess. The Seminar is specially prepared for applicants for the ECU Expert Coach (EEC) and the ECU Junior Coach (EJC) titles. In order to get the EEC or EJC title, each participant []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/the-2nd-ecu-trainers-online-seminar/",
-         "pubDate" : "Tue, 12 Mar 2024 08:10:36",
-         "title" : "The 2nd ECU Trainers Online Seminar"
       }
    ]
 }
