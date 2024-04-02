@@ -26,7 +26,7 @@ news_feed (
          "title" : "The best students of FIDE Chessable Academy shine in unique in-person training camp"
       },
       {
-         "description" : "GM Magnus Carlsen scored a brilliant win then pulled off a great escape to beat GM Richard Rapport 1.5-0.5 and win the GRENKE Chess Classic for a third time. GM Maxime Vachier-Lagrave beat GM Vincent Keymer in blitz tiebreaks to take third place, ...",
+         "description" : "GM Magnus Carlsen scored a brilliant win, then pulled off a great escape, to beat GM Richard Rapport 1.5-0.5 and win the GRENKE Chess Classic for a third time. GM Maxime Vachier-Lagrave beat GM Vincent Keymer in blitz tiebreaks to take third place...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-final",
