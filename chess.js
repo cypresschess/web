@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Following the success of the inaugural World Rapid Team Championship held in D&uuml;sseldorf in August 2023, FIDE decided to organize a second edition, which will also include a World Blitz Team competition. The tournament will be held in Astana, the capital of Kazakhstan, between August 1 and 6, and is expected to bring together a number of top world professionals and chess enthusiasts. Magnus Carlsen has already confirmed that he will be playing for the defending champions, WR Team.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-announcement",
+         "pubDate" : "Wed, 03 Apr 2024 01:30:00",
+         "title" : "World Rapid and Blitz Team Championships to take place in August"
+      },
+      {
          "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's and women's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8 in both videos. Will he succeed? And how will you do, dear viewer? These two videos are the perfect start to get into the mood for the candidates tournament!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/dgt-clocks/",
          "pubDate" : "Tue, 02 Apr 2024 10:51:19",
          "title" : "DGT Clocks"
-      },
-      {
-         "description" : "The international chess championship \"Vladimir Dvorkovich Memorial - Aktobe Open 2024\" is scheduled to be staged from May 23 (arrival day) - June 2 (departure), 2024, in the western Kazakh metropolis. The event is dedicated to the memory of the leading chess arbiter and organizer, who was a member of the teams of Anatoly Karpov and Garry Kasparov.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/memorial-tournament-in-kazakhstan",
-         "pubDate" : "Tue, 02 Apr 2024 09:00:00",
-         "title" : "Memorial tournament in Kazakhstan"
       },
       {
          "description" : "",
