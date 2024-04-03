@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "GM Aravindh Chithambaram (India), IM Siddharth Jagadeesh (Singapore) and GM Carlos Albornoz (Cuba) scored an unbeaten 7/9 each at the 50th La Roda Open. Aravindh won the tournament thanks to his better tiebreak score. Albornoz drew against Aravindh in the final round in an exciting game. This was the first rating tournament that Aravindh played this year in any format, and he won it emphatically. | Photo: Official website",
+         "description" : "Together with Arne K&auml;hler, Canadian WIM Svitlana Demchenko (photo) regularly entertains and trains readers of our website on the Svitlana's Smart Moves show. The 20-year-old from Ukraine also made smart moves at the Canadian Women's Zonal tournament in Toronto, which ended at the beginning of April. She started as number 5 in the seeding list and ended up in a tie for first place with 7&frac12;/9 points. She finished second on tiebreaks behind rating favourite Maili-Jade Ouellet. | Photo: ChessCanada Facebook page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aravindh-wins-la-roda-open-2024",
-         "pubDate" : "Wed, 03 Apr 2024 18:00:00",
-         "title" : "Aravindh Chithambaram victorious at 50th La Roda Open"
+         "link" : "https://en.chessbase.com/post/svitlana-demchenko-canadian-zonal-2024",
+         "pubDate" : "Wed, 03 Apr 2024 23:45:00",
+         "title" : "Svitlana Demchenko finishes second at Canadian Women's Zonal"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2949",
+         "pubDate" : "Wed, 03 Apr 2024 22:04:25",
+         "title" : "Daniel Barrish and Jesse February win South African Closed Championship"
       },
       {
          "description" : "",
@@ -18,19 +26,11 @@ news_feed (
          "title" : "Kirill Alekseenko wins VIII Open Semana Santa"
       },
       {
-         "description" : "On April 7, the subscribers of Kasparov Chess Foundation Academy will gather for an exclusive interview with Maurice Ashley, the first African American chess grandmaster. Here, amidst the whispered echoes of strategic brilliance, Ashley will unveil insights from his latest literary endeavour, \"Move by Move: Life Lessons on and off the Chessboard\", which has seen the world on April 2.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-academy-maurice-ashley",
-         "pubDate" : "Wed, 03 Apr 2024 12:00:00",
-         "title" : "KCF Academy: Maurice Ashley"
-      },
-      {
          "description" : "The much-anticipated Candidates Tournament is just around the corner, with the eight contenders fighting for the right to challenge reigning World Champion Ding Liren for the title. But who will triumph in the end? Here&#39;s GM Magnus Carlsen&#39;s verdi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/magnus-carlsen-ranks-the-candidates-players",
-         "pubDate" : "Wed, 03 Apr 2024 11:43:57",
+         "pubDate" : "Wed, 03 Apr 2024 11:43:00",
          "title" : "Magnus Carlsen Ranks The Candidates Players"
       },
       {
@@ -66,14 +66,6 @@ news_feed (
          "title" : "Nakamura Wins Another Titled Tuesday As Hong Wins 1st"
       },
       {
-         "description" : "The wait is over. We are one day away from kick-off at the Candidates Tournaments in Toronto, and the ChessBase India team is already on-site, producing video content for all of us to enjoy. Sagar Shah and co. have met a number of chess personalities already, including Levy Rozman (a.k.a. Gotham Chess) and Vidit Gujrathi, one of the participants in the open section. Check it out!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-first-impressions",
-         "pubDate" : "Wed, 03 Apr 2024 07:00:00",
-         "title" : "The Candidates are ready - First impressions from Toronto!"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108991780.cms\" />Young Indian grandmasters Rameshbabu Praggnanandhaa (18), Dommaraju Gukesh (17) and 29-year-old Vidit Gujrathi will make their debut in the open category of the tournament, which will see an interesting contest between youthful exuberance and experience.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -82,28 +74,12 @@ news_feed (
          "title" : "India's chess stars vie for big prize at Candidates"
       },
       {
-         "description" : "Following the success of the inaugural World Rapid Team Championship held in D&uuml;sseldorf in August 2023, FIDE decided to organize a second edition, which will also include a World Blitz Team competition. The tournament will be held in Astana, the capital of Kazakhstan, between August 1 and 6, and is expected to bring together a number of top world professionals and chess enthusiasts. Magnus Carlsen has already confirmed that he will be playing for the defending champions, WR Team.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-announcement",
-         "pubDate" : "Wed, 03 Apr 2024 01:30:00",
-         "title" : "World Rapid and Blitz Team Championships to take place in August"
-      },
-      {
          "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's and women's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8 in both videos. Will he succeed? And how will you do, dear viewer? These two videos are the perfect start to get into the mood for the candidates tournament!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-best-tactics-of-all-candidates-double-edition",
          "pubDate" : "Tue, 02 Apr 2024 15:00:00",
          "title" : "Svitlana's Smart Moves - The best tactics of all candidates! Double Edition!"
-      },
-      {
-         "description" : "The strong A-Open, played alongside the Grenke Chess Classic, saw Hans Niemann becoming the outright winner after scoring 8/9 points. A victory with black in the final round, over Velimir Ivic, gave the rising star clear first place. Nine players finished a half point behind the winner, with Ivan Saric and Vladimir Fedoseev grabbing second and thid place on tiebreaks. | Photo: Angelika Valkova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-wins-grenke-open-2024",
-         "pubDate" : "Tue, 02 Apr 2024 15:00:00",
-         "title" : "Hans Niemann scores 8/9 to win strong Grenke Open"
       },
       {
          "description" : " The FIDE Candidates tournament takes place in The Great Hall in Toronto, Canada. Round 1 is on Thursday 4th April and the final Round is Sunday 21st April with tie-breaks on the 22nd April if required. Play starts at 14:30 local time which is 19:30 BST. The winner will play Ding Liren in a match for the World Chess Championship later this year. Players: Ian Nepomniachtchi, R Praggnanandhaa, Fabiano Caruana, Nijat Abasov, Vidit Gujrathi, Hikaru Nakamura, Gukesh D , Alireza Firouzja. The event is a double round robin, the Indian and US players will play each other early in each cycle. ",
@@ -144,14 +120,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024",
          "pubDate" : "Tue, 2 Apr 2024 11:16:00",
          "title" : "FIDE Women's Candidates Tournament 2024 - Games and Results"
-      },
-      {
-         "description" : "We asked you this question before. Now two highly qualified experts, both multiple World Champions, weigh in. And you have one more chance to tell us what you think. In the meantime, Sagar Shah of ChessBase India has arrived in Toronto and will be filing daily reports from there - with video impressions and interviews, in his inimitable style. It is going to be exciting, believe you us!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-who-will-win",
-         "pubDate" : "Tue, 02 Apr 2024 11:00:00",
-         "title" : "Candidates: Who will win?"
       },
       {
          "description" : "The English Chess Federation is inviting expressions of interest from clubs and organisers interested in purchasing chess clocks at discounted rates (indicative prices DGT...",
@@ -256,14 +224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/abdusattorov-enters-world-top-5-before-age-20",
          "pubDate" : "Mon, 01 Apr 2024 10:19:00",
          "title" : "Abdusattorov Enters World Top 5 Before Age 20: 'I Always Wanted To Break Records'"
-      },
-      {
-         "description" : "Apart from a few minor modifications, the game has remained unchanged for over a thousand years. However, with the advent of comprehensive, systematic preparation it has become less interesting. FIDE has decided that some radical measures need to be taken to save chess. Here's what they have decided.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-decides-new-format-for-chess",
-         "pubDate" : "Mon, 01 Apr 2024 09:00:00",
-         "title" : "FIDE decides: New format for chess"
       },
       {
          "description" : "The FIDE Candidates Tournament 2024 is set to kick off this Wednesday in Toronto, Canada! For the first time ever, the same venue will host the FIDE Candidates and the FIDE Women's Candidates Tournaments. The events will be played from 3-22 April at The Great Hall, located in the heart of Toronto's West End. Both events are held as 14-player round-robin tournaments. The total prize fund of the events is 750.000 euros (500.000 euros for the Open section, and 250.000 []",
