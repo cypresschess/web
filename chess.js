@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On April 7, the subscribers of Kasparov Chess Foundation Academy will gather for an exclusive interview with Maurice Ashley, the first African American chess grandmaster. Here, amidst the whispered echoes of strategic brilliance, Ashley will unveil insights from his latest literary endeavour, \"Move by Move: Life Lessons on and off the Chessboard\", which has seen the world on April 2.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-academy-maurice-ashley",
+         "pubDate" : "Wed, 03 Apr 2024 12:00:00",
+         "title" : "KCF Academy: Maurice Ashley"
+      },
+      {
+         "description" : "The European Amateur Chess Championship 2024 will take place from 24th August 1st September 2024 at the Losinj island, in the city of Mali Losinj, Croatia. The event will be played in three rating categories: U2300, U2000, and U1700, and it's open to all players registered or approved by their national federations listed as the ECU members. In order to be eligible to participate in the tournament, the players must fulfill the following conditions: Each tournament will be played []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championship-2024-official-regulations/",
+         "pubDate" : "Wed, 03 Apr 2024 09:24:04",
+         "title" : "European Amateur Chess Championship 2024 - Official regulations"
+      },
+      {
+         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
+         "pubDate" : "Wed, 03 Apr 2024 09:03:44",
+         "title" : "Entry form now open for 2024 British Chess Championships"
+      },
+      {
          "description" : "The wait is over. We are one day away from kick-off at the Candidates Tournaments in Toronto, and the ChessBase India team is already on-site, producing video content for all of us to enjoy. Sagar Shah and co. have met a number of chess personalities already, including Levy Rozman (a.k.a. Gotham Chess) and Vidit Gujrathi, one of the participants in the open section. Check it out!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/erdogmus-becomes-worlds-youngest-grandmaster-at-12",
-         "pubDate" : "Tue, 02 Apr 2024 13:07:04",
+         "pubDate" : "Tue, 02 Apr 2024 13:07:00",
          "title" : "Erdogmus Becomes World's Youngest Grandmaster At 12"
       },
       {
@@ -96,6 +120,22 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/dgt-clocks/",
          "pubDate" : "Tue, 02 Apr 2024 10:51:19",
          "title" : "DGT Clocks"
+      },
+      {
+         "description" : "Only one Indian man has ever taken part in the FIDE Candidates before, Viswanathan Anand, and he explains just what makes this tournament so tough.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39859087/fide-candidates-2024-indian-chess-viswanathan-anand?device=featurephone",
+         "pubDate" : "Tue, 2 Apr 2024 10:00:50",
+         "title" : "The big, bad world of the Candidates, ft. Viswanathan Anand"
+      },
+      {
+         "description" : "Five Indians will compete at the biggest chess tournament in the world to decide who will get to challenge the world champions",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39858735/fide-candidates-2024-format-schedule-favourites-all-need-know?device=featurephone",
+         "pubDate" : "Tue, 2 Apr 2024 09:41:42",
+         "title" : "FIDE Candidates 2024: Favourites, Format, Schedule and All You Need to Know"
       },
       {
          "description" : "",
@@ -296,6 +336,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-2.html",
          "pubDate" : "Fri, 29 Mar 2024 23:29:00",
          "title" : "2024 O2C Doeberl Cup - Day 2"
+      },
+      {
+         "description" : "It's been six months since I adapted my domain mark-weeks.com to incorporate Google's CMP. I documented the change in a series of Friday posts that ended with <A HREF=\"https://chessforallages.blogspot.com/2023/09/cfaas-cmp-wrapup.html\">CFAA's CMP : Wrapup</A> (September 2023; CMP = Consent Management Platform). How well has that change worked? I'll come back to the subject in a new series of Friday posts. <P> My preliminary analysis says there are rough waters ahead. So what happened? Has Google lost its touch? ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/03/cfaas-cmp-another-look.html",
+         "pubDate" : "Fri, 29 Mar 2024 16:08:00",
+         "title" : "CFAA's CMP : Another Look"
       },
       {
          "description" : "Please find the live game links for National Team Chess Championship 2024 Open: http://fritzserver.org/LocalUser/live/indnatteam/open/index.html Women: http://fritzserver.org/LocalUser/live/indnatteam/women/index.html",
@@ -952,14 +1000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/how-to-work-with-the-laws-of-chess",
          "pubDate" : "Wed, 13 Mar 2024 12:00:00",
          "title" : "How to work with the Laws of Chess"
-      },
-      {
-         "description" : "A WGM / WIM women's norm event. Vera Menchik (1906-44) was the first women's world chess champion, as well as the longest reigning champion, gaining...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/the-8th-menchik-memorial/",
-         "pubDate" : "Wed, 13 Mar 2024 08:50:01",
-         "title" : "The 8th Menchik Memorial"
       }
    ]
 }
