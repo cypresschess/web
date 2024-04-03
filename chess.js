@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The wait is over. We are one day away from kick-off at the Candidates Tournaments in Toronto, and the ChessBase India team is already on-site, producing video content for all of us to enjoy. Sagar Shah and co. have met a number of chess personalities already, including Levy Rozman (a.k.a. Gotham Chess) and Vidit Gujrathi, one of the participants in the open section. Check it out!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-first-impressions",
+         "pubDate" : "Wed, 03 Apr 2024 07:00:00",
+         "title" : "The Candidates are ready - First impressions from Toronto!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108991780.cms\" />Young Indian grandmasters Rameshbabu Praggnanandhaa (18), Dommaraju Gukesh (17) and 29-year-old Vidit Gujrathi will make their debut in the open category of the tournament, which will see an interesting contest between youthful exuberance and experience.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/experience-vs-exuberance-candidates-vie-for-big-chess-prize/articleshow/108991780.cms",
+         "pubDate" : "Wed, 03 Apr 2024 04:27:31",
+         "title" : "India's chess stars vie for big prize at Candidates"
+      },
+      {
          "description" : "Following the success of the inaugural World Rapid Team Championship held in D&uuml;sseldorf in August 2023, FIDE decided to organize a second edition, which will also include a World Blitz Team competition. The tournament will be held in Astana, the capital of Kazakhstan, between August 1 and 6, and is expected to bring together a number of top world professionals and chess enthusiasts. Magnus Carlsen has already confirmed that he will be playing for the defending champions, WR Team.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
