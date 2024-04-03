@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2948",
+         "pubDate" : "Wed, 03 Apr 2024 14:56:52",
+         "title" : "Kirill Alekseenko wins VIII Open Semana Santa"
+      },
+      {
          "description" : "On April 7, the subscribers of Kasparov Chess Foundation Academy will gather for an exclusive interview with Maurice Ashley, the first African American chess grandmaster. Here, amidst the whispered echoes of strategic brilliance, Ashley will unveil insights from his latest literary endeavour, \"Move by Move: Life Lessons on and off the Chessboard\", which has seen the world on April 2.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -984,22 +992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2924",
          "pubDate" : "Thu, 14 Mar 2024 12:03:15",
          "title" : "American Cup 2024: Round 1 recap"
-      },
-      {
-         "description" : "The 2024 Reykjavik Open opens tomorrow and will be played from 15th-21st March at the Harpa Music and Conference Center. The Opening party is scheduled for the 14th of March, starting at 18:00 (local time). . The event will be played in 9 rounds, swiss system, with more than 400 participants coming from 49 countries. The tournament attracted 114 titled players, and the top-seeds are: GM Deac Bogdan-Daniel (ROU, 2690), GM Ivanchuk Vasyl (UKR, 2623), GM Xu Xiangyu (CHN, 2623), []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/reykjavik-open-2024-opens-tomorrow/",
-         "pubDate" : "Wed, 13 Mar 2024 13:04:07",
-         "title" : "Reykjavik Open 2024 opens tomorrow"
-      },
-      {
-         "description" : "\"As arbiters, we must first and foremost have full knowledge of the Laws of Chess. The Laws of Chess are like the Bible, everything starts there.\" In this article IA Alon Shulman shares his thought process in dealing with cases, on implementing the Laws of Chess. Arbiters must first and foremost have full knowledge of them, everything starts there. Those laws are the basis of every decision that are make. \"Secondly, we must always bear in mind that those laws don't cover everything, and we need to impose the rational of the laws as a whole.\" | Photo Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-work-with-the-laws-of-chess",
-         "pubDate" : "Wed, 13 Mar 2024 12:00:00",
-         "title" : "How to work with the Laws of Chess"
       }
    ]
 }
