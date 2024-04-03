@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Aravindh Chithambaram (India), IM Siddharth Jagadeesh (Singapore) and GM Carlos Albornoz (Cuba) scored an unbeaten 7/9 each at the 50th La Roda Open. Aravindh won the tournament thanks to his better tiebreak score. Albornoz drew against Aravindh in the final round in an exciting game. This was the first rating tournament that Aravindh played this year in any format, and he won it emphatically. | Photo: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aravindh-wins-la-roda-open-2024",
+         "pubDate" : "Wed, 03 Apr 2024 18:00:00",
+         "title" : "Aravindh Chithambaram victorious at 50th La Roda Open"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "KCF Academy: Maurice Ashley"
       },
       {
+         "description" : "The much-anticipated Candidates Tournament is just around the corner, with the eight contenders fighting for the right to challenge reigning World Champion Ding Liren for the title. But who will triumph in the end? Here&#39;s GM Magnus Carlsen&#39;s verdi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/magnus-carlsen-ranks-the-candidates-players",
+         "pubDate" : "Wed, 03 Apr 2024 11:43:57",
+         "title" : "Magnus Carlsen Ranks The Candidates Players"
+      },
+      {
          "description" : "The European Amateur Chess Championship 2024 will take place from 24th August 1st September 2024 at the Losinj island, in the city of Mali Losinj, Croatia. The event will be played in three rating categories: U2300, U2000, and U1700, and it's open to all players registered or approved by their national federations listed as the ECU members. In order to be eligible to participate in the tournament, the players must fulfill the following conditions: Each tournament will be played []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -32,6 +48,22 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
          "pubDate" : "Wed, 03 Apr 2024 09:03:44",
          "title" : "Entry form now open for 2024 British Chess Championships"
+      },
+      {
+         "description" : "How do you prepare for a tournament where the margin for error is so slim that one bad move could potentially end your chances of becoming world champion?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39865571/fide-candidates-2024-how-do-ace-chess-marathon?device=featurephone",
+         "pubDate" : "Wed, 3 Apr 2024 08:41:25",
+         "title" : "FIDE Candidates 2024: How do you ace the chess marathon?"
+      },
+      {
+         "description" : "GM Hikaru Nakamura and GM Andrew Hong won the first Titled Tuesday events of April 2024. For Hong, it was a milestone, being his first-ever win in Titled Tuesday, and he did it outright with 10 points while Nakamura needed&#38;nbsp;tiebreaks earlier a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-hong-win-titled-tuesday-april-2-2024",
+         "pubDate" : "Wed, 03 Apr 2024 08:32:27",
+         "title" : "Nakamura Wins Another Titled Tuesday As Hong Wins 1st"
       },
       {
          "description" : "The wait is over. We are one day away from kick-off at the Candidates Tournaments in Toronto, and the ChessBase India team is already on-site, producing video content for all of us to enjoy. Sagar Shah and co. have met a number of chess personalities already, including Levy Rozman (a.k.a. Gotham Chess) and Vidit Gujrathi, one of the participants in the open section. Check it out!",
@@ -730,14 +762,6 @@ news_feed (
          "title" : "AICF Arbiter Refresher Seminar Batch 2 A & 2 B on 25-26 March 2024"
       },
       {
-         "description" : "14-year-old IM Alice Lee is the first player ever to emerge from the Elimination Bracket to win the American Cup. She defeated GM Irina Krush for the second time on Thursday, in the blitz playoffs after four decisive rapid games, to win her maiden...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-american-cup-day-10-alice-lee-wins",
-         "pubDate" : "Thu, 21 Mar 2024 19:01:00",
-         "title" : "14-Year-Old Alice Lee Wins Women's American Cup In Blitz Playoffs"
-      },
-      {
          "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +776,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-1-week-to-go.html",
          "pubDate" : "Thu, 21 Mar 2024 13:10:00",
          "title" : "2024 O2C Doeberl Cup - 1 week to go"
-      },
-      {
-         "description" : "A paralyzed man is able to play chess with the help of a chip produced by Neuralink and implanted into his brain. A video posted on Wednesday evening on the social media platform X showing the remarkable achievement has been viewed over 70 million...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/paraplegic-plays-chess-helped-by-neuralink-chip-in-brain",
-         "pubDate" : "Thu, 21 Mar 2024 12:32:00",
-         "title" : "Neuralink Chip In Brain Helps Paraplegic Person Play Chess"
       },
       {
          "description" : " The 1st CARICOM Chess Classic took place in Georgetown, Guyana, a nation with a rich chess tradition. Guyana was previously a regional powerhouse with a number of strong masters. More recently, the federation has rejuvenated and has launched an initiative that will bring shades of the old Caribbean Chess Championships from decades ago. #CARICOM DSG The post <a href=\"https://www.thechessdrum.net/blog/2024/03/20/trinidad-tobago-takes-1st-caricom-chess-classic/\">Trinidad &#038; Tobago takes 1st CARICOM Chess Classic!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
