@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2952",
+         "pubDate" : "Thu, 04 Apr 2024 22:33:35",
+         "title" : "16th edition of \"Preparation of Teachers\" course announced"
+      },
+      {
+         "description" : "The much anticipated Candidates Tournaments kicked off in Toronto, Canada. The open section featured four draws on the first day of action, while Tan Zhongyi obtained the only full point in the women's category - Tan defeated her compatriot Lei Tingjie with the black pieces. | Replay all the games with computer analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Thu, 04 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates Tournaments - Draws in the open, Tan beats Lei"
       },
       {
          "description" : "Today, 14.30 local time, the first round of the Candidates Tournament 2024 in Toronto will start. Yesterday evening, the tournament kicked off in Toronto with the inaugural press conference and the Opening Ceremony at the welcoming 1 Hotel Toronto, a sustainable sanctuary in the heart of downtown. | Photos: Michal Walusza",
