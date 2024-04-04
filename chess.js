@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alpha Zero has revolutionised chess programming. The programme taught itself chess by playing against itself and storing its training knowledge in a neural network. All programmes have followed suit with this technique. Roger Lorenz uses a simple example to show how neural networks work and how they can be trained.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/neural-networks-chess-programming",
+         "pubDate" : "Thu, 04 Apr 2024 10:00:00",
+         "title" : "Neural networks in chess programming"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109030900.cms\" />Divya Deshmukh showcased exceptional performance in Germany's Grenke Chess A-Open, finishing third but missed the Grandmasters norm by two points. She displayed remarkable skills and determination throughout the tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-shines-in-germany-finishes-joint-third-marginally-misses-gm-norm/articleshow/109030900.cms",
+         "pubDate" : "Thu, 04 Apr 2024 08:41:14",
+         "title" : "Divya finishes joint 3rd in Germany, marginally misses GM norm"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109029735.cms\" />At his maiden appearance in the Candidates tournament, where the world's top eight players are vying for the opportunity to challenge the reigning world champion Ding Liren of China, 18-year-old Praggnanandhaa secured his spot by virtue of being the runner-up in the 2023 World Cup.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-tournament-a-huge-opportunity-for-me-says-chess-wizard-praggnanandhaa/articleshow/109029735.cms",
+         "pubDate" : "Thu, 04 Apr 2024 08:05:03",
+         "title" : "Candidates tournament a huge opportunity for me: Praggnanandhaa"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
