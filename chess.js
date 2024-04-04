@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, 14.30 local time, the first round of the Candidates Tournament 2024 in Toronto will start. Yesterday evening, the tournament kicked off in Toronto with the inaugural press conference and the Opening Ceremony at the welcoming 1 Hotel Toronto, a sustainable sanctuary in the heart of downtown. | Photos: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-candidates-tournament-2024-opens-in-toronto",
+         "pubDate" : "Thu, 04 Apr 2024 14:00:00",
+         "title" : "FIDE Candidates Tournament 2024 opens in Toronto"
+      },
+      {
+         "description" : " With the Doeberl Cup run and done for another year, a number of players made their way to Melbourne for the new <a href=\"https://melbourneio.com.au/\">Melbourne International Open</a>. The brain child of local organiser Walter Wolffs, the event has attracted both a large and strong field. And whether there were some residual effects from the Doeberl schedule, the first couple of rounds were a bit of a bloodbath for the top seeds. The top 4 boards saw the higher rated players only manage 1.5 (3 draws and a loss), with GM Darryl Johansen also a victim. After that things settled down a bit, although there are few GM's and IM's playing catch up. And while the net effect of this may be to provide",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/melbourne-international-open.html",
+         "pubDate" : "Thu, 04 Apr 2024 13:06:00",
+         "title" : "Melbourne International Open"
+      },
+      {
          "description" : "Alpha Zero has revolutionised chess programming. The programme taught itself chess by playing against itself and storing its training knowledge in a neural network. All programmes have followed suit with this technique. Roger Lorenz uses a simple example to show how neural networks work and how they can be trained.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2951",
          "pubDate" : "Thu, 04 Apr 2024 03:33:54",
          "title" : "FIDE Candidates Tournament 2024 opens in Toronto"
-      },
-      {
-         "description" : "Together with Arne K&auml;hler, Canadian WIM Svitlana Demchenko (photo) regularly entertains and trains readers of our website on the Svitlana's Smart Moves show. The 20-year-old from Ukraine also made smart moves at the Canadian Women's Zonal tournament in Toronto, which ended at the beginning of April. She started as number 5 in the seeding list and ended up in a tie for first place with 7&frac12;/9 points. She finished second on tiebreaks behind rating favourite Maili-Jade Ouellet. | Photo: ChessCanada Facebook page",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-demchenko-canadian-zonal-2024",
-         "pubDate" : "Wed, 03 Apr 2024 23:45:00",
-         "title" : "Svitlana Demchenko finishes second at Canadian Women's Zonal"
       },
       {
          "description" : "",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
          "pubDate" : "Wed, 03 Apr 2024 09:03:44",
          "title" : "Entry form now open for 2024 British Chess Championships"
-      },
-      {
-         "description" : "How do you prepare for a tournament where the margin for error is so slim that one bad move could potentially end your chances of becoming world champion?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39865571/fide-candidates-2024-how-do-ace-chess-marathon?device=featurephone",
-         "pubDate" : "Wed, 3 Apr 2024 08:41:25",
-         "title" : "FIDE Candidates 2024: How do you ace the chess marathon?"
       },
       {
          "description" : "GM Hikaru Nakamura and GM Andrew Hong won the first Titled Tuesday events of April 2024. For Hong, it was a milestone, being his first-ever win in Titled Tuesday, and he did it outright with 10 points while Nakamura needed&#38;nbsp;tiebreaks earlier a...",
@@ -984,22 +984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2925",
          "pubDate" : "Thu, 14 Mar 2024 17:06:28",
          "title" : "VAR and idChess broadcast debut in 55th Ladies' International Tournament in Serbia"
-      },
-      {
-         "description" : " If you are a Canberra resident (or live close by) there are a couple of important Annual General Meetings coming up. The ACT Junior Chess League AGM is on Sunday 17th March 1:30pm at Campbell High School (during the ACTJCL Autumn Allegro). It is open to the parents of members of the ACTJCL. The ACTJCL has been running without a full committee for the last few years and so there is a need for parents to step up and fill the executive roles. The ACT Chess Association AGM is being held on Thursday 28th March 7:00pm at the Canberra Southern Cross Club, Woden. This is during the Doeberl Cup, so members can drop in a spectate the Premier, before attending the AGM. Unlike the Junior Chess League, ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/some-important-agms.html",
-         "pubDate" : "Thu, 14 Mar 2024 12:31:00",
-         "title" : "Some important AGM's"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2924",
-         "pubDate" : "Thu, 14 Mar 2024 12:03:15",
-         "title" : "American Cup 2024: Round 1 recap"
       }
    ]
 }
