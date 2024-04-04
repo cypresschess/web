@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2951",
+         "pubDate" : "Thu, 04 Apr 2024 03:33:54",
+         "title" : "FIDE Candidates Tournament 2024 opens in Toronto"
+      },
+      {
          "description" : "Together with Arne K&auml;hler, Canadian WIM Svitlana Demchenko (photo) regularly entertains and trains readers of our website on the Svitlana's Smart Moves show. The 20-year-old from Ukraine also made smart moves at the Canadian Women's Zonal tournament in Toronto, which ended at the beginning of April. She started as number 5 in the seeding list and ended up in a tie for first place with 7&frac12;/9 points. She finished second on tiebreaks behind rating favourite Maili-Jade Ouellet. | Photo: ChessCanada Facebook page",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
