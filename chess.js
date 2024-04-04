@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Thu, 04 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
          "description" : "Today, 14.30 local time, the first round of the Candidates Tournament 2024 in Toronto will start. Yesterday evening, the tournament kicked off in Toronto with the inaugural press conference and the Opening Ceremony at the welcoming 1 Hotel Toronto, a sustainable sanctuary in the heart of downtown. | Photos: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
          "pubDate" : "Wed, 03 Apr 2024 09:03:44",
          "title" : "Entry form now open for 2024 British Chess Championships"
+      },
+      {
+         "description" : "How do you prepare for a tournament where the margin for error is so slim that one bad move could potentially end your chances of becoming world champion?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39865571/fide-candidates-2024-how-do-ace-chess-marathon?device=featurephone",
+         "pubDate" : "Wed, 3 Apr 2024 08:41:25",
+         "title" : "FIDE Candidates 2024: How do you ace the chess marathon?"
       },
       {
          "description" : "GM Hikaru Nakamura and GM Andrew Hong won the first Titled Tuesday events of April 2024. For Hong, it was a milestone, being his first-ever win in Titled Tuesday, and he did it outright with 10 points while Nakamura needed&#38;nbsp;tiebreaks earlier a...",
@@ -976,14 +992,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/14/jayvon-davis-express-wins-in-delaware/",
          "pubDate" : "Fri, 15 Mar 2024 01:54:24",
          "title" : "\"Jayvon Davis Express\" wins in Delaware!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2925",
-         "pubDate" : "Thu, 14 Mar 2024 17:06:28",
-         "title" : "VAR and idChess broadcast debut in 55th Ladies' International Tournament in Serbia"
       }
    ]
 }
