@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Fri, 05 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
+         "description" : "One of the official commentators at the 2024 Candidates Tournament in Toronto is Vishy Anand. In an interview with Sagar Shah, the good-humoured former world champion recalls how he surprisingly won the 2014 Candidates Tournament as an outsider and once again proves his amazing chess memory. He also reveals how Facebook can help with opening preparation, and what a player needs to win a Candidates Tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-vishy-anand-candidates-2024",
+         "pubDate" : "Fri, 05 Apr 2024 18:00:00",
+         "title" : "Memories: An interview with Vishy Anand"
+      },
+      {
          "description" : "Igors Rausis, born on 7 April 1961, gained notoriety primarily as a cheater. In July 2019, he was caught using a mobile phone in the toilet at an open in Strasbourg, and in December 2019, FIDE banned him for six years and stripped him of his grandmaster title. Rausis then changed his name to Isa Kasimi. Rausis, who suffered from cancer for a long time, died on 28 March 2024. In an obituary, Roger Lorenz recalls the sympathetic side of the grandmaster. | Photo: Novy Bor Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +26,12 @@ news_feed (
          "title" : "Remembering Igors Rausis (*7 April 1961, &dagger;28 March 2024)"
       },
       {
-         "description" : " GM Maurice Ashley has been busy lately despite taking a break from commentating. On the cover of the latest Chess Life magazine, Ashley strikes a menacing pose while clasping the black king, his right hand ever ready for defense or attack. This pose symbolizes everything that chess is. It is indeed a sport, science, and The post <a href=\"https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/\">Maurice Ashley speaks on new books!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Grandmaster Maurice Ashley has been busy lately despite taking a break from commentating. On the cover of the latest Chess Life magazine, Ashley strikes a menacing pose while clasping the black king, his right hand ever ready for defense or attack. This pose symbolizes everything that chess is. It is indeed a sport, science, and The post <a href=\"https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/\">Maurice Ashley speaks on new books!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/",
          "pubDate" : "Fri, 05 Apr 2024 13:24:12",
          "title" : "Maurice Ashley speaks on new books!"
-      },
-      {
-         "description" : "Tan Zhongyi became the early leader after beating Lei Tingjie in round 1 of the Women's Candidates Tournament. Playing black, Tan showed proficient technique to convert her extra pawn into a full point in a rook and bishop endgame. The three remaining games ended drawn. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-1",
-         "pubDate" : "Fri, 05 Apr 2024 12:00:00",
-         "title" : "Women's Candidates: Tan grabs crucial victory"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109061412.cms\" />Koneru Humpy, the oldest among the contenderts in the Candidates chess, targets winning the tournament in Toronto. She is the 2019 world women's rapid chess champion and current world No. 5.",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-tournament-2024-numbers-tell-a-different-story/articleshow/109060656.cms",
          "pubDate" : "Fri, 05 Apr 2024 08:38:50",
          "title" : "Candidates: Numbers tell a different story"
-      },
-      {
-         "description" : "The much anticipated Candidates Tournament kicked off in Toronto, Canada. The open section featured four draws on the first day of action. In the all-American confrontation between Fabiano Caruana and Hikaru Nakamura (who are also the top two seeds in the event), Caruana got to put pressure on his compatriot with the white pieces. A fighting draw was also seen in the battle of youngsters between Alireza Firouzja and Praggnanandhaa R. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-1",
-         "pubDate" : "Fri, 05 Apr 2024 07:10:00",
-         "title" : "Candidates: High-quality, fighting draws"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109058079.cms\" />World No. 1 Magnus Carlsen has come up with his analysis of the contenders in the Open category. He feels that either the second- or third-ranked American Grandmasters, Fabiano Caruana and Hikaru Nakamura, will clinch the title.",
@@ -90,6 +90,14 @@ news_feed (
          "title" : "All four games drawn in Round 1 of the Candidates, Caruana misses chances against Nakamura - 1"
       },
       {
+         "description" : "The first day of the 2024 FIDE Candidates Tournament came to an end after several exciting games, most finishing in a draw including the all-Indian clashes.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39877751/fide-candidates-2024-day-1-wrap-indian-chess-praggnanandhaa-vidit-gukesh-koneru-humpy-vaishali?device=featurephone",
+         "pubDate" : "Fri, 5 Apr 2024 00:26:03",
+         "title" : "FIDE Candidates 2024 Day 1 wrap: All Indians start with draw in exciting clashes"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -103,15 +111,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-1",
          "pubDate" : "Thu, 04 Apr 2024 17:20:00",
-         "title" : "Candidates Opens With Abundance of Fighting Spirit"
-      },
-      {
-         "description" : "Today, 14.30 local time, the first round of the Candidates Tournament 2024 in Toronto will start. Yesterday evening, the tournament kicked off in Toronto with the inaugural press conference and the Opening Ceremony at the welcoming 1 Hotel Toronto, a sustainable sanctuary in the heart of downtown. | Photos: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-candidates-tournament-2024-opens-in-toronto",
-         "pubDate" : "Thu, 04 Apr 2024 14:00:00",
-         "title" : "FIDE Candidates Tournament 2024 opens in Toronto"
+         "title" : "Candidates Opens With Abundance Of Fighting Spirit"
       },
       {
          "description" : " With the Doeberl Cup run and done for another year, a number of players made their way to Melbourne for the new <a href=\"https://melbourneio.com.au/\">Melbourne International Open</a>. The brain child of local organiser Walter Wolffs, the event has attracted both a large and strong field. And whether there were some residual effects from the Doeberl schedule, the first couple of rounds were a bit of a bloodbath for the top seeds. The top 4 boards saw the higher rated players only manage 1.5 (3 draws and a loss), with GM Darryl Johansen also a victim. After that things settled down a bit, although there are few GM's and IM's playing catch up. And while the net effect of this may be to provide",
@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/15/with-two-gm-norms-hardaway-charts-course/",
          "pubDate" : "Fri, 15 Mar 2024 20:42:43",
          "title" : "With two GM norms, Hardaway charts course"
-      },
-      {
-         "description" : " The recently concluded All-African Games were held in Ghana's capital, Accra, and chess was one of the events. The last event was held in 2019 in Rabat, Morocco. The Chess Drum has covered previous editions of the All-African Games, and this event attracted 18 countries. Top African players, including Grandmasters Bassem Amin (EGY) and Bilel The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/13th-all-african-games-accra-ghana/\">13th All-African Games (Accra, Ghana)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/03/15/13th-all-african-games-accra-ghana/",
-         "pubDate" : "Fri, 15 Mar 2024 18:56:17",
-         "title" : "13th All-African Games (Accra, Ghana)"
       }
    ]
 }
