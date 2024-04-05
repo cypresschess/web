@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " There was just one decisive game in the first round of the Women's Candidates tournament in Toronto, Canada. Tan Zhongyi beat fellow countrywoman Lei Tingjie with the black pieces, she equalised comfortably in a Queen's Gambit and started to threaten on the kingside, 24.Qf4? was a panicky reaction that led to an inferior position but the final move before time control 40.Kg3? was the decisive error. The remaining games were drawn, Goryachkina-Lagno was a Sicilian where the spectacular 17.Nf5 was probably a mistake, but it was all still a bit difficult and the game was equal a few moves later. Muzychuk-Salimova was a moderately interesting Petroff Defence and Rameshbabu Vaishali against Hump",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-leads-the-womens-candidates-alone-after-one-round",
+         "pubDate" : "Fri, 5 Apr 2024 01:03:00",
+         "title" : "Tan Zhongyi leads the Women's Candidates alone after one round - 1"
+      },
+      {
+         "description" : " The first round of the FIDE Candidates in Toronto, Canada, saw all four games drawn. The players will no doubt all be glad to get off the mark. Players from the same country meet as early as possible in each cycle of this double round robin setting up USA-USA and India-India first round ties. </p? Fabiano Caruana had the best chance to win after Hikaru Nakamura gave him a rather stable advantage out of the opening. 23...Rxf2? from Nakamura was an interesting tactic but a mistake but Caruana couldn't find the right way and his advantage dribbled away. Neither Alireza Firouzja of Praggnanandhaa backed away from a double edged battle and that game finished in a draw by perpetual. D Gukesh and ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/all-four-games-drawn-in-round-1-of-the-candidates-caruana-misses-chances-against-nakamura",
+         "pubDate" : "Fri, 5 Apr 2024 00:58:00",
+         "title" : "All four games drawn in Round 1 of the Candidates, Caruana misses chances against Nakamura - 1"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Thu, 04 Apr 2024 20:15:00",
          "title" : "Candidates Tournaments - Draws in the open, Tan beats Lei"
+      },
+      {
+         "description" : "This is a flash report. The full report is coming soon.&#38;nbsp; The players arrived ready to fight on the opening day of the 2024 Candidates Tournament. GM Hikaru Nakamura sacrificed two rooks vs. GM Fabiano Caruana. GM Alireza Firouzja vs. GM Pra...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-1",
+         "pubDate" : "Thu, 04 Apr 2024 17:20:00",
+         "title" : "Flash Report: The Candidates Opens With An Abundance of Fighting Spirit"
       },
       {
          "description" : "Today, 14.30 local time, the first round of the Candidates Tournament 2024 in Toronto will start. Yesterday evening, the tournament kicked off in Toronto with the inaugural press conference and the Opening Ceremony at the welcoming 1 Hotel Toronto, a sustainable sanctuary in the heart of downtown. | Photos: Michal Walusza",
@@ -728,14 +752,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
          "pubDate" : "Fri, 22 Mar 2024 11:23:05",
          "title" : "ECF Level 1 Arbiter Course - June/July 2024"
-      },
-      {
-         "description" : "14-year-old WGM Lu Miaoyi gained 200 rating points, secured the IM title, came close to scoring a GM norm, and skyrocketed to the world number-two spot for girls under 20, all in the past few months. The Chinese teenager is already reaching histor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lu-miaoyi-becomes-worlds-4th-youngest-female-im",
-         "pubDate" : "Fri, 22 Mar 2024 11:13:00",
-         "title" : "Lu Miaoyi, World's 4th Youngest Female IM, Continues To Shine"
       },
       {
          "description" : "",
