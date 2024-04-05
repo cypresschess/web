@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The much anticipated Candidates Tournament kicked off in Toronto, Canada. The open section featured four draws on the first day of action. In the all-American confrontation between Fabiano Caruana and Hikaru Nakamura (who are also the top two seeds in the event), Caruana got to put pressure on his compatriot with the white pieces. A fighting draw was also seen in the battle of youngsters between Alireza Firouzja and Praggnanandhaa R. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-1",
+         "pubDate" : "Fri, 05 Apr 2024 07:10:00",
+         "title" : "Candidates: High-quality, fighting draws"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109058079.cms\" />World No. 1 Magnus Carlsen has come up with his analysis of the contenders in the Open category. He feels that either the second- or third-ranked American Grandmasters, Fabiano Caruana and Hikaru Nakamura, will clinch the title.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-tournament-praggnanandhaa-will-do-well-vidit-gukesh-will-struggle/articleshow/109058079.cms",
+         "pubDate" : "Fri, 05 Apr 2024 07:09:56",
+         "title" : "Candidates: 'Pragg will do well; Vidit, Gukesh will struggle'"
+      },
+      {
+         "description" : " Contest to decide Ding Liren's challenger began on Thursday, while the world No 1 kept up his winning streak in the Grenke Classic The eight potential challengers who began the Candidates tournament in Toronto on Thursday have an unfamiliar feeling. Whoever wins will be a firm favourite to capture the crown from the struggling holder. Ding Liren, instead of being the outsider of two against Magnus Carlsen, who abdicated his title while still at his playing peak. For the first time, the Women's Candidates is being held simultaneously. The games will be shown live on <a href=\"https://www.youtube.com/@FIDE_chess\">Fide Youtube</a> starting at 7.30pm BST daily, with commentary from the former wo",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/apr/05/fabiano-caruana-favourite-candidates-magnus-carlsen-wins-sixth-event-in-row-chess",
+         "pubDate" : "Fri, 05 Apr 2024 07:00:01",
+         "title" : "Caruana favourite as Candidates begins while Carlsen wins sixth event in a row"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -42,12 +66,12 @@ news_feed (
          "title" : "Candidates Tournaments - Draws in the open, Tan beats Lei"
       },
       {
-         "description" : "This is a flash report. The full report is coming soon.&#38;nbsp; The players arrived ready to fight on the opening day of the 2024 Candidates Tournament. GM Hikaru Nakamura sacrificed two rooks vs. GM Fabiano Caruana. GM Alireza Firouzja vs. GM Pra...",
+         "description" : "The players displayed an abundance of fighting spirit on the opening day of the 2024 Candidates Tournament. GM Hikaru Nakamura sacrificed two rooks vs. GM Fabiano Caruana. GM Alireza Firouzja and GM Praggnanandhaa Rameshbabu co-created a duel of i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-1",
          "pubDate" : "Thu, 04 Apr 2024 17:20:00",
-         "title" : "Flash Report: The Candidates Opens With An Abundance of Fighting Spirit"
+         "title" : "Candidates Opens With Abundance of Fighting Spirit"
       },
       {
          "description" : "Today, 14.30 local time, the first round of the Candidates Tournament 2024 in Toronto will start. Yesterday evening, the tournament kicked off in Toronto with the inaugural press conference and the Opening Ceremony at the welcoming 1 Hotel Toronto, a sustainable sanctuary in the heart of downtown. | Photos: Michal Walusza",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/melbourne-international-open.html",
          "pubDate" : "Thu, 04 Apr 2024 13:06:00",
          "title" : "Melbourne International Open"
-      },
-      {
-         "description" : "Alpha Zero has revolutionised chess programming. The programme taught itself chess by playing against itself and storing its training knowledge in a neural network. All programmes have followed suit with this technique. Roger Lorenz uses a simple example to show how neural networks work and how they can be trained.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/neural-networks-chess-programming",
-         "pubDate" : "Thu, 04 Apr 2024 10:00:00",
-         "title" : "Neural networks in chess programming"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109030900.cms\" />Divya Deshmukh showcased exceptional performance in Germany's Grenke Chess A-Open, finishing third but missed the Grandmasters norm by two points. She displayed remarkable skills and determination throughout the tournament.",
