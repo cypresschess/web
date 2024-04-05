@@ -16,7 +16,7 @@ jtable([
 "SUGAR LAND","2024-03-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403222812 target='_blank'>FBCC 2024 NATIONAL PUPPY OPEN</a>",
 "HOUSTON","2024-03-22","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403222772 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 22,2024</a>",
 "LEAGUE CITY","2024-03-06  - 03-20","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403202042 target='_blank'>CLCC MARCH WEDNESDAYS</a>",
-"HOUSTON","2024-03-16","18","<a href=http://www.uschess.org/msa/XtblMain.php?202403167212 target='_blank'>ROUND ROBIN</a>",
+"HOUSTON","2024-03-16","18","<a href=http://www.uschess.org/msa/XtblMain.php?202403160532 target='_blank'>ROUND ROBIN</a>",
 "CYPRESS","2024-03-15","26","<a href=http://www.uschess.org/msa/XtblMain.php?202403158532 target='_blank'>Knights of Cypress</a>",
 "SPRING","2024-03-15","30","<a href=http://www.uschess.org/msa/XtblMain.php?202403158492 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-03-15","16","<a href=http://www.uschess.org/msa/XtblMain.php?202403158402 target='_blank'>REBECCA CHESS CLUB QUADS MARCH 15, 2024</a>",
