@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Igors Rausis, born on 7 April 1961, gained notoriety primarily as a cheater. In July 2019, he was caught using a mobile phone in the toilet at an open in Strasbourg, and in December 2019, FIDE banned him for six years and stripped him of his grandmaster title. Rausis then changed his name to Isa Kasimi. Rausis, who suffered from cancer for a long time, died on 28 March 2024. In an obituary, Roger Lorenz recalls the sympathetic side of the grandmaster. | Photo: Novy Bor Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-igors-rausis",
+         "pubDate" : "Fri, 05 Apr 2024 15:00:00",
+         "title" : "Remembering Igors Rausis (*7 April 1961, &dagger;28 March 2024)"
+      },
+      {
+         "description" : " GM Maurice Ashley has been busy lately despite taking a break from commentating. On the cover of the latest Chess Life magazine, Ashley strikes a menacing pose while clasping the black king, his right hand ever ready for defense or attack. This pose symbolizes everything that chess is. It is indeed a sport, science, and The post <a href=\"https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/\">Maurice Ashley speaks on new books!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/",
+         "pubDate" : "Fri, 05 Apr 2024 13:24:12",
+         "title" : "Maurice Ashley speaks on new books!"
+      },
+      {
          "description" : "Tan Zhongyi became the early leader after beating Lei Tingjie in round 1 of the Women's Candidates Tournament. Playing black, Tan showed proficient technique to convert her extra pawn into a full point in a rook and bishop endgame. The three remaining games ended drawn. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +58,7 @@ news_feed (
          "title" : "Candidates: 'Pragg will do well; Vidit, Gukesh will struggle'"
       },
       {
-         "description" : " Contest to decide Ding Liren's challenger began on Thursday, while the world No 1 kept up his winning streak in the Grenke Classic The eight potential challengers who began the Candidates tournament in Toronto on Thursday have an unfamiliar feeling. Whoever wins will be a firm favourite to capture the crown from the struggling holder. Ding Liren, instead of being the outsider of two against Magnus Carlsen, who abdicated his title while still at his playing peak. For the first time, the Women's Candidates is being held simultaneously. The games will be shown live on <a href=\"https://www.youtube.com/@FIDE_chess\">Fide Youtube</a> starting at 7.30pm BST daily, with commentary from the former wo",
+         "description" : " Contest to decide Ding Liren's challenger began on Thursday, while the world No 1 kept up his winning streak in the Grenke Classic The eight potential challengers who began the Candidates tournament in Toronto on Thursday have an ­unfamiliar feeling. Whoever wins will be a firm favourite to ­capture the crown from the struggling holder, Ding Liren, instead of being the ­outsider of two against Magnus Carlsen, who abdicated his title while still at his playing peak. For the first time, the Women's Candidates is being held simultaneously. The games will be shown live on <a href=\"https://www.youtube.com/@FIDE_chess\">Fide YouTube</a> starting at 7.30pm BST daily, with commentary from the ­forme",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/apr/05/fabiano-caruana-favourite-candidates-magnus-carlsen-wins-sixth-event-in-row-chess",
@@ -74,14 +90,6 @@ news_feed (
          "title" : "All four games drawn in Round 1 of the Candidates, Caruana misses chances against Nakamura - 1"
       },
       {
-         "description" : "The first day of the 2024 FIDE Candidates Tournament came to an end after several exciting games, most finishing in a draw including the all-Indian clashes.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39877751/fide-candidates-2024-day-1-wrap-indian-chess-praggnanandhaa-vidit-gukesh-koneru-humpy-vaishali?device=featurephone",
-         "pubDate" : "Fri, 5 Apr 2024 00:26:03",
-         "title" : "FIDE Candidates 2024 Day 1 wrap: All Indians start with draw in exciting clashes"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -90,7 +98,7 @@ news_feed (
          "title" : "16th edition of \"Preparation of Teachers\" course announced"
       },
       {
-         "description" : "The players displayed an abundance of fighting spirit on the opening day of the 2024 Candidates Tournament. GM Hikaru Nakamura sacrificed two rooks vs. GM Fabiano Caruana. GM Alireza Firouzja and GM Praggnanandhaa Rameshbabu co-created a duel of i...",
+         "description" : "The players displayed an abundance of fighting spirit on the opening day of the 2024 FIDE Candidates Tournament. GM Hikaru Nakamura sacrificed two rooks vs. GM Fabiano Caruana. GM Alireza Firouzja and GM Praggnanandhaa Rameshbabu co-created a duel...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-1",
