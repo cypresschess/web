@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tan Zhongyi became the early leader after beating Lei Tingjie in round 1 of the Women's Candidates Tournament. Playing black, Tan showed proficient technique to convert her extra pawn into a full point in a rook and bishop endgame. The three remaining games ended drawn. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-1",
+         "pubDate" : "Fri, 05 Apr 2024 12:00:00",
+         "title" : "Women's Candidates: Tan grabs crucial victory"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109061412.cms\" />Koneru Humpy, the oldest among the contenderts in the Candidates chess, targets winning the tournament in Toronto. She is the 2019 world women's rapid chess champion and current world No. 5.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/important-to-show-form-and-energy-to-win-candidates-koneru-humpy/articleshow/109061412.cms",
+         "pubDate" : "Fri, 05 Apr 2024 09:01:09",
+         "title" : "Important to show form and energy to win Candidates: Koneru Humpy"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109060656.cms\" />With a rating of 2803 Elo, American grandmaster Fabiano Caruana appears to be the frontrunner for the challenger position. However, closely trailing the world No. 2 in performance ratings over the past year is the highly skilled 18-year-old Indian grandmaster, Praggnanandhaa Rameshbabu.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-tournament-2024-numbers-tell-a-different-story/articleshow/109060656.cms",
+         "pubDate" : "Fri, 05 Apr 2024 08:38:50",
+         "title" : "Candidates: Numbers tell a different story"
+      },
+      {
          "description" : "The much anticipated Candidates Tournament kicked off in Toronto, Canada. The open section featured four draws on the first day of action. In the all-American confrontation between Fabiano Caruana and Hikaru Nakamura (who are also the top two seeds in the event), Caruana got to put pressure on his compatriot with the white pieces. A fighting draw was also seen in the battle of youngsters between Alireza Firouzja and Praggnanandhaa R. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,20 +74,20 @@ news_feed (
          "title" : "All four games drawn in Round 1 of the Candidates, Caruana misses chances against Nakamura - 1"
       },
       {
+         "description" : "The first day of the 2024 FIDE Candidates Tournament came to an end after several exciting games, most finishing in a draw including the all-Indian clashes.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39877751/fide-candidates-2024-day-1-wrap-indian-chess-praggnanandhaa-vidit-gukesh-koneru-humpy-vaishali?device=featurephone",
+         "pubDate" : "Fri, 5 Apr 2024 00:26:03",
+         "title" : "FIDE Candidates 2024 Day 1 wrap: All Indians start with draw in exciting clashes"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2952",
          "pubDate" : "Thu, 04 Apr 2024 22:33:35",
          "title" : "16th edition of \"Preparation of Teachers\" course announced"
-      },
-      {
-         "description" : "The much anticipated Candidates Tournaments kicked off in Toronto, Canada. The open section featured four draws on the first day of action, while Tan Zhongyi obtained the only full point in the women's category - Tan defeated her compatriot Lei Tingjie with the black pieces. | Replay all the games with computer analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Thu, 04 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Draws in the open, Tan beats Lei"
       },
       {
          "description" : "The players displayed an abundance of fighting spirit on the opening day of the 2024 Candidates Tournament. GM Hikaru Nakamura sacrificed two rooks vs. GM Fabiano Caruana. GM Alireza Firouzja and GM Praggnanandhaa Rameshbabu co-created a duel of i...",
@@ -296,6 +320,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2945",
          "pubDate" : "Mon, 01 Apr 2024 16:14:20",
          "title" : "The best students of FIDE Chessable Academy shine in unique in-person training camp"
+      },
+      {
+         "description" : "Since today is Easter Monday and since last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2024/03/hindu-gods-play-chess.html\">Hindu Gods Play Chess</A> (March 2024), was another in a series on AI comics, let's continue with the religious theme. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od01.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Easter bunny plays chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> As I explained in the 'Hindu Gods' post, <BLOCKQUOTE> One of the parameters to control the look of the image is 'comic style', of which there are currently 13. For this image I chose the 'Flying Saucer' style. </BLOCKQUOTE> <P> The 'Ea",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/04/no-splitting-hares.html",
+         "pubDate" : "Mon, 01 Apr 2024 15:46:00",
+         "title" : "No Splitting Hares"
       },
       {
          "description" : "GM Magnus Carlsen scored a brilliant win, then pulled off a great escape, to beat GM Richard Rapport 1.5-0.5 and win the GRENKE Chess Classic for a third time. GM Maxime Vachier-Lagrave beat GM Vincent Keymer in blitz tiebreaks to take third place...",
@@ -1008,30 +1040,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/15/13th-all-african-games-accra-ghana/",
          "pubDate" : "Fri, 15 Mar 2024 18:56:17",
          "title" : "13th All-African Games (Accra, Ghana)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-in-prisons/",
-         "pubDate" : "Fri, 15 Mar 2024 11:29:27",
-         "title" : "Chess in Prisons and why it matters - Carl Portman"
-      },
-      {
-         "description" : "Have you ever finished last in a tournament? Well, it happened to Vidit Gujrathi at the Prague Masters 2024. As Vidit himself pointed out, this might be the first time ever that he finished last in his entire chess career. And it happened 20 days before the most important event of his life - the Candidates, this cannot really be a good sign, can it?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/what-can-you-learn-from-vidit",
-         "pubDate" : "Fri, 15 Mar 2024 11:00:00",
-         "title" : "What can you learn from Vidit"
-      },
-      {
-         "description" : " More than 400 players, including several young English talents, are competing in Iceland's premier event More than half a century on, the Bobby Fischer v Boris Spassky series at Reykjavik in 1972 remains the most famous of all world championship matches. It triggered a global chess boom, not least in Britain where, for a brief period, a galaxy of talent made England the No 2 chess nation behind the Soviet Union. On Friday, the annual Reykjavik Open starts at the Harpa conference centre in the heart of the city with a full ­complement of 420 players, ranging from elite grandmasters to ordinary amateurs, nearly a tenth of them British. The excursion on the tournament's free morning includes a",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/mar/15/chess-fischer-v-spassky-revisited-reykjavik-open-echoes-1972-match",
-         "pubDate" : "Fri, 15 Mar 2024 08:00:46",
-         "title" : "Chess: Fischer v Spassky revisited - Reykjavik Open echoes 1972 match"
       }
    ]
 }
