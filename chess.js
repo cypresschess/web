@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : " There were two decisive games in Round 2 of the women's Candidates in Toronto. Tan Zhongyi launched a big kingside attack against Rameshbabu Vaishali who got her knights tangled up on the Queenside after successfully equalising out of the opening (a Jobava Attack that turned into a fairly standard Carlsbad structure). Aleksandra Goryachkina won an up and down struggle against Anna Muzychuk in an Exchange Slav. Muzychuk equalised but as time trouble came she wasn't precise and then 25...Rb7? played after less than a couple of minutes thought was just losing and Goryachkina didn't even have to be that accurate. Salimova-Lei and Lagno-Koneru were both drawn. Round 2 Standings: 1st Tan Zhongyi ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-leads-the-womens-candidates-on-22",
+         "pubDate" : "Fri, 5 Apr 2024 23:45:00",
+         "title" : "Tan Zhongyi leads the Women's Candidates on 2/2 - 2"
+      },
+      {
+         "description" : "Fabiano Caruana, Ian Nepomniachtchi, Gukesh D and Vidit Gujrathi scored full points in the all-decisive second round of the Candidates Tournament. The most surprising result was Vidit's win over second seed Hikaru Nakamura - with the black pieces. In the women's category, Tan Zhongyi obtained a second win in a row, this time over Vaishali R, to remain as the sole leader. Also, Aleksandra Goryachkina got the better of Anna Muzychuk. | Replay the games from both sections with computer analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Fri, 05 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates Tournaments - All decisive games in the open, Tan wins again"
       },
       {
          "description" : "One of the official commentators at the 2024 Candidates Tournament in Toronto is Vishy Anand. In an interview with Sagar Shah, the good-humoured former world champion recalls how he surprisingly won the 2014 Candidates Tournament as an outsider and once again proves his amazing chess memory. He also reveals how Facebook can help with opening preparation, and what a player needs to win a Candidates Tournament.",
@@ -144,6 +152,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2951",
          "pubDate" : "Thu, 04 Apr 2024 03:33:54",
          "title" : "FIDE Candidates Tournament 2024 opens in Toronto"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2950",
+         "pubDate" : "Wed, 03 Apr 2024 22:43:21",
+         "title" : "Aktobe Open - Vladimir Dvorkovich Memorial announced"
       },
       {
          "description" : "",
@@ -1032,14 +1048,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/15/2024-african-individual-chess-championships-accra-ghana/",
          "pubDate" : "Sat, 16 Mar 2024 01:02:27",
          "title" : "2024 African Individual Chess Championships (Accra, Ghana)"
-      },
-      {
-         "description" : " Brewington Hardaway is coming off of his second GM norm in the New York Invitational. The 14-year old International Master continues to make rapid progress toward the coveted GM title. An interesting discussion took place at the Marshall Chess Club on February 20th, 2024, for Black History Month. Hardaway aptly corrected the moderator to include The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/with-two-gm-norms-hardaway-charts-course/\">With two GM norms, Hardaway charts course</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/03/15/with-two-gm-norms-hardaway-charts-course/",
-         "pubDate" : "Fri, 15 Mar 2024 20:42:43",
-         "title" : "With two GM norms, Hardaway charts course"
       }
    ]
 }
