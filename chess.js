@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2953",
+         "pubDate" : "Fri, 05 Apr 2024 01:15:15",
+         "title" : "FIDE Candidates: Tan Zhongyi leads after first round"
+      },
+      {
          "description" : " There was just one decisive game in the first round of the Women's Candidates tournament in Toronto, Canada. Tan Zhongyi beat fellow countrywoman Lei Tingjie with the black pieces, she equalised comfortably in a Queen's Gambit and started to threaten on the kingside, 24.Qf4? was a panicky reaction that led to an inferior position but the final move before time control 40.Kg3? was the decisive error. The remaining games were drawn, Goryachkina-Lagno was a Sicilian where the spectacular 17.Nf5 was probably a mistake, but it was all still a bit difficult and the game was equal a few moves later. Muzychuk-Salimova was a moderately interesting Petroff Defence and Rameshbabu Vaishali against Hump",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/mar/15/chess-fischer-v-spassky-revisited-reykjavik-open-echoes-1972-match",
          "pubDate" : "Fri, 15 Mar 2024 08:00:46",
          "title" : "Chess: Fischer v Spassky revisited - Reykjavik Open echoes 1972 match"
-      },
-      {
-         "description" : " Jayvon Davis won the under-1600 section of the Delaware State Open last weekend allowing him to use his winning method as teaching material. Davis runs a website called &#8220;Chess Express&#8221; targeting younger age groups. Based in Delaware, his success will undoubtedly make his students proud and give more credence to how chess can inspire. Davis The post <a href=\"https://www.thechessdrum.net/blog/2024/03/14/jayvon-davis-express-wins-in-delaware/\">&#8220;Jayvon Davis Express&#8221; wins in Delaware!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/03/14/jayvon-davis-express-wins-in-delaware/",
-         "pubDate" : "Fri, 15 Mar 2024 01:54:24",
-         "title" : "\"Jayvon Davis Express\" wins in Delaware!"
       }
    ]
 }
