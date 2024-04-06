@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana, Ian Nepomniachtchi, Gukesh D and Vidit Gujrathi scored full points in the all-decisive second round of the Candidates Tournament. The most surprising result was Vidit's impressive win over second seed Hikaru Nakamura. Praggnanandhaa v. Gukesh and Nepomniachtchi v. Alireza Firouzja were remarkable, tactical struggles, while Nijat Abasov all but self-destructed against Caruana. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-2",
+         "pubDate" : "Sat, 06 Apr 2024 07:15:00",
+         "title" : "Candidates R2: Spectacular!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -42,12 +50,12 @@ news_feed (
          "title" : "Memories: An interview with Vishy Anand"
       },
       {
-         "description" : "This is a flash report. The full report is coming soon. The enterprising play at the&#38;nbsp;2024 FIDE Candidates Tournament led to an all-decisive day two.&#38;nbsp;With a novelty followed by two sacrifices, GM Vidit Gujrathi broke GM Hikaru Nakamura&#39;...",
+         "description" : "With a novelty followed by three sacrifices, GM Vidit Gujrathi broke GM Hikaru Nakamura&#39;s 47-game undefeated streak, as enterprising play at the 2024 FIDE Candidates Tournament led to an all-decisive day two. GM Ian Nepomniachtchi prevailed in the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-2",
          "pubDate" : "Fri, 05 Apr 2024 17:29:00",
-         "title" : "Flash Report: Vidit Ends Nakamura's 47-Game Unbeaten Streak On All-Decisive Day"
+         "title" : "Vidit Ends Nakamura's 47-Game Unbeaten Streak On All-Decisive Day"
       },
       {
          "description" : "Igors Rausis, born on 7 April 1961, gained notoriety primarily as a cheater. In July 2019, he was caught using a mobile phone in the toilet at an open in Strasbourg, and in December 2019, FIDE banned him for six years and stripped him of his grandmaster title. Rausis then changed his name to Isa Kasimi. Rausis, who suffered from cancer for a long time, died on 28 March 2024. In an obituary, Roger Lorenz recalls the sympathetic side of the grandmaster. | Photo: Novy Bor Chess Club",
