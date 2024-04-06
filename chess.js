@@ -30,8 +30,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-april-6-2024",
-         "pubDate" : "Sat, 06 Apr 2024 15:56:04",
-         "title" : "Narodisty Dominates Back-To-Back Bullet Brawls"
+         "pubDate" : "Sat, 06 Apr 2024 15:56:00",
+         "title" : "Naroditsky Dominates Back-To-Back Bullet Brawls"
       },
       {
          "description" : " The 2024 Candidates Tournament is underway in Toronto, and round 2 of the Open section saw 4 decisive games. Probably the most noteworthy was Vidit beating Nakamura, although Caruana's win over Abasov may be the most consequential. Going into the tournament, Caruana was probably the favourite, with Nakamura considered the player most likely to defy the odds. However, considering the rating spread of the field, I think the games between the leaders won't be as important as the games against the back markers (like Candidates events of old). So the win by Caruana was an important won, as was Nepo's win over Firouzja. If at the halfway mark someone is +3 (or more), then it may be all over for t",
