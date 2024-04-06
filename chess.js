@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2955",
+         "pubDate" : "Sat, 06 Apr 2024 21:03:20",
+         "title" : "FIDE Trainers Online Seminars to be held from April 19-21 and April 26-28"
+      },
+      {
          "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://nextlevelchess.blog/chess-commentary-engines/",
          "pubDate" : "Sat, 06 Apr 2024 18:39:30",
          "title" : "Settling The Debate: Commentary With Engine Yes or No?"
+      },
+      {
+         "description" : "GM Daniel Naroditsky netted $400 and his second Bullet Brawl victory in a row on Saturday after scoring 260 points ahead of 122 other titled players. Scoring 72 wins in 83 games, Naroditsky put a healthy buffer between himself and the second and t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-april-6-2024",
+         "pubDate" : "Sat, 06 Apr 2024 15:56:04",
+         "title" : "Narodisty Dominates Back-To-Back Bullet Brawls"
       },
       {
          "description" : " The 2024 Candidates Tournament is underway in Toronto, and round 2 of the Open section saw 4 decisive games. Probably the most noteworthy was Vidit beating Nakamura, although Caruana's win over Abasov may be the most consequential. Going into the tournament, Caruana was probably the favourite, with Nakamura considered the player most likely to defy the odds. However, considering the rating spread of the field, I think the games between the leaders won't be as important as the games against the back markers (like Candidates events of old). So the win by Caruana was an important won, as was Nepo's win over Firouzja. If at the halfway mark someone is +3 (or more), then it may be all over for t",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/roll-your-own-openings.html",
          "pubDate" : "Sun, 17 Mar 2024 12:54:00",
          "title" : "Roll your own openings"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2927",
-         "pubDate" : "Sat, 16 Mar 2024 20:29:02",
-         "title" : "FIDE World School Chess Championship 2024: Registration is open"
       }
    ]
 }
