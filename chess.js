@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109087502.cms\" />Gujrathi, Caruana, Nepomniachtchi and Gukesh emerged as early leaders of the tournament, each with 1.5 points. Meanwhile, Nakamura, Praggnanandhaa, Abasov and Alireza share the fifth spot with half a point each.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-vidit-gujrathi-beats-hikaru-nakamura-praggnanandhaa-goes-down-to-gukesh/articleshow/109087502.cms",
+         "pubDate" : "Sat, 06 Apr 2024 10:22:19",
+         "title" : "Candidates: Vidit shocks Nakamura, Pragg goes down to Gukesh"
+      },
+      {
+         "description" : "The earliest record of beer brewing in the Holy Roman Empire dates from 974 AD, when the Emperor Otto II granted a licence to the Abbey of Liège in Belgium. Their co-national religious institution, the Abbey of Leffe, launched its own brews in 1240; they remain on sale even in the 21st century. Then, in []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/beer-chess-and-the-theory-of-everything/",
+         "pubDate" : "Sat, 06 Apr 2024 08:46:40",
+         "title" : "Beer, chess and the theory of everything"
+      },
+      {
          "description" : "Fabiano Caruana, Ian Nepomniachtchi, Gukesh D and Vidit Gujrathi scored full points in the all-decisive second round of the Candidates Tournament. The most surprising result was Vidit's impressive win over second seed Hikaru Nakamura. Praggnanandhaa v. Gukesh and Nepomniachtchi v. Alireza Firouzja were remarkable, tactical struggles, while Nijat Abasov all but self-destructed against Caruana. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-leads-the-womens-candidates-on-22",
          "pubDate" : "Fri, 5 Apr 2024 23:45:00",
          "title" : "Tan Zhongyi leads the Women's Candidates on 2/2 - 2"
+      },
+      {
+         "description" : "The second day of the 2024 FIDE Candidates Tournament saw India's Vidit Gujrathi stun world No 3 Hikaru Nakamura in a stunning match.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39883984/fide-candidates-2024-day-2-wrap-indian-chess-vidit-gujrathi-stuns-nakamura-gukesh-beats-praggnanandhaa-koneru-humpy-draws-vaishali-loses?device=featurephone",
+         "pubDate" : "Fri, 5 Apr 2024 22:30:54",
+         "title" : "FIDE Candidates 2024 Day 2 wrap: Vidit stuns world No. 3 Nakamura, Gukesh beats Pragg"
       },
       {
          "description" : "Fabiano Caruana, Ian Nepomniachtchi, Gukesh D and Vidit Gujrathi scored full points in the all-decisive second round of the Candidates Tournament. The most surprising result was Vidit's win over second seed Hikaru Nakamura - with the black pieces. In the women's category, Tan Zhongyi obtained a second win in a row, this time over Vaishali R, to remain as the sole leader. Also, Aleksandra Goryachkina got the better of Anna Muzychuk. | Replay the games from both sections with computer analysis. Full reports to follow shortly.",
@@ -1040,30 +1064,6 @@ news_feed (
          "link" : "https://www.thearticle.com/the-moves-of-babes-and-sucklings/",
          "pubDate" : "Sat, 16 Mar 2024 11:53:55",
          "title" : "The moves of babes and sucklings"
-      },
-      {
-         "description" : "Is it really worth paying for chess content? Or is all the free chess learning content available on the internet enough? In this article, I will tell you what free content is really worth studying, and when it makes sense to invest some money to save a lot of time and energy. We All Love []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/free-chess-learning/",
-         "pubDate" : "Sat, 16 Mar 2024 11:22:06",
-         "title" : "Chess Learning: Free Vs Paid Chess Content"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2926",
-         "pubDate" : "Sat, 16 Mar 2024 11:10:45",
-         "title" : "American Cup 2024: Round 2 recap"
-      },
-      {
-         "description" : "European Chess Union in cooperation with the English Chess Federation launched the new competition this year Youth Online Nations League. The event was played from 17 January 13 March, in 9 rounds, with the participation of 10 teams represented by more than 100 players. Ukraine Debut Chess School triumphed in the event scoring all nine victories and 18 match points. The composition of the Winning team: Losing only to the Winners team, England A scored 16 match points []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ukraine-wins-the-first-youth-online-nations-league/",
-         "pubDate" : "Sat, 16 Mar 2024 09:53:58",
-         "title" : "Ukraine wins the first Youth Online Nations League"
       }
    ]
 }
