@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 2024 Candidates Tournament is underway in Toronto, and round 2 of the Open section saw 4 decisive games. Probably the most noteworthy was Vidit beating Nakamura, although Caruana's win over Abasov may be the most consequential. Going into the tournament, Caruana was probably the favourite, with Nakamura considered the player most likely to defy the odds. However, considering the rating spread of the field, I think the games between the leaders won't be as important as the games against the back markers (like Candidates events of old). So the win by Caruana was an important won, as was Nepo's win over Firouzja. If at the halfway mark someone is +3 (or more), then it may be all over for t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/candidates-chaos.html",
+         "pubDate" : "Sat, 06 Apr 2024 13:10:00",
+         "title" : "Candidates Chaos"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109087502.cms\" />Gujrathi, Caruana, Nepomniachtchi and Gukesh emerged as early leaders of the tournament, each with 1.5 points. Meanwhile, Nakamura, Praggnanandhaa, Abasov and Alireza share the fifth spot with half a point each.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1056,14 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2927",
          "pubDate" : "Sat, 16 Mar 2024 20:29:02",
          "title" : "FIDE World School Chess Championship 2024: Registration is open"
-      },
-      {
-         "description" : "As the February issue of this year's British Chess Magazine arrived, my attention was swiftly drawn to the astounding news that an eight year old, Leonid Ivanovic from Serbia, had become the youngest player ever (eight years and eleven months) to defeat a grandmaster in classic tournament play (rather than a blitz or rapid format). True, his []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-moves-of-babes-and-sucklings/",
-         "pubDate" : "Sat, 16 Mar 2024 11:53:55",
-         "title" : "The moves of babes and sucklings"
       }
    ]
 }
