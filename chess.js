@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2954",
+         "pubDate" : "Sat, 06 Apr 2024 02:02:30",
+         "title" : "FIDE Candidates: Exciting second round sees six victories"
+      },
+      {
+         "description" : " The second round of the FIDE Candidates in Toronto, Canada was a bloodbath with all four games being decisive. Santosh Vidit was the first winner as his shock move 11...Bxh3! unbalanced Hikaru Nakamura completely, the game wasn't over and Nakamura had chances to hold but a final blunder 18.Be2? cost the American the game. Fabiano Caruana will have been frustrated with his draw in Round 1 and he needed a win as this was his second white in a row. He wasn't necessarily better against Nijat Abasov all the way through but his opponent started to weaken his King position and Caruana eventually won with a direct major piece attack. Praggnanandhaa against Gukesh was a real wild affair with Praggna",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/four-decisive-games-in-round-2-of-the-candidates",
+         "pubDate" : "Sat, 6 Apr 2024 00:50:00",
+         "title" : "Four Decisive games in Round 2 of the Candidates - 2"
+      },
+      {
          "description" : " There were two decisive games in Round 2 of the women's Candidates in Toronto. Tan Zhongyi launched a big kingside attack against Rameshbabu Vaishali who got her knights tangled up on the Queenside after successfully equalising out of the opening (a Jobava Attack that turned into a fairly standard Carlsbad structure). Aleksandra Goryachkina won an up and down struggle against Anna Muzychuk in an Exchange Slav. Muzychuk equalised but as time trouble came she wasn't precise and then 25...Rb7? played after less than a couple of minutes thought was just losing and Goryachkina didn't even have to be that accurate. Salimova-Lei and Lagno-Koneru were both drawn. Round 2 Standings: 1st Tan Zhongyi ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-vishy-anand-candidates-2024",
          "pubDate" : "Fri, 05 Apr 2024 18:00:00",
          "title" : "Memories: An interview with Vishy Anand"
+      },
+      {
+         "description" : "This is a flash report. The full report is coming soon. The enterprising play at the&#38;nbsp;2024 FIDE Candidates Tournament led to an all-decisive day two.&#38;nbsp;With a novelty followed by two sacrifices, GM Vidit Gujrathi broke GM Hikaru Nakamura&#39;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-2",
+         "pubDate" : "Fri, 05 Apr 2024 17:29:00",
+         "title" : "Flash Report: Vidit Ends Nakamura's 47-Game Unbeaten Streak On All-Decisive Day"
       },
       {
          "description" : "Igors Rausis, born on 7 April 1961, gained notoriety primarily as a cheater. In July 2019, he was caught using a mobile phone in the toilet at an open in Strasbourg, and in December 2019, FIDE banned him for six years and stripped him of his grandmaster title. Rausis then changed his name to Isa Kasimi. Rausis, who suffered from cancer for a long time, died on 28 March 2024. In an obituary, Roger Lorenz recalls the sympathetic side of the grandmaster. | Photo: Novy Bor Chess Club",
@@ -754,14 +778,6 @@ news_feed (
          "title" : "AICF Arbiter Refresher Seminar Batch 3A & 3B on 03-04 April 2024"
       },
       {
-         "description" : "GM Hikaru Nakamura&#39;s Bullet Brawl rampage continued on Saturday with another $400 performance in a two-hour arena that featured the likes of GMs Magnus Carlsen and Vincent Keymer. Scoring 232, the 2024 Candidates Tournament hopeful was challenged ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-march-23-2024",
-         "pubDate" : "Sat, 23 Mar 2024 16:14:00",
-         "title" : "Nakamura Tops Field Featuring Carlsen, Naroditsky, Keymer"
-      },
-      {
          "description" : "We are nearly through Q1 of 2024 already. This is where we get to witness the huge difference between motivation and systems. I hope you've used my&#160;7-day series&#160;at the end of last year to build the latter. If you haven't, you probably realize by now that just motivation won't get you far, at least not []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://www.europechess.org/ukraine-wins-the-first-youth-online-nations-league/",
          "pubDate" : "Sat, 16 Mar 2024 09:53:58",
          "title" : "Ukraine wins the first Youth Online Nations League"
-      },
-      {
-         "description" : " The 2024 African Individual Chess Championships (AICC) have begun! Twenty-four countries have assembled in Accra-Ghana to compete for glory, titles, and spots in the World Cup. Only days after the chess competition of the All-African Games had concluded, the continental championship attracted 42 open players (12 from host Ghana) and 29 women players. The games The post <a href=\"https://www.thechessdrum.net/blog/2024/03/15/2024-african-individual-chess-championships-accra-ghana/\">2024 African Individual Chess Championships (Accra, Ghana)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/03/15/2024-african-individual-chess-championships-accra-ghana/",
-         "pubDate" : "Sat, 16 Mar 2024 01:02:27",
-         "title" : "2024 African Individual Chess Championships (Accra, Ghana)"
       }
    ]
 }
