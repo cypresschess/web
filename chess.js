@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Sat, 06 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
+         "description" : "Chess is booming. One of the reasons is top-level chess with a great variety of commentators. The ongoing Candidates tournament is the most important chess tournament of this year. So obviously, it attracts a lot of viewers. Many of those discuss what the optimal commentary of these games should look like. Most importantly, if commentators []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/chess-commentary-engines/",
+         "pubDate" : "Sat, 06 Apr 2024 18:39:30",
+         "title" : "Settling The Debate: Commentary With Engine Yes or No?"
+      },
+      {
          "description" : " The 2024 Candidates Tournament is underway in Toronto, and round 2 of the Open section saw 4 decisive games. Probably the most noteworthy was Vidit beating Nakamura, although Caruana's win over Abasov may be the most consequential. Going into the tournament, Caruana was probably the favourite, with Nakamura considered the player most likely to defy the odds. However, considering the rating spread of the field, I think the games between the leaders won't be as important as the games against the back markers (like Candidates events of old). So the win by Caruana was an important won, as was Nepo's win over Firouzja. If at the halfway mark someone is +3 (or more), then it may be all over for t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://www.thearticle.com/beer-chess-and-the-theory-of-everything/",
          "pubDate" : "Sat, 06 Apr 2024 08:46:40",
          "title" : "Beer, chess and the theory of everything"
-      },
-      {
-         "description" : "Fabiano Caruana, Ian Nepomniachtchi, Gukesh D and Vidit Gujrathi scored full points in the all-decisive second round of the Candidates Tournament. The most surprising result was Vidit's impressive win over second seed Hikaru Nakamura. Praggnanandhaa v. Gukesh and Nepomniachtchi v. Alireza Firouzja were remarkable, tactical struggles, while Nijat Abasov all but self-destructed against Caruana. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-2",
-         "pubDate" : "Sat, 06 Apr 2024 07:15:00",
-         "title" : "Candidates R2: Spectacular!"
       },
       {
          "description" : "",
@@ -66,36 +74,12 @@ news_feed (
          "title" : "FIDE Candidates 2024 Day 2 wrap: Vidit stuns world No. 3 Nakamura, Gukesh beats Pragg"
       },
       {
-         "description" : "Fabiano Caruana, Ian Nepomniachtchi, Gukesh D and Vidit Gujrathi scored full points in the all-decisive second round of the Candidates Tournament. The most surprising result was Vidit's win over second seed Hikaru Nakamura - with the black pieces. In the women's category, Tan Zhongyi obtained a second win in a row, this time over Vaishali R, to remain as the sole leader. Also, Aleksandra Goryachkina got the better of Anna Muzychuk. | Replay the games from both sections with computer analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Fri, 05 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - All decisive games in the open, Tan wins again"
-      },
-      {
-         "description" : "One of the official commentators at the 2024 Candidates Tournament in Toronto is Vishy Anand. In an interview with Sagar Shah, the good-humoured former world champion recalls how he surprisingly won the 2014 Candidates Tournament as an outsider and once again proves his amazing chess memory. He also reveals how Facebook can help with opening preparation, and what a player needs to win a Candidates Tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-vishy-anand-candidates-2024",
-         "pubDate" : "Fri, 05 Apr 2024 18:00:00",
-         "title" : "Memories: An interview with Vishy Anand"
-      },
-      {
          "description" : "With a novelty followed by three sacrifices, GM Vidit Gujrathi broke GM Hikaru Nakamura&#39;s 47-game undefeated streak, as enterprising play at the 2024 FIDE Candidates Tournament led to an all-decisive day two. GM Ian Nepomniachtchi prevailed in the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-2",
          "pubDate" : "Fri, 05 Apr 2024 17:29:00",
          "title" : "Vidit Ends Nakamura's 47-Game Unbeaten Streak On All-Decisive Day"
-      },
-      {
-         "description" : "Igors Rausis, born on 7 April 1961, gained notoriety primarily as a cheater. In July 2019, he was caught using a mobile phone in the toilet at an open in Strasbourg, and in December 2019, FIDE banned him for six years and stripped him of his grandmaster title. Rausis then changed his name to Isa Kasimi. Rausis, who suffered from cancer for a long time, died on 28 March 2024. In an obituary, Roger Lorenz recalls the sympathetic side of the grandmaster. | Photo: Novy Bor Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-igors-rausis",
-         "pubDate" : "Fri, 05 Apr 2024 15:00:00",
-         "title" : "Remembering Igors Rausis (*7 April 1961, &dagger;28 March 2024)"
       },
       {
          "description" : " Grandmaster Maurice Ashley has been busy lately despite taking a break from commentating. On the cover of the latest Chess Life magazine, Ashley strikes a menacing pose while clasping the black king, his right hand ever ready for defense or attack. This pose symbolizes everything that chess is. It is indeed a sport, science, and The post <a href=\"https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/\">Maurice Ashley speaks on new books!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
