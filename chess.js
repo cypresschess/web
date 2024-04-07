@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Grand Chess Tour, a leading global circuit of international chess tournaments featuring the world's best players, announced the players selected to compete across the 2024 season. Wildcards this year will include world number one Magnus Carlsen, world champion Ding Liren and 5-time U.S. champion Hikaru Nakamura. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-2024-wildcards",
+         "pubDate" : "Sun, 07 Apr 2024 17:00:00",
+         "title" : "Grand Chess Tour announces wildcards and full-tour lineup"
+      },
+      {
+         "description" : "Much like in the open section, the Women's Candidates had one decisive game in Saturday's third round. Vaishali R made it 2 out of 2 for the brother-sister duo in Toronto (Pragg defeated Vidit in the open) by beating Nurgyul Salimova with the white pieces. Vaishali thus bounced back from her round-2 loss against Tan Zhongyi. Tan held Humpy Koneru to a draw with the black pieces to remain as the sole leader. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-3",
+         "pubDate" : "Sun, 07 Apr 2024 05:00:00",
+         "title" : "Women's Candidates R3: Vaishali beats Salimova"
+      },
+      {
          "description" : "Praggnanandhaa R scored the only victory of round 3 at the Candidates Tournament in Toronto. The Indian prodigy played a sharp system in the Ruy Lopez to take down Vidit Gujrathi with the black pieces. Three players are now sharing the lead with 2 points each: Fabiano Caruana, Ian Nepomniachtchi and Gukesh D. Pragg and Vidit stand a half point behind. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-remains-the-leader-as-vaishali-is-the-only-winner-in-round-3-of-the-womens-candidates",
          "pubDate" : "Sun, 7 Apr 2024 01:17:00",
          "title" : "Tan Zhongyi remains the leader as Vaishali is the only winner in Round 3 of the Women's Candidates - 3"
-      },
-      {
-         "description" : "The third day of the 2024 FIDE Candidates Tournament saw only 2 wins, both coming from Indian sibling duo Praggnanandhaa and Vaishali.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39890904/fide-candidates-2024-day-2-wrap-indian-chess-r-praggnanandhaa-vaishali-first-win-chess-siblings?device=featurephone",
-         "pubDate" : "Sat, 6 Apr 2024 23:33:06",
-         "title" : "FIDE Candidates 2024 Day 3 wrap: Siblings Praggnanandhaa and Vaishali get only wins of the round"
       },
       {
          "description" : "",
@@ -1080,22 +1088,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/03/conceptual-artist-and-surreal-artist.html",
          "pubDate" : "Sun, 17 Mar 2024 16:47:00",
          "title" : "Conceptual Artist and Surreal Artist"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2929",
-         "pubDate" : "Sun, 17 Mar 2024 14:45:13",
-         "title" : "15th \"Preparation of Teachers\" course: Last call for registration"
-      },
-      {
-         "description" : " Every time someone mentions the Jobava London to me, I feel compelled to point out that the true author of this opening was Canberra junior player, Gary Wilson. Indeed, Wilson was playing it before Jobava was born (Nov 1983), so credit where credit is due. I'm now seeing a similar case, although to be fair, it isn't an exact copy. Anna Cramling has created her own opening, The Cow. Not so much an opening as a system, the basic moves are e3,d3,Ne2-Ng3,Nd2-b3,Be2,Bd2. White allows Black to opportunity to build the big centre, before trying to dismantle it. If White played 1.d4 (instead of d3), it would be very similar to a system that Canberra player Erik Jochimsen has been playing for years.",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/roll-your-own-openings.html",
-         "pubDate" : "Sun, 17 Mar 2024 12:54:00",
-         "title" : "Roll your own openings"
       }
    ]
 }
