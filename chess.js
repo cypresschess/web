@@ -18,6 +18,14 @@ news_feed (
          "title" : "Grand Chess Tour announces wildcards and full-tour lineup"
       },
       {
+         "description" : "The third day of the 2024 FIDE Candidates Tournament saw only 2 wins, both coming from Indian sibling duo Praggnanandhaa and Vaishali.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39890904/fide-candidates-2024-day-2-wrap-indian-chess-r-praggnanandhaa-vaishali-first-win-chess-siblings?device=featurephone",
+         "pubDate" : "Sun, 7 Apr 2024 05:08:00",
+         "title" : "FIDE Candidates 2024 Day 3 wrap: Siblings Praggnanandhaa and Vaishali get only wins of the round"
+      },
+      {
          "description" : "Much like in the open section, the Women's Candidates had one decisive game in Saturday's third round. Vaishali R made it 2 out of 2 for the brother-sister duo in Toronto (Pragg defeated Vidit in the open) by beating Nurgyul Salimova with the white pieces. Vaishali thus bounced back from her round-2 loss against Tan Zhongyi. Tan held Humpy Koneru to a draw with the black pieces to remain as the sole leader. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
