@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Praggnanandhaa R scored the only victory of round 3 at the Candidates Tournament in Toronto. The Indian prodigy played a sharp system in the Ruy Lopez to take down Vidit Gujrathi with the black pieces. Three players are now sharing the lead with 2 points each: Fabiano Caruana, Ian Nepomniachtchi and Gukesh D. Pragg and Vidit stand a half point behind. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-3",
+         "pubDate" : "Sun, 07 Apr 2024 03:15:00",
+         "title" : "Candidates R3: Adventurous Pragg takes down Vidit"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2956",
+         "pubDate" : "Sun, 07 Apr 2024 01:57:44",
+         "title" : "FIDE Candidates: Praggnanadhaa and Vaishali victorious in Round 3"
+      },
+      {
+         "description" : " Praggnanandhaa beat Santosh Vidit in Round 3 of the Candidates to record the only decisive game of the round. There was only one decisive game in the women's Candidates, a win scored by his sister Vaishali. Praggnanandhaa seems to have come to the Candidates intent on making the biggest mess on the board possible, yesterday this didn't work, today it did. Vidit's 29. Qd4? and 32.b4? combined cost him the game. Gukesh had a brief chance to beat Ian Nepomniachtchi, he needed to find 29.a4 or 30.a4 which more or less forced bxa4 followed by putting a piece on c4 with a big advantage. As it was he exchanged rooks and most of his advantage was gone. Fabiano Caruana scored a relatively comfortabl",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/praggnanandhaa-the-only-winner-in-round-3-of-the-candidates",
+         "pubDate" : "Sun, 7 Apr 2024 01:27:00",
+         "title" : "Praggnanandhaa the only winner in Round 3 of the Candidates - 3"
+      },
+      {
+         "description" : " Humpy Koneru has looked very solid so far in the Women's Candidates, she had the draw that gave her the black pieces in the first two rounds, she met the leader Tan Zhongyi in Round 3 and had the white pieces for the first time. This was a reversed Gruenfeld and after a slight inaccuracy Koneru allowed the kind of equality frequently seen in this kind of position and the game was drawn. Rameshbabu Vaishali just like her brother Praggnanandhaa was the only winner in the women's event. Nurgyul Salimova seemed to panic in the face of Vaishali's aggression and her position collapsed after several mistakes. Anna Muzychuk almost won her game against Kateryna Lagno, it was just the final precise s",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-remains-the-leader-as-vaishali-is-the-only-winner-in-round-3-of-the-womens-candidates",
+         "pubDate" : "Sun, 7 Apr 2024 01:17:00",
+         "title" : "Tan Zhongyi remains the leader as Vaishali is the only winner in Round 3 of the Women's Candidates - 3"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2955",
          "pubDate" : "Sat, 06 Apr 2024 21:03:20",
          "title" : "FIDE Trainers Online Seminars to be held from April 19-21 and April 26-28"
-      },
-      {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Sat, 06 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
       },
       {
          "description" : "Chess is booming. One of the reasons is top-level chess with a great variety of commentators. The ongoing Candidates tournament is the most important chess tournament of this year. So obviously, it attracts a lot of viewers. Many of those discuss what the optimal commentary of these games should look like. Most importantly, if commentators []",
@@ -26,7 +50,15 @@ news_feed (
          "title" : "Settling The Debate: Commentary With Engine Yes or No?"
       },
       {
-         "description" : "GM Daniel Naroditsky netted $400 and his second Bullet Brawl victory in a row on Saturday after scoring 260 points ahead of 122 other titled players. Scoring 72 wins in 83 games, Naroditsky put a healthy buffer between himself and the second and t...",
+         "description" : "The brother/sister duo of GM Praggnanandhaa Rameshbabu and GM-elect Vaishali Rameshbabu stole the show as the only victors in round three of the 2024 FIDE Candidates Tournament. Praggnanandhaa defeated one of the leaders, GM Vidit Gujrathi, by u...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-3",
+         "pubDate" : "Sat, 06 Apr 2024 16:34:00",
+         "title" : "Brother/Sister Comeback: Praggnanandhaa Defeats Vidit, Vaishali Finds Her Groove"
+      },
+      {
+         "description" : "GM Daniel Naroditsky netted $400 and his second Bullet Brawl victory in a row on Saturday after scoring 260 points ahead of 122 other titled players. Scoring 72 wins in 83 games, Naroditsky put a healthy buffer between himself and second and third...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-april-6-2024",
