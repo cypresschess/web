@@ -34,6 +34,14 @@ news_feed (
          "title" : "Tan Zhongyi remains the leader as Vaishali is the only winner in Round 3 of the Women's Candidates - 3"
       },
       {
+         "description" : "The third day of the 2024 FIDE Candidates Tournament saw only 2 wins, both coming from Indian sibling duo Praggnanandhaa and Vaishali.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39890904/fide-candidates-2024-day-2-wrap-indian-chess-r-praggnanandhaa-vaishali-first-win-chess-siblings?device=featurephone",
+         "pubDate" : "Sat, 6 Apr 2024 23:33:06",
+         "title" : "FIDE Candidates 2024 Day 3 wrap: Siblings Praggnanandhaa and Vaishali get only wins of the round"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
