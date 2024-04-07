@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Sun, 07 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
          "description" : "The Grand Chess Tour, a leading global circuit of international chess tournaments featuring the world's best players, announced the players selected to compete across the 2024 season. Wildcards this year will include world number one Magnus Carlsen, world champion Ding Liren and 5-time U.S. champion Hikaru Nakamura. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1072,22 +1080,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-puzzle-challenge-02",
          "pubDate" : "Mon, 18 Mar 2024 08:00:00",
          "title" : "ChessBase Puzzle Challenge - 02"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2928",
-         "pubDate" : "Sun, 17 Mar 2024 17:36:49",
-         "title" : "FIDE World Junior U20 Championship 2024: Registration is open"
-      },
-      {
-         "description" : "Flickr displays this photo in portrait format. The Royal Academy reference below displays the photo in landscape format, so I did the same. It's more economical in its use of space. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oc17.jpg\" WIDTH=400 HEIGHT=270><BR> <A HREF=\"https://www.flickr.com/photos/dou_ble_you/53588519345/\">Marcel Duchamp and Salvador Dal&iacute; playing chess during filming for 'A Soft Self-Portrait', 1966</A><BR> &#169; Flickr user <I>dou_ble_you</I> under <A HREF=\"https://creativecommons.org/licenses/by-nd/2.0/\">Creative Commons</A>.<BR> <P> The title of the photo is also the description. I found another copy at <A HREF=\"https://www.royalacademy.org.uk",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/03/conceptual-artist-and-surreal-artist.html",
-         "pubDate" : "Sun, 17 Mar 2024 16:47:00",
-         "title" : "Conceptual Artist and Surreal Artist"
       }
    ]
 }
