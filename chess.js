@@ -70,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-2024-menorca-open",
-         "pubDate" : "Mon, 08 Apr 2024 03:52:56",
+         "pubDate" : "Mon, 08 Apr 2024 03:52:00",
          "title" : "Arjun Erigaisi Briefly World #5 As Menorca Open Winner"
       },
       {
@@ -1120,14 +1120,6 @@ news_feed (
          "link" : "https://aicf.in/world-school-chess-championship-2024/",
          "pubDate" : "Tue, 19 Mar 2024 07:04:01",
          "title" : "World School Chess Championship - 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2931",
-         "pubDate" : "Mon, 18 Mar 2024 21:27:10",
-         "title" : "FIDE World Corporate Championship 2024 starts with two qualifiers"
       }
    ]
 }
