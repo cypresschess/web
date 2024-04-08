@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ian Nepomniachtchi scored a remarkable win over Vidit Gujrathi to become the sole leader at the Candidates Tournament in Toronto. The champion of the event's two previous editions now has a half-point lead over Fabiano Caruana and Gukesh D, who drew their round-4 direct encounter. The players will get their first rest day on Monday. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-4",
+         "pubDate" : "Mon, 08 Apr 2024 08:25:00",
+         "title" : "Candidates R4: Nepo beats Vidit in masterful game, leads"
+      },
+      {
+         "description" : "Railway Spots Promotion board-A and Petroleum sports promotion board wins the 43rd National Team and 21st National Team for Women Chess Championship respectively, held at",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/railways-sports-promotion-board-a-petroleum-sports-promotion-board-wins-national-team-chess-championship-2024/",
+         "pubDate" : "Mon, 08 Apr 2024 06:16:55",
+         "title" : "Railways sports promotion board-A & Petroleum Sports Promotion board Wins National Team Chess Championship 2024"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,14 +50,6 @@ news_feed (
          "title" : "Candidates Tournaments - Nepo and Tan sole leaders"
       },
       {
-         "description" : "The Grand Chess Tour, a leading global circuit of international chess tournaments featuring the world's best players, announced the players selected to compete across the 2024 season. Wildcards this year will include world number one Magnus Carlsen, world champion Ding Liren and 5-time U.S. champion Hikaru Nakamura. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-2024-wildcards",
-         "pubDate" : "Sun, 07 Apr 2024 17:00:00",
-         "title" : "Grand Chess Tour announces wildcards and full-tour lineup"
-      },
-      {
          "description" : "GM Ian Nepomniachtchi has taken a half-point lead at the 2024 FIDE Candidates Tournament. On the white side of the Berlin Defense, he dispatched GM Vidit Gujrathi. Draws on the remaining three boards leave GMs Gukesh Dommaraju and Fabiano Caruana ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,22 +64,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39890904/fide-candidates-2024-day-2-wrap-indian-chess-r-praggnanandhaa-vaishali-first-win-chess-siblings?device=featurephone",
          "pubDate" : "Sun, 7 Apr 2024 05:08:00",
          "title" : "FIDE Candidates 2024 Day 3 wrap: Siblings Praggnanandhaa and Vaishali get only wins of the round"
-      },
-      {
-         "description" : "Much like in the open section, the Women's Candidates had one decisive game in Saturday's third round. Vaishali R made it 2 out of 2 for the brother-sister duo in Toronto (Pragg defeated Vidit in the open) by beating Nurgyul Salimova with the white pieces. Vaishali thus bounced back from her round-2 loss against Tan Zhongyi. Tan held Humpy Koneru to a draw with the black pieces to remain as the sole leader. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-3",
-         "pubDate" : "Sun, 07 Apr 2024 05:00:00",
-         "title" : "Women's Candidates R3: Vaishali beats Salimova"
-      },
-      {
-         "description" : "Praggnanandhaa R scored the only victory of round 3 at the Candidates Tournament in Toronto. The Indian prodigy played a sharp system in the Ruy Lopez to take down Vidit Gujrathi with the black pieces. Three players are now sharing the lead with 2 points each: Fabiano Caruana, Ian Nepomniachtchi and Gukesh D. Pragg and Vidit stand a half point behind. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-3",
-         "pubDate" : "Sun, 07 Apr 2024 03:15:00",
-         "title" : "Candidates R3: Adventurous Pragg takes down Vidit"
       },
       {
          "description" : "",
@@ -1104,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2923",
          "pubDate" : "Mon, 18 Mar 2024 10:23:02",
          "title" : "African Championship 2024: Bassem Amin and Jesse February win titles"
-      },
-      {
-         "description" : "Live Games Live Link for Velammal AICF Women Grandmaster Round Robin Chess Tournament, 2024 Live games :&#160;https://live.tamilchess.com/WGMRR/index.html Chess Results Link :&#160;https://chess-results.com/tnr911363.aspx?lan=1&#38;turdet=YES",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-velammal-aicf-international-women-grandmaster-chess-tournament-2024/",
-         "pubDate" : "Mon, 18 Mar 2024 08:45:52",
-         "title" : "Live Games Link for Velammal - AICF International Women Grandmaster Chess Tournament 2024"
       },
       {
          "description" : "Chess is a really fun game to play, but equally enjoyable is solving artificial positions - problems and studies - many that defy the imagination. In this ChessBase Challenge instalment, we have a set of puzzles that can challenge your brain. Can you solve the position? Can you find the mind-boggling strategy that is required to reach the goal? You have a week to do so. Then we will provide the full solution.",
