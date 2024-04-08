@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a summary of the first week of Arne's daily chess studies. He enjoys the liberty to pick his learning resources as he pleases. His focus was on revisiting the foundational principles of endgames and exploring an entirely new opening that he had previously not ventured into: The Sicilian Dragon. Additionally, one of the Fritztrainers caught him off guard with its exceptional quality, exceeding all his expectations!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/one-week-of-daily-chess-did-it-improve-my-game-or-not",
+         "pubDate" : "Mon, 08 Apr 2024 13:55:00",
+         "title" : "One Week of Daily Chess - Did It Improve My Game or Not?"
+      },
+      {
+         "description" : " While there is a belief that top level chess has a dependence on extensive opening preparation, I'm not convinced it is true. Certainly Carlsen seems to do well with his \"make it up as I go along\" opening approach, and a number of other players are following his lead. The following game from the Candidates certainly started with a surprise opening, but the evaluation of who was better seemed to swing back and forward throughout the game, indicating the while Prag may have been comfortable with the opening, he wasn't relying on it to deliver a victory. <br /> <b>Vidit,Santosh Gujrathi (2727) - Praggnanandhaa R (2747) [C70]</b><br /> FIDE Candidates 2024 Toronto, Canada (3.4), 05.04.2024 <scr",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/randomised-positions.html",
+         "pubDate" : "Mon, 08 Apr 2024 12:50:00",
+         "title" : "Randomised positions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2958",
+         "pubDate" : "Mon, 08 Apr 2024 11:46:49",
+         "title" : "Arjun Erigaisi wins III Open Chess Menorca"
+      },
+      {
          "description" : "Ian Nepomniachtchi scored a remarkable win over Vidit Gujrathi to become the sole leader at the Candidates Tournament in Toronto. The champion of the event's two previous editions now has a half-point lead over Fabiano Caruana and Gukesh D, who drew their round-4 direct encounter. The players will get their first rest day on Monday. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2957",
          "pubDate" : "Mon, 08 Apr 2024 02:55:25",
          "title" : "FIDE Candidates: Nepomniachtchi and Tan Zhongyi in the lead going into rest day"
+      },
+      {
+         "description" : "Of the five Indians in action, three drew their matches while two suffered losses",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39897573/fide-candidates-2024-nepomniachtchi-takes-sole-lead-only-open-win-round-4-indians-suffer-mixed-bag?device=featurephone",
+         "pubDate" : "Mon, 8 Apr 2024 02:37:53",
+         "title" : "Candidates: Nepo takes lead with only Open win in rd 4, Indians suffer mixed bag"
       },
       {
          "description" : " Tan Zhongyi leads the women's Candidates with 3/4 going into the first rest day. Tan should have lost the lead and there should also have been three decisive games. Instead there was just the one, Humpy Koneru played what in retrospect was over aggressively and lost to Nurgyul Salimova. Anna Muzychuk should have won her first game but again made a real hash of things. Tan's escape against Kateryna Lagno was if anything more miraculous and Goryachkina drew against Vaishali. Humpy Koneru had three uneventful draws so far, today she clearly decided that Nurgyul Salimova was a player she had to try to beat and played very enterprisingly and aggressively, the problem was twofold, firstly there w",
@@ -1096,14 +1128,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/03/real-chess-villages.html",
          "pubDate" : "Mon, 18 Mar 2024 16:45:00",
          "title" : "Real Chess Villages"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2930",
-         "pubDate" : "Mon, 18 Mar 2024 12:18:16",
-         "title" : "American Cup 2024: Aronian and Krush win Champions brackets"
       }
    ]
 }
