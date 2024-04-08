@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Despite fighting chess being the norm in round 4 of the Women's Candidates, only one game finished decisively, with underdog Nurgyul Salimova (pictured) beating third seed Humpy Koneru. Tan Zhongyi survived a clearly inferior position against Kateryna Lagno, while Anna Muzychuk missed great winning chances for a second day in a row. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-4",
+         "pubDate" : "Mon, 08 Apr 2024 19:15:00",
+         "title" : "Women's Candidates R4: Tan barely escapes, Salimova beats Humpy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2959",
+         "pubDate" : "Mon, 08 Apr 2024 16:34:38",
+         "title" : "\"Capture\": changing the perception of chess through photography"
+      },
+      {
          "description" : "This is a summary of the first week of Arne's daily chess studies. He enjoys the liberty to pick his learning resources as he pleases. His focus was on revisiting the foundational principles of endgames and exploring an entirely new opening that he had previously not ventured into: The Sicilian Dragon. Additionally, one of the Fritztrainers caught him off guard with its exceptional quality, exceeding all his expectations!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-leads-the-fide-candidates-alone-on-34",
          "pubDate" : "Mon, 8 Apr 2024 00:47:00",
          "title" : "Nepomniachtchi leads the FIDE Candidates alone on 3/4 - 4"
-      },
-      {
-         "description" : "Ian Nepomniachtchi became the sole leader at the 2024 Candidates Tournament after beating Vidit Gujrathi from the white side of a Berlin Defence in Sunday's fourth round. Meanwhile, in the women's section, Tan Zhongyi escaped with a draw against Kateryna Lagno to keep her spot atop the standings. The one decisive result of the Women's Candidates saw underdog Nurgyul Salimova stunning Humpy Koneru with the white pieces. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Sun, 07 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Nepo and Tan sole leaders"
       },
       {
          "description" : "GM Ian Nepomniachtchi has taken a half-point lead at the 2024 FIDE Candidates Tournament. On the white side of the Berlin Defense, he dispatched GM Vidit Gujrathi. Draws on the remaining three boards leave GMs Gukesh Dommaraju and Fabiano Caruana ...",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2931",
          "pubDate" : "Mon, 18 Mar 2024 21:27:10",
          "title" : "FIDE World Corporate Championship 2024 starts with two qualifiers"
-      },
-      {
-         "description" : "This weekly series on comic software started with an imaginary chess village in the Catskill mountains, last seen in <A HREF=\"https://chessforallages.blogspot.com/2024/02/chess-comics-grids-and-panels.html\">Chess Comics - Grids and Panels</A> (February 2024). To explore the grids and panels, <BLOCKQUOTE> I went back to the first comic page in the series, <I>The Chess Village</I> (January 2024), copied the prompt I used to make the image shown in the post, and re-entered the prompt into the software. </BLOCKQUOTE> <P> Chess villages are not all imaginary. Not too long ago I mentioned two in the monthly news post, <A HREF=\"https://chessforallages.blogspot.com/2023/09/this-month-features-bottom",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/03/real-chess-villages.html",
-         "pubDate" : "Mon, 18 Mar 2024 16:45:00",
-         "title" : "Real Chess Villages"
       }
    ]
 }
