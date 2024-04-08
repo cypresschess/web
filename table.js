@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-04-05  - 04-07","75","<a href=http://www.uschess.org/msa/XtblMain.php?202404073252 target='_blank'>$3,000 APRIL 2024 CHAMPIONSHIP</a>",
 "SPRING","2024-04-06","160","<a href=http://www.uschess.org/msa/XtblMain.php?202404062682 target='_blank'>CATHOLIC SCHOOLS CHAMPIONSHIP</a>",
 "HOUSTON","2024-04-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202404062292 target='_blank'>CHESSPANDA04062024SATURDAY</a>",
 "SPRING","2024-04-05","35","<a href=http://www.uschess.org/msa/XtblMain.php?202404051752 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "LEAGUE CITY","2023-09-06  - 09-27","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309275472 target='_blank'>CLCC SEP WEDNESDAYS</a>",
 "HOUSTON","2023-09-05  - 09-26","19","<a href=http://www.uschess.org/msa/XtblMain.php?202309268662 target='_blank'>SEPT TUE NIGHT SWISS</a>",
 "HOUSTON","2023-09-24","4","<a href=http://www.uschess.org/msa/XtblMain.php?202309248562 target='_blank'>GAME.GUYS.09.24.23</a>",
-"HOUSTON","2023-09-24","16","<a href=http://www.uschess.org/msa/XtblMain.php?202309247182 target='_blank'>SEPT 24TH 2023 SUNDAY SWISS</a>",
 ]);
