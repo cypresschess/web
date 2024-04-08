@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2957",
+         "pubDate" : "Mon, 08 Apr 2024 02:55:25",
+         "title" : "FIDE Candidates: Nepomniachtchi and Tan Zhongyi in the lead going into rest day"
+      },
+      {
+         "description" : " Tan Zhongyi leads the women's Candidates with 3/4 going into the first rest day. Tan should have lost the lead and there should also have been three decisive games. Instead there was just the one, Humpy Koneru played what in retrospect was over aggressively and lost to Nurgyul Salimova. Anna Muzychuk should have won her first game but again made a real hash of things. Tan's escape against Kateryna Lagno was if anything more miraculous and Goryachkina drew against Vaishali. Humpy Koneru had three uneventful draws so far, today she clearly decided that Nurgyul Salimova was a player she had to try to beat and played very enterprisingly and aggressively, the problem was twofold, firstly there w",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyis-miracle-escape-allows-her-to-lead-the-womens-candidates-alone-on-34",
+         "pubDate" : "Mon, 8 Apr 2024 01:11:00",
+         "title" : "Tan Zhongyi's miracle escape allows her to lead the Women's Candidates alone on 3/4 - 4"
+      },
+      {
+         "description" : " Ian Nepomniachtchi took the lead of the FIDE Candidates tournament in Toronto with a win against Santosh Vidit. He is on 3/4 half a point clear of Fabiano Caruana and Gukesh. Can Nepomniachtchi win the Candidates for a third time in a row? Already I personally wouldn't bet against it, his fault of being a bit casual sometimes is infinitely better than being too tense, a problem that I sense Santosh Vidit has. Nepomniachtchi came with a new idea of 12.Nh2 against Vidit's Berlin, Vidit was doing fine until 26...Rb3?! (26...c4) then he was suddenly worse and under pressure with the Rook he buried on b3 being out of play. 37...Be8? (37...Nxe7 might also be losing but had to be tried) was very s",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-leads-the-fide-candidates-alone-on-34",
+         "pubDate" : "Mon, 8 Apr 2024 00:47:00",
+         "title" : "Nepomniachtchi leads the FIDE Candidates alone on 3/4 - 4"
+      },
+      {
+         "description" : "Ian Nepomniachtchi became the sole leader at the 2024 Candidates Tournament after beating Vidit Gujrathi from the white side of a Berlin Defence in Sunday's fourth round. Meanwhile, in the women's section, Tan Zhongyi escaped with a draw against Kateryna Lagno to keep her spot atop the standings. The one decisive result of the Women's Candidates saw underdog Nurgyul Salimova stunning Humpy Koneru with the white pieces. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Sun, 07 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates Tournaments - Nepo and Tan sole leaders"
       },
       {
          "description" : "The Grand Chess Tour, a leading global circuit of international chess tournaments featuring the world's best players, announced the players selected to compete across the 2024 season. Wildcards this year will include world number one Magnus Carlsen, world champion Ding Liren and 5-time U.S. champion Hikaru Nakamura. | Photo: Lennart Ootes",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grand-chess-tour-2024-wildcards",
          "pubDate" : "Sun, 07 Apr 2024 17:00:00",
          "title" : "Grand Chess Tour announces wildcards and full-tour lineup"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi has taken a half-point lead at the 2024 FIDE Candidates Tournament. On the white side of the Berlin Defense, he dispatched GM Vidit Gujrathi. Draws on the remaining three boards leave GMs Gukesh Dommaraju and Fabiano Caruana ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-4",
+         "pubDate" : "Sun, 07 Apr 2024 16:48:00",
+         "title" : "Nepomniachtchi Defeats Vidit, Takes Sole Lead; Tan Survives Major Scare"
       },
       {
          "description" : "The third day of the 2024 FIDE Candidates Tournament saw only 2 wins, both coming from Indian sibling duo Praggnanandhaa and Vaishali.",
@@ -280,6 +312,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2951",
          "pubDate" : "Thu, 04 Apr 2024 03:33:54",
          "title" : "FIDE Candidates Tournament 2024 opens in Toronto"
+      },
+      {
+         "description" : "11-Year-Old Prodigy Aaron Mendes of Canada, Claims Victory in III Open International Chess Menorca BLITZ In an astonishing turn of events at the III Open International Chess Menorca BLITZ held on April 4th in Menorca, Spain, 11-year-old Aaron Reeve Mendes emerged as the champion. Despite facing off against seasoned Grandmasters (GMs) and International Masters (IMs), Aaron showcased unparalleled skill and strategic acumen, securing a remarkable 8 out of 9 wins in the blitz tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
+         "iconName" : "Canadian<br>Chess",
+         "link" : "https://www.chess.ca/en/news/2024/04/04/aaron-reeve-mendes-1st-in-blitz-at-menorca-spain/",
+         "pubDate" : "Thu, 04 Apr 2024 00:00:00",
+         "title" : "Aaron Reeve Mendes: 1st in Blitz at Menorca, Spain"
       },
       {
          "description" : "",
@@ -832,14 +872,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2936",
          "pubDate" : "Mon, 25 Mar 2024 12:47:46",
          "title" : "FIDE World School Rapid and Blitz Championships 2024: Registration is open"
-      },
-      {
-         "description" : "[Editor&#39;s note: Lula is one of the most popular Chess.com streamers with tens of thousands of fans. She started playing in December 2020 and earned her WCM title in 2024. This article is about her personal experience at the 2024 Reykjavik Open&#38;nbs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/my-return-to-reykjavik",
-         "pubDate" : "Mon, 25 Mar 2024 12:41:00",
-         "title" : "My Return To Reykjavik"
       },
       {
          "description" : "",
