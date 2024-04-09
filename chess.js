@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four rounds have been played in the Candidates Tournament and Ian Nepomniachtchi is in the lead with 3.0 out of 4. But, as we often hear, nothing is decided yet because, after all, 14 rounds are played in Toronto, which is still a long way to go. But the numbers tell a different story: in the six Candidates Tournaments from London 2013 to Madrid 2022, the player leading after four rounds has always won. | Photo: Ian Nepomniachtchi at the Madrid 2022 Candidates Tournament, which he won comfortably. | Photo: Stev Bonhage (FIDE)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-a-feeling-of-dj-vu",
+         "pubDate" : "Tue, 09 Apr 2024 17:00:00",
+         "title" : "Candidates Tournament 2024: A feeling of d&eacute;j&agrave; vu"
+      },
+      {
+         "description" : "In the present world, good marketing is everything. Surprisingly enough, this applies also to chess openings. For example, the Kings Indian Defence has got a phantastic PR among club players. It is considered to be fun to play, and a good weapon when it comes to playing for a win. On the contrary, the Nimzo Indian Defence is perceived as dull and drawish. The result is that after 1.d4 Nf6 2.c4, club players (rated around 1800) play 2&hellip;g6 more often than 2&hellip;e6. Interestingly, with the GMs the ratio is considerably different. Players rated 2500+ play 2&hellip;e6 three times as often than 2&hellip;g6. But why? | Photo: Aron Nimzowitsch, name-giver of the Nimzo Indian Defence (Photo:",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-31-nimzo-is-a-killer-weapon",
+         "pubDate" : "Tue, 09 Apr 2024 14:32:00",
+         "title" : "The Winning Academy 31: Nimzo is a Killer Weapon!"
+      },
+      {
          "description" : "He was born on 3 June 2011 in Bursa, Turkey. On April 1st (no April Fool's joke) the twelve-year-old, playing in the very strong GRENKE Chess Open, Yagiz Kaan Erdpgmus scored 7.0/9 points with a 2646 performance. With that he had fulfilled his final GM norm and become the youngest grandmaster in the world - the fourth youngest in chess history. We will be watching this young boy carefully. | Photo Ugur Medya",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1144,22 +1160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/20/trinidad-tobago-takes-1st-caricom-chess-classic/",
          "pubDate" : "Thu, 21 Mar 2024 00:01:39",
          "title" : "Trinidad & Tobago takes 1st CARICOM Chess Classic!"
-      },
-      {
-         "description" : " I only learned today that the line 1.e4 e5 2.Nf3 Nc6 3.Bc4 f5?! was the Rousseau Gambit. I'd heard this opening discussed numerous times within the Canberra chess scene, but for some reason I thought it was a different opening, and the moves above were just sort of dodgy Italian/Latvian hybrid (The Italvian Opening?). I'd even played it in the past at fast time limits, albeit with little success. Despite it's poor reputation it sometimes works out for Black. Here GM Dejan Bojkov comes undone against Pavel Dimitrov in what appears to be a brutal kingside hack. <br /> <b>Bojkov,Dejan (2514) - Dimitrov,Pavel (2304) [C50]</b><br /> BUL-chT-A 62nd Sunny Beach (1.3), 19.09.2012 <script> new PgnVi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/i-was-today-years-old.html",
-         "pubDate" : "Tue, 19 Mar 2024 12:47:00",
-         "title" : "I was today years old"
-      },
-      {
-         "description" : "Please find the provisional list for Batch 1A &#38; 1 B , further zoom link will share to candidates email id today. Batch 1 A",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-1a-on-21-22-march-2024/",
-         "pubDate" : "Tue, 19 Mar 2024 11:48:36",
-         "title" : "AICF Arbiter Refresher Seminar Batch 1A & 1 B on 21-22 March 2024"
       }
    ]
 }
