@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "He was born on 3 June 2011 in Bursa, Turkey. On April 1st (no April Fool's joke) the twelve-year-old, playing in the very strong GRENKE Chess Open, Yagiz Kaan Erdpgmus scored 7.0/9 points with a 2646 performance. With that he had fulfilled his final GM norm and become the youngest grandmaster in the world - the fourth youngest in chess history. We will be watching this young boy carefully. | Photo Ugur Medya",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/yet-another-12-year-old-grandmaster",
+         "pubDate" : "Tue, 09 Apr 2024 12:00:00",
+         "title" : "Yet another 12-year-old grandmaster"
+      },
+      {
+         "description" : "Almaty, Kazakhstan, 09th to 21st June, 2024 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only.&#160;As said earlier the",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/26th-asian-youth-chess-championships-2024/",
+         "pubDate" : "Tue, 09 Apr 2024 08:17:44",
+         "title" : "26th Asian Youth Chess Championships - 2024"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109152380.cms\" />Indian chess trio R Praggnanandhaa, D Gukesh, and Vidit Gujrathi are in a fierce battle to secure their spot in the World Championship match. Gukesh has shown resilience, while Gujrathi struggles to maintain momentum. With 14 rounds completed, 10 critical games remain, with obstacles hindering their progress.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-menorca-open-2024",
          "pubDate" : "Tue, 09 Apr 2024 02:00:00",
          "title" : "Arjun Erigaisi wins Menorca Open, now world number 7"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2960",
+         "pubDate" : "Tue, 09 Apr 2024 00:26:42",
+         "title" : "The day Switzerland showed its love for chess: FIDE100 torch ceremony in Bern"
       },
       {
          "description" : "Despite fighting chess being the norm in round 4 of the Women's Candidates, only one game finished decisively, with underdog Nurgyul Salimova (pictured) beating third seed Humpy Koneru. Tan Zhongyi survived a clearly inferior position against Kateryna Lagno, while Anna Muzychuk missed great winning chances for a second day in a row. | Photo: FIDE / Michal Walusza",
@@ -128,6 +152,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-4",
          "pubDate" : "Sun, 07 Apr 2024 16:48:00",
          "title" : "Nepomniachtchi Defeats Vidit, Takes Sole Lead; Tan Survives Major Scare"
+      },
+      {
+         "description" : "On this blog's long running series, <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), Morphy items are not unusual. Having said that, it's been a few years since the previous post on Morphy. <P> The item pictured below was titled 'Unpublished CDV of Paul Charles MORPHY CHESS PRODIGY Playing a Game 1860s Photo'. It sold for US $2158.00 after 19 bids from seven bidders. On a starting price of $30.00, the bids jumped from $150.00 to the final price in the last 20 minutes of the seven day auction. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od07.jpg\" WIDTH=400 HEIGHT=325><BR> <B>Left:</B> F",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/04/morphy-unpublished.html",
+         "pubDate" : "Sun, 07 Apr 2024 15:02:00",
+         "title" : "Morphy Unpublished"
       },
       {
          "description" : "The third day of the 2024 FIDE Candidates Tournament saw only 2 wins, both coming from Indian sibling duo Praggnanandhaa and Vaishali.",
