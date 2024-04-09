@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Tue, 09 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109173258.cms\" />In his 10-year chess journey, D Gukesh has achieved many thirds. After becoming the third youngest Grandmaster in history, he became the youngest to cross the 2750 Elo rating last year. He is the third youngest player after Bobby Fischer and Magnus Carsen to qualify for the Candidates chess tournament currently in progress in Toronto. At the end of the first phase of the 14-round Candidates tournament, Gukesh is the only Indian to remain unbeaten. He is holding the joint second position. In an interview with the world chess federation (FIDE), Gukes",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/my-ultimate-goal-is-to-become-worlds-best-gukesh/articleshow/109173258.cms",
+         "pubDate" : "Tue, 09 Apr 2024 18:03:23",
+         "title" : "My ultimate goal is to become world's best: Gukesh"
+      },
+      {
          "description" : "Four rounds have been played in the Candidates Tournament and Ian Nepomniachtchi is in the lead with 3.0 out of 4. But, as we often hear, nothing is decided yet because, after all, 14 rounds are played in Toronto, which is still a long way to go. But the numbers tell a different story: in the six Candidates Tournaments from London 2013 to Madrid 2022, the player leading after four rounds has always won. | Photo: Ian Nepomniachtchi at the Madrid 2022 Candidates Tournament, which he won comfortably. | Photo: Stev Bonhage (FIDE)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
