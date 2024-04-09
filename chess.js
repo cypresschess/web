@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109152380.cms\" />Indian chess trio R Praggnanandhaa, D Gukesh, and Vidit Gujrathi are in a fierce battle to secure their spot in the World Championship match. Gukesh has shown resilience, while Gujrathi struggles to maintain momentum. With 14 rounds completed, 10 critical games remain, with obstacles hindering their progress.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-trio-battles-in-candidates-chess-tournament-for-world-championship-spot/articleshow/109152380.cms",
+         "pubDate" : "Tue, 09 Apr 2024 05:01:46",
+         "title" : "Indian trio battles in Candidates chess tournament for World Championship spot"
+      },
+      {
          "description" : "Sunday saw the end of the excellently organized Open Tournament in Menorca. In the final spurt, Arjun Erigaisi secured tournament victory thanks to his superior tiebreak score. With this triumph, Arjun climbed to number seven in the live ratings list. Kirill Alekseenko and Maksim Chigaev grabbed second and third place, respectively. | Photos: ChessBase India, Menorca Open",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-1a-on-21-22-march-2024/",
          "pubDate" : "Tue, 19 Mar 2024 11:48:36",
          "title" : "AICF Arbiter Refresher Seminar Batch 1A & 1 B on 21-22 March 2024"
-      },
-      {
-         "description" : "FIDE World School Chess Championship 2024 will be held from 30th April to 10th May 2024 at Lima, Peru and players who participated in the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-school-chess-championship-2024/",
-         "pubDate" : "Tue, 19 Mar 2024 07:04:01",
-         "title" : "World School Chess Championship - 2024"
       }
    ]
 }
