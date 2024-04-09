@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sunday saw the end of the excellently organized Open Tournament in Menorca. In the final spurt, Arjun Erigaisi secured tournament victory thanks to his superior tiebreak score. With this triumph, Arjun climbed to number seven in the live ratings list. Kirill Alekseenko and Maksim Chigaev grabbed second and third place, respectively. | Photos: ChessBase India, Menorca Open",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-menorca-open-2024",
+         "pubDate" : "Tue, 09 Apr 2024 02:00:00",
+         "title" : "Arjun Erigaisi wins Menorca Open, now world number 7"
+      },
+      {
          "description" : "Despite fighting chess being the norm in round 4 of the Women's Candidates, only one game finished decisively, with underdog Nurgyul Salimova (pictured) beating third seed Humpy Koneru. Tan Zhongyi survived a clearly inferior position against Kateryna Lagno, while Anna Muzychuk missed great winning chances for a second day in a row. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
