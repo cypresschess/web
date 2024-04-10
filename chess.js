@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Wed, 10 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
+         "description" : "It was all so nicely planned: during the Candidates Tournament a total eclipse of the sun was scheduled to pass over the venue in Canada, and FIDE scheduled the tournament to have a free day exactly when this happened. And they arranged a yacht cruise for players and visitors to witness this rare occurrence. Unfortunately, as sometimes happens, clouds got in the way. Still, it was a lifetime experience for so many. | All images by Michal Walusza for FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-candidates-and-the-eclipse",
+         "pubDate" : "Wed, 10 Apr 2024 18:05:45",
+         "title" : "The Candidates and the Eclipse"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2963",
+         "pubDate" : "Wed, 10 Apr 2024 16:05:39",
+         "title" : "FIDE Candidates 2024 chess set auctioned"
+      },
+      {
          "description" : "Every Chess-playing country is talking about Indian Chess, as 4 players debut in World Candidates 2024. GM D Gukesh, GM&#160; R Praggnanandhaa, GM Vidit Gujarathi",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -34,12 +58,28 @@ news_feed (
          "title" : "Gukesh joins Nepomniachtchi in the Candidates lead after an action packed Round 5 - 5"
       },
       {
+         "description" : "GM Jan-Krzysztof Duda and GM David Paravyan won each Titled Tuesday tournament of April 9 outright on a score of 10/11, while they both also made the top 10 in the other event of the day. GM Alexandra Kosteniuk won the early women&#39;s prize despite ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/duda-paravyan-win-titled-tuesday-april-9-2024",
+         "pubDate" : "Wed, 10 Apr 2024 08:52:25",
+         "title" : "No Tuesday Ties As Duda, Paravyan Lead Way"
+      },
+      {
          "description" : "Two games ended decisively in round 5 of the Candidates Tournament, though all four could have easily finished with decisive results. Praggnanandhaa R and Vidit Gujrathi got superior positions but failed to make the most of their advantages against Ian Nepomniachtchi and Fabiano Caruana respectively, while Hikaru Nakamura and Gukesh D obtained full points after their opponents faltered in technical endgames. Nepomniachtchi and Gukesh are now sharing the lead with 3&frac12; points each. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-5",
          "pubDate" : "Wed, 10 Apr 2024 06:40:00",
          "title" : "Candidates R5: Gukesh and Nakamura score in eventful round"
+      },
+      {
+         "description" : "D Gukesh's win over Nijat Abasov sees him join Ian Nepomniachtchi in the lead of the 2024 FIDE Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39910765/fide-candidates-2024-d-gukesh-beat-abasov-joins-ian-nepomniachtchi-lead-round-5?device=featurephone",
+         "pubDate" : "Wed, 10 Apr 2024 04:22:10",
+         "title" : "FIDE Candidates 2024: Gukesh beats Abasov, joins Nepomniachtchi in lead after R5"
       },
       {
          "description" : "",
@@ -72,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/yet-another-12-year-old-grandmaster",
          "pubDate" : "Tue, 09 Apr 2024 12:00:00",
          "title" : "Yet another 12-year-old grandmaster"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2961",
+         "pubDate" : "Tue, 09 Apr 2024 11:00:07",
+         "title" : "Deputy Chair of the FIDE Management Board visits Botswana and South Africa"
       },
       {
          "description" : "Almaty, Kazakhstan, 09th to 21st June, 2024 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only.&#160;As said earlier the",
@@ -960,14 +1008,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/grenke-chess-classic-2024",
          "pubDate" : "Tue, 26 Mar 2024 16:23:00",
          "title" : "GRENKE Chess Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "GM Ben Finegold is known for his sharp wit and even sharper tactics. And now you have the chance to experience both of these when you play his official Chess.com bot! Play The Finegold Bot This iconic American grandmaster has been entertaining...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ben-finegold-bot-announcement",
-         "pubDate" : "Tue, 26 Mar 2024 15:25:00",
-         "title" : "Take On The New GM Ben Finegold Bot!"
       },
       {
          "description" : "You know that your blogging activity is teetering on the brink when you can only manage one post in a single week. Last week we had <A HREF=\"https://chessforallages.blogspot.com/2024/03/real-chess-villages.html\">Real Chess Villages</A> (March 2024), as the weekly post in a Monday series on AI comics. The prompt for the image in that post was 'Chess village Kerala' and I ended the post saying, <BLOCKQUOTE> Although I'm no expert on [India], never having visited, the village structures and the villagers' clothing look to me to be decidedly Indian. </BLOCKQUOTE> <P> What to do a week later? Let's follow that up with some images related to Indian Hindu culture. <I>Non sequiturs 'R' Us.</I> <P AL",
