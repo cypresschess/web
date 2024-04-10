@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2962",
+         "pubDate" : "Wed, 10 Apr 2024 02:56:12",
+         "title" : "FIDE Candidates: Gukesh joins Nepomniachtchi in the lead "
+      },
+      {
+         "description" : "Fighting games culminated with two decisive results in the fifth round of the Candidates Tournament. While Vidit Gujrathi and Praggnanandhaa R could not convert superior positions into wins against Fabiano Caruana and Ian Nepomniachtchi respectively, Gukesh D and Hikaru Nakamura obtained victories after their rivals erred past the fifth hour of play. In the Women's Candidates, all games ended drawn, with Kateryna Lagno and Anna Muzychuk failing to make the most of big winning chances. | Replay all games with computer analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Tue, 09 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates Tournaments - Gukesh and Nakamura score"
+      },
+      {
+         "description" : "This is a flash report. The full report, including game analysis, photographs, quotes from interviews, and more, will be added soon. After almost six hours of play and in the longest round of the 2024 FIDE Candidates Tournament, GM Gukesh Dommar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-5",
+         "pubDate" : "Tue, 09 Apr 2024 18:07:00",
+         "title" : "Flash Report: Nepomniachtchi Survives Praggnanandhaa's Killer Preparation, Gukesh Joins Lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109173258.cms\" />In his 10-year chess journey, D Gukesh has achieved many thirds. After becoming the third youngest Grandmaster in history, he became the youngest to cross the 2750 Elo rating last year. He is the third youngest player after Bobby Fischer and Magnus Carsen to qualify for the Candidates chess tournament currently in progress in Toronto. At the end of the first phase of the 14-round Candidates tournament, Gukesh is the only Indian to remain unbeaten. He is holding the joint second position. In an interview with the world chess federation (FIDE), Gukes",
@@ -58,14 +74,6 @@ news_feed (
          "title" : "Indian trio battles in Candidates chess tournament for World Championship spot"
       },
       {
-         "description" : "Sunday saw the end of the excellently organized Open Tournament in Menorca. In the final spurt, Arjun Erigaisi secured tournament victory thanks to his superior tiebreak score. With this triumph, Arjun climbed to number seven in the live ratings list. Kirill Alekseenko and Maksim Chigaev grabbed second and third place, respectively. | Photos: ChessBase India, Menorca Open",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-wins-menorca-open-2024",
-         "pubDate" : "Tue, 09 Apr 2024 02:00:00",
-         "title" : "Arjun Erigaisi wins Menorca Open, now world number 7"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,28 +82,12 @@ news_feed (
          "title" : "The day Switzerland showed its love for chess: FIDE100 torch ceremony in Bern"
       },
       {
-         "description" : "Despite fighting chess being the norm in round 4 of the Women's Candidates, only one game finished decisively, with underdog Nurgyul Salimova (pictured) beating third seed Humpy Koneru. Tan Zhongyi survived a clearly inferior position against Kateryna Lagno, while Anna Muzychuk missed great winning chances for a second day in a row. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-4",
-         "pubDate" : "Mon, 08 Apr 2024 19:15:00",
-         "title" : "Women's Candidates R4: Tan barely escapes, Salimova beats Humpy"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2959",
          "pubDate" : "Mon, 08 Apr 2024 16:34:38",
          "title" : "\"Capture\": changing the perception of chess through photography"
-      },
-      {
-         "description" : "This is a summary of the first week of Arne's daily chess studies. He enjoys the liberty to pick his learning resources as he pleases. His focus was on revisiting the foundational principles of endgames and exploring an entirely new opening that he had previously not ventured into: The Sicilian Dragon. Additionally, one of the Fritztrainers caught him off guard with its exceptional quality, exceeding all his expectations!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/one-week-of-daily-chess-did-it-improve-my-game-or-not",
-         "pubDate" : "Mon, 08 Apr 2024 13:55:00",
-         "title" : "One Week of Daily Chess - Did It Improve My Game or Not?"
       },
       {
          "description" : " While there is a belief that top level chess has a dependence on extensive opening preparation, I'm not convinced it is true. Certainly Carlsen seems to do well with his \"make it up as I go along\" opening approach, and a number of other players are following his lead. The following game from the Candidates certainly started with a surprise opening, but the evaluation of who was better seemed to swing back and forward throughout the game, indicating the while Prag may have been comfortable with the opening, he wasn't relying on it to deliver a victory. <br /> <b>Vidit,Santosh Gujrathi (2727) - Praggnanandhaa R (2747) [C70]</b><br /> FIDE Candidates 2024 Toronto, Canada (3.4), 05.04.2024 <scr",
@@ -112,14 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2958",
          "pubDate" : "Mon, 08 Apr 2024 11:46:49",
          "title" : "Arjun Erigaisi wins III Open Chess Menorca"
-      },
-      {
-         "description" : "Ian Nepomniachtchi scored a remarkable win over Vidit Gujrathi to become the sole leader at the Candidates Tournament in Toronto. The champion of the event's two previous editions now has a half-point lead over Fabiano Caruana and Gukesh D, who drew their round-4 direct encounter. The players will get their first rest day on Monday. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-4",
-         "pubDate" : "Mon, 08 Apr 2024 08:25:00",
-         "title" : "Candidates R4: Nepo beats Vidit in masterful game, leads"
       },
       {
          "description" : "The ECU E-Magazine March 2024 is out! In this edition of the ECU E-Magazine you may read about: The March 2024 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded in PDF format down below.",
@@ -960,14 +944,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ben-finegold-bot-announcement",
          "pubDate" : "Tue, 26 Mar 2024 15:25:00",
          "title" : "Take On The New GM Ben Finegold Bot!"
-      },
-      {
-         "description" : "GM Richard Rapport pounced on a blunder by world number-one Magnus Carlsen, then made a draw against World Champion Ding Liren, to end day one of the 2024 GRENKE Chess Classic in the sole lead on 1.5/2. Carlsen hit back to beat GM Daniel Fridman w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-1",
-         "pubDate" : "Tue, 26 Mar 2024 15:17:00",
-         "title" : "Rapport Beats Carlsen To Grab Early GRENKE Chess Classic Lead"
       },
       {
          "description" : "You know that your blogging activity is teetering on the brink when you can only manage one post in a single week. Last week we had <A HREF=\"https://chessforallages.blogspot.com/2024/03/real-chess-villages.html\">Real Chess Villages</A> (March 2024), as the weekly post in a Monday series on AI comics. The prompt for the image in that post was 'Chess village Kerala' and I ended the post saying, <BLOCKQUOTE> Although I'm no expert on [India], never having visited, the village structures and the villagers' clothing look to me to be decidedly Indian. </BLOCKQUOTE> <P> What to do a week later? Let's follow that up with some images related to Indian Hindu culture. <I>Non sequiturs 'R' Us.</I> <P AL",
