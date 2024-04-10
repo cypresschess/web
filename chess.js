@@ -74,20 +74,20 @@ news_feed (
          "title" : "Candidates R5: Gukesh and Nakamura score in eventful round"
       },
       {
-         "description" : "D Gukesh's win over Nijat Abasov sees him join Ian Nepomniachtchi in the lead of the 2024 FIDE Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39910765/fide-candidates-2024-d-gukesh-beat-abasov-joins-ian-nepomniachtchi-lead-round-5?device=featurephone",
-         "pubDate" : "Wed, 10 Apr 2024 04:22:10",
-         "title" : "FIDE Candidates 2024: Gukesh beats Abasov, joins Nepomniachtchi in lead after R5"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2962",
          "pubDate" : "Wed, 10 Apr 2024 02:56:12",
          "title" : "FIDE Candidates: Gukesh joins Nepomniachtchi in the lead "
+      },
+      {
+         "description" : "D Gukesh's win over Nijat Abasov sees him join Ian Nepomniachtchi in the lead of the 2024 FIDE Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39910765/fide-candidates-2024-d-gukesh-beat-abasov-joins-ian-nepomniachtchi-lead-round-5?device=featurephone",
+         "pubDate" : "Wed, 10 Apr 2024 00:15:23",
+         "title" : "FIDE Candidates 2024: Gukesh beats Abasov, joins Nepomniachtchi in lead after R5"
       },
       {
          "description" : "After close to six hours of play and in the longest round of the 2024 FIDE Candidates Tournament so far, GM Gukesh Dommaraju defeated GM Nijat Abasov to catch GM Ian Nepomniachtchi in the lead. Nepomniachtchi, on the other hand, survived a lost po...",
