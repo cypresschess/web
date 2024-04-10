@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The fifth round of the Candidates could have seen all four games finish decisively and in fact the two games that did were only decided by mistakes at the end of very long games and the two draws came after huge advantages were let go. In the end leaders were Gukesh and Nepomniachtchi half a point clear of Caruana and all three had good reason to thank their lucky stars today. Praggnanandhaa doesn't need any encouragement to go for dangerous attacking ideas but that's nevertheless what the leader Nepomniachtchi did in grabbing a hot pawn in the Petroff. Nepomniachtchi couldn't find his way through the complications and after 23...Nc5? (23...Bxh2+) he was lost with the move 26.Qe5! being the",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-joins-nepomniachtchi-in-the-candidates-lead-after-an-action-packed-round-5",
+         "pubDate" : "Wed, 10 Apr 2024 11:50:00",
+         "title" : "Gukesh joins Nepomniachtchi in the Candidates lead after an action packed Round 5 - 5"
+      },
+      {
          "description" : "Two games ended decisively in round 5 of the Candidates Tournament, though all four could have easily finished with decisive results. Praggnanandhaa R and Vidit Gujrathi got superior positions but failed to make the most of their advantages against Ian Nepomniachtchi and Fabiano Caruana respectively, while Hikaru Nakamura and Gukesh D obtained full points after their opponents faltered in technical endgames. Nepomniachtchi and Gukesh are now sharing the lead with 3&frac12; points each. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2959",
          "pubDate" : "Mon, 08 Apr 2024 16:34:38",
          "title" : "\"Capture\": changing the perception of chess through photography"
+      },
+      {
+         "description" : "I started last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/no-splitting-hares.html\">No Splitting Hares</A> (April 2024), saying, <BLOCKQUOTE> Since today is Easter Monday and since last week's Monday post, <I>Hindu Gods Play Chess</I> (March 2024), was another in a series on AI comics, let's continue with the religious theme. </BLOCKQUOTE> <P> Three weeks in a row makes a trend. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od08.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Buddhists play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> This image uses the '3D Render' style. In previous experiments I didn't like this style, bec",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/04/the-3d-render-style.html",
+         "pubDate" : "Mon, 08 Apr 2024 15:04:00",
+         "title" : "The '3D Render' Style"
       },
       {
          "description" : " While there is a belief that top level chess has a dependence on extensive opening preparation, I'm not convinced it is true. Certainly Carlsen seems to do well with his \"make it up as I go along\" opening approach, and a number of other players are following his lead. The following game from the Candidates certainly started with a surprise opening, but the evaluation of who was better seemed to swing back and forward throughout the game, indicating the while Prag may have been comfortable with the opening, he wasn't relying on it to deliver a victory. <br /> <b>Vidit,Santosh Gujrathi (2727) - Praggnanandhaa R (2747) [C70]</b><br /> FIDE Candidates 2024 Toronto, Canada (3.4), 05.04.2024 <scr",
