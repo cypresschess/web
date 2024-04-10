@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Every Chess-playing country is talking about Indian Chess, as 4 players debut in World Candidates 2024. GM D Gukesh, GM&#160; R Praggnanandhaa, GM Vidit Gujarathi",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-d-gukesh-and-gm-ian-nepomniachtchi-in-lead-at-candidates-2024/",
+         "pubDate" : "Wed, 10 Apr 2024 15:06:35",
+         "title" : "GM D Gukesh and GM Ian Nepomniachtchi in lead at Candidates 2024"
+      },
+      {
+         "description" : "Switzerland is a country with a long and rich chess tradition. Living up to its chess heritage and role as a home of the International Chess Federation, the Swiss threw a big party for chess on Sunday, April 7 and celebrated the 100th birthday of FIDE. | Photos: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/switzerland-celebrates-chess-in-the-city-of-bern",
+         "pubDate" : "Wed, 10 Apr 2024 15:00:00",
+         "title" : "Switzerland celebrates chess in the city of Bern"
+      },
+      {
+         "description" : " Tan Zhongyi leads the FIDE Women's Candidates with 3.5/5 half a point clear of Aleksandra Goryachkina. Nurgyul Salimova is the lowest rated player and Humpy tried to target her in Round 4 and that backfired. Today Tan got a very favourable Caro-Kann, 10.Bf4 seems new and 13...d4?! looks like a mistake, however 15.Nfxd4 winning the pawn straight away rather than waiting for a better chance with 15.Rfc1 seemed to reduce white's advantage and 25.Qc5 (slightly better was 25.Qb6) reduced chances further and the game was drawn in 25 moves. Kateryna Lagno missed a major opportunity to beat Lei Tingjie with the black pieces. First of all Lei was better and 19.Bc1! was a major improvement over the g",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-continues-to-lead-the-womens-candidates-after-a-day-of-draws-in-round-5",
+         "pubDate" : "Wed, 10 Apr 2024 14:07:00",
+         "title" : "Tan Zhongyi continues to lead the Women's Candidates after a day of draws in Round 5 - 5"
+      },
+      {
          "description" : " The fifth round of the Candidates could have seen all four games finish decisively and in fact the two games that did were only decided by mistakes at the end of very long games and the two draws came after huge advantages were let go. In the end leaders were Gukesh and Nepomniachtchi half a point clear of Caruana and all three had good reason to thank their lucky stars today. Praggnanandhaa doesn't need any encouragement to go for dangerous attacking ideas but that's nevertheless what the leader Nepomniachtchi did in grabbing a hot pawn in the Petroff. Nepomniachtchi couldn't find his way through the complications and after 23...Nc5? (23...Bxh2+) he was lost with the move 26.Qe5! being the",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "\"Capture\": changing the perception of chess through photography"
       },
       {
-         "description" : "I started last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/no-splitting-hares.html\">No Splitting Hares</A> (April 2024), saying, <BLOCKQUOTE> Since today is Easter Monday and since last week's Monday post, <I>Hindu Gods Play Chess</I> (March 2024), was another in a series on AI comics, let's continue with the religious theme. </BLOCKQUOTE> <P> Three weeks in a row makes a trend. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od08.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Buddhists play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> This image uses the '3D Render' style. In previous experiments I didn't like this style, bec",
+         "description" : "I started last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/no-splitting-hares.html\">No Splitting Hares</A> (April 2024), saying, <BLOCKQUOTE> Since today is Easter Monday and since last week's Monday post, <I>Hindu Gods Play Chess</I> (March 2024), was another in a series on AI comics, let's continue with the religious theme. </BLOCKQUOTE> <P> Three weeks in a row make a trend. As everyone knows, 'The trend is your friend!'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od08.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Buddhists play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> This image uses the '3D Render' style. In pre",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2024/04/the-3d-render-style.html",
