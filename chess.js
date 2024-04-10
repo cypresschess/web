@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two games ended decisively in round 5 of the Candidates Tournament, though all four could have easily finished with decisive results. Praggnanandhaa R and Vidit Gujrathi got superior positions but failed to make the most of their advantages against Ian Nepomniachtchi and Fabiano Caruana respectively, while Hikaru Nakamura and Gukesh D obtained full points after their opponents faltered in technical endgames. Nepomniachtchi and Gukesh are now sharing the lead with 3&frac12; points each. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-5",
+         "pubDate" : "Wed, 10 Apr 2024 06:40:00",
+         "title" : "Candidates R5: Gukesh and Nakamura score in eventful round"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,20 +18,12 @@ news_feed (
          "title" : "FIDE Candidates: Gukesh joins Nepomniachtchi in the lead "
       },
       {
-         "description" : "Fighting games culminated with two decisive results in the fifth round of the Candidates Tournament. While Vidit Gujrathi and Praggnanandhaa R could not convert superior positions into wins against Fabiano Caruana and Ian Nepomniachtchi respectively, Gukesh D and Hikaru Nakamura obtained victories after their rivals erred past the fifth hour of play. In the Women's Candidates, all games ended drawn, with Kateryna Lagno and Anna Muzychuk failing to make the most of big winning chances. | Replay all games with computer analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Tue, 09 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Gukesh and Nakamura score"
-      },
-      {
-         "description" : "This is a flash report. The full report, including game analysis, photographs, quotes from interviews, and more, will be added soon. After almost six hours of play and in the longest round of the 2024 FIDE Candidates Tournament, GM Gukesh Dommar...",
+         "description" : "After close to six hours of play and in the longest round of the 2024 FIDE Candidates Tournament so far, GM Gukesh Dommaraju defeated GM Nijat Abasov to catch GM Ian Nepomniachtchi in the lead. Nepomniachtchi, on the other hand, survived a lost po...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-5",
          "pubDate" : "Tue, 09 Apr 2024 18:07:00",
-         "title" : "Flash Report: Nepomniachtchi Survives Praggnanandhaa's Killer Preparation, Gukesh Joins Lead"
+         "title" : "Gukesh Joins Lead, Nepomniachtchi Survives Praggnanandhaa's Killer Preparation"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109173258.cms\" />In his 10-year chess journey, D Gukesh has achieved many thirds. After becoming the third youngest Grandmaster in history, he became the youngest to cross the 2750 Elo rating last year. He is the third youngest player after Bobby Fischer and Magnus Carsen to qualify for the Candidates chess tournament currently in progress in Toronto. At the end of the first phase of the 14-round Candidates tournament, Gukesh is the only Indian to remain unbeaten. He is holding the joint second position. In an interview with the world chess federation (FIDE), Gukes",
@@ -32,22 +32,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/my-ultimate-goal-is-to-become-worlds-best-gukesh/articleshow/109173258.cms",
          "pubDate" : "Tue, 09 Apr 2024 18:03:23",
          "title" : "My ultimate goal is to become world's best: Gukesh"
-      },
-      {
-         "description" : "Four rounds have been played in the Candidates Tournament and Ian Nepomniachtchi is in the lead with 3.0 out of 4. But, as we often hear, nothing is decided yet because, after all, 14 rounds are played in Toronto, which is still a long way to go. But the numbers tell a different story: in the six Candidates Tournaments from London 2013 to Madrid 2022, the player leading after four rounds has always won. | Photo: Ian Nepomniachtchi at the Madrid 2022 Candidates Tournament, which he won comfortably. | Photo: Stev Bonhage (FIDE)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-a-feeling-of-dj-vu",
-         "pubDate" : "Tue, 09 Apr 2024 17:00:00",
-         "title" : "Candidates Tournament 2024: A feeling of d&eacute;j&agrave; vu"
-      },
-      {
-         "description" : "In the present world, good marketing is everything. Surprisingly enough, this applies also to chess openings. For example, the Kings Indian Defence has got a phantastic PR among club players. It is considered to be fun to play, and a good weapon when it comes to playing for a win. On the contrary, the Nimzo Indian Defence is perceived as dull and drawish. The result is that after 1.d4 Nf6 2.c4, club players (rated around 1800) play 2&hellip;g6 more often than 2&hellip;e6. Interestingly, with the GMs the ratio is considerably different. Players rated 2500+ play 2&hellip;e6 three times as often than 2&hellip;g6. But why? | Photo: Aron Nimzowitsch, name-giver of the Nimzo Indian Defence (Photo:",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-31-nimzo-is-a-killer-weapon",
-         "pubDate" : "Tue, 09 Apr 2024 14:32:00",
-         "title" : "The Winning Academy 31: Nimzo is a Killer Weapon!"
       },
       {
          "description" : "He was born on 3 June 2011 in Bursa, Turkey. On April 1st (no April Fool's joke) the twelve-year-old, playing in the very strong GRENKE Chess Open, Yagiz Kaan Erdpgmus scored 7.0/9 points with a 2646 performance. With that he had fulfilled his final GM norm and become the youngest grandmaster in the world - the fourth youngest in chess history. We will be watching this young boy carefully. | Photo Ugur Medya",
