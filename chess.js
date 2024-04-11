@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "D Gukesh remains in the lead, while Vidit and Pragg posted wins in round six of the 2024 FIDE Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39917666/fide-candidates-2024-gukesh-remains-joint-lead-wins-pragg-vidit-round-6?device=featurephone",
+         "pubDate" : "Wed, 10 Apr 2024 22:17:09",
+         "title" : "FIDE Candidates 2024: Gukesh remains in joint-lead, wins for Pragg and Vidit in R6"
+      },
+      {
          "description" : "Six out of eight games ended decisively on Wednesday at the Candidates Tournaments in Toronto. Vidit Gujrathi and Praggnanandhaa R obtained big victories in the open, while Tan Zhongyi, Aleksandra Goryachkina, Kateryna Lagno and Lei Tingjie all collected full points in the women's section. Ian Nepomniachtchi and Gukesh D are sharing the lead in the open, while Tan Zhongyi is the sole leader in the women's category. | Replay all games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "The Candidates and the Eclipse"
       },
       {
-         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. Former Women&#39;s World Champion Tan Zhongyi capped off a tremendous attack against GM Anna Muzychuk t...",
+         "description" : "Former Women&#39;s World Champion Tan Zhongyi capped off a tremendous attack against GM Anna Muzychuk to gain her third victory in the 2024 FIDE Women&#39;s Candidates and maintain the lead. All four games were decisive in round six, leaving GM Aleksandra...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-6",
          "pubDate" : "Wed, 10 Apr 2024 16:53:00",
-         "title" : "Flash Report: Tan Plays Attacking Gem In Women's; Vidit, Praggnanandhaa Recover"
+         "title" : "Tan Plays Attacking Gem In All-Decisive Day In Women's; Vidit, Praggnanandhaa Recover"
       },
       {
          "description" : "",
