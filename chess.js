@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "Six out of eight games ended decisively on Wednesday at the Candidates Tournaments in Toronto. Vidit Gujrathi and Praggnanandhaa R obtained big victories in the open, while Tan Zhongyi, Aleksandra Goryachkina, Kateryna Lagno and Lei Tingjie all collected full points in the women's section. Ian Nepomniachtchi and Gukesh D are sharing the lead in the open, while Tan Zhongyi is the sole leader in the women's category. | Replay all games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Wed, 10 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates - Pragg and Vidit score, four decisive games in the women's"
       },
       {
          "description" : "It was all so nicely planned: during the Candidates Tournament a total eclipse of the sun was scheduled to pass over the venue in Canada, and FIDE scheduled the tournament to have a free day exactly when this happened. And they arranged a yacht cruise for players and visitors to witness this rare occurrence. Unfortunately, as sometimes happens, clouds got in the way. Still, it was a lifetime experience for so many. | All images by Michal Walusza for FIDE",
@@ -16,6 +16,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/the-candidates-and-the-eclipse",
          "pubDate" : "Wed, 10 Apr 2024 18:05:45",
          "title" : "The Candidates and the Eclipse"
+      },
+      {
+         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. Former Women&#39;s World Champion Tan Zhongyi capped off a tremendous attack against GM Anna Muzychuk t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-6",
+         "pubDate" : "Wed, 10 Apr 2024 16:53:00",
+         "title" : "Flash Report: Tan Plays Attacking Gem In Women's; Vidit, Praggnanandhaa Recover"
       },
       {
          "description" : "",
@@ -74,20 +82,20 @@ news_feed (
          "title" : "Candidates R5: Gukesh and Nakamura score in eventful round"
       },
       {
+         "description" : "D Gukesh's win over Nijat Abasov sees him join Ian Nepomniachtchi in the lead of the 2024 FIDE Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39910765/fide-candidates-2024-d-gukesh-beat-abasov-joins-ian-nepomniachtchi-lead-round-5?device=featurephone",
+         "pubDate" : "Wed, 10 Apr 2024 04:22:10",
+         "title" : "FIDE Candidates 2024: Gukesh beats Abasov, joins Nepomniachtchi in lead after R5"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2962",
          "pubDate" : "Wed, 10 Apr 2024 02:56:12",
          "title" : "FIDE Candidates: Gukesh joins Nepomniachtchi in the lead "
-      },
-      {
-         "description" : "D Gukesh's win over Nijat Abasov sees him join Ian Nepomniachtchi in the lead of the 2024 FIDE Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39910765/fide-candidates-2024-d-gukesh-beat-abasov-joins-ian-nepomniachtchi-lead-round-5?device=featurephone",
-         "pubDate" : "Wed, 10 Apr 2024 00:15:23",
-         "title" : "FIDE Candidates 2024: Gukesh beats Abasov, joins Nepomniachtchi in lead after R5"
       },
       {
          "description" : "After close to six hours of play and in the longest round of the 2024 FIDE Candidates Tournament so far, GM Gukesh Dommaraju defeated GM Nijat Abasov to catch GM Ian Nepomniachtchi in the lead. Nepomniachtchi, on the other hand, survived a lost po...",
@@ -994,14 +1002,6 @@ news_feed (
          "title" : "Firouzja Dominates Late After Nearly Winning Early"
       },
       {
-         "description" : "10-year-old prodigy FM Faustino Oro is once again in the spotlight. Now a clip of the Argentinian beating world number-one Magnus Carlsen in Chess.com&#39;s Bullet Brawl has captured the attention of millions of viewers within a few days. Few player...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/10-year-old-faustino-oro-goes-viral-after-beating-carlsen",
-         "pubDate" : "Wed, 27 Mar 2024 06:22:00",
-         "title" : "10-Year-Old Fausti Oro Goes Viral After Beating Magnus Carlsen On Chess.com"
-      },
-      {
          "description" : " The GRENKE Chess Classic is a double round robin tournament played at an accelerated 45 minutes plus 10 seconds a move time control. Magnus Carlsen, Ding Liren, MVL, Richard Rapport, Vincent Keymer and Daniel Fridman play two rounds a day 26th to 31st March 2024. Then on April 1st there is a final set of tie-break matches 1st vs 2nd, 3rd vs 4th and 5th vs 6th to decide the exact final placings.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1208,14 +1208,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-1-week-to-go.html",
          "pubDate" : "Thu, 21 Mar 2024 13:10:00",
          "title" : "2024 O2C Doeberl Cup - 1 week to go"
-      },
-      {
-         "description" : " The 1st CARICOM Chess Classic took place in Georgetown, Guyana, a nation with a rich chess tradition. Guyana was previously a regional powerhouse with a number of strong masters. More recently, the federation has rejuvenated and has launched an initiative that will bring shades of the old Caribbean Chess Championships from decades ago. #CARICOM DSG The post <a href=\"https://www.thechessdrum.net/blog/2024/03/20/trinidad-tobago-takes-1st-caricom-chess-classic/\">Trinidad &#038; Tobago takes 1st CARICOM Chess Classic!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/03/20/trinidad-tobago-takes-1st-caricom-chess-classic/",
-         "pubDate" : "Thu, 21 Mar 2024 00:01:39",
-         "title" : "Trinidad & Tobago takes 1st CARICOM Chess Classic!"
       }
    ]
 }
