@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tan Zhongyi leads the women's Candidates on 4.5/6 after a round where all the games finished decisively. Tan played the Colle system against Anna Muzychuk and hit a bullseye as black drifted into trouble. Objectively there weren't early problems but Carlsen won with black playing 9...cxd4 against Bluebaum, you have to take that as a serious recommendation. After 9...Be7 10.Ne5 cxd4 11.exd4 Nxe5 12.dxe5 white was already better and following 12...Nd7? Tan was close to winning. Tan made some inaccuracies along the way but Muzychuk never equalised and lost in 37 moves. Aleksandra Goryachkina kept second place after grinding out a win against Nurgyul Salimova in a Catalan. Rameshbabu Vaishali g",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/four-decisive-games-in-round-6-of-the-womens-candidates",
+         "pubDate" : "Thu, 11 Apr 2024 12:50:00",
+         "title" : "Four decisive games in Round 6 of the women's Candidates - 6"
+      },
+      {
          "description" : " The FIDE Candidates in Toronto, Canada are almost at the half way stage. Not much has been settled and 6 of the 8 players can still regard themselves as still being in the hunt for tournament victory. Today Ian Nepomniachtchi chose a drawish variation against Fabiano Caruana and whilst the American had to be accurate a draw was what we got. Nepomniachtchi said most of his preparation was focussed on the Sicilian but also such easy days are a key part of tournament strategy. How this draw will be seen will very much depend on the final result, wasted white against a major rival? Good pragmatic decision on the way to the title? We'll see. Gukesh did try against Hikaru Nakamura, his problem wa",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2964",
          "pubDate" : "Thu, 11 Apr 2024 04:47:56",
          "title" : "FIDE Candidates: Six victories in Round 6"
+      },
+      {
+         "description" : "D Gukesh remains in the lead, while Vidit and Pragg posted wins in round six of the 2024 FIDE Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39917666/fide-candidates-2024-gukesh-remains-joint-lead-wins-pragg-vidit-round-6?device=featurephone",
+         "pubDate" : "Wed, 10 Apr 2024 23:56:36",
+         "title" : "FIDE Candidates 2024: Gukesh remains in joint-lead, wins for Pragg and Vidit in R6"
       },
       {
          "description" : "Former Women&#39;s World Champion Tan Zhongyi capped off a tremendous attack against GM Anna Muzychuk to gain her third victory in the 2024 FIDE Women&#39;s Candidates and maintain the lead. All four games were decisive in round six, leaving GM Aleksandra...",
@@ -1200,14 +1216,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/american-cup-2024-live",
          "pubDate" : "Thu, 21 Mar 2024 18:50:00",
          "title" : "The American Cup: Live!"
-      },
-      {
-         "description" : " The 2024 O2C Doeberl Cup starts in a week, and at this stage the event is very close to breaking last years attendance record. The Premier is the strongest it has been for years, with 5 GM's, 8 IM's and 27 other titles players. Both the Major (Under 2100) and Minor (Under 1800) have reached capacity, while there are a few spots left in the Mini (Under 1500) and the Under 1200 event. With last years Blitz event attracting a field of 177 players, this years Blitz will have 2 sections. There will be an early starting Under 1600 event (beginning at 5:30pm on the Saturday), and the Open event (starting at 7:30pm). And for the first time since 2019 there will be an onsite commentator, with GM Dar",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-1-week-to-go.html",
-         "pubDate" : "Thu, 21 Mar 2024 13:10:00",
-         "title" : "2024 O2C Doeberl Cup - 1 week to go"
       }
    ]
 }
