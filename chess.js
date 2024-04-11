@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE Candidates in Toronto, Canada are almost at the half way stage. Not much has been settled and 6 of the 8 players can still regard themselves as still being in the hunt for tournament victory. Today Ian Nepomniachtchi chose a drawish variation against Fabiano Caruana and whilst the American had to be accurate a draw was what we got. Nepomniachtchi said most of his preparation was focussed on the Sicilian but also such easy days are a key part of tournament strategy. How this draw will be seen will very much depend on the final result, wasted white against a major rival? Good pragmatic decision on the way to the title? We'll see. Gukesh did try against Hikaru Nakamura, his problem wa",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-and-nepomniachtchi-continue-to-lead-after-draws-in-round-6",
+         "pubDate" : "Thu, 11 Apr 2024 11:22:00",
+         "title" : "Gukesh and Nepomniachtchi continue to lead after draws in Round 6 - 6"
+      },
+      {
          "description" : "Praggnanandhaa R (pictured) and Vidit Gujrathi scored full points in round 6 of the Candidates Tournament. Pragg inflicted a second consecutive defeat on Nijat Abasov, while Vidit got the better of an overly daring Alireza Firouzja. The remaining two games ended drawn, which leaves Gukesh D and Ian Nepomniachtchi still tied for first place in the standings. Pragg now stands a half point back, with as many points as Fabiano Caruana. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +18,20 @@ news_feed (
          "title" : "Candidates R6: Vital wins for Pragg and Vidit"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109216336.cms\" />Gukesh and Nepo lead in Candidates Chess. Pragg's intense game against Nepo ended in a draw. Vidit missed opportunities against Caruana, ending in a draw. Humpy's game ended in a 44-move draw.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-gukesh-jumps-into-joint-lead/articleshow/109216336.cms",
+         "pubDate" : "Thu, 11 Apr 2024 08:16:04",
+         "title" : "Candidates Chess: Gukesh jumps into joint lead"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2964",
          "pubDate" : "Thu, 11 Apr 2024 04:47:56",
          "title" : "FIDE Candidates: Six victories in Round 6"
-      },
-      {
-         "description" : "Six out of eight games ended decisively on Wednesday at the Candidates Tournaments in Toronto. Vidit Gujrathi and Praggnanandhaa R obtained big victories in the open, while Tan Zhongyi, Aleksandra Goryachkina, Kateryna Lagno and Lei Tingjie all collected full points in the women's section. Ian Nepomniachtchi and Gukesh D are sharing the lead in the open, while Tan Zhongyi is the sole leader in the women's category. | Replay all games with computer-assisted analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Wed, 10 Apr 2024 20:15:00",
-         "title" : "Candidates - Pragg and Vidit score, four decisive games in the women's"
       },
       {
          "description" : "Former Women&#39;s World Champion Tan Zhongyi capped off a tremendous attack against GM Anna Muzychuk to gain her third victory in the 2024 FIDE Women&#39;s Candidates and maintain the lead. All four games were decisive in round six, leaving GM Aleksandra...",
