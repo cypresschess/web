@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "D Gukesh remains in the lead, while Vidit and Pragg posted wins in round six of the 2024 FIDE Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39917666/fide-candidates-2024-gukesh-remains-joint-lead-wins-pragg-vidit-round-6?device=featurephone",
-         "pubDate" : "Wed, 10 Apr 2024 22:17:09",
-         "title" : "FIDE Candidates 2024: Gukesh remains in joint-lead, wins for Pragg and Vidit in R6"
+         "description" : "Praggnanandhaa R (pictured) and Vidit Gujrathi scored full points in round 6 of the Candidates Tournament. Pragg inflicted a second consecutive defeat on Nijat Abasov, while Vidit got the better of an overly daring Alireza Firouzja. The remaining two games ended drawn, which leaves Gukesh D and Ian Nepomniachtchi still tied for first place in the standings. Pragg now stands a half point back, with as many points as Fabiano Caruana. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-6",
+         "pubDate" : "Thu, 11 Apr 2024 09:00:00",
+         "title" : "Candidates R6: Vital wins for Pragg and Vidit"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2964",
+         "pubDate" : "Thu, 11 Apr 2024 04:47:56",
+         "title" : "FIDE Candidates: Six victories in Round 6"
       },
       {
          "description" : "Six out of eight games ended decisively on Wednesday at the Candidates Tournaments in Toronto. Vidit Gujrathi and Praggnanandhaa R obtained big victories in the open, while Tan Zhongyi, Aleksandra Goryachkina, Kateryna Lagno and Lei Tingjie all collected full points in the women's section. Ian Nepomniachtchi and Gukesh D are sharing the lead in the open, while Tan Zhongyi is the sole leader in the women's category. | Replay all games with computer-assisted analysis. Full reports to follow shortly.",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Wed, 10 Apr 2024 20:15:00",
          "title" : "Candidates - Pragg and Vidit score, four decisive games in the women's"
-      },
-      {
-         "description" : "It was all so nicely planned: during the Candidates Tournament a total eclipse of the sun was scheduled to pass over the venue in Canada, and FIDE scheduled the tournament to have a free day exactly when this happened. And they arranged a yacht cruise for players and visitors to witness this rare occurrence. Unfortunately, as sometimes happens, clouds got in the way. Still, it was a lifetime experience for so many. | All images by Michal Walusza for FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-candidates-and-the-eclipse",
-         "pubDate" : "Wed, 10 Apr 2024 18:05:45",
-         "title" : "The Candidates and the Eclipse"
       },
       {
          "description" : "Former Women&#39;s World Champion Tan Zhongyi capped off a tremendous attack against GM Anna Muzychuk to gain her third victory in the 2024 FIDE Women&#39;s Candidates and maintain the lead. All four games were decisive in round six, leaving GM Aleksandra...",
@@ -50,14 +50,6 @@ news_feed (
          "title" : "GM D Gukesh and GM Ian Nepomniachtchi in lead at Candidates 2024"
       },
       {
-         "description" : "Switzerland is a country with a long and rich chess tradition. Living up to its chess heritage and role as a home of the International Chess Federation, the Swiss threw a big party for chess on Sunday, April 7 and celebrated the 100th birthday of FIDE. | Photos: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/switzerland-celebrates-chess-in-the-city-of-bern",
-         "pubDate" : "Wed, 10 Apr 2024 15:00:00",
-         "title" : "Switzerland celebrates chess in the city of Bern"
-      },
-      {
          "description" : " Tan Zhongyi leads the FIDE Women's Candidates with 3.5/5 half a point clear of Aleksandra Goryachkina. Nurgyul Salimova is the lowest rated player and Humpy tried to target her in Round 4 and that backfired. Today Tan got a very favourable Caro-Kann, 10.Bf4 seems new and 13...d4?! looks like a mistake, however 15.Nfxd4 winning the pawn straight away rather than waiting for a better chance with 15.Rfc1 seemed to reduce white's advantage and 25.Qc5 (slightly better was 25.Qb6) reduced chances further and the game was drawn in 25 moves. Kateryna Lagno missed a major opportunity to beat Lei Tingjie with the black pieces. First of all Lei was better and 19.Bc1! was a major improvement over the g",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -80,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/duda-paravyan-win-titled-tuesday-april-9-2024",
          "pubDate" : "Wed, 10 Apr 2024 08:52:25",
          "title" : "No Tuesday Ties As Duda, Paravyan Lead Way"
-      },
-      {
-         "description" : "Two games ended decisively in round 5 of the Candidates Tournament, though all four could have easily finished with decisive results. Praggnanandhaa R and Vidit Gujrathi got superior positions but failed to make the most of their advantages against Ian Nepomniachtchi and Fabiano Caruana respectively, while Hikaru Nakamura and Gukesh D obtained full points after their opponents faltered in technical endgames. Nepomniachtchi and Gukesh are now sharing the lead with 3&frac12; points each. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-5",
-         "pubDate" : "Wed, 10 Apr 2024 06:40:00",
-         "title" : "Candidates R5: Gukesh and Nakamura score in eventful round"
       },
       {
          "description" : "D Gukesh's win over Nijat Abasov sees him join Ian Nepomniachtchi in the lead of the 2024 FIDE Candidates.",
