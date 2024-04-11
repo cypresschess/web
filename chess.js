@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Thu, 11 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
+         "description" : " Life Master Glenn Bady has been involved in chess for nearly 50 years and was part of the contingent of Philadelphia-area masters from the Black community. Bady paired with the late Wilbert Paige at West Philadelphia High School to match rival Bartram High, which fielded Norman Rogers and Raymond Robinson. Over the years, Bady has The post <a href=\"https://www.thechessdrum.net/blog/2024/04/11/glenn-bady-becomes-fide-trainer/\">Glenn Bady becomes FIDE Trainer!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/04/11/glenn-bady-becomes-fide-trainer/",
+         "pubDate" : "Thu, 11 Apr 2024 17:25:47",
+         "title" : "Glenn Bady becomes FIDE Trainer!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2965",
+         "pubDate" : "Thu, 11 Apr 2024 17:23:31",
+         "title" : "1100 days for 100 years of FIDE, and a Guinness World Record!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109225590.cms\" />A day after they squandered the opportunity to garner full points, Indian GMs R Praggnanandhaa and Vidit Gujrathi won their sixth-round battles while 17-year-old D Gukesh held world No. 3 Hikaru Nakamura to maintain lead with the two-time challenger Ian Nepomniachtchi in the Candidates Chess tournament. Both the Indian women candidates lost their respective sixth-round games at the Great Hall in Toronto.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-holds-world-no-3-hikaru-nakamura-stays-in-joint-lead-in-candidates-chess/articleshow/109225590.cms",
+         "pubDate" : "Thu, 11 Apr 2024 17:01:53",
+         "title" : "D Gukesh holds Nakamura, stays in joint lead in Candidates Chess"
+      },
+      {
          "description" : " Tan Zhongyi leads the women's Candidates on 4.5/6 after a round where all the games finished decisively. Tan played the Colle system against Anna Muzychuk and hit a bullseye as black drifted into trouble. Objectively there weren't early problems but Carlsen won with black playing 9...cxd4 against Bluebaum, you have to take that as a serious recommendation. After 9...Be7 10.Ne5 cxd4 11.exd4 Nxe5 12.dxe5 white was already better and following 12...Nd7? Tan was close to winning. Tan made some inaccuracies along the way but Muzychuk never equalised and lost in 37 moves. Aleksandra Goryachkina kept second place after grinding out a win against Nurgyul Salimova in a Catalan. Rameshbabu Vaishali g",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1208,14 +1240,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-2a-1-b-on-25-26-march-2024/",
          "pubDate" : "Fri, 22 Mar 2024 04:44:46",
          "title" : "AICF Arbiter Refresher Seminar Batch 2 A & 2 B on 25-26 March 2024"
-      },
-      {
-         "description" : "The American Cup, one of the United States' premier chess tournaments, returns to Saint Louis. Now in its third year, the event runs from March 12-21, 2024, at the iconic World Chess Hall of Fame, featuring sixteen of America's top chess talents. With $400,000 in prize money up for grabs, the competitors will prove their mettle under mounting pressure in the double-elimination knockout format. | Follow the games live with expert commentary starting at 19.00 CET (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/american-cup-2024-live",
-         "pubDate" : "Thu, 21 Mar 2024 18:50:00",
-         "title" : "The American Cup: Live!"
       }
    ]
 }
