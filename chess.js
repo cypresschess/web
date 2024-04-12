@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109254984.cms\" />More than the opponent, the clock becoming the nemesis of chess players has happened often to the best of the game. Sitting pretty in an authoritative position on Thursday, Gukesh D goofed up in time trouble to suffer his first defeat of the Candidates Chess tournament - to Alireza Firouzja in Toronto.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-gets-into-time-trouble-loses-contest-and-lead-in-candidates-chess/articleshow/109254984.cms",
+         "pubDate" : "Fri, 12 Apr 2024 17:09:16",
+         "title" : "D Gukesh gets into time trouble, loses contest and lead in Candidates"
+      },
+      {
          "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help building your opening repertoire and understanding the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. Pre-order now! Delivery on 18 April 2024.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/gm-d-gukesh-and-gm-r-praggnanandhaa-half-point-behind-the-tournament-leader-gm-ian-nepomniachtchi/",
          "pubDate" : "Fri, 12 Apr 2024 09:33:28",
          "title" : "GM D Gukesh and GM R Praggnanandhaa half point behind the tournament leader GM Ian Nepomniachtchi"
+      },
+      {
+         "description" : "GM Fabiano Caruana trails leader GM Ian Nepomniachtchi by half a point at the midway stage of the 2024 Candidates Tournament, just as he did in 2022. Back then he crashed and burned as he fought for first place, only for it turn out that second pl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/caruana-dream-world-chess-champion",
+         "pubDate" : "Fri, 12 Apr 2024 09:26:03",
+         "title" : "Caruana: 'I Had A Dream I Would Become World Champion'"
       },
       {
          "description" : "The European Universities Games will take place from 12-24 July in Debrecen-Miskolc, Hungary. Student-athletes will compete in as many as 17 disciplines. This means that up to 4,500 players from all over Europe will take part in the 6th edition of the European Universities Games (EUG). European Universities Chess Championship 2024 is part of the European Universities Games and will be played from 10-13 July at the University of Miskolc Musicpalace. The event is comprised of four tournaments: Every match []",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2966",
          "pubDate" : "Thu, 11 Apr 2024 22:05:26",
          "title" : "World Chess Hall of Fame hosts new exhibition \"Clash for the Crown: Celebrating Chess Champions\""
-      },
-      {
-         "description" : "Going into the second rest day of the Candidates Tournaments in Toronto, Ian Nepomniachtchi and Tan Zhongyi are the sole leaders in the open and the women's sections, respectively. Former co-leader Gukesh D was defeated by Alireza Firouzja in round 7 of the open, while Lei Tingjie scored the only full point seen in the women's section - Lei got the better of Vaishali R. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Thu, 11 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Firouzja beats Gukesh, Lei beats Vaishali"
       },
       {
          "description" : " Life Master Glenn Bady has been involved in chess for nearly 50 years and was part of the contingent of Philadelphia-area masters from the Black community. Bady paired with the late Wilbert Paige at West Philadelphia High School to match rival Bartram High, which fielded Norman Rogers and Raymond Robinson. Over the years, Bady has The post <a href=\"https://www.thechessdrum.net/blog/2024/04/11/glenn-bady-becomes-fide-trainer/\">Glenn Bady becomes FIDE Trainer!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1122,14 +1130,6 @@ news_feed (
          "title" : "'Top-Level Chess Is A Bubble': GothamChess, Rensch, Canty Discuss Game's Future At MIT"
       },
       {
-         "description" : "GM Richard Rapport&#38;nbsp;leads the 2024 GRENKE Chess Classic by a full point after beating GM Daniel Fridman to score 1.5/2 for the second day in a row. Elsewhere time pressure saw wins evaporate for world number-one Magnus Carlsen (against GM Maxi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-2",
-         "pubDate" : "Wed, 27 Mar 2024 15:28:00",
-         "title" : "Rapport Extends Leads As Carlsen, Keymer, MVL Miss Huge Chances"
-      },
-      {
          "description" : "The European Small Nations Individual Open and Women's Chess Championships 2024 will take place from 22nd-30th June in Andorra la Vella, Andorra, supported by the European Chess Union. The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship will be simultaneously played in the same venue. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1272,22 +1272,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/american-cup-2024",
          "pubDate" : "Fri, 22 Mar 2024 21:12:00",
          "title" : "American Cup 2024 - Games and Results"
-      },
-      {
-         "description" : " The Reykjavik Open took place 15th to 21st March 2024. Leading players: Bogdan-Daniel Deac, Vasyl Ivanchuk, Xiangyu Xu, Jules Moussard, Matthieu Cornette, Paulius Pultinevicius etc. Top seed Bogdan-Daniel Deac won with 7.5/9 half a point clear of the field.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/reykjavik-open-2024",
-         "pubDate" : "Fri, 22 Mar 2024 18:56:00",
-         "title" : "Reykjavik Open 2024 - Games and Results"
-      },
-      {
-         "description" : "Follow these links for round-by-round reports on this event from IA Matthew Carr! Menchik Memorial 2024 Round 1 &#124; Menchik Memorial 2024 Round 2 Menchik...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/menchik-memorial-2024-reports/",
-         "pubDate" : "Fri, 22 Mar 2024 16:48:23",
-         "title" : "Menchik Memorial 2024 - reports"
       }
    ]
 }
