@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Ian Nepomniachtchi leads the FIDE Candidates with 4.5/7 at the half way stage. Nepomniachtchi hasn't looked that steady in the last three rounds and in Round 7 he and Hikaru Nakamura engaged in a memory competition for a mind bending computer line in the Petroff. It seems that Nepomniachtchi was the first to forget something important as 21...Bf5? was significantly worse than 21...Kg8. Nakamura thought for a long time over his 25.Qe2?! which turned out to be distinctly second best to 24.Ndf3 (eval over +1) Nepomniachtchi obviously realised the problem and after Qe2 bashed out 25...Ne4! immediately with obvious relief, the game was level and Nepomniachtchi had no problem proving it. Alireza ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-loses-to-firouzja-in-round-7-of-the-candidates",
+         "pubDate" : "Fri, 12 Apr 2024 01:21:00",
+         "title" : "Gukesh loses to Firouzja in Round 7 of the Candidates - 7"
+      },
+      {
+         "description" : " The FIDE Women's Candidates tournament reached the half way stage and round 7 saw the meeting of the top two placed players. Aleksandra Goryachkina remained half a point behind Tan Zhongyi after their 40 move draw. This was a modern move d-pawn/Queen's Gambit move order, that ended up in some sort of Catalan. Goryachkina was a little better and 18.Ne1 might have kept some advantage but 18.Ng5 was more or less equal 20.e4 was also perhaps a bit better for white but after that there were trades to a truly drawn position. They meet again in Round 13. Lei Tingjie was the only winner of the round beating Rameshbabu Vaishali who lost her second game in a row. On a trivial note the four knights in",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-leads-the-womens-candidates-at-the-half-way-stage-with-57",
+         "pubDate" : "Fri, 12 Apr 2024 00:33:00",
+         "title" : "Tan Zhongyi leads the Women's Candidates at the half way stage with 5/7 - 7"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "World Chess Hall of Fame hosts new exhibition \"Clash for the Crown: Celebrating Chess Champions\""
       },
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "Going into the second rest day of the Candidates Tournaments in Toronto, Ian Nepomniachtchi and Tan Zhongyi are the sole leaders in the open and the women's sections, respectively. Former co-leader Gukesh D was defeated by Alireza Firouzja in round 7 of the open, while Lei Tingjie scored the only full point seen in the women's section - Lei got the better of Vaishali R. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Thu, 11 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates Tournaments - Firouzja beats Gukesh, Lei beats Vaishali"
       },
       {
          "description" : " Life Master Glenn Bady has been involved in chess for nearly 50 years and was part of the contingent of Philadelphia-area masters from the Black community. Bady paired with the late Wilbert Paige at West Philadelphia High School to match rival Bartram High, which fielded Norman Rogers and Raymond Robinson. Over the years, Bady has The post <a href=\"https://www.thechessdrum.net/blog/2024/04/11/glenn-bady-becomes-fide-trainer/\">Glenn Bady becomes FIDE Trainer!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-holds-world-no-3-hikaru-nakamura-stays-in-joint-lead-in-candidates-chess/articleshow/109225590.cms",
          "pubDate" : "Thu, 11 Apr 2024 17:01:53",
          "title" : "D Gukesh holds Nakamura, stays in joint lead in Candidates Chess"
+      },
+      {
+         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. At the halfway mark of the 2024 FIDE Candidates Tournament, GM Ian Nepomniachtchi is back in the so...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-7",
+         "pubDate" : "Thu, 11 Apr 2024 16:42:00",
+         "title" : "Flash Report: Firouzja Knocks Gukesh Out Of Lead, Nepomniachtchi Heads Tournament Again"
       },
       {
          "description" : " Tan Zhongyi leads the women's Candidates on 4.5/6 after a round where all the games finished decisively. Tan played the Colle system against Anna Muzychuk and hit a bullseye as black drifted into trouble. Objectively there weren't early problems but Carlsen won with black playing 9...cxd4 against Bluebaum, you have to take that as a serious recommendation. After 9...Be7 10.Ne5 cxd4 11.exd4 Nxe5 12.dxe5 white was already better and following 12...Nd7? Tan was close to winning. Tan made some inaccuracies along the way but Muzychuk never equalised and lost in 37 moves. Aleksandra Goryachkina kept second place after grinding out a win against Nurgyul Salimova in a Catalan. Rameshbabu Vaishali g",
@@ -1048,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2937",
          "pubDate" : "Wed, 27 Mar 2024 12:06:13",
          "title" : "FIDE World Junior Rapid & Blitz Championships 2024: Registration is open"
-      },
-      {
-         "description" : "After GM Denis Lazavik upset GM Alireza Firouzja in the 10th round of the early Titled Tuesday event of March 26 and went on to win, Firouzja scored a dominant 10.5/11 in the late contest to capture the second tournament. It was Lazavik&#39;s first wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-firouzja-win-titled-tuesday-march-26-2024",
-         "pubDate" : "Wed, 27 Mar 2024 07:57:56",
-         "title" : "Firouzja Dominates Late After Nearly Winning Early"
       },
       {
          "description" : " The GRENKE Chess Classic is a double round robin tournament played at an accelerated 45 minutes plus 10 seconds a move time control. Magnus Carlsen, Ding Liren, MVL, Richard Rapport, Vincent Keymer and Daniel Fridman play two rounds a day 26th to 31st March 2024. Then on April 1st there is a final set of tie-break matches 1st vs 2nd, 3rd vs 4th and 5th vs 6th to decide the exact final placings.",
