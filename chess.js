@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help building your opening repertoire and understanding the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. Pre-order now! Delivery on 18 April 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-giri-a-supergrandmaster-s-guide-to-openings-vol-1-2",
+         "pubDate" : "Fri, 12 Apr 2024 17:00:00",
+         "title" : "Anish Giri: A Supergrandmaster's Guide to Openings Vol.1 & 2"
+      },
+      {
+         "description" : " I'm a big fan of reading about chess (and most other things) but I am falling into the trap of watching more chess than reading (or writing). Maybe this is just me catching up with the times, or just part of my continuing descent into laziness. It probably hasn't been helped in the short term by picking up my usual cold after running an interschool event (120 players at the ACT Girls Primary Championships). Having said that I will probably stick to writing as (a) I have a good face for radio and (b) it probably takes *more* effort to produce visual content than it does to produce written content. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/watching-rather-than-writing.html",
+         "pubDate" : "Fri, 12 Apr 2024 14:30:00",
+         "title" : "Watching rather than writing"
+      },
+      {
+         "description" : "Arne recently played in a chess tournament, and one of his opponents played the unusual 1.f4, which was quite a surprise. Sadly, he didn't film this Smart Moves episode before the tournament, to get to know the surprising answer Nh6!? The so called - Horsefly Defence in the Bird Opening. Even the engines think that this counter is absolutely legit, and the Mega Database shows excellent results as well. Svitlana shows, why it is a powerful move!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-anti-bird-nh6-against-1-f4",
+         "pubDate" : "Fri, 12 Apr 2024 14:00:00",
+         "title" : "Svitlana's Smart Moves - The Anti-Bird: Nh6!? against 1.f4"
+      },
+      {
          "description" : "At the halfway mark in the Candidates Tournament, Ian Nepomniachtchi tops the standings with 4&frac12; points to his name. Former co-leader Gukesh D was defeated by Alireza Firouzja, who came from losing 3 out of the first 6 games he played in Toronto. Gukesh is now sharing second place - a half point behind Nepomniachtchi - with Praggnanandhaa R and Fabiano Caruana. Rounds 8-10 will take place between Saturday and Monday, following the tournament's second rest day. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +58,20 @@ news_feed (
          "title" : "Gukesh suffers loss; Praggnanandhaa holds Caruana at Candidates"
       },
       {
-         "description" : " The 33-year-old Russian, a defeated world title challenger in 2021 and 2023, is in line for a third attempt as he leads in Toronto at halfway in the 14-round event Russia's Ian Nepomniachtchi leads at halfway in the â‚¬500k Candidates in Toronto, Canada, whose winner qualifies for a world title match later this year with the holder, China's Ding Liren. Scores after round seven (of 14): Nepomniachtchi (Russia) 4.5; Fabiano Caruana (US), Praggnanandhaa R and Gukesh D (both India) 4; Hikaru Nakamura (US) and Vidit Gujrathi (India) 3.5; Alireza Firouzja (France) 2.5; Nijat Abasov (Azerbaijan) 2. <a href=\"https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidate",
+         "description" : " The 33-year-old Russian, a defeated world title challenger in 2021 and 2023, is in line for a third attempt as he leads in Toronto at halfway Russia's Ian Nepomniachtchi leads at halfway in the â‚¬500k Candidates in Toronto, Canada, whose winner qualifies for a world title match later this year with the holder, China's Ding Liren. Scores after round seven (of 14): Nepomniachtchi (Russia) 4.5; ­Fabiano Caruana (US), ­Praggnanandhaa R and Gukesh D (both India) 4; Hikaru Nakamura (US) and Vidit Gujrathi (India) 3.5; Alireza Firouzja (France) 2.5; Nijat Abasov (Azerbaijan) 2. <a href=\"https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidates-victory-as-indian-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidates-victory-as-indian-trio-shine",
          "pubDate" : "Fri, 12 Apr 2024 07:00:47",
          "title" : "Chess: Nepomniachtchi bids for third Candidates victory as Indian trio shine"
+      },
+      {
+         "description" : "Nepomniachtchi is in the sole lead, with Gukesh, Praggnanandhaa and Caruana snapping at his heels.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39925095/fide-candidates-2024-praggnanadhaa-gukesh-stay-close-leader-nepomniachtchi-round-7?device=featurephone",
+         "pubDate" : "Fri, 12 Apr 2024 02:30:54",
+         "title" : "FIDE Candidates 2024: Pragg, Gukesh stay close to leader Nepomniachtchi after R7"
       },
       {
          "description" : "",
@@ -158,7 +190,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/39917666/fide-candidates-2024-gukesh-remains-joint-lead-wins-pragg-vidit-round-6?device=featurephone",
-         "pubDate" : "Wed, 10 Apr 2024 22:17:09",
+         "pubDate" : "Wed, 10 Apr 2024 23:56:36",
          "title" : "FIDE Candidates 2024: Gukesh remains in joint-lead, wins for Pragg and Vidit in R6"
       },
       {
@@ -1256,22 +1288,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/menchik-memorial-2024-reports/",
          "pubDate" : "Fri, 22 Mar 2024 16:48:23",
          "title" : "Menchik Memorial 2024 - reports"
-      },
-      {
-         "description" : " Jacorey Bynum broke the 2200 barrier last weekend at the Southern Chess Classic, earning the coveted title of National Master! It is a testament to the values of chess education. Jacorey BynumPhoto from jbking07 (chess.com) Jacorey learned to play chess in August 2017 as a positive outlet during a difficult period in life. He started The post <a href=\"https://www.thechessdrum.net/blog/2024/03/22/jacorey-bynum-makes-national-master/\">Jacorey Bynum makes National Master!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/03/22/jacorey-bynum-makes-national-master/",
-         "pubDate" : "Fri, 22 Mar 2024 15:04:08",
-         "title" : "Jacorey Bynum makes National Master!"
-      },
-      {
-         "description" : " Saw this on youtube (no link cause I am lazy)<br />\"Is checkers a better game than chess?\" No <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/simple-questions-with-simple-answers.html",
-         "pubDate" : "Fri, 22 Mar 2024 12:17:00",
-         "title" : "Simple questions with simple answers"
       }
    ]
 }
