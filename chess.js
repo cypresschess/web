@@ -54,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/caruana-dream-world-chess-champion",
-         "pubDate" : "Fri, 12 Apr 2024 09:26:03",
+         "pubDate" : "Fri, 12 Apr 2024 09:26:00",
          "title" : "Caruana: 'I Had A Dream I Would Become World Champion'"
       },
       {
@@ -1264,14 +1264,6 @@ news_feed (
          "link" : "https://aicf.in/qualification-criteria-for-the-chess-olympiad-2024/",
          "pubDate" : "Sat, 23 Mar 2024 06:09:17",
          "title" : "Qualification criteria for the 45th Chess Olympiad 2024"
-      },
-      {
-         "description" : " The American Cup took place Tue 12th to Thu 21st Mar in Saint Louis. The format was a knock-out tournament with double elimination. A mixture of Classical first and then rapid games are played followed by tie-breaks if required. Open event: Caruana, So, Dominguez, Aronian, Shankland, Robson, Sevian and Oparin. Women's: Krush, Lee, Tokhirjonova, Zatonskih, Paikidze, Abrahamyan, Jennifer Yu, Zoey Tang. Levon Aronian was unbeaten throughout and defeated Wesley So 2.5-1.5 in the Grand Final. Alice Lee won the women's event, she lost to Irina Krush in the original final, beat her in the Grand Final and then won the final two blitz games in the Grand Final reset.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/american-cup-2024",
-         "pubDate" : "Fri, 22 Mar 2024 21:12:00",
-         "title" : "American Cup 2024 - Games and Results"
       }
    ]
 }
