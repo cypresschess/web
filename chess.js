@@ -82,14 +82,6 @@ news_feed (
          "title" : "Chess: Nepomniachtchi bids for third Candidates victory as Indian trio shine"
       },
       {
-         "description" : "Nepomniachtchi is in the sole lead, with Gukesh, Praggnanandhaa and Caruana snapping at his heels.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39925095/fide-candidates-2024-praggnanadhaa-gukesh-stay-close-leader-nepomniachtchi-round-7?device=featurephone",
-         "pubDate" : "Fri, 12 Apr 2024 02:30:54",
-         "title" : "FIDE Candidates 2024: Pragg, Gukesh stay close to leader Nepomniachtchi after R7"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -112,6 +104,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-leads-the-womens-candidates-at-the-half-way-stage-with-57",
          "pubDate" : "Fri, 12 Apr 2024 00:33:00",
          "title" : "Tan Zhongyi leads the Women's Candidates at the half way stage with 5/7 - 7"
+      },
+      {
+         "description" : "Nepomniachtchi is in the sole lead, with Gukesh, Praggnanandhaa and Caruana snapping at his heels.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39925095/fide-candidates-2024-praggnanadhaa-gukesh-stay-close-leader-nepomniachtchi-round-7?device=featurephone",
+         "pubDate" : "Fri, 12 Apr 2024 00:03:54",
+         "title" : "FIDE Candidates 2024: Pragg, Gukesh stay close to leader Nepomniachtchi after R7"
       },
       {
          "description" : "",
