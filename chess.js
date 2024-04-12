@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2967",
+         "pubDate" : "Fri, 12 Apr 2024 02:29:33",
+         "title" : "FIDE Candidates: Nepomniachtchi and Tan lead at the halfway point"
+      },
+      {
          "description" : " Ian Nepomniachtchi leads the FIDE Candidates with 4.5/7 at the half way stage. Nepomniachtchi hasn't looked that steady in the last three rounds and in Round 7 he and Hikaru Nakamura engaged in a memory competition for a mind bending computer line in the Petroff. It seems that Nepomniachtchi was the first to forget something important as 21...Bf5? was significantly worse than 21...Kg8. Nakamura thought for a long time over his 25.Qe2?! which turned out to be distinctly second best to 24.Ndf3 (eval over +1) Nepomniachtchi obviously realised the problem and after Qe2 bashed out 25...Ne4! immediately with obvious relief, the game was level and Nepomniachtchi had no problem proving it. Alireza ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -58,12 +66,12 @@ news_feed (
          "title" : "D Gukesh holds Nakamura, stays in joint lead in Candidates Chess"
       },
       {
-         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. At the halfway mark of the 2024 FIDE Candidates Tournament, GM Ian Nepomniachtchi is back in the so...",
+         "description" : "At the halfway mark of the 2024 FIDE Candidates Tournament, GM Ian Nepomniachtchi is back in the sole lead. In round seven, he survived over 20 moves of preparation from GM Hikaru Nakamura to make the draw. GM Gukesh Dommaraju was moves away fro...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-7",
          "pubDate" : "Thu, 11 Apr 2024 16:42:00",
-         "title" : "Flash Report: Firouzja Knocks Gukesh Out Of Lead, Nepomniachtchi Heads Tournament Again"
+         "title" : "Firouzja Knocks Gukesh Out Of Lead, Nepomniachtchi Heads Tournament Again"
       },
       {
          "description" : " Tan Zhongyi leads the women's Candidates on 4.5/6 after a round where all the games finished decisively. Tan played the Colle system against Anna Muzychuk and hit a bullseye as black drifted into trouble. Objectively there weren't early problems but Carlsen won with black playing 9...cxd4 against Bluebaum, you have to take that as a serious recommendation. After 9...Be7 10.Ne5 cxd4 11.exd4 Nxe5 12.dxe5 white was already better and following 12...Nd7? Tan was close to winning. Tan made some inaccuracies along the way but Muzychuk never equalised and lost in 37 moves. Aleksandra Goryachkina kept second place after grinding out a win against Nurgyul Salimova in a Catalan. Rameshbabu Vaishali g",
@@ -110,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/39917666/fide-candidates-2024-gukesh-remains-joint-lead-wins-pragg-vidit-round-6?device=featurephone",
-         "pubDate" : "Wed, 10 Apr 2024 23:56:36",
+         "pubDate" : "Wed, 10 Apr 2024 22:17:09",
          "title" : "FIDE Candidates 2024: Gukesh remains in joint-lead, wins for Pragg and Vidit in R6"
       },
       {
