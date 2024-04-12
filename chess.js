@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At the halfway mark in the Candidates Tournament, Ian Nepomniachtchi tops the standings with 4&frac12; points to his name. Former co-leader Gukesh D was defeated by Alireza Firouzja, who came from losing 3 out of the first 6 games he played in Toronto. Gukesh is now sharing second place - a half point behind Nepomniachtchi - with Praggnanandhaa R and Fabiano Caruana. Rounds 8-10 will take place between Saturday and Monday, following the tournament's second rest day. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-7",
+         "pubDate" : "Fri, 12 Apr 2024 11:05:00",
+         "title" : "Candidates R7: Nepo sole leader as Firouzja beats Gukesh"
+      },
+      {
+         "description" : "Round 6 GM Vidit Gujarathi Stunned World no 2 Alireza Firouza playing with black the French man opted for Sicilian Defense and was in trouble",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-d-gukesh-and-gm-r-praggnanandhaa-half-point-behind-the-tournament-leader-gm-ian-nepomniachtchi/",
+         "pubDate" : "Fri, 12 Apr 2024 09:33:28",
+         "title" : "GM D Gukesh and GM R Praggnanandhaa half point behind the tournament leader GM Ian Nepomniachtchi"
+      },
+      {
+         "description" : "The European Universities Games will take place from 12-24 July in Debrecen-Miskolc, Hungary. Student-athletes will compete in as many as 17 disciplines. This means that up to 4,500 players from all over Europe will take part in the 6th edition of the European Universities Games (EUG). European Universities Chess Championship 2024 is part of the European Universities Games and will be played from 10-13 July at the University of Miskolc Musicpalace. The event is comprised of four tournaments: Every match []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-universities-chess-championship-2024/",
+         "pubDate" : "Fri, 12 Apr 2024 08:11:59",
+         "title" : "European Universities Chess Championship 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109239327.cms\" />Indian Grandmaster D Gukesh suffered his first loss to Frenchman Firouza Alireza in the Candidates chess tournament's seventh round. Meanwhile, R Praggnanandhaa drew with American Fabiano Caruana, maintaining his steady performance. Gukesh, Caruana, and Praggnanandhaa now share the second spot with four points each, while Ian Nepomniachtchi leads with 4.5 points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-d-suffers-first-defeat-r-praggnanandhaa-holds-fabiano-caruana-at-candidates-chess-tournament/articleshow/109239327.cms",
+         "pubDate" : "Fri, 12 Apr 2024 07:24:06",
+         "title" : "Gukesh suffers loss; Praggnanandhaa holds Caruana at Candidates"
+      },
+      {
          "description" : " The 33-year-old Russian, a defeated world title challenger in 2021 and 2023, is in line for a third attempt as he leads in Toronto at halfway in the 14-round event Russia's Ian Nepomniachtchi leads at halfway in the €500k Candidates in Toronto, Canada, whose winner qualifies for a world title match later this year with the holder, China's Ding Liren. Scores after round seven (of 14): Nepomniachtchi (Russia) 4.5; Fabiano Caruana (US), Praggnanandhaa R and Gukesh D (both India) 4; Hikaru Nakamura (US) and Vidit Gujrathi (India) 3.5; Alireza Firouzja (France) 2.5; Nijat Abasov (Azerbaijan) 2. <a href=\"https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidate",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -126,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/39917666/fide-candidates-2024-gukesh-remains-joint-lead-wins-pragg-vidit-round-6?device=featurephone",
-         "pubDate" : "Wed, 10 Apr 2024 23:56:36",
+         "pubDate" : "Wed, 10 Apr 2024 22:17:09",
          "title" : "FIDE Candidates 2024: Gukesh remains in joint-lead, wins for Pragg and Vidit in R6"
       },
       {
@@ -208,6 +240,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/my-ultimate-goal-is-to-become-worlds-best-gukesh/articleshow/109173258.cms",
          "pubDate" : "Tue, 09 Apr 2024 18:03:23",
          "title" : "My ultimate goal is to become world's best: Gukesh"
+      },
+      {
+         "description" : "As I noted last month, in <A HREF=\"https://chessforallages.blogspot.com/2024/03/march-1974-1999-on-cover.html\">March 1974 & 1999 'On the Cover'</A> (March 2024), that month was 'the tenth anniversary of the first \"On the Cover\" post'. Now we start the next ten years of brief, monthly looks at the leading U.S. chess magazine from 50 and 25 years ago. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od09.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Alexander Ivanov - Pan American Champion' (also '1999 Yearbook') <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Grandmaster Walter Browne of California, winner of the Hoogover [sic; 'Hoogoven' o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/04/april-1974-1999-on-cover.html",
+         "pubDate" : "Tue, 09 Apr 2024 15:25:00",
+         "title" : "April 1974 & 1999 'On the Cover'"
       },
       {
          "description" : "He was born on 3 June 2011 in Bursa, Turkey. On April 1st (no April Fool's joke) the twelve-year-old, playing in the very strong GRENKE Chess Open, Yagiz Kaan Erdpgmus scored 7.0/9 points with a 2646 performance. With that he had fulfilled his final GM norm and become the youngest grandmaster in the world - the fourth youngest in chess history. We will be watching this young boy carefully. | Photo Ugur Medya",
@@ -1232,46 +1272,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/simple-questions-with-simple-answers.html",
          "pubDate" : "Fri, 22 Mar 2024 12:17:00",
          "title" : "Simple questions with simple answers"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-arbiter-course-registration/#new_tab",
-         "pubDate" : "Fri, 22 Mar 2024 11:23:05",
-         "title" : "ECF Level 1 Arbiter Course - June/July 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2933",
-         "pubDate" : "Fri, 22 Mar 2024 10:28:04",
-         "title" : "FIDE torch relay reaches Africa"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2932",
-         "pubDate" : "Fri, 22 Mar 2024 10:08:05",
-         "title" : "Levon Aronian and Alice Lee win American Cup 2024"
-      },
-      {
-         "description" : "The 2024 Reykjavik Open took place from 15-21 March in Iceland with the participation of more than 400 players from 49 federations. Six players headed into the last round co-leading the event and the last round determined the Winner. Among three direct clashes between the leaders, only GM Bogdan-Daniel Deac (ROU, 2690) managed to score a victory and emerged as the sole winner of the event. Bogdan-Daniel Deac defeated GM Alisher Suleymenov (KAZ, 2506) to finish the event with the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/bogdan-daniel-deac-wins-reykjavik-open-2024/",
-         "pubDate" : "Fri, 22 Mar 2024 09:45:35",
-         "title" : "Bogdan-Daniel Deac wins Reykjavik Open 2024"
-      },
-      {
-         "description" : " Freestyle Chess (also known as Fischer Random and Chess 960) has announced a $1m tournament in each of five continents Freestyle Chess, which made an <a href=\"https://www.theguardian.com/sport/2024/feb/23/freestyle-chess-plans-2025-global-tour-for-carlsen-and-the-worlds-top-players\">impressive debut last month</a>, has firmed up its plans to expand into five continents next year, as well as enlisting the top 25 elite grandmasters into a new club for its competing players. The variant, also known as Fischer Random and Chess 960, has the back rank pieces on both sides on random squares, with Black's pieces placed equal-and-opposite to their White counterparts. German promoter Jan Buettner, wh",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/mar/22/richest-chess-tour-announced-for-2025-as-freestyle-wins-global-appeal",
-         "pubDate" : "Fri, 22 Mar 2024 08:00:32",
-         "title" : "Richest chess tour announced for 2025 as freestyle wins global appeal"
       }
    ]
 }
