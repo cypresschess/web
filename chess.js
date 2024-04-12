@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 33-year-old Russian, a defeated world title challenger in 2021 and 2023, is in line for a third attempt as he leads in Toronto at halfway in the 14-round event Russia's Ian Nepomniachtchi leads at halfway in the €500k Candidates in Toronto, Canada, whose winner qualifies for a world title match later this year with the holder, China's Ding Liren. Scores after round seven (of 14): Nepomniachtchi (Russia) 4.5; Fabiano Caruana (US), Praggnanandhaa R and Gukesh D (both India) 4; Hikaru Nakamura (US) and Vidit Gujrathi (India) 3.5; Alireza Firouzja (France) 2.5; Nijat Abasov (Azerbaijan) 2. <a href=\"https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidate",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidates-victory-as-indian-trio-shine",
+         "pubDate" : "Fri, 12 Apr 2024 07:00:47",
+         "title" : "Chess: Nepomniachtchi bids for third Candidates victory as Indian trio shine"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -118,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/39917666/fide-candidates-2024-gukesh-remains-joint-lead-wins-pragg-vidit-round-6?device=featurephone",
-         "pubDate" : "Wed, 10 Apr 2024 22:17:09",
+         "pubDate" : "Wed, 10 Apr 2024 23:56:36",
          "title" : "FIDE Candidates 2024: Gukesh remains in joint-lead, wins for Pragg and Vidit in R6"
       },
       {
@@ -730,12 +738,12 @@ news_feed (
          "title" : "FIDE Women's Candidates Tournament 2024 - Games and Results"
       },
       {
-         "description" : "The English Chess Federation is inviting expressions of interest from clubs and organisers interested in purchasing chess clocks at discounted rates (indicative prices DGT...",
+         "description" : "** This form has now been closed due to the overwhelming level of requests ** The English Chess Federation is inviting expressions of interest from...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/dgt-clocks/",
          "pubDate" : "Tue, 02 Apr 2024 10:51:19",
-         "title" : "DGT Clocks"
+         "title" : "DGT Clocks - EoI form now closed"
       },
       {
          "description" : "Only one Indian man has ever taken part in the FIDE Candidates before, Viswanathan Anand, and he explains just what makes this tournament so tough.",
@@ -1264,14 +1272,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/mar/22/richest-chess-tour-announced-for-2025-as-freestyle-wins-global-appeal",
          "pubDate" : "Fri, 22 Mar 2024 08:00:32",
          "title" : "Richest chess tour announced for 2025 as freestyle wins global appeal"
-      },
-      {
-         "description" : "Please find the provisional list for Batch 2A . Kindly note Batch 2 B will be updated soon . Batch 2 A Batch 2 B",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-2a-1-b-on-25-26-march-2024/",
-         "pubDate" : "Fri, 22 Mar 2024 04:44:46",
-         "title" : "AICF Arbiter Refresher Seminar Batch 2 A & 2 B on 25-26 March 2024"
       }
    ]
 }
