@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Hall of Fame (WCHOF) opened \"Clash for the Crown: Celebrating Chess Champions\", an all-new exhibition on April 11, 2024. The exhibition explores the histories of the World Chess Championship and Women's World Chess Championship through a display of artifacts from the collection of the WCHOF, FIDE and loans from world chess champions including World's No. 1 Magnus Carlsen and private lenders.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-chess-hall-of-fame-clash-for-the-crown",
+         "pubDate" : "Sat, 13 Apr 2024 17:00:00",
+         "title" : "World Chess Hall of Fame hosts new exhibition: \"Clash for the Crown\""
+      },
+      {
+         "description" : "During his all too brief tenure as chess columnist for The Sunday Telegraph, the UK's most illustrious grandmaster, Nigel Short, was an enthusiastic user of unusual words and metaphors. For example: he introduced me to the word oenophile in his columns (lover of wine) and strikingly employed the word spherical to describe the Falstaffian Soviet Grandmaster, Eduard (Eddie) Gufeld. Since then, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/words-words-words-and-chess/",
+         "pubDate" : "Sat, 13 Apr 2024 11:29:51",
+         "title" : "Words, words, words - and chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,14 +32,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-gets-into-time-trouble-loses-contest-and-lead-in-candidates-chess/articleshow/109254984.cms",
          "pubDate" : "Fri, 12 Apr 2024 17:09:16",
          "title" : "D Gukesh gets into time trouble, loses contest and lead in Candidates"
-      },
-      {
-         "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help building your opening repertoire and understanding the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. Pre-order now! Delivery on 18 April 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-a-supergrandmaster-s-guide-to-openings-vol-1-2",
-         "pubDate" : "Fri, 12 Apr 2024 17:00:00",
-         "title" : "Anish Giri: A Supergrandmaster's Guide to Openings Vol.1 & 2"
       },
       {
          "description" : " I'm a big fan of reading about chess (and most other things) but I am falling into the trap of watching more chess than reading (or writing). Maybe this is just me catching up with the times, or just part of my continuing descent into laziness. It probably hasn't been helped in the short term by picking up my usual cold after running an interschool event (120 players at the ACT Girls Primary Championships). Having said that I will probably stick to writing as (a) I have a good face for radio and (b) it probably takes *more* effort to produce visual content than it does to produce written content. ",
@@ -1248,22 +1256,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-3a-on-03-04-april-2024/",
          "pubDate" : "Sun, 24 Mar 2024 06:25:04",
          "title" : "AICF Arbiter Refresher Seminar Batch 3A & 3B on 03-04 April 2024"
-      },
-      {
-         "description" : "We are nearly through Q1 of 2024 already. This is where we get to witness the huge difference between motivation and systems. I hope you've used my&#160;7-day series&#160;at the end of last year to build the latter. If you haven't, you probably realize by now that just motivation won't get you far, at least not []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/habits-not-motivation/",
-         "pubDate" : "Sat, 23 Mar 2024 12:03:12",
-         "title" : "Habits, Not Motivation"
-      },
-      {
-         "description" : "As I have been regularly demonstrating in this column, chess is one of the world's oldest games of war, sharing a similar antiquity to the Chinese encirclement game of Go, Chinese chess (aka Xiangqi), and the Japanese game of Shogi. However, chess is generally said to have been developed, not in China or Japan, but in []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-black-and-white-yet-colour-blind/",
-         "pubDate" : "Sat, 23 Mar 2024 08:25:07",
-         "title" : "Chess: black and white yet colour blind"
       }
    ]
 }
