@@ -1264,14 +1264,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-black-and-white-yet-colour-blind/",
          "pubDate" : "Sat, 23 Mar 2024 08:25:07",
          "title" : "Chess: black and white yet colour blind"
-      },
-      {
-         "description" : "45th Chess Olympiad is scheduled to be held at Budapest, Hungary from 10th to 23rd September 2024. As per the selection regulations of AICF, the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/qualification-criteria-for-the-chess-olympiad-2024/",
-         "pubDate" : "Sat, 23 Mar 2024 06:09:17",
-         "title" : "Qualification criteria for the 45th Chess Olympiad 2024"
       }
    ]
 }
