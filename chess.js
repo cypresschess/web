@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109275923.cms\" />Five-time world champion Viswanathan Anand hosted an exclusive dinner for the Indian contingent at the halfway mark of the Candidates Chess tournament in Toronto. A small one-minute video clip of their chit-chat released by chess24 showed the legendary Anand and Koneru Humpy trying to make the youngsters feel at ease after seven rounds of high-stakes chess contest.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/dinner-pe-charcha-viswanathan-anand-soothes-nervy-indian-candidates/articleshow/109275923.cms",
+         "pubDate" : "Sat, 13 Apr 2024 17:10:38",
+         "title" : "Dinner pe charcha: Anand soothes nervy Indian candidates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109275891.cms\" />Going into the second rest day of the Candidates Chess tournament, two-time challenger Ian Nepomniachtchi of Russia has maintained sole lead, and at the halfway mark is well on course for a hat-trick. While the Russian GM, playing under the FIDE flag, has maintained his slender lead, top seed Fabiano Caruana, Indian debutants D Gukesh and R Praggnanandhaa have made their intentions clear to play the spoilsport for Nepo.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-praggnanandhaa-close-enough-to-change-the-script-of-candidates-chess/articleshow/109275891.cms",
+         "pubDate" : "Sat, 13 Apr 2024 17:08:14",
+         "title" : "Gukesh, Pragga close enough to change the script of Candidates Chess"
+      },
+      {
          "description" : "The World Chess Hall of Fame (WCHOF) opened \"Clash for the Crown: Celebrating Chess Champions\", an all-new exhibition on April 11, 2024. The exhibition explores the histories of the World Chess Championship and Women's World Chess Championship through a display of artifacts from the collection of the WCHOF, FIDE and loans from world chess champions including World's No. 1 Magnus Carlsen and private lenders.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-anti-bird-nh6-against-1-f4",
          "pubDate" : "Fri, 12 Apr 2024 14:00:00",
          "title" : "Svitlana's Smart Moves - The Anti-Bird: Nh6!? against 1.f4"
-      },
-      {
-         "description" : "At the halfway mark in the Candidates Tournament, Ian Nepomniachtchi tops the standings with 4&frac12; points to his name. Former co-leader Gukesh D was defeated by Alireza Firouzja, who came from losing 3 out of the first 6 games he played in Toronto. Gukesh is now sharing second place - a half point behind Nepomniachtchi - with Praggnanandhaa R and Fabiano Caruana. Rounds 8-10 will take place between Saturday and Monday, following the tournament's second rest day. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-7",
-         "pubDate" : "Fri, 12 Apr 2024 11:05:00",
-         "title" : "Candidates R7: Nepo sole leader as Firouzja beats Gukesh"
       },
       {
          "description" : "Round 6 GM Vidit Gujarathi Stunned World no 2 Alireza Firouza playing with black the French man opted for Sicilian Defense and was in trouble",
@@ -184,14 +192,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-and-nepomniachtchi-continue-to-lead-after-draws-in-round-6",
          "pubDate" : "Thu, 11 Apr 2024 11:22:00",
          "title" : "Gukesh and Nepomniachtchi continue to lead after draws in Round 6 - 6"
-      },
-      {
-         "description" : "Praggnanandhaa R (pictured) and Vidit Gujrathi scored full points in round 6 of the Candidates Tournament. Pragg inflicted a second consecutive defeat on Nijat Abasov, while Vidit got the better of an overly daring Alireza Firouzja. The remaining two games ended drawn, which leaves Gukesh D and Ian Nepomniachtchi still tied for first place in the standings. Pragg now stands a half point back, with as many points as Fabiano Caruana. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-6",
-         "pubDate" : "Thu, 11 Apr 2024 09:00:00",
-         "title" : "Candidates R6: Vital wins for Pragg and Vidit"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109216336.cms\" />Gukesh and Nepo lead in Candidates Chess. Pragg's intense game against Nepo ended in a draw. Vidit missed opportunities against Caruana, ending in a draw. Humpy's game ended in a 44-move draw.",
