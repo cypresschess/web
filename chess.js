@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2969",
+         "pubDate" : "Sat, 13 Apr 2024 22:29:09",
+         "title" : "James Kang'aru Mwangi wins 2024 Forty Under 40 Africa Achiever Award"
+      },
+      {
          "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-chess-hall-of-fame-clash-for-the-crown",
          "pubDate" : "Sat, 13 Apr 2024 17:00:00",
          "title" : "World Chess Hall of Fame hosts new exhibition: \"Clash for the Crown\""
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk won the latest iteration of Bullet Brawl after posting a 28-game winning streak and overtaking GM Jose Martinez in the dying minutes of the two-hour arena. Finishing on 247 points with 68 wins, five draws, and 11 losses, Bortn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-april-13-2024",
+         "pubDate" : "Sat, 13 Apr 2024 15:21:04",
+         "title" : "Bortnyk Clutches Bullet Brawl With 28-Game Streak"
       },
       {
          "description" : "During his all too brief tenure as chess columnist for The Sunday Telegraph, the UK's most illustrious grandmaster, Nigel Short, was an enthusiastic user of unusual words and metaphors. For example: he introduced me to the word oenophile in his columns (lover of wine) and strikingly employed the word spherical to describe the Falstaffian Soviet Grandmaster, Eduard (Eddie) Gufeld. Since then, []",
@@ -1144,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2938",
          "pubDate" : "Thu, 28 Mar 2024 11:57:42",
          "title" : "Across the board: Fostering unity and empowerment in Africa through chess"
-      },
-      {
-         "description" : "It is the prestigious annual event that brings together the global sports industry&#39;s big players&#38;mdash;and yet again Chess.com was there to discuss the hot topics facing the game. Cheating, format changes, branding, issues of governance, and eve...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/top-level-chess-is-a-bubble-gothamchess-rensch-canty-discuss-games-future-at-mit",
-         "pubDate" : "Thu, 28 Mar 2024 07:12:56",
-         "title" : "'Top-Level Chess Is A Bubble': GothamChess, Rensch, Canty Discuss Game's Future At MIT"
       },
       {
          "description" : "The European Small Nations Individual Open and Women's Chess Championships 2024 will take place from 22nd-30th June in Andorra la Vella, Andorra, supported by the European Chess Union. The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship will be simultaneously played in the same venue. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes []",
