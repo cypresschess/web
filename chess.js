@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Sat, 13 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109275923.cms\" />Five-time world champion Viswanathan Anand hosted an exclusive dinner for the Indian contingent at the halfway mark of the Candidates Chess tournament in Toronto. A small one-minute video clip of their chit-chat released by chess24 showed the legendary Anand and Koneru Humpy trying to make the youngsters feel at ease after seven rounds of high-stakes chess contest.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -170,7 +178,7 @@ news_feed (
          "title" : "D Gukesh holds Nakamura, stays in joint lead in Candidates Chess"
       },
       {
-         "description" : "At the halfway mark of the 2024 FIDE Candidates Tournament, GM Ian Nepomniachtchi is back in the sole lead. In round seven, he survived over 20 moves of preparation from GM Hikaru Nakamura to make the draw. GM Gukesh Dommaraju was moves away fro...",
+         "description" : "At the halfway mark of the 2024 FIDE Candidates Tournament, GM Ian Nepomniachtchi is back in the sole lead. In round seven, he survived over 20 moves of preparation from GM Hikaru Nakamura to make the draw. GM Gukesh Dommaraju came close to winn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-7",
