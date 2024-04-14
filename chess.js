@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM D Gukesh played exceptionally well to get the better of GM Vidit Gujarathi. It was a painful loss for Gukesh in round 7 but",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-d-gukesh-strikes-back-in-joint-lead-as-the-second-half-of-candidates-beginround-8-report/",
+         "pubDate" : "Sun, 14 Apr 2024 07:24:41",
+         "title" : "GM D Gukesh Strikes back in Joint Lead as the Second half of Candidates begin:Round 8 report."
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2970",
+         "pubDate" : "Sun, 14 Apr 2024 05:37:05",
+         "title" : "FIDE Candidates: Race for first wide open as second half begins"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1256,22 +1272,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/24/amin-february-win-2024-african-individuals/",
          "pubDate" : "Sun, 24 Mar 2024 16:54:09",
          "title" : "Amin, February win 2024 African Individuals!"
-      },
-      {
-         "description" : "It's the final opportunity for interested Arbiters to take action, such as registering or signing up for the Refresher course before it concludes or fills",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-refresher-seminar-for-indian-arbiters-2024-25-last-call/",
-         "pubDate" : "Sun, 24 Mar 2024 06:58:51",
-         "title" : "AICF Refresher Seminar for Indian Arbiters 2024-25. (Last Call )"
-      },
-      {
-         "description" : "Please find the provisional list for Batch 3A &#38; 3B Batch 3A Batch 3B Further note that zoom link and other details will be shared",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-arbiter-refresher-seminar-batch-3a-on-03-04-april-2024/",
-         "pubDate" : "Sun, 24 Mar 2024 06:25:04",
-         "title" : "AICF Arbiter Refresher Seminar Batch 3A & 3B on 03-04 April 2024"
       }
    ]
 }
