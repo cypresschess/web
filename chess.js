@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri's Opening Fritztrainer's are available 18th of April. But we added a sneak peek to his take on the Caro-Kann and King's Indian openings. Since this is still quite a new feature, we made a video which explains the setup in just 3 minutes.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/giri-s-chessbase-book-on-the-caro-kann-and-king-s-indian",
+         "pubDate" : "Sun, 14 Apr 2024 14:00:00",
+         "title" : "Giri's ChessBase Book on the Caro-Kann and King's Indian"
+      },
+      {
+         "description" : " The FIDE Candidates in Toronto is heating up nicely after eight rounds. Gukesh joined Ian Nepomniachtchi in the lead and Hikaru Nakamura moved into contention alongside Praggnanandhaa. Fabiano Caruana's loss to Nakamura took him back to 50% and is surely a major blow. Gukesh recovered from his loss in Round 7 with a win against Santosh Vidit in a Two Knights with 4.d3. Superficially it might have seemed like it was Vidit who had the initiative after the opening, he was pushing pawns and making breaks, but Gukesh had the a-file and white's position was deteriorating with almost every move. Gukesh crashed in down the a-file, took a left turn towards Vidit's King and checkmated it. Hikaru Naka",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-joins-nepomniachtchi-in-the-lead-after-beating-vidit-in-round-8",
+         "pubDate" : "Sun, 14 Apr 2024 12:36:00",
+         "title" : "Gukesh joins Nepomniachtchi in the lead after beating Vidit in Round 8 - 8"
+      },
+      {
          "description" : " Tan Zhongyi was joined by Lei Tingjie and Aleksandra Goryachkina on 5pts after 8 Rounds of the Women's Candidates tournament in Toronto. It was all so unnecessary too, Tan turned down a draw by repetition by playing the risky and objectively not very good 21.f4 and her position more or less went downhill from there. There's been very little for Humpy Koneru or Rameshbabu Vaishali to smile about in this event and the latter had her 3rd loss in a row, she was worse and then lost the exchange and that was pretty much that by move 17. Kateryna Lagno against Aleksandra Goryachkina was a fairly well played Ruy Lopez Berlin which was agreed drawn by repetition on move 34. A small fly in the ointme",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
