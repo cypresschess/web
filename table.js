@@ -1,4 +1,9 @@
 jtable([
+"HOUSTON","2024-04-13","8","<a href=http://www.uschess.org/msa/XtblMain.php?202404136662 target='_blank'>CHESSPANDA04132024SATURDAY</a>",
+"HOUSTON","2024-04-13","16","<a href=http://www.uschess.org/msa/XtblMain.php?202404136442 target='_blank'>APRIL 13TH TROPHY SCHOLASTIC</a>",
+"CYPRESS","2024-04-12","30","<a href=http://www.uschess.org/msa/XtblMain.php?202404125942 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2024-04-12","38","<a href=http://www.uschess.org/msa/XtblMain.php?202404125902 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2024-04-12","12","<a href=http://www.uschess.org/msa/XtblMain.php?202404125882 target='_blank'>FBCC 2024 STORMY APRIL OPEN</a>",
 "SUGAR LAND","2024-04-07","4","<a href=http://www.uschess.org/msa/XtblMain.php?202404073732 target='_blank'>CYGA04072024</a>",
 "HOUSTON","2024-04-05  - 04-07","75","<a href=http://www.uschess.org/msa/XtblMain.php?202404073252 target='_blank'>$3,000 APRIL 2024 CHAMPIONSHIP</a>",
 "SPRING","2024-04-06","160","<a href=http://www.uschess.org/msa/XtblMain.php?202404062682 target='_blank'>CATHOLIC SCHOOLS CHAMPIONSHIP</a>",
@@ -194,9 +199,4 @@ jtable([
 "HOUSTON","2023-09-30","80","<a href=http://www.uschess.org/msa/XtblMain.php?202309300242 target='_blank'>TCR: HOUSTON FALL SCHOLASTIC 2023</a>",
 "HOUSTON","2023-09-30","5","<a href=http://www.uschess.org/msa/XtblMain.php?202309300222 target='_blank'>CHESSPANDA09302023SATURDAY</a>",
 "CYPRESS","2023-09-30","24","<a href=http://www.uschess.org/msa/XtblMain.php?202309300162 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2023-09-29","26","<a href=http://www.uschess.org/msa/XtblMain.php?202309299822 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2023-09-08  - 09-29","13","<a href=http://www.uschess.org/msa/XtblMain.php?202309299752 target='_blank'>REBECCA CHESS CLUB SEPTEMBER 2023 MONTHLY SWISS</a>",
-"HOUSTON","2023-09-29","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309299732 target='_blank'>REBECCA CHESS CLUB QUADS SEPTEMBER 29, 2023</a>",
-"LEAGUE CITY","2023-09-06  - 09-27","6","<a href=http://www.uschess.org/msa/XtblMain.php?202309275472 target='_blank'>CLCC SEP WEDNESDAYS</a>",
-"HOUSTON","2023-09-05  - 09-26","19","<a href=http://www.uschess.org/msa/XtblMain.php?202309268662 target='_blank'>SEPT TUE NIGHT SWISS</a>",
 ]);
