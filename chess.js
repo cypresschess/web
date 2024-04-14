@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Sun, 14 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2971",
+         "pubDate" : "Sun, 14 Apr 2024 18:25:08",
+         "title" : "FIDE100 torch relay celebrated in Canada"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109293215.cms\" />D Gukesh brushed aside the despair of the earlier round loss and in an all-Indian matchup, leapfrogged Vidit Gujrathi to regain the lead with two-time challenger Ian Nepomniachtchi. Nepo, for his part, was held to a draw by the lowest seed, Nijat Abasov in the Candidates Chess tournament in Toronto's Great Hall on Saturday. The eighth round of the 17-day tournament brought some exciting results where the standings were changed significantly in both the open and women's sections.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-takes-his-candidates-lead-back-shares-pole-position-with-nepomniachtchi/articleshow/109293215.cms",
+         "pubDate" : "Sun, 14 Apr 2024 17:19:06",
+         "title" : "Gukesh takes his Candidates lead back, shares pole position with Nepo"
+      },
+      {
          "description" : "Anish Giri's Opening Fritztrainer's are available 18th of April. But we added a sneak peek to his take on the Caro-Kann and King's Indian openings. Since this is still quite a new feature, we made a video which explains the setup in just 3 minutes.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,20 +74,20 @@ news_feed (
          "title" : "FIDE Candidates: Race for first wide open as second half begins"
       },
       {
+         "description" : "Gukesh beats Vidit to climb back to the joint lead, while Humpy has her first win of the Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39937539/fide-candidates-2024-gukesh-back-joint-lead-nepomniachtchi-humpy-posts-first-win-round-8?device=featurephone",
+         "pubDate" : "Sat, 13 Apr 2024 23:21:04",
+         "title" : "FIDE Candidates 2024: Gukesh back in joint-lead, Humpy has first win in R8"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2969",
          "pubDate" : "Sat, 13 Apr 2024 22:29:09",
          "title" : "James Kang'aru Mwangi wins 2024 Forty Under 40 Africa Achiever Award"
-      },
-      {
-         "description" : "The eighth round of the Candidates Tournaments saw important developments in the standings. Gukeskh D beat Vidit Gujrathi to regain his spot as co-leader in the open, while Lei Tingjie defeated former sole leader Tan Zhongyi in the women's. Also, Hikaru Nakamura got the better of Fabiano Caruana in the clash of top seeds in Toronto. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Sat, 13 Apr 2024 20:15:00",
-         "title" : "Candidates - Gukesh beats Vidit to catch Nepo, Lei takes down Tan"
       },
       {
          "description" : "Round eight of the 2024 FIDE Candidates Tournament saw two winners and a significant change in the standings. GM Hikaru Nakamura defeated GM Fabiano Caruana in the all-American matchup, while GM Gukesh Dommaraju also beat his countryman GM Vidit G...",
@@ -1288,22 +1312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2935",
          "pubDate" : "Mon, 25 Mar 2024 08:09:58",
          "title" : "FIDE Candidates 2024: All set for the chess tournament of the year in Toronto"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2934",
-         "pubDate" : "Sun, 24 Mar 2024 18:47:29",
-         "title" : "Reykjavik Open 2024: Bogdan-Daniel Deac captures title"
-      },
-      {
-         "description" : " GM Bassem Amin and WIM Jesse February took the titles at the 2024 African Individual Chess Championship (AICC). It would be Amin's seventh (2009,&#160;2013,&#160;2015&#160;and&#160;2017, 2018, 2022, 2024) and February's second (winning in 2021). While Amin was dominant throughout the tournament, February had to wait until the last round when the result would be final. Photo The post <a href=\"https://www.thechessdrum.net/blog/2024/03/24/amin-february-win-2024-african-individuals/\">Amin, February win 2024 African Individuals!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/03/24/amin-february-win-2024-african-individuals/",
-         "pubDate" : "Sun, 24 Mar 2024 16:54:09",
-         "title" : "Amin, February win 2024 African Individuals!"
       }
    ]
 }
