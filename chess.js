@@ -10,12 +10,20 @@ news_feed (
          "title" : "James Kang'aru Mwangi wins 2024 Forty Under 40 Africa Achiever Award"
       },
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "The eighth round of the Candidates Tournaments saw important developments in the standings. Gukeskh D beat Vidit Gujrathi to regain his spot as co-leader in the open, while Lei Tingjie defeated former sole leader Tan Zhongyi in the women's. Also, Hikaru Nakamura got the better of Fabiano Caruana in the clash of top seeds in Toronto. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Sat, 13 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates - Gukesh beats Vidit to catch Nepo, Lei takes down Tan"
+      },
+      {
+         "description" : "Round eight of the 2024 FIDE Candidates Tournament saw two winners and a significant change in the standings. GM Hikaru Nakamura defeated GM Fabiano Caruana in the all-American matchup, while GM Gukesh Dommaraju also beat his countryman GM Vidit G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-8",
+         "pubDate" : "Sat, 13 Apr 2024 17:30:00",
+         "title" : "Nakamura Leapfrogs Caruana, Gukesh Re-enters Shared Lead With Nepomniachtchi"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109275923.cms\" />Five-time world champion Viswanathan Anand hosted an exclusive dinner for the Indian contingent at the halfway mark of the Candidates Chess tournament in Toronto. A small one-minute video clip of their chit-chat released by chess24 showed the legendary Anand and Koneru Humpy trying to make the youngsters feel at ease after seven rounds of high-stakes chess contest.",
@@ -46,8 +54,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-april-13-2024",
-         "pubDate" : "Sat, 13 Apr 2024 15:21:04",
-         "title" : "Bortnyk Clutches Bullet Brawl With 28-Game Streak"
+         "pubDate" : "Sat, 13 Apr 2024 15:21:00",
+         "title" : "Bortnyk Clutches Bullet Brawl With 28-Game Win Streak"
       },
       {
          "description" : "During his all too brief tenure as chess columnist for The Sunday Telegraph, the UK's most illustrious grandmaster, Nigel Short, was an enthusiastic user of unusual words and metaphors. For example: he introduced me to the word oenophile in his columns (lover of wine) and strikingly employed the word spherical to describe the Falstaffian Soviet Grandmaster, Eduard (Eddie) Gufeld. Since then, []",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-1.html",
          "pubDate" : "Thu, 28 Mar 2024 21:37:00",
          "title" : "2024 O2C Doeberl Cup - Day 1"
-      },
-      {
-         "description" : "World number one Magnus Carlsen called it &#34;kind of insane to get two Benoni games in one day&#34; as he defeated GM Vincent Keymer with the black pieces and then GM Richard Rapport with White to upend the standings and take a one-point lead. Rapport, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-3",
-         "pubDate" : "Thu, 28 Mar 2024 19:57:00",
-         "title" : "Carlsen Storms Into Sole Lead In Karlsruhe"
       },
       {
          "description" : "Last month we fretted that <A HREF=\"https://chessforallages.blogspot.com/2024/02/yahoo-zombies-want-chess.html\">Yahoo Zombies Want Chess</A> (February 2024). This month they got what they wanted. For the first time since <A HREF=\"https://chessforallages.blogspot.com/2022/12/how-many-for-carlsen-for-niemann.html\">How Many for Carlsen? For Niemann?</A> (December 2022), Yahoo.com delivered chess Yahoos ... two of them ... on consecutive days ... just after the zombies post. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oc28.gif\" WIDTH=400 HEIGHT=175><BR> <B>Top:</B> 'Is the United States overestimating China's power? &#149; Most Americans see China as the biggest threat to the ",
