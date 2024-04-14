@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tan Zhongyi was joined by Lei Tingjie and Aleksandra Goryachkina on 5pts after 8 Rounds of the Women's Candidates tournament in Toronto. It was all so unnecessary too, Tan turned down a draw by repetition by playing the risky and objectively not very good 21.f4 and her position more or less went downhill from there. There's been very little for Humpy Koneru or Rameshbabu Vaishali to smile about in this event and the latter had her 3rd loss in a row, she was worse and then lost the exchange and that was pretty much that by move 17. Kateryna Lagno against Aleksandra Goryachkina was a fairly well played Ruy Lopez Berlin which was agreed drawn by repetition on move 34. A small fly in the ointme",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/lei-tan-and-goryachkina-lead-the-womens-candidates-with-58",
+         "pubDate" : "Sun, 14 Apr 2024 11:46:00",
+         "title" : "Lei, Tan and Goryachkina lead the Women's Candidates with 5/8 - 8"
+      },
+      {
+         "description" : "Two decisive games in Saturday's eighth round had a big impact on the standings of the Candidates Tournament. Gukesh D beat Vidit Gujrathi to retake the shared lead (with Ian Nepomniachtchi), while Hikaru Nakamura defeated Fabiano Caruana to climb to shared third place, a half point behind the co-leaders. This was Nakamura's fourth consecutive classical win with the white pieces over Caruana. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-8",
+         "pubDate" : "Sun, 14 Apr 2024 09:20:00",
+         "title" : "Candidates R8: Gukesh catches Nepo, Nakamura beats Caruana"
+      },
+      {
          "description" : "GM D Gukesh played exceptionally well to get the better of GM Vidit Gujarathi. It was a painful loss for Gukesh in round 7 but",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
