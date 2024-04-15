@@ -66,6 +66,14 @@ news_feed (
          "title" : "FIDE Candidates: Tan Zhongyi takes sole lead again "
       },
       {
+         "description" : "Vidit Gujrathi once again came up with a superb show against Hikaru Nakamura as he defeated him for the second time in the Candidates 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39945255/fide-candidates-2024-vidit-beats-nakamura-gukesh-pragg-round-9-ends-draw?device=featurephone",
+         "pubDate" : "Sun, 14 Apr 2024 23:06:00",
+         "title" : "FIDE Candidates 2024: Vidit beats Nakamura again; Gukesh vs Pragg in round 9 ends in draw"
+      },
+      {
          "description" : "Vidit Gujrathi defeated Hikaru Nakamura in the one game that ended decisively in round 9 of the Candidates Tournament. Ian Nepomniachtchi and Gukesh D continue to share the lead, while Praggnanandhaa R is now the only player standing a half point behind. Meanwhile, Tan Zhongyi beat Vaishali R to retake the sole lead in the women's section. | Replay the games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1336,22 +1344,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-junior-open-girls-chess-championships-2024-from-1st-to-14th-june-2024-at-gandhinagar-gujarat/",
          "pubDate" : "Mon, 25 Mar 2024 15:47:56",
          "title" : "FIDE WORLD JUNIOR (OPEN & GIRLS) CHESS CHAMPIONSHIPS-2024 from 1st to 14th June, 2024 at Gandhinagar, Gujarat"
-      },
-      {
-         "description" : " With the 2024 O2C Doeberl Cup starting on Thursday, the first of the visiting GM''s are starting to arrive. The 2024 Commonwealth Champion GM Mitrabha Guha is arriving early tomorrow, and will be soon followed by a number of other strong players. Coming off a number of recent good results, Guha looks to be in form, and may prove a threat to tope seed GM Hrant Melkumyan, who is aiming for his third win in a row (and 4th overall). <br /> <b>Mitrabha,Guha (2526) - Rohith Krishna S (2410) [A36]</b><br /> 202 Commonwealth Championship, Round 9 <script> new PgnViewer( { boardName: \"game1450\", movesFormat: \"default\", pgnString:'1.c4 Nf6 2.Nc3 c5 3.g3 Nc6 4.Bg2 g6 5.e3 Bg7 6.Nge2 O-O 7.d4 cxd4 8.ex",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-arriving-gms.html",
-         "pubDate" : "Mon, 25 Mar 2024 12:52:00",
-         "title" : "2024 O2C Doeberl Cup - Arriving GM's"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2936",
-         "pubDate" : "Mon, 25 Mar 2024 12:47:46",
-         "title" : "FIDE World School Rapid and Blitz Championships 2024: Registration is open"
       }
    ]
 }
