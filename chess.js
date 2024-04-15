@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tan Zhongyi scored a quick victory against Rameshbabu Vaishali in Round 9 of the Women's Candidates tournament in Toronto and that eventually proved to be enough to lead alone on 6/9. Tan claimed to have surprised Vaishali with her choice of opening, I'm not sure at what move that was but after Vaishali's 11.Ng5 the position became tricky to handle for both sides. 13.h4?! (13.Na3) was ambitious but the key moment came with 16.c4? (16.Bxd6 is only a tiny bit worse for white) f6! and white was already in dire straits. 18.c5? was another error and the collapse was complete with 19. ...Nxd4 20. Qe3? Nxc2. Lei Tingjie looked to be heading for a quick victory herself against Nurgyul Salimova. The",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-bounces-back-with-a-win-over-vaishali-to-regain-the-womens-candidates-sole-lead-after-9-rounds",
+         "pubDate" : "Mon, 15 Apr 2024 11:12:00",
+         "title" : "Tan bounces back with a win over Vaishali to regain the Women's Candidates sole lead after 9 rounds - 9"
+      },
+      {
+         "description" : " The ninth round of the FIDE Candidates in Toronto saw just the one decisive game when Santosh Vidit beat Hikaru Nakamura but the joint leader Ian Nepomniachtchi looked to be in trouble against Alireza Firouzja. In the end Gukesh and Nepomniachtchi share the lead with 5.5/9 half a point clear of Praggnanandhaa. Hikaru Nakamura seemed to have moved into contention with his round 8 victory against Caruana but went backwards again today by losing for the second time against Santosh Vidit. Nakamura's Round 2 loss was an unmitigated disaster, this one he was just outplayed, twice. Nakamura was equal out of the opening, 20...Rc8 (20...Nf4=) was the start of a bad plan, 21.Ra3 c5? (21...Nf4 slight ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-saves-a-difficult-position-against-firouzja-and-retains-the-lead-of-the-candidates-with-gukesh-after-round-9",
+         "pubDate" : "Mon, 15 Apr 2024 09:38:00",
+         "title" : "Nepomniachtchi saves a difficult position against Firouzja and retains the lead of the Candidates with Gukesh after Round 9 - 9"
+      },
+      {
          "description" : "Vidit Gujrathi bounced back from his round-8 loss against Gukesh D by beating Hikaru Nakamura with the white pieces on Sunday. The remaining three games ended drawn, which means Ian Nepomniachtchi and Gukesh continue to share the lead with 5&frac12; points each. Since Nakamura lost, now only Praggnanandhaa R stands a half point behind the co-leaders. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1306,14 +1322,6 @@ news_feed (
          "title" : "FIDE World Junior Rapid & Blitz Championships 2024: Registration is open"
       },
       {
-         "description" : " The GRENKE Chess Classic is a double round robin tournament played at an accelerated 45 minutes plus 10 seconds a move time control. Magnus Carlsen, Ding Liren, MVL, Richard Rapport, Vincent Keymer and Daniel Fridman play two rounds a day 26th to 31st March 2024. Then on April 1st there is a final set of tie-break matches 1st vs 2nd, 3rd vs 4th and 5th vs 6th to decide the exact final placings.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/grenke-chess-classic-2024",
-         "pubDate" : "Tue, 26 Mar 2024 16:23:00",
-         "title" : "GRENKE Chess Classic 2024 - Games and Results"
-      },
-      {
          "description" : "You know that your blogging activity is teetering on the brink when you can only manage one post in a single week. Last week we had <A HREF=\"https://chessforallages.blogspot.com/2024/03/real-chess-villages.html\">Real Chess Villages</A> (March 2024), as the weekly post in a Monday series on AI comics. The prompt for the image in that post was 'Chess village Kerala' and I ended the post saying, <BLOCKQUOTE> Although I'm no expert on [India], never having visited, the village structures and the villagers' clothing look to me to be decidedly Indian. </BLOCKQUOTE> <P> What to do a week later? Let's follow that up with some images related to Indian Hindu culture. <I>Non sequiturs 'R' Us.</I> <P AL",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1344,14 +1352,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2936",
          "pubDate" : "Mon, 25 Mar 2024 12:47:46",
          "title" : "FIDE World School Rapid and Blitz Championships 2024: Registration is open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2935",
-         "pubDate" : "Mon, 25 Mar 2024 08:09:58",
-         "title" : "FIDE Candidates 2024: All set for the chess tournament of the year in Toronto"
       }
    ]
 }
