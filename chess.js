@@ -26,6 +26,14 @@ news_feed (
          "title" : "Gukesh takes his Candidates lead back, shares pole position with Nepo"
       },
       {
+         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. GMs Ian Nepomniachtchi and Gukesh Dommaraju continue to lead the 2024 FIDE Candidates Tournament af...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-9",
+         "pubDate" : "Sun, 14 Apr 2024 16:52:00",
+         "title" : "Flash Report: Vidit Beats Nakamura Again, Tan Jumps Back Into Sole Lead Of Women's"
+      },
+      {
          "description" : "Anish Giri's Opening Fritztrainer's are available 18th of April. But we added a sneak peek to his take on the Caro-Kann and King's Indian openings. Since this is still quite a new feature, we made a video which explains the setup in just 3 minutes.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2939",
          "pubDate" : "Fri, 29 Mar 2024 09:00:27",
          "title" : "FIDE Candidates Tournament 2024 to feature the Iconic World Chess Sets "
-      },
-      {
-         "description" : "Isa Kasimi, better known as Igors Rausis, the Latvian International Master and coach who was banned for six years and was stripped of his GM title after being caught cheating, has died at the age of 62. The news was confirmed by his ex-wife Olita ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/isa-kasimi-igors-rausis-1961-2024",
-         "pubDate" : "Fri, 29 Mar 2024 04:03:00",
-         "title" : "Isa Kasimi (Igors Rausis) 1961-2024"
       },
       {
          "description" : " The 2024 O2C Doeberl Cup began with the first 2 rounds of the Premier section. This year's field includes 4 GM's, 8 IM's and 38 titled players overall. While the top boards saw the usual rating gap between top half an bottom half, this actually shrunk on the lower boards, in part due to the recent changes to the FIDE Rating System. Consequently there were a few upsets in the first round, and even into the second. Defending champion GM Hrant Melkumyan started the tournament with 2 straightforward wins (including one over Harry Press). 2nd seed Mitrabha Guhu found round 2 a lot tougher, salvaging a draw against FM Michael Steadmen (NZ) from a position where he was a lot worse. IM Das from Ind",
