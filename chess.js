@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vidit Gujrathi bounced back from his round-8 loss against Gukesh D by beating Hikaru Nakamura with the white pieces on Sunday. The remaining three games ended drawn, which means Ian Nepomniachtchi and Gukesh continue to share the lead with 5&frac12; points each. Since Nakamura lost, now only Praggnanandhaa R stands a half point behind the co-leaders. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-9",
+         "pubDate" : "Mon, 15 Apr 2024 09:15:00",
+         "title" : "Candidates R9: Vidit bounces back as Nakamura falters"
+      },
+      {
+         "description" : "In this New In Chess podcast episode, after the first half of the Candidates, Super-grandmaster Anish Giri gives his take. In an hour-long interview by Dirk Jan ten Geuzendam, he candidly shares his assessment of the players so far. Anish sees Ian Nepomniachtchi as one of the top favourites to win the Candidates and qualify for the World Championship match. But he also speaks at great length about the other players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-predicts",
+         "pubDate" : "Mon, 15 Apr 2024 08:21:50",
+         "title" : "Anish Predicts"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109303514.cms\" />Indian Grandmaster Vidit Gujrathi staged a remarkable comeback at the Candidates chess tournament, defeating Hikaru Nakamura. Meanwhile, D Gukesh and R Praggnanandhaa's match ended in a draw. Russian player Ian Nepomniachtchi secured a draw against Firouza Alireza, maintaining his lead alongside Gukesh. In the women's section, R Vaishali suffered another loss, while Koneru Humpy managed a draw.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-ian-nepomniachtchi-lead-at-candidates-chess-tournament-as-vidit-gujrathi-beats-hikaru-nakamura/articleshow/109303514.cms",
+         "pubDate" : "Mon, 15 Apr 2024 06:45:46",
+         "title" : "Gukesh, Ian lead at Candidates as Vidit beats Nakamura"
+      },
+      {
+         "description" : "The only decisive game in the Open Section was of GM Vidit Gujarathi against GM Hikaru Nakamura. It was a trendy Italian game with early",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-vidit-gujarathi-stuns-world-no-3-gm-hikaru-nakamura-gm-d-gukesh-maintains-joint-lead-at-candidates-2024round-9-report/",
+         "pubDate" : "Mon, 15 Apr 2024 06:31:31",
+         "title" : "GM Vidit Gujarathi stuns World no 3 GM Hikaru Nakamura: GM D Gukesh maintains joint lead at Candidates 2024:Round 9 report"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2973",
+         "pubDate" : "Mon, 15 Apr 2024 03:23:01",
+         "title" : "FIDE distributes €15,000 among chess veterans"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,14 +106,6 @@ news_feed (
          "title" : "Lei, Tan and Goryachkina lead the Women's Candidates with 5/8 - 8"
       },
       {
-         "description" : "Two decisive games in Saturday's eighth round had a big impact on the standings of the Candidates Tournament. Gukesh D beat Vidit Gujrathi to retake the shared lead (with Ian Nepomniachtchi), while Hikaru Nakamura defeated Fabiano Caruana to climb to shared third place, a half point behind the co-leaders. This was Nakamura's fourth consecutive classical win with the white pieces over Caruana. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-8",
-         "pubDate" : "Sun, 14 Apr 2024 09:20:00",
-         "title" : "Candidates R8: Gukesh catches Nepo, Nakamura beats Caruana"
-      },
-      {
          "description" : "GM D Gukesh played exceptionally well to get the better of GM Vidit Gujarathi. It was a painful loss for Gukesh in round 7 but",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -130,14 +162,6 @@ news_feed (
          "title" : "Gukesh, Pragga close enough to change the script of Candidates Chess"
       },
       {
-         "description" : "The World Chess Hall of Fame (WCHOF) opened \"Clash for the Crown: Celebrating Chess Champions\", an all-new exhibition on April 11, 2024. The exhibition explores the histories of the World Chess Championship and Women's World Chess Championship through a display of artifacts from the collection of the WCHOF, FIDE and loans from world chess champions including World's No. 1 Magnus Carlsen and private lenders.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-chess-hall-of-fame-clash-for-the-crown",
-         "pubDate" : "Sat, 13 Apr 2024 17:00:00",
-         "title" : "World Chess Hall of Fame hosts new exhibition: \"Clash for the Crown\""
-      },
-      {
          "description" : "GM Oleksandr Bortnyk won the latest iteration of Bullet Brawl after posting a 28-game winning streak and overtaking GM Jose Martinez in the dying minutes of the two-hour arena. Finishing on 247 points with 68 wins, five draws, and 11 losses, Bortn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -168,6 +192,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-gets-into-time-trouble-loses-contest-and-lead-in-candidates-chess/articleshow/109254984.cms",
          "pubDate" : "Fri, 12 Apr 2024 17:09:16",
          "title" : "D Gukesh gets into time trouble, loses contest and lead in Candidates"
+      },
+      {
+         "description" : "In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/cfaas-cmp-earnings.html\">CFAA's CMP : Earnings</A> (April 2024; Google's CMP = Consent Management Platform for ads), I noted, <BLOCKQUOTE> Although [ad] earnings declined significantly over the last six months, what about page views? I'll look at that metric in a follow-up post. </BLOCKQUOTE> <P> I also noted that earnings declined more than 90% after I implemented the change that Google had imposed. The following chart shows monthly <B><I>visitor counts</I></B> -- as recorded by my site's ISP -- over the past two full years 2022 and 2023, plus the first three months of 2024. <P> <XMG SRC=\"https://www.mark-weeks.com/",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/04/cfaas-cmp-visitors.html",
+         "pubDate" : "Fri, 12 Apr 2024 15:12:00",
+         "title" : "CFAA's CMP : Visitors"
       },
       {
          "description" : " I'm a big fan of reading about chess (and most other things) but I am falling into the trap of watching more chess than reading (or writing). Maybe this is just me catching up with the times, or just part of my continuing descent into laziness. It probably hasn't been helped in the short term by picking up my usual cold after running an interschool event (120 players at the ACT Girls Primary Championships). Having said that I will probably stick to writing as (a) I have a good face for radio and (b) it probably takes *more* effort to produce visual content than it does to produce written content. ",
