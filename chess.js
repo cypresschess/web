@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Mon, 15 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
+         "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help building your opening repertoire and understanding the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. Pre-order now! Delivery on 18 April 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-giri-a-supergrandmaster-s-guide-to-openings-vol-1-2",
+         "pubDate" : "Mon, 15 Apr 2024 20:09:00",
+         "title" : "Anish Giri: A Supergrandmaster's Guide to Openings Vol.1 & 2"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109321898.cms\" />The 29-year-old Vidit stole the limelight when he halted the winning run of second seed Nakamura. The Indian now shares the joint third position with 4.5 points with both the American GMs - Nakamura and Fabiano Caruana. The latter, ranked No. 2, was held to a draw by tournament's lowest seed Nijat Abasov of Azerbaijan. Tournament's co-leader Nepo escaped to a draw against French No. 1 Alireza Firouzja. The Vidit-Nakamura battle was the only decisive result of the ninth round as the other three games in the Open category failed to generate excitemen",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-the-showstopper-stuns-nakamura-again-for-his-second-win-over-world-no-3-in-candidates-gukesh-nepo-share-top-position/articleshow/109321898.cms",
+         "pubDate" : "Mon, 15 Apr 2024 17:03:29",
+         "title" : "Vidit stuns Nakamura again for his second win over World no. 3"
+      },
+      {
          "description" : " Tan Zhongyi scored a quick victory against Rameshbabu Vaishali in Round 9 of the Women's Candidates tournament in Toronto and that eventually proved to be enough to lead alone on 6/9. Tan claimed to have surprised Vaishali with her choice of opening, I'm not sure at what move that was but after Vaishali's 11.Ng5 the position became tricky to handle for both sides. 13.h4?! (13.Na3) was ambitious but the key moment came with 16.c4? (16.Bxd6 is only a tiny bit worse for white) f6! and white was already in dire straits. 18.c5? was another error and the collapse was complete with 19. ...Nxd4 20. Qe3? Nxc2. Lei Tingjie looked to be heading for a quick victory herself against Nurgyul Salimova. The",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -72,14 +96,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39945255/fide-candidates-2024-vidit-beats-nakamura-gukesh-pragg-round-9-ends-draw?device=featurephone",
          "pubDate" : "Sun, 14 Apr 2024 23:06:00",
          "title" : "FIDE Candidates 2024: Vidit beats Nakamura again; Gukesh vs Pragg in round 9 ends in draw"
-      },
-      {
-         "description" : "Vidit Gujrathi defeated Hikaru Nakamura in the one game that ended decisively in round 9 of the Candidates Tournament. Ian Nepomniachtchi and Gukesh D continue to share the lead, while Praggnanandhaa R is now the only player standing a half point behind. Meanwhile, Tan Zhongyi beat Vaishali R to retake the sole lead in the women's section. | Replay the games with computer-assisted analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Sun, 14 Apr 2024 20:15:00",
-         "title" : "Candidates - Vidit beats Nakamura, Tan regains the sole lead"
       },
       {
          "description" : "",
@@ -1328,22 +1344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2937",
          "pubDate" : "Wed, 27 Mar 2024 12:06:13",
          "title" : "FIDE World Junior Rapid & Blitz Championships 2024: Registration is open"
-      },
-      {
-         "description" : "You know that your blogging activity is teetering on the brink when you can only manage one post in a single week. Last week we had <A HREF=\"https://chessforallages.blogspot.com/2024/03/real-chess-villages.html\">Real Chess Villages</A> (March 2024), as the weekly post in a Monday series on AI comics. The prompt for the image in that post was 'Chess village Kerala' and I ended the post saying, <BLOCKQUOTE> Although I'm no expert on [India], never having visited, the village structures and the villagers' clothing look to me to be decidedly Indian. </BLOCKQUOTE> <P> What to do a week later? Let's follow that up with some images related to Indian Hindu culture. <I>Non sequiturs 'R' Us.</I> <P AL",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/03/hindu-gods-play-chess.html",
-         "pubDate" : "Mon, 25 Mar 2024 16:09:00",
-         "title" : "Hindu Gods Play Chess"
-      },
-      {
-         "description" : "The above amounts include Entry Fee and Bank Charges only. If additional players and accompanying persons need accommodation kindly contact the organizer directly. Payment mode:",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-junior-open-girls-chess-championships-2024-from-1st-to-14th-june-2024-at-gandhinagar-gujarat/",
-         "pubDate" : "Mon, 25 Mar 2024 15:47:56",
-         "title" : "FIDE WORLD JUNIOR (OPEN & GIRLS) CHESS CHAMPIONSHIPS-2024 from 1st to 14th June, 2024 at Gandhinagar, Gujarat"
       }
    ]
 }
