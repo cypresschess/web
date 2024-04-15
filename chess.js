@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2972",
+         "pubDate" : "Mon, 15 Apr 2024 02:56:53",
+         "title" : "FIDE Candidates: Tan Zhongyi takes sole lead again "
+      },
+      {
+         "description" : "Vidit Gujrathi defeated Hikaru Nakamura in the one game that ended decisively in round 9 of the Candidates Tournament. Ian Nepomniachtchi and Gukesh D continue to share the lead, while Praggnanandhaa R is now the only player standing a half point behind. Meanwhile, Tan Zhongyi beat Vaishali R to retake the sole lead in the women's section. | Replay the games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Sun, 14 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates - Vidit beats Nakamura, Tan regains the sole lead"
       },
       {
          "description" : "",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Gukesh takes his Candidates lead back, shares pole position with Nepo"
       },
       {
-         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. GMs Ian Nepomniachtchi and Gukesh Dommaraju continue to lead the 2024 FIDE Candidates Tournament af...",
+         "description" : "GMs Ian Nepomniachtchi and Gukesh Dommaraju continue to lead the 2024 FIDE Candidates Tournament after round nine. GM Vidit Gujrathi is the only player to win on Sunday, and he defeated GM Hikaru Nakamura for the second time. GM Alireza Firouzja...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-9",
          "pubDate" : "Sun, 14 Apr 2024 16:52:00",
-         "title" : "Flash Report: Vidit Beats Nakamura Again, Tan Jumps Back Into Sole Lead Of Women's"
+         "title" : "Vidit Beats Nakamura Again, Tan Jumps Back Into Sole Lead Of Women's"
       },
       {
          "description" : "Anish Giri's Opening Fritztrainer's are available 18th of April. But we added a sneak peek to his take on the Caro-Kann and King's Indian openings. Since this is still quite a new feature, we made a video which explains the setup in just 3 minutes.",
