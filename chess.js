@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2975",
+         "pubDate" : "Tue, 16 Apr 2024 05:12:02",
+         "title" : "FIDE Candidates: Two co-leaders in both tournaments going into third rest day"
+      },
+      {
          "description" : "U.S. grandmasters Fabiano Caruana and Hikaru Nakamura grabbed wins with white in round 10 of the Candidates Tournament, and thus joined Praggnanandhaa R in shared third place, a half point behind co-leaders Ian Nepomniachtchi and Gukesh D. In the women's event, Lei Tingjie obtained a fourth win in five rounds to catch up with Tan Zhongyi atop the standings. | Replay all the games with computer analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,14 +106,6 @@ news_feed (
          "title" : "FIDE Candidates: Tan Zhongyi takes sole lead again "
       },
       {
-         "description" : "Vidit Gujrathi once again came up with a superb show against Hikaru Nakamura as he defeated him for the second time in the Candidates 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39945255/fide-candidates-2024-vidit-beats-nakamura-gukesh-pragg-round-9-ends-draw?device=featurephone",
-         "pubDate" : "Sun, 14 Apr 2024 23:06:00",
-         "title" : "FIDE Candidates 2024: Vidit beats Nakamura again; Gukesh vs Pragg in round 9 ends in draw"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -168,14 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2970",
          "pubDate" : "Sun, 14 Apr 2024 05:37:05",
          "title" : "FIDE Candidates: Race for first wide open as second half begins"
-      },
-      {
-         "description" : "Gukesh beats Vidit to climb back to the joint lead, while Humpy has her first win of the Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39937539/fide-candidates-2024-gukesh-back-joint-lead-nepomniachtchi-humpy-posts-first-win-round-8?device=featurephone",
-         "pubDate" : "Sat, 13 Apr 2024 23:21:04",
-         "title" : "FIDE Candidates 2024: Gukesh back in joint-lead, Humpy has first win in R8"
       },
       {
          "description" : "",
