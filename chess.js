@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "U.S. grandmasters Fabiano Caruana and Hikaru Nakamura grabbed wins with white in round 10 of the Candidates Tournament, and thus joined Praggnanandhaa R in shared third place, a half point behind co-leaders Ian Nepomniachtchi and Gukesh D. In the women's event, Lei Tingjie obtained a fourth win in five rounds to catch up with Tan Zhongyi atop the standings. | Replay all the games with computer analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Mon, 15 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates - Caruana and Nakamura score, Lei catches Tan"
       },
       {
          "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help building your opening repertoire and understanding the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. Pre-order now! Delivery on 18 April 2024.",
@@ -16,6 +16,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anish-giri-a-supergrandmaster-s-guide-to-openings-vol-1-2",
          "pubDate" : "Mon, 15 Apr 2024 20:09:00",
          "title" : "Anish Giri: A Supergrandmaster's Guide to Openings Vol.1 & 2"
+      },
+      {
+         "description" : "GMs Hikaru Nakamura and Fabiano Caruana won their games in round 10 of the 2024 FIDE Candidates Tournament to inch closer to the tournament lead. Co-leaders GM Ian Nepomniachtchi and GM Gukesh Dommaraju made a draw in their game and are now chased...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-10",
+         "pubDate" : "Mon, 15 Apr 2024 17:29:00",
+         "title" : "Nakamura, Caruana Bounce Back; Lei Joins Lead In Women's"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109321898.cms\" />The 29-year-old Vidit stole the limelight when he halted the winning run of second seed Nakamura. The Indian now shares the joint third position with 4.5 points with both the American GMs - Nakamura and Fabiano Caruana. The latter, ranked No. 2, was held to a draw by tournament's lowest seed Nijat Abasov of Azerbaijan. Tournament's co-leader Nepo escaped to a draw against French No. 1 Alireza Firouzja. The Vidit-Nakamura battle was the only decisive result of the ninth round as the other three games in the Open category failed to generate excitemen",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2972",
          "pubDate" : "Mon, 15 Apr 2024 02:56:53",
          "title" : "FIDE Candidates: Tan Zhongyi takes sole lead again "
+      },
+      {
+         "description" : "Vidit Gujrathi once again came up with a superb show against Hikaru Nakamura as he defeated him for the second time in the Candidates 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39945255/fide-candidates-2024-vidit-beats-nakamura-gukesh-pragg-round-9-ends-draw?device=featurephone",
+         "pubDate" : "Sun, 14 Apr 2024 23:06:00",
+         "title" : "FIDE Candidates 2024: Vidit beats Nakamura again; Gukesh vs Pragg in round 9 ends in draw"
       },
       {
          "description" : "",
@@ -1200,14 +1216,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-march-30-2024",
          "pubDate" : "Sat, 30 Mar 2024 16:23:00",
          "title" : "Naroditsky Wins Clash Of Streamers"
-      },
-      {
-         "description" : "GM Richard Rapport bounced back from 0/2 on Friday to beat World Champion Ding Liren and GM Vincent Keymer, closing the gap at the top to half a point. GM Magnus Carlsen remains the sole leader after defeating GM Daniel Fridman, with Rapport and C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-4",
-         "pubDate" : "Sat, 30 Mar 2024 15:52:00",
-         "title" : "Rapport Beats Ding As Carlsen-Rapport Title Battle Looms"
       },
       {
          "description" : " Florida's Capital City is warming up, and chess is in full bloom. Over the past two years, Jacob Sperber has organized five rapid tournaments in the Tallahassee area. His initiative has rejuvenated chess in Florida's capital and has provided some consistency. The most recent event was held at the Benjamin L. Perry Public Library on The post <a href=\"https://www.thechessdrum.net/blog/2024/03/30/capital-city-open-v-tallahassee-florida/\">Capital City Open V (Tallahassee, Florida)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
