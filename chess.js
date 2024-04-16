@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The tenth round of the FIDE Women's Candidates saw two decisive games and Lei Tingjie re-join Tan Zhongyi in the lead on 6.5 points, they're a point clear of Aleksandra Goryachkina and Kateryna Lagno. Goryachkina has the reputation of being one of the most solid of women's players and she was hitherto undefeated until Lei beat her today. Goryachkina played the exchange Slav with white and after 23.Rc1? (23.Re1, 23.a3 were both better) Kg6 was in major trouble. 31...Bd3?! lost quite a bit of the advantage and Goryachkina was soon back level, 37.f3? was however a terrible move after which she was completely busted, 43...Bc8? (43...Bxe4) gave white hope and at move 60 the game was equal. Gorya",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/lei-join-tan-in-the-lead-of-the-womens-candidates-on-6.510",
+         "pubDate" : "Tue, 16 Apr 2024 17:56:00",
+         "title" : "Lei join Tan in the lead of the Women's Candidates on 6.5/10 - 10"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109354233.cms\" />Though the 10th round of Candidates Chess tournament went in favour of the top-two seeds Fabiano Caruana and Hikaru Nakamura, tournament co-leaders Gukesh D and Ian Nepomniachtchi (6 points) played out a peaceful draw to maintain their lead going into the third rest day. Caruana and Nakamura won against out of form Alireza Firouzja and Nijat Abasov respectively. They joined Praggnanandhaa at the joint second position with 5.5 points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-caution-american-aggression-as-gukesh-nepo-maintain-lead-in-candidates-chess/articleshow/109354233.cms",
+         "pubDate" : "Tue, 16 Apr 2024 17:35:39",
+         "title" : "Gukesh-Nepo maintain lead in Candidates Chess"
+      },
+      {
+         "description" : " The tenth round of the FIDE Candidates tournament saw the leaders Gukesh and Ian Nepomniachtchi draw and wins for Hikaru Nakamura and Fabiano Caruana. This leaves Nepomniachtchi and Gukesh on 6, Praggnanandhaa, Nakamura and Caruana on 5.5 and Vidit on 5 all in the mix. A playoff rather than a technical tie-break coefficient will decide the winner. Nepomniachtchi played quite a solid Ruy Lopez line against Gukesh. The main point of interest seems to have been whether 19.c3 led anywhere, but this was a computer move rather than a human one. After 19.Rd3 a draw was favourite until the end of the game. Hikaru Nakamura built up a very large advantage by move 18 against Nijat Abasov in a Petroff.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nakamura-and-caruana-win-to-get-back-into-contention-after-10-rounds-of-the-candidates",
+         "pubDate" : "Tue, 16 Apr 2024 17:17:00",
+         "title" : "Nakamura and Caruana win to get back into contention after 10 rounds of the Candidates - 10"
+      },
+      {
          "description" : "Jan Markos is a Slovakian grandmaster and successful author. In addition to several books, he has now recorded a much acclaimed Fritztrainer course. Stefan Liebig spoke to the author and trainer about the secrets of effective chess training.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,28 +82,12 @@ news_feed (
          "title" : "Gukesh and Nepo lead the Candidates after Round 10"
       },
       {
-         "description" : "With D Gukesh in the joint lead after Round 10, can any other Indian surprise pre-tournament expectations?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39953004/fide-candidates-2024-which-indian-win-tournament-gukesh-praggnanandhaa-vidit-humpy-vaishali?device=featurephone",
-         "pubDate" : "Tue, 16 Apr 2024 05:22:03",
-         "title" : "FIDE Candidates 2024: Which Indian can win the tournament?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2975",
          "pubDate" : "Tue, 16 Apr 2024 05:12:02",
          "title" : "FIDE Candidates: Two co-leaders in both tournaments going into third rest day"
-      },
-      {
-         "description" : "D Gukesh and Ian Nepomniachtchi split the points to jointly lead the 2024 FIDE Candidates after round 10.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39951882/fide-candidates-2024-gukesh-nepomniachtchi-joint-lead-praggnanandhaa-vs-vidit-draw-vaishali-humpy-round-10?device=featurephone",
-         "pubDate" : "Mon, 15 Apr 2024 23:54:52",
-         "title" : "FIDE Candidates 2024: Gukesh shares points with Nepo, Pragg and Vidit draw in R10"
       },
       {
          "description" : "U.S. grandmasters Fabiano Caruana and Hikaru Nakamura grabbed wins with white in round 10 of the Candidates Tournament, and thus joined Praggnanandhaa R in shared third place, a half point behind co-leaders Ian Nepomniachtchi and Gukesh D. In the women's event, Lei Tingjie obtained a fourth win in five rounds to catch up with Tan Zhongyi atop the standings. | Replay all the games with computer analysis. Full reports to follow shortly.",
@@ -1058,14 +1066,6 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The best tactics of all candidates! Double Edition!"
       },
       {
-         "description" : " The FIDE Candidates tournament takes place in The Great Hall in Toronto, Canada. Round 1 is on Thursday 4th April and the final Round is Sunday 21st April with tie-breaks on the 22nd April if required. Play starts at 14:30 local time which is 19:30 BST. The winner will play Ding Liren in a match for the World Chess Championship later this year. Players: Ian Nepomniachtchi, R Praggnanandhaa, Fabiano Caruana, Nijat Abasov, Vidit Gujrathi, Hikaru Nakamura, Gukesh D , Alireza Firouzja. The event is a double round robin, the Indian and US players will play each other early in each cycle. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024",
-         "pubDate" : "Tue, 2 Apr 2024 13:12:00",
-         "title" : "FIDE Candidates 2024 - Games and Results"
-      },
-      {
          "description" : "12-year-old Turkish chess sensation IM Yagiz Kaan Erdogmus is the new youngest grandmaster in the world and the fourth youngest to achieve the title in history. He earned his third grandmaster norm in Germany on Monday and his title is pending app...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1088,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2947",
          "pubDate" : "Tue, 02 Apr 2024 11:57:43",
          "title" : "FIDE World Cup Under 8, 10, 12: Personal right players"
-      },
-      {
-         "description" : " The FIDE Women's Candidates Tournament takes place alongside the Candidates tournament in Toronto 3 April to 22 April 2024. The same format as the open event, double round robin with play starting 14:30 local 19:30 BST. The winner will play the current Women's World Chess Champion Ju Wenjun for the title in 2025. Players: Lei Tingjie, Kateryna Lagno, Aleksandra Goryachkina, Nurgyul Salimova, Anna Muzychuk, R Vaishali, Tan Zhongyi and Koneru Humpy.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024",
-         "pubDate" : "Tue, 2 Apr 2024 11:16:00",
-         "title" : "FIDE Women's Candidates Tournament 2024 - Games and Results"
       },
       {
          "description" : "** This form has now been closed due to the overwhelming level of requests ** The English Chess Federation is inviting expressions of interest from...",
@@ -1184,14 +1176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-final",
          "pubDate" : "Mon, 01 Apr 2024 14:21:00",
          "title" : "Carlsen Wins 3rd GRENKE Chess Classic, Niemann Takes Open"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108948117.cms\" />Among the Indian contenders in the open category are the immensely talented R Praggnanandhaa, D Gukesh, and Vidit Gujrathi, all poised to showcase their prowess on the global stage. However, five-time world champion Viswanathan Anand's perspective underscores the need for them to acclimate to the tournament atmosphere before aiming for top honours.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indians-are-a-long-shot-in-candidates-says-legendary-viswanathan-anand/articleshow/108948117.cms",
-         "pubDate" : "Mon, 01 Apr 2024 12:35:41",
-         "title" : "Indians are a long shot in Candidates, says Viswanathan Anand"
       },
       {
          "description" : "",
