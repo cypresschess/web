@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2976",
+         "pubDate" : "Tue, 16 Apr 2024 18:55:15",
+         "title" : "FIDE World School Championships: Registration deadline extended"
+      },
+      {
          "description" : " The tenth round of the FIDE Women's Candidates saw two decisive games and Lei Tingjie re-join Tan Zhongyi in the lead on 6.5 points, they're a point clear of Aleksandra Goryachkina and Kateryna Lagno. Goryachkina has the reputation of being one of the most solid of women's players and she was hitherto undefeated until Lei beat her today. Goryachkina played the exchange Slav with white and after 23.Rc1? (23.Re1, 23.a3 were both better) Kg6 was in major trouble. 31...Bd3?! lost quite a bit of the advantage and Goryachkina was soon back level, 37.f3? was however a terrible move after which she was completely busted, 43...Bc8? (43...Bxe4) gave white hope and at move 60 the game was equal. Gorya",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -88,6 +96,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2975",
          "pubDate" : "Tue, 16 Apr 2024 05:12:02",
          "title" : "FIDE Candidates: Two co-leaders in both tournaments going into third rest day"
+      },
+      {
+         "description" : "D Gukesh and Ian Nepomniachtchi split the points to jointly lead the 2024 FIDE Candidates after round 10.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39951882/fide-candidates-2024-gukesh-nepomniachtchi-joint-lead-praggnanandhaa-vs-vidit-draw-vaishali-humpy-round-10?device=featurephone",
+         "pubDate" : "Mon, 15 Apr 2024 23:54:52",
+         "title" : "FIDE Candidates 2024: Gukesh shares points with Nepo, Pragg and Vidit draw in R10"
       },
       {
          "description" : "U.S. grandmasters Fabiano Caruana and Hikaru Nakamura grabbed wins with white in round 10 of the Candidates Tournament, and thus joined Praggnanandhaa R in shared third place, a half point behind co-leaders Ian Nepomniachtchi and Gukesh D. In the women's event, Lei Tingjie obtained a fourth win in five rounds to catch up with Tan Zhongyi atop the standings. | Replay all the games with computer analysis. Full reports to follow shortly.",
