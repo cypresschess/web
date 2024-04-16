@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We have seen them, haven't we? The howlers? Amateurs and professionals alike in the aftermath of a game, trying to explain their blunder, shaking their heads in disbelief, scratching their brows, sighing while trying to come up with a rational explanation. Blunders happen because humans are fallible and ill-founded impulses prove stronger than the ability to abort them - as is explained in this scientific paper.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/why-chess-players-blunder",
+         "pubDate" : "Tue, 16 Apr 2024 13:00:00",
+         "title" : "Why Chess Players Blunder"
+      },
+      {
+         "description" : "Due to invitations have been received by European Chess federations and ECU to participate in the \"Summer Friendship Games\" to be organised in Russia in September 2024, the European Chess Union (ECU) hereby informs the National Chess federations about its position.&#160; ECU considers itself as a committed partner of the International Olympic Committee (IOC) and European Olympic Committees (EOC). IOC has made clear its position about the organisation of \"Friendship Games\" in Russia. We highlight some parts, and we link []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-declaration-on-summer-friendship-games/",
+         "pubDate" : "Tue, 16 Apr 2024 10:39:24",
+         "title" : "ECU Declaration on \"Summer Friendship Games\""
+      },
+      {
+         "description" : "U.S. grandmasters Fabiano Caruana and Hikaru Nakamura collected vital wins in round 10 of the Candidates Tournament, as they now stand a half point behind co-leaders Ian Nepomniachtchi and Gukesh D. Nakamura got the better of a struggling Nijat Abasov, while Caruana defeated Alireza Firouzja out of a double-edged Sicilian Najdorf. The participants will get rest days on Tuesday and Friday, as there are only four rounds to go in Toronto. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-10",
+         "pubDate" : "Tue, 16 Apr 2024 09:40:00",
+         "title" : "Candidates R10: Nakamura and Caruana grab crucial wins"
+      },
+      {
+         "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help building your opening repertoire and understanding the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. Pre-order now! Delivery on 18 April 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-giri-a-supergrandmaster-s-guide-to-openings-vol-1-2",
+         "pubDate" : "Tue, 16 Apr 2024 09:30:00",
+         "title" : "Anish Giri: A Supergrandmaster's Guide to Openings Vol.1 & 2"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109338533.cms\" />In the Candidates chess tournament, D Gukesh and Ian Nepomniachtchi lead with six points each after round 10. R Praggnanandhaa, Fabiano Caruana, and Hikaru Nakamura trail closely with half a point less. Vidit Gujrathi ranks sixth with six points. Nepomniachtchi remains unbeaten, drawing with Gukesh in a Ruy Lopez opening. In the women's section, Tinjie Lei and Zhongyi Tan lead.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-and-ian-nepomniachtchi-lead-candidates-chess-tournament-after-round-10/articleshow/109338533.cms",
+         "pubDate" : "Tue, 16 Apr 2024 07:35:46",
+         "title" : "Gukesh and Nepo lead the Candidates after Round 10"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,14 +56,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Mon, 15 Apr 2024 20:15:00",
          "title" : "Candidates - Caruana and Nakamura score, Lei catches Tan"
-      },
-      {
-         "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help building your opening repertoire and understanding the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. Pre-order now! Delivery on 18 April 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-a-supergrandmaster-s-guide-to-openings-vol-1-2",
-         "pubDate" : "Mon, 15 Apr 2024 20:09:00",
-         "title" : "Anish Giri: A Supergrandmaster's Guide to Openings Vol.1 & 2"
       },
       {
          "description" : "GMs Hikaru Nakamura and Fabiano Caruana won their games in round 10 of the 2024 FIDE Candidates Tournament to inch closer to the tournament lead. Co-leaders GM Ian Nepomniachtchi and GM Gukesh Dommaraju made a draw in their game and are now chased...",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-saves-a-difficult-position-against-firouzja-and-retains-the-lead-of-the-candidates-with-gukesh-after-round-9",
          "pubDate" : "Mon, 15 Apr 2024 09:38:00",
          "title" : "Nepomniachtchi saves a difficult position against Firouzja and retains the lead of the Candidates with Gukesh after Round 9 - 9"
-      },
-      {
-         "description" : "Vidit Gujrathi bounced back from his round-8 loss against Gukesh D by beating Hikaru Nakamura with the white pieces on Sunday. The remaining three games ended drawn, which means Ian Nepomniachtchi and Gukesh continue to share the lead with 5&frac12; points each. Since Nakamura lost, now only Praggnanandhaa R stands a half point behind the co-leaders. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-9",
-         "pubDate" : "Mon, 15 Apr 2024 09:15:00",
-         "title" : "Candidates R9: Vidit bounces back as Nakamura falters"
       },
       {
          "description" : "In this New In Chess podcast episode, after the first half of the Candidates, Super-grandmaster Anish Giri gives his take. In an hour-long interview by Dirk Jan ten Geuzendam, he candidly shares his assessment of the players so far. Anish sees Ian Nepomniachtchi as one of the top favourites to win the Candidates and qualify for the World Championship match. But he also speaks at great length about the other players.",
@@ -104,6 +128,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2972",
          "pubDate" : "Mon, 15 Apr 2024 02:56:53",
          "title" : "FIDE Candidates: Tan Zhongyi takes sole lead again "
+      },
+      {
+         "description" : "Vidit Gujrathi once again came up with a superb show against Hikaru Nakamura as he defeated him for the second time in the Candidates 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39945255/fide-candidates-2024-vidit-beats-nakamura-gukesh-pragg-round-9-ends-draw?device=featurephone",
+         "pubDate" : "Sun, 14 Apr 2024 23:06:00",
+         "title" : "FIDE Candidates 2024: Vidit beats Nakamura again; Gukesh vs Pragg in round 9 ends in draw"
       },
       {
          "description" : "",
@@ -168,6 +200,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2970",
          "pubDate" : "Sun, 14 Apr 2024 05:37:05",
          "title" : "FIDE Candidates: Race for first wide open as second half begins"
+      },
+      {
+         "description" : "Gukesh beats Vidit to climb back to the joint lead, while Humpy has her first win of the Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39937539/fide-candidates-2024-gukesh-back-joint-lead-nepomniachtchi-humpy-posts-first-win-round-8?device=featurephone",
+         "pubDate" : "Sat, 13 Apr 2024 23:21:04",
+         "title" : "FIDE Candidates 2024: Gukesh back in joint-lead, Humpy has first win in R8"
       },
       {
          "description" : "",
