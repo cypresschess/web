@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Jan Markos is a Slovakian grandmaster and successful author. In addition to several books, he has now recorded a much acclaimed Fritztrainer course. Stefan Liebig spoke to the author and trainer about the secrets of effective chess training.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/successful-author-jan-markos-a-portrait",
+         "pubDate" : "Tue, 16 Apr 2024 17:00:00",
+         "title" : "Successful author Jan Markos - a portrait"
+      },
+      {
          "description" : "We have seen them, haven't we? The howlers? Amateurs and professionals alike in the aftermath of a game, trying to explain their blunder, shaking their heads in disbelief, scratching their brows, sighing while trying to come up with a rational explanation. Blunders happen because humans are fallible and ill-founded impulses prove stronger than the ability to abort them - as is explained in this scientific paper.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/why-chess-players-blunder",
          "pubDate" : "Tue, 16 Apr 2024 13:00:00",
          "title" : "Why Chess Players Blunder"
+      },
+      {
+         "description" : " I was asked by one of my readers about whether I was going to comment on the latest happenings in the Candidates Tournament. My initial inclination was to say no*, but with todays extra spice I've changed my mind. Yesterdays fun started when Chief Arbiter Aris Marghetis asked Alireza Firouzja to stop making so much noise with his shoes when walking around. Apparently this had disturbed at least one other player, who had complained to Aris. Firouzja was not happy about the request, and after the round complained on social media. As an Arbiter, I've also had to deal with this issue from time to time. It usually occurs when the venue has hard wood floors, and more formal shoes (ie not sandshoe",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/of-shoes-and-ships-and-sealing-wax.html",
+         "pubDate" : "Tue, 16 Apr 2024 12:55:00",
+         "title" : "Of shoes and ships and sealing wax ..."
       },
       {
          "description" : "Due to invitations have been received by European Chess federations and ECU to participate in the \"Summer Friendship Games\" to be organised in Russia in September 2024, the European Chess Union (ECU) hereby informs the National Chess federations about its position.&#160; ECU considers itself as a committed partner of the International Olympic Committee (IOC) and European Olympic Committees (EOC). IOC has made clear its position about the organisation of \"Friendship Games\" in Russia. We highlight some parts, and we link []",
@@ -42,12 +58,28 @@ news_feed (
          "title" : "Gukesh and Nepo lead the Candidates after Round 10"
       },
       {
+         "description" : "With D Gukesh in the joint lead after Round 10, can any other Indian surprise pre-tournament expectations?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39953004/fide-candidates-2024-which-indian-win-tournament-gukesh-praggnanandhaa-vidit-humpy-vaishali?device=featurephone",
+         "pubDate" : "Tue, 16 Apr 2024 05:22:03",
+         "title" : "FIDE Candidates 2024: Which Indian can win the tournament?"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2975",
          "pubDate" : "Tue, 16 Apr 2024 05:12:02",
          "title" : "FIDE Candidates: Two co-leaders in both tournaments going into third rest day"
+      },
+      {
+         "description" : "D Gukesh and Ian Nepomniachtchi split the points to jointly lead the 2024 FIDE Candidates after round 10.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39951882/fide-candidates-2024-gukesh-nepomniachtchi-joint-lead-praggnanandhaa-vs-vidit-draw-vaishali-humpy-round-10?device=featurephone",
+         "pubDate" : "Mon, 15 Apr 2024 23:54:52",
+         "title" : "FIDE Candidates 2024: Gukesh shares points with Nepo, Pragg and Vidit draw in R10"
       },
       {
          "description" : "U.S. grandmasters Fabiano Caruana and Hikaru Nakamura grabbed wins with white in round 10 of the Candidates Tournament, and thus joined Praggnanandhaa R in shared third place, a half point behind co-leaders Ian Nepomniachtchi and Gukesh D. In the women's event, Lei Tingjie obtained a fourth win in five rounds to catch up with Tan Zhongyi atop the standings. | Replay all the games with computer analysis. Full reports to follow shortly.",
