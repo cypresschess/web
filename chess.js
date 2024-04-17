@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Lei Tingjie scored a fourth win in five rounds to join Tan Zhongyi in the lead of the Women's Candidates Tournament in Toronto. Lei defeated direct contender Aleksandra Goryachkina with the black pieces. With four rounds to go, the Chinese leading duo stands a full point ahead of Goryachkina and Kateryna Lagno. Meanwhile, one more game ended decisively on Monday, with Vaishali R first surviving a losing position and then managing to beat Nurgyul Salimova. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-10",
+         "pubDate" : "Wed, 17 Apr 2024 01:15:00",
+         "title" : "Women's Candidates R10: Lei wins again, shares the lead with Tan"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/successful-author-jan-markos-a-portrait",
          "pubDate" : "Tue, 16 Apr 2024 17:00:00",
          "title" : "Successful author Jan Markos - a portrait"
+      },
+      {
+         "description" : "With D Gukesh in the joint lead after Round 10, can any other Indian surprise pre-tournament expectations?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39953004/fide-candidates-2024-which-indian-win-tournament-gukesh-praggnanandhaa-vidit-humpy-vaishali?device=featurephone",
+         "pubDate" : "Tue, 16 Apr 2024 13:11:29",
+         "title" : "FIDE Candidates 2024: Which Indian can win the tournament?"
       },
       {
          "description" : "We have seen them, haven't we? The howlers? Amateurs and professionals alike in the aftermath of a game, trying to explain their blunder, shaking their heads in disbelief, scratching their brows, sighing while trying to come up with a rational explanation. Blunders happen because humans are fallible and ill-founded impulses prove stronger than the ability to abort them - as is explained in this scientific paper.",
@@ -104,14 +120,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39951882/fide-candidates-2024-gukesh-nepomniachtchi-joint-lead-praggnanandhaa-vs-vidit-draw-vaishali-humpy-round-10?device=featurephone",
          "pubDate" : "Mon, 15 Apr 2024 23:54:52",
          "title" : "FIDE Candidates 2024: Gukesh shares points with Nepo, Pragg and Vidit draw in R10"
-      },
-      {
-         "description" : "U.S. grandmasters Fabiano Caruana and Hikaru Nakamura grabbed wins with white in round 10 of the Candidates Tournament, and thus joined Praggnanandhaa R in shared third place, a half point behind co-leaders Ian Nepomniachtchi and Gukesh D. In the women's event, Lei Tingjie obtained a fourth win in five rounds to catch up with Tan Zhongyi atop the standings. | Replay all the games with computer analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Mon, 15 Apr 2024 20:15:00",
-         "title" : "Candidates - Caruana and Nakamura score, Lei catches Tan"
       },
       {
          "description" : "GMs Hikaru Nakamura and Fabiano Caruana won their games in round 10 of the 2024 FIDE Candidates Tournament to inch closer to the tournament lead. Co-leaders GM Ian Nepomniachtchi and GM Gukesh Dommaraju made a draw in their game and are now chased...",
