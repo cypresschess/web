@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Defending champions Obiettivo Risarcimento Padova won the 55th edition of the Italian Team Championship, but had to work hard to do so. They only won the final against ASD Pedone Isolano in the second tie-break. However, ASD Pedone Isolano won the women's title (photo). | Photos: Matteo Zoldan",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/italian-team-championships-obiettivo-risarcimento-and-pedone-isolani-take-the-titles",
+         "pubDate" : "Wed, 17 Apr 2024 13:28:00",
+         "title" : "Italian Team Championships: Obiettivo Risarcimento and Pedone Isolani take the titles"
+      },
+      {
          "description" : "\"I am a big fan of Aron Nimzowitsch,\" writes IM Zoran Petronijevic, who works as a chess trainer and lives in Nis (Serbia). \"In yesterday's game Firouzja-Nepo, I found some ideas by him. We can often read that the study of the classical heritage of chess is completely unnecessary for advancing in chess, that the games of the classics are outdated, and that there is no (or almost no) benefit from them. I deeply disagree with that.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -30,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/joanna-dworakowska-passes-away-at-age-45",
-         "pubDate" : "Tue, 16 Apr 2024 23:26:19",
+         "pubDate" : "Tue, 16 Apr 2024 23:26:00",
          "title" : "Joanna Dworakowska 1978-2024"
       },
       {
@@ -248,6 +256,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-9",
          "pubDate" : "Sun, 14 Apr 2024 16:52:00",
          "title" : "Vidit Beats Nakamura Again, Tan Jumps Back Into Sole Lead Of Women's"
+      },
+      {
+         "description" : "While I was preparing last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/03/real-yahoos-sort-of-spotted-again.html\">Real Yahoos (Sort Of) Spotted Again</A> (March 2024; 'Yahoos = mainstream news stories about chess'), the top story -- which was not mentioned in the post -- would have been the Neuralink news. What's Neuralink? The following video, from Youtube's <I>Guardian News</I> channel, explains. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/LfwzfP8cp3A?si=ZlR_ea95T06zc9uX\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpoli",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/04/playing-chess-with-your-brain.html",
+         "pubDate" : "Sun, 14 Apr 2024 15:12:00",
+         "title" : "Playing Chess with Your Brain (*)"
       },
       {
          "description" : "Anish Giri's Opening Fritztrainer's are available 18th of April. But we added a sneak peek to his take on the Caro-Kann and King's Indian openings. Since this is still quite a new feature, we made a video which explains the setup in just 3 minutes.",
