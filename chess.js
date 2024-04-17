@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"I am a big fan of Aron Nimzowitsch,\" writes IM Zoran Petronijevic, who works as a chess trainer and lives in Nis (Serbia). \"In yesterday's game Firouzja-Nepo, I found some ideas by him. We can often read that the study of the classical heritage of chess is completely unnecessary for advancing in chess, that the games of the classics are outdated, and that there is no (or almost no) benefit from them. I deeply disagree with that.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/are-the-classics-necessary",
+         "pubDate" : "Wed, 17 Apr 2024 09:00:00",
+         "title" : "Are the classics necessary?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109363130.cms\" />Indian teenage grandmasters D Gukesh and R Praggnanandhaa vie for victory in the Candidates chess tournament. Gukesh, tied for the lead, faces top-seed Fabiano Caruana, holding the white pieces advantage. Praggnanandhaa, set against Hikaru Nakamura, aims to repeat past successes. These matches, crucial in determining the world championship challenger, hold significant stakes for both players.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-to-take-on-fabiano-caruana-r-praggnanandhaa-up-against-hikaru-nakamura-at-candidates-chess-tournament/articleshow/109363130.cms",
+         "pubDate" : "Wed, 17 Apr 2024 04:59:22",
+         "title" : "Gukesh takes on Caruana, Pragg up against Nakamura at Candidates"
+      },
+      {
          "description" : "Lei Tingjie scored a fourth win in five rounds to join Tan Zhongyi in the lead of the Women's Candidates Tournament in Toronto. Lei defeated direct contender Aleksandra Goryachkina with the black pieces. With four rounds to go, the Chinese leading duo stands a full point ahead of Goryachkina and Kateryna Lagno. Meanwhile, one more game ended decisively on Monday, with Vaishali R first surviving a losing position and then managing to beat Nurgyul Salimova. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-10",
          "pubDate" : "Wed, 17 Apr 2024 01:15:00",
          "title" : "Women's Candidates R10: Lei wins again, shares the lead with Tan"
+      },
+      {
+         "description" : "Three-time Polish Women&#39;s Champion IM Joanna Dworakowska, among the nation&#39;s strongest women for more than two decades, has passed away at the age of 45. Dworakowska is one of Poland&#39;s strongest women players ever, with a peak rating of 2445, a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/joanna-dworakowska-passes-away-at-age-45",
+         "pubDate" : "Tue, 16 Apr 2024 23:26:19",
+         "title" : "Joanna Dworakowska 1978-2024"
       },
       {
          "description" : "",
@@ -978,14 +1002,6 @@ news_feed (
          "title" : "Melbourne International Open"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109030900.cms\" />Divya Deshmukh showcased exceptional performance in Germany's Grenke Chess A-Open, finishing third but missed the Grandmasters norm by two points. She displayed remarkable skills and determination throughout the tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-shines-in-germany-finishes-joint-third-marginally-misses-gm-norm/articleshow/109030900.cms",
-         "pubDate" : "Thu, 04 Apr 2024 08:41:14",
-         "title" : "Divya finishes joint 3rd in Germany, marginally misses GM norm"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109029735.cms\" />At his maiden appearance in the Candidates tournament, where the world's top eight players are vying for the opportunity to challenge the reigning world champion Ding Liren of China, 18-year-old Praggnanandhaa secured his spot by virtue of being the runner-up in the 2023 World Cup.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1280,14 +1296,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/30/2024-hbcu-chess-classic-atlanta-ga/",
          "pubDate" : "Sat, 30 Mar 2024 17:24:53",
          "title" : "2024 HBCU Chess Classic (Atlanta, GA)"
-      },
-      {
-         "description" : "Daniel Naroditsky took the $400 first prize in March&#39;s final Bullet Brawl on Saturday, winning 73 games en route to a mammoth score of 261. Claiming his fourth title of the year and 14th in Bullet Brawl history, Naroditsky emphatically finished 27...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-march-30-2024",
-         "pubDate" : "Sat, 30 Mar 2024 16:23:00",
-         "title" : "Naroditsky Wins Clash Of Streamers"
       },
       {
          "description" : " Florida's Capital City is warming up, and chess is in full bloom. Over the past two years, Jacob Sperber has organized five rapid tournaments in the Tallahassee area. His initiative has rejuvenated chess in Florida's capital and has provided some consistency. The most recent event was held at the Benjamin L. Perry Public Library on The post <a href=\"https://www.thechessdrum.net/blog/2024/03/30/capital-city-open-v-tallahassee-florida/\">Capital City Open V (Tallahassee, Florida)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
