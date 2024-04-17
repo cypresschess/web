@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Women's Chess Championship 2024 starts this Friday in Rhodes, Greece. The event will take place from 18-30 April at the 5***** \"Rodos Palace\" Conference Hotel, and officially kicks off with the Opening ceremony and first round which are scheduled for April 19th. The tournament gathers 183 players coming from 35 European federations and it will be the largest European Women's Championship ever. A very strong line-up is headlined by IM Yuliia Osmak (UKR, 2459), IM Marsel Efroimski (ISR, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2024-starts/",
+         "pubDate" : "Wed, 17 Apr 2024 14:40:14",
+         "title" : "European Women's Chess Championship 2024 starts"
+      },
+      {
          "description" : "Defending champions Obiettivo Risarcimento Padova won the 55th edition of the Italian Team Championship, but had to work hard to do so. They only won the final against ASD Pedone Isolano in the second tie-break. However, ASD Pedone Isolano won the women's title (photo). | Photos: Matteo Zoldan",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Italian Team Championships: Obiettivo Risarcimento and Pedone Isolani take the titles"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2977",
+         "pubDate" : "Wed, 17 Apr 2024 11:36:34",
+         "title" : "FIDE World Junior U20 Championship: Registration deadline is May 1"
+      },
+      {
          "description" : "\"I am a big fan of Aron Nimzowitsch,\" writes IM Zoran Petronijevic, who works as a chess trainer and lives in Nis (Serbia). \"In yesterday's game Firouzja-Nepo, I found some ideas by him. We can often read that the study of the classical heritage of chess is completely unnecessary for advancing in chess, that the games of the classics are outdated, and that there is no (or almost no) benefit from them. I deeply disagree with that.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/are-the-classics-necessary",
          "pubDate" : "Wed, 17 Apr 2024 09:00:00",
          "title" : "Are the classics necessary?"
+      },
+      {
+         "description" : "GM Maurice Ashley draws on his extensive chess experience to impart life lessons in his latest literary offering. His new book has already hit number one on Amazon. On April 2, Ashley released his new book Move by Move: Life Lessons on and off t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/maurice-ashleys-new-book-tops-amazon-list",
+         "pubDate" : "Wed, 17 Apr 2024 08:10:06",
+         "title" : "'Thinking Like A Chess Player Can Change Your Life' - Ashley's New Book Tops Amazon List"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109363130.cms\" />Indian teenage grandmasters D Gukesh and R Praggnanandhaa vie for victory in the Candidates chess tournament. Gukesh, tied for the lead, faces top-seed Fabiano Caruana, holding the white pieces advantage. Praggnanandhaa, set against Hikaru Nakamura, aims to repeat past successes. These matches, crucial in determining the world championship challenger, hold significant stakes for both players.",
@@ -1290,14 +1314,6 @@ news_feed (
          "title" : "Johan-Sebastian Christiansen triumphs in Mar del Plata"
       },
       {
-         "description" : "World number-one Magnus Carlsen beat&#38;nbsp;GM Vincent Keymer to wrap up victory in the 2024 GRENKE Chess Classic round-robin. He now faces GM Richard Rapport in Monday&#39;s title match, while GM Maxime Vachier-Lagrave takes on Keymer for third place. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-day-5",
-         "pubDate" : "Sun, 31 Mar 2024 15:37:00",
-         "title" : "Carlsen Wins Round-Robin As Ding Suffers"
-      },
-      {
          "description" : " GM Hrant Melkumyan is on track for another Doeberl Cup win, starting the tournament with 6 from 6. In the morning round he defeated reigning Australian Champion IM Rishi Sardana, and then IM Mihajlo Radovanovic in the afternoon round. He is now a full point ahead of second place with 3 rounds to play. One of the players in 2nd place is FM Albert Winkelman, who has good chances of scoring an IM norm. He has a performance rating over 2500 and his round 7 pairing against GM M Venkatesh gives him the required mix of opponents for a valid norm. Also in 2nd place are IM James Morris, IM Peng Cheng, and FM Fred Litchfield. Despite Litchfield's good score (5/6), starting the event with a round 1 lo",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1408,38 +1424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2938",
          "pubDate" : "Thu, 28 Mar 2024 11:57:42",
          "title" : "Across the board: Fostering unity and empowerment in Africa through chess"
-      },
-      {
-         "description" : "The European Small Nations Individual Open and Women's Chess Championships 2024 will take place from 22nd-30th June in Andorra la Vella, Andorra, supported by the European Chess Union. The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship will be simultaneously played in the same venue. Both events will have 10 players competing in 9 rounds, round-robin system. The time control of the event is 90 minutes for 40 moves + 30 minutes []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-small-nations-individual-chess-championships-2024/",
-         "pubDate" : "Wed, 27 Mar 2024 15:19:02",
-         "title" : "European Small Nations Individual Chess Championships 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> SAINT LOUIS, March 26, 2024 - <strong>The 2024 American Cup is one for the history books as 14-year-old International Master (IM) Alice Lee clinched her first major tournament win, while Grandmaster (GM) Levon Aronian captured his first American Cup win and first victory as an American player in the Women's and Open tournaments, respectively.</strong><br /> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/international-master-alice-lee-and-grandmaster-levon-aronian-win-american-cup-women%E2%80%99s-and-open",
-         "pubDate" : "Wed, 27 Mar 2024 14:47:40",
-         "title" : "International Master Alice Lee and Grandmaster Levon Aronian Win American Cup Women's and Open Tournaments"
-      },
-      {
-         "description" : " The 2024 O2C Doeberl Cup begins tomorrow, with the first 2 rounds of the Premier. The pairings for the Premier are available at <a href=\"https://chess-results.com/tnr915556.aspx?lan=1&amp;art=2&amp;rd=1\">https://chess-results.com/tnr915556.aspx?lan=1&amp;art=2&amp;rd=1</a> As with any large tournament (416 players in total) there have been a couple of hiccups. We lost a couple of GM's at the last(ish) minute, in at least one case due to the sudden scheduling of a national teams event. On the other hand the event has attracted a larger than usual group of titled players, so there will be plenty of exciting games. The first round begins at 1pm tomorrow, with round 2 at 7pm. There will be live",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-starts-tomorrow.html",
-         "pubDate" : "Wed, 27 Mar 2024 12:29:00",
-         "title" : "2024 O2C Doeberl Cup - Starts tomorrow"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2937",
-         "pubDate" : "Wed, 27 Mar 2024 12:06:13",
-         "title" : "FIDE World Junior Rapid & Blitz Championships 2024: Registration is open"
       }
    ]
 }
