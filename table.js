@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-04-14","6","<a href=http://www.uschess.org/msa/XtblMain.php?202404149382 target='_blank'>$10 CHEAPO - ADULTS ONLY</a>",
 "HOUSTON","2024-04-13","8","<a href=http://www.uschess.org/msa/XtblMain.php?202404136662 target='_blank'>CHESSPANDA04132024SATURDAY</a>",
 "HOUSTON","2024-04-13","16","<a href=http://www.uschess.org/msa/XtblMain.php?202404136442 target='_blank'>APRIL 13TH TROPHY SCHOLASTIC</a>",
 "CYPRESS","2024-04-12","30","<a href=http://www.uschess.org/msa/XtblMain.php?202404125942 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-09-30","3","<a href=http://www.uschess.org/msa/XtblMain.php?202309304302 target='_blank'>CHESSPANDA10072023SATURDAY</a>",
 "HOUSTON","2023-09-30","80","<a href=http://www.uschess.org/msa/XtblMain.php?202309300242 target='_blank'>TCR: HOUSTON FALL SCHOLASTIC 2023</a>",
 "HOUSTON","2023-09-30","5","<a href=http://www.uschess.org/msa/XtblMain.php?202309300222 target='_blank'>CHESSPANDA09302023SATURDAY</a>",
-"CYPRESS","2023-09-30","24","<a href=http://www.uschess.org/msa/XtblMain.php?202309300162 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
