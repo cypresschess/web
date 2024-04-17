@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Wed, 17 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
          "description" : "The European Women's Chess Championship 2024 starts this Friday in Rhodes, Greece. The event will take place from 18-30 April at the 5***** \"Rodos Palace\" Conference Hotel, and officially kicks off with the Opening ceremony and first round which are scheduled for April 19th. The tournament gathers 183 players coming from 35 European federations and it will be the largest European Women's Championship ever. A very strong line-up is headlined by IM Yuliia Osmak (UKR, 2459), IM Marsel Efroimski (ISR, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2977",
          "pubDate" : "Wed, 17 Apr 2024 11:36:34",
          "title" : "FIDE World Junior U20 Championship: Registration deadline is May 1"
+      },
+      {
+         "description" : "If you had doubts about how big an event Titled Tuesday has become, you can look at just how many players from the ongoing Candidates Tournament played the April 16 edition anyway (during a rest day in the Candidates). One of them, GM Hikaru Nakam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-nakamura-win-titled-tuesday-april-16-2024",
+         "pubDate" : "Wed, 17 Apr 2024 09:22:51",
+         "title" : "Nice... Nakamura Wins 69th Titled Tuesday During Candidates Rest Day"
       },
       {
          "description" : "\"I am a big fan of Aron Nimzowitsch,\" writes IM Zoran Petronijevic, who works as a chess trainer and lives in Nis (Serbia). \"In yesterday's game Firouzja-Nepo, I found some ideas by him. We can often read that the study of the classical heritage of chess is completely unnecessary for advancing in chess, that the games of the classics are outdated, and that there is no (or almost no) benefit from them. I deeply disagree with that.\"",
@@ -1280,14 +1296,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-candidates-tournament-2024-starts-in-toronto-canada/",
          "pubDate" : "Mon, 01 Apr 2024 08:24:18",
          "title" : "FIDE Candidates Tournament 2024 starts in Toronto, Canada"
-      },
-      {
-         "description" : "Edited on April 2, 2023: Happy April Fools&#39; Day, everyone. Stay safe! Chess.com is excited to announce a complete overhaul of the chess-playing experience, now especially crafted for the next generation of young talents.&#38;nbsp; With a swipe-cen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-massive-changes-to-website",
-         "pubDate" : "Mon, 01 Apr 2024 06:00:00",
-         "title" : "Chess.com Announces Massive Changes To Website: Gameplay, Interface, and More!"
       },
       {
          "description" : " GM Hrant Melkumyan ended the 4th day of the 2024 O2C Doeberl Cup with one hand firmly attached to the trophy. After a draw in round 7 against IM James Morris, he played a nice attacking game against FM Fred Litchfield to maintain his one point lead over the chasing pack. Chinese IM Peng Cheng holds down second place after beating Morris in Round 8, with the Indian trio of GM Guha, GM Venkatesh and IM Das in equal third. Of interest to the Canberra Chess community is FM Albert Winkelmans final round games against IM Das. A win for Winkelman will secure him an IM norm, his first. Other Canberra players on the top boards are IM Junta Ikeda (Board 4) and FM Frred Litchfield (Board 7). The final",
