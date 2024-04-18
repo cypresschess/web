@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "An eventful eleventh round saw Ian Nepomniachtchi beating Vidit Gujrathi to regain the sole lead in the Candidates Tournament. Nepomniachtchi stands a half point ahead of Gukesh D and Hikaru Nakamura - the latter obtained a remarkable victory over Praggnanandhaa R with the black pieces. Similarly, Tan Zhongyi regained the sole lead in the Women's Candidates, as she beat Kateryna Lagno with the white pieces in a rollercoaster game. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Wed, 17 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates - Nepo and Tan sole leaders, Naka beats Pragg"
+      },
+      {
+         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. GM Ian Nepomniachtchi won the last game of round 11, with Black against GM Vidit Gujrathi, to again...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-11",
+         "pubDate" : "Wed, 17 Apr 2024 18:07:00",
+         "title" : "Nepomniachtchi Recaptures Pole Position, Nakamura Dispatches Praggnanandhaa"
       },
       {
          "description" : "The European Women's Chess Championship 2024 starts this Friday in Rhodes, Greece. The event will take place from 18-30 April at the 5***** \"Rodos Palace\" Conference Hotel, and officially kicks off with the Opening ceremony and first round which are scheduled for April 19th. The tournament gathers 183 players coming from 35 European federations and it will be the largest European Women's Championship ever. A very strong line-up is headlined by IM Yuliia Osmak (UKR, 2459), IM Marsel Efroimski (ISR, []",
@@ -1280,14 +1288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2944",
          "pubDate" : "Mon, 01 Apr 2024 11:24:29",
          "title" : "FIDE April 2024 rating list: Abdusattorov, Erigaisi crack top 10"
-      },
-      {
-         "description" : "Only a select few in the annals of chess history have broken into the world top-five before their 20th birthday. GM Nodirbek Abdusattorov has now joined that prestigious list, and shares his insights with Chess.com on his rise from prodigy to ches...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdusattorov-enters-world-top-5-before-age-20",
-         "pubDate" : "Mon, 01 Apr 2024 10:19:00",
-         "title" : "Abdusattorov Enters World Top 5 Before Age 20: 'I Always Wanted To Break Records'"
       },
       {
          "description" : "The FIDE Candidates Tournament 2024 is set to kick off this Wednesday in Toronto, Canada! For the first time ever, the same venue will host the FIDE Candidates and the FIDE Women's Candidates Tournaments. The events will be played from 3-22 April at The Great Hall, located in the heart of Toronto's West End. Both events are held as 14-player round-robin tournaments. The total prize fund of the events is 750.000 euros (500.000 euros for the Open section, and 250.000 []",
