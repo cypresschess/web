@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Ian Nepomniachtchi won a really fascinating struggle against Santosh Vidit in the eleventh round of the FIDE Candidates tournament in Toronto, Canada. Not only did Nepomniachtchi win, he won with the black pieces, but it was Vidit who first had winning chances. Vidit chose a side-line in a fairly topical Petroff line, even with Queen's off the play remained complicated and 33...Rb3? (33...Kg7!) was losing according to engines after 34.h5! Then 35...a5? 36.Bxa3 d5 was also deemed losing for black but only after giving up a piece. The position was back level and 58.Bb3?! and 60.Nb2+? suddenly Nepomniachtchi was winning and his conversion was a lot easier. Earlier Hikaru Nakamura was extremely",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-beats-vidit-in-a-tense-struggle-to-lead-the-candidates-alone-again-on-711",
+         "pubDate" : "Thu, 18 Apr 2024 16:14:00",
+         "title" : "Nepomniachtchi beats Vidit in a tense struggle to lead the Candidates alone again on 7/11 - 11"
+      },
+      {
+         "description" : "It came as something of a surprise that Toronto was chosen by FIDE as host of both Candidates Tournaments, but Canada has a rich chess history and has produced some great players over the years. Here's a brief outline:",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-in-canada-great-tournaments-impressive-personalities",
+         "pubDate" : "Thu, 18 Apr 2024 16:00:00",
+         "title" : "Chess in Canada: Great tournaments, impressive personalities"
+      },
+      {
          "description" : "The Sharp Arkhangelsk variation, utilized by chess masters like Magnus Carlsen and Fabiano Caruana, emerges from a series of strategic moves beginning with 1.e4 e5. This rich variation offers multiple playstyles, making it a challenging preparation for opponents, with model games highlighting its diverse strategies and concepts for players of all levels.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1026,14 +1042,6 @@ news_feed (
          "title" : "Tan Zhongyi leads the Women's Candidates alone after one round - 1"
       },
       {
-         "description" : " The first round of the FIDE Candidates in Toronto, Canada, saw all four games drawn. The players will no doubt all be glad to get off the mark. Players from the same country meet as early as possible in each cycle of this double round robin setting up USA-USA and India-India first round ties. </p? Fabiano Caruana had the best chance to win after Hikaru Nakamura gave him a rather stable advantage out of the opening. 23...Rxf2? from Nakamura was an interesting tactic but a mistake but Caruana couldn't find the right way and his advantage dribbled away. Neither Alireza Firouzja of Praggnanandhaa backed away from a double edged battle and that game finished in a draw by perpetual. D Gukesh and ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/all-four-games-drawn-in-round-1-of-the-candidates-caruana-misses-chances-against-nakamura",
-         "pubDate" : "Fri, 5 Apr 2024 00:58:00",
-         "title" : "All four games drawn in Round 1 of the Candidates, Caruana misses chances against Nakamura - 1"
-      },
-      {
          "description" : "The first day of the 2024 FIDE Candidates Tournament came to an end after several exciting games, most finishing in a draw including the all-Indian clashes.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1416,14 +1424,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-trainers-commission-projects/",
          "pubDate" : "Thu, 28 Mar 2024 16:29:31",
          "title" : "ECU Trainers Commission Projects"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2938",
-         "pubDate" : "Thu, 28 Mar 2024 11:57:42",
-         "title" : "Across the board: Fostering unity and empowerment in Africa through chess"
       }
    ]
 }
