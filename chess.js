@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2980",
+         "pubDate" : "Thu, 18 Apr 2024 21:16:30",
+         "title" : "European Women's Championship starts in Rhodes, Greece"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2979",
+         "pubDate" : "Thu, 18 Apr 2024 20:53:03",
+         "title" : "FIDE elevates chess standards as it improves regulations for arbiters"
+      },
+      {
          "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1400,14 +1416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2939",
          "pubDate" : "Fri, 29 Mar 2024 09:00:27",
          "title" : "FIDE Candidates Tournament 2024 to feature the Iconic World Chess Sets "
-      },
-      {
-         "description" : " The 2024 O2C Doeberl Cup began with the first 2 rounds of the Premier section. This year's field includes 4 GM's, 8 IM's and 38 titled players overall. While the top boards saw the usual rating gap between top half an bottom half, this actually shrunk on the lower boards, in part due to the recent changes to the FIDE Rating System. Consequently there were a few upsets in the first round, and even into the second. Defending champion GM Hrant Melkumyan started the tournament with 2 straightforward wins (including one over Harry Press). 2nd seed Mitrabha Guhu found round 2 a lot tougher, salvaging a draw against FM Michael Steadmen (NZ) from a position where he was a lot worse. IM Das from Ind",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-1.html",
-         "pubDate" : "Thu, 28 Mar 2024 21:37:00",
-         "title" : "2024 O2C Doeberl Cup - Day 1"
       }
    ]
 }
