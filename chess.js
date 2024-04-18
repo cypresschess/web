@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Thu, 18 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
+         "description" : " Tan Zhongyi took sole lead of the FIDE Women's Candidates with 7.5/11 after beating Kateryna Lagno in a Reti. Lei Tingjie managed to draw against Anna Muzychuk and is half a point behind. With three rounds to go Kateryna Lagno, Humpy Koneru and Aleksandra Goryachkina are all on 5.5 points, realistically it's between Tan and Lei for the title. Tan played a Reti System, 13...e5 from Lagno could have been met by 14.Nxe5 with advantage but instead a roughly balance position was arrived at. 27.Rc5? could have been refuted by 27...f4 when overloaded pieces combined with a kingside attack win for black. Lagno played the losing 28...Bxb3 (28...f4 is the way to hold the balance now) and Tan made no ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-leads-lei-half-a-point-after-11-rounds-in-a-two-horse-race-for-the-womens-candidates",
+         "pubDate" : "Thu, 18 Apr 2024 18:54:00",
+         "title" : "Tan leads Lei half a point after 11 rounds in a two horse race for the Women's Candidates - 11"
+      },
+      {
          "description" : " Ian Nepomniachtchi won a really fascinating struggle against Santosh Vidit in the eleventh round of the FIDE Candidates tournament in Toronto, Canada. Not only did Nepomniachtchi win, he won with the black pieces, but it was Vidit who first had winning chances. Vidit chose a side-line in a fairly topical Petroff line, even with Queen's off the play remained complicated and 33...Rb3? (33...Kg7!) was losing according to engines after 34.h5! Then 35...a5? 36.Bxa3 d5 was also deemed losing for black but only after giving up a piece. The position was back level and 58.Bb3?! and 60.Nb2+? suddenly Nepomniachtchi was winning and his conversion was a lot easier. Earlier Hikaru Nakamura was extremely",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -26,14 +42,6 @@ news_feed (
          "title" : "Adrian Mikhalchishin: The Sharp Arkhangelsk Variation in the Ruy Lopez"
       },
       {
-         "description" : "An exciting round of chess saw Ian Nepomniachtchi winning a rollercoaster game against Vidit Gujrathi to regain the sole lead at the Candidates Tournament in Toronto. Nepo stands a half point ahead of Gukesh D, the former co-leader, and Hikaru Nakamura, who obtained a remarkable victory over direct contender Praggnanandhaa R. With three rounds to go, we can expect more thrilling games in the fierce fight to become the challenger in the next match for the World Championship. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-11",
-         "pubDate" : "Thu, 18 Apr 2024 10:20:00",
-         "title" : "Candidates R11: Nepo sole leader, Naka beats Pragg"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109394851.cms\" />Grandmaster D Gukesh secured a draw against top seed Fabiano Caruana in the 11th round of the Candidates Chess Tournament. Gukesh though dropped to joint second position. R Praggnanandhaa and Vidit Gujrathi suffered losses against Hikaru Nakamura and Ian Nepomniachtchi, respectively. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -50,12 +58,12 @@ news_feed (
          "title" : "FIDE Candidates: Nepomniachtchi and Tan in the Lead Again"
       },
       {
-         "description" : "An eventful eleventh round saw Ian Nepomniachtchi beating Vidit Gujrathi to regain the sole lead in the Candidates Tournament. Nepomniachtchi stands a half point ahead of Gukesh D and Hikaru Nakamura - the latter obtained a remarkable victory over Praggnanandhaa R with the black pieces. Similarly, Tan Zhongyi regained the sole lead in the Women's Candidates, as she beat Kateryna Lagno with the white pieces in a rollercoaster game. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Wed, 17 Apr 2024 20:15:00",
-         "title" : "Candidates - Nepo and Tan sole leaders, Naka beats Pragg"
+         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
+         "pubDate" : "Wed, 17 Apr 2024 23:30:58",
+         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "Round 11 of the 2024 FIDE Candidates Tournament featured three decisive games out of a possible four.&#38;nbsp;GM Ian Nepomniachtchi won the longest game of the round with Black against GM Vidit Gujrathi, again taking the sole lead. A half-point behin...",
@@ -1034,14 +1042,6 @@ news_feed (
          "title" : "FIDE Candidates: Tan Zhongyi leads after first round"
       },
       {
-         "description" : " There was just one decisive game in the first round of the Women's Candidates tournament in Toronto, Canada. Tan Zhongyi beat fellow countrywoman Lei Tingjie with the black pieces, she equalised comfortably in a Queen's Gambit and started to threaten on the kingside, 24.Qf4? was a panicky reaction that led to an inferior position but the final move before time control 40.Kg3? was the decisive error. The remaining games were drawn, Goryachkina-Lagno was a Sicilian where the spectacular 17.Nf5 was probably a mistake, but it was all still a bit difficult and the game was equal a few moves later. Muzychuk-Salimova was a moderately interesting Petroff Defence and Rameshbabu Vaishali against Hump",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-leads-the-womens-candidates-alone-after-one-round",
-         "pubDate" : "Fri, 5 Apr 2024 01:03:00",
-         "title" : "Tan Zhongyi leads the Women's Candidates alone after one round - 1"
-      },
-      {
          "description" : "The first day of the 2024 FIDE Candidates Tournament came to an end after several exciting games, most finishing in a draw including the all-Indian clashes.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1408,22 +1408,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-1.html",
          "pubDate" : "Thu, 28 Mar 2024 21:37:00",
          "title" : "2024 O2C Doeberl Cup - Day 1"
-      },
-      {
-         "description" : "Last month we fretted that <A HREF=\"https://chessforallages.blogspot.com/2024/02/yahoo-zombies-want-chess.html\">Yahoo Zombies Want Chess</A> (February 2024). This month they got what they wanted. For the first time since <A HREF=\"https://chessforallages.blogspot.com/2022/12/how-many-for-carlsen-for-niemann.html\">How Many for Carlsen? For Niemann?</A> (December 2022), Yahoo.com delivered chess Yahoos ... two of them ... on consecutive days ... just after the zombies post. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oc28.gif\" WIDTH=400 HEIGHT=175><BR> <B>Top:</B> 'Is the United States overestimating China's power? &#149; Most Americans see China as the biggest threat to the ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/03/real-yahoos-sort-of-spotted-again.html",
-         "pubDate" : "Thu, 28 Mar 2024 16:46:00",
-         "title" : "Real Yahoos (Sort Of) Spotted Again"
-      },
-      {
-         "description" : "The European Chess Union Trainers' Commission (ECU-ETC) was formed at the end of 2022. The Commission's Council was made-up by I.Sokolov (Chairman), Adrian Mikhalchishin (Honorary Chairman), Efstratios Grivas (Secretary), Miguel Illescas (Member), Antoaneta Stefanova (Member), Jana Krivec (Adviser) and Luke McShane (Adviser). The cream of the cream of Europe! It took some time before all official procedures were done and requirements were met, but we wanted to be sure that we make everything nice, smoothly and legally. In the end []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-trainers-commission-projects/",
-         "pubDate" : "Thu, 28 Mar 2024 16:29:31",
-         "title" : "ECU Trainers Commission Projects"
       }
    ]
 }
