@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109394851.cms\" />Grandmaster D Gukesh secured a draw against top seed Fabiano Caruana in the 11th round of the Candidates Chess Tournament. Gukesh though dropped to joint second position. R Praggnanandhaa and Vidit Gujrathi suffered losses against Hikaru Nakamura and Ian Nepomniachtchi, respectively. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-drops-to-joint-2nd-after-a-draw-against-fabiano-caruana-in-candidates-chess-tournament/articleshow/109394851.cms",
+         "pubDate" : "Thu, 18 Apr 2024 06:58:15",
+         "title" : "D Gukesh drops to joint 2nd after a draw against Fabiano Caruana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2978",
+         "pubDate" : "Thu, 18 Apr 2024 05:06:32",
+         "title" : "FIDE Candidates: Nepomniachtchi and Tan in the Lead Again"
+      },
+      {
          "description" : "An eventful eleventh round saw Ian Nepomniachtchi beating Vidit Gujrathi to regain the sole lead in the Candidates Tournament. Nepomniachtchi stands a half point ahead of Gukesh D and Hikaru Nakamura - the latter obtained a remarkable victory over Praggnanandhaa R with the black pieces. Similarly, Tan Zhongyi regained the sole lead in the Women's Candidates, as she beat Kateryna Lagno with the white pieces in a rollercoaster game. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Candidates - Nepo and Tan sole leaders, Naka beats Pragg"
       },
       {
-         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. GM Ian Nepomniachtchi won the last game of round 11, with Black against GM Vidit Gujrathi, to again...",
+         "description" : "Round 11 of the 2024 FIDE Candidates Tournament featured three decisive games out of a possible four.&#38;nbsp;GM Ian Nepomniachtchi won the longest game of the round with Black against GM Vidit Gujrathi, again taking the sole lead. A half-point behin...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-11",
          "pubDate" : "Wed, 17 Apr 2024 18:07:00",
-         "title" : "Nepomniachtchi Recaptures Pole Position, Nakamura Dispatches Praggnanandhaa"
+         "title" : "Nepomniachtchi, Tan Regain Sole Lead, Nakamura Beats Praggnanandhaa"
       },
       {
          "description" : "The European Women's Chess Championship 2024 starts this Friday in Rhodes, Greece. The event will take place from 18-30 April at the 5***** \"Rodos Palace\" Conference Hotel, and officially kicks off with the Opening ceremony and first round which are scheduled for April 19th. The tournament gathers 183 players coming from 35 European federations and it will be the largest European Women's Championship ever. A very strong line-up is headlined by IM Yuliia Osmak (UKR, 2459), IM Marsel Efroimski (ISR, []",
@@ -1152,14 +1168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-hong-win-titled-tuesday-april-2-2024",
          "pubDate" : "Wed, 03 Apr 2024 08:32:27",
          "title" : "Nakamura Wins Another Titled Tuesday As Hong Wins 1st"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/108991780.cms\" />Young Indian grandmasters Rameshbabu Praggnanandhaa (18), Dommaraju Gukesh (17) and 29-year-old Vidit Gujrathi will make their debut in the open category of the tournament, which will see an interesting contest between youthful exuberance and experience.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/experience-vs-exuberance-candidates-vie-for-big-chess-prize/articleshow/108991780.cms",
-         "pubDate" : "Wed, 03 Apr 2024 04:27:31",
-         "title" : "India's chess stars vie for big prize at Candidates"
       },
       {
          "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's and women's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8 in both videos. Will he succeed? And how will you do, dear viewer? These two videos are the perfect start to get into the mood for the candidates tournament!",
