@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sharp Arkhangelsk variation, utilized by chess masters like Magnus Carlsen and Fabiano Caruana, emerges from a series of strategic moves beginning with 1.e4 e5. This rich variation offers multiple playstyles, making it a challenging preparation for opponents, with model games highlighting its diverse strategies and concepts for players of all levels.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/adrian-mikhalchishin-the-sharp-arkhangelsk-variation-in-the-ruy-lopez",
+         "pubDate" : "Thu, 18 Apr 2024 12:00:00",
+         "title" : "Adrian Mikhalchishin: The Sharp Arkhangelsk Variation in the Ruy Lopez"
+      },
+      {
+         "description" : "An exciting round of chess saw Ian Nepomniachtchi winning a rollercoaster game against Vidit Gujrathi to regain the sole lead at the Candidates Tournament in Toronto. Nepo stands a half point ahead of Gukesh D, the former co-leader, and Hikaru Nakamura, who obtained a remarkable victory over direct contender Praggnanandhaa R. With three rounds to go, we can expect more thrilling games in the fierce fight to become the challenger in the next match for the World Championship. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-11",
+         "pubDate" : "Thu, 18 Apr 2024 10:20:00",
+         "title" : "Candidates R11: Nepo sole leader, Naka beats Pragg"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109394851.cms\" />Grandmaster D Gukesh secured a draw against top seed Fabiano Caruana in the 11th round of the Candidates Chess Tournament. Gukesh though dropped to joint second position. R Praggnanandhaa and Vidit Gujrathi suffered losses against Hikaru Nakamura and Ian Nepomniachtchi, respectively. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,14 +58,6 @@ news_feed (
          "title" : "European Women's Chess Championship 2024 starts"
       },
       {
-         "description" : "Defending champions Obiettivo Risarcimento Padova won the 55th edition of the Italian Team Championship, but had to work hard to do so. They only won the final against ASD Pedone Isolano in the second tie-break. However, ASD Pedone Isolano won the women's title (photo). | Photos: Matteo Zoldan",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/italian-team-championships-obiettivo-risarcimento-and-pedone-isolani-take-the-titles",
-         "pubDate" : "Wed, 17 Apr 2024 13:28:00",
-         "title" : "Italian Team Championships: Obiettivo Risarcimento and Pedone Isolani take the titles"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,14 +74,6 @@ news_feed (
          "title" : "Nice... Nakamura Wins 69th Titled Tuesday During Candidates Rest Day"
       },
       {
-         "description" : "\"I am a big fan of Aron Nimzowitsch,\" writes IM Zoran Petronijevic, who works as a chess trainer and lives in Nis (Serbia). \"In yesterday's game Firouzja-Nepo, I found some ideas by him. We can often read that the study of the classical heritage of chess is completely unnecessary for advancing in chess, that the games of the classics are outdated, and that there is no (or almost no) benefit from them. I deeply disagree with that.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/are-the-classics-necessary",
-         "pubDate" : "Wed, 17 Apr 2024 09:00:00",
-         "title" : "Are the classics necessary?"
-      },
-      {
          "description" : "GM Maurice Ashley draws on his extensive chess experience to impart life lessons in his latest literary offering. His new book has already hit number one on Amazon. On April 2, Ashley released his new book Move by Move: Life Lessons on and off t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-to-take-on-fabiano-caruana-r-praggnanandhaa-up-against-hikaru-nakamura-at-candidates-chess-tournament/articleshow/109363130.cms",
          "pubDate" : "Wed, 17 Apr 2024 04:59:22",
          "title" : "Gukesh takes on Caruana, Pragg up against Nakamura at Candidates"
-      },
-      {
-         "description" : "Lei Tingjie scored a fourth win in five rounds to join Tan Zhongyi in the lead of the Women's Candidates Tournament in Toronto. Lei defeated direct contender Aleksandra Goryachkina with the black pieces. With four rounds to go, the Chinese leading duo stands a full point ahead of Goryachkina and Kateryna Lagno. Meanwhile, one more game ended decisively on Monday, with Vaishali R first surviving a losing position and then managing to beat Nurgyul Salimova. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-10",
-         "pubDate" : "Wed, 17 Apr 2024 01:15:00",
-         "title" : "Women's Candidates R10: Lei wins again, shares the lead with Tan"
       },
       {
          "description" : "Three-time Polish Women&#39;s Champion IM Joanna Dworakowska, among the nation&#39;s strongest women for more than two decades, has passed away at the age of 45. Dworakowska is one of Poland&#39;s strongest women players ever, with a peak rating of 2445, a ...",
@@ -138,14 +130,6 @@ news_feed (
          "title" : "Nakamura and Caruana win to get back into contention after 10 rounds of the Candidates - 10"
       },
       {
-         "description" : "Jan Markos is a Slovakian grandmaster and successful author. In addition to several books, he has now recorded a much acclaimed Fritztrainer course. Stefan Liebig spoke to the author and trainer about the secrets of effective chess training.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/successful-author-jan-markos-a-portrait",
-         "pubDate" : "Tue, 16 Apr 2024 17:00:00",
-         "title" : "Successful author Jan Markos - a portrait"
-      },
-      {
          "description" : "With D Gukesh in the joint lead after Round 10, can any other Indian surprise pre-tournament expectations?",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -176,14 +160,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-declaration-on-summer-friendship-games/",
          "pubDate" : "Tue, 16 Apr 2024 10:39:24",
          "title" : "ECU Declaration on \"Summer Friendship Games\""
-      },
-      {
-         "description" : "U.S. grandmasters Fabiano Caruana and Hikaru Nakamura collected vital wins in round 10 of the Candidates Tournament, as they now stand a half point behind co-leaders Ian Nepomniachtchi and Gukesh D. Nakamura got the better of a struggling Nijat Abasov, while Caruana defeated Alireza Firouzja out of a double-edged Sicilian Najdorf. The participants will get rest days on Tuesday and Friday, as there are only four rounds to go in Toronto. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-10",
-         "pubDate" : "Tue, 16 Apr 2024 09:40:00",
-         "title" : "Candidates R10: Nakamura and Caruana grab crucial wins"
       },
       {
          "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help building your opening repertoire and understanding the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. Pre-order now! Delivery on 18 April 2024.",
@@ -232,6 +208,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-the-showstopper-stuns-nakamura-again-for-his-second-win-over-world-no-3-in-candidates-gukesh-nepo-share-top-position/articleshow/109321898.cms",
          "pubDate" : "Mon, 15 Apr 2024 17:03:29",
          "title" : "Vidit stuns Nakamura again for his second win over World no. 3"
+      },
+      {
+         "description" : "A week ago I posted <A HREF=\"https://chessforallages.blogspot.com/2024/04/the-3d-render-style.html\">The '3D Render' Style</A> (April 2024; aka 'Buddhists play chess'). There I started, <BLOCKQUOTE> Let's continue with the religious theme. Three weeks in a row make a trend. </BLOCKQUOTE> <P> Four Weeks in a row make a wedding photo of my three brothers and me. And following the principles espoused by <I>Non sequiturs 'R' Us</I>, that brings us to the subject of Druids. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od15.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Druids play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> What exactly is a Druid? In <A HRE",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/04/the-circular-chess-boards-of-druids.html",
+         "pubDate" : "Mon, 15 Apr 2024 15:51:00",
+         "title" : "The Circular Chess Boards of the Druids"
       },
       {
          "description" : " Tan Zhongyi scored a quick victory against Rameshbabu Vaishali in Round 9 of the Women's Candidates tournament in Toronto and that eventually proved to be enough to lead alone on 6/9. Tan claimed to have surprised Vaishali with her choice of opening, I'm not sure at what move that was but after Vaishali's 11.Ng5 the position became tricky to handle for both sides. 13.h4?! (13.Na3) was ambitious but the key moment came with 16.c4? (16.Bxd6 is only a tiny bit worse for white) f6! and white was already in dire straits. 18.c5? was another error and the collapse was complete with 19. ...Nxd4 20. Qe3? Nxc2. Lei Tingjie looked to be heading for a quick victory herself against Nurgyul Salimova. The",
