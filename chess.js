@@ -90,12 +90,36 @@ news_feed (
          "title" : "Four in the race for first in FIDE Candidates; Tan solely on top in Women's event"
       },
       {
+         "description" : "The other four Indians are out of contention, but Praggnanandhaa can still play a crucial role.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39973019/fide-candidates-2024-india-gukesh-win-tournament-nepomniachtchi-nakamura-caruana?device=featurephone",
+         "pubDate" : "Fri, 19 Apr 2024 03:43:53",
+         "title" : "FIDE Candidates 2024: Can Gukesh win the tournament?"
+      },
+      {
          "description" : " After a couple of exciting rounds, the 2024 Candidates is down to 4 players. There is a 3 way tie at the top, with Nepo, Naka, and Gukesh all on 7.5, with Fabi on 7. Nepo and Nakamura have the toughest assignments, playing each other in round 13 and then Caruana and Gukesh respectively in the last round. Gukesh has an out of form Firouzja in round 13, while Caruana is playing a much tougher Prag. At this stage Gukesh seems to have the best run home, but this could all change if Nakamura can pull off the big final round comeback. <br /> <b>Caruana,Fabiano (2803) - Vidit,Santosh Gujrathi (2727) [C54]</b><br /> FIDE Candidates 2024 Toronto, Canada (12.4), 18.04.2024 <script> new PgnViewer( { b",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/04/down-to-4.html",
          "pubDate" : "Fri, 19 Apr 2024 00:24:00",
          "title" : "Down to 4"
+      },
+      {
+         "description" : "Meanwhile, Vaishali R won her third straight game while the other two Indians lost at the FIDE Candidates 2024",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39972203/fide-candidates-2024-india-gukesh-three-way-tie-lead-praggnanandhaa-holds-nepomniachtchi-round-12?device=featurephone",
+         "pubDate" : "Thu, 18 Apr 2024 22:46:16",
+         "title" : "Candidates: Gukesh in three-way tie for lead after Pragg holds Nepo in round 12"
+      },
+      {
+         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
+         "pubDate" : "Thu, 18 Apr 2024 21:43:55",
+         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "",
@@ -112,14 +136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2979",
          "pubDate" : "Thu, 18 Apr 2024 20:53:03",
          "title" : "FIDE elevates chess standards as it improves regulations for arbiters"
-      },
-      {
-         "description" : "Hikaru Nakamura and Gukesh D joined Ian Nepomniachtchi in the lead at the Candidates Tournament after beating Alireza Firouzja and Nijat Abasov, respectively. Fabiano Caruana defeated Vidit Gujrathi and now stands a half point behind the leaders. Tan Zhongyi still has a half-point lead over Lei Tingjie in the women's event. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Thu, 18 Apr 2024 20:15:00",
-         "title" : "Candidates - Nakamura and Gukesh join the lead, Caruana scores"
       },
       {
          "description" : " Tan Zhongyi took sole lead of the FIDE Women's Candidates with 7.5/11 after beating Kateryna Lagno in a Reti. Lei Tingjie managed to draw against Anna Muzychuk and is half a point behind. With three rounds to go Kateryna Lagno, Humpy Koneru and Aleksandra Goryachkina are all on 5.5 points, realistically it's between Tan and Lei for the title. Tan played a Reti System, 13...e5 from Lagno could have been met by 14.Nxe5 with advantage but instead a roughly balance position was arrived at. 27.Rc5? could have been refuted by 27...f4 when overloaded pieces combined with a kingside attack win for black. Lagno played the losing 28...Bxb3 (28...f4 is the way to hold the balance now) and Tan made no ",
@@ -184,14 +200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2978",
          "pubDate" : "Thu, 18 Apr 2024 05:06:32",
          "title" : "FIDE Candidates: Nepomniachtchi and Tan in the Lead Again"
-      },
-      {
-         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
-         "pubDate" : "Wed, 17 Apr 2024 23:30:58",
-         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "Round 11 of the 2024 FIDE Candidates Tournament featured three decisive games out of a possible four.&#38;nbsp;GM Ian Nepomniachtchi won the longest game of the round with Black against GM Vidit Gujrathi, again taking the sole lead. A half-point behin...",
@@ -288,14 +296,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39953004/fide-candidates-2024-which-indian-win-tournament-gukesh-praggnanandhaa-vidit-humpy-vaishali?device=featurephone",
          "pubDate" : "Tue, 16 Apr 2024 13:11:29",
          "title" : "FIDE Candidates 2024: Which Indian can win the tournament?"
-      },
-      {
-         "description" : "We have seen them, haven't we? The howlers? Amateurs and professionals alike in the aftermath of a game, trying to explain their blunder, shaking their heads in disbelief, scratching their brows, sighing while trying to come up with a rational explanation. Blunders happen because humans are fallible and ill-founded impulses prove stronger than the ability to abort them - as is explained in this scientific paper.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/why-chess-players-blunder",
-         "pubDate" : "Tue, 16 Apr 2024 13:00:00",
-         "title" : "Why Chess Players Blunder"
       },
       {
          "description" : " I was asked by one of my readers about whether I was going to comment on the latest happenings in the Candidates Tournament. My initial inclination was to say no*, but with todays extra spice I've changed my mind. Yesterdays fun started when Chief Arbiter Aris Marghetis asked Alireza Firouzja to stop making so much noise with his shoes when walking around. Apparently this had disturbed at least one other player, who had complained to Aris. Firouzja was not happy about the request, and after the round complained on social media. As an Arbiter, I've also had to deal with this issue from time to time. It usually occurs when the venue has hard wood floors, and more formal shoes (ie not sandshoe",
@@ -592,14 +592,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/watching-rather-than-writing.html",
          "pubDate" : "Fri, 12 Apr 2024 14:30:00",
          "title" : "Watching rather than writing"
-      },
-      {
-         "description" : "Arne recently played in a chess tournament, and one of his opponents played the unusual 1.f4, which was quite a surprise. Sadly, he didn't film this Smart Moves episode before the tournament, to get to know the surprising answer Nh6!? The so called - Horsefly Defence in the Bird Opening. Even the engines think that this counter is absolutely legit, and the Mega Database shows excellent results as well. Svitlana shows, why it is a powerful move!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-anti-bird-nh6-against-1-f4",
-         "pubDate" : "Fri, 12 Apr 2024 14:00:00",
-         "title" : "Svitlana's Smart Moves - The Anti-Bird: Nh6!? against 1.f4"
       },
       {
          "description" : "Round 6 GM Vidit Gujarathi Stunned World no 2 Alireza Firouza playing with black the French man opted for Sicilian Defense and was in trouble",
@@ -1440,14 +1432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2940",
          "pubDate" : "Sat, 30 Mar 2024 00:23:42",
          "title" : "Oncological Chess shines at International Congress in Menorca"
-      },
-      {
-         "description" : " Day 2 of the 2024 O2C Doeberl Cup saw the rest of the sections join up with the Premier. 413 players in total sat down to play when all events officially began at 1pm on Friday, which is once again, a record entry for the tournament. Round 3 of the Premier had a sensation on the top board, with GM Hrant Melkumyan having a walkover win againt GM M Venkatesh. Suffering the effects of jet lag, Venkatesh overslept, missing the 1pm start, and the 30 minute deadline to show up. The extra rest probably assisted Melkumyan, as he won a very long round 4 game against IM Peng Chen to reach 4/4. In joint second are IM Rishi Sardana, IM James Morris, and FM Albert Winkelman. Sardana and Morris drew thei",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-2.html",
-         "pubDate" : "Fri, 29 Mar 2024 23:29:00",
-         "title" : "2024 O2C Doeberl Cup - Day 2"
       }
    ]
 }
