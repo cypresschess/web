@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " After a couple of exciting rounds, the 2024 Candidates is down to 4 players. There is a 3 way tie at the top, with Nepo, Naka, and Gukesh all on 7.5, with Fabi on 7. Nepo and Nakamura have the toughest assignments, playing each other in round 13 and then Caruana and Gukesh respectively in the last round. Gukesh has an out of form Firouzja in round 13, while Caruana is playing a much tougher Prag. At this stage Gukesh seems to have the best run home, but this could all change if Nakamura can pull off the big final round comeback. <br /> <b>Caruana,Fabiano (2803) - Vidit,Santosh Gujrathi (2727) [C54]</b><br /> FIDE Candidates 2024 Toronto, Canada (12.4), 18.04.2024 <script> new PgnViewer( { b",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/down-to-4.html",
+         "pubDate" : "Fri, 19 Apr 2024 00:24:00",
+         "title" : "Down to 4"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "FIDE elevates chess standards as it improves regulations for arbiters"
       },
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "Hikaru Nakamura and Gukesh D joined Ian Nepomniachtchi in the lead at the Candidates Tournament after beating Alireza Firouzja and Nijat Abasov, respectively. Fabiano Caruana defeated Vidit Gujrathi and now stands a half point behind the leaders. Tan Zhongyi still has a half-point lead over Lei Tingjie in the women's event. | Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Thu, 18 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates - Nakamura and Gukesh join the lead, Caruana scores"
       },
       {
          "description" : " Tan Zhongyi took sole lead of the FIDE Women's Candidates with 7.5/11 after beating Kateryna Lagno in a Reti. Lei Tingjie managed to draw against Anna Muzychuk and is half a point behind. With three rounds to go Kateryna Lagno, Humpy Koneru and Aleksandra Goryachkina are all on 5.5 points, realistically it's between Tan and Lei for the title. Tan played a Reti System, 13...e5 from Lagno could have been met by 14.Nxe5 with advantage but instead a roughly balance position was arrived at. 27.Rc5? could have been refuted by 27...f4 when overloaded pieces combined with a kingside attack win for black. Lagno played the losing 28...Bxb3 (28...f4 is the way to hold the balance now) and Tan made no ",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-leads-lei-half-a-point-after-11-rounds-in-a-two-horse-race-for-the-womens-candidates",
          "pubDate" : "Thu, 18 Apr 2024 18:54:00",
          "title" : "Tan leads Lei half a point after 11 rounds in a two horse race for the Women's Candidates - 11"
+      },
+      {
+         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. We have three co-leaders at the&#38;nbsp; 2024 FIDE Candidates Tournament with two rounds to go: GM Ian...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-12",
+         "pubDate" : "Thu, 18 Apr 2024 17:57:00",
+         "title" : "Nakamura Scores Hat Trick, Joins 3-Way Lead With Nepomniachtchi, Gukesh"
+      },
+      {
+         "description" : "CM Matfey Rogov prevailed in the Atomic Chess Championship of the Variants Community Series (VCS) on Thursday. In a sibling rivalry-fueled Final, he overcame his older brother, Timofey Rogov.&#38;nbsp; Along the way, Matfey also defeated the top see...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-vcs-atomic-chess-matfey-rogov-wins",
+         "pubDate" : "Thu, 18 Apr 2024 17:52:00",
+         "title" : "The Bizarre, Delightful World Of Atomic: Younger Brother Triumphs In Sibling Rivalry"
       },
       {
          "description" : " Ian Nepomniachtchi won a really fascinating struggle against Santosh Vidit in the eleventh round of the FIDE Candidates tournament in Toronto, Canada. Not only did Nepomniachtchi win, he won with the black pieces, but it was Vidit who first had winning chances. Vidit chose a side-line in a fairly topical Petroff line, even with Queen's off the play remained complicated and 33...Rb3? (33...Kg7!) was losing according to engines after 34.h5! Then 35...a5? 36.Bxa3 d5 was also deemed losing for black but only after giving up a piece. The position was back level and 58.Bb3?! and 60.Nb2+? suddenly Nepomniachtchi was winning and his conversion was a lot easier. Earlier Hikaru Nakamura was extremely",
@@ -1258,14 +1282,6 @@ news_feed (
          "title" : "ChessUp 2: Now You Can Play Chess.com Games Directly On A Board"
       },
       {
-         "description" : "It&#39;s late at night at the Marshall Chess Club in New York City, early 1960s. Smoke wafts between shadowed men playing chess under lamplights. But what stands out most in this historic photograph is the sole young woman, exhaling the fog of war ove...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lisa-lane-1933-2024",
-         "pubDate" : "Tue, 02 Apr 2024 06:31:13",
-         "title" : "Lisa Lane, 1933-2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1288,14 +1304,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/04/no-splitting-hares.html",
          "pubDate" : "Mon, 01 Apr 2024 15:46:00",
          "title" : "No Splitting Hares"
-      },
-      {
-         "description" : "GM Magnus Carlsen scored a brilliant win, then pulled off a great escape, to beat GM Richard Rapport 1.5-0.5 and win the GRENKE Chess Classic for a third time. GM Maxime Vachier-Lagrave beat GM Vincent Keymer in blitz tiebreaks to take third place...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-grenke-chess-classic-final",
-         "pubDate" : "Mon, 01 Apr 2024 14:21:00",
-         "title" : "Carlsen Wins 3rd GRENKE Chess Classic, Niemann Takes Open"
       },
       {
          "description" : "",
