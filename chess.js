@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " With just the final two rounds to come, Ian Nepomniachtchi, Hikaru Nakamura and Gukesh Domaraju share the lead while the world No 2 , Fabiano Caruana, is half a point behind With 12 rounds complete and just Saturday's and Sunday's final two rounds to come, the Candidates in Toronto could hardly be closer. Three players share the lead, another is just half a point behind. The €500k tournament will decide which of its eight contestants challenges China's Ding Liren for his world crown later this year. Leaders after 12 rounds (of 14) were : Ian Nepomniachtchi (Russia), Hikaru Nakanmura (US), and Gukesh Dommaraju (India) all 7.5; Fabiano Caruana (US) 7; Praggnanandhaa Rameshbabu (India) 6. Th",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/apr/19/chess-four-in-close-contention-as-candidates-reaches-weekend-climax",
+         "pubDate" : "Fri, 19 Apr 2024 07:00:06",
+         "title" : "Chess: Four in close contention as Candidates reaches weekend climax"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2981",
+         "pubDate" : "Fri, 19 Apr 2024 05:23:57",
+         "title" : "Four in the race for first in FIDE Candidates; Tan solely on top in Women's event"
+      },
+      {
          "description" : " After a couple of exciting rounds, the 2024 Candidates is down to 4 players. There is a 3 way tie at the top, with Nepo, Naka, and Gukesh all on 7.5, with Fabi on 7. Nepo and Nakamura have the toughest assignments, playing each other in round 13 and then Caruana and Gukesh respectively in the last round. Gukesh has an out of form Firouzja in round 13, while Caruana is playing a much tougher Prag. At this stage Gukesh seems to have the best run home, but this could all change if Nakamura can pull off the big final round comeback. <br /> <b>Caruana,Fabiano (2803) - Vidit,Santosh Gujrathi (2727) [C54]</b><br /> FIDE Candidates 2024 Toronto, Canada (12.4), 18.04.2024 <script> new PgnViewer( { b",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "FIDE elevates chess standards as it improves regulations for arbiters"
       },
       {
-         "description" : "Hikaru Nakamura and Gukesh D joined Ian Nepomniachtchi in the lead at the Candidates Tournament after beating Alireza Firouzja and Nijat Abasov, respectively. Fabiano Caruana defeated Vidit Gujrathi and now stands a half point behind the leaders. Tan Zhongyi still has a half-point lead over Lei Tingjie in the women's event. | Full reports to follow shortly.",
+         "description" : "Hikaru Nakamura and Gukesh D joined Ian Nepomniachtchi in the lead at the Candidates Tournament after beating Alireza Firouzja and Nijat Abasov, respectively. Fabiano Caruana defeated Vidit Gujrathi and now stands a half point behind the leaders. Tan Zhongyi still has a half-point lead over Lei Tingjie in the women's event. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
@@ -42,7 +58,7 @@ news_feed (
          "title" : "Tan leads Lei half a point after 11 rounds in a two horse race for the Women's Candidates - 11"
       },
       {
-         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. We have three co-leaders at the&#38;nbsp; 2024 FIDE Candidates Tournament with two rounds to go: GM Ian...",
+         "description" : "We have three co-leaders at the&#38;nbsp; 2024 FIDE Candidates Tournament with two rounds to go: GM Ian Nepomniachtchi, GM Hikaru Nakamura, and GM Gukesh Dommaraju. Nakamura scored the hat trick against GM Alireza Firouzja, and Gukesh defeated GM Nija...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-12",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2978",
          "pubDate" : "Thu, 18 Apr 2024 05:06:32",
          "title" : "FIDE Candidates: Nepomniachtchi and Tan in the Lead Again"
-      },
-      {
-         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
-         "pubDate" : "Wed, 17 Apr 2024 23:30:58",
-         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "Round 11 of the 2024 FIDE Candidates Tournament featured three decisive games out of a possible four.&#38;nbsp;GM Ian Nepomniachtchi won the longest game of the round with Black against GM Vidit Gujrathi, again taking the sole lead. A half-point behin...",
@@ -194,14 +202,6 @@ news_feed (
          "title" : "Nakamura and Caruana win to get back into contention after 10 rounds of the Candidates - 10"
       },
       {
-         "description" : "With D Gukesh in the joint lead after Round 10, can any other Indian surprise pre-tournament expectations?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39953004/fide-candidates-2024-which-indian-win-tournament-gukesh-praggnanandhaa-vidit-humpy-vaishali?device=featurephone",
-         "pubDate" : "Tue, 16 Apr 2024 13:11:29",
-         "title" : "FIDE Candidates 2024: Which Indian can win the tournament?"
-      },
-      {
          "description" : "We have seen them, haven't we? The howlers? Amateurs and professionals alike in the aftermath of a game, trying to explain their blunder, shaking their heads in disbelief, scratching their brows, sighing while trying to come up with a rational explanation. Blunders happen because humans are fallible and ill-founded impulses prove stronger than the ability to abort them - as is explained in this scientific paper.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,6 +216,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/of-shoes-and-ships-and-sealing-wax.html",
          "pubDate" : "Tue, 16 Apr 2024 12:55:00",
          "title" : "Of shoes and ships and sealing wax ..."
+      },
+      {
+         "description" : "With D Gukesh in the joint lead after Round 10, can any other Indian surprise pre-tournament expectations?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39953004/fide-candidates-2024-which-indian-win-tournament-gukesh-praggnanandhaa-vidit-humpy-vaishali?device=featurephone",
+         "pubDate" : "Tue, 16 Apr 2024 11:31:26",
+         "title" : "FIDE Candidates 2024: Which Indian can win the tournament?"
       },
       {
          "description" : "Due to invitations have been received by European Chess federations and ECU to participate in the \"Summer Friendship Games\" to be organised in Russia in September 2024, the European Chess Union (ECU) hereby informs the National Chess federations about its position.&#160; ECU considers itself as a committed partner of the International Olympic Committee (IOC) and European Olympic Committees (EOC). IOC has made clear its position about the organisation of \"Friendship Games\" in Russia. We highlight some parts, and we link []",
