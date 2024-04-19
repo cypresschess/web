@@ -6,8 +6,24 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/anish-giri-in-conversation-with-shagar-shah-live-from-17-00-cest-11-00-et",
-         "pubDate" : "Fri, 19 Apr 2024 13:00:00",
-         "title" : "Anish Giri in conversation with Shagar Shah: Live from 17:00 CEST (11:00 ET)"
+         "pubDate" : "Fri, 19 Apr 2024 16:55:00",
+         "title" : "Anish Giri in conversation with Shagar Shah: Live from 16:00 CEST (10:00 ET)"
+      },
+      {
+         "description" : "The Indian Grandmaster RB Ramesh is regarded as one of the best and most successful coaches in the world, and he has played a significant role in the many successes of talented Indian players. In the ChessBase course \"Improve your Pieces\" he now reveals his chess and training philosophy. Harry Schaack watched the course and was impressed.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-indian-way-a-review-of-rb-ramesh-s-improve-your-pieces",
+         "pubDate" : "Fri, 19 Apr 2024 15:00:00",
+         "title" : "\"The Indian Way\" - A review of RB Ramesh's \"Improve Your Pieces\""
+      },
+      {
+         "description" : " The FIDE Candidates in Toronto, Canada has reached the final rest day. With two rounds to go three players, Ian Nepomniachtchi, Gukesh and Hikaru Nakamura lead with 7.5/12 half a point clear of Fabiano Caruana, one of these players will win the event. There will be day of tie-breaks on Monday if required, although I'd rather there be a clear winner. Intriguingly pairings include Nepomniachtchi-Nakamura in round 13 and Nakamura-Gukesh and Caruana-Nepomniachtchi in the final round. Nepomniachtchi chose the Exchange French against Praggnanandhaa and after 9 moves black was already level. Praggnanandhaa might have been a tiny bit better (33...c6!?) but the game fizzled out to a draw. A wasted w",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-nakamura-and-nepomniachtchi-lead-the-candidates-going-into-the-final-two-rounds",
+         "pubDate" : "Fri, 19 Apr 2024 13:31:00",
+         "title" : "Gukesh, Nakamura and Nepomniachtchi lead the Candidates going into the final two rounds - 12"
       },
       {
          "description" : "Three out of four games ended drawn in round 12 of the Women's Candidates Tournament, as Vaishali R scored her third win in a row in her encounter with black against Anna Muzychuk. The games that featured Tan Zhongyi and Lei Tingjie could have easily ended with decisive results - Tan escaped with a draw from a losing position against Nurgyul Salimova, while Lei failed to make the most of clear winning chances against Kateryna Lagno. Thus, Tan kept her half-point lead over Lei. | Photo: FIDE / Michal Walusza",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "Chess: Four in close contention as Candidates reaches weekend climax"
       },
       {
+         "description" : "Chess.com is excited to announce the 2024 BetterHelp Masters&#38;mdash;the second leg of this year&#38;rsquo;s prestigious $1.7 million Champions Chess Tour and an event focused on mental health. Starting on May 8, the BetterHelp Masters follows the Che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-returns-with-the-2024-betterhelp-masters",
+         "pubDate" : "Fri, 19 Apr 2024 06:48:00",
+         "title" : "Champions Chess Tour Returns With 2024 BetterHelp Masters"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/down-to-4.html",
          "pubDate" : "Fri, 19 Apr 2024 00:24:00",
          "title" : "Down to 4"
+      },
+      {
+         "description" : "Meanwhile, Vaishali R won her third straight game while the other two Indians lost at the FIDE Candidates 2024",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39972203/fide-candidates-2024-india-gukesh-three-way-tie-lead-praggnanandhaa-holds-nepomniachtchi-round-12?device=featurephone",
+         "pubDate" : "Thu, 18 Apr 2024 22:46:16",
+         "title" : "Candidates: Gukesh in three-way tie for lead after Pragg holds Nepo in round 12"
       },
       {
          "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
@@ -103,7 +135,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-vcs-atomic-chess-matfey-rogov-wins",
          "pubDate" : "Thu, 18 Apr 2024 17:52:00",
-         "title" : "The Bizarre, Delightful World Of Atomic: Younger Brother Triumphs In Sibling Rivalry"
+         "title" : "Younger Brother Triumphs In Atomic Rivalry"
       },
       {
          "description" : " Ian Nepomniachtchi won a really fascinating struggle against Santosh Vidit in the eleventh round of the FIDE Candidates tournament in Toronto, Canada. Not only did Nepomniachtchi win, he won with the black pieces, but it was Vidit who first had winning chances. Vidit chose a side-line in a fairly topical Petroff line, even with Queen's off the play remained complicated and 33...Rb3? (33...Kg7!) was losing according to engines after 34.h5! Then 35...a5? 36.Bxa3 d5 was also deemed losing for black but only after giving up a piece. The position was back level and 58.Bb3?! and 60.Nb2+? suddenly Nepomniachtchi was winning and his conversion was a lot easier. Earlier Hikaru Nakamura was extremely",
@@ -1042,14 +1074,6 @@ news_feed (
          "title" : "Four Decisive games in Round 2 of the Candidates - 2"
       },
       {
-         "description" : " There were two decisive games in Round 2 of the women's Candidates in Toronto. Tan Zhongyi launched a big kingside attack against Rameshbabu Vaishali who got her knights tangled up on the Queenside after successfully equalising out of the opening (a Jobava Attack that turned into a fairly standard Carlsbad structure). Aleksandra Goryachkina won an up and down struggle against Anna Muzychuk in an Exchange Slav. Muzychuk equalised but as time trouble came she wasn't precise and then 25...Rb7? played after less than a couple of minutes thought was just losing and Goryachkina didn't even have to be that accurate. Salimova-Lei and Lagno-Koneru were both drawn. Round 2 Standings: 1st Tan Zhongyi ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-leads-the-womens-candidates-on-22",
-         "pubDate" : "Fri, 5 Apr 2024 23:45:00",
-         "title" : "Tan Zhongyi leads the Women's Candidates on 2/2 - 2"
-      },
-      {
          "description" : "The second day of the 2024 FIDE Candidates Tournament saw India's Vidit Gujrathi stun world No 3 Hikaru Nakamura in a stunning match.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1304,14 +1328,6 @@ news_feed (
          "link" : "https://aicf.in/announcement-medical-evaluation-at-chennai-on-10-april-2024/",
          "pubDate" : "Tue, 02 Apr 2024 08:07:29",
          "title" : "Announcement :Medical Evaluation at Chennai on 10 April 2024"
-      },
-      {
-         "description" : "It&#38;rsquo;s the ingenious new device that&#38;rsquo;s set to revolutionize the way you play games on Chess.com&#38;mdash;and here&#39;s how you can get one. The new ChessUp 2 is a major leap forward in smart chessboards. Following on from the market-leading ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chessup-2-now-you-can-play-chess-com-games-directly-on-a-board",
-         "pubDate" : "Tue, 02 Apr 2024 07:52:00",
-         "title" : "ChessUp 2: Now You Can Play Chess.com Games Directly On A Board"
       },
       {
          "description" : "",
