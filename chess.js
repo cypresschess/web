@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 12 of the Candidates Tournament saw three players scoring full points to greatly increase their chances of achieving overall victory. Hikaru Nakamura and Gukesh D defeated Alireza Firouzja and Nijat Abasov respectively to join Ian Nepomniachtchi in the lead, while Fabiano Caruana got the better of Vidit Gujrathi to go into the final two rounds at a half-point distance from the co-leaders. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-12",
+         "pubDate" : "Fri, 19 Apr 2024 21:00:00",
+         "title" : "Candidates R12: Naka and Gukesh join the lead, Caruana scores"
+      },
+      {
+         "description" : " Tan Zhongyi continues to lead Lei Tingjie by half a point going into the final rest day of the Women's Candidates tournament in Toronto. They are too far clear of the rest of the field, one of these two players will win the event. Tan Zhongyi was losing against Nurgyul Salimova. By move 25 Tan was in a very uncomfortable position and tried to break out tactically with 25...b6? but this made things worse. Salimova's 43.f6?! (43.g6!) was a step in the wrong direction but she restored her winning position only to play 50.Bxf7? (50.Nxb4, 50.Rh4+ or 50.Bc6) which basically threw away the entire advantage and the game was drawn. Whilst Tan was losing Lei Tingjie seemed poised to overtake her with",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-and-lei-tingjie-both-draw-in-round-12-of-the-womens-candidates",
+         "pubDate" : "Fri, 19 Apr 2024 19:59:00",
+         "title" : "Tan Zhongyi and Lei Tingjie both draw in Round 12 of the Women's Candidates - 12"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2982",
+         "pubDate" : "Fri, 19 Apr 2024 17:48:06",
+         "title" : "Toronto exhibition celebrates rich history of Candidates Tournaments"
+      },
+      {
          "description" : "Anish Giri has recorded a two-volume Fritztrainer course in which he gives an overview of all the openings. The course is now available, also in ChessBase Book format. In a live stream, Anish Giri and his co-author Sagar Shah talk about Giri's Fritztrainer and what else is important in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,7 +66,7 @@ news_feed (
          "title" : "Candidates: Gukesh win to be back in joint lead; Pragg, Gujrathi out of contention"
       },
       {
-         "description" : " With just the final two rounds to come, Ian Nepomniachtchi, Hikaru Nakamura and Gukesh Domaraju share the lead while the world No 2 , Fabiano Caruana, is half a point behind With 12 rounds complete and just Saturday's and Sunday's final two rounds to come, the Candidates in Toronto could hardly be closer. Three players share the lead, another is just half a point behind. The €500k tournament will decide which of its eight contestants challenges China's Ding Liren for his world crown later this year. Leaders after 12 rounds (of 14) were : Ian Nepomniachtchi (Russia), Hikaru Nakanmura (US), and Gukesh Dommaraju (India) all 7.5; Fabiano Caruana (US) 7; Praggnanandhaa Rameshbabu (India) 6. Th",
+         "description" : " With just the final two rounds to come, Ian Nepomniachtchi, Hikaru Nakamura and Gukesh Domaraju share the lead while the world No 2 , Fabiano Caruana, is half a point behind With 12 rounds complete and just Saturday's and Sunday's final two rounds to come, the Candidates in Toronto could hardly be closer. Three players share the lead, another is just half a point behind. The €500k tournament will decide which of its eight contestants challenges China's Ding Liren for his world crown later this year. Leaders after 12 rounds (of 14) were : Ian Nepomniachtchi (Russia), Hikaru Nakamura (US), and Gukesh Dommaraju (India) all 7.5; Fabiano Caruana (US) 7; Praggnanandhaa Rameshbabu (India) 6. Thr",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/apr/19/chess-four-in-close-contention-as-candidates-reaches-weekend-climax",
@@ -72,22 +96,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/down-to-4.html",
          "pubDate" : "Fri, 19 Apr 2024 00:24:00",
          "title" : "Down to 4"
-      },
-      {
-         "description" : "Meanwhile, Vaishali R won her third straight game while the other two Indians lost at the FIDE Candidates 2024",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39972203/fide-candidates-2024-india-gukesh-three-way-tie-lead-praggnanandhaa-holds-nepomniachtchi-round-12?device=featurephone",
-         "pubDate" : "Thu, 18 Apr 2024 22:46:16",
-         "title" : "Candidates: Gukesh in three-way tie for lead after Pragg holds Nepo in round 12"
-      },
-      {
-         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
-         "pubDate" : "Thu, 18 Apr 2024 21:43:55",
-         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "",
@@ -176,6 +184,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2978",
          "pubDate" : "Thu, 18 Apr 2024 05:06:32",
          "title" : "FIDE Candidates: Nepomniachtchi and Tan in the Lead Again"
+      },
+      {
+         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
+         "pubDate" : "Wed, 17 Apr 2024 23:30:58",
+         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "Round 11 of the 2024 FIDE Candidates Tournament featured three decisive games out of a possible four.&#38;nbsp;GM Ian Nepomniachtchi won the longest game of the round with Black against GM Vidit Gujrathi, again taking the sole lead. A half-point behin...",
@@ -1066,14 +1082,6 @@ news_feed (
          "title" : "FIDE Candidates: Exciting second round sees six victories"
       },
       {
-         "description" : " The second round of the FIDE Candidates in Toronto, Canada was a bloodbath with all four games being decisive. Santosh Vidit was the first winner as his shock move 11...Bxh3! unbalanced Hikaru Nakamura completely, the game wasn't over and Nakamura had chances to hold but a final blunder 18.Be2? cost the American the game. Fabiano Caruana will have been frustrated with his draw in Round 1 and he needed a win as this was his second white in a row. He wasn't necessarily better against Nijat Abasov all the way through but his opponent started to weaken his King position and Caruana eventually won with a direct major piece attack. Praggnanandhaa against Gukesh was a real wild affair with Praggna",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/four-decisive-games-in-round-2-of-the-candidates",
-         "pubDate" : "Sat, 6 Apr 2024 00:50:00",
-         "title" : "Four Decisive games in Round 2 of the Candidates - 2"
-      },
-      {
          "description" : "The second day of the 2024 FIDE Candidates Tournament saw India's Vidit Gujrathi stun world No 3 Hikaru Nakamura in a stunning match.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1440,14 +1448,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-2.html",
          "pubDate" : "Fri, 29 Mar 2024 23:29:00",
          "title" : "2024 O2C Doeberl Cup - Day 2"
-      },
-      {
-         "description" : "It's been six months since I adapted my domain mark-weeks.com to incorporate Google's CMP. I documented the change in a series of Friday posts that ended with <A HREF=\"https://chessforallages.blogspot.com/2023/09/cfaas-cmp-wrapup.html\">CFAA's CMP : Wrapup</A> (September 2023; CMP = Consent Management Platform). How well has that change worked? I'll come back to the subject in a new series of Friday posts. <P> My preliminary analysis says there are rough waters ahead. So what happened? Has Google lost its touch? ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/03/cfaas-cmp-another-look.html",
-         "pubDate" : "Fri, 29 Mar 2024 16:08:00",
-         "title" : "CFAA's CMP : Another Look"
       }
    ]
 }
