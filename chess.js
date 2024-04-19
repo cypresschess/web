@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Anish Giri has recorded a two-volume Fritztrainer course in which he gives an overview of all the openings. The course is now available, also in ChessBase Book format. In a live stream, Anish Giri and his co-author Sagar Shah talk about Giri's Fritztrainer and what else is important in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-giri-in-conversation-with-shagar-shah-live-from-17-00-cest-11-00-et",
+         "pubDate" : "Fri, 19 Apr 2024 13:00:00",
+         "title" : "Anish Giri in conversation with Shagar Shah: Live from 17:00 CEST (11:00 ET)"
+      },
+      {
+         "description" : "Three out of four games ended drawn in round 12 of the Women's Candidates Tournament, as Vaishali R scored her third win in a row in her encounter with black against Anna Muzychuk. The games that featured Tan Zhongyi and Lei Tingjie could have easily ended with decisive results - Tan escaped with a draw from a losing position against Nurgyul Salimova, while Lei failed to make the most of clear winning chances against Kateryna Lagno. Thus, Tan kept her half-point lead over Lei. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-12",
+         "pubDate" : "Fri, 19 Apr 2024 10:15:00",
+         "title" : "Women's Candidates R12: Tan escapes with a draw to keep the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109428310.cms\" />Gukesh, Nepomniachtchi, and Nakamura lead the Candidates chess tournament, with Caruana close behind. In women's division, Vaishali secured consecutive victories, while Humpy, Lagno and Lei maintain strong performances.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-gukesh-crushes-abasov-to-be-back-in-joint-lead-praggnanandhaa-vidit-gujrathi-out-of-contention/articleshow/109428310.cms",
+         "pubDate" : "Fri, 19 Apr 2024 08:17:52",
+         "title" : "Candidates: Gukesh win to be back in joint lead; Pragg, Gujrathi out of contention"
+      },
+      {
          "description" : " With just the final two rounds to come, Ian Nepomniachtchi, Hikaru Nakamura and Gukesh Domaraju share the lead while the world No 2 , Fabiano Caruana, is half a point behind With 12 rounds complete and just Saturday's and Sunday's final two rounds to come, the Candidates in Toronto could hardly be closer. Three players share the lead, another is just half a point behind. The €500k tournament will decide which of its eight contestants challenges China's Ding Liren for his world crown later this year. Leaders after 12 rounds (of 14) were : Ian Nepomniachtchi (Russia), Hikaru Nakanmura (US), and Gukesh Dommaraju (India) all 7.5; Fabiano Caruana (US) 7; Praggnanandhaa Rameshbabu (India) 6. Th",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/down-to-4.html",
          "pubDate" : "Fri, 19 Apr 2024 00:24:00",
          "title" : "Down to 4"
+      },
+      {
+         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
+         "pubDate" : "Thu, 18 Apr 2024 21:43:55",
+         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "",
@@ -202,6 +234,14 @@ news_feed (
          "title" : "Nakamura and Caruana win to get back into contention after 10 rounds of the Candidates - 10"
       },
       {
+         "description" : "With D Gukesh in the joint lead after Round 10, can any other Indian surprise pre-tournament expectations?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39953004/fide-candidates-2024-which-indian-win-tournament-gukesh-praggnanandhaa-vidit-humpy-vaishali?device=featurephone",
+         "pubDate" : "Tue, 16 Apr 2024 13:11:29",
+         "title" : "FIDE Candidates 2024: Which Indian can win the tournament?"
+      },
+      {
          "description" : "We have seen them, haven't we? The howlers? Amateurs and professionals alike in the aftermath of a game, trying to explain their blunder, shaking their heads in disbelief, scratching their brows, sighing while trying to come up with a rational explanation. Blunders happen because humans are fallible and ill-founded impulses prove stronger than the ability to abort them - as is explained in this scientific paper.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -216,14 +256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/of-shoes-and-ships-and-sealing-wax.html",
          "pubDate" : "Tue, 16 Apr 2024 12:55:00",
          "title" : "Of shoes and ships and sealing wax ..."
-      },
-      {
-         "description" : "With D Gukesh in the joint lead after Round 10, can any other Indian surprise pre-tournament expectations?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39953004/fide-candidates-2024-which-indian-win-tournament-gukesh-praggnanandhaa-vidit-humpy-vaishali?device=featurephone",
-         "pubDate" : "Tue, 16 Apr 2024 11:31:26",
-         "title" : "FIDE Candidates 2024: Which Indian can win the tournament?"
       },
       {
          "description" : "Due to invitations have been received by European Chess federations and ECU to participate in the \"Summer Friendship Games\" to be organised in Russia in September 2024, the European Chess Union (ECU) hereby informs the National Chess federations about its position.&#160; ECU considers itself as a committed partner of the International Olympic Committee (IOC) and European Olympic Committees (EOC). IOC has made clear its position about the organisation of \"Friendship Games\" in Russia. We highlight some parts, and we link []",
@@ -1122,14 +1154,6 @@ news_feed (
          "title" : "Melbourne International Open"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109029735.cms\" />At his maiden appearance in the Candidates tournament, where the world's top eight players are vying for the opportunity to challenge the reigning world champion Ding Liren of China, 18-year-old Praggnanandhaa secured his spot by virtue of being the runner-up in the 2023 World Cup.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-tournament-a-huge-opportunity-for-me-says-chess-wizard-praggnanandhaa/articleshow/109029735.cms",
-         "pubDate" : "Thu, 04 Apr 2024 08:05:03",
-         "title" : "Candidates tournament a huge opportunity for me: Praggnanandhaa"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1408,30 +1432,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/03/cfaas-cmp-another-look.html",
          "pubDate" : "Fri, 29 Mar 2024 16:08:00",
          "title" : "CFAA's CMP : Another Look"
-      },
-      {
-         "description" : "Please find the live game links for National Team Chess Championship 2024 Open: http://fritzserver.org/LocalUser/live/indnatteam/open/index.html Women: http://fritzserver.org/LocalUser/live/indnatteam/women/index.html",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-national-teams-chess-championship-2024/",
-         "pubDate" : "Fri, 29 Mar 2024 09:52:31",
-         "title" : "Live Games : National Teams Chess Championship 2024"
-      },
-      {
-         "description" : " <p class=\"lead\">The Iconic World Chess Sets will be used at the FIDE Candidates Tournament and the Championship Match; FIDE Continues Collaboration with World Chess on the Chess Sets for 2024-2025. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/photo_2024-03-29_12-09-46.jpg\" width=\"1280\" height=\"1060\" alt=\"\" /> </div> Toronto, March 29 - The tradition that has lasted since 2012 continues as the major FIDE events, including the upcoming FIDE Candidates Tournament 2024 as well as the 2024 Championship Match, will exclusively use the iconic World Chess Championship sets. The sets, designed by Pentagram for World Chess, have become synonymous with the pinnacle of c",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/fide-candidates-tournament-2024-to-feature-the-iconic-world-ches/",
-         "pubDate" : "Fri, 29 Mar 2024 09:12:19",
-         "title" : "FIDE Candidates Tournament 2024 to feature the Iconic World Chess Sets"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2939",
-         "pubDate" : "Fri, 29 Mar 2024 09:00:27",
-         "title" : "FIDE Candidates Tournament 2024 to feature the Iconic World Chess Sets "
       }
    ]
 }
