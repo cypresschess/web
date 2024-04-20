@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Sat, 20 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
          "description" : "Leon Luke Mendonca was the surprise winner of the Tata Steel Challenger tournament in Wijk aan Zee. He started with 3 out of 6 points, and was lost in the lower part of the table, until he recovered with 6.5 points out of his last 7 games, to reach first place! The Indian Grandmaster and ChessBase Host, Arne Kaehler, started a video series in 2023, on how a typical day in a life of a professional chess player looks like. In the second episode, Leon talks about his opening preparation for an upcoming tournament. | Photo: Lennart Ootes/Tata Steel Chess Tournament 2024",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,28 +50,12 @@ news_feed (
          "title" : "European Women's Chess Championship 2024 opened in Rhodes, Greece"
       },
       {
-         "description" : "Alexander Donchenko was the rating favourite at the third edition of the Sunway Formentera Open and lived up to the role at the end of the event. Before the final round, he was tied for first place with Vasyl Ivanchuk. Doncehnko scored a full point in the last round, while Ivanchuk only managed a draw. | Photos: Sunway Formentera Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/donchenko-wins-sunway-formentera-open-2024",
-         "pubDate" : "Sat, 20 Apr 2024 08:30:00",
-         "title" : "Alexander Donchenko wins Sunway Formentera Open"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109454194.cms\" />In the upcoming penultimate round of the Candidates chess tournament, Indian Grandmaster D Gukesh faces a crucial match against France's Firouza Alireza. Tied for the lead with 7.5 points alongside Hikaru Nakamura and Ian Nepomniachtchi, Gukesh aims to solidify his position with a win in his last white game. With two rounds remaining, this is heading towards an exciting climax.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-set-for-a-crucial-clash-against-firouza-alireza-at-candidates-chess-tournament/articleshow/109454194.cms",
          "pubDate" : "Sat, 20 Apr 2024 07:56:27",
          "title" : "Gukesh set for a crucial clash against Alireza at Candidates"
-      },
-      {
-         "description" : "Round 12 of the Candidates Tournament saw three players scoring full points to greatly increase their chances of achieving overall victory. Hikaru Nakamura and Gukesh D defeated Alireza Firouzja and Nijat Abasov respectively to join Ian Nepomniachtchi in the lead, while Fabiano Caruana got the better of Vidit Gujrathi to go into the final two rounds at a half-point distance from the co-leaders. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-12",
-         "pubDate" : "Fri, 19 Apr 2024 21:00:00",
-         "title" : "Candidates R12: Naka and Gukesh join the lead, Caruana scores"
       },
       {
          "description" : " Tan Zhongyi continues to lead Lei Tingjie by half a point going into the final rest day of the Women's Candidates tournament in Toronto. They are too far clear of the rest of the field, one of these two players will win the event. Tan Zhongyi was losing against Nurgyul Salimova. By move 25 Tan was in a very uncomfortable position and tried to break out tactically with 25...b6? but this made things worse. Salimova's 43.f6?! (43.g6!) was a step in the wrong direction but she restored her winning position only to play 50.Bxf7? (50.Nxb4, 50.Rh4+ or 50.Bc6) which basically threw away the entire advantage and the game was drawn. Whilst Tan was losing Lei Tingjie seemed poised to overtake her with",
@@ -82,14 +74,6 @@ news_feed (
          "title" : "Toronto exhibition celebrates rich history of Candidates Tournaments"
       },
       {
-         "description" : "Anish Giri has recorded a two-volume Fritztrainer course in which he gives an overview of all the openings. The course is now available, also in ChessBase Book format. In a live stream, Anish Giri and his co-author Sagar Shah talk about Giri's Fritztrainer and what else is important in the chess world.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-in-conversation-with-shagar-shah-live-from-17-00-cest-11-00-et",
-         "pubDate" : "Fri, 19 Apr 2024 16:55:00",
-         "title" : "Anish Giri in conversation with Shagar Shah: Live from 16:00 CEST (10:00 ET)"
-      },
-      {
          "description" : "After two posts on my experience with Google's CMP -- <I>CFAA's CMP</I> <A HREF=\"https://chessforallages.blogspot.com/2024/04/cfaas-cmp-earnings.html\">Earnings</A> and <A HREF=\"https://chessforallages.blogspot.com/2024/04/cfaas-cmp-visitors.html\">Visitors</A> (both April 2024; CMP = Consent Management Platform for ads) -- I decided, <BLOCKQUOTE> I don't mind losing the ad revenue. [...] This latest chart, however, shows that the CMP change is making visitors stay away. [...] It looks like Google's Adsense will have to go. </BLOCKQUOTE> <P> That will take some time to do, but in the meantime I have another decision to make. My Google account's CMP and associated ads also appear on my blogs. T",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -98,28 +82,12 @@ news_feed (
          "title" : "CFAA's CMP : Blogs"
       },
       {
-         "description" : "The Indian Grandmaster RB Ramesh is regarded as one of the best and most successful coaches in the world, and he has played a significant role in the many successes of talented Indian players. In the ChessBase course \"Improve your Pieces\" he now reveals his chess and training philosophy. Harry Schaack watched the course and was impressed.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-indian-way-a-review-of-rb-ramesh-s-improve-your-pieces",
-         "pubDate" : "Fri, 19 Apr 2024 15:00:00",
-         "title" : "\"The Indian Way\" - A review of RB Ramesh's \"Improve Your Pieces\""
-      },
-      {
          "description" : " The FIDE Candidates in Toronto, Canada has reached the final rest day. With two rounds to go three players, Ian Nepomniachtchi, Gukesh and Hikaru Nakamura lead with 7.5/12 half a point clear of Fabiano Caruana, one of these players will win the event. There will be day of tie-breaks on Monday if required, although I'd rather there be a clear winner. Intriguingly pairings include Nepomniachtchi-Nakamura in round 13 and Nakamura-Gukesh and Caruana-Nepomniachtchi in the final round. Nepomniachtchi chose the Exchange French against Praggnanandhaa and after 9 moves black was already level. Praggnanandhaa might have been a tiny bit better (33...c6!?) but the game fizzled out to a draw. A wasted w",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-nakamura-and-nepomniachtchi-lead-the-candidates-going-into-the-final-two-rounds",
          "pubDate" : "Fri, 19 Apr 2024 13:31:00",
          "title" : "Gukesh, Nakamura and Nepomniachtchi lead the Candidates going into the final two rounds - 12"
-      },
-      {
-         "description" : "Three out of four games ended drawn in round 12 of the Women's Candidates Tournament, as Vaishali R scored her third win in a row in her encounter with black against Anna Muzychuk. The games that featured Tan Zhongyi and Lei Tingjie could have easily ended with decisive results - Tan escaped with a draw from a losing position against Nurgyul Salimova, while Lei failed to make the most of clear winning chances against Kateryna Lagno. Thus, Tan kept her half-point lead over Lei. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-12",
-         "pubDate" : "Fri, 19 Apr 2024 10:15:00",
-         "title" : "Women's Candidates R12: Tan escapes with a draw to keep the lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109428310.cms\" />Gukesh, Nepomniachtchi, and Nakamura lead the Candidates chess tournament, with Caruana close behind. In women's division, Vaishali secured consecutive victories, while Humpy, Lagno and Lei maintain strong performances.",
@@ -232,22 +200,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-beats-vidit-in-a-tense-struggle-to-lead-the-candidates-alone-again-on-711",
          "pubDate" : "Thu, 18 Apr 2024 16:14:00",
          "title" : "Nepomniachtchi beats Vidit in a tense struggle to lead the Candidates alone again on 7/11 - 11"
-      },
-      {
-         "description" : "It came as something of a surprise that Toronto was chosen by FIDE as host of both Candidates Tournaments, but Canada has a rich chess history and has produced some great players over the years. Here's a brief outline:",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-in-canada-great-tournaments-impressive-personalities",
-         "pubDate" : "Thu, 18 Apr 2024 16:00:00",
-         "title" : "Chess in Canada: Great tournaments, impressive personalities"
-      },
-      {
-         "description" : "The Sharp Arkhangelsk variation, utilized by chess masters like Magnus Carlsen and Fabiano Caruana, emerges from a series of strategic moves beginning with 1.e4 e5. This rich variation offers multiple playstyles, making it a challenging preparation for opponents, with model games highlighting its diverse strategies and concepts for players of all levels.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/adrian-mikhalchishin-the-sharp-arkhangelsk-variation-in-the-ruy-lopez",
-         "pubDate" : "Thu, 18 Apr 2024 12:00:00",
-         "title" : "Adrian Mikhalchishin: The Sharp Arkhangelsk Variation in the Ruy Lopez"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109394851.cms\" />Grandmaster D Gukesh secured a draw against top seed Fabiano Caruana in the 11th round of the Candidates Chess Tournament. Gukesh though dropped to joint second position. R Praggnanandhaa and Vidit Gujrathi suffered losses against Hikaru Nakamura and Ian Nepomniachtchi, respectively. ",
@@ -1456,14 +1408,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-3.html",
          "pubDate" : "Sat, 30 Mar 2024 20:48:00",
          "title" : "2024 O2C Doeberl Cup - Day 3"
-      },
-      {
-         "description" : " Participants at the 2023 HBCU Chess ClassicPhoto by TBO Chess Society All roads will lead to Atlanta for the 2nd Annual HBCU Chess Classic! Teams from Historically Black Colleges and Universities will send their best players to compete for prizes 2024 HBCU Chess Classic April 20th-21st, 2024Georgia Institute of Technology -Exhibition Hall460 4th St NWAtlanta, The post <a href=\"https://www.thechessdrum.net/blog/2024/03/30/2024-hbcu-chess-classic-atlanta-ga/\">2024 HBCU Chess Classic (Atlanta, GA)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/03/30/2024-hbcu-chess-classic-atlanta-ga/",
-         "pubDate" : "Sat, 30 Mar 2024 17:24:53",
-         "title" : "2024 HBCU Chess Classic (Atlanta, GA)"
       }
    ]
 }
