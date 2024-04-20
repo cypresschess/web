@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alexander Donchenko was the rating favourite at the third edition of the Sunway Formentera Open and lived up to the role at the end of the event. Before the final round, he was tied for first place with Vasyl Ivanchuk. Doncehnko scored a full point in the last round, while Ivanchuk only managed a draw. | Photos: Sunway Formentera Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/donchenko-wins-sunway-formentera-open-2024",
+         "pubDate" : "Sat, 20 Apr 2024 08:30:00",
+         "title" : "Alexander Donchenko wins Sunway Formentera Open"
+      },
+      {
          "description" : "Round 12 of the Candidates Tournament saw three players scoring full points to greatly increase their chances of achieving overall victory. Hikaru Nakamura and Gukesh D defeated Alireza Firouzja and Nijat Abasov respectively to join Ian Nepomniachtchi in the lead, while Fabiano Caruana got the better of Vidit Gujrathi to go into the final two rounds at a half-point distance from the co-leaders. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,36 +98,12 @@ news_feed (
          "title" : "Four in the race for first in FIDE Candidates; Tan solely on top in Women's event"
       },
       {
-         "description" : "The other four Indians are out of contention, but Praggnanandhaa can still play a crucial role.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39973019/fide-candidates-2024-india-gukesh-win-tournament-nepomniachtchi-nakamura-caruana?device=featurephone",
-         "pubDate" : "Fri, 19 Apr 2024 03:43:53",
-         "title" : "FIDE Candidates 2024: Can Gukesh win the tournament?"
-      },
-      {
          "description" : " After a couple of exciting rounds, the 2024 Candidates is down to 4 players. There is a 3 way tie at the top, with Nepo, Naka, and Gukesh all on 7.5, with Fabi on 7. Nepo and Nakamura have the toughest assignments, playing each other in round 13 and then Caruana and Gukesh respectively in the last round. Gukesh has an out of form Firouzja in round 13, while Caruana is playing a much tougher Prag. At this stage Gukesh seems to have the best run home, but this could all change if Nakamura can pull off the big final round comeback. <br /> <b>Caruana,Fabiano (2803) - Vidit,Santosh Gujrathi (2727) [C54]</b><br /> FIDE Candidates 2024 Toronto, Canada (12.4), 18.04.2024 <script> new PgnViewer( { b",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/04/down-to-4.html",
          "pubDate" : "Fri, 19 Apr 2024 00:24:00",
          "title" : "Down to 4"
-      },
-      {
-         "description" : "Meanwhile, Vaishali R won her third straight game while the other two Indians lost at the FIDE Candidates 2024",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39972203/fide-candidates-2024-india-gukesh-three-way-tie-lead-praggnanandhaa-holds-nepomniachtchi-round-12?device=featurephone",
-         "pubDate" : "Thu, 18 Apr 2024 22:46:16",
-         "title" : "Candidates: Gukesh in three-way tie for lead after Pragg holds Nepo in round 12"
-      },
-      {
-         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
-         "pubDate" : "Thu, 18 Apr 2024 21:43:55",
-         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "",
@@ -200,6 +184,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2978",
          "pubDate" : "Thu, 18 Apr 2024 05:06:32",
          "title" : "FIDE Candidates: Nepomniachtchi and Tan in the Lead Again"
+      },
+      {
+         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
+         "pubDate" : "Wed, 17 Apr 2024 23:30:58",
+         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "Round 11 of the 2024 FIDE Candidates Tournament featured three decisive games out of a possible four.&#38;nbsp;GM Ian Nepomniachtchi won the longest game of the round with Black against GM Vidit Gujrathi, again taking the sole lead. A half-point behin...",
