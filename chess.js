@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Leon Luke Mendonca was the surprise winner of the Tata Steel Challenger tournament in Wijk aan Zee. He started with 3 out of 6 points, and was lost in the lower part of the table, until he recovered with 6.5 points out of his last 7 games, to reach first place! The Indian Grandmaster and ChessBase Host, Arne Kaehler, started a video series in 2023, on how a typical day in a life of a professional chess player looks like. In the second episode, Leon talks about his opening preparation for an upcoming tournament. | Photo: Lennart Ootes/Tata Steel Chess Tournament 2024",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-prepare-openings-for-a-tournament-like-a-gm",
+         "pubDate" : "Sat, 20 Apr 2024 14:00:00",
+         "title" : "Leon Mendonca - Prepare openings for a tournament like a GM!"
+      },
+      {
+         "description" : "You might have heard that you should be training differently from a Grandmaster. But why is that? It's because your game is fundamentally different than a GM game. The Three Stages of Every Game Chess players usually think about the Opening, Middle-, and Endgame when we talk about the three stages of a game. But []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/three-stages/",
+         "pubDate" : "Sat, 20 Apr 2024 13:03:00",
+         "title" : "Stop Copying Grandmasters: Train for the Chess You Play"
+      },
+      {
+         "description" : " Sometimes a trap is so tempting, so obvious, and so spectacular, that there is no way it could work. And in a lot of cases you would be right. But sometimes you play it anyway, and it turns out that it really doesn't work. The game below is an example, except the trap did work. To preserve the identities of the perpetrator and the victim, I'm leaving the names off. The moves given are what *should have happened* if Black had played 7. ... Qb6. Instead he chose 7. ... Qd6?? and resigned after 8.Ne5+ Kd8 9.Nxf7+ <b>7. ... Qb6</b> would have been -3 for White with the correct follow up <br /> <br /> <b>FM White - Mr Black</b><br /> I'm not telling Swiss <script> new PgnViewer( { boardName: \"ga",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/yeh-nah.html",
+         "pubDate" : "Sat, 20 Apr 2024 11:51:00",
+         "title" : "Yeh, nah"
+      },
+      {
          "description" : "\"I can add colours to the chameleon , Change shapes with Proteus for advantages&hellip;.\" William Shakespeare: Henry VI, Part 3 Act III, Scenes i-ii No, this week's title does not refer to the volatile, chameleon-like former Labour, former Tory, now Reform MP, Lee Anderson, but to a victory by one of the UK's most respected, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1440,14 +1464,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/30/2024-hbcu-chess-classic-atlanta-ga/",
          "pubDate" : "Sat, 30 Mar 2024 17:24:53",
          "title" : "2024 HBCU Chess Classic (Atlanta, GA)"
-      },
-      {
-         "description" : " Florida's Capital City is warming up, and chess is in full bloom. Over the past two years, Jacob Sperber has organized five rapid tournaments in the Tallahassee area. His initiative has rejuvenated chess in Florida's capital and has provided some consistency. The most recent event was held at the Benjamin L. Perry Public Library on The post <a href=\"https://www.thechessdrum.net/blog/2024/03/30/capital-city-open-v-tallahassee-florida/\">Capital City Open V (Tallahassee, Florida)</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/03/30/capital-city-open-v-tallahassee-florida/",
-         "pubDate" : "Sat, 30 Mar 2024 13:18:32",
-         "title" : "Capital City Open V (Tallahassee, Florida)"
       }
    ]
 }
