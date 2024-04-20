@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"I can add colours to the chameleon , Change shapes with Proteus for advantages&hellip;.\" William Shakespeare: Henry VI, Part 3 Act III, Scenes i-ii No, this week's title does not refer to the volatile, chameleon-like former Labour, former Tory, now Reform MP, Lee Anderson, but to a victory by one of the UK's most respected, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/lee-andersen/",
+         "pubDate" : "Sat, 20 Apr 2024 10:16:33",
+         "title" : "Lee Andersen"
+      },
+      {
+         "description" : "The European Women's Chess Championship 2024 officially kicked off yesterday in Rhodes, Greece. With 182 participants coming from 35 federations the event broke the participation record and became the largest European Women's Chess Championship ever. The Opening ceremony of the event took place shortly before the start of the first round with attendance of ECU President Mr. Zurab Azmaiparashvili the ECU Vice President Ms Eva Rekova and Mr. Alojzije Jankovic, the ECU Secretary General Mr. Theodoros Tsorbatzoglou the South Aegean []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2024-opened-in-rhodes-greece/",
+         "pubDate" : "Sat, 20 Apr 2024 09:27:10",
+         "title" : "European Women's Chess Championship 2024 opened in Rhodes, Greece"
+      },
+      {
          "description" : "Alexander Donchenko was the rating favourite at the third edition of the Sunway Formentera Open and lived up to the role at the end of the event. Before the final round, he was tied for first place with Vasyl Ivanchuk. Doncehnko scored a full point in the last round, while Ivanchuk only managed a draw. | Photos: Sunway Formentera Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/donchenko-wins-sunway-formentera-open-2024",
          "pubDate" : "Sat, 20 Apr 2024 08:30:00",
          "title" : "Alexander Donchenko wins Sunway Formentera Open"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109454194.cms\" />In the upcoming penultimate round of the Candidates chess tournament, Indian Grandmaster D Gukesh faces a crucial match against France's Firouza Alireza. Tied for the lead with 7.5 points alongside Hikaru Nakamura and Ian Nepomniachtchi, Gukesh aims to solidify his position with a win in his last white game. With two rounds remaining, this is heading towards an exciting climax.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-set-for-a-crucial-clash-against-firouza-alireza-at-candidates-chess-tournament/articleshow/109454194.cms",
+         "pubDate" : "Sat, 20 Apr 2024 07:56:27",
+         "title" : "Gukesh set for a crucial clash against Alireza at Candidates"
       },
       {
          "description" : "Round 12 of the Candidates Tournament saw three players scoring full points to greatly increase their chances of achieving overall victory. Hikaru Nakamura and Gukesh D defeated Alireza Firouzja and Nijat Abasov respectively to join Ian Nepomniachtchi in the lead, while Fabiano Caruana got the better of Vidit Gujrathi to go into the final two rounds at a half-point distance from the co-leaders. | Photo: FIDE / Michal Walusza",
@@ -40,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anish-giri-in-conversation-with-shagar-shah-live-from-17-00-cest-11-00-et",
          "pubDate" : "Fri, 19 Apr 2024 16:55:00",
          "title" : "Anish Giri in conversation with Shagar Shah: Live from 16:00 CEST (10:00 ET)"
+      },
+      {
+         "description" : "After two posts on my experience with Google's CMP -- <I>CFAA's CMP</I> <A HREF=\"https://chessforallages.blogspot.com/2024/04/cfaas-cmp-earnings.html\">Earnings</A> and <A HREF=\"https://chessforallages.blogspot.com/2024/04/cfaas-cmp-visitors.html\">Visitors</A> (both April 2024; CMP = Consent Management Platform for ads) -- I decided, <BLOCKQUOTE> I don't mind losing the ad revenue. [...] This latest chart, however, shows that the CMP change is making visitors stay away. [...] It looks like Google's Adsense will have to go. </BLOCKQUOTE> <P> That will take some time to do, but in the meantime I have another decision to make. My Google account's CMP and associated ads also appear on my blogs. T",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/04/cfaas-cmp-blogs.html",
+         "pubDate" : "Fri, 19 Apr 2024 15:28:00",
+         "title" : "CFAA's CMP : Blogs"
       },
       {
          "description" : "The Indian Grandmaster RB Ramesh is regarded as one of the best and most successful coaches in the world, and he has played a significant role in the many successes of talented Indian players. In the ChessBase course \"Improve your Pieces\" he now reveals his chess and training philosophy. Harry Schaack watched the course and was impressed.",
@@ -98,12 +130,36 @@ news_feed (
          "title" : "Four in the race for first in FIDE Candidates; Tan solely on top in Women's event"
       },
       {
+         "description" : "The other four Indians are out of contention, but Praggnanandhaa can still play a crucial role.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39973019/fide-candidates-2024-india-gukesh-win-tournament-nepomniachtchi-nakamura-caruana?device=featurephone",
+         "pubDate" : "Fri, 19 Apr 2024 03:43:53",
+         "title" : "FIDE Candidates 2024: Can Gukesh win the tournament?"
+      },
+      {
          "description" : " After a couple of exciting rounds, the 2024 Candidates is down to 4 players. There is a 3 way tie at the top, with Nepo, Naka, and Gukesh all on 7.5, with Fabi on 7. Nepo and Nakamura have the toughest assignments, playing each other in round 13 and then Caruana and Gukesh respectively in the last round. Gukesh has an out of form Firouzja in round 13, while Caruana is playing a much tougher Prag. At this stage Gukesh seems to have the best run home, but this could all change if Nakamura can pull off the big final round comeback. <br /> <b>Caruana,Fabiano (2803) - Vidit,Santosh Gujrathi (2727) [C54]</b><br /> FIDE Candidates 2024 Toronto, Canada (12.4), 18.04.2024 <script> new PgnViewer( { b",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/04/down-to-4.html",
          "pubDate" : "Fri, 19 Apr 2024 00:24:00",
          "title" : "Down to 4"
+      },
+      {
+         "description" : "Meanwhile, Vaishali R won her third straight game while the other two Indians lost at the FIDE Candidates 2024",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39972203/fide-candidates-2024-india-gukesh-three-way-tie-lead-praggnanandhaa-holds-nepomniachtchi-round-12?device=featurephone",
+         "pubDate" : "Thu, 18 Apr 2024 22:46:16",
+         "title" : "Candidates: Gukesh in three-way tie for lead after Pragg holds Nepo in round 12"
+      },
+      {
+         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
+         "pubDate" : "Thu, 18 Apr 2024 21:43:55",
+         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "",
@@ -184,14 +240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2978",
          "pubDate" : "Thu, 18 Apr 2024 05:06:32",
          "title" : "FIDE Candidates: Nepomniachtchi and Tan in the Lead Again"
-      },
-      {
-         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
-         "pubDate" : "Wed, 17 Apr 2024 23:30:58",
-         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
       },
       {
          "description" : "Round 11 of the 2024 FIDE Candidates Tournament featured three decisive games out of a possible four.&#38;nbsp;GM Ian Nepomniachtchi won the longest game of the round with Black against GM Vidit Gujrathi, again taking the sole lead. A half-point behin...",
@@ -1098,14 +1146,6 @@ news_feed (
          "title" : "Maurice Ashley speaks on new books!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109061412.cms\" />Koneru Humpy, the oldest among the contenderts in the Candidates chess, targets winning the tournament in Toronto. She is the 2019 world women's rapid chess champion and current world No. 5.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/important-to-show-form-and-energy-to-win-candidates-koneru-humpy/articleshow/109061412.cms",
-         "pubDate" : "Fri, 05 Apr 2024 09:01:09",
-         "title" : "Important to show form and energy to win Candidates: Koneru Humpy"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109060656.cms\" />With a rating of 2803 Elo, American grandmaster Fabiano Caruana appears to be the frontrunner for the challenger position. However, closely trailing the world No. 2 in performance ratings over the past year is the highly skilled 18-year-old Indian grandmaster, Praggnanandhaa Rameshbabu.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1408,14 +1448,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/03/30/capital-city-open-v-tallahassee-florida/",
          "pubDate" : "Sat, 30 Mar 2024 13:18:32",
          "title" : "Capital City Open V (Tallahassee, Florida)"
-      },
-      {
-         "description" : "Make no mistake: the second volume of the Korchnoi biographical saga Viktor Korchnoi: Year by Year (1969-1980) by Hans Renette and Tibor Karolyi (published by Elk and Ruby) is a must-buy for any serious chess enthusiast. Viktor Korchnoi was one of the chess greats, possibly the greatest not to have won the world championship. His rivals []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/korchnoi-karpov-euwe-and-me/",
-         "pubDate" : "Sat, 30 Mar 2024 10:57:29",
-         "title" : "Korchnoi, Karpov, Euwe and me"
       }
    ]
 }
