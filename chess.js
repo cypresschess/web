@@ -1424,14 +1424,6 @@ news_feed (
          "link" : "https://www.thearticle.com/korchnoi-karpov-euwe-and-me/",
          "pubDate" : "Sat, 30 Mar 2024 10:57:29",
          "title" : "Korchnoi, Karpov, Euwe and me"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2940",
-         "pubDate" : "Sat, 30 Mar 2024 00:23:42",
-         "title" : "Oncological Chess shines at International Congress in Menorca"
       }
    ]
 }
