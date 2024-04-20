@@ -10,12 +10,28 @@ news_feed (
          "title" : "Candidates Tournaments - Live!"
       },
       {
+         "description" : "GM Daniel Naroditsky secured a comprehensive victory in the 49th edition of Bullet Brawl on Saturday, scoring 276 points on his way to the $400 first prize after scoring 75.5/84. Well behind Naroditsky but still posting a commanding score of 235 w...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wins-bullet-brawl-april-20-2024",
+         "pubDate" : "Sat, 20 Apr 2024 16:19:50",
+         "title" : "Candidates Commentator Naroditsky Conquers Bullet Brawl"
+      },
+      {
          "description" : "Leon Luke Mendonca was the surprise winner of the Tata Steel Challenger tournament in Wijk aan Zee. He started with 3 out of 6 points, and was lost in the lower part of the table, until he recovered with 6.5 points out of his last 7 games, to reach first place! The Indian Grandmaster and ChessBase Host, Arne Kaehler, started a video series in 2023, on how a typical day in a life of a professional chess player looks like. In the second episode, Leon talks about his opening preparation for an upcoming tournament. | Photo: Lennart Ootes/Tata Steel Chess Tournament 2024",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/leon-mendonca-prepare-openings-for-a-tournament-like-a-gm",
          "pubDate" : "Sat, 20 Apr 2024 14:00:00",
          "title" : "Leon Mendonca - Prepare openings for a tournament like a GM!"
+      },
+      {
+         "description" : "Intense vomiting, stomach pain, and extreme tiredness. That&#39;s just some of what Nigerian chess master Tunde Onakoya had to suffer through to break the Guinness World Record for the longest ever chess marathon. All for a noble cause. At the iconi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/tunde-onakoya-shatters-world-record-chess-marathon-times-square",
+         "pubDate" : "Sat, 20 Apr 2024 13:23:04",
+         "title" : "Tunde Onakoya Shatters Guinness World Record With Chess Marathon In Times Square"
       },
       {
          "description" : "You might have heard that you should be training differently from a Grandmaster. But why is that? It's because your game is fundamentally different than a GM game. The Three Stages of Every Game Chess players usually think about the Opening, Middle-, and Endgame when we talk about the three stages of a game. But []",
@@ -1258,28 +1274,12 @@ news_feed (
          "title" : "FIDE Candidates 2024: How do you ace the chess marathon?"
       },
       {
-         "description" : "GM Hikaru Nakamura and GM Andrew Hong won the first Titled Tuesday events of April 2024. For Hong, it was a milestone, being his first-ever win in Titled Tuesday, and he did it outright with 10 points while Nakamura needed&#38;nbsp;tiebreaks earlier a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-hong-win-titled-tuesday-april-2-2024",
-         "pubDate" : "Wed, 03 Apr 2024 08:32:27",
-         "title" : "Nakamura Wins Another Titled Tuesday As Hong Wins 1st"
-      },
-      {
          "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's and women's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8 in both videos. Will he succeed? And how will you do, dear viewer? These two videos are the perfect start to get into the mood for the candidates tournament!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-best-tactics-of-all-candidates-double-edition",
          "pubDate" : "Tue, 02 Apr 2024 15:00:00",
          "title" : "Svitlana's Smart Moves - The best tactics of all candidates! Double Edition!"
-      },
-      {
-         "description" : "12-year-old Turkish chess sensation IM Yagiz Kaan Erdogmus is the new youngest grandmaster in the world and the fourth youngest to achieve the title in history. He earned his third grandmaster norm in Germany on Monday and his title is pending app...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/erdogmus-becomes-worlds-youngest-grandmaster-at-12",
-         "pubDate" : "Tue, 02 Apr 2024 13:07:00",
-         "title" : "Erdogmus Becomes World's Youngest Grandmaster At 12"
       },
       {
          "description" : " GM Hrant Melkumyan has recorded his 3rd O2C Doeberl Cup tournament win in a row, after a dominant performance in the 2024 edition. Going into the final round a full point ahead, he drew with GM Mitrabha Guha to reach 8/9. IM Peng Cheng also drew on board 2, to take 2nd place on 7/9. IM Arghyadip Das defeated FM Albert Winkleman on board 3 to take a share of 2nd, also ending Winkelman's chances of scoring an IM norm in the process. The Major was won by Bryan Yang on 6..5/7. He finished a point ahead of Elliot Wong, Ethan Chang and Daniel Wang. The Minor was shared between Austin Chen and Chee Seng Lue, who both scored 6/7. The Mini saw Aden Power finish with a perfect 7/7, a full point ahead",
@@ -1400,14 +1400,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2942",
          "pubDate" : "Sun, 31 Mar 2024 21:51:25",
          "title" : "Johan-Sebastian Christiansen triumphs in Mar del Plata"
-      },
-      {
-         "description" : " GM Hrant Melkumyan is on track for another Doeberl Cup win, starting the tournament with 6 from 6. In the morning round he defeated reigning Australian Champion IM Rishi Sardana, and then IM Mihajlo Radovanovic in the afternoon round. He is now a full point ahead of second place with 3 rounds to play. One of the players in 2nd place is FM Albert Winkelman, who has good chances of scoring an IM norm. He has a performance rating over 2500 and his round 7 pairing against GM M Venkatesh gives him the required mix of opponents for a valid norm. Also in 2nd place are IM James Morris, IM Peng Cheng, and FM Fred Litchfield. Despite Litchfield's good score (5/6), starting the event with a round 1 lo",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/03/2024-o2c-doeberl-cup-day-3.html",
-         "pubDate" : "Sat, 30 Mar 2024 20:48:00",
-         "title" : "2024 O2C Doeberl Cup - Day 3"
       }
    ]
 }
