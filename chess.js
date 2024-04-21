@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Tan Zhongyi could not ask for a better chance to win the Women's Candidates in Toronto going into the final round. Tan hardly played the most critical continuation against Aleksandra Goryachkina but a quiet game suited her and a draw by repetition was agreed on move 29. She now leads the Lei Tingjie by a point with no-one else able to catch her. Tan faces Anna Muzychuk with the black pieces in the final round, Muzychuk hasn't won a game yet, although she generated enough chances to have been in contention. The key result of the day was Rameshbabu Vaishali's fourth win in a row, a streak that followed four losses in a row and which started with a game she probably should have lost also. Toda",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-on-the-verge-of-winning-the-womens-candidates-tournament",
+         "pubDate" : "Sun, 21 Apr 2024 13:35:00",
+         "title" : "Tan Zhongyi on the verge of winning the Women's Candidates tournament - 13"
+      },
+      {
+         "description" : " Dommaraju Gukesh is on the verge of victory in the FIDE Candidates tournament in Toronto. A win in the final round with the black pieces against Hikaru Nakamura would guarantee first place. Half a point behind is his opponent Nakamura as well as Fabiano Caruana and Ian Nepomniachtchi who face each other. Gukesh could well win the event with a draw, the other players need a win. There could also be a two way tie, this will be resolved by rapid followed by blitz, if necessary. Gukesh beat 20-year-old Alireza Firouzja whose entire campaign has been undone by his highly emotional approach to chess. Unless Firouzja learns to calm down I don't see how he can move forward. This was a double edged ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/17-year-old-gukesh-leads-the-candidates-alone-with-one-round-to-go",
+         "pubDate" : "Sun, 21 Apr 2024 13:01:00",
+         "title" : "17 year-old Gukesh leads the Candidates alone with one round to go - 13"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109474898.cms\" />Gukesh D, the youngest Indian Candidate, has emerged as a surprise in the Candidates Chess tournament in Toronto. In the 13th and penultimate round, he outplayed French no.1 Alireza FirouzJa, taking the lead with 8.5 points. Second seeded American GM Hikaru Nakamura also played out a draw with Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-d-gukesh-beats-alireza-firouzja-to-become-sole-leader-with-just-one-round-left-to-play/articleshow/109469513.cms",
          "pubDate" : "Sun, 21 Apr 2024 02:24:47",
          "title" : "Candidates 2024: Gukesh wins to become sole leader"
+      },
+      {
+         "description" : "Gukesh defeated Alireza Firouzja while Ian Nepomniachtchi and Hikaru Nakamura drew. Meanwhile, Vaishali R won her fourth straight game to move into third place in the standings.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39984470/fide-candidates-2024-india-gukesh-sole-lead-beat-firouzja-round-13-one-win-away-world-championship?device=featurephone",
+         "pubDate" : "Sat, 20 Apr 2024 23:14:08",
+         "title" : "FIDE Candidates 2024: Gukesh takes sole lead after Round 13; one win away from World Championship"
       },
       {
          "description" : "Gukesh D will go into the final round of the Candidates Tournament as sole leader after beating Alireza Firouzja with the white pieces. Gukesh stands a half point ahead of Ian Nepomniachtchi, Hikaru Nakamura and Fabiano Caruana - the latter joined the chasing group by beating Praggnanandhaa R in the penultimate round. In the Women's Candidates, sole leader Tan Zhongyi now has a full-point lead over Lei Tingjie, who was defeated by Vaishali R. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
@@ -1064,22 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2956",
          "pubDate" : "Sun, 07 Apr 2024 01:57:44",
          "title" : "FIDE Candidates: Praggnanadhaa and Vaishali victorious in Round 3"
-      },
-      {
-         "description" : " Praggnanandhaa beat Santosh Vidit in Round 3 of the Candidates to record the only decisive game of the round. There was only one decisive game in the women's Candidates, a win scored by his sister Vaishali. Praggnanandhaa seems to have come to the Candidates intent on making the biggest mess on the board possible, yesterday this didn't work, today it did. Vidit's 29. Qd4? and 32.b4? combined cost him the game. Gukesh had a brief chance to beat Ian Nepomniachtchi, he needed to find 29.a4 or 30.a4 which more or less forced bxa4 followed by putting a piece on c4 with a big advantage. As it was he exchanged rooks and most of his advantage was gone. Fabiano Caruana scored a relatively comfortabl",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/praggnanandhaa-the-only-winner-in-round-3-of-the-candidates",
-         "pubDate" : "Sun, 7 Apr 2024 01:27:00",
-         "title" : "Praggnanandhaa the only winner in Round 3 of the Candidates - 3"
-      },
-      {
-         "description" : " Humpy Koneru has looked very solid so far in the Women's Candidates, she had the draw that gave her the black pieces in the first two rounds, she met the leader Tan Zhongyi in Round 3 and had the white pieces for the first time. This was a reversed Gruenfeld and after a slight inaccuracy Koneru allowed the kind of equality frequently seen in this kind of position and the game was drawn. Rameshbabu Vaishali just like her brother Praggnanandhaa was the only winner in the women's event. Nurgyul Salimova seemed to panic in the face of Vaishali's aggression and her position collapsed after several mistakes. Anna Muzychuk almost won her game against Kateryna Lagno, it was just the final precise s",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-remains-the-leader-as-vaishali-is-the-only-winner-in-round-3-of-the-womens-candidates",
-         "pubDate" : "Sun, 7 Apr 2024 01:17:00",
-         "title" : "Tan Zhongyi remains the leader as Vaishali is the only winner in Round 3 of the Women's Candidates - 3"
       },
       {
          "description" : "",
