@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gukesh D, at 17, is a win away from becoming the next World Chess Championship challenger. The Indian prodigy beat Alireza Firouzja on Saturday to go into the final round of the Candidates Tournament as the sole leader. Three experienced contenders, who are also the top seeds in Toronto, stand a half point behind: Ian Nepomniachtchi, Hikaru Nakamura and Fabiano Caruana. Caruana joined the chasing pack by beating Praggnanandhaa R with the black pieces. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-13",
+         "pubDate" : "Sun, 21 Apr 2024 08:45:00",
+         "title" : "Candidates R13: Gukesh beats Firoujza, enters final round as sole leader"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2983",
+         "pubDate" : "Sun, 21 Apr 2024 04:36:53",
+         "title" : "FIDE Candidates Round 13: The calm before the storm"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109469513.cms\" />D Gukesh leads the FIDE Candidates tournament with 8.5 points. The final round will determine the challenger for world champion Ding Liren. In the women's division, R Vaishali and Koneru Humpy are tied at 6.5 points.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -10,7 +26,15 @@ news_feed (
          "title" : "Candidates 2024: Gukesh wins to become sole leader"
       },
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "Gukesh defeated Alireza Firouzja while Ian Nepomniachtchi and Hikaru Nakamura drew. Meanwhile, Vaishali R won her fourth straight game to move into third place in the standings.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39984470/fide-candidates-2024-india-gukesh-sole-lead-beat-firouzja-round-13-one-win-away-world-championship?device=featurephone",
+         "pubDate" : "Sat, 20 Apr 2024 23:14:08",
+         "title" : "FIDE Candidates 2024: Gukesh takes sole lead after Round 13; one win away from World Championship"
+      },
+      {
+         "description" : "Gukesh D will go into the final round of the Candidates Tournament as sole leader after beating Alireza Firouzja with the white pieces. Gukesh stands a half point ahead of Ian Nepomniachtchi, Hikaru Nakamura and Fabiano Caruana - the latter joined the chasing group by beating Praggnanandhaa R in the penultimate round. In the Women's Candidates, sole leader Tan Zhongyi now has a full-point lead over Lei Tingjie, who was defeated by Vaishali R. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
@@ -18,12 +42,12 @@ news_feed (
          "title" : "Candidates - Gukesh sole leader, Tan with a 1-point lead"
       },
       {
-         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. 17-year-old GM Gukesh Dommaraju has taken the sole lead of the 2024 FIDE Candidates Tournament with...",
+         "description" : "17-year-old GM Gukesh Dommaraju has taken the sole lead of the 2024 FIDE Candidates Tournament with one round to go after exacting revenge against GM Alireza Firouzja in round 13. GMs Ian Nepomniachtchi and Hikaru Nakamura made a draw to stay a ha...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-13",
          "pubDate" : "Sat, 20 Apr 2024 17:54:00",
-         "title" : "Gukesh Leads Candidates Before Last Round, Tan A Draw Away From Winning Women's"
+         "title" : "Gukesh Leads Candidates Before Last Round, Tan Needs Only A Draw In Women's"
       },
       {
          "description" : "GM Daniel Naroditsky secured a comprehensive victory in the 49th edition of Bullet Brawl on Saturday, scoring 276 points on his way to the $400 first prize after scoring 75.5/84. Well behind Naroditsky but still posting a commanding score of 235 w...",
