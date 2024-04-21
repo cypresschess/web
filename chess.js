@@ -2,19 +2,35 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109469513.cms\" />D Gukesh leads the FIDE Candidates tournament with 8.5 points. The final round will determine the challenger for world champion Ding Liren. In the women's division, R Vaishali and Koneru Humpy are tied at 6.5 points.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-d-gukesh-beats-alireza-firouzja-to-become-sole-leader-with-just-one-round-left-to-play/articleshow/109469513.cms",
+         "pubDate" : "Sun, 21 Apr 2024 02:24:47",
+         "title" : "Candidates 2024: Gukesh wins to become sole leader"
+      },
+      {
          "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Sat, 20 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates - Gukesh sole leader, Tan with a 1-point lead"
+      },
+      {
+         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. 17-year-old GM Gukesh Dommaraju has taken the sole lead of the 2024 FIDE Candidates Tournament with...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-13",
+         "pubDate" : "Sat, 20 Apr 2024 17:54:00",
+         "title" : "Gukesh Leads Candidates Before Last Round, Tan A Draw Away From Winning Women's"
       },
       {
          "description" : "GM Daniel Naroditsky secured a comprehensive victory in the 49th edition of Bullet Brawl on Saturday, scoring 276 points on his way to the $400 first prize after scoring 75.5/84. Well behind Naroditsky but still posting a commanding score of 235 w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wins-bullet-brawl-april-20-2024",
-         "pubDate" : "Sat, 20 Apr 2024 16:19:50",
+         "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-april-20-2024",
+         "pubDate" : "Sat, 20 Apr 2024 16:19:00",
          "title" : "Candidates Commentator Naroditsky Conquers Bullet Brawl"
       },
       {
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2024-opened-in-rhodes-greece/",
          "pubDate" : "Sat, 20 Apr 2024 09:27:10",
          "title" : "European Women's Chess Championship 2024 opened in Rhodes, Greece"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109454194.cms\" />In the upcoming penultimate round of the Candidates chess tournament, Indian Grandmaster D Gukesh faces a crucial match against France's Firouza Alireza. Tied for the lead with 7.5 points alongside Hikaru Nakamura and Ian Nepomniachtchi, Gukesh aims to solidify his position with a win in his last white game. With two rounds remaining, this is heading towards an exciting climax.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-set-for-a-crucial-clash-against-firouza-alireza-at-candidates-chess-tournament/articleshow/109454194.cms",
-         "pubDate" : "Sat, 20 Apr 2024 07:56:27",
-         "title" : "Gukesh set for a crucial clash against Alireza at Candidates"
       },
       {
          "description" : " Tan Zhongyi continues to lead Lei Tingjie by half a point going into the final rest day of the Women's Candidates tournament in Toronto. They are too far clear of the rest of the field, one of these two players will win the event. Tan Zhongyi was losing against Nurgyul Salimova. By move 25 Tan was in a very uncomfortable position and tried to break out tactically with 25...b6? but this made things worse. Salimova's 43.f6?! (43.g6!) was a step in the wrong direction but she restored her winning position only to play 50.Bxf7? (50.Nxb4, 50.Rh4+ or 50.Bc6) which basically threw away the entire advantage and the game was drawn. Whilst Tan was losing Lei Tingjie seemed poised to overtake her with",
@@ -1240,14 +1248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2948",
          "pubDate" : "Wed, 03 Apr 2024 14:56:52",
          "title" : "Kirill Alekseenko wins VIII Open Semana Santa"
-      },
-      {
-         "description" : "The much-anticipated Candidates Tournament is just around the corner, with the eight contenders fighting for the right to challenge reigning World Champion Ding Liren for the title. But who will triumph in the end? Here&#39;s GM Magnus Carlsen&#39;s verdi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/magnus-carlsen-ranks-the-candidates-players",
-         "pubDate" : "Wed, 03 Apr 2024 11:43:00",
-         "title" : "Magnus Carlsen Ranks The Candidates Players"
       },
       {
          "description" : "The European Amateur Chess Championship 2024 will take place from 24th August 1st September 2024 at the Losinj island, in the city of Mali Losinj, Croatia. The event will be played in three rating categories: U2300, U2000, and U1700, and it's open to all players registered or approved by their national federations listed as the ECU members. In order to be eligible to participate in the tournament, the players must fulfill the following conditions: Each tournament will be played []",
