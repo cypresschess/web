@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
+         "pubDate" : "Sun, 21 Apr 2024 20:15:00",
+         "title" : "Candidates Tournaments - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109481450.cms\" />In a dramatic 13th and penultimate round, Gukesh scored a clinical victory over French No.1 Alireza Firouzja to take sole lead with 8.5 points after second seeded American GM Hikaru Nakamura played out a draw with two-time challenger Ian Nepomniachtchi on Saturday. If Gukesh wins the Candidates, he will become the youngest challenger to confront world champion Ding Liren of China later this year",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-a-step-away-from-scripting-candidates-chess-history/articleshow/109481450.cms",
+         "pubDate" : "Sun, 21 Apr 2024 17:45:49",
+         "title" : "D Gukesh a step away from scripting Candidates chess history"
+      },
+      {
          "description" : " Tan Zhongyi could not ask for a better chance to win the Women's Candidates in Toronto going into the final round. Tan hardly played the most critical continuation against Aleksandra Goryachkina but a quiet game suited her and a draw by repetition was agreed on move 29. She now leads the Lei Tingjie by a point with no-one else able to catch her. Tan faces Anna Muzychuk with the black pieces in the final round, Muzychuk hasn't won a game yet, although she generated enough chances to have been in contention. The key result of the day was Rameshbabu Vaishali's fourth win in a row, a streak that followed four losses in a row and which started with a game she probably should have lost also. Toda",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -23,15 +39,15 @@ news_feed (
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-outplays-firouzja-to-take-sole-lead-nepo-nakamura-play-draw-caruana-beats-pragg/articleshow/109474898.cms",
          "pubDate" : "Sun, 21 Apr 2024 09:07:09",
-         "title" : "Gukesh outplays Firouzja to take sole lead, Nepo-Nakamura play draw, Caruana beats Pragg"
+         "title" : "Gukesh outplays Firouzja to take sole lead, Caruana beats Pragg"
       },
       {
-         "description" : "Gukesh D, at 17, is a win away from becoming the next World Chess Championship challenger. The Indian prodigy beat Alireza Firouzja on Saturday to go into the final round of the Candidates Tournament as the sole leader. Three experienced contenders, who are also the top seeds in Toronto, stand a half point behind: Ian Nepomniachtchi, Hikaru Nakamura and Fabiano Caruana. Caruana joined the chasing pack by beating Praggnanandhaa R with the black pieces. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-13",
-         "pubDate" : "Sun, 21 Apr 2024 08:45:00",
-         "title" : "Candidates R13: Gukesh beats Firoujza, enters final round as sole leader"
+         "description" : "Victory over Hikaru Nakamura in round 14 will make D Gukesh the youngest-ever challenger for the World Championship in the history of chess.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39986955/fide-candidates-2024-does-gukesh-do-win-nakamura?device=featurephone",
+         "pubDate" : "Sun, 21 Apr 2024 08:34:32",
+         "title" : "Gukesh vs Nakamura: What does Gukesh have to do to win the 2024 FIDE Candidates?"
       },
       {
          "description" : "The second round of the European Women's Chess Championship 2024 was played yesterday. As many as 24 players tie for the top scoring maximum 2/2 points. Many of the top 10 seeds suffered upsets in the first two rounds, except from the rating favourite IM Yuliia Osmak (UKR, 2459) and 7th-seed IM Lela Javakhishvili (GEO, 2447). IM Yuliia Osmak was victorious against her compatriot GM Natalia Zhukova (UKR, 2301) and IM Lela Javakhshvili defeated WIM Anna Kubicka (POL, 2292). WIM []",
@@ -66,14 +82,6 @@ news_feed (
          "title" : "FIDE Candidates 2024: Gukesh takes sole lead after Round 13; one win away from World Championship"
       },
       {
-         "description" : "Gukesh D will go into the final round of the Candidates Tournament as sole leader after beating Alireza Firouzja with the white pieces. Gukesh stands a half point ahead of Ian Nepomniachtchi, Hikaru Nakamura and Fabiano Caruana - the latter joined the chasing group by beating Praggnanandhaa R in the penultimate round. In the Women's Candidates, sole leader Tan Zhongyi now has a full-point lead over Lei Tingjie, who was defeated by Vaishali R. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Sat, 20 Apr 2024 20:15:00",
-         "title" : "Candidates - Gukesh sole leader, Tan with a 1-point lead"
-      },
-      {
          "description" : "17-year-old GM Gukesh Dommaraju has taken the sole lead of the 2024 FIDE Candidates Tournament with one round to go after exacting revenge against GM Alireza Firouzja in round 13. GMs Ian Nepomniachtchi and Hikaru Nakamura made a draw to stay a ha...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-april-20-2024",
          "pubDate" : "Sat, 20 Apr 2024 16:19:00",
          "title" : "Candidates Commentator Naroditsky Conquers Bullet Brawl"
-      },
-      {
-         "description" : "Leon Luke Mendonca was the surprise winner of the Tata Steel Challenger tournament in Wijk aan Zee. He started with 3 out of 6 points, and was lost in the lower part of the table, until he recovered with 6.5 points out of his last 7 games, to reach first place! The Indian Grandmaster and ChessBase Host, Arne Kaehler, started a video series in 2023, on how a typical day in a life of a professional chess player looks like. In the second episode, Leon talks about his opening preparation for an upcoming tournament. | Photo: Lennart Ootes/Tata Steel Chess Tournament 2024",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-prepare-openings-for-a-tournament-like-a-gm",
-         "pubDate" : "Sat, 20 Apr 2024 14:00:00",
-         "title" : "Leon Mendonca - Prepare openings for a tournament like a GM!"
       },
       {
          "description" : "Intense vomiting, stomach pain, and extreme tiredness. That&#39;s just some of what Nigerian chess master Tunde Onakoya had to suffer through to break the Guinness World Record for the longest ever chess marathon. All for a noble cause. At the iconi...",
@@ -410,14 +410,6 @@ news_feed (
          "title" : "ECU Declaration on \"Summer Friendship Games\""
       },
       {
-         "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help building your opening repertoire and understanding the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. Pre-order now! Delivery on 18 April 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-a-supergrandmaster-s-guide-to-openings-vol-1-2",
-         "pubDate" : "Tue, 16 Apr 2024 09:30:00",
-         "title" : "Anish Giri: A Supergrandmaster's Guide to Openings Vol.1 & 2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109338533.cms\" />In the Candidates chess tournament, D Gukesh and Ian Nepomniachtchi lead with six points each after round 10. R Praggnanandhaa, Fabiano Caruana, and Hikaru Nakamura trail closely with half a point less. Vidit Gujrathi ranks sixth with six points. Nepomniachtchi remains unbeaten, drawing with Gukesh in a Ruy Lopez opening. In the women's section, Tinjie Lei and Zhongyi Tan lead.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -480,14 +472,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-saves-a-difficult-position-against-firouzja-and-retains-the-lead-of-the-candidates-with-gukesh-after-round-9",
          "pubDate" : "Mon, 15 Apr 2024 09:38:00",
          "title" : "Nepomniachtchi saves a difficult position against Firouzja and retains the lead of the Candidates with Gukesh after Round 9 - 9"
-      },
-      {
-         "description" : "In this New In Chess podcast episode, after the first half of the Candidates, Super-grandmaster Anish Giri gives his take. In an hour-long interview by Dirk Jan ten Geuzendam, he candidly shares his assessment of the players so far. Anish sees Ian Nepomniachtchi as one of the top favourites to win the Candidates and qualify for the World Championship match. But he also speaks at great length about the other players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-predicts",
-         "pubDate" : "Mon, 15 Apr 2024 08:21:50",
-         "title" : "Anish Predicts"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109303514.cms\" />Indian Grandmaster Vidit Gujrathi staged a remarkable comeback at the Candidates chess tournament, defeating Hikaru Nakamura. Meanwhile, D Gukesh and R Praggnanandhaa's match ended in a draw. Russian player Ian Nepomniachtchi secured a draw against Firouza Alireza, maintaining his lead alongside Gukesh. In the women's section, R Vaishali suffered another loss, while Koneru Humpy managed a draw.",
@@ -560,14 +544,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/04/playing-chess-with-your-brain.html",
          "pubDate" : "Sun, 14 Apr 2024 15:12:00",
          "title" : "Playing Chess with Your Brain (*)"
-      },
-      {
-         "description" : "Anish Giri's Opening Fritztrainer's are available 18th of April. But we added a sneak peek to his take on the Caro-Kann and King's Indian openings. Since this is still quite a new feature, we made a video which explains the setup in just 3 minutes.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/giri-s-chessbase-book-on-the-caro-kann-and-king-s-indian",
-         "pubDate" : "Sun, 14 Apr 2024 14:00:00",
-         "title" : "Giri's ChessBase Book on the Caro-Kann and King's Indian"
       },
       {
          "description" : " The FIDE Candidates in Toronto is heating up nicely after eight rounds. Gukesh joined Ian Nepomniachtchi in the lead and Hikaru Nakamura moved into contention alongside Praggnanandhaa. Fabiano Caruana's loss to Nakamura took him back to 50% and is surely a major blow. Gukesh recovered from his loss in Round 7 with a win against Santosh Vidit in a Two Knights with 4.d3. Superficially it might have seemed like it was Vidit who had the initiative after the opening, he was pushing pawns and making breaks, but Gukesh had the a-file and white's position was deteriorating with almost every move. Gukesh crashed in down the a-file, took a left turn towards Vidit's King and checkmated it. Hikaru Naka",
@@ -1184,14 +1160,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/",
          "pubDate" : "Fri, 05 Apr 2024 13:24:12",
          "title" : "Maurice Ashley speaks on new books!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109058079.cms\" />World No. 1 Magnus Carlsen has come up with his analysis of the contenders in the Open category. He feels that either the second- or third-ranked American Grandmasters, Fabiano Caruana and Hikaru Nakamura, will clinch the title.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-tournament-praggnanandhaa-will-do-well-vidit-gukesh-will-struggle/articleshow/109058079.cms",
-         "pubDate" : "Fri, 05 Apr 2024 07:09:56",
-         "title" : "Candidates: 'Pragg will do well; Vidit, Gukesh will struggle'"
       },
       {
          "description" : " Contest to decide Ding Liren's challenger began on Thursday, while the world No 1 kept up his winning streak in the Grenke Classic The eight potential challengers who began the Candidates tournament in Toronto on Thursday have an ­unfamiliar feeling. Whoever wins will be a firm favourite to ­capture the crown from the struggling holder, Ding Liren, instead of being the ­outsider of two against Magnus Carlsen, who abdicated his title while still at his playing peak. For the first time, the Women's Candidates is being held simultaneously. The games will be shown live on <a href=\"https://www.youtube.com/@FIDE_chess\">Fide YouTube</a> starting at 7.30pm BST daily, with commentary from the ­forme",
