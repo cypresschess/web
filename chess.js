@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2984",
+         "pubDate" : "Sun, 21 Apr 2024 22:44:17",
+         "title" : "Vitaliy Bernadskiy wins 21st Bangkok Chess Club Open"
+      },
+      {
          "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,20 +42,20 @@ news_feed (
          "title" : "17 year-old Gukesh leads the Candidates alone with one round to go - 13"
       },
       {
+         "description" : "Victory over Hikaru Nakamura in round 14 will make D Gukesh the youngest-ever challenger for the World Championship in the history of chess.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39986955/fide-candidates-2024-does-gukesh-do-win-nakamura?device=featurephone",
+         "pubDate" : "Sun, 21 Apr 2024 11:59:00",
+         "title" : "Gukesh vs Nakamura: What does Gukesh have to do to win the 2024 FIDE Candidates?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109474898.cms\" />Gukesh D, the youngest Indian Candidate, has emerged as a surprise in the Candidates Chess tournament in Toronto. In the 13th and penultimate round, he outplayed French no.1 Alireza FirouzJa, taking the lead with 8.5 points. Second seeded American GM Hikaru Nakamura also played out a draw with Ian Nepomniachtchi.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-outplays-firouzja-to-take-sole-lead-nepo-nakamura-play-draw-caruana-beats-pragg/articleshow/109474898.cms",
          "pubDate" : "Sun, 21 Apr 2024 09:07:09",
          "title" : "Gukesh outplays Firouzja to take sole lead, Caruana beats Pragg"
-      },
-      {
-         "description" : "Victory over Hikaru Nakamura in round 14 will make D Gukesh the youngest-ever challenger for the World Championship in the history of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39986955/fide-candidates-2024-does-gukesh-do-win-nakamura?device=featurephone",
-         "pubDate" : "Sun, 21 Apr 2024 08:34:32",
-         "title" : "Gukesh vs Nakamura: What does Gukesh have to do to win the 2024 FIDE Candidates?"
       },
       {
          "description" : "The second round of the European Women's Chess Championship 2024 was played yesterday. As many as 24 players tie for the top scoring maximum 2/2 points. Many of the top 10 seeds suffered upsets in the first two rounds, except from the rating favourite IM Yuliia Osmak (UKR, 2459) and 7th-seed IM Lela Javakhishvili (GEO, 2447). IM Yuliia Osmak was victorious against her compatriot GM Natalia Zhukova (UKR, 2301) and IM Lela Javakhshvili defeated WIM Anna Kubicka (POL, 2292). WIM []",
@@ -1384,22 +1392,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/2024-o2c-doeberl-cup-day-4.html",
          "pubDate" : "Mon, 01 Apr 2024 00:33:00",
          "title" : "2024 O2C Doeberl Cup - Day 4"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2941",
-         "pubDate" : "Sun, 31 Mar 2024 22:28:41",
-         "title" : "Danish Championship: Boris Chatalbashev retains title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2942",
-         "pubDate" : "Sun, 31 Mar 2024 21:51:25",
-         "title" : "Johan-Sebastian Christiansen triumphs in Mar del Plata"
       }
    ]
 }
