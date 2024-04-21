@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109474898.cms\" />Gukesh D, the youngest Indian Candidate, has emerged as a surprise in the Candidates Chess tournament in Toronto. In the 13th and penultimate round, he outplayed French no.1 Alireza FirouzJa, taking the lead with 8.5 points. Second seeded American GM Hikaru Nakamura also played out a draw with Ian Nepomniachtchi.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-outplays-firouzja-to-take-sole-lead-nepo-nakamura-play-draw-caruana-beats-pragg/articleshow/109474898.cms",
+         "pubDate" : "Sun, 21 Apr 2024 09:07:09",
+         "title" : "Gukesh outplays Firouzja to take sole lead, Nepo-Nakamura play draw, Caruana beats Pragg"
+      },
+      {
          "description" : "Gukesh D, at 17, is a win away from becoming the next World Chess Championship challenger. The Indian prodigy beat Alireza Firouzja on Saturday to go into the final round of the Candidates Tournament as the sole leader. Three experienced contenders, who are also the top seeds in Toronto, stand a half point behind: Ian Nepomniachtchi, Hikaru Nakamura and Fabiano Caruana. Caruana joined the chasing pack by beating Praggnanandhaa R with the black pieces. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-13",
          "pubDate" : "Sun, 21 Apr 2024 08:45:00",
          "title" : "Candidates R13: Gukesh beats Firoujza, enters final round as sole leader"
+      },
+      {
+         "description" : "The second round of the European Women's Chess Championship 2024 was played yesterday. As many as 24 players tie for the top scoring maximum 2/2 points. Many of the top 10 seeds suffered upsets in the first two rounds, except from the rating favourite IM Yuliia Osmak (UKR, 2459) and 7th-seed IM Lela Javakhishvili (GEO, 2447). IM Yuliia Osmak was victorious against her compatriot GM Natalia Zhukova (UKR, 2301) and IM Lela Javakhshvili defeated WIM Anna Kubicka (POL, 2292). WIM []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2024-round-2-recap/",
+         "pubDate" : "Sun, 21 Apr 2024 08:11:25",
+         "title" : "European Women's Chess Championship 2024 - Round 2 recap"
       },
       {
          "description" : "",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-d-gukesh-beats-alireza-firouzja-to-become-sole-leader-with-just-one-round-left-to-play/articleshow/109469513.cms",
          "pubDate" : "Sun, 21 Apr 2024 02:24:47",
          "title" : "Candidates 2024: Gukesh wins to become sole leader"
-      },
-      {
-         "description" : "Gukesh defeated Alireza Firouzja while Ian Nepomniachtchi and Hikaru Nakamura drew. Meanwhile, Vaishali R won her fourth straight game to move into third place in the standings.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39984470/fide-candidates-2024-india-gukesh-sole-lead-beat-firouzja-round-13-one-win-away-world-championship?device=featurephone",
-         "pubDate" : "Sat, 20 Apr 2024 23:14:08",
-         "title" : "FIDE Candidates 2024: Gukesh takes sole lead after Round 13; one win away from World Championship"
       },
       {
          "description" : "Gukesh D will go into the final round of the Candidates Tournament as sole leader after beating Alireza Firouzja with the white pieces. Gukesh stands a half point ahead of Ian Nepomniachtchi, Hikaru Nakamura and Fabiano Caruana - the latter joined the chasing group by beating Praggnanandhaa R in the penultimate round. In the Women's Candidates, sole leader Tan Zhongyi now has a full-point lead over Lei Tingjie, who was defeated by Vaishali R. | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/",
          "pubDate" : "Fri, 05 Apr 2024 13:24:12",
          "title" : "Maurice Ashley speaks on new books!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109060656.cms\" />With a rating of 2803 Elo, American grandmaster Fabiano Caruana appears to be the frontrunner for the challenger position. However, closely trailing the world No. 2 in performance ratings over the past year is the highly skilled 18-year-old Indian grandmaster, Praggnanandhaa Rameshbabu.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-tournament-2024-numbers-tell-a-different-story/articleshow/109060656.cms",
-         "pubDate" : "Fri, 05 Apr 2024 08:38:50",
-         "title" : "Candidates: Numbers tell a different story"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109058079.cms\" />World No. 1 Magnus Carlsen has come up with his analysis of the contenders in the Open category. He feels that either the second- or third-ranked American Grandmasters, Fabiano Caruana and Hikaru Nakamura, will clinch the title.",
