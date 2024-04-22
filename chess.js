@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is not very common to have an article focused solely on one specific square. Today, we will make an exception. We will speak about the d5-square, or rather about the weakness that often forms on this square in various lines of the Sicilian defence.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-32-the-hole",
+         "pubDate" : "Mon, 22 Apr 2024 18:00:00",
+         "title" : "The Winning Academy 32: The Hole"
+      },
+      {
          "description" : " A very spectacular Candidates event came to an end with an amazing finish. Gukesh ended up winning the event outright, but only after Caruana and Nepo drew in 100+ moves. A real tragedy for Caruna, as he had two winning positions, which he failed to convert. Watching the game online was a real roller coaster, as the game went from equal to winning for Caruna to drawn, back to winning for Caruana, and finally drawn. As a result Gukesh will play Ding Liren for the World Championship title, which given Ding's recent form, may see Gukesh become the youngest World Champion ever. <b>Caruana,Fabiano (2803) - Nepomniachtchi,Ian (2758) [D35]</b><br /> FIDE Candidates 2024 Toronto, Canada (14), 21.04",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -106,6 +114,14 @@ news_feed (
          "title" : "FIDE Candidates: Gukesh D and Tan Zhongyi are the World Championship Challengers"
       },
       {
+         "description" : "D Gukesh, aged 17, created chess history with his 2024 FIDE Candidates win.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39994159/fide-candidates-2024-how-gukesh-made-history-calm-composed-mind-helped-deal-meteoric-rise?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 03:30:14",
+         "title" : "How Gukesh made history: Calm, composed mind helped him deal with meteoric rise"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109485996.cms\" />The 17-year-old Indian Grandmaster Gukesh scored 9/14 points to clinch the first place. He is only the the second Indian player after Viswanathan Anand to win the FIDE Candidates Tournament. The feat earns the teenager the right to challenge the reigning chess world champion Ding Liren. Praggnanandhaa finished fifth in the final standings. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -128,6 +144,22 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-is-the-youngest-ever-winner-of-the-candidates-at-17-years-old",
          "pubDate" : "Mon, 22 Apr 2024 01:43:00",
          "title" : "Gukesh is the youngest ever winner of the Candidates at 17 years old - 14"
+      },
+      {
+         "description" : "Gukesh drew with Hikaru Nakamura to become the first Indian since Viswanathan Anand in 2014 to win the FIDE Candidates tournament and the youngest in chess history to do so.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39991714/fide-candidates-2024-india-gukesh-wins-draw-nakamura-round-14-youngest-chess-history-challenge-world-championship?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 00:18:45",
+         "title" : "D Gukesh, aged 17, wins FIDE Candidates 2024; will play Ding Liren for World Champion title"
+      },
+      {
+         "description" : "Gukesh also claimed he didn't care much about being the youngest-ever winner and such records, and credited his support team for the victory.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39992716/knew-win-firouzja-loss-d-gukesh-2024-fide-candidates-victory-press-conference-full-quotes-transcript?device=featurephone",
+         "pubDate" : "Sun, 21 Apr 2024 23:30:39",
+         "title" : "'Knew I would win after Firouzja loss' - D Gukesh on his 2024 FIDE Candidates victory"
       },
       {
          "description" : "",
@@ -314,7 +346,7 @@ news_feed (
          "title" : "Candidates: Gukesh win to be back in joint lead; Pragg, Gujrathi out of contention"
       },
       {
-         "description" : " With just the final two rounds to come, Ian Nepomniachtchi, Hikaru Nakamura and Gukesh Domaraju share the lead while the world No 2 , Fabiano Caruana, is half a point behind With 12 rounds complete and just Saturday's and Sunday's final two rounds to come, the Candidates in Toronto could hardly be closer. Three players share the lead, another is just half a point behind. The €500k tournament will decide which of its eight contestants challenges China's Ding Liren for his world crown later this year. Leaders after 12 rounds (of 14) were : Ian Nepomniachtchi (Russia), Hikaru Nakamura (US), and Gukesh Dommaraju (India) all 7.5; Fabiano Caruana (US) 7; Praggnanandhaa Rameshbabu (India) 6. Thr",
+         "description" : " With just the final two rounds to come, Ian Nepomniachtchi, Hikaru Nakamura and Gukesh Dommaraju share the lead while the world No 2, Fabiano Caruana, is half a point behind With 12 rounds complete and just Saturday's and Sunday's final two rounds to come, the Candidates in Toronto could hardly be closer. Three players share the lead, another is just half a point behind. The €500k tournament will decide which of its eight contestants challenges China's Ding Liren for his world crown later this year. Leaders after 12 rounds (of 14) were : Ian Nepomniachtchi (Russia), Hikaru Nakamura (US), and Gukesh Dommaraju (India) all 7.5; Fabiano Caruana (US) 7; Praggnanandhaa Rameshbabu (India) 6. Thr",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/2024/apr/19/chess-four-in-close-contention-as-candidates-reaches-weekend-climax",
@@ -1386,22 +1418,6 @@ news_feed (
          "title" : "DGT Clocks - EoI form now closed"
       },
       {
-         "description" : "Only one Indian man has ever taken part in the FIDE Candidates before, Viswanathan Anand, and he explains just what makes this tournament so tough.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39859087/fide-candidates-2024-indian-chess-viswanathan-anand?device=featurephone",
-         "pubDate" : "Tue, 2 Apr 2024 10:00:50",
-         "title" : "The big, bad world of the Candidates, ft. Viswanathan Anand"
-      },
-      {
-         "description" : "Five Indians will compete at the biggest chess tournament in the world to decide who will get to challenge the world champions",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39858735/fide-candidates-2024-format-schedule-favourites-all-need-know?device=featurephone",
-         "pubDate" : "Tue, 2 Apr 2024 09:41:42",
-         "title" : "FIDE Candidates 2024: Favourites, Format, Schedule and All You Need to Know"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1424,22 +1440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2946",
          "pubDate" : "Mon, 01 Apr 2024 20:58:00",
          "title" : "Breaking the limits: How FIDE's Infinite Chess project helps people with autism"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2945",
-         "pubDate" : "Mon, 01 Apr 2024 16:14:20",
-         "title" : "The best students of FIDE Chessable Academy shine in unique in-person training camp"
-      },
-      {
-         "description" : "Since today is Easter Monday and since last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2024/03/hindu-gods-play-chess.html\">Hindu Gods Play Chess</A> (March 2024), was another in a series on AI comics, let's continue with the religious theme. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od01.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Easter bunny plays chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> As I explained in the 'Hindu Gods' post, <BLOCKQUOTE> One of the parameters to control the look of the image is 'comic style', of which there are currently 13. For this image I chose the 'Flying Saucer' style. </BLOCKQUOTE> <P> The 'Ea",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/no-splitting-hares.html",
-         "pubDate" : "Mon, 01 Apr 2024 15:46:00",
-         "title" : "No Splitting Hares"
       }
    ]
 }
