@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2024-04-20","590","<a href=http://www.uschess.org/msa/XtblMain.php?202404202232 target='_blank'>T H ROGERS SCHOLASTIC APRIL 2024</a>",
+"HOUSTON","2024-04-20","23","<a href=http://www.uschess.org/msa/XtblMain.php?202404202042 target='_blank'>APRIL 20 SATURDAY CHESS/ SATURNIGHT</a>",
 "HOUSTON","2024-04-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202404201332 target='_blank'>CHESSPANDA04202024SATURDAY</a>",
 "CYPRESS","2024-04-19","26","<a href=http://www.uschess.org/msa/XtblMain.php?202404190972 target='_blank'>KNIGHTS OFCYPRESS</a>",
 "SPRING","2024-04-19","27","<a href=http://www.uschess.org/msa/XtblMain.php?202404190892 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -197,6 +199,4 @@ jtable([
 "SPRING","2023-10-06","20","<a href=http://www.uschess.org/msa/XtblMain.php?202310064042 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-10-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310064002 target='_blank'>FBCC 2023 COOL WEATHER OPEN</a>",
 "HOUSTON","2023-10-06","12","<a href=http://www.uschess.org/msa/XtblMain.php?202310063962 target='_blank'>REBECCA CHESS CLUB QUADS OCTOBER 6, 2023</a>",
-"CYPRESS","2023-10-06","30","<a href=http://www.uschess.org/msa/XtblMain.php?202310063912 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2023-10-01","14","<a href=http://www.uschess.org/msa/XtblMain.php?202310014082 target='_blank'>CHEAPO QUADS - ALL AGES OCT 1 2023</a>",
 ]);
