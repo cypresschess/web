@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tan Zhongyi obtained the draw she needed to claim outright victory at the Women's Candidates Tournament in Toronto. The Chinese GM grabbed the sole lead from the get-go, as she obtained back-to-back wins in the first two rounds. At some point, Lei Tingjie managed to catch her atop the standings, but Tan turned out to be more consistent than her compatriot in the long run. With her triumph, Tan became Ju Wenjun's challenger in the next match for the Women's World Chess Championship. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-14",
+         "pubDate" : "Mon, 22 Apr 2024 07:00:00",
+         "title" : "Tan Zhongyi convincingly wins Women's Candidates in Toronto"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109492347.cms\" />D Gukesh, India's 17-year-old chess sensation, made history by winning the FIDE Candidates Chess Tournament 2024 in Toronto, becoming the youngest-ever contender for the world title. Expressing his aspirations, Gukesh aims to excel in the World Championship Final. Reflecting on his journey, he emphasizes his determination to perform his best and overcome challenges. Gukesh's victory signifies India's growing prominence in chess.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/my-next-goal-is-d-gukesh-after-winning-fide-candidates-chess-tournament/articleshow/109492347.cms",
+         "pubDate" : "Mon, 22 Apr 2024 06:44:32",
+         "title" : "'My next goal is...': D Gukesh after winning FIDE Candidates"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109491752.cms\" />At just 17 years old, D Gukesh makes history as the youngest winner of the Candidates Tournament, earning a shot at challenging world chess champion Ding Liren. Surpassing a record held by Garry Kasparov for over four decades, Gukesh's remarkable victory, scoring 9/14 points, cements his place in the chess world. Legendary Viswanathan Anand and fans alike celebrate his triumph.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-d-gukesh-mobbed-by-fans-outside-venue-after-becoming-youngest-ever-candidates-winner/articleshow/109491752.cms",
+         "pubDate" : "Mon, 22 Apr 2024 05:55:12",
+         "title" : "Watch: D Gukesh mobbed by fans outside venue after Candidates glory"
+      },
+      {
+         "description" : "We are super proud of your achievement. We hope and believe that you will be the next World Chess Champion.Dommaraju Gukesh has taken the world",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-gm-gukesh-d/",
+         "pubDate" : "Mon, 22 Apr 2024 05:38:04",
+         "title" : "Congratulations GM Gukesh D"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2985",
+         "pubDate" : "Mon, 22 Apr 2024 04:51:15",
+         "title" : "FIDE Candidates: Gukesh D and Tan Zhongyi are the World Championship Challengers"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109485996.cms\" />The 17-year-old Indian Grandmaster Gukesh scored 9/14 points to clinch the first place. He is only the the second Indian player after Viswanathan Anand to win the FIDE Candidates Tournament. The feat earns the teenager the right to challenge the reigning chess world champion Ding Liren. Praggnanandhaa finished fifth in the final standings. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -42,12 +82,12 @@ news_feed (
          "title" : "Candidates - Gukesh and Tan are the outright winners!"
       },
       {
-         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. After 14 rounds and over three weeks of play,&#38;nbsp;17-year-old GM Gukesh Dommaraju won the 2024 FID...",
+         "description" : "After 14 rounds and over three weeks of play,&#38;nbsp;17-year-old GM Gukesh Dommaraju has won the 2024 FIDE Candidates Tournament and is the youngest player in history to win a Candidates Tournament. He will play GM Ding Liren for the world champions...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-14",
          "pubDate" : "Sun, 21 Apr 2024 17:50:00",
-         "title" : "Gukesh Youngest Ever To Win Candidates Tournament, Tan Wins Women's By 1.5 Points"
+         "title" : "Gukesh Youngest Ever Candidates Winner, Tan Takes Women's By 1.5 Points"
       },
       {
          "description" : " Tan Zhongyi could not ask for a better chance to win the Women's Candidates in Toronto going into the final round. Tan hardly played the most critical continuation against Aleksandra Goryachkina but a quiet game suited her and a draw by repetition was agreed on move 29. She now leads the Lei Tingjie by a point with no-one else able to catch her. Tan faces Anna Muzychuk with the black pieces in the final round, Muzychuk hasn't won a game yet, although she generated enough chances to have been in contention. The key result of the day was Rameshbabu Vaishali's fourth win in a row, a streak that followed four losses in a row and which started with a game she probably should have lost also. Toda",
@@ -96,14 +136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-d-gukesh-beats-alireza-firouzja-to-become-sole-leader-with-just-one-round-left-to-play/articleshow/109469513.cms",
          "pubDate" : "Sun, 21 Apr 2024 02:24:47",
          "title" : "Candidates 2024: Gukesh wins to become sole leader"
-      },
-      {
-         "description" : "Gukesh defeated Alireza Firouzja while Ian Nepomniachtchi and Hikaru Nakamura drew. Meanwhile, Vaishali R won her fourth straight game to move into third place in the standings.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39984470/fide-candidates-2024-india-gukesh-sole-lead-beat-firouzja-round-13-one-win-away-world-championship?device=featurephone",
-         "pubDate" : "Sat, 20 Apr 2024 23:14:08",
-         "title" : "FIDE Candidates 2024: Gukesh takes sole lead after Round 13; one win away from World Championship"
       },
       {
          "description" : "17-year-old GM Gukesh Dommaraju has taken the sole lead of the 2024 FIDE Candidates Tournament with one round to go after exacting revenge against GM Alireza Firouzja in round 13. GMs Ian Nepomniachtchi and Hikaru Nakamura made a draw to stay a ha...",
@@ -954,14 +986,6 @@ news_feed (
          "title" : "26th Asian Youth Chess Championships - 2024"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109152380.cms\" />Indian chess trio R Praggnanandhaa, D Gukesh, and Vidit Gujrathi are in a fierce battle to secure their spot in the World Championship match. Gukesh has shown resilience, while Gujrathi struggles to maintain momentum. With 14 rounds completed, 10 critical games remain, with obstacles hindering their progress.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-trio-battles-in-candidates-chess-tournament-for-world-championship-spot/articleshow/109152380.cms",
-         "pubDate" : "Tue, 09 Apr 2024 05:01:46",
-         "title" : "Indian trio battles in Candidates chess tournament for World Championship spot"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1112,14 +1136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/candidates-chaos.html",
          "pubDate" : "Sat, 06 Apr 2024 13:10:00",
          "title" : "Candidates Chaos"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109087502.cms\" />Gujrathi, Caruana, Nepomniachtchi and Gukesh emerged as early leaders of the tournament, each with 1.5 points. Meanwhile, Nakamura, Praggnanandhaa, Abasov and Alireza share the fifth spot with half a point each.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-vidit-gujrathi-beats-hikaru-nakamura-praggnanandhaa-goes-down-to-gukesh/articleshow/109087502.cms",
-         "pubDate" : "Sat, 06 Apr 2024 10:22:19",
-         "title" : "Candidates: Vidit shocks Nakamura, Pragg goes down to Gukesh"
       },
       {
          "description" : "The earliest record of beer brewing in the Holy Roman Empire dates from 974 AD, when the Emperor Otto II granted a licence to the Abbey of Liège in Belgium. Their co-national religious institution, the Abbey of Leffe, launched its own brews in 1240; they remain on sale even in the 21st century. Then, in []",
