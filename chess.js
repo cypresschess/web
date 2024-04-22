@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gukesh D, an incredibly level-headed 17-year-old from Chennai, became the World Chess Championship challenger by winning the very strong 2024 Candidates Tournament in Toronto. Gukesh entered the final round as the sole leader, and safely held a draw with black against direct contender Hikaru Nakamura. Either Fabiano Caruana or Ian Nepomniachtchi could have caught the youngster with a win, but their direct encounter saw Caruana failing to make the most of a number of winning chances before agreeing to a 109-move draw in what turned out to be a titanic struggle. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-14",
+         "pubDate" : "Mon, 22 Apr 2024 11:00:00",
+         "title" : "Gukesh becomes World Championship challenger at 17!"
+      },
+      {
+         "description" : "England will be sending its largest ever delegation of 42 players, to the World Senior Team Chess Championships (WSTCC) in the wonderful city of Krakow,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/world-senior-team-chess-championships-call-to-action/",
+         "pubDate" : "Mon, 22 Apr 2024 09:01:41",
+         "title" : "World Senior Team Chess Championships call to action"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109497254.cms\" />Indian Prime Minister Narendra Modi praised Grandmaster D Gukesh's \"remarkable achievement\" at the FIDE Candidates 2024 in Toronto, noting how the 17-year-old's performance inspires millions. Gukesh's historic win made him the youngest-ever challenger to the world title, a feat celebrated by cricket icon Sachin Tendulkar and chess legends like Viswanathan Anand and Vladimir Kramnik.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-is-exceptionally-proud-pm-narendra-modi-and-chess-fraternity-congratulate-d-gukesh-on-winning-candidates/articleshow/109497254.cms",
+         "pubDate" : "Mon, 22 Apr 2024 09:01:13",
+         "title" : "PM Modi and chess fraternity congratulate Gukesh on Candidates win"
+      },
+      {
+         "description" : "The FIDE Candidates Tournament 2024 concluded yesterday in Toronto, Canada after exciting last round which determined the Challengers of the next World Chess Championship matches. 17-year-old Gukesh D emerged as the Winner of the Candidates Tournament 2024 to become the youngest World Chess Championship challenger ever! Gukesh headed into the last round as the sole leader of the event and was followed by Hikaru Nakamura, Fabiano Caruana and Ian Nepomniachtchi who trailed by half a point. The direct match between []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/gukesh-d-and-tan-zhongyi-win-the-candidates-tournament-2024/",
+         "pubDate" : "Mon, 22 Apr 2024 08:18:59",
+         "title" : "Gukesh D and Tan Zhongyi win the Candidates Tournament 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109494678.cms\" />India's chess sensation D Gukesh has become the youngest player to win the FIDE Candidates tournament, and will challenge world champion Ding Liren. With a score of 9/14 points, Gukesh secured first place, joining Viswanathan Anand as the only Indian players to achieve this feat. The chess community congratulated Gukesh's victory.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/my-next-goal-is-to-make-it-big-at-the-world-championship-indian-chess-rising-star-d-gukesh-is-ready-to-conquer-the-world/articleshow/109494678.cms",
+         "pubDate" : "Mon, 22 Apr 2024 08:05:42",
+         "title" : "'Next is to make it big at World C'ship': Gukesh is ready to conquer the world"
+      },
+      {
+         "description" : "Toronto, Canada, 17 year Old Grand Master D Gukesh creates history by becoming the youngest player in history to win Candidates 2024. He broke record",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/gm-d-gukesh-creates-history/",
+         "pubDate" : "Mon, 22 Apr 2024 07:58:08",
+         "title" : "GM D Gukesh Creates History"
+      },
+      {
+         "description" : "Three rounds have been played at the European Women's Chess Championship 2024 in Rhodes, Greece. Only six players remained perfect scoring 3/3 points: IM Klaudia Kulon (POL, 2348), IM Mai Narva (EST, 2401), IM Marta Garcia Martin (ESP, 2349), WIM Natacha Benmesbah (FRA, 2306), WIM Martyna Wikar (POL, 2214) and IM Ulviyya Fataliyeva (AZE, 2377). Playing on the first board, IM Klaudia Kulon defeated the top-seeded IM Yuliia Osmak (UKR, 2459). Kulon opened with a Scotch game, and Osmak failed []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/three-rounds-played-at-the-european-womens-chess-championship-2024/",
+         "pubDate" : "Mon, 22 Apr 2024 07:57:05",
+         "title" : "Three rounds played at the European Women's Chess Championship 2024"
+      },
+      {
          "description" : "Tan Zhongyi obtained the draw she needed to claim outright victory at the Women's Candidates Tournament in Toronto. The Chinese GM grabbed the sole lead from the get-go, as she obtained back-to-back wins in the first two rounds. At some point, Lei Tingjie managed to catch her atop the standings, but Tan turned out to be more consistent than her compatriot in the long run. With her triumph, Tan became Ju Wenjun's challenger in the next match for the Women's World Chess Championship. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,6 +122,14 @@ news_feed (
          "title" : "Gukesh is the youngest ever winner of the Candidates at 17 years old - 14"
       },
       {
+         "description" : "Gukesh drew with Hikaru Nakamura to become the first Indian since Viswanathan Anand in 2014 to win the FIDE Candidates tournament and the youngest in chess history to do so.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39991714/fide-candidates-2024-india-gukesh-wins-draw-nakamura-round-14-youngest-chess-history-challenge-world-championship?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 00:18:45",
+         "title" : "D Gukesh, aged 17, wins FIDE Candidates 2024; will play Ding Liren for World Champion title"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,20 +138,20 @@ news_feed (
          "title" : "Vitaliy Bernadskiy wins 21st Bangkok Chess Club Open"
       },
       {
-         "description" : "Tan Zhongyi secured outright victory in the Women's Candidates Tournament after safely drawing her game against Anna Muzychuk with black. Gukesh D, on his part, first drew Hikaru Nakamura and then had to wait for the result of the game between Fabiano Caruana and Ian Nepomniachtchi. Caruana missed a number of winning chances in a memorable encounter that lasted 109 moves, thus granting 17-year-old Gukesh overall victory and the right to face Ding Liren in the next match for the World Chess Championship! | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
-         "pubDate" : "Sun, 21 Apr 2024 20:15:00",
-         "title" : "Candidates - Gukesh and Tan are the outright winners!"
-      },
-      {
          "description" : "After 14 rounds and over three weeks of play,&#38;nbsp;17-year-old GM Gukesh Dommaraju has won the 2024 FIDE Candidates Tournament and is the youngest player in history to win a Candidates Tournament. He will play GM Ding Liren for the world champions...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-14",
          "pubDate" : "Sun, 21 Apr 2024 17:50:00",
          "title" : "Gukesh Youngest Ever Candidates Winner, Tan Takes Women's By 1.5 Points"
+      },
+      {
+         "description" : "For this month's <I>Flickr Favorite</I> post, I had a number of good choices. One choice was another in the series of J-L. Mazieres chess images last seen in <A HREF=\"https://chessforallages.blogspot.com/2021/04/more-lessons-in-art-appreciation.html\">More Lessons in Art Appreciation</A> (April 2021). The new Mazieres Flickr page is <A HREF=\"https://www.flickr.com/photos/mazanto/53634931678/\">Lucas de Leyde [aka van Leyden]. 1489-1533. Leyden Jeu d'&eacute;checs.</A> (flickr.com), where the title continues, <BLOCKQUOTE> Berlin Gemaldegalerie. The game of chess symbolizes both the struggle for power and the war of the sexes. </BLOCKQUOTE> <P> The choice I finally made, shown here, is another o",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/04/no-hunk-o-junk-here.html",
+         "pubDate" : "Sun, 21 Apr 2024 15:42:00",
+         "title" : "No Hunk-o'-Junk Here"
       },
       {
          "description" : " Tan Zhongyi could not ask for a better chance to win the Women's Candidates in Toronto going into the final round. Tan hardly played the most critical continuation against Aleksandra Goryachkina but a quiet game suited her and a draw by repetition was agreed on move 29. She now leads the Lei Tingjie by a point with no-one else able to catch her. Tan faces Anna Muzychuk with the black pieces in the final round, Muzychuk hasn't won a game yet, although she generated enough chances to have been in contention. The key result of the day was Rameshbabu Vaishali's fourth win in a row, a streak that followed four losses in a row and which started with a game she probably should have lost also. Toda",
@@ -104,6 +168,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/17-year-old-gukesh-leads-the-candidates-alone-with-one-round-to-go",
          "pubDate" : "Sun, 21 Apr 2024 13:01:00",
          "title" : "17 year-old Gukesh leads the Candidates alone with one round to go - 13"
+      },
+      {
+         "description" : "Victory over Hikaru Nakamura in round 14 will make D Gukesh the youngest-ever challenger for the World Championship in the history of chess.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39986955/fide-candidates-2024-does-gukesh-do-win-nakamura?device=featurephone",
+         "pubDate" : "Sun, 21 Apr 2024 11:59:00",
+         "title" : "Gukesh vs Nakamura: What does Gukesh have to do to win the 2024 FIDE Candidates?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109474898.cms\" />Gukesh D, the youngest Indian Candidate, has emerged as a surprise in the Candidates Chess tournament in Toronto. In the 13th and penultimate round, he outplayed French no.1 Alireza FirouzJa, taking the lead with 8.5 points. Second seeded American GM Hikaru Nakamura also played out a draw with Ian Nepomniachtchi.",
@@ -136,6 +208,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-d-gukesh-beats-alireza-firouzja-to-become-sole-leader-with-just-one-round-left-to-play/articleshow/109469513.cms",
          "pubDate" : "Sun, 21 Apr 2024 02:24:47",
          "title" : "Candidates 2024: Gukesh wins to become sole leader"
+      },
+      {
+         "description" : "Gukesh defeated Alireza Firouzja while Ian Nepomniachtchi and Hikaru Nakamura drew. Meanwhile, Vaishali R won her fourth straight game to move into third place in the standings.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39984470/fide-candidates-2024-india-gukesh-sole-lead-beat-firouzja-round-13-one-win-away-world-championship?device=featurephone",
+         "pubDate" : "Sat, 20 Apr 2024 23:14:08",
+         "title" : "FIDE Candidates 2024: Gukesh takes sole lead after Round 13; one win away from World Championship"
       },
       {
          "description" : "17-year-old GM Gukesh Dommaraju has taken the sole lead of the 2024 FIDE Candidates Tournament with one round to go after exacting revenge against GM Alireza Firouzja in round 13. GMs Ian Nepomniachtchi and Hikaru Nakamura made a draw to stay a ha...",
@@ -850,14 +930,6 @@ news_feed (
          "title" : "Gukesh and Nepomniachtchi continue to lead after draws in Round 6 - 6"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109216336.cms\" />Gukesh and Nepo lead in Candidates Chess. Pragg's intense game against Nepo ended in a draw. Vidit missed opportunities against Caruana, ending in a draw. Humpy's game ended in a 44-move draw.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-gukesh-jumps-into-joint-lead/articleshow/109216336.cms",
-         "pubDate" : "Thu, 11 Apr 2024 08:16:04",
-         "title" : "Candidates Chess: Gukesh jumps into joint lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -944,14 +1016,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-5",
          "pubDate" : "Tue, 09 Apr 2024 18:07:00",
          "title" : "Gukesh Joins Lead, Nepomniachtchi Survives Praggnanandhaa's Killer Preparation"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109173258.cms\" />In his 10-year chess journey, D Gukesh has achieved many thirds. After becoming the third youngest Grandmaster in history, he became the youngest to cross the 2750 Elo rating last year. He is the third youngest player after Bobby Fischer and Magnus Carsen to qualify for the Candidates chess tournament currently in progress in Toronto. At the end of the first phase of the 14-round Candidates tournament, Gukesh is the only Indian to remain unbeaten. He is holding the joint second position. In an interview with the world chess federation (FIDE), Gukes",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/my-ultimate-goal-is-to-become-worlds-best-gukesh/articleshow/109173258.cms",
-         "pubDate" : "Tue, 09 Apr 2024 18:03:23",
-         "title" : "My ultimate goal is to become world's best: Gukesh"
       },
       {
          "description" : "As I noted last month, in <A HREF=\"https://chessforallages.blogspot.com/2024/03/march-1974-1999-on-cover.html\">March 1974 & 1999 'On the Cover'</A> (March 2024), that month was 'the tenth anniversary of the first \"On the Cover\" post'. Now we start the next ten years of brief, monthly looks at the leading U.S. chess magazine from 50 and 25 years ago. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od09.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Alexander Ivanov - Pan American Champion' (also '1999 Yearbook') <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Grandmaster Walter Browne of California, winner of the Hoogover [sic; 'Hoogoven' o",
@@ -1376,22 +1440,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/04/no-splitting-hares.html",
          "pubDate" : "Mon, 01 Apr 2024 15:46:00",
          "title" : "No Splitting Hares"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2944",
-         "pubDate" : "Mon, 01 Apr 2024 11:24:29",
-         "title" : "FIDE April 2024 rating list: Abdusattorov, Erigaisi crack top 10"
-      },
-      {
-         "description" : "The FIDE Candidates Tournament 2024 is set to kick off this Wednesday in Toronto, Canada! For the first time ever, the same venue will host the FIDE Candidates and the FIDE Women's Candidates Tournaments. The events will be played from 3-22 April at The Great Hall, located in the heart of Toronto's West End. Both events are held as 14-player round-robin tournaments. The total prize fund of the events is 750.000 euros (500.000 euros for the Open section, and 250.000 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-candidates-tournament-2024-starts-in-toronto-canada/",
-         "pubDate" : "Mon, 01 Apr 2024 08:24:18",
-         "title" : "FIDE Candidates Tournament 2024 starts in Toronto, Canada"
       }
    ]
 }
