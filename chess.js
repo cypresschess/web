@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " A very spectacular Candidates event came to an end with an amazing finish. Gukesh ended up winning the event outright, but only after Caruana and Nepo drew in 100+ moves. A real tragedy for Caruna, as he had two winning positions, which he failed to convert. Watching the game online was a real roller coaster, as the game went from equal to winning for Caruna to drawn, back to winning for Caruana, and finally drawn. As a result Gukesh will play Ding Liren for the World Championship title, which given Ding's recent form, may see Gukesh become the youngest World Champion ever. <b>Caruana,Fabiano (2803) - Nepomniachtchi,Ian (2758) [D35]</b><br /> FIDE Candidates 2024 Toronto, Canada (14), 21.04",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/that-was-wild.html",
+         "pubDate" : "Mon, 22 Apr 2024 12:52:00",
+         "title" : "That was wild"
+      },
+      {
          "description" : "Gukesh D, an incredibly level-headed 17-year-old from Chennai, became the World Chess Championship challenger by winning the very strong 2024 Candidates Tournament in Toronto. Gukesh entered the final round as the sole leader, and safely held a draw with black against direct contender Hikaru Nakamura. Either Fabiano Caruana or Ian Nepomniachtchi could have caught the youngster with a win, but their direct encounter saw Caruana failing to make the most of a number of winning chances before agreeing to a 109-move draw in what turned out to be a titanic struggle. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-is-the-youngest-ever-winner-of-the-candidates-at-17-years-old",
          "pubDate" : "Mon, 22 Apr 2024 01:43:00",
          "title" : "Gukesh is the youngest ever winner of the Candidates at 17 years old - 14"
-      },
-      {
-         "description" : "Gukesh drew with Hikaru Nakamura to become the first Indian since Viswanathan Anand in 2014 to win the FIDE Candidates tournament and the youngest in chess history to do so.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39991714/fide-candidates-2024-india-gukesh-wins-draw-nakamura-round-14-youngest-chess-history-challenge-world-championship?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 00:18:45",
-         "title" : "D Gukesh, aged 17, wins FIDE Candidates 2024; will play Ding Liren for World Champion title"
       },
       {
          "description" : "",
