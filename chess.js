@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109485996.cms\" />The 17-year-old Indian Grandmaster Gukesh scored 9/14 points to clinch the first place. He is only the the second Indian player after Viswanathan Anand to win the FIDE Candidates Tournament. The feat earns the teenager the right to challenge the reigning chess world champion Ding Liren. Praggnanandhaa finished fifth in the final standings. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-makes-history-as-youngest-to-win-candidates-gets-to-challenge-chess-world-champion-ding-liren/articleshow/109485996.cms",
+         "pubDate" : "Mon, 22 Apr 2024 02:05:16",
+         "title" : "Gukesh makes history as youngest to win Candidates tournament"
+      },
+      {
+         "description" : " Tan Zhongyi will challenge Ju Wenjun for the World Chess Championship in 2025. The 32 year old player was not the favourite for the event but her confident play dominated with only a round 8 loss to her closest challenger Lei Tingjie as a blemish in the event. In the final round Tan played a very sharp Sicilian against Anna Muzychuk. Tan secured a big advantage but steered the game to the draw she needed. Lei needed a win and played an amazing Queen sacrifice against Humpy Koneru. Eventually her compensation disappeared and she subsided to a loss. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-is-the-clear-winner-of-the-womens-candidates-2024",
+         "pubDate" : "Mon, 22 Apr 2024 01:56:00",
+         "title" : "Tan Zhongyi is the clear winner of the Women's Candidates 2024 - 14"
+      },
+      {
+         "description" : " Dommaraju Gukesh won the FIDE Candidates at the age of 17 years old. He comfortably held a draw against Hikaru Nakamura in the final round of the event. Fabiano Caruana built up a winning position against double defending champion Ian Nepomaniachtchi but a blunder on the first move after first time control allowed a draw and Gukesh's victory. Gukesh should play Ding Liren later in the year for the World Title. Ding seems to have had some kind of personal crisis since taking the title and has hardly played, and when he has it's not been very good play.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-is-the-youngest-ever-winner-of-the-candidates-at-17-years-old",
+         "pubDate" : "Mon, 22 Apr 2024 01:43:00",
+         "title" : "Gukesh is the youngest ever winner of the Candidates at 17 years old - 14"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,20 +34,20 @@ news_feed (
          "title" : "Vitaliy Bernadskiy wins 21st Bangkok Chess Club Open"
       },
       {
-         "description" : "The FIDE Candidates Tournaments 2024 (open and women's sections) are taking place in Toronto on April 4-22. Eight players in each category have gone through the tough qualification process to earn a chance at becoming a challenger for the World Championship title and facing Ding Liren (open) and Ju Wenjun (women's) at the end of the year. | Follow the games live with expert commentary starting at 20.30 CEST (14.30 ET, 0.00 IST)",
+         "description" : "Tan Zhongyi secured outright victory in the Women's Candidates Tournament after safely drawing her game against Anna Muzychuk with black. Gukesh D, on his part, first drew Hikaru Nakamura and then had to wait for the result of the game between Fabiano Caruana and Ian Nepomniachtchi. Caruana missed a number of winning chances in a memorable encounter that lasted 109 moves, thus granting 17-year-old Gukesh overall victory and the right to face Ding Liren in the next match for the World Chess Championship! | Replay all the games with computer-assisted analysis. Full reports to follow shortly.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/candidates-tournament-2024-live",
          "pubDate" : "Sun, 21 Apr 2024 20:15:00",
-         "title" : "Candidates Tournaments - Live!"
+         "title" : "Candidates - Gukesh and Tan are the outright winners!"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109481450.cms\" />In a dramatic 13th and penultimate round, Gukesh scored a clinical victory over French No.1 Alireza Firouzja to take sole lead with 8.5 points after second seeded American GM Hikaru Nakamura played out a draw with two-time challenger Ian Nepomniachtchi on Saturday. If Gukesh wins the Candidates, he will become the youngest challenger to confront world champion Ding Liren of China later this year",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-a-step-away-from-scripting-candidates-chess-history/articleshow/109481450.cms",
-         "pubDate" : "Sun, 21 Apr 2024 17:45:49",
-         "title" : "D Gukesh a step away from scripting Candidates chess history"
+         "description" : "This is a flash report. The full report, including game analysis, photographs, interview quotes, clips, and more will be added to this page soon. After 14 rounds and over three weeks of play,&#38;nbsp;17-year-old GM Gukesh Dommaraju won the 2024 FID...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-14",
+         "pubDate" : "Sun, 21 Apr 2024 17:50:00",
+         "title" : "Gukesh Youngest Ever To Win Candidates Tournament, Tan Wins Women's By 1.5 Points"
       },
       {
          "description" : " Tan Zhongyi could not ask for a better chance to win the Women's Candidates in Toronto going into the final round. Tan hardly played the most critical continuation against Aleksandra Goryachkina but a quiet game suited her and a draw by repetition was agreed on move 29. She now leads the Lei Tingjie by a point with no-one else able to catch her. Tan faces Anna Muzychuk with the black pieces in the final round, Muzychuk hasn't won a game yet, although she generated enough chances to have been in contention. The key result of the day was Rameshbabu Vaishali's fourth win in a row, a streak that followed four losses in a row and which started with a game she probably should have lost also. Toda",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/17-year-old-gukesh-leads-the-candidates-alone-with-one-round-to-go",
          "pubDate" : "Sun, 21 Apr 2024 13:01:00",
          "title" : "17 year-old Gukesh leads the Candidates alone with one round to go - 13"
-      },
-      {
-         "description" : "Victory over Hikaru Nakamura in round 14 will make D Gukesh the youngest-ever challenger for the World Championship in the history of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39986955/fide-candidates-2024-does-gukesh-do-win-nakamura?device=featurephone",
-         "pubDate" : "Sun, 21 Apr 2024 11:59:00",
-         "title" : "Gukesh vs Nakamura: What does Gukesh have to do to win the 2024 FIDE Candidates?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109474898.cms\" />Gukesh D, the youngest Indian Candidate, has emerged as a surprise in the Candidates Chess tournament in Toronto. In the 13th and penultimate round, he outplayed French no.1 Alireza FirouzJa, taking the lead with 8.5 points. Second seeded American GM Hikaru Nakamura also played out a draw with Ian Nepomniachtchi.",
@@ -1026,22 +1042,6 @@ news_feed (
          "title" : "Candidates: Nepo takes lead with only Open win in rd 4, Indians suffer mixed bag"
       },
       {
-         "description" : " Tan Zhongyi leads the women's Candidates with 3/4 going into the first rest day. Tan should have lost the lead and there should also have been three decisive games. Instead there was just the one, Humpy Koneru played what in retrospect was over aggressively and lost to Nurgyul Salimova. Anna Muzychuk should have won her first game but again made a real hash of things. Tan's escape against Kateryna Lagno was if anything more miraculous and Goryachkina drew against Vaishali. Humpy Koneru had three uneventful draws so far, today she clearly decided that Nurgyul Salimova was a player she had to try to beat and played very enterprisingly and aggressively, the problem was twofold, firstly there w",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyis-miracle-escape-allows-her-to-lead-the-womens-candidates-alone-on-34",
-         "pubDate" : "Mon, 8 Apr 2024 01:11:00",
-         "title" : "Tan Zhongyi's miracle escape allows her to lead the Women's Candidates alone on 3/4 - 4"
-      },
-      {
-         "description" : " Ian Nepomniachtchi took the lead of the FIDE Candidates tournament in Toronto with a win against Santosh Vidit. He is on 3/4 half a point clear of Fabiano Caruana and Gukesh. Can Nepomniachtchi win the Candidates for a third time in a row? Already I personally wouldn't bet against it, his fault of being a bit casual sometimes is infinitely better than being too tense, a problem that I sense Santosh Vidit has. Nepomniachtchi came with a new idea of 12.Nh2 against Vidit's Berlin, Vidit was doing fine until 26...Rb3?! (26...c4) then he was suddenly worse and under pressure with the Rook he buried on b3 being out of play. 37...Be8? (37...Nxe7 might also be losing but had to be tried) was very s",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-leads-the-fide-candidates-alone-on-34",
-         "pubDate" : "Mon, 8 Apr 2024 00:47:00",
-         "title" : "Nepomniachtchi leads the FIDE Candidates alone on 3/4 - 4"
-      },
-      {
          "description" : "GM Ian Nepomniachtchi has taken a half-point lead at the 2024 FIDE Candidates Tournament. On the white side of the Berlin Defense, he dispatched GM Vidit Gujrathi. Draws on the remaining three boards leave GMs Gukesh Dommaraju and Fabiano Caruana ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1200,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2952",
          "pubDate" : "Thu, 04 Apr 2024 22:33:35",
          "title" : "16th edition of \"Preparation of Teachers\" course announced"
-      },
-      {
-         "description" : "The players displayed an abundance of fighting spirit on the opening day of the 2024 FIDE Candidates Tournament. GM Hikaru Nakamura sacrificed two rooks vs. GM Fabiano Caruana. GM Alireza Firouzja and GM Praggnanandhaa Rameshbabu co-created a duel...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-1",
-         "pubDate" : "Thu, 04 Apr 2024 17:20:00",
-         "title" : "Candidates Opens With Abundance Of Fighting Spirit"
       },
       {
          "description" : " With the Doeberl Cup run and done for another year, a number of players made their way to Melbourne for the new <a href=\"https://melbourneio.com.au/\">Melbourne International Open</a>. The brain child of local organiser Walter Wolffs, the event has attracted both a large and strong field. And whether there were some residual effects from the Doeberl schedule, the first couple of rounds were a bit of a bloodbath for the top seeds. The top 4 boards saw the higher rated players only manage 1.5 (3 draws and a loss), with GM Darryl Johansen also a victim. After that things settled down a bit, although there are few GM's and IM's playing catch up. And while the net effect of this may be to provide",
@@ -1384,14 +1376,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-candidates-tournament-2024-starts-in-toronto-canada/",
          "pubDate" : "Mon, 01 Apr 2024 08:24:18",
          "title" : "FIDE Candidates Tournament 2024 starts in Toronto, Canada"
-      },
-      {
-         "description" : " GM Hrant Melkumyan ended the 4th day of the 2024 O2C Doeberl Cup with one hand firmly attached to the trophy. After a draw in round 7 against IM James Morris, he played a nice attacking game against FM Fred Litchfield to maintain his one point lead over the chasing pack. Chinese IM Peng Cheng holds down second place after beating Morris in Round 8, with the Indian trio of GM Guha, GM Venkatesh and IM Das in equal third. Of interest to the Canberra Chess community is FM Albert Winkelmans final round games against IM Das. A win for Winkelman will secure him an IM norm, his first. Other Canberra players on the top boards are IM Junta Ikeda (Board 4) and FM Frred Litchfield (Board 7). The final",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/2024-o2c-doeberl-cup-day-4.html",
-         "pubDate" : "Mon, 01 Apr 2024 00:33:00",
-         "title" : "2024 O2C Doeberl Cup - Day 4"
       }
    ]
 }
