@@ -10,6 +10,14 @@ news_feed (
          "title" : "The Winning Academy 32: The Hole"
       },
       {
+         "description" : "Seventeen-year-old GM Gukesh Dommaraju has become the youngest-ever world chess championship challenger after finishing half a point ahead of GMs Hikaru Nakamura, Ian Nepomniachtchi, and Fabiano Caruana. He&#38;rsquo;ll now play GM Ding Liren for the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9-things-we-learned-2024-fide-candidates-tournament",
+         "pubDate" : "Mon, 22 Apr 2024 13:35:00",
+         "title" : "9 Things We Learned - 2024 FIDE Candidates Tournament"
+      },
+      {
          "description" : " A very spectacular Candidates event came to an end with an amazing finish. Gukesh ended up winning the event outright, but only after Caruana and Nepo drew in 100+ moves. A real tragedy for Caruna, as he had two winning positions, which he failed to convert. Watching the game online was a real roller coaster, as the game went from equal to winning for Caruna to drawn, back to winning for Caruana, and finally drawn. As a result Gukesh will play Ding Liren for the World Championship title, which given Ding's recent form, may see Gukesh become the youngest World Champion ever. <b>Caruana,Fabiano (2803) - Nepomniachtchi,Ian (2758) [D35]</b><br /> FIDE Candidates 2024 Toronto, Canada (14), 21.04",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -106,6 +114,22 @@ news_feed (
          "title" : "Congratulations GM Gukesh D"
       },
       {
+         "description" : "Gukesh also claimed he didn't care much about being the youngest-ever winner and such records, and credited his support team for the victory.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39992716/knew-win-firouzja-loss-d-gukesh-2024-fide-candidates-victory-press-conference-full-quotes-transcript?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 05:05:45",
+         "title" : "'Knew I would win after Firouzja loss' - D Gukesh on his 2024 FIDE Candidates victory"
+      },
+      {
+         "description" : "Gukesh drew with Hikaru Nakamura to become the first Indian since Viswanathan Anand in 2014 to win the FIDE Candidates tournament and the youngest in chess history to do so.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39991714/fide-candidates-2024-india-gukesh-wins-draw-nakamura-round-14-youngest-chess-history-challenge-world-championship?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 05:05:04",
+         "title" : "D Gukesh, aged 17, wins FIDE Candidates 2024; will play Ding Liren for World Champion title"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -144,22 +168,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-is-the-youngest-ever-winner-of-the-candidates-at-17-years-old",
          "pubDate" : "Mon, 22 Apr 2024 01:43:00",
          "title" : "Gukesh is the youngest ever winner of the Candidates at 17 years old - 14"
-      },
-      {
-         "description" : "Gukesh drew with Hikaru Nakamura to become the first Indian since Viswanathan Anand in 2014 to win the FIDE Candidates tournament and the youngest in chess history to do so.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39991714/fide-candidates-2024-india-gukesh-wins-draw-nakamura-round-14-youngest-chess-history-challenge-world-championship?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 00:18:45",
-         "title" : "D Gukesh, aged 17, wins FIDE Candidates 2024; will play Ding Liren for World Champion title"
-      },
-      {
-         "description" : "Gukesh also claimed he didn't care much about being the youngest-ever winner and such records, and credited his support team for the victory.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39992716/knew-win-firouzja-loss-d-gukesh-2024-fide-candidates-victory-press-conference-full-quotes-transcript?device=featurephone",
-         "pubDate" : "Sun, 21 Apr 2024 23:30:39",
-         "title" : "'Knew I would win after Firouzja loss' - D Gukesh on his 2024 FIDE Candidates victory"
       },
       {
          "description" : "",
@@ -1258,14 +1266,6 @@ news_feed (
          "title" : "FIDE Candidates 2024 Day 2 wrap: Vidit stuns world No. 3 Nakamura, Gukesh beats Pragg"
       },
       {
-         "description" : "With a novelty followed by three sacrifices, GM Vidit Gujrathi broke GM Hikaru Nakamura&#39;s 47-game undefeated streak, as enterprising play at the 2024 FIDE Candidates Tournament led to an all-decisive day two. GM Ian Nepomniachtchi prevailed in the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-2",
-         "pubDate" : "Fri, 05 Apr 2024 17:29:00",
-         "title" : "Vidit Ends Nakamura's 47-Game Unbeaten Streak On All-Decisive Day"
-      },
-      {
          "description" : "In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/03/cfaas-cmp-another-look.html\">CFAA's CMP : Another Look</A> (March 2024), I noted, <BLOCKQUOTE> My preliminary analysis says there are rough waters ahead. So what happened? </BLOCKQUOTE> <P> The following chart shows earnings from my resources generated by Google ads over the past year. I implemented Google's CMP near the end of September 2023 ('2023-10-03' on the chart). <P> There is a sharp contrast between the six months preceding that date and the six months following. (Missing from the chart is the end date, around '2024-04-03'.) The ratio of the total earnings in the first six months to the total in the last six",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1432,14 +1432,6 @@ news_feed (
          "link" : "https://aicf.in/announcement-medical-evaluation-at-chennai-on-10-april-2024/",
          "pubDate" : "Tue, 02 Apr 2024 08:07:29",
          "title" : "Announcement :Medical Evaluation at Chennai on 10 April 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2946",
-         "pubDate" : "Mon, 01 Apr 2024 20:58:00",
-         "title" : "Breaking the limits: How FIDE's Infinite Chess project helps people with autism"
       }
    ]
 }
