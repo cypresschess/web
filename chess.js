@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2988",
+         "pubDate" : "Tue, 23 Apr 2024 10:23:10",
+         "title" : "Registration for 2024 Chess Olympiad in Budapest is now open"
+      },
+      {
+         "description" : "The ECF was pleased to receive 242 applications to represent England's two teams in the&#160;Glorney&#160;Cup&#160;this&#160;year,&#160;which will be held in Hull between 23-25 July. We would...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/glorney-cup-teams-announcement/",
+         "pubDate" : "Tue, 23 Apr 2024 08:30:45",
+         "title" : "Glorney Cup teams announcement"
+      },
+      {
          "description" : "During the endgame, stalemate is a resource that can enable the player with the inferior position to draw the game rather than lose. In more complex positions, stalemate is much rarer, usually taking the form of a swindle that succeeds only if the superior side is inattentive. Chess Trainer GM Efstratios Grivas shows us how a \"mad rook\" can complicate matters for the superior side.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grivas-on-the-mad-rook",
          "pubDate" : "Tue, 23 Apr 2024 08:30:00",
          "title" : "Grivas on the Mad Rook"
+      },
+      {
+         "description" : "After four played rounds at the European Women's Chess Championship 2024 in Rhodes, Greece, IM Ulviyya Fataliyeva (AZE, 2377) and IM Marta Garcia Martin (ESP, 2349) emerged on the top as the only two players with perfect 4/4 score. IM Ulviyya Fataliyeva was convincing against WIM Martyna Wikar (POL, 2214) yesterday, and won the game after taking a decisive advantage in the opening. IM Marta Garcia Martin was Black against WIM Natacha Benmesbah (FRA, 2306) and opted for the Modern []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ulviyya-fataliyeva-and-marta-garcia-martin-emerged-on-the-top-of-the-european-womens-chess-championship-2024/",
+         "pubDate" : "Tue, 23 Apr 2024 08:14:07",
+         "title" : "Ulviyya Fataliyeva and Marta Garcia Martin emerged on the top of the European Women's Chess Championship 2024"
+      },
+      {
+         "description" : "The ECU Commission for Women's Chess is thrilled to announce the Excellence on Board Awards, a prestigious recognition of outstanding games and performances during the European Women's Chess Championship held in the historic and beautiful island of Rhodes in Greece. These awards are designed to celebrate strategic finesse, tactical brilliance, and the indomitable spirit of our participants. For the first time, we are honoring achievements across five distinct categories, ensuring a wide acknowledgment of the diverse talent and dedication within []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/excellence-on-board-awards-european-womens-chess-championship-2024/",
+         "pubDate" : "Tue, 23 Apr 2024 07:41:48",
+         "title" : "Excellence on Board Awards - European Women's Chess Championship 2024"
       },
       {
          "description" : "The FIDE Candidates Tournament, which captivated audiences for three weeks, is in the books. The closing ceremony was held at 1 Hotel Toronto, the residence of the players for almost a month. The champions, Gukesh D and Tan Zhongyi, were honored with unique trophies crafted from reclaimed Toronto wood, symbolizing their achievement and the enduring connection with the city they'll carry home. | Photo: FIDE / Michal Walusza",
@@ -80,14 +112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/9-things-we-learned-2024-fide-candidates-tournament",
          "pubDate" : "Mon, 22 Apr 2024 13:35:00",
          "title" : "9 Things We Learned - 2024 FIDE Candidates Tournament"
-      },
-      {
-         "description" : "In the end it'll be a battle of Ding's experience vs Gukesh's willingness to push the boundary.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39996678/gukesh-ding-liren-candidates-world-chess-championship-way-too-early-preview?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 13:03:00",
-         "title" : "D Gukesh vs Ding Liren: A way-too-early preview for the World Chess Championship"
       },
       {
          "description" : " A very spectacular Candidates event came to an end with an amazing finish. Gukesh ended up winning the event outright, but only after Caruana and Nepo drew in 100+ moves. A real tragedy for Caruna, as he had two winning positions, which he failed to convert. Watching the game online was a real roller coaster, as the game went from equal to winning for Caruna to drawn, back to winning for Caruana, and finally drawn. As a result Gukesh will play Ding Liren for the World Championship title, which given Ding's recent form, may see Gukesh become the youngest World Champion ever. <b>Caruana,Fabiano (2803) - Nepomniachtchi,Ian (2758) [D35]</b><br /> FIDE Candidates 2024 Toronto, Canada (14), 21.04",
@@ -170,36 +194,12 @@ news_feed (
          "title" : "Congratulations GM Gukesh D"
       },
       {
-         "description" : "Gukesh also claimed he didn't care much about being the youngest-ever winner and such records, and credited his support team for the victory.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39992716/knew-win-firouzja-loss-d-gukesh-2024-fide-candidates-victory-press-conference-full-quotes-transcript?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 05:05:45",
-         "title" : "'Knew I would win after Firouzja loss' - D Gukesh on his 2024 FIDE Candidates victory"
-      },
-      {
-         "description" : "Gukesh drew with Hikaru Nakamura to become the first Indian since Viswanathan Anand in 2014 to win the FIDE Candidates tournament and the youngest in chess history to do so.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39991714/fide-candidates-2024-india-gukesh-wins-draw-nakamura-round-14-youngest-chess-history-challenge-world-championship?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 05:05:04",
-         "title" : "D Gukesh, aged 17, wins FIDE Candidates 2024; will play Ding Liren for World Champion title"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2985",
          "pubDate" : "Mon, 22 Apr 2024 04:51:15",
          "title" : "FIDE Candidates: Gukesh D and Tan Zhongyi are the World Championship Challengers"
-      },
-      {
-         "description" : "D Gukesh, aged 17, created chess history with his 2024 FIDE Candidates win.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39994159/fide-candidates-2024-how-gukesh-made-history-calm-composed-mind-helped-deal-meteoric-rise?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 03:30:14",
-         "title" : "How Gukesh made history: Calm, composed mind helped him deal with meteoric rise"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109485996.cms\" />The 17-year-old Indian Grandmaster Gukesh scored 9/14 points to clinch the first place. He is only the the second Indian player after Viswanathan Anand to win the FIDE Candidates Tournament. The feat earns the teenager the right to challenge the reigning chess world champion Ding Liren. Praggnanandhaa finished fifth in the final standings. ",
@@ -224,6 +224,22 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-is-the-youngest-ever-winner-of-the-candidates-at-17-years-old",
          "pubDate" : "Mon, 22 Apr 2024 01:43:00",
          "title" : "Gukesh is the youngest ever winner of the Candidates at 17 years old - 14"
+      },
+      {
+         "description" : "Gukesh drew with Hikaru Nakamura to become the first Indian since Viswanathan Anand in 2014 to win the FIDE Candidates tournament and the youngest in chess history to do so.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39991714/fide-candidates-2024-india-gukesh-wins-draw-nakamura-round-14-youngest-chess-history-challenge-world-championship?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 00:18:45",
+         "title" : "D Gukesh, aged 17, wins FIDE Candidates 2024; will play Ding Liren for World Champion title"
+      },
+      {
+         "description" : "Gukesh also claimed he didn't care much about being the youngest-ever winner and such records, and credited his support team for the victory.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39992716/knew-win-firouzja-loss-d-gukesh-2024-fide-candidates-victory-press-conference-full-quotes-transcript?device=featurephone",
+         "pubDate" : "Sun, 21 Apr 2024 23:30:39",
+         "title" : "'Knew I would win after Firouzja loss' - D Gukesh on his 2024 FIDE Candidates victory"
       },
       {
          "description" : "",
@@ -1370,20 +1386,20 @@ news_feed (
          "title" : "Kirill Alekseenko wins VIII Open Semana Santa"
       },
       {
-         "description" : "The European Amateur Chess Championship 2024 will take place from 24th August 1st September 2024 at the Losinj island, in the city of Mali Losinj, Croatia. The event will be played in three rating categories: U2300, U2000, and U1700, and it's open to all players registered or approved by their national federations listed as the ECU members. In order to be eligible to participate in the tournament, the players must fulfill the following conditions: Each tournament will be played []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-amateur-chess-championship-2024-official-regulations/",
-         "pubDate" : "Wed, 03 Apr 2024 09:24:04",
-         "title" : "European Amateur Chess Championship 2024 - Official regulations"
-      },
-      {
          "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
          "pubDate" : "Wed, 03 Apr 2024 09:03:44",
          "title" : "Entry form now open for 2024 British Chess Championships"
+      },
+      {
+         "description" : "How do you prepare for a tournament where the margin for error is so slim that one bad move could potentially end your chances of becoming world champion?",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39865571/fide-candidates-2024-how-do-ace-chess-marathon?device=featurephone",
+         "pubDate" : "Wed, 3 Apr 2024 08:41:25",
+         "title" : "FIDE Candidates 2024: How do you ace the chess marathon?"
       },
       {
          "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's and women's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8 in both videos. Will he succeed? And how will you do, dear viewer? These two videos are the perfect start to get into the mood for the candidates tournament!",
@@ -1408,30 +1424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2947",
          "pubDate" : "Tue, 02 Apr 2024 11:57:43",
          "title" : "FIDE World Cup Under 8, 10, 12: Personal right players"
-      },
-      {
-         "description" : "** This form has now been closed due to the overwhelming level of requests ** The English Chess Federation is inviting expressions of interest from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/dgt-clocks/",
-         "pubDate" : "Tue, 02 Apr 2024 10:51:19",
-         "title" : "DGT Clocks - EoI form now closed"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2943",
-         "pubDate" : "Tue, 02 Apr 2024 08:37:56",
-         "title" : "World Rapid and Blitz Team Championships 2024 to take place in August"
-      },
-      {
-         "description" : "Medical Evaluation of the age of Chess Players: The Ministry of Youth Affairs and Sports, Government of India is very keen in&#160;eradicating&#160;the&#160;age&#160;fraud&#160;menace&#160;prevailing&#160;in&#160;sports&#160;and&#160;has&#160;directed&#160;all&#160;National Federations to&#160;be&#160;very&#160;strict&#160;on&#160;this&#160;front and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/announcement-medical-evaluation-at-chennai-on-10-april-2024/",
-         "pubDate" : "Tue, 02 Apr 2024 08:07:29",
-         "title" : "Announcement :Medical Evaluation at Chennai on 10 April 2024"
       }
    ]
 }
