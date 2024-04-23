@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A couple of weeks ago Leon Mendonca turned 18. After many spectacular successes - like a 9.0/9 score in a very strong GM Open a year ago and winning the Challegers group in Wijk aan Zee - Leon just won the Spring Chess Classic 2024 at the Saint Louis Chess Club - outright. The round robin event had ten grandmasters with an average rating of 2625. This remarkable young player has recorded a very interesting FritzTrainer for us. | Photos by Austin Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-luke",
+         "pubDate" : "Tue, 23 Apr 2024 15:00:00",
+         "title" : "Leon Luke strikes again!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -114,6 +122,14 @@ news_feed (
          "title" : "9 Things We Learned - 2024 FIDE Candidates Tournament"
       },
       {
+         "description" : "In the end it'll be a battle of Ding's experience vs Gukesh's willingness to push the boundary.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39996678/gukesh-ding-liren-candidates-world-chess-championship-way-too-early-preview?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 13:03:00",
+         "title" : "D Gukesh vs Ding Liren: A way-too-early preview for the World Chess Championship"
+      },
+      {
          "description" : " A very spectacular Candidates event came to an end with an amazing finish. Gukesh ended up winning the event outright, but only after Caruana and Nepo drew in 100+ moves. A real tragedy for Caruna, as he had two winning positions, which he failed to convert. Watching the game online was a real roller coaster, as the game went from equal to winning for Caruna to drawn, back to winning for Caruana, and finally drawn. As a result Gukesh will play Ding Liren for the World Championship title, which given Ding's recent form, may see Gukesh become the youngest World Champion ever. <b>Caruana,Fabiano (2803) - Nepomniachtchi,Ian (2758) [D35]</b><br /> FIDE Candidates 2024 Toronto, Canada (14), 21.04",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -194,12 +210,36 @@ news_feed (
          "title" : "Congratulations GM Gukesh D"
       },
       {
+         "description" : "Gukesh also claimed he didn't care much about being the youngest-ever winner and such records, and credited his support team for the victory.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39992716/knew-win-firouzja-loss-d-gukesh-2024-fide-candidates-victory-press-conference-full-quotes-transcript?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 05:05:45",
+         "title" : "'Knew I would win after Firouzja loss' - D Gukesh on his 2024 FIDE Candidates victory"
+      },
+      {
+         "description" : "Gukesh drew with Hikaru Nakamura to become the first Indian since Viswanathan Anand in 2014 to win the FIDE Candidates tournament and the youngest in chess history to do so.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39991714/fide-candidates-2024-india-gukesh-wins-draw-nakamura-round-14-youngest-chess-history-challenge-world-championship?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 05:05:04",
+         "title" : "D Gukesh, aged 17, wins FIDE Candidates 2024; will play Ding Liren for World Champion title"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2985",
          "pubDate" : "Mon, 22 Apr 2024 04:51:15",
          "title" : "FIDE Candidates: Gukesh D and Tan Zhongyi are the World Championship Challengers"
+      },
+      {
+         "description" : "D Gukesh, aged 17, created chess history with his 2024 FIDE Candidates win.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39994159/fide-candidates-2024-how-gukesh-made-history-calm-composed-mind-helped-deal-meteoric-rise?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 03:30:14",
+         "title" : "How Gukesh made history: Calm, composed mind helped him deal with meteoric rise"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109485996.cms\" />The 17-year-old Indian Grandmaster Gukesh scored 9/14 points to clinch the first place. He is only the the second Indian player after Viswanathan Anand to win the FIDE Candidates Tournament. The feat earns the teenager the right to challenge the reigning chess world champion Ding Liren. Praggnanandhaa finished fifth in the final standings. ",
@@ -224,22 +264,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-is-the-youngest-ever-winner-of-the-candidates-at-17-years-old",
          "pubDate" : "Mon, 22 Apr 2024 01:43:00",
          "title" : "Gukesh is the youngest ever winner of the Candidates at 17 years old - 14"
-      },
-      {
-         "description" : "Gukesh drew with Hikaru Nakamura to become the first Indian since Viswanathan Anand in 2014 to win the FIDE Candidates tournament and the youngest in chess history to do so.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39991714/fide-candidates-2024-india-gukesh-wins-draw-nakamura-round-14-youngest-chess-history-challenge-world-championship?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 00:18:45",
-         "title" : "D Gukesh, aged 17, wins FIDE Candidates 2024; will play Ding Liren for World Champion title"
-      },
-      {
-         "description" : "Gukesh also claimed he didn't care much about being the youngest-ever winner and such records, and credited his support team for the victory.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39992716/knew-win-firouzja-loss-d-gukesh-2024-fide-candidates-victory-press-conference-full-quotes-transcript?device=featurephone",
-         "pubDate" : "Sun, 21 Apr 2024 23:30:39",
-         "title" : "'Knew I would win after Firouzja loss' - D Gukesh on his 2024 FIDE Candidates victory"
       },
       {
          "description" : "",
@@ -1392,38 +1416,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
          "pubDate" : "Wed, 03 Apr 2024 09:03:44",
          "title" : "Entry form now open for 2024 British Chess Championships"
-      },
-      {
-         "description" : "How do you prepare for a tournament where the margin for error is so slim that one bad move could potentially end your chances of becoming world champion?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39865571/fide-candidates-2024-how-do-ace-chess-marathon?device=featurephone",
-         "pubDate" : "Wed, 3 Apr 2024 08:41:25",
-         "title" : "FIDE Candidates 2024: How do you ace the chess marathon?"
-      },
-      {
-         "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's and women's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8 in both videos. Will he succeed? And how will you do, dear viewer? These two videos are the perfect start to get into the mood for the candidates tournament!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-best-tactics-of-all-candidates-double-edition",
-         "pubDate" : "Tue, 02 Apr 2024 15:00:00",
-         "title" : "Svitlana's Smart Moves - The best tactics of all candidates! Double Edition!"
-      },
-      {
-         "description" : " GM Hrant Melkumyan has recorded his 3rd O2C Doeberl Cup tournament win in a row, after a dominant performance in the 2024 edition. Going into the final round a full point ahead, he drew with GM Mitrabha Guha to reach 8/9. IM Peng Cheng also drew on board 2, to take 2nd place on 7/9. IM Arghyadip Das defeated FM Albert Winkleman on board 3 to take a share of 2nd, also ending Winkelman's chances of scoring an IM norm in the process. The Major was won by Bryan Yang on 6..5/7. He finished a point ahead of Elliot Wong, Ethan Chang and Daniel Wang. The Minor was shared between Austin Chen and Chee Seng Lue, who both scored 6/7. The Mini saw Aden Power finish with a perfect 7/7, a full point ahead",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/2024-o2c-doeberl-cup-three-in-row-for.html",
-         "pubDate" : "Tue, 02 Apr 2024 12:48:00",
-         "title" : "2024 O2C Doeberl Cup - Three in a row for Melkumyan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2947",
-         "pubDate" : "Tue, 02 Apr 2024 11:57:43",
-         "title" : "FIDE World Cup Under 8, 10, 12: Personal right players"
       }
    ]
 }
