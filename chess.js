@@ -2,20 +2,76 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "During the endgame, stalemate is a resource that can enable the player with the inferior position to draw the game rather than lose. In more complex positions, stalemate is much rarer, usually taking the form of a swindle that succeeds only if the superior side is inattentive. Chess Trainer GM Efstratios Grivas shows us how a \"mad rook\" can complicate matters for the superior side.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-on-the-mad-rook",
+         "pubDate" : "Tue, 23 Apr 2024 08:30:00",
+         "title" : "Grivas on the Mad Rook"
+      },
+      {
+         "description" : "The FIDE Candidates Tournament, which captivated audiences for three weeks, is in the books. The closing ceremony was held at 1 Hotel Toronto, the residence of the players for almost a month. The champions, Gukesh D and Tan Zhongyi, were honored with unique trophies crafted from reclaimed Toronto wood, symbolizing their achievement and the enduring connection with the city they'll carry home. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-closing-ceremony",
+         "pubDate" : "Tue, 23 Apr 2024 06:40:00",
+         "title" : "FIDE Candidates: The closing ceremony"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109522151.cms\" />India's five-time world champion Viswanathan Anand has spawned a chess culture in India and the country is reaping the rewards of the Grandmaster's success with thousands of youngsters, mostly in their teens, taking up chess. Gukesh's triumph entitles him to a clash against reigning world champion Ding Liren of China in the last quarter of the year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-children-of-vishy-anand-are-on-the-loose-remarks-gary-kasparov-after-gukeshs-triumph-at-candidates/articleshow/109522151.cms",
+         "pubDate" : "Tue, 23 Apr 2024 06:33:41",
+         "title" : "'The 'children' of Vishy Anand are on the loose' - Garry Kasparov"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109519763.cms\" />D Gukesh, then an 11-year-old chess player, set the goal in 2017 to become the youngest world champion. His determination, referred to as \"sacrificing childhood,\" and focus on chess and parental support have contributed to his meteoric rise. His combination of sacrificing childhood and focusing on his craft has made him one step closer to achieving his dream.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-sacrificed-childhood-to-come-this-far-coach/articleshow/109519763.cms",
+         "pubDate" : "Tue, 23 Apr 2024 05:02:32",
+         "title" : "Gukesh sacrificed childhood to come this far: Coach"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109519466.cms\" />Indian GM D Gukesh suffered a seventh-round defeat in the Candidates tournament, but viewed it as a blessing. His mother Padma, a microbiologist from Chennai, provided emotional support through a brief phone conversation, bringing Gukesh back to his best before a rest day.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/brief-pep-talk-from-mother-worked-wonders-for-gukesh/articleshow/109519466.cms",
+         "pubDate" : "Tue, 23 Apr 2024 04:52:14",
+         "title" : "Brief pep talk from mother worked wonders for Gukesh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109518927.cms\" />D Gukesh, a 17-year-old chess player, demonstrated remarkable mental and physical strength and maturity in a 64-square board match. Despite lacking experience in elite round-robin tournaments, Gukesh's unique style, hunger, calculating ability, and tactics earned him the title. Despite the chess pundits' expectations of a big reward, Gukesh's impressive performance remains a testament to his talent.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fire-ice-india-chess-star-gukesh-oozes-class-beyond-his-years/articleshow/109518927.cms",
+         "pubDate" : "Tue, 23 Apr 2024 04:34:51",
+         "title" : "Fire & ice: India chess star Gukesh oozes class beyond his years"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109518460.cms\" />D Gukesh showed fearless preparation and fearlessness in the Candidates Chess tournament in Toronto, losing in the seventh round against French No. 1 Alireza Firouzja. Despite the loss, Gukesh pushed himself for the rest of the tournament, gaining the sole lead in the penultimate round.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/felt-i-could-win-the-candidates-chess-tournament-after-seventh-round-loss-gukesh/articleshow/109518460.cms",
+         "pubDate" : "Tue, 23 Apr 2024 04:11:47",
+         "title" : "Felt I could win the Candidates chess tournament after seventh round loss: Gukesh"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109518160.cms\" />Gukesh Dommaraju has become the youngest challenger for the World chess title, breaking the 40-year-old record set by legendary Garry Kasparov in 1984. He will face China's world champion Ding Liren in the championship match later this year, marking his first challenger in the 74-year history of the Candidates chess tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-unveils-chennais-17-year-old-gukesh-as-its-youngest-challenger-in-chess-history/articleshow/109518160.cms",
+         "pubDate" : "Tue, 23 Apr 2024 03:57:39",
+         "title" : "India unveils Gukesh as its youngest challenger in chess history"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2987",
          "pubDate" : "Tue, 23 Apr 2024 02:11:03",
          "title" : "FIDE Candidates 2024: And it's a wrap!"
-      },
-      {
-         "description" : "It is not very common to have an article focused solely on one specific square. Today, we will make an exception. We will speak about the d5-square, or rather about the weakness that often forms on this square in various lines of the Sicilian defence.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-32-the-hole",
-         "pubDate" : "Mon, 22 Apr 2024 18:00:00",
-         "title" : "The Winning Academy 32: The Hole"
       },
       {
          "description" : "Seventeen-year-old GM Gukesh Dommaraju has become the youngest-ever world chess championship challenger after finishing half a point ahead of GMs Hikaru Nakamura, Ian Nepomniachtchi, and Fabiano Caruana. He&#38;rsquo;ll now play GM Ding Liren for the ...",
@@ -40,14 +96,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/that-was-wild.html",
          "pubDate" : "Mon, 22 Apr 2024 12:52:00",
          "title" : "That was wild"
-      },
-      {
-         "description" : "Gukesh D, an incredibly level-headed 17-year-old from Chennai, became the World Chess Championship challenger by winning the very strong 2024 Candidates Tournament in Toronto. Gukesh entered the final round as the sole leader, and safely held a draw with black against direct contender Hikaru Nakamura. Either Fabiano Caruana or Ian Nepomniachtchi could have caught the youngster with a win, but their direct encounter saw Caruana failing to make the most of a number of winning chances before agreeing to a 109-move draw in what turned out to be a titanic struggle. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-open-14",
-         "pubDate" : "Mon, 22 Apr 2024 11:00:00",
-         "title" : "Gukesh becomes World Championship challenger at 17!"
       },
       {
          "description" : "England will be sending its largest ever delegation of 42 players, to the World Senior Team Chess Championships (WSTCC) in the wonderful city of Krakow,...",
@@ -96,14 +144,6 @@ news_feed (
          "link" : "https://www.europechess.org/three-rounds-played-at-the-european-womens-chess-championship-2024/",
          "pubDate" : "Mon, 22 Apr 2024 07:57:05",
          "title" : "Three rounds played at the European Women's Chess Championship 2024"
-      },
-      {
-         "description" : "Tan Zhongyi obtained the draw she needed to claim outright victory at the Women's Candidates Tournament in Toronto. The Chinese GM grabbed the sole lead from the get-go, as she obtained back-to-back wins in the first two rounds. At some point, Lei Tingjie managed to catch her atop the standings, but Tan turned out to be more consistent than her compatriot in the long run. With her triumph, Tan became Ju Wenjun's challenger in the next match for the Women's World Chess Championship. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-women-14",
-         "pubDate" : "Mon, 22 Apr 2024 07:00:00",
-         "title" : "Tan Zhongyi convincingly wins Women's Candidates in Toronto"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109492347.cms\" />D Gukesh, India's 17-year-old chess sensation, made history by winning the FIDE Candidates Chess Tournament 2024 in Toronto, becoming the youngest-ever contender for the world title. Expressing his aspirations, Gukesh aims to excel in the World Championship Final. Reflecting on his journey, he emphasizes his determination to perform his best and overcome challenges. Gukesh's victory signifies India's growing prominence in chess.",
@@ -714,14 +754,6 @@ news_feed (
          "title" : "FIDE100 torch relay celebrated in Canada"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109293215.cms\" />D Gukesh brushed aside the despair of the earlier round loss and in an all-Indian matchup, leapfrogged Vidit Gujrathi to regain the lead with two-time challenger Ian Nepomniachtchi. Nepo, for his part, was held to a draw by the lowest seed, Nijat Abasov in the Candidates Chess tournament in Toronto's Great Hall on Saturday. The eighth round of the 17-day tournament brought some exciting results where the standings were changed significantly in both the open and women's sections.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-takes-his-candidates-lead-back-shares-pole-position-with-nepomniachtchi/articleshow/109293215.cms",
-         "pubDate" : "Sun, 14 Apr 2024 17:19:06",
-         "title" : "Gukesh takes his Candidates lead back, shares pole position with Nepo"
-      },
-      {
          "description" : "GMs Ian Nepomniachtchi and Gukesh Dommaraju continue to lead the 2024 FIDE Candidates Tournament after round nine. GM Vidit Gujrathi is the only player to win on Sunday, and he defeated GM Hikaru Nakamura for the second time. GM Alireza Firouzja...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -794,22 +826,6 @@ news_feed (
          "title" : "Nakamura Leapfrogs Caruana, Gukesh Re-enters Shared Lead With Nepomniachtchi"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109275923.cms\" />Five-time world champion Viswanathan Anand hosted an exclusive dinner for the Indian contingent at the halfway mark of the Candidates Chess tournament in Toronto. A small one-minute video clip of their chit-chat released by chess24 showed the legendary Anand and Koneru Humpy trying to make the youngsters feel at ease after seven rounds of high-stakes chess contest.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/dinner-pe-charcha-viswanathan-anand-soothes-nervy-indian-candidates/articleshow/109275923.cms",
-         "pubDate" : "Sat, 13 Apr 2024 17:10:38",
-         "title" : "Dinner pe charcha: Anand soothes nervy Indian candidates"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109275891.cms\" />Going into the second rest day of the Candidates Chess tournament, two-time challenger Ian Nepomniachtchi of Russia has maintained sole lead, and at the halfway mark is well on course for a hat-trick. While the Russian GM, playing under the FIDE flag, has maintained his slender lead, top seed Fabiano Caruana, Indian debutants D Gukesh and R Praggnanandhaa have made their intentions clear to play the spoilsport for Nepo.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-praggnanandhaa-close-enough-to-change-the-script-of-candidates-chess/articleshow/109275891.cms",
-         "pubDate" : "Sat, 13 Apr 2024 17:08:14",
-         "title" : "Gukesh, Pragga close enough to change the script of Candidates Chess"
-      },
-      {
          "description" : "GM Oleksandr Bortnyk won the latest iteration of Bullet Brawl after posting a 28-game winning streak and overtaking GM Jose Martinez in the dying minutes of the two-hour arena. Finishing on 247 points with 68 wins, five draws, and 11 losses, Bortn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -832,14 +848,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2968",
          "pubDate" : "Fri, 12 Apr 2024 23:22:51",
          "title" : "Riga is set to host unique 100-Board team tournament"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109254984.cms\" />More than the opponent, the clock becoming the nemesis of chess players has happened often to the best of the game. Sitting pretty in an authoritative position on Thursday, Gukesh D goofed up in time trouble to suffer his first defeat of the Candidates Chess tournament - to Alireza Firouzja in Toronto.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-gets-into-time-trouble-loses-contest-and-lead-in-candidates-chess/articleshow/109254984.cms",
-         "pubDate" : "Fri, 12 Apr 2024 17:09:16",
-         "title" : "D Gukesh gets into time trouble, loses contest and lead in Candidates"
       },
       {
          "description" : "In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/cfaas-cmp-earnings.html\">CFAA's CMP : Earnings</A> (April 2024; Google's CMP = Consent Management Platform for ads), I noted, <BLOCKQUOTE> Although [ad] earnings declined significantly over the last six months, what about page views? I'll look at that metric in a follow-up post. </BLOCKQUOTE> <P> I also noted that earnings declined more than 90% after I implemented the change that Google had imposed. The following chart shows monthly <B><I>visitor counts</I></B> -- as recorded by my site's ISP -- over the past two full years 2022 and 2023, plus the first three months of 2024. <P> <XMG SRC=\"https://www.mark-weeks.com/",
@@ -880,14 +888,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-universities-chess-championship-2024/",
          "pubDate" : "Fri, 12 Apr 2024 08:11:59",
          "title" : "European Universities Chess Championship 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109239327.cms\" />Indian Grandmaster D Gukesh suffered his first loss to Frenchman Firouza Alireza in the Candidates chess tournament's seventh round. Meanwhile, R Praggnanandhaa drew with American Fabiano Caruana, maintaining his steady performance. Gukesh, Caruana, and Praggnanandhaa now share the second spot with four points each, while Ian Nepomniachtchi leads with 4.5 points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-d-suffers-first-defeat-r-praggnanandhaa-holds-fabiano-caruana-at-candidates-chess-tournament/articleshow/109239327.cms",
-         "pubDate" : "Fri, 12 Apr 2024 07:24:06",
-         "title" : "Gukesh suffers loss; Praggnanandhaa holds Caruana at Candidates"
       },
       {
          "description" : " The 33-year-old Russian, a defeated world title challenger in 2021 and 2023, is in line for a third attempt as he leads in Toronto at halfway Russia's Ian Nepomniachtchi leads at halfway in the â‚¬500k Candidates in Toronto, Canada, whose winner qualifies for a world title match later this year with the holder, China's Ding Liren. Scores after round seven (of 14): Nepomniachtchi (Russia) 4.5; ­Fabiano Caruana (US), ­Praggnanandhaa R and Gukesh D (both India) 4; Hikaru Nakamura (US) and Vidit Gujrathi (India) 3.5; Alireza Firouzja (France) 2.5; Nijat Abasov (Azerbaijan) 2. <a href=\"https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidates-victory-as-indian-",
@@ -952,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2965",
          "pubDate" : "Thu, 11 Apr 2024 17:23:31",
          "title" : "1100 days for 100 years of FIDE, and a Guinness World Record!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109225590.cms\" />A day after they squandered the opportunity to garner full points, Indian GMs R Praggnanandhaa and Vidit Gujrathi won their sixth-round battles while 17-year-old D Gukesh held world No. 3 Hikaru Nakamura to maintain lead with the two-time challenger Ian Nepomniachtchi in the Candidates Chess tournament. Both the Indian women candidates lost their respective sixth-round games at the Great Hall in Toronto.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-holds-world-no-3-hikaru-nakamura-stays-in-joint-lead-in-candidates-chess/articleshow/109225590.cms",
-         "pubDate" : "Thu, 11 Apr 2024 17:01:53",
-         "title" : "D Gukesh holds Nakamura, stays in joint lead in Candidates Chess"
       },
       {
          "description" : "At the halfway mark of the 2024 FIDE Candidates Tournament, GM Ian Nepomniachtchi is back in the sole lead. In round seven, he survived over 20 moves of preparation from GM Hikaru Nakamura to make the draw. GM Gukesh Dommaraju came close to winn...",
