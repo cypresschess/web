@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Records were shattered and history was made at the 2024 FIDE Candidates. Two events - open and women's - took place simultaneously for the first time at the same hall. We saw the first brother-sister duo, R Praggnanandhaa and R Vaishali, participating. In the end, D Gukesh broke a number of records: he was the youngest ever to win the Candidates Tournament and thus become the youngest ever challenger to the World Championship. Gukesh was interviewed by Sagar Shah in what turned out to be a conversation lasting close to two hours. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-interview-candidates-2024",
+         "pubDate" : "Wed, 24 Apr 2024 01:10:00",
+         "title" : "The dream becomes a reality: Gukesh's victory in a historic event"
+      },
+      {
          "description" : "A couple of weeks ago Leon Mendonca turned 18. After many spectacular successes - like a 9.0/9 score in a very strong GM Open a year ago and winning the Challegers group in Wijk aan Zee - Leon just won the Spring Chess Classic 2024 at the Saint Louis Chess Club - outright. The round robin event had ten grandmasters with an average rating of 2625. This remarkable young player has recorded a very interesting FritzTrainer for us. | Photos by Austin Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.europechess.org/excellence-on-board-awards-european-womens-chess-championship-2024/",
          "pubDate" : "Tue, 23 Apr 2024 07:41:48",
          "title" : "Excellence on Board Awards - European Women's Chess Championship 2024"
-      },
-      {
-         "description" : "The FIDE Candidates Tournament, which captivated audiences for three weeks, is in the books. The closing ceremony was held at 1 Hotel Toronto, the residence of the players for almost a month. The champions, Gukesh D and Tan Zhongyi, were honored with unique trophies crafted from reclaimed Toronto wood, symbolizing their achievement and the enduring connection with the city they'll carry home. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/candidates-tournament-2024-closing-ceremony",
-         "pubDate" : "Tue, 23 Apr 2024 06:40:00",
-         "title" : "FIDE Candidates: The closing ceremony"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109522151.cms\" />India's five-time world champion Viswanathan Anand has spawned a chess culture in India and the country is reaping the rewards of the Grandmaster's success with thousands of youngsters, mostly in their teens, taking up chess. Gukesh's triumph entitles him to a clash against reigning world champion Ding Liren of China in the last quarter of the year.",
