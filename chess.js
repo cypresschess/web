@@ -114,6 +114,14 @@ news_feed (
          "title" : "FIDE Candidates 2024: And it's a wrap!"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2986",
+         "pubDate" : "Mon, 22 Apr 2024 22:17:17",
+         "title" : "Update on FIDE Resolution on suspending membership of Egyptian Chess Federation"
+      },
+      {
          "description" : "Seventeen-year-old GM Gukesh Dommaraju has become the youngest-ever world chess championship challenger after finishing half a point ahead of GMs Hikaru Nakamura, Ian Nepomniachtchi, and Fabiano Caruana. He&#38;rsquo;ll now play GM Ding Liren for the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
