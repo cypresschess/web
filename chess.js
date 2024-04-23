@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2987",
+         "pubDate" : "Tue, 23 Apr 2024 02:11:03",
+         "title" : "FIDE Candidates 2024: And it's a wrap!"
+      },
+      {
          "description" : "It is not very common to have an article focused solely on one specific square. Today, we will make an exception. We will speak about the d5-square, or rather about the weakness that often forms on this square in various lines of the Sicilian defence.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/9-things-we-learned-2024-fide-candidates-tournament",
          "pubDate" : "Mon, 22 Apr 2024 13:35:00",
          "title" : "9 Things We Learned - 2024 FIDE Candidates Tournament"
+      },
+      {
+         "description" : "In the end it'll be a battle of Ding's experience vs Gukesh's willingness to push the boundary.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/39996678/gukesh-ding-liren-candidates-world-chess-championship-way-too-early-preview?device=featurephone",
+         "pubDate" : "Mon, 22 Apr 2024 13:03:00",
+         "title" : "D Gukesh vs Ding Liren: A way-too-early preview for the World Chess Championship"
       },
       {
          "description" : " A very spectacular Candidates event came to an end with an amazing finish. Gukesh ended up winning the event outright, but only after Caruana and Nepo drew in 100+ moves. A real tragedy for Caruna, as he had two winning positions, which he failed to convert. Watching the game online was a real roller coaster, as the game went from equal to winning for Caruna to drawn, back to winning for Caruana, and finally drawn. As a result Gukesh will play Ding Liren for the World Championship title, which given Ding's recent form, may see Gukesh become the youngest World Champion ever. <b>Caruana,Fabiano (2803) - Nepomniachtchi,Ian (2758) [D35]</b><br /> FIDE Candidates 2024 Toronto, Canada (14), 21.04",
@@ -176,6 +192,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2984",
          "pubDate" : "Sun, 21 Apr 2024 22:44:17",
          "title" : "Vitaliy Bernadskiy wins 21st Bangkok Chess Club Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2980",
+         "pubDate" : "Sun, 21 Apr 2024 21:16:30",
+         "title" : "European Women's Championship starts in Rhodes, Greece"
       },
       {
          "description" : "After 14 rounds and over three weeks of play,&#38;nbsp;17-year-old GM Gukesh Dommaraju has won the 2024 FIDE Candidates Tournament and is the youngest player in history to win a Candidates Tournament. He will play GM Ding Liren for the world champions...",
@@ -408,14 +432,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
          "pubDate" : "Thu, 18 Apr 2024 21:43:55",
          "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2980",
-         "pubDate" : "Thu, 18 Apr 2024 21:16:30",
-         "title" : "European Women's Championship starts in Rhodes, Greece"
       },
       {
          "description" : "",
@@ -1376,14 +1392,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
          "pubDate" : "Wed, 03 Apr 2024 09:03:44",
          "title" : "Entry form now open for 2024 British Chess Championships"
-      },
-      {
-         "description" : "How do you prepare for a tournament where the margin for error is so slim that one bad move could potentially end your chances of becoming world champion?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39865571/fide-candidates-2024-how-do-ace-chess-marathon?device=featurephone",
-         "pubDate" : "Wed, 3 Apr 2024 08:41:25",
-         "title" : "FIDE Candidates 2024: How do you ace the chess marathon?"
       },
       {
          "description" : "Svitlana dug deep to find some outstanding, beautiful tactics, by all the men's and women's candidates, who will compete in Toronto soon. Arne is trying hard to solve all the puzzles, and get 8 out of 8 in both videos. Will he succeed? And how will you do, dear viewer? These two videos are the perfect start to get into the mood for the candidates tournament!",
