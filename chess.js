@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/congratulations-gukesh-d/",
+         "pubDate" : "Wed, 24 Apr 2024 10:48:04",
+         "title" : "Congratulations :Gukesh D"
+      },
+      {
+         "description" : "It is a famous game, played between Siegbert Tarrasch and Akiba Rubenstein in 1911. It ended in a draw, and is given as a model example for an active defence in rook endings in the books of Levenfish/Smyslov and Averbakh. However, matters are not that easy. Can you find the mistakes in the game play strategy?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-riddle-is-active-defense-always-best",
+         "pubDate" : "Wed, 24 Apr 2024 10:00:00",
+         "title" : "Riddle: Is active defense always best?"
+      },
+      {
+         "description" : "The European Women's Chess Championship 2024 is halfway through, with five rounds left to be played. Three players headed to today's free day co-leading the event: IM Ulviyya Fataliyeva (AZE, 2377), IM Marta Garcia Martin (ESP, 2349) and 15-year-old WCM Bozhena Piddubna (UKR, 2005). Yesterday's top-board encounter between Ulviyya Fatliyava dnd Marta Garcia Martin finished in a draw and the players kept their positions on the top. The game was quite balanced, and finished in a peaceful manner after the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-chess-championship-2024-is-halfway-through/",
+         "pubDate" : "Wed, 24 Apr 2024 08:43:18",
+         "title" : "European Women's Chess Championship 2024 is halfway through"
+      },
+      {
          "description" : "Click here for National Rapid 2024 Rank Name 1 Ghosh Diptayan 2 Aronyak Ghosh 3 Raja Rithvik R 4 Das Arghyadip 5 Srihari L R",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -136,6 +160,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2986",
          "pubDate" : "Mon, 22 Apr 2024 22:17:17",
          "title" : "Update on FIDE Resolution on suspending membership of Egyptian Chess Federation"
+      },
+      {
+         "description" : "Although it might have seemed that last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/the-circular-chess-boards-of-druids.html\">The Circular Chess Boards of the Druids</A> (April 2024; 'Druids play chess'), was more about <I>non sequiturs</I> than anything else, there was a common thread tying it to previous Monday posts: four weeks in a row on a religious theme. This current post looks to be breaking that series, unless of course there is something religious about Vikings. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od22.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Vikings play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P>",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/04/vikings-as-ai-stereotypes.html",
+         "pubDate" : "Mon, 22 Apr 2024 15:26:00",
+         "title" : "Vikings as AI Stereotypes"
       },
       {
          "description" : "Seventeen-year-old GM Gukesh Dommaraju has become the youngest-ever world chess championship challenger after finishing half a point ahead of GMs Hikaru Nakamura, Ian Nepomniachtchi, and Fabiano Caruana. He&#38;rsquo;ll now play GM Ding Liren for the ...",
@@ -1194,14 +1226,6 @@ news_feed (
          "title" : "Arjun Erigaisi wins III Open Chess Menorca"
       },
       {
-         "description" : "The ECU E-Magazine March 2024 is out! In this edition of the ECU E-Magazine you may read about: The March 2024 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded in PDF format down below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-march-2024/",
-         "pubDate" : "Mon, 08 Apr 2024 08:21:26",
-         "title" : "ECU E-Magazine March 2024"
-      },
-      {
          "description" : "Railway Spots Promotion board-A and Petroleum sports promotion board wins the 43rd National Team and 21st National Team for Women Chess Championship respectively, held at",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1424,14 +1448,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2948",
          "pubDate" : "Wed, 03 Apr 2024 14:56:52",
          "title" : "Kirill Alekseenko wins VIII Open Semana Santa"
-      },
-      {
-         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
-         "pubDate" : "Wed, 03 Apr 2024 09:03:44",
-         "title" : "Entry form now open for 2024 British Chess Championships"
       }
    ]
 }
