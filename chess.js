@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Click here for National Rapid 2024 Rank Name 1 Ghosh Diptayan 2 Aronyak Ghosh 3 Raja Rithvik R 4 Das Arghyadip 5 Srihari L R",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/cerificates-national-rapid-blitz-chess-championship-2024/",
+         "pubDate" : "Wed, 24 Apr 2024 06:56:15",
+         "title" : "Cerificates :National Rapid & Blitz Chess Championship 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109554101.cms\" />D Gukesh won the International Chess Federation (FIDE) Candidates Chess Tournament 2024 in Toronto, Canada. He became the youngest-ever challenger to the world title and secured his place in chess history. Gukesh's victory marks a significant milestone for Indian chess, becoming the second Indian player, after Viswanathan Anand, to win the prestigious tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-gukesh-celebrates-historic-fide-candidates-win-with-fan-meet-up-in-toronto/articleshow/109554101.cms",
+         "pubDate" : "Wed, 24 Apr 2024 06:37:17",
+         "title" : "Watch: Gukesh celebrates Candidates win with fan meet-up"
+      },
+      {
          "description" : "Records were shattered and history was made at the 2024 FIDE Candidates. Two events - open and women's - took place simultaneously for the first time at the same hall. We saw the first brother-sister duo, R Praggnanandhaa and R Vaishali, participating. In the end, D Gukesh broke a number of records: he was the youngest ever to win the Candidates Tournament and thus become the youngest ever challenger to the World Championship. Gukesh was interviewed by Sagar Shah in what turned out to be a conversation lasting close to two hours. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +768,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-saves-a-difficult-position-against-firouzja-and-retains-the-lead-of-the-candidates-with-gukesh-after-round-9",
          "pubDate" : "Mon, 15 Apr 2024 09:38:00",
          "title" : "Nepomniachtchi saves a difficult position against Firouzja and retains the lead of the Candidates with Gukesh after Round 9 - 9"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109303514.cms\" />Indian Grandmaster Vidit Gujrathi staged a remarkable comeback at the Candidates chess tournament, defeating Hikaru Nakamura. Meanwhile, D Gukesh and R Praggnanandhaa's match ended in a draw. Russian player Ian Nepomniachtchi secured a draw against Firouza Alireza, maintaining his lead alongside Gukesh. In the women's section, R Vaishali suffered another loss, while Koneru Humpy managed a draw.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-ian-nepomniachtchi-lead-at-candidates-chess-tournament-as-vidit-gujrathi-beats-hikaru-nakamura/articleshow/109303514.cms",
-         "pubDate" : "Mon, 15 Apr 2024 06:45:46",
-         "title" : "Gukesh, Ian lead at Candidates as Vidit beats Nakamura"
       },
       {
          "description" : "The only decisive game in the Open Section was of GM Vidit Gujarathi against GM Hikaru Nakamura. It was a trendy Italian game with early",
