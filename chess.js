@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Cheating in chess took centre stage when Magnus Carlsen lost to Hans Niemann in September 2022, and then tweeted about it. Now, top grandmasters Vladimir Kramnik and Fabiano Caruana are sharing numbers about how many cheaters there are. What is being debated, what is known, and what is only a feeling? In its latest issue, New In Chess magazine deals with a subject that concerns us all.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cheating-what-do-we-know",
+         "pubDate" : "Wed, 24 Apr 2024 16:00:00",
+         "title" : "Cheating: What do we know?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2989",
+         "pubDate" : "Wed, 24 Apr 2024 14:51:04",
+         "title" : "Changes to Regulations of transferring to FIDE flag for Refugees"
+      },
+      {
+         "description" : "Mike Passmore died on 21st April at the age of 83.&#160; He had been a member of Downend and Fishponds &#160;Chess Club since 1958 and...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/rip-michael-john-passmore/",
+         "pubDate" : "Wed, 24 Apr 2024 12:11:25",
+         "title" : "RIP Michael John Passmore"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -26,12 +50,28 @@ news_feed (
          "title" : "European Women's Chess Championship 2024 is halfway through"
       },
       {
+         "description" : "Decades after the popular TV show The Master Game, the British Broadcasting Corporation (BBC) plans to broadcast a new chess show. In&#38;nbsp;Chess Masters, to be aired in 2025, players of different ages and backgrounds will go head to head in a seri...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bbc-to-broadcast-new-show-chess-masters",
+         "pubDate" : "Wed, 24 Apr 2024 07:54:08",
+         "title" : "BBC To Broadcast New Chess Show Decades After 'The Master Game'"
+      },
+      {
          "description" : "Click here for National Rapid 2024 Rank Name 1 Ghosh Diptayan 2 Aronyak Ghosh 3 Raja Rithvik R 4 Das Arghyadip 5 Srihari L R",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/cerificates-national-rapid-blitz-chess-championship-2024/",
          "pubDate" : "Wed, 24 Apr 2024 06:56:15",
          "title" : "Cerificates :National Rapid & Blitz Chess Championship 2024"
+      },
+      {
+         "description" : "A decades-long unbeaten run, believed to be one of the longest in sporting history, has ended after a team of amateur chess players toppled a club dubbed the &#34;Manchester City of chess.&#34; Hammersmith Chess Club in west London beat the invincible k...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/22-year-winning-run-ends-as-amateur-team-topples-man-city-of-chess",
+         "pubDate" : "Wed, 24 Apr 2024 06:40:37",
+         "title" : "22-Year Winning Run Ends As Amateur Team Topples 'Man City Of Chess'"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109554101.cms\" />D Gukesh won the International Chess Federation (FIDE) Candidates Chess Tournament 2024 in Toronto, Canada. He became the youngest-ever challenger to the world title and secured his place in chess history. Gukesh's victory marks a significant milestone for Indian chess, becoming the second Indian player, after Viswanathan Anand, to win the prestigious tournament.",
@@ -1306,22 +1346,6 @@ news_feed (
          "title" : "Settling The Debate: Commentary With Engine Yes or No?"
       },
       {
-         "description" : "The brother/sister duo of GM Praggnanandhaa Rameshbabu and GM-elect Vaishali Rameshbabu stole the show as the only victors in round three of the 2024 FIDE Candidates Tournament. Praggnanandhaa defeated one of the leaders, GM Vidit Gujrathi, by u...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-3",
-         "pubDate" : "Sat, 06 Apr 2024 16:34:00",
-         "title" : "Brother/Sister Comeback: Praggnanandhaa Defeats Vidit, Vaishali Finds Her Groove"
-      },
-      {
-         "description" : "GM Daniel Naroditsky netted $400 and his second Bullet Brawl victory in a row on Saturday after scoring 260 points ahead of 122 other titled players. Scoring 72 wins in 83 games, Naroditsky put a healthy buffer between himself and second and third...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-april-6-2024",
-         "pubDate" : "Sat, 06 Apr 2024 15:56:00",
-         "title" : "Naroditsky Dominates Back-To-Back Bullet Brawls"
-      },
-      {
          "description" : " The 2024 Candidates Tournament is underway in Toronto, and round 2 of the Open section saw 4 decisive games. Probably the most noteworthy was Vidit beating Nakamura, although Caruana's win over Abasov may be the most consequential. Going into the tournament, Caruana was probably the favourite, with Nakamura considered the player most likely to defy the odds. However, considering the rating spread of the field, I think the games between the leaders won't be as important as the games against the back markers (like Candidates events of old). So the win by Caruana was an important won, as was Nepo's win over Firouzja. If at the halfway mark someone is +3 (or more), then it may be all over for t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1440,14 +1464,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2949",
          "pubDate" : "Wed, 03 Apr 2024 22:04:25",
          "title" : "Daniel Barrish and Jesse February win South African Closed Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2948",
-         "pubDate" : "Wed, 03 Apr 2024 14:56:52",
-         "title" : "Kirill Alekseenko wins VIII Open Semana Santa"
       }
    ]
 }
