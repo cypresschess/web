@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The top duels in the fifth round of the Women's European Championship ended in draws. This allowed 15-year-old Ukrainian WCM Bozhena Piddubna (pictured) to catch the leaders with a win. Piddubna is now sharing the lead with Ulviyya Fataliyeva (Azerbaijan) and Marta Garcia (Spain). Piddubna will play black against Fataliyeva in Thursday's sixth round. | Photos: European Chess Union",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eruopean-women-championship-2024-r5",
+         "pubDate" : "Wed, 24 Apr 2024 20:45:00",
+         "title" : "European Women's Ch.: Fataliyeva, Garcia and Piddubna share the lead"
+      },
+      {
          "description" : "Cheating in chess took centre stage when Magnus Carlsen lost to Hans Niemann in September 2022, and then tweeted about it. Now, top grandmasters Vladimir Kramnik and Fabiano Caruana are sharing numbers about how many cheaters there are. What is being debated, what is known, and what is only a feeling? In its latest issue, New In Chess magazine deals with a subject that concerns us all.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +42,12 @@ news_feed (
          "title" : "Congratulations :Gukesh D"
       },
       {
-         "description" : "It is a famous game, played between Siegbert Tarrasch and Akiba Rubenstein in 1911. It ended in a draw, and is given as a model example for an active defence in rook endings in the books of Levenfish/Smyslov and Averbakh. However, matters are not that easy. Can you find the mistakes in the game play strategy?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-riddle-is-active-defense-always-best",
-         "pubDate" : "Wed, 24 Apr 2024 10:00:00",
-         "title" : "Riddle: Is active defense always best?"
+         "description" : "The first Titled Tuesday sweep of 2024 belongs to GM Hikaru Nakamura, who won both tournaments on April 23. It is the 11th time someone has accomplished the feat, and Nakamura&#39;s sixth, but his first since February 14, 2023. The last time anyone sw...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-april-23-2024",
+         "pubDate" : "Wed, 24 Apr 2024 09:03:52",
+         "title" : "Nakamura Locks Down 6th Titled Tuesday Sweep"
       },
       {
          "description" : "The European Women's Chess Championship 2024 is halfway through, with five rounds left to be played. Three players headed to today's free day co-leading the event: IM Ulviyya Fataliyeva (AZE, 2377), IM Marta Garcia Martin (ESP, 2349) and 15-year-old WCM Bozhena Piddubna (UKR, 2005). Yesterday's top-board encounter between Ulviyya Fatliyava dnd Marta Garcia Martin finished in a draw and the players kept their positions on the top. The game was quite balanced, and finished in a peaceful manner after the []",
@@ -80,22 +88,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-gukesh-celebrates-historic-fide-candidates-win-with-fan-meet-up-in-toronto/articleshow/109554101.cms",
          "pubDate" : "Wed, 24 Apr 2024 06:37:17",
          "title" : "Watch: Gukesh celebrates Candidates win with fan meet-up"
-      },
-      {
-         "description" : "Records were shattered and history was made at the 2024 FIDE Candidates. Two events - open and women's - took place simultaneously for the first time at the same hall. We saw the first brother-sister duo, R Praggnanandhaa and R Vaishali, participating. In the end, D Gukesh broke a number of records: he was the youngest ever to win the Candidates Tournament and thus become the youngest ever challenger to the World Championship. Gukesh was interviewed by Sagar Shah in what turned out to be a conversation lasting close to two hours. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-interview-candidates-2024",
-         "pubDate" : "Wed, 24 Apr 2024 01:10:00",
-         "title" : "The dream becomes a reality: Gukesh's victory in a historic event"
-      },
-      {
-         "description" : "A couple of weeks ago Leon Mendonca turned 18. After many spectacular successes - like a 9.0/9 score in a very strong GM Open a year ago and winning the Challegers group in Wijk aan Zee - Leon just won the Spring Chess Classic 2024 at the Saint Louis Chess Club - outright. The round robin event had ten grandmasters with an average rating of 2625. This remarkable young player has recorded a very interesting FritzTrainer for us. | Photos by Austin Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-luke",
-         "pubDate" : "Tue, 23 Apr 2024 15:00:00",
-         "title" : "Leon Luke strikes again!"
       },
       {
          "description" : "",
@@ -1296,14 +1288,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39897573/fide-candidates-2024-nepomniachtchi-takes-sole-lead-only-open-win-round-4-indians-suffer-mixed-bag?device=featurephone",
          "pubDate" : "Mon, 8 Apr 2024 02:37:53",
          "title" : "Candidates: Nepo takes lead with only Open win in rd 4, Indians suffer mixed bag"
-      },
-      {
-         "description" : "GM Ian Nepomniachtchi has taken a half-point lead at the 2024 FIDE Candidates Tournament. On the white side of the Berlin Defense, he dispatched GM Vidit Gujrathi. Draws on the remaining three boards leave GMs Gukesh Dommaraju and Fabiano Caruana ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-4",
-         "pubDate" : "Sun, 07 Apr 2024 16:48:00",
-         "title" : "Nepomniachtchi Defeats Vidit, Takes Sole Lead; Tan Survives Major Scare"
       },
       {
          "description" : "On this blog's long running series, <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), Morphy items are not unusual. Having said that, it's been a few years since the previous post on Morphy. <P> The item pictured below was titled 'Unpublished CDV of Paul Charles MORPHY CHESS PRODIGY Playing a Game 1860s Photo'. It sold for US $2158.00 after 19 bids from seven bidders. On a starting price of $30.00, the bids jumped from $150.00 to the final price in the last 20 minutes of the seven day auction. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od07.jpg\" WIDTH=400 HEIGHT=325><BR> <B>Left:</B> F",
