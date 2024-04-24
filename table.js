@@ -2,6 +2,7 @@ jtable([
 "HOUSTON","2024-04-20","590","<a href=http://www.uschess.org/msa/XtblMain.php?202404202232 target='_blank'>T H ROGERS SCHOLASTIC APRIL 2024</a>",
 "HOUSTON","2024-04-20","29","<a href=http://www.uschess.org/msa/XtblMain.php?202404202062 target='_blank'>KINGWOOD BLITZ 20 APR 24</a>",
 "HOUSTON","2024-04-20","23","<a href=http://www.uschess.org/msa/XtblMain.php?202404202042 target='_blank'>APRIL 20 SATURDAY CHESS/ SATURNIGHT</a>",
+"HOUSTON","2024-04-20","59","<a href=http://www.uschess.org/msa/XtblMain.php?202404201522 target='_blank'>RUCC SPRING 2024 USCF TOURNAMENT</a>",
 "HOUSTON","2024-04-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202404201332 target='_blank'>CHESSPANDA04202024SATURDAY</a>",
 "CYPRESS","2024-04-19","26","<a href=http://www.uschess.org/msa/XtblMain.php?202404190972 target='_blank'>KNIGHTS OFCYPRESS</a>",
 "SPRING","2024-04-19","27","<a href=http://www.uschess.org/msa/XtblMain.php?202404190892 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-10-07  - 10-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202310086272 target='_blank'>HOUSTON SENIOR OPEN 2023</a>",
 "HOUSTON","2023-10-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310066842 target='_blank'>WBCC QUAD 2023.10.06</a>",
 "SPRING","2023-10-06","20","<a href=http://www.uschess.org/msa/XtblMain.php?202310064042 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2023-10-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310064002 target='_blank'>FBCC 2023 COOL WEATHER OPEN</a>",
 ]);
