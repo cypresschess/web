@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 24th European Women's Championship takes place Thu 18th Apr to Tue 30th Apr 2024 in Rhodes, Greece. Top seeds: Yuliia Osmak, Marsel Efroimski, Bella Khotenashvili, Dinara Wagner, Antoaneta Stefanova, Lela Javakhishvili etc",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/24th-european-womens-championship-2024",
+         "pubDate" : "Wed, 24 Apr 2024 22:42:00",
+         "title" : "24th European Women's Championship 2024 - Games and Results"
+      },
+      {
+         "description" : " The Dutch League took place 16th September 2023 to 20th April 2024. Kennemer Combinatie had already won the league before this weekend's final round.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/dutch-league-2023-24",
+         "pubDate" : "Wed, 24 Apr 2024 22:37:00",
+         "title" : "Dutch League 2023-24 - Games and Results"
+      },
+      {
+         "description" : " The 14th Karen Asrian Memorial takes place in Yerevan Wed 24th Apr to Thu 2nd May 2024. The event returns after missing last year. Top seeds Manuel Petrosyan, Zaven Andriasian, M Pranesh etc.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/14th-asrian-memorial-2024",
+         "pubDate" : "Wed, 24 Apr 2024 22:28:00",
+         "title" : "14th Asrian Memorial 2024 - Games and Results"
+      },
+      {
          "description" : "The top duels in the fifth round of the Women's European Championship ended in draws. This allowed 15-year-old Ukrainian WCM Bozhena Piddubna (pictured) to catch the leaders with a win. Piddubna is now sharing the lead with Ulviyya Fataliyeva (Azerbaijan) and Marta Garcia (Spain). Piddubna will play black against Fataliyeva in Thursday's sixth round. | Photos: European Chess Union",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1090,14 +1114,6 @@ news_feed (
          "title" : "Four decisive games in Round 6 of the women's Candidates - 6"
       },
       {
-         "description" : " The FIDE Candidates in Toronto, Canada are almost at the half way stage. Not much has been settled and 6 of the 8 players can still regard themselves as still being in the hunt for tournament victory. Today Ian Nepomniachtchi chose a drawish variation against Fabiano Caruana and whilst the American had to be accurate a draw was what we got. Nepomniachtchi said most of his preparation was focussed on the Sicilian but also such easy days are a key part of tournament strategy. How this draw will be seen will very much depend on the final result, wasted white against a major rival? Good pragmatic decision on the way to the title? We'll see. Gukesh did try against Hikaru Nakamura, his problem wa",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-and-nepomniachtchi-continue-to-lead-after-draws-in-round-6",
-         "pubDate" : "Thu, 11 Apr 2024 11:22:00",
-         "title" : "Gukesh and Nepomniachtchi continue to lead after draws in Round 6 - 6"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1136,22 +1152,6 @@ news_feed (
          "link" : "https://aicf.in/gm-d-gukesh-and-gm-ian-nepomniachtchi-in-lead-at-candidates-2024/",
          "pubDate" : "Wed, 10 Apr 2024 15:06:35",
          "title" : "GM D Gukesh and GM Ian Nepomniachtchi in lead at Candidates 2024"
-      },
-      {
-         "description" : " Tan Zhongyi leads the FIDE Women's Candidates with 3.5/5 half a point clear of Aleksandra Goryachkina. Nurgyul Salimova is the lowest rated player and Humpy tried to target her in Round 4 and that backfired. Today Tan got a very favourable Caro-Kann, 10.Bf4 seems new and 13...d4?! looks like a mistake, however 15.Nfxd4 winning the pawn straight away rather than waiting for a better chance with 15.Rfc1 seemed to reduce white's advantage and 25.Qc5 (slightly better was 25.Qb6) reduced chances further and the game was drawn in 25 moves. Kateryna Lagno missed a major opportunity to beat Lei Tingjie with the black pieces. First of all Lei was better and 19.Bc1! was a major improvement over the g",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-continues-to-lead-the-womens-candidates-after-a-day-of-draws-in-round-5",
-         "pubDate" : "Wed, 10 Apr 2024 14:07:00",
-         "title" : "Tan Zhongyi continues to lead the Women's Candidates after a day of draws in Round 5 - 5"
-      },
-      {
-         "description" : " The fifth round of the Candidates could have seen all four games finish decisively and in fact the two games that did were only decided by mistakes at the end of very long games and the two draws came after huge advantages were let go. In the end leaders were Gukesh and Nepomniachtchi half a point clear of Caruana and all three had good reason to thank their lucky stars today. Praggnanandhaa doesn't need any encouragement to go for dangerous attacking ideas but that's nevertheless what the leader Nepomniachtchi did in grabbing a hot pawn in the Petroff. Nepomniachtchi couldn't find his way through the complications and after 23...Nc5? (23...Bxh2+) he was lost with the move 26.Qe5! being the",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-joins-nepomniachtchi-in-the-candidates-lead-after-an-action-packed-round-5",
-         "pubDate" : "Wed, 10 Apr 2024 11:50:00",
-         "title" : "Gukesh joins Nepomniachtchi in the Candidates lead after an action packed Round 5 - 5"
       },
       {
          "description" : "GM Jan-Krzysztof Duda and GM David Paravyan won each Titled Tuesday tournament of April 9 outright on a score of 10/11, while they both also made the top 10 in the other event of the day. GM Alexandra Kosteniuk won the early women&#39;s prize despite ...",
@@ -1432,22 +1432,6 @@ news_feed (
          "link" : "https://www.chess.ca/en/news/2024/04/04/aaron-reeve-mendes-1st-in-blitz-at-menorca-spain/",
          "pubDate" : "Thu, 04 Apr 2024 00:00:00",
          "title" : "Aaron Reeve Mendes: 1st in Blitz at Menorca, Spain"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2950",
-         "pubDate" : "Wed, 03 Apr 2024 22:43:21",
-         "title" : "Aktobe Open - Vladimir Dvorkovich Memorial announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2949",
-         "pubDate" : "Wed, 03 Apr 2024 22:04:25",
-         "title" : "Daniel Barrish and Jesse February win South African Closed Championship"
       }
    ]
 }
