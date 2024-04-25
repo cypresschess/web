@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Have all playable alternatives in the early opening been discovered? Despite the huge number of possibilities, there seem to be no surprises in the first moves of a chess game, right? Well, I think I might just have blown that theory out of the water. Yes, I believe that I have discovered a new opening! Let me present you with the Wirral-Squirrel Variation, which introduces an entirely new idea as early as on move 4.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/meet-the-wirral-squirrel-variation",
+         "pubDate" : "Thu, 25 Apr 2024 12:00:00",
+         "title" : "Meet the Wirral-Squirrel Variation (WSV)"
+      },
+      {
+         "description" : "Please find attached here with final list of Participants who successfully completed the Online Arbiter refreshers Seminar for the session 2024-25. Click here for AICF",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-refresher-seminar-2024-25-final-list/",
+         "pubDate" : "Thu, 25 Apr 2024 08:52:33",
+         "title" : "AICF Refresher Seminar 2024-25 Final List"
+      },
+      {
+         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
+         "pubDate" : "Thu, 25 Apr 2024 08:00:42",
+         "title" : "English Championship Series 2024"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at our recent issue, CBM 218. 540 games from Tata Steel Chess and Chessable Masters 2024, 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Wei Yi, Anish Giri, Nordibek Abdusattorov, Alireza Firouzja, Vidit Gujrathi and Praggnanandhaa among others. The icing on the cake is a special feature on Richard Rapport, with 28 annotated games. | Pictured: Gukesh D playing white against Ding Liren in Wijk aan Zee | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2024",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-d-gukesh-receives-heros-welcome-at-chennai-airport-after-historic-win-at-candidates-chess-tournament/articleshow/109582878.cms",
          "pubDate" : "Thu, 25 Apr 2024 05:40:05",
          "title" : "Watch: D Gukesh receives hero's welcome at Chennai airport"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju arrived back in Chennai at 3 a.m. on Thursday morning and was instantly mobbed by camera crews, well-wishers, and 80 schoolchildren who had turned up to welcome back one of their own. The winner of the 2024 FIDE Candidates Tour...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-heros-welcome-india-homecoming-chennai",
+         "pubDate" : "Thu, 25 Apr 2024 03:15:00",
+         "title" : "Gukesh Gets Hero's Welcome In Chennai On Indian Homecoming"
       },
       {
          "description" : " The 24th European Women's Championship takes place Thu 18th Apr to Tue 30th Apr 2024 in Rhodes, Greece. Top seeds: Yuliia Osmak, Marsel Efroimski, Bella Khotenashvili, Dinara Wagner, Antoaneta Stefanova, Lela Javakhishvili etc",
@@ -50,6 +82,14 @@ news_feed (
          "title" : "European Women's Ch.: Fataliyeva, Garcia and Piddubna share the lead"
       },
       {
+         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
+         "pubDate" : "Wed, 24 Apr 2024 16:00:44",
+         "title" : "Entry form now open for 2024 British Chess Championships"
+      },
+      {
          "description" : "Cheating in chess took centre stage when Magnus Carlsen lost to Hans Niemann in September 2022, and then tweeted about it. Now, top grandmasters Vladimir Kramnik and Fabiano Caruana are sharing numbers about how many cheaters there are. What is being debated, what is known, and what is only a feeling? In its latest issue, New In Chess magazine deals with a subject that concerns us all.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,12 +114,12 @@ news_feed (
          "title" : "RIP Michael John Passmore"
       },
       {
-         "description" : "",
+         "description" : "Indian chess prodigy D Gukesh, 17, received a hero's welcome upon his return from the Candidates Chess Tournament in Toronto. all AICF/State officials present on the occasions.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/congratulations-gukesh-d/",
          "pubDate" : "Wed, 24 Apr 2024 10:48:04",
-         "title" : "Congratulations :Gukesh D"
+         "title" : "Warm welcome of World Chess Challenger D Gukesh by AICF"
       },
       {
          "description" : "The first Titled Tuesday sweep of 2024 belongs to GM Hikaru Nakamura, who won both tournaments on April 23. It is the 11th time someone has accomplished the feat, and Nakamura&#39;s sixth, but his first since February 14, 2023. The last time anyone sw...",
@@ -1264,22 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2958",
          "pubDate" : "Mon, 08 Apr 2024 11:46:49",
          "title" : "Arjun Erigaisi wins III Open Chess Menorca"
-      },
-      {
-         "description" : "Railway Spots Promotion board-A and Petroleum sports promotion board wins the 43rd National Team and 21st National Team for Women Chess Championship respectively, held at",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/railways-sports-promotion-board-a-petroleum-sports-promotion-board-wins-national-team-chess-championship-2024/",
-         "pubDate" : "Mon, 08 Apr 2024 06:16:55",
-         "title" : "Railways sports promotion board-A & Petroleum Sports Promotion board Wins National Team Chess Championship 2024"
-      },
-      {
-         "description" : "GM Arjun Erigaisi won the 2024 Menorca Open on Sunday. The Indian top-GM edged out GMs Kirill Alekseenko and Maksim Chigaev on tiebreaks after all finished on 7.5/9. Arjun reached a career-peak live rating of 2761 and briefly occupied the fifth pl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/arjun-erigaisi-wins-2024-menorca-open",
-         "pubDate" : "Mon, 08 Apr 2024 03:52:00",
-         "title" : "Arjun Erigaisi Briefly World #5 As Menorca Open Winner"
       },
       {
          "description" : "",
