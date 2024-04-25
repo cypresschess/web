@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at our recent issue, CBM 218. 540 games from Tata Steel Chess and Chessable Masters 2024, 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Wei Yi, Anish Giri, Nordibek Abdusattorov, Alireza Firouzja, Vidit Gujrathi and Praggnanandhaa among others. The icing on the cake is a special feature on Richard Rapport, with 28 annotated games. | Pictured: Gukesh D playing white against Ding Liren in Wijk aan Zee | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2024",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-218-review-nagesh-havanur",
+         "pubDate" : "Thu, 25 Apr 2024 07:00:00",
+         "title" : "CBM 218: Wei Yi first, Gukesh second"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109582878.cms\" />Indian chess prodigy D Gukesh, 17, received a hero's welcome upon his return from the Candidates Chess Tournament in Toronto. Hundreds awaited him at the airport, including students from Velammal Vidyalaya. Gukesh thanked his supporters, including his parents, coach, and school. He acknowledged Viswanathan Anand's influence and will challenge world champion Ding Liren. Gukesh holds multiple accolades, including India's youngest Grandmaster.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-d-gukesh-receives-heros-welcome-at-chennai-airport-after-historic-win-at-candidates-chess-tournament/articleshow/109582878.cms",
+         "pubDate" : "Thu, 25 Apr 2024 05:40:05",
+         "title" : "Watch: D Gukesh receives hero's welcome at Chennai airport"
+      },
+      {
          "description" : " The 24th European Women's Championship takes place Thu 18th Apr to Tue 30th Apr 2024 in Rhodes, Greece. Top seeds: Yuliia Osmak, Marsel Efroimski, Bella Khotenashvili, Dinara Wagner, Antoaneta Stefanova, Lela Javakhishvili etc",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -826,14 +842,6 @@ news_feed (
          "title" : "Nakamura, Caruana Bounce Back; Lei Joins Lead In Women's"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109321898.cms\" />The 29-year-old Vidit stole the limelight when he halted the winning run of second seed Nakamura. The Indian now shares the joint third position with 4.5 points with both the American GMs - Nakamura and Fabiano Caruana. The latter, ranked No. 2, was held to a draw by tournament's lowest seed Nijat Abasov of Azerbaijan. Tournament's co-leader Nepo escaped to a draw against French No. 1 Alireza Firouzja. The Vidit-Nakamura battle was the only decisive result of the ninth round as the other three games in the Open category failed to generate excitemen",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/vidit-gujrathi-the-showstopper-stuns-nakamura-again-for-his-second-win-over-world-no-3-in-candidates-gukesh-nepo-share-top-position/articleshow/109321898.cms",
-         "pubDate" : "Mon, 15 Apr 2024 17:03:29",
-         "title" : "Vidit stuns Nakamura again for his second win over World no. 3"
-      },
-      {
          "description" : "A week ago I posted <A HREF=\"https://chessforallages.blogspot.com/2024/04/the-3d-render-style.html\">The '3D Render' Style</A> (April 2024; aka 'Buddhists play chess'). There I started, <BLOCKQUOTE> Let's continue with the religious theme. Three weeks in a row make a trend. </BLOCKQUOTE> <P> Four Weeks in a row make a wedding photo of my three brothers and me. And following the principles espoused by <I>Non sequiturs 'R' Us</I>, that brings us to the subject of Druids. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od15.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Druids play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> What exactly is a Druid? In <A HRE",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1416,14 +1424,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/melbourne-international-open.html",
          "pubDate" : "Thu, 04 Apr 2024 13:06:00",
          "title" : "Melbourne International Open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2951",
-         "pubDate" : "Thu, 04 Apr 2024 03:33:54",
-         "title" : "FIDE Candidates Tournament 2024 opens in Toronto"
       }
    ]
 }
