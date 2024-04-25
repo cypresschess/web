@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman & Co tournament has been held in Malm&ouml; since 1993 - it was only cancelled in 2020 due to the pandemic. The organisers have once again put together a very interesting 8-player field for the 2024 tournament: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, defending champion Peter Svidler (pictured), Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and women's world champion Ju Wenjun. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-preview",
+         "pubDate" : "Thu, 25 Apr 2024 19:00:00",
+         "title" : "Starting Saturday: TePe Sigeman & Co with Svidler, Abdusattorov and Ju"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109599475.cms\" /> India's rising chess star D Gukesh, at just 17 years old, made history by winning the Candidates Chess Tournament in Toronto, securing a spot as the youngest challenger ever for the world title, surpassing a record set by the legendary Garry Kasparov four decades ago. Gukesh's victory sets up a showdown against reigning world champion Ding Liren of China later in the year. Reflecting on his achievement, Gukesh highlighted his admiration for the way Dhoni and Djokovic handle pressure, labeling them as big-game players who consistently deliver their",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -48,14 +56,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
          "pubDate" : "Thu, 25 Apr 2024 08:00:42",
          "title" : "English Championship Series 2024"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist Nagesh Havanur takes a look at our recent issue, CBM 218. 540 games from Tata Steel Chess and Chessable Masters 2024, 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Wei Yi, Anish Giri, Nordibek Abdusattorov, Alireza Firouzja, Vidit Gujrathi and Praggnanandhaa among others. The icing on the cake is a special feature on Richard Rapport, with 28 annotated games. | Pictured: Gukesh D playing white against Ding Liren in Wijk aan Zee | Photo: Jurriaan Hoefsmit / Tata Steel Chess Tournament 2024",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-218-review-nagesh-havanur",
-         "pubDate" : "Thu, 25 Apr 2024 07:00:00",
-         "title" : "CBM 218: Wei Yi first, Gukesh second"
       },
       {
          "description" : "",
@@ -106,28 +106,12 @@ news_feed (
          "title" : "14th Asrian Memorial 2024 - Games and Results"
       },
       {
-         "description" : "The top duels in the fifth round of the Women's European Championship ended in draws. This allowed 15-year-old Ukrainian WCM Bozhena Piddubna (pictured) to catch the leaders with a win. Piddubna is now sharing the lead with Ulviyya Fataliyeva (Azerbaijan) and Marta Garcia (Spain). Piddubna will play black against Fataliyeva in Thursday's sixth round. | Photos: European Chess Union",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eruopean-women-championship-2024-r5",
-         "pubDate" : "Wed, 24 Apr 2024 20:45:00",
-         "title" : "European Women's Ch.: Fataliyeva, Garcia and Piddubna share the lead"
-      },
-      {
          "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
          "pubDate" : "Wed, 24 Apr 2024 16:00:44",
          "title" : "Entry form now open for 2024 British Chess Championships"
-      },
-      {
-         "description" : "Cheating in chess took centre stage when Magnus Carlsen lost to Hans Niemann in September 2022, and then tweeted about it. Now, top grandmasters Vladimir Kramnik and Fabiano Caruana are sharing numbers about how many cheaters there are. What is being debated, what is known, and what is only a feeling? In its latest issue, New In Chess magazine deals with a subject that concerns us all.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cheating-what-do-we-know",
-         "pubDate" : "Wed, 24 Apr 2024 16:00:00",
-         "title" : "Cheating: What do we know?"
       },
       {
          "description" : "",
