@@ -1424,14 +1424,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2951",
          "pubDate" : "Thu, 04 Apr 2024 03:33:54",
          "title" : "FIDE Candidates Tournament 2024 opens in Toronto"
-      },
-      {
-         "description" : "11-Year-Old Prodigy Aaron Mendes of Canada, Claims Victory in III Open International Chess Menorca BLITZ In an astonishing turn of events at the III Open International Chess Menorca BLITZ held on April 4th in Menorca, Spain, 11-year-old Aaron Reeve Mendes emerged as the champion. Despite facing off against seasoned Grandmasters (GMs) and International Masters (IMs), Aaron showcased unparalleled skill and strategic acumen, securing a remarkable 8 out of 9 wins in the blitz tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/canada2.png",
-         "iconName" : "Canadian<br>Chess",
-         "link" : "https://www.chess.ca/en/news/2024/04/04/aaron-reeve-mendes-1st-in-blitz-at-menorca-spain/",
-         "pubDate" : "Thu, 04 Apr 2024 00:00:00",
-         "title" : "Aaron Reeve Mendes: 1st in Blitz at Menorca, Spain"
       }
    ]
 }
