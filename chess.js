@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109599475.cms\" /> India's rising chess star D Gukesh, at just 17 years old, made history by winning the Candidates Chess Tournament in Toronto, securing a spot as the youngest challenger ever for the world title, surpassing a record set by the legendary Garry Kasparov four decades ago. Gukesh's victory sets up a showdown against reigning world champion Ding Liren of China later in the year. Reflecting on his achievement, Gukesh highlighted his admiration for the way Dhoni and Djokovic handle pressure, labeling them as big-game players who consistently deliver their",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ms-dhoni-and-novak-djokovics-pressure-soaking-ability-attracts-chess-sensation-d-gukesh/articleshow/109599475.cms",
+         "pubDate" : "Thu, 25 Apr 2024 14:26:16",
+         "title" : "Dhoni and Djokovic's pressure-soaking ability attracts D Gukesh"
+      },
+      {
          "description" : "Have all playable alternatives in the early opening been discovered? Despite the huge number of possibilities, there seem to be no surprises in the first moves of a chess game, right? Well, I think I might just have blown that theory out of the water. Yes, I believe that I have discovered a new opening! Let me present you with the Wirral-Squirrel Variation, which introduces an entirely new idea as early as on move 4.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/meet-the-wirral-squirrel-variation",
          "pubDate" : "Thu, 25 Apr 2024 12:00:00",
          "title" : "Meet the Wirral-Squirrel Variation (WSV)"
+      },
+      {
+         "description" : " The team representing the ACT Junior League has won the 2024 Anzac Day Junior Hybrid Event, its 2nd win in 2 years. The event brought together 5 teams representing ACT, Victoria (Hobson Bay), NSW (JZMC), Western Australia (Kingsley CC) and Christchurch NZ (ISCC). The event was a 5 round RR, played over 6 games per match. The ACT team scored 18.5/24, with HBCC on 13, JZMC 12, ISCC 9.5 and KCC 7. Despite the margin of victory, the event was a lot closer than the scores indicated with a number of games in the final round ACT v HBCC match looking like they could go either way. The tournament was organised by IA Casey Goh (HBCC) and was played with a time limit of G30m+15s inc. Four players scor",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/anzac-day-hybrid.html",
+         "pubDate" : "Thu, 25 Apr 2024 11:48:00",
+         "title" : "Anzac Day Hybrid"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109595322.cms\" />Indian chess prodigy D Gukesh made history on Monday by clinching victory in the Candidates Chess Tournament held in Toronto, thereby securing the title of the youngest ever challenger to the world championship. This achievement surpassed a record established by the iconic Garry Kasparov four decades prior. His remarkable triumph has set the stage for Gukesh to face off against the reigning world champion, Ding Liren of China, later this year.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-wouldnt-have-been-close-to-what-i-am-now-if-it-wasnt-for-vishy-sir-gukesh/articleshow/109595322.cms",
+         "pubDate" : "Thu, 25 Apr 2024 11:21:40",
+         "title" : "I wouldn't have been close to what I am now if it wasn't for Vishy sir: Gukesh"
       },
       {
          "description" : "Please find attached here with final list of Participants who successfully completed the Online Arbiter refreshers Seminar for the session 2024-25. Click here for AICF",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cbm-218-review-nagesh-havanur",
          "pubDate" : "Thu, 25 Apr 2024 07:00:00",
          "title" : "CBM 218: Wei Yi first, Gukesh second"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2990",
+         "pubDate" : "Thu, 25 Apr 2024 06:43:27",
+         "title" : "EWCC 2024: Three in the lead at midpoint"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109582878.cms\" />Indian chess prodigy D Gukesh, 17, received a hero's welcome upon his return from the Candidates Chess Tournament in Toronto. Hundreds awaited him at the airport, including students from Velammal Vidyalaya. Gukesh thanked his supporters, including his parents, coach, and school. He acknowledged Viswanathan Anand's influence and will challenge world champion Ding Liren. Gukesh holds multiple accolades, including India's youngest Grandmaster.",
@@ -142,7 +174,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bbc-to-broadcast-new-show-chess-masters",
-         "pubDate" : "Wed, 24 Apr 2024 07:54:08",
+         "pubDate" : "Wed, 24 Apr 2024 07:54:00",
          "title" : "BBC To Broadcast New Chess Show Decades After 'The Master Game'"
       },
       {
@@ -810,14 +842,6 @@ news_feed (
          "title" : "Lei join Tan in the lead of the Women's Candidates on 6.5/10 - 10"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109354233.cms\" />Though the 10th round of Candidates Chess tournament went in favour of the top-two seeds Fabiano Caruana and Hikaru Nakamura, tournament co-leaders Gukesh D and Ian Nepomniachtchi (6 points) played out a peaceful draw to maintain their lead going into the third rest day. Caruana and Nakamura won against out of form Alireza Firouzja and Nijat Abasov respectively. They joined Praggnanandhaa at the joint second position with 5.5 points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-caution-american-aggression-as-gukesh-nepo-maintain-lead-in-candidates-chess/articleshow/109354233.cms",
-         "pubDate" : "Tue, 16 Apr 2024 17:35:39",
-         "title" : "Gukesh-Nepo maintain lead in Candidates Chess"
-      },
-      {
          "description" : " The tenth round of the FIDE Candidates tournament saw the leaders Gukesh and Ian Nepomniachtchi draw and wins for Hikaru Nakamura and Fabiano Caruana. This leaves Nepomniachtchi and Gukesh on 6, Praggnanandhaa, Nakamura and Caruana on 5.5 and Vidit on 5 all in the mix. A playoff rather than a technical tie-break coefficient will decide the winner. Nepomniachtchi played quite a solid Ruy Lopez line against Gukesh. The main point of interest seems to have been whether 19.c3 led anywhere, but this was a computer move rather than a human one. After 19.Rd3 a draw was favourite until the end of the game. Hikaru Nakamura built up a very large advantage by move 18 against Nijat Abasov in a Petroff.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -848,14 +872,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-declaration-on-summer-friendship-games/",
          "pubDate" : "Tue, 16 Apr 2024 10:39:24",
          "title" : "ECU Declaration on \"Summer Friendship Games\""
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109338533.cms\" />In the Candidates chess tournament, D Gukesh and Ian Nepomniachtchi lead with six points each after round 10. R Praggnanandhaa, Fabiano Caruana, and Hikaru Nakamura trail closely with half a point less. Vidit Gujrathi ranks sixth with six points. Nepomniachtchi remains unbeaten, drawing with Gukesh in a Ruy Lopez opening. In the women's section, Tinjie Lei and Zhongyi Tan lead.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-and-ian-nepomniachtchi-lead-candidates-chess-tournament-after-round-10/articleshow/109338533.cms",
-         "pubDate" : "Tue, 16 Apr 2024 07:35:46",
-         "title" : "Gukesh and Nepo lead the Candidates after Round 10"
       },
       {
          "description" : "",
@@ -1440,14 +1456,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2952",
          "pubDate" : "Thu, 04 Apr 2024 22:33:35",
          "title" : "16th edition of \"Preparation of Teachers\" course announced"
-      },
-      {
-         "description" : " With the Doeberl Cup run and done for another year, a number of players made their way to Melbourne for the new <a href=\"https://melbourneio.com.au/\">Melbourne International Open</a>. The brain child of local organiser Walter Wolffs, the event has attracted both a large and strong field. And whether there were some residual effects from the Doeberl schedule, the first couple of rounds were a bit of a bloodbath for the top seeds. The top 4 boards saw the higher rated players only manage 1.5 (3 draws and a loss), with GM Darryl Johansen also a victim. After that things settled down a bit, although there are few GM's and IM's playing catch up. And while the net effect of this may be to provide",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/melbourne-international-open.html",
-         "pubDate" : "Thu, 04 Apr 2024 13:06:00",
-         "title" : "Melbourne International Open"
       }
    ]
 }
