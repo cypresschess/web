@@ -1432,14 +1432,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39877751/fide-candidates-2024-day-1-wrap-indian-chess-praggnanandhaa-vidit-gukesh-koneru-humpy-vaishali?device=featurephone",
          "pubDate" : "Fri, 5 Apr 2024 00:26:03",
          "title" : "FIDE Candidates 2024 Day 1 wrap: All Indians start with draw in exciting clashes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2952",
-         "pubDate" : "Thu, 04 Apr 2024 22:33:35",
-         "title" : "16th edition of \"Preparation of Teachers\" course announced"
       }
    ]
 }
