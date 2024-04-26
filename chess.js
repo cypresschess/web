@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Women's Grand Prix is a series of tournaments launched by FIDE in 2009 to promote women's chess. FIDE is pleased to announce the list of players who have secured their place in the 2024-2025 WGP Series. All 14 qualified players have earned their spot thanks to fulfilling the qualifying conditions. The remaining six players to take part will be nominated by the organizers of each of the six tournaments. Reigning women's world champion Ju Wenjun will not take part in the series - she was replaced by Sarasadat Khademalsharieh.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-grand-prix-2024-25-participants",
+         "pubDate" : "Sat, 27 Apr 2024 00:30:00",
+         "title" : "Women's Grand Prix 2024-25: List of participants"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2992",
          "pubDate" : "Fri, 26 Apr 2024 14:46:29",
          "title" : "FIDE Council meeting 2024 8, 13 April List of Decisions published"
+      },
+      {
+         "description" : "Most people struggle to stay awake for more than 18 hours. FM Joran Aulin-Jansson played 701 blitz games for 92 hours and 26 minutes straight. Last week Tunde Onakoya overcame intense vomiting, stomach pain, and extreme tiredness to break the Gu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/epic-story-of-jj-92-hour-chess-marathon",
+         "pubDate" : "Fri, 26 Apr 2024 14:39:59",
+         "title" : "Vomit, Badgers, And Crawling Spiders: The Epic Story Of JJ's 92-Hour Chess Marathon"
       },
       {
          "description" : "In the first of a planned series of reports on Titled Tuesday, Chess.com&#39;s Fair Play team said it&#39;s unlikely that large-scale cheating is happening in the popular prize events. Chess.com&#39;s anti-cheat detection system has faced scrutiny from some...",
@@ -1258,14 +1274,6 @@ news_feed (
          "title" : "GM D Gukesh and GM Ian Nepomniachtchi in lead at Candidates 2024"
       },
       {
-         "description" : "GM Jan-Krzysztof Duda and GM David Paravyan won each Titled Tuesday tournament of April 9 outright on a score of 10/11, while they both also made the top 10 in the other event of the day. GM Alexandra Kosteniuk won the early women&#39;s prize despite ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/duda-paravyan-win-titled-tuesday-april-9-2024",
-         "pubDate" : "Wed, 10 Apr 2024 08:52:25",
-         "title" : "No Tuesday Ties As Duda, Paravyan Lead Way"
-      },
-      {
          "description" : "D Gukesh's win over Nijat Abasov sees him join Ian Nepomniachtchi in the lead of the 2024 FIDE Candidates.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -1432,14 +1440,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2954",
          "pubDate" : "Sat, 06 Apr 2024 02:02:30",
          "title" : "FIDE Candidates: Exciting second round sees six victories"
-      },
-      {
-         "description" : "The second day of the 2024 FIDE Candidates Tournament saw India's Vidit Gujrathi stun world No 3 Hikaru Nakamura in a stunning match.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39883984/fide-candidates-2024-day-2-wrap-indian-chess-vidit-gujrathi-stuns-nakamura-gukesh-beats-praggnanandhaa-koneru-humpy-draws-vaishali-loses?device=featurephone",
-         "pubDate" : "Fri, 5 Apr 2024 22:30:54",
-         "title" : "FIDE Candidates 2024 Day 2 wrap: Vidit stuns world No. 3 Nakamura, Gukesh beats Pragg"
       }
    ]
 }
