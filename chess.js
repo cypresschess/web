@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2991",
+         "pubDate" : "Thu, 25 Apr 2024 23:50:35",
+         "title" : "FIDE Women's Grand Prix 2024-2025 Qualifiers"
+      },
+      {
          "description" : "The TePe Sigeman & Co tournament has been held in Malm&ouml; since 1993 - it was only cancelled in 2020 due to the pandemic. The organisers have once again put together a very interesting 8-player field for the 2024 tournament: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, defending champion Peter Svidler (pictured), Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and women's world champion Ju Wenjun. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1416,22 +1424,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/apr/05/fabiano-caruana-favourite-candidates-magnus-carlsen-wins-sixth-event-in-row-chess",
          "pubDate" : "Fri, 05 Apr 2024 07:00:01",
          "title" : "Caruana favourite as Candidates begins while Carlsen wins sixth event in a row"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2953",
-         "pubDate" : "Fri, 05 Apr 2024 01:15:15",
-         "title" : "FIDE Candidates: Tan Zhongyi leads after first round"
-      },
-      {
-         "description" : "The first day of the 2024 FIDE Candidates Tournament came to an end after several exciting games, most finishing in a draw including the all-Indian clashes.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39877751/fide-candidates-2024-day-1-wrap-indian-chess-praggnanandhaa-vidit-gukesh-koneru-humpy-vaishali?device=featurephone",
-         "pubDate" : "Fri, 5 Apr 2024 00:26:03",
-         "title" : "FIDE Candidates 2024 Day 1 wrap: All Indians start with draw in exciting clashes"
       }
    ]
 }
