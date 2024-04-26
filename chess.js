@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On April 28, the subscribers of Kasparov Chess Foundation Academy will gather for an exclusive interview with Elizbar Ubilava. At 74 years young, Elizbar Ubilava, a Spanish grandmaster of Georgian origin, is a living legend in the world of chess. With his remarkable achievements and illustrious career spanning decades, Ubilava's influence on the chess landscape is unparalleled.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-academy-meet-elizbar-ubilava",
+         "pubDate" : "Fri, 26 Apr 2024 10:00:00",
+         "title" : "KCF Academy: meet Elizbar Ubilava"
+      },
+      {
+         "description" : "IM Ulviyya Fataliyeva (AZE, 2377) emerged as the sole leader of the European Women's Chess Championship 2024 after four played rounds. Playing on the top board yesterday, Ulviyya Fataliyeva had white pieces against 15-year-old Ukrainian talent WCM Bozhena Piddubna (UKR, 2005). Fataliyeva gained a clear advantage from the early part of the opening and gradually improved it to crush her opponent without giving a single chance. The top 10 boards yesterday saw as many as nine decisive results and eight []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-takes-sole-lead-in-the-european-womens-chess-championship-2024/",
+         "pubDate" : "Fri, 26 Apr 2024 08:20:47",
+         "title" : "IM Ulviyya Fataliyeva takes sole lead in the European Women's Chess Championship 2024"
+      },
+      {
+         "description" : "European Chess Union and Aegan University specialised in long distance learning programs signed the Agreement of co-operation yesterday in Rhodes, Greece. Registration opens till 1st of June on the online form : https://forms.gle/gvpxgEmEAbq7XtmG9 The training course &#8220;Chess in Primary Education&#8221; is primarily aimed at teachers in primary education, as well as students of pedagogical departments. Secondly, it is aimed at any chess tutor interested in training related to the contribution of chess to education. The course will provide an academic []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-chess-union-and-aegean-university-sign-the-agreement-of-co-operation/",
+         "pubDate" : "Fri, 26 Apr 2024 07:45:55",
+         "title" : "European Chess Union and Aegean University present the \"Chess in Primary Education\" academic cource"
+      },
+      {
          "description" : " The Chennai teenager won the Candidates by just half a point and will take on China's Ding Liren for the world crown in a 14-game series later this year Gukesh Dommaraju became, at 17, the youngest ever Candidates <em> ­</em>winner and world championship challenger on Sunday after edging out the favourites Fabiano Caruana, Hikaru Nakamura and Ian Nepomniachtchi in a marathon six-hour final round in Toronto. Gukesh will now meet the holder, China's Ding Liren, in a 14-game series for the world crown from 20 November to 15 December. The world No 1, Norway's Magnus Carlsen, abdicated his title in 2023 after a 10-year reign. <a href=\"https://www.theguardian.com/sport/2024/apr/26/chess-gukesh-17",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -874,14 +898,6 @@ news_feed (
          "title" : "Of shoes and ships and sealing wax ..."
       },
       {
-         "description" : "Due to invitations have been received by European Chess federations and ECU to participate in the \"Summer Friendship Games\" to be organised in Russia in September 2024, the European Chess Union (ECU) hereby informs the National Chess federations about its position.&#160; ECU considers itself as a committed partner of the International Olympic Committee (IOC) and European Olympic Committees (EOC). IOC has made clear its position about the organisation of \"Friendship Games\" in Russia. We highlight some parts, and we link []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-declaration-on-summer-friendship-games/",
-         "pubDate" : "Tue, 16 Apr 2024 10:39:24",
-         "title" : "ECU Declaration on \"Summer Friendship Games\""
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1096,14 +1112,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/caruana-dream-world-chess-champion",
          "pubDate" : "Fri, 12 Apr 2024 09:26:00",
          "title" : "Caruana: 'I Had A Dream I Would Become World Champion'"
-      },
-      {
-         "description" : "The European Universities Games will take place from 12-24 July in Debrecen-Miskolc, Hungary. Student-athletes will compete in as many as 17 disciplines. This means that up to 4,500 players from all over Europe will take part in the 6th edition of the European Universities Games (EUG). European Universities Chess Championship 2024 is part of the European Universities Games and will be played from 10-13 July at the University of Miskolc Musicpalace. The event is comprised of four tournaments: Every match []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-universities-chess-championship-2024/",
-         "pubDate" : "Fri, 12 Apr 2024 08:11:59",
-         "title" : "European Universities Chess Championship 2024"
       },
       {
          "description" : " The 33-year-old Russian, a defeated world title challenger in 2021 and 2023, is in line for a third attempt as he leads in Toronto at halfway Russia's Ian Nepomniachtchi leads at halfway in the â‚¬500k Candidates in Toronto, Canada, whose winner qualifies for a world title match later this year with the holder, China's Ding Liren. Scores after round seven (of 14): Nepomniachtchi (Russia) 4.5; ­Fabiano Caruana (US), ­Praggnanandhaa R and Gukesh D (both India) 4; Hikaru Nakamura (US) and Vidit Gujrathi (India) 3.5; Alireza Firouzja (France) 2.5; Nijat Abasov (Azerbaijan) 2. <a href=\"https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidates-victory-as-indian-",
