@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2993",
+         "pubDate" : "Fri, 26 Apr 2024 18:49:36",
+         "title" : "World Cadet Rapid & Blitz Championship starts in Durres, Albania"
+      },
+      {
          "description" : "Inspired by a data analysis of the style of play in American basketball, Roger Lorenz has carried out a similar analysis for top-level chess. There have indeed significant changes over the last few decades - not necessarily positive ones.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,12 @@ news_feed (
          "title" : "FIDE Council meeting 2024 8, 13 April List of Decisions published"
       },
       {
-         "description" : "South Lakes Chess Congress 7 9 June 2024 in Barrow-in-Furness Due to circumstances beyond our control, we have to announce the cancellation of the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congress-cancellation-south-lakes/",
-         "pubDate" : "Fri, 26 Apr 2024 13:39:44",
-         "title" : "Congress cancellation - South Lakes"
+         "description" : "In the first of a planned series of reports on Titled Tuesday, Chess.com&#39;s Fair Play team said it&#39;s unlikely that large-scale cheating is happening in the popular prize events. Chess.com&#39;s anti-cheat detection system has faced scrutiny from some...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-publishes-fair-play-report-on-titled-tuesday",
+         "pubDate" : "Fri, 26 Apr 2024 10:10:00",
+         "title" : "Cheating Not Widespread In Titled Tuesday, Chess.com Fair Play Team Says In New Report"
       },
       {
          "description" : "On April 28, the subscribers of Kasparov Chess Foundation Academy will gather for an exclusive interview with Elizbar Ubilava. At 74 years young, Elizbar Ubilava, a Spanish grandmaster of Georgian origin, is a living legend in the world of chess. With his remarkable achievements and illustrious career spanning decades, Ubilava's influence on the chess landscape is unparalleled.",
@@ -58,14 +66,6 @@ news_feed (
          "title" : "Chess: Gukesh, 17, shocks favourites to become youngest challenger for title"
       },
       {
-         "description" : "BBC Factual announced a new competition format, \"Chess Masters\", for BBC Two and iPlayer. Across eight episodes, passionate and highly skilled players from all backgrounds will battle it out across a series of rapid chess games before one will be crowned the title of Chess Master. The announcement comes a bit over 40 years after BBC2 aired \"The Master Game\", a popular show that ran for seven series, from 1976 to 1983.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bbc-brings-back-televised-chess-series",
-         "pubDate" : "Fri, 26 Apr 2024 05:45:00",
-         "title" : "BBC brings back televised chess series"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,28 +74,12 @@ news_feed (
          "title" : "FIDE Women's Grand Prix 2024-2025 Qualifiers"
       },
       {
-         "description" : "The TePe Sigeman & Co tournament has been held in Malm&ouml; since 1993 - it was only cancelled in 2020 due to the pandemic. The organisers have once again put together a very interesting 8-player field for the 2024 tournament: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, defending champion Peter Svidler (pictured), Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and women's world champion Ju Wenjun. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-preview",
-         "pubDate" : "Thu, 25 Apr 2024 19:00:00",
-         "title" : "Starting Saturday: TePe Sigeman & Co with Svidler, Abdusattorov and Ju"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109599475.cms\" /> India's rising chess star D Gukesh, at just 17 years old, made history by winning the Candidates Chess Tournament in Toronto, securing a spot as the youngest challenger ever for the world title, surpassing a record set by the legendary Garry Kasparov four decades ago. Gukesh's victory sets up a showdown against reigning world champion Ding Liren of China later in the year. Reflecting on his achievement, Gukesh highlighted his admiration for the way Dhoni and Djokovic handle pressure, labeling them as big-game players who consistently deliver their",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/ms-dhoni-and-novak-djokovics-pressure-soaking-ability-attracts-chess-sensation-d-gukesh/articleshow/109599475.cms",
          "pubDate" : "Thu, 25 Apr 2024 14:26:16",
          "title" : "Dhoni and Djokovic's pressure-soaking ability attracts D Gukesh"
-      },
-      {
-         "description" : "Have all playable alternatives in the early opening been discovered? Despite the huge number of possibilities, there seem to be no surprises in the first moves of a chess game, right? Well, I think I might just have blown that theory out of the water. Yes, I believe that I have discovered a new opening! Let me present you with the Wirral-Squirrel Variation, which introduces an entirely new idea as early as on move 4.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/meet-the-wirral-squirrel-variation",
-         "pubDate" : "Thu, 25 Apr 2024 12:00:00",
-         "title" : "Meet the Wirral-Squirrel Variation (WSV)"
       },
       {
          "description" : " The team representing the ACT Junior League has won the 2024 Anzac Day Junior Hybrid Event, its 2nd win in 2 years. The event brought together 5 teams representing ACT, Victoria (Hobson Bay), NSW (JZMC), Western Australia (Kingsley CC) and Christchurch NZ (ISCC). The event was a 5 round RR, played over 6 games per match. The ACT team scored 18.5/24, with HBCC on 13, JZMC 12, ISCC 9.5 and KCC 7. Despite the margin of victory, the event was a lot closer than the scores indicated with a number of games in the final round ACT v HBCC match looking like they could go either way. The tournament was organised by IA Casey Goh (HBCC) and was played with a time limit of G30m+15s inc. Four players scor",
@@ -184,6 +168,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
          "pubDate" : "Wed, 24 Apr 2024 16:00:44",
          "title" : "Entry form now open for 2024 British Chess Championships"
+      },
+      {
+         "description" : "South Lakes Chess Congress 7 9 June 2024 in Barrow-in-Furness Due to circumstances beyond our control, we have to announce the cancellation of the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/congress-cancellation-south-lakes/",
+         "pubDate" : "Wed, 24 Apr 2024 15:00:44",
+         "title" : "Congress cancellation - South Lakes"
       },
       {
          "description" : "",
@@ -1290,14 +1282,6 @@ news_feed (
          "title" : "FIDE Candidates: Gukesh joins Nepomniachtchi in the lead "
       },
       {
-         "description" : "After close to six hours of play and in the longest round of the 2024 FIDE Candidates Tournament so far, GM Gukesh Dommaraju defeated GM Nijat Abasov to catch GM Ian Nepomniachtchi in the lead. Nepomniachtchi, on the other hand, survived a lost po...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-5",
-         "pubDate" : "Tue, 09 Apr 2024 18:07:00",
-         "title" : "Gukesh Joins Lead, Nepomniachtchi Survives Praggnanandhaa's Killer Preparation"
-      },
-      {
          "description" : "As I noted last month, in <A HREF=\"https://chessforallages.blogspot.com/2024/03/march-1974-1999-on-cover.html\">March 1974 & 1999 'On the Cover'</A> (March 2024), that month was 'the tenth anniversary of the first \"On the Cover\" post'. Now we start the next ten years of brief, monthly looks at the leading U.S. chess magazine from 50 and 25 years ago. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od09.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Alexander Ivanov - Pan American Champion' (also '1999 Yearbook') <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Grandmaster Walter Browne of California, winner of the Hoogover [sic; 'Hoogoven' o",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1456,14 +1440,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39883984/fide-candidates-2024-day-2-wrap-indian-chess-vidit-gujrathi-stuns-nakamura-gukesh-beats-praggnanandhaa-koneru-humpy-draws-vaishali-loses?device=featurephone",
          "pubDate" : "Fri, 5 Apr 2024 22:30:54",
          "title" : "FIDE Candidates 2024 Day 2 wrap: Vidit stuns world No. 3 Nakamura, Gukesh beats Pragg"
-      },
-      {
-         "description" : "In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/03/cfaas-cmp-another-look.html\">CFAA's CMP : Another Look</A> (March 2024), I noted, <BLOCKQUOTE> My preliminary analysis says there are rough waters ahead. So what happened? </BLOCKQUOTE> <P> The following chart shows earnings from my resources generated by Google ads over the past year. I implemented Google's CMP near the end of September 2023 ('2023-10-03' on the chart). <P> There is a sharp contrast between the six months preceding that date and the six months following. (Missing from the chart is the end date, around '2024-04-03'.) The ratio of the total earnings in the first six months to the total in the last six",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/cfaas-cmp-earnings.html",
-         "pubDate" : "Fri, 05 Apr 2024 15:33:00",
-         "title" : "CFAA's CMP : Earnings"
       }
    ]
 }
