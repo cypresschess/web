@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Chennai teenager won the Candidates by just half a point and will take on China's Ding Liren for the world crown in a 14-game series later this year Gukesh Dommaraju became, at 17, the youngest ever Candidates <em> ­</em>winner and world championship challenger on Sunday after edging out the favourites Fabiano Caruana, Hikaru Nakamura and Ian Nepomniachtchi in a marathon six-hour final round in Toronto. Gukesh will now meet the holder, China's Ding Liren, in a 14-game series for the world crown from 20 November to 15 December. The world No 1, Norway's Magnus Carlsen, abdicated his title in 2023 after a 10-year reign. <a href=\"https://www.theguardian.com/sport/2024/apr/26/chess-gukesh-17",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/2024/apr/26/chess-gukesh-17-shocks-favourites-to-become-youngest-challenger-for-title",
+         "pubDate" : "Fri, 26 Apr 2024 07:00:34",
+         "title" : "Chess: Gukesh, 17, shocks favourites to become youngest challenger for title"
+      },
+      {
+         "description" : "BBC Factual announced a new competition format, \"Chess Masters\", for BBC Two and iPlayer. Across eight episodes, passionate and highly skilled players from all backgrounds will battle it out across a series of rapid chess games before one will be crowned the title of Chess Master. The announcement comes a bit over 40 years after BBC2 aired \"The Master Game\", a popular show that ran for seven series, from 1976 to 1983.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bbc-brings-back-televised-chess-series",
+         "pubDate" : "Fri, 26 Apr 2024 05:45:00",
+         "title" : "BBC brings back televised chess series"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1416,14 +1432,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/",
          "pubDate" : "Fri, 05 Apr 2024 13:24:12",
          "title" : "Maurice Ashley speaks on new books!"
-      },
-      {
-         "description" : " Contest to decide Ding Liren's challenger began on Thursday, while the world No 1 kept up his winning streak in the Grenke Classic The eight potential challengers who began the Candidates tournament in Toronto on Thursday have an ­unfamiliar feeling. Whoever wins will be a firm favourite to ­capture the crown from the struggling holder, Ding Liren, instead of being the ­outsider of two against Magnus Carlsen, who abdicated his title while still at his playing peak. For the first time, the Women's Candidates is being held simultaneously. The games will be shown live on <a href=\"https://www.youtube.com/@FIDE_chess\">Fide YouTube</a> starting at 7.30pm BST daily, with commentary from the ­forme",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/apr/05/fabiano-caruana-favourite-candidates-magnus-carlsen-wins-sixth-event-in-row-chess",
-         "pubDate" : "Fri, 05 Apr 2024 07:00:01",
-         "title" : "Caruana favourite as Candidates begins while Carlsen wins sixth event in a row"
       }
    ]
 }
