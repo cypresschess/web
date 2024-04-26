@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Inspired by a data analysis of the style of play in American basketball, Roger Lorenz has carried out a similar analysis for top-level chess. There have indeed significant changes over the last few decades - not necessarily positive ones.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/data-changes-nba-top-level-chess",
+         "pubDate" : "Fri, 26 Apr 2024 16:00:00",
+         "title" : "How data analysis has changed the NBA and top-level chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2992",
+         "pubDate" : "Fri, 26 Apr 2024 14:46:29",
+         "title" : "FIDE Council meeting 2024 8, 13 April List of Decisions published"
+      },
+      {
+         "description" : "South Lakes Chess Congress 7 9 June 2024 in Barrow-in-Furness Due to circumstances beyond our control, we have to announce the cancellation of the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/congress-cancellation-south-lakes/",
+         "pubDate" : "Fri, 26 Apr 2024 13:39:44",
+         "title" : "Congress cancellation - South Lakes"
+      },
+      {
          "description" : "On April 28, the subscribers of Kasparov Chess Foundation Academy will gather for an exclusive interview with Elizbar Ubilava. At 74 years young, Elizbar Ubilava, a Spanish grandmaster of Georgian origin, is a living legend in the world of chess. With his remarkable achievements and illustrious career spanning decades, Ubilava's influence on the chess landscape is unparalleled.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -232,6 +256,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-gukesh-celebrates-historic-fide-candidates-win-with-fan-meet-up-in-toronto/articleshow/109554101.cms",
          "pubDate" : "Wed, 24 Apr 2024 06:37:17",
          "title" : "Watch: Gukesh celebrates Candidates win with fan meet-up"
+      },
+      {
+         "description" : "Members who would like to study for and then secure the titles of ECU Expert Coach (EEC) &#38; ECU Junior Coach (EJC) are invited to...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecu-etc-titles-webinar-2024/",
+         "pubDate" : "Tue, 23 Apr 2024 16:00:31",
+         "title" : "ECU - ETC Titles' Webinar 2024"
       },
       {
          "description" : "",
@@ -1432,14 +1464,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/04/cfaas-cmp-earnings.html",
          "pubDate" : "Fri, 05 Apr 2024 15:33:00",
          "title" : "CFAA's CMP : Earnings"
-      },
-      {
-         "description" : " Grandmaster Maurice Ashley has been busy lately despite taking a break from commentating. On the cover of the latest Chess Life magazine, Ashley strikes a menacing pose while clasping the black king, his right hand ever ready for defense or attack. This pose symbolizes everything that chess is. It is indeed a sport, science, and The post <a href=\"https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/\">Maurice Ashley speaks on new books!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/04/05/maurice-ashley-speaks-on-new-books/",
-         "pubDate" : "Fri, 05 Apr 2024 13:24:12",
-         "title" : "Maurice Ashley speaks on new books!"
       }
    ]
 }
