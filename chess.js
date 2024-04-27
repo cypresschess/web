@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "description" : " The 28th Tepe Sigeman & Co Chess Tournament takes place in Malmo 27th April to 3rd May 2024. Players: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, Peter Svidler, Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and Ju Wenjun. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/28th-tepe-sigeman-co-chess-tournament-2024",
+         "pubDate" : "Sat, 27 Apr 2024 23:15:00",
+         "title" : "28th Tepe Sigeman & Co Chess Tournament 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2995",
+         "pubDate" : "Sat, 27 Apr 2024 20:21:39",
+         "title" : "Azerbaijan Championship: Aydin Suleymanli wins maiden title"
+      },
+      {
+         "description" : "The first round of the TePe Sigeman & Co. Tournament in Malm&ouml; saw three out of four games ending decisively, as only defending champion Peter Svidler and local hero Nils Grandelius signed a draw on Saturday. Two out of the three top seeds started the event with victories - Arjun Erigaisi and Vincent Keymer - while Nodirbek Abdusattorov, the highest-rated participant, suffered an upset defeat against Anton Korobov (pictured). | Photo: Mikael Svensson, tepesigemanchess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
-         "pubDate" : "Sat, 27 Apr 2024 14:50:00",
-         "title" : "TePe Sigeman & Co. - Live!"
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-1",
+         "pubDate" : "Sat, 27 Apr 2024 19:45:00",
+         "title" : "TePe Sigeman: Korobov, Keymer and Arjun start with wins"
+      },
+      {
+         "description" : "GM Hikaru Nakamura triumphantly returned to the Bullet Brawl arena on Saturday, scoring 74.5/76 en route to a resounding victory ahead of 150 titled players. Boasting a score of 288, Nakamura finished with a 14-point buffer of&#38;nbsp;GM Daniel Narod...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-april-27-2024",
+         "pubDate" : "Sat, 27 Apr 2024 16:00:44",
+         "title" : "Nakamura Scores Near-Perfect 74.5/76"
+      },
+      {
+         "description" : "GM Anton Korobov won a topsy-turvy game to score an upset victory against world number-four GM Nodirbek Abdusattorov in the opening round of the 2024 TePe Sigeman Chess Tournament. The 29th edition started today in Malmo, Sweden.&#38;nbsp; In the sa...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-1",
+         "pubDate" : "Sat, 27 Apr 2024 13:35:00",
+         "title" : "Korobov Upsets Abdusattorov as TePe Sigeman Chess Tournament Gets Underway"
       },
       {
          "description" : "Right Mood Right Move. That's the tagline of ChessMood I love it and fully agree. Feeling good (confident, happy, relaxed) while playing chess can help you find better moves and ultimately get better results. A clear mind can focus better on complex chess positions, leading you to make better decisions which lead []",
@@ -1242,22 +1274,6 @@ news_feed (
          "title" : "1100 days for 100 years of FIDE, and a Guinness World Record!"
       },
       {
-         "description" : "At the halfway mark of the 2024 FIDE Candidates Tournament, GM Ian Nepomniachtchi is back in the sole lead. In round seven, he survived over 20 moves of preparation from GM Hikaru Nakamura to make the draw. GM Gukesh Dommaraju came close to winn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-7",
-         "pubDate" : "Thu, 11 Apr 2024 16:42:00",
-         "title" : "Firouzja Knocks Gukesh Out Of Lead, Nepomniachtchi Heads Tournament Again"
-      },
-      {
-         "description" : " Tan Zhongyi leads the women's Candidates on 4.5/6 after a round where all the games finished decisively. Tan played the Colle system against Anna Muzychuk and hit a bullseye as black drifted into trouble. Objectively there weren't early problems but Carlsen won with black playing 9...cxd4 against Bluebaum, you have to take that as a serious recommendation. After 9...Be7 10.Ne5 cxd4 11.exd4 Nxe5 12.dxe5 white was already better and following 12...Nd7? Tan was close to winning. Tan made some inaccuracies along the way but Muzychuk never equalised and lost in 37 moves. Aleksandra Goryachkina kept second place after grinding out a win against Nurgyul Salimova in a Catalan. Rameshbabu Vaishali g",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/four-decisive-games-in-round-6-of-the-womens-candidates",
-         "pubDate" : "Thu, 11 Apr 2024 12:50:00",
-         "title" : "Four decisive games in Round 6 of the women's Candidates - 6"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1272,14 +1288,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39917666/fide-candidates-2024-gukesh-remains-joint-lead-wins-pragg-vidit-round-6?device=featurephone",
          "pubDate" : "Wed, 10 Apr 2024 23:56:36",
          "title" : "FIDE Candidates 2024: Gukesh remains in joint-lead, wins for Pragg and Vidit in R6"
-      },
-      {
-         "description" : "Former Women&#39;s World Champion Tan Zhongyi capped off a tremendous attack against GM Anna Muzychuk to gain her third victory in the 2024 FIDE Women&#39;s Candidates and maintain the lead. All four games were decisive in round six, leaving GM Aleksandra...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-6",
-         "pubDate" : "Wed, 10 Apr 2024 16:53:00",
-         "title" : "Tan Plays Attacking Gem In All-Decisive Day In Women's; Vidit, Praggnanandhaa Recover"
       },
       {
          "description" : "",
@@ -1424,14 +1432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2956",
          "pubDate" : "Sun, 07 Apr 2024 01:57:44",
          "title" : "FIDE Candidates: Praggnanadhaa and Vaishali victorious in Round 3"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2955",
-         "pubDate" : "Sat, 06 Apr 2024 21:03:20",
-         "title" : "FIDE Trainers Online Seminars to be held from April 19-21 and April 26-28"
       }
    ]
 }
