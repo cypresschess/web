@@ -1432,14 +1432,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2955",
          "pubDate" : "Sat, 06 Apr 2024 21:03:20",
          "title" : "FIDE Trainers Online Seminars to be held from April 19-21 and April 26-28"
-      },
-      {
-         "description" : "Chess is booming. One of the reasons is top-level chess with a great variety of commentators. The ongoing Candidates tournament is the most important chess tournament of this year. So obviously, it attracts a lot of viewers. Many of those discuss what the optimal commentary of these games should look like. Most importantly, if commentators []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/chess-commentary-engines/",
-         "pubDate" : "Sat, 06 Apr 2024 18:39:30",
-         "title" : "Settling The Debate: Commentary With Engine Yes or No?"
       }
    ]
 }
