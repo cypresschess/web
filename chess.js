@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Dommaraju Gukesh, born May 29 2006, has sensationally won the Candidates Tournament to decide the challenger for the world chess title, the match for which will be staged later this year. When Garry Kasparov, at the age of 22, won the championship in 1985, it was believed impossible for any younger player to supplant his record. Now, the []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/can-gukesh-rule-the-world-at-18/",
+         "pubDate" : "Sat, 27 Apr 2024 05:38:39",
+         "title" : "Can Gukesh rule the world at 18?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2994",
+         "pubDate" : "Sat, 27 Apr 2024 05:00:21",
+         "title" : "FIDE World Championship Match 2024 - Call for bids"
+      },
+      {
          "description" : "The Women's Grand Prix is a series of tournaments launched by FIDE in 2009 to promote women's chess. FIDE is pleased to announce the list of players who have secured their place in the 2024-2025 WGP Series. All 14 qualified players have earned their spot thanks to fulfilling the qualifying conditions. The remaining six players to take part will be nominated by the organizers of each of the six tournaments. Reigning women's world champion Ju Wenjun will not take part in the series - she was replaced by Sarasadat Khademalsharieh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
