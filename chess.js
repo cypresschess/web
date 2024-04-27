@@ -1432,14 +1432,6 @@ news_feed (
          "link" : "https://www.thearticle.com/beer-chess-and-the-theory-of-everything/",
          "pubDate" : "Sat, 06 Apr 2024 08:46:40",
          "title" : "Beer, chess and the theory of everything"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2954",
-         "pubDate" : "Sat, 06 Apr 2024 02:02:30",
-         "title" : "FIDE Candidates: Exciting second round sees six victories"
       }
    ]
 }
