@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After Gukesh's victory in the Candidates Tournament, the enthusiasm in his home country knows no bounds. On his return to Chennai, the youngest World Chess Championship challenger of all time was greeted with a huge reception. India intends to host the World Championship match between Gukesh and reigning champion Ding Liren from China. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gukesh-homecoming-candidates-2024",
+         "pubDate" : "Sat, 27 Apr 2024 12:10:00",
+         "title" : "India gives Gukesh a much deserved hero's welcome"
+      },
+      {
+         "description" : "IM Ulviyya Fataliyeva (AZE, 2377) maintained the sole lead after seven played rounds at the European Women's Chess Championship 2024 in Rhodes, Greece. In the top-board all-Azerbeijani derby of the sixth round, Ulviyya Fataliyeva defeated WGM Govhar Beydullayeva (AZE, 2402) with black pieces. The game was quite balanced until 30.Nc4? when Fataliyeva gained a clear advantage. She further improved the edge and forced Beydullayeva to resign after a couple of moves. IM Lela Javakhishvili (GEO, 2447) took a victory with []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-maintains-the-sole-lead-at-the-european-womens-chess-championship-2024/",
+         "pubDate" : "Sat, 27 Apr 2024 08:08:48",
+         "title" : "IM Ulviyya Fataliyeva maintains the sole lead at the European Women's Chess Championship 2024"
+      },
+      {
          "description" : "Dommaraju Gukesh, born May 29 2006, has sensationally won the Candidates Tournament to decide the challenger for the world chess title, the match for which will be staged later this year. When Garry Kasparov, at the age of 22, won the championship in 1985, it was believed impossible for any younger player to supplant his record. Now, the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -18,28 +34,12 @@ news_feed (
          "title" : "FIDE World Championship Match 2024 - Call for bids"
       },
       {
-         "description" : "The Women's Grand Prix is a series of tournaments launched by FIDE in 2009 to promote women's chess. FIDE is pleased to announce the list of players who have secured their place in the 2024-2025 WGP Series. All 14 qualified players have earned their spot thanks to fulfilling the qualifying conditions. The remaining six players to take part will be nominated by the organizers of each of the six tournaments. Reigning women's world champion Ju Wenjun will not take part in the series - she was replaced by Sarasadat Khademalsharieh.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-grand-prix-2024-25-participants",
-         "pubDate" : "Sat, 27 Apr 2024 00:30:00",
-         "title" : "Women's Grand Prix 2024-25: List of participants"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2993",
          "pubDate" : "Fri, 26 Apr 2024 18:49:36",
          "title" : "World Cadet Rapid & Blitz Championship starts in Durres, Albania"
-      },
-      {
-         "description" : "Inspired by a data analysis of the style of play in American basketball, Roger Lorenz has carried out a similar analysis for top-level chess. There have indeed significant changes over the last few decades - not necessarily positive ones.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/data-changes-nba-top-level-chess",
-         "pubDate" : "Fri, 26 Apr 2024 16:00:00",
-         "title" : "How data analysis has changed the NBA and top-level chess"
       },
       {
          "description" : "",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-com-publishes-fair-play-report-on-titled-tuesday",
          "pubDate" : "Fri, 26 Apr 2024 10:10:00",
          "title" : "Cheating Not Widespread In Titled Tuesday, Chess.com Fair Play Team Says In New Report"
-      },
-      {
-         "description" : "On April 28, the subscribers of Kasparov Chess Foundation Academy will gather for an exclusive interview with Elizbar Ubilava. At 74 years young, Elizbar Ubilava, a Spanish grandmaster of Georgian origin, is a living legend in the world of chess. With his remarkable achievements and illustrious career spanning decades, Ubilava's influence on the chess landscape is unparalleled.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-academy-meet-elizbar-ubilava",
-         "pubDate" : "Fri, 26 Apr 2024 10:00:00",
-         "title" : "KCF Academy: meet Elizbar Ubilava"
       },
       {
          "description" : "IM Ulviyya Fataliyeva (AZE, 2377) emerged as the sole leader of the European Women's Chess Championship 2024 after four played rounds. Playing on the top board yesterday, Ulviyya Fataliyeva had white pieces against 15-year-old Ukrainian talent WCM Bozhena Piddubna (UKR, 2005). Fataliyeva gained a clear advantage from the early part of the opening and gradually improved it to crush her opponent without giving a single chance. The top 10 boards yesterday saw as many as nine decisive results and eight []",
@@ -866,14 +858,6 @@ news_feed (
          "title" : "Nepomniachtchi, Tan Regain Sole Lead, Nakamura Beats Praggnanandhaa"
       },
       {
-         "description" : "The European Women's Chess Championship 2024 starts this Friday in Rhodes, Greece. The event will take place from 18-30 April at the 5***** \"Rodos Palace\" Conference Hotel, and officially kicks off with the Opening ceremony and first round which are scheduled for April 19th. The tournament gathers 183 players coming from 35 European federations and it will be the largest European Women's Championship ever. A very strong line-up is headlined by IM Yuliia Osmak (UKR, 2459), IM Marsel Efroimski (ISR, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2024-starts/",
-         "pubDate" : "Wed, 17 Apr 2024 14:40:14",
-         "title" : "European Women's Chess Championship 2024 starts"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1440,14 +1424,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/candidates-chaos.html",
          "pubDate" : "Sat, 06 Apr 2024 13:10:00",
          "title" : "Candidates Chaos"
-      },
-      {
-         "description" : "The earliest record of beer brewing in the Holy Roman Empire dates from 974 AD, when the Emperor Otto II granted a licence to the Abbey of Liège in Belgium. Their co-national religious institution, the Abbey of Leffe, launched its own brews in 1240; they remain on sale even in the 21st century. Then, in []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/beer-chess-and-the-theory-of-everything/",
-         "pubDate" : "Sat, 06 Apr 2024 08:46:40",
-         "title" : "Beer, chess and the theory of everything"
       }
    ]
 }
