@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
+         "pubDate" : "Sat, 27 Apr 2024 14:50:00",
+         "title" : "TePe Sigeman & Co. - Live!"
+      },
+      {
+         "description" : "Right Mood Right Move. That's the tagline of ChessMood I love it and fully agree. Feeling good (confident, happy, relaxed) while playing chess can help you find better moves and ultimately get better results. A clear mind can focus better on complex chess positions, leading you to make better decisions which lead []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/habits-for-better-mood/",
+         "pubDate" : "Sat, 27 Apr 2024 13:00:00",
+         "title" : "3 Simple Habits for a Clearer Mind and Better Moves"
+      },
+      {
+         "description" : " The 2024 ACT Teams Rapid Championship is being held on Sunday, 5th May 2024, at Campbell High. This event is open to all ACTCA members as well as all members of the ACTJCL. The format of the tournament is teams of 4, playing 7 rounds of 15 minute chess. The last event was held in 2022 and a good time was had by all. <div><b>Tournament Details</b><br />Date: Sunday 5th May 2024 - Registration from 9:30am, Prize giving at 3:30pm<br /><br />Venue: Campbell High School, Trealor Cres, Campbell ACT<br /><br />Rounds: 7<br /><br />Time control: G15+5s<br /><br />Prizes: 1st, 2nd and 3rd placed trophies. Medals for the best scorer on each board. Bonus prizes for best dressed team, best work/social ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/2024-act-teams-rescheduled-to-5th-may.html",
+         "pubDate" : "Sat, 27 Apr 2024 12:27:00",
+         "title" : "2024 ACT Teams - Rescheduled to 5th May"
+      },
+      {
          "description" : "After Gukesh's victory in the Candidates Tournament, the enthusiasm in his home country knows no bounds. On his return to Chennai, the youngest World Chess Championship challenger of all time was greeted with a huge reception. India intends to host the World Championship match between Gukesh and reigning champion Ding Liren from China. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -79,7 +103,7 @@ news_feed (
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-chess-union-and-aegean-university-sign-the-agreement-of-co-operation/",
          "pubDate" : "Fri, 26 Apr 2024 07:45:55",
-         "title" : "European Chess Union and Aegean University present the \"Chess in Primary Education\" academic cource"
+         "title" : "European Chess Union and Aegean University present the \"Chess in Primary Education\" academic course"
       },
       {
          "description" : " The Chennai teenager won the Candidates by just half a point and will take on China's Ding Liren for the world crown in a 14-game series later this year Gukesh Dommaraju became, at 17, the youngest ever Candidates <em> ­</em>winner and world championship challenger on Sunday after edging out the favourites Fabiano Caruana, Hikaru Nakamura and Ian Nepomniachtchi in a marathon six-hour final round in Toronto. Gukesh will now meet the holder, China's Ding Liren, in a 14-game series for the world crown from 20 November to 15 December. The world No 1, Norway's Magnus Carlsen, abdicated his title in 2023 after a 10-year reign. <a href=\"https://www.theguardian.com/sport/2024/apr/26/chess-gukesh-17",
@@ -1416,14 +1440,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/chess-commentary-engines/",
          "pubDate" : "Sat, 06 Apr 2024 18:39:30",
          "title" : "Settling The Debate: Commentary With Engine Yes or No?"
-      },
-      {
-         "description" : " The 2024 Candidates Tournament is underway in Toronto, and round 2 of the Open section saw 4 decisive games. Probably the most noteworthy was Vidit beating Nakamura, although Caruana's win over Abasov may be the most consequential. Going into the tournament, Caruana was probably the favourite, with Nakamura considered the player most likely to defy the odds. However, considering the rating spread of the field, I think the games between the leaders won't be as important as the games against the back markers (like Candidates events of old). So the win by Caruana was an important won, as was Nepo's win over Firouzja. If at the halfway mark someone is +3 (or more), then it may be all over for t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/candidates-chaos.html",
-         "pubDate" : "Sat, 06 Apr 2024 13:10:00",
-         "title" : "Candidates Chaos"
       }
    ]
 }
