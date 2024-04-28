@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Ulviyya Fataliyeva (AZE, 2377) extended her lead in the European Women's Chess Championship 2024 after defeating WIM Alicja Sliwicka (POL, 2315) yesterday in the 8th round. Playing with black pieces, Ulviyya Fataliyeva took the space advantage in the early part of the game with a slight positional advantage. Sliwicka had her chance to take over the edge after Fataliyeva's mistake 25Na7? Instead of going for 26.g5, Alicja played suspiciously 26.a3? and the Azerbaijani once again took control over the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-extends-the-lead-in-the-european-womens-chess-championship-2024/",
+         "pubDate" : "Sun, 28 Apr 2024 07:33:47",
+         "title" : "IM Ulviyya Fataliyeva extends the lead in the European Women's Chess Championship 2024"
+      },
+      {
          "description" : " The 28th Tepe Sigeman & Co Chess Tournament takes place in Malmo 27th April to 3rd May 2024. Players: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, Peter Svidler, Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and Ju Wenjun. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.thearticle.com/lee-andersen/",
          "pubDate" : "Sat, 20 Apr 2024 10:16:33",
          "title" : "Lee Andersen"
-      },
-      {
-         "description" : "The European Women's Chess Championship 2024 officially kicked off yesterday in Rhodes, Greece. With 182 participants coming from 35 federations the event broke the participation record and became the largest European Women's Chess Championship ever. The Opening ceremony of the event took place shortly before the start of the first round with attendance of ECU President Mr. Zurab Azmaiparashvili the ECU Vice President Ms Eva Rekova and Mr. Alojzije Jankovic, the ECU Secretary General Mr. Theodoros Tsorbatzoglou the South Aegean []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2024-opened-in-rhodes-greece/",
-         "pubDate" : "Sat, 20 Apr 2024 09:27:10",
-         "title" : "European Women's Chess Championship 2024 opened in Rhodes, Greece"
       },
       {
          "description" : " Tan Zhongyi continues to lead Lei Tingjie by half a point going into the final rest day of the Women's Candidates tournament in Toronto. They are too far clear of the rest of the field, one of these two players will win the event. Tan Zhongyi was losing against Nurgyul Salimova. By move 25 Tan was in a very uncomfortable position and tried to break out tactically with 25...b6? but this made things worse. Salimova's 43.f6?! (43.g6!) was a step in the wrong direction but she restored her winning position only to play 50.Bxf7? (50.Nxb4, 50.Rh4+ or 50.Bc6) which basically threw away the entire advantage and the game was drawn. Whilst Tan was losing Lei Tingjie seemed poised to overtake her with",
