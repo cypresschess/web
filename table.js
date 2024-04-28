@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2024-04-27","12","<a href=http://www.uschess.org/msa/XtblMain.php?202404278122 target='_blank'>CHESSPANDA04272024SATURDAY</a>",
+"CYPRESS","2024-04-26","23","<a href=http://www.uschess.org/msa/XtblMain.php?202404267902 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"HOUSTON","2024-04-26","34","<a href=http://www.uschess.org/msa/XtblMain.php?202404267692 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "LEAGUE CITY","2024-04-03  - 04-24","13","<a href=http://www.uschess.org/msa/XtblMain.php?202404244332 target='_blank'>CLCC FAREWELL</a>",
 "HOUSTON","2024-04-20","590","<a href=http://www.uschess.org/msa/XtblMain.php?202404202232 target='_blank'>T H ROGERS SCHOLASTIC APRIL 2024</a>",
 "HOUSTON","2024-04-20","29","<a href=http://www.uschess.org/msa/XtblMain.php?202404202062 target='_blank'>KINGWOOD BLITZ 20 APR 24</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2023-10-13","12","<a href=http://www.uschess.org/msa/XtblMain.php?202310138312 target='_blank'>REBECCA CHESS CLUB QUADS OCTOBER 13, 2023</a>",
 "CYPRESS","2023-10-13","29","<a href=http://www.uschess.org/msa/XtblMain.php?202310138272 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-10-13","17","<a href=http://www.uschess.org/msa/XtblMain.php?202310130062 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2023-10-08","6","<a href=http://www.uschess.org/msa/XtblMain.php?202310087352 target='_blank'>GAME GUYS 10.8.23</a>",
-"HOUSTON","2023-10-07  - 10-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202310086272 target='_blank'>HOUSTON SENIOR OPEN 2023</a>",
-"HOUSTON","2023-10-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310066842 target='_blank'>WBCC QUAD 2023.10.06</a>",
 ]);
