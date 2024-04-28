@@ -26,11 +26,11 @@ news_feed (
          "title" : "TePe Sigeman: Korobov, Keymer and Arjun start with wins"
       },
       {
-         "description" : "GM Hikaru Nakamura triumphantly returned to the Bullet Brawl arena on Saturday, scoring 74.5/76 en route to a resounding victory ahead of 150 titled players. Boasting a score of 288, Nakamura finished with a 14-point buffer of&#38;nbsp;GM Daniel Narod...",
+         "description" : "GM Hikaru Nakamura triumphantly returned to the Bullet Brawl arena on Saturday, scoring 74.5/76 en route to a resounding victory ahead of 150 titled players. Boasting a score of 288, Nakamura finished with a 14-point buffer separating him from GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-april-27-2024",
-         "pubDate" : "Sat, 27 Apr 2024 16:00:44",
+         "pubDate" : "Sat, 27 Apr 2024 16:00:00",
          "title" : "Nakamura Scores Near-Perfect 74.5/76"
       },
       {
@@ -39,7 +39,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-1",
          "pubDate" : "Sat, 27 Apr 2024 13:35:00",
-         "title" : "Korobov Upsets Abdusattorov as TePe Sigeman Chess Tournament Gets Underway"
+         "title" : "Korobov Upsets Abdusattorov As TePe Sigeman Chess Tournament Gets Underway"
       },
       {
          "description" : "Right Mood Right Move. That's the tagline of ChessMood I love it and fully agree. Feeling good (confident, happy, relaxed) while playing chess can help you find better moves and ultimately get better results. A clear mind can focus better on complex chess positions, leading you to make better decisions which lead []",
@@ -1424,14 +1424,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39890904/fide-candidates-2024-day-2-wrap-indian-chess-r-praggnanandhaa-vaishali-first-win-chess-siblings?device=featurephone",
          "pubDate" : "Sun, 7 Apr 2024 05:08:00",
          "title" : "FIDE Candidates 2024 Day 3 wrap: Siblings Praggnanandhaa and Vaishali get only wins of the round"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2956",
-         "pubDate" : "Sun, 07 Apr 2024 01:57:44",
-         "title" : "FIDE Candidates: Praggnanadhaa and Vaishali victorious in Round 3"
       }
    ]
 }
