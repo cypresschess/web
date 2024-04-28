@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
+         "pubDate" : "Sun, 28 Apr 2024 14:50:00",
+         "title" : "TePe Sigeman & Co. - Live!"
+      },
+      {
+         "description" : "Aydin Suleymanli (pictured with his father) emerged as the winner of the Azerbaijani Championship 2024. The 19-year-old native of Baku prevailed over Mahammad Muradli in the final match to capture his maiden national title. The competition consisted of two stages: a 9-round Swiss tournament with classical time control was followed by a playoff with the top four finishers. | Photos: Azerbaijani Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/azerbaijan-championship-2024-report",
+         "pubDate" : "Sun, 28 Apr 2024 13:35:00",
+         "title" : "Azerbaijani Championship: Aydin Suleymanli wins maiden title"
+      },
+      {
+         "description" : " Daniel Buckley (Engineering), Florian Dorleans (FAMU Alumnus), Caleb Parker (Computer Information Systems), Lee Parker (School of Allied Health), Dr. Daaim Shabazz (School of Business &#38; Industry) At the 2nd HBCU Chess Classic, Florida A&#38;M sophomore Caleb Parker won the individual event with 5/5. The event was held at the Georgia Institute of Technology near the The post <a href=\"https://www.thechessdrum.net/blog/2024/04/28/caleb-parker-is-2024-hbcu-chess-champion/\">Caleb Parker is 2024 HBCU Chess Champion!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/04/28/caleb-parker-is-2024-hbcu-chess-champion/",
+         "pubDate" : "Sun, 28 Apr 2024 13:00:23",
+         "title" : "Caleb Parker is 2024 HBCU Chess Champion!"
+      },
+      {
          "description" : "IM Ulviyya Fataliyeva (AZE, 2377) extended her lead in the European Women's Chess Championship 2024 after defeating WIM Alicja Sliwicka (POL, 2315) yesterday in the 8th round. Playing with black pieces, Ulviyya Fataliyeva took the space advantage in the early part of the game with a slight positional advantage. Sliwicka had her chance to take over the edge after Fataliyeva's mistake 25Na7? Instead of going for 26.g5, Alicja played suspiciously 26.a3? and the Azerbaijani once again took control over the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2995",
          "pubDate" : "Sat, 27 Apr 2024 20:21:39",
          "title" : "Azerbaijan Championship: Aydin Suleymanli wins maiden title"
-      },
-      {
-         "description" : "The first round of the TePe Sigeman & Co. Tournament in Malm&ouml; saw three out of four games ending decisively, as only defending champion Peter Svidler and local hero Nils Grandelius signed a draw on Saturday. Two out of the three top seeds started the event with victories - Arjun Erigaisi and Vincent Keymer - while Nodirbek Abdusattorov, the highest-rated participant, suffered an upset defeat against Anton Korobov (pictured). | Photo: Mikael Svensson, tepesigemanchess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-1",
-         "pubDate" : "Sat, 27 Apr 2024 19:45:00",
-         "title" : "TePe Sigeman: Korobov, Keymer and Arjun start with wins"
       },
       {
          "description" : "GM Hikaru Nakamura triumphantly returned to the Bullet Brawl arena on Saturday, scoring 74.5/76 en route to a resounding victory ahead of 150 titled players. Boasting a score of 288, Nakamura finished with a 14-point buffer separating him from GM ...",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/2024-act-teams-rescheduled-to-5th-may.html",
          "pubDate" : "Sat, 27 Apr 2024 12:27:00",
          "title" : "2024 ACT Teams - Rescheduled to 5th May"
-      },
-      {
-         "description" : "After Gukesh's victory in the Candidates Tournament, the enthusiasm in his home country knows no bounds. On his return to Chennai, the youngest World Chess Championship challenger of all time was greeted with a huge reception. India intends to host the World Championship match between Gukesh and reigning champion Ding Liren from China. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gukesh-homecoming-candidates-2024",
-         "pubDate" : "Sat, 27 Apr 2024 12:10:00",
-         "title" : "India gives Gukesh a much deserved hero's welcome"
       },
       {
          "description" : "IM Ulviyya Fataliyeva (AZE, 2377) maintained the sole lead after seven played rounds at the European Women's Chess Championship 2024 in Rhodes, Greece. In the top-board all-Azerbeijani derby of the sixth round, Ulviyya Fataliyeva defeated WGM Govhar Beydullayeva (AZE, 2402) with black pieces. The game was quite balanced until 30.Nc4? when Fataliyeva gained a clear advantage. She further improved the edge and forced Beydullayeva to resign after a couple of moves. IM Lela Javakhishvili (GEO, 2447) took a victory with []",
@@ -1408,14 +1416,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39897573/fide-candidates-2024-nepomniachtchi-takes-sole-lead-only-open-win-round-4-indians-suffer-mixed-bag?device=featurephone",
          "pubDate" : "Mon, 8 Apr 2024 02:37:53",
          "title" : "Candidates: Nepo takes lead with only Open win in rd 4, Indians suffer mixed bag"
-      },
-      {
-         "description" : "On this blog's long running series, <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), Morphy items are not unusual. Having said that, it's been a few years since the previous post on Morphy. <P> The item pictured below was titled 'Unpublished CDV of Paul Charles MORPHY CHESS PRODIGY Playing a Game 1860s Photo'. It sold for US $2158.00 after 19 bids from seven bidders. On a starting price of $30.00, the bids jumped from $150.00 to the final price in the last 20 minutes of the seven day auction. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od07.jpg\" WIDTH=400 HEIGHT=325><BR> <B>Left:</B> F",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/morphy-unpublished.html",
-         "pubDate" : "Sun, 07 Apr 2024 15:02:00",
-         "title" : "Morphy Unpublished"
       }
    ]
 }
