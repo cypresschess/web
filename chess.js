@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help to build your opening repertoire and to understand the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was produced. Check it out!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anish-giri-a-supergrandmaster-s-guide-to-openings-vol-1-3",
+         "pubDate" : "Sun, 28 Apr 2024 20:00:00",
+         "title" : "Anish Giri: A Supergrandmaster's Guide to Openings Vol. 1 & 2"
+      },
+      {
          "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
-         "pubDate" : "Sun, 28 Apr 2024 14:50:00",
+         "pubDate" : "Sun, 28 Apr 2024 15:05:00",
          "title" : "TePe Sigeman & Co. - Live!"
-      },
-      {
-         "description" : "Aydin Suleymanli (pictured with his father) emerged as the winner of the Azerbaijani Championship 2024. The 19-year-old native of Baku prevailed over Mahammad Muradli in the final match to capture his maiden national title. The competition consisted of two stages: a 9-round Swiss tournament with classical time control was followed by a playoff with the top four finishers. | Photos: Azerbaijani Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/azerbaijan-championship-2024-report",
-         "pubDate" : "Sun, 28 Apr 2024 13:35:00",
-         "title" : "Azerbaijani Championship: Aydin Suleymanli wins maiden title"
       },
       {
          "description" : " Daniel Buckley (Engineering), Florian Dorleans (FAMU Alumnus), Caleb Parker (Computer Information Systems), Lee Parker (School of Allied Health), Dr. Daaim Shabazz (School of Business &#38; Industry) At the 2nd HBCU Chess Classic, Florida A&#38;M sophomore Caleb Parker won the individual event with 5/5. The event was held at the Georgia Institute of Technology near the The post <a href=\"https://www.thechessdrum.net/blog/2024/04/28/caleb-parker-is-2024-hbcu-chess-champion/\">Caleb Parker is 2024 HBCU Chess Champion!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
