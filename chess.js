@@ -1416,14 +1416,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/04/morphy-unpublished.html",
          "pubDate" : "Sun, 07 Apr 2024 15:02:00",
          "title" : "Morphy Unpublished"
-      },
-      {
-         "description" : "The third day of the 2024 FIDE Candidates Tournament saw only 2 wins, both coming from Indian sibling duo Praggnanandhaa and Vaishali.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39890904/fide-candidates-2024-day-2-wrap-indian-chess-r-praggnanandhaa-vaishali-first-win-chess-siblings?device=featurephone",
-         "pubDate" : "Sun, 7 Apr 2024 05:08:00",
-         "title" : "FIDE Candidates 2024 Day 3 wrap: Siblings Praggnanandhaa and Vaishali get only wins of the round"
       }
    ]
 }
