@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For a second day in a row, 3 out of 4 games ended decisively at the TePe Sigeman & Co. Tournament in Malm&ouml;. Vincent Keymer (pictured) and Anton Korobov grabbed full points to become co-leaders with a perfect 2/2 score, while defending champion Peter Svidler obtained his first win of the event, as he defeated women's world champion Ju Wenjun with the black pieces. | Photo: Mikael Svensson, tepesigemanchess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-2",
+         "pubDate" : "Mon, 29 Apr 2024 00:35:00",
+         "title" : "TePe Sigeman: Keymer and Korobov score again"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2996",
+         "pubDate" : "Sun, 28 Apr 2024 21:50:54",
+         "title" : "Winners crowned at World Rapid & Blitz Cadet Championship 2024"
+      },
+      {
          "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help to build your opening repertoire and to understand the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was produced. Check it out!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "Anish Giri: A Supergrandmaster's Guide to Openings Vol. 1 & 2"
       },
       {
-         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
-         "pubDate" : "Sun, 28 Apr 2024 15:05:00",
-         "title" : "TePe Sigeman & Co. - Live!"
+         "description" : "IM Ulviyya Fataliyeva (AZE, 2377) heads into the last round of the European Women's Chess Championship 2024 with a full point lead! Today's top-board encounter between IM Ulviyya Fataliyeva and IM Irina Bulmaga (ROU, 2394) finished in a draw after only 12 moves of play. A draw was enough for Azerbaijani to keep a full point lead and to keep her way towards the title. Scoring unbeaten 8/9 points, Fataliyeva is ahead of five players who tie for second place []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-heads-into-the-last-round-of-the-european-womens-chess-championship-2024-with-a-full-point-lead/",
+         "pubDate" : "Sun, 28 Apr 2024 19:31:15",
+         "title" : "IM Ulviyya Fataliyeva heads into the last round of the European Women's Chess Championship 2024 with a full point lead"
       },
       {
          "description" : " Daniel Buckley (Engineering), Florian Dorleans (FAMU Alumnus), Caleb Parker (Computer Information Systems), Lee Parker (School of Allied Health), Dr. Daaim Shabazz (School of Business &#38; Industry) At the 2nd HBCU Chess Classic, Florida A&#38;M sophomore Caleb Parker won the individual event with 5/5. The event was held at the Georgia Institute of Technology near the The post <a href=\"https://www.thechessdrum.net/blog/2024/04/28/caleb-parker-is-2024-hbcu-chess-champion/\">Caleb Parker is 2024 HBCU Chess Champion!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/04/28/caleb-parker-is-2024-hbcu-chess-champion/",
          "pubDate" : "Sun, 28 Apr 2024 13:00:23",
          "title" : "Caleb Parker is 2024 HBCU Chess Champion!"
+      },
+      {
+         "description" : "GM Anton Korobov and GM Vincent Keymer are still on perfect scores after two rounds at the 2024 TePe Sigeman Chess Tournament, and the two leaders will play each other on Monday. While Keymer defeated GM Nils Grandelius, Korobov was too strong for...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-2",
+         "pubDate" : "Sun, 28 Apr 2024 12:44:00",
+         "title" : "Keymer, Korobov On 2/2, To Meet In Round 3 In Malmo"
       },
       {
          "description" : "IM Ulviyya Fataliyeva (AZE, 2377) extended her lead in the European Women's Chess Championship 2024 after defeating WIM Alicja Sliwicka (POL, 2315) yesterday in the 8th round. Playing with black pieces, Ulviyya Fataliyeva took the space advantage in the early part of the game with a slight positional advantage. Sliwicka had her chance to take over the edge after Fataliyeva's mistake 25Na7? Instead of going for 26.g5, Alicja played suspiciously 26.a3? and the Azerbaijani once again took control over the []",
@@ -117,6 +141,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2991",
+         "pubDate" : "Fri, 26 Apr 2024 15:50:35",
+         "title" : "FIDE Women's Grand Prix 2024-2025 Qualifiers"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2992",
          "pubDate" : "Fri, 26 Apr 2024 14:46:29",
          "title" : "FIDE Council meeting 2024 8, 13 April List of Decisions published"
@@ -160,14 +192,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/apr/26/chess-gukesh-17-shocks-favourites-to-become-youngest-challenger-for-title",
          "pubDate" : "Fri, 26 Apr 2024 07:00:34",
          "title" : "Chess: Gukesh, 17, shocks favourites to become youngest challenger for title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2991",
-         "pubDate" : "Thu, 25 Apr 2024 23:50:35",
-         "title" : "FIDE Women's Grand Prix 2024-2025 Qualifiers"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109599475.cms\" /> India's rising chess star D Gukesh, at just 17 years old, made history by winning the Candidates Chess Tournament in Toronto, securing a spot as the youngest challenger ever for the world title, surpassing a record set by the legendary Garry Kasparov four decades ago. Gukesh's victory sets up a showdown against reigning world champion Ding Liren of China later in the year. Reflecting on his achievement, Gukesh highlighted his admiration for the way Dhoni and Djokovic handle pressure, labeling them as big-game players who consistently deliver their",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-outplays-firouzja-to-take-sole-lead-nepo-nakamura-play-draw-caruana-beats-pragg/articleshow/109474898.cms",
          "pubDate" : "Sun, 21 Apr 2024 09:07:09",
          "title" : "Gukesh outplays Firouzja to take sole lead, Caruana beats Pragg"
-      },
-      {
-         "description" : "The second round of the European Women's Chess Championship 2024 was played yesterday. As many as 24 players tie for the top scoring maximum 2/2 points. Many of the top 10 seeds suffered upsets in the first two rounds, except from the rating favourite IM Yuliia Osmak (UKR, 2459) and 7th-seed IM Lela Javakhishvili (GEO, 2447). IM Yuliia Osmak was victorious against her compatriot GM Natalia Zhukova (UKR, 2301) and IM Lela Javakhshvili defeated WIM Anna Kubicka (POL, 2292). WIM []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2024-round-2-recap/",
-         "pubDate" : "Sun, 21 Apr 2024 08:11:25",
-         "title" : "European Women's Chess Championship 2024 - Round 2 recap"
       },
       {
          "description" : "",
@@ -1208,14 +1224,6 @@ news_feed (
          "link" : "https://aicf.in/gm-d-gukesh-and-gm-r-praggnanandhaa-half-point-behind-the-tournament-leader-gm-ian-nepomniachtchi/",
          "pubDate" : "Fri, 12 Apr 2024 09:33:28",
          "title" : "GM D Gukesh and GM R Praggnanandhaa half point behind the tournament leader GM Ian Nepomniachtchi"
-      },
-      {
-         "description" : "GM Fabiano Caruana trails leader GM Ian Nepomniachtchi by half a point at the midway stage of the 2024 Candidates Tournament, just as he did in 2022. Back then he crashed and burned as he fought for first place, only for it turn out that second pl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/caruana-dream-world-chess-champion",
-         "pubDate" : "Fri, 12 Apr 2024 09:26:00",
-         "title" : "Caruana: 'I Had A Dream I Would Become World Champion'"
       },
       {
          "description" : " The 33-year-old Russian, a defeated world title challenger in 2021 and 2023, is in line for a third attempt as he leads in Toronto at halfway Russia's Ian Nepomniachtchi leads at halfway in the â‚¬500k Candidates in Toronto, Canada, whose winner qualifies for a world title match later this year with the holder, China's Ding Liren. Scores after round seven (of 14): Nepomniachtchi (Russia) 4.5; ­Fabiano Caruana (US), ­Praggnanandhaa R and Gukesh D (both India) 4; Hikaru Nakamura (US) and Vidit Gujrathi (India) 3.5; Alireza Firouzja (France) 2.5; Nijat Abasov (Azerbaijan) 2. <a href=\"https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidates-victory-as-indian-",
