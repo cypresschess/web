@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi inflicted a third consecutive loss on Marc'Andria Maurizzi to join Vincent Keymer and Anton Korobov in the lead of the TePe Sigeman & Co. Tournament in Malm&ouml;. All three remaining games ended drawn, including the clash of co-leaders between Keymer and Korobov. | Photo: Mikael Svensson, tepesigemanchess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-3",
+         "pubDate" : "Tue, 30 Apr 2024 01:20:00",
+         "title" : "TePe Sigeman: Arjun beats Maurizzi to join the lead"
+      },
+      {
          "description" : " The German Schachbundesliga took place over 15 rounds Sat 21st Oct to Sun 28th Apr 2024. SC Viernheim were the surprise champions winning all their matches and finishing 3 points clear of Baden-Baden. This is the first time Baden-Baden didn't win the league since the 2015/16 season, and only the second time they didn't win since their first title in 2005/06.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "Schachbundesliga 2023-24 - Games and Results"
       },
       {
-         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
-         "pubDate" : "Mon, 29 Apr 2024 14:50:00",
-         "title" : "TePe Sigeman & Co. - Live!"
+         "description" : "GM Arjun Erigaisi beat GM Marc&#39;Andria Maurizzi in round three of the 2024 TePe Sigeman Chess Tournament to join the leaders after GM Anton Korobov was unable to grind down co-leader GM Vincent Keymer. Top seed GM Nodirbek Abdusattorov once again f...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-3",
+         "pubDate" : "Mon, 29 Apr 2024 15:05:00",
+         "title" : "Arjun Catches Leaders, Eyes World No. 4 Spot"
       },
       {
          "description" : "A week ago we showed you a famous game, played between Siegbert Tarrasch and Akiba Rubinstein in 1911. It ended in a draw, and is given as a model example for an active defence in rook endings. However, that was not the clear conclusion to draw from the game, and we asked you whether you could find the mistakes in the game play strategy? Wolfram Sch&ouml;n provided a very deep answer.",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/carlsen-fears-ding-is-permanently-broken-hails-gukesh-candidates",
          "pubDate" : "Mon, 29 Apr 2024 07:41:00",
          "title" : "Carlsen Fears Ding Is 'Permanently Broken', Hails Gukesh After Candidates Win"
-      },
-      {
-         "description" : "For a second day in a row, 3 out of 4 games ended decisively at the TePe Sigeman & Co. Tournament in Malm&ouml;. Vincent Keymer (pictured) and Anton Korobov grabbed full points to become co-leaders with a perfect 2/2 score, while defending champion Peter Svidler obtained his first win of the event, as he defeated women's world champion Ju Wenjun with the black pieces. | Photo: Mikael Svensson, tepesigemanchess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-2",
-         "pubDate" : "Mon, 29 Apr 2024 00:35:00",
-         "title" : "TePe Sigeman: Keymer and Korobov score again"
       },
       {
          "description" : "",
@@ -1216,14 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2969",
          "pubDate" : "Sat, 13 Apr 2024 22:29:09",
          "title" : "James Kang'aru Mwangi wins 2024 Forty Under 40 Africa Achiever Award"
-      },
-      {
-         "description" : "Round eight of the 2024 FIDE Candidates Tournament saw two winners and a significant change in the standings. GM Hikaru Nakamura defeated GM Fabiano Caruana in the all-American matchup, while GM Gukesh Dommaraju also beat his countryman GM Vidit G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-8",
-         "pubDate" : "Sat, 13 Apr 2024 17:30:00",
-         "title" : "Nakamura Leapfrogs Caruana, Gukesh Re-enters Shared Lead With Nepomniachtchi"
       },
       {
          "description" : "During his all too brief tenure as chess columnist for The Sunday Telegraph, the UK's most illustrious grandmaster, Nigel Short, was an enthusiastic user of unusual words and metaphors. For example: he introduced me to the word oenophile in his columns (lover of wine) and strikingly employed the word spherical to describe the Falstaffian Soviet Grandmaster, Eduard (Eddie) Gufeld. Since then, []",
