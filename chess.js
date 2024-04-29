@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The German Schachbundesliga took place over 15 rounds Sat 21st Oct to Sun 28th Apr 2024. SC Viernheim were the surprise champions winning all their matches and finishing 3 points clear of Baden-Baden. This is the first time Baden-Baden didn't win the league since the 2015/16 season, and only the second time they didn't win since their first title in 2005/06.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/schachbundesliga-2023-24",
+         "pubDate" : "Mon, 29 Apr 2024 15:33:00",
+         "title" : "Schachbundesliga 2023-24 - Games and Results"
+      },
+      {
+         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
+         "pubDate" : "Mon, 29 Apr 2024 14:50:00",
+         "title" : "TePe Sigeman & Co. - Live!"
+      },
+      {
+         "description" : "A week ago we showed you a famous game, played between Siegbert Tarrasch and Akiba Rubinstein in 1911. It ended in a draw, and is given as a model example for an active defence in rook endings. However, that was not the clear conclusion to draw from the game, and we asked you whether you could find the mistakes in the game play strategy? Wolfram Sch&ouml;n provided a very deep answer.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/endgame-riddle-is-active-defense-always-best-2",
+         "pubDate" : "Mon, 29 Apr 2024 14:05:00",
+         "title" : "Riddle: Is active defense always best?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2997",
+         "pubDate" : "Mon, 29 Apr 2024 12:28:29",
+         "title" : "ISF Gymnasiade 2024 in Chess: Registration is open"
+      },
+      {
+         "description" : "The Greek Chess Federation is hosting the European Women's Individual Championship this year. The tournament is taking place on 18-30 April in Rhodes, Greece. The tournament is played over ten rounds according to the Swiss system. The top ten finishers will qualify for the next edition of the Women's World Cup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eruopean-women-championship-2024-live",
+         "pubDate" : "Mon, 29 Apr 2024 11:50:00",
+         "title" : "European Women's Chess Championship - Live!"
+      },
+      {
          "description" : "After the little excursion to plenty of Anti-Sicilians, and how Chris Ward suggested countering them, we got back on track with a real Dragon game. Real? Well, this time, the British GM chose a very positional game, and points out, that it doesn't always have to be a tactical back and forth in this opening. Uncomplicated, straightforward chess is possible!| Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-monthly-dragon-a-positional-dragon",
          "pubDate" : "Mon, 29 Apr 2024 09:20:53",
          "title" : "The Monthly Dragon - A positional dragon?"
+      },
+      {
+         "description" : "GM Magnus Carlsen says he fears that reigning World Champion Ding Liren could be &#39;permanently broken&#39; and fail to recover after his world championship victory. At the same time he praised the 17-year-old Candidates Tournament winner GM Gukesh Domm...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-fears-ding-is-permanently-broken-hails-gukesh-candidates",
+         "pubDate" : "Mon, 29 Apr 2024 07:41:00",
+         "title" : "Carlsen Fears Ding Is 'Permanently Broken', Hails Gukesh After Candidates Win"
       },
       {
          "description" : "For a second day in a row, 3 out of 4 games ended decisively at the TePe Sigeman & Co. Tournament in Malm&ouml;. Vincent Keymer (pictured) and Anton Korobov grabbed full points to become co-leaders with a perfect 2/2 score, while defending champion Peter Svidler obtained his first win of the event, as he defeated women's world champion Ju Wenjun with the black pieces. | Photo: Mikael Svensson, tepesigemanchess.com",
@@ -24,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2996",
          "pubDate" : "Sun, 28 Apr 2024 21:50:54",
          "title" : "Winners crowned at World Rapid & Blitz Cadet Championship 2024"
-      },
-      {
-         "description" : "When you begin your journey of building an opening repertoire, how nice would it be to get a glimpse of what each opening looks like through the eyes of a super GM. It would help to build your opening repertoire and to understand the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was produced. Check it out!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anish-giri-a-supergrandmaster-s-guide-to-openings-vol-1-3",
-         "pubDate" : "Sun, 28 Apr 2024 20:00:00",
-         "title" : "Anish Giri: A Supergrandmaster's Guide to Openings Vol. 1 & 2"
       },
       {
          "description" : "IM Ulviyya Fataliyeva (AZE, 2377) heads into the last round of the European Women's Chess Championship 2024 with a full point lead! Today's top-board encounter between IM Ulviyya Fataliyeva and IM Irina Bulmaga (ROU, 2394) finished in a draw after only 12 moves of play. A draw was enough for Azerbaijani to keep a full point lead and to keep her way towards the title. Scoring unbeaten 8/9 points, Fataliyeva is ahead of five players who tie for second place []",
@@ -1186,14 +1226,6 @@ news_feed (
          "title" : "Nakamura Leapfrogs Caruana, Gukesh Re-enters Shared Lead With Nepomniachtchi"
       },
       {
-         "description" : "GM Oleksandr Bortnyk won the latest iteration of Bullet Brawl after posting a 28-game winning streak and overtaking GM Jose Martinez in the dying minutes of the two-hour arena. Finishing on 247 points with 68 wins, five draws, and 11 losses, Bortn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-april-13-2024",
-         "pubDate" : "Sat, 13 Apr 2024 15:21:00",
-         "title" : "Bortnyk Clutches Bullet Brawl With 28-Game Win Streak"
-      },
-      {
          "description" : "During his all too brief tenure as chess columnist for The Sunday Telegraph, the UK's most illustrious grandmaster, Nigel Short, was an enthusiastic user of unusual words and metaphors. For example: he introduced me to the word oenophile in his columns (lover of wine) and strikingly employed the word spherical to describe the Falstaffian Soviet Grandmaster, Eduard (Eddie) Gufeld. Since then, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1264,14 +1296,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-loses-to-firouzja-in-round-7-of-the-candidates",
          "pubDate" : "Fri, 12 Apr 2024 01:21:00",
          "title" : "Gukesh loses to Firouzja in Round 7 of the Candidates - 7"
-      },
-      {
-         "description" : " The FIDE Women's Candidates tournament reached the half way stage and round 7 saw the meeting of the top two placed players. Aleksandra Goryachkina remained half a point behind Tan Zhongyi after their 40 move draw. This was a modern move d-pawn/Queen's Gambit move order, that ended up in some sort of Catalan. Goryachkina was a little better and 18.Ne1 might have kept some advantage but 18.Ng5 was more or less equal 20.e4 was also perhaps a bit better for white but after that there were trades to a truly drawn position. They meet again in Round 13. Lei Tingjie was the only winner of the round beating Rameshbabu Vaishali who lost her second game in a row. On a trivial note the four knights in",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-leads-the-womens-candidates-at-the-half-way-stage-with-57",
-         "pubDate" : "Fri, 12 Apr 2024 00:33:00",
-         "title" : "Tan Zhongyi leads the Women's Candidates at the half way stage with 5/7 - 7"
       },
       {
          "description" : "",
@@ -1392,30 +1416,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2959",
          "pubDate" : "Mon, 08 Apr 2024 16:34:38",
          "title" : "\"Capture\": changing the perception of chess through photography"
-      },
-      {
-         "description" : "I started last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/no-splitting-hares.html\">No Splitting Hares</A> (April 2024), saying, <BLOCKQUOTE> Since today is Easter Monday and since last week's Monday post, <I>Hindu Gods Play Chess</I> (March 2024), was another in a series on AI comics, let's continue with the religious theme. </BLOCKQUOTE> <P> Three weeks in a row make a trend. As everyone knows, 'The trend is your friend!'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od08.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Buddhists play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> This image uses the '3D Render' style. In pre",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/the-3d-render-style.html",
-         "pubDate" : "Mon, 08 Apr 2024 15:04:00",
-         "title" : "The '3D Render' Style"
-      },
-      {
-         "description" : " While there is a belief that top level chess has a dependence on extensive opening preparation, I'm not convinced it is true. Certainly Carlsen seems to do well with his \"make it up as I go along\" opening approach, and a number of other players are following his lead. The following game from the Candidates certainly started with a surprise opening, but the evaluation of who was better seemed to swing back and forward throughout the game, indicating the while Prag may have been comfortable with the opening, he wasn't relying on it to deliver a victory. <br /> <b>Vidit,Santosh Gujrathi (2727) - Praggnanandhaa R (2747) [C70]</b><br /> FIDE Candidates 2024 Toronto, Canada (3.4), 05.04.2024 <scr",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/randomised-positions.html",
-         "pubDate" : "Mon, 08 Apr 2024 12:50:00",
-         "title" : "Randomised positions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2958",
-         "pubDate" : "Mon, 08 Apr 2024 11:46:49",
-         "title" : "Arjun Erigaisi wins III Open Chess Menorca"
       }
    ]
 }
