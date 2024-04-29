@@ -1408,22 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2958",
          "pubDate" : "Mon, 08 Apr 2024 11:46:49",
          "title" : "Arjun Erigaisi wins III Open Chess Menorca"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2957",
-         "pubDate" : "Mon, 08 Apr 2024 02:55:25",
-         "title" : "FIDE Candidates: Nepomniachtchi and Tan Zhongyi in the lead going into rest day"
-      },
-      {
-         "description" : "Of the five Indians in action, three drew their matches while two suffered losses",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39897573/fide-candidates-2024-nepomniachtchi-takes-sole-lead-only-open-win-round-4-indians-suffer-mixed-bag?device=featurephone",
-         "pubDate" : "Mon, 8 Apr 2024 02:37:53",
-         "title" : "Candidates: Nepo takes lead with only Open win in rd 4, Indians suffer mixed bag"
       }
    ]
 }
