@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After the little excursion to plenty of Anti-Sicilians, and how Chris Ward suggested countering them, we got back on track with a real Dragon game. Real? Well, this time, the British GM chose a very positional game, and points out, that it doesn't always have to be a tactical back and forth in this opening. Uncomplicated, straightforward chess is possible!| Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-a-positional-dragon",
+         "pubDate" : "Mon, 29 Apr 2024 09:20:53",
+         "title" : "The Monthly Dragon - A positional dragon?"
+      },
+      {
          "description" : "For a second day in a row, 3 out of 4 games ended decisively at the TePe Sigeman & Co. Tournament in Malm&ouml;. Vincent Keymer (pictured) and Anton Korobov grabbed full points to become co-leaders with a perfect 2/2 score, while defending champion Peter Svidler obtained his first win of the event, as he defeated women's world champion Ju Wenjun with the black pieces. | Photo: Mikael Svensson, tepesigemanchess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
