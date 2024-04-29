@@ -1408,14 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2960",
          "pubDate" : "Tue, 09 Apr 2024 00:26:42",
          "title" : "The day Switzerland showed its love for chess: FIDE100 torch ceremony in Bern"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2959",
-         "pubDate" : "Mon, 08 Apr 2024 16:34:38",
-         "title" : "\"Capture\": changing the perception of chess through photography"
       }
    ]
 }
