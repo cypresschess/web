@@ -42,6 +42,14 @@ news_feed (
          "title" : "A family affair"
       },
       {
+         "description" : "GMs Nodirbek Abdusattorov and Ju Wenjun both scored their first wins on Tuesday at the 2024 TePe Sigeman Chess Tournament. While Abdusattorov outplayed GM Nils Grandelius both on the board and the clock, the women&#39;s world champion defeated GM Vinc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-4",
+         "pubDate" : "Tue, 30 Apr 2024 12:34:00",
+         "title" : "Abdusattorov, Ju Score First Wins in Malmo"
+      },
+      {
          "description" : "In March, Russia added GM Garry Kasparov to its list of &#34;terrorists and extremists.&#34; Last week, they went one step further to &#34;arrest&#34; the chess legend in absentia for &#34;terrorist activities.&#34; A city court in Syktyvkar, the largest city in Russia...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2977",
          "pubDate" : "Wed, 17 Apr 2024 11:36:34",
          "title" : "FIDE World Junior U20 Championship: Registration deadline is May 1"
-      },
-      {
-         "description" : "If you had doubts about how big an event Titled Tuesday has become, you can look at just how many players from the ongoing Candidates Tournament played the April 16 edition anyway (during a rest day in the Candidates). One of them, GM Hikaru Nakam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-nakamura-win-titled-tuesday-april-16-2024",
-         "pubDate" : "Wed, 17 Apr 2024 09:22:51",
-         "title" : "Nice... Nakamura Wins 69th Titled Tuesday During Candidates Rest Day"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109363130.cms\" />Indian teenage grandmasters D Gukesh and R Praggnanandhaa vie for victory in the Candidates chess tournament. Gukesh, tied for the lead, faces top-seed Fabiano Caruana, holding the white pieces advantage. Praggnanandhaa, set against Hikaru Nakamura, aims to repeat past successes. These matches, crucial in determining the world championship challenger, hold significant stakes for both players.",
