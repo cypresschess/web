@@ -10,6 +10,14 @@ news_feed (
          "title" : "TePe Sigeman: Arjun beats Maurizzi to join the lead"
       },
       {
+         "description" : "IM Ulviyya Fataliyeva won clear first at&#38;nbsp;the European Women&#39;s Championship on Monday. Fataliyeva was unstoppable throughout the event, finishing undefeated a full point ahead of the field.&#38;nbsp; IM Nataliya Buksa finished second with the to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-european-womens-chess-championship-fataliyeva-wins",
+         "pubDate" : "Mon, 29 Apr 2024 19:06:00",
+         "title" : "No Ambition, Peak Result: Fataliyeva Is 2024 European Women's Champion"
+      },
+      {
          "description" : " The German Schachbundesliga took place over 15 rounds Sat 21st Oct to Sun 28th Apr 2024. SC Viernheim were the surprise champions winning all their matches and finishing 3 points clear of Baden-Baden. This is the first time Baden-Baden didn't win the league since the 2015/16 season, and only the second time they didn't win since their first title in 2005/06.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1154,14 +1162,6 @@ news_feed (
          "title" : "FIDE100 torch relay celebrated in Canada"
       },
       {
-         "description" : "GMs Ian Nepomniachtchi and Gukesh Dommaraju continue to lead the 2024 FIDE Candidates Tournament after round nine. GM Vidit Gujrathi is the only player to win on Sunday, and he defeated GM Hikaru Nakamura for the second time. GM Alireza Firouzja...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-9",
-         "pubDate" : "Sun, 14 Apr 2024 16:52:00",
-         "title" : "Vidit Beats Nakamura Again, Tan Jumps Back Into Sole Lead Of Women's"
-      },
-      {
          "description" : "While I was preparing last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/03/real-yahoos-sort-of-spotted-again.html\">Real Yahoos (Sort Of) Spotted Again</A> (March 2024; 'Yahoos = mainstream news stories about chess'), the top story -- which was not mentioned in the post -- would have been the Neuralink news. What's Neuralink? The following video, from Youtube's <I>Guardian News</I> channel, explains. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/LfwzfP8cp3A?si=ZlR_ea95T06zc9uX\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpoli",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -1392,14 +1392,6 @@ news_feed (
          "link" : "https://aicf.in/26th-asian-youth-chess-championships-2024/",
          "pubDate" : "Tue, 09 Apr 2024 08:17:44",
          "title" : "26th Asian Youth Chess Championships - 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2960",
-         "pubDate" : "Tue, 09 Apr 2024 00:26:42",
-         "title" : "The day Switzerland showed its love for chess: FIDE100 torch ceremony in Bern"
       }
    ]
 }
