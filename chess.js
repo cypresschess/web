@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
+         "pubDate" : "Tue, 30 Apr 2024 14:50:00",
+         "title" : "TePe Sigeman & Co. - Live!"
+      },
+      {
+         "description" : "Prague Masters 2024: analyses by tournament winner Nodirbek Abdusattorov as well as Erwin l'Ami, David Navara, Thai Dai Van Nguyen, Praggnanandhaa and many more. - \"Special\" on Fabiano Caruana: CBM authors show their favourite games of the world no. 2 - exclusive collection of 26 annotated games from 2007 to 2023 - A fresh English repertoire: Felix Blohberger presents an idea based on the game Gukesh-Navara from the Prague Masters 2024 with 3.e3 and 4.Qb3 (video) - Everything okay for Black: Sergey Grigoriants updates 1.d4 Nf6 2.c4 g6 3.f3 d5!? - Active defence: Jan Markos shows in his series \"Practical tips for the tournament player\" which strategy you should pursue in a pressure situation ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-219",
+         "pubDate" : "Tue, 30 Apr 2024 14:00:00",
+         "title" : "New: ChessBase Magazine #219"
+      },
+      {
+         "description" : " It isn't always the easiest thing to play someone in your immediate family, but it is sometimes necessary. In small events (local local club tournaments) it cannot always be avoided, although I was a little fortunate in avoiding my son in a lot of tournaments (I started with 3 wins in standard chess, but that was it for me). In bigger events it is less likely to happen, but depending on the profile of the players, it can often draw a crowd. <br /> <b>Botez,Andrea (1879) - Botez,Alexandra (1970) [D02]</b><br /> Sardinia Worldchess https://lichess.org/study/oBL0 (3.48), 29.04.2024 <script> new PgnViewer( { boardName: \"game1459\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Bf4 e6 3.e3 d5 4.N",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/04/a-family-affair.html",
+         "pubDate" : "Tue, 30 Apr 2024 13:39:00",
+         "title" : "A family affair"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,6 +48,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anatoly-bykhovski-turns-90",
          "pubDate" : "Tue, 30 Apr 2024 10:00:00",
          "title" : "Anatoly Bykhovski turns 90!"
+      },
+      {
+         "description" : "WCM Bodhana Sivanandan reached another milestone this weekend. She scored the best result of her career so far, achieving her first woman international master norm. The European Women&#39;s Championship concluded in Rhodes, Greece on Monday, ending ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bodhana-continues-incredible-rise-scores-first-wim-norm",
+         "pubDate" : "Tue, 30 Apr 2024 08:12:55",
+         "title" : "9-Year-Old Bodhana Sivanandan Is 1 Of Youngest To Ever Score A WIM Norm"
+      },
+      {
+         "description" : "Chess.com is proud to announce our partnership with the Charlotte Chess Center! Founded in 2014, one of the most influential centers in the US is celebrating its 10-year anniversary. We are ecstatic to work with an incredible over-the-board organi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-charlotte-chess-center-partnership",
+         "pubDate" : "Tue, 30 Apr 2024 08:00:00",
+         "title" : "Chess.com Announces Partnership With Charlotte Chess Center"
       },
       {
          "description" : "Arjun Erigaisi inflicted a third consecutive loss on Marc'Andria Maurizzi to join Vincent Keymer and Anton Korobov in the lead of the TePe Sigeman & Co. Tournament in Malm&ouml;. All three remaining games ended drawn, including the clash of co-leaders between Keymer and Korobov. | Photo: Mikael Svensson, tepesigemanchess.com",
@@ -906,12 +946,12 @@ news_feed (
          "title" : "Chess: Four in close contention as Candidates reaches weekend climax"
       },
       {
-         "description" : "Chess.com is excited to announce the 2024 BetterHelp Masters&#38;mdash;the second leg of this year&#38;rsquo;s prestigious $1.7 million Champions Chess Tour and an event focused on mental health. Starting on May 8, the BetterHelp Masters follows the Che...",
+         "description" : "NOTE: This event was renamed the Chess.com Classic. To understand why we made this decision, please read Chief Chess Officer Danny Rensch&#39;s blog post here. Chess.com is excited to announce the 2024 Chess.com Classic&#38;mdash;the second leg of thi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-chess-tour-returns-with-the-2024-betterhelp-masters",
+         "link" : "https://www.chess.com/news/view/champions-chess-tour-returns-with-2024-chess-com-classic",
          "pubDate" : "Fri, 19 Apr 2024 06:48:00",
-         "title" : "Champions Chess Tour Returns With 2024 BetterHelp Masters"
+         "title" : "Champions Chess Tour Returns With 2024 Chess.com Classic"
       },
       {
          "description" : "",
@@ -1050,14 +1090,6 @@ news_feed (
          "title" : "Gukesh takes on Caruana, Pragg up against Nakamura at Candidates"
       },
       {
-         "description" : "Three-time Polish Women&#39;s Champion IM Joanna Dworakowska, among the nation&#39;s strongest women for more than two decades, has passed away at the age of 45. Dworakowska is one of Poland&#39;s strongest women players ever, with a peak rating of 2445, a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/joanna-dworakowska-passes-away-at-age-45",
-         "pubDate" : "Tue, 16 Apr 2024 23:26:00",
-         "title" : "Joanna Dworakowska 1978-2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1112,14 +1144,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39951882/fide-candidates-2024-gukesh-nepomniachtchi-joint-lead-praggnanandhaa-vs-vidit-draw-vaishali-humpy-round-10?device=featurephone",
          "pubDate" : "Mon, 15 Apr 2024 23:54:52",
          "title" : "FIDE Candidates 2024: Gukesh shares points with Nepo, Pragg and Vidit draw in R10"
-      },
-      {
-         "description" : "GMs Hikaru Nakamura and Fabiano Caruana won their games in round 10 of the 2024 FIDE Candidates Tournament to inch closer to the tournament lead. Co-leaders GM Ian Nepomniachtchi and GM Gukesh Dommaraju made a draw in their game and are now chased...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-10",
-         "pubDate" : "Mon, 15 Apr 2024 17:29:00",
-         "title" : "Nakamura, Caruana Bounce Back; Lei Joins Lead In Women's"
       },
       {
          "description" : "A week ago I posted <A HREF=\"https://chessforallages.blogspot.com/2024/04/the-3d-render-style.html\">The '3D Render' Style</A> (April 2024; aka 'Buddhists play chess'). There I started, <BLOCKQUOTE> Let's continue with the religious theme. Three weeks in a row make a trend. </BLOCKQUOTE> <P> Four Weeks in a row make a wedding photo of my three brothers and me. And following the principles espoused by <I>Non sequiturs 'R' Us</I>, that brings us to the subject of Druids. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od15.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Druids play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> What exactly is a Druid? In <A HRE",
@@ -1384,22 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2962",
          "pubDate" : "Wed, 10 Apr 2024 02:56:12",
          "title" : "FIDE Candidates: Gukesh joins Nepomniachtchi in the lead "
-      },
-      {
-         "description" : "As I noted last month, in <A HREF=\"https://chessforallages.blogspot.com/2024/03/march-1974-1999-on-cover.html\">March 1974 & 1999 'On the Cover'</A> (March 2024), that month was 'the tenth anniversary of the first \"On the Cover\" post'. Now we start the next ten years of brief, monthly looks at the leading U.S. chess magazine from 50 and 25 years ago. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od09.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Alexander Ivanov - Pan American Champion' (also '1999 Yearbook') <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Grandmaster Walter Browne of California, winner of the Hoogover [sic; 'Hoogoven' o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/april-1974-1999-on-cover.html",
-         "pubDate" : "Tue, 09 Apr 2024 15:25:00",
-         "title" : "April 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "He was born on 3 June 2011 in Bursa, Turkey. On April 1st (no April Fool's joke) the twelve-year-old, playing in the very strong GRENKE Chess Open, Yagiz Kaan Erdpgmus scored 7.0/9 points with a 2646 performance. With that he had fulfilled his final GM norm and become the youngest grandmaster in the world - the fourth youngest in chess history. We will be watching this young boy carefully. | Photo Ugur Medya",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/yet-another-12-year-old-grandmaster",
-         "pubDate" : "Tue, 09 Apr 2024 12:00:00",
-         "title" : "Yet another 12-year-old grandmaster"
       }
    ]
 }
