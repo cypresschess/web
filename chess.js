@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Queen's Indian Defense is one of the most solid defenses against 1.d4. From a rock-solid position, the black player can pursue many ideas and plans without having to worry about coming under quick pressure. In this video course, the young Indian Grandmaster Leon Mendonca presents the most solid black responses in various variations.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-leon-luke-mendonca-rock-solid-with-the-queens-indian-defence",
+         "pubDate" : "Tue, 30 Apr 2024 20:00:00",
+         "title" : "New: Leon Luke Mendonca: Rock Solid with the Queenʼs Indian Defence"
+      },
+      {
+         "description" : "The European Women's Chess Championship 2024 concluded yesterday in Rhodes, Greece. IM Ulviyya Fataliyeva (AZE, 2377) emerged as the sole Winner of the event scoring impressive 8.5/10 points, without a single loss in the tournament. The fight for the first place was widely opened in the last round, as the top-board saw the encounter between GM Nino Batsiashvili and IM Fataliyeva Ulviyya. Fataliyeva needed a draw to clinch the event and entered the game well prepared for Black pieces. Batsiashvili []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-clinches-european-womens-chess-championship-2024/",
+         "pubDate" : "Tue, 30 Apr 2024 18:56:22",
+         "title" : "IM Ulviyya Fataliyeva clinches European Women's Chess Championship 2024"
+      },
+      {
          "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/a-family-affair.html",
          "pubDate" : "Tue, 30 Apr 2024 13:39:00",
          "title" : "A family affair"
+      },
+      {
+         "description" : "In March, Russia added GM Garry Kasparov to its list of &#34;terrorists and extremists.&#34; Last week, they went one step further to &#34;arrest&#34; the chess legend in absentia for &#34;terrorist activities.&#34; A city court in Syktyvkar, the largest city in Russia...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/russia-issues-arrest-warrant-for-kasparov-on-terrorist-charges",
+         "pubDate" : "Tue, 30 Apr 2024 11:46:45",
+         "title" : "Russia Issues Arrest Warrant For Kasparov On Terrorist Charges"
       },
       {
          "description" : "",
@@ -54,8 +78,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/bodhana-continues-incredible-rise-scores-first-wim-norm",
-         "pubDate" : "Tue, 30 Apr 2024 08:12:55",
-         "title" : "9-Year-Old Bodhana Sivanandan Is 1 Of Youngest To Ever Score A WIM Norm"
+         "pubDate" : "Tue, 30 Apr 2024 08:12:00",
+         "title" : "9-Year-Old Bodhana Sivanandan Among Youngest Ever To Score WIM Norm"
       },
       {
          "description" : "Chess.com is proud to announce our partnership with the Charlotte Chess Center! Founded in 2014, one of the most influential centers in the US is celebrating its 10-year anniversary. We are ecstatic to work with an incredible over-the-board organi...",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "GM D Gukesh Creates History"
       },
       {
-         "description" : "Three rounds have been played at the European Women's Chess Championship 2024 in Rhodes, Greece. Only six players remained perfect scoring 3/3 points: IM Klaudia Kulon (POL, 2348), IM Mai Narva (EST, 2401), IM Marta Garcia Martin (ESP, 2349), WIM Natacha Benmesbah (FRA, 2306), WIM Martyna Wikar (POL, 2214) and IM Ulviyya Fataliyeva (AZE, 2377). Playing on the first board, IM Klaudia Kulon defeated the top-seeded IM Yuliia Osmak (UKR, 2459). Kulon opened with a Scotch game, and Osmak failed []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/three-rounds-played-at-the-european-womens-chess-championship-2024/",
-         "pubDate" : "Mon, 22 Apr 2024 07:57:05",
-         "title" : "Three rounds played at the European Women's Chess Championship 2024"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109492347.cms\" />D Gukesh, India's 17-year-old chess sensation, made history by winning the FIDE Candidates Chess Tournament 2024 in Toronto, becoming the youngest-ever contender for the world title. Expressing his aspirations, Gukesh aims to excel in the World Championship Final. Reflecting on his journey, he emphasizes his determination to perform his best and overcome challenges. Gukesh's victory signifies India's growing prominence in chess.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1072,14 +1088,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/niemann-nakamura-win-titled-tuesday-april-16-2024",
          "pubDate" : "Wed, 17 Apr 2024 09:22:51",
          "title" : "Nice... Nakamura Wins 69th Titled Tuesday During Candidates Rest Day"
-      },
-      {
-         "description" : "GM Maurice Ashley draws on his extensive chess experience to impart life lessons in his latest literary offering. His new book has already hit number one on Amazon. On April 2, Ashley released his new book Move by Move: Life Lessons on and off t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/maurice-ashleys-new-book-tops-amazon-list",
-         "pubDate" : "Wed, 17 Apr 2024 08:10:06",
-         "title" : "'Thinking Like A Chess Player Can Change Your Life' - Ashley's New Book Tops Amazon List"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109363130.cms\" />Indian teenage grandmasters D Gukesh and R Praggnanandhaa vie for victory in the Candidates chess tournament. Gukesh, tied for the lead, faces top-seed Fabiano Caruana, holding the white pieces advantage. Praggnanandhaa, set against Hikaru Nakamura, aims to repeat past successes. These matches, crucial in determining the world championship challenger, hold significant stakes for both players.",
