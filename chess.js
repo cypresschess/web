@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2998",
+         "pubDate" : "Tue, 30 Apr 2024 11:22:42",
+         "title" : "EWCC 2024: Ulviyya Fataliyeva captures title"
+      },
+      {
+         "description" : "Have you ever been there? You're happy with the advantage you've worked so hard for, you've been holding on to it for hours, and then: one mistake and the point goes down the drain! In his ChessBase video series \"Understanding Middlegame Strategies\", now in its ninth part, Ivan Sokolov, one of the world's best trainers, gives deep insights into his wealth of experience and reveals how to find the right moves in the future.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/i-want-to-help-people-realise-their-advantages",
+         "pubDate" : "Tue, 30 Apr 2024 11:00:00",
+         "title" : "\"I want to help people realise their advantages\" - Ivan Sokolov's \"Understanding Middlegame Strategies\""
+      },
+      {
+         "description" : "He was the coach of the USSR Youth National team from the mid-60s, until the collapse of the Soviet Union - a driving force behind the great generations of Soviet chess, but always in the shadow. On 30 April Anatoly Awraamowitsch Bykhovsky celebrates his 90th birthday. Chess Trainer Adrian Mykhalchyshyn describes the career of the man who helped created the chess zenith of the USSR.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/anatoly-bykhovski-turns-90",
+         "pubDate" : "Tue, 30 Apr 2024 10:00:00",
+         "title" : "Anatoly Bykhovski turns 90!"
+      },
+      {
          "description" : "Arjun Erigaisi inflicted a third consecutive loss on Marc'Andria Maurizzi to join Vincent Keymer and Anton Korobov in the lead of the TePe Sigeman & Co. Tournament in Malm&ouml;. All three remaining games ended drawn, including the clash of co-leaders between Keymer and Korobov. | Photo: Mikael Svensson, tepesigemanchess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1376,22 +1400,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/yet-another-12-year-old-grandmaster",
          "pubDate" : "Tue, 09 Apr 2024 12:00:00",
          "title" : "Yet another 12-year-old grandmaster"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2961",
-         "pubDate" : "Tue, 09 Apr 2024 11:00:07",
-         "title" : "Deputy Chair of the FIDE Management Board visits Botswana and South Africa"
-      },
-      {
-         "description" : "Almaty, Kazakhstan, 09th to 21st June, 2024 The above amount includes the Registration Fee, Entry Fee, Accommodation Charges, and Bank Charges only.&#160;As said earlier the",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/26th-asian-youth-chess-championships-2024/",
-         "pubDate" : "Tue, 09 Apr 2024 08:17:44",
-         "title" : "26th Asian Youth Chess Championships - 2024"
       }
    ]
 }
