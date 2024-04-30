@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-04-28","17","<a href=http://www.uschess.org/msa/XtblMain.php?202404289942 target='_blank'>FREE THE US VIRGIN ISLANDS BENEFIT</a>",
 "SUGAR LAND","2024-04-28","4","<a href=http://www.uschess.org/msa/XtblMain.php?202404289542 target='_blank'>CYGA04282024</a>",
 "HOUSTON","2024-04-27","12","<a href=http://www.uschess.org/msa/XtblMain.php?202404278122 target='_blank'>CHESSPANDA04272024SATURDAY</a>",
 "CYPRESS","2024-04-26","23","<a href=http://www.uschess.org/msa/XtblMain.php?202404267902 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -15,6 +16,7 @@ jtable([
 "HOUSTON","2024-04-14","6","<a href=http://www.uschess.org/msa/XtblMain.php?202404149382 target='_blank'>$10 CHEAPO - ADULTS ONLY</a>",
 "HOUSTON","2024-04-13","8","<a href=http://www.uschess.org/msa/XtblMain.php?202404136662 target='_blank'>CHESSPANDA04132024SATURDAY</a>",
 "HOUSTON","2024-04-13","16","<a href=http://www.uschess.org/msa/XtblMain.php?202404136442 target='_blank'>APRIL 13TH TROPHY SCHOLASTIC</a>",
+"LEAGUE CITY","2024-04-13","6","<a href=http://www.uschess.org/msa/XtblMain.php?202404130412 target='_blank'>2024 TEXAS DENKER/BARBER/ROCKEFELLER QUALIFIERS</a>",
 "CYPRESS","2024-04-12","30","<a href=http://www.uschess.org/msa/XtblMain.php?202404125942 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-04-12","38","<a href=http://www.uschess.org/msa/XtblMain.php?202404125902 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-04-12","12","<a href=http://www.uschess.org/msa/XtblMain.php?202404125882 target='_blank'>FBCC 2024 STORMY APRIL OPEN</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2023-10-14","26","<a href=http://www.uschess.org/msa/XtblMain.php?202310148732 target='_blank'>PISD OCTOBER 2023- OCT 2023 HS</a>",
 "HOUSTON","2023-10-14","52","<a href=http://www.uschess.org/msa/XtblMain.php?202310148722 target='_blank'>PISD OCTOBER 2023- OCT 2023 INTERME</a>",
 "HOUSTON","2023-10-14","9","<a href=http://www.uschess.org/msa/XtblMain.php?202310148712 target='_blank'>CHESSPANDA10142023SATURDAY</a>",
-"HOUSTON","2023-10-13","12","<a href=http://www.uschess.org/msa/XtblMain.php?202310138312 target='_blank'>REBECCA CHESS CLUB QUADS OCTOBER 13, 2023</a>",
-"CYPRESS","2023-10-13","29","<a href=http://www.uschess.org/msa/XtblMain.php?202310138272 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
