@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
+         "pubDate" : "Wed, 01 May 2024 14:50:00",
+         "title" : "TePe Sigeman & Co. - Live!"
+      },
+      {
+         "description" : " The movie \"The Chess Player\" popped up on SVS World Movies recently. A Spanish film, it tells the story of a chess champion who is imprisoned during the Second World War. It is a fairly simple film with a somewhat familiar plot (which I won't spoil) , but the chess scenes are quite well done. If you do want to have a look, the link to online streaming is <a href=\"https://www.sbs.com.au/ondemand/movie/the-chess-player/2243769411934\">https://www.sbs.com.au/ondemand/movie/the-chess-player/2243769411934</a> (NB You may have to create a free account to view) ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/the-chess-player.html",
+         "pubDate" : "Wed, 01 May 2024 13:04:00",
+         "title" : "The Chess Player"
+      },
+      {
          "description" : "The colorful Chess Houseboat 2024 tournament will take place from 23rd to 30th November 2024. It is once again scheduled to take place at God's own country, the state of Kerala. . The new attractions this year are the three different places of stay: at the floating houseboat itself in the Vembanadu lake, a beachfront resort at Trivandrum, the capital city of Kerala, and a majestic Dutch fort at Cochin. Apart from the usual Rapid tournament, this time there will also be a Blitz tournament. If all these pique your interest, you must register before 1st June to get early bird discount. Check out all details of the entire event and itinerary, written by IM V Saravanan. Photo: Orient Chess Moves",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,52 @@ news_feed (
          "title" : "Chess Houseboat 2024 will take place this November in Kerala"
       },
       {
+         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
+         "pubDate" : "Wed, 01 May 2024 11:38:44",
+         "title" : "Entry form now open for 2024 British Chess Championships"
+      },
+      {
+         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
+         "pubDate" : "Wed, 01 May 2024 11:37:42",
+         "title" : "English Championship Series 2024"
+      },
+      {
+         "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Chess.com will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine-2024/",
+         "pubDate" : "Wed, 01 May 2024 11:36:32",
+         "title" : "ECF Charity Marathon for Ukraine 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3000",
+         "pubDate" : "Wed, 01 May 2024 11:30:31",
+         "title" : "FIDE World Junior U20 Championship: Registration extended to May 10"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/2999",
          "pubDate" : "Wed, 01 May 2024 11:10:28",
          "title" : "Abu Dhabi and FIDE Sign Agreement for 47th Chess Olympiad"
+      },
+      {
+         "description" : "GM Christopher Yoo, after finishing in second place late last week, earned his first ever Titled Tuesday victory in this week&#39;s early tournament. GM Alexey Sarana took home the late event, his first of 2024 and eighth total. They both scored 10 po...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yoo-sarana-win-titled-tuesday-april-30-2024",
+         "pubDate" : "Wed, 01 May 2024 07:35:00",
+         "title" : "Outright Winners Cruise To Control Titled Tuesday"
       },
       {
          "description" : "The Queen's Indian Defense is one of the most solid defenses against 1.d4. From a rock-solid position, the black player can pursue many ideas and plans without having to worry about coming under quick pressure. In this video course, the young Indian Grandmaster Leon Mendonca presents the most solid black responses in various variations.",
@@ -32,14 +88,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-clinches-european-womens-chess-championship-2024/",
          "pubDate" : "Tue, 30 Apr 2024 18:56:22",
          "title" : "IM Ulviyya Fataliyeva clinches European Women's Chess Championship 2024"
-      },
-      {
-         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
-         "pubDate" : "Tue, 30 Apr 2024 14:50:00",
-         "title" : "TePe Sigeman & Co. - Live!"
       },
       {
          "description" : "Prague Masters 2024: analyses by tournament winner Nodirbek Abdusattorov as well as Erwin l'Ami, David Navara, Thai Dai Van Nguyen, Praggnanandhaa and many more. - \"Special\" on Fabiano Caruana: CBM authors show their favourite games of the world no. 2 - exclusive collection of 26 annotated games from 2007 to 2023 - A fresh English repertoire: Felix Blohberger presents an idea based on the game Gukesh-Navara from the Prague Masters 2024 with 3.e3 and 4.Qb3 (video) - Everything okay for Black: Sergey Grigoriants updates 1.d4 Nf6 2.c4 g6 3.f3 d5!? - Active defence: Jan Markos shows in his series \"Practical tips for the tournament player\" which strategy you should pursue in a pressure situation ",
@@ -370,14 +418,6 @@ news_feed (
          "title" : "AICF Refresher Seminar 2024-25 Final List"
       },
       {
-         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
-         "pubDate" : "Thu, 25 Apr 2024 08:00:42",
-         "title" : "English Championship Series 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -424,14 +464,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/14th-asrian-memorial-2024",
          "pubDate" : "Wed, 24 Apr 2024 22:28:00",
          "title" : "14th Asrian Memorial 2024 - Games and Results"
-      },
-      {
-         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
-         "pubDate" : "Wed, 24 Apr 2024 16:00:44",
-         "title" : "Entry form now open for 2024 British Chess Championships"
       },
       {
          "description" : "South Lakes Chess Congress 7 9 June 2024 in Barrow-in-Furness Due to circumstances beyond our control, we have to announce the cancellation of the...",
@@ -1066,14 +1098,6 @@ news_feed (
          "title" : "FIDE Candidates: Nepomniachtchi and Tan in the Lead Again"
       },
       {
-         "description" : "Round 11 of the 2024 FIDE Candidates Tournament featured three decisive games out of a possible four.&#38;nbsp;GM Ian Nepomniachtchi won the longest game of the round with Black against GM Vidit Gujrathi, again taking the sole lead. A half-point behin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-11",
-         "pubDate" : "Wed, 17 Apr 2024 18:07:00",
-         "title" : "Nepomniachtchi, Tan Regain Sole Lead, Nakamura Beats Praggnanandhaa"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1384,14 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2963",
          "pubDate" : "Wed, 10 Apr 2024 16:05:39",
          "title" : "FIDE Candidates 2024 chess set auctioned"
-      },
-      {
-         "description" : "Every Chess-playing country is talking about Indian Chess, as 4 players debut in World Candidates 2024. GM D Gukesh, GM&#160; R Praggnanandhaa, GM Vidit Gujarathi",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-d-gukesh-and-gm-ian-nepomniachtchi-in-lead-at-candidates-2024/",
-         "pubDate" : "Wed, 10 Apr 2024 15:06:35",
-         "title" : "GM D Gukesh and GM Ian Nepomniachtchi in lead at Candidates 2024"
       }
    ]
 }
