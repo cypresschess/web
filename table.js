@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-04-02  - 04-30","22","<a href=http://www.uschess.org/msa/XtblMain.php?202404300932 target='_blank'>APRIL 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-04-28","17","<a href=http://www.uschess.org/msa/XtblMain.php?202404289942 target='_blank'>FREE THE US VIRGIN ISLANDS BENEFIT</a>",
 "SUGAR LAND","2024-04-28","4","<a href=http://www.uschess.org/msa/XtblMain.php?202404289542 target='_blank'>CYGA04282024</a>",
 "HOUSTON","2024-04-27","12","<a href=http://www.uschess.org/msa/XtblMain.php?202404278122 target='_blank'>CHESSPANDA04272024SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-10-14","38","<a href=http://www.uschess.org/msa/XtblMain.php?202310149592 target='_blank'>NATIONAL CHESS DAY SCHOLASTIC</a>",
 "SPRING","2023-10-14","222","<a href=http://www.uschess.org/msa/XtblMain.php?202310149262 target='_blank'>St Edward National Chess Day Scholastic</a>",
 "HOUSTON","2023-10-14","26","<a href=http://www.uschess.org/msa/XtblMain.php?202310148732 target='_blank'>PISD OCTOBER 2023- OCT 2023 HS</a>",
-"HOUSTON","2023-10-14","52","<a href=http://www.uschess.org/msa/XtblMain.php?202310148722 target='_blank'>PISD OCTOBER 2023- OCT 2023 INTERME</a>",
 ]);
