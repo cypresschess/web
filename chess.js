@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "To play openings like a grandmaster - that's probably what most ambitious amateurs want. The first and not so easy step is to choose openings for your own repertoire. Would you like to do this with a world-class grandmaster? Of course you would! In the new two-part video course \"A Supergrandmaster's Guide to Openings with Anish Giri\", Anish Giri introduces (almost) all openings in an instructive way, categorises their relevance and tells fascinating stories from the world of elite chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/developing-an-opening-repertoire-with-anish-giri",
+         "pubDate" : "Wed, 01 May 2024 20:00:00",
+         "title" : "Developing an opening repertoire with Anish Giri"
+      },
+      {
          "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,14 @@ news_feed (
          "link" : "https://www.fide.com/news/2999",
          "pubDate" : "Wed, 01 May 2024 11:10:28",
          "title" : "Abu Dhabi and FIDE Sign Agreement for 47th Chess Olympiad"
+      },
+      {
+         "description" : "Chess.com is happy to announce the new Dashboard view on our Events page. You can now find all the information you need on the same page, making navigation much easier and more intuitive. This new view mirrors the old Chess24 interface, a success ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/events-dashboard",
+         "pubDate" : "Wed, 01 May 2024 10:00:00",
+         "title" : "Chess.com Launches New Dashboard View On Events Page"
       },
       {
          "description" : "GM Christopher Yoo, after finishing in second place late last week, earned his first ever Titled Tuesday victory in this week&#39;s early tournament. GM Alexey Sarana took home the late event, his first of 2024 and eighth total. They both scored 10 po...",
@@ -1066,14 +1082,6 @@ news_feed (
          "title" : "Nakamura Scores Hat Trick, Joins 3-Way Lead With Nepomniachtchi, Gukesh"
       },
       {
-         "description" : "CM Matfey Rogov prevailed in the Atomic Chess Championship of the Variants Community Series (VCS) on Thursday. In a sibling rivalry-fueled Final, he overcame his older brother, Timofey Rogov.&#38;nbsp; Along the way, Matfey also defeated the top see...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-vcs-atomic-chess-matfey-rogov-wins",
-         "pubDate" : "Thu, 18 Apr 2024 17:52:00",
-         "title" : "Younger Brother Triumphs In Atomic Rivalry"
-      },
-      {
          "description" : " Ian Nepomniachtchi won a really fascinating struggle against Santosh Vidit in the eleventh round of the FIDE Candidates tournament in Toronto, Canada. Not only did Nepomniachtchi win, he won with the black pieces, but it was Vidit who first had winning chances. Vidit chose a side-line in a fairly topical Petroff line, even with Queen's off the play remained complicated and 33...Rb3? (33...Kg7!) was losing according to engines after 34.h5! Then 35...a5? 36.Bxa3 d5 was also deemed losing for black but only after giving up a piece. The position was back level and 58.Bb3?! and 60.Nb2+? suddenly Nepomniachtchi was winning and his conversion was a lot easier. Earlier Hikaru Nakamura was extremely",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1400,14 +1408,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39917666/fide-candidates-2024-gukesh-remains-joint-lead-wins-pragg-vidit-round-6?device=featurephone",
          "pubDate" : "Wed, 10 Apr 2024 23:56:36",
          "title" : "FIDE Candidates 2024: Gukesh remains in joint-lead, wins for Pragg and Vidit in R6"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2963",
-         "pubDate" : "Wed, 10 Apr 2024 16:05:39",
-         "title" : "FIDE Candidates 2024 chess set auctioned"
       }
    ]
 }
