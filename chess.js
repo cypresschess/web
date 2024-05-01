@@ -98,14 +98,6 @@ news_feed (
          "title" : "Chess.com Announces Partnership With Charlotte Chess Center"
       },
       {
-         "description" : "Arjun Erigaisi inflicted a third consecutive loss on Marc'Andria Maurizzi to join Vincent Keymer and Anton Korobov in the lead of the TePe Sigeman & Co. Tournament in Malm&ouml;. All three remaining games ended drawn, including the clash of co-leaders between Keymer and Korobov. | Photo: Mikael Svensson, tepesigemanchess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-3",
-         "pubDate" : "Tue, 30 Apr 2024 01:20:00",
-         "title" : "TePe Sigeman: Arjun beats Maurizzi to join the lead"
-      },
-      {
          "description" : "IM Ulviyya Fataliyeva won clear first at&#38;nbsp;the European Women&#39;s Championship on Monday. Fataliyeva was unstoppable throughout the event, finishing undefeated a full point ahead of the field.&#38;nbsp; IM Nataliya Buksa finished second with the to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -130,14 +122,6 @@ news_feed (
          "title" : "Arjun Catches Leaders, Eyes World No. 4 Spot"
       },
       {
-         "description" : "A week ago we showed you a famous game, played between Siegbert Tarrasch and Akiba Rubinstein in 1911. It ended in a draw, and is given as a model example for an active defence in rook endings. However, that was not the clear conclusion to draw from the game, and we asked you whether you could find the mistakes in the game play strategy? Wolfram Sch&ouml;n provided a very deep answer.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/endgame-riddle-is-active-defense-always-best-2",
-         "pubDate" : "Mon, 29 Apr 2024 14:05:00",
-         "title" : "Riddle: Is active defense always best?"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -152,14 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/eruopean-women-championship-2024-live",
          "pubDate" : "Mon, 29 Apr 2024 11:50:00",
          "title" : "European Women's Chess Championship - Live!"
-      },
-      {
-         "description" : "After the little excursion to plenty of Anti-Sicilians, and how Chris Ward suggested countering them, we got back on track with a real Dragon game. Real? Well, this time, the British GM chose a very positional game, and points out, that it doesn't always have to be a tactical back and forth in this opening. Uncomplicated, straightforward chess is possible!| Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-a-positional-dragon",
-         "pubDate" : "Mon, 29 Apr 2024 09:20:53",
-         "title" : "The Monthly Dragon - A positional dragon?"
       },
       {
          "description" : "GM Magnus Carlsen says he fears that reigning World Champion Ding Liren could be &#39;permanently broken&#39; and fail to recover after his world championship victory. At the same time he praised the 17-year-old Candidates Tournament winner GM Gukesh Domm...",
@@ -1408,14 +1384,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39910765/fide-candidates-2024-d-gukesh-beat-abasov-joins-ian-nepomniachtchi-lead-round-5?device=featurephone",
          "pubDate" : "Wed, 10 Apr 2024 04:22:10",
          "title" : "FIDE Candidates 2024: Gukesh beats Abasov, joins Nepomniachtchi in lead after R5"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2962",
-         "pubDate" : "Wed, 10 Apr 2024 02:56:12",
-         "title" : "FIDE Candidates: Gukesh joins Nepomniachtchi in the lead "
       }
    ]
 }
