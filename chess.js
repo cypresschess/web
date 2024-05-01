@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The colorful Chess Houseboat 2024 tournament will take place from 23rd to 30th November 2024. It is once again scheduled to take place at God's own country, the state of Kerala. . The new attractions this year are the three different places of stay: at the floating houseboat itself in the Vembanadu lake, a beachfront resort at Trivandrum, the capital city of Kerala, and a majestic Dutch fort at Cochin. Apart from the usual Rapid tournament, this time there will also be a Blitz tournament. If all these pique your interest, you must register before 1st June to get early bird discount. Check out all details of the entire event and itinerary, written by IM V Saravanan. Photo: Orient Chess Moves",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-houseboat-2024-will-take-place-this-november-in-kerala",
+         "pubDate" : "Wed, 01 May 2024 12:00:00",
+         "title" : "Chess Houseboat 2024 will take place this November in Kerala"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2999",
+         "pubDate" : "Wed, 01 May 2024 11:10:28",
+         "title" : "Abu Dhabi and FIDE Sign Agreement for 47th Chess Olympiad"
+      },
+      {
          "description" : "The Queen's Indian Defense is one of the most solid defenses against 1.d4. From a rock-solid position, the black player can pursue many ideas and plans without having to worry about coming under quick pressure. In this video course, the young Indian Grandmaster Leon Mendonca presents the most solid black responses in various variations.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
