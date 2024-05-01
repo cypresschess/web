@@ -4,6 +4,7 @@ jtable([
 "HOUSTON","2024-04-27","12","<a href=http://www.uschess.org/msa/XtblMain.php?202404278122 target='_blank'>CHESSPANDA04272024SATURDAY</a>",
 "CYPRESS","2024-04-26","23","<a href=http://www.uschess.org/msa/XtblMain.php?202404267902 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-04-26","34","<a href=http://www.uschess.org/msa/XtblMain.php?202404267692 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2024-04-26","14","<a href=http://www.uschess.org/msa/XtblMain.php?202404267622 target='_blank'>FBCC 2024 NATIONAL PRETZEL DAY OPEN</a>",
 "LEAGUE CITY","2024-04-03  - 04-24","13","<a href=http://www.uschess.org/msa/XtblMain.php?202404244332 target='_blank'>CLCC FAREWELL</a>",
 "HOUSTON","2024-04-20","590","<a href=http://www.uschess.org/msa/XtblMain.php?202404202232 target='_blank'>T H ROGERS SCHOLASTIC APRIL 2024</a>",
 "HOUSTON","2024-04-20","29","<a href=http://www.uschess.org/msa/XtblMain.php?202404202062 target='_blank'>KINGWOOD BLITZ 20 APR 24</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2023-10-14","222","<a href=http://www.uschess.org/msa/XtblMain.php?202310149262 target='_blank'>St Edward National Chess Day Scholastic</a>",
 "HOUSTON","2023-10-14","26","<a href=http://www.uschess.org/msa/XtblMain.php?202310148732 target='_blank'>PISD OCTOBER 2023- OCT 2023 HS</a>",
 "HOUSTON","2023-10-14","52","<a href=http://www.uschess.org/msa/XtblMain.php?202310148722 target='_blank'>PISD OCTOBER 2023- OCT 2023 INTERME</a>",
-"HOUSTON","2023-10-14","9","<a href=http://www.uschess.org/msa/XtblMain.php?202310148712 target='_blank'>CHESSPANDA10142023SATURDAY</a>",
 ]);
