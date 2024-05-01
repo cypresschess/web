@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3001",
+         "pubDate" : "Wed, 01 May 2024 21:19:18",
+         "title" : "FIDE May 2024 rating list: Gukesh D debuts in top 10 Open"
+      },
+      {
          "description" : "To play openings like a grandmaster - that's probably what most ambitious amateurs want. The first and not so easy step is to choose openings for your own repertoire. Would you like to do this with a world-class grandmaster? Of course you would! In the new two-part video course \"A Supergrandmaster's Guide to Openings with Anish Giri\", Anish Giri introduces (almost) all openings in an instructive way, categorises their relevance and tells fascinating stories from the world of elite chess.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "TePe Sigeman & Co. - Live!"
       },
       {
+         "description" : "It&#39;s been four months in the making, but Vaishali Rameshbabu is officially a grandmaster, now that FIDE has approved the latest batch of title applications. She joins her brother GM Praggnanandhaa Rameshbabu to establish the first brother-sister G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vaishali-grandmaster-fide-chess-titles",
+         "pubDate" : "Wed, 01 May 2024 14:13:00",
+         "title" : "It's Official! Vaishali Is India's 84th Grandmaster"
+      },
+      {
          "description" : " The movie \"The Chess Player\" popped up on SVS World Movies recently. A Spanish film, it tells the story of a chess champion who is imprisoned during the Second World War. It is a fairly simple film with a somewhat familiar plot (which I won't spoil) , but the chess scenes are quite well done. If you do want to have a look, the link to online streaming is <a href=\"https://www.sbs.com.au/ondemand/movie/the-chess-player/2243769411934\">https://www.sbs.com.au/ondemand/movie/the-chess-player/2243769411934</a> (NB You may have to create a free account to view) ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/05/the-chess-player.html",
          "pubDate" : "Wed, 01 May 2024 13:04:00",
          "title" : "The Chess Player"
+      },
+      {
+         "description" : "GM Peter Svidler defeated co-leader GM Anton Korobov in round five of the 2024 TePe Sigeman Chess Tournament and now shares the lead with GM Arjun Erigaisi, who drew his game with GM Vincent Keymer. GMs Ju Wenjun and&#38;nbsp;Nodirbek Abdusattorov wer...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-5",
+         "pubDate" : "Wed, 01 May 2024 12:45:00",
+         "title" : "Svidler Beats Korobov, Joins Arjun In The Lead"
       },
       {
          "description" : "The colorful Chess Houseboat 2024 tournament will take place from 23rd to 30th November 2024. It is once again scheduled to take place at God's own country, the state of Kerala. . The new attractions this year are the three different places of stay: at the floating houseboat itself in the Vembanadu lake, a beachfront resort at Trivandrum, the capital city of Kerala, and a majestic Dutch fort at Cochin. Apart from the usual Rapid tournament, this time there will also be a Blitz tournament. If all these pique your interest, you must register before 1st June to get early bird discount. Check out all details of the entire event and itinerary, written by IM V Saravanan. Photo: Orient Chess Moves",
@@ -1010,14 +1034,6 @@ news_feed (
          "title" : "Chess: Four in close contention as Candidates reaches weekend climax"
       },
       {
-         "description" : "NOTE: This event was renamed the Chess.com Classic. To understand why we made this decision, please read Chief Chess Officer Danny Rensch&#39;s blog post here. Chess.com is excited to announce the 2024 Chess.com Classic&#38;mdash;the second leg of thi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/champions-chess-tour-returns-with-2024-chess-com-classic",
-         "pubDate" : "Fri, 19 Apr 2024 06:48:00",
-         "title" : "Champions Chess Tour Returns With 2024 Chess.com Classic"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1072,14 +1088,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-leads-lei-half-a-point-after-11-rounds-in-a-two-horse-race-for-the-womens-candidates",
          "pubDate" : "Thu, 18 Apr 2024 18:54:00",
          "title" : "Tan leads Lei half a point after 11 rounds in a two horse race for the Women's Candidates - 11"
-      },
-      {
-         "description" : "We have three co-leaders at the&#38;nbsp; 2024 FIDE Candidates Tournament with two rounds to go: GM Ian Nepomniachtchi, GM Hikaru Nakamura, and GM Gukesh Dommaraju. Nakamura scored the hat trick against GM Alireza Firouzja, and Gukesh defeated GM Nija...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-12",
-         "pubDate" : "Thu, 18 Apr 2024 17:57:00",
-         "title" : "Nakamura Scores Hat Trick, Joins 3-Way Lead With Nepomniachtchi, Gukesh"
       },
       {
          "description" : " Ian Nepomniachtchi won a really fascinating struggle against Santosh Vidit in the eleventh round of the FIDE Candidates tournament in Toronto, Canada. Not only did Nepomniachtchi win, he won with the black pieces, but it was Vidit who first had winning chances. Vidit chose a side-line in a fairly topical Petroff line, even with Queen's off the play remained complicated and 33...Rb3? (33...Kg7!) was losing according to engines after 34.h5! Then 35...a5? 36.Bxa3 d5 was also deemed losing for black but only after giving up a piece. The position was back level and 58.Bb3?! and 60.Nb2+? suddenly Nepomniachtchi was winning and his conversion was a lot easier. Earlier Hikaru Nakamura was extremely",
