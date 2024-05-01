@@ -54,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/russia-issues-arrest-warrant-for-kasparov-on-terrorist-charges",
-         "pubDate" : "Tue, 30 Apr 2024 11:46:45",
+         "pubDate" : "Tue, 30 Apr 2024 11:46:00",
          "title" : "Russia Issues Arrest Warrant For Kasparov On Terrorist Charges"
       },
       {
@@ -1376,14 +1376,6 @@ news_feed (
          "link" : "https://aicf.in/gm-d-gukesh-and-gm-ian-nepomniachtchi-in-lead-at-candidates-2024/",
          "pubDate" : "Wed, 10 Apr 2024 15:06:35",
          "title" : "GM D Gukesh and GM Ian Nepomniachtchi in lead at Candidates 2024"
-      },
-      {
-         "description" : "D Gukesh's win over Nijat Abasov sees him join Ian Nepomniachtchi in the lead of the 2024 FIDE Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39910765/fide-candidates-2024-d-gukesh-beat-abasov-joins-ian-nepomniachtchi-lead-round-5?device=featurephone",
-         "pubDate" : "Wed, 10 Apr 2024 04:22:10",
-         "title" : "FIDE Candidates 2024: Gukesh beats Abasov, joins Nepomniachtchi in lead after R5"
       }
    ]
 }
