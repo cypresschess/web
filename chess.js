@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"We held the magazine to await the outcome of the Candidates,\" writes the Executive Editor of CHESS Magazine, London. 17-year-old Dommaraju Gukesh became the youngest world title challenger in the history of the game, and will take on Ding Liren later this year in the first ever all-Asian match for the world title. Malcolm has analyed a couple of games from the Candidates.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/malcolm-pein-on-the-chandidates",
+         "pubDate" : "Thu, 02 May 2024 07:10:42",
+         "title" : "Malcolm Pein on the Chandidates"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1400,14 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2965",
          "pubDate" : "Thu, 11 Apr 2024 17:23:31",
          "title" : "1100 days for 100 years of FIDE, and a Guinness World Record!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2964",
-         "pubDate" : "Thu, 11 Apr 2024 04:47:56",
-         "title" : "FIDE Candidates: Six victories in Round 6"
       }
    ]
 }
