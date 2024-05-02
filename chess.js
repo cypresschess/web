@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "\"We held the magazine to await the outcome of the Candidates,\" writes the Executive Editor of CHESS Magazine, London. 17-year-old Dommaraju Gukesh became the youngest world title challenger in the history of the game, and will take on Ding Liren later this year in the first ever all-Asian match for the world title. Malcolm has analyed a couple of games from the Candidates.",
+         "description" : "In the new world rankings published by FIDE on 1st May, Gukesh D, the winner of the Candidates, has made a big leap forward: 20 extra rating points have lifted the 17-year-old Indian from 16th to 6th place. Gukesh is now one point ahead of Ding Liren, the reigning FIDE World Champion, whom he will challenge later this year. Fabiano Caruana, Hikaru Nakamura and Ian Nepomniachtchi have also picked up a few points in the Candidates and are now ranked second to fourth behind Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/malcolm-pein-on-the-chandidates",
-         "pubDate" : "Thu, 02 May 2024 07:10:42",
-         "title" : "Malcolm Pein on the Chandidates"
+         "link" : "https://en.chessbase.com/post/fide-ratings-may-2024",
+         "pubDate" : "Thu, 02 May 2024 13:00:00",
+         "title" : "FIDE ratings - May 2024"
+      },
+      {
+         "description" : "The new ChessBase Magazine #219 offers complete mobile access again with the ChessBase book format. All analyses, repertoire articles, videos and training exercises can be loaded directly in your web browser! In this and the coming weeks, we will be presenting the new issue to you in a series of free reading samples. We start with Lars Schandorff's opening article on the Caro-Kann Advance Variation. After the moves 1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h6!? he recommends White to start the game with a sequence of nine pawn moves! Can that be good? Check the free CBM reading sample of the week!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-7",
+         "pubDate" : "Thu, 02 May 2024 12:00:00",
+         "title" : "New: CBM #219 - incl. ChessBase book for iPad, Tablet & Co!"
+      },
+      {
+         "description" : "Viewers may notice the event calendar is defaulting to 2 May 1 Jun, and no further. The webmaster is looking into it as we...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/event-calendar-problems/",
+         "pubDate" : "Thu, 02 May 2024 09:39:08",
+         "title" : "Event calendar problems"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3002",
+         "pubDate" : "Thu, 02 May 2024 09:16:01",
+         "title" : "Eight teams qualify for World Corporate Chess Championship Finals"
       },
       {
          "description" : "",
@@ -15,15 +39,7 @@ news_feed (
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3001",
          "pubDate" : "Wed, 01 May 2024 21:19:18",
-         "title" : "FIDE May 2024 rating list: Gukesh D debuts in top 10 Open"
-      },
-      {
-         "description" : "To play openings like a grandmaster - that's probably what most ambitious amateurs want. The first and not so easy step is to choose openings for your own repertoire. Would you like to do this with a world-class grandmaster? Of course you would! In the new two-part video course \"A Supergrandmaster's Guide to Openings with Anish Giri\", Anish Giri introduces (almost) all openings in an instructive way, categorises their relevance and tells fascinating stories from the world of elite chess.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/developing-an-opening-repertoire-with-anish-giri",
-         "pubDate" : "Wed, 01 May 2024 20:00:00",
-         "title" : "Developing an opening repertoire with Anish Giri"
+         "title" : "FIDE May 2024 rating list: Gukesh D climbs to #6"
       },
       {
          "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-5",
          "pubDate" : "Wed, 01 May 2024 12:45:00",
          "title" : "Svidler Beats Korobov, Joins Arjun In The Lead"
-      },
-      {
-         "description" : "The colorful Chess Houseboat 2024 tournament will take place from 23rd to 30th November 2024. It is once again scheduled to take place at God's own country, the state of Kerala. . The new attractions this year are the three different places of stay: at the floating houseboat itself in the Vembanadu lake, a beachfront resort at Trivandrum, the capital city of Kerala, and a majestic Dutch fort at Cochin. Apart from the usual Rapid tournament, this time there will also be a Blitz tournament. If all these pique your interest, you must register before 1st June to get early bird discount. Check out all details of the entire event and itinerary, written by IM V Saravanan. Photo: Orient Chess Moves",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-houseboat-2024-will-take-place-this-november-in-kerala",
-         "pubDate" : "Wed, 01 May 2024 12:00:00",
-         "title" : "Chess Houseboat 2024 will take place this November in Kerala"
       },
       {
          "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
@@ -122,28 +130,12 @@ news_feed (
          "title" : "Outright Winners Cruise To Control Titled Tuesday"
       },
       {
-         "description" : "The Queen's Indian Defense is one of the most solid defenses against 1.d4. From a rock-solid position, the black player can pursue many ideas and plans without having to worry about coming under quick pressure. In this video course, the young Indian Grandmaster Leon Mendonca presents the most solid black responses in various variations.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-leon-luke-mendonca-rock-solid-with-the-queens-indian-defence",
-         "pubDate" : "Tue, 30 Apr 2024 20:00:00",
-         "title" : "New: Leon Luke Mendonca: Rock Solid with the Queenʼs Indian Defence"
-      },
-      {
          "description" : "The European Women's Chess Championship 2024 concluded yesterday in Rhodes, Greece. IM Ulviyya Fataliyeva (AZE, 2377) emerged as the sole Winner of the event scoring impressive 8.5/10 points, without a single loss in the tournament. The fight for the first place was widely opened in the last round, as the top-board saw the encounter between GM Nino Batsiashvili and IM Fataliyeva Ulviyya. Fataliyeva needed a draw to clinch the event and entered the game well prepared for Black pieces. Batsiashvili []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-clinches-european-womens-chess-championship-2024/",
          "pubDate" : "Tue, 30 Apr 2024 18:56:22",
          "title" : "IM Ulviyya Fataliyeva clinches European Women's Chess Championship 2024"
-      },
-      {
-         "description" : "Prague Masters 2024: analyses by tournament winner Nodirbek Abdusattorov as well as Erwin l'Ami, David Navara, Thai Dai Van Nguyen, Praggnanandhaa and many more. - \"Special\" on Fabiano Caruana: CBM authors show their favourite games of the world no. 2 - exclusive collection of 26 annotated games from 2007 to 2023 - A fresh English repertoire: Felix Blohberger presents an idea based on the game Gukesh-Navara from the Prague Masters 2024 with 3.e3 and 4.Qb3 (video) - Everything okay for Black: Sergey Grigoriants updates 1.d4 Nf6 2.c4 g6 3.f3 d5!? - Active defence: Jan Markos shows in his series \"Practical tips for the tournament player\" which strategy you should pursue in a pressure situation ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-219",
-         "pubDate" : "Tue, 30 Apr 2024 14:00:00",
-         "title" : "New: ChessBase Magazine #219"
       },
       {
          "description" : " It isn't always the easiest thing to play someone in your immediate family, but it is sometimes necessary. In small events (local local club tournaments) it cannot always be avoided, although I was a little fortunate in avoiding my son in a lot of tournaments (I started with 3 wins in standard chess, but that was it for me). In bigger events it is less likely to happen, but depending on the profile of the players, it can often draw a crowd. <br /> <b>Botez,Andrea (1879) - Botez,Alexandra (1970) [D02]</b><br /> Sardinia Worldchess https://lichess.org/study/oBL0 (3.48), 29.04.2024 <script> new PgnViewer( { boardName: \"game1459\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Bf4 e6 3.e3 d5 4.N",
@@ -176,14 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2998",
          "pubDate" : "Tue, 30 Apr 2024 11:22:42",
          "title" : "EWCC 2024: Ulviyya Fataliyeva captures title"
-      },
-      {
-         "description" : "Have you ever been there? You're happy with the advantage you've worked so hard for, you've been holding on to it for hours, and then: one mistake and the point goes down the drain! In his ChessBase video series \"Understanding Middlegame Strategies\", now in its ninth part, Ivan Sokolov, one of the world's best trainers, gives deep insights into his wealth of experience and reveals how to find the right moves in the future.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/i-want-to-help-people-realise-their-advantages",
-         "pubDate" : "Tue, 30 Apr 2024 11:00:00",
-         "title" : "\"I want to help people realise their advantages\" - Ivan Sokolov's \"Understanding Middlegame Strategies\""
       },
       {
          "description" : "He was the coach of the USSR Youth National team from the mid-60s, until the collapse of the Soviet Union - a driving force behind the great generations of Soviet chess, but always in the shadow. On 30 April Anatoly Awraamowitsch Bykhovsky celebrates his 90th birthday. Chess Trainer Adrian Mykhalchyshyn describes the career of the man who helped created the chess zenith of the USSR.",
@@ -240,14 +224,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2997",
          "pubDate" : "Mon, 29 Apr 2024 12:28:29",
          "title" : "ISF Gymnasiade 2024 in Chess: Registration is open"
-      },
-      {
-         "description" : "The Greek Chess Federation is hosting the European Women's Individual Championship this year. The tournament is taking place on 18-30 April in Rhodes, Greece. The tournament is played over ten rounds according to the Swiss system. The top ten finishers will qualify for the next edition of the Women's World Cup. | Follow the games live with expert commentary starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eruopean-women-championship-2024-live",
-         "pubDate" : "Mon, 29 Apr 2024 11:50:00",
-         "title" : "European Women's Chess Championship - Live!"
       },
       {
          "description" : "GM Magnus Carlsen says he fears that reigning World Champion Ding Liren could be &#39;permanently broken&#39; and fail to recover after his world championship victory. At the same time he praised the 17-year-old Candidates Tournament winner GM Gukesh Domm...",
