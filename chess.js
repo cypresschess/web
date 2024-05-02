@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3004",
+         "pubDate" : "Thu, 02 May 2024 16:12:12",
+         "title" : "Join Grand Chess Celebration: GUINNESS WORLD RECORDS Attempt for Most Games Played in a Day!"
+      },
+      {
          "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1368,22 +1376,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2966",
          "pubDate" : "Thu, 11 Apr 2024 22:05:26",
          "title" : "World Chess Hall of Fame hosts new exhibition \"Clash for the Crown: Celebrating Chess Champions\""
-      },
-      {
-         "description" : " Life Master Glenn Bady has been involved in chess for nearly 50 years and was part of the contingent of Philadelphia-area masters from the Black community. Bady paired with the late Wilbert Paige at West Philadelphia High School to match rival Bartram High, which fielded Norman Rogers and Raymond Robinson. Over the years, Bady has The post <a href=\"https://www.thechessdrum.net/blog/2024/04/11/glenn-bady-becomes-fide-trainer/\">Glenn Bady becomes FIDE Trainer!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/04/11/glenn-bady-becomes-fide-trainer/",
-         "pubDate" : "Thu, 11 Apr 2024 17:25:47",
-         "title" : "Glenn Bady becomes FIDE Trainer!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2965",
-         "pubDate" : "Thu, 11 Apr 2024 17:23:31",
-         "title" : "1100 days for 100 years of FIDE, and a Guinness World Record!"
       }
    ]
 }
