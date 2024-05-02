@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
+         "pubDate" : "Thu, 02 May 2024 14:50:00",
+         "title" : "TePe Sigeman & Co. - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3003",
+         "pubDate" : "Thu, 02 May 2024 13:28:16",
+         "title" : "World School Chess Championship 2024 begins in Peru"
+      },
+      {
          "description" : "In the new world rankings published by FIDE on 1st May, Gukesh D, the winner of the Candidates, has made a big leap forward: 20 extra rating points have lifted the 17-year-old Indian from 16th to 6th place. Gukesh is now one point ahead of Ding Liren, the reigning FIDE World Champion, whom he will challenge later this year. Fabiano Caruana, Hikaru Nakamura and Ian Nepomniachtchi have also picked up a few points in the Candidates and are now ranked second to fourth behind Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +34,6 @@ news_feed (
          "title" : "New: CBM #219 - incl. ChessBase book for iPad, Tablet & Co!"
       },
       {
-         "description" : "Viewers may notice the event calendar is defaulting to 2 May 1 Jun, and no further. The webmaster is looking into it as we...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/event-calendar-problems/",
-         "pubDate" : "Thu, 02 May 2024 09:39:08",
-         "title" : "Event calendar problems"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3001",
          "pubDate" : "Wed, 01 May 2024 21:19:18",
          "title" : "FIDE May 2024 rating list: Gukesh D climbs to #6"
-      },
-      {
-         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
-         "pubDate" : "Wed, 01 May 2024 14:50:00",
-         "title" : "TePe Sigeman & Co. - Live!"
       },
       {
          "description" : "It&#39;s been four months in the making, but Vaishali Rameshbabu is officially a grandmaster, now that FIDE has approved the latest batch of title applications. She joins her brother GM Praggnanandhaa Rameshbabu to establish the first brother-sister G...",
@@ -626,7 +626,7 @@ news_feed (
          "title" : "'The 'children' of Vishy Anand are on the loose' - Garry Kasparov"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109519763.cms\" />D Gukesh, then an 11-year-old chess player, set the goal in 2017 to become the youngest world champion. His determination, referred to as \"sacrificing childhood,\" and focus on chess and parental support have contributed to his meteoric rise. His combination of sacrificing childhood and focusing on his craft has made him one step closer to achieving his dream.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109519763.cms\" />",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-sacrificed-childhood-to-come-this-far-coach/articleshow/109519763.cms",
@@ -634,7 +634,7 @@ news_feed (
          "title" : "Gukesh sacrificed childhood to come this far: Coach"
       },
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109519466.cms\" />Indian GM D Gukesh suffered a seventh-round defeat in the Candidates tournament, but viewed it as a blessing. His mother Padma, a microbiologist from Chennai, provided emotional support through a brief phone conversation, bringing Gukesh back to his best before a rest day.",
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109519466.cms\" />",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/brief-pep-talk-from-mother-worked-wonders-for-gukesh/articleshow/109519466.cms",
