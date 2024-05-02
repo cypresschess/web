@@ -26,6 +26,14 @@ news_feed (
          "title" : "World School Chess Championship 2024 begins in Peru"
       },
       {
+         "description" : "With one round to go, GM Anton Korobov is back in the shared lead of the 2024 TePe Sigeman Chess Tournament thanks to a win against GM Nils Grandelius, while leaders GM Arjun Erigaisi and GM Peter Svidler drew their game. GM Vincent Keymer would h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-6",
+         "pubDate" : "Thu, 02 May 2024 13:05:00",
+         "title" : "Korobov Bounces Back; 3 Leaders In Malmo Before Final Round"
+      },
+      {
          "description" : "In the new world rankings published by FIDE on 1st May, Gukesh D, the winner of the Candidates, has made a big leap forward: 20 extra rating points have lifted the 17-year-old Indian from 16th to 6th place. Gukesh is now one point ahead of Ding Liren, the reigning FIDE World Champion, whom he will challenge later this year. Fabiano Caruana, Hikaru Nakamura and Ian Nepomniachtchi have also picked up a few points in the Candidates and are now ranked second to fourth behind Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -946,14 +954,6 @@ news_feed (
          "title" : "Candidates Commentator Naroditsky Conquers Bullet Brawl"
       },
       {
-         "description" : "Intense vomiting, stomach pain, and extreme tiredness. That&#39;s just some of what Nigerian chess master Tunde Onakoya had to suffer through to break the Guinness World Record for the longest ever chess marathon. All for a noble cause. At the iconi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/tunde-onakoya-shatters-world-record-chess-marathon-times-square",
-         "pubDate" : "Sat, 20 Apr 2024 13:23:04",
-         "title" : "Tunde Onakoya Shatters Guinness World Record With Chess Marathon In Times Square"
-      },
-      {
          "description" : "You might have heard that you should be training differently from a Grandmaster. But why is that? It's because your game is fundamentally different than a GM game. The Three Stages of Every Game Chess players usually think about the Opening, Middle-, and Endgame when we talk about the three stages of a game. But []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1368,14 +1368,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-loses-to-firouzja-in-round-7-of-the-candidates",
          "pubDate" : "Fri, 12 Apr 2024 01:21:00",
          "title" : "Gukesh loses to Firouzja in Round 7 of the Candidates - 7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2966",
-         "pubDate" : "Thu, 11 Apr 2024 22:05:26",
-         "title" : "World Chess Hall of Fame hosts new exhibition \"Clash for the Crown: Celebrating Chess Champions\""
       }
    ]
 }
