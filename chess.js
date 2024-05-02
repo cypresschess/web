@@ -1408,14 +1408,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2964",
          "pubDate" : "Thu, 11 Apr 2024 04:47:56",
          "title" : "FIDE Candidates: Six victories in Round 6"
-      },
-      {
-         "description" : "D Gukesh remains in the lead, while Vidit and Pragg posted wins in round six of the 2024 FIDE Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39917666/fide-candidates-2024-gukesh-remains-joint-lead-wins-pragg-vidit-round-6?device=featurephone",
-         "pubDate" : "Wed, 10 Apr 2024 23:56:36",
-         "title" : "FIDE Candidates 2024: Gukesh remains in joint-lead, wins for Pragg and Vidit in R6"
       }
    ]
 }
