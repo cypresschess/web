@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two decisive games in the penultimate round of the TePe Sigeman & Co. Tournament left three players tied for first place, as Anton Korobov rejoined Peter Svidler and Arjun Erigaisi in the lead by beating Nils Grandelius with the white pieces. Nodirbek Abdusattorov scored a win over Vincent Keymer to remain in the fight for first place, as he now stands a half point behind the leading trio. | Photo: Mikael Svensson / tepesigemanchess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-6",
+         "pubDate" : "Fri, 03 May 2024 07:20:00",
+         "title" : "TePe Sigeman: Korobov rejoins the lead after beating Grandelius"
+      },
+      {
+         "description" : " The former world champion fears for the current holder, who is out of form before title defence against 17-year-old Gukesh Dommaraju Magnus Carlsen fears that Ding Liren may have been \"permanently broken\" following the world champion's poor performances at Wijk aan Zee in January and in the Freestyle event in Germany in March. Carlsen, who remains the world No 1 despite abdicating the title in 2023 after a 10-year reign, made his comments <a href=\"https://twitter.com/sjakksnakk/status/1784913997025739230?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1784913997025739230%7Ctwgr%5E75c47f633925e410969f79b22aaacf89bdc75f46%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chess.com%2Fnews%2Fvie",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/may/03/chess-magnus-carlsen-calls-ding-liren-broken-as-teenage-star-gukesh-emerges",
+         "pubDate" : "Fri, 03 May 2024 07:00:31",
+         "title" : "Chess: Magnus Carlsen calls Ding Liren 'broken' as teenage star Gukesh emerges"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3004",
          "pubDate" : "Thu, 02 May 2024 16:12:12",
          "title" : "Join Grand Chess Celebration: GUINNESS WORLD RECORDS Attempt for Most Games Played in a Day!"
-      },
-      {
-         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
-         "pubDate" : "Thu, 02 May 2024 14:50:00",
-         "title" : "TePe Sigeman & Co. - Live!"
       },
       {
          "description" : "",
@@ -1336,14 +1344,6 @@ news_feed (
          "link" : "https://aicf.in/gm-d-gukesh-and-gm-r-praggnanandhaa-half-point-behind-the-tournament-leader-gm-ian-nepomniachtchi/",
          "pubDate" : "Fri, 12 Apr 2024 09:33:28",
          "title" : "GM D Gukesh and GM R Praggnanandhaa half point behind the tournament leader GM Ian Nepomniachtchi"
-      },
-      {
-         "description" : " The 33-year-old Russian, a defeated world title challenger in 2021 and 2023, is in line for a third attempt as he leads in Toronto at halfway Russia's Ian Nepomniachtchi leads at halfway in the â‚¬500k Candidates in Toronto, Canada, whose winner qualifies for a world title match later this year with the holder, China's Ding Liren. Scores after round seven (of 14): Nepomniachtchi (Russia) 4.5; ­Fabiano Caruana (US), ­Praggnanandhaa R and Gukesh D (both India) 4; Hikaru Nakamura (US) and Vidit Gujrathi (India) 3.5; Alireza Firouzja (France) 2.5; Nijat Abasov (Azerbaijan) 2. <a href=\"https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidates-victory-as-indian-",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidates-victory-as-indian-trio-shine",
-         "pubDate" : "Fri, 12 Apr 2024 07:00:47",
-         "title" : "Chess: Nepomniachtchi bids for third Candidates victory as Indian trio shine"
       }
    ]
 }
