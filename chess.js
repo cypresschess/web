@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
+         "pubDate" : "Fri, 03 May 2024 11:50:00",
+         "title" : "TePe Sigeman & Co. - Live!"
+      },
+      {
+         "description" : "It's all over the news: Emma Stone and Nathan Fielder will be teaming up for a new cutthroat film, based on a book proposal by author Ben Mezrich (\"The Social Network\" and \"Dumb Money\"). A24, the independent entertainment company that specializes in film and television production, won the rights to the feature package, striking a seven-figure deal that left competitors' head-spinning. Subject of the film: take a deep breath and proceed to the main body of our article to find out.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/you-re-not-going-to-believe-this",
+         "pubDate" : "Fri, 03 May 2024 10:18:41",
+         "title" : "You're not going to believe this!"
+      },
+      {
+         "description" : "The 39th European Club Cup and the 28th European Women's Club Cup will be held from 19th-27th October 2024 in Vrnjacka Banja, Serbia. The events will be played in 7 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from the move one. The teams in the Open competition shall be composed of six (6) players plus two (2) reserves, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-open-womens-club-cup-2024-official-invitation/",
+         "pubDate" : "Fri, 03 May 2024 09:40:43",
+         "title" : "European Open & Women's Club Cup 2024 - Official invitation"
+      },
+      {
          "description" : "Two decisive games in the penultimate round of the TePe Sigeman & Co. Tournament left three players tied for first place, as Anton Korobov rejoined Peter Svidler and Arjun Erigaisi in the lead by beating Nils Grandelius with the white pieces. Nodirbek Abdusattorov scored a win over Vincent Keymer to remain in the fight for first place, as he now stands a half point behind the leading trio. | Photo: Mikael Svensson / tepesigemanchess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -754,14 +778,6 @@ news_feed (
          "title" : "PM Modi and chess fraternity congratulate Gukesh on Candidates win"
       },
       {
-         "description" : "The FIDE Candidates Tournament 2024 concluded yesterday in Toronto, Canada after exciting last round which determined the Challengers of the next World Chess Championship matches. 17-year-old Gukesh D emerged as the Winner of the Candidates Tournament 2024 to become the youngest World Chess Championship challenger ever! Gukesh headed into the last round as the sole leader of the event and was followed by Hikaru Nakamura, Fabiano Caruana and Ian Nepomniachtchi who trailed by half a point. The direct match between []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/gukesh-d-and-tan-zhongyi-win-the-candidates-tournament-2024/",
-         "pubDate" : "Mon, 22 Apr 2024 08:18:59",
-         "title" : "Gukesh D and Tan Zhongyi win the Candidates Tournament 2024"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109494678.cms\" />India's chess sensation D Gukesh has become the youngest player to win the FIDE Candidates tournament, and will challenge world champion Ding Liren. With a score of 9/14 points, Gukesh secured first place, joining Viswanathan Anand as the only Indian players to achieve this feat. The chess community congratulated Gukesh's victory.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1336,14 +1352,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/watching-rather-than-writing.html",
          "pubDate" : "Fri, 12 Apr 2024 14:30:00",
          "title" : "Watching rather than writing"
-      },
-      {
-         "description" : "Round 6 GM Vidit Gujarathi Stunned World no 2 Alireza Firouza playing with black the French man opted for Sicilian Defense and was in trouble",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-d-gukesh-and-gm-r-praggnanandhaa-half-point-behind-the-tournament-leader-gm-ian-nepomniachtchi/",
-         "pubDate" : "Fri, 12 Apr 2024 09:33:28",
-         "title" : "GM D Gukesh and GM R Praggnanandhaa half point behind the tournament leader GM Ian Nepomniachtchi"
       }
    ]
 }
