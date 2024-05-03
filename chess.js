@@ -1344,30 +1344,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/apr/12/chess-nepomniachtchi-bids-for-third-candidates-victory-as-indian-trio-shine",
          "pubDate" : "Fri, 12 Apr 2024 07:00:47",
          "title" : "Chess: Nepomniachtchi bids for third Candidates victory as Indian trio shine"
-      },
-      {
-         "description" : "Nepomniachtchi is in the sole lead, with Gukesh, Praggnanandhaa and Caruana snapping at his heels.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39925095/fide-candidates-2024-praggnanadhaa-gukesh-stay-close-leader-nepomniachtchi-round-7?device=featurephone",
-         "pubDate" : "Fri, 12 Apr 2024 02:30:54",
-         "title" : "FIDE Candidates 2024: Pragg, Gukesh stay close to leader Nepomniachtchi after R7"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2967",
-         "pubDate" : "Fri, 12 Apr 2024 02:29:33",
-         "title" : "FIDE Candidates: Nepomniachtchi and Tan lead at the halfway point"
-      },
-      {
-         "description" : " Ian Nepomniachtchi leads the FIDE Candidates with 4.5/7 at the half way stage. Nepomniachtchi hasn't looked that steady in the last three rounds and in Round 7 he and Hikaru Nakamura engaged in a memory competition for a mind bending computer line in the Petroff. It seems that Nepomniachtchi was the first to forget something important as 21...Bf5? was significantly worse than 21...Kg8. Nakamura thought for a long time over his 25.Qe2?! which turned out to be distinctly second best to 24.Ndf3 (eval over +1) Nepomniachtchi obviously realised the problem and after Qe2 bashed out 25...Ne4! immediately with obvious relief, the game was level and Nepomniachtchi had no problem proving it. Alireza ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-loses-to-firouzja-in-round-7-of-the-candidates",
-         "pubDate" : "Fri, 12 Apr 2024 01:21:00",
-         "title" : "Gukesh loses to Firouzja in Round 7 of the Candidates - 7"
       }
    ]
 }
