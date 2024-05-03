@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Now, all of us chess players know that the World Championship is battled out by Gukesh and Ding Liren. Both players faced each other in classical chess only twice before, in Wijk aan Zee 2023, and 2024. One of their games was fairly interesting, and Svitlana is analysing it.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-gukesh-vs-ding",
+         "pubDate" : "Fri, 03 May 2024 18:00:00",
+         "title" : "Svitlana's Smart Moves - Gukesh vs. Ding"
+      },
+      {
          "description" : " <b>2024 ACT Chess Championship</b> 24-27 May 2023 (Friday evening through Monday Reconciliation Day) 7-rounds FIDE/ACF Rated Swiss Format Venue: Campbell High School Trealor Cres, Campbell (next to War Memorial) Schedule: Friday 24 May 7:00pm Saturday 25 May - Monday 27 May 10:00am and 2:30pm on each day 90 minutes per game with 30 second per move increment from move one (Fischer) Director of Play: FIDE International Arbiter Shaun Press Friday 24 May 2023 7:00 PM - Monday 27 May 2023 6:00 PM (UTC+10) Entries: <a href=\"https://www.trybooking.com/CRNMU \">https://www.trybooking.com/CRNMU </a> <br /> First prize $500 Prize Pool: $1500+ ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "You're not going to believe this!"
       },
       {
+         "description" : "GM Levon Aronian recently wrote, &#38;ldquo;the FIDE Circuit is kind of a joke,&#38;rdquo; with GM Anish Giri replying to describe it as &#38;ldquo;completely broken.&#38;rdquo; Getting top grandmasters to agree on anything is a challenge, but another, 2023 FIDE ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/giri-aronian-caruana-criticize-fide-circuit",
+         "pubDate" : "Fri, 03 May 2024 09:54:00",
+         "title" : "Giri, Caruana, Aronian Slam 'Completely Broken' FIDE Circuit"
+      },
+      {
          "description" : "The 39th European Club Cup and the 28th European Women's Club Cup will be held from 19th-27th October 2024 in Vrnjacka Banja, Serbia. The events will be played in 7 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from the move one. The teams in the Open competition shall be composed of six (6) players plus two (2) reserves, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "European Open & Women's Club Cup 2024 - Official invitation"
       },
       {
-         "description" : "Banter Blitz&#38;mdash;the much-loved series that sadly disappeared when Chess.com took over chess24. Or did it? Chess.com is delighted to announce the return of Chess24&#38;rsquo;s flagship show which featured a ton of timeless moments where fans got t...",
+         "description" : "Banter Blitz&#38;mdash;the much-loved series that sadly disappeared when Chess.com took over Chess24. Or did it? Chess.com is delighted to announce the return of Chess24&#38;rsquo;s flagship show which featured a ton of timeless moments where fans got t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/banter-blitz-is-back-with-jan-gustafsson",
@@ -912,14 +928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2980",
          "pubDate" : "Sun, 21 Apr 2024 21:16:30",
          "title" : "European Women's Championship starts in Rhodes, Greece"
-      },
-      {
-         "description" : "After 14 rounds and over three weeks of play,&#38;nbsp;17-year-old GM Gukesh Dommaraju has won the 2024 FIDE Candidates Tournament and is the youngest player in history to win a Candidates Tournament. He will play GM Ding Liren for the world champions...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-14",
-         "pubDate" : "Sun, 21 Apr 2024 17:50:00",
-         "title" : "Gukesh Youngest Ever Candidates Winner, Tan Takes Women's By 1.5 Points"
       },
       {
          "description" : "For this month's <I>Flickr Favorite</I> post, I had a number of good choices. One choice was another in the series of J-L. Mazieres chess images last seen in <A HREF=\"https://chessforallages.blogspot.com/2021/04/more-lessons-in-art-appreciation.html\">More Lessons in Art Appreciation</A> (April 2021). The new Mazieres Flickr page is <A HREF=\"https://www.flickr.com/photos/mazanto/53634931678/\">Lucas de Leyde [aka van Leyden]. 1489-1533. Leyden Jeu d'&eacute;checs.</A> (flickr.com), where the title continues, <BLOCKQUOTE> Berlin Gemaldegalerie. The game of chess symbolizes both the struggle for power and the war of the sexes. </BLOCKQUOTE> <P> The choice I finally made, shown here, is another o",
