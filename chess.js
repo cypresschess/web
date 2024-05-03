@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <b>2024 ACT Chess Championship</b> 24-27 May 2023 (Friday evening through Monday Reconciliation Day) 7-rounds FIDE/ACF Rated Swiss Format Venue: Campbell High School Trealor Cres, Campbell (next to War Memorial) Schedule: Friday 24 May 7:00pm Saturday 25 May - Monday 27 May 10:00am and 2:30pm on each day 90 minutes per game with 30 second per move increment from move one (Fischer) Director of Play: FIDE International Arbiter Shaun Press Friday 24 May 2023 7:00 PM - Monday 27 May 2023 6:00 PM (UTC+10) Entries: <a href=\"https://www.trybooking.com/CRNMU \">https://www.trybooking.com/CRNMU </a> <br /> First prize $500 Prize Pool: $1500+ ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-chess-championship-24th-27th.html",
+         "pubDate" : "Fri, 03 May 2024 14:00:00",
+         "title" : "2024 ACT Chess Championship - 24th - 27th May 2024"
+      },
+      {
          "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,28 @@ news_feed (
          "title" : "European Open & Women's Club Cup 2024 - Official invitation"
       },
       {
+         "description" : "Banter Blitz&#38;mdash;the much-loved series that sadly disappeared when Chess.com took over chess24. Or did it? Chess.com is delighted to announce the return of Chess24&#38;rsquo;s flagship show which featured a ton of timeless moments where fans got t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/banter-blitz-is-back-with-jan-gustafsson",
+         "pubDate" : "Fri, 03 May 2024 07:23:00",
+         "title" : "Banter Blitz Is Back! Cult Chess And Chat Show Returns With The OG Jan Gustafsson"
+      },
+      {
          "description" : "Two decisive games in the penultimate round of the TePe Sigeman & Co. Tournament left three players tied for first place, as Anton Korobov rejoined Peter Svidler and Arjun Erigaisi in the lead by beating Nils Grandelius with the white pieces. Nodirbek Abdusattorov scored a win over Vincent Keymer to remain in the fight for first place, as he now stands a half point behind the leading trio. | Photo: Mikael Svensson / tepesigemanchess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-6",
          "pubDate" : "Fri, 03 May 2024 07:20:00",
          "title" : "TePe Sigeman: Korobov rejoins the lead after beating Grandelius"
+      },
+      {
+         "description" : "Chess will be back on our screens&#38;mdash;in a big way, if reports are correct. Hollywood Reporter, the publication that covers the U.S. film industry, claims that plans are afoot for a new star-studded feature spotlighting the game called Checkma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hollywood-lines-up-new-film-about-carlsen-niemann-cheating-scandal",
+         "pubDate" : "Fri, 03 May 2024 07:14:00",
+         "title" : "Emma Stone To Produce Movie On Carlsen-Niemann Drama"
       },
       {
          "description" : " The former world champion fears for the current holder, who is out of form before title defence against 17-year-old Gukesh Dommaraju Magnus Carlsen fears that Ding Liren may have been \"permanently broken\" following the world champion's poor performances at Wijk aan Zee in January and in the Freestyle event in Germany in March. Carlsen, who remains the world No 1 despite abdicating the title in 2023 after a 10-year reign, made his comments <a href=\"https://twitter.com/sjakksnakk/status/1784913997025739230?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1784913997025739230%7Ctwgr%5E75c47f633925e410969f79b22aaacf89bdc75f46%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chess.com%2Fnews%2Fvie",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "FIDE ratings - May 2024"
       },
       {
-         "description" : "The new ChessBase Magazine #219 offers complete mobile access again with the ChessBase book format. All analyses, repertoire articles, videos and training exercises can be loaded directly in your web browser! In this and the coming weeks, we will be presenting the new issue to you in a series of free reading samples. We start with Lars Schandorff's opening article on the Caro-Kann Advance Variation. After the moves 1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h6!? he recommends White to start the game with a sequence of nine pawn moves! Can that be good? Check the free CBM reading sample of the week!",
+         "description" : "The new ChessBase Magazine #219 offers complete mobile access again with the ChessBase book format. All analyses, repertoire articles, videos and training exercises can be loaded directly in your web browser! In this and the coming weeks, we will be presenting the new issue to you in a series of free reading samples. We start with Lars Schandorff's opening article on the Caro-Kann Advance Variation. In the line with 1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h6!? he recommends White to start the game with a sequence of nine pawn moves! Can that be good? Check the free CBM reading sample of the week!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-chessbase-magazine-7",
@@ -962,22 +986,6 @@ news_feed (
          "title" : "FIDE Candidates 2024: Gukesh takes sole lead after Round 13; one win away from World Championship"
       },
       {
-         "description" : "17-year-old GM Gukesh Dommaraju has taken the sole lead of the 2024 FIDE Candidates Tournament with one round to go after exacting revenge against GM Alireza Firouzja in round 13. GMs Ian Nepomniachtchi and Hikaru Nakamura made a draw to stay a ha...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-candidates-tournament-round-13",
-         "pubDate" : "Sat, 20 Apr 2024 17:54:00",
-         "title" : "Gukesh Leads Candidates Before Last Round, Tan Needs Only A Draw In Women's"
-      },
-      {
-         "description" : "GM Daniel Naroditsky secured a comprehensive victory in the 49th edition of Bullet Brawl on Saturday, scoring 276 points on his way to the $400 first prize after scoring 75.5/84. Well behind Naroditsky but still posting a commanding score of 235 w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/naroditsky-wins-bullet-brawl-april-20-2024",
-         "pubDate" : "Sat, 20 Apr 2024 16:19:00",
-         "title" : "Candidates Commentator Naroditsky Conquers Bullet Brawl"
-      },
-      {
          "description" : "You might have heard that you should be training differently from a Grandmaster. But why is that? It's because your game is fundamentally different than a GM game. The Three Stages of Every Game Chess players usually think about the Opening, Middle-, and Endgame when we talk about the three stages of a game. But []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1336,22 +1344,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2968",
          "pubDate" : "Fri, 12 Apr 2024 23:22:51",
          "title" : "Riga is set to host unique 100-Board team tournament"
-      },
-      {
-         "description" : "In the previous post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/cfaas-cmp-earnings.html\">CFAA's CMP : Earnings</A> (April 2024; Google's CMP = Consent Management Platform for ads), I noted, <BLOCKQUOTE> Although [ad] earnings declined significantly over the last six months, what about page views? I'll look at that metric in a follow-up post. </BLOCKQUOTE> <P> I also noted that earnings declined more than 90% after I implemented the change that Google had imposed. The following chart shows monthly <B><I>visitor counts</I></B> -- as recorded by my site's ISP -- over the past two full years 2022 and 2023, plus the first three months of 2024. <P> <XMG SRC=\"https://www.mark-weeks.com/",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/cfaas-cmp-visitors.html",
-         "pubDate" : "Fri, 12 Apr 2024 15:12:00",
-         "title" : "CFAA's CMP : Visitors"
-      },
-      {
-         "description" : " I'm a big fan of reading about chess (and most other things) but I am falling into the trap of watching more chess than reading (or writing). Maybe this is just me catching up with the times, or just part of my continuing descent into laziness. It probably hasn't been helped in the short term by picking up my usual cold after running an interschool event (120 players at the ACT Girls Primary Championships). Having said that I will probably stick to writing as (a) I have a good face for radio and (b) it probably takes *more* effort to produce visual content than it does to produce written content. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/watching-rather-than-writing.html",
-         "pubDate" : "Fri, 12 Apr 2024 14:30:00",
-         "title" : "Watching rather than writing"
       }
    ]
 }
