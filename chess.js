@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 28th Tepe Sigeman & Co Chess Tournament took place in Malmo 27th April to 3rd May 2024. Players: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, Peter Svidler, Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and Ju Wenjun. There was a three way tie on 4.5/5. Nodirbek Abdusattorov emerged the winner over Arjun Erigaisi in a second tie-break, Peter Svidler lost to both these players in the first tie-break. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/28th-tepe-sigeman-co-chess-tournament-2024",
+         "pubDate" : "Fri, 3 May 2024 21:15:00",
+         "title" : "28th Tepe Sigeman & Co Chess Tournament 2024 - Games and Results"
+      },
+      {
          "description" : "Now, all of us chess players know that the World Championship is battled out by Gukesh and Ding Liren. Both players faced each other in classical chess only twice before, in Wijk aan Zee 2023, and 2024. One of their games was fairly interesting, and Svitlana is analysing it.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +26,12 @@ news_feed (
          "title" : "2024 ACT Chess Championship - 24th - 27th May 2024"
       },
       {
-         "description" : "The TePe Sigeman & Co tournament is taking place from 27 April to 3 May at the Elite Plaza Hotel in Malm&ouml;, Sweden. The tournament is an 8-player single round-robin featuring Nodirbek Abdusattorov, Arjun Erigaisi and Vincent Keymer as the top seeds. Defending champion Peter Svidler and women's world champion Ju Wenjun are also in the mix. | Follow the games live starting at 12.00 CEST (6.00 ET, 15.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-live",
-         "pubDate" : "Fri, 03 May 2024 11:50:00",
-         "title" : "TePe Sigeman & Co. - Live!"
-      },
-      {
-         "description" : "It's all over the news: Emma Stone and Nathan Fielder will be teaming up for a new cutthroat film, based on a book proposal by author Ben Mezrich (\"The Social Network\" and \"Dumb Money\"). A24, the independent entertainment company that specializes in film and television production, won the rights to the feature package, striking a seven-figure deal that left competitors' head-spinning. Subject of the film: take a deep breath and proceed to the main body of our article to find out.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/you-re-not-going-to-believe-this",
-         "pubDate" : "Fri, 03 May 2024 10:18:41",
-         "title" : "You're not going to believe this!"
+         "description" : "He was in fourth place, trailing three leaders by half a point, but GM Nodirbek Abdusattorov ended up winning the 2024 TePe Sigeman Chess Tournament as the player with the strongest nerves in a thrilling blitz tiebreak with GM Arjun Erigaisi and G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/abdusattorov-wins-2024-tepe-sigeman-tournament",
+         "pubDate" : "Fri, 03 May 2024 13:13:00",
+         "title" : "Abdusattorov Wins TePe Sigeman Chess Tournament In Thrilling Tiebreaker"
       },
       {
          "description" : "GM Levon Aronian recently wrote, &#38;ldquo;the FIDE Circuit is kind of a joke,&#38;rdquo; with GM Anish Giri replying to describe it as &#38;ldquo;completely broken.&#38;rdquo; Getting top grandmasters to agree on anything is a challenge, but another, 2023 FIDE ...",
@@ -56,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/banter-blitz-is-back-with-jan-gustafsson",
          "pubDate" : "Fri, 03 May 2024 07:23:00",
          "title" : "Banter Blitz Is Back! Cult Chess And Chat Show Returns With The OG Jan Gustafsson"
-      },
-      {
-         "description" : "Two decisive games in the penultimate round of the TePe Sigeman & Co. Tournament left three players tied for first place, as Anton Korobov rejoined Peter Svidler and Arjun Erigaisi in the lead by beating Nils Grandelius with the white pieces. Nodirbek Abdusattorov scored a win over Vincent Keymer to remain in the fight for first place, as he now stands a half point behind the leading trio. | Photo: Mikael Svensson / tepesigemanchess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-6",
-         "pubDate" : "Fri, 03 May 2024 07:20:00",
-         "title" : "TePe Sigeman: Korobov rejoins the lead after beating Grandelius"
       },
       {
          "description" : "Chess will be back on our screens&#38;mdash;in a big way, if reports are correct. Hollywood Reporter, the publication that covers the U.S. film industry, claims that plans are afoot for a new star-studded feature spotlighting the game called Checkma...",
@@ -104,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-6",
          "pubDate" : "Thu, 02 May 2024 13:05:00",
          "title" : "Korobov Bounces Back; 3 Leaders In Malmo Before Final Round"
-      },
-      {
-         "description" : "In the new world rankings published by FIDE on 1st May, Gukesh D, the winner of the Candidates, has made a big leap forward: 20 extra rating points have lifted the 17-year-old Indian from 16th to 6th place. Gukesh is now one point ahead of Ding Liren, the reigning FIDE World Champion, whom he will challenge later this year. Fabiano Caruana, Hikaru Nakamura and Ian Nepomniachtchi have also picked up a few points in the Candidates and are now ranked second to fourth behind Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-may-2024",
-         "pubDate" : "Thu, 02 May 2024 13:00:00",
-         "title" : "FIDE ratings - May 2024"
       },
       {
          "description" : "The new ChessBase Magazine #219 offers complete mobile access again with the ChessBase book format. All analyses, repertoire articles, videos and training exercises can be loaded directly in your web browser! In this and the coming weeks, we will be presenting the new issue to you in a series of free reading samples. We start with Lars Schandorff's opening article on the Caro-Kann Advance Variation. In the line with 1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h6!? he recommends White to start the game with a sequence of nine pawn moves! Can that be good? Check the free CBM reading sample of the week!",
@@ -360,14 +344,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-extends-the-lead-in-the-european-womens-chess-championship-2024/",
          "pubDate" : "Sun, 28 Apr 2024 07:33:47",
          "title" : "IM Ulviyya Fataliyeva extends the lead in the European Women's Chess Championship 2024"
-      },
-      {
-         "description" : " The 28th Tepe Sigeman & Co Chess Tournament takes place in Malmo 27th April to 3rd May 2024. Players: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, Peter Svidler, Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and Ju Wenjun. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/28th-tepe-sigeman-co-chess-tournament-2024",
-         "pubDate" : "Sat, 27 Apr 2024 23:15:00",
-         "title" : "28th Tepe Sigeman & Co Chess Tournament 2024 - Games and Results"
       },
       {
          "description" : "",
@@ -776,14 +752,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/04/vikings-as-ai-stereotypes.html",
          "pubDate" : "Mon, 22 Apr 2024 15:26:00",
          "title" : "Vikings as AI Stereotypes"
-      },
-      {
-         "description" : "Seventeen-year-old GM Gukesh Dommaraju has become the youngest-ever world chess championship challenger after finishing half a point ahead of GMs Hikaru Nakamura, Ian Nepomniachtchi, and Fabiano Caruana. He&#38;rsquo;ll now play GM Ding Liren for the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/9-things-we-learned-2024-fide-candidates-tournament",
-         "pubDate" : "Mon, 22 Apr 2024 13:35:00",
-         "title" : "9 Things We Learned - 2024 FIDE Candidates Tournament"
       },
       {
          "description" : "In the end it'll be a battle of Ding's experience vs Gukesh's willingness to push the boundary.",
@@ -1344,14 +1312,6 @@ news_feed (
          "link" : "https://www.thearticle.com/words-words-words-and-chess/",
          "pubDate" : "Sat, 13 Apr 2024 11:29:51",
          "title" : "Words, words, words - and chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2968",
-         "pubDate" : "Fri, 12 Apr 2024 23:22:51",
-         "title" : "Riga is set to host unique 100-Board team tournament"
       }
    ]
 }
