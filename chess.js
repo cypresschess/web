@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 1988, at the Chess Olympiad, a young Greek IM won two notable games. Both games weren't in line with modern and long opening fashion analysis. Old and tricky openings were applied by the black players, which can be rather annoying. What can we learn from them? If you study the ideas and then try to apply healthy set-ups, you are already in the right track.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grivas-scoring-the-winning-goal-2",
+         "pubDate" : "Sat, 04 May 2024 12:00:00",
+         "title" : "Grivas: Scoring the winning goal"
+      },
+      {
+         "description" : "On May 5th, the subscribers of Kasparov Chess Foundation Academy will gather for an exclusive interview with Veselin Topalov. He was born in 1975, etched his name into the annals of chess history with his remarkable achievements from 2005 to 2014. Renowned for his dynamic style of play, Topalov emerged as one of the most formidable players on the world stage. Listen to his interview this Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kcf-academy-interview-with-veselin-topalov",
+         "pubDate" : "Sat, 04 May 2024 10:00:00",
+         "title" : "KCF: Interview with Veselin Topalov"
+      },
+      {
+         "description" : "This week I would like to offer my congratulations to HM Government, supported by His Majesty's Loyal Opposition, on the success of steering their tobacco ban Bill through its first reading in the House of Commons. Following on the triumph of the Government long standing war on drugs, the natural corollary was to ban tobacco. []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/tobacco-witches-and-chess-a-jacobean-drama/",
+         "pubDate" : "Sat, 04 May 2024 07:32:08",
+         "title" : "Tobacco, witches and chess: a Jacobean drama"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109831350.cms\" />Russian chess legend Garry Kasparov's jest about Indian politics sparked online buzz. Playfully responding to Congress MP Rahul Gandhi's claim of being India's top politician-chess player, Kasparov quipped, \"First win Rae Bareli before challenging for the top.\" Despite clarifying it as a joke, his comment ignited a lively discourse on social media, blending humour with politics in unexpected ways.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -22,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fides-call-for-world-championship-bids-draws-reactions",
-         "pubDate" : "Sat, 04 May 2024 00:18:10",
+         "pubDate" : "Sat, 04 May 2024 00:18:00",
          "title" : "FIDE's Call For World Championship Bids Sparks Reactions"
       },
       {
@@ -1312,14 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2969",
          "pubDate" : "Sat, 13 Apr 2024 22:29:09",
          "title" : "James Kang'aru Mwangi wins 2024 Forty Under 40 Africa Achiever Award"
-      },
-      {
-         "description" : "During his all too brief tenure as chess columnist for The Sunday Telegraph, the UK's most illustrious grandmaster, Nigel Short, was an enthusiastic user of unusual words and metaphors. For example: he introduced me to the word oenophile in his columns (lover of wine) and strikingly employed the word spherical to describe the Falstaffian Soviet Grandmaster, Eduard (Eddie) Gufeld. Since then, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/words-words-words-and-chess/",
-         "pubDate" : "Sat, 13 Apr 2024 11:29:51",
-         "title" : "Words, words, words - and chess"
       }
    ]
 }
