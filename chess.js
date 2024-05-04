@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kicking off the 2024 Grand Chess Tour will be the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is set to take place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, Dommaraju Gukesh. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-preview",
+         "pubDate" : "Sat, 04 May 2024 23:00:00",
+         "title" : "Starting Wednesday: Carlsen and Gukesh to meet in Poland"
+      },
+      {
          "description" : "It has been two weeks since Dommaraju Gukesh became the youngest-ever World Chess Championship challenger after obtaining outright victory at the Candidates Tournament. The player who was closest to catching Gukesh in the final round was Fabiano Caruana, who missed clear winning chances in his round-14 game against Ian Nepomniachtchi. In the latest episode of the C-Squared Podcast, Caruana reflects on his performance and the development of the tournament in general. Unmissable. | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/caruana-reflections-candidates-2024",
          "pubDate" : "Sat, 04 May 2024 18:00:00",
          "title" : "C-Squared Podcast: Caruana reflects on his performance at the Candidates"
+      },
+      {
+         "description" : "GM Hikaru Nakamura secured his second straight Bullet Brawl and $400 after scoring 251 points ahead of GMs Jose Martinez and Daniel Naroditsky on Saturday. With this victory, Nakamura has taken his live Bullet Brawl earnings to just over $10,000 i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-4-2024",
+         "pubDate" : "Sat, 04 May 2024 16:05:47",
+         "title" : "Nakamura Pushes Bullet Brawl Earnings Over $10,000"
       },
       {
          "description" : "Ever suspect your opponent of cheating online? It's a terrible feeling, leaving you powerless. You start second-guessing your own moves and see ghosts with every move they play. Being in the wrong mindset, you play so badly that it doesn't even matter if they cheat. You blunder and lose the game. But here's the surprising []",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kcf-academy-interview-with-veselin-topalov",
          "pubDate" : "Sat, 04 May 2024 10:00:00",
          "title" : "KCF: Interview with Veselin Topalov"
-      },
-      {
-         "description" : "Praggnanandhaa looks back at his FIDE Candidates campaign and how amazing it was to play alongside his sister Vaishali.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/40079794/praggnanandhaa-fide-candidates-2024-vaishali-indian-chess-virat-kohli?device=featurephone",
-         "pubDate" : "Sat, 4 May 2024 07:50:41",
-         "title" : "Praggnanandhaa on FIDE Candidates: 'If I was more practical, I'd have been better'"
       },
       {
          "description" : "This week I would like to offer my congratulations to HM Government, supported by His Majesty's Loyal Opposition, on the success of steering their tobacco ban Bill through its first reading in the House of Commons. Following on the triumph of the Government long standing war on drugs, the natural corollary was to ban tobacco. []",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-chess-championship-2024-is-halfway-through/",
          "pubDate" : "Wed, 24 Apr 2024 08:43:18",
          "title" : "European Women's Chess Championship 2024 is halfway through"
-      },
-      {
-         "description" : "Decades after the popular TV show The Master Game, the British Broadcasting Corporation (BBC) plans to broadcast a new chess show. In&#38;nbsp;Chess Masters, to be aired in 2025, players of different ages and backgrounds will go head to head in a seri...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bbc-to-broadcast-new-show-chess-masters",
-         "pubDate" : "Wed, 24 Apr 2024 07:54:00",
-         "title" : "BBC To Broadcast New Chess Show Decades After 'The Master Game'"
       },
       {
          "description" : "Click here for National Rapid 2024 Rank Name 1 Ghosh Diptayan 2 Aronyak Ghosh 3 Raja Rithvik R 4 Das Arghyadip 5 Srihari L R",
@@ -1336,22 +1336,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2970",
          "pubDate" : "Sun, 14 Apr 2024 05:37:05",
          "title" : "FIDE Candidates: Race for first wide open as second half begins"
-      },
-      {
-         "description" : "Gukesh beats Vidit to climb back to the joint lead, while Humpy has her first win of the Candidates.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39937539/fide-candidates-2024-gukesh-back-joint-lead-nepomniachtchi-humpy-posts-first-win-round-8?device=featurephone",
-         "pubDate" : "Sat, 13 Apr 2024 23:21:04",
-         "title" : "FIDE Candidates 2024: Gukesh back in joint-lead, Humpy has first win in R8"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2969",
-         "pubDate" : "Sat, 13 Apr 2024 22:29:09",
-         "title" : "James Kang'aru Mwangi wins 2024 Forty Under 40 Africa Achiever Award"
       }
    ]
 }
