@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109831350.cms\" />Russian chess legend Garry Kasparov's jest about Indian politics sparked online buzz. Playfully responding to Congress MP Rahul Gandhi's claim of being India's top politician-chess player, Kasparov quipped, \"First win Rae Bareli before challenging for the top.\" Despite clarifying it as a joke, his comment ignited a lively discourse on social media, blending humour with politics in unexpected ways.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/garry-kasparov-clarifies-his-little-joke-on-politics-that-cheekily-asked-rahul-gandhi-to-first-win-rae-bareli/articleshow/109831350.cms",
+         "pubDate" : "Sat, 04 May 2024 04:19:50",
+         "title" : "Kasparov clarifies 'little joke' asking Gandhi to 'first win Rae Bareli'"
+      },
+      {
          "description" : "Despite entering the final round a half point behind three co-leaders, Nodirbek Abdusattorov ended up claiming overall victory at the TePe Sigeman & Co. Tournament in Malm&ouml;. Abdusattorov defeated Marc'Andria Maurizzi in round 7, while co-leaders Arjun Erigaisi and Peter Svidler only managed draws in their games - Anton Korobov lost to Ju Wenjun and was left out of contention. A 3-player blitz tiebreaker saw Abdusattorov showing stronger nerves than his opponents to become the tournament winner. | Photo: Mikael Svensson / tepesigemanchess.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-7",
          "pubDate" : "Sat, 04 May 2024 01:40:00",
          "title" : "Abdusattorov comes from behind, wins TePe Sigeman & Co."
+      },
+      {
+         "description" : "The International Chess Federation (FIDE) has made a call for bids for the 2024 World Championship match with budget figures that have stirred a debate in the chess community.&#38;nbsp; A few weeks after the conclusion of the Candidates Tournament, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fides-call-for-world-championship-bids-draws-reactions",
+         "pubDate" : "Sat, 04 May 2024 00:18:10",
+         "title" : "FIDE's Call For World Championship Bids Sparks Reactions"
       },
       {
          "description" : " The 28th Tepe Sigeman & Co Chess Tournament took place in Malmo 27th April to 3rd May 2024. Players: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, Peter Svidler, Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and Ju Wenjun. There was a three way tie on 4.5/5. Nodirbek Abdusattorov emerged the winner over Arjun Erigaisi in a second tie-break, Peter Svidler lost to both these players in the first tie-break. ",
@@ -626,14 +642,6 @@ news_feed (
          "title" : "Cerificates :National Rapid & Blitz Chess Championship 2024"
       },
       {
-         "description" : "A decades-long unbeaten run, believed to be one of the longest in sporting history, has ended after a team of amateur chess players toppled a club dubbed the &#34;Manchester City of chess.&#34; Hammersmith Chess Club in west London beat the invincible k...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/22-year-winning-run-ends-as-amateur-team-topples-man-city-of-chess",
-         "pubDate" : "Wed, 24 Apr 2024 06:40:37",
-         "title" : "22-Year Winning Run Ends As Amateur Team Topples 'Man City Of Chess'"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109554101.cms\" />D Gukesh won the International Chess Federation (FIDE) Candidates Chess Tournament 2024 in Toronto, Canada. He became the youngest-ever challenger to the world title and secured his place in chess history. Gukesh's victory marks a significant milestone for Indian chess, becoming the second Indian player, after Viswanathan Anand, to win the prestigious tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2977",
          "pubDate" : "Wed, 17 Apr 2024 11:36:34",
          "title" : "FIDE World Junior U20 Championship: Registration deadline is May 1"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109363130.cms\" />Indian teenage grandmasters D Gukesh and R Praggnanandhaa vie for victory in the Candidates chess tournament. Gukesh, tied for the lead, faces top-seed Fabiano Caruana, holding the white pieces advantage. Praggnanandhaa, set against Hikaru Nakamura, aims to repeat past successes. These matches, crucial in determining the world championship challenger, hold significant stakes for both players.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-to-take-on-fabiano-caruana-r-praggnanandhaa-up-against-hikaru-nakamura-at-candidates-chess-tournament/articleshow/109363130.cms",
-         "pubDate" : "Wed, 17 Apr 2024 04:59:22",
-         "title" : "Gukesh takes on Caruana, Pragg up against Nakamura at Candidates"
       },
       {
          "description" : "",
