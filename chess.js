@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Despite entering the final round a half point behind three co-leaders, Nodirbek Abdusattorov ended up claiming overall victory at the TePe Sigeman & Co. Tournament in Malm&ouml;. Abdusattorov defeated Marc'Andria Maurizzi in round 7, while co-leaders Arjun Erigaisi and Peter Svidler only managed draws in their games - Anton Korobov lost to Ju Wenjun and was left out of contention. A 3-player blitz tiebreaker saw Abdusattorov showing stronger nerves than his opponents to become the tournament winner. | Photo: Mikael Svensson / tepesigemanchess.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-7",
+         "pubDate" : "Sat, 04 May 2024 01:40:00",
+         "title" : "Abdusattorov comes from behind, wins TePe Sigeman & Co."
+      },
+      {
          "description" : " The 28th Tepe Sigeman & Co Chess Tournament took place in Malmo 27th April to 3rd May 2024. Players: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, Peter Svidler, Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and Ju Wenjun. There was a three way tie on 4.5/5. Nodirbek Abdusattorov emerged the winner over Arjun Erigaisi in a second tie-break, Peter Svidler lost to both these players in the first tie-break. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
