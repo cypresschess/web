@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It has been two weeks since Dommaraju Gukesh became the youngest-ever World Chess Championship challenger after obtaining outright victory at the Candidates Tournament. The player who was closest to catching Gukesh in the final round was Fabiano Caruana, who missed clear winning chances in his round-14 game against Ian Nepomniachtchi. In the latest episode of the C-Squared Podcast, Caruana reflects on his performance and the development of the tournament in general. Unmissable. | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/caruana-reflections-candidates-2024",
+         "pubDate" : "Sat, 04 May 2024 18:00:00",
+         "title" : "C-Squared Podcast: Caruana reflects on his performance at the Candidates"
+      },
+      {
          "description" : "Ever suspect your opponent of cheating online? It's a terrible feeling, leaving you powerless. You start second-guessing your own moves and see ghosts with every move they play. Being in the wrong mindset, you play so badly that it doesn't even matter if they cheat. You blunder and lose the game. But here's the surprising []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "KCF: Interview with Veselin Topalov"
       },
       {
+         "description" : "Praggnanandhaa looks back at his FIDE Candidates campaign and how amazing it was to play alongside his sister Vaishali.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40079794/praggnanandhaa-fide-candidates-2024-vaishali-indian-chess-virat-kohli?device=featurephone",
+         "pubDate" : "Sat, 4 May 2024 07:50:41",
+         "title" : "Praggnanandhaa on FIDE Candidates: 'If I was more practical, I'd have been better'"
+      },
+      {
          "description" : "This week I would like to offer my congratulations to HM Government, supported by His Majesty's Loyal Opposition, on the success of steering their tobacco ban Bill through its first reading in the House of Commons. Following on the triumph of the Government long standing war on drugs, the natural corollary was to ban tobacco. []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/garry-kasparov-clarifies-his-little-joke-on-politics-that-cheekily-asked-rahul-gandhi-to-first-win-rae-bareli/articleshow/109831350.cms",
          "pubDate" : "Sat, 04 May 2024 04:19:50",
          "title" : "Kasparov clarifies 'little joke' asking Gandhi to 'first win Rae Bareli'"
-      },
-      {
-         "description" : "Despite entering the final round a half point behind three co-leaders, Nodirbek Abdusattorov ended up claiming overall victory at the TePe Sigeman & Co. Tournament in Malm&ouml;. Abdusattorov defeated Marc'Andria Maurizzi in round 7, while co-leaders Arjun Erigaisi and Peter Svidler only managed draws in their games - Anton Korobov lost to Ju Wenjun and was left out of contention. A 3-player blitz tiebreaker saw Abdusattorov showing stronger nerves than his opponents to become the tournament winner. | Photo: Mikael Svensson / tepesigemanchess.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tepe-sigeman-2024-7",
-         "pubDate" : "Sat, 04 May 2024 01:40:00",
-         "title" : "Abdusattorov comes from behind, wins TePe Sigeman & Co."
       },
       {
          "description" : "The International Chess Federation (FIDE) has made a call for bids for the 2024 World Championship match with budget figures that have stirred a debate in the chess community.&#38;nbsp; A few weeks after the conclusion of the Candidates Tournament, ...",
@@ -90,12 +98,12 @@ news_feed (
          "title" : "Abdusattorov Wins TePe Sigeman Chess Tournament In Thrilling Tiebreaker"
       },
       {
-         "description" : "GM Levon Aronian recently wrote, &#38;ldquo;the FIDE Circuit is kind of a joke,&#38;rdquo; with GM Anish Giri replying to describe it as &#38;ldquo;completely broken.&#38;rdquo; Getting top grandmasters to agree on anything is a challenge, but another, 2023 FIDE ...",
+         "description" : "GM Levon Aronian recently wrote, &#38;ldquo;the FIDE Circuit is kind of a joke,&#38;rdquo; with GM Anish Giri replying to describe it as &#38;ldquo;completely broken.&#38;rdquo; 2023 FIDE Circuit Winner GM Fabiano Caruana, described the system, which will determi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/giri-aronian-caruana-criticize-fide-circuit",
          "pubDate" : "Fri, 03 May 2024 09:54:00",
-         "title" : "Giri, Caruana, Aronian Slam 'Completely Broken' FIDE Circuit"
+         "title" : "Giri, Caruana, Aronian Criticize FIDE Circuit"
       },
       {
          "description" : "The 39th European Club Cup and the 28th European Women's Club Cup will be held from 19th-27th October 2024 in Vrnjacka Banja, Serbia. The events will be played in 7 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from the move one. The teams in the Open competition shall be composed of six (6) players plus two (2) reserves, []",
