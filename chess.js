@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ever suspect your opponent of cheating online? It's a terrible feeling, leaving you powerless. You start second-guessing your own moves and see ghosts with every move they play. Being in the wrong mindset, you play so badly that it doesn't even matter if they cheat. You blunder and lose the game. But here's the surprising []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/cheaters/",
+         "pubDate" : "Sat, 04 May 2024 13:07:00",
+         "title" : "Forget Cheaters: Here's Your Secret Weapon (For Amateurs)"
+      },
+      {
          "description" : "In 1988, at the Chess Olympiad, a young Greek IM won two notable games. Both games weren't in line with modern and long opening fashion analysis. Old and tricky openings were applied by the black players, which can be rather annoying. What can we learn from them? If you study the ideas and then try to apply healthy set-ups, you are already in the right track.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
