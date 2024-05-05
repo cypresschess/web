@@ -1,4 +1,7 @@
 jtable([
+"HOUSTON","2024-05-04","8","<a href=http://www.uschess.org/msa/XtblMain.php?202405042372 target='_blank'>CHESSPANDA05042024SATURDAY</a>",
+"HOUSTON","2024-05-03","27","<a href=http://www.uschess.org/msa/XtblMain.php?202405031962 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2024-05-03","6","<a href=http://www.uschess.org/msa/XtblMain.php?202405031922 target='_blank'>FBCC 2024 NATIONAL SPACE DAY OPEN.P</a>",
 "HOUSTON","2024-04-02  - 04-30","22","<a href=http://www.uschess.org/msa/XtblMain.php?202404300932 target='_blank'>APRIL 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-04-28","17","<a href=http://www.uschess.org/msa/XtblMain.php?202404289942 target='_blank'>FREE THE US VIRGIN ISLANDS BENEFIT</a>",
 "SUGAR LAND","2024-04-28","4","<a href=http://www.uschess.org/msa/XtblMain.php?202404289542 target='_blank'>CYGA04282024</a>",
@@ -28,6 +31,7 @@ jtable([
 "HOUSTON","2024-04-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202404062292 target='_blank'>CHESSPANDA04062024SATURDAY</a>",
 "SPRING","2024-04-05","35","<a href=http://www.uschess.org/msa/XtblMain.php?202404051752 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-04-05","36","<a href=http://www.uschess.org/msa/XtblMain.php?202404051712 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"CYPRESS","2024-04-03","20","<a href=http://www.uschess.org/msa/XtblMain.php?202404032332 target='_blank'>KNIGHTS OF CYORESS</a>",
 "HOUSTON","2024-03-30","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403308632 target='_blank'>ADULTS ONLY - MARCH 30TH SATURDAY S</a>",
 "HOUSTON","2024-03-30","105","<a href=http://www.uschess.org/msa/XtblMain.php?202403308402 target='_blank'>TCR: EASTER BUNNY BLAST</a>",
 "HOUSTON","2024-03-30","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403308222 target='_blank'>CHESSPANDA03302024SATURDAY</a>",
@@ -195,8 +199,4 @@ jtable([
 "SPRING","2023-10-20","22","<a href=http://www.uschess.org/msa/XtblMain.php?202310202782 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2023-10-20","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310202772 target='_blank'>FBCC 2023 PUMPKIN PATCH OPEN</a>",
 "CYPRESS","2023-10-20","22","<a href=http://www.uschess.org/msa/XtblMain.php?202310202662 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2023-10-15","5","<a href=http://www.uschess.org/msa/XtblMain.php?202310151602 target='_blank'>OCTOBER 15 SUNDAY SWISS</a>",
-"HOUSTON","2023-10-14","38","<a href=http://www.uschess.org/msa/XtblMain.php?202310149592 target='_blank'>NATIONAL CHESS DAY SCHOLASTIC</a>",
-"SPRING","2023-10-14","222","<a href=http://www.uschess.org/msa/XtblMain.php?202310149262 target='_blank'>St Edward National Chess Day Scholastic</a>",
-"HOUSTON","2023-10-14","26","<a href=http://www.uschess.org/msa/XtblMain.php?202310148732 target='_blank'>PISD OCTOBER 2023- OCT 2023 HS</a>",
 ]);
