@@ -22,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-4-2024",
-         "pubDate" : "Sat, 04 May 2024 16:05:47",
+         "pubDate" : "Sat, 04 May 2024 16:05:00",
          "title" : "Nakamura Pushes Bullet Brawl Earnings Over $10,000"
       },
       {
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/kcf-academy-interview-with-veselin-topalov",
          "pubDate" : "Sat, 04 May 2024 10:00:00",
          "title" : "KCF: Interview with Veselin Topalov"
+      },
+      {
+         "description" : "Praggnanandhaa looks back at his FIDE Candidates campaign and how amazing it was to play alongside his sister Vaishali.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40079794/praggnanandhaa-fide-candidates-2024-vaishali-indian-chess-virat-kohli?device=featurephone",
+         "pubDate" : "Sat, 4 May 2024 07:50:41",
+         "title" : "Praggnanandhaa on FIDE Candidates: 'If I was more practical, I'd have been better'"
       },
       {
          "description" : "This week I would like to offer my congratulations to HM Government, supported by His Majesty's Loyal Opposition, on the success of steering their tobacco ban Bill through its first reading in the House of Commons. Following on the triumph of the Government long standing war on drugs, the natural corollary was to ban tobacco. []",
