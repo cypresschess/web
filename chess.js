@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3007",
+         "pubDate" : "Sun, 05 May 2024 21:43:01",
+         "title" : "FIDE ChessMom Initiative: Call for submissions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3006",
+         "pubDate" : "Sun, 05 May 2024 21:12:17",
+         "title" : "FIDE Circuit: Abdusattorov leads after four months"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3005",
+         "pubDate" : "Sun, 05 May 2024 20:22:30",
+         "title" : "FIDE World School Chess Championship crosses midpoint"
+      },
+      {
          "description" : "One of the most interesting aspects of the Candidates Tournament was the superb opening preparation, and in particular how they managed to set each other problems which hadn't been foreseen. This is a special skill that involves interacting with the fearsome engines not to find the \"best\" moves but ones which are almost as strong according to the silicon evaluation - but lower down the food chain! | Photo: FIDE / Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1296,14 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2972",
          "pubDate" : "Mon, 15 Apr 2024 02:56:53",
          "title" : "FIDE Candidates: Tan Zhongyi takes sole lead again "
-      },
-      {
-         "description" : "Vidit Gujrathi once again came up with a superb show against Hikaru Nakamura as he defeated him for the second time in the Candidates 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39945255/fide-candidates-2024-vidit-beats-nakamura-gukesh-pragg-round-9-ends-draw?device=featurephone",
-         "pubDate" : "Sun, 14 Apr 2024 23:06:00",
-         "title" : "FIDE Candidates 2024: Vidit beats Nakamura again; Gukesh vs Pragg in round 9 ends in draw"
       }
    ]
 }
