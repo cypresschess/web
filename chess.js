@@ -1328,22 +1328,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/lei-tan-and-goryachkina-lead-the-womens-candidates-with-58",
          "pubDate" : "Sun, 14 Apr 2024 11:46:00",
          "title" : "Lei, Tan and Goryachkina lead the Women's Candidates with 5/8 - 8"
-      },
-      {
-         "description" : "GM D Gukesh played exceptionally well to get the better of GM Vidit Gujarathi. It was a painful loss for Gukesh in round 7 but",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-d-gukesh-strikes-back-in-joint-lead-as-the-second-half-of-candidates-beginround-8-report/",
-         "pubDate" : "Sun, 14 Apr 2024 07:24:41",
-         "title" : "GM D Gukesh Strikes back in Joint Lead as the Second half of Candidates begin:Round 8 report."
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2970",
-         "pubDate" : "Sun, 14 Apr 2024 05:37:05",
-         "title" : "FIDE Candidates: Race for first wide open as second half begins"
       }
    ]
 }
