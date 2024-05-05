@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One of the most interesting aspects of the Candidates Tournament was the superb opening preparation, and in particular how they managed to set each other problems which hadn't been foreseen. This is a special skill that involves interacting with the fearsome engines not to find the \"best\" moves but ones which are almost as strong according to the silicon evaluation - but lower down the food chain! | Photo: FIDE / Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-215",
+         "pubDate" : "Sun, 05 May 2024 18:00:00",
+         "title" : "Jon Speelman: The search for less than perfection (or when -0.07 > 0.11)"
+      },
+      {
          "description" : "Leon Luke Mendonca was the surprise winner of the Tata Steel Challenger tournament in Wijk aan Zee. He started with 3 out of 6 points, and was lost in the lower part of the table, until he recovered with 6.5 points out of his last 7 games, to reach first place! The Indian Grandmaster and ChessBase Host, Arne Kaehler, started a video series in 2023, on how a typical day in a life of a professional chess player looks like. In the third episode, Leon talks about his own approach to learning tactics, and gives us some examples to solve! | Photo: Lennart Ootes/Tata Steel Chess Tournament 2024",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39945255/fide-candidates-2024-vidit-beats-nakamura-gukesh-pragg-round-9-ends-draw?device=featurephone",
          "pubDate" : "Sun, 14 Apr 2024 23:06:00",
          "title" : "FIDE Candidates 2024: Vidit beats Nakamura again; Gukesh vs Pragg in round 9 ends in draw"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2971",
-         "pubDate" : "Sun, 14 Apr 2024 18:25:08",
-         "title" : "FIDE100 torch relay celebrated in Canada"
       }
    ]
 }
