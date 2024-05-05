@@ -10,6 +10,14 @@ news_feed (
          "title" : "Leon Mendonca - Solve tactics like a GM!"
       },
       {
+         "description" : " A field of 19 teams turned out for the 2024 ACT Teams Rapidplay Championship. In previous years the field would be 10 to 12 teams, but this year saw a big jump in numbers. The ACT chess clubs were well represented by official teams, and there were school teams, junior teams, and teams that were just formed on the day. In fact the winning team was just such a team, with Harry's Pushers (Harry Press, Milles Patterson, Jerry Cheng, and Padma Gyalpo) winning with a score of 21.5/28. They score heavily on the top 2 boards (13/14), but also had solid results on the bottom 2 boards to emerge as clear winners. In 2nd place were Underscore on 18.5, a junior team who scored a big 3.5-0.5 win in the f",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-teams-rapidplay.html",
+         "pubDate" : "Sun, 05 May 2024 12:00:00",
+         "title" : "2024 ACT Teams Rapidplay"
+      },
+      {
          "description" : "The main event of the Sardinia Chess Festival, a 9-round Swiss open featuring 11 players rated 2600 or above, took place from April 27 to May 4 on the second-largest island in the Mediterranean Sea. An eventful final round saw former co-leaders Alan Pichot and Yair Parkhov both losing their games. The outcomes of the games on the top boards resulted in four players tied atop the standings with 7/9 points each. Daniel Dardha, who beat Pichot in the final round, had the best tiebreak score and thus claimed the title. | Photos: Davide Locatelli",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1296,30 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2971",
          "pubDate" : "Sun, 14 Apr 2024 18:25:08",
          "title" : "FIDE100 torch relay celebrated in Canada"
-      },
-      {
-         "description" : "While I was preparing last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/03/real-yahoos-sort-of-spotted-again.html\">Real Yahoos (Sort Of) Spotted Again</A> (March 2024; 'Yahoos = mainstream news stories about chess'), the top story -- which was not mentioned in the post -- would have been the Neuralink news. What's Neuralink? The following video, from Youtube's <I>Guardian News</I> channel, explains. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/LfwzfP8cp3A?si=ZlR_ea95T06zc9uX\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpoli",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/playing-chess-with-your-brain.html",
-         "pubDate" : "Sun, 14 Apr 2024 15:12:00",
-         "title" : "Playing Chess with Your Brain (*)"
-      },
-      {
-         "description" : " The FIDE Candidates in Toronto is heating up nicely after eight rounds. Gukesh joined Ian Nepomniachtchi in the lead and Hikaru Nakamura moved into contention alongside Praggnanandhaa. Fabiano Caruana's loss to Nakamura took him back to 50% and is surely a major blow. Gukesh recovered from his loss in Round 7 with a win against Santosh Vidit in a Two Knights with 4.d3. Superficially it might have seemed like it was Vidit who had the initiative after the opening, he was pushing pawns and making breaks, but Gukesh had the a-file and white's position was deteriorating with almost every move. Gukesh crashed in down the a-file, took a left turn towards Vidit's King and checkmated it. Hikaru Naka",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-joins-nepomniachtchi-in-the-lead-after-beating-vidit-in-round-8",
-         "pubDate" : "Sun, 14 Apr 2024 12:36:00",
-         "title" : "Gukesh joins Nepomniachtchi in the lead after beating Vidit in Round 8 - 8"
-      },
-      {
-         "description" : " Tan Zhongyi was joined by Lei Tingjie and Aleksandra Goryachkina on 5pts after 8 Rounds of the Women's Candidates tournament in Toronto. It was all so unnecessary too, Tan turned down a draw by repetition by playing the risky and objectively not very good 21.f4 and her position more or less went downhill from there. There's been very little for Humpy Koneru or Rameshbabu Vaishali to smile about in this event and the latter had her 3rd loss in a row, she was worse and then lost the exchange and that was pretty much that by move 17. Kateryna Lagno against Aleksandra Goryachkina was a fairly well played Ruy Lopez Berlin which was agreed drawn by repetition on move 34. A small fly in the ointme",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/lei-tan-and-goryachkina-lead-the-womens-candidates-with-58",
-         "pubDate" : "Sun, 14 Apr 2024 11:46:00",
-         "title" : "Lei, Tan and Goryachkina lead the Women's Candidates with 5/8 - 8"
       }
    ]
 }
