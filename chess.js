@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Leon Luke Mendonca was the surprise winner of the Tata Steel Challenger tournament in Wijk aan Zee. He started with 3 out of 6 points, and was lost in the lower part of the table, until he recovered with 6.5 points out of his last 7 games, to reach first place! The Indian Grandmaster and ChessBase Host, Arne Kaehler, started a video series in 2023, on how a typical day in a life of a professional chess player looks like. In the third episode, Leon talks about his own approach to learning tactics, and gives us some examples to solve! | Photo: Lennart Ootes/Tata Steel Chess Tournament 2024",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-mendonca-solve-tactics-like-a-gm",
+         "pubDate" : "Sun, 05 May 2024 13:00:00",
+         "title" : "Leon Mendonca - Solve tactics like a GM!"
+      },
+      {
+         "description" : "The main event of the Sardinia Chess Festival, a 9-round Swiss open featuring 11 players rated 2600 or above, took place from April 27 to May 4 on the second-largest island in the Mediterranean Sea. An eventful final round saw former co-leaders Alan Pichot and Yair Parkhov both losing their games. The outcomes of the games on the top boards resulted in four players tied atop the standings with 7/9 points each. Daniel Dardha, who beat Pichot in the final round, had the best tiebreak score and thus claimed the title. | Photos: Davide Locatelli",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/daniel-dardha-wins-sardinia-open-2024",
+         "pubDate" : "Sun, 05 May 2024 09:20:00",
+         "title" : "Daniel Dardha wins Sardinia Open"
+      },
+      {
          "description" : "Kicking off the 2024 Grand Chess Tour will be the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is set to take place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, Dommaraju Gukesh. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-poland-2024-preview",
          "pubDate" : "Sat, 04 May 2024 23:00:00",
          "title" : "Starting Wednesday: Carlsen and Gukesh to meet in Poland"
-      },
-      {
-         "description" : "It has been two weeks since Dommaraju Gukesh became the youngest-ever World Chess Championship challenger after obtaining outright victory at the Candidates Tournament. The player who was closest to catching Gukesh in the final round was Fabiano Caruana, who missed clear winning chances in his round-14 game against Ian Nepomniachtchi. In the latest episode of the C-Squared Podcast, Caruana reflects on his performance and the development of the tournament in general. Unmissable. | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/caruana-reflections-candidates-2024",
-         "pubDate" : "Sat, 04 May 2024 18:00:00",
-         "title" : "C-Squared Podcast: Caruana reflects on his performance at the Candidates"
       },
       {
          "description" : "GM Hikaru Nakamura secured his second straight Bullet Brawl and $400 after scoring 251 points ahead of GMs Jose Martinez and Daniel Naroditsky on Saturday. With this victory, Nakamura has taken his live Bullet Brawl earnings to just over $10,000 i...",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-scoring-the-winning-goal-2",
          "pubDate" : "Sat, 04 May 2024 12:00:00",
          "title" : "Grivas: Scoring the winning goal"
-      },
-      {
-         "description" : "On May 5th, the subscribers of Kasparov Chess Foundation Academy will gather for an exclusive interview with Veselin Topalov. He was born in 1975, etched his name into the annals of chess history with his remarkable achievements from 2005 to 2014. Renowned for his dynamic style of play, Topalov emerged as one of the most formidable players on the world stage. Listen to his interview this Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kcf-academy-interview-with-veselin-topalov",
-         "pubDate" : "Sat, 04 May 2024 10:00:00",
-         "title" : "KCF: Interview with Veselin Topalov"
       },
       {
          "description" : "Praggnanandhaa looks back at his FIDE Candidates campaign and how amazing it was to play alongside his sister Vaishali.",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/28th-tepe-sigeman-co-chess-tournament-2024",
          "pubDate" : "Fri, 3 May 2024 21:15:00",
          "title" : "28th Tepe Sigeman & Co Chess Tournament 2024 - Games and Results"
-      },
-      {
-         "description" : "Now, all of us chess players know that the World Championship is battled out by Gukesh and Ding Liren. Both players faced each other in classical chess only twice before, in Wijk aan Zee 2023, and 2024. One of their games was fairly interesting, and Svitlana is analysing it.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-gukesh-vs-ding",
-         "pubDate" : "Fri, 03 May 2024 18:00:00",
-         "title" : "Svitlana's Smart Moves - Gukesh vs. Ding"
       },
       {
          "description" : " <b>2024 ACT Chess Championship</b> 24-27 May 2023 (Friday evening through Monday Reconciliation Day) 7-rounds FIDE/ACF Rated Swiss Format Venue: Campbell High School Trealor Cres, Campbell (next to War Memorial) Schedule: Friday 24 May 7:00pm Saturday 25 May - Monday 27 May 10:00am and 2:30pm on each day 90 minutes per game with 30 second per move increment from move one (Fischer) Director of Play: FIDE International Arbiter Shaun Press Friday 24 May 2023 7:00 PM - Monday 27 May 2023 6:00 PM (UTC+10) Entries: <a href=\"https://www.trybooking.com/CRNMU \">https://www.trybooking.com/CRNMU </a> <br /> First prize $500 Prize Pool: $1500+ ",
