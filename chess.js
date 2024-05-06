@@ -1304,22 +1304,6 @@ news_feed (
          "link" : "https://aicf.in/gm-vidit-gujarathi-stuns-world-no-3-gm-hikaru-nakamura-gm-d-gukesh-maintains-joint-lead-at-candidates-2024round-9-report/",
          "pubDate" : "Mon, 15 Apr 2024 06:31:31",
          "title" : "GM Vidit Gujarathi stuns World no 3 GM Hikaru Nakamura: GM D Gukesh maintains joint lead at Candidates 2024:Round 9 report"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2973",
-         "pubDate" : "Mon, 15 Apr 2024 03:23:01",
-         "title" : "FIDE distributes €15,000 among chess veterans"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2972",
-         "pubDate" : "Mon, 15 Apr 2024 02:56:53",
-         "title" : "FIDE Candidates: Tan Zhongyi takes sole lead again "
       }
    ]
 }
