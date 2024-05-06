@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When it comes to manoeuvring, Anatoly Karpov in his best years was in a class of his own. The Slovakian GM Lubomir Ftacnik used to say: \"Karpov just had to figure out where to put his pieces. Once he found the right squares, he always knew how to get them there\". Manoeuvring is an important skill to master and Jan Markos helps you to master this skill. | Picture: freevector.com.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-33-the-travelers",
+         "pubDate" : "Mon, 06 May 2024 18:00:00",
+         "title" : "The Winning Academy 33: The Travelers"
+      },
+      {
          "description" : "From 18-19 May 2024 the world's top Grandmaster will play a rapid event, trying out the new Casablanca Chess Variant. Titans Carlsen, Nakamura, Anand, and Amin are set for epic showdown in a game that intends to bridge history and innovation. In this variant - not to be confused with Capablanca Chess - the game commences from equal positions inspired by historical gems. Could this be the beginning of a beautiful friendship?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39951882/fide-candidates-2024-gukesh-nepomniachtchi-joint-lead-praggnanandhaa-vs-vidit-draw-vaishali-humpy-round-10?device=featurephone",
          "pubDate" : "Mon, 15 Apr 2024 23:54:52",
          "title" : "FIDE Candidates 2024: Gukesh shares points with Nepo, Pragg and Vidit draw in R10"
-      },
-      {
-         "description" : "A week ago I posted <A HREF=\"https://chessforallages.blogspot.com/2024/04/the-3d-render-style.html\">The '3D Render' Style</A> (April 2024; aka 'Buddhists play chess'). There I started, <BLOCKQUOTE> Let's continue with the religious theme. Three weeks in a row make a trend. </BLOCKQUOTE> <P> Four Weeks in a row make a wedding photo of my three brothers and me. And following the principles espoused by <I>Non sequiturs 'R' Us</I>, that brings us to the subject of Druids. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od15.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Druids play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P> What exactly is a Druid? In <A HRE",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/the-circular-chess-boards-of-druids.html",
-         "pubDate" : "Mon, 15 Apr 2024 15:51:00",
-         "title" : "The Circular Chess Boards of the Druids"
       }
    ]
 }
