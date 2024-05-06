@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Dubai Police Global Challenge Masters kicked off on Saturday with 135 participants, including three 2700+ rated players. After two rounds, 11 players are tied for first place with 2/2 points. Surprisingly, this group only includes two players belonging to the top-20 in the starting rank. The tournament is a 9-round Swiss open with a classical time control. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dubai-police-masters-2024-r2",
+         "pubDate" : "Mon, 06 May 2024 07:15:00",
+         "title" : "Dubai Police Masters: Upsets in the first two rounds"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,44 +34,12 @@ news_feed (
          "title" : "FIDE World School Chess Championship crosses midpoint"
       },
       {
-         "description" : "One of the most interesting aspects of the Candidates Tournament was the superb opening preparation, and in particular how they managed to set each other problems which hadn't been foreseen. This is a special skill that involves interacting with the fearsome engines not to find the \"best\" moves but ones which are almost as strong according to the silicon evaluation - but lower down the food chain! | Photo: FIDE / Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-215",
-         "pubDate" : "Sun, 05 May 2024 18:00:00",
-         "title" : "Jon Speelman: The search for less than perfection (or when -0.07 > 0.11)"
-      },
-      {
-         "description" : "Leon Luke Mendonca was the surprise winner of the Tata Steel Challenger tournament in Wijk aan Zee. He started with 3 out of 6 points, and was lost in the lower part of the table, until he recovered with 6.5 points out of his last 7 games, to reach first place! The Indian Grandmaster and ChessBase Host, Arne Kaehler, started a video series in 2023, on how a typical day in a life of a professional chess player looks like. In the third episode, Leon talks about his own approach to learning tactics, and gives us some examples to solve! | Photo: Lennart Ootes/Tata Steel Chess Tournament 2024",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-mendonca-solve-tactics-like-a-gm",
-         "pubDate" : "Sun, 05 May 2024 13:00:00",
-         "title" : "Leon Mendonca - Solve tactics like a GM!"
-      },
-      {
          "description" : " A field of 19 teams turned out for the 2024 ACT Teams Rapidplay Championship. In previous years the field would be 10 to 12 teams, but this year saw a big jump in numbers. The ACT chess clubs were well represented by official teams, and there were school teams, junior teams, and teams that were just formed on the day. In fact the winning team was just such a team, with Harry's Pushers (Harry Press, Milles Patterson, Jerry Cheng, and Padma Gyalpo) winning with a score of 21.5/28. They score heavily on the top 2 boards (13/14), but also had solid results on the bottom 2 boards to emerge as clear winners. In 2nd place were Underscore on 18.5, a junior team who scored a big 3.5-0.5 win in the f",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-teams-rapidplay.html",
          "pubDate" : "Sun, 05 May 2024 12:00:00",
          "title" : "2024 ACT Teams Rapidplay"
-      },
-      {
-         "description" : "The main event of the Sardinia Chess Festival, a 9-round Swiss open featuring 11 players rated 2600 or above, took place from April 27 to May 4 on the second-largest island in the Mediterranean Sea. An eventful final round saw former co-leaders Alan Pichot and Yair Parkhov both losing their games. The outcomes of the games on the top boards resulted in four players tied atop the standings with 7/9 points each. Daniel Dardha, who beat Pichot in the final round, had the best tiebreak score and thus claimed the title. | Photos: Davide Locatelli",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/daniel-dardha-wins-sardinia-open-2024",
-         "pubDate" : "Sun, 05 May 2024 09:20:00",
-         "title" : "Daniel Dardha wins Sardinia Open"
-      },
-      {
-         "description" : "Kicking off the 2024 Grand Chess Tour will be the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is set to take place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, Dommaraju Gukesh. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-preview",
-         "pubDate" : "Sat, 04 May 2024 23:00:00",
-         "title" : "Starting Wednesday: Carlsen and Gukesh to meet in Poland"
       },
       {
          "description" : "GM Hikaru Nakamura secured his second straight Bullet Brawl and $400 after scoring 251 points ahead of GMs Jose Martinez and Daniel Naroditsky on Saturday. With this victory, Nakamura has taken his live Bullet Brawl earnings to just over $10,000 i...",
@@ -80,14 +56,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/cheaters/",
          "pubDate" : "Sat, 04 May 2024 13:07:00",
          "title" : "Forget Cheaters: Here's Your Secret Weapon (For Amateurs)"
-      },
-      {
-         "description" : "In 1988, at the Chess Olympiad, a young Greek IM won two notable games. Both games weren't in line with modern and long opening fashion analysis. Old and tricky openings were applied by the black players, which can be rather annoying. What can we learn from them? If you study the ideas and then try to apply healthy set-ups, you are already in the right track.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-scoring-the-winning-goal-2",
-         "pubDate" : "Sat, 04 May 2024 12:00:00",
-         "title" : "Grivas: Scoring the winning goal"
       },
       {
          "description" : "Praggnanandhaa looks back at his FIDE Candidates campaign and how amazing it was to play alongside his sister Vaishali.",
@@ -208,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-6",
          "pubDate" : "Thu, 02 May 2024 13:05:00",
          "title" : "Korobov Bounces Back; 3 Leaders In Malmo Before Final Round"
-      },
-      {
-         "description" : "The new ChessBase Magazine #219 offers complete mobile access again with the ChessBase book format. All analyses, repertoire articles, videos and training exercises can be loaded directly in your web browser! In this and the coming weeks, we will be presenting the new issue to you in a series of free reading samples. We start with Lars Schandorff's opening article on the Caro-Kann Advance Variation. In the line with 1.e4 c6 2.d4 d5 3.e5 Bf5 4.h4 h6!? he recommends White to start the game with a sequence of nine pawn moves! Can that be good? Check the free CBM reading sample of the week!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-7",
-         "pubDate" : "Thu, 02 May 2024 12:00:00",
-         "title" : "New: CBM #219 - incl. ChessBase book for iPad, Tablet & Co!"
       },
       {
          "description" : "",
@@ -1296,14 +1256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-saves-a-difficult-position-against-firouzja-and-retains-the-lead-of-the-candidates-with-gukesh-after-round-9",
          "pubDate" : "Mon, 15 Apr 2024 09:38:00",
          "title" : "Nepomniachtchi saves a difficult position against Firouzja and retains the lead of the Candidates with Gukesh after Round 9 - 9"
-      },
-      {
-         "description" : "The only decisive game in the Open Section was of GM Vidit Gujarathi against GM Hikaru Nakamura. It was a trendy Italian game with early",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-vidit-gujarathi-stuns-world-no-3-gm-hikaru-nakamura-gm-d-gukesh-maintains-joint-lead-at-candidates-2024round-9-report/",
-         "pubDate" : "Mon, 15 Apr 2024 06:31:31",
-         "title" : "GM Vidit Gujarathi stuns World no 3 GM Hikaru Nakamura: GM D Gukesh maintains joint lead at Candidates 2024:Round 9 report"
       }
    ]
 }
