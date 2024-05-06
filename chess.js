@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Why is the rook's pawn called the \"worst enemy of the knight\"? How do you make best use of the \"Knight Check Shadow\" and when should you enter the \"Karpov Distance\"? In the new ChessBase Magazine #219, Karsten Mueller shows you the most important techniques in the endgame with knight against pawn(s) in part #9 of his series \"Fundamental Endgame Knowledge\". Take the chance and test your technique in two interactive training videos in this week's CBM reading sample. Have fun!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-8",
+         "pubDate" : "Mon, 06 May 2024 11:00:00",
+         "title" : "CBM #219: \"Fundamental Endgame Knowledge\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3008",
+         "pubDate" : "Mon, 06 May 2024 09:28:02",
+         "title" : "World Rapid and Blitz Team Championships: Registration is open"
+      },
+      {
+         "description" : "The European Senior Team Chess Championship 2024 starts tomorrow in Terme Catez, Slovenia, and will be held from 7-16 May. The event is played in two age categories: 50+ and 65+, and each team consists of four players plus one reserve player. The Championships are played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game + 30 seconds increment for every move played. The official []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2024-starts-in-terme-catez-slovenia/",
+         "pubDate" : "Mon, 06 May 2024 07:58:49",
+         "title" : "European Senior Team Chess Championship 2024 starts in Terme Catez, Slovenia"
+      },
+      {
          "description" : "The Dubai Police Global Challenge Masters kicked off on Saturday with 135 participants, including three 2700+ rated players. After two rounds, 11 players are tied for first place with 2/2 points. Surprisingly, this group only includes two players belonging to the top-20 in the starting rank. The tournament is a 9-round Swiss open with a classical time control. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -730,14 +754,6 @@ news_feed (
          "title" : "Ulviyya Fataliyeva and Marta Garcia Martin emerged on the top of the European Women's Chess Championship 2024"
       },
       {
-         "description" : "The ECU Commission for Women's Chess is thrilled to announce the Excellence on Board Awards, a prestigious recognition of outstanding games and performances during the European Women's Chess Championship held in the historic and beautiful island of Rhodes in Greece. These awards are designed to celebrate strategic finesse, tactical brilliance, and the indomitable spirit of our participants. For the first time, we are honoring achievements across five distinct categories, ensuring a wide acknowledgment of the diverse talent and dedication within []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/excellence-on-board-awards-european-womens-chess-championship-2024/",
-         "pubDate" : "Tue, 23 Apr 2024 07:41:48",
-         "title" : "Excellence on Board Awards - European Women's Chess Championship 2024"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109522151.cms\" />India's five-time world champion Viswanathan Anand has spawned a chess culture in India and the country is reaping the rewards of the Grandmaster's success with thousands of youngsters, mostly in their teens, taking up chess. Gukesh's triumph entitles him to a clash against reigning world champion Ding Liren of China in the last quarter of the year.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1240,22 +1256,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/04/the-circular-chess-boards-of-druids.html",
          "pubDate" : "Mon, 15 Apr 2024 15:51:00",
          "title" : "The Circular Chess Boards of the Druids"
-      },
-      {
-         "description" : " Tan Zhongyi scored a quick victory against Rameshbabu Vaishali in Round 9 of the Women's Candidates tournament in Toronto and that eventually proved to be enough to lead alone on 6/9. Tan claimed to have surprised Vaishali with her choice of opening, I'm not sure at what move that was but after Vaishali's 11.Ng5 the position became tricky to handle for both sides. 13.h4?! (13.Na3) was ambitious but the key moment came with 16.c4? (16.Bxd6 is only a tiny bit worse for white) f6! and white was already in dire straits. 18.c5? was another error and the collapse was complete with 19. ...Nxd4 20. Qe3? Nxc2. Lei Tingjie looked to be heading for a quick victory herself against Nurgyul Salimova. The",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-bounces-back-with-a-win-over-vaishali-to-regain-the-womens-candidates-sole-lead-after-9-rounds",
-         "pubDate" : "Mon, 15 Apr 2024 11:12:00",
-         "title" : "Tan bounces back with a win over Vaishali to regain the Women's Candidates sole lead after 9 rounds - 9"
-      },
-      {
-         "description" : " The ninth round of the FIDE Candidates in Toronto saw just the one decisive game when Santosh Vidit beat Hikaru Nakamura but the joint leader Ian Nepomniachtchi looked to be in trouble against Alireza Firouzja. In the end Gukesh and Nepomniachtchi share the lead with 5.5/9 half a point clear of Praggnanandhaa. Hikaru Nakamura seemed to have moved into contention with his round 8 victory against Caruana but went backwards again today by losing for the second time against Santosh Vidit. Nakamura's Round 2 loss was an unmitigated disaster, this one he was just outplayed, twice. Nakamura was equal out of the opening, 20...Rc8 (20...Nf4=) was the start of a bad plan, 21.Ra3 c5? (21...Nf4 slight ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-saves-a-difficult-position-against-firouzja-and-retains-the-lead-of-the-candidates-with-gukesh-after-round-9",
-         "pubDate" : "Mon, 15 Apr 2024 09:38:00",
-         "title" : "Nepomniachtchi saves a difficult position against Firouzja and retains the lead of the Candidates with Gukesh after Round 9 - 9"
       }
    ]
 }
