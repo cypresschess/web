@@ -130,7 +130,7 @@ news_feed (
          "title" : "FIDE's Call For World Championship Bids Sparks Reactions"
       },
       {
-         "description" : " The 28th Tepe Sigeman & Co Chess Tournament took place in Malmo 27th April to 3rd May 2024. Players: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, Peter Svidler, Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and Ju Wenjun. There was a three way tie on 4.5/5. Nodirbek Abdusattorov emerged the winner over Arjun Erigaisi in a second tie-break, Peter Svidler lost to both these players in the first tie-break. ",
+         "description" : " The 28th Tepe Sigeman & Co Chess Tournament took place in Malmo 27th April to 3rd May 2024. Players: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, Peter Svidler, Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and Ju Wenjun. There was a three way tie on 4.5/7. Nodirbek Abdusattorov emerged the winner over Arjun Erigaisi in a second tie-break, Peter Svidler lost to both these players in the first tie-break. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/28th-tepe-sigeman-co-chess-tournament-2024",
