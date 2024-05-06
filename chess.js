@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 18-19 May 2024 the world's top Grandmaster will play a rapid event, trying out the new Casablanca Chess Variant. Titans Carlsen, Nakamura, Anand, and Amin are set for epic showdown in a game that intends to bridge history and innovation. In this variant - not to be confused with Capablanca Chess - the game commences from equal positions inspired by historical gems. Could this be the beginning of a beautiful friendship?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/epic-showdown-in-casablanca",
+         "pubDate" : "Mon, 06 May 2024 15:00:00",
+         "title" : "Epic Showdown in Casablanca"
+      },
+      {
          "description" : "Why is the rook's pawn called the \"worst enemy of the knight\"? How do you make best use of the \"Knight Check Shadow\" and when should you enter the \"Karpov Distance\"? In the new ChessBase Magazine #219, Karsten Mueller shows you the most important techniques in the endgame with knight against pawn(s) in part #9 of his series \"Fundamental Endgame Knowledge\". Take the chance and test your technique in two interactive training videos in this week's CBM reading sample. Have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
