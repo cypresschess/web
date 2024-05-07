@@ -1256,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2975",
          "pubDate" : "Tue, 16 Apr 2024 05:12:02",
          "title" : "FIDE Candidates: Two co-leaders in both tournaments going into third rest day"
-      },
-      {
-         "description" : "D Gukesh and Ian Nepomniachtchi split the points to jointly lead the 2024 FIDE Candidates after round 10.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39951882/fide-candidates-2024-gukesh-nepomniachtchi-joint-lead-praggnanandhaa-vs-vidit-draw-vaishali-humpy-round-10?device=featurephone",
-         "pubDate" : "Mon, 15 Apr 2024 23:54:52",
-         "title" : "FIDE Candidates 2024: Gukesh shares points with Nepo, Pragg and Vidit draw in R10"
       }
    ]
 }
