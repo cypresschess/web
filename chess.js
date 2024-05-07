@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With all the Indian Grandmasters popping up, it is getting difficult to keep track. One of them is the talented Nihal Sarin, who became the 53rd GM in India, at the age of 14. In March 2024, he was a Super grandmaster for a couple of days, but it won't be long, until he crosses the 2700 mark for good. He visited the ChessBase office because he was playing for the Hamburger SK chess club that weekend. In the short interview with Arne Kaehler, Nihal's passion for chess is crystal clear - enjoyment!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-nihal-sarin",
+         "pubDate" : "Tue, 07 May 2024 15:00:00",
+         "title" : "Interview with Nihal Sarin"
+      },
+      {
+         "description" : " I was looking through a few games by Vassily Smyslov, as I had just picked up a copy of his book on his early career (up until 1957). I was planning to show an <a href=\"https://chessexpress.blogspot.com/2010/06/power-of-two-bishops.html\">early win against Gerasimov</a>, but I realised I had posted it 14 years ago, So instead, I found a very short game, where a quick tactical blow brought about resignation. However in this case I suspect Spraggett resigned more out of disgust than anything else, as the position isn't lost, just \"losing\". <br /> <b>Spraggett,Kevin (2550) - Smyslov,Vassily (2595) [E11]</b><br /> Candidates Tournament Montpellier (6), 1985 <script> new PgnViewer( { boardName: \"",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/ive-had-better-days.html",
+         "pubDate" : "Tue, 07 May 2024 14:12:00",
+         "title" : "I've had better days"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3010",
+         "pubDate" : "Tue, 07 May 2024 13:29:27",
+         "title" : "Chess titans Carlsen, Nakamura, Anand, and Amin set for epic showdown in Casablanca"
+      },
+      {
          "description" : "It is the ability to mentally picture things. That seems the most natural thing in the world, but some people are unable to do it at all. They cannot imagine a sunset, see any vivid details, vibrant colours, in their minds. Or they may only produce a mental image that is blurry and lacks detail. Michael Bacon, the Armchair Warrior, is a USCF Expert with aphantasia. He has written about how the condition relates to chess. | Image Credit: Andrew Mason",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/national-team-open-and-women-certificates-2024/",
          "pubDate" : "Tue, 07 May 2024 07:09:47",
          "title" : "National Team Open and Women Certificates 2024"
+      },
+      {
+         "description" : "If you&#39;re looking for some chess Entertainment, we have The Real Thing. Chess.com is excited to announce our newest bot, Phoenix lead singer Thomas Mars! You can challenge the new bot by going to our Play Computer page. But beware&#38;mdash;Thomas&#39; bo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/thomas-mars-bot",
+         "pubDate" : "Tue, 07 May 2024 07:00:00",
+         "title" : "Run Run Run! It's Chess Party Time With The New Thomas Mars Bot"
       },
       {
          "description" : "",
@@ -722,14 +754,6 @@ news_feed (
          "title" : "Warm welcome of World Chess Challenger D Gukesh by AICF"
       },
       {
-         "description" : "The first Titled Tuesday sweep of 2024 belongs to GM Hikaru Nakamura, who won both tournaments on April 23. It is the 11th time someone has accomplished the feat, and Nakamura&#39;s sixth, but his first since February 14, 2023. The last time anyone sw...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-april-23-2024",
-         "pubDate" : "Wed, 24 Apr 2024 09:03:52",
-         "title" : "Nakamura Locks Down 6th Titled Tuesday Sweep"
-      },
-      {
          "description" : "The European Women's Chess Championship 2024 is halfway through, with five rounds left to be played. Three players headed to today's free day co-leading the event: IM Ulviyya Fataliyeva (AZE, 2377), IM Marta Garcia Martin (ESP, 2349) and 15-year-old WCM Bozhena Piddubna (UKR, 2005). Yesterday's top-board encounter between Ulviyya Fatliyava dnd Marta Garcia Martin finished in a draw and the players kept their positions on the top. The game was quite balanced, and finished in a peaceful manner after the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1256,22 +1280,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nakamura-and-caruana-win-to-get-back-into-contention-after-10-rounds-of-the-candidates",
          "pubDate" : "Tue, 16 Apr 2024 17:17:00",
          "title" : "Nakamura and Caruana win to get back into contention after 10 rounds of the Candidates - 10"
-      },
-      {
-         "description" : "With D Gukesh in the joint lead after Round 10, can any other Indian surprise pre-tournament expectations?",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39953004/fide-candidates-2024-which-indian-win-tournament-gukesh-praggnanandhaa-vidit-humpy-vaishali?device=featurephone",
-         "pubDate" : "Tue, 16 Apr 2024 13:11:29",
-         "title" : "FIDE Candidates 2024: Which Indian can win the tournament?"
-      },
-      {
-         "description" : " I was asked by one of my readers about whether I was going to comment on the latest happenings in the Candidates Tournament. My initial inclination was to say no*, but with todays extra spice I've changed my mind. Yesterdays fun started when Chief Arbiter Aris Marghetis asked Alireza Firouzja to stop making so much noise with his shoes when walking around. Apparently this had disturbed at least one other player, who had complained to Aris. Firouzja was not happy about the request, and after the round complained on social media. As an Arbiter, I've also had to deal with this issue from time to time. It usually occurs when the venue has hard wood floors, and more formal shoes (ie not sandshoe",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/of-shoes-and-ships-and-sealing-wax.html",
-         "pubDate" : "Tue, 16 Apr 2024 12:55:00",
-         "title" : "Of shoes and ships and sealing wax ..."
       }
    ]
 }
