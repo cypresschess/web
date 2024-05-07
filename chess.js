@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "National Team Women Name Vishwa Vasnawala Gomes Mary Ann Mohota Nisha Soumya Swaminathan Salonika Saina Gade Sharanya Velpula Sarayu Sai Mahati Alapati Kirthika B Modipalli",
+         "description" : "It is the ability to mentally picture things. That seems the most natural thing in the world, but some people are unable to do it at all. They cannot imagine a sunset, see any vivid details, vibrant colours, in their minds. Or they may only produce a mental image that is blurry and lacks detail. Michael Bacon, the Armchair Warrior, is a USCF Expert with aphantasia. He has written about how the condition relates to chess. | Image Credit: Andrew Mason",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/aphantasia-in-chess",
+         "pubDate" : "Tue, 07 May 2024 10:00:00",
+         "title" : "Aphantasia in chess"
+      },
+      {
+         "description" : "National Team Open Name Krishna C R G Aronyak Ghosh Ghosh Diptayan Visakh N R Neelash Saha Shyaamnikhil P Vignesh N R Das Sayantan Swapnil",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/national-team-open-and-women-certificates-2024/",
          "pubDate" : "Tue, 07 May 2024 07:09:47",
          "title" : "National Team Open and Women Certificates 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3009",
+         "pubDate" : "Mon, 06 May 2024 20:25:40",
+         "title" : "Pune, India to host three-day Chess for Freedom Conference"
       },
       {
          "description" : "When it comes to manoeuvring, Anatoly Karpov in his best years was in a class of his own. The Slovakian GM Lubomir Ftacnik used to say: \"Karpov just had to figure out where to put his pieces. Once he found the right squares, he always knew how to get them there\". Manoeuvring is an important skill to master and Jan Markos helps you to master this skill. | Picture: freevector.com.",
