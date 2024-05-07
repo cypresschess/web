@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "National Team Women Name Vishwa Vasnawala Gomes Mary Ann Mohota Nisha Soumya Swaminathan Salonika Saina Gade Sharanya Velpula Sarayu Sai Mahati Alapati Kirthika B Modipalli",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-team-open-and-women-certificates-2024/",
+         "pubDate" : "Tue, 07 May 2024 07:09:47",
+         "title" : "National Team Open and Women Certificates 2024"
+      },
+      {
          "description" : "When it comes to manoeuvring, Anatoly Karpov in his best years was in a class of his own. The Slovakian GM Lubomir Ftacnik used to say: \"Karpov just had to figure out where to put his pieces. Once he found the right squares, he always knew how to get them there\". Manoeuvring is an important skill to master and Jan Markos helps you to master this skill. | Picture: freevector.com.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1248,14 +1256,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/of-shoes-and-ships-and-sealing-wax.html",
          "pubDate" : "Tue, 16 Apr 2024 12:55:00",
          "title" : "Of shoes and ships and sealing wax ..."
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2975",
-         "pubDate" : "Tue, 16 Apr 2024 05:12:02",
-         "title" : "FIDE Candidates: Two co-leaders in both tournaments going into third rest day"
       }
    ]
 }
