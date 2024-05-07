@@ -1256,30 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2977",
          "pubDate" : "Wed, 17 Apr 2024 11:36:34",
          "title" : "FIDE World Junior U20 Championship: Registration deadline is May 1"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2976",
-         "pubDate" : "Tue, 16 Apr 2024 18:55:15",
-         "title" : "FIDE World School Championships: Registration deadline extended"
-      },
-      {
-         "description" : " The tenth round of the FIDE Women's Candidates saw two decisive games and Lei Tingjie re-join Tan Zhongyi in the lead on 6.5 points, they're a point clear of Aleksandra Goryachkina and Kateryna Lagno. Goryachkina has the reputation of being one of the most solid of women's players and she was hitherto undefeated until Lei beat her today. Goryachkina played the exchange Slav with white and after 23.Rc1? (23.Re1, 23.a3 were both better) Kg6 was in major trouble. 31...Bd3?! lost quite a bit of the advantage and Goryachkina was soon back level, 37.f3? was however a terrible move after which she was completely busted, 43...Bc8? (43...Bxe4) gave white hope and at move 60 the game was equal. Gorya",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/lei-join-tan-in-the-lead-of-the-womens-candidates-on-6.510",
-         "pubDate" : "Tue, 16 Apr 2024 17:56:00",
-         "title" : "Lei join Tan in the lead of the Women's Candidates on 6.5/10 - 10"
-      },
-      {
-         "description" : " The tenth round of the FIDE Candidates tournament saw the leaders Gukesh and Ian Nepomniachtchi draw and wins for Hikaru Nakamura and Fabiano Caruana. This leaves Nepomniachtchi and Gukesh on 6, Praggnanandhaa, Nakamura and Caruana on 5.5 and Vidit on 5 all in the mix. A playoff rather than a technical tie-break coefficient will decide the winner. Nepomniachtchi played quite a solid Ruy Lopez line against Gukesh. The main point of interest seems to have been whether 19.c3 led anywhere, but this was a computer move rather than a human one. After 19.Rd3 a draw was favourite until the end of the game. Hikaru Nakamura built up a very large advantage by move 18 against Nijat Abasov in a Petroff.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nakamura-and-caruana-win-to-get-back-into-contention-after-10-rounds-of-the-candidates",
-         "pubDate" : "Tue, 16 Apr 2024 17:17:00",
-         "title" : "Nakamura and Caruana win to get back into contention after 10 rounds of the Candidates - 10"
       }
    ]
 }
