@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has announced the start of the application process for the ChessMom project. The initiative aims to support professional chess players who are mothers of infants under one year of age at the upcoming Chess Olympiad set to take place in Budapest on September 10-23. The organizer will recognize both the child and the accompanying caregiver as integral parts of the National Official Delegation.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-chessmom-2024-submissions",
+         "pubDate" : "Wed, 08 May 2024 01:00:00",
+         "title" : "FIDE ChessMom Initiative: Call for submissions"
+      },
+      {
          "description" : "With all the Indian Grandmasters popping up, it is getting difficult to keep track. One of them is the talented Nihal Sarin, who became the 53rd GM in India, at the age of 14. In March 2024, he was a Super grandmaster for a couple of days, but it won't be long, until he crosses the 2700 mark for good. He visited the ChessBase office because he was playing for the Hamburger SK chess club that weekend. In the short interview with Arne Kaehler, Nihal's passion for chess is crystal clear - enjoyment!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
