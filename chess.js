@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, we mourn the loss of a true titan in the world of chess, IM Varugeese Koshy. His passion for the game, his strategic brilliance,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/rest-in-peace-im-varugeese-koshy/",
+         "pubDate" : "Wed, 08 May 2024 14:59:54",
+         "title" : "Rest in Peace IM Varugeese Koshy "
+      },
+      {
+         "description" : " The 57th Capablanca Memorial takes place 3rd to 12th May 2024. Ruslan Ponomariov, Aryan Chopra, Luis Ernesto Quesada Perez, Evgeny Romanov, Carlos Daniel Albornoz Cabrera and Mads Andersen play.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/57th-capablanca-memorial-2024",
+         "pubDate" : "Wed, 8 May 2024 13:06:00",
+         "title" : "57th Capablanca Memorial 2024 - Games and Results"
+      },
+      {
+         "description" : " The Superbet Poland Rapid & Blitz takes place in Warsaw 6th to 13th May 2024. Round 1 on May 8th. Players: Magnus Carlsen, Jan-Krzysztof Duda, Wei Yi, Arjun Erigaisi, Vincent Keymer, Kirill Shevchenko, Dommaraju Gukesh, Nodirbek Abdusattorov, Praggnanandhaa Rameshbabu and Anish Giri. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2024",
+         "pubDate" : "Wed, 8 May 2024 13:04:00",
+         "title" : "Superbet Poland Rapid & Blitz 2024 - Games and Results"
+      },
+      {
          "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2024-2025/",
          "pubDate" : "Wed, 08 May 2024 09:40:58",
          "title" : "Winton British Chess Solving Championship 2024 - 2025"
+      },
+      {
+         "description" : "We&#39;re happy to announce the release of IM Jeremy Silman&#39;s classic The Amateur&#39;s Mind on Chessable. Replace the most common amateur strategic misconceptions with the decision-making process of the masters and start dominating your opponents! C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/amateurs-mind-chessable",
+         "pubDate" : "Wed, 08 May 2024 08:00:00",
+         "title" : "Break Free From Amateur Mistakes With Silman's New Chessable Course"
       },
       {
          "description" : "Currently the 'Dubai Police Global' event that is being held in Dubai (03-13.05.2024), with a total of 361 players from 42 different countries - 37 from the UAE, 109 from India. Our friend and frequent new page contributor, international chess trainer GM Efstratios Grivas, is the lone Greek player. After a bad start, he played a very instructive game in Round 3, which he has extensively commented for us. You would do well to study his use of the Classical Attack.",
@@ -738,14 +770,6 @@ news_feed (
          "title" : "Watch: D Gukesh receives hero's welcome at Chennai airport"
       },
       {
-         "description" : "GM Gukesh Dommaraju arrived back in Chennai at 3 a.m. on Thursday morning and was instantly mobbed by camera crews, well-wishers, and 80 schoolchildren who had turned up to welcome back one of their own. The winner of the 2024 FIDE Candidates Tour...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-heros-welcome-india-homecoming-chennai",
-         "pubDate" : "Thu, 25 Apr 2024 03:15:00",
-         "title" : "Gukesh Gets Hero's Welcome In Chennai On Indian Homecoming"
-      },
-      {
          "description" : " The 24th European Women's Championship takes place Thu 18th Apr to Tue 30th Apr 2024 in Rhodes, Greece. Top seeds: Yuliia Osmak, Marsel Efroimski, Bella Khotenashvili, Dinara Wagner, Antoaneta Stefanova, Lela Javakhishvili etc",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1296,14 +1320,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2978",
          "pubDate" : "Thu, 18 Apr 2024 05:06:32",
          "title" : "FIDE Candidates: Nepomniachtchi and Tan in the Lead Again"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2977",
-         "pubDate" : "Wed, 17 Apr 2024 11:36:34",
-         "title" : "FIDE World Junior U20 Championship: Registration deadline is May 1"
       }
    ]
 }
