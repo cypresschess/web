@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
+         "pubDate" : "Wed, 08 May 2024 12:50:00",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
+         "pubDate" : "Wed, 08 May 2024 09:42:44",
+         "title" : "Entry form now open for 2024 British Chess Championships"
+      },
+      {
+         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
+         "pubDate" : "Wed, 08 May 2024 09:42:42",
+         "title" : "English Championship Series 2024"
+      },
+      {
+         "description" : "Organised by the British Chess Problem Society. Entry to this competition sponsored by Winton is by solving the starter problem below. White, playing up the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2024-2025/",
+         "pubDate" : "Wed, 08 May 2024 09:40:58",
+         "title" : "Winton British Chess Solving Championship 2024 - 2025"
+      },
+      {
          "description" : "Currently the 'Dubai Police Global' event that is being held in Dubai (03-13.05.2024), with a total of 361 players from 42 different countries - 37 from the UAE, 109 from India. Our friend and frequent new page contributor, international chess trainer GM Efstratios Grivas, is the lone Greek player. After a bad start, he played a very instructive game in Round 3, which he has extensively commented for us. You would do well to study his use of the Classical Attack.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -344,22 +376,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-5",
          "pubDate" : "Wed, 01 May 2024 12:45:00",
          "title" : "Svidler Beats Korobov, Joins Arjun In The Lead"
-      },
-      {
-         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
-         "pubDate" : "Wed, 01 May 2024 11:38:44",
-         "title" : "Entry form now open for 2024 British Chess Championships"
-      },
-      {
-         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
-         "pubDate" : "Wed, 01 May 2024 11:37:42",
-         "title" : "English Championship Series 2024"
       },
       {
          "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Chess.com will...",
