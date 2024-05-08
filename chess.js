@@ -5,6 +5,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3013",
+         "pubDate" : "Wed, 08 May 2024 22:39:55",
+         "title" : "Superbet Poland Rapid & Blitz: Day 1 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3012",
          "pubDate" : "Wed, 08 May 2024 16:50:16",
          "title" : "Cape Verdean Women's Championship: Celia Rodriguez claims third title"
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://aicf.in/rest-in-peace-im-varugeese-koshy/",
          "pubDate" : "Wed, 08 May 2024 14:59:54",
          "title" : "Rest in Peace IM Varugeese Koshy "
+      },
+      {
+         "description" : "GM Fabiano Caruana finished first in the Play-in stage of the Champions Chess Tour Chess.com Classic 2024. It&#39;s a resounding comeback for the world number-two who had a disappointing final round in the 2024 FIDE Candidates Tournament but showed gr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-1",
+         "pubDate" : "Wed, 08 May 2024 14:09:00",
+         "title" : "Caruana Wins In Final Round To Take Sole 1st In Chess.com Classic Play-in"
       },
       {
          "description" : " The 57th Capablanca Memorial takes place 3rd to 12th May 2024. Ruslan Ponomariov, Aryan Chopra, Luis Ernesto Quesada Perez, Evgeny Romanov, Carlos Daniel Albornoz Cabrera and Mads Andersen play.",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2024",
          "pubDate" : "Wed, 8 May 2024 13:04:00",
          "title" : "Superbet Poland Rapid & Blitz 2024 - Games and Results"
+      },
+      {
+         "description" : "GM Kirill Shevchenko is the absolute underdog in the 2024 Superbet Rapid &#38;amp; Blitz Poland, but he scored a perfect 6/6 on day one of the 2024 Grand Chess Tour after pouncing on blunders by GMs Gukesh Dommaraju, Praggnanandhaa Rameshbabu, and Vin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-1",
+         "pubDate" : "Wed, 08 May 2024 12:50:00",
+         "title" : "Shevchenko Leads Carlsen And Abdusattorov After Perfect Start"
       },
       {
          "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -112,6 +136,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-chessmom-2024-submissions",
          "pubDate" : "Wed, 08 May 2024 01:00:00",
          "title" : "FIDE ChessMom Initiative: Call for submissions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3011",
+         "pubDate" : "Tue, 07 May 2024 21:10:52",
+         "title" : "Swiss Wednesday Women's Series: March & April highlights"
       },
       {
          "description" : "With all the Indian Grandmasters popping up, it is getting difficult to keep track. One of them is the talented Nihal Sarin, who became the 53rd GM in India, at the age of 14. In March 2024, he was a Super grandmaster for a couple of days, but it won't be long, until he crosses the 2700 mark for good. He visited the ChessBase office because he was playing for the Hamburger SK chess club that weekend. In the short interview with Arne Kaehler, Nihal's passion for chess is crystal clear - enjoyment!",
@@ -626,14 +658,6 @@ news_feed (
          "title" : "Nakamura Scores Near-Perfect 74.5/76"
       },
       {
-         "description" : "GM Anton Korobov won a topsy-turvy game to score an upset victory against world number-four GM Nodirbek Abdusattorov in the opening round of the 2024 TePe Sigeman Chess Tournament. The 29th edition started today in Malmo, Sweden.&#38;nbsp; In the sa...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-1",
-         "pubDate" : "Sat, 27 Apr 2024 13:35:00",
-         "title" : "Korobov Upsets Abdusattorov As TePe Sigeman Chess Tournament Gets Underway"
-      },
-      {
          "description" : "Right Mood Right Move. That's the tagline of ChessMood I love it and fully agree. Feeling good (confident, happy, relaxed) while playing chess can help you find better moves and ultimately get better results. A clear mind can focus better on complex chess positions, leading you to make better decisions which lead []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -696,14 +720,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2992",
          "pubDate" : "Fri, 26 Apr 2024 14:46:29",
          "title" : "FIDE Council meeting 2024 8, 13 April List of Decisions published"
-      },
-      {
-         "description" : "Most people struggle to stay awake for more than 18 hours. FM Joran Aulin-Jansson played 701 blitz games for 92 hours and 26 minutes straight. Last week Tunde Onakoya overcame intense vomiting, stomach pain, and extreme tiredness to break the Gu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/epic-story-of-jj-92-hour-chess-marathon",
-         "pubDate" : "Fri, 26 Apr 2024 14:39:59",
-         "title" : "Vomit, Badgers, And Crawling Spiders: The Epic Story Of JJ's 92-Hour Chess Marathon"
       },
       {
          "description" : "IM Ulviyya Fataliyeva (AZE, 2377) emerged as the sole leader of the European Women's Chess Championship 2024 after four played rounds. Playing on the top board yesterday, Ulviyya Fataliyeva had white pieces against 15-year-old Ukrainian talent WCM Bozhena Piddubna (UKR, 2005). Fataliyeva gained a clear advantage from the early part of the opening and gradually improved it to crush her opponent without giving a single chance. The top 10 boards yesterday saw as many as nine decisive results and eight []",
