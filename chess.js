@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3012",
+         "pubDate" : "Wed, 08 May 2024 16:50:16",
+         "title" : "Cape Verdean Women's Championship: Celia Rodriguez claims third title"
+      },
+      {
          "description" : "Today, we mourn the loss of a true titan in the world of chess, IM Varugeese Koshy. His passion for the game, his strategic brilliance,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2024-2025/",
          "pubDate" : "Wed, 08 May 2024 09:40:58",
          "title" : "Winton British Chess Solving Championship 2024 - 2025"
+      },
+      {
+         "description" : "GM Tuan Minh Le won the early edition of Titled Tuesday on May 7 with a score of 9.5/11, while the rest of Tuesday&#39;s highlights belonged to GM Magnus Carlsen. Carlsen first played a4/a5 on move one and Ra3/Ra6 on move two in all 11 games of the ea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/le-carlsen-win-titled-tuesday-may-7-2024",
+         "pubDate" : "Wed, 08 May 2024 08:34:51",
+         "title" : "Carlsen Wins Final Clash To Take Tuesday From Nakamura"
       },
       {
          "description" : "We&#39;re happy to announce the release of IM Jeremy Silman&#39;s classic The Amateur&#39;s Mind on Chessable. Replace the most common amateur strategic misconceptions with the decision-making process of the masters and start dominating your opponents! C...",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/epic-story-of-jj-92-hour-chess-marathon",
          "pubDate" : "Fri, 26 Apr 2024 14:39:59",
          "title" : "Vomit, Badgers, And Crawling Spiders: The Epic Story Of JJ's 92-Hour Chess Marathon"
-      },
-      {
-         "description" : "In the first of a planned series of reports on Titled Tuesday, Chess.com&#39;s Fair Play team said it&#39;s unlikely that large-scale cheating is happening in the popular prize events. Chess.com&#39;s anti-cheat detection system has faced scrutiny from some...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-publishes-fair-play-report-on-titled-tuesday",
-         "pubDate" : "Fri, 26 Apr 2024 10:10:00",
-         "title" : "Cheating Not Widespread In Titled Tuesday, Chess.com Fair Play Team Says In New Report"
       },
       {
          "description" : "IM Ulviyya Fataliyeva (AZE, 2377) emerged as the sole leader of the European Women's Chess Championship 2024 after four played rounds. Playing on the top board yesterday, Ulviyya Fataliyeva had white pieces against 15-year-old Ukrainian talent WCM Bozhena Piddubna (UKR, 2005). Fataliyeva gained a clear advantage from the early part of the opening and gradually improved it to crush her opponent without giving a single chance. The top 10 boards yesterday saw as many as nine decisive results and eight []",
