@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Currently the 'Dubai Police Global' event that is being held in Dubai (03-13.05.2024), with a total of 361 players from 42 different countries - 37 from the UAE, 109 from India. Our friend and frequent new page contributor, international chess trainer GM Efstratios Grivas, is the lone Greek player. After a bad start, he played a very instructive game in Round 3, which he has extensively commented for us. You would do well to study his use of the Classical Attack.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dubai-global-text-book-attack",
+         "pubDate" : "Wed, 08 May 2024 07:19:59",
+         "title" : "Dubai Global: Text-Book Attack"
+      },
+      {
+         "description" : "After a history-making month for Indian chess, the All India Chess Federation unveiled a host of initiatives to further popularise the sport in India, and",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/aicf-urgent-general-body-on-04-may-2024indian-chesss-rs-65-crore-blueprint/",
+         "pubDate" : "Wed, 08 May 2024 05:58:50",
+         "title" : "AICF Urgent General Body on 04 May 2024:Indian chess's Rs 65 crore blueprint."
+      },
+      {
+         "description" : " In a fascinating podcast, FM Gregory Acholonu was a guest on &#8220;Chess on the Brain,&#8221; talking about a range of topics. The host was National Master David Bennett, who asked the DC native questions ranging from current events to the Black chess scene in DC, including the &#8220;Black Knights,&#8221; the DC Chess League, and the The post <a href=\"https://www.thechessdrum.net/blog/2024/05/08/gregory-acholonu-featured-chess-on-the-brain/\">Gregory Acholonu featured &#8220;Chess on the Brain&#8221;</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/05/08/gregory-acholonu-featured-chess-on-the-brain/",
+         "pubDate" : "Wed, 08 May 2024 05:08:06",
+         "title" : "Gregory Acholonu featured \"Chess on the Brain\""
+      },
+      {
          "description" : "FIDE has announced the start of the application process for the ChessMom project. The initiative aims to support professional chess players who are mothers of infants under one year of age at the upcoming Chess Olympiad set to take place in Budapest on September 10-23. The organizer will recognize both the child and the accompanying caregiver as integral parts of the National Official Delegation.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
