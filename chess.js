@@ -10,6 +10,22 @@ news_feed (
          "title" : "Superbet Rapid & Blitz Poland - Live!"
       },
       {
+         "description" : " HBCU Chess has a long but largely undocumented history. During the 2024 HBCU Chess Classic hosted by The Black Odyssey, six Historically Black Colleges and Universities (known as &#8220;HBCUs&#8221;) gathered to participate in the 2nd annual event. Hampton, Howard, Morehouse, and North Carolina A&#38;T, each fielded two teams. While Florida A&#38;M University (FAMU) only sent The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/meet-the-kings-queens-of-hbcu-chess/\">Meet the Kings &#038; Queens of HBCU Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/05/09/meet-the-kings-queens-of-hbcu-chess/",
+         "pubDate" : "Thu, 09 May 2024 12:20:48",
+         "title" : "Meet the Kings & Queens of HBCU Chess!"
+      },
+      {
+         "description" : "All India Chess Federation, in collaboration with the FIDE Fair Play Commission, is an exciting opportunity for chess enthusiasts to delve into crucial aspects of",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-fair-play-seminar-in-gandhinagar-gujarat-india-from-10-12-june-2024/",
+         "pubDate" : "Thu, 09 May 2024 12:14:15",
+         "title" : "FIDE Fair Play Seminar in Gandhinagar, Gujarat, India from 10-12 June 2024"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"><h2><strong>Event held in celebration of 10th anniversary of Congressional proclamation naming Saint Louis as the Chess Capital of the United States</strong></h2> </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Saint Louis Students in Nation's Capital</div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/Congressional%20Chess%20Tournamen",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
