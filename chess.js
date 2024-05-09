@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 2 of the event sees players fighting in the Division Placement Format, as they look to enter the knockout phase either in Division I, II or II. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
+         "pubDate" : "Thu, 09 May 2024 18:15:00",
+         "title" : "Chess.com Classic - Live!"
+      },
+      {
          "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,14 +146,6 @@ news_feed (
          "title" : "Break Free From Amateur Mistakes With Silman's New Chessable Course"
       },
       {
-         "description" : "Currently the 'Dubai Police Global' event that is being held in Dubai (03-13.05.2024), with a total of 361 players from 42 different countries - 37 from the UAE, 109 from India. Our friend and frequent new page contributor, international chess trainer GM Efstratios Grivas, is the lone Greek player. After a bad start, he played a very instructive game in Round 3, which he has extensively commented for us. You would do well to study his use of the Classical Attack.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dubai-global-text-book-attack",
-         "pubDate" : "Wed, 08 May 2024 07:19:59",
-         "title" : "Dubai Global: Text-Book Attack"
-      },
-      {
          "description" : "After a history-making month for Indian chess, the All India Chess Federation unveiled a host of initiatives to further popularise the sport in India, and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -168,14 +168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3011",
          "pubDate" : "Tue, 07 May 2024 21:10:52",
          "title" : "Swiss Wednesday Women's Series: March & April highlights"
-      },
-      {
-         "description" : "With all the Indian Grandmasters popping up, it is getting difficult to keep track. One of them is the talented Nihal Sarin, who became the 53rd GM in India, at the age of 14. In March 2024, he was a Super grandmaster for a couple of days, but it won't be long, until he crosses the 2700 mark for good. He visited the ChessBase office because he was playing for the Hamburger SK chess club that weekend. In the short interview with Arne Kaehler, Nihal's passion for chess is crystal clear - enjoyment!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-nihal-sarin",
-         "pubDate" : "Tue, 07 May 2024 15:00:00",
-         "title" : "Interview with Nihal Sarin"
       },
       {
          "description" : " I was looking through a few games by Vassily Smyslov, as I had just picked up a copy of his book on his early career (up until 1957). I was planning to show an <a href=\"https://chessexpress.blogspot.com/2010/06/power-of-two-bishops.html\">early win against Gerasimov</a>, but I realised I had posted it 14 years ago, So instead, I found a very short game, where a quick tactical blow brought about resignation. However in this case I suspect Spraggett resigned more out of disgust than anything else, as the position isn't lost, just \"losing\". <br /> <b>Spraggett,Kevin (2550) - Smyslov,Vassily (2595) [E11]</b><br /> Candidates Tournament Montpellier (6), 1985 <script> new PgnViewer( { boardName: \"",
@@ -224,14 +216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3009",
          "pubDate" : "Mon, 06 May 2024 20:25:40",
          "title" : "Pune, India to host three-day Chess for Freedom Conference"
-      },
-      {
-         "description" : "When it comes to manoeuvring, Anatoly Karpov in his best years was in a class of his own. The Slovakian GM Lubomir Ftacnik used to say: \"Karpov just had to figure out where to put his pieces. Once he found the right squares, he always knew how to get them there\". Manoeuvring is an important skill to master and Jan Markos helps you to master this skill. | Picture: freevector.com.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-33-the-travelers",
-         "pubDate" : "Mon, 06 May 2024 18:00:00",
-         "title" : "The Winning Academy 33: The Travelers"
       },
       {
          "description" : "Why is the rook's pawn called the \"worst enemy of the knight\"? How do you make best use of the \"Knight Check Shadow\" and when should you enter the \"Karpov Distance\"? In the new ChessBase Magazine #219, Karsten Mueller shows you the most important techniques in the endgame with knight against pawn(s) in part #9 of his series \"Fundamental Endgame Knowledge\". Take the chance and test your technique in two interactive training videos in this week's CBM reading sample. Have fun!",
@@ -1320,22 +1304,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2979",
          "pubDate" : "Thu, 18 Apr 2024 20:53:03",
          "title" : "FIDE elevates chess standards as it improves regulations for arbiters"
-      },
-      {
-         "description" : " Tan Zhongyi took sole lead of the FIDE Women's Candidates with 7.5/11 after beating Kateryna Lagno in a Reti. Lei Tingjie managed to draw against Anna Muzychuk and is half a point behind. With three rounds to go Kateryna Lagno, Humpy Koneru and Aleksandra Goryachkina are all on 5.5 points, realistically it's between Tan and Lei for the title. Tan played a Reti System, 13...e5 from Lagno could have been met by 14.Nxe5 with advantage but instead a roughly balance position was arrived at. 27.Rc5? could have been refuted by 27...f4 when overloaded pieces combined with a kingside attack win for black. Lagno played the losing 28...Bxb3 (28...f4 is the way to hold the balance now) and Tan made no ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-leads-lei-half-a-point-after-11-rounds-in-a-two-horse-race-for-the-womens-candidates",
-         "pubDate" : "Thu, 18 Apr 2024 18:54:00",
-         "title" : "Tan leads Lei half a point after 11 rounds in a two horse race for the Women's Candidates - 11"
-      },
-      {
-         "description" : " Ian Nepomniachtchi won a really fascinating struggle against Santosh Vidit in the eleventh round of the FIDE Candidates tournament in Toronto, Canada. Not only did Nepomniachtchi win, he won with the black pieces, but it was Vidit who first had winning chances. Vidit chose a side-line in a fairly topical Petroff line, even with Queen's off the play remained complicated and 33...Rb3? (33...Kg7!) was losing according to engines after 34.h5! Then 35...a5? 36.Bxa3 d5 was also deemed losing for black but only after giving up a piece. The position was back level and 58.Bb3?! and 60.Nb2+? suddenly Nepomniachtchi was winning and his conversion was a lot easier. Earlier Hikaru Nakamura was extremely",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-beats-vidit-in-a-tense-struggle-to-lead-the-candidates-alone-again-on-711",
-         "pubDate" : "Thu, 18 Apr 2024 16:14:00",
-         "title" : "Nepomniachtchi beats Vidit in a tense struggle to lead the Candidates alone again on 7/11 - 11"
       }
    ]
 }
