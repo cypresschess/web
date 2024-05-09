@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"><h2><strong>Event held in celebration of 10th anniversary of Congressional proclamation naming Saint Louis as the Chess Capital of the United States</strong></h2> </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Saint Louis Students in Nation's Capital</div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/Congressional%20Chess%20Tournamen",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/schmitt-hassan-saint-louis-chess-club-host-bipartisan-congressional-chess-tournament-leading",
+         "pubDate" : "Thu, 09 May 2024 05:29:18",
+         "title" : "Schmitt, Hassan, Saint Louis Chess Club Host Bipartisan Congressional Chess Tournament with Leading Chess Figures, Saint Louis Students in Nation's Capital"
+      },
+      {
          "description" : "Kirill Shevchenko, the clear rating underdog, grabbed the lead after the first day of action at the Superbet Rapid & Blitz tournament in Poland. Shevchenko defeated D Gukesh, R Praggnanandhaa and Vincent Keymer to end the day with a perfect 6/6 score (wins grant 2 points in the rapid section of the event). Standing at a 2-point distance are Magnus Carlsen and Nodirbek Abdusattorov. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1304,22 +1312,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/nepomniachtchi-beats-vidit-in-a-tense-struggle-to-lead-the-candidates-alone-again-on-711",
          "pubDate" : "Thu, 18 Apr 2024 16:14:00",
          "title" : "Nepomniachtchi beats Vidit in a tense struggle to lead the Candidates alone again on 7/11 - 11"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109394851.cms\" />Grandmaster D Gukesh secured a draw against top seed Fabiano Caruana in the 11th round of the Candidates Chess Tournament. Gukesh though dropped to joint second position. R Praggnanandhaa and Vidit Gujrathi suffered losses against Hikaru Nakamura and Ian Nepomniachtchi, respectively. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-drops-to-joint-2nd-after-a-draw-against-fabiano-caruana-in-candidates-chess-tournament/articleshow/109394851.cms",
-         "pubDate" : "Thu, 18 Apr 2024 06:58:15",
-         "title" : "D Gukesh drops to joint 2nd after a draw against Fabiano Caruana"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2978",
-         "pubDate" : "Thu, 18 Apr 2024 05:06:32",
-         "title" : "FIDE Candidates: Nepomniachtchi and Tan in the Lead Again"
       }
    ]
 }
