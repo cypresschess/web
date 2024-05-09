@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kirill Shevchenko, the clear rating underdog, grabbed the lead after the first day of action at the Superbet Rapid & Blitz tournament in Poland. Shevchenko defeated D Gukesh, R Praggnanandhaa and Vincent Keymer to end the day with a perfect 6/6 score (wins grant 2 points in the rapid section of the event). Standing at a 2-point distance are Magnus Carlsen and Nodirbek Abdusattorov. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-d1",
+         "pubDate" : "Thu, 09 May 2024 02:15:00",
+         "title" : "Superbet Poland: Shevchenko leads with perfect score"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-1",
          "pubDate" : "Wed, 08 May 2024 12:50:00",
          "title" : "Shevchenko Leads Carlsen And Abdusattorov After Perfect Start"
-      },
-      {
-         "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
-         "pubDate" : "Wed, 08 May 2024 12:50:00",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
       },
       {
          "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
@@ -128,14 +128,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/05/08/gregory-acholonu-featured-chess-on-the-brain/",
          "pubDate" : "Wed, 08 May 2024 05:08:06",
          "title" : "Gregory Acholonu featured \"Chess on the Brain\""
-      },
-      {
-         "description" : "FIDE has announced the start of the application process for the ChessMom project. The initiative aims to support professional chess players who are mothers of infants under one year of age at the upcoming Chess Olympiad set to take place in Budapest on September 10-23. The organizer will recognize both the child and the accompanying caregiver as integral parts of the National Official Delegation.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-chessmom-2024-submissions",
-         "pubDate" : "Wed, 08 May 2024 01:00:00",
-         "title" : "FIDE ChessMom Initiative: Call for submissions"
       },
       {
          "description" : "",
@@ -210,14 +202,6 @@ news_feed (
          "title" : "The Winning Academy 33: The Travelers"
       },
       {
-         "description" : "From 18-19 May 2024 the world's top Grandmaster will play a rapid event, trying out the new Casablanca Chess Variant. Titans Carlsen, Nakamura, Anand, and Amin are set for epic showdown in a game that intends to bridge history and innovation. In this variant - not to be confused with Capablanca Chess - the game commences from equal positions inspired by historical gems. Could this be the beginning of a beautiful friendship?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/epic-showdown-in-casablanca",
-         "pubDate" : "Mon, 06 May 2024 15:00:00",
-         "title" : "Epic Showdown in Casablanca"
-      },
-      {
          "description" : "Why is the rook's pawn called the \"worst enemy of the knight\"? How do you make best use of the \"Knight Check Shadow\" and when should you enter the \"Karpov Distance\"? In the new ChessBase Magazine #219, Karsten Mueller shows you the most important techniques in the endgame with knight against pawn(s) in part #9 of his series \"Fundamental Endgame Knowledge\". Take the chance and test your technique in two interactive training videos in this week's CBM reading sample. Have fun!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -240,14 +224,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2024-starts-in-terme-catez-slovenia/",
          "pubDate" : "Mon, 06 May 2024 07:58:49",
          "title" : "European Senior Team Chess Championship 2024 starts in Terme Catez, Slovenia"
-      },
-      {
-         "description" : "The Dubai Police Global Challenge Masters kicked off on Saturday with 135 participants, including three 2700+ rated players. After two rounds, 11 players are tied for first place with 2/2 points. Surprisingly, this group only includes two players belonging to the top-20 in the starting rank. The tournament is a 9-round Swiss open with a classical time control. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dubai-police-masters-2024-r2",
-         "pubDate" : "Mon, 06 May 2024 07:15:00",
-         "title" : "Dubai Police Masters: Upsets in the first two rounds"
       },
       {
          "description" : "",
