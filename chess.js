@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen and Wei Yi emerged as co-leaders after the second day of action at the Superbet Rapid & Blitz tournament in Poland. Carlsen grabbed two wins and then failed to make the most of clear winning chances against D Gukesh, while Wei obtained three wins in a row to recover from his somewhat underwhelming performance on Wednesday. Former leader Kirill Shevchenko and R Praggnanandhaa stand a full point behind the leaders (wins are worth 2 points in the rapid section of the event). | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-d2",
+         "pubDate" : "Fri, 10 May 2024 01:00:00",
+         "title" : "Superbet Poland: Carlsen and Wei share the lead"
+      },
+      {
+         "description" : " Howard University has a long and esteemed history as an institution. One of the most well-known universities in the country, it also doubles as a premier HBCU (Historically Black College and University). There is also a very long history in terms of chess. Journalist Jamaal Abdul-Alim gave a presentation to the Howard Chess Club, gearing The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-howard-university/\">HBCU Chess Spotlight: Howard University</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-howard-university/",
+         "pubDate" : "Thu, 09 May 2024 23:07:46",
+         "title" : "HBCU Chess Spotlight: Howard University"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3015",
+         "pubDate" : "Thu, 09 May 2024 23:01:03",
+         "title" : "Superbet Poland Rapid & Blitz: Day 2 Recap"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3014",
+         "pubDate" : "Thu, 09 May 2024 19:35:48",
+         "title" : "Sardinia Chess Festival: Great First Edition"
+      },
+      {
          "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 2 of the event sees players fighting in the Division Placement Format, as they look to enter the knockout phase either in Division I, II or II. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +42,20 @@ news_feed (
          "title" : "Chess.com Classic - Live!"
       },
       {
-         "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
-         "pubDate" : "Thu, 09 May 2024 12:50:00",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
+         "description" : "GM Velimir Ivic had the performance of a lifetime on day two of the Champions Chess Tour Chess.com Classic 2024. After surviving elimination from Division I thanks to a mouse slip by his opponent, he defeated GM Maxime Vachier-Lagrave in armageddo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-2",
+         "pubDate" : "Thu, 09 May 2024 14:03:00",
+         "title" : "Vachier-Lagrave, Caruana, Wesley So Kicked Out Of Division I By Ivic, Sarana"
+      },
+      {
+         "description" : "GM Magnus Carlsen came within a whisker of beating GM Gukesh Dommaraju and taking the sole lead in the 2024 Superbet Rapid &#38;amp; Blitz Poland, but in the end, he had to settle for joint first place with GM Wei Yi, who won all three games on day tw...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-2",
+         "pubDate" : "Thu, 09 May 2024 13:59:00",
+         "title" : "Carlsen Lets Gukesh Escape, Leads With Wei Yi"
       },
       {
          "description" : " HBCU Chess has a long but largely undocumented history. During the 2024 HBCU Chess Classic hosted by The Black Odyssey, six Historically Black Colleges and Universities (known as &#8220;HBCUs&#8221;) gathered to participate in the 2nd annual event. Hampton, Howard, Morehouse, and North Carolina A&#38;T, each fielded two teams. While Florida A&#38;M University (FAMU) only sent The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/meet-the-kings-queens-of-hbcu-chess/\">Meet the Kings &#038; Queens of HBCU Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -618,14 +658,6 @@ news_feed (
          "title" : "Caleb Parker is 2024 HBCU Chess Champion!"
       },
       {
-         "description" : "GM Anton Korobov and GM Vincent Keymer are still on perfect scores after two rounds at the 2024 TePe Sigeman Chess Tournament, and the two leaders will play each other on Monday. While Keymer defeated GM Nils Grandelius, Korobov was too strong for...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-2",
-         "pubDate" : "Sun, 28 Apr 2024 12:44:00",
-         "title" : "Keymer, Korobov On 2/2, To Meet In Round 3 In Malmo"
-      },
-      {
          "description" : "IM Ulviyya Fataliyeva (AZE, 2377) extended her lead in the European Women's Chess Championship 2024 after defeating WIM Alicja Sliwicka (POL, 2315) yesterday in the 8th round. Playing with black pieces, Ulviyya Fataliyeva took the space advantage in the early part of the game with a slight positional advantage. Sliwicka had her chance to take over the edge after Fataliyeva's mistake 25Na7? Instead of going for 26.g5, Alicja played suspiciously 26.a3? and the Azerbaijani once again took control over the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -640,14 +672,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2995",
          "pubDate" : "Sat, 27 Apr 2024 20:21:39",
          "title" : "Azerbaijan Championship: Aydin Suleymanli wins maiden title"
-      },
-      {
-         "description" : "GM Hikaru Nakamura triumphantly returned to the Bullet Brawl arena on Saturday, scoring 74.5/76 en route to a resounding victory ahead of 150 titled players. Boasting a score of 288, Nakamura finished with a 14-point buffer separating him from GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-bullet-brawl-april-27-2024",
-         "pubDate" : "Sat, 27 Apr 2024 16:00:00",
-         "title" : "Nakamura Scores Near-Perfect 74.5/76"
       },
       {
          "description" : "Right Mood Right Move. That's the tagline of ChessMood I love it and fully agree. Feeling good (confident, happy, relaxed) while playing chess can help you find better moves and ultimately get better results. A clear mind can focus better on complex chess positions, leading you to make better decisions which lead []",
@@ -1280,30 +1304,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/down-to-4.html",
          "pubDate" : "Fri, 19 Apr 2024 00:24:00",
          "title" : "Down to 4"
-      },
-      {
-         "description" : "Meanwhile, Vaishali R won her third straight game while the other two Indians lost at the FIDE Candidates 2024",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39972203/fide-candidates-2024-india-gukesh-three-way-tie-lead-praggnanandhaa-holds-nepomniachtchi-round-12?device=featurephone",
-         "pubDate" : "Thu, 18 Apr 2024 22:46:16",
-         "title" : "Candidates: Gukesh in three-way tie for lead after Pragg holds Nepo in round 12"
-      },
-      {
-         "description" : "Nepomniachtchi was the big winner of round 11 after beating Vidit to take over sole lead again at the 2024 FIDE Candidates",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39965910/fide-candidates-2024-nepomniachtchi-takes-sole-lead-gukesh-vaishali-humpy-win-big-round-11?device=featurephone",
-         "pubDate" : "Thu, 18 Apr 2024 21:43:55",
-         "title" : "FIDE Candidates 2024: Nepo takes over sole lead, Vaishali, Humpy win in rd 11"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2979",
-         "pubDate" : "Thu, 18 Apr 2024 20:53:03",
-         "title" : "FIDE elevates chess standards as it improves regulations for arbiters"
       }
    ]
 }
