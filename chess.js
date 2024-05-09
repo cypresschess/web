@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
+         "pubDate" : "Thu, 09 May 2024 12:50:00",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"><h2><strong>Event held in celebration of 10th anniversary of Congressional proclamation naming Saint Louis as the Chess Capital of the United States</strong></h2> </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Saint Louis Students in Nation's Capital</div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/Congressional%20Chess%20Tournamen",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
