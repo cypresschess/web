@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Wood Green edge out Manx Liberty and The Sharks on game points after a triple tie on match points Britain's 4NCL national chess league has traditionally been the preserve of one or two very strong and well financed clubs. Guildford, the record holders, went unbeaten for eight seasons with 81 wins and two draws before they abdicated their title and downsized in 2021. The 2023-24 season ended on Monday with the closest finish in the league's history as Wood Green, with 20/22 match points and 61 game points, edged out Manx Liberty by only half a game point and The Sharks by one game point. <a href=\"https://www.theguardian.com/sport/article/2024/may/10/chess-britains-4ncl-national-league-has-cl",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/may/10/chess-britains-4ncl-national-league-has-closest-ever-three-way-finish",
+         "pubDate" : "Fri, 10 May 2024 07:00:36",
+         "title" : "Chess: Britain's 4NCL national league has closest ever three-way finish"
+      },
+      {
          "description" : " North Carolina A&#38;T Aggies, 1st place team (2024 HBCU Chess Classic)Photo by Daaim Shabazz/The Chess Drum Dressed in their North Carolina A&#38;T gear, &#8220;Aggie Pride&#8221; was on full display at the 2024 HBCU Chess Classic. Currently the largest HBCU, the Aggies came to Atlanta to improve on last year's performance last year. Nicolas Perkins, a The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/\">HBCU Chess Spotlight: North Carolina A&#038;T</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -232,14 +240,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3010",
          "pubDate" : "Tue, 07 May 2024 13:29:27",
          "title" : "Chess titans Carlsen, Nakamura, Anand, and Amin set for epic showdown in Casablanca"
-      },
-      {
-         "description" : "It is the ability to mentally picture things. That seems the most natural thing in the world, but some people are unable to do it at all. They cannot imagine a sunset, see any vivid details, vibrant colours, in their minds. Or they may only produce a mental image that is blurry and lacks detail. Michael Bacon, the Armchair Warrior, is a USCF Expert with aphantasia. He has written about how the condition relates to chess. | Image Credit: Andrew Mason",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/aphantasia-in-chess",
-         "pubDate" : "Tue, 07 May 2024 10:00:00",
-         "title" : "Aphantasia in chess"
       },
       {
          "description" : "National Team Open Name Krishna C R G Aronyak Ghosh Ghosh Diptayan Visakh N R Neelash Saha Shyaamnikhil P Vignesh N R Das Sayantan Swapnil",
@@ -1280,30 +1280,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-gukesh-crushes-abasov-to-be-back-in-joint-lead-praggnanandhaa-vidit-gujrathi-out-of-contention/articleshow/109428310.cms",
          "pubDate" : "Fri, 19 Apr 2024 08:17:52",
          "title" : "Candidates: Gukesh win to be back in joint lead; Pragg, Gujrathi out of contention"
-      },
-      {
-         "description" : " With just the final two rounds to come, Ian Nepomniachtchi, Hikaru Nakamura and Gukesh Dommaraju share the lead while the world No 2, Fabiano Caruana, is half a point behind With 12 rounds complete and just Saturday's and Sunday's final two rounds to come, the Candidates in Toronto could hardly be closer. Three players share the lead, another is just half a point behind. The €500k tournament will decide which of its eight contestants challenges China's Ding Liren for his world crown later this year. Leaders after 12 rounds (of 14) were : Ian Nepomniachtchi (Russia), Hikaru Nakamura (US), and Gukesh Dommaraju (India) all 7.5; Fabiano Caruana (US) 7; Praggnanandhaa Rameshbabu (India) 6. Thr",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/apr/19/chess-four-in-close-contention-as-candidates-reaches-weekend-climax",
-         "pubDate" : "Fri, 19 Apr 2024 07:00:06",
-         "title" : "Chess: Four in close contention as Candidates reaches weekend climax"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2981",
-         "pubDate" : "Fri, 19 Apr 2024 05:23:57",
-         "title" : "Four in the race for first in FIDE Candidates; Tan solely on top in Women's event"
-      },
-      {
-         "description" : "The other four Indians are out of contention, but Praggnanandhaa can still play a crucial role.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39973019/fide-candidates-2024-india-gukesh-win-tournament-nepomniachtchi-nakamura-caruana?device=featurephone",
-         "pubDate" : "Fri, 19 Apr 2024 03:43:53",
-         "title" : "FIDE Candidates 2024: Can Gukesh win the tournament?"
       }
    ]
 }
