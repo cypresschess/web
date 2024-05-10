@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In their search for ways to throw their opponents off balance and create unusual positions, players such as the American GM Brandon Jacobson and Magnus Carlsen have recently tried out the so-called 'Meadow Hay Gambit' in blitz games: 1.a4 e5 2.Ra3!? An offer to win the exchange that Black cannot really refuse though White gets a surprising amount of compensation. Gambit expert Robert Ris has now made a 60-minute video course on this variation, and ChessBase readers who want to surprise their opponents with this sacrifice - or don't want to be surprised by it - can get this course for free now until Sunday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/an-offer-you-can-t-refuse",
+         "pubDate" : "Fri, 10 May 2024 14:46:11",
+         "title" : "An offer you can't refuse..."
+      },
+      {
          "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/may/10/chess-britains-4ncl-national-league-has-closest-ever-three-way-finish",
          "pubDate" : "Fri, 10 May 2024 07:00:36",
          "title" : "Chess: Britain's 4NCL national league has closest ever three-way finish"
+      },
+      {
+         "description" : "GM Ian Nepomniachtchi said reigning world champion GM Ding Liren would be a &#34;massive favorite&#34; in the upcoming title match against GM Gukesh Dommaraju if he can recover his 2019 form, while GM Fabiano Caruana thinks one good result can make a huge...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nepomniachtchi-caruana-on-ding-mystery-gukesh-candidates",
+         "pubDate" : "Fri, 10 May 2024 04:38:00",
+         "title" : "Nepomniachtchi, Caruana On Ding Mystery, Gukesh, And World Championship Match"
       },
       {
          "description" : " North Carolina A&#38;T Aggies, 1st place team (2024 HBCU Chess Classic)Photo by Daaim Shabazz/The Chess Drum Dressed in their North Carolina A&#38;T gear, &#8220;Aggie Pride&#8221; was on full display at the 2024 HBCU Chess Classic. Currently the largest HBCU, the Aggies came to Atlanta to improve on last year's performance last year. Nicolas Perkins, a The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/\">HBCU Chess Spotlight: North Carolina A&#038;T</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -72,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3014",
          "pubDate" : "Thu, 09 May 2024 19:35:48",
          "title" : "Sardinia Chess Festival: Great First Edition"
-      },
-      {
-         "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 2 of the event sees players fighting in the Division Placement Format, as they look to enter the knockout phase either in Division I, II or II. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
-         "pubDate" : "Thu, 09 May 2024 18:15:00",
-         "title" : "Chess.com Classic - Live!"
       },
       {
          "description" : "GM Velimir Ivic had the performance of a lifetime on day two of the Champions Chess Tour Chess.com Classic 2024. After surviving elimination from Division I thanks to a mouse slip by his opponent, he defeated GM Maxime Vachier-Lagrave in armageddo...",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2997",
          "pubDate" : "Mon, 29 Apr 2024 12:28:29",
          "title" : "ISF Gymnasiade 2024 in Chess: Registration is open"
-      },
-      {
-         "description" : "GM Magnus Carlsen says he fears that reigning World Champion Ding Liren could be &#39;permanently broken&#39; and fail to recover after his world championship victory. At the same time he praised the 17-year-old Candidates Tournament winner GM Gukesh Domm...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-fears-ding-is-permanently-broken-hails-gukesh-candidates",
-         "pubDate" : "Mon, 29 Apr 2024 07:41:00",
-         "title" : "Carlsen Fears Ding Is 'Permanently Broken', Hails Gukesh After Candidates Win"
       },
       {
          "description" : "",
@@ -1280,22 +1280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2982",
          "pubDate" : "Fri, 19 Apr 2024 17:48:06",
          "title" : "Toronto exhibition celebrates rich history of Candidates Tournaments"
-      },
-      {
-         "description" : "After two posts on my experience with Google's CMP -- <I>CFAA's CMP</I> <A HREF=\"https://chessforallages.blogspot.com/2024/04/cfaas-cmp-earnings.html\">Earnings</A> and <A HREF=\"https://chessforallages.blogspot.com/2024/04/cfaas-cmp-visitors.html\">Visitors</A> (both April 2024; CMP = Consent Management Platform for ads) -- I decided, <BLOCKQUOTE> I don't mind losing the ad revenue. [...] This latest chart, however, shows that the CMP change is making visitors stay away. [...] It looks like Google's Adsense will have to go. </BLOCKQUOTE> <P> That will take some time to do, but in the meantime I have another decision to make. My Google account's CMP and associated ads also appear on my blogs. T",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/cfaas-cmp-blogs.html",
-         "pubDate" : "Fri, 19 Apr 2024 15:28:00",
-         "title" : "CFAA's CMP : Blogs"
-      },
-      {
-         "description" : " The FIDE Candidates in Toronto, Canada has reached the final rest day. With two rounds to go three players, Ian Nepomniachtchi, Gukesh and Hikaru Nakamura lead with 7.5/12 half a point clear of Fabiano Caruana, one of these players will win the event. There will be day of tie-breaks on Monday if required, although I'd rather there be a clear winner. Intriguingly pairings include Nepomniachtchi-Nakamura in round 13 and Nakamura-Gukesh and Caruana-Nepomniachtchi in the final round. Nepomniachtchi chose the Exchange French against Praggnanandhaa and after 9 moves black was already level. Praggnanandhaa might have been a tiny bit better (33...c6!?) but the game fizzled out to a draw. A wasted w",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-nakamura-and-nepomniachtchi-lead-the-candidates-going-into-the-final-two-rounds",
-         "pubDate" : "Fri, 19 Apr 2024 13:31:00",
-         "title" : "Gukesh, Nakamura and Nepomniachtchi lead the Candidates going into the final two rounds - 12"
       }
    ]
 }
