@@ -2,7 +2,31 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Wood Green edge out Manx Liberty and The Sharks on game points after a triple tie on match points Britain's 4NCL national chess league has traditionally been the preserve of one or two very strong and well financed clubs. Guildford, the record holders, went unbeaten for eight seasons with 81 wins and two draws before they abdicated their title and downsized in 2021. The 2023-24 season ended on Monday with the closest finish in the league's history as Wood Green, with 20/22 match points and 61 game points, edged out Manx Liberty by only half a game point and The Sharks by one game point. <a href=\"https://www.theguardian.com/sport/article/2024/may/10/chess-britains-4ncl-national-league-has-cl",
+         "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
+         "pubDate" : "Fri, 10 May 2024 12:50:00",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3016",
+         "pubDate" : "Fri, 10 May 2024 10:54:51",
+         "title" : "World School Championship: Goodbye, Peru 2024"
+      },
+      {
+         "description" : "Each issue of ChessBase Magazine honours an outstanding chess player with a portrait. The current issue is dedicated to Fabiano Caruana. Several authors shed light on the qualities of the 2018 World Championship runner-up. Stefan Liebig took a look at the issue. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/in-cbm-219-portrait-of-an-uncrowned-legend",
+         "pubDate" : "Fri, 10 May 2024 10:00:00",
+         "title" : "In CBM #219: Portrait of an uncrowned legend"
+      },
+      {
+         "description" : " Wood Green edge out Manx Liberty and The Sharks on game points after a triple tie on match points Britain's 4NCL national chess league has traditionally been the preserve of one or two very strong and well-financed clubs. Guildford, the record holders, went unbeaten for eight seasons with 81 wins and two draws before they abdicated their title and downsized in 2021. The 2023-24 season ended on Monday with the closest finish in the league's history as Wood Green, with 20/22 match points and 61 game points, edged out Manx Liberty by just half a game point and the Sharks by one game point. <a href=\"https://www.theguardian.com/sport/article/2024/may/10/chess-britains-4ncl-national-league-has-cl",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/may/10/chess-britains-4ncl-national-league-has-closest-ever-three-way-finish",
@@ -1272,14 +1296,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-nakamura-and-nepomniachtchi-lead-the-candidates-going-into-the-final-two-rounds",
          "pubDate" : "Fri, 19 Apr 2024 13:31:00",
          "title" : "Gukesh, Nakamura and Nepomniachtchi lead the Candidates going into the final two rounds - 12"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109428310.cms\" />Gukesh, Nepomniachtchi, and Nakamura lead the Candidates chess tournament, with Caruana close behind. In women's division, Vaishali secured consecutive victories, while Humpy, Lagno and Lei maintain strong performances.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-gukesh-crushes-abasov-to-be-back-in-joint-lead-praggnanandhaa-vidit-gujrathi-out-of-contention/articleshow/109428310.cms",
-         "pubDate" : "Fri, 19 Apr 2024 08:17:52",
-         "title" : "Candidates: Gukesh win to be back in joint lead; Pragg, Gujrathi out of contention"
       }
    ]
 }
