@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " North Carolina A&#38;T Aggies, 1st place team (2024 HBCU Chess Classic)Photo by Daaim Shabazz/The Chess Drum Dressed in their North Carolina A&#38;T gear, &#8220;Aggie Pride&#8221; was on full display at the 2024 HBCU Chess Classic. Currently the largest HBCU, the Aggies came to Atlanta to improve on last year's performance last year. Nicolas Perkins, a The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/\">HBCU Chess Spotlight: North Carolina A&#038;T</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/",
+         "pubDate" : "Fri, 10 May 2024 03:14:59",
+         "title" : "HBCU Chess Spotlight: North Carolina A&T"
+      },
+      {
          "description" : "Magnus Carlsen and Wei Yi emerged as co-leaders after the second day of action at the Superbet Rapid & Blitz tournament in Poland. Carlsen grabbed two wins and then failed to make the most of clear winning chances against D Gukesh, while Wei obtained three wins in a row to recover from his somewhat underwhelming performance on Wednesday. Former leader Kirill Shevchenko and R Praggnanandhaa stand a full point behind the leaders (wins are worth 2 points in the rapid section of the event). | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1296,14 +1304,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39973019/fide-candidates-2024-india-gukesh-win-tournament-nepomniachtchi-nakamura-caruana?device=featurephone",
          "pubDate" : "Fri, 19 Apr 2024 03:43:53",
          "title" : "FIDE Candidates 2024: Can Gukesh win the tournament?"
-      },
-      {
-         "description" : " After a couple of exciting rounds, the 2024 Candidates is down to 4 players. There is a 3 way tie at the top, with Nepo, Naka, and Gukesh all on 7.5, with Fabi on 7. Nepo and Nakamura have the toughest assignments, playing each other in round 13 and then Caruana and Gukesh respectively in the last round. Gukesh has an out of form Firouzja in round 13, while Caruana is playing a much tougher Prag. At this stage Gukesh seems to have the best run home, but this could all change if Nakamura can pull off the big final round comeback. <br /> <b>Caruana,Fabiano (2803) - Vidit,Santosh Gujrathi (2727) [C54]</b><br /> FIDE Candidates 2024 Toronto, Canada (12.4), 18.04.2024 <script> new PgnViewer( { b",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/down-to-4.html",
-         "pubDate" : "Fri, 19 Apr 2024 00:24:00",
-         "title" : "Down to 4"
       }
    ]
 }
