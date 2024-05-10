@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3017",
+         "pubDate" : "Fri, 10 May 2024 22:09:05",
+         "title" : "Superbet Poland Rapid & Blitz: Day 3 Recap"
+      },
+      {
+         "description" : " The Chess.com Classic which is part of the Champions Chess Tour takes place Fri 10th to Wed 15th May 2024 on Chess.com. The format is Double Elimination Knockout. Carlsen, Ivic, Lazavik, Nepomniachtchi, Firouzja, Duda, Keymer and Sarana play for the title in Division 1. There are two further divisions which have qualification places for the division above.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2024",
+         "pubDate" : "Fri, 10 May 2024 21:04:00",
+         "title" : "Chess.com Classic 2024 - Games and Results"
+      },
+      {
          "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 3 of the event sees the start of the double-elimination knockouts in Divisions I, II and III. Magnus Carlsen, Ian Nepomniachtchi and Alireza are three of the eight participants in the top division. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,11 +42,19 @@ news_feed (
          "title" : "Superbet Rapid & Blitz Poland - Live!"
       },
       {
+         "description" : "GMs Magnus Carlsen and Vincent Keymer won their matches with a game to spare in Division I of the Champions Chess Tour Chess.com Classic 2024. GMs Jan-Krzysztof Duda and Denis Lazavik also won to continue in the Winners Bracket. Notably, Carlsen, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-3",
+         "pubDate" : "Fri, 10 May 2024 12:35:00",
+         "title" : "Carlsen, Keymer, Duda Win After Doubling Up Tournaments In Poland"
+      },
+      {
          "description" : "GM Wei Yi posted a five-game winning streak as he scored 13 of a possible 18 points to top the table after the rapid section of the 2024 Superbet Rapid &#38;amp; Blitz Poland. World number one Magnus Carlsen is just a point behind before the weekend&#39;s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-3",
-         "pubDate" : "Fri, 10 May 2024 11:32:59",
+         "pubDate" : "Fri, 10 May 2024 11:32:00",
          "title" : "Wei Yi Wins Rapid, Carlsen Still Unbeaten"
       },
       {
@@ -632,14 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-announces-charlotte-chess-center-partnership",
          "pubDate" : "Tue, 30 Apr 2024 08:00:00",
          "title" : "Chess.com Announces Partnership With Charlotte Chess Center"
-      },
-      {
-         "description" : "IM Ulviyya Fataliyeva won clear first at&#38;nbsp;the European Women&#39;s Championship on Monday. Fataliyeva was unstoppable throughout the event, finishing undefeated a full point ahead of the field.&#38;nbsp; IM Nataliya Buksa finished second with the to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-european-womens-chess-championship-fataliyeva-wins",
-         "pubDate" : "Mon, 29 Apr 2024 19:06:00",
-         "title" : "No Ambition, Peak Result: Fataliyeva Is 2024 European Women's Champion"
       },
       {
          "description" : " The German Schachbundesliga took place over 15 rounds Sat 21st Oct to Sun 28th Apr 2024. SC Viernheim were the surprise champions winning all their matches and finishing 3 points clear of Baden-Baden. This is the first time Baden-Baden didn't win the league since the 2015/16 season, and only the second time they didn't win since their first title in 2005/06.",
@@ -1256,14 +1272,6 @@ news_feed (
          "link" : "https://www.thearticle.com/lee-andersen/",
          "pubDate" : "Sat, 20 Apr 2024 10:16:33",
          "title" : "Lee Andersen"
-      },
-      {
-         "description" : " Tan Zhongyi continues to lead Lei Tingjie by half a point going into the final rest day of the Women's Candidates tournament in Toronto. They are too far clear of the rest of the field, one of these two players will win the event. Tan Zhongyi was losing against Nurgyul Salimova. By move 25 Tan was in a very uncomfortable position and tried to break out tactically with 25...b6? but this made things worse. Salimova's 43.f6?! (43.g6!) was a step in the wrong direction but she restored her winning position only to play 50.Bxf7? (50.Nxb4, 50.Rh4+ or 50.Bc6) which basically threw away the entire advantage and the game was drawn. Whilst Tan was losing Lei Tingjie seemed poised to overtake her with",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-and-lei-tingjie-both-draw-in-round-12-of-the-womens-candidates",
-         "pubDate" : "Fri, 19 Apr 2024 19:59:00",
-         "title" : "Tan Zhongyi and Lei Tingjie both draw in Round 12 of the Women's Candidates - 12"
       }
    ]
 }
