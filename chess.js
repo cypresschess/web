@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 3 of the event sees the start of the double-elimination knockouts in Divisions I, II and III. Magnus Carlsen, Ian Nepomniachtchi and Alireza are three of the eight participants in the top division. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
+         "pubDate" : "Fri, 10 May 2024 18:15:00",
+         "title" : "Chess.com Classic - Live!"
+      },
+      {
          "description" : "In their search for ways to throw their opponents off balance and create unusual positions, players such as the American GM Brandon Jacobson and Magnus Carlsen have recently tried out the so-called 'Meadow Hay Gambit' in blitz games: 1.a4 e5 2.Ra3!? An offer to win the exchange that Black cannot really refuse though White gets a surprising amount of compensation. Gambit expert Robert Ris has now made a 60-minute video course on this variation, and ChessBase readers who want to surprise their opponents with this sacrifice - or don't want to be surprised by it - can get this course for free now until Sunday.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
          "pubDate" : "Fri, 10 May 2024 12:50:00",
          "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "GM Wei Yi posted a five-game winning streak as he scored 13 of a possible 18 points to top the table after the rapid section of the 2024 Superbet Rapid &#38;amp; Blitz Poland. World number one Magnus Carlsen is just a point behind before the weekend&#39;s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-3",
+         "pubDate" : "Fri, 10 May 2024 11:32:59",
+         "title" : "Wei Yi Wins Rapid, Carlsen Still Unbeaten"
       },
       {
          "description" : "",
@@ -56,14 +72,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/",
          "pubDate" : "Fri, 10 May 2024 03:14:59",
          "title" : "HBCU Chess Spotlight: North Carolina A&T"
-      },
-      {
-         "description" : "Magnus Carlsen and Wei Yi emerged as co-leaders after the second day of action at the Superbet Rapid & Blitz tournament in Poland. Carlsen grabbed two wins and then failed to make the most of clear winning chances against D Gukesh, while Wei obtained three wins in a row to recover from his somewhat underwhelming performance on Wednesday. Former leader Kirill Shevchenko and R Praggnanandhaa stand a full point behind the leaders (wins are worth 2 points in the rapid section of the event). | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-d2",
-         "pubDate" : "Fri, 10 May 2024 01:00:00",
-         "title" : "Superbet Poland: Carlsen and Wei share the lead"
       },
       {
          "description" : " Howard University has a long and esteemed history as an institution. One of the most well-known universities in the country, it also doubles as a premier HBCU (Historically Black College and University). There is also a very long history in terms of chess. Journalist Jamaal Abdul-Alim gave a presentation to the Howard Chess Club, gearing The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-howard-university/\">HBCU Chess Spotlight: Howard University</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/schmitt-hassan-saint-louis-chess-club-host-bipartisan-congressional-chess-tournament-leading",
          "pubDate" : "Thu, 09 May 2024 05:29:18",
          "title" : "Schmitt, Hassan, Saint Louis Chess Club Host Bipartisan Congressional Chess Tournament with Leading Chess Figures, Saint Louis Students in Nation's Capital"
-      },
-      {
-         "description" : "Kirill Shevchenko, the clear rating underdog, grabbed the lead after the first day of action at the Superbet Rapid & Blitz tournament in Poland. Shevchenko defeated D Gukesh, R Praggnanandhaa and Vincent Keymer to end the day with a perfect 6/6 score (wins grant 2 points in the rapid section of the event). Standing at a 2-point distance are Magnus Carlsen and Nodirbek Abdusattorov. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-d1",
-         "pubDate" : "Thu, 09 May 2024 02:15:00",
-         "title" : "Superbet Poland: Shevchenko leads with perfect score"
       },
       {
          "description" : "",
@@ -648,14 +648,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/schachbundesliga-2023-24",
          "pubDate" : "Mon, 29 Apr 2024 15:33:00",
          "title" : "Schachbundesliga 2023-24 - Games and Results"
-      },
-      {
-         "description" : "GM Arjun Erigaisi beat GM Marc&#39;Andria Maurizzi in round three of the 2024 TePe Sigeman Chess Tournament to join the leaders after GM Anton Korobov was unable to grind down co-leader GM Vincent Keymer. Top seed GM Nodirbek Abdusattorov once again f...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-3",
-         "pubDate" : "Mon, 29 Apr 2024 15:05:00",
-         "title" : "Arjun Catches Leaders, Eyes World No. 4 Spot"
       },
       {
          "description" : "",
@@ -1272,14 +1264,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-and-lei-tingjie-both-draw-in-round-12-of-the-womens-candidates",
          "pubDate" : "Fri, 19 Apr 2024 19:59:00",
          "title" : "Tan Zhongyi and Lei Tingjie both draw in Round 12 of the Women's Candidates - 12"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2982",
-         "pubDate" : "Fri, 19 Apr 2024 17:48:06",
-         "title" : "Toronto exhibition celebrates rich history of Candidates Tournaments"
       }
    ]
 }
