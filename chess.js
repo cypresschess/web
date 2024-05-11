@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Wei Yi had yet another imposing performance on day 4 of the Superbet event in Poland, as he now stands a full 2&frac12; points ahead of second-placed Magnus Carlsen in the tournament table. Wei scored 7&frac12;/9 in the first half of the blitz section, despite starting the day with a loss against D Gukesh. With third-placed R Praggnanandhaa standing at a 6-point distance from the leader, the fight for overall victory has become a two-horse race in Warsaw. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-d4",
+         "pubDate" : "Sat, 11 May 2024 23:35:00",
+         "title" : "Superbet Poland: Wei widens the gap in two-horse race"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3018",
+         "pubDate" : "Sat, 11 May 2024 22:25:39",
+         "title" : "Superbet Poland Rapid & Blitz: Day 4 Recap"
+      },
+      {
          "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 4 of the event sees the semifinals of the winners' bracket in Division I, with Magnus Carlsen facing Denis Lazavik and Jan-Krzysztof Duda facing Vincent Keymer. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
          "pubDate" : "Sat, 11 May 2024 18:15:00",
          "title" : "Chess.com Classic - Live!"
+      },
+      {
+         "description" : "GM Hikaru Nakamura&#39;s commanding Bullet Brawl run continued after the now-24-time winner picked up his third straight $400 first prize on Saturday. Facing a field of bullet chess titans including GMs Oleksandr Bortnyk, Nihal Sarin, and Daniel Narod...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-11-2024",
+         "pubDate" : "Sat, 11 May 2024 15:30:18",
+         "title" : "Nakamura Wins 3rd Straight Bullet Brawl As Prodigies Clash"
       },
       {
          "description" : "In spite of some doubtful and slim early attributions to Prokopius Waldvogel of Avignon, it is widely accepted that modern printing was introduced by Johannes Gutenberg of Mainz, circa 1450. In England the baton was relatively swiftly (for the times) taken up by William Caxton with his Game and Playe of the Chesse, circa 1470, followed, []",
@@ -18,6 +42,14 @@ news_feed (
          "title" : "Chess in print: from Caxton to Middleton"
       },
       {
+         "description" : "This is a flash report. The full report is coming soon. GMs Magnus Carlsen and Vincent Keymer prevailed in the Winners Semifinals in Division I of the Champions Chess Tour Chess.com Classic 2024. Carlsen won with his uncanny ability to turn draw...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-4",
+         "pubDate" : "Sat, 11 May 2024 13:39:00",
+         "title" : "Flash Report: Carlsen, Keymer Advance to Winners Final"
+      },
+      {
          "description" : "Most chess improvers are stuck because they get stuck in the chess improvement trap. They do the sophisticated things and forget about the basics. New York Times Best-Seller ​Mark Manson​ recently said: &#8220;There are two steps to self-improvement: From bad to okay and from okay to great.&#8221; Mark Manson He argues that many people struggle []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -26,28 +58,12 @@ news_feed (
          "title" : "Chess Improvement Trap: Why You're Stuck Studying the Wrong Things"
       },
       {
-         "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
-         "pubDate" : "Sat, 11 May 2024 12:50:00",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
-      },
-      {
-         "description" : "Svitlana and Arne will participate in the Biel International Chess Festival this year! Last year, the masters section had some stunning tactics on the board, and Svitlana picked some of her favourites for your delight. Le Quang Liem, who won the last two events consecutively, has played the majority of interesting tactics! But this year, Vincent Keymer, Praggnanandhaa, Javokhir Sindarov, Haik Martirosyan, and Abhimanyu Mishra will join the Triathlon masters, to give you even more interesting games to watch.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-best-tactics-from-biel",
-         "pubDate" : "Sat, 11 May 2024 10:00:00",
-         "title" : "Svitlana's Smart Moves - Best tactics from Biel"
-      },
-      {
-         "description" : "After scoring three wins in as many games on Thursday, Wei Yi grabbed two more consecutive wins (before signing a draw in round 9) to secure first place in the rapid section of the Superbet tournament in Poland. Going into the 18 rounds of blitz, set to take place on Saturday and Sunday, Wei leads Magnus Carlsen by a full point, while R Praggananandhaa stands at a 2-point distance from the world number one. Carlsen was the only player to remain unbeaten in the rapid. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-d3",
-         "pubDate" : "Sat, 11 May 2024 01:40:00",
-         "title" : "Superbet Poland: Wei continues impressive run, wins rapid section"
+         "description" : "&#34;I just sucked, honestly&#34; said GM Magnus Carlsen about his play after losing his first game in the 2024 Superbet Rapid &#38;amp; Blitz Poland, to GM Praggnanandhaa Rameshbabu. He blundered a queen and lost the next game as well, but his 6/9 blitz scor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-4",
+         "pubDate" : "Sat, 11 May 2024 12:54:00",
+         "title" : "Wei Yi Powers To 2.5-Point Lead Over Carlsen"
       },
       {
          "description" : "",
@@ -642,14 +658,6 @@ news_feed (
          "title" : "Abdusattorov, Ju Score First Wins in Malmo"
       },
       {
-         "description" : "In March, Russia added GM Garry Kasparov to its list of &#34;terrorists and extremists.&#34; Last week, they went one step further to &#34;arrest&#34; the chess legend in absentia for &#34;terrorist activities.&#34; A city court in Syktyvkar, the largest city in Russia...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/russia-issues-arrest-warrant-for-kasparov-on-terrorist-charges",
-         "pubDate" : "Tue, 30 Apr 2024 11:46:00",
-         "title" : "Russia Issues Arrest Warrant For Kasparov On Terrorist Charges"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -664,22 +672,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anatoly-bykhovski-turns-90",
          "pubDate" : "Tue, 30 Apr 2024 10:00:00",
          "title" : "Anatoly Bykhovski turns 90!"
-      },
-      {
-         "description" : "WCM Bodhana Sivanandan reached another milestone this weekend. She scored the best result of her career so far, achieving her first woman international master norm. The European Women&#39;s Championship concluded in Rhodes, Greece on Monday, ending ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bodhana-continues-incredible-rise-scores-first-wim-norm",
-         "pubDate" : "Tue, 30 Apr 2024 08:12:00",
-         "title" : "9-Year-Old Bodhana Sivanandan Among Youngest Ever To Score WIM Norm"
-      },
-      {
-         "description" : "Chess.com is proud to announce our partnership with the Charlotte Chess Center! Founded in 2014, one of the most influential centers in the US is celebrating its 10-year anniversary. We are ecstatic to work with an incredible over-the-board organi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-charlotte-chess-center-partnership",
-         "pubDate" : "Tue, 30 Apr 2024 08:00:00",
-         "title" : "Chess.com Announces Partnership With Charlotte Chess Center"
       },
       {
          "description" : " The German Schachbundesliga took place over 15 rounds Sat 21st Oct to Sun 28th Apr 2024. SC Viernheim were the surprise champions winning all their matches and finishing 3 points clear of Baden-Baden. This is the first time Baden-Baden didn't win the league since the 2015/16 season, and only the second time they didn't win since their first title in 2005/06.",
@@ -1264,14 +1256,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-d-gukesh-beats-alireza-firouzja-to-become-sole-leader-with-just-one-round-left-to-play/articleshow/109469513.cms",
          "pubDate" : "Sun, 21 Apr 2024 02:24:47",
          "title" : "Candidates 2024: Gukesh wins to become sole leader"
-      },
-      {
-         "description" : "Gukesh defeated Alireza Firouzja while Ian Nepomniachtchi and Hikaru Nakamura drew. Meanwhile, Vaishali R won her fourth straight game to move into third place in the standings.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39984470/fide-candidates-2024-india-gukesh-sole-lead-beat-firouzja-round-13-one-win-away-world-championship?device=featurephone",
-         "pubDate" : "Sat, 20 Apr 2024 23:14:08",
-         "title" : "FIDE Candidates 2024: Gukesh takes sole lead after Round 13; one win away from World Championship"
       }
    ]
 }
