@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After scoring three wins in as many games on Thursday, Wei Yi grabbed two more consecutive wins (before signing a draw in round 9) to secure first place in the rapid section of the Superbet tournament in Poland. Going into the 18 rounds of blitz, set to take place on Saturday and Sunday, Wei leads Magnus Carlsen by a full point, while R Praggananandhaa stands at a 2-point distance from the world number one. Carlsen was the only player to remain unbeaten in the rapid. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-d3",
+         "pubDate" : "Sat, 11 May 2024 01:40:00",
+         "title" : "Superbet Poland: Wei continues impressive run, wins rapid section"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,14 +42,6 @@ news_feed (
          "title" : "An offer you can't refuse..."
       },
       {
-         "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
-         "pubDate" : "Fri, 10 May 2024 12:50:00",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
-      },
-      {
          "description" : "GMs Magnus Carlsen and Vincent Keymer won their matches with a game to spare in Division I of the Champions Chess Tour Chess.com Classic 2024. GMs Jan-Krzysztof Duda and Denis Lazavik also won to continue in the Winners Bracket. Notably, Carlsen, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3016",
          "pubDate" : "Fri, 10 May 2024 10:54:51",
          "title" : "World School Championship: Goodbye, Peru 2024"
-      },
-      {
-         "description" : "Each issue of ChessBase Magazine honours an outstanding chess player with a portrait. The current issue is dedicated to Fabiano Caruana. Several authors shed light on the qualities of the 2018 World Championship runner-up. Stefan Liebig took a look at the issue. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/in-cbm-219-portrait-of-an-uncrowned-legend",
-         "pubDate" : "Fri, 10 May 2024 10:00:00",
-         "title" : "In CBM #219: Portrait of an uncrowned legend"
       },
       {
          "description" : " Wood Green edge out Manx Liberty and The Sharks on game points after a triple tie on match points Britain's 4NCL national chess league has traditionally been the preserve of one or two very strong and well-financed clubs. Guildford, the record holders, went unbeaten for eight seasons with 81 wins and two draws before they abdicated their title and downsized in 2021. The 2023-24 season ended on Monday with the closest finish in the league's history as Wood Green, with 20/22 match points and 61 game points, edged out Manx Liberty by just half a game point and the Sharks by one game point. <a href=\"https://www.theguardian.com/sport/article/2024/may/10/chess-britains-4ncl-national-league-has-cl",
