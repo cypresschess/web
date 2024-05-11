@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In spite of some doubtful and slim early attributions to Prokopius Waldvogel of Avignon, it is widely accepted that modern printing was introduced by Johannes Gutenberg of Mainz, circa 1450. In England the baton was relatively swiftly (for the times) taken up by William Caxton with his Game and Playe of the Chesse, circa 1470, followed, []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-in-print-from-caxton-to-middleton/",
+         "pubDate" : "Sat, 11 May 2024 15:00:43",
+         "title" : "Chess in print: from Caxton to Middleton"
+      },
+      {
+         "description" : "Most chess improvers are stuck because they get stuck in the chess improvement trap. They do the sophisticated things and forget about the basics. New York Times Best-Seller ​Mark Manson​ recently said: &#8220;There are two steps to self-improvement: From bad to okay and from okay to great.&#8221; Mark Manson He argues that many people struggle []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/bad-to-okay/",
+         "pubDate" : "Sat, 11 May 2024 12:57:00",
+         "title" : "Chess Improvement Trap: Why You're Stuck Studying the Wrong Things"
+      },
+      {
          "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1248,22 +1264,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39984470/fide-candidates-2024-india-gukesh-sole-lead-beat-firouzja-round-13-one-win-away-world-championship?device=featurephone",
          "pubDate" : "Sat, 20 Apr 2024 23:14:08",
          "title" : "FIDE Candidates 2024: Gukesh takes sole lead after Round 13; one win away from World Championship"
-      },
-      {
-         "description" : "You might have heard that you should be training differently from a Grandmaster. But why is that? It's because your game is fundamentally different than a GM game. The Three Stages of Every Game Chess players usually think about the Opening, Middle-, and Endgame when we talk about the three stages of a game. But []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/three-stages/",
-         "pubDate" : "Sat, 20 Apr 2024 13:03:00",
-         "title" : "Stop Copying Grandmasters: Train for the Chess You Play"
-      },
-      {
-         "description" : " Sometimes a trap is so tempting, so obvious, and so spectacular, that there is no way it could work. And in a lot of cases you would be right. But sometimes you play it anyway, and it turns out that it really doesn't work. The game below is an example, except the trap did work. To preserve the identities of the perpetrator and the victim, I'm leaving the names off. The moves given are what *should have happened* if Black had played 7. ... Qb6. Instead he chose 7. ... Qd6?? and resigned after 8.Ne5+ Kd8 9.Nxf7+ <b>7. ... Qb6</b> would have been -3 for White with the correct follow up <br /> <br /> <b>FM White - Mr Black</b><br /> I'm not telling Swiss <script> new PgnViewer( { boardName: \"ga",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/yeh-nah.html",
-         "pubDate" : "Sat, 20 Apr 2024 11:51:00",
-         "title" : "Yeh, nah"
       }
    ]
 }
