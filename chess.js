@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 4 of the event sees the semifinals of the winners' bracket in Division I, with Magnus Carlsen facing Denis Lazavik and Jan-Krzysztof Duda facing Vincent Keymer. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
+         "pubDate" : "Sat, 11 May 2024 18:15:00",
+         "title" : "Chess.com Classic - Live!"
+      },
+      {
          "description" : "In spite of some doubtful and slim early attributions to Prokopius Waldvogel of Avignon, it is widely accepted that modern printing was introduced by Johannes Gutenberg of Mainz, circa 1450. In England the baton was relatively swiftly (for the times) taken up by William Caxton with his Game and Playe of the Chesse, circa 1470, followed, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Carlsen, Keymer, Duda Win After Doubling Up Tournaments In Poland"
       },
       {
-         "description" : "GM Wei Yi posted a five-game winning streak as he scored 13 of a possible 18 points to top the table after the rapid section of the 2024 Superbet Rapid &#38;amp; Blitz Poland. World number one Magnus Carlsen is just a point behind before the weekend&#39;s...",
+         "description" : "GM Wei Yi posted a five-game winning streak as he scored 13 of a possible 18 points to top the table after the rapid section of the 2024 Superbet Rapid &#38;amp; Blitz Poland. World number-one Magnus Carlsen is just a point behind before the weekend&#39;s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-3",
