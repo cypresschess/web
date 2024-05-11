@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
+         "pubDate" : "Sat, 11 May 2024 12:50:00",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "Svitlana and Arne will participate in the Biel International Chess Festival this year! Last year, the masters section had some stunning tactics on the board, and Svitlana picked some of her favourites for your delight. Le Quang Liem, who won the last two events consecutively, has played the majority of interesting tactics! But this year, Vincent Keymer, Praggnanandhaa, Javokhir Sindarov, Haik Martirosyan, and Abhimanyu Mishra will join the Triathlon masters, to give you even more interesting games to watch.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-best-tactics-from-biel",
+         "pubDate" : "Sat, 11 May 2024 10:00:00",
+         "title" : "Svitlana's Smart Moves - Best tactics from Biel"
+      },
+      {
          "description" : "After scoring three wins in as many games on Thursday, Wei Yi grabbed two more consecutive wins (before signing a draw in round 9) to secure first place in the rapid section of the Superbet tournament in Poland. Going into the 18 rounds of blitz, set to take place on Saturday and Sunday, Wei leads Magnus Carlsen by a full point, while R Praggananandhaa stands at a 2-point distance from the world number one. Carlsen was the only player to remain unbeaten in the rapid. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +40,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2024",
          "pubDate" : "Fri, 10 May 2024 21:04:00",
          "title" : "Chess.com Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 3 of the event sees the start of the double-elimination knockouts in Divisions I, II and III. Magnus Carlsen, Ian Nepomniachtchi and Alireza are three of the eight participants in the top division. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
-         "pubDate" : "Fri, 10 May 2024 18:15:00",
-         "title" : "Chess.com Classic - Live!"
       },
       {
          "description" : "In their search for ways to throw their opponents off balance and create unusual positions, players such as the American GM Brandon Jacobson and Magnus Carlsen have recently tried out the so-called 'Meadow Hay Gambit' in blitz games: 1.a4 e5 2.Ra3!? An offer to win the exchange that Black cannot really refuse though White gets a surprising amount of compensation. Gambit expert Robert Ris has now made a 60-minute video course on this variation, and ChessBase readers who want to surprise their opponents with this sacrifice - or don't want to be surprised by it - can get this course for free now until Sunday.",
@@ -1256,14 +1264,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/yeh-nah.html",
          "pubDate" : "Sat, 20 Apr 2024 11:51:00",
          "title" : "Yeh, nah"
-      },
-      {
-         "description" : "\"I can add colours to the chameleon , Change shapes with Proteus for advantages&hellip;.\" William Shakespeare: Henry VI, Part 3 Act III, Scenes i-ii No, this week's title does not refer to the volatile, chameleon-like former Labour, former Tory, now Reform MP, Lee Anderson, but to a victory by one of the UK's most respected, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/lee-andersen/",
-         "pubDate" : "Sat, 20 Apr 2024 10:16:33",
-         "title" : "Lee Andersen"
       }
    ]
 }
