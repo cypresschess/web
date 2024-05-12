@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Hampton University traveled 22 hours to the 2024 HBCU Chess Classic in Atlanta after a last-minute effort by the Hampton Alumni Association to fund their travel. As Breon McCrae described it, they nearly had to nix the trip when they could not raise the requisite funds to travel. They only discovered the day before the The post <a href=\"https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/\">HBCU Chess Spotlight: Hampton University</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/",
+         "pubDate" : "Sun, 12 May 2024 01:44:59",
+         "title" : "HBCU Chess Spotlight: Hampton University"
+      },
+      {
          "description" : "Wei Yi had yet another imposing performance on day 4 of the Superbet event in Poland, as he now stands a full 2&frac12; points ahead of second-placed Magnus Carlsen in the tournament table. Wei scored 7&frac12;/9 in the first half of the blitz section, despite starting the day with a loss against D Gukesh. With third-placed R Praggnanandhaa standing at a 6-point distance from the leader, the fight for overall victory has become a two-horse race in Warsaw. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3018",
          "pubDate" : "Sat, 11 May 2024 22:25:39",
          "title" : "Superbet Poland Rapid & Blitz: Day 4 Recap"
-      },
-      {
-         "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 4 of the event sees the semifinals of the winners' bracket in Division I, with Magnus Carlsen facing Denis Lazavik and Jan-Krzysztof Duda facing Vincent Keymer. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
-         "pubDate" : "Sat, 11 May 2024 18:15:00",
-         "title" : "Chess.com Classic - Live!"
       },
       {
          "description" : "GM Hikaru Nakamura&#39;s commanding Bullet Brawl run continued after the now-24-time winner picked up his third straight $400 first prize on Saturday. Facing a field of bullet chess titans including GMs Oleksandr Bortnyk, Nihal Sarin, and Daniel Narod...",
@@ -42,12 +42,12 @@ news_feed (
          "title" : "Chess in print: from Caxton to Middleton"
       },
       {
-         "description" : "This is a flash report. The full report is coming soon. GMs Magnus Carlsen and Vincent Keymer prevailed in the Winners Semifinals in Division I of the Champions Chess Tour Chess.com Classic 2024. Carlsen won with his uncanny ability to turn draw...",
+         "description" : "GMs Magnus Carlsen and Vincent Keymer prevailed in the Division I Winners Semifinals of the Champions Chess Tour Chess.com Classic 2024. Carlsen won with his uncanny ability to turn drawish positions into wins vs. GM Denis Lazavik. After losing to...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-4",
          "pubDate" : "Sat, 11 May 2024 13:39:00",
-         "title" : "Flash Report: Carlsen, Keymer Advance to Winners Final"
+         "title" : "Carlsen Evokes Magnus Magic, Keymer Gets Revenge"
       },
       {
          "description" : "Most chess improvers are stuck because they get stuck in the chess improvement trap. They do the sophisticated things and forget about the basics. New York Times Best-Seller ​Mark Manson​ recently said: &#8220;There are two steps to self-improvement: From bad to okay and from okay to great.&#8221; Mark Manson He argues that many people struggle []",
@@ -1248,14 +1248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2983",
          "pubDate" : "Sun, 21 Apr 2024 04:36:53",
          "title" : "FIDE Candidates Round 13: The calm before the storm"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109469513.cms\" />D Gukesh leads the FIDE Candidates tournament with 8.5 points. The final round will determine the challenger for world champion Ding Liren. In the women's division, R Vaishali and Koneru Humpy are tied at 6.5 points.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/candidates-chess-indias-d-gukesh-beats-alireza-firouzja-to-become-sole-leader-with-just-one-round-left-to-play/articleshow/109469513.cms",
-         "pubDate" : "Sun, 21 Apr 2024 02:24:47",
-         "title" : "Candidates 2024: Gukesh wins to become sole leader"
       }
    ]
 }
