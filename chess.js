@@ -10,6 +10,14 @@ news_feed (
          "title" : "Superbet Rapid & Blitz Poland - Live!"
       },
       {
+         "description" : " Spelman's Jamila Thompson is a native New Yorker who was taught chess by her father. She continued her passion as a collegiate and joined other chess players in the Atlanta University Center (AUC) to match wits. Morehouse College hosted the club meetings and Thompson would attend along with a few others from Spelman, including Shaniah The post <a href=\"https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/\">HBCU Chess Spotlight: Spelman College</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/",
+         "pubDate" : "Sun, 12 May 2024 12:41:21",
+         "title" : "HBCU Chess Spotlight: Spelman College"
+      },
+      {
          "description" : "In his new Fast & Furious episode, Robert Ris analyses a 21-move miniature obtained out of a Trompowsky Attack. The game was played in Warsaw between R Praggnanandhaa and Anish Giri. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1240,30 +1248,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/04/no-hunk-o-junk-here.html",
          "pubDate" : "Sun, 21 Apr 2024 15:42:00",
          "title" : "No Hunk-o'-Junk Here"
-      },
-      {
-         "description" : " Tan Zhongyi could not ask for a better chance to win the Women's Candidates in Toronto going into the final round. Tan hardly played the most critical continuation against Aleksandra Goryachkina but a quiet game suited her and a draw by repetition was agreed on move 29. She now leads the Lei Tingjie by a point with no-one else able to catch her. Tan faces Anna Muzychuk with the black pieces in the final round, Muzychuk hasn't won a game yet, although she generated enough chances to have been in contention. The key result of the day was Rameshbabu Vaishali's fourth win in a row, a streak that followed four losses in a row and which started with a game she probably should have lost also. Toda",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-on-the-verge-of-winning-the-womens-candidates-tournament",
-         "pubDate" : "Sun, 21 Apr 2024 13:35:00",
-         "title" : "Tan Zhongyi on the verge of winning the Women's Candidates tournament - 13"
-      },
-      {
-         "description" : " Dommaraju Gukesh is on the verge of victory in the FIDE Candidates tournament in Toronto. A win in the final round with the black pieces against Hikaru Nakamura would guarantee first place. Half a point behind is his opponent Nakamura as well as Fabiano Caruana and Ian Nepomniachtchi who face each other. Gukesh could well win the event with a draw, the other players need a win. There could also be a two way tie, this will be resolved by rapid followed by blitz, if necessary. Gukesh beat 20-year-old Alireza Firouzja whose entire campaign has been undone by his highly emotional approach to chess. Unless Firouzja learns to calm down I don't see how he can move forward. This was a double edged ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/17-year-old-gukesh-leads-the-candidates-alone-with-one-round-to-go",
-         "pubDate" : "Sun, 21 Apr 2024 13:01:00",
-         "title" : "17 year-old Gukesh leads the Candidates alone with one round to go - 13"
-      },
-      {
-         "description" : "Victory over Hikaru Nakamura in round 14 will make D Gukesh the youngest-ever challenger for the World Championship in the history of chess.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39986955/fide-candidates-2024-does-gukesh-do-win-nakamura?device=featurephone",
-         "pubDate" : "Sun, 21 Apr 2024 11:59:00",
-         "title" : "Gukesh vs Nakamura: What does Gukesh have to do to win the 2024 FIDE Candidates?"
       }
    ]
 }
