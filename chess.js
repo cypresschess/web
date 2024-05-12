@@ -1240,14 +1240,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-outplays-firouzja-to-take-sole-lead-nepo-nakamura-play-draw-caruana-beats-pragg/articleshow/109474898.cms",
          "pubDate" : "Sun, 21 Apr 2024 09:07:09",
          "title" : "Gukesh outplays Firouzja to take sole lead, Caruana beats Pragg"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2983",
-         "pubDate" : "Sun, 21 Apr 2024 04:36:53",
-         "title" : "FIDE Candidates Round 13: The calm before the storm"
       }
    ]
 }
