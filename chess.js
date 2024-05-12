@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3020",
+         "pubDate" : "Sun, 12 May 2024 23:18:20",
+         "title" : "Baku Open 2024 announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3019",
+         "pubDate" : "Sun, 12 May 2024 22:50:18",
+         "title" : "Superbet Poland Rapid & Blitz: Magnus Carlsen captures title"
+      },
+      {
          "description" : "Magnus Carlsen did it again! Despite entering the final day of blitz at a 2&frac12;-point distance from sole leader Wei Yi, the Norwegian scored 7 wins in a row (he had finished Saturday's session with 3 consecutive wins) to overtake the Chinese GM and eventually claim outright victory at the Superbet Rapid & Blitz Tournament in Warsaw. Wei still finished only a half point behind the champion, leaving third-placed Jan-Krzysztof Duda a whopping 6 points behind. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,22 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2024",
          "pubDate" : "Sun, 12 May 2024 16:47:00",
          "title" : "Superbet Poland Rapid & Blitz 2024 - Games and Results"
+      },
+      {
+         "description" : "GM Pranav V won the strong Masters section of the inaugural Dubai Police Global Chess Challenge, held May 4-12 in Dubai. The 17-year-old grandmaster from Bangalore edged out GM Aravindh Chithambaram on tiebreak, both with seven points, to win the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/pranav-wins-dubai-police-global-chess-challenge",
+         "pubDate" : "Sun, 12 May 2024 14:27:52",
+         "title" : "Pranav Tops All-Indian Podium Ahead of Ivanchuk, Niemann At New Dubai Tournament"
+      },
+      {
+         "description" : "GM Magnus Carlsen defeated GM Vincent Keymer in the Champions Chess Tour Chess.com Classic 2024 Division I Winners Final. In the Losers Semifinals, GMs Alireza Firouzja and Jan-Krzysztof Duda respectively eliminated GMs Denis Lazavik and Ian Nepom...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-5",
+         "pubDate" : "Sun, 12 May 2024 13:33:00",
+         "title" : "Carlsen Beats Keymer, Wins 16th CCT Winners Final In Division I"
       },
       {
          "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -682,22 +714,6 @@ news_feed (
          "title" : "Abu Dhabi and FIDE Sign Agreement for 47th Chess Olympiad"
       },
       {
-         "description" : "Chess.com is happy to announce the new Dashboard view on our Events page. You can now find all the information you need on the same page, making navigation much easier and more intuitive. This new view mirrors the old Chess24 interface, a success ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/events-dashboard",
-         "pubDate" : "Wed, 01 May 2024 10:00:00",
-         "title" : "Chess.com Launches New Dashboard View On Events Page"
-      },
-      {
-         "description" : "GM Christopher Yoo, after finishing in second place late last week, earned his first ever Titled Tuesday victory in this week&#39;s early tournament. GM Alexey Sarana took home the late event, his first of 2024 and eighth total. They both scored 10 po...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yoo-sarana-win-titled-tuesday-april-30-2024",
-         "pubDate" : "Wed, 01 May 2024 07:35:00",
-         "title" : "Outright Winners Cruise To Control Titled Tuesday"
-      },
-      {
          "description" : "The European Women's Chess Championship 2024 concluded yesterday in Rhodes, Greece. IM Ulviyya Fataliyeva (AZE, 2377) emerged as the sole Winner of the event scoring impressive 8.5/10 points, without a single loss in the tournament. The fight for the first place was widely opened in the last round, as the top-board saw the encounter between GM Nino Batsiashvili and IM Fataliyeva Ulviyya. Fataliyeva needed a draw to clinch the event and entered the game well prepared for Black pieces. Batsiashvili []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1240,22 +1256,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-is-the-youngest-ever-winner-of-the-candidates-at-17-years-old",
          "pubDate" : "Mon, 22 Apr 2024 01:43:00",
          "title" : "Gukesh is the youngest ever winner of the Candidates at 17 years old - 14"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2984",
-         "pubDate" : "Sun, 21 Apr 2024 22:44:17",
-         "title" : "Vitaliy Bernadskiy wins 21st Bangkok Chess Club Open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2980",
-         "pubDate" : "Sun, 21 Apr 2024 21:16:30",
-         "title" : "European Women's Championship starts in Rhodes, Greece"
       }
    ]
 }
