@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2024-05-11","15","<a href=http://www.uschess.org/msa/XtblMain.php?202405116342 target='_blank'>MAY 11TH TROPHY SCHOLASTIC</a>",
+"SUGAR LAND","2024-05-10","12","<a href=http://www.uschess.org/msa/XtblMain.php?202405105892 target='_blank'>FBCC 2024 NATIONAL SHRIMP DAY OPEN.</a>",
 "HOUSTON","2024-05-03  - 05-05","62","<a href=http://www.uschess.org/msa/XtblMain.php?202405053502 target='_blank'>$2,500 MAY 2024 CHAMPIONSHIP</a>",
 "SPRING","2024-05-04","133","<a href=http://www.uschess.org/msa/XtblMain.php?202405042962 target='_blank'>STRACK INTERMEDIATE</a>",
 "HOUSTON","2024-05-04","109","<a href=http://www.uschess.org/msa/XtblMain.php?202405042492 target='_blank'>MAY THE 4TH BE WITH YOU</a>",
@@ -197,6 +199,4 @@ jtable([
 "LEAGUE CITY","2023-10-04  - 10-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202310255892 target='_blank'>CLCC OCTOBER WEDNESDAYS</a>",
 "HOUSTON","2023-10-20  - 10-22","45","<a href=http://www.uschess.org/msa/XtblMain.php?202310224962 target='_blank'>$3,000 STUDIO  OCT 2023 CHAMPIONSHI</a>",
 "HOUSTON","2023-10-20  - 10-22","270","<a href=http://www.uschess.org/msa/XtblMain.php?202310224392 target='_blank'>2023 TEXAS NORTH SCHOLASTIC GRADE CHAMPIONSHIP</a>",
-"HOUSTON","2023-10-21","50","<a href=http://www.uschess.org/msa/XtblMain.php?202310214492 target='_blank'>2023 NORTH TEXAS STATE SCHOLASTIC BLITZ</a>",
-"HOUSTON","2023-10-21","4","<a href=http://www.uschess.org/msa/XtblMain.php?202310213302 target='_blank'>CHESSPANDA10212023SATURDAY</a>",
 ]);
