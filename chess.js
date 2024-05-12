@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
+         "pubDate" : "Sun, 12 May 2024 12:50:00",
+         "title" : "Superbet Rapid & Blitz Poland - Live!"
+      },
+      {
+         "description" : "In his new Fast & Furious episode, Robert Ris analyses a 21-move miniature obtained out of a Trompowsky Attack. The game was played in Warsaw between R Praggnanandhaa and Anish Giri. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-miniature-trompowsky",
+         "pubDate" : "Sun, 12 May 2024 11:00:00",
+         "title" : "Robert Ris' Fast and Furious: A miniature in the Trompowsky"
+      },
+      {
+         "description" : " While reading through the regulations for the <a href=\"https://handbook.fide.com/files/handbook/WRTC2024Regulations.pdf\">2024 FIDE Rapid Teams Championship</a>, I cam across a new chess term. In the document, there is a reference to a \"Recreational Player\". This is defined as a player whose rating has never been above 2000 on any of the FDIE Rating Lists (Standard, Raid or Blitz). The reason for defining such a players is that each team playing in the 2024 FIDE Rapid Teams Championship is required to field at least 1 Recreational Player per match (which in this case is over 6 boards). Given that 1st prize in the event is 100K (US) now might be the time to recruit your friends uncle who was ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/a-recreational-player.html",
+         "pubDate" : "Sun, 12 May 2024 10:31:00",
+         "title" : "A Recreational Player"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110051747.cms\" />Indian chess prodigy R Praggnanandhaa secured another win against world number one Magnus Carlsen from Norway in the Superbet rapid and blitz chess tournament. However, China's Wei Yi has taken a commanding lead, accumulating 20.5 points with seven wins on the first day of blitz, making him likely to clinch the title unless he faces a significant setback.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-beats-magnus-carlsen-remains-third-in-superbet-chess-tournament/articleshow/110051747.cms",
+         "pubDate" : "Sun, 12 May 2024 07:43:14",
+         "title" : "Pragg beats Magnus, remains 3rd in Superbet tournament"
+      },
+      {
          "description" : " Hampton University traveled 22 hours to the 2024 HBCU Chess Classic in Atlanta after a last-minute effort by the Hampton Alumni Association to fund their travel. As Breon McCrae described it, they nearly had to nix the trip when they could not raise the requisite funds to travel. They only discovered the day before the The post <a href=\"https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/\">HBCU Chess Spotlight: Hampton University</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1232,14 +1264,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/39986955/fide-candidates-2024-does-gukesh-do-win-nakamura?device=featurephone",
          "pubDate" : "Sun, 21 Apr 2024 11:59:00",
          "title" : "Gukesh vs Nakamura: What does Gukesh have to do to win the 2024 FIDE Candidates?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109474898.cms\" />Gukesh D, the youngest Indian Candidate, has emerged as a surprise in the Candidates Chess tournament in Toronto. In the 13th and penultimate round, he outplayed French no.1 Alireza FirouzJa, taking the lead with 8.5 points. Second seeded American GM Hikaru Nakamura also played out a draw with Ian Nepomniachtchi.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-outplays-firouzja-to-take-sole-lead-nepo-nakamura-play-draw-caruana-beats-pragg/articleshow/109474898.cms",
-         "pubDate" : "Sun, 21 Apr 2024 09:07:09",
-         "title" : "Gukesh outplays Firouzja to take sole lead, Caruana beats Pragg"
       }
    ]
 }
