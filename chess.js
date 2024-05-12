@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen did it again! Despite entering the final day of blitz at a 2&frac12;-point distance from sole leader Wei Yi, the Norwegian scored 7 wins in a row (he had finished Saturday's session with 3 consecutive wins) to overtake the Chinese GM and eventually claim outright victory at the Superbet Rapid & Blitz Tournament in Warsaw. Wei still finished only a half point behind the champion, leaving third-placed Jan-Krzysztof Duda a whopping 6 points behind. | Photo: Grand Chess Tour / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-poland-2024-d5",
+         "pubDate" : "Sun, 12 May 2024 20:00:00",
+         "title" : "Carlsen astonishes: 10 wins in a row grant him Superbet Poland triumph"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110061244.cms\" />Grandmaster R Praggnanandhaa showcased his prowess by securing a clear fourth-place finish in the Superbet rapid and blitz tournament, part of the Grand Chess Tour in Warsaw. Meanwhile, Magnus Carlsen delivered a stellar performance on the final day, scoring an impressive 8/9 to secure the top position. Going into the last day with a significant 2.5 points lead, Wei Yi of China had to settle for second place after a slightly below-par performance in the final nine games.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-finishes-fourth-carlsen-wins-superbet-rapid-and-blitz-tournament/articleshow/110061244.cms",
+         "pubDate" : "Sun, 12 May 2024 19:19:10",
+         "title" : "Praggnanandhaa finishes fourth in Superbet rapid and blitz tourney"
+      },
+      {
+         "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 5 of the event sees Magnus Carlsen and Vincent Keymer facing each other in the Division I winners' bracket final. Jan-Krzysztof Duda, Denis Lazavik, Ian Nepomniachtchi and Alireza Firouzja remain in contention in the lower bracket. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
+         "pubDate" : "Sun, 12 May 2024 18:15:00",
+         "title" : "Chess.com Classic - Live!"
+      },
+      {
+         "description" : " The Superbet Poland Rapid & Blitz took place in Warsaw 6th to 13th May 2024. Players: Magnus Carlsen, Jan-Krzysztof Duda, Wei Yi, Arjun Erigaisi, Vincent Keymer, Kirill Shevchenko, Dommaraju Gukesh, Nodirbek Abdusattorov, Praggnanandhaa Rameshbabu and Anish Giri. Magnus Carlsen just edged out Wei Yi with a dominant 7/7 blitz start to the final day including beating Wei Yi. Wei Yi won the rapid, half a point clear of Carlsen. Carlsen won the blitz by 1.5 points from Wei Yi, both were miles clear of everyone else. Wei Yi has been a well known figure for at least 10 years becoming a GM at 13, now at 24 he finally seems to be living up to his undoubted potential. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2024",
+         "pubDate" : "Sun, 12 May 2024 16:47:00",
+         "title" : "Superbet Poland Rapid & Blitz 2024 - Games and Results"
+      },
+      {
          "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +50,20 @@ news_feed (
          "title" : "HBCU Chess Spotlight: Spelman College"
       },
       {
-         "description" : "In his new Fast & Furious episode, Robert Ris analyses a 21-move miniature obtained out of a Trompowsky Attack. The game was played in Warsaw between R Praggnanandhaa and Anish Giri. | Fast & Furious is available on-demand with a ChessBase Premium Account. You can register a Premium account here.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-fast-and-furious-miniature-trompowsky",
-         "pubDate" : "Sun, 12 May 2024 11:00:00",
-         "title" : "Robert Ris' Fast and Furious: A miniature in the Trompowsky"
-      },
-      {
          "description" : " While reading through the regulations for the <a href=\"https://handbook.fide.com/files/handbook/WRTC2024Regulations.pdf\">2024 FIDE Rapid Teams Championship</a>, I cam across a new chess term. In the document, there is a reference to a \"Recreational Player\". This is defined as a player whose rating has never been above 2000 on any of the FDIE Rating Lists (Standard, Raid or Blitz). The reason for defining such a players is that each team playing in the 2024 FIDE Rapid Teams Championship is required to field at least 1 Recreational Player per match (which in this case is over 6 boards). Given that 1st prize in the event is 100K (US) now might be the time to recruit your friends uncle who was ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/05/a-recreational-player.html",
          "pubDate" : "Sun, 12 May 2024 10:31:00",
          "title" : "A Recreational Player"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen posted an incredible 10-game winning streak to overhaul GM Wei Yi and win the 2024 Superbet Rapid &#38;amp; Blitz Poland despite starting the day 2.5 points behind. Carlsen caught Wei by beating him in the fourth round ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-5",
+         "pubDate" : "Sun, 12 May 2024 09:08:00",
+         "title" : "Carlsen Wins Superbet Rapid & Blitz Poland With 10-Game Winning Streak"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110051747.cms\" />Indian chess prodigy R Praggnanandhaa secured another win against world number one Magnus Carlsen from Norway in the Superbet rapid and blitz chess tournament. However, China's Wei Yi has taken a commanding lead, accumulating 20.5 points with seven wins on the first day of blitz, making him likely to clinch the title unless he faces a significant setback.",
@@ -42,7 +74,7 @@ news_feed (
          "title" : "Pragg beats Magnus, remains 3rd in Superbet tournament"
       },
       {
-         "description" : " Hampton University traveled 22 hours to the 2024 HBCU Chess Classic in Atlanta after a last-minute effort by the Hampton Alumni Association to fund their travel. As Breon McCrae described it, they nearly had to nix the trip when they could not raise the requisite funds to travel. They only discovered the day before the The post <a href=\"https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/\">HBCU Chess Spotlight: Hampton University</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Hampton University traveled 22 hours to the 2024 HBCU Chess Classic in Atlanta after a last-minute effort by the Hampton Alumni Association to fund their travel. As Breon McCray described it, they nearly had to nix the trip when they could not raise the requisite funds to travel. They only discovered the day before the The post <a href=\"https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/\">HBCU Chess Spotlight: Hampton University</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/57th-capablanca-memorial-2024",
          "pubDate" : "Wed, 8 May 2024 13:06:00",
          "title" : "57th Capablanca Memorial 2024 - Games and Results"
-      },
-      {
-         "description" : " The Superbet Poland Rapid & Blitz takes place in Warsaw 6th to 13th May 2024. Round 1 on May 8th. Players: Magnus Carlsen, Jan-Krzysztof Duda, Wei Yi, Arjun Erigaisi, Vincent Keymer, Kirill Shevchenko, Dommaraju Gukesh, Nodirbek Abdusattorov, Praggnanandhaa Rameshbabu and Anish Giri. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2024",
-         "pubDate" : "Wed, 8 May 2024 13:04:00",
-         "title" : "Superbet Poland Rapid & Blitz 2024 - Games and Results"
       },
       {
          "description" : "GM Kirill Shevchenko is the absolute underdog in the 2024 Superbet Rapid &#38;amp; Blitz Poland, but he scored a perfect 6/6 on day one of the 2024 Grand Chess Tour after pouncing on blunders by GMs Gukesh Dommaraju, Praggnanandhaa Rameshbabu, and Vin...",
@@ -688,14 +712,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/a-family-affair.html",
          "pubDate" : "Tue, 30 Apr 2024 13:39:00",
          "title" : "A family affair"
-      },
-      {
-         "description" : "GMs Nodirbek Abdusattorov and Ju Wenjun both scored their first wins on Tuesday at the 2024 TePe Sigeman Chess Tournament. While Abdusattorov outplayed GM Nils Grandelius both on the board and the clock, the women&#39;s world champion defeated GM Vinc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-4",
-         "pubDate" : "Tue, 30 Apr 2024 12:34:00",
-         "title" : "Abdusattorov, Ju Score First Wins in Malmo"
       },
       {
          "description" : "",
@@ -1240,14 +1256,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2980",
          "pubDate" : "Sun, 21 Apr 2024 21:16:30",
          "title" : "European Women's Championship starts in Rhodes, Greece"
-      },
-      {
-         "description" : "For this month's <I>Flickr Favorite</I> post, I had a number of good choices. One choice was another in the series of J-L. Mazieres chess images last seen in <A HREF=\"https://chessforallages.blogspot.com/2021/04/more-lessons-in-art-appreciation.html\">More Lessons in Art Appreciation</A> (April 2021). The new Mazieres Flickr page is <A HREF=\"https://www.flickr.com/photos/mazanto/53634931678/\">Lucas de Leyde [aka van Leyden]. 1489-1533. Leyden Jeu d'&eacute;checs.</A> (flickr.com), where the title continues, <BLOCKQUOTE> Berlin Gemaldegalerie. The game of chess symbolizes both the struggle for power and the war of the sexes. </BLOCKQUOTE> <P> The choice I finally made, shown here, is another o",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/no-hunk-o-junk-here.html",
-         "pubDate" : "Sun, 21 Apr 2024 15:42:00",
-         "title" : "No Hunk-o'-Junk Here"
       }
    ]
 }
