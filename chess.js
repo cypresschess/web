@@ -26,7 +26,7 @@ news_feed (
          "title" : "Chess: Shyaamnikhil ends 12-year wait, becomes India's 85th GM"
       },
       {
-         "description" : "This is a flash report. The full article will be added to this page soon. GM Alireza Firouzja eliminated GMs Jan-Krzysztof Duda and Vincent Keymer to reach the Champions Chess Tour Chess.com Classic 2024 Division I Grand Final. On Wednesday, he ...",
+         "description" : "GM Alireza Firouzja eliminated GMs Jan-Krzysztof Duda and Vincent Keymer to reach the Champions Chess Tour Chess.com Classic 2024 Division I Grand Final. On Wednesday, he will take on GM Magnus Carlsen. GM Wesley So lost his very first match in ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-6",
@@ -1128,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2987",
          "pubDate" : "Tue, 23 Apr 2024 02:11:03",
          "title" : "FIDE Candidates 2024: And it's a wrap!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2986",
-         "pubDate" : "Mon, 22 Apr 2024 22:17:17",
-         "title" : "Update on FIDE Resolution on suspending membership of Egyptian Chess Federation"
       }
    ]
 }
