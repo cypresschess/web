@@ -18,6 +18,14 @@ news_feed (
          "title" : "Superbet Poland Rapid & Blitz: Magnus Carlsen captures title"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3021",
+         "pubDate" : "Sun, 12 May 2024 21:16:24",
+         "title" : "Nikita Khoroshev and Aleksandra Samaganova win Kyrgyzstan Championship"
+      },
+      {
          "description" : "Magnus Carlsen did it again! Despite entering the final day of blitz at a 2&frac12;-point distance from sole leader Wei Yi, the Norwegian scored 7 wins in a row (he had finished Saturday's session with 3 consecutive wins) to overtake the Chinese GM and eventually claim outright victory at the Superbet Rapid & Blitz Tournament in Warsaw. Wei still finished only a half point behind the champion, leaving third-placed Jan-Krzysztof Duda a whopping 6 points behind. | Photo: Grand Chess Tour / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,14 +74,6 @@ news_feed (
          "title" : "Carlsen Beats Keymer, Wins 16th CCT Winners Final In Division I"
       },
       {
-         "description" : "Kicking off the 2024 Grand Chess Tour is the Superbet Rapid & Blitz Poland, the first of three speed chess events, which is taking place on May 8-12 in Warsaw. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are world number one Magnus Carlsen and the next challenger for the world crown, D Gukesh. | Follow the games live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-live",
-         "pubDate" : "Sun, 12 May 2024 12:50:00",
-         "title" : "Superbet Rapid & Blitz Poland - Live!"
-      },
-      {
          "description" : " Spelman's Jamila Thompson is a native New Yorker who was taught chess by her father. She continued her passion as a collegiate and joined other chess players in the Atlanta University Center (AUC) to match wits. Morehouse College hosted the club meetings and Thompson would attend along with a few others from Spelman, including Shaniah The post <a href=\"https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/\">HBCU Chess Spotlight: Spelman College</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -106,20 +106,12 @@ news_feed (
          "title" : "Pragg beats Magnus, remains 3rd in Superbet tournament"
       },
       {
-         "description" : " Hampton University traveled 22 hours to the 2024 HBCU Chess Classic in Atlanta after a last-minute effort by the Hampton Alumni Association to fund their travel. As Breon McCray described it, they nearly had to nix the trip when they could not raise the requisite funds to travel. They only discovered the day before the The post <a href=\"https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/\">HBCU Chess Spotlight: Hampton University</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Hampton University traveled 22 hours to the 2024 HBCU Chess Classic in Atlanta after a last-minute effort by the Hampton Alumni Association to fund their travel. As Breon McCray III described it, they nearly had to nix the trip when they could not raise the requisite funds to travel. They only discovered the day before The post <a href=\"https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/\">HBCU Chess Spotlight: Hampton University</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/",
          "pubDate" : "Sun, 12 May 2024 01:44:59",
          "title" : "HBCU Chess Spotlight: Hampton University"
-      },
-      {
-         "description" : "Wei Yi had yet another imposing performance on day 4 of the Superbet event in Poland, as he now stands a full 2&frac12; points ahead of second-placed Magnus Carlsen in the tournament table. Wei scored 7&frac12;/9 in the first half of the blitz section, despite starting the day with a loss against D Gukesh. With third-placed R Praggnanandhaa standing at a 6-point distance from the leader, the fight for overall victory has become a two-horse race in Warsaw. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-d4",
-         "pubDate" : "Sat, 11 May 2024 23:35:00",
-         "title" : "Superbet Poland: Wei widens the gap in two-horse race"
       },
       {
          "description" : "",
@@ -1224,38 +1216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2985",
          "pubDate" : "Mon, 22 Apr 2024 04:51:15",
          "title" : "FIDE Candidates: Gukesh D and Tan Zhongyi are the World Championship Challengers"
-      },
-      {
-         "description" : "D Gukesh, aged 17, created chess history with his 2024 FIDE Candidates win.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39994159/fide-candidates-2024-how-gukesh-made-history-calm-composed-mind-helped-deal-meteoric-rise?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 03:30:14",
-         "title" : "How Gukesh made history: Calm, composed mind helped him deal with meteoric rise"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109485996.cms\" />The 17-year-old Indian Grandmaster Gukesh scored 9/14 points to clinch the first place. He is only the the second Indian player after Viswanathan Anand to win the FIDE Candidates Tournament. The feat earns the teenager the right to challenge the reigning chess world champion Ding Liren. Praggnanandhaa finished fifth in the final standings. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-makes-history-as-youngest-to-win-candidates-gets-to-challenge-chess-world-champion-ding-liren/articleshow/109485996.cms",
-         "pubDate" : "Mon, 22 Apr 2024 02:05:16",
-         "title" : "Gukesh makes history as youngest to win Candidates tournament"
-      },
-      {
-         "description" : " Tan Zhongyi will challenge Ju Wenjun for the World Chess Championship in 2025. The 32 year old player was not the favourite for the event but her confident play dominated with only a round 8 loss to her closest challenger Lei Tingjie as a blemish in the event. In the final round Tan played a very sharp Sicilian against Anna Muzychuk. Tan secured a big advantage but steered the game to the draw she needed. Lei needed a win and played an amazing Queen sacrifice against Humpy Koneru. Eventually her compensation disappeared and she subsided to a loss. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-womens-candidates-tournament-2024/tan-zhongyi-is-the-clear-winner-of-the-womens-candidates-2024",
-         "pubDate" : "Mon, 22 Apr 2024 01:56:00",
-         "title" : "Tan Zhongyi is the clear winner of the Women's Candidates 2024 - 14"
-      },
-      {
-         "description" : " Dommaraju Gukesh won the FIDE Candidates at the age of 17 years old. He comfortably held a draw against Hikaru Nakamura in the final round of the event. Fabiano Caruana built up a winning position against double defending champion Ian Nepomaniachtchi but a blunder on the first move after first time control allowed a draw and Gukesh's victory. Gukesh should play Ding Liren later in the year for the World Title. Ding seems to have had some kind of personal crisis since taking the title and has hardly played, and when he has it's not been very good play.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-candidates-2024/gukesh-is-the-youngest-ever-winner-of-the-candidates-at-17-years-old",
-         "pubDate" : "Mon, 22 Apr 2024 01:43:00",
-         "title" : "Gukesh is the youngest ever winner of the Candidates at 17 years old - 14"
       }
    ]
 }
