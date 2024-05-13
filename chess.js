@@ -42,14 +42,6 @@ news_feed (
          "title" : "Praggnanandhaa finishes fourth in Superbet rapid and blitz tourney"
       },
       {
-         "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 5 of the event sees Magnus Carlsen and Vincent Keymer facing each other in the Division I winners' bracket final. Jan-Krzysztof Duda, Denis Lazavik, Ian Nepomniachtchi and Alireza Firouzja remain in contention in the lower bracket. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
-         "pubDate" : "Sun, 12 May 2024 18:15:00",
-         "title" : "Chess.com Classic - Live!"
-      },
-      {
          "description" : " The Superbet Poland Rapid & Blitz took place in Warsaw 6th to 13th May 2024. Players: Magnus Carlsen, Jan-Krzysztof Duda, Wei Yi, Arjun Erigaisi, Vincent Keymer, Kirill Shevchenko, Dommaraju Gukesh, Nodirbek Abdusattorov, Praggnanandhaa Rameshbabu and Anish Giri. Magnus Carlsen just edged out Wei Yi with a dominant 7/7 blitz start to the final day including beating Wei Yi. Wei Yi won the rapid, half a point clear of Carlsen. Carlsen won the blitz by 1.5 points from Wei Yi, both were miles clear of everyone else. Wei Yi has been a well known figure for at least 10 years becoming a GM at 13, now at 24 he finally seems to be living up to his undoubted potential. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1168,54 +1160,6 @@ news_feed (
          "link" : "https://aicf.in/gm-d-gukesh-creates-history/",
          "pubDate" : "Mon, 22 Apr 2024 07:58:08",
          "title" : "GM D Gukesh Creates History"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109492347.cms\" />D Gukesh, India's 17-year-old chess sensation, made history by winning the FIDE Candidates Chess Tournament 2024 in Toronto, becoming the youngest-ever contender for the world title. Expressing his aspirations, Gukesh aims to excel in the World Championship Final. Reflecting on his journey, he emphasizes his determination to perform his best and overcome challenges. Gukesh's victory signifies India's growing prominence in chess.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/my-next-goal-is-d-gukesh-after-winning-fide-candidates-chess-tournament/articleshow/109492347.cms",
-         "pubDate" : "Mon, 22 Apr 2024 06:44:32",
-         "title" : "'My next goal is...': D Gukesh after winning FIDE Candidates"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109491752.cms\" />At just 17 years old, D Gukesh makes history as the youngest winner of the Candidates Tournament, earning a shot at challenging world chess champion Ding Liren. Surpassing a record held by Garry Kasparov for over four decades, Gukesh's remarkable victory, scoring 9/14 points, cements his place in the chess world. Legendary Viswanathan Anand and fans alike celebrate his triumph.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-d-gukesh-mobbed-by-fans-outside-venue-after-becoming-youngest-ever-candidates-winner/articleshow/109491752.cms",
-         "pubDate" : "Mon, 22 Apr 2024 05:55:12",
-         "title" : "Watch: D Gukesh mobbed by fans outside venue after Candidates glory"
-      },
-      {
-         "description" : "We are super proud of your achievement. We hope and believe that you will be the next World Chess Champion.Dommaraju Gukesh has taken the world",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-gm-gukesh-d/",
-         "pubDate" : "Mon, 22 Apr 2024 05:38:04",
-         "title" : "Congratulations GM Gukesh D"
-      },
-      {
-         "description" : "Gukesh also claimed he didn't care much about being the youngest-ever winner and such records, and credited his support team for the victory.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39992716/knew-win-firouzja-loss-d-gukesh-2024-fide-candidates-victory-press-conference-full-quotes-transcript?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 05:05:45",
-         "title" : "'Knew I would win after Firouzja loss' - D Gukesh on his 2024 FIDE Candidates victory"
-      },
-      {
-         "description" : "Gukesh drew with Hikaru Nakamura to become the first Indian since Viswanathan Anand in 2014 to win the FIDE Candidates tournament and the youngest in chess history to do so.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39991714/fide-candidates-2024-india-gukesh-wins-draw-nakamura-round-14-youngest-chess-history-challenge-world-championship?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 05:05:04",
-         "title" : "D Gukesh, aged 17, wins FIDE Candidates 2024; will play Ding Liren for World Champion title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2985",
-         "pubDate" : "Mon, 22 Apr 2024 04:51:15",
-         "title" : "FIDE Candidates: Gukesh D and Tan Zhongyi are the World Championship Challengers"
       }
    ]
 }
