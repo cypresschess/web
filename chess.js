@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please note that the main ECF website https://www.englishchess.org.uk will be unavailable for a few hours on Thursday 16th May 2024 as we will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/website-planned-outage/",
+         "pubDate" : "Mon, 13 May 2024 11:00:03",
+         "title" : "Website - planned outage"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Seniors/european-senior-team-chess-championships-estcc-2024/#new_tab",
+         "pubDate" : "Mon, 13 May 2024 08:47:45",
+         "title" : "European Senior Team Chess Championships (ESTCC) 2024"
+      },
+      {
+         "description" : "The second quarterly meeting of the ECU Executive Board for 2024 took place in Terme Catez, Slovenia, during the 2024 European Senior Chess Championship. The Slovenian federation, known for its great hospitality, organised the tournament and the board meeting in excellent conditions. Main information and decisions: European Chess Championships 1.The 2024 European Women's Rapid and Blitz Chess Championship was announced from 9 to 13 January 2025 in Monte Carlo, with doubled prize fund than in the last edition (22,500 to []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-in-terme-catez-slovenia/",
+         "pubDate" : "Mon, 13 May 2024 08:35:13",
+         "title" : "Communique of the ECU Board Meeting in Terme Catez, Slovenia"
+      },
+      {
+         "description" : "Owen Phillips writes &#8212; From 15/25 June, Gary Hogan of the BCA and Witney chess clubs will play in his long-awaited second major international FIDE...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ibca-european-open-chess-championship-2024/",
+         "pubDate" : "Mon, 13 May 2024 08:10:45",
+         "title" : "IBCA European Open Chess Championship 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3022",
+         "pubDate" : "Mon, 13 May 2024 08:01:28",
+         "title" : "Updated FIDE (Dutch) System Effective from July 1, 2025"
+      },
+      {
+         "description" : "Please note the closing date for nominations is 31st May 2024 The Chess Trust is inviting nominations for the BCET Awards 2024 which are...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2024/",
+         "pubDate" : "Mon, 13 May 2024 07:30:47",
+         "title" : "British Chess Educational Trust Awards 2024 - closing date approaching"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -168,14 +216,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2024",
          "pubDate" : "Fri, 10 May 2024 21:04:00",
          "title" : "Chess.com Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "In their search for ways to throw their opponents off balance and create unusual positions, players such as the American GM Brandon Jacobson and Magnus Carlsen have recently tried out the so-called 'Meadow Hay Gambit' in blitz games: 1.a4 e5 2.Ra3!? An offer to win the exchange that Black cannot really refuse though White gets a surprising amount of compensation. Gambit expert Robert Ris has now made a 60-minute video course on this variation, and ChessBase readers who want to surprise their opponents with this sacrifice - or don't want to be surprised by it - can get this course for free now until Sunday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/an-offer-you-can-t-refuse",
-         "pubDate" : "Fri, 10 May 2024 14:46:11",
-         "title" : "An offer you can't refuse..."
       },
       {
          "description" : "GMs Magnus Carlsen and Vincent Keymer won their matches with a game to spare in Division I of the Champions Chess Tour Chess.com Classic 2024. GMs Jan-Krzysztof Duda and Denis Lazavik also won to continue in the Winners Bracket. Notably, Carlsen, ...",
@@ -1002,14 +1042,6 @@ news_feed (
          "title" : "Watch: Gukesh celebrates Candidates win with fan meet-up"
       },
       {
-         "description" : "Members who would like to study for and then secure the titles of ECU Expert Coach (EEC) &#38; ECU Junior Coach (EJC) are invited to...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecu-etc-titles-webinar-2024/",
-         "pubDate" : "Tue, 23 Apr 2024 16:00:31",
-         "title" : "ECU - ETC Titles' Webinar 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1018,28 +1050,12 @@ news_feed (
          "title" : "Registration for 2024 Chess Olympiad in Budapest is now open"
       },
       {
-         "description" : "The ECF was pleased to receive 242 applications to represent England's two teams in the&#160;Glorney&#160;Cup&#160;this&#160;year,&#160;which will be held in Hull between 23-25 July. We would...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/glorney-cup-teams-announcement/",
-         "pubDate" : "Tue, 23 Apr 2024 08:30:45",
-         "title" : "Glorney Cup teams announcement"
-      },
-      {
          "description" : "During the endgame, stalemate is a resource that can enable the player with the inferior position to draw the game rather than lose. In more complex positions, stalemate is much rarer, usually taking the form of a swindle that succeeds only if the superior side is inattentive. Chess Trainer GM Efstratios Grivas shows us how a \"mad rook\" can complicate matters for the superior side.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/grivas-on-the-mad-rook",
          "pubDate" : "Tue, 23 Apr 2024 08:30:00",
          "title" : "Grivas on the Mad Rook"
-      },
-      {
-         "description" : "After four played rounds at the European Women's Chess Championship 2024 in Rhodes, Greece, IM Ulviyya Fataliyeva (AZE, 2377) and IM Marta Garcia Martin (ESP, 2349) emerged on the top as the only two players with perfect 4/4 score. IM Ulviyya Fataliyeva was convincing against WIM Martyna Wikar (POL, 2214) yesterday, and won the game after taking a decisive advantage in the opening. IM Marta Garcia Martin was Black against WIM Natacha Benmesbah (FRA, 2306) and opted for the Modern []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ulviyya-fataliyeva-and-marta-garcia-martin-emerged-on-the-top-of-the-european-womens-chess-championship-2024/",
-         "pubDate" : "Tue, 23 Apr 2024 08:14:07",
-         "title" : "Ulviyya Fataliyeva and Marta Garcia Martin emerged on the top of the European Women's Chess Championship 2024"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109522151.cms\" />India's five-time world champion Viswanathan Anand has spawned a chess culture in India and the country is reaping the rewards of the Grandmaster's success with thousands of youngsters, mostly in their teens, taking up chess. Gukesh's triumph entitles him to a clash against reigning world champion Ding Liren of China in the last quarter of the year.",
@@ -1128,38 +1144,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/that-was-wild.html",
          "pubDate" : "Mon, 22 Apr 2024 12:52:00",
          "title" : "That was wild"
-      },
-      {
-         "description" : "England will be sending its largest ever delegation of 42 players, to the World Senior Team Chess Championships (WSTCC) in the wonderful city of Krakow,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-senior-team-chess-championships-call-to-action/",
-         "pubDate" : "Mon, 22 Apr 2024 09:01:41",
-         "title" : "World Senior Team Chess Championships call to action"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109497254.cms\" />Indian Prime Minister Narendra Modi praised Grandmaster D Gukesh's \"remarkable achievement\" at the FIDE Candidates 2024 in Toronto, noting how the 17-year-old's performance inspires millions. Gukesh's historic win made him the youngest-ever challenger to the world title, a feat celebrated by cricket icon Sachin Tendulkar and chess legends like Viswanathan Anand and Vladimir Kramnik.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-is-exceptionally-proud-pm-narendra-modi-and-chess-fraternity-congratulate-d-gukesh-on-winning-candidates/articleshow/109497254.cms",
-         "pubDate" : "Mon, 22 Apr 2024 09:01:13",
-         "title" : "PM Modi and chess fraternity congratulate Gukesh on Candidates win"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109494678.cms\" />India's chess sensation D Gukesh has become the youngest player to win the FIDE Candidates tournament, and will challenge world champion Ding Liren. With a score of 9/14 points, Gukesh secured first place, joining Viswanathan Anand as the only Indian players to achieve this feat. The chess community congratulated Gukesh's victory.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/my-next-goal-is-to-make-it-big-at-the-world-championship-indian-chess-rising-star-d-gukesh-is-ready-to-conquer-the-world/articleshow/109494678.cms",
-         "pubDate" : "Mon, 22 Apr 2024 08:05:42",
-         "title" : "'Next is to make it big at World C'ship': Gukesh is ready to conquer the world"
-      },
-      {
-         "description" : "Toronto, Canada, 17 year Old Grand Master D Gukesh creates history by becoming the youngest player in history to win Candidates 2024. He broke record",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/gm-d-gukesh-creates-history/",
-         "pubDate" : "Mon, 22 Apr 2024 07:58:08",
-         "title" : "GM D Gukesh Creates History"
       }
    ]
 }
