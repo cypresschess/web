@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "http://Membership,%20Pay%20to%20Play%20and%20Game%20Fees%202024/25%20(V1)#new_tab",
+         "pubDate" : "Mon, 13 May 2024 15:53:53",
+         "title" : "Membership, Pay to Play and Game Fees 2024/25 (V1)"
+      },
+      {
          "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account - everything, (except prints, vouchers and ducats)!. There are some very interesting new products, like the newly published standard work on opening theory: the ChessBase Opening Encyclopaedia 2024. Or the World Champion program Fritz 19, Mega Database 2024, new ChessBase Packages! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you. Don't miss this chance!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shyaamnikhil-ends-12-year-wait-becomes-indias-85th-gm/articleshow/110089013.cms",
          "pubDate" : "Mon, 13 May 2024 13:07:33",
          "title" : "Chess: Shyaamnikhil ends 12-year wait, becomes India's 85th GM"
+      },
+      {
+         "description" : "This is a flash report. The full article will be added to this page soon. GM Alireza Firouzja eliminated GMs Jan-Krzysztof Duda and Vincent Keymer to reach the Champions Chess Tour Chess.com Classic 2024 Division I Grand Final. On Wednesday, he ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-6",
+         "pubDate" : "Mon, 13 May 2024 11:53:00",
+         "title" : "Firouzja Sets Up Grand Final Vs. Carlsen After Eliminating Duda, Keymer"
       },
       {
          "description" : "Please note that the main ECF website https://www.englishchess.org.uk will be unavailable for a few hours on Thursday 16th May 2024 as we will...",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "The Chess Player"
       },
       {
-         "description" : "GM Peter Svidler defeated co-leader GM Anton Korobov in round five of the 2024 TePe Sigeman Chess Tournament and now shares the lead with GM Arjun Erigaisi, who drew his game with GM Vincent Keymer. GMs Ju Wenjun and&#38;nbsp;Nodirbek Abdusattorov wer...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-5",
-         "pubDate" : "Wed, 01 May 2024 12:45:00",
-         "title" : "Svidler Beats Korobov, Joins Arjun In The Lead"
-      },
-      {
          "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Chess.com will...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2989",
          "pubDate" : "Wed, 24 Apr 2024 14:51:04",
          "title" : "Changes to Regulations of transferring to FIDE flag for Refugees"
-      },
-      {
-         "description" : "Mike Passmore died on 21st April at the age of 83.&#160; He had been a member of Downend and Fishponds &#160;Chess Club since 1958 and...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/rip-michael-john-passmore/",
-         "pubDate" : "Wed, 24 Apr 2024 12:11:25",
-         "title" : "RIP Michael John Passmore"
       },
       {
          "description" : "Indian chess prodigy D Gukesh, 17, received a hero's welcome upon his return from the Candidates Chess Tournament in Toronto. all AICF/State officials present on the occasions.",
