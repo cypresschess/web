@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account - everything, (except prints, vouchers and ducats)!. There are some very interesting new products, like the newly published standard work on opening theory: the ChessBase Opening Encyclopaedia 2024. Or the World Champion program Fritz 19, Mega Database 2024, new ChessBase Packages! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you. Don't miss this chance!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/your-chance-discount-day-may-3",
+         "pubDate" : "Mon, 13 May 2024 14:00:00",
+         "title" : "Your chance: Everything 25% off on Discount Day May 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110089013.cms\" />P. Shyaamnikhil achieved a significant milestone, becoming India's 85th Grandmaster after securing his third and final GM norm at the recently concluded Dubai Police Masters chess tournament. This achievement marked the end of a 12-year journey for the player, who embarked on his chess career at the age of eight.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shyaamnikhil-ends-12-year-wait-becomes-indias-85th-gm/articleshow/110089013.cms",
+         "pubDate" : "Mon, 13 May 2024 13:07:33",
+         "title" : "Chess: Shyaamnikhil ends 12-year wait, becomes India's 85th GM"
+      },
+      {
          "description" : "Please note that the main ECF website https://www.englishchess.org.uk will be unavailable for a few hours on Thursday 16th May 2024 as we will...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -106,7 +122,7 @@ news_feed (
          "title" : "Pranav Tops All-Indian Podium Ahead of Ivanchuk, Niemann At New Dubai Tournament"
       },
       {
-         "description" : "GM Magnus Carlsen defeated GM Vincent Keymer in the Champions Chess Tour Chess.com Classic 2024 Division I Winners Final. In the Losers Semifinals, GMs Alireza Firouzja and Jan-Krzysztof Duda respectively eliminated GMs Denis Lazavik and Ian Nepom...",
+         "description" : "GM Magnus Carlsen defeated GM Vincent Keymer in the Champions Chess Tour Chess.com Classic 2024 Division I Winners Final. In the Losers Quarterfinals, GMs Alireza Firouzja and Jan-Krzysztof Duda respectively eliminated GMs Denis Lazavik and Ian Ne...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-5",
@@ -1120,30 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2986",
          "pubDate" : "Mon, 22 Apr 2024 22:17:17",
          "title" : "Update on FIDE Resolution on suspending membership of Egyptian Chess Federation"
-      },
-      {
-         "description" : "Although it might have seemed that last week's Monday post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/the-circular-chess-boards-of-druids.html\">The Circular Chess Boards of the Druids</A> (April 2024; 'Druids play chess'), was more about <I>non sequiturs</I> than anything else, there was a common thread tying it to previous Monday posts: four weeks in a row on a religious theme. This current post looks to be breaking that series, unless of course there is something religious about Vikings. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-od22.jpg\" WIDTH=335 HEIGHT=400><BR> <B>'Vikings play chess'</B><BR> <A HREF=\"https://aicomicfactory.com/\">AI Comic Factory</A> <P>",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/04/vikings-as-ai-stereotypes.html",
-         "pubDate" : "Mon, 22 Apr 2024 15:26:00",
-         "title" : "Vikings as AI Stereotypes"
-      },
-      {
-         "description" : "In the end it'll be a battle of Ding's experience vs Gukesh's willingness to push the boundary.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/39996678/gukesh-ding-liren-candidates-world-chess-championship-way-too-early-preview?device=featurephone",
-         "pubDate" : "Mon, 22 Apr 2024 13:03:00",
-         "title" : "D Gukesh vs Ding Liren: A way-too-early preview for the World Chess Championship"
-      },
-      {
-         "description" : " A very spectacular Candidates event came to an end with an amazing finish. Gukesh ended up winning the event outright, but only after Caruana and Nepo drew in 100+ moves. A real tragedy for Caruna, as he had two winning positions, which he failed to convert. Watching the game online was a real roller coaster, as the game went from equal to winning for Caruna to drawn, back to winning for Caruana, and finally drawn. As a result Gukesh will play Ding Liren for the World Championship title, which given Ding's recent form, may see Gukesh become the youngest World Champion ever. <b>Caruana,Fabiano (2803) - Nepomniachtchi,Ian (2758) [D35]</b><br /> FIDE Candidates 2024 Toronto, Canada (14), 21.04",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/that-was-wild.html",
-         "pubDate" : "Mon, 22 Apr 2024 12:52:00",
-         "title" : "That was wild"
       }
    ]
 }
