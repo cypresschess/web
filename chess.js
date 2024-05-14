@@ -1120,14 +1120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-unveils-chennais-17-year-old-gukesh-as-its-youngest-challenger-in-chess-history/articleshow/109518160.cms",
          "pubDate" : "Tue, 23 Apr 2024 03:57:39",
          "title" : "India unveils Gukesh as its youngest challenger in chess history"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2987",
-         "pubDate" : "Tue, 23 Apr 2024 02:11:03",
-         "title" : "FIDE Candidates 2024: And it's a wrap!"
       }
    ]
 }
