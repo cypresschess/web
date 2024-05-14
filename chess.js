@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3024",
+         "pubDate" : "Tue, 14 May 2024 22:39:24",
+         "title" : "Back to the Future with Casablanca Chess!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3023",
+         "pubDate" : "Tue, 14 May 2024 21:36:51",
+         "title" : "8th YCCC: Inspiring the next generation of chess composers"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave won Division II of the of the Champions Chess Tour Chess.com Classic 2024, earning $15,000, 50 tour points, and automatic entry into Division I of the next event. Although GM Wesley So won on demand to reach the match res...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-7",
+         "pubDate" : "Tue, 14 May 2024 12:51:00",
+         "title" : "Vachier-Lagrave Wins Division II, Andreikin Takes Division III"
+      },
+      {
          "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -712,14 +736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3003",
          "pubDate" : "Thu, 02 May 2024 13:28:16",
          "title" : "World School Chess Championship 2024 begins in Peru"
-      },
-      {
-         "description" : "With one round to go, GM Anton Korobov is back in the shared lead of the 2024 TePe Sigeman Chess Tournament thanks to a win against GM Nils Grandelius, while leaders GM Arjun Erigaisi and GM Peter Svidler drew their game. GM Vincent Keymer would h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tepe-sigeman-chess-tournament-round-6",
-         "pubDate" : "Thu, 02 May 2024 13:05:00",
-         "title" : "Korobov Bounces Back; 3 Leaders In Malmo Before Final Round"
       },
       {
          "description" : "",
