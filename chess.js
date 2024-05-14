@@ -26,6 +26,14 @@ news_feed (
          "title" : "English Championship Series 2024"
       },
       {
+         "description" : "The hardest hitting event in chess is back: the mighty BlitzChamps, which pits NFL superstars against each other to find football&#38;rsquo;s top chess player. BlitzChamps III kicks off on May 22 with $100,000 at stake for charity, and that all-impo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nfl-legends-fitzgerald-vick-line-up-for-blitzchamps-iii",
+         "pubDate" : "Tue, 14 May 2024 07:55:17",
+         "title" : "NFL Stars And Legends Line Up for BlitzChamps III: Who Will Be The League's New Chess MVP?"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110108697.cms\" />Grandmaster Erigaisi Arjun, ranked seventh globally, headlines India's formidable presence as the top seed in the Sharjah Masters Chess tournament with a USD 52,000 prize pool. Arjun's participation follows his recent success in Warsaw. Despite stiff competition, including nine players with Elo ratings over 2700, Arjun holds a 29-point lead over the second seed, Parham Maghsoodloo of Iran.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3001",
          "pubDate" : "Wed, 01 May 2024 21:19:18",
          "title" : "FIDE May 2024 rating list: Gukesh D climbs to #6"
-      },
-      {
-         "description" : "It&#39;s been four months in the making, but Vaishali Rameshbabu is officially a grandmaster, now that FIDE has approved the latest batch of title applications. She joins her brother GM Praggnanandhaa Rameshbabu to establish the first brother-sister G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vaishali-grandmaster-fide-chess-titles",
-         "pubDate" : "Wed, 01 May 2024 14:13:00",
-         "title" : "It's Official! Vaishali Is India's 84th Grandmaster"
       },
       {
          "description" : " The movie \"The Chess Player\" popped up on SVS World Movies recently. A Spanish film, it tells the story of a chess champion who is imprisoned during the Second World War. It is a fairly simple film with a somewhat familiar plot (which I won't spoil) , but the chess scenes are quite well done. If you do want to have a look, the link to online streaming is <a href=\"https://www.sbs.com.au/ondemand/movie/the-chess-player/2243769411934\">https://www.sbs.com.au/ondemand/movie/the-chess-player/2243769411934</a> (NB You may have to create a free account to view) ",
