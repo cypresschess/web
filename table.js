@@ -1,5 +1,8 @@
 jtable([
+"CYPRESS","2024-05-13","4","<a href=http://www.uschess.org/msa/XtblMain.php?202405138352 target='_blank'>SECTION C</a>",
+"HOUSTON","2024-05-11","9","<a href=http://www.uschess.org/msa/XtblMain.php?202405116462 target='_blank'>CHESSPANDA05112024SATURDAY</a>",
 "HOUSTON","2024-05-11","15","<a href=http://www.uschess.org/msa/XtblMain.php?202405116342 target='_blank'>MAY 11TH TROPHY SCHOLASTIC</a>",
+"CYPRESS","2024-05-10","18","<a href=http://www.uschess.org/msa/XtblMain.php?202405107462 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2024-05-10","38","<a href=http://www.uschess.org/msa/XtblMain.php?202405107132 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "SUGAR LAND","2024-05-10","12","<a href=http://www.uschess.org/msa/XtblMain.php?202405105892 target='_blank'>FBCC 2024 NATIONAL SHRIMP DAY OPEN.</a>",
 "HOUSTON","2024-05-03  - 05-05","62","<a href=http://www.uschess.org/msa/XtblMain.php?202405053502 target='_blank'>$2,500 MAY 2024 CHAMPIONSHIP</a>",
@@ -196,7 +199,4 @@ jtable([
 "SPRING","2023-10-27","38","<a href=http://www.uschess.org/msa/XtblMain.php?202310279352 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2023-10-27","28","<a href=http://www.uschess.org/msa/XtblMain.php?202310277462 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-10-06  - 10-27","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310277282 target='_blank'>REBECCA CHESS CLUB OCTOBER 2023 MONTHLY SWISS</a>",
-"HOUSTON","2023-10-27","6","<a href=http://www.uschess.org/msa/XtblMain.php?202310277272 target='_blank'>REBECCA CHESS CLUB QUADS OCTOBER 27, 2023</a>",
-"LEAGUE CITY","2023-10-04  - 10-25","6","<a href=http://www.uschess.org/msa/XtblMain.php?202310255892 target='_blank'>CLCC OCTOBER WEDNESDAYS</a>",
-"HOUSTON","2023-10-20  - 10-22","45","<a href=http://www.uschess.org/msa/XtblMain.php?202310224962 target='_blank'>$3,000 STUDIO  OCT 2023 CHAMPIONSHI</a>",
 ]);
