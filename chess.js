@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
+         "pubDate" : "Tue, 14 May 2024 09:00:44",
+         "title" : "Entry form now open for 2024 British Chess Championships"
+      },
+      {
+         "description" : "ECU E-Magazine April 2024 is out! In this edition of the ECU Magazine you may read about: The April 2024 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-april-2024/",
+         "pubDate" : "Tue, 14 May 2024 08:21:40",
+         "title" : "ECU E-Magazine April 2024"
+      },
+      {
+         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
+         "pubDate" : "Tue, 14 May 2024 08:00:42",
+         "title" : "English Championship Series 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110108697.cms\" />Grandmaster Erigaisi Arjun, ranked seventh globally, headlines India's formidable presence as the top seed in the Sharjah Masters Chess tournament with a USD 52,000 prize pool. Arjun's participation follows his recent success in Warsaw. Despite stiff competition, including nine players with Elo ratings over 2700, Arjun holds a 29-point lead over the second seed, Parham Maghsoodloo of Iran.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/erigaisi-arjun-to-lead-indian-contingent-as-top-seed-in-sharjah-masters-chess-tournament/articleshow/110108697.cms",
+         "pubDate" : "Tue, 14 May 2024 07:32:57",
+         "title" : "Erigaisi to lead Indian contingent as top seed in Sharjah Masters"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -104,14 +136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3021",
          "pubDate" : "Sun, 12 May 2024 21:16:24",
          "title" : "Nikita Khoroshev and Aleksandra Samaganova win Kyrgyzstan Championship"
-      },
-      {
-         "description" : "Magnus Carlsen did it again! Despite entering the final day of blitz at a 2&frac12;-point distance from sole leader Wei Yi, the Norwegian scored 7 wins in a row (he had finished Saturday's session with 3 consecutive wins) to overtake the Chinese GM and eventually claim outright victory at the Superbet Rapid & Blitz Tournament in Warsaw. Wei still finished only a half point behind the champion, leaving third-placed Jan-Krzysztof Duda a whopping 6 points behind. | Photo: Grand Chess Tour / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-poland-2024-d5",
-         "pubDate" : "Sun, 12 May 2024 20:00:00",
-         "title" : "Carlsen astonishes: 10 wins in a row grant him Superbet Poland triumph"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110061244.cms\" />Grandmaster R Praggnanandhaa showcased his prowess by securing a clear fourth-place finish in the Superbet rapid and blitz tournament, part of the Grand Chess Tour in Warsaw. Meanwhile, Magnus Carlsen delivered a stellar performance on the final day, scoring an impressive 8/9 to secure the top position. Going into the last day with a significant 2.5 points lead, Wei Yi of China had to settle for second place after a slightly below-par performance in the final nine games.",
@@ -408,22 +432,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-1",
          "pubDate" : "Wed, 08 May 2024 12:50:00",
          "title" : "Shevchenko Leads Carlsen And Abdusattorov After Perfect Start"
-      },
-      {
-         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
-         "pubDate" : "Wed, 08 May 2024 09:42:44",
-         "title" : "Entry form now open for 2024 British Chess Championships"
-      },
-      {
-         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
-         "pubDate" : "Wed, 08 May 2024 09:42:42",
-         "title" : "English Championship Series 2024"
       },
       {
          "description" : "Organised by the British Chess Problem Society. Entry to this competition sponsored by Winton is by solving the starter problem below. White, playing up the...",
@@ -1034,14 +1042,6 @@ news_feed (
          "title" : "Warm welcome of World Chess Challenger D Gukesh by AICF"
       },
       {
-         "description" : "The European Women's Chess Championship 2024 is halfway through, with five rounds left to be played. Three players headed to today's free day co-leading the event: IM Ulviyya Fataliyeva (AZE, 2377), IM Marta Garcia Martin (ESP, 2349) and 15-year-old WCM Bozhena Piddubna (UKR, 2005). Yesterday's top-board encounter between Ulviyya Fatliyava dnd Marta Garcia Martin finished in a draw and the players kept their positions on the top. The game was quite balanced, and finished in a peaceful manner after the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-chess-championship-2024-is-halfway-through/",
-         "pubDate" : "Wed, 24 Apr 2024 08:43:18",
-         "title" : "European Women's Chess Championship 2024 is halfway through"
-      },
-      {
          "description" : "Click here for National Rapid 2024 Rank Name 1 Ghosh Diptayan 2 Aronyak Ghosh 3 Raja Rithvik R 4 Das Arghyadip 5 Srihari L R",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1056,22 +1056,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-gukesh-celebrates-historic-fide-candidates-win-with-fan-meet-up-in-toronto/articleshow/109554101.cms",
          "pubDate" : "Wed, 24 Apr 2024 06:37:17",
          "title" : "Watch: Gukesh celebrates Candidates win with fan meet-up"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2988",
-         "pubDate" : "Tue, 23 Apr 2024 10:23:10",
-         "title" : "Registration for 2024 Chess Olympiad in Budapest is now open"
-      },
-      {
-         "description" : "During the endgame, stalemate is a resource that can enable the player with the inferior position to draw the game rather than lose. In more complex positions, stalemate is much rarer, usually taking the form of a swindle that succeeds only if the superior side is inattentive. Chess Trainer GM Efstratios Grivas shows us how a \"mad rook\" can complicate matters for the superior side.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grivas-on-the-mad-rook",
-         "pubDate" : "Tue, 23 Apr 2024 08:30:00",
-         "title" : "Grivas on the Mad Rook"
       }
    ]
 }
