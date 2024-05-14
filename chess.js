@@ -5,7 +5,7 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "http://Membership,%20Pay%20to%20Play%20and%20Game%20Fees%202024/25%20(V1)#new_tab",
+         "link" : "https://www.englishchess.org.uk/membership-pay-to-play-and-game-fees-2024-25-v1/#new_tab",
          "pubDate" : "Mon, 13 May 2024 15:53:53",
          "title" : "Membership, Pay to Play and Game Fees 2024/25 (V1)"
       },
@@ -1072,54 +1072,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grivas-on-the-mad-rook",
          "pubDate" : "Tue, 23 Apr 2024 08:30:00",
          "title" : "Grivas on the Mad Rook"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109522151.cms\" />India's five-time world champion Viswanathan Anand has spawned a chess culture in India and the country is reaping the rewards of the Grandmaster's success with thousands of youngsters, mostly in their teens, taking up chess. Gukesh's triumph entitles him to a clash against reigning world champion Ding Liren of China in the last quarter of the year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/the-children-of-vishy-anand-are-on-the-loose-remarks-gary-kasparov-after-gukeshs-triumph-at-candidates/articleshow/109522151.cms",
-         "pubDate" : "Tue, 23 Apr 2024 06:33:41",
-         "title" : "'The 'children' of Vishy Anand are on the loose' - Garry Kasparov"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109519763.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-sacrificed-childhood-to-come-this-far-coach/articleshow/109519763.cms",
-         "pubDate" : "Tue, 23 Apr 2024 05:02:32",
-         "title" : "Gukesh sacrificed childhood to come this far: Coach"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109519466.cms\" />",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/brief-pep-talk-from-mother-worked-wonders-for-gukesh/articleshow/109519466.cms",
-         "pubDate" : "Tue, 23 Apr 2024 04:52:14",
-         "title" : "Brief pep talk from mother worked wonders for Gukesh"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109518927.cms\" />D Gukesh, a 17-year-old chess player, demonstrated remarkable mental and physical strength and maturity in a 64-square board match. Despite lacking experience in elite round-robin tournaments, Gukesh's unique style, hunger, calculating ability, and tactics earned him the title. Despite the chess pundits' expectations of a big reward, Gukesh's impressive performance remains a testament to his talent.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fire-ice-india-chess-star-gukesh-oozes-class-beyond-his-years/articleshow/109518927.cms",
-         "pubDate" : "Tue, 23 Apr 2024 04:34:51",
-         "title" : "Fire & ice: India chess star Gukesh oozes class beyond his years"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109518460.cms\" />D Gukesh showed fearless preparation and fearlessness in the Candidates Chess tournament in Toronto, losing in the seventh round against French No. 1 Alireza Firouzja. Despite the loss, Gukesh pushed himself for the rest of the tournament, gaining the sole lead in the penultimate round.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/felt-i-could-win-the-candidates-chess-tournament-after-seventh-round-loss-gukesh/articleshow/109518460.cms",
-         "pubDate" : "Tue, 23 Apr 2024 04:11:47",
-         "title" : "Felt I could win the Candidates chess tournament after seventh round loss: Gukesh"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109518160.cms\" />Gukesh Dommaraju has become the youngest challenger for the World chess title, breaking the 40-year-old record set by legendary Garry Kasparov in 1984. He will face China's world champion Ding Liren in the championship match later this year, marking his first challenger in the 74-year history of the Candidates chess tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-unveils-chennais-17-year-old-gukesh-as-its-youngest-challenger-in-chess-history/articleshow/109518160.cms",
-         "pubDate" : "Tue, 23 Apr 2024 03:57:39",
-         "title" : "India unveils Gukesh as its youngest challenger in chess history"
       }
    ]
 }
