@@ -18,7 +18,7 @@ news_feed (
          "title" : "8th YCCC: Inspiring the next generation of chess composers"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave won Division II of the of the Champions Chess Tour Chess.com Classic 2024, earning $15,000, 50 tour points, and automatic entry into Division I of the next event. Although GM Wesley So won on demand to reach the match res...",
+         "description" : "GM Maxime Vachier-Lagrave won Division II of the Champions Chess Tour Chess.com Classic 2024, earning $15,000, 50 tour points, and automatic entry into Division I of the next event. Although GM Wesley So won on demand to reach the match reset, the...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-7",
@@ -1056,22 +1056,6 @@ news_feed (
          "link" : "https://aicf.in/congratulations-gukesh-d/",
          "pubDate" : "Wed, 24 Apr 2024 10:48:04",
          "title" : "Warm welcome of World Chess Challenger D Gukesh by AICF"
-      },
-      {
-         "description" : "Click here for National Rapid 2024 Rank Name 1 Ghosh Diptayan 2 Aronyak Ghosh 3 Raja Rithvik R 4 Das Arghyadip 5 Srihari L R",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/cerificates-national-rapid-blitz-chess-championship-2024/",
-         "pubDate" : "Wed, 24 Apr 2024 06:56:15",
-         "title" : "Cerificates :National Rapid & Blitz Chess Championship 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109554101.cms\" />D Gukesh won the International Chess Federation (FIDE) Candidates Chess Tournament 2024 in Toronto, Canada. He became the youngest-ever challenger to the world title and secured his place in chess history. Gukesh's victory marks a significant milestone for Indian chess, becoming the second Indian player, after Viswanathan Anand, to win the prestigious tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-gukesh-celebrates-historic-fide-candidates-win-with-fan-meet-up-in-toronto/articleshow/109554101.cms",
-         "pubDate" : "Wed, 24 Apr 2024 06:37:17",
-         "title" : "Watch: Gukesh celebrates Candidates win with fan meet-up"
       }
    ]
 }
