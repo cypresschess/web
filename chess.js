@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
+         "pubDate" : "Wed, 15 May 2024 12:45:00",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "Defending champion Arjun Erigaisi tops the seeding list at the 7th Sharjah Masters and in the opening round on Tuesday he defeated Eltaj Safarli. With this win Erigaisi overtook Gukesh in the live rankings and is now India's new number one - at least for one day. | Photos: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-erigaisi-starts-with-a-win-to-become-india-s-number-one",
+         "pubDate" : "Wed, 15 May 2024 12:06:50",
+         "title" : "Sharjah Masters: Erigaisi starts with a win to become India's number one"
+      },
+      {
+         "description" : "The Following Indian players are provisionally identified (subject to change and approval from FIDE) to take part in the World Junior &#38; Junior Girls Chess",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-2024-at-gandhinagar-gujarat-from-01-to-14-june-2024-list-of-indian-provisional-players/",
+         "pubDate" : "Wed, 15 May 2024 09:45:15",
+         "title" : "World Junior 2024 at Gandhinagar Gujarat from 01 to 14 June , 2024 - list of Indian provisional players"
+      },
+      {
+         "description" : "Maxime Vachier-Lagrave prevailed in an exciting pair of matches against Wesley So to win Division II of the Chess.com Classic. So reached the Grand Final by winning the losers' bracket, which meant he needed to beat MVL twice to claim the title. The US grandmaster did win the first 4-game match in Armageddon, but was then defeated by his French colleague in the Grand Final Reset.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-d7",
+         "pubDate" : "Wed, 15 May 2024 01:05:00",
+         "title" : "Chess.com Classic: MVL beats So in exciting confrontation, wins Division II"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -72,14 +104,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/membership-pay-to-play-and-game-fees-2024-25-v1/#new_tab",
          "pubDate" : "Mon, 13 May 2024 15:53:53",
          "title" : "Membership, Pay to Play and Game Fees 2024/25 (V1)"
-      },
-      {
-         "description" : "Today we are offering you a 25% price reduction on everything. That includes software, services, video courses, the ChessBase Account - everything, (except prints, vouchers and ducats)!. There are some very interesting new products, like the newly published standard work on opening theory: the ChessBase Opening Encyclopaedia 2024. Or the World Champion program Fritz 19, Mega Database 2024, new ChessBase Packages! And so many other products that will improve your understanding of chess, your skill in the game - not to forget the rating points they will earn you. Don't miss this chance!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/your-chance-discount-day-may-3",
-         "pubDate" : "Mon, 13 May 2024 14:00:00",
-         "title" : "Your chance: Everything 25% off on Discount Day May 2024"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110089013.cms\" />P. Shyaamnikhil achieved a significant milestone, becoming India's 85th Grandmaster after securing his third and final GM norm at the recently concluded Dubai Police Masters chess tournament. This achievement marked the end of a 12-year journey for the player, who embarked on his chess career at the age of eight.",
@@ -1048,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2989",
          "pubDate" : "Wed, 24 Apr 2024 14:51:04",
          "title" : "Changes to Regulations of transferring to FIDE flag for Refugees"
-      },
-      {
-         "description" : "Indian chess prodigy D Gukesh, 17, received a hero's welcome upon his return from the Candidates Chess Tournament in Toronto. all AICF/State officials present on the occasions.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/congratulations-gukesh-d/",
-         "pubDate" : "Wed, 24 Apr 2024 10:48:04",
-         "title" : "Warm welcome of World Chess Challenger D Gukesh by AICF"
       }
    ]
 }
