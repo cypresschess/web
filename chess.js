@@ -26,6 +26,30 @@ news_feed (
          "title" : "World Junior 2024 at Gandhinagar Gujarat from 01 to 14 June , 2024 - list of Indian provisional players"
       },
       {
+         "description" : "The 2024 Speed Chess Championship is fast approaching&#38;mdash;and this year it will end with a live, in-person final staged in Paris. For the first time, Chess.com is taking the climax of its flagship fast time control event offline. The French ca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/paris-to-host-live-final-of-2024-speed-chess-championship",
+         "pubDate" : "Wed, 15 May 2024 07:00:17",
+         "title" : "Paris To Host Live Final Of 2024 Speed Chess Championship: Nakamura, Carlsen Confirmed"
+      },
+      {
+         "description" : "The Bullet Chess Championship has been reloaded, the safety is off, and it&#38;rsquo;s ready to fire! The year&#38;rsquo;s explosive action kicks off on May 24 with a star-studded posse of gunslingers and $100,000 in prizes at stake. Chess.com&#38;rsquo;s B...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/bullet-chess-championship-is-back-with-nakamura-carlsen",
+         "pubDate" : "Wed, 15 May 2024 06:59:00",
+         "title" : "Bullet Chess Championship Is Back With Nakamura Gunning For A Hat-Trick Of Wins"
+      },
+      {
+         "description" : "Fast-fingers at the ready&#38;mdash;the new 2024 Chess.com Community Championships series is launching later this month with the Hyperbullet Championship. The Community Championships is your chance to win a crown and cash on Chess.com and first up, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/community-championships-kicks-off-with-hyperbullet",
+         "pubDate" : "Wed, 15 May 2024 06:58:00",
+         "title" : "Chess.com Launches 2024 Community Championships With Hyperbullet"
+      },
+      {
          "description" : "Maxime Vachier-Lagrave prevailed in an exciting pair of matches against Wesley So to win Division II of the Chess.com Classic. So reached the Grand Final by winning the losers' bracket, which meant he needed to beat MVL twice to claim the title. The US grandmaster did win the first 4-game match in Armageddon, but was then defeated by his French colleague in the Grand Final Reset.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -706,36 +730,12 @@ news_feed (
          "title" : "Abdusattorov Wins TePe Sigeman Chess Tournament In Thrilling Tiebreaker"
       },
       {
-         "description" : "GM Levon Aronian recently wrote, &#38;ldquo;the FIDE Circuit is kind of a joke,&#38;rdquo; with GM Anish Giri replying to describe it as &#38;ldquo;completely broken.&#38;rdquo; 2023 FIDE Circuit Winner GM Fabiano Caruana, described the system, which will determi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/giri-aronian-caruana-criticize-fide-circuit",
-         "pubDate" : "Fri, 03 May 2024 09:54:00",
-         "title" : "Giri, Caruana, Aronian Criticize FIDE Circuit"
-      },
-      {
          "description" : "The 39th European Club Cup and the 28th European Women's Club Cup will be held from 19th-27th October 2024 in Vrnjacka Banja, Serbia. The events will be played in 7 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from the move one. The teams in the Open competition shall be composed of six (6) players plus two (2) reserves, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-open-womens-club-cup-2024-official-invitation/",
          "pubDate" : "Fri, 03 May 2024 09:40:43",
          "title" : "European Open & Women's Club Cup 2024 - Official invitation"
-      },
-      {
-         "description" : "Banter Blitz&#38;mdash;the much-loved series that sadly disappeared when Chess.com took over Chess24. Or did it? Chess.com is delighted to announce the return of Chess24&#38;rsquo;s flagship show which featured a ton of timeless moments where fans got t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/banter-blitz-is-back-with-jan-gustafsson",
-         "pubDate" : "Fri, 03 May 2024 07:23:00",
-         "title" : "Banter Blitz Is Back! Cult Chess And Chat Show Returns With The OG Jan Gustafsson"
-      },
-      {
-         "description" : "Chess will be back on our screens&#38;mdash;in a big way, if reports are correct. Hollywood Reporter, the publication that covers the U.S. film industry, claims that plans are afoot for a new star-studded feature spotlighting the game called Checkma...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hollywood-lines-up-new-film-about-carlsen-niemann-cheating-scandal",
-         "pubDate" : "Fri, 03 May 2024 07:14:00",
-         "title" : "Emma Stone To Produce Movie On Carlsen-Niemann Drama"
       },
       {
          "description" : " The former world champion fears for the current holder, who is out of form before title defence against 17-year-old Gukesh Dommaraju Magnus Carlsen fears that Ding Liren may have been \"permanently broken\" following the world champion's poor performances at Wijk aan Zee in January and in the Freestyle event in Germany in March. Carlsen, who remains the world No 1 despite abdicating the title in 2023 after a 10-year reign, made his comments <a href=\"https://twitter.com/sjakksnakk/status/1784913997025739230?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1784913997025739230%7Ctwgr%5E75c47f633925e410969f79b22aaacf89bdc75f46%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chess.com%2Fnews%2Fvie",
@@ -1056,22 +1056,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/14th-asrian-memorial-2024",
          "pubDate" : "Wed, 24 Apr 2024 22:28:00",
          "title" : "14th Asrian Memorial 2024 - Games and Results"
-      },
-      {
-         "description" : "South Lakes Chess Congress 7 9 June 2024 in Barrow-in-Furness Due to circumstances beyond our control, we have to announce the cancellation of the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congress-cancellation-south-lakes/",
-         "pubDate" : "Wed, 24 Apr 2024 15:00:44",
-         "title" : "Congress cancellation - South Lakes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2989",
-         "pubDate" : "Wed, 24 Apr 2024 14:51:04",
-         "title" : "Changes to Regulations of transferring to FIDE flag for Refugees"
       }
    ]
 }
