@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3025",
+         "pubDate" : "Wed, 15 May 2024 19:04:08",
+         "title" : "FIDE International Chess Day Art Contest announced"
+      },
+      {
+         "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 5 of the event sees Magnus Carlsen and Vincent Keymer facing each other in the Division I winners' bracket final. Jan-Krzysztof Duda, Denis Lazavik, Ian Nepomniachtchi and Alireza Firouzja remain in contention in the lower bracket. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
+         "pubDate" : "Wed, 15 May 2024 18:15:00",
+         "title" : "Chess.com Classic - Live!"
+      },
+      {
+         "description" : " Nearly a month has passed since the HBCU Chess Classic ended in Atlanta, Georgia. Held April 20th and 21st, it was the second edition of an important movement for chess. Certainly, getting chess on more HBCU campuses may help students see the intrinsic value in the game, but it can also open up an underserved The post <a href=\"https://www.thechessdrum.net/blog/2024/05/15/reflections-on-the-2024-hbcu-chess-classic/\">Reflections on the 2024 HBCU Chess Classic</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/05/15/reflections-on-the-2024-hbcu-chess-classic/",
+         "pubDate" : "Wed, 15 May 2024 17:44:40",
+         "title" : "Reflections on the 2024 HBCU Chess Classic"
+      },
+      {
          "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,11 +50,19 @@ news_feed (
          "title" : "World Junior 2024 at Gandhinagar Gujarat from 01 to 14 June , 2024 - list of Indian provisional players"
       },
       {
+         "description" : "It&#39;s always tough to stop GM Hikaru Nakamura, but it&#39;s becoming nigh impossible in Titled Tuesday. He swept both tournaments on May 14, the second time in just the past four weeks, giving him a total of 12 victories for the year when no one else h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-may-14-2024",
+         "pubDate" : "Wed, 15 May 2024 09:15:08",
+         "title" : "Nakamura Scores 10.5/11, Wins On Tiebreaks, Then Sweeps"
+      },
+      {
          "description" : "The 2024 Speed Chess Championship is fast approaching&#38;mdash;and this year it will end with a live, in-person final staged in Paris. For the first time, Chess.com is taking the climax of its flagship fast time control event offline. The French ca...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/paris-to-host-live-final-of-2024-speed-chess-championship",
-         "pubDate" : "Wed, 15 May 2024 07:00:17",
+         "pubDate" : "Wed, 15 May 2024 07:00:00",
          "title" : "Paris To Host Live Final Of 2024 Speed Chess Championship: Nakamura, Carlsen Confirmed"
       },
       {
@@ -720,14 +752,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-chess-championship-24th-27th.html",
          "pubDate" : "Fri, 03 May 2024 14:00:00",
          "title" : "2024 ACT Chess Championship - 24th - 27th May 2024"
-      },
-      {
-         "description" : "He was in fourth place, trailing three leaders by half a point, but GM Nodirbek Abdusattorov ended up winning the 2024 TePe Sigeman Chess Tournament as the player with the strongest nerves in a thrilling blitz tiebreak with GM Arjun Erigaisi and G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/abdusattorov-wins-2024-tepe-sigeman-tournament",
-         "pubDate" : "Fri, 03 May 2024 13:13:00",
-         "title" : "Abdusattorov Wins TePe Sigeman Chess Tournament In Thrilling Tiebreaker"
       },
       {
          "description" : "The 39th European Club Cup and the 28th European Women's Club Cup will be held from 19th-27th October 2024 in Vrnjacka Banja, Serbia. The events will be played in 7 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from the move one. The teams in the Open competition shall be composed of six (6) players plus two (2) reserves, []",
