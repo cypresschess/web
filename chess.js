@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja beat Magnus Carlsen to claim overall victory in the second event of the 2024 Champions Chess Tour, the Chess.com Classic. Since Firouzja reached the deciding match from the lower bracket, beating Carlsen in the 4-game Grand Final only forced a Reset - which the youngster went on to win as well. Firouzja won both matches in Armageddon.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-d8",
+         "pubDate" : "Thu, 16 May 2024 01:10:00",
+         "title" : "Firouzja takes down Carlsen to win Chess.com Classic"
+      },
+      {
+         "description" : " The Chess.com Classic which is part of the Champions Chess Tour took place Fri 10th to Wed 15th May 2024 on Chess.com. The format is Double Elimination Knockout. Carlsen, Ivic, Lazavik, Nepomniachtchi, Firouzja, Duda, Keymer and Sarana play for the title in Division 1. There were two further divisions which had qualification places for the division above. Alireza Firouzja overcame a loss to Jan-Krzysztof Duda in the first round to progress through the losers half and then beat Magnus Carlsen twice in a row in the Grand Final and its reset to take the title.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2024",
+         "pubDate" : "Wed, 15 May 2024 21:04:00",
+         "title" : "Chess.com Classic 2024 - Games and Results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,20 +26,20 @@ news_feed (
          "title" : "FIDE International Chess Day Art Contest announced"
       },
       {
-         "description" : "The 2024 Chess.com Classic is the second of four events preceding the Champions Chess Tour in-person Finals. Day 5 of the event sees Magnus Carlsen and Vincent Keymer facing each other in the Division I winners' bracket final. Jan-Krzysztof Duda, Denis Lazavik, Ian Nepomniachtchi and Alireza Firouzja remain in contention in the lower bracket. | Follow the games live with expert commentary starting at 18.30 CEST (12.30 ET, 22.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-live",
-         "pubDate" : "Wed, 15 May 2024 18:15:00",
-         "title" : "Chess.com Classic - Live!"
-      },
-      {
-         "description" : " Nearly a month has passed since the HBCU Chess Classic ended in Atlanta, Georgia. Held April 20th and 21st, it was the second edition of an important movement for chess. Certainly, getting chess on more HBCU campuses may help students see the intrinsic value in the game, but it can also open up an underserved The post <a href=\"https://www.thechessdrum.net/blog/2024/05/15/reflections-on-the-2024-hbcu-chess-classic/\">Reflections on the 2024 HBCU Chess Classic</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Nearly a month has passed since the HBCU Chess Classic ended in Atlanta, Georgia. Held April 20th and 21st, it was the second edition of an important movement for chess at &#8220;HBCUs&#8221; or Historically-Black Colleges &#38; Universities. Certainly, getting chess on more HBCU campuses may help students see the intrinsic value in the game, but The post <a href=\"https://www.thechessdrum.net/blog/2024/05/15/reflections-on-the-2024-hbcu-chess-classic/\">Reflections on the 2024 HBCU Chess Classic</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/05/15/reflections-on-the-2024-hbcu-chess-classic/",
          "pubDate" : "Wed, 15 May 2024 17:44:40",
          "title" : "Reflections on the 2024 HBCU Chess Classic"
+      },
+      {
+         "description" : "GM Alireza Firouzja is the second player to defeat GM Magnus Carlsen two times in a Grand Final of the Champions Chess Tour, a feat that only GM Maxime Vachier-Lagrave achieved previously. On Wednesday, the French number-one won the Chess.com Clas...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-8-firouzja-wins",
+         "pubDate" : "Wed, 15 May 2024 13:24:00",
+         "title" : "Firouzja Beats Carlsen Twice In Grand Final, Wins 2024 Chess.com Classic"
       },
       {
          "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/community-championships-kicks-off-with-hyperbullet",
          "pubDate" : "Wed, 15 May 2024 06:58:00",
          "title" : "Chess.com Launches 2024 Community Championships With Hyperbullet"
-      },
-      {
-         "description" : "Maxime Vachier-Lagrave prevailed in an exciting pair of matches against Wesley So to win Division II of the Chess.com Classic. So reached the Grand Final by winning the losers' bracket, which meant he needed to beat MVL twice to claim the title. The US grandmaster did win the first 4-game match in Armageddon, but was then defeated by his French colleague in the Grand Final Reset.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-d7",
-         "pubDate" : "Wed, 15 May 2024 01:05:00",
-         "title" : "Chess.com Classic: MVL beats So in exciting confrontation, wins Division II"
       },
       {
          "description" : "",
@@ -376,14 +384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3017",
          "pubDate" : "Fri, 10 May 2024 22:09:05",
          "title" : "Superbet Poland Rapid & Blitz: Day 3 Recap"
-      },
-      {
-         "description" : " The Chess.com Classic which is part of the Champions Chess Tour takes place Fri 10th to Wed 15th May 2024 on Chess.com. The format is Double Elimination Knockout. Carlsen, Ivic, Lazavik, Nepomniachtchi, Firouzja, Duda, Keymer and Sarana play for the title in Division 1. There are two further divisions which have qualification places for the division above.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2024",
-         "pubDate" : "Fri, 10 May 2024 21:04:00",
-         "title" : "Chess.com Classic 2024 - Games and Results"
       },
       {
          "description" : "GMs Magnus Carlsen and Vincent Keymer won their matches with a game to spare in Division I of the Champions Chess Tour Chess.com Classic 2024. GMs Jan-Krzysztof Duda and Denis Lazavik also won to continue in the Winners Bracket. Notably, Carlsen, ...",
@@ -730,14 +730,6 @@ news_feed (
          "title" : "Kasparov clarifies 'little joke' asking Gandhi to 'first win Rae Bareli'"
       },
       {
-         "description" : "The International Chess Federation (FIDE) has made a call for bids for the 2024 World Championship match with budget figures that have stirred a debate in the chess community.&#38;nbsp; A few weeks after the conclusion of the Candidates Tournament, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fides-call-for-world-championship-bids-draws-reactions",
-         "pubDate" : "Sat, 04 May 2024 00:18:00",
-         "title" : "FIDE's Call For World Championship Bids Sparks Reactions"
-      },
-      {
          "description" : " The 28th Tepe Sigeman & Co Chess Tournament took place in Malmo 27th April to 3rd May 2024. Players: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, Peter Svidler, Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and Ju Wenjun. There was a three way tie on 4.5/7. Nodirbek Abdusattorov emerged the winner over Arjun Erigaisi in a second tie-break, Peter Svidler lost to both these players in the first tie-break. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1056,30 +1048,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-d-gukesh-receives-heros-welcome-at-chennai-airport-after-historic-win-at-candidates-chess-tournament/articleshow/109582878.cms",
          "pubDate" : "Thu, 25 Apr 2024 05:40:05",
          "title" : "Watch: D Gukesh receives hero's welcome at Chennai airport"
-      },
-      {
-         "description" : " The 24th European Women's Championship takes place Thu 18th Apr to Tue 30th Apr 2024 in Rhodes, Greece. Top seeds: Yuliia Osmak, Marsel Efroimski, Bella Khotenashvili, Dinara Wagner, Antoaneta Stefanova, Lela Javakhishvili etc",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/24th-european-womens-championship-2024",
-         "pubDate" : "Wed, 24 Apr 2024 22:42:00",
-         "title" : "24th European Women's Championship 2024 - Games and Results"
-      },
-      {
-         "description" : " The Dutch League took place 16th September 2023 to 20th April 2024. Kennemer Combinatie had already won the league before this weekend's final round.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/dutch-league-2023-24",
-         "pubDate" : "Wed, 24 Apr 2024 22:37:00",
-         "title" : "Dutch League 2023-24 - Games and Results"
-      },
-      {
-         "description" : " The 14th Karen Asrian Memorial takes place in Yerevan Wed 24th Apr to Thu 2nd May 2024. The event returns after missing last year. Top seeds Manuel Petrosyan, Zaven Andriasian, M Pranesh etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/14th-asrian-memorial-2024",
-         "pubDate" : "Wed, 24 Apr 2024 22:28:00",
-         "title" : "14th Asrian Memorial 2024 - Games and Results"
       }
    ]
 }
