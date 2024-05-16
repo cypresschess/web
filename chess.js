@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Chess Federation FIDE, which stands for F&eacute;d&eacute;ration Internationale des Échecs, was founded on 20 July 1924 in Paris, France, and is celebrating its centenary this year - with many interesting events. One of them is the \"International Chess Day Art Competition\". It takes place on FIDE's birthday, 20 July.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-international-chess-day-art-contest-announced",
+         "pubDate" : "Thu, 16 May 2024 16:00:00",
+         "title" : "FIDE International Chess Day Art Contest announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3026",
+         "pubDate" : "Thu, 16 May 2024 13:15:09",
+         "title" : "Guinness World Records Attempt: Registration of tournaments open"
+      },
+      {
          "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
          "pubDate" : "Thu, 16 May 2024 12:45:00",
          "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "Upgrading to the new server has been rescheduled for Sunday 16/5/24, and we will update this post accordingly. The email server at the ECF is...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/website-planned-outage/",
+         "pubDate" : "Thu, 16 May 2024 11:00:03",
+         "title" : "Website - planned outage update"
       },
       {
          "description" : "The European Senior Team Chess Championship 2024 concluded yesterday in Terme Catez, Slovenia, with England's teams winning three golds in two age categories: 50+ and 65+. Heading into the last round in the 50+ section, three teams had the same score of match points to tie for the top: England 1, Hungary and Italy. The co-leaders won their last-round matches to maintain the leading position, and the tiebreak criteria determined the Winner and the medalists. England 1 defeated England 2 []",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/estcc-triple-champions/",
          "pubDate" : "Thu, 16 May 2024 07:30:52",
          "title" : "ESTCC Triple Champions!"
+      },
+      {
+         "description" : "Chess.com is announcing Kids vs. Stars&#38;mdash;a series of matches between the generations of bright young talent facing your favorite stars and content creators! Will the kids take over or will the stars defend the guard? Don&#39;t miss this! This...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kids-vs-stars-the-match-of-rising-talents-and-content-creators",
+         "pubDate" : "Thu, 16 May 2024 07:21:10",
+         "title" : "Kids vs. Stars: The Match Of Rising Talents And Content Creators"
       },
       {
          "description" : "Alireza Firouzja beat Magnus Carlsen to claim overall victory in the second event of the 2024 Champions Chess Tour, the Chess.com Classic. Since Firouzja reached the deciding match from the lower bracket, beating Carlsen in the 4-game Grand Final only forced a Reset - which the youngster went on to win as well. Firouzja won both matches in Armageddon.",
@@ -208,14 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-6",
          "pubDate" : "Mon, 13 May 2024 11:53:00",
          "title" : "Firouzja Sets Up Grand Final Vs. Carlsen After Eliminating Duda, Keymer"
-      },
-      {
-         "description" : "Please note that the main ECF website https://www.englishchess.org.uk and the email system will be unavailable for a few hours on Thursday 16th May...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/website-planned-outage/",
-         "pubDate" : "Mon, 13 May 2024 11:00:03",
-         "title" : "Website - planned outage"
       },
       {
          "description" : "",
@@ -714,14 +738,6 @@ news_feed (
          "title" : "2024 ACT Teams Rapidplay"
       },
       {
-         "description" : "GM Hikaru Nakamura secured his second straight Bullet Brawl and $400 after scoring 251 points ahead of GMs Jose Martinez and Daniel Naroditsky on Saturday. With this victory, Nakamura has taken his live Bullet Brawl earnings to just over $10,000 i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-4-2024",
-         "pubDate" : "Sat, 04 May 2024 16:05:00",
-         "title" : "Nakamura Pushes Bullet Brawl Earnings Over $10,000"
-      },
-      {
          "description" : "Ever suspect your opponent of cheating online? It's a terrible feeling, leaving you powerless. You start second-guessing your own moves and see ghosts with every move they play. Being in the wrong mindset, you play so badly that it doesn't even matter if they cheat. You blunder and lose the game. But here's the surprising []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1016,22 +1032,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/2024/apr/26/chess-gukesh-17-shocks-favourites-to-become-youngest-challenger-for-title",
          "pubDate" : "Fri, 26 Apr 2024 07:00:34",
          "title" : "Chess: Gukesh, 17, shocks favourites to become youngest challenger for title"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109599475.cms\" /> India's rising chess star D Gukesh, at just 17 years old, made history by winning the Candidates Chess Tournament in Toronto, securing a spot as the youngest challenger ever for the world title, surpassing a record set by the legendary Garry Kasparov four decades ago. Gukesh's victory sets up a showdown against reigning world champion Ding Liren of China later in the year. Reflecting on his achievement, Gukesh highlighted his admiration for the way Dhoni and Djokovic handle pressure, labeling them as big-game players who consistently deliver their",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ms-dhoni-and-novak-djokovics-pressure-soaking-ability-attracts-chess-sensation-d-gukesh/articleshow/109599475.cms",
-         "pubDate" : "Thu, 25 Apr 2024 14:26:16",
-         "title" : "Dhoni and Djokovic's pressure-soaking ability attracts D Gukesh"
-      },
-      {
-         "description" : " The team representing the ACT Junior League has won the 2024 Anzac Day Junior Hybrid Event, its 2nd win in 2 years. The event brought together 5 teams representing ACT, Victoria (Hobson Bay), NSW (JZMC), Western Australia (Kingsley CC) and Christchurch NZ (ISCC). The event was a 5 round RR, played over 6 games per match. The ACT team scored 18.5/24, with HBCC on 13, JZMC 12, ISCC 9.5 and KCC 7. Despite the margin of victory, the event was a lot closer than the scores indicated with a number of games in the final round ACT v HBCC match looking like they could go either way. The tournament was organised by IA Casey Goh (HBCC) and was played with a time limit of G30m+15s inc. Four players scor",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/anzac-day-hybrid.html",
-         "pubDate" : "Thu, 25 Apr 2024 11:48:00",
-         "title" : "Anzac Day Hybrid"
       }
    ]
 }
