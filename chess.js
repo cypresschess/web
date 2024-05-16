@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
+         "pubDate" : "Thu, 16 May 2024 12:45:00",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "The European Senior Team Chess Championship 2024 concluded yesterday in Terme Catez, Slovenia, with England's teams winning three golds in two age categories: 50+ and 65+. Heading into the last round in the 50+ section, three teams had the same score of match points to tie for the top: England 1, Hungary and Italy. The co-leaders won their last-round matches to maintain the leading position, and the tiebreak criteria determined the Winner and the medalists. England 1 defeated England 2 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/england-wins-triple-gold-at-the-european-senior-team-chess-championship-2024/",
+         "pubDate" : "Thu, 16 May 2024 10:45:11",
+         "title" : "England wins triple gold at the European Senior Team Chess Championship 2024"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, All Assam Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 21 to 22 June",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-at-guwahati-assam-on-21-22-june-2024/",
+         "pubDate" : "Thu, 16 May 2024 08:40:55",
+         "title" : "SNA Seminar & Exam at Guwahati Assam on 21-22 June 2024"
+      },
+      {
+         "description" : "England's seniors dominated the European Senior Team Chess Championships at Terme Catez, Slovenia, winning three team golds in the Open 50+ and 65+ as well...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/estcc-triple-champions/",
+         "pubDate" : "Thu, 16 May 2024 07:30:52",
+         "title" : "ESTCC Triple Champions!"
+      },
+      {
          "description" : "Alireza Firouzja beat Magnus Carlsen to claim overall victory in the second event of the 2024 Champions Chess Tour, the Chess.com Classic. Since Firouzja reached the deciding match from the lower bracket, beating Carlsen in the 4-game Grand Final only forced a Reset - which the youngster went on to win as well. Firouzja won both matches in Armageddon.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-8-firouzja-wins",
          "pubDate" : "Wed, 15 May 2024 13:24:00",
          "title" : "Firouzja Beats Carlsen Twice In Grand Final, Wins 2024 Chess.com Classic"
-      },
-      {
-         "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
-         "pubDate" : "Wed, 15 May 2024 12:45:00",
-         "title" : "Sharjah Masters - Live!"
       },
       {
          "description" : "Defending champion Arjun Erigaisi tops the seeding list at the 7th Sharjah Masters and in the opening round on Tuesday he defeated Eltaj Safarli. With this win Erigaisi overtook Gukesh in the live rankings and is now India's new number one - at least for one day. | Photos: ChessBase India",
@@ -186,7 +210,7 @@ news_feed (
          "title" : "Firouzja Sets Up Grand Final Vs. Carlsen After Eliminating Duda, Keymer"
       },
       {
-         "description" : "Please note that the main ECF website https://www.englishchess.org.uk will be unavailable for a few hours on Thursday 16th May 2024 as we will...",
+         "description" : "Please note that the main ECF website https://www.englishchess.org.uk and the email system will be unavailable for a few hours on Thursday 16th May...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/website-planned-outage/",
@@ -986,14 +1010,6 @@ news_feed (
          "title" : "IM Ulviyya Fataliyeva takes sole lead in the European Women's Chess Championship 2024"
       },
       {
-         "description" : "European Chess Union and Aegan University specialised in long distance learning programs signed the Agreement of co-operation yesterday in Rhodes, Greece. Registration opens till 1st of June on the online form : https://forms.gle/gvpxgEmEAbq7XtmG9 The training course &#8220;Chess in Primary Education&#8221; is primarily aimed at teachers in primary education, as well as students of pedagogical departments. Secondly, it is aimed at any chess tutor interested in training related to the contribution of chess to education. The course will provide an academic []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-chess-union-and-aegean-university-sign-the-agreement-of-co-operation/",
-         "pubDate" : "Fri, 26 Apr 2024 07:45:55",
-         "title" : "European Chess Union and Aegean University present the \"Chess in Primary Education\" academic course"
-      },
-      {
          "description" : " The Chennai teenager won the Candidates by just half a point and will take on China's Ding Liren for the world crown in a 14-game series later this year Gukesh Dommaraju became, at 17, the youngest ever Candidates <em> ­</em>winner and world championship challenger on Sunday after edging out the favourites Fabiano Caruana, Hikaru Nakamura and Ian Nepomniachtchi in a marathon six-hour final round in Toronto. Gukesh will now meet the holder, China's Ding Liren, in a 14-game series for the world crown from 20 November to 15 December. The world No 1, Norway's Magnus Carlsen, abdicated his title in 2023 after a 10-year reign. <a href=\"https://www.theguardian.com/sport/2024/apr/26/chess-gukesh-17",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1016,22 +1032,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/anzac-day-hybrid.html",
          "pubDate" : "Thu, 25 Apr 2024 11:48:00",
          "title" : "Anzac Day Hybrid"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109595322.cms\" />Indian chess prodigy D Gukesh made history on Monday by clinching victory in the Candidates Chess Tournament held in Toronto, thereby securing the title of the youngest ever challenger to the world championship. This achievement surpassed a record established by the iconic Garry Kasparov four decades prior. His remarkable triumph has set the stage for Gukesh to face off against the reigning world champion, Ding Liren of China, later this year.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/i-wouldnt-have-been-close-to-what-i-am-now-if-it-wasnt-for-vishy-sir-gukesh/articleshow/109595322.cms",
-         "pubDate" : "Thu, 25 Apr 2024 11:21:40",
-         "title" : "I wouldn't have been close to what I am now if it wasn't for Vishy sir: Gukesh"
-      },
-      {
-         "description" : "Please find attached here with final list of Participants who successfully completed the Online Arbiter refreshers Seminar for the session 2024-25. Click here for AICF",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-refresher-seminar-2024-25-final-list/",
-         "pubDate" : "Thu, 25 Apr 2024 08:52:33",
-         "title" : "AICF Refresher Seminar 2024-25 Final List"
       }
    ]
 }
