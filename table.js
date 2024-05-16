@@ -1,4 +1,5 @@
 jtable([
+"SPRING","2024-05-15","25","<a href=http://www.uschess.org/msa/XtblMain.php?202405159412 target='_blank'>KLEIN HOMESCHOOL 2024</a>",
 "CYPRESS","2024-05-13","4","<a href=http://www.uschess.org/msa/XtblMain.php?202405138352 target='_blank'>SECTION C</a>",
 "HOUSTON","2024-05-11","9","<a href=http://www.uschess.org/msa/XtblMain.php?202405116462 target='_blank'>CHESSPANDA05112024SATURDAY</a>",
 "HOUSTON","2024-05-11","15","<a href=http://www.uschess.org/msa/XtblMain.php?202405116342 target='_blank'>MAY 11TH TROPHY SCHOLASTIC</a>",
@@ -40,7 +41,7 @@ jtable([
 "HOUSTON","2024-04-06","8","<a href=http://www.uschess.org/msa/XtblMain.php?202404062292 target='_blank'>CHESSPANDA04062024SATURDAY</a>",
 "SPRING","2024-04-05","35","<a href=http://www.uschess.org/msa/XtblMain.php?202404051752 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-04-05","36","<a href=http://www.uschess.org/msa/XtblMain.php?202404051712 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"CYPRESS","2024-04-03","20","<a href=http://www.uschess.org/msa/XtblMain.php?202404032332 target='_blank'>KNIGHTS OF CYORESS</a>",
+"CYPRESS","2024-04-03","20","<a href=http://www.uschess.org/msa/XtblMain.php?202404032332 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-03-30","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403308632 target='_blank'>ADULTS ONLY - MARCH 30TH SATURDAY S</a>",
 "HOUSTON","2024-03-30","105","<a href=http://www.uschess.org/msa/XtblMain.php?202403308402 target='_blank'>TCR: EASTER BUNNY BLAST</a>",
 "HOUSTON","2024-03-30","8","<a href=http://www.uschess.org/msa/XtblMain.php?202403308222 target='_blank'>CHESSPANDA03302024SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2023-10-28","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310287322 target='_blank'>FBCC 2023 HALLOWEEN OPEN</a>",
 "SPRING","2023-10-27","38","<a href=http://www.uschess.org/msa/XtblMain.php?202310279352 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2023-10-27","28","<a href=http://www.uschess.org/msa/XtblMain.php?202310277462 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2023-10-06  - 10-27","8","<a href=http://www.uschess.org/msa/XtblMain.php?202310277282 target='_blank'>REBECCA CHESS CLUB OCTOBER 2023 MONTHLY SWISS</a>",
 ]);
