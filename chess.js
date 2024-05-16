@@ -1032,22 +1032,6 @@ news_feed (
          "link" : "https://aicf.in/aicf-refresher-seminar-2024-25-final-list/",
          "pubDate" : "Thu, 25 Apr 2024 08:52:33",
          "title" : "AICF Refresher Seminar 2024-25 Final List"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2990",
-         "pubDate" : "Thu, 25 Apr 2024 06:43:27",
-         "title" : "EWCC 2024: Three in the lead at midpoint"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109582878.cms\" />Indian chess prodigy D Gukesh, 17, received a hero's welcome upon his return from the Candidates Chess Tournament in Toronto. Hundreds awaited him at the airport, including students from Velammal Vidyalaya. Gukesh thanked his supporters, including his parents, coach, and school. He acknowledged Viswanathan Anand's influence and will challenge world champion Ding Liren. Gukesh holds multiple accolades, including India's youngest Grandmaster.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/watch-d-gukesh-receives-heros-welcome-at-chennai-airport-after-historic-win-at-candidates-chess-tournament/articleshow/109582878.cms",
-         "pubDate" : "Thu, 25 Apr 2024 05:40:05",
-         "title" : "Watch: D Gukesh receives hero's welcome at Chennai airport"
       }
    ]
 }
