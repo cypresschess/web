@@ -10,6 +10,14 @@ news_feed (
          "title" : "FIDE International Chess Day Art Contest announced"
       },
       {
+         "description" : "With the initiative and efforts of the European Chess Union (ECU), the European Parliament published a Declaration on 15 March 2012 on the introduction of...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chess-in-primary-education-professional-growth/",
+         "pubDate" : "Thu, 16 May 2024 15:42:19",
+         "title" : "Chess in Primary Education - Professional Growth"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
          "pubDate" : "Thu, 16 May 2024 12:45:00",
          "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "GM Alireza Firouzja just won Division I of the Champions Chess Tour Chess.com Classic 2024 on Wednesday, while GM Maxime Vachier-Lagrave took Division II and GM Dmitry Andreikin Division III. It&#39;s not often we see GM Magnus Carlsen lose even a g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/5-things-we-learned-2024-cct-chesscom-classic",
+         "pubDate" : "Thu, 16 May 2024 11:27:00",
+         "title" : "5 Things We Learned - Chess.com Classic 2024"
       },
       {
          "description" : "Upgrading to the new server has been rescheduled for Sunday 16/5/24, and we will update this post accordingly. The email server at the ECF is...",
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kids-vs-stars-the-match-of-rising-talents-and-content-creators",
          "pubDate" : "Thu, 16 May 2024 07:21:10",
          "title" : "Kids vs. Stars: The Match Of Rising Talents And Content Creators"
-      },
-      {
-         "description" : "Alireza Firouzja beat Magnus Carlsen to claim overall victory in the second event of the 2024 Champions Chess Tour, the Chess.com Classic. Since Firouzja reached the deciding match from the lower bracket, beating Carlsen in the 4-game Grand Final only forced a Reset - which the youngster went on to win as well. Firouzja won both matches in Armageddon.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chesscom-classic-2024-d8",
-         "pubDate" : "Thu, 16 May 2024 01:10:00",
-         "title" : "Firouzja takes down Carlsen to win Chess.com Classic"
       },
       {
          "description" : " The Chess.com Classic which is part of the Champions Chess Tour took place Fri 10th to Wed 15th May 2024 on Chess.com. The format is Double Elimination Knockout. Carlsen, Ivic, Lazavik, Nepomniachtchi, Firouzja, Duda, Keymer and Sarana play for the title in Division 1. There were two further divisions which had qualification places for the division above. Alireza Firouzja overcame a loss to Jan-Krzysztof Duda in the first round to progress through the losers half and then beat Magnus Carlsen twice in a row in the Grand Final and its reset to take the title.",
@@ -666,14 +674,6 @@ news_feed (
          "title" : "National Team Open and Women Certificates 2024"
       },
       {
-         "description" : "If you&#39;re looking for some chess Entertainment, we have The Real Thing. Chess.com is excited to announce our newest bot, Phoenix lead singer Thomas Mars! You can challenge the new bot by going to our Play Computer page. But beware&#38;mdash;Thomas&#39; bo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/thomas-mars-bot",
-         "pubDate" : "Tue, 07 May 2024 07:00:00",
-         "title" : "Run Run Run! It's Chess Party Time With The New Thomas Mars Bot"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -840,14 +840,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/the-chess-player.html",
          "pubDate" : "Wed, 01 May 2024 13:04:00",
          "title" : "The Chess Player"
-      },
-      {
-         "description" : "The English Chess Federation will once again be holding a 24-hour chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Chess.com will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine-2024/",
-         "pubDate" : "Wed, 01 May 2024 11:36:32",
-         "title" : "ECF Charity Marathon for Ukraine 2024"
       },
       {
          "description" : "",
