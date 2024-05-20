@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
+         "pubDate" : "Mon, 20 May 2024 12:45:00",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : " <p class=\"lead\">GM Magnus Carlsen triumphed at the inaugural Casablanca Chess 2024, with Hikaru Nakamura expressing his newfound love for this chess variant. Unlike Fischer Random Chess, Casablanca Chess starts with positions inspired by historical matches, providing a fresh challenge while minimizing the dominance of opening theory and engine analysis. With Magnus Carlsen's backing and his stated boredom with classical chess, could this mark the dawn of a new era in the chess world? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Magnus-Carlsen-chess-chesscom-casablanca-chess-fide.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by M",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/a-new-era-for-chess-gm-magnus-carlsen-triumphs-at-casablanca-che/",
+         "pubDate" : "Mon, 20 May 2024 09:01:05",
+         "title" : "A New Era for Chess? GM Magnus Carlsen Triumphs at Casablanca Chess 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3031",
+         "pubDate" : "Mon, 20 May 2024 08:01:01",
+         "title" : "Magnus Carlsen triumphs in first Casablanca Chess Variant Tournament"
+      },
+      {
          "description" : "Draws on the top three boards in round 6 of the Sharjah Masters allowed Aravindh Chithambaram to keep the sole lead in the standings. Arjun Erigaisi and Alexey Sarana grabbed full points to join the chasing pack, which now includes six players. Meanwhile, fourth seed Teimour Radjabov obtained a remarkable win over Arseniy Nesterov, his first of the event. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
