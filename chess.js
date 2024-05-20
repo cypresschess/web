@@ -10,6 +10,14 @@ news_feed (
          "title" : "Sharjah: Aravindh keeps sole lead, six players a half point back"
       },
       {
+         "description" : "GM Magnus Carlsen triumphed at Casablanca Chess 2024, clinching first in a dynamic finish vs. GM Hikaru Nakamura.&#38;nbsp; Nakamura himself won second while GM Viswanathan Anand finished third. The 15th world champion&#39;s compelling last-round victor...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-casablanca-chess-day-2",
+         "pubDate" : "Sun, 19 May 2024 21:59:00",
+         "title" : "Carlsen Wins Inaugural Casablanca Chess, Climbs Kasparov's Everest"
+      },
+      {
          "description" : "Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand and Bassem Amin are testing the Casablanca Chess Variant in Morocco, as they play rapid games (15+10) starting from carefully selected positions derived from historical games. Rounds 1-3 take place on Saturday, while rounds 4-6 take place on Sunday. | Follow the games live starting from 20.15 CEST (14.15 ET, 23.45 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3014",
          "pubDate" : "Thu, 09 May 2024 19:35:48",
          "title" : "Sardinia Chess Festival: Great First Edition"
-      },
-      {
-         "description" : "GM Velimir Ivic had the performance of a lifetime on day two of the Champions Chess Tour Chess.com Classic 2024. After surviving elimination from Division I thanks to a mouse slip by his opponent, he defeated GM Maxime Vachier-Lagrave in armageddo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-2",
-         "pubDate" : "Thu, 09 May 2024 14:03:00",
-         "title" : "Vachier-Lagrave, Caruana, Wesley So Kicked Out Of Division I By Ivic, Sarana"
       },
       {
          "description" : " HBCU Chess has a long but largely undocumented history. During the 2024 HBCU Chess Classic hosted by The Black Odyssey, six Historically Black Colleges and Universities (known as &#8220;HBCUs&#8221;) gathered to participate in the 2nd annual event. Hampton, Howard, Morehouse, and North Carolina A&#38;T, each fielded two teams. While Florida A&#38;M University (FAMU) only sent The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/meet-the-kings-queens-of-hbcu-chess/\">Meet the Kings &#038; Queens of HBCU Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
