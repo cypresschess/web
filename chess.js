@@ -2,12 +2,172 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The World Chess Federation FIDE, which stands for F&eacute;d&eacute;ration Internationale des Ã‰checs, was founded on 20 July 1924 in Paris, France, and is celebrating its centenary this year - with many interesting events. One of them is the \"International Chess Day Art Competition\". It takes place on FIDE's birthday, 20 July.",
+         "description" : "Draws on the top three boards in round 6 of the Sharjah Masters allowed Aravindh Chithambaram to keep the sole lead in the standings. Arjun Erigaisi and Alexey Sarana grabbed full points to join the chasing pack, which now includes six players. Meanwhile, fourth seed Teimour Radjabov obtained a remarkable win over Arseniy Nesterov, his first of the event. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-international-chess-day-art-contest-announced",
-         "pubDate" : "Thu, 16 May 2024 16:00:00",
-         "title" : "FIDE International Chess Day Art Contest announced"
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-6",
+         "pubDate" : "Mon, 20 May 2024 00:15:00",
+         "title" : "Sharjah: Aravindh keeps sole lead, six players a half point back"
+      },
+      {
+         "description" : "Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand and Bassem Amin are testing the Casablanca Chess Variant in Morocco, as they play rapid games (15+10) starting from carefully selected positions derived from historical games. Rounds 1-3 take place on Saturday, while rounds 4-6 take place on Sunday. | Follow the games live starting from 20.15 CEST (14.15 ET, 23.45 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/casablanca-chess-2024-live",
+         "pubDate" : "Sun, 19 May 2024 20:00:00",
+         "title" : "Casablanca Chess - Live!"
+      },
+      {
+         "description" : " There is an interesting chess event running across the weekend in Morocco. The Morocco Chess Week is featuring Casablanca Chess which is a fixed opening variant. At the start of each round the players are given a famous game, and the move on which they can vary from the given move. They have a couple of minutes to study the game/position and then they play a 15 minute game. At the end of Day 1 Carlsen leads with 2.5/3, ahead of Nakamura on 1.5, with Anand and Amin on 1. Of most interest from this event is that the Evan's Gambit was chosen in Round 1, and White (Carlsen and Nakamura) both won. Carlsen then defeated Nakamura in round 3, in a g4 Sicilian. Someone on the internet did ask if suc",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/lets-start-at-start.html",
+         "pubDate" : "Sun, 19 May 2024 13:56:00",
+         "title" : "Let's start at the start"
+      },
+      {
+         "description" : "Casablanca Chess made a strong impression on the first day of play in Morocco. The innovative format, where games start in positions selected from historical encounters, brought excitement to both participants and spectators. Following three rounds, Magnus Carlsen is leading with 2&frac12; points after grabbing wins over Viswanathan Anand and Hikaru Nakamura. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/casablanca-chess-2024-d1",
+         "pubDate" : "Sun, 19 May 2024 11:00:00",
+         "title" : "Casablanca Chess: Carlsen beats Nakamura and Anand, leads"
+      },
+      {
+         "description" : " The Casablanca Chess tournament takes place May 18th-19th. This is part of the Morocco Chess Week. Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand and Amin Bassem play a double round robin rapid. The twist is the \"players are given a position from a game that has already been played (or could also be imagined). However, this position must meet several well-defined criteria. First and foremost, the evaluation should be roughly equal (around 0.00, according to engines).\"",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/casablanca-chess-2024",
+         "pubDate" : "Sun, 19 May 2024 10:29:00",
+         "title" : "Casablanca Chess 2024 - Games and Results"
+      },
+      {
+         "description" : " The 7th Sharjah Masters start of Tuesday 14th. Top seeds: Erigaisi, Maghsoodloo, Yu Yangyi, Radjabov, Tabatabaei, Sarana, Artemiev, Esipenko, Fedoseev, Sevian etc.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/7th-sharjah-masters-2024",
+         "pubDate" : "Sun, 19 May 2024 09:36:00",
+         "title" : "7th Sharjah Masters 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3030",
+         "pubDate" : "Sun, 19 May 2024 06:26:32",
+         "title" : "FIDE 100 celebrations reach Morocco"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110244176.cms\" />Indian Grandmaster Aravindh Chithambaram leads the Sharjah Masters chess tournament after defeating A R Saleh Salem in the fifth round. Chithambaram, with 4.5 points, is ahead of four players with four points each. Top seed Arjun Erigaisi and Sankalp Gupta have 3.5 points. The tournament offers a USD 52,000 prize pool and has four rounds remaining.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmaster-aravindh-chithambaram-takes-lead-in-sharjah-masters-chess-tournament/articleshow/110244176.cms",
+         "pubDate" : "Sun, 19 May 2024 05:00:24",
+         "title" : "Indian GM Chithambaram takes lead in Sharjah"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3029",
+         "pubDate" : "Sat, 18 May 2024 21:11:06",
+         "title" : "Casablanca Chess: Carlsen takes the lead on Day 1"
+      },
+      {
+         "description" : "GM Magnus Carlsen gained a full-point lead at Casablanca Chess 2024 on day one. Combining his knowledge of chess history and his enjoyment of venturing beyond modern opening theory, Carlsen scored 2.5/3, defeating his longtime rivals GMs Viswanath...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-casablanca-chess-day-1",
+         "pubDate" : "Sat, 18 May 2024 17:05:00",
+         "title" : "Carlsen Reignites Kasparov's Sicilian To Take Lead"
+      },
+      {
+         "description" : "GM Oleksandr Bortnyk is&#38;nbsp;Bullet Brawl&#39;s latest victor after he dispatched GM Jose Martinez in a winner-takes-all final game during Saturday&#39;s two-hour arena. Finishing on 246 points, Bortnyk built a 25-game win streak when it mattered most, ca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-may-18-2024",
+         "pubDate" : "Sat, 18 May 2024 16:22:00",
+         "title" : "Bortnyk Ousts Martinez In Final Game Of Bullet Brawl"
+      },
+      {
+         "description" : "To what extent is memory power important in chess? At a social level, hardly at all, but at the higher echelons of face to face competitive chess, a well-honed memory is an important asset. In particular, memory plays a vital role in three separate phases of the game, namely: memorisation of precedents in the theory []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/memory-power-and-chess/",
+         "pubDate" : "Sat, 18 May 2024 07:41:27",
+         "title" : "Memory power and chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3028",
+         "pubDate" : "Fri, 17 May 2024 21:44:26",
+         "title" : "Morocco Chess Week kicks off in Casablanca"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3027",
+         "pubDate" : "Fri, 17 May 2024 13:59:54",
+         "title" : "Freedom Holding Corp. to Be Title Sponsor of Landmark Chess Event in New York City"
+      },
+      {
+         "description" : " It is with great sadness that I report the passing of Milan Ninchich. Milan was an active player on the Canberra chess scene for over 30 years, having moved here from Perth after taking a government job in the nation's capital. On arrival he became an active member of the Belconnen Chess Club, participating in numerous club and weekend events. A player who enjoyed attacking chess, he proved to be a challenging opponent, and the games he produce (win or lose) were always enjoyable to play through. I played him at least 20 times (not counting offhand games) going back to the early 1990's. It was one of our early games that was the most memorable, as it was a game that I still consider <a href",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/milan-ninchich-1957-2024.html",
+         "pubDate" : "Fri, 17 May 2024 11:30:00",
+         "title" : "Milan Ninchich (1957 - 2024)"
+      },
+      {
+         "description" : "The 22nd edition of the European Union Youth Chess Championship U8-U14 will take place from 4th-13th August 2024 in RoÅ¾nov pod RadhoÅ¡tÄ›m, Czech Republic. The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The Championship is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in each of the categories: U8, U10, U12, U14, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-union-youth-u8-u14-chess-championship-2024-official-regulations/",
+         "pubDate" : "Fri, 17 May 2024 08:22:53",
+         "title" : "European Union Youth U8-U14 Chess Championship 2024 - Official regulations"
+      },
+      {
+         "description" : "England's seniors dominated the European Senior Team Chess Championships at Terme Catez, Slovenia, winning three team golds in the Open 50+ and 65+ as well...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/estcc-triple-champions/",
+         "pubDate" : "Fri, 17 May 2024 08:00:52",
+         "title" : "ESTCC Triple Champions!"
+      },
+      {
+         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
+         "pubDate" : "Fri, 17 May 2024 07:55:44",
+         "title" : "Entry form now open for 2024 British Chess Championships"
+      },
+      {
+         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
+         "pubDate" : "Fri, 17 May 2024 07:50:42",
+         "title" : "English Championship Series 2024"
+      },
+      {
+         "description" : " England over-50s edged out Italy and Hungary on tie-break, while England over-65s shone at the European senior championships in Slovenia England seniors won triple European gold on Wednesday as the generation that was second only to the USSR in the 1980s and 1990s continued to show its enduring strength. The nine-day tournament at Terme Catez, Slovenia, included 21 over-50 teams and 30 over-65s. England's all-grandmaster over-50 squad of John Emms, Glenn Flear, Keith Arkell, Nigel Davies and ­Stuart Conquest recovered well from a loss to Montenegro in round two, ­winning their next five matches before a defeat by Hungary in the ­penultimate round. <a href=\"https://www.theguardian.com/sport/",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/may/17/chess-england-seniors-score-triple-european-gold-and-eye-world-titles",
+         "pubDate" : "Fri, 17 May 2024 07:00:33",
+         "title" : "Chess: England seniors score triple European gold and eye world titles"
+      },
+      {
+         "description" : "21 years after her mother won the title, WGM Lu Miaoyi clinched her first Chinese Women&#39;s Championship on Thursday in Xinhua, Jiangsu, China. The 14-year-old prodigy defeated WGM Ni Shiqun in a blitz playoff after both had tied for first place wit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chinese-championships-lu-miaoyi-wang-yue",
+         "pubDate" : "Fri, 17 May 2024 03:59:00",
+         "title" : "14-Year-Old Lu Miaoyi Wins Chinese Women's Championship; Wang Yue Takes Open"
       },
       {
          "description" : "With the initiative and efforts of the European Chess Union (ECU), the European Parliament published a Declaration on 15 March 2012 on the introduction of...",
@@ -18,6 +178,14 @@ news_feed (
          "title" : "Chess in Primary Education - Professional Growth"
       },
       {
+         "description" : "Swedish chess player, celebrity, and content creator WFM Anna Cramling has joined YouTube&#39;s exclusive One Million Subscribers&#39; Club, becoming the 11th to hit the milestone. Chess content creators have played a pivotal role in the surge of chess ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anna-cramling-reaches-1-million-subscribers",
+         "pubDate" : "Thu, 16 May 2024 13:57:39",
+         "title" : "Anna Cramling Reaches Million Milestone"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,12 +194,12 @@ news_feed (
          "title" : "Guinness World Records Attempt: Registration of tournaments open"
       },
       {
-         "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
-         "pubDate" : "Thu, 16 May 2024 12:45:00",
-         "title" : "Sharjah Masters - Live!"
+         "description" : "A one-day, $4 million, poker-style buy-in chess tournament is on the agenda for November 21, to be battled out among GMs Nodirbek Abdusattorov, Fabiano Caruana, Ian Nepomniachtchi, and Hans Niemann. The whole thing sprung out of a conversation thi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/4-million-buy-in-tournament-wadim-rosenstein-abdusattorov-caruana-nepomniachtchi-niemann",
+         "pubDate" : "Thu, 16 May 2024 12:59:00",
+         "title" : "$4 Million Buy-In Tournament Planned For November With Abdusattorov, Caruana, Nepomniachtchi, Niemann"
       },
       {
          "description" : "GM Alireza Firouzja just won Division I of the Champions Chess Tour Chess.com Classic 2024 on Wednesday, while GM Maxime Vachier-Lagrave took Division II and GM Dmitry Andreikin Division III. It&#39;s not often we see GM Magnus Carlsen lose even a g...",
@@ -64,14 +232,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-at-guwahati-assam-on-21-22-june-2024/",
          "pubDate" : "Thu, 16 May 2024 08:40:55",
          "title" : "SNA Seminar & Exam at Guwahati Assam on 21-22 June 2024"
-      },
-      {
-         "description" : "England's seniors dominated the European Senior Team Chess Championships at Terme Catez, Slovenia, winning three team golds in the Open 50+ and 65+ as well...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/estcc-triple-champions/",
-         "pubDate" : "Thu, 16 May 2024 07:30:52",
-         "title" : "ESTCC Triple Champions!"
       },
       {
          "description" : "Chess.com is announcing Kids vs. Stars&#38;mdash;a series of matches between the generations of bright young talent facing your favorite stars and content creators! Will the kids take over or will the stars defend the guard? Don&#39;t miss this! This...",
@@ -112,14 +272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-8-firouzja-wins",
          "pubDate" : "Wed, 15 May 2024 13:24:00",
          "title" : "Firouzja Beats Carlsen Twice In Grand Final, Wins 2024 Chess.com Classic"
-      },
-      {
-         "description" : "Defending champion Arjun Erigaisi tops the seeding list at the 7th Sharjah Masters and in the opening round on Tuesday he defeated Eltaj Safarli. With this win Erigaisi overtook Gukesh in the live rankings and is now India's new number one - at least for one day. | Photos: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-erigaisi-starts-with-a-win-to-become-india-s-number-one",
-         "pubDate" : "Wed, 15 May 2024 12:06:50",
-         "title" : "Sharjah Masters: Erigaisi starts with a win to become India's number one"
       },
       {
          "description" : "The Following Indian players are provisionally identified (subject to change and approval from FIDE) to take part in the World Junior &#38; Junior Girls Chess",
@@ -186,28 +338,12 @@ news_feed (
          "title" : "Vachier-Lagrave Wins Division II, Andreikin Takes Division III"
       },
       {
-         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
-         "pubDate" : "Tue, 14 May 2024 09:00:44",
-         "title" : "Entry form now open for 2024 British Chess Championships"
-      },
-      {
          "description" : "ECU E-Magazine April 2024 is out! In this edition of the ECU Magazine you may read about: The April 2024 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/ecu-e-magazine-april-2024/",
          "pubDate" : "Tue, 14 May 2024 08:21:40",
          "title" : "ECU E-Magazine April 2024"
-      },
-      {
-         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
-         "pubDate" : "Tue, 14 May 2024 08:00:42",
-         "title" : "English Championship Series 2024"
       },
       {
          "description" : "The hardest hitting event in chess is back: the mighty BlitzChamps, which pits NFL superstars against each other to find football&#38;rsquo;s top chess player. BlitzChamps III kicks off on May 22 with $100,000 at stake for charity, and that all-impo...",
@@ -346,7 +482,7 @@ news_feed (
          "title" : "Carlsen Beats Keymer, Wins 16th CCT Winners Final In Division I"
       },
       {
-         "description" : " Spelman's Jamila Thompson is a native New Yorker who was taught chess by her father. She continued her passion as a collegiate and joined other chess players in the Atlanta University Center (AUC) to match wits. Morehouse College hosted the club meetings and Thompson would attend along with a few others from Spelman, including Shaniah The post <a href=\"https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/\">HBCU Chess Spotlight: Spelman College</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Jamila Thompson is a graduating senior at Spelman College. The native New Yorker was taught chess by her father and continued her passion as a collegiate. While at Spelman, she joined other chess players in the Atlanta University Center (AUC) to match wits. Morehouse College hosted the club meetings and Thompson would attend along with The post <a href=\"https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/\">HBCU Chess Spotlight: Spelman College</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/",
@@ -482,7 +618,7 @@ news_feed (
          "title" : "Nepomniachtchi, Caruana On Ding Mystery, Gukesh, And World Championship Match"
       },
       {
-         "description" : " North Carolina A&#38;T Aggies, 1st place team (2024 HBCU Chess Classic)Photo by Daaim Shabazz/The Chess Drum Dressed in their North Carolina A&#38;T gear, &#8220;Aggie Pride&#8221; was on full display at the 2024 HBCU Chess Classic. Currently the largest HBCU, the Aggies came to Atlanta to improve on last year's performance last year. Nicolas Perkins, a The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/\">HBCU Chess Spotlight: North Carolina A&#038;T</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " North Carolina A&#38;T Aggies, 1st place team (2024 HBCU Chess Classic)Photo by Daaim Shabazz/The Chess Drum Dressed in their North Carolina A&#38;T gear, &#8220;Aggie Pride&#8221; was on full display at the 2024 HBCU Chess Classic. Currently the largest HBCU, the Aggies rode six hours from North Carolina to Atlanta to improve on last year's performance The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/\">HBCU Chess Spotlight: North Carolina A&#038;T</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/",
@@ -520,14 +656,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-2",
          "pubDate" : "Thu, 09 May 2024 14:03:00",
          "title" : "Vachier-Lagrave, Caruana, Wesley So Kicked Out Of Division I By Ivic, Sarana"
-      },
-      {
-         "description" : "GM Magnus Carlsen came within a whisker of beating GM Gukesh Dommaraju and taking the sole lead in the 2024 Superbet Rapid &#38;amp; Blitz Poland, but in the end, he had to settle for joint first place with GM Wei Yi, who won all three games on day tw...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-2",
-         "pubDate" : "Thu, 09 May 2024 13:59:00",
-         "title" : "Carlsen Lets Gukesh Escape, Leads With Wei Yi"
       },
       {
          "description" : " HBCU Chess has a long but largely undocumented history. During the 2024 HBCU Chess Classic hosted by The Black Odyssey, six Historically Black Colleges and Universities (known as &#8220;HBCUs&#8221;) gathered to participate in the 2nd annual event. Hampton, Howard, Morehouse, and North Carolina A&#38;T, each fielded two teams. While Florida A&#38;M University (FAMU) only sent The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/meet-the-kings-queens-of-hbcu-chess/\">Meet the Kings &#038; Queens of HBCU Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -578,14 +706,6 @@ news_feed (
          "title" : "Rest in Peace IM Varugeese Koshy "
       },
       {
-         "description" : "GM Fabiano Caruana finished first in the Play-in stage of the Champions Chess Tour Chess.com Classic 2024. It&#39;s a resounding comeback for the world number-two who had a disappointing final round in the 2024 FIDE Candidates Tournament but showed gr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-1",
-         "pubDate" : "Wed, 08 May 2024 14:09:00",
-         "title" : "Caruana Wins In Final Round To Take Sole 1st In Chess.com Classic Play-in"
-      },
-      {
          "description" : " The 57th Capablanca Memorial takes place 3rd to 12th May 2024. Ruslan Ponomariov, Aryan Chopra, Luis Ernesto Quesada Perez, Evgeny Romanov, Carlos Daniel Albornoz Cabrera and Mads Andersen play.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -594,36 +714,12 @@ news_feed (
          "title" : "57th Capablanca Memorial 2024 - Games and Results"
       },
       {
-         "description" : "GM Kirill Shevchenko is the absolute underdog in the 2024 Superbet Rapid &#38;amp; Blitz Poland, but he scored a perfect 6/6 on day one of the 2024 Grand Chess Tour after pouncing on blunders by GMs Gukesh Dommaraju, Praggnanandhaa Rameshbabu, and Vin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-1",
-         "pubDate" : "Wed, 08 May 2024 12:50:00",
-         "title" : "Shevchenko Leads Carlsen And Abdusattorov After Perfect Start"
-      },
-      {
          "description" : "Organised by the British Chess Problem Society. Entry to this competition sponsored by Winton is by solving the starter problem below. White, playing up the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2024-2025/",
          "pubDate" : "Wed, 08 May 2024 09:40:58",
          "title" : "Winton British Chess Solving Championship 2024 - 2025"
-      },
-      {
-         "description" : "GM Tuan Minh Le won the early edition of Titled Tuesday on May 7 with a score of 9.5/11, while the rest of Tuesday&#39;s highlights belonged to GM Magnus Carlsen. Carlsen first played a4/a5 on move one and Ra3/Ra6 on move two in all 11 games of the ea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/le-carlsen-win-titled-tuesday-may-7-2024",
-         "pubDate" : "Wed, 08 May 2024 08:34:51",
-         "title" : "Carlsen Wins Final Clash To Take Tuesday From Nakamura"
-      },
-      {
-         "description" : "We&#39;re happy to announce the release of IM Jeremy Silman&#39;s classic The Amateur&#39;s Mind on Chessable. Replace the most common amateur strategic misconceptions with the decision-making process of the masters and start dominating your opponents! C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/amateurs-mind-chessable",
-         "pubDate" : "Wed, 08 May 2024 08:00:00",
-         "title" : "Break Free From Amateur Mistakes With Silman's New Chessable Course"
       },
       {
          "description" : "After a history-making month for Indian chess, the All India Chess Federation unveiled a host of initiatives to further popularise the sport in India, and",
@@ -904,126 +1000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2997",
          "pubDate" : "Mon, 29 Apr 2024 12:28:29",
          "title" : "ISF Gymnasiade 2024 in Chess: Registration is open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2996",
-         "pubDate" : "Sun, 28 Apr 2024 21:50:54",
-         "title" : "Winners crowned at World Rapid & Blitz Cadet Championship 2024"
-      },
-      {
-         "description" : "IM Ulviyya Fataliyeva (AZE, 2377) heads into the last round of the European Women's Chess Championship 2024 with a full point lead! Today's top-board encounter between IM Ulviyya Fataliyeva and IM Irina Bulmaga (ROU, 2394) finished in a draw after only 12 moves of play. A draw was enough for Azerbaijani to keep a full point lead and to keep her way towards the title. Scoring unbeaten 8/9 points, Fataliyeva is ahead of five players who tie for second place []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-heads-into-the-last-round-of-the-european-womens-chess-championship-2024-with-a-full-point-lead/",
-         "pubDate" : "Sun, 28 Apr 2024 19:31:15",
-         "title" : "IM Ulviyya Fataliyeva heads into the last round of the European Women's Chess Championship 2024 with a full point lead"
-      },
-      {
-         "description" : " Daniel Buckley (Engineering), Florian Dorleans (FAMU Alumnus), Caleb Parker (Computer Information Systems), Lee Parker (School of Allied Health), Dr. Daaim Shabazz (School of Business &#38; Industry) At the 2nd HBCU Chess Classic, Florida A&#38;M sophomore Caleb Parker won the individual event with 5/5. The event was held at the Georgia Institute of Technology near the The post <a href=\"https://www.thechessdrum.net/blog/2024/04/28/caleb-parker-is-2024-hbcu-chess-champion/\">Caleb Parker is 2024 HBCU Chess Champion!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/04/28/caleb-parker-is-2024-hbcu-chess-champion/",
-         "pubDate" : "Sun, 28 Apr 2024 13:00:23",
-         "title" : "Caleb Parker is 2024 HBCU Chess Champion!"
-      },
-      {
-         "description" : "IM Ulviyya Fataliyeva (AZE, 2377) extended her lead in the European Women's Chess Championship 2024 after defeating WIM Alicja Sliwicka (POL, 2315) yesterday in the 8th round. Playing with black pieces, Ulviyya Fataliyeva took the space advantage in the early part of the game with a slight positional advantage. Sliwicka had her chance to take over the edge after Fataliyeva's mistake 25Na7? Instead of going for 26.g5, Alicja played suspiciously 26.a3? and the Azerbaijani once again took control over the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-extends-the-lead-in-the-european-womens-chess-championship-2024/",
-         "pubDate" : "Sun, 28 Apr 2024 07:33:47",
-         "title" : "IM Ulviyya Fataliyeva extends the lead in the European Women's Chess Championship 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2995",
-         "pubDate" : "Sat, 27 Apr 2024 20:21:39",
-         "title" : "Azerbaijan Championship: Aydin Suleymanli wins maiden title"
-      },
-      {
-         "description" : "Right Mood Right Move. That's the tagline of ChessMood I love it and fully agree. Feeling good (confident, happy, relaxed) while playing chess can help you find better moves and ultimately get better results. A clear mind can focus better on complex chess positions, leading you to make better decisions which lead []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/habits-for-better-mood/",
-         "pubDate" : "Sat, 27 Apr 2024 13:00:00",
-         "title" : "3 Simple Habits for a Clearer Mind and Better Moves"
-      },
-      {
-         "description" : " The 2024 ACT Teams Rapid Championship is being held on Sunday, 5th May 2024, at Campbell High. This event is open to all ACTCA members as well as all members of the ACTJCL. The format of the tournament is teams of 4, playing 7 rounds of 15 minute chess. The last event was held in 2022 and a good time was had by all. <div><b>Tournament Details</b><br />Date: Sunday 5th May 2024 - Registration from 9:30am, Prize giving at 3:30pm<br /><br />Venue: Campbell High School, Trealor Cres, Campbell ACT<br /><br />Rounds: 7<br /><br />Time control: G15+5s<br /><br />Prizes: 1st, 2nd and 3rd placed trophies. Medals for the best scorer on each board. Bonus prizes for best dressed team, best work/social ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/2024-act-teams-rescheduled-to-5th-may.html",
-         "pubDate" : "Sat, 27 Apr 2024 12:27:00",
-         "title" : "2024 ACT Teams - Rescheduled to 5th May"
-      },
-      {
-         "description" : "IM Ulviyya Fataliyeva (AZE, 2377) maintained the sole lead after seven played rounds at the European Women's Chess Championship 2024 in Rhodes, Greece. In the top-board all-Azerbeijani derby of the sixth round, Ulviyya Fataliyeva defeated WGM Govhar Beydullayeva (AZE, 2402) with black pieces. The game was quite balanced until 30.Nc4? when Fataliyeva gained a clear advantage. She further improved the edge and forced Beydullayeva to resign after a couple of moves. IM Lela Javakhishvili (GEO, 2447) took a victory with []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-maintains-the-sole-lead-at-the-european-womens-chess-championship-2024/",
-         "pubDate" : "Sat, 27 Apr 2024 08:08:48",
-         "title" : "IM Ulviyya Fataliyeva maintains the sole lead at the European Women's Chess Championship 2024"
-      },
-      {
-         "description" : "Dommaraju Gukesh, born May 29 2006, has sensationally won the Candidates Tournament to decide the challenger for the world chess title, the match for which will be staged later this year. When Garry Kasparov, at the age of 22, won the championship in 1985, it was believed impossible for any younger player to supplant his record. Now, the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/can-gukesh-rule-the-world-at-18/",
-         "pubDate" : "Sat, 27 Apr 2024 05:38:39",
-         "title" : "Can Gukesh rule the world at 18?"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2994",
-         "pubDate" : "Sat, 27 Apr 2024 05:00:21",
-         "title" : "FIDE World Championship Match 2024 - Call for bids"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2993",
-         "pubDate" : "Fri, 26 Apr 2024 18:49:36",
-         "title" : "World Cadet Rapid & Blitz Championship starts in Durres, Albania"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2991",
-         "pubDate" : "Fri, 26 Apr 2024 15:50:35",
-         "title" : "FIDE Women's Grand Prix 2024-2025 Qualifiers"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2992",
-         "pubDate" : "Fri, 26 Apr 2024 14:46:29",
-         "title" : "FIDE Council meeting 2024 8, 13 April List of Decisions published"
-      },
-      {
-         "description" : "IM Ulviyya Fataliyeva (AZE, 2377) emerged as the sole leader of the European Women's Chess Championship 2024 after four played rounds. Playing on the top board yesterday, Ulviyya Fataliyeva had white pieces against 15-year-old Ukrainian talent WCM Bozhena Piddubna (UKR, 2005). Fataliyeva gained a clear advantage from the early part of the opening and gradually improved it to crush her opponent without giving a single chance. The top 10 boards yesterday saw as many as nine decisive results and eight []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-takes-sole-lead-in-the-european-womens-chess-championship-2024/",
-         "pubDate" : "Fri, 26 Apr 2024 08:20:47",
-         "title" : "IM Ulviyya Fataliyeva takes sole lead in the European Women's Chess Championship 2024"
-      },
-      {
-         "description" : " The Chennai teenager won the Candidates by just half a point and will take on China's Ding Liren for the world crown in a 14-game series later this year Gukesh Dommaraju became, at 17, the youngest ever Candidates <em> ­</em>winner and world championship challenger on Sunday after edging out the favourites Fabiano Caruana, Hikaru Nakamura and Ian Nepomniachtchi in a marathon six-hour final round in Toronto. Gukesh will now meet the holder, China's Ding Liren, in a 14-game series for the world crown from 20 November to 15 December. The world No 1, Norway's Magnus Carlsen, abdicated his title in 2023 after a 10-year reign. <a href=\"https://www.theguardian.com/sport/2024/apr/26/chess-gukesh-17",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/2024/apr/26/chess-gukesh-17-shocks-favourites-to-become-youngest-challenger-for-title",
-         "pubDate" : "Fri, 26 Apr 2024 07:00:34",
-         "title" : "Chess: Gukesh, 17, shocks favourites to become youngest challenger for title"
       }
    ]
 }
