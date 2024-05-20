@@ -18,6 +18,14 @@ news_feed (
          "title" : "Magnus Carlsen triumphs in Casablanca Chess Variant Tournament"
       },
       {
+         "description" : "Unleash the beast! Chess played its part at an unlikely event over the weekend&#38;mdash;the 2024 Professional Bull Riding World Finals. As PBR celebrated its most prestigious event of the year at the AT&#38;amp;T Stadium in Arlington, Texas, two cowboy...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-2024-pbr-world-finals",
+         "pubDate" : "Mon, 20 May 2024 13:40:59",
+         "title" : "When Bull Riding Meets Chess: Game Makes Its Move At 2024 PBR World Finals"
+      },
+      {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress. The Assembly starts at 10.00 am.&#160; All the information about airports and hotels for the FIDE Congress will be published by FIDE. Requests for bookings and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -128,6 +136,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-may-18-2024",
          "pubDate" : "Sat, 18 May 2024 16:22:00",
          "title" : "Bortnyk Ousts Martinez In Final Game Of Bullet Brawl"
+      },
+      {
+         "description" : "Imagine facing a saber-tooth tiger that hasn't eaten in days. Your body goes into fight-or-flight mode. Your heart begins to race. And you follow your primal instincts. Miraculously, you can run way quicker than you ever did before, and without thinking much, you somehow get into safety. You can't explain how and why, but you []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/chess-anxiety/",
+         "pubDate" : "Sat, 18 May 2024 13:17:00",
+         "title" : "How To Overcome Chess Anxiety"
       },
       {
          "description" : "To what extent is memory power important in chess? At a social level, hardly at all, but at the higher echelons of face to face competitive chess, a well-honed memory is an important asset. In particular, memory plays a vital role in three separate phases of the game, namely: memorisation of precedents in the theory []",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-3",
          "pubDate" : "Fri, 10 May 2024 12:35:00",
          "title" : "Carlsen, Keymer, Duda Win After Doubling Up Tournaments In Poland"
-      },
-      {
-         "description" : "GM Wei Yi posted a five-game winning streak as he scored 13 of a possible 18 points to top the table after the rapid section of the 2024 Superbet Rapid &#38;amp; Blitz Poland. World number-one Magnus Carlsen is just a point behind before the weekend&#39;s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-3",
-         "pubDate" : "Fri, 10 May 2024 11:32:00",
-         "title" : "Wei Yi Wins Rapid, Carlsen Still Unbeaten"
       },
       {
          "description" : "",
