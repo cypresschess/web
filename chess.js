@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress. The Assembly starts at 10.00 am.&#160; All the information about airports and hotels for the FIDE Congress will be published by FIDE. Requests for bookings and []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-general-assembly-2024/",
+         "pubDate" : "Mon, 20 May 2024 13:05:09",
+         "title" : "ECU GENERAL ASSEMBLY 2024"
+      },
+      {
          "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/schachbundesliga-2023-24",
          "pubDate" : "Mon, 29 Apr 2024 15:33:00",
          "title" : "Schachbundesliga 2023-24 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2997",
-         "pubDate" : "Mon, 29 Apr 2024 12:28:29",
-         "title" : "ISF Gymnasiade 2024 in Chess: Registration is open"
       }
    ]
 }
