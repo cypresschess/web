@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In any sport, the win can be the result of a mistake, and a player's exploitation of it! The time has come to cut out the funny business, quit over-thinking, and go mate your opponent. There's no better way to claim a quick victory than an efficient, well-executed attack. But then you need to have a sharp tactical eye and a will to go all-in! In the Sharjah Masters two wild games drew the attention of the public. Analysis by Efstratios Grivas.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/wild-ttmes-in-sharjah",
+         "pubDate" : "Mon, 20 May 2024 20:00:00",
+         "title" : "Wild Times in Sharjah"
+      },
+      {
+         "description" : "Magnus Carlsen scored 4&frac12;/6 points to claim outright victory in the inaugural edition of the Casablanca Chess Tournament. On the second day of action, Carlsen beat Bassem Amin and signed draws against Hikaru Nakamura and Vishy Anand. Nakamura finished in second place with 3&frac12; points. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/casablanca-chess-2024-d2",
+         "pubDate" : "Mon, 20 May 2024 14:20:00",
+         "title" : "Magnus Carlsen triumphs in Casablanca Chess Variant Tournament"
+      },
+      {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress. The Assembly starts at 10.00 am.&#160; All the information about airports and hotels for the FIDE Congress will be published by FIDE. Requests for bookings and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -10,12 +26,12 @@ news_feed (
          "title" : "ECU GENERAL ASSEMBLY 2024"
       },
       {
-         "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
-         "pubDate" : "Mon, 20 May 2024 12:45:00",
-         "title" : "Sharjah Masters - Live!"
+         "description" : "In war-torn Gaza, a teenage duo has captured the hearts of millions online with inspiring videos showcasing a chess initiative for displaced children. &#34;Day 1 of sharing our daily routine in war zone.&#34; Those are the words of the teenage duo beh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/teenagers-found-childrens-chess-club-in-gaza-reach-millions-on-instagram",
+         "pubDate" : "Mon, 20 May 2024 09:51:00",
+         "title" : "Teenagers Found Children's Chess Club In Gaza, Reach Millions On Instagram"
       },
       {
          "description" : " <p class=\"lead\">GM Magnus Carlsen triumphed at the inaugural Casablanca Chess 2024, with Hikaru Nakamura expressing his newfound love for this chess variant. Unlike Fischer Random Chess, Casablanca Chess starts with positions inspired by historical matches, providing a fresh challenge while minimizing the dominance of opening theory and engine analysis. With Magnus Carlsen's backing and his stated boredom with classical chess, could this mark the dawn of a new era in the chess world? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Magnus-Carlsen-chess-chesscom-casablanca-chess-fide.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by M",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3031",
          "pubDate" : "Mon, 20 May 2024 08:01:01",
          "title" : "Magnus Carlsen triumphs in first Casablanca Chess Variant Tournament"
-      },
-      {
-         "description" : "Draws on the top three boards in round 6 of the Sharjah Masters allowed Aravindh Chithambaram to keep the sole lead in the standings. Arjun Erigaisi and Alexey Sarana grabbed full points to join the chasing pack, which now includes six players. Meanwhile, fourth seed Teimour Radjabov obtained a remarkable win over Arseniy Nesterov, his first of the event. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-6",
-         "pubDate" : "Mon, 20 May 2024 00:15:00",
-         "title" : "Sharjah: Aravindh keeps sole lead, six players a half point back"
       },
       {
          "description" : "GM Magnus Carlsen triumphed at Casablanca Chess 2024, clinching first in a dynamic finish vs. GM Hikaru Nakamura.&#38;nbsp; Nakamura himself won second while GM Viswanathan Anand finished third. The 15th world champion&#39;s compelling last-round victor...",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/lets-start-at-start.html",
          "pubDate" : "Sun, 19 May 2024 13:56:00",
          "title" : "Let's start at the start"
-      },
-      {
-         "description" : "Casablanca Chess made a strong impression on the first day of play in Morocco. The innovative format, where games start in positions selected from historical encounters, brought excitement to both participants and spectators. Following three rounds, Magnus Carlsen is leading with 2&frac12; points after grabbing wins over Viswanathan Anand and Hikaru Nakamura. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/casablanca-chess-2024-d1",
-         "pubDate" : "Sun, 19 May 2024 11:00:00",
-         "title" : "Casablanca Chess: Carlsen beats Nakamura and Anand, leads"
       },
       {
          "description" : " The Casablanca Chess tournament takes place May 18th-19th. This is part of the Morocco Chess Week. Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand and Amin Bassem play a double round robin rapid. The twist is the \"players are given a position from a game that has already been played (or could also be imagined). However, this position must meet several well-defined criteria. First and foremost, the evaluation should be roughly equal (around 0.00, according to engines).\"",
@@ -650,14 +650,6 @@ news_feed (
          "title" : "Chess: Britain's 4NCL national league has closest ever three-way finish"
       },
       {
-         "description" : "GM Ian Nepomniachtchi said reigning world champion GM Ding Liren would be a &#34;massive favorite&#34; in the upcoming title match against GM Gukesh Dommaraju if he can recover his 2019 form, while GM Fabiano Caruana thinks one good result can make a huge...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nepomniachtchi-caruana-on-ding-mystery-gukesh-candidates",
-         "pubDate" : "Fri, 10 May 2024 04:38:00",
-         "title" : "Nepomniachtchi, Caruana On Ding Mystery, Gukesh, And World Championship Match"
-      },
-      {
          "description" : " North Carolina A&#38;T Aggies, 1st place team (2024 HBCU Chess Classic)Photo by Daaim Shabazz/The Chess Drum Dressed in their North Carolina A&#38;T gear, &#8220;Aggie Pride&#8221; was on full display at the 2024 HBCU Chess Classic. Currently the largest HBCU, the Aggies rode six hours from North Carolina to Atlanta to improve on last year's performance The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/\">HBCU Chess Spotlight: North Carolina A&#038;T</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1016,14 +1008,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/anatoly-bykhovski-turns-90",
          "pubDate" : "Tue, 30 Apr 2024 10:00:00",
          "title" : "Anatoly Bykhovski turns 90!"
-      },
-      {
-         "description" : " The German Schachbundesliga took place over 15 rounds Sat 21st Oct to Sun 28th Apr 2024. SC Viernheim were the surprise champions winning all their matches and finishing 3 points clear of Baden-Baden. This is the first time Baden-Baden didn't win the league since the 2015/16 season, and only the second time they didn't win since their first title in 2005/06.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/schachbundesliga-2023-24",
-         "pubDate" : "Mon, 29 Apr 2024 15:33:00",
-         "title" : "Schachbundesliga 2023-24 - Games and Results"
       }
    ]
 }
