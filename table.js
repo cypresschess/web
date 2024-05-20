@@ -1,4 +1,9 @@
 jtable([
+"HOUSTON","2024-05-18","11","<a href=http://www.uschess.org/msa/XtblMain.php?202405181632 target='_blank'>CHESSPANDA05182024SATURDAY</a>",
+"KATY","2024-05-18","85","<a href=http://www.uschess.org/msa/XtblMain.php?202405181172 target='_blank'>24ARISTOI</a>",
+"HOUSTON","2024-05-18","33","<a href=http://www.uschess.org/msa/XtblMain.php?202405180842 target='_blank'>PISD MAY 2024- MAY 2024 HIGH SCHOOL</a>",
+"HOUSTON","2024-05-18","42","<a href=http://www.uschess.org/msa/XtblMain.php?202405180802 target='_blank'>PISD MAY 2024- MAY 2024 INTERMEDIAT</a>",
+"SUGAR LAND","2024-05-17","8","<a href=http://www.uschess.org/msa/XtblMain.php?202405170292 target='_blank'>FBCC GRADUATION WEEKEND OPEN</a>",
 "SPRING","2024-05-15","25","<a href=http://www.uschess.org/msa/XtblMain.php?202405159412 target='_blank'>KLEIN HOMESCHOOL 2024</a>",
 "CYPRESS","2024-05-13","4","<a href=http://www.uschess.org/msa/XtblMain.php?202405138352 target='_blank'>SECTION C</a>",
 "HOUSTON","2024-05-11","9","<a href=http://www.uschess.org/msa/XtblMain.php?202405116462 target='_blank'>CHESSPANDA05112024SATURDAY</a>",
@@ -194,9 +199,4 @@ jtable([
 "HOUSTON","2023-11-03","8","<a href=http://www.uschess.org/msa/XtblMain.php?202311031412 target='_blank'>REBECCA CHESS CLUB QUADS NOVEMBER 3, 2023</a>",
 "HOUSTON","2023-10-03  - 10-31","15","<a href=http://www.uschess.org/msa/XtblMain.php?202310310382 target='_blank'>OCT 2023 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2023-10-29","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310299172 target='_blank'>OCTOBER 29 SUNDAY SWISS</a>",
-"HUMBLE","2023-10-28","79","<a href=http://www.uschess.org/msa/XtblMain.php?202310288342 target='_blank'>ST MARY MAGDALENE SCHOLASTIC</a>",
-"HOUSTON","2023-10-28","5","<a href=http://www.uschess.org/msa/XtblMain.php?202310287822 target='_blank'>CHESSPANDA10282023SATURDAY</a>",
-"SUGAR LAND","2023-10-28","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310287322 target='_blank'>FBCC 2023 HALLOWEEN OPEN</a>",
-"SPRING","2023-10-27","38","<a href=http://www.uschess.org/msa/XtblMain.php?202310279352 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2023-10-27","28","<a href=http://www.uschess.org/msa/XtblMain.php?202310277462 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
