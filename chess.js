@@ -446,7 +446,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nfl-legends-fitzgerald-vick-line-up-for-blitzchamps-iii",
-         "pubDate" : "Tue, 14 May 2024 07:55:17",
+         "pubDate" : "Tue, 14 May 2024 07:55:00",
          "title" : "NFL Stars And Legends Line Up for BlitzChamps III: Who Will Be The League's New Chess MVP?"
       },
       {
