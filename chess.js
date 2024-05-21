@@ -1016,14 +1016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2999",
          "pubDate" : "Wed, 01 May 2024 11:10:28",
          "title" : "Abu Dhabi and FIDE Sign Agreement for 47th Chess Olympiad"
-      },
-      {
-         "description" : "The European Women's Chess Championship 2024 concluded yesterday in Rhodes, Greece. IM Ulviyya Fataliyeva (AZE, 2377) emerged as the sole Winner of the event scoring impressive 8.5/10 points, without a single loss in the tournament. The fight for the first place was widely opened in the last round, as the top-board saw the encounter between GM Nino Batsiashvili and IM Fataliyeva Ulviyya. Fataliyeva needed a draw to clinch the event and entered the game well prepared for Black pieces. Batsiashvili []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-clinches-european-womens-chess-championship-2024/",
-         "pubDate" : "Tue, 30 Apr 2024 18:56:22",
-         "title" : "IM Ulviyya Fataliyeva clinches European Women's Chess Championship 2024"
       }
    ]
 }
