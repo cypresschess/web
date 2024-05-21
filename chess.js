@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh edition of the Salamanca Chess Festival takes place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, including Michael Adams, Mariya Muzychuk and Ruslan Ponomariov, kicks off on Wednesday. The tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-preview",
+         "pubDate" : "Tue, 21 May 2024 16:00:00",
+         "title" : "Salamanca Chess Festival: Adams, Muzychuk and Ponomariov amid strong field"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110309282.cms\" />Indian Grandmaster Aravindh Chithambaram suffered a costly blunder in the seventh round of the Sharjah Masters, resulting in a loss to Bardiya Daneshvar of Iran and relinquishing his lead in the tournament. Aravindh's slip from the top spot saw him fall to joint third position, as American Sam Shankland defeated his compatriot Hans Moke Niemann to equal the Iranian's points tally.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sharjah-chess-aravindh-chithambaram-errs-loses-lead/articleshow/110309282.cms",
+         "pubDate" : "Tue, 21 May 2024 14:23:25",
+         "title" : "Sharjah Chess: Aravindh Chithambaram errs, loses lead"
+      },
+      {
+         "description" : "The entry form for the English Seniors Championships closes at midnight tomorrow 22/5/24. The event is held at the Holiday Inn Kenilworth-Warwick, 212 Abbey End,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-seniors-entry-closing-soon/",
+         "pubDate" : "Tue, 21 May 2024 13:51:23",
+         "title" : "English Seniors entry closing soon"
+      },
+      {
          "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -282,12 +306,12 @@ news_feed (
          "title" : "5 Things We Learned - Chess.com Classic 2024"
       },
       {
-         "description" : "Upgrading to the new server has been rescheduled for Sunday 16/5/24, and we will update this post accordingly. The email server at the ECF is...",
+         "description" : "Upgrading to the new server is now complete for the main ECF website, ancillary websites and ECF email thank you all for your patience.",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/website-planned-outage/",
          "pubDate" : "Thu, 16 May 2024 11:00:03",
-         "title" : "Website - planned outage update"
+         "title" : "Website - migration update"
       },
       {
          "description" : "The European Senior Team Chess Championship 2024 concluded yesterday in Terme Catez, Slovenia, with England's teams winning three golds in two age categories: 50+ and 65+. Heading into the last round in the 50+ section, three teams had the same score of match points to tie for the top: England 1, Hungary and Italy. The co-leaders won their last-round matches to maintain the leading position, and the tiebreak criteria determined the Winner and the medalists. England 1 defeated England 2 []",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "57th Capablanca Memorial 2024 - Games and Results"
       },
       {
-         "description" : "Organised by the British Chess Problem Society. Entry to this competition sponsored by Winton is by solving the starter problem below. White, playing up the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/winton-british-chess-solving-championship-2024-2025/",
-         "pubDate" : "Wed, 08 May 2024 09:40:58",
-         "title" : "Winton British Chess Solving Championship 2024 - 2025"
-      },
-      {
          "description" : "After a history-making month for Indian chess, the All India Chess Federation unveiled a host of initiatives to further popularise the sport in India, and",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1008,14 +1024,6 @@ news_feed (
          "link" : "https://www.europechess.org/im-ulviyya-fataliyeva-clinches-european-womens-chess-championship-2024/",
          "pubDate" : "Tue, 30 Apr 2024 18:56:22",
          "title" : "IM Ulviyya Fataliyeva clinches European Women's Chess Championship 2024"
-      },
-      {
-         "description" : " It isn't always the easiest thing to play someone in your immediate family, but it is sometimes necessary. In small events (local local club tournaments) it cannot always be avoided, although I was a little fortunate in avoiding my son in a lot of tournaments (I started with 3 wins in standard chess, but that was it for me). In bigger events it is less likely to happen, but depending on the profile of the players, it can often draw a crowd. <br /> <b>Botez,Andrea (1879) - Botez,Alexandra (1970) [D02]</b><br /> Sardinia Worldchess https://lichess.org/study/oBL0 (3.48), 29.04.2024 <script> new PgnViewer( { boardName: \"game1459\", movesFormat: \"default\", pgnString:'1.d4 Nf6 2.Bf4 e6 3.e3 d5 4.N",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/04/a-family-affair.html",
-         "pubDate" : "Tue, 30 Apr 2024 13:39:00",
-         "title" : "A family affair"
       }
    ]
 }
