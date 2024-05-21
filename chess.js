@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
+         "pubDate" : "Tue, 21 May 2024 12:45:00",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3033",
+         "pubDate" : "Tue, 21 May 2024 10:01:55",
+         "title" : "FIDE World Cup Under 8-12: Extra spots available"
+      },
+      {
          "description" : "Round 7 of the Sharjah Masters saw former sole leader Aravindh Chithambaram losing his game with white against Iranian GM Bardiya Daneshvar, the 50th seed in the event. Daneshvar thus leapfrogged Aravindh in the standings, as he is now sharing the lead with Sam Shankland. Shankland defeated his compatriot Hans Niemann after the latter misplayed a king and pawn endgame. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/teenagers-found-childrens-chess-club-in-gaza-reach-millions-on-instagram",
          "pubDate" : "Mon, 20 May 2024 09:51:00",
          "title" : "Teenagers Found Children's Chess Club In Gaza, Reach Millions On Instagram"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3032",
+         "pubDate" : "Mon, 20 May 2024 09:08:14",
+         "title" : "An Event Like No Other: FIDE World Rapid and Blitz Team Championships - Registration continues"
       },
       {
          "description" : " <p class=\"lead\">GM Magnus Carlsen triumphed at the inaugural Casablanca Chess 2024, with Hikaru Nakamura expressing his newfound love for this chess variant. Unlike Fischer Random Chess, Casablanca Chess starts with positions inspired by historical matches, providing a fresh challenge while minimizing the dominance of opening theory and engine analysis. With Magnus Carlsen's backing and his stated boredom with classical chess, could this mark the dawn of a new era in the chess world? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Magnus-Carlsen-chess-chesscom-casablanca-chess-fide.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by M",
@@ -992,22 +1016,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/04/a-family-affair.html",
          "pubDate" : "Tue, 30 Apr 2024 13:39:00",
          "title" : "A family affair"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2998",
-         "pubDate" : "Tue, 30 Apr 2024 11:22:42",
-         "title" : "EWCC 2024: Ulviyya Fataliyeva captures title"
-      },
-      {
-         "description" : "He was the coach of the USSR Youth National team from the mid-60s, until the collapse of the Soviet Union - a driving force behind the great generations of Soviet chess, but always in the shadow. On 30 April Anatoly Awraamowitsch Bykhovsky celebrates his 90th birthday. Chess Trainer Adrian Mykhalchyshyn describes the career of the man who helped created the chess zenith of the USSR.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/anatoly-bykhovski-turns-90",
-         "pubDate" : "Tue, 30 Apr 2024 10:00:00",
-         "title" : "Anatoly Bykhovski turns 90!"
       }
    ]
 }
