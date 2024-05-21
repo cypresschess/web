@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 7 of the Sharjah Masters saw former sole leader Aravindh Chithambaram losing his game with white against Iranian GM Bardiya Daneshvar, the 50th seed in the event. Daneshvar thus leapfrogged Aravindh in the standings, as he is now sharing the lead with Sam Shankland. Shankland defeated his compatriot Hans Niemann after the latter misplayed a king and pawn endgame. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-7",
+         "pubDate" : "Tue, 21 May 2024 06:35:00",
+         "title" : "Sharjah: Daneshvar takes down Aravindh, Shankland beats Niemann"
+      },
+      {
          "description" : "In any sport, the win can be the result of a mistake, and a player's exploitation of it! The time has come to cut out the funny business, quit over-thinking, and go mate your opponent. There's no better way to claim a quick victory than an efficient, well-executed attack. But then you need to have a sharp tactical eye and a will to go all-in! In the Sharjah Masters two wild games drew the attention of the public. Analysis by Efstratios Grivas.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/wild-ttmes-in-sharjah",
          "pubDate" : "Mon, 20 May 2024 20:00:00",
          "title" : "Wild Times in Sharjah"
-      },
-      {
-         "description" : "Magnus Carlsen scored 4&frac12;/6 points to claim outright victory in the inaugural edition of the Casablanca Chess Tournament. On the second day of action, Carlsen beat Bassem Amin and signed draws against Hikaru Nakamura and Vishy Anand. Nakamura finished in second place with 3&frac12; points. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/casablanca-chess-2024-d2",
-         "pubDate" : "Mon, 20 May 2024 14:20:00",
-         "title" : "Magnus Carlsen triumphs in Casablanca Chess Variant Tournament"
       },
       {
          "description" : "Unleash the beast! Chess played its part at an unlikely event over the weekend&#38;mdash;the 2024 Professional Bull Riding World Finals. As PBR celebrated its most prestigious event of the year at the AT&#38;amp;T Stadium in Arlington, Texas, two cowboy...",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-casablanca-chess-day-2",
          "pubDate" : "Sun, 19 May 2024 21:59:00",
          "title" : "Carlsen Wins Inaugural Casablanca Chess, Climbs Kasparov's Everest"
-      },
-      {
-         "description" : "Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand and Bassem Amin are testing the Casablanca Chess Variant in Morocco, as they play rapid games (15+10) starting from carefully selected positions derived from historical games. Rounds 1-3 take place on Saturday, while rounds 4-6 take place on Sunday. | Follow the games live starting from 20.15 CEST (14.15 ET, 23.45 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/casablanca-chess-2024-live",
-         "pubDate" : "Sun, 19 May 2024 20:00:00",
-         "title" : "Casablanca Chess - Live!"
       },
       {
          "description" : " There is an interesting chess event running across the weekend in Morocco. The Morocco Chess Week is featuring Casablanca Chess which is a fixed opening variant. At the start of each round the players are given a famous game, and the move on which they can vary from the given move. They have a couple of minutes to study the game/position and then they play a 15 minute game. At the end of Day 1 Carlsen leads with 2.5/3, ahead of Nakamura on 1.5, with Anand and Amin on 1. Of most interest from this event is that the Evan's Gambit was chosen in Round 1, and White (Carlsen and Nakamura) both won. Carlsen then defeated Nakamura in round 3, in a g4 Sicilian. Someone on the internet did ask if suc",
