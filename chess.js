@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three players are sharing first place going into the final round of the Sharjah Masters, as Volodar Murzin inflicted a second consecutive loss on Aravindh Chithambaram to join Sam Shankland and Bardiya Daneshvar in the leading group. Seven players stand a half point back, including top seeds Arjun Erigaisi and Parham Maghsoodloo. On the final day of action, Shankland will play white against Murzin on the top board. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-8",
+         "pubDate" : "Wed, 22 May 2024 07:10:00",
+         "title" : "Sharjah: Murzin joins Shankland and Daneshvar in the lead"
+      },
+      {
          "description" : "The Kids, FM Rose Atwell and WFM Megan Paragua, defeated the Stars, WGM Nemo Zhou and WFM Anna Cramling in the first Kids vs. Stars match on Tuesday.&#38;nbsp; With a combination of tactical awareness, endgame technique, and superior time management...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-kids-vs-stars-atwell-paragua",
-         "pubDate" : "Tue, 21 May 2024 18:03:47",
+         "pubDate" : "Tue, 21 May 2024 18:03:00",
          "title" : "Kids Take 1st Victory: Atwell, Paragua Beat Nemo, Cramling"
-      },
-      {
-         "description" : "The seventh edition of the Salamanca Chess Festival takes place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, including Michael Adams, Mariya Muzychuk and Ruslan Ponomariov, kicks off on Wednesday. The tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-preview",
-         "pubDate" : "Tue, 21 May 2024 16:00:00",
-         "title" : "Salamanca Chess Festival: Adams, Muzychuk and Ponomariov amid strong field"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110309282.cms\" />Indian Grandmaster Aravindh Chithambaram suffered a costly blunder in the seventh round of the Sharjah Masters, resulting in a loss to Bardiya Daneshvar of Iran and relinquishing his lead in the tournament. Aravindh's slip from the top spot saw him fall to joint third position, as American Sam Shankland defeated his compatriot Hans Moke Niemann to equal the Iranian's points tally.",
@@ -34,36 +34,12 @@ news_feed (
          "title" : "English Seniors entry closing soon"
       },
       {
-         "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
-         "pubDate" : "Tue, 21 May 2024 12:45:00",
-         "title" : "Sharjah Masters - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3033",
          "pubDate" : "Tue, 21 May 2024 10:01:55",
          "title" : "FIDE World Cup Under 8-12: Extra spots available"
-      },
-      {
-         "description" : "Round 7 of the Sharjah Masters saw former sole leader Aravindh Chithambaram losing his game with white against Iranian GM Bardiya Daneshvar, the 50th seed in the event. Daneshvar thus leapfrogged Aravindh in the standings, as he is now sharing the lead with Sam Shankland. Shankland defeated his compatriot Hans Niemann after the latter misplayed a king and pawn endgame. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-7",
-         "pubDate" : "Tue, 21 May 2024 06:35:00",
-         "title" : "Sharjah: Daneshvar takes down Aravindh, Shankland beats Niemann"
-      },
-      {
-         "description" : "In any sport, the win can be the result of a mistake, and a player's exploitation of it! The time has come to cut out the funny business, quit over-thinking, and go mate your opponent. There's no better way to claim a quick victory than an efficient, well-executed attack. But then you need to have a sharp tactical eye and a will to go all-in! In the Sharjah Masters two wild games drew the attention of the public. Analysis by Efstratios Grivas.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/wild-ttmes-in-sharjah",
-         "pubDate" : "Mon, 20 May 2024 20:00:00",
-         "title" : "Wild Times in Sharjah"
       },
       {
          "description" : "Unleash the beast! Chess played its part at an unlikely event over the weekend&#38;mdash;the 2024 Professional Bull Riding World Finals. As PBR celebrated its most prestigious event of the year at the AT&#38;amp;T Stadium in Arlington, Texas, two cowboy...",
@@ -96,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3032",
          "pubDate" : "Mon, 20 May 2024 09:08:14",
          "title" : "An Event Like No Other: FIDE World Rapid and Blitz Team Championships - Registration continues"
-      },
-      {
-         "description" : " <p class=\"lead\">GM Magnus Carlsen triumphed at the inaugural Casablanca Chess 2024, with Hikaru Nakamura expressing his newfound love for this chess variant. Unlike Fischer Random Chess, Casablanca Chess starts with positions inspired by historical matches, providing a fresh challenge while minimizing the dominance of opening theory and engine analysis. With Magnus Carlsen's backing and his stated boredom with classical chess, could this mark the dawn of a new era in the chess world? <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/Magnus-Carlsen-chess-chesscom-casablanca-chess-fide.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> <div class=\"e2-text-caption\">Photo by M",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/a-new-era-for-chess-gm-magnus-carlsen-triumphs-at-casablanca-che/",
-         "pubDate" : "Mon, 20 May 2024 09:01:05",
-         "title" : "A New Era for Chess? GM Magnus Carlsen Triumphs at Casablanca Chess 2024"
       },
       {
          "description" : "",
