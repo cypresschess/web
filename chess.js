@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Kids, FM Rose Atwell and WFM Megan Paragua, defeated the Stars, WGM Nemo Zhou and WFM Anna Cramling in the first Kids vs. Stars match on Tuesday.&#38;nbsp; With a combination of tactical awareness, endgame technique, and superior time management...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-kids-vs-stars-atwell-paragua",
+         "pubDate" : "Tue, 21 May 2024 18:03:47",
+         "title" : "Kids Take 1st Victory: Atwell, Paragua Beat Nemo, Cramling"
+      },
+      {
          "description" : "The seventh edition of the Salamanca Chess Festival takes place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, including Michael Adams, Mariya Muzychuk and Ruslan Ponomariov, kicks off on Wednesday. The tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3017",
          "pubDate" : "Fri, 10 May 2024 22:09:05",
          "title" : "Superbet Poland Rapid & Blitz: Day 3 Recap"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Vincent Keymer won their matches with a game to spare in Division I of the Champions Chess Tour Chess.com Classic 2024. GMs Jan-Krzysztof Duda and Denis Lazavik also won to continue in the Winners Bracket. Notably, Carlsen, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-3",
-         "pubDate" : "Fri, 10 May 2024 12:35:00",
-         "title" : "Carlsen, Keymer, Duda Win After Doubling Up Tournaments In Poland"
       },
       {
          "description" : "",
