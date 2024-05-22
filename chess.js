@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-live",
+         "pubDate" : "Wed, 22 May 2024 16:50:00",
+         "title" : "Salamanca Chess Festival - Live!"
+      },
+      {
+         "description" : " South African International Master Watu Kobese International Master Watu Kobese has a chess resume as long as he is tall. He has added yet another venture into his portfolio. In what has become a popular trend in chess, Kobese sent The Chess Drum a message introducing a podcast titled &#8220;Chess, Nonsense &#38; Analysis.&#8221; It is The post <a href=\"https://www.thechessdrum.net/blog/2024/05/22/kobese-premiers-in-chess-nonsense-analysis/\">Watu Kobese premiers in new podcast!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/05/22/kobese-premiers-in-chess-nonsense-analysis/",
+         "pubDate" : "Wed, 22 May 2024 14:34:40",
+         "title" : "Watu Kobese premiers in new podcast!"
+      },
+      {
          "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,44 @@ news_feed (
          "title" : "Sharjah Masters - Live!"
       },
       {
+         "description" : "A letter from Arkady Dvorkovich, FIDE President, reads Dear Mr. Holowczak As you are aware, the FIDE Chess Olympiad 2024 will take place in...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/congratulations-ia-alex-holowczak-tap-chair-of-the-fide-chess-olympiad-2024/",
+         "pubDate" : "Wed, 22 May 2024 12:37:12",
+         "title" : "Congratulations IA Alex Holowczak, Technical Administration Panel Chair of the FIDE Chess Olympiad 2024!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110336311.cms\" />R Praggnanandhaa, a rising star in Indian chess, is confident as he prepares to face Magnus Carlsen at the upcoming Norway Chess tournament, commencing on May 27. The young Grandmaster has emerged victorious against the reigning world champion on multiple occasions in recent years. Most recently, Praggnanandhaa triumphed over the 33-year-old Norwegian at the Superbet rapid and blitz tournament, which was part of the Grand Chess Tour held in Warsaw earlier this month.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/playing-magnus-carlsen-in-his-home-turf-not-a-challenge-for-me-praggnanandhaa/articleshow/110336311.cms",
+         "pubDate" : "Wed, 22 May 2024 12:05:06",
+         "title" : "Playing Carlsen in his home turf not a challenge for me: Praggnanandhaa"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3035",
          "pubDate" : "Wed, 22 May 2024 10:16:25",
          "title" : "Chess for Freedom Conference 2024: List of speakers announced"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3036",
+         "pubDate" : "Wed, 22 May 2024 09:16:24",
+         "title" : "Unveiling triumphs of 11th Dhamso International Chess Festival 2024"
+      },
+      {
+         "description" : "The victors in Titled Tuesday on May 21, 2024, were GM Vladislav Kovalev in the early tournament and GM Jan-Krzysztof Duda in the late tournament. FM Faustino Oro, the 10-year-old from Argentina who already has bullet wins against the very best co...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kovalev-duda-win-titled-tuesday-may-21-2024",
+         "pubDate" : "Wed, 22 May 2024 08:19:06",
+         "title" : "10-Year Old Phenom Makes Podium As Kovalev, Duda Win Titled Tuesday"
       },
       {
          "description" : "Three players are sharing first place going into the final round of the Sharjah Masters, as Volodar Murzin inflicted a second consecutive loss on Aravindh Chithambaram to join Sam Shankland and Bardiya Daneshvar in the leading group. Seven players stand a half point back, including top seeds Arjun Erigaisi and Parham Maghsoodloo. On the final day of action, Shankland will play white against Murzin on the top board. | Photo: Aditya Sur Roy",
@@ -506,14 +554,6 @@ news_feed (
          "title" : "Updated FIDE (Dutch) System Effective from July 1, 2025"
       },
       {
-         "description" : "Please note the closing date for nominations is 31st May 2024 The Chess Trust is inviting nominations for the BCET Awards 2024 which are...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-educational-trust-awards-2024/",
-         "pubDate" : "Mon, 13 May 2024 07:30:47",
-         "title" : "British Chess Educational Trust Awards 2024 - closing date approaching"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -648,14 +688,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/bad-to-okay/",
          "pubDate" : "Sat, 11 May 2024 12:57:00",
          "title" : "Chess Improvement Trap: Why You're Stuck Studying the Wrong Things"
-      },
-      {
-         "description" : "&#34;I just sucked, honestly&#34; said GM Magnus Carlsen about his play after losing his first game in the 2024 Superbet Rapid &#38;amp; Blitz Poland, to GM Praggnanandhaa Rameshbabu. He blundered a queen and lost the next game as well, but his 6/9 blitz scor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-4",
-         "pubDate" : "Sat, 11 May 2024 12:54:00",
-         "title" : "Wei Yi Powers To 2.5-Point Lead Over Carlsen"
       },
       {
          "description" : "",
@@ -976,22 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3001",
          "pubDate" : "Wed, 01 May 2024 21:19:18",
          "title" : "FIDE May 2024 rating list: Gukesh D climbs to #6"
-      },
-      {
-         "description" : " The movie \"The Chess Player\" popped up on SVS World Movies recently. A Spanish film, it tells the story of a chess champion who is imprisoned during the Second World War. It is a fairly simple film with a somewhat familiar plot (which I won't spoil) , but the chess scenes are quite well done. If you do want to have a look, the link to online streaming is <a href=\"https://www.sbs.com.au/ondemand/movie/the-chess-player/2243769411934\">https://www.sbs.com.au/ondemand/movie/the-chess-player/2243769411934</a> (NB You may have to create a free account to view) ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/the-chess-player.html",
-         "pubDate" : "Wed, 01 May 2024 13:04:00",
-         "title" : "The Chess Player"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3000",
-         "pubDate" : "Wed, 01 May 2024 11:30:31",
-         "title" : "FIDE World Junior U20 Championship: Registration extended to May 10"
       }
    ]
 }
