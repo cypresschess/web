@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
+         "pubDate" : "Wed, 22 May 2024 12:45:00",
+         "title" : "Sharjah Masters - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3035",
+         "pubDate" : "Wed, 22 May 2024 10:16:25",
+         "title" : "Chess for Freedom Conference 2024: List of speakers announced"
+      },
+      {
          "description" : "Three players are sharing first place going into the final round of the Sharjah Masters, as Volodar Murzin inflicted a second consecutive loss on Aravindh Chithambaram to join Sam Shankland and Bardiya Daneshvar in the leading group. Seven players stand a half point back, including top seeds Arjun Erigaisi and Parham Maghsoodloo. On the final day of action, Shankland will play white against Murzin on the top board. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -976,14 +992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3000",
          "pubDate" : "Wed, 01 May 2024 11:30:31",
          "title" : "FIDE World Junior U20 Championship: Registration extended to May 10"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2999",
-         "pubDate" : "Wed, 01 May 2024 11:10:28",
-         "title" : "Abu Dhabi and FIDE Sign Agreement for 47th Chess Olympiad"
       }
    ]
 }
