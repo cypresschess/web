@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-05-18  - 05-19","42","<a href=http://www.uschess.org/msa/XtblMain.php?202405193502 target='_blank'>$1,500 MAY SHOOTOUT U2400 + A BLITZ</a>",
 "HOUSTON","2024-05-18","11","<a href=http://www.uschess.org/msa/XtblMain.php?202405181632 target='_blank'>CHESSPANDA05182024SATURDAY</a>",
 "KATY","2024-05-18","85","<a href=http://www.uschess.org/msa/XtblMain.php?202405181172 target='_blank'>24ARISTOI</a>",
 "HOUSTON","2024-05-18","33","<a href=http://www.uschess.org/msa/XtblMain.php?202405180842 target='_blank'>PISD MAY 2024- MAY 2024 HIGH SCHOOL</a>",
@@ -198,5 +199,4 @@ jtable([
 "SUGAR LAND","2023-11-03","8","<a href=http://www.uschess.org/msa/XtblMain.php?202311031452 target='_blank'>FBCC 2023 NOVEMBER PIADA OPEN</a>",
 "HOUSTON","2023-11-03","8","<a href=http://www.uschess.org/msa/XtblMain.php?202311031412 target='_blank'>REBECCA CHESS CLUB QUADS NOVEMBER 3, 2023</a>",
 "HOUSTON","2023-10-03  - 10-31","15","<a href=http://www.uschess.org/msa/XtblMain.php?202310310382 target='_blank'>OCT 2023 TUESDAY NIGHT SWISS</a>",
-"HOUSTON","2023-10-29","10","<a href=http://www.uschess.org/msa/XtblMain.php?202310299172 target='_blank'>OCTOBER 29 SUNDAY SWISS</a>",
 ]);
