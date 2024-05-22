@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this Episode, Svitlana presents to us the fundamentals of openings, with an example played by Paul Keres. With a cunning sacrifice, White gains some advantage. Or not? How to actually evaluate a position best? The Canadian WIM tells us about the six rules of evaluation!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-six-rules-of-evaluation-by-ramesh-rb",
+         "pubDate" : "Wed, 22 May 2024 19:00:00",
+         "title" : "Svitlana's Smart Moves - The six rules of evaluation by Ramesh RB!"
+      },
+      {
          "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/salamanca-festival-2024-live",
          "pubDate" : "Wed, 22 May 2024 16:50:00",
          "title" : "Salamanca Chess Festival - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110340866.cms\" />Grandmaster Erigaisi Arjun settled for a draw against Alexey Sarana, while Aravindh Chithambaram suffered a second consecutive loss, dimming Indian prospects at the Sharjah Masters chess tournament. With Bardiya Daneshvar, Sam Shankland, and Volodar Mulzin leading on six points, Arjun stands fourth with 5.5 points. However, his tie-break may hinder a podium finish even if he wins the final round.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmaster-erigaisi-arjun-held-by-serbias-alexey-sarana-in-sharjah-masters-chess-tournament/articleshow/110340866.cms",
+         "pubDate" : "Wed, 22 May 2024 16:21:43",
+         "title" : "Erigaisi held by Sarana in Sharjah Masters chess tournament"
       },
       {
          "description" : " South African International Master Watu Kobese International Master Watu Kobese has a chess resume as long as he is tall. He has added yet another venture into his portfolio. In what has become a popular trend in chess, Kobese sent The Chess Drum a message introducing a podcast titled &#8220;Chess, Nonsense &#38; Analysis.&#8221; It is The post <a href=\"https://www.thechessdrum.net/blog/2024/05/22/kobese-premiers-in-chess-nonsense-analysis/\">Watu Kobese premiers in new podcast!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "Watu Kobese premiers in new podcast!"
       },
       {
-         "description" : "From Dubai to Sharjah - many of the grandmasters who played in the Dubai Open have made their way to Sharjah and are now taking part in the Sharjah Masters, which has an even stronger line-up. Arjun Erigaisi leads the starting rank in a tournament including over 80 participating grandmasters. The number of Indian players is lower than in Dubai, as a maximum of 20 players from a single federation are admitted. | Follow the games live starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-live",
-         "pubDate" : "Wed, 22 May 2024 12:45:00",
-         "title" : "Sharjah Masters - Live!"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3037",
+         "pubDate" : "Wed, 22 May 2024 12:37:59",
+         "title" : "FIDE Torch Relay Heads to Latin America"
       },
       {
          "description" : "A letter from Arkady Dvorkovich, FIDE President, reads Dear Mr. Holowczak As you are aware, the FIDE Chess Olympiad 2024 will take place in...",
@@ -50,6 +66,22 @@ news_feed (
          "title" : "Chess for Freedom Conference 2024: List of speakers announced"
       },
       {
+         "description" : "In an era where it only takes a few clicks for anyone to learn a trappy chess opening, cheeky opponents abound. In fact, anyone who enjoys playing online chess is almost guaranteed to come across a tricky and trappy gambit. Now, it&#39;s time for yo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/every-gambit-refuted-chessable",
+         "pubDate" : "Wed, 22 May 2024 10:00:00",
+         "title" : "Punish Cheeky Opponents With GM Perelshteyn's Every Gambit Refuted Chessable Course"
+      },
+      {
+         "description" : " The 7th Sharjah Masters took place 14th to 22nd May 2024. Top seeds: Erigaisi, Maghsoodloo, Yu Yangyi, Radjabov, Tabatabaei, Sarana, Artemiev, Esipenko, Fedoseev, Sevian etc. Bardiya Daneshvar of Iran took first place on tie-break from Volodar Murzin, Sam Shankland and Shamsiddin Vokhidov, all scored 6.5/9. Deshmukh Divya won the Challengers ahead of Leya Garifullina and Sina Movahed on tie-break after all scored 7/9.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/7th-sharjah-masters-2024",
+         "pubDate" : "Wed, 22 May 2024 09:36:00",
+         "title" : "7th Sharjah Masters 2024 - Games and Results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -62,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/kovalev-duda-win-titled-tuesday-may-21-2024",
-         "pubDate" : "Wed, 22 May 2024 08:19:06",
+         "pubDate" : "Wed, 22 May 2024 08:19:00",
          "title" : "10-Year Old Phenom Makes Podium As Kovalev, Duda Win Titled Tuesday"
       },
       {
@@ -168,14 +200,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/casablanca-chess-2024",
          "pubDate" : "Sun, 19 May 2024 10:29:00",
          "title" : "Casablanca Chess 2024 - Games and Results"
-      },
-      {
-         "description" : " The 7th Sharjah Masters start of Tuesday 14th. Top seeds: Erigaisi, Maghsoodloo, Yu Yangyi, Radjabov, Tabatabaei, Sarana, Artemiev, Esipenko, Fedoseev, Sevian etc.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/7th-sharjah-masters-2024",
-         "pubDate" : "Sun, 19 May 2024 09:36:00",
-         "title" : "7th Sharjah Masters 2024 - Games and Results"
       },
       {
          "description" : "",
@@ -672,14 +696,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-in-print-from-caxton-to-middleton/",
          "pubDate" : "Sat, 11 May 2024 15:00:43",
          "title" : "Chess in print: from Caxton to Middleton"
-      },
-      {
-         "description" : "GMs Magnus Carlsen and Vincent Keymer prevailed in the Division I Winners Semifinals of the Champions Chess Tour Chess.com Classic 2024. Carlsen won with his uncanny ability to turn drawish positions into wins vs. GM Denis Lazavik. After losing to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-4",
-         "pubDate" : "Sat, 11 May 2024 13:39:00",
-         "title" : "Carlsen Evokes Magnus Magic, Keymer Gets Revenge"
       },
       {
          "description" : "Most chess improvers are stuck because they get stuck in the chess improvement trap. They do the sophisticated things and forget about the basics. New York Times Best-Seller ​Mark Manson​ recently said: &#8220;There are two steps to self-improvement: From bad to okay and from okay to great.&#8221; Mark Manson He argues that many people struggle []",
