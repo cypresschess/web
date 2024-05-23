@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-live",
+         "pubDate" : "Thu, 23 May 2024 16:50:00",
+         "title" : "Salamanca Chess Festival - Live!"
+      },
+      {
+         "description" : " IM Robert Gwaze is always in conversations about Africa's brightest moments in history. Since his 2002 gold medal at the Bled Olympiad, he has written his memoirs, Life and Games of Robert Gwaze. There had always been the thought that Gwaze was poised to earn his Grandmaster title. However, his competitive play has been inconsistent The post <a href=\"https://www.thechessdrum.net/blog/2024/05/23/robert-gwaze-resurfaces-wins-namibia-open/\">Robert Gwaze resurfaces, wins Namibia Open</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/05/23/robert-gwaze-resurfaces-wins-namibia-open/",
+         "pubDate" : "Thu, 23 May 2024 15:26:20",
+         "title" : "Robert Gwaze resurfaces, wins Namibia Open"
+      },
+      {
+         "description" : " The 2024 ACT Chess Championship starts tomorrow, running across the Reconciliation Day long weekend. As of this evening here are 52 players entered, with IM Junta Ikeda and FM Michael Kethro as the top seeds. As it is an open event, there are also a bunch of interstate players taking part, noting that while they are eligible for prizes, they are not eligible for the Championship title. The first round is at 7pm tomorrow (Friday) and and has 2 rounds on each of the following days. It is not too late to enter, and you can do so via <a href=\"https://www.trybooking.com/CRNMU\">https://www.trybooking.com/CRNMU</a> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championship-begins-tomorrow.html",
+         "pubDate" : "Thu, 23 May 2024 12:52:00",
+         "title" : "2024 ACT Championship begins tomorrow"
+      },
+      {
          "description" : "Four players finished the Sharjah Masters atop the standings with 6&frac12; points - and it was 17-year-old Bardiya Daneshvar who was declared the winner on tiebreak criteria. Volodar Murzin and Sam Shankland completed the podium, while Shamsiddin Vokhidov grabbed fourth place after scoring a full point in Thursday's ninth round. In the Challengers, 18-year-old Divya Deshmukh emerged victorious, as she finished the event with a better tiebreak score than Leya Garifullina and Sina Movahed. Pictured on the right is Agshin Alizada, who won the Futures section. | Photo: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +50,7 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The six rules of evaluation by Ramesh RB!"
       },
       {
-         "description" : "Kansas City Chiefs&#39; safety Justin Reid was crowned the winner of BlitzChamps III after sweeping Cardinals&#39; quarterback Kyler Murray 2-0 in the grand final of an eight-player double-elimination bracket on Wednesday. Outplaying BlitzChamps I winner ...",
+         "description" : "Kansas City Chiefs&#39; safety Justin Reid was crowned the winner of BlitzChamps III after sweeping Cardinals&#39; quarterback Kyler Murray 2-0 in the Grand Final of an eight-player double-elimination bracket on Wednesday. Outplaying BlitzChamps I winner ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-blitzchamps-3-justin-reid-wins",
@@ -1000,14 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3004",
          "pubDate" : "Thu, 02 May 2024 16:12:12",
          "title" : "Join Grand Chess Celebration: GUINNESS WORLD RECORDS Attempt for Most Games Played in a Day!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3003",
-         "pubDate" : "Thu, 02 May 2024 13:28:16",
-         "title" : "World School Chess Championship 2024 begins in Peru"
       }
    ]
 }
