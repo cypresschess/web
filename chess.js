@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Salamanca Masters, an 8-player all-play-all event, kicked off on Wednesday with the first two rounds. Elisabeth Paehtz and Kirill Alekseenko won their first two games to become the early co-leaders. Paehtz beat Mariya Muzychuk and upset Eduardo Iturrizaga, while Alekseenko defeated Nurgyul Salimova and M&oacute;nica Calzetta. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-d1",
+         "pubDate" : "Wed, 22 May 2024 23:15:00",
+         "title" : "Salamanca: Paehtz and Alekseenko on 2 out of 2"
+      },
+      {
          "description" : "In this Episode, Svitlana presents to us the fundamentals of openings, with an example played by Paul Keres. With a cunning sacrifice, White gains some advantage. Or not? How to actually evaluate a position best? The Canadian WIM tells us about the six rules of evaluation!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-six-rules-of-evaluation-by-ramesh-rb",
          "pubDate" : "Wed, 22 May 2024 19:00:00",
          "title" : "Svitlana's Smart Moves - The six rules of evaluation by Ramesh RB!"
-      },
-      {
-         "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-live",
-         "pubDate" : "Wed, 22 May 2024 16:50:00",
-         "title" : "Salamanca Chess Festival - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110340866.cms\" />Grandmaster Erigaisi Arjun settled for a draw against Alexey Sarana, while Aravindh Chithambaram suffered a second consecutive loss, dimming Indian prospects at the Sharjah Masters chess tournament. With Bardiya Daneshvar, Sam Shankland, and Volodar Mulzin leading on six points, Arjun stands fourth with 5.5 points. However, his tie-break may hinder a podium finish even if he wins the final round.",
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/congratulations-ia-alex-holowczak-tap-chair-of-the-fide-chess-olympiad-2024/",
          "pubDate" : "Wed, 22 May 2024 12:37:12",
          "title" : "Congratulations IA Alex Holowczak, Technical Administration Panel Chair of the FIDE Chess Olympiad 2024!"
+      },
+      {
+         "description" : "The strong Sharjah Masters in the UAE finished today in a four-way tie for first place among, in order of tiebreak, GMs Bardiya Daneshvar, Volodar Murzin, Sam Shankland, and Shamsiddin Vokhidov. With two of them being only 17 years old, it showcas...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sharjah-masters-2024-winners-daneshvar-murzin-shankland-vokhidov",
+         "pubDate" : "Wed, 22 May 2024 12:27:52",
+         "title" : "New Power Generation Shows Itself At Sharjah Masters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110336311.cms\" />R Praggnanandhaa, a rising star in Indian chess, is confident as he prepares to face Magnus Carlsen at the upcoming Norway Chess tournament, commencing on May 27. The young Grandmaster has emerged victorious against the reigning world champion on multiple occasions in recent years. Most recently, Praggnanandhaa triumphed over the 33-year-old Norwegian at the Superbet rapid and blitz tournament, which was part of the Grand Chess Tour held in Warsaw earlier this month.",
@@ -682,14 +690,6 @@ news_feed (
          "title" : "Superbet Poland Rapid & Blitz: Day 4 Recap"
       },
       {
-         "description" : "GM Hikaru Nakamura&#39;s commanding Bullet Brawl run continued after the now-24-time winner picked up his third straight $400 first prize on Saturday. Facing a field of bullet chess titans including GMs Oleksandr Bortnyk, Nihal Sarin, and Daniel Narod...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-11-2024",
-         "pubDate" : "Sat, 11 May 2024 15:30:18",
-         "title" : "Nakamura Wins 3rd Straight Bullet Brawl As Prodigies Clash"
-      },
-      {
          "description" : "In spite of some doubtful and slim early attributions to Prokopius Waldvogel of Avignon, it is widely accepted that modern printing was introduced by Johannes Gutenberg of Mainz, circa 1450. In England the baton was relatively swiftly (for the times) taken up by William Caxton with his Game and Playe of the Chesse, circa 1470, followed, []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1016,14 +1016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3002",
          "pubDate" : "Thu, 02 May 2024 09:16:01",
          "title" : "Eight teams qualify for World Corporate Chess Championship Finals"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3001",
-         "pubDate" : "Wed, 01 May 2024 21:19:18",
-         "title" : "FIDE May 2024 rating list: Gukesh D climbs to #6"
       }
    ]
 }
