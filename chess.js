@@ -18,6 +18,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The six rules of evaluation by Ramesh RB!"
       },
       {
+         "description" : "This is a flash report. The full report will be added soon, including game analysis, clips, and more. Kansas City Chiefs&#39; safety Justin Reid was crowned the winner of BlitzChamps III after sweeping Cardinals&#39; quarterback Kyler Murray 2-0 in the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-blitzchamps-3-justin-reid-wins",
+         "pubDate" : "Wed, 22 May 2024 17:00:00",
+         "title" : "Reid Emerges As NFL's Top Chess Player"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110340866.cms\" />Grandmaster Erigaisi Arjun settled for a draw against Alexey Sarana, while Aravindh Chithambaram suffered a second consecutive loss, dimming Indian prospects at the Sharjah Masters chess tournament. With Bardiya Daneshvar, Sam Shankland, and Volodar Mulzin leading on six points, Arjun stands fourth with 5.5 points. However, his tie-break may hinder a podium finish even if he wins the final round.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/a-recreational-player.html",
          "pubDate" : "Sun, 12 May 2024 10:31:00",
          "title" : "A Recreational Player"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen posted an incredible 10-game winning streak to overhaul GM Wei Yi and win the 2024 Superbet Rapid &#38;amp; Blitz Poland despite starting the day 2.5 points behind. Carlsen caught Wei by beating him in the fourth round ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-poland-rapid-blitz-day-5",
-         "pubDate" : "Sun, 12 May 2024 09:08:00",
-         "title" : "Carlsen Wins Superbet Rapid & Blitz Poland With 10-Game Winning Streak"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110051747.cms\" />Indian chess prodigy R Praggnanandhaa secured another win against world number one Magnus Carlsen from Norway in the Superbet rapid and blitz chess tournament. However, China's Wei Yi has taken a commanding lead, accumulating 20.5 points with seven wins on the first day of blitz, making him likely to clinch the title unless he faces a significant setback.",
