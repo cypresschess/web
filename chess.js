@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Norway Chess super-tournament will start on Monday, with a stellar 6-player field including world champion Ding Liren and world number one Magnus Carlsen. In a recent interview conducted by The Indian Express, Ding talked about his expectations for the event in Stavanger, the pressures connected to having become the world champion and his preparation for the World Championship match against D Gukesh. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ding-liren-indian-express-2024",
+         "pubDate" : "Thu, 23 May 2024 22:15:00",
+         "title" : "Ding Liren for Indian Express: \"I need to show at least my second-best version\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3039",
+         "pubDate" : "Thu, 23 May 2024 20:28:58",
+         "title" : "EDU Commission announces its 17th \"Preparation of Teachers\" course"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,30 +48,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championship-begins-tomorrow.html",
          "pubDate" : "Thu, 23 May 2024 12:52:00",
          "title" : "2024 ACT Championship begins tomorrow"
-      },
-      {
-         "description" : "Four players finished the Sharjah Masters atop the standings with 6&frac12; points - and it was 17-year-old Bardiya Daneshvar who was declared the winner on tiebreak criteria. Volodar Murzin and Sam Shankland completed the podium, while Shamsiddin Vokhidov grabbed fourth place after scoring a full point in Thursday's ninth round. In the Challengers, 18-year-old Divya Deshmukh emerged victorious, as she finished the event with a better tiebreak score than Leya Garifullina and Sina Movahed. Pictured on the right is Agshin Alizada, who won the Futures section. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-9",
-         "pubDate" : "Thu, 23 May 2024 08:00:00",
-         "title" : "Daneshvar wins Sharjah Masters, Divya clinches Challengers"
-      },
-      {
-         "description" : "The Salamanca Masters, an 8-player all-play-all event, kicked off on Wednesday with the first two rounds. Elisabeth Paehtz and Kirill Alekseenko won their first two games to become the early co-leaders. Paehtz beat Mariya Muzychuk and upset Eduardo Iturrizaga, while Alekseenko defeated Nurgyul Salimova and M&oacute;nica Calzetta. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-d1",
-         "pubDate" : "Wed, 22 May 2024 23:15:00",
-         "title" : "Salamanca: Paehtz and Alekseenko on 2 out of 2"
-      },
-      {
-         "description" : "In this Episode, Svitlana presents to us the fundamentals of openings, with an example played by Paul Keres. With a cunning sacrifice, White gains some advantage. Or not? How to actually evaluate a position best? The Canadian WIM tells us about the six rules of evaluation!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-six-rules-of-evaluation-by-ramesh-rb",
-         "pubDate" : "Wed, 22 May 2024 19:00:00",
-         "title" : "Svitlana's Smart Moves - The six rules of evaluation by Ramesh RB!"
       },
       {
          "description" : "Kansas City Chiefs&#39; safety Justin Reid was crowned the winner of BlitzChamps III after sweeping Cardinals&#39; quarterback Kyler Murray 2-0 in the Grand Final of an eight-player double-elimination bracket on Wednesday. Outplaying BlitzChamps I winner ...",
