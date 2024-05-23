@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3038",
+         "pubDate" : "Thu, 23 May 2024 17:27:31",
+         "title" : "FIDE World Senior Championships 2024: Registration is open"
+      },
+      {
          "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/may/03/chess-magnus-carlsen-calls-ding-liren-broken-as-teenage-star-gukesh-emerges",
          "pubDate" : "Fri, 03 May 2024 07:00:31",
          "title" : "Chess: Magnus Carlsen calls Ding Liren 'broken' as teenage star Gukesh emerges"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3004",
-         "pubDate" : "Thu, 02 May 2024 16:12:12",
-         "title" : "Join Grand Chess Celebration: GUINNESS WORLD RECORDS Attempt for Most Games Played in a Day!"
       }
    ]
 }
