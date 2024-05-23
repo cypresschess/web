@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four players finished the Sharjah Masters atop the standings with 6&frac12; points - and it was 17-year-old Bardiya Daneshvar who was declared the winner on tiebreak criteria. Volodar Murzin and Sam Shankland completed the podium, while Shamsiddin Vokhidov grabbed fourth place after scoring a full point in Thursday's ninth round. In the Challengers, 18-year-old Divya Deshmukh emerged victorious, as she finished the event with a better tiebreak score than Leya Garifullina and Sina Movahed. Pictured on the right is Agshin Alizada, who won the Futures section. | Photo: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-9",
+         "pubDate" : "Thu, 23 May 2024 08:00:00",
+         "title" : "Daneshvar wins Sharjah Masters, Divya clinches Challengers"
+      },
+      {
          "description" : "The Salamanca Masters, an 8-player all-play-all event, kicked off on Wednesday with the first two rounds. Elisabeth Paehtz and Kirill Alekseenko won their first two games to become the early co-leaders. Paehtz beat Mariya Muzychuk and upset Eduardo Iturrizaga, while Alekseenko defeated Nurgyul Salimova and M&oacute;nica Calzetta. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kovalev-duda-win-titled-tuesday-may-21-2024",
          "pubDate" : "Wed, 22 May 2024 08:19:00",
          "title" : "10-Year Old Phenom Makes Podium As Kovalev, Duda Win Titled Tuesday"
-      },
-      {
-         "description" : "Three players are sharing first place going into the final round of the Sharjah Masters, as Volodar Murzin inflicted a second consecutive loss on Aravindh Chithambaram to join Sam Shankland and Bardiya Daneshvar in the leading group. Seven players stand a half point back, including top seeds Arjun Erigaisi and Parham Maghsoodloo. On the final day of action, Shankland will play white against Murzin on the top board. | Photo: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sharjah-masters-2024-8",
-         "pubDate" : "Wed, 22 May 2024 07:10:00",
-         "title" : "Sharjah: Murzin joins Shankland and Daneshvar in the lead"
       },
       {
          "description" : "The Kids, FM Rose Atwell and WFM Megan Paragua, defeated the Stars, WGM Nemo Zhou and WFM Anna Cramling in the first Kids vs. Stars match on Tuesday.&#38;nbsp; With a combination of tactical awareness, endgame technique, and superior time management...",
