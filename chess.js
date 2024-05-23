@@ -18,7 +18,7 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The six rules of evaluation by Ramesh RB!"
       },
       {
-         "description" : "This is a flash report. The full report will be added soon, including game analysis, clips, and more. Kansas City Chiefs&#39; safety Justin Reid was crowned the winner of BlitzChamps III after sweeping Cardinals&#39; quarterback Kyler Murray 2-0 in the ...",
+         "description" : "Kansas City Chiefs&#39; safety Justin Reid was crowned the winner of BlitzChamps III after sweeping Cardinals&#39; quarterback Kyler Murray 2-0 in the grand final of an eight-player double-elimination bracket on Wednesday. Outplaying BlitzChamps I winner ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-blitzchamps-3-justin-reid-wins",
