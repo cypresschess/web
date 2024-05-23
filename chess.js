@@ -70,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/sharjah-masters-2024-winners-daneshvar-murzin-shankland-vokhidov",
-         "pubDate" : "Wed, 22 May 2024 12:27:52",
+         "pubDate" : "Wed, 22 May 2024 12:27:00",
          "title" : "New Power Generation Shows Itself At Sharjah Masters"
       },
       {
@@ -1008,14 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3003",
          "pubDate" : "Thu, 02 May 2024 13:28:16",
          "title" : "World School Chess Championship 2024 begins in Peru"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3002",
-         "pubDate" : "Thu, 02 May 2024 09:16:01",
-         "title" : "Eight teams qualify for World Corporate Chess Championship Finals"
       }
    ]
 }
