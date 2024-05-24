@@ -1016,14 +1016,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/garry-kasparov-clarifies-his-little-joke-on-politics-that-cheekily-asked-rahul-gandhi-to-first-win-rae-bareli/articleshow/109831350.cms",
          "pubDate" : "Sat, 04 May 2024 04:19:50",
          "title" : "Kasparov clarifies 'little joke' asking Gandhi to 'first win Rae Bareli'"
-      },
-      {
-         "description" : " The 28th Tepe Sigeman & Co Chess Tournament took place in Malmo 27th April to 3rd May 2024. Players: Nodirbek Abdusattorov, Arjun Erigaisi, Vincent Keymer, Peter Svidler, Nils Grandelius, Anton Korobov, Marc'Andria Maurizzi and Ju Wenjun. There was a three way tie on 4.5/7. Nodirbek Abdusattorov emerged the winner over Arjun Erigaisi in a second tie-break, Peter Svidler lost to both these players in the first tie-break. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/28th-tepe-sigeman-co-chess-tournament-2024",
-         "pubDate" : "Fri, 3 May 2024 21:15:00",
-         "title" : "28th Tepe Sigeman & Co Chess Tournament 2024 - Games and Results"
       }
    ]
 }
