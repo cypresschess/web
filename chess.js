@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Candidates Tournament 2024 took place last month in Toronto, Canada. The tournament turned out to be quite exciting, with many twists and turns. Sanket Nawle lives in Toronto, and is an excellent photographer. He tried to capture a few moments outside the playing hall - and managed to take some beautiful photos! In this article, he takes you through some of his most favourite photos from the Candidates, shortly describing why he likes them. | Photos: Sanket Nawle",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/memorable-photos-candidates-2024",
+         "pubDate" : "Fri, 24 May 2024 11:00:00",
+         "title" : "Ten memorable photos from the 2024 Candidates Tournament"
+      },
+      {
          "description" : "After four rounds of rapid games, Kirill Alekseenko and Eduardo Iturrizaga are tied for first place at the Salamanca Masters. The co-leaders have collected 3 points each and stand a half point ahead of Ruslan Ponomariov. Thursday's rounds saw all eight games ending decisively, as tactical, hard-fought chess has been the rule at the age-old University of Salamanca. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Salamanca: Alekseenko and Iturrizaga share the lead"
       },
       {
-         "description" : " The world No 1 identified most of the six positions from previous world championships and exploited Vishy Anand's unfamiliarity with a classic from Havana 1889 The innovative Casablanca variant, where today's best players tested their skills on historic games from the past, sparked some surprise results on its debut in Morocco last weekend. The event had four participants, each representing a continent: the world No 1, Magnus Carlsen (Europe), former world champion Vishy Anand (Asia), the world No 3, Hikaru Nakamura (America), and Egypt's top grandmaster, Bassim Amin (Africa). Four positions were chosen by experts, two by the audience. Carlsen is well versed in chess history, and correctly ",
+         "description" : " The world No 1 identified most of the six positions from previous world championships and exploited Vishy Anand's unfamiliarity with a classic from Havana 1889 The innovative Casablanca variant, where today's best players tested their skills on historic games from the past, sparked some surprise results on its debut in Morocco last weekend. The event had four participants, each representing a continent: the world No 1, Magnus Carlsen (Europe), the former world champion Vishy Anand (Asia), the world No 3, Hikaru Nakamura (America), and Egypt's top grandmaster, Bassim Amin (Africa). Four positions were chosen by experts, two by the audience. Carlsen is well versed in chess history, and correc",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/may/24/chess-carlsen-wins-in-casablanca-as-new-variant-tests-historic-skills",
@@ -666,14 +674,6 @@ news_feed (
          "title" : "Pranav Tops All-Indian Podium Ahead of Ivanchuk, Niemann At New Dubai Tournament"
       },
       {
-         "description" : "GM Magnus Carlsen defeated GM Vincent Keymer in the Champions Chess Tour Chess.com Classic 2024 Division I Winners Final. In the Losers Quarterfinals, GMs Alireza Firouzja and Jan-Krzysztof Duda respectively eliminated GMs Denis Lazavik and Ian Ne...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-5",
-         "pubDate" : "Sun, 12 May 2024 13:33:00",
-         "title" : "Carlsen Beats Keymer, Wins 16th CCT Winners Final In Division I"
-      },
-      {
          "description" : " Jamila Thompson is a graduating senior at Spelman College. The native New Yorker was taught chess by her father and continued her passion as a collegiate. While at Spelman, she joined other chess players in the Atlanta University Center (AUC) to match wits. Morehouse College hosted the club meetings and Thompson would attend along with The post <a href=\"https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/\">HBCU Chess Spotlight: Spelman College</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1000,14 +1000,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-chess-championship-24th-27th.html",
          "pubDate" : "Fri, 03 May 2024 14:00:00",
          "title" : "2024 ACT Chess Championship - 24th - 27th May 2024"
-      },
-      {
-         "description" : "The 39th European Club Cup and the 28th European Women's Club Cup will be held from 19th-27th October 2024 in Vrnjacka Banja, Serbia. The events will be played in 7 rounds, swiss system, with the time control of 90 minutes for 40 moves, plus 30 minutes until the end of the game, with 30-second increment for each move starting from the move one. The teams in the Open competition shall be composed of six (6) players plus two (2) reserves, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-open-womens-club-cup-2024-official-invitation/",
-         "pubDate" : "Fri, 03 May 2024 09:40:43",
-         "title" : "European Open & Women's Club Cup 2024 - Official invitation"
       }
    ]
 }
