@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The English Seniors Championship starts today with two sections (50+ and 65+) over seven rounds from Friday 24th May to Tuesday 28th May. For further...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-seniors-entry-closing-soon/",
+         "pubDate" : "Fri, 24 May 2024 12:30:23",
+         "title" : "English Seniors Championship starts today"
+      },
+      {
          "description" : "The Candidates Tournament 2024 took place last month in Toronto, Canada. The tournament turned out to be quite exciting, with many twists and turns. Sanket Nawle lives in Toronto, and is an excellent photographer. He tried to capture a few moments outside the playing hall - and managed to take some beautiful photos! In this article, he takes you through some of his most favourite photos from the Candidates, shortly describing why he likes them. | Photos: Sanket Nawle",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sharjah-chess-aravindh-chithambaram-errs-loses-lead/articleshow/110309282.cms",
          "pubDate" : "Tue, 21 May 2024 14:23:25",
          "title" : "Sharjah Chess: Aravindh Chithambaram errs, loses lead"
-      },
-      {
-         "description" : "The entry form for the English Seniors Championships closes at midnight tomorrow 22/5/24. The event is held at the Holiday Inn Kenilworth-Warwick, 212 Abbey End,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-seniors-entry-closing-soon/",
-         "pubDate" : "Tue, 21 May 2024 13:51:23",
-         "title" : "English Seniors entry closing soon"
       },
       {
          "description" : "",
@@ -944,6 +944,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3005",
          "pubDate" : "Sun, 05 May 2024 20:22:30",
          "title" : "FIDE World School Chess Championship crosses midpoint"
+      },
+      {
+         "description" : "In this monthly series on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), the sellers often label their items as 'Rare' or 'Amazing'. More often than not, a more appropriate label would be 'Commonplace' or 'Banal'. <P> The item pictured below was titled 'Amazing Chess History - 8 Autographs'. I won't argue with the adjective here, although 'Rare' or 'One of a Kind' would be equally appropriate. The autographed photo sold for '<STRIKE>US $450.00</STRIKE> Best offer accepted'. Despite eBay's usual obfuscation of the actual selling price, the stated price appears to be close to the actual price. <P ALIGN=C",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/05/1976-us-junior-closed.html",
+         "pubDate" : "Sun, 05 May 2024 15:45:00",
+         "title" : "1976 U.S. Junior (Closed)"
       },
       {
          "description" : " A field of 19 teams turned out for the 2024 ACT Teams Rapidplay Championship. In previous years the field would be 10 to 12 teams, but this year saw a big jump in numbers. The ACT chess clubs were well represented by official teams, and there were school teams, junior teams, and teams that were just formed on the day. In fact the winning team was just such a team, with Harry's Pushers (Harry Press, Milles Patterson, Jerry Cheng, and Padma Gyalpo) winning with a score of 21.5/28. They score heavily on the top 2 boards (13/14), but also had solid results on the bottom 2 boards to emerge as clear winners. In 2nd place were Underscore on 18.5, a junior team who scored a big 3.5-0.5 win in the f",
