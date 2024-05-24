@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the 1971 Candidate Matches Bobby Fischer faced Mark Taimanov In Vancouver, Canada. The American defeated his opponent from the Soviet Union with a \"dry\" 6-0 score. But matters could have started differently. In the first game it was Taimanov who put on the pressure, and even had winning chances. He played 27.h3, which nobody considered a bad move - until Kasparov pointed out its defect in 2004. Today's riddle deals with the position before White's 27th move. Computers find it devilishly difficult to find the best continuation. Can you?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/could-taimanov-have-beaten-fischer",
+         "pubDate" : "Fri, 24 May 2024 19:00:00",
+         "title" : "Could Taimanov have beaten Fischer?"
+      },
+      {
          "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/memorable-photos-candidates-2024",
          "pubDate" : "Fri, 24 May 2024 11:00:00",
          "title" : "Ten memorable photos from the 2024 Candidates Tournament"
+      },
+      {
+         "description" : "When it comes to chess, are you a Mad Scientist or a Professor? An Artist or a Technician? You can now learn more about your chess self with our new Chess Personality page! Visit Chess Personality Chess Personality will pose 20 quick and fun q...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-personality",
+         "pubDate" : "Fri, 24 May 2024 09:15:00",
+         "title" : "Take Chess.com's New Personality Quiz And Find Out Which Chess Legend You Are"
       },
       {
          "description" : "After four rounds of rapid games, Kirill Alekseenko and Eduardo Iturrizaga are tied for first place at the Salamanca Masters. The co-leaders have collected 3 points each and stand a half point ahead of Ruslan Ponomariov. Thursday's rounds saw all eight games ending decisively, as tactical, hard-fought chess has been the rule at the age-old University of Salamanca. | Photos: Official website",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2024",
          "pubDate" : "Sun, 12 May 2024 16:47:00",
          "title" : "Superbet Poland Rapid & Blitz 2024 - Games and Results"
-      },
-      {
-         "description" : "GM Pranav V won the strong Masters section of the inaugural Dubai Police Global Chess Challenge, held May 4-12 in Dubai. The 17-year-old grandmaster from Bangalore edged out GM Aravindh Chithambaram on tiebreak, both with seven points, to win the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/pranav-wins-dubai-police-global-chess-challenge",
-         "pubDate" : "Sun, 12 May 2024 14:27:52",
-         "title" : "Pranav Tops All-Indian Podium Ahead of Ivanchuk, Niemann At New Dubai Tournament"
       },
       {
          "description" : " Jamila Thompson is a graduating senior at Spelman College. The native New Yorker was taught chess by her father and continued her passion as a collegiate. While at Spelman, she joined other chess players in the Atlanta University Center (AUC) to match wits. Morehouse College hosted the club meetings and Thompson would attend along with The post <a href=\"https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/\">HBCU Chess Spotlight: Spelman College</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
