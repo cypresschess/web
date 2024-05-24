@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-live",
+         "pubDate" : "Fri, 24 May 2024 16:50:00",
+         "title" : "Salamanca Chess Festival - Live!"
+      },
+      {
+         "description" : " The 2024 ACT Chess Championship has started with a large field of 56 players. As an open event it does have a significant 'tail' but the top end of the event still has a number of strong players. IM Junta Ikeda and FM Michael Kethro are the two favoured local players, with Reyansh Chakrabarty (NSW) checking in as number 2 seed. The first round went according to seeding, with one exception. Tim Pearce dropped an exchange to local junior Louis Chen, who then methodically reduce material until Pearce was left in a lost king and pawn ending. Paul Dunn held out the longest against a stronger opponent, until walking into a game ending tactic against CM Lalit Prasad. You can see the tournament res",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championship-day-1.html",
+         "pubDate" : "Fri, 24 May 2024 14:36:00",
+         "title" : "2024 ACT Championship - Day 1"
+      },
+      {
          "description" : "The English Seniors Championship starts today with two sections (50+ and 65+) over seven rounds from Friday 24th May to Tuesday 28th May. For further...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1000,14 +1016,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/28th-tepe-sigeman-co-chess-tournament-2024",
          "pubDate" : "Fri, 3 May 2024 21:15:00",
          "title" : "28th Tepe Sigeman & Co Chess Tournament 2024 - Games and Results"
-      },
-      {
-         "description" : " <b>2024 ACT Chess Championship</b> 24-27 May 2023 (Friday evening through Monday Reconciliation Day) 7-rounds FIDE/ACF Rated Swiss Format Venue: Campbell High School Trealor Cres, Campbell (next to War Memorial) Schedule: Friday 24 May 7:00pm Saturday 25 May - Monday 27 May 10:00am and 2:30pm on each day 90 minutes per game with 30 second per move increment from move one (Fischer) Director of Play: FIDE International Arbiter Shaun Press Friday 24 May 2023 7:00 PM - Monday 27 May 2023 6:00 PM (UTC+10) Entries: <a href=\"https://www.trybooking.com/CRNMU \">https://www.trybooking.com/CRNMU </a> <br /> First prize $500 Prize Pool: $1500+ ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-chess-championship-24th-27th.html",
-         "pubDate" : "Fri, 03 May 2024 14:00:00",
-         "title" : "2024 ACT Chess Championship - 24th - 27th May 2024"
       }
    ]
 }
