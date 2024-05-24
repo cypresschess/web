@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The Norway Chess super-tournament will start on Monday, with a stellar 6-player field including world champion Ding Liren and world number one Magnus Carlsen. In a recent interview conducted by The Indian Express, Ding talked about his expectations for the event in Stavanger, the pressures connected to having become the world champion and his preparation for the World Championship match against D Gukesh. | Photo: Amruta Mokal",
+         "description" : "After four rounds of rapid games, Kirill Alekseenko and Eduardo Iturrizaga are tied for first place at the Salamanca Masters. The co-leaders have collected 3 points each and stand a half point ahead of Ruslan Ponomariov. Thursday's rounds saw all eight games ending decisively, as tactical, hard-fought chess has been the rule at the age-old University of Salamanca. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ding-liren-indian-express-2024",
-         "pubDate" : "Thu, 23 May 2024 22:15:00",
-         "title" : "Ding Liren for Indian Express: \"I need to show at least my second-best version\""
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-d2",
+         "pubDate" : "Fri, 24 May 2024 08:30:00",
+         "title" : "Salamanca: Alekseenko and Iturrizaga share the lead"
+      },
+      {
+         "description" : " The world No 1 identified most of the six positions from previous world championships and exploited Vishy Anand's unfamiliarity with a classic from Havana 1889 The innovative Casablanca variant, where today's best players tested their skills on historic games from the past, sparked some surprise results on its debut in Morocco last weekend. The event had four participants, each representing a continent: the world No 1, Magnus Carlsen (Europe), former world champion Vishy Anand (Asia), the world No 3, Hikaru Nakamura (America), and Egypt's top grandmaster, Bassim Amin (Africa). Four positions were chosen by experts, two by the audience. Carlsen is well versed in chess history, and correctly ",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/may/24/chess-carlsen-wins-in-casablanca-as-new-variant-tests-historic-skills",
+         "pubDate" : "Fri, 24 May 2024 07:00:13",
+         "title" : "Chess: Carlsen wins in Casablanca as new variant tests historic skills"
       },
       {
          "description" : "",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3038",
          "pubDate" : "Thu, 23 May 2024 17:27:31",
          "title" : "FIDE World Senior Championships 2024: Registration is open"
-      },
-      {
-         "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-live",
-         "pubDate" : "Thu, 23 May 2024 16:50:00",
-         "title" : "Salamanca Chess Festival - Live!"
       },
       {
          "description" : " IM Robert Gwaze is always in conversations about Africa's brightest moments in history. Since his 2002 gold medal at the Bled Olympiad, he has written his memoirs, Life and Games of Robert Gwaze. There had always been the thought that Gwaze was poised to earn his Grandmaster title. However, his competitive play has been inconsistent The post <a href=\"https://www.thechessdrum.net/blog/2024/05/23/robert-gwaze-resurfaces-wins-namibia-open/\">Robert Gwaze resurfaces, wins Namibia Open</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1008,14 +1008,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-open-womens-club-cup-2024-official-invitation/",
          "pubDate" : "Fri, 03 May 2024 09:40:43",
          "title" : "European Open & Women's Club Cup 2024 - Official invitation"
-      },
-      {
-         "description" : " The former world champion fears for the current holder, who is out of form before title defence against 17-year-old Gukesh Dommaraju Magnus Carlsen fears that Ding Liren may have been \"permanently broken\" following the world champion's poor performances at Wijk aan Zee in January and in the Freestyle event in Germany in March. Carlsen, who remains the world No 1 despite abdicating the title in 2023 after a 10-year reign, made his comments <a href=\"https://twitter.com/sjakksnakk/status/1784913997025739230?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1784913997025739230%7Ctwgr%5E75c47f633925e410969f79b22aaacf89bdc75f46%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.chess.com%2Fnews%2Fvie",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/may/03/chess-magnus-carlsen-calls-ding-liren-broken-as-teenage-star-gukesh-emerges",
-         "pubDate" : "Fri, 03 May 2024 07:00:31",
-         "title" : "Chess: Magnus Carlsen calls Ding Liren 'broken' as teenage star Gukesh emerges"
       }
    ]
 }
