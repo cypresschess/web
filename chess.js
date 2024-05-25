@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-live",
+         "pubDate" : "Sat, 25 May 2024 16:50:00",
+         "title" : "Salamanca Chess Festival - Live!"
+      },
+      {
+         "description" : " The 2nd day of the 2024 ACT Championship saw the top seeds having a much tougher time of it, than on the first day. Both IM Junta Ikeda and FM Michael Kethro had to convert drawn rook and pawn endings into wins, while 2nd see Reyaansh Chakrabarty blundered into a mate against Ian Hosking after 16 moves. The Round 3 game between Oladoyin Fasakin and Ikeda saw the evaluation needle swing back and forth, including a missed mate in 2 for Oladoyin when both players were in time trouble. Eventually Ikeda was able to pose enough problems and a misplaced rook spelled the end for Fasakin. It was a similar story in the Kethro Vos game where an over pressing Kethro gave Vos a brief chance to win mater",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championships-day-2.html",
+         "pubDate" : "Sat, 25 May 2024 13:46:00",
+         "title" : "2024 ACT Championships - Day 2"
+      },
+      {
+         "description" : "You play a great game, four hours of high focus and great moves. It feels like victory is just about to happen, and then, in a split-second, you make an intuitive move and hang a piece. All the hard work for nothing. Frustrated, you leave the playing hall and ask yourself: how can I finally []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/blunder-che/",
+         "pubDate" : "Sat, 25 May 2024 13:31:00",
+         "title" : "Chess Blunder Check: Stop Hanging Pieces And Avoid Frustration"
+      },
+      {
          "description" : "If you want to improve your chess, you need a repertoire, but developing a repertoire on your own can be tedious. This is where recommendations from GMs can help. In a new ChessBase course, Dutch GM and FIDE Trainer Sipke Ernst has developed a repertoire for anyone who plays or intends to play 1.d4. Christian Hoethe went over the course and came to the conclusion that White can easily \"make his/her opponent sweat\" with this repertoire.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1008,14 +1032,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-teams-rapidplay.html",
          "pubDate" : "Sun, 05 May 2024 12:00:00",
          "title" : "2024 ACT Teams Rapidplay"
-      },
-      {
-         "description" : "Ever suspect your opponent of cheating online? It's a terrible feeling, leaving you powerless. You start second-guessing your own moves and see ghosts with every move they play. Being in the wrong mindset, you play so badly that it doesn't even matter if they cheat. You blunder and lose the game. But here's the surprising []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/cheaters/",
-         "pubDate" : "Sat, 04 May 2024 13:07:00",
-         "title" : "Forget Cheaters: Here's Your Secret Weapon (For Amateurs)"
       }
    ]
 }
