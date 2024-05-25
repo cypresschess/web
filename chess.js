@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE 100 Torch Relay, marking the centennial celebration of the International Chess Federation (FIDE), is set to light up Latin America. A nine-day event in Medellin, Colombia's second-largest city, will bring together FIDE officials, players and chess fans from the continent. The central ceremony will take place on May 26, when the Torch Relay will make its journey through five public parks in Medellin.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-torch-relay-heads-to-latin-america",
+         "pubDate" : "Sat, 25 May 2024 21:00:00",
+         "title" : "FIDE Torch Relay heads to Latin America"
+      },
+      {
          "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
