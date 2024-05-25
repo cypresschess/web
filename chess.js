@@ -26,14 +26,6 @@ news_feed (
          "title" : "Fedoseev, Paravyan, Sevian, Yoo Quality for Bullet Chess Championship Main Event"
       },
       {
-         "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-live",
-         "pubDate" : "Fri, 24 May 2024 16:50:00",
-         "title" : "Salamanca Chess Festival - Live!"
-      },
-      {
          "description" : " The 2024 ACT Chess Championship has started with a large field of 56 players. As an open event it does have a significant 'tail' but the top end of the event still has a number of strong players. IM Junta Ikeda and FM Michael Kethro are the two favoured local players, with Reyansh Chakrabarty (NSW) checking in as number 2 seed. The first round went according to seeding, with one exception. Tim Pearce dropped an exchange to local junior Louis Chen, who then methodically reduce material until Pearce was left in a lost king and pawn ending. Paul Dunn held out the longest against a stronger opponent, until walking into a game ending tactic against CM Lalit Prasad. You can see the tournament res",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1008,14 +1000,6 @@ news_feed (
          "link" : "https://www.thearticle.com/tobacco-witches-and-chess-a-jacobean-drama/",
          "pubDate" : "Sat, 04 May 2024 07:32:08",
          "title" : "Tobacco, witches and chess: a Jacobean drama"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/109831350.cms\" />Russian chess legend Garry Kasparov's jest about Indian politics sparked online buzz. Playfully responding to Congress MP Rahul Gandhi's claim of being India's top politician-chess player, Kasparov quipped, \"First win Rae Bareli before challenging for the top.\" Despite clarifying it as a joke, his comment ignited a lively discourse on social media, blending humour with politics in unexpected ways.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/garry-kasparov-clarifies-his-little-joke-on-politics-that-cheekily-asked-rahul-gandhi-to-first-win-rae-bareli/articleshow/109831350.cms",
-         "pubDate" : "Sat, 04 May 2024 04:19:50",
-         "title" : "Kasparov clarifies 'little joke' asking Gandhi to 'first win Rae Bareli'"
       }
    ]
 }
