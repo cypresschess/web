@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "If you want to improve your chess, you need a repertoire, but developing a repertoire on your own can be tedious. This is where recommendations from GMs can help. In a new ChessBase course, Dutch GM and FIDE Trainer Sipke Ernst has developed a repertoire for anyone who plays or intends to play 1.d4. Christian Hoethe went over the course and came to the conclusion that White can easily \"make his/her opponent sweat\" with this repertoire.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sipke-ernst-positional-repertoire-review",
+         "pubDate" : "Sat, 25 May 2024 11:00:00",
+         "title" : "Review: Sipke Ernst's positional 1.d4 repertoire"
+      },
+      {
+         "description" : "​At the real risk of being dismissed as a Laudator Temporis Acti, aka a grumpy old man, or disgruntled of Clapham, I am finding the games of leading contemporary grandmasters increasingly featureless. Typically, after a more or less symmetrical Giuoco Piano opening, 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 &hellip;.one side or the other then commits a virtually imperceptible []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/the-latvian-legacy/",
+         "pubDate" : "Sat, 25 May 2024 09:08:46",
+         "title" : "The Latvian legacy"
+      },
+      {
+         "description" : "The 2024 edition of the Norway Chess kicks off this Monday in Stavanger. The event features Open and Women's tournaments, which will be played in the same system, with the equal prize funds. The tournaments will be held from 27th May to 7th June in the SR Bank venue. Each tournament features the line-up of six players, played in a double round-robin system, with time control of 120 minutes with an increment of 10 seconds starting from move 41. The []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/norway-chess-2024-starts-in-stavanger/",
+         "pubDate" : "Sat, 25 May 2024 08:57:02",
+         "title" : "Norway Chess 2024 starts in Stavanger"
+      },
+      {
+         "description" : "Dear Players, This is to inform you that the World Chess Federation (FIDE) will be accepting only limited Indian entries for the World Junior Chess",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-chess-championship-2024/",
+         "pubDate" : "Sat, 25 May 2024 07:42:49",
+         "title" : "World Junior Chess Championship 2024"
+      },
+      {
          "description" : "Kirill Alekseenko defeated Mariya Muzychuk on Friday to become the sole leader at the Salamanca Masters. With two rounds to go, Alekseenko, the defending champion, has a half-point lead over Eduardo Iturrizaga and Ruslan Ponomariov. In Saturday's final rounds, Alekseenko will face Iturrizaga with the white pieces and will play black against Michael Adams. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -984,22 +1016,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/cheaters/",
          "pubDate" : "Sat, 04 May 2024 13:07:00",
          "title" : "Forget Cheaters: Here's Your Secret Weapon (For Amateurs)"
-      },
-      {
-         "description" : "Praggnanandhaa looks back at his FIDE Candidates campaign and how amazing it was to play alongside his sister Vaishali.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/40079794/praggnanandhaa-fide-candidates-2024-vaishali-indian-chess-virat-kohli?device=featurephone",
-         "pubDate" : "Sat, 4 May 2024 07:50:41",
-         "title" : "Praggnanandhaa on FIDE Candidates: 'If I was more practical, I'd have been better'"
-      },
-      {
-         "description" : "This week I would like to offer my congratulations to HM Government, supported by His Majesty's Loyal Opposition, on the success of steering their tobacco ban Bill through its first reading in the House of Commons. Following on the triumph of the Government long standing war on drugs, the natural corollary was to ban tobacco. []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/tobacco-witches-and-chess-a-jacobean-drama/",
-         "pubDate" : "Sat, 04 May 2024 07:32:08",
-         "title" : "Tobacco, witches and chess: a Jacobean drama"
       }
    ]
 }
