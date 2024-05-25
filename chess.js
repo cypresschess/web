@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kirill Alekseenko defeated Mariya Muzychuk on Friday to become the sole leader at the Salamanca Masters. With two rounds to go, Alekseenko, the defending champion, has a half-point lead over Eduardo Iturrizaga and Ruslan Ponomariov. In Saturday's final rounds, Alekseenko will face Iturrizaga with the white pieces and will play black against Michael Adams. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-d3",
+         "pubDate" : "Sat, 25 May 2024 03:00:00",
+         "title" : "Salamanca: Alekseenko sole leader"
+      },
+      {
          "description" : "In the 1971 Candidate Matches Bobby Fischer faced Mark Taimanov In Vancouver, Canada. The American defeated his opponent from the Soviet Union with a \"dry\" 6-0 score. But matters could have started differently. In the first game it was Taimanov who put on the pressure, and even had winning chances. He played 27.h3, which nobody considered a bad move - until Kasparov pointed out its defect in 2004. Today's riddle deals with the position before White's 27th move. Computers find it devilishly difficult to find the best continuation. Can you?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/could-taimanov-have-beaten-fischer",
          "pubDate" : "Fri, 24 May 2024 19:00:00",
          "title" : "Could Taimanov have beaten Fischer?"
+      },
+      {
+         "description" : "GMs Vladimir Fedoseev, David Paravyan, Sam Sevian, and Christopher Yoo fought through the Play-Ins to advance to the main event of the Bullet Chess Championship 2024. In the first Play-In, Paravyan defeated Sevian in the Winners Final. Yet, Sevi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-play-in-1-2",
+         "pubDate" : "Fri, 24 May 2024 17:50:00",
+         "title" : "Fedoseev, Paravyan, Sevian, Yoo Quality for Bullet Chess Championship Main Event"
       },
       {
          "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-personality",
          "pubDate" : "Fri, 24 May 2024 09:15:00",
          "title" : "Take Chess.com's New Personality Quiz And Find Out Which Chess Legend You Are"
-      },
-      {
-         "description" : "After four rounds of rapid games, Kirill Alekseenko and Eduardo Iturrizaga are tied for first place at the Salamanca Masters. The co-leaders have collected 3 points each and stand a half point ahead of Ruslan Ponomariov. Thursday's rounds saw all eight games ending decisively, as tactical, hard-fought chess has been the rule at the age-old University of Salamanca. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-d2",
-         "pubDate" : "Fri, 24 May 2024 08:30:00",
-         "title" : "Salamanca: Alekseenko and Iturrizaga share the lead"
       },
       {
          "description" : " The world No 1 identified most of the six positions from previous world championships and exploited Vishy Anand's unfamiliarity with a classic from Havana 1889 The innovative Casablanca variant, where today's best players tested their skills on historic games from the past, sparked some surprise results on its debut in Morocco last weekend. The event had four participants, each representing a continent: the world No 1, Magnus Carlsen (Europe), the former world champion Vishy Anand (Asia), the world No 3, Hikaru Nakamura (America), and Egypt's top grandmaster, Bassim Amin (Africa). Four positions were chosen by experts, two by the audience. Carlsen is well versed in chess history, and correc",
@@ -616,14 +624,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shyaamnikhil-ends-12-year-wait-becomes-indias-85th-gm/articleshow/110089013.cms",
          "pubDate" : "Mon, 13 May 2024 13:07:33",
          "title" : "Chess: Shyaamnikhil ends 12-year wait, becomes India's 85th GM"
-      },
-      {
-         "description" : "GM Alireza Firouzja eliminated GMs Jan-Krzysztof Duda and Vincent Keymer to reach the Champions Chess Tour Chess.com Classic 2024 Division I Grand Final. On Wednesday, he will take on GM Magnus Carlsen. GM Wesley So lost his very first match in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-6",
-         "pubDate" : "Mon, 13 May 2024 11:53:00",
-         "title" : "Firouzja Sets Up Grand Final Vs. Carlsen After Eliminating Duda, Keymer"
       },
       {
          "description" : "",
