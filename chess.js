@@ -18,6 +18,14 @@ news_feed (
          "title" : "Salamanca Chess Festival - Live!"
       },
       {
+         "description" : "GM Hikaru Nakamura has re-affirmed his status as the king of Bullet Brawl after going 74 games without a single loss during Saturday&#39;s arena. With 70 wins, four draws, no losses, and 269 points to his name, Nakamura was the deserving winner of the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-25-2024",
+         "pubDate" : "Sat, 25 May 2024 15:59:57",
+         "title" : "Nakamura Is The Bullet Brawl GOAT After 74-Game Undefeated Run"
+      },
+      {
          "description" : " The 2nd day of the 2024 ACT Championship saw the top seeds having a much tougher time of it, than on the first day. Both IM Junta Ikeda and FM Michael Kethro had to convert drawn rook and pawn endings into wins, while 2nd see Reyaansh Chakrabarty blundered into a mate against Ian Hosking after 16 moves. The Round 3 game between Oladoyin Fasakin and Ikeda saw the evaluation needle swing back and forth, including a missed mate in 2 for Oladoyin when both players were in time trouble. Eventually Ikeda was able to pose enough problems and a misplaced rook spelled the end for Fasakin. It was a similar story in the Kethro Vos game where an over pressing Kethro gave Vos a brief chance to win mater",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-e-magazine-april-2024/",
          "pubDate" : "Tue, 14 May 2024 08:21:40",
          "title" : "ECU E-Magazine April 2024"
-      },
-      {
-         "description" : "The hardest hitting event in chess is back: the mighty BlitzChamps, which pits NFL superstars against each other to find football&#38;rsquo;s top chess player. BlitzChamps III kicks off on May 22 with $100,000 at stake for charity, and that all-impo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nfl-legends-fitzgerald-vick-line-up-for-blitzchamps-iii",
-         "pubDate" : "Tue, 14 May 2024 07:55:00",
-         "title" : "NFL Stars And Legends Line Up for BlitzChamps III: Who Will Be The League's New Chess MVP?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110108697.cms\" />Grandmaster Erigaisi Arjun, ranked seventh globally, headlines India's formidable presence as the top seed in the Sharjah Masters Chess tournament with a USD 52,000 prize pool. Arjun's participation follows his recent success in Warsaw. Despite stiff competition, including nine players with Elo ratings over 2700, Arjun holds a 29-point lead over the second seed, Parham Maghsoodloo of Iran.",
