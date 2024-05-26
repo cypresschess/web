@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ruslan Ponomariov scored back-to-back wins on Saturday to leapfrog former sole leader Kirill Alekseenko in the standings and win the Salamanca Masters. Alekseenko would have at least tied for first had he not lost his final-round game against Michael Adams. The Austrian representative finished in sole second place, while Eduardo Iturrizaga grabbed clear third place. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-d4",
+         "pubDate" : "Sun, 26 May 2024 05:10:00",
+         "title" : "Ponomariov leapfrogs Alekseenko, wins Salamanca Masters"
+      },
+      {
          "description" : "The FIDE 100 Torch Relay, marking the centennial celebration of the International Chess Federation (FIDE), is set to light up Latin America. A nine-day event in Medellin, Colombia's second-largest city, will bring together FIDE officials, players and chess fans from the continent. The central ceremony will take place on May 26, when the Torch Relay will make its journey through five public parks in Medellin.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,14 +64,6 @@ news_feed (
          "link" : "https://aicf.in/world-junior-chess-championship-2024/",
          "pubDate" : "Sat, 25 May 2024 07:42:49",
          "title" : "World Junior Chess Championship 2024"
-      },
-      {
-         "description" : "Kirill Alekseenko defeated Mariya Muzychuk on Friday to become the sole leader at the Salamanca Masters. With two rounds to go, Alekseenko, the defending champion, has a half-point lead over Eduardo Iturrizaga and Ruslan Ponomariov. In Saturday's final rounds, Alekseenko will face Iturrizaga with the white pieces and will play black against Michael Adams. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-d3",
-         "pubDate" : "Sat, 25 May 2024 03:00:00",
-         "title" : "Salamanca: Alekseenko sole leader"
       },
       {
          "description" : "In the 1971 Candidate Matches Bobby Fischer faced Mark Taimanov In Vancouver, Canada. The American defeated his opponent from the Soviet Union with a \"dry\" 6-0 score. But matters could have started differently. In the first game it was Taimanov who put on the pressure, and even had winning chances. He played 27.h3, which nobody considered a bad move - until Kasparov pointed out its defect in 2004. Today's riddle deals with the position before White's 27th move. Computers find it devilishly difficult to find the best continuation. Can you?",
