@@ -10,20 +10,12 @@ news_feed (
          "title" : "FIDE Torch Relay heads to Latin America"
       },
       {
-         "description" : "The seventh edition of the Salamanca Chess Festival is taking place on May 21-25 at the \"Centro Internacional del Español\" in the city's prestigious university. The Masters Tournament, featuring four men and four women, is a single round-robin with a time control of 40 minutes plus 5-second increments. Follow the games live with computer-assisted analysis starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-live",
-         "pubDate" : "Sat, 25 May 2024 16:50:00",
-         "title" : "Salamanca Chess Festival - Live!"
-      },
-      {
-         "description" : "GM Hikaru Nakamura has re-affirmed his status as the king of Bullet Brawl after going 74 games without a single loss during Saturday&#39;s arena. With 70 wins, four draws, no losses, and 269 points to his name, Nakamura was the deserving winner of the...",
+         "description" : "GM Hikaru Nakamura has reaffirmed his status as the king of Bullet Brawl after going 74 games without a single loss during Saturday&#39;s arena. With 70 wins, four draws, no losses, and 269 points to his name, Nakamura was the deserving winner of the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-25-2024",
-         "pubDate" : "Sat, 25 May 2024 15:59:57",
-         "title" : "Nakamura Is The Bullet Brawl GOAT After 74-Game Undefeated Run"
+         "pubDate" : "Sat, 25 May 2024 15:59:00",
+         "title" : "Nakamura Is Bullet Brawl GOAT After 74-Game Undefeated Run"
       },
       {
          "description" : " The 2nd day of the 2024 ACT Championship saw the top seeds having a much tougher time of it, than on the first day. Both IM Junta Ikeda and FM Michael Kethro had to convert drawn rook and pawn endings into wins, while 2nd see Reyaansh Chakrabarty blundered into a mate against Ian Hosking after 16 moves. The Round 3 game between Oladoyin Fasakin and Ikeda saw the evaluation needle swing back and forth, including a missed mate in 2 for Oladoyin when both players were in time trouble. Eventually Ikeda was able to pose enough problems and a misplaced rook spelled the end for Fasakin. It was a similar story in the Kethro Vos game where an over pressing Kethro gave Vos a brief chance to win mater",
@@ -40,14 +32,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/blunder-che/",
          "pubDate" : "Sat, 25 May 2024 13:31:00",
          "title" : "Chess Blunder Check: Stop Hanging Pieces And Avoid Frustration"
-      },
-      {
-         "description" : "If you want to improve your chess, you need a repertoire, but developing a repertoire on your own can be tedious. This is where recommendations from GMs can help. In a new ChessBase course, Dutch GM and FIDE Trainer Sipke Ernst has developed a repertoire for anyone who plays or intends to play 1.d4. Christian Hoethe went over the course and came to the conclusion that White can easily \"make his/her opponent sweat\" with this repertoire.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sipke-ernst-positional-repertoire-review",
-         "pubDate" : "Sat, 25 May 2024 11:00:00",
-         "title" : "Review: Sipke Ernst's positional 1.d4 repertoire"
       },
       {
          "description" : "​At the real risk of being dismissed as a Laudator Temporis Acti, aka a grumpy old man, or disgruntled of Clapham, I am finding the games of leading contemporary grandmasters increasingly featureless. Typically, after a more or less symmetrical Giuoco Piano opening, 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 &hellip;.one side or the other then commits a virtually imperceptible []",
@@ -112,14 +96,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-seniors-entry-closing-soon/",
          "pubDate" : "Fri, 24 May 2024 12:30:23",
          "title" : "English Seniors Championship starts today"
-      },
-      {
-         "description" : "The Candidates Tournament 2024 took place last month in Toronto, Canada. The tournament turned out to be quite exciting, with many twists and turns. Sanket Nawle lives in Toronto, and is an excellent photographer. He tried to capture a few moments outside the playing hall - and managed to take some beautiful photos! In this article, he takes you through some of his most favourite photos from the Candidates, shortly describing why he likes them. | Photos: Sanket Nawle",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/memorable-photos-candidates-2024",
-         "pubDate" : "Fri, 24 May 2024 11:00:00",
-         "title" : "Ten memorable photos from the 2024 Candidates Tournament"
       },
       {
          "description" : "When it comes to chess, are you a Mad Scientist or a Professor? An Artist or a Technician? You can now learn more about your chess self with our new Chess Personality page! Visit Chess Personality Chess Personality will pose 20 quick and fun q...",
