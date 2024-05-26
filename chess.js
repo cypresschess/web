@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 12th Norway Chess tournament takes place in Stavanger Mon 27th May to Fri 7th Jun 2024. Players: Carlsen, Caruana, Ding, Nakamura Praggnanandhaa and Firouzja. If any games are drawn there is an Armageddon played. This year there is also a women's tournament with the same format. Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk, Rameshbabu Vaishali and Pia Cramling play in that.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/12th-norway-chess-2024",
+         "pubDate" : "Sun, 26 May 2024 22:48:00",
+         "title" : "12th Norway Chess 2024 - Games and Results"
+      },
+      {
+         "description" : "The 12th edition of the Norway Chess super-tournament will take place from May 27 to June 7 at SR-Bank's main building in Stavanger. A noteworthy addition is the introduction of the world's inaugural equal female tournament, the Norway Chess Women's Tournament, with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - will participate besides local hero and world number one Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-announcement",
+         "pubDate" : "Sun, 26 May 2024 22:30:00",
+         "title" : "Starting Monday: Norway Chess introduces parallel women's event"
+      },
+      {
          "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the players and accompanying persons are required to make",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -34,7 +50,7 @@ news_feed (
          "title" : "2024 ACT Championships - Day 3"
       },
       {
-         "description" : "World Champion Ding Liren will play his first classical game against former champion Magnus Carlsen as the new-look 2024 Norway Chess&#38;nbsp;starts tomorrow in Stavanger. Defending champion GM Hikaru Nakamura and 2023 runner-up GM Fabiano Caruana al...",
+         "description" : "World Champion Ding Liren will play his first classical game against former champion Magnus Carlsen as the new-look 2024 Norway Chess starts on Monday in Stavanger. Defending champion GM Hikaru Nakamura and 2023 runner-up GM Fabiano Caruana also c...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-norway-chess-preview",
@@ -1008,30 +1024,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-senior-team-chess-championship-2024-starts-in-terme-catez-slovenia/",
          "pubDate" : "Mon, 06 May 2024 07:58:49",
          "title" : "European Senior Team Chess Championship 2024 starts in Terme Catez, Slovenia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3007",
-         "pubDate" : "Sun, 05 May 2024 21:43:01",
-         "title" : "FIDE ChessMom Initiative: Call for submissions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3006",
-         "pubDate" : "Sun, 05 May 2024 21:12:17",
-         "title" : "FIDE Circuit: Abdusattorov leads after four months"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3005",
-         "pubDate" : "Sun, 05 May 2024 20:22:30",
-         "title" : "FIDE World School Chess Championship crosses midpoint"
       }
    ]
 }
