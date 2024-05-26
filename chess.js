@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the players and accompanying persons are required to make",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/7th-western-asian-youth-chess-championship-2024-in-sri-lanka-from-7th-to-16th-july-2024/",
+         "pubDate" : "Sun, 26 May 2024 16:45:05",
+         "title" : "7th Western Asian Youth Chess Championship - 2024 in Sri Lanka from 7th to 16th July, 2024"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 20 to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-from-20-to-21-july-2024-in-jammu/",
+         "pubDate" : "Sun, 26 May 2024 16:22:32",
+         "title" : "Senior National Arbiters Seminar & Exam from 20 to 21 July 2024 in Jammu"
+      },
+      {
          "description" : "The 8th Youth Chess Composing Challenge is on the way! The youngest contributors to chess art (born 2001 and younger) were offered three different sections to inspire their creations till June 10, with five special prizes of 500 Euros vouchers each for the best representatives of the five most successful countries. The tradition of YCCC was established in 2016 to stimulate young minds and to mentor their work. | Pictured: Christopher Woojin Yoo | Photo: Eric Rosen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championships-day-3.html",
          "pubDate" : "Sun, 26 May 2024 13:54:00",
          "title" : "2024 ACT Championships - Day 3"
+      },
+      {
+         "description" : "World Champion Ding Liren will play his first classical game against former champion Magnus Carlsen as the new-look 2024 Norway Chess&#38;nbsp;starts tomorrow in Stavanger. Defending champion GM Hikaru Nakamura and 2023 runner-up GM Fabiano Caruana al...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-preview",
+         "pubDate" : "Sun, 26 May 2024 12:23:00",
+         "title" : "Norway Chess 2024: 7 Talking Points"
       },
       {
          "description" : "Ruslan Ponomariov scored back-to-back wins on Saturday to leapfrog former sole leader Kirill Alekseenko in the standings and win the Salamanca Masters. Alekseenko would have at least tied for first had he not lost his final-round game against Michael Adams. The Austrian representative finished in sole second place, while Eduardo Iturrizaga grabbed clear third place. | Photos: Official website",
@@ -634,14 +658,6 @@ news_feed (
          "title" : "8th YCCC: Inspiring the next generation of chess composers"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave won Division II of the Champions Chess Tour Chess.com Classic 2024, earning $15,000, 50 tour points, and automatic entry into Division I of the next event. Although GM Wesley So won on demand to reach the match reset, the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-7",
-         "pubDate" : "Tue, 14 May 2024 12:51:00",
-         "title" : "Vachier-Lagrave Wins Division II, Andreikin Takes Division III"
-      },
-      {
          "description" : "ECU E-Magazine April 2024 is out! In this edition of the ECU Magazine you may read about: The April 2024 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below.",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3005",
          "pubDate" : "Sun, 05 May 2024 20:22:30",
          "title" : "FIDE World School Chess Championship crosses midpoint"
-      },
-      {
-         "description" : "In this monthly series on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), the sellers often label their items as 'Rare' or 'Amazing'. More often than not, a more appropriate label would be 'Commonplace' or 'Banal'. <P> The item pictured below was titled 'Amazing Chess History - 8 Autographs'. I won't argue with the adjective here, although 'Rare' or 'One of a Kind' would be equally appropriate. The autographed photo sold for '<STRIKE>US $450.00</STRIKE> Best offer accepted'. Despite eBay's usual obfuscation of the actual selling price, the stated price appears to be close to the actual price. <P ALIGN=C",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/05/1976-us-junior-closed.html",
-         "pubDate" : "Sun, 05 May 2024 15:45:00",
-         "title" : "1976 U.S. Junior (Closed)"
       }
    ]
 }
