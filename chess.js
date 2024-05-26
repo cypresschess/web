@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 8th Youth Chess Composing Challenge is on the way! The youngest contributors to chess art (born 2001 and younger) were offered three different sections to inspire their creations till June 10, with five special prizes of 500 Euros vouchers each for the best representatives of the five most successful countries. The tradition of YCCC was established in 2016 to stimulate young minds and to mentor their work. | Pictured: Christopher Woojin Yoo | Photo: Eric Rosen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/8th-yccc-inspiring-chess-composers",
+         "pubDate" : "Sun, 26 May 2024 14:00:00",
+         "title" : "8th YCCC: Inspiring the next generation of chess composers"
+      },
+      {
+         "description" : " IM Junta Ikeda has taken the outright lead in the 2024 ACT Chess Championship, after another 2 wins on day 3. He beat CM Lalit Prasad in the morning round, and then CM Hui Li in round 5. Li had drawn with FM Michael Kethro in the 4th round before being outplayed by Ikeda in the days 2nd round. Kethro defeated Harry Johnson in the 5th round to move to 4.5, and will now play Ikeda in Round 6 tomorrow. Reyaansh Chakrabarty recovered from his round 3 disaster to win both game today and is tied for 3rd alongside Prasad, Thomas Gatzen-O'Keefe and Tim Pearce. <br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championships-day-3.html",
+         "pubDate" : "Sun, 26 May 2024 13:54:00",
+         "title" : "2024 ACT Championships - Day 3"
+      },
+      {
          "description" : "Ruslan Ponomariov scored back-to-back wins on Saturday to leapfrog former sole leader Kirill Alekseenko in the standings and win the Salamanca Masters. Alekseenko would have at least tied for first had he not lost his final-round game against Michael Adams. The Austrian representative finished in sole second place, while Eduardo Iturrizaga grabbed clear third place. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1008,14 +1024,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/05/1976-us-junior-closed.html",
          "pubDate" : "Sun, 05 May 2024 15:45:00",
          "title" : "1976 U.S. Junior (Closed)"
-      },
-      {
-         "description" : " A field of 19 teams turned out for the 2024 ACT Teams Rapidplay Championship. In previous years the field would be 10 to 12 teams, but this year saw a big jump in numbers. The ACT chess clubs were well represented by official teams, and there were school teams, junior teams, and teams that were just formed on the day. In fact the winning team was just such a team, with Harry's Pushers (Harry Press, Milles Patterson, Jerry Cheng, and Padma Gyalpo) winning with a score of 21.5/28. They score heavily on the top 2 boards (13/14), but also had solid results on the bottom 2 boards to emerge as clear winners. In 2nd place were Underscore on 18.5, a junior team who scored a big 3.5-0.5 win in the f",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-teams-rapidplay.html",
-         "pubDate" : "Sun, 05 May 2024 12:00:00",
-         "title" : "2024 ACT Teams Rapidplay"
       }
    ]
 }
