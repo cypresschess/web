@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Most of the time, chess pieces can rely on the pawn structure. Pawns serve as a shelter, as a support, and as a natural barrier. However, sometimes all the central pawns get exchanged. The pawn structure evaporates, and the pieces are hovering in an open, empty, pawnless space. What does change in the lives of chess pieces when pawns disappear? | Photo: David Baron",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-34-welcome-to-the-open-space",
+         "pubDate" : "Mon, 27 May 2024 13:00:00",
+         "title" : "The Winning Academy 34: Welcome to the Open Space"
+      },
+      {
+         "description" : "The players who participated in the Over the Board National School Age Group (Under 9, Under 11, Under 13, Under 15 and Under 17) Chess",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-schools-rapid-and-blitz-chess-championships-20241st-to-8th-august-2024-tashkent-uzbekistan/",
+         "pubDate" : "Mon, 27 May 2024 10:44:40",
+         "title" : "FIDE World Schools Rapid and Blitz Chess Championships - 20241st to 8th August, 2024 Tashkent, Uzbekistan"
+      },
+      {
+         "description" : "The 2024 Mindsports International Festival returns to the London Mindsports Centre this July. There will be an International Open with title norm opportunities up to Grandmaster for players with a FIDE standard rating of 2000+ from the 18th - 23rd July (six days consisting of three single round and three double round days). Limited to 50+ players and special conditions available for players holding IM & GM titles. There is a minimum &pound;2,000 prize fund for the International Open.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/mindsports-chess-festival",
+         "pubDate" : "Mon, 27 May 2024 10:02:01",
+         "title" : "Mindsports Chess Festival"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -786,6 +810,14 @@ news_feed (
          "title" : "Superbet Poland Rapid & Blitz 2024 - Games and Results"
       },
       {
+         "description" : "THR = 'The Hollywood Reporter', which is also the name of the Youtube channel responsible for the following clip. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/qMvFGJu9bV0?si=tmal_QikalUfutOK\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><BR> <B>Emma Stone, Nathan Fielder and A24 to Produce Ben Mezrich Chess Scandal Story | THR News</B> (1:06) &#149; '[Published on] May 2, 2024' <P> The description said, <BLOCKQUOTE> Emma Stone and Nathan Fielder are set to team up once again. If deals c",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/05/a-thr-exclusive.html",
+         "pubDate" : "Sun, 12 May 2024 15:45:00",
+         "title" : "A THR 'Exclusive'"
+      },
+      {
          "description" : " Jamila Thompson is a graduating senior at Spelman College. The native New Yorker was taught chess by her father and continued her passion as a collegiate. While at Spelman, she joined other chess players in the Atlanta University Center (AUC) to match wits. Morehouse College hosted the club meetings and Thompson would attend along with The post <a href=\"https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/\">HBCU Chess Spotlight: Spelman College</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1008,30 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3009",
          "pubDate" : "Mon, 06 May 2024 20:25:40",
          "title" : "Pune, India to host three-day Chess for Freedom Conference"
-      },
-      {
-         "description" : "Why is the rook's pawn called the \"worst enemy of the knight\"? How do you make best use of the \"Knight Check Shadow\" and when should you enter the \"Karpov Distance\"? In the new ChessBase Magazine #219, Karsten Mueller shows you the most important techniques in the endgame with knight against pawn(s) in part #9 of his series \"Fundamental Endgame Knowledge\". Take the chance and test your technique in two interactive training videos in this week's CBM reading sample. Have fun!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-8",
-         "pubDate" : "Mon, 06 May 2024 11:00:00",
-         "title" : "CBM #219: \"Fundamental Endgame Knowledge\""
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3008",
-         "pubDate" : "Mon, 06 May 2024 09:28:02",
-         "title" : "World Rapid and Blitz Team Championships: Registration is open"
-      },
-      {
-         "description" : "The European Senior Team Chess Championship 2024 starts tomorrow in Terme Catez, Slovenia, and will be held from 7-16 May. The event is played in two age categories: 50+ and 65+, and each team consists of four players plus one reserve player. The Championships are played in 9 rounds, swiss system, with the time control of 90 minutes for 40 moves + 30 minutes for the rest of the game + 30 seconds increment for every move played. The official []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-senior-team-chess-championship-2024-starts-in-terme-catez-slovenia/",
-         "pubDate" : "Mon, 06 May 2024 07:58:49",
-         "title" : "European Senior Team Chess Championship 2024 starts in Terme Catez, Slovenia"
       }
    ]
 }
