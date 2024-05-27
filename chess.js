@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
+         "pubDate" : "Mon, 27 May 2024 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
          "description" : "Most of the time, chess pieces can rely on the pawn structure. Pawns serve as a shelter, as a support, and as a natural barrier. However, sometimes all the central pawns get exchanged. The pawn structure evaporates, and the pieces are hovering in an open, empty, pawnless space. What does change in the lives of chess pieces when pawns disappear? | Photo: David Baron",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-winning-academy-34-welcome-to-the-open-space",
          "pubDate" : "Mon, 27 May 2024 13:00:00",
          "title" : "The Winning Academy 34: Welcome to the Open Space"
+      },
+      {
+         "description" : " IM Junta Ikeda has won his 11th ACT Championship, repeating his 7/7 score he also achieved in last years tournament. His round 6 game against FM Michael Kethro left him a point in front with 1 round to play, but a win over NSW junior Reyaansh Chakrabarty in round 7 kept his 100% record intact. 2nd place was shared between FM Michael Kethro, CM Lalit Prasad, and ACT junior, Masaki Horikawa, on 5.5. Horikawa started the tournament seeded 20th, so his 2nd place finish was quite an achievement. Oladoyan Fasakin and Somon Vos shared the Under 2000 prize, while the Under 1600 prize was shared between Simon Louie, Jerry Cheng, Lohit Hegde, Aarav Rawat and Olamide Fasakin. Padma Gyalpo was the best",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championship-final-day.html",
+         "pubDate" : "Mon, 27 May 2024 12:27:00",
+         "title" : "2024 ACT Championship - Final Day"
       },
       {
          "description" : "The players who participated in the Over the Board National School Age Group (Under 9, Under 11, Under 13, Under 15 and Under 17) Chess",
