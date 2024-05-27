@@ -18,12 +18,12 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "Most of the time, chess pieces can rely on the pawn structure. Pawns serve as a shelter, as a support, and as a natural barrier. However, sometimes all the central pawns get exchanged. The pawn structure evaporates, and the pieces are hovering in an open, empty, pawnless space. What does change in the lives of chess pieces when pawns disappear? | Photo: David Baron",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-34-welcome-to-the-open-space",
-         "pubDate" : "Mon, 27 May 2024 13:00:00",
-         "title" : "The Winning Academy 34: Welcome to the Open Space"
+         "description" : "GMs Magnus Carlsen, Hikaru Nakamura, and Praggnanandhaa Rameshbabu lead Norway Chess 2024 after armageddon wins in round one, with the much-anticipated clash between Carlsen and GM Ding Liren most notable for the Norwegian eating dinner after the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-1",
+         "pubDate" : "Mon, 27 May 2024 13:55:00",
+         "title" : "Carlsen, Nakamura, Praggnanandhaa Lead After Armageddon"
       },
       {
          "description" : " IM Junta Ikeda has won his 11th ACT Championship, repeating his 7/7 score he also achieved in last years tournament. His round 6 game against FM Michael Kethro left him a point in front with 1 round to play, but a win over NSW junior Reyaansh Chakrabarty in round 7 kept his 100% record intact. 2nd place was shared between FM Michael Kethro, CM Lalit Prasad, and ACT junior, Masaki Horikawa, on 5.5. Horikawa started the tournament seeded 20th, so his 2nd place finish was quite an achievement. Oladoyan Fasakin and Somon Vos shared the Under 2000 prize, while the Under 1600 prize was shared between Simon Louie, Jerry Cheng, Lohit Hegde, Aarav Rawat and Olamide Fasakin. Padma Gyalpo was the best",
@@ -66,14 +66,6 @@ news_feed (
          "title" : "12th Norway Chess 2024 - Games and Results"
       },
       {
-         "description" : "The 12th edition of the Norway Chess super-tournament will take place from May 27 to June 7 at SR-Bank's main building in Stavanger. A noteworthy addition is the introduction of the world's inaugural equal female tournament, the Norway Chess Women's Tournament, with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - will participate besides local hero and world number one Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-announcement",
-         "pubDate" : "Sun, 26 May 2024 22:30:00",
-         "title" : "Starting Monday: Norway Chess introduces parallel women's event"
-      },
-      {
          "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the players and accompanying persons are required to make",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -90,14 +82,6 @@ news_feed (
          "title" : "Senior National Arbiters Seminar & Exam from 20 to 21 July 2024 in Jammu"
       },
       {
-         "description" : "The 8th Youth Chess Composing Challenge is on the way! The youngest contributors to chess art (born 2001 and younger) were offered three different sections to inspire their creations till June 10, with five special prizes of 500 Euros vouchers each for the best representatives of the five most successful countries. The tradition of YCCC was established in 2016 to stimulate young minds and to mentor their work. | Pictured: Christopher Woojin Yoo | Photo: Eric Rosen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/8th-yccc-inspiring-chess-composers",
-         "pubDate" : "Sun, 26 May 2024 14:00:00",
-         "title" : "8th YCCC: Inspiring the next generation of chess composers"
-      },
-      {
          "description" : " IM Junta Ikeda has taken the outright lead in the 2024 ACT Chess Championship, after another 2 wins on day 3. He beat CM Lalit Prasad in the morning round, and then CM Hui Li in round 5. Li had drawn with FM Michael Kethro in the 4th round before being outplayed by Ikeda in the days 2nd round. Kethro defeated Harry Johnson in the 5th round to move to 4.5, and will now play Ikeda in Round 6 tomorrow. Reyaansh Chakrabarty recovered from his round 3 disaster to win both game today and is tied for 3rd alongside Prasad, Thomas Gatzen-O'Keefe and Tim Pearce. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -112,22 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-norway-chess-preview",
          "pubDate" : "Sun, 26 May 2024 12:23:00",
          "title" : "Norway Chess 2024: 7 Talking Points"
-      },
-      {
-         "description" : "Ruslan Ponomariov scored back-to-back wins on Saturday to leapfrog former sole leader Kirill Alekseenko in the standings and win the Salamanca Masters. Alekseenko would have at least tied for first had he not lost his final-round game against Michael Adams. The Austrian representative finished in sole second place, while Eduardo Iturrizaga grabbed clear third place. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/salamanca-festival-2024-d4",
-         "pubDate" : "Sun, 26 May 2024 05:10:00",
-         "title" : "Ponomariov leapfrogs Alekseenko, wins Salamanca Masters"
-      },
-      {
-         "description" : "The FIDE 100 Torch Relay, marking the centennial celebration of the International Chess Federation (FIDE), is set to light up Latin America. A nine-day event in Medellin, Colombia's second-largest city, will bring together FIDE officials, players and chess fans from the continent. The central ceremony will take place on May 26, when the Torch Relay will make its journey through five public parks in Medellin.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-torch-relay-heads-to-latin-america",
-         "pubDate" : "Sat, 25 May 2024 21:00:00",
-         "title" : "FIDE Torch Relay heads to Latin America"
       },
       {
          "description" : "GM Hikaru Nakamura has reaffirmed his status as the king of Bullet Brawl after going 74 games without a single loss during Saturday&#39;s arena. With 70 wins, four draws, no losses, and 269 points to his name, Nakamura was the deserving winner of the ...",
@@ -706,14 +674,6 @@ news_feed (
          "title" : "Bullet Chess Championship Is Back With Nakamura Gunning For A Hat-Trick Of Wins"
       },
       {
-         "description" : "Fast-fingers at the ready&#38;mdash;the new 2024 Chess.com Community Championships series is launching later this month with the Hyperbullet Championship. The Community Championships is your chance to win a crown and cash on Chess.com and first up, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/community-championships-kicks-off-with-hyperbullet",
-         "pubDate" : "Wed, 15 May 2024 06:58:00",
-         "title" : "Chess.com Launches 2024 Community Championships With Hyperbullet"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1056,14 +1016,6 @@ news_feed (
          "link" : "https://aicf.in/national-team-open-and-women-certificates-2024/",
          "pubDate" : "Tue, 07 May 2024 07:09:47",
          "title" : "National Team Open and Women Certificates 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3009",
-         "pubDate" : "Mon, 06 May 2024 20:25:40",
-         "title" : "Pune, India to host three-day Chess for Freedom Conference"
       }
    ]
 }
