@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3040",
+         "pubDate" : "Mon, 27 May 2024 06:05:57",
+         "title" : "FIDE Torch Relay arrives in Colombia to celebrate chess and unity"
+      },
+      {
          "description" : " The 12th Norway Chess tournament takes place in Stavanger Mon 27th May to Fri 7th Jun 2024. Players: Carlsen, Caruana, Ding, Nakamura Praggnanandhaa and Firouzja. If any games are drawn there is an Armageddon played. This year there is also a women's tournament with the same format. Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk, Rameshbabu Vaishali and Pia Cramling play in that.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
