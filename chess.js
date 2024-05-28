@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Alan Cowan was co-valedictorian of Morehouse College's 2023 graduating class. He kindled an intense interest in finance and now works in venture capital for Mosaic General Partnership in San Francisco. Apart from his academic achievements, he executed one of the most potentially impactful ideas in American chess. In 2020, Cowan and Spelman student Shaniah Francis The post <a href=\"https://www.thechessdrum.net/blog/2024/05/28/hbcu-chess-spotlight-alan-cowan/\">HBCU Chess Spotlight: Alan Cowan</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/05/28/hbcu-chess-spotlight-alan-cowan/",
+         "pubDate" : "Tue, 28 May 2024 19:40:48",
+         "title" : "HBCU Chess Spotlight: Alan Cowan"
+      },
+      {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3043",
          "pubDate" : "Tue, 28 May 2024 12:59:18",
          "title" : "Call for Bids: FIDE World Championships 2025"
+      },
+      {
+         "description" : "This is a flash report. The full article, including game analysis, snippets from interviews, photographs, and more will be added to this page soon. Two rounds into Norway Chess 2024, there have been no classical wins yet in the open section. GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-2",
+         "pubDate" : "Tue, 28 May 2024 12:55:00",
+         "title" : "Vaishali Wins 1st Classical Game, Carlsen Beats Nakamura In Armageddon To Take Sole Lead"
       },
       {
          "description" : "",
@@ -70,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/richard-rapport-set-to-return-to-play-for-hungary-in-budapest-olympiad",
-         "pubDate" : "Tue, 28 May 2024 06:32:40",
+         "pubDate" : "Tue, 28 May 2024 06:32:00",
          "title" : "Rapport Returns To Play For Hungary In Budapest Olympiad, Teams Up With Leko"
       },
       {
@@ -90,14 +106,6 @@ news_feed (
          "title" : "Carlsen, Nakamura, Praggnanandhaa Lead After Armageddon Wins"
       },
       {
-         "description" : "Most of the time, chess pieces can rely on the pawn structure. Pawns serve as a shelter, as a support, and as a natural barrier. However, sometimes all the central pawns get exchanged. The pawn structure evaporates, and the pieces are hovering in an open, empty, pawnless space. What does change in the lives of chess pieces when pawns disappear? | Photo: David Baron",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-34-welcome-to-the-open-space",
-         "pubDate" : "Mon, 27 May 2024 13:00:00",
-         "title" : "The Winning Academy 34: Welcome to the Open Space"
-      },
-      {
          "description" : " IM Junta Ikeda has won his 11th ACT Championship, repeating his 7/7 score he also achieved in last years tournament. His round 6 game against FM Michael Kethro left him a point in front with 1 round to play, but a win over NSW junior Reyaansh Chakrabarty in round 7 kept his 100% record intact. 2nd place was shared between FM Michael Kethro, CM Lalit Prasad, and ACT junior, Masaki Horikawa, on 5.5. Horikawa started the tournament seeded 20th, so his 2nd place finish was quite an achievement. Oladoyan Fasakin and Somon Vos shared the Under 2000 prize, while the Under 1600 prize was shared between Simon Louie, Jerry Cheng, Lohit Hegde, Aarav Rawat and Olamide Fasakin. Padma Gyalpo was the best",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-schools-rapid-and-blitz-chess-championships-20241st-to-8th-august-2024-tashkent-uzbekistan/",
          "pubDate" : "Mon, 27 May 2024 10:44:40",
          "title" : "FIDE World Schools Rapid and Blitz Chess Championships - 20241st to 8th August, 2024 Tashkent, Uzbekistan"
-      },
-      {
-         "description" : "The 2024 Mindsports International Festival returns to the London Mindsports Centre this July. There will be an International Open with title norm opportunities up to Grandmaster for players with a FIDE standard rating of 2000+ from the 18th - 23rd July (six days consisting of three single round and three double round days). Limited to 50+ players and special conditions available for players holding IM & GM titles. There is a minimum &pound;2,000 prize fund for the International Open.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/mindsports-chess-festival",
-         "pubDate" : "Mon, 27 May 2024 10:02:01",
-         "title" : "Mindsports Chess Festival"
       },
       {
          "description" : "",
@@ -730,14 +730,6 @@ news_feed (
          "title" : "Nakamura Scores 10.5/11, Wins On Tiebreaks, Then Sweeps"
       },
       {
-         "description" : "The 2024 Speed Chess Championship is fast approaching&#38;mdash;and this year it will end with a live, in-person final staged in Paris. For the first time, Chess.com is taking the climax of its flagship fast time control event offline. The French ca...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/paris-to-host-live-final-of-2024-speed-chess-championship",
-         "pubDate" : "Wed, 15 May 2024 07:00:00",
-         "title" : "Paris To Host Live Final Of 2024 Speed Chess Championship: Nakamura, Carlsen Confirmed"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1048,14 +1040,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/05/08/gregory-acholonu-featured-chess-on-the-brain/",
          "pubDate" : "Wed, 08 May 2024 05:08:06",
          "title" : "Gregory Acholonu featured \"Chess on the Brain\""
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3011",
-         "pubDate" : "Tue, 07 May 2024 21:10:52",
-         "title" : "Swiss Wednesday Women's Series: March & April highlights"
       }
    ]
 }
