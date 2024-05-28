@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All three classical games ended drawn in round 1 of the Norway Chess super-tournament. In the subsequent Armageddon tiebreakers, Magnus Carlsen, Hikaru Nakamura and R Praggnanandhaa (pictured) prevailed to become the early co-leaders. The much anticipated clash between Carlsen and world champion Ding Liren saw the contenders agreeing to a 14-move draw in the slow game and Carlsen comfortably holding a draw with black in Armageddon. | Photo: Abhyudaya Ram",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-1",
+         "pubDate" : "Tue, 28 May 2024 08:45:00",
+         "title" : "Norway Chess: Three draws, three Armageddon deciders"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,20 +18,20 @@ news_feed (
          "title" : "FIDE ChessMom Initiative: Applications due May 29"
       },
       {
-         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
-         "pubDate" : "Mon, 27 May 2024 16:45:00",
-         "title" : "Norway Chess - Live!"
-      },
-      {
          "description" : "GMs Magnus Carlsen, Hikaru Nakamura, and Praggnanandhaa Rameshbabu lead Norway Chess 2024 after armageddon wins in round one, with the much-anticipated clash between Carlsen and GM Ding Liren most notable for the Norwegian eating dinner after the ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-1",
          "pubDate" : "Mon, 27 May 2024 13:55:00",
          "title" : "Carlsen, Nakamura, Praggnanandhaa Lead After Armageddon Wins"
+      },
+      {
+         "description" : "Most of the time, chess pieces can rely on the pawn structure. Pawns serve as a shelter, as a support, and as a natural barrier. However, sometimes all the central pawns get exchanged. The pawn structure evaporates, and the pieces are hovering in an open, empty, pawnless space. What does change in the lives of chess pieces when pawns disappear? | Photo: David Baron",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-34-welcome-to-the-open-space",
+         "pubDate" : "Mon, 27 May 2024 13:00:00",
+         "title" : "The Winning Academy 34: Welcome to the Open Space"
       },
       {
          "description" : " IM Junta Ikeda has won his 11th ACT Championship, repeating his 7/7 score he also achieved in last years tournament. His round 6 game against FM Michael Kethro left him a point in front with 1 round to play, but a win over NSW junior Reyaansh Chakrabarty in round 7 kept his 100% record intact. 2nd place was shared between FM Michael Kethro, CM Lalit Prasad, and ACT junior, Masaki Horikawa, on 5.5. Horikawa started the tournament seeded 20th, so his 2nd place finish was quite an achievement. Oladoyan Fasakin and Somon Vos shared the Under 2000 prize, while the Under 1600 prize was shared between Simon Louie, Jerry Cheng, Lohit Hegde, Aarav Rawat and Olamide Fasakin. Padma Gyalpo was the best",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3010",
          "pubDate" : "Tue, 07 May 2024 13:29:27",
          "title" : "Chess titans Carlsen, Nakamura, Anand, and Amin set for epic showdown in Casablanca"
-      },
-      {
-         "description" : "National Team Open Name Krishna C R G Aronyak Ghosh Ghosh Diptayan Visakh N R Neelash Saha Shyaamnikhil P Vignesh N R Das Sayantan Swapnil",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-team-open-and-women-certificates-2024/",
-         "pubDate" : "Tue, 07 May 2024 07:09:47",
-         "title" : "National Team Open and Women Certificates 2024"
       }
    ]
 }
