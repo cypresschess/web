@@ -10,6 +10,14 @@ news_feed (
          "title" : "Norway Chess: Three draws, three Armageddon deciders"
       },
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110492267.cms\" />Indian Grandmaster R Praggnanandhaa triumphed over France's Firouzja Alireza in the Armageddon game during the Norway Chess tournament's first round. The classical game ended in a draw, but Praggnanandhaa, with more time on the clock, clinched the win. After the first round, Praggnanandhaa shares the lead with Magnus Carlsen and Hikaru Nakamura.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-cruises-to-victory-against-firouzja-alireza-in-first-round-of-norway-chess-tournament/articleshow/110492267.cms",
+         "pubDate" : "Tue, 28 May 2024 08:28:57",
+         "title" : "R Praggnanandhaa beats Firouzja in Norway Chess tournament"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -696,6 +704,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3023",
          "pubDate" : "Tue, 14 May 2024 21:36:51",
          "title" : "8th YCCC: Inspiring the next generation of chess composers"
+      },
+      {
+         "description" : "Last month's post about American chess magazines of 50 and 25 years ago, <A HREF=\"https://chessforallages.blogspot.com/2024/04/april-1974-1999-on-cover.html\">April 1974 & 1999 'On the Cover'</A> (April 2024), was all about American chess. This month we're reminded that there are always important chess events happening in the rest of the world. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oe14.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Maurice Ashley - Our Newest Grandmaster' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Anatoly Karpov (left) and Tigran Petrosian, winners of their quarterfinal candidates matches. See [inside] for S",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/05/may-1974-1999-on-cover.html",
+         "pubDate" : "Tue, 14 May 2024 15:59:00",
+         "title" : "May 1974 & 1999 'On the Cover'"
       },
       {
          "description" : "ECU E-Magazine April 2024 is out! In this edition of the ECU Magazine you may read about: The April 2024 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below.",
