@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
+         "pubDate" : "Tue, 28 May 2024 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : " <p class=\"lead\">The landscape of sports revenue is marked by significant gender disparities, with top female athletes generally earning less than their male counterparts across various sports. This article examines the revenue differences between top female and male athletes in tennis, soccer, basketball, golf, and chess, shedding light on the factors contributing to these disparities. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1600\" data-ratio=\"1.7777777777778\"> <img src=\"https://worldchess.com/news/pictures/release-woman's-revenue-pt2.png\" width=\"1600\" height=\"900\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/release-woman's-revenue-pt1.png\" width=\"1600\" h",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/comparative-analysis-of-top-womens-and-mens-revenue-in-different/",
+         "pubDate" : "Tue, 28 May 2024 14:23:39",
+         "title" : "Comparative analysis of top women's and men's revenue in different sports, including Chess"
+      },
+      {
+         "description" : "In the 1971 Candidate Matches Bobby Fischer faced Mark Taimanov In Vancouver, Canada. The American defeated his opponent from the Soviet Union with a \"dry\" 6-0 score. But matters could have started differently. In the first game it was Taimanov who put on the pressure, and even had winning chances. He played 27.h3, which nobody considered a bad move - until Kasparov pointed out its defect in 2004. Today's riddle deals with the position before White's 27th move. Computers find it devilishly difficult to find the best continuation. Can you?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/riddle-solved-taimanov-could-not-have-defeated-fischer",
+         "pubDate" : "Tue, 28 May 2024 14:00:00",
+         "title" : "Riddle solved: Taimanov could not have defeated Fischer"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3043",
+         "pubDate" : "Tue, 28 May 2024 12:59:18",
+         "title" : "Call for Bids: FIDE World Championships 2025"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3042",
+         "pubDate" : "Tue, 28 May 2024 12:37:42",
+         "title" : "Chess databases: empowering players and educators"
+      },
+      {
+         "description" : "The English Chess Federation will once again be holding a 24-hour online chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Chess.com&#160;will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine-2024-update/",
+         "pubDate" : "Tue, 28 May 2024 12:00:32",
+         "title" : "ECF Charity Marathon for Ukraine 2024 starts 5.00pm this Saturday 1st June!"
+      },
+      {
          "description" : "All three classical games ended drawn in round 1 of the Norway Chess super-tournament. In the subsequent Armageddon tiebreakers, Magnus Carlsen, Hikaru Nakamura and R Praggnanandhaa (pictured) prevailed to become the early co-leaders. The much anticipated clash between Carlsen and world champion Ding Liren saw the contenders agreeing to a 14-move draw in the slow game and Carlsen comfortably holding a draw with black in Armageddon. | Photo: Abhyudaya Ram",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +64,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-cruises-to-victory-against-firouzja-alireza-in-first-round-of-norway-chess-tournament/articleshow/110492267.cms",
          "pubDate" : "Tue, 28 May 2024 08:28:57",
          "title" : "R Praggnanandhaa beats Firouzja in Norway Chess tournament"
+      },
+      {
+         "description" : "In a surprising turn of events, the Hungarian Chess Federation has announced that GM Richard Rapport will return to play for his native country just two years after transferring to Romania. GM Peter Leko also confirmed his participation. Hungary...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/richard-rapport-set-to-return-to-play-for-hungary-in-budapest-olympiad",
+         "pubDate" : "Tue, 28 May 2024 06:32:40",
+         "title" : "Rapport Returns To Play For Hungary In Budapest Olympiad, Teams Up With Leko"
       },
       {
          "description" : "",
@@ -682,14 +738,6 @@ news_feed (
          "title" : "Paris To Host Live Final Of 2024 Speed Chess Championship: Nakamura, Carlsen Confirmed"
       },
       {
-         "description" : "The Bullet Chess Championship has been reloaded, the safety is off, and it&#38;rsquo;s ready to fire! The year&#38;rsquo;s explosive action kicks off on May 24 with a star-studded posse of gunslingers and $100,000 in prizes at stake. Chess.com&#38;rsquo;s B...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/bullet-chess-championship-is-back-with-nakamura-carlsen",
-         "pubDate" : "Wed, 15 May 2024 06:59:00",
-         "title" : "Bullet Chess Championship Is Back With Nakamura Gunning For A Hat-Trick Of Wins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -760,14 +808,6 @@ news_feed (
          "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-in-terme-catez-slovenia/",
          "pubDate" : "Mon, 13 May 2024 08:35:13",
          "title" : "Communique of the ECU Board Meeting in Terme Catez, Slovenia"
-      },
-      {
-         "description" : "Owen Phillips writes &#8212; From 15/25 June, Gary Hogan of the BCA and Witney chess clubs will play in his long-awaited second major international FIDE...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ibca-european-open-chess-championship-2024/",
-         "pubDate" : "Mon, 13 May 2024 08:10:45",
-         "title" : "IBCA European Open Chess Championship 2024"
       },
       {
          "description" : "",
@@ -1016,22 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3011",
          "pubDate" : "Tue, 07 May 2024 21:10:52",
          "title" : "Swiss Wednesday Women's Series: March & April highlights"
-      },
-      {
-         "description" : " I was looking through a few games by Vassily Smyslov, as I had just picked up a copy of his book on his early career (up until 1957). I was planning to show an <a href=\"https://chessexpress.blogspot.com/2010/06/power-of-two-bishops.html\">early win against Gerasimov</a>, but I realised I had posted it 14 years ago, So instead, I found a very short game, where a quick tactical blow brought about resignation. However in this case I suspect Spraggett resigned more out of disgust than anything else, as the position isn't lost, just \"losing\". <br /> <b>Spraggett,Kevin (2550) - Smyslov,Vassily (2595) [E11]</b><br /> Candidates Tournament Montpellier (6), 1985 <script> new PgnViewer( { boardName: \"",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/ive-had-better-days.html",
-         "pubDate" : "Tue, 07 May 2024 14:12:00",
-         "title" : "I've had better days"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3010",
-         "pubDate" : "Tue, 07 May 2024 13:29:27",
-         "title" : "Chess titans Carlsen, Nakamura, Anand, and Amin set for epic showdown in Casablanca"
       }
    ]
 }
