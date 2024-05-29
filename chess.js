@@ -50,6 +50,14 @@ news_feed (
          "title" : "India bids to host Gukesh vs Liren World Chess Championship match"
       },
       {
+         "description" : "GM Alexander Grischuk, two weeks removed from the best second-place finish in Titled Tuesday history (or most painful, depending how you look at it), won the early edition of the tournament on May 28. That was followed by a win for GM Minh Le in t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grischuk-le-win-titled-tuesday-may-28-2024",
+         "pubDate" : "Wed, 29 May 2024 08:25:00",
+         "title" : "Record-Setting, Runner-Up Grischuk Wins This Titled Tuesday"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110528476.cms\" />Indian Grandmaster R Praggnanandhaa drew against World Champion Ding Liren in the classical game but lost in the Armageddon tie-breaker in the Norway Chess tournament's second round. Magnus Carlsen, Alireza Firouzja, and Liren secured 1.5 points each by winning their respective Armageddon games, while Praggnanandhaa's first classical draw led to a tie-break defeat.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -770,14 +778,6 @@ news_feed (
          "title" : "Reflections on the 2024 HBCU Chess Classic"
       },
       {
-         "description" : "GM Alireza Firouzja is the second player to defeat GM Magnus Carlsen two times in a Grand Final of the Champions Chess Tour, a feat that only GM Maxime Vachier-Lagrave achieved previously. On Wednesday, the French number-one won the Chess.com Clas...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chesscom-classic-day-8-firouzja-wins",
-         "pubDate" : "Wed, 15 May 2024 13:24:00",
-         "title" : "Firouzja Beats Carlsen Twice In Grand Final, Wins 2024 Chess.com Classic"
-      },
-      {
          "description" : "The Following Indian players are provisionally identified (subject to change and approval from FIDE) to take part in the World Junior &#38; Junior Girls Chess",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3013",
          "pubDate" : "Wed, 08 May 2024 22:39:55",
          "title" : "Superbet Poland Rapid & Blitz: Day 1 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3012",
-         "pubDate" : "Wed, 08 May 2024 16:50:16",
-         "title" : "Cape Verdean Women's Championship: Celia Rodriguez claims third title"
       }
    ]
 }
