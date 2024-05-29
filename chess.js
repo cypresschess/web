@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3044",
+         "pubDate" : "Wed, 29 May 2024 21:48:49",
+         "title" : "VII Festival in Salamanca, cradle of modern chess: Ruslan Ponomariov clinches title"
+      },
+      {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/norway-chess-2024-women-2",
          "pubDate" : "Wed, 29 May 2024 13:00:00",
          "title" : "Norway Chess Women: Vaishali stuns Humpy, grabs the lead"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu is the new leader at Norway Chess 2024 after beating&#38;nbsp;world number-one GM Magnus Carlsen for the first time in classical chess in Wednesday&#39;s third round. Fabiano Caruana was the other player to earn the full three...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-3",
+         "pubDate" : "Wed, 29 May 2024 12:51:00",
+         "title" : "Praggnanandhaa Scores 1st Classical Win Vs. Carlsen, Leads In Norway"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110533435.cms\" />The All India Chess Federation (AICF) has bid to host the World Chess Championship between Indian prodigy D Gukesh and China's world champion Ding Liren. Scheduled for November 20 to December 15 in Chennai, AICF awaits FIDE's decision, due after the May 31 bid deadline. Singapore is expected to compete for hosting rights.",
@@ -746,14 +762,6 @@ news_feed (
          "title" : "SNA Seminar & Exam at Guwahati Assam on 21-22 June 2024"
       },
       {
-         "description" : "Chess.com is announcing Kids vs. Stars&#38;mdash;a series of matches between the generations of bright young talent facing your favorite stars and content creators! Will the kids take over or will the stars defend the guard? Don&#39;t miss this! This...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kids-vs-stars-the-match-of-rising-talents-and-content-creators",
-         "pubDate" : "Thu, 16 May 2024 07:21:10",
-         "title" : "Kids vs. Stars: The Match Of Rising Talents And Content Creators"
-      },
-      {
          "description" : " The Chess.com Classic which is part of the Champions Chess Tour took place Fri 10th to Wed 15th May 2024 on Chess.com. The format is Double Elimination Knockout. Carlsen, Ivic, Lazavik, Nepomniachtchi, Firouzja, Duda, Keymer and Sarana play for the title in Division 1. There were two further divisions which had qualification places for the division above. Alireza Firouzja overcame a loss to Jan-Krzysztof Duda in the first round to progress through the losers half and then beat Magnus Carlsen twice in a row in the Grand Final and its reset to take the title.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/schmitt-hassan-saint-louis-chess-club-host-bipartisan-congressional-chess-tournament-leading",
          "pubDate" : "Thu, 09 May 2024 05:29:18",
          "title" : "Schmitt, Hassan, Saint Louis Chess Club Host Bipartisan Congressional Chess Tournament with Leading Chess Figures, Saint Louis Students in Nation's Capital"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3013",
-         "pubDate" : "Wed, 08 May 2024 22:39:55",
-         "title" : "Superbet Poland Rapid & Blitz: Day 1 Recap"
       }
    ]
 }
