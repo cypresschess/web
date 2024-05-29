@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 2 of the Norway Chess super-tournament saw all three classical games ending drawn once again. Magnus Carlsen, Alireza Firouzja and Ding Liren all won with white in the subsequent Armageddon tiebreakers to collect 1&frac12; points each. Carlsen, who defeated Hikaru Nakamura on Tuesday, is now leading the standings with 3 points to his name. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-2",
+         "pubDate" : "Wed, 29 May 2024 01:20:00",
+         "title" : "Norway Chess: Carlsen beats Naka in Armageddon, leads"
+      },
+      {
          "description" : " Alan Cowan was co-valedictorian of Morehouse College's 2023 graduating class. He kindled an intense interest in finance and now works in venture capital for Mosaic General Partnership in San Francisco. Apart from his academic achievements, he executed one of the most potentially impactful ideas in American chess. In 2020, Cowan and Spelman student Shaniah Francis The post <a href=\"https://www.thechessdrum.net/blog/2024/05/28/hbcu-chess-spotlight-alan-cowan/\">HBCU Chess Spotlight: Alan Cowan</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -42,12 +50,12 @@ news_feed (
          "title" : "Call for Bids: FIDE World Championships 2025"
       },
       {
-         "description" : "This is a flash report. The full article, including game analysis, snippets from interviews, photographs, and more will be added to this page soon. Two rounds into Norway Chess 2024, there have been no classical wins yet in the open section. GM ...",
+         "description" : "GM Magnus Carlsen captured the sole lead of Norway Chess 2024 after defeating GM Hikaru Nakamura in armageddon in round two. White won the other two armageddons as well, after GM Ding Liren outplayed GM Praggnanandhaa Rameshbabu and GM Alireza Fir...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-2",
          "pubDate" : "Tue, 28 May 2024 12:55:00",
-         "title" : "Vaishali Wins 1st Classical Game, Carlsen Beats Nakamura In Armageddon To Take Sole Lead"
+         "title" : "Carlsen Beats Nakamura In Armageddon To Take Sole Lead, Vaishali Wins 1st Classical Game"
       },
       {
          "description" : "",
