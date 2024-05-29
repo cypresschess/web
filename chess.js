@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European School Chess Championship 2024 is set to take place from 31 May to 7 June in Limerick, Ireland. The event is played in 6 age categories: U7, U9, U11, U13, U15, and U17, open and girls sections separately, with 9-swiss rounds, and the time control of 90 minutes for the whole game + 30-second increment for each move, starting from the move one. More than 190 players coming from 18 European federations registered for the event and the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-school-chess-championship-2024-starts-in-limerick-ireland/",
+         "pubDate" : "Wed, 29 May 2024 05:36:34",
+         "title" : "European School Chess Championship 2024 starts in Limerick, Ireland"
+      },
+      {
          "description" : "Round 2 of the Norway Chess super-tournament saw all three classical games ending drawn once again. Magnus Carlsen, Alireza Firouzja and Ding Liren all won with white in the subsequent Armageddon tiebreakers to collect 1&frac12; points each. Carlsen, who defeated Hikaru Nakamura on Tuesday, is now leading the standings with 3 points to his name. | Photo: Stev Bonhage / Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,22 +1040,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/57th-capablanca-memorial-2024",
          "pubDate" : "Wed, 8 May 2024 13:06:00",
          "title" : "57th Capablanca Memorial 2024 - Games and Results"
-      },
-      {
-         "description" : "After a history-making month for Indian chess, the All India Chess Federation unveiled a host of initiatives to further popularise the sport in India, and",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/aicf-urgent-general-body-on-04-may-2024indian-chesss-rs-65-crore-blueprint/",
-         "pubDate" : "Wed, 08 May 2024 05:58:50",
-         "title" : "AICF Urgent General Body on 04 May 2024:Indian chess's Rs 65 crore blueprint."
-      },
-      {
-         "description" : " In a fascinating podcast, FM Gregory Acholonu was a guest on &#8220;Chess on the Brain,&#8221; talking about a range of topics. The host was National Master David Bennett, who asked the DC native questions ranging from current events to the Black chess scene in DC, including the &#8220;Black Knights,&#8221; the DC Chess League, and the The post <a href=\"https://www.thechessdrum.net/blog/2024/05/08/gregory-acholonu-featured-chess-on-the-brain/\">Gregory Acholonu featured &#8220;Chess on the Brain&#8221;</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/05/08/gregory-acholonu-featured-chess-on-the-brain/",
-         "pubDate" : "Wed, 08 May 2024 05:08:06",
-         "title" : "Gregory Acholonu featured \"Chess on the Brain\""
       }
    ]
 }
