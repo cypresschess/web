@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
+         "pubDate" : "Wed, 29 May 2024 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Astrologers may feel vindicated. After all, Dommaraju Gukesh, the winner of the 2024 Candidates Tournament, and Tan Zhongyi, the winner of the 2024 Women's Candidates Tournament, were both born on 29 May, Gukesh in Chennai, India, in 2006 and Tan Zhongyi in Chongqing, China, in 1991. Congratulations! | Photos: David Llada (Gukesh) and Lennart Ootes (Tan Zhongyi)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/happy-birthday-dommaraju-gukesh-and-tan-zhongyi-celebrate-their-birthdays",
+         "pubDate" : "Wed, 29 May 2024 15:32:00",
+         "title" : "Congratulations! Dommaraju Gukesh and Tan Zhongyi celebrate their birthdays"
+      },
+      {
+         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how best to use them, just as a craftsman knows his tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't close the position when we have the bishop pair.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-markos-middlegame-secrets-vol-3-the-career-paths-of-bishops",
+         "pubDate" : "Wed, 29 May 2024 14:00:00",
+         "title" : "Jan Markos: Middlegame Secrets Vol.3 - The Career Paths of Bishops"
+      },
+      {
+         "description" : " The 2024 Norway Chess event started a few days ago, with a strong group of players in both the Open and Women's sections. As in previous years, they are using a scoring format (3,1,0) that is designed to create a winner and loser for each pairing, even if the games themselves fail to do so. If the normal game is drawn, an Armageddon game is played, with winner getting an extra half point (so drawn games always score 1.5-1.0) While it might make the scoreboard look interesting, this hasn't necessarily carried over to the board. All 6 games in the Open section have been drawn, with 5 of the 6 in the Women's section also going that way. And while there is a restriction of draw offer before mov",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/fighting-against-draws.html",
+         "pubDate" : "Wed, 29 May 2024 13:14:00",
+         "title" : "Fighting against draws"
+      },
+      {
          "description" : "R Vaishali became the sole leader at the inaugural edition of the Norway Chess Women tournament after beating Humpy Koneru in their round-2 classical confrontation. Top seeds Ju Wenjun and Lei Tingjie stand in shared second place after defeating Anna Muzychuk and Pia Cramling, respectively, in Armageddon tiebreakers. | Photo: Stev Bonhage",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +64,14 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-launches-chess-news-programme-across-major-tv-statio/",
          "pubDate" : "Wed, 29 May 2024 07:41:31",
          "title" : "World Chess Launches Chess News Programme Across Major TV Stations Worldwide"
+      },
+      {
+         "description" : "Chess.com is back at TwitchCon this year, with 2024&#39;s European TwitchCon event kicking off in Rotterdam, the Netherlands, on June 29. There are plenty of amazing activities planned for chess fans, and we look forward to meeting many of you there...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/twitchcon-rotterdam-2024",
+         "pubDate" : "Wed, 29 May 2024 07:00:00",
+         "title" : "Chess.com Returns To TwitchCon In Rotterdam"
       },
       {
          "description" : "The European School Chess Championship 2024 is set to take place from 31 May to 7 June in Limerick, Ireland. The event is played in 6 age categories: U7, U9, U11, U13, U15, and U17, open and girls sections separately, with 9-swiss rounds, and the time control of 90 minutes for the whole game + 30-second increment for each move, starting from the move one. More than 190 players coming from 18 European federations registered for the event and the []",
@@ -138,12 +178,12 @@ news_feed (
          "title" : "2024 ACT Championship - Final Day"
       },
       {
-         "description" : "The players who participated in the Over the Board National School Age Group (Under 9, Under 11, Under 13, Under 15 and Under 17) Chess",
+         "description" : "1.The players who participated in the Over the Board National School Age Group (Under 9, Under 11, Under 13, Under 15 and Under 17) Chess",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/fide-world-schools-rapid-and-blitz-chess-championships-20241st-to-8th-august-2024-tashkent-uzbekistan/",
          "pubDate" : "Mon, 27 May 2024 10:44:40",
-         "title" : "FIDE World Schools Rapid and Blitz Chess Championships - 20241st to 8th August, 2024 Tashkent, Uzbekistan"
+         "title" : "FIDE World Schools Rapid and Blitz Chess Championships - 2024 from 1st to 8th August, 2024 Tashkent, Uzbekistan"
       },
       {
          "description" : "",
@@ -746,14 +786,6 @@ news_feed (
          "title" : "World Junior 2024 at Gandhinagar Gujarat from 01 to 14 June , 2024 - list of Indian provisional players"
       },
       {
-         "description" : "It&#39;s always tough to stop GM Hikaru Nakamura, but it&#39;s becoming nigh impossible in Titled Tuesday. He swept both tournaments on May 14, the second time in just the past four weeks, giving him a total of 12 victories for the year when no one else h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-wins-titled-tuesday-may-14-2024",
-         "pubDate" : "Wed, 15 May 2024 09:15:08",
-         "title" : "Nakamura Scores 10.5/11, Wins On Tiebreaks, Then Sweeps"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1032,22 +1064,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3012",
          "pubDate" : "Wed, 08 May 2024 16:50:16",
          "title" : "Cape Verdean Women's Championship: Celia Rodriguez claims third title"
-      },
-      {
-         "description" : "Today, we mourn the loss of a true titan in the world of chess, IM Varugeese Koshy. His passion for the game, his strategic brilliance,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/rest-in-peace-im-varugeese-koshy/",
-         "pubDate" : "Wed, 08 May 2024 14:59:54",
-         "title" : "Rest in Peace IM Varugeese Koshy "
-      },
-      {
-         "description" : " The 57th Capablanca Memorial takes place 3rd to 12th May 2024. Ruslan Ponomariov, Aryan Chopra, Luis Ernesto Quesada Perez, Evgeny Romanov, Carlos Daniel Albornoz Cabrera and Mads Andersen play.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/57th-capablanca-memorial-2024",
-         "pubDate" : "Wed, 8 May 2024 13:06:00",
-         "title" : "57th Capablanca Memorial 2024 - Games and Results"
       }
    ]
 }
