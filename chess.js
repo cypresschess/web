@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "R Vaishali became the sole leader at the inaugural edition of the Norway Chess Women tournament after beating Humpy Koneru in their round-2 classical confrontation. Top seeds Ju Wenjun and Lei Tingjie stand in shared second place after defeating Anna Muzychuk and Pia Cramling, respectively, in Armageddon tiebreakers. | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-women-2",
+         "pubDate" : "Wed, 29 May 2024 13:00:00",
+         "title" : "Norway Chess Women: Vaishali stuns Humpy, grabs the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110533435.cms\" />The All India Chess Federation (AICF) has bid to host the World Chess Championship between Indian prodigy D Gukesh and China's world champion Ding Liren. Scheduled for November 20 to December 15 in Chennai, AICF awaits FIDE's decision, due after the May 31 bid deadline. Singapore is expected to compete for hosting rights.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-bids-to-host-d-gukesh-vs-ding-liren-world-chess-championship-match/articleshow/110533435.cms",
+         "pubDate" : "Wed, 29 May 2024 10:06:24",
+         "title" : "India bids to host Gukesh vs Liren World Chess Championship match"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110528476.cms\" />Indian Grandmaster R Praggnanandhaa drew against World Champion Ding Liren in the classical game but lost in the Armageddon tie-breaker in the Norway Chess tournament's second round. Magnus Carlsen, Alireza Firouzja, and Liren secured 1.5 points each by winning their respective Armageddon games, while Praggnanandhaa's first classical draw led to a tie-break defeat.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-suffers-defeat-to-world-champion-ding-liren-r-vaishali-beats-koneru-humpy-in-norway-chess-tournament/articleshow/110528476.cms",
+         "pubDate" : "Wed, 29 May 2024 08:09:36",
+         "title" : "Pragg suffers defeat to Liren, Vaishali beats Humpy in Norway Chess"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess (LSE: CHSS), a leading chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is pleased to announce the launch of its new television programme which will be broadcast on major TV stations globally. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/image.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> Scheduled to air from September 2024 to July 2025, this innovative chess news programme aims to enhance the way chess is presented on television, transforming it into a compelling and mainstream TV sport. The new series will consist of ten episodes, ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-launches-chess-news-programme-across-major-tv-statio/",
+         "pubDate" : "Wed, 29 May 2024 07:41:31",
+         "title" : "World Chess Launches Chess News Programme Across Major TV Stations Worldwide"
+      },
+      {
          "description" : "The European School Chess Championship 2024 is set to take place from 31 May to 7 June in Limerick, Ireland. The event is played in 6 age categories: U7, U9, U11, U13, U15, and U17, open and girls sections separately, with 9-swiss rounds, and the time control of 90 minutes for the whole game + 30-second increment for each move, starting from the move one. More than 190 players coming from 18 European federations registered for the event and the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -26,28 +58,12 @@ news_feed (
          "title" : "HBCU Chess Spotlight: Alan Cowan"
       },
       {
-         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
-         "pubDate" : "Tue, 28 May 2024 16:45:00",
-         "title" : "Norway Chess - Live!"
-      },
-      {
          "description" : " <p class=\"lead\">The landscape of sports revenue is marked by significant gender disparities, with top female athletes generally earning less than their male counterparts across various sports. This article examines the revenue differences between top female and male athletes in tennis, soccer, basketball, golf, and chess, shedding light on the factors contributing to these disparities. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1600\" data-ratio=\"1.7777777777778\"> <img src=\"https://worldchess.com/news/pictures/release-woman's-revenue-pt2.png\" width=\"1600\" height=\"900\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/release-woman's-revenue-pt1.png\" width=\"1600\" h",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/comparative-analysis-of-top-womens-and-mens-revenue-in-different/",
          "pubDate" : "Tue, 28 May 2024 14:23:39",
          "title" : "Comparative analysis of top women's and men's revenue in different sports, including Chess"
-      },
-      {
-         "description" : "In the 1971 Candidate Matches Bobby Fischer faced Mark Taimanov In Vancouver, Canada. The American defeated his opponent from the Soviet Union with a \"dry\" 6-0 score. But matters could have started differently. In the first game it was Taimanov who put on the pressure, and even had winning chances. He played 27.h3, which nobody considered a bad move - until Kasparov pointed out its defect in 2004. Today's riddle deals with the position before White's 27th move. Computers find it devilishly difficult to find the best continuation. Can you?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/riddle-solved-taimanov-could-not-have-defeated-fischer",
-         "pubDate" : "Tue, 28 May 2024 14:00:00",
-         "title" : "Riddle solved: Taimanov could not have defeated Fischer"
       },
       {
          "description" : "",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine-2024-update/",
          "pubDate" : "Tue, 28 May 2024 12:00:32",
          "title" : "ECF Charity Marathon for Ukraine 2024 starts 5.00pm this Saturday 1st June!"
-      },
-      {
-         "description" : "All three classical games ended drawn in round 1 of the Norway Chess super-tournament. In the subsequent Armageddon tiebreakers, Magnus Carlsen, Hikaru Nakamura and R Praggnanandhaa (pictured) prevailed to become the early co-leaders. The much anticipated clash between Carlsen and world champion Ding Liren saw the contenders agreeing to a 14-move draw in the slow game and Carlsen comfortably holding a draw with black in Armageddon. | Photo: Abhyudaya Ram",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-1",
-         "pubDate" : "Tue, 28 May 2024 08:45:00",
-         "title" : "Norway Chess: Three draws, three Armageddon deciders"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110492267.cms\" />Indian Grandmaster R Praggnanandhaa triumphed over France's Firouzja Alireza in the Armageddon game during the Norway Chess tournament's first round. The classical game ended in a draw, but Praggnanandhaa, with more time on the clock, clinched the win. After the first round, Praggnanandhaa shares the lead with Magnus Carlsen and Hikaru Nakamura.",
