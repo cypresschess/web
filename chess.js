@@ -50,6 +50,14 @@ news_feed (
          "title" : "Western Asian Junior/ Girls Chess Championship - 2024 in Sri Lanka from 15th to 23rd July, 2024"
       },
       {
+         "description" : "A major new international chess event is coming to Spain next month featuring some of the most popular content creators in the game competing for title norms. The first Madrid Chess Festival will play host to three classical tournaments and a bl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gothamchess-oro-cramling-rosen-madrid-chess-festival",
+         "pubDate" : "Thu, 30 May 2024 08:25:44",
+         "title" : "GothamChess, Oro, Cramling, Rosen: Creators Battle For Norms In First Madrid Chess Festival"
+      },
+      {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3026",
          "pubDate" : "Thu, 16 May 2024 13:15:09",
          "title" : "Guinness World Records Attempt: Registration of tournaments open"
-      },
-      {
-         "description" : "A one-day, $4 million, poker-style buy-in chess tournament is on the agenda for November 21, to be battled out among GMs Nodirbek Abdusattorov, Fabiano Caruana, Ian Nepomniachtchi, and Hans Niemann. The whole thing sprung out of a conversation thi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/4-million-buy-in-tournament-wadim-rosenstein-abdusattorov-caruana-nepomniachtchi-niemann",
-         "pubDate" : "Thu, 16 May 2024 12:59:00",
-         "title" : "$4 Million Buy-In Tournament Planned For November With Abdusattorov, Caruana, Nepomniachtchi, Niemann"
       },
       {
          "description" : "Upgrading to the new server is now complete for the main ECF website, ancillary websites and ECF email thank you all for your patience.",
