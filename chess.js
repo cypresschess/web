@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
+         "pubDate" : "Thu, 30 May 2024 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "ChessBase Magazine Extra is the ideal supplement to the ChessBase Magazine. In the new Extra #219: New double sacrifice against the French Defence (video by Felix Blohberger) and part 3 of the video series \"Mikhalchishin's miniatures\". \"Lucky bag\" with 44 analyses by Emanuel Berg, Romain Edouard, Alexandr Fier, Michal Krasenkow, Yago Santiago, Vaibhav Suri and many more. Plus over 50,000 new games for your database!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-cbm-extra-3",
+         "pubDate" : "Thu, 30 May 2024 14:30:00",
+         "title" : "New: CBM Extra #219"
+      },
+      {
+         "description" : " If you are looking for some easy practice, then Youtube might have the answer. I'm not talking about instructional videos, but a fairly easy chess engine you can play through their website. Under the new heading of 'Playables' Youtube have added a whole pile of web based games. One of the games is 'Chess Classic' While it isn't very good (at least the lower levels) it does provide a quick way to play some casual online chess. As for the practice bit, if you are just learning chess, then beating easy chess engines is one way top get better. It helps you sharpen your basic tactics without getting crushed later in the game. As per an earlier recommendation, start at the easiest level and play ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/quick-easy-practice.html",
+         "pubDate" : "Thu, 30 May 2024 14:04:00",
+         "title" : "Quick easy practice"
+      },
+      {
          "description" : "Building up a suitable opening repertoire is no easy task and can take some time. If you have an experienced trainer to help you with tips and advice, that is extremely helpful and also saves a lot of time. The Dutch grandmaster Sipke Ernst (photo: Frans Peeters) offers this help with his video course \"A practical repertoire for the positional player after 1.d4\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://aicf.in/world-junior-rapid-blitz-chess-championship-2024-at-tashkent-uzbekistan-from-1st-to-8th-august-2024/",
          "pubDate" : "Thu, 30 May 2024 07:09:17",
          "title" : "World Junior Rapid & Blitz Chess Championship - 2024 at Tashkent, Uzbekistan from 1st to 8th August, 2024"
+      },
+      {
+         "description" : "Norwegian chess enthusiasts Askild Bryn and CM Odin Blikra Vea aim to make history by playing for 61 hours straight. Their ambitious GUINNESS WORLD RECORDS&#38;trade; attempt for the Longest Chess Marathon will take place next week. Staying awake fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/guinness-world-records-attempt-longest-chess-marathon-ever",
+         "pubDate" : "Thu, 30 May 2024 06:59:00",
+         "title" : "Norwegian Duo Aim to Smash 60-Hour Chess Marathon Record"
       },
       {
          "description" : "R Praggnanandhaa defeated Magnus Carlsen in a classical game for the first time in his career in round 3 of the Norway Chess super-tournament. The victory allowed Pragg to become the sole leader in Stavanger. Standing in second place is Fabiano Caruana, who beat Ding Liren in their classical encounter. Hikaru Nakamura stands in third place after getting the better of Alireza Firouzja in Armageddon. | Photo: Stev Bonhage / Norway Chess",
@@ -754,14 +786,6 @@ news_feed (
          "title" : "$4 Million Buy-In Tournament Planned For November With Abdusattorov, Caruana, Nepomniachtchi, Niemann"
       },
       {
-         "description" : "GM Alireza Firouzja just won Division I of the Champions Chess Tour Chess.com Classic 2024 on Wednesday, while GM Maxime Vachier-Lagrave took Division II and GM Dmitry Andreikin Division III. It&#39;s not often we see GM Magnus Carlsen lose even a g...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/5-things-we-learned-2024-cct-chesscom-classic",
-         "pubDate" : "Thu, 16 May 2024 11:27:00",
-         "title" : "5 Things We Learned - Chess.com Classic 2024"
-      },
-      {
          "description" : "Upgrading to the new server is now complete for the main ECF website, ancillary websites and ECF email thank you all for your patience.",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1056,22 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3014",
          "pubDate" : "Thu, 09 May 2024 19:35:48",
          "title" : "Sardinia Chess Festival: Great First Edition"
-      },
-      {
-         "description" : " HBCU Chess has a long but largely undocumented history. During the 2024 HBCU Chess Classic hosted by The Black Odyssey, six Historically Black Colleges and Universities (known as &#8220;HBCUs&#8221;) gathered to participate in the 2nd annual event. Hampton, Howard, Morehouse, and North Carolina A&#38;T, each fielded two teams. While Florida A&#38;M University (FAMU) only sent The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/meet-the-kings-queens-of-hbcu-chess/\">Meet the Kings &#038; Queens of HBCU Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/05/09/meet-the-kings-queens-of-hbcu-chess/",
-         "pubDate" : "Thu, 09 May 2024 12:20:48",
-         "title" : "Meet the Kings & Queens of HBCU Chess!"
-      },
-      {
-         "description" : "All India Chess Federation, in collaboration with the FIDE Fair Play Commission, is an exciting opportunity for chess enthusiasts to delve into crucial aspects of",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-fair-play-seminar-in-gandhinagar-gujarat-india-from-10-12-june-2024/",
-         "pubDate" : "Thu, 09 May 2024 12:14:15",
-         "title" : "FIDE Fair Play Seminar in Gandhinagar, Gujarat, India from 10-12 June 2024"
       }
    ]
 }
