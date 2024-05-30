@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Praggnanandhaa Rameshbabu, fifth in the Candidates, says \"I can beat these players, but I have to play my best for that\" The world No 1, Magnus Carlsen, has been the dominant performer in recent years in Norway Chess, the elite tournament played annually at Stavanger. From 2019 to 2022 he won it four times a row, before a setback in 2023. Coming into the 2024 event from eight victories in nine tournaments, he was the strong favourite. Wednesday's third round was off script. Carlsen not only lost to India's rising 18-year-old star Prggnanandhaa Rameshbabu, he was <a href=\"https://lichess.org/broadcast/norway-chess-2024--open/round-3/xmZcMs9U\">comprehensively outplayed</a> in a 1 e4 c5 Sicili",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/may/31/chess-magnus-carlsen-loses-on-home-ground-in-norway-to-18-year-old-indian",
+         "pubDate" : "Thu, 30 May 2024 23:00:22",
+         "title" : "Chess: Magnus Carlsen loses on home ground in Norway to 18-year-old Indian"
+      },
+      {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/quick-easy-practice.html",
          "pubDate" : "Thu, 30 May 2024 14:04:00",
          "title" : "Quick easy practice"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won a good game against&#38;nbsp;GM Praggnanandhaa Rameshbabu on Thursday to take over the lead from his opponent at Norway Chess 2024. Two more classical results included GM Magnus Carlsen scoring a vintage bounce-back-after-a-loss...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-4",
+         "pubDate" : "Thu, 30 May 2024 12:47:00",
+         "title" : "Nakamura New Leader In Norway As Round 4 Sees 5 Classical Wins"
       },
       {
          "description" : "Building up a suitable opening repertoire is no easy task and can take some time. If you have an experienced trainer to help you with tips and advice, that is extremely helpful and also saves a lot of time. The Dutch grandmaster Sipke Ernst (photo: Frans Peeters) offers this help with his video course \"A practical repertoire for the positional player after 1.d4\".",
@@ -770,14 +786,6 @@ news_feed (
          "title" : "Chess in Primary Education - Professional Growth"
       },
       {
-         "description" : "Swedish chess player, celebrity, and content creator WFM Anna Cramling has joined YouTube&#39;s exclusive One Million Subscribers&#39; Club, becoming the 11th to hit the milestone. Chess content creators have played a pivotal role in the surge of chess ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anna-cramling-reaches-1-million-subscribers",
-         "pubDate" : "Thu, 16 May 2024 13:57:39",
-         "title" : "Anna Cramling Reaches Million Milestone"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1056,30 +1064,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/",
          "pubDate" : "Fri, 10 May 2024 03:14:59",
          "title" : "HBCU Chess Spotlight: North Carolina A&T"
-      },
-      {
-         "description" : " Howard University has a long and esteemed history as an institution. One of the most well-known universities in the country, it also doubles as a premier HBCU (Historically Black College and University). There is also a very long history in terms of chess. Journalist Jamaal Abdul-Alim gave a presentation to the Howard Chess Club, gearing The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-howard-university/\">HBCU Chess Spotlight: Howard University</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-howard-university/",
-         "pubDate" : "Thu, 09 May 2024 23:07:46",
-         "title" : "HBCU Chess Spotlight: Howard University"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3015",
-         "pubDate" : "Thu, 09 May 2024 23:01:03",
-         "title" : "Superbet Poland Rapid & Blitz: Day 2 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3014",
-         "pubDate" : "Thu, 09 May 2024 19:35:48",
-         "title" : "Sardinia Chess Festival: Great First Edition"
       }
    ]
 }
