@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/world-junior-rapid-blitz-chess-championship-2024-at-tashkent-uzbekistan-from-1st-to-8th-august-2024/",
+         "pubDate" : "Thu, 30 May 2024 07:09:17",
+         "title" : "World Junior Rapid & Blitz Chess Championship - 2024 at Tashkent, Uzbekistan from 1st to 8th August, 2024"
+      },
+      {
+         "description" : "R Praggnanandhaa defeated Magnus Carlsen in a classical game for the first time in his career in round 3 of the Norway Chess super-tournament. The victory allowed Pragg to become the sole leader in Stavanger. Standing in second place is Fabiano Caruana, who beat Ding Liren in their classical encounter. Hikaru Nakamura stands in third place after getting the better of Alireza Firouzja in Armageddon. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-3",
+         "pubDate" : "Thu, 30 May 2024 06:25:00",
+         "title" : "Norway Chess: Pragg obtains first-ever classical win over Carlsen"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110551422.cms\" />R Praggnanandhaa, the Indian chess sensation, clinched a remarkable victory against world number one Magnus Carlsen in classical chess, securing his first-ever win in this format against the champion. At just 18, Praggnanandhaa leads the open section of the tournament, with Magnus Carlsen dropping to fifth position after the defeat.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-scripts-history-beats-world-number-one-magnus-carlsen-in-classical-chess-for-first-time/articleshow/110551422.cms",
+         "pubDate" : "Thu, 30 May 2024 04:39:08",
+         "title" : "Praggnanandhaa beats Carlsen in classical chess for first time"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3044",
          "pubDate" : "Wed, 29 May 2024 21:48:49",
          "title" : "VII Festival in Salamanca, cradle of modern chess: Ruslan Ponomariov clinches title"
-      },
-      {
-         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
-         "pubDate" : "Wed, 29 May 2024 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "Astrologers may feel vindicated. After all, Dommaraju Gukesh, the winner of the 2024 Candidates Tournament, and Tan Zhongyi, the winner of the 2024 Women's Candidates Tournament, were both born on 29 May, Gukesh in Chennai, India, in 2006 and Tan Zhongyi in Chongqing, China, in 1991. Congratulations! | Photos: David Llada (Gukesh) and Lennart Ootes (Tan Zhongyi)",
@@ -40,14 +56,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/fighting-against-draws.html",
          "pubDate" : "Wed, 29 May 2024 13:14:00",
          "title" : "Fighting against draws"
-      },
-      {
-         "description" : "R Vaishali became the sole leader at the inaugural edition of the Norway Chess Women tournament after beating Humpy Koneru in their round-2 classical confrontation. Top seeds Ju Wenjun and Lei Tingjie stand in shared second place after defeating Anna Muzychuk and Pia Cramling, respectively, in Armageddon tiebreakers. | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-women-2",
-         "pubDate" : "Wed, 29 May 2024 13:00:00",
-         "title" : "Norway Chess Women: Vaishali stuns Humpy, grabs the lead"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu is the new leader at Norway Chess 2024 after beating&#38;nbsp;world number-one GM Magnus Carlsen for the first time in classical chess in Wednesday&#39;s third round. Fabiano Caruana was the other player to earn the full three...",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2024-starts-in-limerick-ireland/",
          "pubDate" : "Wed, 29 May 2024 05:36:34",
          "title" : "European School Chess Championship 2024 starts in Limerick, Ireland"
-      },
-      {
-         "description" : "Round 2 of the Norway Chess super-tournament saw all three classical games ending drawn once again. Magnus Carlsen, Alireza Firouzja and Ding Liren all won with white in the subsequent Armageddon tiebreakers to collect 1&frac12; points each. Carlsen, who defeated Hikaru Nakamura on Tuesday, is now leading the standings with 3 points to his name. | Photo: Stev Bonhage / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-2",
-         "pubDate" : "Wed, 29 May 2024 01:20:00",
-         "title" : "Norway Chess: Carlsen beats Naka in Armageddon, leads"
       },
       {
          "description" : " Alan Cowan was co-valedictorian of Morehouse College's 2023 graduating class. He kindled an intense interest in finance and now works in venture capital for Mosaic General Partnership in San Francisco. Apart from his academic achievements, he executed one of the most potentially impactful ideas in American chess. In 2020, Cowan and Spelman student Shaniah Francis The post <a href=\"https://www.thechessdrum.net/blog/2024/05/28/hbcu-chess-spotlight-alan-cowan/\">HBCU Chess Spotlight: Alan Cowan</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1048,14 +1048,6 @@ news_feed (
          "link" : "https://aicf.in/fide-fair-play-seminar-in-gandhinagar-gujarat-india-from-10-12-june-2024/",
          "pubDate" : "Thu, 09 May 2024 12:14:15",
          "title" : "FIDE Fair Play Seminar in Gandhinagar, Gujarat, India from 10-12 June 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"><h2><strong>Event held in celebration of 10th anniversary of Congressional proclamation naming Saint Louis as the Chess Capital of the United States</strong></h2> </div><div class=\"field field-name-field-feature-image-caption field-type-text field-label-hidden field-wrapper\">Saint Louis Students in Nation's Capital</div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/Congressional%20Chess%20Tournamen",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/schmitt-hassan-saint-louis-chess-club-host-bipartisan-congressional-chess-tournament-leading",
-         "pubDate" : "Thu, 09 May 2024 05:29:18",
-         "title" : "Schmitt, Hassan, Saint Louis Chess Club Host Bipartisan Congressional Chess Tournament with Leading Chess Figures, Saint Louis Students in Nation's Capital"
       }
    ]
 }
