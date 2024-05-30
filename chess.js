@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Building up a suitable opening repertoire is no easy task and can take some time. If you have an experienced trainer to help you with tips and advice, that is extremely helpful and also saves a lot of time. The Dutch grandmaster Sipke Ernst (photo: Frans Peeters) offers this help with his video course \"A practical repertoire for the positional player after 1.d4\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/opening-treasure-chest-of-a-world-class-trainer",
+         "pubDate" : "Thu, 30 May 2024 11:05:05",
+         "title" : "Opening treasure chest of a world-class trainer"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3045",
+         "pubDate" : "Thu, 30 May 2024 11:01:16",
+         "title" : "INTERVIEW: Timur Turlov, CEO of Freedom Holding Corp. on сhess and business"
+      },
+      {
+         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/western-asian-junior-girls-chess-championship-2024-in-sri-lanka-from-15th-to-23rd-july-2024/",
+         "pubDate" : "Thu, 30 May 2024 09:30:41",
+         "title" : "Western Asian Junior/ Girls Chess Championship - 2024 in Sri Lanka from 15th to 23rd July, 2024"
+      },
+      {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
