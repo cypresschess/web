@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Do you know the typical mistakes made by club players when choosing their opening? They follow fashionable variations; they stick to one opening because it's the only one they've learnt at some point; or they play secondary variations out of fear of their opponent's supposed knowledge. Things do not have to be this way. Play what suits you. Let yourself be inspired! The series of opening tutorials in the new, web-based ChessBase books format offers you a highly competent and innovative guide to opening theory. This is an updated new edition in the new web-based ChessBase-books format!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/openings-01-the-open-games-1-e4-e5-updated-web-version",
+         "pubDate" : "Fri, 31 May 2024 12:00:00",
+         "title" : "Openings #01: The Open Games - 1. e4 e5 (Updated Web-Version)"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3047",
+         "pubDate" : "Fri, 31 May 2024 10:11:32",
+         "title" : "Polish Chess Championships 2024: Double victory for married couple"
+      },
+      {
+         "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a leading chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is happy to unveil the latest upgrade to FIDE Online Arena (the \"Arena\"). World Chess is the exclusive operator of the FIDE Online Arena, a chess platform which allows paid members to receive an online rating recognised by FIDE, the international chess federation and world governing body recognised by the International Olympic Committee. Following significant investment in the platform and the subsequent launch of Arena 2.0 in October 2023, the Company is excited to announce the launch of the ",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/world-chess-launches-new-and-revamped-interface-for-fide-online/",
+         "pubDate" : "Fri, 31 May 2024 07:37:50",
+         "title" : "World Chess launches new and revamped interface for FIDE Online Arena"
+      },
+      {
+         "description" : "All India Chess Federation announces a new vacancy for suitable candidates having sincerity ,hardworking and proficiency in English Name of the Post: Rating Officer Qualification:",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/vacancy-announcement-2/",
+         "pubDate" : "Fri, 31 May 2024 07:33:00",
+         "title" : "Vacancy Announcement"
+      },
+      {
          "description" : "For the first time in this year's edition of the Norway Chess super-tournament, all three games in a single round ended decisively. Hikaru Nakamura defeated former leader R Praggnanandhaa to climb to sole first place; Alireza Firouzja is Nakamura's closest chaser after beating world champion Ding Liren; while Magnus Carlsen stands in third place thanks to his victory over Fabiano Caruana. | Photo: Stev Bonhage / Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +58,20 @@ news_feed (
          "title" : "FIDE Rating tournament: Vedant holds top seed Kartavya to draw, second seed Shrayan upset by Ujjwal"
       },
       {
-         "description" : " Praggnanandhaa Rameshbabu, fifth in the Candidates, says \"I can beat these players, but I have to play my best for that\" The world No 1, Magnus Carlsen, has been the dominant performer in recent years in Norway Chess, the elite tournament played annually at Stavanger. From 2019 to 2022 he won it four times a row, before a setback in 2023. Coming into the 2024 event from eight victories in nine tournaments, he was the strong favourite. Wednesday's third round was off script. Carlsen not only lost to India's rising 18-year-old star Prggnanandhaa Rameshbabu, he was <a href=\"https://lichess.org/broadcast/norway-chess-2024--open/round-3/xmZcMs9U\">comprehensively outplayed</a> in a 1 e4 c5 Sicili",
+         "description" : " Praggnanandhaa Rameshbabu, fifth in the Candidates, says: 'I can beat these players, but I have to play my best for that' The world No 1, Magnus Carlsen, has been the dominant performer in recent years in Norway Chess, the elite tournament played annually at Stavanger. From 2019 to 2022 he won it four times a row, before a setback in 2023. Coming into the 2024 event from eight victories in nine tournaments, he was the strong favourite. Wednesday's third round was off script. Carlsen not only lost to India's rising 18-year-old star Prggnanandhaa Rameshbabu, he was <a href=\"https://lichess.org/broadcast/norway-chess-2024--open/round-3/xmZcMs9U\">comprehensively outplayed</a> in a 1 e4 c5 Sicil",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/may/31/chess-magnus-carlsen-loses-on-home-ground-in-norway-to-18-year-old-indian",
          "pubDate" : "Thu, 30 May 2024 23:00:22",
-         "title" : "Chess: Magnus Carlsen loses on home ground in Norway to 18-year-old Indian"
+         "title" : "Chess: Magnus Carlsen loses on home turf in Norway to 18-year-old Indian"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3046",
+         "pubDate" : "Thu, 30 May 2024 22:45:13",
+         "title" : "FIDE announces finalists for 2024 World Corporate Chess Championship"
       },
       {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
@@ -306,7 +346,7 @@ news_feed (
          "title" : "12th Norway Chess 2024 - Games and Results"
       },
       {
-         "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the players and accompanying persons are required to make",
+         "description" : "*Player finished first in corresponding Nationals Age Group over the board Championship for the year 2023: Rs. 16,290/- *The Players: Rs. 1,20,870/- (Single Room Accommodation)",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/7th-western-asian-youth-chess-championship-2024-in-sri-lanka-from-7th-to-16th-july-2024/",
@@ -399,7 +439,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-play-in-1-2",
          "pubDate" : "Fri, 24 May 2024 17:50:00",
-         "title" : "Fedoseev, Paravyan, Sevian, Yoo Quality for Bullet Chess Championship Main Event"
+         "title" : "Fedoseev, Paravyan, Sevian, Yoo Qualify for Bullet Chess Championship Main Event"
       },
       {
          "description" : " The 2024 ACT Chess Championship has started with a large field of 56 players. As an open event it does have a significant 'tail' but the top end of the event still has a number of strong players. IM Junta Ikeda and FM Michael Kethro are the two favoured local players, with Reyansh Chakrabarty (NSW) checking in as number 2 seed. The first round went according to seeding, with one exception. Tim Pearce dropped an exchange to local junior Louis Chen, who then methodically reduce material until Pearce was left in a lost king and pawn ending. Paul Dunn held out the longest against a stronger opponent, until walking into a game ending tactic against CM Lalit Prasad. You can see the tournament res",
@@ -1040,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3017",
          "pubDate" : "Fri, 10 May 2024 22:09:05",
          "title" : "Superbet Poland Rapid & Blitz: Day 3 Recap"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3016",
-         "pubDate" : "Fri, 10 May 2024 10:54:51",
-         "title" : "World School Championship: Goodbye, Peru 2024"
       }
    ]
 }
