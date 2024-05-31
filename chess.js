@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time in this year's edition of the Norway Chess super-tournament, all three games in a single round ended decisively. Hikaru Nakamura defeated former leader R Praggnanandhaa to climb to sole first place; Alireza Firouzja is Nakamura's closest chaser after beating world champion Ding Liren; while Magnus Carlsen stands in third place thanks to his victory over Fabiano Caruana. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-4",
+         "pubDate" : "Fri, 31 May 2024 07:30:00",
+         "title" : "Norway Chess: Naka beats Pragg to grab the lead, Carlsen beats Caruana"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110584363.cms\" />In Norway chess tournament, R Vaishali dominates, securing 8.5 points after defeating Pia Cramling. She leads ahead of Wenjun Ju and Anna Muzychuk. Magnus Carlsen triumphs over Fabiano Caruana, while Hikaru Nakamura leads the men's section. R Praggnanandhaa faces setbacks, trailing with 5.5 points. With six rounds left, competition intensifies in the double round-robin format for the USD 1,61,000 prize.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-loses-to-hikaru-nakamura-after-defeating-world-no-1-magnus-carlsen-r-vaishali-leads-in-norway-chess-tournament/articleshow/110584363.cms",
+         "pubDate" : "Fri, 31 May 2024 06:24:10",
+         "title" : "Norway Chess: Pragg loses to Nakamura, R Vaishali leads"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110580939.cms\" />The most shocking result came on the second board when No. 2 seed Shrayan Majumder was stunned by Ujjwal Deep. Shrayan, Elo rating of 2134, was upset by Ujjwal, who has a lowly rating of 1767.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-rating-chess-tournament-vedant-varasada-holds-top-seed-kartavya-anadkat-to-draw-second-seed-shrayan-majumder-upset-by-ujjwal-deep/articleshow/110580939.cms",
+         "pubDate" : "Fri, 31 May 2024 04:11:44",
+         "title" : "FIDE Rating tournament: Vedant holds top seed Kartavya to draw, second seed Shrayan upset by Ujjwal"
+      },
+      {
          "description" : " Praggnanandhaa Rameshbabu, fifth in the Candidates, says \"I can beat these players, but I have to play my best for that\" The world No 1, Magnus Carlsen, has been the dominant performer in recent years in Norway Chess, the elite tournament played annually at Stavanger. From 2019 to 2022 he won it four times a row, before a setback in 2023. Coming into the 2024 event from eight victories in nine tournaments, he was the strong favourite. Wednesday's third round was off script. Carlsen not only lost to India's rising 18-year-old star Prggnanandhaa Rameshbabu, he was <a href=\"https://lichess.org/broadcast/norway-chess-2024--open/round-3/xmZcMs9U\">comprehensively outplayed</a> in a 1 e4 c5 Sicili",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -90,14 +114,6 @@ news_feed (
          "title" : "Norwegian Duo Aim to Smash 60-Hour Chess Marathon Record"
       },
       {
-         "description" : "R Praggnanandhaa defeated Magnus Carlsen in a classical game for the first time in his career in round 3 of the Norway Chess super-tournament. The victory allowed Pragg to become the sole leader in Stavanger. Standing in second place is Fabiano Caruana, who beat Ding Liren in their classical encounter. Hikaru Nakamura stands in third place after getting the better of Alireza Firouzja in Armageddon. | Photo: Stev Bonhage / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-3",
-         "pubDate" : "Thu, 30 May 2024 06:25:00",
-         "title" : "Norway Chess: Pragg obtains first-ever classical win over Carlsen"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110551422.cms\" />R Praggnanandhaa, the Indian chess sensation, clinched a remarkable victory against world number one Magnus Carlsen in classical chess, securing his first-ever win in this format against the champion. At just 18, Praggnanandhaa leads the open section of the tournament, with Magnus Carlsen dropping to fifth position after the defeat.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -112,22 +128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3044",
          "pubDate" : "Wed, 29 May 2024 21:48:49",
          "title" : "VII Festival in Salamanca, cradle of modern chess: Ruslan Ponomariov clinches title"
-      },
-      {
-         "description" : "Astrologers may feel vindicated. After all, Dommaraju Gukesh, the winner of the 2024 Candidates Tournament, and Tan Zhongyi, the winner of the 2024 Women's Candidates Tournament, were both born on 29 May, Gukesh in Chennai, India, in 2006 and Tan Zhongyi in Chongqing, China, in 1991. Congratulations! | Photos: David Llada (Gukesh) and Lennart Ootes (Tan Zhongyi)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/happy-birthday-dommaraju-gukesh-and-tan-zhongyi-celebrate-their-birthdays",
-         "pubDate" : "Wed, 29 May 2024 15:32:00",
-         "title" : "Congratulations! Dommaraju Gukesh and Tan Zhongyi celebrate their birthdays"
-      },
-      {
-         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how best to use them, just as a craftsman knows his tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't close the position when we have the bishop pair.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-markos-middlegame-secrets-vol-3-the-career-paths-of-bishops",
-         "pubDate" : "Wed, 29 May 2024 14:00:00",
-         "title" : "Jan Markos: Middlegame Secrets Vol.3 - The Career Paths of Bishops"
       },
       {
          "description" : " The 2024 Norway Chess event started a few days ago, with a strong group of players in both the Open and Women's sections. As in previous years, they are using a scoring format (3,1,0) that is designed to create a winner and loser for each pairing, even if the games themselves fail to do so. If the normal game is drawn, an Armageddon game is played, with winner getting an extra half point (so drawn games always score 1.5-1.0) While it might make the scoreboard look interesting, this hasn't necessarily carried over to the board. All 6 games in the Open section have been drawn, with 5 of the 6 in the Women's section also going that way. And while there is a restriction of draw offer before mov",
@@ -1048,14 +1048,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3016",
          "pubDate" : "Fri, 10 May 2024 10:54:51",
          "title" : "World School Championship: Goodbye, Peru 2024"
-      },
-      {
-         "description" : " Wood Green edge out Manx Liberty and The Sharks on game points after a triple tie on match points Britain's 4NCL national chess league has traditionally been the preserve of one or two very strong and well-financed clubs. Guildford, the record holders, went unbeaten for eight seasons with 81 wins and two draws before they abdicated their title and downsized in 2021. The 2023-24 season ended on Monday with the closest finish in the league's history as Wood Green, with 20/22 match points and 61 game points, edged out Manx Liberty by just half a game point and the Sharks by one game point. <a href=\"https://www.theguardian.com/sport/article/2024/may/10/chess-britains-4ncl-national-league-has-cl",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/may/10/chess-britains-4ncl-national-league-has-closest-ever-three-way-finish",
-         "pubDate" : "Fri, 10 May 2024 07:00:36",
-         "title" : "Chess: Britain's 4NCL national league has closest ever three-way finish"
       }
    ]
 }
