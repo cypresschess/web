@@ -10,6 +10,14 @@ news_feed (
          "title" : "Chess Olympiad: Rapport will play for Hungary again - Leko too"
       },
       {
+         "description" : "GM Andrew Tang won the inaugural 2024 Hyperbullet Chess Championship, the first event of the Chess.com Community Championships, on Friday. After losing a close match against&#38;nbsp;GM Daniel Naroditsky in the first round, he climbed through the Lose...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-hyperbullet-championship-tang-wins",
+         "pubDate" : "Fri, 31 May 2024 14:30:56",
+         "title" : "Tang Overthrows Naroditsky In Grand Final Reset To Win 1st Hyperbullet Championship"
+      },
+      {
          "description" : " Having suggested that the format of the 2024 Norway Chess event was contributing to overly drawish play, the next 2 rounds of the Open section saw 5 decisive games out of the 6 played. What really kicked things off seems to have been Prag beating Carlsen in a very simple and stylish manner. Carlsen then bounced back with a 4th round win over Caruana, while Prag went down to Nakamura. In the mean time Ding's struggles continue, losing to Caruana and Firouzja in successive rounds. At this stage Firouzja leads by half a point over Carlsen. The Women's event is a little more clear cut, with Vaishali leading by 2.5 points! <br /> <b>Praggnanandhaa, R vs Carlsen, Magnus</b><br /> Norway Chess 202",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -746,14 +754,6 @@ news_feed (
          "title" : "Carlsen Reignites Kasparov's Sicilian To Take Lead"
       },
       {
-         "description" : "GM Oleksandr Bortnyk is&#38;nbsp;Bullet Brawl&#39;s latest victor after he dispatched GM Jose Martinez in a winner-takes-all final game during Saturday&#39;s two-hour arena. Finishing on 246 points, Bortnyk built a 25-game win streak when it mattered most, ca...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-may-18-2024",
-         "pubDate" : "Sat, 18 May 2024 16:22:00",
-         "title" : "Bortnyk Ousts Martinez In Final Game Of Bullet Brawl"
-      },
-      {
          "description" : "Imagine facing a saber-tooth tiger that hasn't eaten in days. Your body goes into fight-or-flight mode. Your heart begins to race. And you follow your primal instincts. Miraculously, you can run way quicker than you ever did before, and without thinking much, you somehow get into safety. You can't explain how and why, but you []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1088,14 +1088,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/bad-to-okay/",
          "pubDate" : "Sat, 11 May 2024 12:57:00",
          "title" : "Chess Improvement Trap: Why You're Stuck Studying the Wrong Things"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3017",
-         "pubDate" : "Fri, 10 May 2024 22:09:05",
-         "title" : "Superbet Poland Rapid & Blitz: Day 3 Recap"
       }
    ]
 }
