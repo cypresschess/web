@@ -42,7 +42,7 @@ news_feed (
          "title" : "Faustino Oro Edges Closer To Historic IM Title At 10"
       },
       {
-         "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a leading chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is happy to unveil the latest upgrade to FIDE Online Arena (the \"Arena\"). World Chess is the exclusive operator of the FIDE Online Arena, a chess platform which allows paid members to receive an online rating recognised by FIDE, the international chess federation and world governing body recognised by the International Olympic Committee. Following significant investment in the platform and the subsequent launch of Arena 2.0 in October 2023, the Company is excited to announce the launch of the ",
+         "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a leading chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is happy to unveil the latest upgrade to FIDE Online Arena (the \"Arena\"). <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/SUieXr5GFKk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess is the exclusive operator of the FIDE Online Arena, a chess platform which allows paid members to receive an online rating recognised by FIDE, the international chess federation and world governing body recognised by the International Olympic Commi",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
          "link" : "https://worldchess.com/news/all/world-chess-launches-new-and-revamped-interface-for-fide-online/",
@@ -158,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gothamchess-oro-cramling-rosen-madrid-chess-festival",
-         "pubDate" : "Thu, 30 May 2024 08:25:44",
+         "pubDate" : "Thu, 30 May 2024 08:25:00",
          "title" : "GothamChess, Oro, Cramling, Rosen: Creators Battle For Norms In First Madrid Chess Festival"
       },
       {
