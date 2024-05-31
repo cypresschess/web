@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/may/10/chess-britains-4ncl-national-league-has-closest-ever-three-way-finish",
          "pubDate" : "Fri, 10 May 2024 07:00:36",
          "title" : "Chess: Britain's 4NCL national league has closest ever three-way finish"
-      },
-      {
-         "description" : " North Carolina A&#38;T Aggies, 1st place team (2024 HBCU Chess Classic)Photo by Daaim Shabazz/The Chess Drum Dressed in their North Carolina A&#38;T gear, &#8220;Aggie Pride&#8221; was on full display at the 2024 HBCU Chess Classic. Currently the largest HBCU, the Aggies rode six hours from North Carolina to Atlanta to improve on last year's performance The post <a href=\"https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/\">HBCU Chess Spotlight: North Carolina A&#038;T</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/05/09/hbcu-chess-spotlight-north-carolina-at/",
-         "pubDate" : "Fri, 10 May 2024 03:14:59",
-         "title" : "HBCU Chess Spotlight: North Carolina A&T"
       }
    ]
 }
