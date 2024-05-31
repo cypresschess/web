@@ -2,11 +2,27 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Hungarian Chess Federation is delighted to have pulled off a coup. For the forthcoming Chess Olympiad in their own country (10-23 September) they have managed to persuade Richard Rapport to return to the Hungarian team from Romania. And they have also managed to re-engage Peter Leko. Hungary, with its long chess history, wants to be among the best!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-rapport-will-play-for-hungary-again-leko-too",
+         "pubDate" : "Fri, 31 May 2024 16:00:00",
+         "title" : "Chess Olympiad: Rapport will play for Hungary again - Leko too"
+      },
+      {
+         "description" : " Having suggested that the format of the 2024 Norway Chess event was contributing to overly drawish play, the next 2 rounds of the Open section saw 5 decisive games out of the 6 played. What really kicked things off seems to have been Prag beating Carlsen in a very simple and stylish manner. Carlsen then bounced back with a 4th round win over Caruana, while Prag went down to Nakamura. In the mean time Ding's struggles continue, losing to Caruana and Firouzja in successive rounds. At this stage Firouzja leads by half a point over Carlsen. The Women's event is a little more clear cut, with Vaishali leading by 2.5 points! <br /> <b>Praggnanandhaa, R vs Carlsen, Magnus</b><br /> Norway Chess 202",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/05/aged-like-sour-milk.html",
+         "pubDate" : "Fri, 31 May 2024 13:57:00",
+         "title" : "Aged like sour milk"
+      },
+      {
          "description" : "Do you know the typical mistakes made by club players when choosing their opening? They follow fashionable variations; they stick to one opening because it's the only one they've learnt at some point; or they play secondary variations out of fear of their opponent's supposed knowledge. Things do not have to be this way. Play what suits you. Let yourself be inspired! The series of opening tutorials in the new, web-based ChessBase books format offers you a highly competent and innovative guide to opening theory. This is an updated new edition in the new web-based ChessBase-books format!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/openings-01-the-open-games-1-e4-e5-updated-web-version",
-         "pubDate" : "Fri, 31 May 2024 12:00:00",
+         "pubDate" : "Fri, 31 May 2024 12:00:27",
          "title" : "Openings #01: The Open Games - 1. e4 e5 (Updated Web-Version)"
       },
       {
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3047",
          "pubDate" : "Fri, 31 May 2024 10:11:32",
          "title" : "Polish Chess Championships 2024: Double victory for married couple"
+      },
+      {
+         "description" : "At just 10 years old, Argentinian chess prodigy FM Faustino Oro is making significant strides towards achieving the international master (IM) title. On Friday, Oro secured his second norm, edging closer to becoming one of the youngest to ever achi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-edges-closer-to-im-title-at-10",
+         "pubDate" : "Fri, 31 May 2024 08:02:00",
+         "title" : "Faustino Oro Edges Closer To Historic IM Title At 10"
       },
       {
          "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a leading chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is happy to unveil the latest upgrade to FIDE Online Arena (the \"Arena\"). World Chess is the exclusive operator of the FIDE Online Arena, a chess platform which allows paid members to receive an online rating recognised by FIDE, the international chess federation and world governing body recognised by the International Olympic Committee. Following significant investment in the platform and the subsequent launch of Arena 2.0 in October 2023, the Company is excited to announce the launch of the ",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "FIDE Rating tournament: Vedant holds top seed Kartavya to draw, second seed Shrayan upset by Ujjwal"
       },
       {
-         "description" : " Praggnanandhaa Rameshbabu, fifth in the Candidates, says: 'I can beat these players, but I have to play my best for that' The world No 1, Magnus Carlsen, has been the dominant performer in recent years in Norway Chess, the elite tournament played annually at Stavanger. From 2019 to 2022 he won it four times a row, before a setback in 2023. Coming into the 2024 event from eight victories in nine tournaments, he was the strong favourite. Wednesday's third round was off script. Carlsen not only lost to India's rising 18-year-old star Prggnanandhaa Rameshbabu, he was <a href=\"https://lichess.org/broadcast/norway-chess-2024--open/round-3/xmZcMs9U\">comprehensively outplayed</a> in a 1 e4 c5 Sicil",
+         "description" : " Praggnanandhaa Rameshbabu, fifth in the Candidates, says: 'I can beat these players, but I have to play my best for that' The world No 1, Magnus Carlsen, has been the dominant performer in recent years in Norway Chess, the elite tournament played annually at Stavanger. From 2019 to 2022 he won it four times a row, before a setback in 2023. Coming into the 2024 event with eight victories in nine tournaments, he was the strong favourite. Wednesday's third round was off script. Carlsen not only lost to India's rising 18-year-old star <sup> ­</sup>Praggnanandhaa Rameshbabu, he was <a href=\"https://lichess.org/broadcast/norway-chess-2024--open/round-3/xmZcMs9U\">comprehensively outplayed</a> in a",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/may/31/chess-magnus-carlsen-loses-on-home-ground-in-norway-to-18-year-old-indian",
@@ -808,14 +832,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/may/17/chess-england-seniors-score-triple-european-gold-and-eye-world-titles",
          "pubDate" : "Fri, 17 May 2024 07:00:33",
          "title" : "Chess: England seniors score triple European gold and eye world titles"
-      },
-      {
-         "description" : "21 years after her mother won the title, WGM Lu Miaoyi clinched her first Chinese Women&#39;s Championship on Thursday in Xinhua, Jiangsu, China. The 14-year-old prodigy defeated WGM Ni Shiqun in a blitz playoff after both had tied for first place wit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chinese-championships-lu-miaoyi-wang-yue",
-         "pubDate" : "Fri, 17 May 2024 03:59:00",
-         "title" : "14-Year-Old Lu Miaoyi Wins Chinese Women's Championship; Wang Yue Takes Open"
       },
       {
          "description" : "With the initiative and efforts of the European Chess Union (ECU), the European Parliament published a Declaration on 15 March 2012 on the introduction of...",
