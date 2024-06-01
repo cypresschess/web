@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I recently came across a handsome boxed chess set of some historical significance. Inscribed on a solid silver plaque , adorning the lid, were the words: To Mrs Rhoda A Bowles, from the Cambridge University Chess Club, in grateful recognition of her enthusiastic and sustained exertions on its behalf in the cause of International Chess []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/rhoda-bowles-a-lost-heroine-of-female-chess/",
+         "pubDate" : "Sat, 01 Jun 2024 11:18:19",
+         "title" : "Rhoda Bowles: a lost heroine of female chess"
+      },
+      {
          "description" : "Radosław Wojtaszek and Alina Kashlinskaya, who are husband and wife, won the 2024 edition of the Polish Championships, in the open and the women's section respectively. Wojtaszek won his sixth national title and is now just one tournament victory short of Wlodzimierz Schmidt's record. kashlinskaya, on her part, claimed her maiden gold in this prestigious event. | Photo: Michal Walusza",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3046",
          "pubDate" : "Thu, 30 May 2024 22:45:13",
          "title" : "FIDE announces finalists for 2024 World Corporate Chess Championship"
-      },
-      {
-         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
-         "pubDate" : "Thu, 30 May 2024 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "ChessBase Magazine Extra is the ideal supplement to the ChessBase Magazine. In the new Extra #219: New double sacrifice against the French Defence (video by Felix Blohberger) and part 3 of the video series \"Mikhalchishin's miniatures\". \"Lucky bag\" with 44 analyses by Emanuel Berg, Romain Edouard, Alexandr Fier, Michal Krasenkow, Yago Santiago, Vaibhav Suri and many more. Plus over 50,000 new games for your database!",
