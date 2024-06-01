@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
+         "pubDate" : "Sat, 01 Jun 2024 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3049",
+         "pubDate" : "Sat, 01 Jun 2024 12:54:30",
+         "title" : "FIDE June 2024 rating list published"
+      },
+      {
          "description" : "I recently came across a handsome boxed chess set of some historical significance. Inscribed on a solid silver plaque , adorning the lid, were the words: To Mrs Rhoda A Bowles, from the Cambridge University Chess Club, in grateful recognition of her enthusiastic and sustained exertions on its behalf in the cause of International Chess []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -1072,22 +1088,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3018",
          "pubDate" : "Sat, 11 May 2024 22:25:39",
          "title" : "Superbet Poland Rapid & Blitz: Day 4 Recap"
-      },
-      {
-         "description" : "In spite of some doubtful and slim early attributions to Prokopius Waldvogel of Avignon, it is widely accepted that modern printing was introduced by Johannes Gutenberg of Mainz, circa 1450. In England the baton was relatively swiftly (for the times) taken up by William Caxton with his Game and Playe of the Chesse, circa 1470, followed, []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-in-print-from-caxton-to-middleton/",
-         "pubDate" : "Sat, 11 May 2024 15:00:43",
-         "title" : "Chess in print: from Caxton to Middleton"
-      },
-      {
-         "description" : "Most chess improvers are stuck because they get stuck in the chess improvement trap. They do the sophisticated things and forget about the basics. New York Times Best-Seller ​Mark Manson​ recently said: &#8220;There are two steps to self-improvement: From bad to okay and from okay to great.&#8221; Mark Manson He argues that many people struggle []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/bad-to-okay/",
-         "pubDate" : "Sat, 11 May 2024 12:57:00",
-         "title" : "Chess Improvement Trap: Why You're Stuck Studying the Wrong Things"
       }
    ]
 }
