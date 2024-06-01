@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Radosław Wojtaszek and Alina Kashlinskaya, who are husband and wife, won the 2024 edition of the Polish Championships, in the open and the women's section respectively. Wojtaszek won his sixth national title and is now just one tournament victory short of Wlodzimierz Schmidt's record. kashlinskaya, on her part, claimed her maiden gold in this prestigious event. | Photo: Michal Walusza",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/polish-championships-2024-report",
+         "pubDate" : "Sat, 01 Jun 2024 08:30:00",
+         "title" : "Polish Championships: Double victory for married couple"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3048",
+         "pubDate" : "Sat, 01 Jun 2024 05:27:03",
+         "title" : "FIDE World Championship Match 2024: Host city bids submitted"
+      },
+      {
          "description" : "The Hungarian Chess Federation is delighted to have pulled off a coup. For the forthcoming Chess Olympiad in their own country (10-23 September) they have managed to persuade Richard Rapport to return to the Hungarian team from Romania. And they have also managed to re-engage Peter Leko. Hungary, with its long chess history, wants to be among the best!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-hyperbullet-championship-tang-wins",
-         "pubDate" : "Fri, 31 May 2024 14:30:56",
+         "pubDate" : "Fri, 31 May 2024 14:30:00",
          "title" : "Tang Overthrows Naroditsky In Grand Final Reset To Win 1st Hyperbullet Championship"
       },
       {
@@ -64,14 +80,6 @@ news_feed (
          "link" : "https://aicf.in/vacancy-announcement-2/",
          "pubDate" : "Fri, 31 May 2024 07:33:00",
          "title" : "Vacancy Announcement"
-      },
-      {
-         "description" : "For the first time in this year's edition of the Norway Chess super-tournament, all three games in a single round ended decisively. Hikaru Nakamura defeated former leader R Praggnanandhaa to climb to sole first place; Alireza Firouzja is Nakamura's closest chaser after beating world champion Ding Liren; while Magnus Carlsen stands in third place thanks to his victory over Fabiano Caruana. | Photo: Stev Bonhage / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-4",
-         "pubDate" : "Fri, 31 May 2024 07:30:00",
-         "title" : "Norway Chess: Naka beats Pragg to grab the lead, Carlsen beats Caruana"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110584363.cms\" />In Norway chess tournament, R Vaishali dominates, securing 8.5 points after defeating Pia Cramling. She leads ahead of Wenjun Ju and Anna Muzychuk. Magnus Carlsen triumphs over Fabiano Caruana, while Hikaru Nakamura leads the men's section. R Praggnanandhaa faces setbacks, trailing with 5.5 points. With six rounds left, competition intensifies in the double round-robin format for the USD 1,61,000 prize.",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-4",
          "pubDate" : "Thu, 30 May 2024 12:47:00",
          "title" : "Nakamura New Leader In Norway As Round 4 Sees 5 Classical Wins"
-      },
-      {
-         "description" : "Building up a suitable opening repertoire is no easy task and can take some time. If you have an experienced trainer to help you with tips and advice, that is extremely helpful and also saves a lot of time. The Dutch grandmaster Sipke Ernst (photo: Frans Peeters) offers this help with his video course \"A practical repertoire for the positional player after 1.d4\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/opening-treasure-chest-of-a-world-class-trainer",
-         "pubDate" : "Thu, 30 May 2024 11:05:05",
-         "title" : "Opening treasure chest of a world-class trainer"
       },
       {
          "description" : "",
