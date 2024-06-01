@@ -18,6 +18,14 @@ news_feed (
          "title" : "FIDE June 2024 rating list published"
       },
       {
+         "description" : "GM Hikaru Nakamura is rated over 2800 for the first time in nine years after defeating an out-of-sorts GM Ding Liren. He&#39;s also world number-two after GM Fabiano Caruana lost a second game in a row, in a tricky ending against Praggnanandhaa Ramesh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-5",
+         "pubDate" : "Sat, 01 Jun 2024 12:53:00",
+         "title" : "Nakamura Crosses 2800, World No. 2 As Carlsen, Praggnanandhaa Also Win"
+      },
+      {
          "description" : "I recently came across a handsome boxed chess set of some historical significance. Inscribed on a solid silver plaque , adorning the lid, were the words: To Mrs Rhoda A Bowles, from the Cambridge University Chess Club, in grateful recognition of her enthusiastic and sustained exertions on its behalf in the cause of International Chess []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -762,14 +770,6 @@ news_feed (
          "title" : "Casablanca Chess: Carlsen takes the lead on Day 1"
       },
       {
-         "description" : "GM Magnus Carlsen gained a full-point lead at Casablanca Chess 2024 on day one. Combining his knowledge of chess history and his enjoyment of venturing beyond modern opening theory, Carlsen scored 2.5/3, defeating his longtime rivals GMs Viswanath...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-casablanca-chess-day-1",
-         "pubDate" : "Sat, 18 May 2024 17:05:00",
-         "title" : "Carlsen Reignites Kasparov's Sicilian To Take Lead"
-      },
-      {
          "description" : "Imagine facing a saber-tooth tiger that hasn't eaten in days. Your body goes into fight-or-flight mode. Your heart begins to race. And you follow your primal instincts. Miraculously, you can run way quicker than you ever did before, and without thinking much, you somehow get into safety. You can't explain how and why, but you []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1080,14 +1080,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/",
          "pubDate" : "Sun, 12 May 2024 01:44:59",
          "title" : "HBCU Chess Spotlight: Hampton University"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3018",
-         "pubDate" : "Sat, 11 May 2024 22:25:39",
-         "title" : "Superbet Poland Rapid & Blitz: Day 4 Recap"
       }
    ]
 }
