@@ -1048,22 +1048,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/",
          "pubDate" : "Sun, 12 May 2024 12:41:21",
          "title" : "HBCU Chess Spotlight: Spelman College"
-      },
-      {
-         "description" : " While reading through the regulations for the <a href=\"https://handbook.fide.com/files/handbook/WRTC2024Regulations.pdf\">2024 FIDE Rapid Teams Championship</a>, I cam across a new chess term. In the document, there is a reference to a \"Recreational Player\". This is defined as a player whose rating has never been above 2000 on any of the FDIE Rating Lists (Standard, Raid or Blitz). The reason for defining such a players is that each team playing in the 2024 FIDE Rapid Teams Championship is required to field at least 1 Recreational Player per match (which in this case is over 6 boards). Given that 1st prize in the event is 100K (US) now might be the time to recruit your friends uncle who was ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/a-recreational-player.html",
-         "pubDate" : "Sun, 12 May 2024 10:31:00",
-         "title" : "A Recreational Player"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110051747.cms\" />Indian chess prodigy R Praggnanandhaa secured another win against world number one Magnus Carlsen from Norway in the Superbet rapid and blitz chess tournament. However, China's Wei Yi has taken a commanding lead, accumulating 20.5 points with seven wins on the first day of blitz, making him likely to clinch the title unless he faces a significant setback.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-beats-magnus-carlsen-remains-third-in-superbet-chess-tournament/articleshow/110051747.cms",
-         "pubDate" : "Sun, 12 May 2024 07:43:14",
-         "title" : "Pragg beats Magnus, remains 3rd in Superbet tournament"
       }
    ]
 }
