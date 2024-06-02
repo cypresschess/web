@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "For a second round in a row at the Norway Chess event in Stavanger, all three classical games ended decisively. Hikaru Nakamura, Magnus Carlsen and R Praggnanandhaa each grabbed 3 points after beating Ding Liren, Alireza Firouzja and Fabiano Caruana respectively. Nakamura thus kept the sole lead - his victory over Ding also saw him surpass the 2800-rating barrier and climb to the second spot in the live ratings list. | Photo: Stev Bonhage / Norway Chess",
+         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-5",
-         "pubDate" : "Sun, 02 Jun 2024 08:00:00",
-         "title" : "Norway Chess: Naka new world number 2, Pragg and Carlsen score"
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
+         "pubDate" : "Sun, 02 Jun 2024 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Anna Muzychuk collected a second consecutive classical win in round 5 of the Norway Chess Women tournament. The Ukrainian GM beat Pia Cramling to climb to sole second place in the standings. R Vaishali is still the sole leader in Stavanger, as she prevailed in the Armageddon tiebreaker against Lei Tingjie. Ju Wenjun, now in third place, won a fifth rapid tiebreaker in a row. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-women-5",
+         "pubDate" : "Sun, 02 Jun 2024 14:50:00",
+         "title" : "Norway Chess Women: Muzychuk beats Cramling"
+      },
+      {
+         "description" : "Please find the Live Games Link for FIDE World Junior Chess Championship 2024 Open Live Link :&#160;https://live.aicf.in/worldjunior2024/open/index.html Girls Live Link :&#160;https://live.aicf.in/worldjunior2024/girls/index.html",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-fide-world-junior-chess-championship-2024/",
+         "pubDate" : "Sun, 02 Jun 2024 14:10:13",
+         "title" : "Live Games Link for FIDE World Junior Chess Championship 2024"
+      },
+      {
+         "description" : " The short answer, is that I have no idea. His poor run of form has continued, losing his last 3 classical games at 2024 Norway Chess. The most common explanation is a combination of recent poor health, and the psychological letdown after winning the World Championship. This may be so, but then again ... When I played him in 2019, he had just flown in from St Louis, where he had beaten Magnus Carlsen in a playoff to win the 2019 Sinquefield Cup. He was clearly unwell when he played me, and at one point I was convinced he was going to fall asleep at the board. Nonetheless, he went all the way through the tournament, only losing in the Final. Of course the level of opposition is slightly below",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/what-is-up-with-ding.html",
+         "pubDate" : "Sun, 02 Jun 2024 13:55:00",
+         "title" : "What is up with Ding?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110634384.cms\" />Indian chess prodigy Rameshbabu Praggnanandhaa, 18, stunned the chess world with victories at the 2024 Norway Chess tournament. He defeated top-ranked players Magnus Carlsen and Fabiano Caruana in classical chess, earning praise from figures like Gautam Adani. Praggnanandhaa's achievements solidify his status as a rising star in the international chess community.",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-june-1-2024",
          "pubDate" : "Sat, 01 Jun 2024 17:01:00",
          "title" : "Naroditsky Out-Brawls Hyperbullet Rivals"
-      },
-      {
-         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
-         "pubDate" : "Sat, 01 Jun 2024 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "",
@@ -1040,14 +1056,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/05/a-thr-exclusive.html",
          "pubDate" : "Sun, 12 May 2024 15:45:00",
          "title" : "A THR 'Exclusive'"
-      },
-      {
-         "description" : " Jamila Thompson is a graduating senior at Spelman College. The native New Yorker was taught chess by her father and continued her passion as a collegiate. While at Spelman, she joined other chess players in the Atlanta University Center (AUC) to match wits. Morehouse College hosted the club meetings and Thompson would attend along with The post <a href=\"https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/\">HBCU Chess Spotlight: Spelman College</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/05/12/hbcu-chess-spotlight-spelman-college/",
-         "pubDate" : "Sun, 12 May 2024 12:41:21",
-         "title" : "HBCU Chess Spotlight: Spelman College"
       }
    ]
 }
