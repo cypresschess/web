@@ -10,6 +10,14 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3050",
+         "pubDate" : "Sun, 02 Jun 2024 16:33:07",
+         "title" : "FIDE World Junior Championship kicks off in Gujarat, India"
+      },
+      {
          "description" : "Anna Muzychuk collected a second consecutive classical win in round 5 of the Norway Chess Women tournament. The Ukrainian GM beat Pia Cramling to climb to sole second place in the standings. R Vaishali is still the sole leader in Stavanger, as she prevailed in the Armageddon tiebreaker against Lei Tingjie. Ju Wenjun, now in third place, won a fifth rapid tiebreaker in a row. | Photo: Stev Bonhage / Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,30 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3021",
          "pubDate" : "Sun, 12 May 2024 21:16:24",
          "title" : "Nikita Khoroshev and Aleksandra Samaganova win Kyrgyzstan Championship"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110061244.cms\" />Grandmaster R Praggnanandhaa showcased his prowess by securing a clear fourth-place finish in the Superbet rapid and blitz tournament, part of the Grand Chess Tour in Warsaw. Meanwhile, Magnus Carlsen delivered a stellar performance on the final day, scoring an impressive 8/9 to secure the top position. Going into the last day with a significant 2.5 points lead, Wei Yi of China had to settle for second place after a slightly below-par performance in the final nine games.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-finishes-fourth-carlsen-wins-superbet-rapid-and-blitz-tournament/articleshow/110061244.cms",
-         "pubDate" : "Sun, 12 May 2024 19:19:10",
-         "title" : "Praggnanandhaa finishes fourth in Superbet rapid and blitz tourney"
-      },
-      {
-         "description" : " The Superbet Poland Rapid & Blitz took place in Warsaw 6th to 13th May 2024. Players: Magnus Carlsen, Jan-Krzysztof Duda, Wei Yi, Arjun Erigaisi, Vincent Keymer, Kirill Shevchenko, Dommaraju Gukesh, Nodirbek Abdusattorov, Praggnanandhaa Rameshbabu and Anish Giri. Magnus Carlsen just edged out Wei Yi with a dominant 7/7 blitz start to the final day including beating Wei Yi. Wei Yi won the rapid, half a point clear of Carlsen. Carlsen won the blitz by 1.5 points from Wei Yi, both were miles clear of everyone else. Wei Yi has been a well known figure for at least 10 years becoming a GM at 13, now at 24 he finally seems to be living up to his undoubted potential. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-poland-rapid-blitz-2024",
-         "pubDate" : "Sun, 12 May 2024 16:47:00",
-         "title" : "Superbet Poland Rapid & Blitz 2024 - Games and Results"
-      },
-      {
-         "description" : "THR = 'The Hollywood Reporter', which is also the name of the Youtube channel responsible for the following clip. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/qMvFGJu9bV0?si=tmal_QikalUfutOK\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><BR> <B>Emma Stone, Nathan Fielder and A24 to Produce Ben Mezrich Chess Scandal Story | THR News</B> (1:06) &#149; '[Published on] May 2, 2024' <P> The description said, <BLOCKQUOTE> Emma Stone and Nathan Fielder are set to team up once again. If deals c",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/05/a-thr-exclusive.html",
-         "pubDate" : "Sun, 12 May 2024 15:45:00",
-         "title" : "A THR 'Exclusive'"
       }
    ]
 }
