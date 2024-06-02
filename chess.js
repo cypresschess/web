@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Study composition is one of the aspects of chess that has been both most helped and most muddied by computers. Sometimes it turns out that a study is actually unsound or at least has dual(s), and sometimes there are complications regarding the 50-move rule, for example. But if you have an idea, then it has never been easier to test it, so that a process that would once have taken days can now be finalised in mere minutes. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-216",
+         "pubDate" : "Sun, 02 Jun 2024 21:30:00",
+         "title" : "Jon Speelman: May miscellany"
+      },
+      {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/06/what-is-up-with-ding.html",
          "pubDate" : "Sun, 02 Jun 2024 13:55:00",
          "title" : "What is up with Ding?"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen has taken over as the leader of Norway Chess 2024 after World Champion Ding Liren blundered into mate-in-two and lost a fourth game in a row. Elsewhere there was armageddon revenge for the first-round results, with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-6",
+         "pubDate" : "Sun, 02 Jun 2024 13:00:00",
+         "title" : "Ding Blunders Mate-In-2 Vs. Carlsen"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110634384.cms\" />Indian chess prodigy Rameshbabu Praggnanandhaa, 18, stunned the chess world with victories at the 2024 Norway Chess tournament. He defeated top-ranked players Magnus Carlsen and Fabiano Caruana in classical chess, earning praise from figures like Gautam Adani. Praggnanandhaa's achievements solidify his status as a rising star in the international chess community.",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "ECU GENERAL ASSEMBLY 2024"
       },
       {
-         "description" : "In war-torn Gaza, a teenage duo has captured the hearts of millions online with inspiring videos showcasing a chess initiative for displaced children. &#34;Day 1 of sharing our daily routine in war zone.&#34; Those are the words of the teenage duo beh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/teenagers-found-childrens-chess-club-in-gaza-reach-millions-on-instagram",
-         "pubDate" : "Mon, 20 May 2024 09:51:00",
-         "title" : "Teenagers Found Children's Chess Club In Gaza, Reach Millions On Instagram"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1016,30 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3022",
          "pubDate" : "Mon, 13 May 2024 08:01:28",
          "title" : "Updated FIDE (Dutch) System Effective from July 1, 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3020",
-         "pubDate" : "Sun, 12 May 2024 23:18:20",
-         "title" : "Baku Open 2024 announced"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3019",
-         "pubDate" : "Sun, 12 May 2024 22:50:18",
-         "title" : "Superbet Poland Rapid & Blitz: Magnus Carlsen captures title"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3021",
-         "pubDate" : "Sun, 12 May 2024 21:16:24",
-         "title" : "Nikita Khoroshev and Aleksandra Samaganova win Kyrgyzstan Championship"
       }
    ]
 }
