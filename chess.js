@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110631680.cms\" />India's chess prodigy R Praggnanandhaa continues to produce top-quality chess as he stunned world number two Fabiano Caruana on Saturday in Round 5 of Norway chess to achieve the distinction of beating both world number one Magnus Carlsen and number two Caruana in classic chess for the first time ever.",
+         "description" : "For a second round in a row at the Norway Chess event in Stavanger, all three classical games ended decisively. Hikaru Nakamura, Magnus Carlsen and R Praggnanandhaa each grabbed 3 points after beating Ding Liren, Alireza Firouzja and Fabiano Caruana respectively. Nakamura thus kept the sole lead - his victory over Ding also saw him surpass the 2800-rating barrier and climb to the second spot in the live ratings list. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-5",
+         "pubDate" : "Sun, 02 Jun 2024 08:00:00",
+         "title" : "Norway Chess: Naka new world number 2, Pragg and Carlsen score"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110634384.cms\" />Indian chess prodigy Rameshbabu Praggnanandhaa, 18, stunned the chess world with victories at the 2024 Norway Chess tournament. He defeated top-ranked players Magnus Carlsen and Fabiano Caruana in classical chess, earning praise from figures like Gautam Adani. Praggnanandhaa's achievements solidify his status as a rising star in the international chess community.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/incredible-praggnanandhaa-gautam-adani-hails-indian-prodigy-for-beating-both-world-no-1-and-2-at-norway-chess-tournament/articleshow/110634384.cms",
+         "pubDate" : "Sun, 02 Jun 2024 05:31:13",
+         "title" : "Adani hails Praggnanandhaa for beating both World No. 1 and 2"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110631680.cms\" />India's R Praggnanandhaa continues to produce exceptional performances on the chequered board, stunning world number two Fabiano Caruana on Saturday in Round 5 of Norway Chess. This victory marks the first time he has defeated both world number one and number two in classical chess. The wins have helped him enter the top ten in world rankings. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-stuns-world-no-2-fabiano-caruana-after-upseting-no-1-magnus-carlsen-in-classical-chess-to-climb-into-worlds-top-10/articleshow/110631680.cms",
@@ -50,28 +66,12 @@ news_feed (
          "title" : "Rhoda Bowles: a lost heroine of female chess"
       },
       {
-         "description" : "Radosław Wojtaszek and Alina Kashlinskaya, who are husband and wife, won the 2024 edition of the Polish Championships, in the open and the women's section respectively. Wojtaszek won his sixth national title and is now just one tournament victory short of Wlodzimierz Schmidt's record. kashlinskaya, on her part, claimed her maiden gold in this prestigious event. | Photo: Michal Walusza",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/polish-championships-2024-report",
-         "pubDate" : "Sat, 01 Jun 2024 08:30:00",
-         "title" : "Polish Championships: Double victory for married couple"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3048",
          "pubDate" : "Sat, 01 Jun 2024 05:27:03",
          "title" : "FIDE World Championship Match 2024: Host city bids submitted"
-      },
-      {
-         "description" : "The Hungarian Chess Federation is delighted to have pulled off a coup. For the forthcoming Chess Olympiad in their own country (10-23 September) they have managed to persuade Richard Rapport to return to the Hungarian team from Romania. And they have also managed to re-engage Peter Leko. Hungary, with its long chess history, wants to be among the best!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-rapport-will-play-for-hungary-again-leko-too",
-         "pubDate" : "Fri, 31 May 2024 16:00:00",
-         "title" : "Chess Olympiad: Rapport will play for Hungary again - Leko too"
       },
       {
          "description" : "GM Andrew Tang won the inaugural 2024 Hyperbullet Chess Championship, the first event of the Chess.com Community Championships, on Friday. After losing a close match against&#38;nbsp;GM Daniel Naroditsky in the first round, he climbed through the Lose...",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/aged-like-sour-milk.html",
          "pubDate" : "Fri, 31 May 2024 13:57:00",
          "title" : "Aged like sour milk"
-      },
-      {
-         "description" : "Do you know the typical mistakes made by club players when choosing their opening? They follow fashionable variations; they stick to one opening because it's the only one they've learnt at some point; or they play secondary variations out of fear of their opponent's supposed knowledge. Things do not have to be this way. Play what suits you. Let yourself be inspired! The series of opening tutorials in the new, web-based ChessBase books format offers you a highly competent and innovative guide to opening theory. This is an updated new edition in the new web-based ChessBase-books format!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/openings-01-the-open-games-1-e4-e5-updated-web-version",
-         "pubDate" : "Fri, 31 May 2024 12:00:27",
-         "title" : "Openings #01: The Open Games - 1. e4 e5 (Updated Web-Version)"
       },
       {
          "description" : "",
@@ -160,14 +152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3046",
          "pubDate" : "Thu, 30 May 2024 22:45:13",
          "title" : "FIDE announces finalists for 2024 World Corporate Chess Championship"
-      },
-      {
-         "description" : "ChessBase Magazine Extra is the ideal supplement to the ChessBase Magazine. In the new Extra #219: New double sacrifice against the French Defence (video by Felix Blohberger) and part 3 of the video series \"Mikhalchishin's miniatures\". \"Lucky bag\" with 44 analyses by Emanuel Berg, Romain Edouard, Alexandr Fier, Michal Krasenkow, Yago Santiago, Vaibhav Suri and many more. Plus over 50,000 new games for your database!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-cbm-extra-3",
-         "pubDate" : "Thu, 30 May 2024 14:30:00",
-         "title" : "New: CBM Extra #219"
       },
       {
          "description" : " If you are looking for some easy practice, then Youtube might have the answer. I'm not talking about instructional videos, but a fairly easy chess engine you can play through their website. Under the new heading of 'Playables' Youtube have added a whole pile of web based games. One of the games is 'Chess Classic' While it isn't very good (at least the lower levels) it does provide a quick way to play some casual online chess. As for the practice bit, if you are just learning chess, then beating easy chess engines is one way top get better. It helps you sharpen your basic tactics without getting crushed later in the game. As per an earlier recommendation, start at the easiest level and play ",
