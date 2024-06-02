@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110631680.cms\" />India's chess prodigy R Praggnanandhaa continues to produce top-quality chess as he stunned world number two Fabiano Caruana on Saturday in Round 5 of Norway chess to achieve the distinction of beating both world number one Magnus Carlsen and number two Caruana in classic chess for the first time ever.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-stuns-world-no-2-fabiano-caruana-after-upseting-no-1-magnus-carlsen-in-classical-chess-to-climb-into-worlds-top-10/articleshow/110631680.cms",
+         "pubDate" : "Sun, 02 Jun 2024 01:35:27",
+         "title" : "Praggnanandhaa upsets No. 2 Caruana, climbs into world top 10"
+      },
+      {
+         "description" : "Days after his second-place finish in the Chess.com Hyperbullet Championship, GM Daniel Naroditsky finished atop June&#39;s first Bullet Brawl ahead of rival GMs Tuan Minh Le and Andrew Tang. After scoring 236 points in a run that included a precision...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-june-1-2024",
+         "pubDate" : "Sat, 01 Jun 2024 17:01:00",
+         "title" : "Naroditsky Out-Brawls Hyperbullet Rivals"
+      },
+      {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +34,7 @@ news_feed (
          "title" : "FIDE June 2024 rating list published"
       },
       {
-         "description" : "GM Hikaru Nakamura is rated over 2800 for the first time in nine years after defeating an out-of-sorts GM Ding Liren. He&#39;s also world number-two after GM Fabiano Caruana lost a second game in a row, in a tricky ending against Praggnanandhaa Ramesh...",
+         "description" : "GM Hikaru Nakamura is rated over 2800 for the first time in nine years after handing a third defeat in a row to World Champion Ding Liren. Nakamura is also world number-two after GM Fabiano Caruana cracked in the endgame for a second game in a row...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-5",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "Magnus Carlsen triumphs in first Casablanca Chess Variant Tournament"
       },
       {
-         "description" : "GM Magnus Carlsen triumphed at Casablanca Chess 2024, clinching first in a dynamic finish vs. GM Hikaru Nakamura.&#38;nbsp; Nakamura himself won second while GM Viswanathan Anand finished third. The 15th world champion&#39;s compelling last-round victor...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-casablanca-chess-day-2",
-         "pubDate" : "Sun, 19 May 2024 21:59:00",
-         "title" : "Carlsen Wins Inaugural Casablanca Chess, Climbs Kasparov's Everest"
-      },
-      {
          "description" : " There is an interesting chess event running across the weekend in Morocco. The Morocco Chess Week is featuring Casablanca Chess which is a fixed opening variant. At the start of each round the players are given a famous game, and the move on which they can vary from the given move. They have a couple of minutes to study the game/position and then they play a 15 minute game. At the end of Day 1 Carlsen leads with 2.5/3, ahead of Nakamura on 1.5, with Anand and Amin on 1. Of most interest from this event is that the Evan's Gambit was chosen in Round 1, and White (Carlsen and Nakamura) both won. Carlsen then defeated Nakamura in round 3, in a g4 Sicilian. Someone on the internet did ask if suc",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-beats-magnus-carlsen-remains-third-in-superbet-chess-tournament/articleshow/110051747.cms",
          "pubDate" : "Sun, 12 May 2024 07:43:14",
          "title" : "Pragg beats Magnus, remains 3rd in Superbet tournament"
-      },
-      {
-         "description" : " Hampton University traveled 22 hours to the 2024 HBCU Chess Classic in Atlanta after a last-minute effort by the Hampton Alumni Association to fund their travel. As Breon McCray III described it, they nearly had to nix the trip when they could not raise the requisite funds to travel. They only discovered the day before The post <a href=\"https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/\">HBCU Chess Spotlight: Hampton University</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/05/11/hbcu-chess-spotlight-hampton-university/",
-         "pubDate" : "Sun, 12 May 2024 01:44:59",
-         "title" : "HBCU Chess Spotlight: Hampton University"
       }
    ]
 }
