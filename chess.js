@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Magnus Carlsen climbed to sole first place in the standings of the Norway Chess super-tournament after inflicting what was Ding Liren's fourth consecutive classical loss in Stavanger. The world champion blundered a mate-in-two in a balanced position to lose the game. Meanwhile, Fabiano Caruana and Alireza Firouzja prevailed in Armageddon tiebreakers against Hikaru Nakamura and R Praggnanandhaa, respectively. | Photo: Stev Bonhage / Norway Chess",
+         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-6",
-         "pubDate" : "Mon, 03 Jun 2024 12:35:00",
-         "title" : "Norway Chess: Carlsen takes the lead as Ding blunders"
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
+         "pubDate" : "Mon, 03 Jun 2024 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3052",
+         "pubDate" : "Mon, 03 Jun 2024 13:02:30",
+         "title" : "Roberto Garc&iacute;a Pantoja wins XVII Absolute Championship of the Americas"
       },
       {
          "description" : "The FIDE has published its new world ranking list as of 1 June. There are hardly any changes at the top of the list. Magnus Carlsen (open) and Hou Yifan (women) continue to occupy the top positions. However, a number of prominent players lost a lot of points and thus also dropped down the rankings in the most recent open tournaments in Dubai and Sharjah. The name Karjakin is no longer on the list - apparently due to inactivity.",
@@ -26,20 +34,20 @@ news_feed (
          "title" : "Three rounds played at the European School Chess Championship 2024"
       },
       {
+         "description" : "Chess.com is excited to announce Chess Events, a brand new app that will help you stay up-to-date with the latest tournaments and results of the most important games!&#38;nbsp;Download the app on iOS and Android devices now! For invested che...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-chess-events-app",
+         "pubDate" : "Mon, 03 Jun 2024 08:00:57",
+         "title" : "Chess.com Announces Chess Events App"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110650877.cms\" />The Norway Chess tournament saw Magnus Carlsen solidify his lead with a victory over Ding Liren, reaching 12 points. Fabiano Caruana's win over Hikaru Nakamura left Nakamura one point behind Carlsen. Indian players faced setbacks; R Praggnanandhaa lost in the Armageddon tiebreaker to Firouzja Alireza, and R Vaishali was defeated by Wenjun Ju, leaving her just half a point behind the leaders.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/brother-sister-indian-duo-of-r-praggnanandhaaa-and-r-vaishali-suffer-defeats-at-norway-chess-tournament/articleshow/110650877.cms",
          "pubDate" : "Mon, 03 Jun 2024 03:16:55",
          "title" : "Brother-sister Indian duo of Pragg and Vaishali suffer defeats"
-      },
-      {
-         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
-         "pubDate" : "Sun, 02 Jun 2024 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "",
@@ -738,14 +746,6 @@ news_feed (
          "title" : "FIDE World Cup Under 8-12: Extra spots available"
       },
       {
-         "description" : "Unleash the beast! Chess played its part at an unlikely event over the weekend&#38;mdash;the 2024 Professional Bull Riding World Finals. As PBR celebrated its most prestigious event of the year at the AT&#38;amp;T Stadium in Arlington, Texas, two cowboy...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-2024-pbr-world-finals",
-         "pubDate" : "Mon, 20 May 2024 13:40:59",
-         "title" : "When Bull Riding Meets Chess: Game Makes Its Move At 2024 PBR World Finals"
-      },
-      {
          "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress. The Assembly starts at 10.00 am.&#160; All the information about airports and hotels for the FIDE Congress will be published by FIDE. Requests for bookings and []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1016,14 +1016,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/membership-pay-to-play-and-game-fees-2024-25-v1/#new_tab",
          "pubDate" : "Mon, 13 May 2024 15:53:53",
          "title" : "Membership, Pay to Play and Game Fees 2024/25 (V1)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110089013.cms\" />P. Shyaamnikhil achieved a significant milestone, becoming India's 85th Grandmaster after securing his third and final GM norm at the recently concluded Dubai Police Masters chess tournament. This achievement marked the end of a 12-year journey for the player, who embarked on his chess career at the age of eight.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shyaamnikhil-ends-12-year-wait-becomes-indias-85th-gm/articleshow/110089013.cms",
-         "pubDate" : "Mon, 13 May 2024 13:07:33",
-         "title" : "Chess: Shyaamnikhil ends 12-year wait, becomes India's 85th GM"
       }
    ]
 }
