@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen climbed to sole first place in the standings of the Norway Chess super-tournament after inflicting what was Ding Liren's fourth consecutive classical loss in Stavanger. The world champion blundered a mate-in-two in a balanced position to lose the game. Meanwhile, Fabiano Caruana and Alireza Firouzja prevailed in Armageddon tiebreakers against Hikaru Nakamura and R Praggnanandhaa, respectively. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-6",
+         "pubDate" : "Mon, 03 Jun 2024 12:35:00",
+         "title" : "Norway Chess: Carlsen takes the lead as Ding blunders"
+      },
+      {
+         "description" : "The FIDE has published its new world ranking list as of 1 June. There are hardly any changes at the top of the list. Magnus Carlsen (open) and Hou Yifan (women) continue to occupy the top positions. However, a number of prominent players lost a lot of points and thus also dropped down the rankings in the most recent open tournaments in Dubai and Sharjah. The name Karjakin is no longer on the list - apparently due to inactivity.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-june-2024",
+         "pubDate" : "Mon, 03 Jun 2024 12:17:35",
+         "title" : "FIDE ratings - June 2024"
+      },
+      {
+         "description" : "The European School Chess Championship 2024 is underway in Limerick, Ireland, with nearly 200 participants coming from 17 European federations. Three rounds have already been played over six age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Scoring perfect 3/3 points, Omer Taha Dede (TUR) and Amandeep Singh (ENG) co-lead in he U7 section, while five players tie for the top in the GU7 category with the score of 2 points each: Miray Akindi (TUR), []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/three-rounds-played-at-the-european-school-chess-championship-2024/",
+         "pubDate" : "Mon, 03 Jun 2024 09:20:14",
+         "title" : "Three rounds played at the European School Chess Championship 2024"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110650877.cms\" />The Norway Chess tournament saw Magnus Carlsen solidify his lead with a victory over Ding Liren, reaching 12 points. Fabiano Caruana's win over Hikaru Nakamura left Nakamura one point behind Carlsen. Indian players faced setbacks; R Praggnanandhaa lost in the Armageddon tiebreaker to Firouzja Alireza, and R Vaishali was defeated by Wenjun Ju, leaving her just half a point behind the leaders.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/brother-sister-indian-duo-of-r-praggnanandhaaa-and-r-vaishali-suffer-defeats-at-norway-chess-tournament/articleshow/110650877.cms",
          "pubDate" : "Mon, 03 Jun 2024 03:16:55",
          "title" : "Brother-sister Indian duo of Pragg and Vaishali suffer defeats"
-      },
-      {
-         "description" : "Study composition is one of the aspects of chess that has been both most helped and most muddied by computers. Sometimes it turns out that a study is actually unsound or at least has dual(s), and sometimes there are complications regarding the 50-move rule, for example. But if you have an idea, then it has never been easier to test it, so that a process that would once have taken days can now be finalised in mere minutes. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-216",
-         "pubDate" : "Sun, 02 Jun 2024 21:30:00",
-         "title" : "Jon Speelman: May miscellany"
       },
       {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
@@ -754,6 +770,14 @@ news_feed (
          "title" : "Magnus Carlsen triumphs in first Casablanca Chess Variant Tournament"
       },
       {
+         "description" : "The title of this month's Flickr featured photo says 'graffiti', but it looks more like 'street art' to me. Don't ask me what the difference is; I just know it when I see it. The last time we saw 'graffiti' on this blog was <A HREF=\"https://chessforallages.blogspot.com/2023/04/only-on-sunday.html\">Only on Sunday</A> (April 2023; yes, that's definitely graffiti). The last time we saw 'street art' was <A HREF=\"https://chessforallages.blogspot.com/2017/07/no-monkey-business-here.html\">No Monkey Business Here</A> (July 2017; Description: 'Street art in London'). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oe19.jpg\" WIDTH=400 HEIGHT=250><BR> <A HREF=\"https://www.flickr.com/phot",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/05/shoreditch-street-art.html",
+         "pubDate" : "Sun, 19 May 2024 15:25:00",
+         "title" : "Shoreditch Street Art"
+      },
+      {
          "description" : " There is an interesting chess event running across the weekend in Morocco. The Morocco Chess Week is featuring Casablanca Chess which is a fixed opening variant. At the start of each round the players are given a famous game, and the move on which they can vary from the given move. They have a couple of minutes to study the game/position and then they play a 15 minute game. At the end of Day 1 Carlsen leads with 2.5/3, ahead of Nakamura on 1.5, with Anand and Amin on 1. Of most interest from this event is that the Evan's Gambit was chosen in Round 1, and White (Carlsen and Nakamura) both won. Carlsen then defeated Nakamura in round 3, in a g4 Sicilian. Someone on the internet did ask if suc",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1000,30 +1024,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/chess-shyaamnikhil-ends-12-year-wait-becomes-indias-85th-gm/articleshow/110089013.cms",
          "pubDate" : "Mon, 13 May 2024 13:07:33",
          "title" : "Chess: Shyaamnikhil ends 12-year wait, becomes India's 85th GM"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Seniors/european-senior-team-chess-championships-estcc-2024/#new_tab",
-         "pubDate" : "Mon, 13 May 2024 08:47:45",
-         "title" : "European Senior Team Chess Championships (ESTCC) 2024"
-      },
-      {
-         "description" : "The second quarterly meeting of the ECU Executive Board for 2024 took place in Terme Catez, Slovenia, during the 2024 European Senior Chess Championship. The Slovenian federation, known for its great hospitality, organised the tournament and the board meeting in excellent conditions. Main information and decisions: European Chess Championships 1.The 2024 European Women's Rapid and Blitz Chess Championship was announced from 9 to 13 January 2025 in Monte Carlo, with doubled prize fund than in the last edition (22,500 to []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/communique-of-the-ecu-board-meeting-in-terme-catez-slovenia/",
-         "pubDate" : "Mon, 13 May 2024 08:35:13",
-         "title" : "Communique of the ECU Board Meeting in Terme Catez, Slovenia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3022",
-         "pubDate" : "Mon, 13 May 2024 08:01:28",
-         "title" : "Updated FIDE (Dutch) System Effective from July 1, 2025"
       }
    ]
 }
