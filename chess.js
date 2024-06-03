@@ -26,6 +26,14 @@ news_feed (
          "title" : "Roberto Garc&iacute;a Pantoja wins XVII Absolute Championship of the Americas"
       },
       {
+         "description" : "GM Hikaru Nakamura closed the gap to Norway Chess 2024 leader GM&#38;nbsp;Magnus Carlsen to half a point after winning an armageddon thriller on time. World Champion Ding Liren&#38;nbsp;ended his losing sequence to draw against GM Praggnanandhaa Rameshbab...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-7",
+         "pubDate" : "Mon, 03 Jun 2024 12:59:00",
+         "title" : "Nakamura Beats Carlsen On Time To Close Gap, Muzychuk Takes Sole Lead"
+      },
+      {
          "description" : "The FIDE has published its new world ranking list as of 1 June. There are hardly any changes at the top of the list. Magnus Carlsen (open) and Hou Yifan (women) continue to occupy the top positions. However, a number of prominent players lost a lot of points and thus also dropped down the rankings in the most recent open tournaments in Dubai and Sharjah. The name Karjakin is no longer on the list - apparently due to inactivity.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/play-chess-against-the-mechanical-turk",
-         "pubDate" : "Mon, 03 Jun 2024 12:05:30",
+         "pubDate" : "Mon, 03 Jun 2024 12:05:00",
          "title" : "Play Against The Mechanical Turk and Friends!"
       },
       {
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3036",
          "pubDate" : "Wed, 22 May 2024 09:16:24",
          "title" : "Unveiling triumphs of 11th Dhamso International Chess Festival 2024"
-      },
-      {
-         "description" : "The victors in Titled Tuesday on May 21, 2024, were GM Vladislav Kovalev in the early tournament and GM Jan-Krzysztof Duda in the late tournament. FM Faustino Oro, the 10-year-old from Argentina who already has bullet wins against the very best co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kovalev-duda-win-titled-tuesday-may-21-2024",
-         "pubDate" : "Wed, 22 May 2024 08:19:00",
-         "title" : "10-Year Old Phenom Makes Podium As Kovalev, Duda Win Titled Tuesday"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110309282.cms\" />Indian Grandmaster Aravindh Chithambaram suffered a costly blunder in the seventh round of the Sharjah Masters, resulting in a loss to Bardiya Daneshvar of Iran and relinquishing his lead in the tournament. Aravindh's slip from the top spot saw him fall to joint third position, as American Sam Shankland defeated his compatriot Hans Moke Niemann to equal the Iranian's points tally.",
