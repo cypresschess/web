@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110650877.cms\" />The Norway Chess tournament saw Magnus Carlsen solidify his lead with a victory over Ding Liren, reaching 12 points. Fabiano Caruana's win over Hikaru Nakamura left Nakamura one point behind Carlsen. Indian players faced setbacks; R Praggnanandhaa lost in the Armageddon tiebreaker to Firouzja Alireza, and R Vaishali was defeated by Wenjun Ju, leaving her just half a point behind the leaders.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/brother-sister-indian-duo-of-r-praggnanandhaaa-and-r-vaishali-suffer-defeats-at-norway-chess-tournament/articleshow/110650877.cms",
+         "pubDate" : "Mon, 03 Jun 2024 03:16:55",
+         "title" : "Brother-sister Indian duo of Pragg and Vaishali suffer defeats"
+      },
+      {
          "description" : "Study composition is one of the aspects of chess that has been both most helped and most muddied by computers. Sometimes it turns out that a study is actually unsound or at least has dual(s), and sometimes there are complications regarding the 50-move rule, for example. But if you have an idea, then it has never been easier to test it, so that a process that would once have taken days can now be finalised in mere minutes. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,12 +58,12 @@ news_feed (
          "title" : "What is up with Ding?"
       },
       {
-         "description" : "World number-one Magnus Carlsen has taken over as the leader of Norway Chess 2024 after World Champion Ding Liren blundered into mate-in-two and lost a fourth game in a row. Elsewhere there was armageddon revenge for the first-round results, with ...",
+         "description" : "World number-one Magnus Carlsen has taken over as the leader of Norway Chess 2024 after World Champion Ding Liren&#38;nbsp;blundered into mate-in-two and sank to a fourth loss in a row. Elsewhere there was armageddon revenge for the first-round result...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-6",
          "pubDate" : "Sun, 02 Jun 2024 13:00:00",
-         "title" : "Ding Blunders Mate-In-2 Vs. Carlsen"
+         "title" : "Carlsen Leads Norway Chess After Ding Blunders Mate-In-2"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110634384.cms\" />Indian chess prodigy Rameshbabu Praggnanandhaa, 18, stunned the chess world with victories at the 2024 Norway Chess tournament. He defeated top-ranked players Magnus Carlsen and Fabiano Caruana in classical chess, earning praise from figures like Gautam Adani. Praggnanandhaa's achievements solidify his status as a rising star in the international chess community.",
