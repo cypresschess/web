@@ -10,6 +10,14 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
+         "description" : "The 2024 FIDE World Junior Chess Championship has commenced at Radisson GIFT City in Gujarat, India, featuring almost 230 players from 44 countries. The open",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-junior-championship-2024-kicks-off-in-gandhinagar-gujarat-india/",
+         "pubDate" : "Mon, 03 Jun 2024 15:55:50",
+         "title" : "FIDE World Junior Chess Championship 2024 kicks off in Gandhinagar Gujarat, India"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "FIDE ratings - June 2024"
       },
       {
+         "description" : "You&#38;rsquo;ve played fun, new monthly Chess.com bots for years. Now it&#38;rsquo;s time for you to play the first chess robot ever built, The Mechanical Turk!&#38;nbsp; Created in 1770, The Mechanical Turk was a chess playing automaton that toured around...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/play-chess-against-the-mechanical-turk",
+         "pubDate" : "Mon, 03 Jun 2024 12:05:30",
+         "title" : "Play Against The Mechanical Turk and Friends!"
+      },
+      {
          "description" : "The European School Chess Championship 2024 is underway in Limerick, Ireland, with nearly 200 participants coming from 17 European federations. Three rounds have already been played over six age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Scoring perfect 3/3 points, Omer Taha Dede (TUR) and Amandeep Singh (ENG) co-lead in he U7 section, while five players tie for the top in the GU7 category with the score of 2 points each: Miray Akindi (TUR), []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -34,11 +50,11 @@ news_feed (
          "title" : "Three rounds played at the European School Chess Championship 2024"
       },
       {
-         "description" : "Chess.com is excited to announce Chess Events, a brand new app that will help you stay up-to-date with the latest tournaments and results of the most important games!&#38;nbsp;Download the app on iOS and Android devices now! For invested che...",
+         "description" : "Chess.com is excited to announce Chess Events, a brand new app that isolates key features of the site and main app to streamline a user&#39;s experience with major events. Chess Events will help you stay up-to-date with the latest tournaments and resu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-announces-chess-events-app",
-         "pubDate" : "Mon, 03 Jun 2024 08:00:57",
+         "pubDate" : "Mon, 03 Jun 2024 08:00:00",
          "title" : "Chess.com Announces Chess Events App"
       },
       {
@@ -394,12 +410,12 @@ news_feed (
          "title" : "Chess databases: empowering players and educators"
       },
       {
-         "description" : "The English Chess Federation will once again be holding a 24-hour online chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Chess.com&#160;will...",
+         "description" : "The English Chess Federation will once again be holding a 24-hour online chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Chess.com will...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine-2024-update/",
+         "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine-2024/",
          "pubDate" : "Tue, 28 May 2024 12:00:32",
-         "title" : "ECF Charity Marathon for Ukraine 2024 starts 5.00pm this Saturday 1st June!"
+         "title" : "ECF Charity Marathon for Ukraine 2024 now complete - results and further details here!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110492267.cms\" />Indian Grandmaster R Praggnanandhaa triumphed over France's Firouzja Alireza in the Armageddon game during the Norway Chess tournament's first round. The classical game ended in a draw, but Praggnanandhaa, with more time on the clock, clinched the win. After the first round, Praggnanandhaa shares the lead with Magnus Carlsen and Hikaru Nakamura.",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "10-Year Old Phenom Makes Podium As Kovalev, Duda Win Titled Tuesday"
       },
       {
-         "description" : "The Kids, FM Rose Atwell and WFM Megan Paragua, defeated the Stars, WGM Nemo Zhou and WFM Anna Cramling in the first Kids vs. Stars match on Tuesday.&#38;nbsp; With a combination of tactical awareness, endgame technique, and superior time management...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-kids-vs-stars-atwell-paragua",
-         "pubDate" : "Tue, 21 May 2024 18:03:00",
-         "title" : "Kids Take 1st Victory: Atwell, Paragua Beat Nemo, Cramling"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110309282.cms\" />Indian Grandmaster Aravindh Chithambaram suffered a costly blunder in the seventh round of the Sharjah Masters, resulting in a loss to Bardiya Daneshvar of Iran and relinquishing his lead in the tournament. Aravindh's slip from the top spot saw him fall to joint third position, as American Sam Shankland defeated his compatriot Hans Moke Niemann to equal the Iranian's points tally.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -962,14 +970,6 @@ news_feed (
          "title" : "Reflections on the 2024 HBCU Chess Classic"
       },
       {
-         "description" : "The Following Indian players are provisionally identified (subject to change and approval from FIDE) to take part in the World Junior &#38; Junior Girls Chess",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-2024-at-gandhinagar-gujarat-from-01-to-14-june-2024-list-of-indian-provisional-players/",
-         "pubDate" : "Wed, 15 May 2024 09:45:15",
-         "title" : "World Junior 2024 at Gandhinagar Gujarat from 01 to 14 June , 2024 - list of Indian provisional players"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1008,14 +1008,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/erigaisi-arjun-to-lead-indian-contingent-as-top-seed-in-sharjah-masters-chess-tournament/articleshow/110108697.cms",
          "pubDate" : "Tue, 14 May 2024 07:32:57",
          "title" : "Erigaisi to lead Indian contingent as top seed in Sharjah Masters"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/membership-pay-to-play-and-game-fees-2024-25-v1/#new_tab",
-         "pubDate" : "Mon, 13 May 2024 15:53:53",
-         "title" : "Membership, Pay to Play and Game Fees 2024/25 (V1)"
       }
    ]
 }
