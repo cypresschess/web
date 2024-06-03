@@ -34,14 +34,6 @@ news_feed (
          "title" : "FIDE World Junior Championship kicks off in Gujarat, India"
       },
       {
-         "description" : "Anna Muzychuk collected a second consecutive classical win in round 5 of the Norway Chess Women tournament. The Ukrainian GM beat Pia Cramling to climb to sole second place in the standings. R Vaishali is still the sole leader in Stavanger, as she prevailed in the Armageddon tiebreaker against Lei Tingjie. Ju Wenjun, now in third place, won a fifth rapid tiebreaker in a row. | Photo: Stev Bonhage / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-women-5",
-         "pubDate" : "Sun, 02 Jun 2024 14:50:00",
-         "title" : "Norway Chess Women: Muzychuk beats Cramling"
-      },
-      {
          "description" : "Please find the Live Games Link for FIDE World Junior Chess Championship 2024 Open Live Link :&#160;https://live.aicf.in/worldjunior2024/open/index.html Girls Live Link :&#160;https://live.aicf.in/worldjunior2024/girls/index.html",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
