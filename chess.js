@@ -18,6 +18,14 @@ news_feed (
          "title" : "English Championship Series 2024 - drawing near!"
       },
       {
+         "description" : "World number-one Magnus Carlsen extended his Norway Chess 2024 lead to a full point after beating GM Praggnanandhaa Rameshbabu in armageddon. For most of the day it had looked as though GM Hikaru Nakamura would defeat GM Alireza Firouzja in classi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-8",
+         "pubDate" : "Tue, 04 Jun 2024 13:16:00",
+         "title" : "Carlsen Gets Revenge Vs. Praggnanandhaa As Ju Wenjun Takes Women's Lead"
+      },
+      {
          "description" : " I guess half remembered opening theory is better than none, at least under certain circumstances. Facing a Goring Gambit in a very recent game, I remembered a recommendation from George Botterill where Black plays Bb4, follows up with d6 and then takes on c3 with the bishop at the correct moment. So far so good, but I could not remember what happens next. Fortunately my opponent chose a line that Botterill did not recommend, although I then chose a response that wasn't good either. But the long and the short of it was that I seemed to have the better of the opening, my opponent sacrificed material for play, and after3 hours, I managed to grind out a win in a R+B+N v Q position (I had the bi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -754,14 +762,6 @@ news_feed (
          "title" : "Chess for Freedom Conference 2024: List of speakers announced"
       },
       {
-         "description" : "In an era where it only takes a few clicks for anyone to learn a trappy chess opening, cheeky opponents abound. In fact, anyone who enjoys playing online chess is almost guaranteed to come across a tricky and trappy gambit. Now, it&#39;s time for yo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/every-gambit-refuted-chessable",
-         "pubDate" : "Wed, 22 May 2024 10:00:00",
-         "title" : "Punish Cheeky Opponents With GM Perelshteyn's Every Gambit Refuted Chessable Course"
-      },
-      {
          "description" : " The 7th Sharjah Masters took place 14th to 22nd May 2024. Top seeds: Erigaisi, Maghsoodloo, Yu Yangyi, Radjabov, Tabatabaei, Sarana, Artemiev, Esipenko, Fedoseev, Sevian etc. Bardiya Daneshvar of Iran took first place on tie-break from Volodar Murzin, Sam Shankland and Shamsiddin Vokhidov, all scored 6.5/9. Deshmukh Divya won the Challengers ahead of Leya Garifullina and Sina Movahed on tie-break after all scored 7/9.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -992,22 +992,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/05/15/reflections-on-the-2024-hbcu-chess-classic/",
          "pubDate" : "Wed, 15 May 2024 17:44:40",
          "title" : "Reflections on the 2024 HBCU Chess Classic"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3024",
-         "pubDate" : "Tue, 14 May 2024 22:39:24",
-         "title" : "Back to the Future with Casablanca Chess!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3023",
-         "pubDate" : "Tue, 14 May 2024 21:36:51",
-         "title" : "8th YCCC: Inspiring the next generation of chess composers"
       }
    ]
 }
