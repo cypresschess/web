@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110683308.cms\" />R Praggnanandhaa continued his streak of upsets by defeating World Champion Ding Liren in the armageddon game at the Norway Chess tournament on Monday. This victory followed Praggnanandhaa's impressive wins against higher-ranked players like Magnus Carlsen and Fabiano Caruana, solidifying his reputation as a formidable young talent in the chess world.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-stuns-world-champion-ding-liren-at-norway-chess-tournament/articleshow/110683308.cms",
+         "pubDate" : "Tue, 04 Jun 2024 00:11:12",
+         "title" : "Pragg stuns World Champion Ding Liren at Norway Chess"
+      },
+      {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Roberto Garc&iacute;a Pantoja wins XVII Absolute Championship of the Americas"
       },
       {
-         "description" : "GM Hikaru Nakamura closed the gap to Norway Chess 2024 leader GM&#38;nbsp;Magnus Carlsen to half a point after winning an armageddon thriller on time. World Champion Ding Liren&#38;nbsp;ended his losing sequence to draw against GM Praggnanandhaa Rameshbab...",
+         "description" : "GM Hikaru Nakamura closed the gap to Norway Chess 2024 leader GM&#38;nbsp;Magnus Carlsen down to to half a point after winning an armageddon thriller on time. World Champion Ding Liren ended his losing streak to draw against GM Praggnanandhaa Rameshba...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-7",
