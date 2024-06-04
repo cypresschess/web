@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
+         "pubDate" : "Tue, 04 Jun 2024 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : " I guess half remembered opening theory is better than none, at least under certain circumstances. Facing a Goring Gambit in a very recent game, I remembered a recommendation from George Botterill where Black plays Bb4, follows up with d6 and then takes on c3 with the bishop at the correct moment. So far so good, but I could not remember what happens next. Fortunately my opponent chose a line that Botterill did not recommend, although I then chose a response that wasn't good either. But the long and the short of it was that I seemed to have the better of the opening, my opponent sacrificed material for play, and after3 hours, I managed to grind out a win in a R+B+N v Q position (I had the bi",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/half-remembered-opening-theory.html",
+         "pubDate" : "Tue, 04 Jun 2024 13:13:00",
+         "title" : "Half remembered opening theory"
+      },
+      {
          "description" : "An exciting round in Stavanger saw Hikaru Nakamura beating Magnus Carlsen on time in the Armageddon decider to close the gap to the world number one in the standings - Naka now stands a half point behind Carlsen in sole second place. R Praggnanandhaa and Alireza Firouzja also prevailed in Armageddon, against Ding Liren and Fabiano Caruana, respectively. | Photo: Stev Bonhage / Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-stuns-world-champion-ding-liren-at-norway-chess-tournament/articleshow/110683308.cms",
          "pubDate" : "Tue, 04 Jun 2024 00:11:12",
          "title" : "Pragg stuns World Champion Ding Liren at Norway Chess"
-      },
-      {
-         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
-         "pubDate" : "Mon, 03 Jun 2024 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "The 2024 FIDE World Junior Chess Championship has commenced at Radisson GIFT City in Gujarat, India, featuring almost 230 players from 44 countries. The open",
