@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "An exciting round in Stavanger saw Hikaru Nakamura beating Magnus Carlsen on time in the Armageddon decider to close the gap to the world number one in the standings - Naka now stands a half point behind Carlsen in sole second place. R Praggnanandhaa and Alireza Firouzja also prevailed in Armageddon, against Ding Liren and Fabiano Caruana, respectively. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-7",
+         "pubDate" : "Tue, 04 Jun 2024 11:40:00",
+         "title" : "Norway Chess: Nakamura beats Carlsen in thrilling Armageddon"
+      },
+      {
+         "description" : "The position shown is taken from a game in the current Dubai Open. White has just captured on d7 with his king, and is playing to win. Black has seven move, all with his king. Only one allows him to hold a draw. Can you tell where the black king must go? Let international trainer Efstratios Grivas explain it all to you and help you understand exactly how this kind of endgame works. You can also register for the interactive training program of the Grivas Chess International Academy, starting June 2024.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-distant-opposition",
+         "pubDate" : "Tue, 04 Jun 2024 11:34:53",
+         "title" : "The Distant Opposition"
+      },
+      {
+         "description" : "There are fewer than 6 weeks to go until ChessFest 2024, CSC's annual chess extravaganza in Trafalgar Square, London. On Sunday 7th July 2024, 11am-6pm,...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/chessfest-is-back-sunday-july-7th-2024/",
+         "pubDate" : "Tue, 04 Jun 2024 08:30:50",
+         "title" : "ChessFest is back - Sunday July 7th 2024"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110683308.cms\" />R Praggnanandhaa continued his streak of upsets by defeating World Champion Ding Liren in the armageddon game at the Norway Chess tournament on Monday. This victory followed Praggnanandhaa's impressive wins against higher-ranked players like Magnus Carlsen and Fabiano Caruana, solidifying his reputation as a formidable young talent in the chess world.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1000,22 +1024,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/05/may-1974-1999-on-cover.html",
          "pubDate" : "Tue, 14 May 2024 15:59:00",
          "title" : "May 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "ECU E-Magazine April 2024 is out! In this edition of the ECU Magazine you may read about: The April 2024 edition of the ECU E-Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-april-2024/",
-         "pubDate" : "Tue, 14 May 2024 08:21:40",
-         "title" : "ECU E-Magazine April 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110108697.cms\" />Grandmaster Erigaisi Arjun, ranked seventh globally, headlines India's formidable presence as the top seed in the Sharjah Masters Chess tournament with a USD 52,000 prize pool. Arjun's participation follows his recent success in Warsaw. Despite stiff competition, including nine players with Elo ratings over 2700, Arjun holds a 29-point lead over the second seed, Parham Maghsoodloo of Iran.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/erigaisi-arjun-to-lead-indian-contingent-as-top-seed-in-sharjah-masters-chess-tournament/articleshow/110108697.cms",
-         "pubDate" : "Tue, 14 May 2024 07:32:57",
-         "title" : "Erigaisi to lead Indian contingent as top seed in Sharjah Masters"
       }
    ]
 }
