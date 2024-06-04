@@ -10,20 +10,20 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
+         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
+         "pubDate" : "Tue, 04 Jun 2024 14:00:42",
+         "title" : "English Championship Series 2024 - drawing near!"
+      },
+      {
          "description" : " I guess half remembered opening theory is better than none, at least under certain circumstances. Facing a Goring Gambit in a very recent game, I remembered a recommendation from George Botterill where Black plays Bb4, follows up with d6 and then takes on c3 with the bishop at the correct moment. So far so good, but I could not remember what happens next. Fortunately my opponent chose a line that Botterill did not recommend, although I then chose a response that wasn't good either. But the long and the short of it was that I seemed to have the better of the opening, my opponent sacrificed material for play, and after3 hours, I managed to grind out a win in a R+B+N v Q position (I had the bi",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/06/half-remembered-opening-theory.html",
          "pubDate" : "Tue, 04 Jun 2024 13:13:00",
          "title" : "Half remembered opening theory"
-      },
-      {
-         "description" : "An exciting round in Stavanger saw Hikaru Nakamura beating Magnus Carlsen on time in the Armageddon decider to close the gap to the world number one in the standings - Naka now stands a half point behind Carlsen in sole second place. R Praggnanandhaa and Alireza Firouzja also prevailed in Armageddon, against Ding Liren and Fabiano Caruana, respectively. | Photo: Stev Bonhage / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-7",
-         "pubDate" : "Tue, 04 Jun 2024 11:40:00",
-         "title" : "Norway Chess: Nakamura beats Carlsen in thrilling Armageddon"
       },
       {
          "description" : "The position shown is taken from a game in the current Dubai Open. White has just captured on d7 with his king, and is playing to win. Black has seven move, all with his king. Only one allows him to hold a draw. Can you tell where the black king must go? Let international trainer Efstratios Grivas explain it all to you and help you understand exactly how this kind of endgame works. You can also register for the interactive training program of the Grivas Chess International Academy, starting June 2024.",
@@ -930,14 +930,6 @@ news_feed (
          "title" : "Entry form now open for 2024 British Chess Championships"
       },
       {
-         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
-         "pubDate" : "Fri, 17 May 2024 07:50:42",
-         "title" : "English Championship Series 2024"
-      },
-      {
          "description" : " England over-50s edged out Italy and Hungary on tie-break, while England over-65s shone at the European senior championships in Slovenia England seniors won triple European gold on Wednesday as the generation that was second only to the USSR in the 1980s and 1990s continued to show its enduring strength. The nine-day tournament at Terme Catez, Slovenia, included 21 over-50 teams and 30 over-65s. England's all-grandmaster over-50 squad of John Emms, Glenn Flear, Keith Arkell, Nigel Davies and ­Stuart Conquest recovered well from a loss to Montenegro in round two, ­winning their next five matches before a defeat by Hungary in the ­penultimate round. <a href=\"https://www.theguardian.com/sport/",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -960,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3026",
          "pubDate" : "Thu, 16 May 2024 13:15:09",
          "title" : "Guinness World Records Attempt: Registration of tournaments open"
-      },
-      {
-         "description" : "Upgrading to the new server is now complete for the main ECF website, ancillary websites and ECF email thank you all for your patience.",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/website-planned-outage/",
-         "pubDate" : "Thu, 16 May 2024 11:00:03",
-         "title" : "Website - migration update"
       },
       {
          "description" : "The European Senior Team Chess Championship 2024 concluded yesterday in Terme Catez, Slovenia, with England's teams winning three golds in two age categories: 50+ and 65+. Heading into the last round in the 50+ section, three teams had the same score of match points to tie for the top: England 1, Hungary and Italy. The co-leaders won their last-round matches to maintain the leading position, and the tiebreak criteria determined the Winner and the medalists. England 1 defeated England 2 []",
@@ -1024,14 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3023",
          "pubDate" : "Tue, 14 May 2024 21:36:51",
          "title" : "8th YCCC: Inspiring the next generation of chess composers"
-      },
-      {
-         "description" : "Last month's post about American chess magazines of 50 and 25 years ago, <A HREF=\"https://chessforallages.blogspot.com/2024/04/april-1974-1999-on-cover.html\">April 1974 & 1999 'On the Cover'</A> (April 2024), was all about American chess. This month we're reminded that there are always important chess events happening in the rest of the world. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oe14.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'Maurice Ashley - Our Newest Grandmaster' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Anatoly Karpov (left) and Tigran Petrosian, winners of their quarterfinal candidates matches. See [inside] for S",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/05/may-1974-1999-on-cover.html",
-         "pubDate" : "Tue, 14 May 2024 15:59:00",
-         "title" : "May 1974 & 1999 'On the Cover'"
       }
    ]
 }
