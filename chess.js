@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Yearbook 2024 hard copy version is now available to order while stocks last - &pound;9.99 for members, &pound;11.99 for non-members! You can find the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2024/",
+         "pubDate" : "Wed, 05 Jun 2024 14:15:59",
+         "title" : "ECF Yearbook 2024"
+      },
+      {
+         "description" : "Submissions are now open for this year's ECF Awards.&#160;The closing date for nominations will be 14th July 2024. Details for this year's ECF Awards are...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2024-ecf-awards-submissions-are-now-open/",
+         "pubDate" : "Wed, 05 Jun 2024 13:29:37",
+         "title" : "2024 ECF Awards - submissions are now open"
+      },
+      {
          "description" : "Faustino Oro is breaking records left, right and centre. In 2023, the 10-year-old Argentinian, who was born on 14 October 2013, became the youngest player ever to break the 2300 Elo mark at the age of 9. He also achieved his first IM norm earlier than anyone else and now, after another IM norm at the Continental Americas Championship 2024, he has a good chance of becoming the youngest IM of all time. | Photo: Faustino Oro at the Sunway Sitges Tournament 2023 | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,44 @@ news_feed (
          "title" : "Faustino Oro on his way to becoming the youngest IM of all time"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3054",
+         "pubDate" : "Wed, 05 Jun 2024 12:45:12",
+         "title" : "Shakeup in FIDE Circuit 2024 leaderboard as Erigaisi leads"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3053",
+         "pubDate" : "Wed, 05 Jun 2024 12:20:49",
+         "title" : "Chess for Freedom Conference 2024: Program and registration links"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist, Nagesh Havanur, takes a look at our latest issue, CBM 219. 217 games from the Prague Chess Festival and the American Cup 2024, 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Nodirbek Abdusattorov, R Praggnanandhaa and David Navara, among others. The icing on the cake is a special feature on Fabiano Caruana with 26 annotated games. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cbm-219-review-nagesh-havanur",
          "pubDate" : "Wed, 05 Jun 2024 09:09:13",
          "title" : "CBM 219: Abdusattorov shines"
+      },
+      {
+         "description" : "GMs Alexey Sarana and Oleksandr Bortnyk scored 10 points each in the early and late Titled Tuesdays of June 4, respectively, earning Sarana his second victory of the year and Bortnyk his first. Neither required tiebreaks, both winning outright. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-bortnyk-win-titled-tuesday-june-4-2024",
+         "pubDate" : "Wed, 05 Jun 2024 07:54:22",
+         "title" : "Titled '10s Day' As Sarana, Bortnyk Win Outright"
+      },
+      {
+         "description" : "After an intense 61-hour blitz marathon, Norwegian chess enthusiasts Askild Bryn and CM Odin Blikra Vea have shattered the GUINNESS WORLD RECORDS&#38;trade; record for the Longest Chess Marathon. In a stunning display of endurance and mental fortitu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/norwegian-duo-surpasses-61-hours-smashes-guinness-record-longest-chess-marathon",
+         "pubDate" : "Wed, 05 Jun 2024 07:08:34",
+         "title" : "Norwegian Duo Surpass 61 Hours, Smash Record For Longest Chess Marathon"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110716903.cms\" />World number one Magnus Carlsen extended his lead by defeating R Praggnanandhaa in an armageddon showdown at Norway Chess 2024. Carlsen avenged his earlier classical game loss to the Indian prodigy. The tournament saw intense battles, with notable performances from Hikaru Nakamura, Ding Liren, Ju Wenjun, Lei Tingjie, and R Vaishali.",
@@ -722,14 +770,6 @@ news_feed (
          "title" : "2024 ACT Championship begins tomorrow"
       },
       {
-         "description" : "Kansas City Chiefs&#39; safety Justin Reid was crowned the winner of BlitzChamps III after sweeping Cardinals&#39; quarterback Kyler Murray 2-0 in the Grand Final of an eight-player double-elimination bracket on Wednesday. Outplaying BlitzChamps I winner ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-blitzchamps-3-justin-reid-wins",
-         "pubDate" : "Wed, 22 May 2024 17:00:00",
-         "title" : "Reid Emerges As NFL's Top Chess Player"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110340866.cms\" />Grandmaster Erigaisi Arjun settled for a draw against Alexey Sarana, while Aravindh Chithambaram suffered a second consecutive loss, dimming Indian prospects at the Sharjah Masters chess tournament. With Bardiya Daneshvar, Sam Shankland, and Volodar Mulzin leading on six points, Arjun stands fourth with 5.5 points. However, his tie-break may hinder a podium finish even if he wins the final round.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -760,14 +800,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/congratulations-ia-alex-holowczak-tap-chair-of-the-fide-chess-olympiad-2024/",
          "pubDate" : "Wed, 22 May 2024 12:37:12",
          "title" : "Congratulations IA Alex Holowczak, Technical Administration Panel Chair of the FIDE Chess Olympiad 2024!"
-      },
-      {
-         "description" : "The strong Sharjah Masters in the UAE finished today in a four-way tie for first place among, in order of tiebreak, GMs Bardiya Daneshvar, Volodar Murzin, Sam Shankland, and Shamsiddin Vokhidov. With two of them being only 17 years old, it showcas...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sharjah-masters-2024-winners-daneshvar-murzin-shankland-vokhidov",
-         "pubDate" : "Wed, 22 May 2024 12:27:00",
-         "title" : "New Power Generation Shows Itself At Sharjah Masters"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110336311.cms\" />R Praggnanandhaa, a rising star in Indian chess, is confident as he prepares to face Magnus Carlsen at the upcoming Norway Chess tournament, commencing on May 27. The young Grandmaster has emerged victorious against the reigning world champion on multiple occasions in recent years. Most recently, Praggnanandhaa triumphed over the 33-year-old Norwegian at the Superbet rapid and blitz tournament, which was part of the Grand Chess Tour held in Warsaw earlier this month.",
