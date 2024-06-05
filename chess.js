@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist, Nagesh Havanur, takes a look at our latest issue, CBM 219. 217 games from the Prague Chess Festival and the American Cup 2024, 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Nodirbek Abdusattorov, R Praggnanandhaa and David Navara, among others. The icing on the cake is a special feature on Fabiano Caruana with 26 annotated games. | Photo: ChessBase India",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-219-review-nagesh-havanur",
+         "pubDate" : "Wed, 05 Jun 2024 09:09:13",
+         "title" : "CBM 219: Abdusattorov shines"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110716903.cms\" />World number one Magnus Carlsen extended his lead by defeating R Praggnanandhaa in an armageddon showdown at Norway Chess 2024. Carlsen avenged his earlier classical game loss to the Indian prodigy. The tournament saw intense battles, with notable performances from Hikaru Nakamura, Ding Liren, Ju Wenjun, Lei Tingjie, and R Vaishali.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
