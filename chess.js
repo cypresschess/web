@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is a passionate game. There have been studies which have demonstrated that in dramatic positions with chances on both sides the adrenalin levels and the pulse rates of the players involved can rise to heights experienced by paragliders, extreme mountaineers or deep sea divers. Hence, it is not surprising that some people actually have died at the chess board when the setting became extremely stressful and prolonged.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-dangerous-it-chess",
+         "pubDate" : "Wed, 05 Jun 2024 19:00:00",
+         "title" : "How dangerous is chess?"
+      },
+      {
          "description" : "The Yearbook 2024 hard copy version is now available to order while stocks last - &pound;9.99 for members, &pound;11.99 for non-members! You can find the...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -72,14 +80,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-suffers-defeat-to-world-no-1-magnus-carlsen-at-norway-chess-tournament/articleshow/110716903.cms",
          "pubDate" : "Wed, 05 Jun 2024 00:25:58",
          "title" : "Pragg suffers defeat to world no. 1 Carlsen at Norway Chess"
-      },
-      {
-         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
-         "pubDate" : "Tue, 04 Jun 2024 16:45:00",
-         "title" : "Norway Chess - Live!"
       },
       {
          "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships has...",
@@ -1032,22 +1032,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2024",
          "pubDate" : "Wed, 15 May 2024 21:04:00",
          "title" : "Chess.com Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3025",
-         "pubDate" : "Wed, 15 May 2024 19:04:08",
-         "title" : "FIDE International Chess Day Art Contest announced"
-      },
-      {
-         "description" : " Nearly a month has passed since the HBCU Chess Classic ended in Atlanta, Georgia. Held April 20th and 21st, it was the second edition of an important movement for chess at &#8220;HBCUs&#8221; or Historically-Black Colleges &#38; Universities. Certainly, getting chess on more HBCU campuses may help students see the intrinsic value in the game, but The post <a href=\"https://www.thechessdrum.net/blog/2024/05/15/reflections-on-the-2024-hbcu-chess-classic/\">Reflections on the 2024 HBCU Chess Classic</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/05/15/reflections-on-the-2024-hbcu-chess-classic/",
-         "pubDate" : "Wed, 15 May 2024 17:44:40",
-         "title" : "Reflections on the 2024 HBCU Chess Classic"
       }
    ]
 }
