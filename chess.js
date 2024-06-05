@@ -18,6 +18,14 @@ news_feed (
          "title" : "ECF Yearbook 2024"
       },
       {
+         "description" : "The first game of the 2024 NBA Finals is on Thursday, and we&#39;re celebrating the ultimate basketball showdown with chess. Two of the biggest stars in the Finals have Chess.com bots and we&#39;re offering a limited-time only bot challenge starting on&#38;nb...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nba-finals-bot-showdown-jaylen-brown-luka-doncic",
+         "pubDate" : "Wed, 05 Jun 2024 13:44:41",
+         "title" : "MVP Jaylen Brown, Luka Donči&#263 Bots Go Head-To-Head During NBA Finals"
+      },
+      {
          "description" : "Submissions are now open for this year's ECF Awards.&#160;The closing date for nominations will be 14th July 2024. Details for this year's ECF Awards are...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-at-guwahati-assam-on-21-22-june-2024/",
          "pubDate" : "Thu, 16 May 2024 08:40:55",
          "title" : "SNA Seminar & Exam at Guwahati Assam on 21-22 June 2024"
-      },
-      {
-         "description" : " The Chess.com Classic which is part of the Champions Chess Tour took place Fri 10th to Wed 15th May 2024 on Chess.com. The format is Double Elimination Knockout. Carlsen, Ivic, Lazavik, Nepomniachtchi, Firouzja, Duda, Keymer and Sarana play for the title in Division 1. There were two further divisions which had qualification places for the division above. Alireza Firouzja overcame a loss to Jan-Krzysztof Duda in the first round to progress through the losers half and then beat Magnus Carlsen twice in a row in the Grand Final and its reset to take the title.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/chess.com-classic-2024",
-         "pubDate" : "Wed, 15 May 2024 21:04:00",
-         "title" : "Chess.com Classic 2024 - Games and Results"
       }
    ]
 }
