@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Faustino Oro is breaking records left, right and centre. In 2023, the 10-year-old Argentinian, who was born on 14 October 2013, became the youngest player ever to break the 2300 Elo mark at the age of 9. He also achieved his first IM norm earlier than anyone else and now, after another IM norm at the Continental Americas Championship 2024, he has a good chance of becoming the youngest IM of all time. | Photo: Faustino Oro at the Sunway Sitges Tournament 2023 | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/faustino-oro-on-his-way-to-becoming-the-youngest-im-of-all-time",
+         "pubDate" : "Wed, 05 Jun 2024 13:21:01",
+         "title" : "Faustino Oro on his way to becoming the youngest IM of all time"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist, Nagesh Havanur, takes a look at our latest issue, CBM 219. 217 games from the Prague Chess Festival and the American Cup 2024, 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Nodirbek Abdusattorov, R Praggnanandhaa and David Navara, among others. The icing on the cake is a special feature on Fabiano Caruana with 26 annotated games. | Photo: ChessBase India",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +34,12 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships will...",
+         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships has...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
          "pubDate" : "Tue, 04 Jun 2024 14:00:42",
-         "title" : "English Championship Series 2024 - drawing near!"
+         "title" : "English and English Women's Championships - drawing near!"
       },
       {
          "description" : "World number-one Magnus Carlsen extended his Norway Chess 2024 lead to a full point after beating GM Praggnanandhaa Rameshbabu in armageddon. For most of the day it had looked as though GM Hikaru Nakamura would defeat GM Alireza Firouzja in classi...",
