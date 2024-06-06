@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The UzChess Cup takes place in Tashkent, Uzbekistan Thu 6th Jun 2024Fri 14th Jun 2024. There are three round robin event. The Masters: Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Parham Maghsoodloo, Santosh Gujrathi Vidit, Alexander Grischuk, Richard Rapport, Yangyi Yu, Alexey Sarana, Javokhir Sindarov, Nodirbek Yakubboev. Challengers: Aleksandar Indjic, Jakhongir Vakhidov, Abhijeet Gupta, Maxim Matlakov, Alexander Donchenko, Shamsiddin Vokhidov, Alexandr Predke, Evgeny Romanov, Mustafa Yilmaz, Aydin Suleymanli. and Futures: Bardiya Daneshvar, Mukhammadzokhid Suyarov, Sergei Tiviakov, Vitaliy Bernadskiy, Vitaly Sivuk, Vugar Rasulov, Khumoyun Begmuratov, Saidakbar Saydaliev, Mukhiddin Mada",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/uzchess-cup-2024",
+         "pubDate" : "Thu, 6 Jun 2024 23:19:00",
+         "title" : "UzChess Cup 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3055",
+         "pubDate" : "Thu, 06 Jun 2024 22:53:28",
+         "title" : "Nepal Championship 2024: Rajan Subedi and Sindira Joshi claim titles"
+      },
+      {
+         "description" : " The 61st World Juniors and 40th World Junior Girls take place 1st to 14th June 2024 in GIFT City in Gandhinagar.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/61st-world-juniors-2024",
+         "pubDate" : "Thu, 6 Jun 2024 22:29:00",
+         "title" : "61st World Juniors 2024 - Games and Results"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110775371.cms\" />Woman Grandmaster Divya Deshmukh delivered a decisive victory over Narmi Abdinova of Azerbaijan to become the sole leader with 4.5 points at the World Juniors Girls' Chess Championship in Gandhinagar on Thursday. Deshmukh's win was a carefully crafted affair, taking down the overnight leader Abdinova. Opting for an English opening, Divya may have surprised Abdinova, who then tried to assert control early. This strategy resulted in a compromised pawn structure on the queen side for Abdinova, who still hoped to capitalize on some tactical complicatio",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open.html",
          "pubDate" : "Thu, 06 Jun 2024 14:09:00",
          "title" : "2024 NSW Open"
+      },
+      {
+         "description" : "World Champion Ding Liren finally had something to celebrate after beating GM Hikaru Nakamura in armageddon. That was good news for world number-one Magnus Carlsen, who extended his Norway Chess 2024 lead to 1.5 points before the final round after...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-9",
+         "pubDate" : "Thu, 06 Jun 2024 13:12:00",
+         "title" : "Ding Lands Blow Against Nakamura As Carlsen Increases His Lead"
       },
       {
          "description" : "15-year-old Banh Gia Huy is only a FIDE Master with a rating of 2384 but already has two IM-norms and is the sensational winner of the Vietnam Championship. Huy will therefore be a member of the Vietnam team at the 45th Budapest Olympiad in September this year, joining the likes of GMs Le Quang Liem, Nguyen Ngoc Truong Son, and Tran Tuan Minh. Peter Long knows more about this exceptional talent. | Photos: Peter Long",
@@ -768,14 +800,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/could-taimanov-have-beaten-fischer",
          "pubDate" : "Fri, 24 May 2024 19:00:00",
          "title" : "Could Taimanov have beaten Fischer?"
-      },
-      {
-         "description" : "GMs Vladimir Fedoseev, David Paravyan, Sam Sevian, and Christopher Yoo fought through the Play-Ins to advance to the main event of the Bullet Chess Championship 2024. In the first Play-In, Paravyan defeated Sevian in the Winners Final. Yet, Sevi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-play-in-1-2",
-         "pubDate" : "Fri, 24 May 2024 17:50:00",
-         "title" : "Fedoseev, Paravyan, Sevian, Yoo Qualify for Bullet Chess Championship Main Event"
       },
       {
          "description" : " The 2024 ACT Chess Championship has started with a large field of 56 players. As an open event it does have a significant 'tail' but the top end of the event still has a number of strong players. IM Junta Ikeda and FM Michael Kethro are the two favoured local players, with Reyansh Chakrabarty (NSW) checking in as number 2 seed. The first round went according to seeding, with one exception. Tim Pearce dropped an exchange to local junior Louis Chen, who then methodically reduce material until Pearce was left in a lost king and pawn ending. Paul Dunn held out the longest against a stronger opponent, until walking into a game ending tactic against CM Lalit Prasad. You can see the tournament res",
