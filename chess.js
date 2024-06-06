@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
+         "pubDate" : "Thu, 06 Jun 2024 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "Three wonderful features are presented in the game, which Chris Ward has chosen for us. Interestingly, he found a game, in which \"The ChessNerd\" streamer Max Weidenhoefer lost against the Sicilian. In this particular game, a variation of the Dragadorf is used, in which the King stays in the centre for quite some time. And that can be excellent, at times! Chris explains it all in the video. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-castling-on-move-19",
+         "pubDate" : "Thu, 06 Jun 2024 14:33:00",
+         "title" : "The Monthly Dragon - Castling on move 19!"
+      },
+      {
+         "description" : " The 2024 NSW Open is being held across this coming long weekend (All hail King Charles). It looks like here will be around 180 players across the Open and Under 1600 section. This is an increase over last year, due in part to a new venue. The old Russian Club could only accommodate 150 players (at a very tight squeeze) while the new venue (Novatel at Rooty Hill) has a lot more room. The other change is extending the schedule to 4 days, meaning Sunday only has 2 rounds, rather than 3 as in previous years. If you want to check out the results you can follow the tournament at <a href=\"https://www.vegaresult.com/event/2551\">https://www.vegaresult.com/event/2551</a> Other cool stuff like a lnk t",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open.html",
+         "pubDate" : "Thu, 06 Jun 2024 14:09:00",
+         "title" : "2024 NSW Open"
+      },
+      {
          "description" : "15-year-old Banh Gia Huy is only a FIDE Master with a rating of 2384 but already has two IM-norms and is the sensational winner of the Vietnam Championship. Huy will therefore be a member of the Vietnam team at the 45th Budapest Olympiad in September this year, joining the likes of GMs Le Quang Liem, Nguyen Ngoc Truong Son, and Tran Tuan Minh. Peter Long knows more about this exceptional talent. | Photos: Peter Long",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/andrew-martin-how-to-play-the-open-sicilian",
          "pubDate" : "Thu, 06 Jun 2024 09:07:01",
          "title" : "Andrew Martin: How to play the Open Sicilian"
+      },
+      {
+         "description" : "A player was caught red-handed at the Chicago Open 2024, using a phone to win chess games over the board. Unlike other offline cheating cases, the player didn&#39;t use a device outside the playing hall; instead, he used his phone in his lap, right at...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-player-caught-cheating-in-chicago-open",
+         "pubDate" : "Thu, 06 Jun 2024 06:34:04",
+         "title" : "Player Caught Cheating Over-The-Board At Chicago Open 2024"
       },
       {
          "description" : "Dear Participants and Stakeholders, Please be informed that due to unavoidable circumstances, The National Women Chess Championship 2024, which was scheduled to be held in",
@@ -754,14 +786,6 @@ news_feed (
          "title" : "English Seniors Championship starts today"
       },
       {
-         "description" : "When it comes to chess, are you a Mad Scientist or a Professor? An Artist or a Technician? You can now learn more about your chess self with our new Chess Personality page! Visit Chess Personality Chess Personality will pose 20 quick and fun q...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-personality",
-         "pubDate" : "Fri, 24 May 2024 09:15:00",
-         "title" : "Take Chess.com's New Personality Quiz And Find Out Which Chess Legend You Are"
-      },
-      {
          "description" : " The world No 1 identified most of the six positions from previous world championships and exploited Vishy Anand's unfamiliarity with a classic from Havana 1889 The innovative Casablanca variant, where today's best players tested their skills on historic games from the past, sparked some surprise results on its debut in Morocco last weekend. The event had four participants, each representing a continent: the world No 1, Magnus Carlsen (Europe), the former world champion Vishy Anand (Asia), the world No 3, Hikaru Nakamura (America), and Egypt's top grandmaster, Bassim Amin (Africa). Four positions were chosen by experts, two by the audience. Carlsen is well versed in chess history, and correc",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -1032,14 +1056,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/chess-in-primary-education-professional-growth/",
          "pubDate" : "Thu, 16 May 2024 15:42:19",
          "title" : "Chess in Primary Education - Professional Growth"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3026",
-         "pubDate" : "Thu, 16 May 2024 13:15:09",
-         "title" : "Guinness World Records Attempt: Registration of tournaments open"
       }
    ]
 }
