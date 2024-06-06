@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110775371.cms\" />Woman Grandmaster Divya Deshmukh delivered a decisive victory over Narmi Abdinova of Azerbaijan to become the sole leader with 4.5 points at the World Juniors Girls' Chess Championship in Gandhinagar on Thursday. Deshmukh's win was a carefully crafted affair, taking down the overnight leader Abdinova. Opting for an English opening, Divya may have surprised Abdinova, who then tried to assert control early. This strategy resulted in a compromised pawn structure on the queen side for Abdinova, who still hoped to capitalize on some tactical complicatio",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-rises-to-joint-lead-in-world-junior-chess-championship/articleshow/110775371.cms",
+         "pubDate" : "Thu, 06 Jun 2024 17:55:53",
+         "title" : "Divya Deshmukh rises to joint lead in World Junior Chess C'ship"
+      },
+      {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1048,14 +1056,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/may/17/chess-england-seniors-score-triple-european-gold-and-eye-world-titles",
          "pubDate" : "Fri, 17 May 2024 07:00:33",
          "title" : "Chess: England seniors score triple European gold and eye world titles"
-      },
-      {
-         "description" : "With the initiative and efforts of the European Chess Union (ECU), the European Parliament published a Declaration on 15 March 2012 on the introduction of...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chess-in-primary-education-professional-growth/",
-         "pubDate" : "Thu, 16 May 2024 15:42:19",
-         "title" : "Chess in Primary Education - Professional Growth"
       }
    ]
 }
