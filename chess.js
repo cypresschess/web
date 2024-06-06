@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "15-year-old Banh Gia Huy is only a FIDE Master with a rating of 2384 but already has two IM-norms and is the sensational winner of the Vietnam Championship. Huy will therefore be a member of the Vietnam team at the 45th Budapest Olympiad in September this year, joining the likes of GMs Le Quang Liem, Nguyen Ngoc Truong Son, and Tran Tuan Minh. Peter Long knows more about this exceptional talent. | Photos: Peter Long",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vietnam-s-15-year-old-national-champion-banh-gia-huy",
+         "pubDate" : "Thu, 06 Jun 2024 12:00:00",
+         "title" : "Vietnam's 15-year-old National Champion - Banh Gia Huy"
+      },
+      {
          "description" : "The Sicilian Defence is one of the most popular and sharpest replies to 1.e4. After 1.e4 c5, an exciting, unbalanced position is assured, where Black can play for a win from the very start of the game. The Open Sicilian describes all variations where White plays an early d2-d4.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3026",
          "pubDate" : "Thu, 16 May 2024 13:15:09",
          "title" : "Guinness World Records Attempt: Registration of tournaments open"
-      },
-      {
-         "description" : "The European Senior Team Chess Championship 2024 concluded yesterday in Terme Catez, Slovenia, with England's teams winning three golds in two age categories: 50+ and 65+. Heading into the last round in the 50+ section, three teams had the same score of match points to tie for the top: England 1, Hungary and Italy. The co-leaders won their last-round matches to maintain the leading position, and the tiebreak criteria determined the Winner and the medalists. England 1 defeated England 2 []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/england-wins-triple-gold-at-the-european-senior-team-chess-championship-2024/",
-         "pubDate" : "Thu, 16 May 2024 10:45:11",
-         "title" : "England wins triple gold at the European Senior Team Chess Championship 2024"
       }
    ]
 }
