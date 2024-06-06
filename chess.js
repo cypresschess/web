@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Sicilian Defence is one of the most popular and sharpest replies to 1.e4. After 1.e4 c5, an exciting, unbalanced position is assured, where Black can play for a win from the very start of the game. The Open Sicilian describes all variations where White plays an early d2-d4.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/andrew-martin-how-to-play-the-open-sicilian",
+         "pubDate" : "Thu, 06 Jun 2024 09:07:01",
+         "title" : "Andrew Martin: How to play the Open Sicilian"
+      },
+      {
+         "description" : "Dear Participants and Stakeholders, Please be informed that due to unavoidable circumstances, The National Women Chess Championship 2024, which was scheduled to be held in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/national-women-chess-championship-2024/",
+         "pubDate" : "Thu, 06 Jun 2024 05:59:08",
+         "title" : "National Women Chess Championship 2024"
+      },
+      {
          "description" : "It is a passionate game. There have been studies which have demonstrated that in dramatic positions with chances on both sides the adrenalin levels and the pulse rates of the players involved can rise to heights experienced by paragliders, extreme mountaineers or deep sea divers. Hence, it is not surprising that some people actually have died at the chess board when the setting became extremely stressful and prolonged.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -78,7 +94,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/norwegian-duo-surpasses-61-hours-smashes-guinness-record-longest-chess-marathon",
-         "pubDate" : "Wed, 05 Jun 2024 07:08:34",
+         "pubDate" : "Wed, 05 Jun 2024 07:08:00",
          "title" : "Norwegian Duo Surpass 61 Hours, Smash Record For Longest Chess Marathon"
       },
       {
@@ -1024,14 +1040,6 @@ news_feed (
          "link" : "https://www.europechess.org/england-wins-triple-gold-at-the-european-senior-team-chess-championship-2024/",
          "pubDate" : "Thu, 16 May 2024 10:45:11",
          "title" : "England wins triple gold at the European Senior Team Chess Championship 2024"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, All Assam Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 21 to 22 June",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-exam-at-guwahati-assam-on-21-22-june-2024/",
-         "pubDate" : "Thu, 16 May 2024 08:40:55",
-         "title" : "SNA Seminar & Exam at Guwahati Assam on 21-22 June 2024"
       }
    ]
 }
