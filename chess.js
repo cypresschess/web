@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3056",
+         "pubDate" : "Fri, 07 Jun 2024 22:08:56",
+         "title" : "FIDE Ethics Commission releases first instance decision on Case 11/2023"
+      },
+      {
          "description" : " According to press reports, Warren Seymour passed away Tuesday morning, and the country now mourns his loss. If anyone can be called the &#8220;father&#8221; of Bahamaian chess, it would be Mr. Seymour. He is widely known in the country as one who single-handedly put chess on the map. Mr. Seymour brought the game of Chess The post <a href=\"https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/\">Warren Seymour, legend of Bahamian chess, dies</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/news/top-female-chess-players-compete-cairns-cup-saint-louis",
          "pubDate" : "Fri, 07 Jun 2024 13:52:38",
          "title" : "Top Female Chess Players to Compete in Cairns Cup in Saint Louis"
+      },
+      {
+         "description" : "World number-one Magnus Carlsen has won his sixth Norway Chess&#38;nbsp;title after beating GM Fabiano Caruana in armageddon while GM Hikaru Nakamura was held to an incredibly tense classical draw by GM Praggnanandhaa Rameshbabu. The young Indian gran...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-10",
+         "pubDate" : "Fri, 07 Jun 2024 13:16:00",
+         "title" : "Carlsen, Ju Wenjun Win Norway Chess Titles"
       },
       {
          "description" : "Bodhana Sivanandan is another name on the list of super talents, which you should keep in the back of your head. The 9-year-old girl, playing for England, beat WIM Mariam Mkrtchyan from Armenia. Roughly 300 Elo points, and 10 years of age, separated the two players. Robert Ris shows us how this happened.",
@@ -746,14 +762,6 @@ news_feed (
          "title" : "Norway Chess 2024: 7 Talking Points"
       },
       {
-         "description" : "GM Hikaru Nakamura has reaffirmed his status as the king of Bullet Brawl after going 74 games without a single loss during Saturday&#39;s arena. With 70 wins, four draws, no losses, and 269 points to his name, Nakamura was the deserving winner of the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-may-25-2024",
-         "pubDate" : "Sat, 25 May 2024 15:59:00",
-         "title" : "Nakamura Is Bullet Brawl GOAT After 74-Game Undefeated Run"
-      },
-      {
          "description" : " The 2nd day of the 2024 ACT Championship saw the top seeds having a much tougher time of it, than on the first day. Both IM Junta Ikeda and FM Michael Kethro had to convert drawn rook and pawn endings into wins, while 2nd see Reyaansh Chakrabarty blundered into a mate against Ian Hosking after 16 moves. The Round 3 game between Oladoyin Fasakin and Ikeda saw the evaluation needle swing back and forth, including a missed mate in 2 for Oladoyin when both players were in time trouble. Eventually Ikeda was able to pose enough problems and a misplaced rook spelled the end for Fasakin. It was a similar story in the Kethro Vos game where an over pressing Kethro gave Vos a brief chance to win mater",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://www.thearticle.com/memory-power-and-chess/",
          "pubDate" : "Sat, 18 May 2024 07:41:27",
          "title" : "Memory power and chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3028",
-         "pubDate" : "Fri, 17 May 2024 21:44:26",
-         "title" : "Morocco Chess Week kicks off in Casablanca"
       }
    ]
 }
