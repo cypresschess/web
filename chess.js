@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " According to press reports, Warren Seymour passed away Tuesday morning, and the country now mourns his loss. If anyone can be called the &#8220;father&#8221; of Bahamaian chess, it would be Mr. Seymour. He is widely known in the country as one who single-handedly put chess on the map. Mr. Seymour brought the game of Chess The post <a href=\"https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/\">Warren Seymour, legend of Bahamian chess, dies</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/",
+         "pubDate" : "Fri, 07 Jun 2024 18:07:32",
+         "title" : "Warren Seymour, legend of Bahamian chess, dies"
+      },
+      {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -72,6 +80,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3055",
          "pubDate" : "Thu, 06 Jun 2024 22:53:28",
          "title" : "Nepal Championship 2024: Rajan Subedi and Sindira Joshi claim titles"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3046",
+         "pubDate" : "Thu, 06 Jun 2024 22:45:13",
+         "title" : "FIDE announces finalists for 2024 World Corporate Chess Championship"
       },
       {
          "description" : " The 61st World Juniors and 40th World Junior Girls take place 1st to 14th June 2024 in GIFT City in Gandhinagar.",
@@ -448,14 +464,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/may/31/chess-magnus-carlsen-loses-on-home-ground-in-norway-to-18-year-old-indian",
          "pubDate" : "Thu, 30 May 2024 23:00:22",
          "title" : "Chess: Magnus Carlsen loses on home turf in Norway to 18-year-old Indian"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3046",
-         "pubDate" : "Thu, 30 May 2024 22:45:13",
-         "title" : "FIDE announces finalists for 2024 World Corporate Chess Championship"
       },
       {
          "description" : " If you are looking for some easy practice, then Youtube might have the answer. I'm not talking about instructional videos, but a fairly easy chess engine you can play through their website. Under the new heading of 'Playables' Youtube have added a whole pile of web based games. One of the games is 'Chess Classic' While it isn't very good (at least the lower levels) it does provide a quick way to play some casual online chess. As for the practice bit, if you are just learning chess, then beating easy chess engines is one way top get better. It helps you sharpen your basic tactics without getting crushed later in the game. As per an earlier recommendation, start at the easiest level and play ",
