@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
+         "pubDate" : "Fri, 07 Jun 2024 16:45:00",
+         "title" : "Norway Chess - Live!"
+      },
+      {
+         "description" : "There are many interesting repertoire suggestions in the Opening Encyclopaedia. You'll have to try them out for yourself to see if they suit you! The best way to do this is to play against Fritz19 using the \"Play against database book\" function, i.e. you can load databases, games for opening articles and opening analyses directly as an opening book and play against them. Fritz 19 not only displays the very informative articles of the encyclopaedia, with Fritz you can explore the repertoire suggestions in a playful way, against different types of players! See for yourself how you can test Robert Ris' recommendation for the Max Lange Attack in the Two Knights with just a few mouse clicks using",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/practical-opening-training-test-recommendations-from-the-opening-encyclopaedia-with-fritz19",
+         "pubDate" : "Fri, 07 Jun 2024 15:42:29",
+         "title" : "Practical opening training: Test recommendations from the Opening Encyclopaedia with Fritz 19!"
+      },
+      {
+         "description" : "Lei Tingjie scored a crucial classical win in round 9 of the Norway Chess Women event, as she defeated R Vaishali with white to remain in contention for tournament victory. Lei is now tied for second place with Anna Muzychuk, 1&frac12; points behind sole leader Ju Wenjun. Ju and Lei are set to face each other in Friday's final round. Meanwhile, Muzychuk will play white against Humpy Koneru. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-women-9",
+         "pubDate" : "Fri, 07 Jun 2024 14:40:00",
+         "title" : "Norway Chess Women: Lei scores, remains in contention"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <title>Top Female Chess Players to Compete in Cairns Cup in Saint Louis</title> <p style=\"text-align: center; font-size: 20px;\"><em>Saint Louis Chess Club to host elite international players in tournament that offers one of the largest chess prize funds for women</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2024%20Cairns%20Cup%20Club%20Slideshow%20Banner%20475.jpg?itok=3s",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/news/top-female-chess-players-compete-cairns-cup-saint-louis",
+         "pubDate" : "Fri, 07 Jun 2024 13:52:38",
+         "title" : "Top Female Chess Players to Compete in Cairns Cup in Saint Louis"
+      },
+      {
          "description" : "Bodhana Sivanandan is another name on the list of super talents, which you should keep in the back of your head. The 9-year-old girl, playing for England, beat WIM Mariam Mkrtchyan from Armenia. Roughly 300 Elo points, and 10 years of age, separated the two players. Robert Ris shows us how this happened.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +42,7 @@ news_feed (
          "title" : "9-Year-old girl wins against WIM Mariam Mkyrtchyan - The Underdog"
       },
       {
-         "description" : " The Argentine prodigy already has two international master norms and looks set to break more records while England's pre-teen talents are also making eye-catching progress Faustino Oro, just 10 years old, is already known as \"the Messi of chess\". The Argentine boy burst on to the record books in 2023 when he became the youngest ever 2200-rated master level player at nine years, three months, followed by passing the 2300 mark just three months later. Oro's surge is continuing apace. Last week, at the Continental American Championship at Medellin, Colombia, he secured the second of three norms needed for the International Master (IM) title by reaching the required total of 6.5/9. The event wa",
+         "description" : " Argentinian prodigy already has two international master norms and looks set to break more records while England's pre-teen talents are also making eye-catching progress Faustino Oro, just 10 years old, is already known as \"the Messi of chess\". The Argentinian boy burst on to the record books in 2023 when he became the youngest ever 2200-rated master level player at nine years, three months, followed by passing the 2300 mark just three months later. Oro's surge is continuing apace. Last week, at the Continental American Championship at Medellin, Colombia, he secured the second of three norms needed for the International Master (IM) title by reaching the required total of 6.5/9. The event wa",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/jun/07/faustino-oro-aged-10-and-known-as-the-messi-of-chess-advances-again",
@@ -58,14 +90,6 @@ news_feed (
          "title" : "Divya Deshmukh rises to joint lead in World Junior Chess C'ship"
       },
       {
-         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
-         "pubDate" : "Thu, 06 Jun 2024 16:45:00",
-         "title" : "Norway Chess - Live!"
-      },
-      {
          "description" : " The 2024 NSW Open is being held across this coming long weekend (All hail King Charles). It looks like here will be around 180 players across the Open and Under 1600 section. This is an increase over last year, due in part to a new venue. The old Russian Club could only accommodate 150 players (at a very tight squeeze) while the new venue (Novatel at Rooty Hill) has a lot more room. The other change is extending the schedule to 4 days, meaning Sunday only has 2 rounds, rather than 3 as in previous years. If you want to check out the results you can follow the tournament at <a href=\"https://www.vegaresult.com/event/2551\">https://www.vegaresult.com/event/2551</a> Other cool stuff like a lnk t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -74,7 +98,7 @@ news_feed (
          "title" : "2024 NSW Open"
       },
       {
-         "description" : "World Champion Ding Liren finally had something to celebrate after beating GM Hikaru Nakamura in armageddon. That was good news for world number-one Magnus Carlsen, who extended his Norway Chess 2024 lead to 1.5 points before the final round after...",
+         "description" : "World Champion Ding Liren finally has something to celebrate after beating GM Hikaru Nakamura in armageddon. That is good news for world number-one Magnus Carlsen, who extended his Norway Chess 2024 lead to 1.5 points before the final round after ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-9",
@@ -1000,14 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3028",
          "pubDate" : "Fri, 17 May 2024 21:44:26",
          "title" : "Morocco Chess Week kicks off in Casablanca"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3027",
-         "pubDate" : "Fri, 17 May 2024 13:59:54",
-         "title" : "Freedom Holding Corp. to Be Title Sponsor of Landmark Chess Event in New York City"
       }
    ]
 }
