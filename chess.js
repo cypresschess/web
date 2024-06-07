@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bodhana Sivanandan is another name on the list of super talents, which you should keep in the back of your head. The 9-year-old girl, playing for England, beat WIM Mariam Mkrtchyan from Armenia. Roughly 300 Elo points, and 10 years of age, separated the two players. Robert Ris shows us how this happened.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/9-year-old-girl-wins-against-mkyrtchyan-the-underdog",
+         "pubDate" : "Fri, 07 Jun 2024 10:35:43",
+         "title" : "9-Year-old girl wins against WIM Mariam Mkyrtchyan - The Underdog"
+      },
+      {
          "description" : " The Argentine prodigy already has two international master norms and looks set to break more records while England's pre-teen talents are also making eye-catching progress Faustino Oro, just 10 years old, is already known as \"the Messi of chess\". The Argentine boy burst on to the record books in 2023 when he became the youngest ever 2200-rated master level player at nine years, three months, followed by passing the 2300 mark just three months later. Oro's surge is continuing apace. Last week, at the Continental American Championship at Medellin, Colombia, he secured the second of three norms needed for the International Master (IM) title by reaching the required total of 6.5/9. The event wa",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3051",
          "pubDate" : "Fri, 07 Jun 2024 05:36:49",
          "title" : "Refugee Team ready to compete on the global stage at Chess Olympiad"
-      },
-      {
-         "description" : "Magnus Carlsen, Ding Liren and Fabiano Caruana all won their round-9 encounters in Armageddon at the Norway Chess super-tournament in Stavanger. Carlsen, who defeated Alireza Firouzja, now leads Hikaru Nakamura (who lost to Ding) by 1&frac12; points. In Friday's final round, Carlsen will face Caruana with white, while Nakamura will play black against R Praggnanandhaa, who still has an outside chance of winning the event. | Photo: Stev Bonhage / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-9",
-         "pubDate" : "Fri, 07 Jun 2024 02:45:00",
-         "title" : "Norway Chess: Ding beats Nakamura, helps Carlsen extend his lead"
       },
       {
          "description" : " The UzChess Cup takes place in Tashkent, Uzbekistan Thu 6th Jun 2024Fri 14th Jun 2024. There are three round robin event. The Masters: Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Parham Maghsoodloo, Santosh Gujrathi Vidit, Alexander Grischuk, Richard Rapport, Yangyi Yu, Alexey Sarana, Javokhir Sindarov, Nodirbek Yakubboev. Challengers: Aleksandar Indjic, Jakhongir Vakhidov, Abhijeet Gupta, Maxim Matlakov, Alexander Donchenko, Shamsiddin Vokhidov, Alexandr Predke, Evgeny Romanov, Mustafa Yilmaz, Aydin Suleymanli. and Futures: Bardiya Daneshvar, Mukhammadzokhid Suyarov, Sergei Tiviakov, Vitaliy Bernadskiy, Vitaly Sivuk, Vugar Rasulov, Khumoyun Begmuratov, Saidakbar Saydaliev, Mukhiddin Mada",
@@ -66,14 +66,6 @@ news_feed (
          "title" : "Norway Chess - Live!"
       },
       {
-         "description" : "Three wonderful features are presented in the game, which Chris Ward has chosen for us. Interestingly, he found a game, in which \"The ChessNerd\" streamer Max Weidenhoefer lost against the Sicilian. In this particular game, a variation of the Dragadorf is used, in which the King stays in the centre for quite some time. And that can be excellent, at times! Chris explains it all in the video. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-castling-on-move-19",
-         "pubDate" : "Thu, 06 Jun 2024 14:33:00",
-         "title" : "The Monthly Dragon - Castling on move 19!"
-      },
-      {
          "description" : " The 2024 NSW Open is being held across this coming long weekend (All hail King Charles). It looks like here will be around 180 players across the Open and Under 1600 section. This is an increase over last year, due in part to a new venue. The old Russian Club could only accommodate 150 players (at a very tight squeeze) while the new venue (Novatel at Rooty Hill) has a lot more room. The other change is extending the schedule to 4 days, meaning Sunday only has 2 rounds, rather than 3 as in previous years. If you want to check out the results you can follow the tournament at <a href=\"https://www.vegaresult.com/event/2551\">https://www.vegaresult.com/event/2551</a> Other cool stuff like a lnk t",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -88,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-9",
          "pubDate" : "Thu, 06 Jun 2024 13:12:00",
          "title" : "Ding Lands Blow Against Nakamura As Carlsen Increases His Lead"
-      },
-      {
-         "description" : "The Sicilian Defence is one of the most popular and sharpest replies to 1.e4. After 1.e4 c5, an exciting, unbalanced position is assured, where Black can play for a win from the very start of the game. The Open Sicilian describes all variations where White plays an early d2-d4.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/andrew-martin-how-to-play-the-open-sicilian",
-         "pubDate" : "Thu, 06 Jun 2024 09:07:01",
-         "title" : "Andrew Martin: How to play the Open Sicilian"
       },
       {
          "description" : "A player was caught red-handed at the Chicago Open 2024, using a phone to win chess games over the board. Unlike other offline cheating cases, the player didn&#39;t use a device outside the playing hall; instead, he used his phone in his lap, right at...",
@@ -208,14 +192,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/06/half-remembered-opening-theory.html",
          "pubDate" : "Tue, 04 Jun 2024 13:13:00",
          "title" : "Half remembered opening theory"
-      },
-      {
-         "description" : "The position shown is taken from a game in the current Dubai Open. White has just captured on d7 with his king, and is playing to win. Black has seven move, all with his king. Only one allows him to hold a draw. Can you tell where the black king must go? Let international trainer Efstratios Grivas explain it all to you and help you understand exactly how this kind of endgame works. You can also register for the interactive training program of the Grivas Chess International Academy, starting June 2024.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-distant-opposition",
-         "pubDate" : "Tue, 04 Jun 2024 11:34:53",
-         "title" : "The Distant Opposition"
       },
       {
          "description" : "There are fewer than 6 weeks to go until ChessFest 2024, CSC's annual chess extravaganza in Trafalgar Square, London. On Sunday 7th July 2024, 11am-6pm,...",
@@ -1032,38 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3027",
          "pubDate" : "Fri, 17 May 2024 13:59:54",
          "title" : "Freedom Holding Corp. to Be Title Sponsor of Landmark Chess Event in New York City"
-      },
-      {
-         "description" : " It is with great sadness that I report the passing of Milan Ninchich. Milan was an active player on the Canberra chess scene for over 30 years, having moved here from Perth after taking a government job in the nation's capital. On arrival he became an active member of the Belconnen Chess Club, participating in numerous club and weekend events. A player who enjoyed attacking chess, he proved to be a challenging opponent, and the games he produce (win or lose) were always enjoyable to play through. I played him at least 20 times (not counting offhand games) going back to the early 1990's. It was one of our early games that was the most memorable, as it was a game that I still consider <a href",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/milan-ninchich-1957-2024.html",
-         "pubDate" : "Fri, 17 May 2024 11:30:00",
-         "title" : "Milan Ninchich (1957 - 2024)"
-      },
-      {
-         "description" : "The 22nd edition of the European Union Youth Chess Championship U8-U14 will take place from 4th-13th August 2024 in Rožnov pod Radhoštěm, Czech Republic. The event is organized by the Czech Chess Federation under the auspices of the European Chess Union. The Championship is open for citizens of a member state of the European Union or of a Schengen state. Each federation can register one player, a boy or a girl, in each of the categories: U8, U10, U12, U14, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-union-youth-u8-u14-chess-championship-2024-official-regulations/",
-         "pubDate" : "Fri, 17 May 2024 08:22:53",
-         "title" : "European Union Youth U8-U14 Chess Championship 2024 - Official regulations"
-      },
-      {
-         "description" : "England's seniors dominated the European Senior Team Chess Championships at Terme Catez, Slovenia, winning three team golds in the Open 50+ and 65+ as well...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/estcc-triple-champions/",
-         "pubDate" : "Fri, 17 May 2024 08:00:52",
-         "title" : "ESTCC Triple Champions!"
-      },
-      {
-         "description" : "The 2024 British Chess Chess Championships will be held in Hull at the City Hall and the nearby DoubleTree by Hilton, with events running from...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
-         "pubDate" : "Fri, 17 May 2024 07:55:44",
-         "title" : "Entry form now open for 2024 British Chess Championships"
       }
    ]
 }
