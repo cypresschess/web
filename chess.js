@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen, Ding Liren and Fabiano Caruana all won their round-9 encounters in Armageddon at the Norway Chess super-tournament in Stavanger. Carlsen, who defeated Alireza Firouzja, now leads Hikaru Nakamura (who lost to Ding) by 1&frac12; points. In Friday's final round, Carlsen will face Caruana with white, while Nakamura will play black against R Praggnanandhaa, who still has an outside chance of winning the event. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-9",
+         "pubDate" : "Fri, 07 Jun 2024 02:45:00",
+         "title" : "Norway Chess: Ding beats Nakamura, helps Carlsen extend his lead"
+      },
+      {
          "description" : " The UzChess Cup takes place in Tashkent, Uzbekistan Thu 6th Jun 2024Fri 14th Jun 2024. There are three round robin event. The Masters: Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Parham Maghsoodloo, Santosh Gujrathi Vidit, Alexander Grischuk, Richard Rapport, Yangyi Yu, Alexey Sarana, Javokhir Sindarov, Nodirbek Yakubboev. Challengers: Aleksandar Indjic, Jakhongir Vakhidov, Abhijeet Gupta, Maxim Matlakov, Alexander Donchenko, Shamsiddin Vokhidov, Alexandr Predke, Evgeny Romanov, Mustafa Yilmaz, Aydin Suleymanli. and Futures: Bardiya Daneshvar, Mukhammadzokhid Suyarov, Sergei Tiviakov, Vitaliy Bernadskiy, Vitaly Sivuk, Vugar Rasulov, Khumoyun Begmuratov, Saidakbar Saydaliev, Mukhiddin Mada",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -66,14 +74,6 @@ news_feed (
          "title" : "Ding Lands Blow Against Nakamura As Carlsen Increases His Lead"
       },
       {
-         "description" : "15-year-old Banh Gia Huy is only a FIDE Master with a rating of 2384 but already has two IM-norms and is the sensational winner of the Vietnam Championship. Huy will therefore be a member of the Vietnam team at the 45th Budapest Olympiad in September this year, joining the likes of GMs Le Quang Liem, Nguyen Ngoc Truong Son, and Tran Tuan Minh. Peter Long knows more about this exceptional talent. | Photos: Peter Long",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vietnam-s-15-year-old-national-champion-banh-gia-huy",
-         "pubDate" : "Thu, 06 Jun 2024 12:00:00",
-         "title" : "Vietnam's 15-year-old National Champion - Banh Gia Huy"
-      },
-      {
          "description" : "The Sicilian Defence is one of the most popular and sharpest replies to 1.e4. After 1.e4 c5, an exciting, unbalanced position is assured, where Black can play for a win from the very start of the game. The Open Sicilian describes all variations where White plays an early d2-d4.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -130,14 +130,6 @@ news_feed (
          "title" : "2024 ECF Awards - submissions are now open"
       },
       {
-         "description" : "Faustino Oro is breaking records left, right and centre. In 2023, the 10-year-old Argentinian, who was born on 14 October 2013, became the youngest player ever to break the 2300 Elo mark at the age of 9. He also achieved his first IM norm earlier than anyone else and now, after another IM norm at the Continental Americas Championship 2024, he has a good chance of becoming the youngest IM of all time. | Photo: Faustino Oro at the Sunway Sitges Tournament 2023 | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/faustino-oro-on-his-way-to-becoming-the-youngest-im-of-all-time",
-         "pubDate" : "Wed, 05 Jun 2024 13:21:01",
-         "title" : "Faustino Oro on his way to becoming the youngest IM of all time"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -152,14 +144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3053",
          "pubDate" : "Wed, 05 Jun 2024 12:20:49",
          "title" : "Chess for Freedom Conference 2024: Program and registration links"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist, Nagesh Havanur, takes a look at our latest issue, CBM 219. 217 games from the Prague Chess Festival and the American Cup 2024, 12 opening surveys, 3 opening videos, 6 demo lectures and several exercises for training. Annotators include Nodirbek Abdusattorov, R Praggnanandhaa and David Navara, among others. The icing on the cake is a special feature on Fabiano Caruana with 26 annotated games. | Photo: ChessBase India",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-219-review-nagesh-havanur",
-         "pubDate" : "Wed, 05 Jun 2024 09:09:13",
-         "title" : "CBM 219: Abdusattorov shines"
       },
       {
          "description" : "GMs Alexey Sarana and Oleksandr Bortnyk scored 10 points each in the early and late Titled Tuesdays of June 4, respectively, earning Sarana his second victory of the year and Bortnyk his first. Neither required tiebreaks, both winning outright. ...",
@@ -256,14 +240,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-7",
          "pubDate" : "Mon, 03 Jun 2024 12:59:00",
          "title" : "Nakamura Beats Carlsen On Time To Close Gap, Muzychuk Takes Sole Lead"
-      },
-      {
-         "description" : "The FIDE has published its new world ranking list as of 1 June. There are hardly any changes at the top of the list. Magnus Carlsen (open) and Hou Yifan (women) continue to occupy the top positions. However, a number of prominent players lost a lot of points and thus also dropped down the rankings in the most recent open tournaments in Dubai and Sharjah. The name Karjakin is no longer on the list - apparently due to inactivity.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-june-2024",
-         "pubDate" : "Mon, 03 Jun 2024 12:17:35",
-         "title" : "FIDE ratings - June 2024"
       },
       {
          "description" : "You&#38;rsquo;ve played fun, new monthly Chess.com bots for years. Now it&#38;rsquo;s time for you to play the first chess robot ever built, The Mechanical Turk!&#38;nbsp; Created in 1770, The Mechanical Turk was a chess playing automaton that toured around...",
