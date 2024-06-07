@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Argentine prodigy already has two international master norms and looks set to break more records while England's pre-teen talents are also making eye-catching progress Faustino Oro, just 10 years old, is already known as \"the Messi of chess\". The Argentine boy burst on to the record books in 2023 when he became the youngest ever 2200-rated master level player at nine years, three months, followed by passing the 2300 mark just three months later. Oro's surge is continuing apace. Last week, at the Continental American Championship at Medellin, Colombia, he secured the second of three norms needed for the International Master (IM) title by reaching the required total of 6.5/9. The event wa",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/jun/07/faustino-oro-aged-10-and-known-as-the-messi-of-chess-advances-again",
+         "pubDate" : "Fri, 07 Jun 2024 07:00:44",
+         "title" : "Faustino Oro, aged 10 and known as 'the Messi of chess', advances again"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3051",
+         "pubDate" : "Fri, 07 Jun 2024 05:36:49",
+         "title" : "Refugee Team ready to compete on the global stage at Chess Olympiad"
+      },
+      {
          "description" : "Magnus Carlsen, Ding Liren and Fabiano Caruana all won their round-9 encounters in Armageddon at the Norway Chess super-tournament in Stavanger. Carlsen, who defeated Alireza Firouzja, now leads Hikaru Nakamura (who lost to Ding) by 1&frac12; points. In Friday's final round, Carlsen will face Caruana with white, while Nakamura will play black against R Praggnanandhaa, who still has an outside chance of winning the event. | Photo: Stev Bonhage / Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1048,14 +1064,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/entry-form-now-open-for-2024-british-chess-championships/",
          "pubDate" : "Fri, 17 May 2024 07:55:44",
          "title" : "Entry form now open for 2024 British Chess Championships"
-      },
-      {
-         "description" : " England over-50s edged out Italy and Hungary on tie-break, while England over-65s shone at the European senior championships in Slovenia England seniors won triple European gold on Wednesday as the generation that was second only to the USSR in the 1980s and 1990s continued to show its enduring strength. The nine-day tournament at Terme Catez, Slovenia, included 21 over-50 teams and 30 over-65s. England's all-grandmaster over-50 squad of John Emms, Glenn Flear, Keith Arkell, Nigel Davies and ­Stuart Conquest recovered well from a loss to Montenegro in round two, ­winning their next five matches before a defeat by Hungary in the ­penultimate round. <a href=\"https://www.theguardian.com/sport/",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/may/17/chess-england-seniors-score-triple-european-gold-and-eye-world-titles",
-         "pubDate" : "Fri, 17 May 2024 07:00:33",
-         "title" : "Chess: England seniors score triple European gold and eye world titles"
       }
    ]
 }
