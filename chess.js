@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Nigeria is hosting a &#8220;Battle of the Ages&#8221; between global chess activist Tunde Onakoya and teen phenom Deborah Quickpen. Onakoya recently entered the Guinness Book of World Records by playing chess for 60 hours in Times Square. While setting a mark for the records, Onakoya is most known for promoting chess in Nigeria's slums. He The post <a href=\"https://www.thechessdrum.net/blog/2024/06/07/nigerian-chess-action-battle-of-the-ages/\">Nigerian Chess Action, &#8220;Battle of the Ages&#8221;</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/06/07/nigerian-chess-action-battle-of-the-ages/",
+         "pubDate" : "Sat, 08 Jun 2024 01:05:25",
+         "title" : "Nigerian Chess Action, \"Battle of the Ages\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3057",
+         "pubDate" : "Fri, 07 Jun 2024 23:49:57",
+         "title" : "World Junior Championship 2024 crosses halfway mark"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/",
          "pubDate" : "Fri, 07 Jun 2024 18:07:32",
          "title" : "Warren Seymour, legend of Bahamian chess, dies"
+      },
+      {
+         "description" : "FM Banh Gia Huy has booked his spot at the 2024 FIDE Chess Olympiad for team Vietnam after winning the country&#39;s national championship in March. Huy has since crossed the 2400 FIDE rating threshold, leaving him one norm shy of the coveted IM title...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/banh-gia-huy-wins-vietnam-championship",
+         "pubDate" : "Fri, 07 Jun 2024 17:27:00",
+         "title" : "15-Year-Old Chessable Author Huy Wins Vietnam Chess Championship"
       },
       {
          "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
@@ -50,7 +74,7 @@ news_feed (
          "title" : "Top Female Chess Players to Compete in Cairns Cup in Saint Louis"
       },
       {
-         "description" : "World number-one Magnus Carlsen has won his sixth Norway Chess&#38;nbsp;title after beating GM Fabiano Caruana in armageddon while GM Hikaru Nakamura was held to an incredibly tense classical draw by GM Praggnanandhaa Rameshbabu. The young Indian gran...",
+         "description" : "World number-one Magnus Carlsen has won his sixth Norway Chess&#38;nbsp;title after beating GM Fabiano Caruana in armageddon while GM Hikaru Nakamura was held to an incredibly tense classical draw by GM Praggnanandhaa Rameshbabu. The young Indian won ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-10",
@@ -93,17 +117,17 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3055",
-         "pubDate" : "Thu, 06 Jun 2024 22:53:28",
-         "title" : "Nepal Championship 2024: Rajan Subedi and Sindira Joshi claim titles"
+         "link" : "https://www.fide.com/news/3046",
+         "pubDate" : "Thu, 06 Jun 2024 22:57:13",
+         "title" : "FIDE announces finalists for 2024 World Corporate Chess Championship"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3046",
-         "pubDate" : "Thu, 06 Jun 2024 22:45:13",
-         "title" : "FIDE announces finalists for 2024 World Corporate Chess Championship"
+         "link" : "https://www.fide.com/news/3055",
+         "pubDate" : "Thu, 06 Jun 2024 22:53:28",
+         "title" : "Nepal Championship 2024: Rajan Subedi and Sindira Joshi claim titles"
       },
       {
          "description" : " The 61st World Juniors and 40th World Junior Girls take place 1st to 14th June 2024 in GIFT City in Gandhinagar.",
@@ -752,14 +776,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championships-day-3.html",
          "pubDate" : "Sun, 26 May 2024 13:54:00",
          "title" : "2024 ACT Championships - Day 3"
-      },
-      {
-         "description" : "World Champion Ding Liren will play his first classical game against former champion Magnus Carlsen as the new-look 2024 Norway Chess starts on Monday in Stavanger. Defending champion GM Hikaru Nakamura and 2023 runner-up GM Fabiano Caruana also c...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-preview",
-         "pubDate" : "Sun, 26 May 2024 12:23:00",
-         "title" : "Norway Chess 2024: 7 Talking Points"
       },
       {
          "description" : " The 2nd day of the 2024 ACT Championship saw the top seeds having a much tougher time of it, than on the first day. Both IM Junta Ikeda and FM Michael Kethro had to convert drawn rook and pawn endings into wins, while 2nd see Reyaansh Chakrabarty blundered into a mate against Ian Hosking after 16 moves. The Round 3 game between Oladoyin Fasakin and Ikeda saw the evaluation needle swing back and forth, including a missed mate in 2 for Oladoyin when both players were in time trouble. Eventually Ikeda was able to pose enough problems and a misplaced rook spelled the end for Fasakin. It was a similar story in the Kethro Vos game where an over pressing Kethro gave Vos a brief chance to win mater",
