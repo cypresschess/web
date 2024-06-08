@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "European School Chess Championship 2024 concluded yesterday in Limerick, Ireland. The event gathered nearly 200 players coming from 18 European federations, who competed in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Turkish players achieved a historical result, winning all 12 golds in all categories, and a total of 28 medals (12 gold, 8 silver and 8 bronze)! Omer Taha Dede (TUR) triumphed in the U7 section scoring perfect 7/7 points. David-Christian Talaba []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/turkey-wins-12-golds-at-the-european-school-chess-championship-2024/",
+         "pubDate" : "Sat, 08 Jun 2024 15:24:43",
+         "title" : "Turkey wins 12 golds at the European School Chess Championship 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3058",
+         "pubDate" : "Sat, 08 Jun 2024 12:52:05",
+         "title" : "Magnus Carlsen and Ju Wenjun winners at Norway Chess tournaments"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110818221.cms\" />Indian Grandmaster R Praggnanandhaa finished third at the Norway Chess tournament as Magnus Carlsen emerged victorious in Stavanger.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-praggnanandhaa-beats-nakamura-carlsen-wins-title/articleshow/110818221.cms",
          "pubDate" : "Sat, 08 Jun 2024 09:45:03",
          "title" : "Norway Chess: Praggnanandhaa beats Nakamura; Carlsen wins title"
+      },
+      {
+         "description" : "The FIDE Ethics and Disciplinary Commission has punished the Chess Federation of Russia with a two-year conditional ban and reprimanded FIDE President Arkady Dvorkovich, in both cases for violations related to Russia&#39;s invasion of and continued ag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-federation-russia-2-year-ban-dvorkovich-reprimanded-fide-ethics-commission",
+         "pubDate" : "Sat, 08 Jun 2024 07:12:23",
+         "title" : "Conditional Ban For Russian Federation; Dvorkovich Reprimanded By Ethics Commission"
       },
       {
          "description" : " The 2024 NSW Open started with a new innovation, a Friday night round! As a result the event is now held over 4 days, with a slightly easier schedule for players, with 2 rounds on Saturday, Sunday and Monday. The new tournament venue (Novatel @ Rooty Hill) has seen a record turnout of 176 players across two sections (Open 96, Minor 80). There was some concern that the Friday night round might result in increased bye requests for that round, but the number of byes on Friday, matched the number of byes that were requested for the previous Sunday night round. As for the tournament, 15 players have started with 2/2. Most of the top seeds are in this group, although a first round loss by one of ",
@@ -706,14 +730,6 @@ news_feed (
          "title" : "FIDE ChessMom Initiative: Applications due May 29"
       },
       {
-         "description" : "GMs Magnus Carlsen, Hikaru Nakamura, and Praggnanandhaa Rameshbabu lead Norway Chess 2024 after armageddon wins in round one, with the much-anticipated clash between Carlsen and GM Ding Liren most notable for the Norwegian eating dinner after the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-1",
-         "pubDate" : "Mon, 27 May 2024 13:55:00",
-         "title" : "Carlsen, Nakamura, Praggnanandhaa Lead After Armageddon Wins"
-      },
-      {
          "description" : " IM Junta Ikeda has won his 11th ACT Championship, repeating his 7/7 score he also achieved in last years tournament. His round 6 game against FM Michael Kethro left him a point in front with 1 round to play, but a win over NSW junior Reyaansh Chakrabarty in round 7 kept his 100% record intact. 2nd place was shared between FM Michael Kethro, CM Lalit Prasad, and ACT junior, Masaki Horikawa, on 5.5. Horikawa started the tournament seeded 20th, so his 2nd place finish was quite an achievement. Oladoyan Fasakin and Somon Vos shared the Under 2000 prize, while the Under 1600 prize was shared between Simon Louie, Jerry Cheng, Lohit Hegde, Aarav Rawat and Olamide Fasakin. Padma Gyalpo was the best",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1024,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3029",
          "pubDate" : "Sat, 18 May 2024 21:11:06",
          "title" : "Casablanca Chess: Carlsen takes the lead on Day 1"
-      },
-      {
-         "description" : "Imagine facing a saber-tooth tiger that hasn't eaten in days. Your body goes into fight-or-flight mode. Your heart begins to race. And you follow your primal instincts. Miraculously, you can run way quicker than you ever did before, and without thinking much, you somehow get into safety. You can't explain how and why, but you []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/chess-anxiety/",
-         "pubDate" : "Sat, 18 May 2024 13:17:00",
-         "title" : "How To Overcome Chess Anxiety"
       }
    ]
 }
