@@ -26,14 +26,6 @@ news_feed (
          "title" : "Norway Chess: Praggnanandhaa beats Nakamura; Carlsen wins title"
       },
       {
-         "description" : "The FIDE Ethics and Disciplinary Commission has punished the Chess Federation of Russia with a two-year conditional ban and reprimanded FIDE President Arkady Dvorkovich, in both cases for violations related to Russia&#39;s invasion of and continued ag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-federation-russia-2-year-ban-dvorkovich-reprimanded-fide-ethics-commission",
-         "pubDate" : "Sat, 08 Jun 2024 07:12:23",
-         "title" : "Conditional Ban For Russian Federation; Dvorkovich Reprimanded By Ethics Commission"
-      },
-      {
          "description" : " The 2024 NSW Open started with a new innovation, a Friday night round! As a result the event is now held over 4 days, with a slightly easier schedule for players, with 2 rounds on Saturday, Sunday and Monday. The new tournament venue (Novatel @ Rooty Hill) has seen a record turnout of 176 players across two sections (Open 96, Minor 80). There was some concern that the Friday night round might result in increased bye requests for that round, but the number of byes on Friday, matched the number of byes that were requested for the previous Sunday night round. As for the tournament, 15 players have started with 2/2. Most of the top seeds are in this group, although a first round loss by one of ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -104,6 +96,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-10",
          "pubDate" : "Fri, 07 Jun 2024 13:16:00",
          "title" : "Carlsen, Ju Wenjun Win Norway Chess Titles"
+      },
+      {
+         "description" : "The FIDE Ethics and Disciplinary Commission has punished the Chess Federation of Russia with a two-year conditional ban and reprimanded FIDE President Arkady Dvorkovich, in both cases for violations related to Russia&#39;s invasion of and continued ag...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-federation-russia-2-year-ban-dvorkovich-reprimanded-fide-ethics-commission",
+         "pubDate" : "Fri, 07 Jun 2024 09:47:00",
+         "title" : "Conditional Ban For Russian Federation; Dvorkovich Reprimanded By Ethics Commission"
       },
       {
          "description" : " Argentinian prodigy already has two international master norms and looks set to break more records while England's pre-teen talents are also making eye-catching progress Faustino Oro, just 10 years old, is already known as \"the Messi of chess\". The Argentinian boy burst on to the record books in 2023 when he became the youngest ever 2200-rated master level player at nine years, three months, followed by passing the 2300 mark just three months later. Oro's surge is continuing apace. Last week, at the Continental American Championship at Medellin, Colombia, he secured the second of three norms needed for the International Master (IM) title by reaching the required total of 6.5/9. The event wa",
