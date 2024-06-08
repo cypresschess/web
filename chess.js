@@ -2,7 +2,15 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Nigeria is hosting a &#8220;Battle of the Ages&#8221; between global chess activist Tunde Onakoya and teen phenom Deborah Quickpen. Onakoya recently entered the Guinness Book of World Records by playing chess for 60 hours in Times Square. While setting a mark for the records, Onakoya is most known for promoting chess in Nigeria's slums. He The post <a href=\"https://www.thechessdrum.net/blog/2024/06/07/nigerian-chess-action-battle-of-the-ages/\">Nigerian Chess Action, &#8220;Battle of the Ages&#8221;</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The 2024 NSW Open started with a new innovation, a Friday night round! As a result the event is now held over 4 days, with a slightly easier schedule for players, with 2 rounds on Saturday, Sunday and Monday. The new tournament venue (Novatel @ Rooty Hill) has seen a record turnout of 176 players across two sections (Open 96, Minor 80). There was some concern that the Friday night round might result in increased bye requests for that round, but the number of byes on Friday, matched the number of byes that were requested for the previous Sunday night round. As for the tournament, 15 players have started with 2/2. Most of the top seeds are in this group, although a first round loss by one of ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open-day-1.html",
+         "pubDate" : "Sat, 08 Jun 2024 06:21:00",
+         "title" : "2024 NSW Open - Day 1"
+      },
+      {
+         "description" : " Nigeria is hosting a &#8220;Battle of the Ages&#8221; on June 11th between global chess activist Tunde Onakoya and teen phenom Deborah Quickpen. Onakoya recently entered the Guinness Book of World Records by playing chess for 60 hours in Times Square. While setting a mark for the records, Onakoya is most known for promoting chess in The post <a href=\"https://www.thechessdrum.net/blog/2024/06/07/nigerian-chess-action-battle-of-the-ages/\">Nigerian Chess Action, &#8220;Battle of the Ages&#8221;</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/06/07/nigerian-chess-action-battle-of-the-ages/",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "FIDE Ethics Commission releases first instance decision on Case 11/2023"
       },
       {
-         "description" : " According to press reports, Warren Seymour passed away Tuesday morning, and the country now mourns his loss. If anyone can be called the &#8220;father&#8221; of Bahamaian chess, it would be Mr. Seymour. He is widely known in the country as one who single-handedly put chess on the map. Mr. Seymour brought the game of Chess The post <a href=\"https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/\">Warren Seymour, legend of Bahamian chess, dies</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " According to press reports, Bahamas chess legend Warren Seymour passed away Tuesday morning, and the country now mourns his loss. If anyone can be called the &#8220;father&#8221; of Bahamaian chess, it would be Mr. Seymour. He is widely known in the country as one who single-handedly put chess on the map. Mr. Seymour brought the The post <a href=\"https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/\">Warren Seymour, legend of Bahamian chess, dies</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/",
