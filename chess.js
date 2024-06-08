@@ -1032,14 +1032,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmaster-aravindh-chithambaram-takes-lead-in-sharjah-masters-chess-tournament/articleshow/110244176.cms",
          "pubDate" : "Sun, 19 May 2024 05:00:24",
          "title" : "Indian GM Chithambaram takes lead in Sharjah"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3029",
-         "pubDate" : "Sat, 18 May 2024 21:11:06",
-         "title" : "Casablanca Chess: Carlsen takes the lead on Day 1"
       }
    ]
 }
