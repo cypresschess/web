@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110818221.cms\" />Indian Grandmaster R Praggnanandhaa finished third at the Norway Chess tournament as Magnus Carlsen emerged victorious in Stavanger.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-praggnanandhaa-beats-nakamura-carlsen-wins-title/articleshow/110818221.cms",
+         "pubDate" : "Sat, 08 Jun 2024 09:45:03",
+         "title" : "Norway Chess: Praggnanandhaa beats Nakamura; Carlsen wins title"
+      },
+      {
          "description" : " The 2024 NSW Open started with a new innovation, a Friday night round! As a result the event is now held over 4 days, with a slightly easier schedule for players, with 2 rounds on Saturday, Sunday and Monday. The new tournament venue (Novatel @ Rooty Hill) has seen a record turnout of 176 players across two sections (Open 96, Minor 80). There was some concern that the Friday night round might result in increased bye requests for that round, but the number of byes on Friday, matched the number of byes that were requested for the previous Sunday night round. As for the tournament, 15 players have started with 2/2. Most of the top seeds are in this group, although a first round loss by one of ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -50,28 +58,12 @@ news_feed (
          "title" : "15-Year-Old Chessable Author Huy Wins Vietnam Chess Championship"
       },
       {
-         "description" : "The 12th edition of the Norway Chess super-tournament is taking place from May 27 to June 7 in Stavanger. An open event and a women's event are being played concurrently with an identical number of players, the same format and an equivalent prize fund. Both world champions - Ju Wenjun and Ding Liren - are participating, besides world number one Magnus Carlsen. | Follow the games live starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-live",
-         "pubDate" : "Fri, 07 Jun 2024 16:45:00",
-         "title" : "Norway Chess - Live!"
-      },
-      {
          "description" : "There are many interesting repertoire suggestions in the Opening Encyclopaedia. You'll have to try them out for yourself to see if they suit you! The best way to do this is to play against Fritz19 using the \"Play against database book\" function, i.e. you can load databases, games for opening articles and opening analyses directly as an opening book and play against them. Fritz 19 not only displays the very informative articles of the encyclopaedia, with Fritz you can explore the repertoire suggestions in a playful way, against different types of players! See for yourself how you can test Robert Ris' recommendation for the Max Lange Attack in the Two Knights with just a few mouse clicks using",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/practical-opening-training-test-recommendations-from-the-opening-encyclopaedia-with-fritz19",
          "pubDate" : "Fri, 07 Jun 2024 15:42:29",
          "title" : "Practical opening training: Test recommendations from the Opening Encyclopaedia with Fritz 19!"
-      },
-      {
-         "description" : "Lei Tingjie scored a crucial classical win in round 9 of the Norway Chess Women event, as she defeated R Vaishali with white to remain in contention for tournament victory. Lei is now tied for second place with Anna Muzychuk, 1&frac12; points behind sole leader Ju Wenjun. Ju and Lei are set to face each other in Friday's final round. Meanwhile, Muzychuk will play white against Humpy Koneru. | Photo: Stev Bonhage / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-women-9",
-         "pubDate" : "Fri, 07 Jun 2024 14:40:00",
-         "title" : "Norway Chess Women: Lei scores, remains in contention"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <title>Top Female Chess Players to Compete in Cairns Cup in Saint Louis</title> <p style=\"text-align: center; font-size: 20px;\"><em>Saint Louis Chess Club to host elite international players in tournament that offers one of the largest chess prize funds for women</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2024%20Cairns%20Cup%20Club%20Slideshow%20Banner%20475.jpg?itok=3s",
@@ -88,14 +80,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-10",
          "pubDate" : "Fri, 07 Jun 2024 13:16:00",
          "title" : "Carlsen, Ju Wenjun Win Norway Chess Titles"
-      },
-      {
-         "description" : "Bodhana Sivanandan is another name on the list of super talents, which you should keep in the back of your head. The 9-year-old girl, playing for England, beat WIM Mariam Mkrtchyan from Armenia. Roughly 300 Elo points, and 10 years of age, separated the two players. Robert Ris shows us how this happened.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/9-year-old-girl-wins-against-mkyrtchyan-the-underdog",
-         "pubDate" : "Fri, 07 Jun 2024 10:35:43",
-         "title" : "9-Year-old girl wins against WIM Mariam Mkyrtchyan - The Underdog"
       },
       {
          "description" : " Argentinian prodigy already has two international master norms and looks set to break more records while England's pre-teen talents are also making eye-catching progress Faustino Oro, just 10 years old, is already known as \"the Messi of chess\". The Argentinian boy burst on to the record books in 2023 when he became the youngest ever 2200-rated master level player at nine years, three months, followed by passing the 2300 mark just three months later. Oro's surge is continuing apace. Last week, at the Continental American Championship at Medellin, Colombia, he secured the second of three norms needed for the International Master (IM) title by reaching the required total of 6.5/9. The event wa",
@@ -754,7 +738,7 @@ news_feed (
          "title" : "FIDE Torch Relay arrives in Colombia to celebrate chess and unity"
       },
       {
-         "description" : " The 12th Norway Chess tournament takes place in Stavanger Mon 27th May to Fri 7th Jun 2024. Players: Carlsen, Caruana, Ding, Nakamura Praggnanandhaa and Firouzja. If any games are drawn there is an Armageddon played. This year there is also a women's tournament with the same format. Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk, Rameshbabu Vaishali and Pia Cramling play in that.",
+         "description" : " The 12th Norway Chess tournament took place in Stavanger Mon 27th May to Fri 7th Jun 2024. Players: Carlsen, Caruana, Ding, Nakamura Praggnanandhaa and Firouzja. If any games were drawn there was an Armageddon played. This year there was also a women's tournament with the same format. Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk, Rameshbabu Vaishali and Pia Cramling played in that. Magnus Carlsen won the event ahead of Hikaru Nakamura. If conventional scoring had been chosen they would have tied for first and different tie-breaks would have produced different winners (SB vs most wins say). Ju Wenjun beat rival Lei Tingjie on the final day to take clear first in the women's event. The",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/12th-norway-chess-2024",
@@ -1048,14 +1032,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/chess-anxiety/",
          "pubDate" : "Sat, 18 May 2024 13:17:00",
          "title" : "How To Overcome Chess Anxiety"
-      },
-      {
-         "description" : "To what extent is memory power important in chess? At a social level, hardly at all, but at the higher echelons of face to face competitive chess, a well-honed memory is an important asset. In particular, memory plays a vital role in three separate phases of the game, namely: memorisation of precedents in the theory []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/memory-power-and-chess/",
-         "pubDate" : "Sat, 18 May 2024 07:41:27",
-         "title" : "Memory power and chess"
       }
    ]
 }
