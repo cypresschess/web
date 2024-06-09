@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural edition of the Norway Chess Women tournament, an event featuring the same format and the same prizes as the open super-tournament, saw top seed Ju Wenjun grabbing outright victory after beating Lei Tingjie in their classical-chess confrontation. Anna Muzychuk, who beat Humpy Koneru in Armageddon, finished in sole second place. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-women-10",
+         "pubDate" : "Sun, 09 Jun 2024 09:10:00",
+         "title" : "Ju Wenjun triumphant at inaugural Norway Chess Women event"
+      },
+      {
+         "description" : "England's grandmaster grandfathers of the chessboard are back in the news. Last month the three English veterans teams won triple European gold, as that talented generation, which ranked second only to the USSR in the 1980s and 1990s, continued to demonstrate its persistent strength. The nine-day competition, held at Terme Catez, Slovenia, included 21 teams aged []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/grandfathers-of-the-chessboard/",
+         "pubDate" : "Sun, 09 Jun 2024 07:00:08",
+         "title" : "Grandfathers of the chessboard"
+      },
+      {
+         "description" : " The 2nd day of the 2024 NSW Open ended with 5 players still sharing the lead. A few quick draws in the days third round contributed to this, although a number of hard fought battles were also a factor. IM's Igor Bjelobrk and Gary Lane were held to draws by their CM opponents (Kendrick Zhang and Yifei Hu) on boards 1 and 3. IM George Xi picked up the full point against Kye Walls, as FM Michael Kethro and FM Gary McNamara. CM Reyansh Chakarabarty and FM Clive Ng were the other 2 players to reach 3/3. In the Under 1600 event, 2nd seed Steve Hemsley was joined by 2 unrated players (Edward Rust and Cory Yang) along with Lucas Lin, Kamal Jain and Arav Callan. A few strong player who stumbled earl",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open-day-2.html",
+         "pubDate" : "Sun, 09 Jun 2024 06:58:00",
+         "title" : "2024 NSW Open Day 2"
+      },
+      {
+         "description" : "Magnus Carlsen won the Norway Chess super-tournament for a sixth time in his career after beating Fabiano Caruana in their final-round Armageddon encounter. Hikaru Nakamura grabbed second place despite losing in the rapid tiebreaker against R Praggnanandhaa. It was precisely Pragg who finished third, leaving Alireza Firouzja, Fabiano Caruana and Ding Liren behind, in the bottom half of the tournament standings. | Photo: Stev Bonhage / Norway Chess",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/norway-chess-2024-10",
+         "pubDate" : "Sun, 09 Jun 2024 06:50:00",
+         "title" : "Magnus Carlsen wins sixth Norway Chess title"
+      },
+      {
          "description" : "GM Daniel Naroditsky has added another Bullet Brawl trophy to his ever-growing cabinet after winning his second straight event ahead of GMs Andrew Tang, Oleksandr Bortnyk, and 171 other titled players. Playing 76 games in two hours, Naroditsky acc...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://www.europechess.org/turkey-wins-12-golds-at-the-european-school-chess-championship-2024/",
          "pubDate" : "Sat, 08 Jun 2024 15:24:43",
          "title" : "Turkey wins 12 golds at the European School Chess Championship 2024"
+      },
+      {
+         "description" : "The Romanian Chess Federation started the Romania Grand Prix in 2022 with the objective of providing young Romanian players the chance to play in strong tournaments in their home country. The federation has made great efforts to make Romania the new European Chess Capital. The total prize fund in the entire GP 2024 is €175000, €30000 for each of the five Grand Prix events and €25000 for the Finals. | Photo: Federația Română de Șah",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-romanian-chess-federation-invites-you-to-play-at-the-romania-grand-prix-2024",
+         "pubDate" : "Sat, 08 Jun 2024 14:00:00",
+         "title" : "The Romanian Chess Federation invites you to play at the Romania Grand Prix 2024"
       },
       {
          "description" : "",
@@ -80,14 +120,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/banh-gia-huy-wins-vietnam-championship",
          "pubDate" : "Fri, 07 Jun 2024 17:27:00",
          "title" : "15-Year-Old Chessable Author Huy Wins Vietnam Chess Championship"
-      },
-      {
-         "description" : "There are many interesting repertoire suggestions in the Opening Encyclopaedia. You'll have to try them out for yourself to see if they suit you! The best way to do this is to play against Fritz19 using the \"Play against database book\" function, i.e. you can load databases, games for opening articles and opening analyses directly as an opening book and play against them. Fritz 19 not only displays the very informative articles of the encyclopaedia, with Fritz you can explore the repertoire suggestions in a playful way, against different types of players! See for yourself how you can test Robert Ris' recommendation for the Max Lange Attack in the Two Knights with just a few mouse clicks using",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/practical-opening-training-test-recommendations-from-the-opening-encyclopaedia-with-fritz19",
-         "pubDate" : "Fri, 07 Jun 2024 15:42:29",
-         "title" : "Practical opening training: Test recommendations from the Opening Encyclopaedia with Fritz 19!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> <title>Top Female Chess Players to Compete in Cairns Cup in Saint Louis</title> <p style=\"text-align: center; font-size: 20px;\"><em>Saint Louis Chess Club to host elite international players in tournament that offers one of the largest chess prize funds for women</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2024%20Cairns%20Cup%20Club%20Slideshow%20Banner%20475.jpg?itok=3s",
@@ -1016,22 +1048,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/casablanca-chess-2024",
          "pubDate" : "Sun, 19 May 2024 10:29:00",
          "title" : "Casablanca Chess 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3030",
-         "pubDate" : "Sun, 19 May 2024 06:26:32",
-         "title" : "FIDE 100 celebrations reach Morocco"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110244176.cms\" />Indian Grandmaster Aravindh Chithambaram leads the Sharjah Masters chess tournament after defeating A R Saleh Salem in the fifth round. Chithambaram, with 4.5 points, is ahead of four players with four points each. Top seed Arjun Erigaisi and Sankalp Gupta have 3.5 points. The tournament offers a USD 52,000 prize pool and has four rounds remaining.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmaster-aravindh-chithambaram-takes-lead-in-sharjah-masters-chess-tournament/articleshow/110244176.cms",
-         "pubDate" : "Sun, 19 May 2024 05:00:24",
-         "title" : "Indian GM Chithambaram takes lead in Sharjah"
       }
    ]
 }
