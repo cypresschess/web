@@ -50,14 +50,6 @@ news_feed (
          "title" : "Turkey wins 12 golds at the European School Chess Championship 2024"
       },
       {
-         "description" : "The Romanian Chess Federation started the Romania Grand Prix in 2022 with the objective of providing young Romanian players the chance to play in strong tournaments in their home country. The federation has made great efforts to make Romania the new European Chess Capital. The total prize fund in the entire GP 2024 is €175000, €30000 for each of the five Grand Prix events and €25000 for the Finals. | Photo: Federația Română de Șah",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-romanian-chess-federation-invites-you-to-play-at-the-romania-grand-prix-2024",
-         "pubDate" : "Sat, 08 Jun 2024 14:00:00",
-         "title" : "The Romanian Chess Federation invites you to play at the Romania Grand Prix 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1040,14 +1032,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/lets-start-at-start.html",
          "pubDate" : "Sun, 19 May 2024 13:56:00",
          "title" : "Let's start at the start"
-      },
-      {
-         "description" : " The Casablanca Chess tournament takes place May 18th-19th. This is part of the Morocco Chess Week. Magnus Carlsen, Hikaru Nakamura, Viswanathan Anand and Amin Bassem play a double round robin rapid. The twist is the \"players are given a position from a game that has already been played (or could also be imagined). However, this position must meet several well-defined criteria. First and foremost, the evaluation should be roughly equal (around 0.00, according to engines).\"",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/casablanca-chess-2024",
-         "pubDate" : "Sun, 19 May 2024 10:29:00",
-         "title" : "Casablanca Chess 2024 - Games and Results"
       }
    ]
 }
