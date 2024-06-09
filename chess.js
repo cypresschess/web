@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup, an elite-level female chess tournament created by the Saint Louis Chess Club, returns this June and will feature ten of the world's best female chess players. The ten-player round robin tournament will be hosted at the World Chess Hall of Fame from June 12 to 23. The top seeds are Tan Zhongyi, Mariya Muzychuk and Nana Dzagidze, while rising star Alice Lee and defending champion Anna Zatonskih (pictured) are also included in the field. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-preview",
+         "pubDate" : "Sun, 09 Jun 2024 14:00:00",
+         "title" : "The Cairns Cup starts Thursday with US and international stars"
+      },
+      {
          "description" : "The inaugural edition of the Norway Chess Women tournament, an event featuring the same format and the same prizes as the open super-tournament, saw top seed Ju Wenjun grabbing outright victory after beating Lei Tingjie in their classical-chess confrontation. Anna Muzychuk, who beat Humpy Koneru in Armageddon, finished in sole second place. | Photo: Stev Bonhage / Norway Chess",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/norway-chess-2024-women-10",
          "pubDate" : "Sun, 09 Jun 2024 09:10:00",
          "title" : "Ju Wenjun triumphant at inaugural Norway Chess Women event"
+      },
+      {
+         "description" : "GM Magnus Carlsen briefly stared into the abyss of losing his world number-one spot, but he turned things around to win his sixth Norway Chess title. GM Hikaru Nakamura returned to the 2800 club, while Women&#39;s World Champion Ju Wenjun cruised to v...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/7-things-we-learned-2024-norway-chess",
+         "pubDate" : "Sun, 09 Jun 2024 07:35:00",
+         "title" : "7 Things We Learned - Norway Chess 2024"
       },
       {
          "description" : "England's grandmaster grandfathers of the chessboard are back in the news. Last month the three English veterans teams won triple European gold, as that talented generation, which ranked second only to the USSR in the 1980s and 1990s, continued to demonstrate its persistent strength. The nine-day competition, held at Terme Catez, Slovenia, included 21 teams aged []",
@@ -714,14 +730,6 @@ news_feed (
          "title" : "Call for Bids: FIDE World Championships 2025"
       },
       {
-         "description" : "GM Magnus Carlsen captured the sole lead of Norway Chess 2024 after defeating GM Hikaru Nakamura in armageddon in round two. White won the other two armageddons as well, after GM Ding Liren outplayed GM Praggnanandhaa Rameshbabu and GM Alireza Fir...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-2",
-         "pubDate" : "Tue, 28 May 2024 12:55:00",
-         "title" : "Carlsen Beats Nakamura In Armageddon To Take Sole Lead, Vaishali Wins 1st Classical Game"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1016,22 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3031",
          "pubDate" : "Mon, 20 May 2024 08:01:01",
          "title" : "Magnus Carlsen triumphs in first Casablanca Chess Variant Tournament"
-      },
-      {
-         "description" : "The title of this month's Flickr featured photo says 'graffiti', but it looks more like 'street art' to me. Don't ask me what the difference is; I just know it when I see it. The last time we saw 'graffiti' on this blog was <A HREF=\"https://chessforallages.blogspot.com/2023/04/only-on-sunday.html\">Only on Sunday</A> (April 2023; yes, that's definitely graffiti). The last time we saw 'street art' was <A HREF=\"https://chessforallages.blogspot.com/2017/07/no-monkey-business-here.html\">No Monkey Business Here</A> (July 2017; Description: 'Street art in London'). <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-oe19.jpg\" WIDTH=400 HEIGHT=250><BR> <A HREF=\"https://www.flickr.com/phot",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/05/shoreditch-street-art.html",
-         "pubDate" : "Sun, 19 May 2024 15:25:00",
-         "title" : "Shoreditch Street Art"
-      },
-      {
-         "description" : " There is an interesting chess event running across the weekend in Morocco. The Morocco Chess Week is featuring Casablanca Chess which is a fixed opening variant. At the start of each round the players are given a famous game, and the move on which they can vary from the given move. They have a couple of minutes to study the game/position and then they play a 15 minute game. At the end of Day 1 Carlsen leads with 2.5/3, ahead of Nakamura on 1.5, with Anand and Amin on 1. Of most interest from this event is that the Evan's Gambit was chosen in Round 1, and White (Carlsen and Nakamura) both won. Carlsen then defeated Nakamura in round 3, in a g4 Sicilian. Someone on the internet did ask if suc",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/lets-start-at-start.html",
-         "pubDate" : "Sun, 19 May 2024 13:56:00",
-         "title" : "Let's start at the start"
       }
    ]
 }
