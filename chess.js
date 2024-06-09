@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "GM Daniel Naroditsky has added another Bullet Brawl trophy to his ever-growing cabinet after winning his second straight event ahead of GMs Andrew Tang, Oleksandr Bortnyk, and 171 other titled players. Playing 76 games in two hours, Naroditsky acc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-june-8-2024",
+         "pubDate" : "Sat, 08 Jun 2024 17:27:00",
+         "title" : "Naroditsky Eclipses Field Featuring Carlsen, Praggnanandhaa, Giri"
+      },
+      {
          "description" : "European School Chess Championship 2024 concluded yesterday in Limerick, Ireland. The event gathered nearly 200 players coming from 18 European federations, who competed in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Turkish players achieved a historical result, winning all 12 golds in all categories, and a total of 28 medals (12 gold, 8 silver and 8 bronze)! Omer Taha Dede (TUR) triumphed in the U7 section scoring perfect 7/7 points. David-Christian Talaba []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-cruises-to-victory-against-firouzja-alireza-in-first-round-of-norway-chess-tournament/articleshow/110492267.cms",
          "pubDate" : "Tue, 28 May 2024 08:28:57",
          "title" : "R Praggnanandhaa beats Firouzja in Norway Chess tournament"
-      },
-      {
-         "description" : "In a surprising turn of events, the Hungarian Chess Federation has announced that GM Richard Rapport will return to play for his native country just two years after transferring to Romania. GM Peter Leko also confirmed his participation. Hungary...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/richard-rapport-set-to-return-to-play-for-hungary-in-budapest-olympiad",
-         "pubDate" : "Tue, 28 May 2024 06:32:00",
-         "title" : "Rapport Returns To Play For Hungary In Budapest Olympiad, Teams Up With Leko"
       },
       {
          "description" : "",
