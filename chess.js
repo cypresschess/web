@@ -1024,22 +1024,6 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-general-assembly-2024/",
          "pubDate" : "Mon, 20 May 2024 13:05:09",
          "title" : "ECU GENERAL ASSEMBLY 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3032",
-         "pubDate" : "Mon, 20 May 2024 09:08:14",
-         "title" : "An Event Like No Other: FIDE World Rapid and Blitz Team Championships - Registration continues"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3031",
-         "pubDate" : "Mon, 20 May 2024 08:01:01",
-         "title" : "Magnus Carlsen triumphs in first Casablanca Chess Variant Tournament"
       }
    ]
 }
