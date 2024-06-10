@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The third day of the 2024 NSW Open ended with a couple of surprises at the top of the leaders board. Young CM Reyaansh Chakrabarty defeated FM Michael Kethro in round 4 and drew with IM Gary Lane in round 5 to reach 4.5/5. He was joined by FM Gary McNamara and Willis Lo, levaing the 3 of them half a point ahead of the chasing pack. he group of players on 4 includeds IM's Lane, Igor Bjelobrk and George Xie, along with a number of other top seeds. Today's 6th round will see Chakrabarty and McNamara meet on board 1, with Lo facing off against fellow Canberran Michael Kethro on board 2. Steve Hemsley holds a half point lead in the Minor, having won his first 5 games. Unrated player Edward Rust ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open-day-3.html",
+         "pubDate" : "Mon, 10 Jun 2024 01:19:00",
+         "title" : "2024 NSW Open Day 3"
+      },
+      {
          "description" : "The Cairns Cup, an elite-level female chess tournament created by the Saint Louis Chess Club, returns this June and will feature ten of the world's best female chess players. The ten-player round robin tournament will be hosted at the World Chess Hall of Fame from June 12 to 23. The top seeds are Tan Zhongyi, Mariya Muzychuk and Nana Dzagidze, while rising star Alice Lee and defending champion Anna Zatonskih (pictured) are also included in the field. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
