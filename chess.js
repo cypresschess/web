@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The UzChess Cup has seen plenty of exciting games in the first five rounds of play. Nodirbek Yakubboev obtained upset wins over Vidit Gujrathi and Parham Maghsoodloo to grab the sole lead with 3&frac12;/5 points. Standing a half point back are top seed Nodirbek Abdusattorov, Yu Yangyi and Javokhir Sindarov. There are no rest days at the event taking place in Tashkent, which is set to end on Friday. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-2024-r5",
+         "pubDate" : "Mon, 10 Jun 2024 23:45:00",
+         "title" : "UzChess: Yakubboev sole leader after five rounds"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
