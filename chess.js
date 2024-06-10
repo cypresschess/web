@@ -2,12 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Ethics Commission caused a stir with a decision over the weekend. At the request of three FIDE members, including Peter Heine Nielsen, it threatened to expel the Russian Chess Federation for violating FIDE guidelines and also reprimanded FIDE President Arkady Dvorkovich. | Photo: The FIDE Ethics Commisstion at a meeting 2020: on the screen: Francois Strydom (RSA). From left to right: Ravindra Dongre (IND), Rajesh Joshi (NEP), Yolander Persaud (GUY), non-voting member Yuliya Levitan (USA). | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ethics-ethics-commission-suspends-russian-chess-federation-and-reprimands-fide-president",
+         "pubDate" : "Mon, 10 Jun 2024 15:41:18",
+         "title" : "FIDE Ethics Commission suspends Russian Chess Federation and reprimands FIDE President"
+      },
+      {
+         "description" : "In an exclusive interview for ChessBase, the international chess arbiter Shohreh Bayat sat down with international chess journalist Tatiana Flores to talk about how her life has changed since the hijab incident in 2020 and how she's built a new one for herself in the UK. The 37 years old Iranian also looked back on her early successes as a chess player and gave interesting insights into the challenges of an arbiter's job.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-ia-wfm-shohreh-bayat",
+         "pubDate" : "Mon, 10 Jun 2024 14:00:00",
+         "title" : "Interview with IA & WFM Shohreh Bayat"
+      },
+      {
+         "description" : "European Chess Union and Montenegro Chess Federation have the honor to invite all National Chess Federations, members of the ECU, end eligible players to participate in the European Individual Chess Championship 2024. The event will be held from 7-20 November in Petrovac, Montenegro. European Individual Chess Championship 2024 is open for all players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations. There is no limit of number of participants per federation, but []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-individual-chess-championship-2024-in-petrovac-montenegro-official-regulations/",
+         "pubDate" : "Mon, 10 Jun 2024 12:27:33",
+         "title" : "European Individual Chess Championship 2024 in Petrovac, Montenegro - Official regulations"
+      },
+      {
+         "description" : "ECU E-Magazine May 2024 is out! In this edition of the ECU E-Magazine you may read about: The May 2024 edition of the ECU Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below in the PDF format.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-may-2024/",
+         "pubDate" : "Mon, 10 Jun 2024 12:22:55",
+         "title" : "ECU E-Magazine May 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3059",
+         "pubDate" : "Mon, 10 Jun 2024 12:00:29",
+         "title" : "Olympiad Training Support Program is open"
+      },
+      {
          "description" : "Bishops often wonder where they should be going. This is a difficult question that Jan Markos answers in his new course 'The Career Paths of Bishops'. Using carefully selected examples, he provides an instructive insight into the world of the specialists on the diagonals.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/where-to-go-what-to-do-jan-markos-reveals-the-secrets-of-the-bishops",
          "pubDate" : "Mon, 10 Jun 2024 09:12:54",
          "title" : "Where to go, what to do? - Jan Markos reveals the secrets of the bishops!"
+      },
+      {
+         "description" : "One of the most unlikely and fun crossovers in sport is back: disc golf and chess are getting together to put on another blockbuster event for fans. The 2024 Chess.com Invitational was the Disc Golf Pro Tour&#38;rsquo;s season-opening event back in ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/disc-golf-gets-2024-bullet-chess-championship",
+         "pubDate" : "Mon, 10 Jun 2024 08:06:25",
+         "title" : "Sport's Craziest Crossover: Disc Golf Gets On Board For 2024 Bullet Chess Championship"
       },
       {
          "description" : " The third day of the 2024 NSW Open ended with a couple of surprises at the top of the leaders board. Young CM Reyaansh Chakrabarty defeated FM Michael Kethro in round 4 and drew with IM Gary Lane in round 5 to reach 4.5/5. He was joined by FM Gary McNamara and Willis Lo, levaing the 3 of them half a point ahead of the chasing pack. he group of players on 4 includeds IM's Lane, Igor Bjelobrk and George Xie, along with a number of other top seeds. Today's 6th round will see Chakrabarty and McNamara meet on board 1, with Lo facing off against fellow Canberran Michael Kethro on board 2. Steve Hemsley holds a half point lead in the Minor, having won his first 5 games. Unrated player Edward Rust ",
@@ -706,14 +754,6 @@ news_feed (
          "title" : "World Chess Launches Chess News Programme Across Major TV Stations Worldwide"
       },
       {
-         "description" : "Chess.com is back at TwitchCon this year, with 2024&#39;s European TwitchCon event kicking off in Rotterdam, the Netherlands, on June 29. There are plenty of amazing activities planned for chess fans, and we look forward to meeting many of you there...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/twitchcon-rotterdam-2024",
-         "pubDate" : "Wed, 29 May 2024 07:00:00",
-         "title" : "Chess.com Returns To TwitchCon In Rotterdam"
-      },
-      {
          "description" : "The European School Chess Championship 2024 is set to take place from 31 May to 7 June in Limerick, Ireland. The event is played in 6 age categories: U7, U9, U11, U13, U15, and U17, open and girls sections separately, with 9-swiss rounds, and the time control of 90 minutes for the whole game + 30-second increment for each move, starting from the move one. More than 190 players coming from 18 European federations registered for the event and the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1016,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3033",
          "pubDate" : "Tue, 21 May 2024 10:01:55",
          "title" : "FIDE World Cup Under 8-12: Extra spots available"
-      },
-      {
-         "description" : "To: European National Chess Federations Re: Invitation to the ECU General Assembly 2024 Dear Ladies and Sirs, I have the pleasure to invite you to the ECU General Assembly 2024 to be held in Budapest, Hungary&#160;on Thursday 19th September 2024.&#160; The official venue of the ECU GA will be the venue of FIDE Congress. The Assembly starts at 10.00 am.&#160; All the information about airports and hotels for the FIDE Congress will be published by FIDE. Requests for bookings and []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-general-assembly-2024/",
-         "pubDate" : "Mon, 20 May 2024 13:05:09",
-         "title" : "ECU GENERAL ASSEMBLY 2024"
       }
    ]
 }
