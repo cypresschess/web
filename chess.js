@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 5 Indians are leading after 4 rounds in Asian Youth Rapid, Kazakhstan Aaaradhya Das and R Pooja Shree are leading after 4 rounds in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/report-day-1-rapid-asian-youth-chess-championship-2024/",
+         "pubDate" : "Mon, 10 Jun 2024 17:14:13",
+         "title" : "Report :- Day 1 Rapid (Asian Youth Chess Championship 2024 )"
+      },
+      {
          "description" : "The FIDE Ethics Commission caused a stir with a decision over the weekend. At the request of three FIDE members, including Peter Heine Nielsen, it threatened to expel the Russian Chess Federation for violating FIDE guidelines and also reprimanded FIDE President Arkady Dvorkovich. | Photo: The FIDE Ethics Commisstion at a meeting 2020: on the screen: Francois Strydom (RSA). From left to right: Ravindra Dongre (IND), Rajesh Joshi (NEP), Yolander Persaud (GUY), non-voting member Yuliya Levitan (USA). | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,6 +50,14 @@ news_feed (
          "title" : "Olympiad Training Support Program is open"
       },
       {
+         "description" : "GM Jose Martinez has won what IM Levy Rozman described as &#34;one of the craziest chess events in history,&#34; the Clash of Claims in Madrid. He beat former World Champion Vladimir Kramnik 14.5-11.5, with two games to spare, losing 6.5-7.5 over the boar...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-beats-kramnik-clash-of-claims",
+         "pubDate" : "Mon, 10 Jun 2024 11:32:00",
+         "title" : "Martinez Beats Kramnik In Clash Of Claims"
+      },
+      {
          "description" : "Bishops often wonder where they should be going. This is a difficult question that Jan Markos answers in his new course 'The Career Paths of Bishops'. Using carefully selected examples, he provides an instructive insight into the world of the specialists on the diagonals.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -54,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/disc-golf-gets-2024-bullet-chess-championship",
-         "pubDate" : "Mon, 10 Jun 2024 08:06:25",
+         "pubDate" : "Mon, 10 Jun 2024 08:06:00",
          "title" : "Sport's Craziest Crossover: Disc Golf Gets On Board For 2024 Bullet Chess Championship"
       },
       {
@@ -730,14 +746,6 @@ news_feed (
          "title" : "India bids to host Gukesh vs Liren World Chess Championship match"
       },
       {
-         "description" : "GM Alexander Grischuk, two weeks removed from the best second-place finish in Titled Tuesday history (or most painful, depending how you look at it), won the early edition of the tournament on May 28. That was followed by a win for GM Minh Le in t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grischuk-le-win-titled-tuesday-may-28-2024",
-         "pubDate" : "Wed, 29 May 2024 08:25:00",
-         "title" : "Record-Setting, Runner-Up Grischuk Wins This Titled Tuesday"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110528476.cms\" />Indian Grandmaster R Praggnanandhaa drew against World Champion Ding Liren in the classical game but lost in the Armageddon tie-breaker in the Norway Chess tournament's second round. Magnus Carlsen, Alireza Firouzja, and Liren secured 1.5 points each by winning their respective Armageddon games, while Praggnanandhaa's first classical draw led to a tie-break defeat.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -904,14 +912,6 @@ news_feed (
          "link" : "https://www.europechess.org/norway-chess-2024-starts-in-stavanger/",
          "pubDate" : "Sat, 25 May 2024 08:57:02",
          "title" : "Norway Chess 2024 starts in Stavanger"
-      },
-      {
-         "description" : "Dear Players, This is to inform you that the World Chess Federation (FIDE) will be accepting only limited Indian entries for the World Junior Chess",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-chess-championship-2024/",
-         "pubDate" : "Sat, 25 May 2024 07:42:49",
-         "title" : "World Junior Chess Championship 2024"
       },
       {
          "description" : "In the 1971 Candidate Matches Bobby Fischer faced Mark Taimanov In Vancouver, Canada. The American defeated his opponent from the Soviet Union with a \"dry\" 6-0 score. But matters could have started differently. In the first game it was Taimanov who put on the pressure, and even had winning chances. He played 27.h3, which nobody considered a bad move - until Kasparov pointed out its defect in 2004. Today's riddle deals with the position before White's 27th move. Computers find it devilishly difficult to find the best continuation. Can you?",
