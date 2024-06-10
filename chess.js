@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bishops often wonder where they should be going. This is a difficult question that Jan Markos answers in his new course 'The Career Paths of Bishops'. Using carefully selected examples, he provides an instructive insight into the world of the specialists on the diagonals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/where-to-go-what-to-do-jan-markos-reveals-the-secrets-of-the-bishops",
+         "pubDate" : "Mon, 10 Jun 2024 09:12:54",
+         "title" : "Where to go, what to do? - Jan Markos reveals the secrets of the bishops!"
+      },
+      {
          "description" : " The third day of the 2024 NSW Open ended with a couple of surprises at the top of the leaders board. Young CM Reyaansh Chakrabarty defeated FM Michael Kethro in round 4 and drew with IM Gary Lane in round 5 to reach 4.5/5. He was joined by FM Gary McNamara and Willis Lo, levaing the 3 of them half a point ahead of the chasing pack. he group of players on 4 includeds IM's Lane, Igor Bjelobrk and George Xie, along with a number of other top seeds. Today's 6th round will see Chakrabarty and McNamara meet on board 1, with Lo facing off against fellow Canberran Michael Kethro on board 2. Steve Hemsley holds a half point lead in the Minor, having won his first 5 games. Unrated player Edward Rust ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
