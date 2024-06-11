@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this section we compare the risks playing a game of chess brings to your life - as compared to other activities a person may undertake. For example, riding a bike for 25 miles, running a marathon, climbing Matterhorn - or marrying Henry VIII. The assessment is given in micromort units, which can be used to generally calculate the risks under which people are in everyday life. | Picture Willie Benegas and Doug Pierson on Mountainmadness.com",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-dangerous-is-life-in-general",
+         "pubDate" : "Tue, 11 Jun 2024 17:00:00",
+         "title" : "How dangerous is life in general?"
+      },
+      {
+         "description" : "India won 3 Gold &#38; 1 Silver in Asian Youth Rapid Chess Championship, at Almaty (Kazakhstan) Asian Youth Rapid Chess Championship started here in Baluan",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/day-2-rapid-asian-youth-chess-championship-2024/",
+         "pubDate" : "Tue, 11 Jun 2024 11:53:12",
+         "title" : "Day 2 Rapid ! Asian Youth Chess Championship 2024"
+      },
+      {
          "description" : "After five rounds GM Nodirbek Yakubboev from Uzbekistan is the sole leader at the UzChess Masters. With 3.5/5 he is half a point ahead of Chinese Grandmaster Yu Yangyi and GMs Nodirbek Abdusattorov and Javokhir Sindarov from Uzbekistan. The UzChess Masters is a strong 10-player round robin, in which all players have an Elo rating of 2600+ while eight of the participants have a rating of 2700+. Round 6 starts on Tuesday at 12.00 CEST (6.00 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3061",
          "pubDate" : "Tue, 11 Jun 2024 11:20:40",
          "title" : "Important update to C.04.1 Basic Rules for Swiss Systems"
+      },
+      {
+         "description" : "Scramble the back rank of your sets because the 2024 Chess.com Community Championships is launching the Chess960 Championships in just a few weeks! The enticing prize fund of $7,500 includes $2,000 for first place, $1,400 for second, $800 for t...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-announces-chess960-community-championship",
+         "pubDate" : "Tue, 11 Jun 2024 08:00:00",
+         "title" : "Chess.com Announcing Chess960 Community Championship With $7,500 In Prizes"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110892554.cms\" />The top seeded Divya took just 36 moves to win her eighth-round contest against Norman and maintain a half-point lead with an unbeaten run in the World Chess Federation (FIDE) organized U-20 championship.",
@@ -730,14 +754,6 @@ news_feed (
          "title" : "Western Asian Junior/ Girls Chess Championship - 2024 in Sri Lanka from 15th to 23rd July, 2024"
       },
       {
-         "description" : "A major new international chess event is coming to Spain next month featuring some of the most popular content creators in the game competing for title norms. The first Madrid Chess Festival will play host to three classical tournaments and a bl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gothamchess-oro-cramling-rosen-madrid-chess-festival",
-         "pubDate" : "Thu, 30 May 2024 08:25:00",
-         "title" : "GothamChess, Oro, Cramling, Rosen: Creators Battle For Norms In First Madrid Chess Festival"
-      },
-      {
          "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -896,14 +912,6 @@ news_feed (
          "link" : "https://aicf.in/7th-western-asian-youth-chess-championship-2024-in-sri-lanka-from-7th-to-16th-july-2024/",
          "pubDate" : "Sun, 26 May 2024 16:45:05",
          "title" : "7th Western Asian Youth Chess Championship - 2024 in Sri Lanka from 7th to 16th July, 2024"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 20 to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-from-20-to-21-july-2024-in-jammu/",
-         "pubDate" : "Sun, 26 May 2024 16:22:32",
-         "title" : "Senior National Arbiters Seminar & Exam from 20 to 21 July 2024 in Jammu"
       },
       {
          "description" : " IM Junta Ikeda has taken the outright lead in the 2024 ACT Chess Championship, after another 2 wins on day 3. He beat CM Lalit Prasad in the morning round, and then CM Hui Li in round 5. Li had drawn with FM Michael Kethro in the 4th round before being outplayed by Ikeda in the days 2nd round. Kethro defeated Harry Johnson in the 5th round to move to 4.5, and will now play Ikeda in Round 6 tomorrow. Reyaansh Chakrabarty recovered from his round 3 disaster to win both game today and is tied for 3rd alongside Prasad, Thomas Gatzen-O'Keefe and Tim Pearce. <br /> ",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3036",
          "pubDate" : "Wed, 22 May 2024 09:16:24",
          "title" : "Unveiling triumphs of 11th Dhamso International Chess Festival 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110309282.cms\" />Indian Grandmaster Aravindh Chithambaram suffered a costly blunder in the seventh round of the Sharjah Masters, resulting in a loss to Bardiya Daneshvar of Iran and relinquishing his lead in the tournament. Aravindh's slip from the top spot saw him fall to joint third position, as American Sam Shankland defeated his compatriot Hans Moke Niemann to equal the Iranian's points tally.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/sharjah-chess-aravindh-chithambaram-errs-loses-lead/articleshow/110309282.cms",
-         "pubDate" : "Tue, 21 May 2024 14:23:25",
-         "title" : "Sharjah Chess: Aravindh Chithambaram errs, loses lead"
       }
    ]
 }
