@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After five rounds GM Nodirbek Yakubboev from Uzbekistan is the sole leader at the UzChess Masters. With 3.5/5 he is half a point ahead of Chinese Grandmaster Yu Yangyi and GMs Nodirbek Abdusattorov and Javokhir Sindarov from Uzbekistan. The UzChess Masters is a strong 10-player round robin, in which all players have an Elo rating of 2600+ while eight of the participants have a rating of 2700+. Round 6 starts on Tuesday at 12.00 CEST (6.00 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-tournament-in-tashkent-the-uzchess-masters-live",
+         "pubDate" : "Tue, 11 Jun 2024 11:45:00",
+         "title" : "Top tournament in Tashkent - the UzChess Masters live"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3061",
+         "pubDate" : "Tue, 11 Jun 2024 11:20:40",
+         "title" : "Important update to C.04.1 Basic Rules for Swiss Systems"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110892554.cms\" />The top seeded Divya took just 36 moves to win her eighth-round contest against Norman and maintain a half-point lead with an unbeaten run in the World Chess Federation (FIDE) organized U-20 championship.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1064,14 +1080,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sharjah-chess-aravindh-chithambaram-errs-loses-lead/articleshow/110309282.cms",
          "pubDate" : "Tue, 21 May 2024 14:23:25",
          "title" : "Sharjah Chess: Aravindh Chithambaram errs, loses lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3033",
-         "pubDate" : "Tue, 21 May 2024 10:01:55",
-         "title" : "FIDE World Cup Under 8-12: Extra spots available"
       }
    ]
 }
