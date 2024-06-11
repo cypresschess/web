@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A 6-day festival featuring two round-robins and an open tournament is taking place in Madrid. Famous chess personalities, such as Levy Rozman, Eric Rosen and Anna Cramling, are participating. Among the raising stars invited to play, 10-year-old Faustino Oro stands out, as he attempts to become the youngest International Master of all time.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/madrid-chess-festival-2024-d1",
+         "pubDate" : "Tue, 11 Jun 2024 03:00:00",
+         "title" : "Madrid Chess Festival: Streamers and rising stars meet in Spain's capital"
+      },
+      {
          "description" : "The UzChess Cup has seen plenty of exciting games in the first five rounds of play. Nodirbek Yakubboev obtained upset wins over Vidit Gujrathi and Parham Maghsoodloo to grab the sole lead with 3&frac12;/5 points. Standing a half point back are top seed Nodirbek Abdusattorov, Yu Yangyi and Javokhir Sindarov. There are no rest days at the event taking place in Tashkent, which is set to end on Friday. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "FIDE Grand Swiss & Women's Grand Swiss 2025 - Call for bids"
       },
       {
+         "description" : "&#34;We don&#39;t need no... invitation,&#34; to loosely borrow the lyrics from Pink Floyd, could be the hook to GM Arjun Erigaisi&#39;s theme song in the year 2024. Despite playing in almost no closed super-tournaments, which are invitation-only, he has been dom...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-arjun-erigaisi-rises-to-world-4",
+         "pubDate" : "Mon, 10 Jun 2024 19:55:32",
+         "title" : "Arjun Erigaisi Needs No Invitation, Rises To World Number-4"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110883621.cms\" />India's highest ranked chess player Arjun Erigaisi, who has touched world No. 4 in live rating (Elo 2771), thanks to his good show in the recent Open tournaments, told TOI: \"It's a good feeling to be world No. 4 but I am not caring too much about the rankings. Rating is not my priority. I am just enjoying the process and the main aim is to have fun.\"",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-world-no-4-chess-gm-arjun-erigaisi-aims-to-have-fun-and-crack-at-candidates/articleshow/110883621.cms",
          "pubDate" : "Mon, 10 Jun 2024 19:41:11",
          "title" : "India's world no. 4 chess GM Erigaisi aims to have fun and crack at Candidates"
+      },
+      {
+         "description" : "GMs Hikaru Nakamura, Sam Sevian, Nihal Sarin, and Daniel Naroditsky advanced to the Winners Semifinals of the Bullet Chess Championship 2024 (BCC) on Monday.&#38;nbsp; In his debut to the BCC, Sevian defeated the 2021 champion, GM Alireza Firouzja, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-ko-day-1",
+         "pubDate" : "Mon, 10 Jun 2024 17:32:00",
+         "title" : "Sevian Stuns Firouzja; Nakamura, Nihal, Naroditsky Advance"
       },
       {
          "description" : " 5 Indians are leading after 4 rounds in Asian Youth Rapid, Kazakhstan Aaaradhya Das and R Pooja Shree are leading after 4 rounds in",
@@ -106,22 +130,6 @@ news_feed (
          "title" : "2024 NSW Open Day 3"
       },
       {
-         "description" : "The Cairns Cup, an elite-level female chess tournament created by the Saint Louis Chess Club, returns this June and will feature ten of the world's best female chess players. The ten-player round robin tournament will be hosted at the World Chess Hall of Fame from June 12 to 23. The top seeds are Tan Zhongyi, Mariya Muzychuk and Nana Dzagidze, while rising star Alice Lee and defending champion Anna Zatonskih (pictured) are also included in the field. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-preview",
-         "pubDate" : "Sun, 09 Jun 2024 14:00:00",
-         "title" : "The Cairns Cup starts Thursday with US and international stars"
-      },
-      {
-         "description" : "The inaugural edition of the Norway Chess Women tournament, an event featuring the same format and the same prizes as the open super-tournament, saw top seed Ju Wenjun grabbing outright victory after beating Lei Tingjie in their classical-chess confrontation. Anna Muzychuk, who beat Humpy Koneru in Armageddon, finished in sole second place. | Photo: Stev Bonhage / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-women-10",
-         "pubDate" : "Sun, 09 Jun 2024 09:10:00",
-         "title" : "Ju Wenjun triumphant at inaugural Norway Chess Women event"
-      },
-      {
          "description" : "GM Magnus Carlsen briefly stared into the abyss of losing his world number-one spot, but he turned things around to win his sixth Norway Chess title. GM Hikaru Nakamura returned to the 2800 club, while Women&#39;s World Champion Ju Wenjun cruised to v...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open-day-2.html",
          "pubDate" : "Sun, 09 Jun 2024 06:58:00",
          "title" : "2024 NSW Open Day 2"
-      },
-      {
-         "description" : "Magnus Carlsen won the Norway Chess super-tournament for a sixth time in his career after beating Fabiano Caruana in their final-round Armageddon encounter. Hikaru Nakamura grabbed second place despite losing in the rapid tiebreaker against R Praggnanandhaa. It was precisely Pragg who finished third, leaving Alireza Firouzja, Fabiano Caruana and Ding Liren behind, in the bottom half of the tournament standings. | Photo: Stev Bonhage / Norway Chess",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/norway-chess-2024-10",
-         "pubDate" : "Sun, 09 Jun 2024 06:50:00",
-         "title" : "Magnus Carlsen wins sixth Norway Chess title"
       },
       {
          "description" : "GM Daniel Naroditsky has added another Bullet Brawl trophy to his ever-growing cabinet after winning his second straight event ahead of GMs Andrew Tang, Oleksandr Bortnyk, and 171 other titled players. Playing 76 games in two hours, Naroditsky acc...",
@@ -722,14 +722,6 @@ news_feed (
          "title" : "World Junior Rapid & Blitz Chess Championship - 2024 at Tashkent, Uzbekistan from 1st to 8th August, 2024"
       },
       {
-         "description" : "Norwegian chess enthusiasts Askild Bryn and CM Odin Blikra Vea aim to make history by playing for 61 hours straight. Their ambitious GUINNESS WORLD RECORDS&#38;trade; attempt for the Longest Chess Marathon will take place next week. Staying awake fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/guinness-world-records-attempt-longest-chess-marathon-ever",
-         "pubDate" : "Thu, 30 May 2024 06:59:00",
-         "title" : "Norwegian Duo Aim to Smash 60-Hour Chess Marathon Record"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110551422.cms\" />R Praggnanandhaa, the Indian chess sensation, clinched a remarkable victory against world number one Magnus Carlsen in classical chess, securing his first-ever win in this format against the champion. At just 18, Praggnanandhaa leads the open section of the tournament, with Magnus Carlsen dropping to fifth position after the defeat.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -752,14 +744,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/fighting-against-draws.html",
          "pubDate" : "Wed, 29 May 2024 13:14:00",
          "title" : "Fighting against draws"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu is the new leader at Norway Chess 2024 after beating&#38;nbsp;world number-one GM Magnus Carlsen for the first time in classical chess in Wednesday&#39;s third round. Fabiano Caruana was the other player to earn the full three...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-3",
-         "pubDate" : "Wed, 29 May 2024 12:51:00",
-         "title" : "Praggnanandhaa Scores 1st Classical Win Vs. Carlsen, Leads In Norway"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110533435.cms\" />The All India Chess Federation (AICF) has bid to host the World Chess Championship between Indian prodigy D Gukesh and China's world champion Ding Liren. Scheduled for November 20 to December 15 in Chennai, AICF awaits FIDE's decision, due after the May 31 bid deadline. Singapore is expected to compete for hosting rights.",
