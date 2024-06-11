@@ -62,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-arjun-erigaisi-rises-to-world-4",
-         "pubDate" : "Mon, 10 Jun 2024 19:55:32",
+         "pubDate" : "Mon, 10 Jun 2024 19:55:00",
          "title" : "Arjun Erigaisi Needs No Invitation, Rises To World Number-4"
       },
       {
