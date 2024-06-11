@@ -50,22 +50,6 @@ news_feed (
          "title" : "Divya Deshmukh holds half-point lead to stay on top in World Junior chess"
       },
       {
-         "description" : "A 6-day festival featuring two round-robins and an open tournament is taking place in Madrid. Famous chess personalities, such as Levy Rozman, Eric Rosen and Anna Cramling, are participating. Among the raising stars invited to play, 10-year-old Faustino Oro stands out, as he attempts to become the youngest International Master of all time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/madrid-chess-festival-2024-d1",
-         "pubDate" : "Tue, 11 Jun 2024 03:00:00",
-         "title" : "Madrid Chess Festival: Streamers and rising stars meet in Spain's capital"
-      },
-      {
-         "description" : "The UzChess Cup has seen plenty of exciting games in the first five rounds of play. Nodirbek Yakubboev obtained upset wins over Vidit Gujrathi and Parham Maghsoodloo to grab the sole lead with 3&frac12;/5 points. Standing a half point back are top seed Nodirbek Abdusattorov, Yu Yangyi and Javokhir Sindarov. There are no rest days at the event taking place in Tashkent, which is set to end on Friday. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-2024-r5",
-         "pubDate" : "Mon, 10 Jun 2024 23:45:00",
-         "title" : "UzChess: Yakubboev sole leader after five rounds"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -392,14 +376,6 @@ news_feed (
          "link" : "https://aicf.in/national-women-chess-championship-2024/",
          "pubDate" : "Thu, 06 Jun 2024 05:59:08",
          "title" : "National Women Chess Championship 2024"
-      },
-      {
-         "description" : "It is a passionate game. There have been studies which have demonstrated that in dramatic positions with chances on both sides the adrenalin levels and the pulse rates of the players involved can rise to heights experienced by paragliders, extreme mountaineers or deep sea divers. Hence, it is not surprising that some people actually have died at the chess board when the setting became extremely stressful and prolonged.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-dangerous-it-chess",
-         "pubDate" : "Wed, 05 Jun 2024 19:00:00",
-         "title" : "How dangerous is chess?"
       },
       {
          "description" : "The Yearbook 2024 hard copy version is now available to order while stocks last - &pound;9.99 for members, &pound;11.99 for non-members! Owing to a huge...",
