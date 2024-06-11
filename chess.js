@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110892554.cms\" />The top seeded Divya took just 36 moves to win her eighth-round contest against Norman and maintain a half-point lead with an unbeaten run in the World Chess Federation (FIDE) organized U-20 championship.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-holds-half-point-lead-on-top-in-world-junior-chess/articleshow/110892554.cms",
+         "pubDate" : "Tue, 11 Jun 2024 05:19:10",
+         "title" : "Divya Deshmukh holds half-point lead to stay on top in World Junior chess"
+      },
+      {
          "description" : "A 6-day festival featuring two round-robins and an open tournament is taking place in Madrid. Famous chess personalities, such as Levy Rozman, Eric Rosen and Anna Cramling, are participating. Among the raising stars invited to play, 10-year-old Faustino Oro stands out, as he attempts to become the youngest International Master of all time.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -354,12 +362,12 @@ news_feed (
          "title" : "How dangerous is chess?"
       },
       {
-         "description" : "The Yearbook 2024 hard copy version is now available to order while stocks last - &pound;9.99 for members, &pound;11.99 for non-members! You can find the...",
+         "description" : "The Yearbook 2024 hard copy version is now available to order while stocks last - &pound;9.99 for members, &pound;11.99 for non-members! Owing to a huge...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-yearbook-2024/",
          "pubDate" : "Wed, 05 Jun 2024 14:15:59",
-         "title" : "ECF Yearbook 2024"
+         "title" : "ECF Yearbook 2024 - new link"
       },
       {
          "description" : "The first game of the 2024 NBA Finals is on Thursday, and we&#39;re celebrating the ultimate basketball showdown with chess. Two of the biggest stars in the Finals have Chess.com bots and we&#39;re offering a limited-time only bot challenge starting on&#38;nb...",
