@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Round 6 of the UzChess Cup saw Nodirbek Abdusattorov beating Yu Yangyi to catch Nodirbek Yakubboev atop the standings. Abdusattorov outplayed Yu out of an Italian Opening. All remaining games ended drawn, leaving Javokhir Sindarov in sole third place as the only player standing a half point behind the co-leaders. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-2024-r6",
+         "pubDate" : "Wed, 12 Jun 2024 08:10:00",
+         "title" : "UzChess: Abdusattorov beats Yu, catches Yakubboev"
+      },
+      {
          "description" : "On June 7-9, former world champion Vladimir Kramnik faced Peruvian GM Jos&eacute; Mart&iacute;nez (now representing Mexico) in a blitz match consisting of over-the-board and online games. A total of 36 games were supposed to take place, but only 26 ended up being played due to Kramnik's complaints regarding technical issues in the online games. In the end, Mart&iacute;nez secured overall victory with two games to spare.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://aicf.in/day-2-rapid-asian-youth-chess-championship-2024/",
          "pubDate" : "Tue, 11 Jun 2024 11:53:12",
          "title" : "Day 2 Rapid ! Asian Youth Chess Championship 2024"
-      },
-      {
-         "description" : "After five rounds GM Nodirbek Yakubboev from Uzbekistan is the sole leader at the UzChess Masters. With 3.5/5 he is half a point ahead of Chinese Grandmaster Yu Yangyi and GMs Nodirbek Abdusattorov and Javokhir Sindarov from Uzbekistan. The UzChess Masters is a strong 10-player round robin, in which all players have an Elo rating of 2600+ while eight of the participants have a rating of 2700+. Round 6 starts on Tuesday at 12.00 CEST (6.00 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-tournament-in-tashkent-the-uzchess-masters-live",
-         "pubDate" : "Tue, 11 Jun 2024 11:45:00",
-         "title" : "Top tournament in Tashkent - the UzChess Masters live"
       },
       {
          "description" : "",
