@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In this very instructive, and informative game, Svitlana managed to draw against a strong, Canadian IM. But the truth is, she almost had to forfeit the game! The reason for Svitlana arriving far too late to the game, and what you can learn from the opening, middle game with hanging pawns, and endgame technique, you will see in the video.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-s-important-draw-against-an-im",
+         "pubDate" : "Wed, 12 Jun 2024 18:00:00",
+         "title" : "Svitlana's Smart Moves - Svitlana's important draw against an IM"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110947702.cms\" />Top seed Divya Deshmukh maintained her sole lead by defeating fellow Indian Sachi Jain in the 10th round of the World Junior Girls' Chess Championship in Gandhinagar on Wednesday. Divya's attacking play ensured a podium finish with nine points from 10 games, half a point ahead of Armenia's Mariam Mkrtchiyan, who beat Sri Lankan Oshini Gunawardhana Devindya.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-beats-sachi-jain-to-maintain-sole-lead-in-world-junior-chess-championship/articleshow/110947702.cms",
+         "pubDate" : "Wed, 12 Jun 2024 17:32:10",
+         "title" : "Divya Deshmukh maintains sole lead in World Junior Chess C'ship"
+      },
+      {
          "description" : "It is startling to think that eight years have already passed by since the death, at the comparatively early age of 68, of the world's greatest chess trainer. It is equally startling to think that there will be a whole generation of chess players who know nothing about Mark Dvoretsky, his work or his achievements. Fortunately there is a new book from New in Chess to remind the chess world about Mark Dvoretsky. CHESS Magazine review by Sean Marsh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/remembering-mark-dvoretsky",
          "pubDate" : "Wed, 12 Jun 2024 15:00:00",
          "title" : "Remembering Mark Dvoretsky"
-      },
-      {
-         "description" : "After six rounds the two Nodirbeks share the lead at the UzChess Masters in Tashkent, Uzbekistan: With 4.0/6 Nodirbek Yakubboev and Nodirbek Abdusattorov are half a point ahead of Javokhir Sindarov who is third with 3.5/4. All three are Grandmasters and all three are from Uzbekistan. The UzChess Masters is a strong 10-player round robin, in which all players have an Elo rating of 2600+ while eight of the participants have a rating of 2700+. Round 7 starts on Wednesday at 12.00 CEST (6.00 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/top-tournament-in-tashkent-the-uzchess-masters-live",
-         "pubDate" : "Wed, 12 Jun 2024 11:45:00",
-         "title" : "Top tournament in Tashkent - the UzChess Masters live"
       },
       {
          "description" : " The final day of the 2024 NSW Open ended with a couple of surprise winners, after a very tough day of chess. Going into the final round there were 7 players tied for the lead on 5/6. The top board pairing saw IM Igor Bjelobrk and FM Gary McNamara reach a rook and pawn ending which ended in a draw when McNamara won a rook, but had to return it shortly afterwards to eliminate the last pawn on the board. On Board 2 IM George Xie was unable to break down CM Reyaansh Chakrabarty's solid play, and that game was drawn as well. Board 3 saw Willis Lo have the best of it for most of the game against Terrence Tang, until an attempt to avoid a bishop and wrong colour rook pawn finish blew up in his fac",
@@ -34,14 +42,6 @@ news_feed (
          "title" : "Chess tables in the prison yard of Alphen: A strategic move"
       },
       {
-         "description" : "Revolutionize your approach to the Caro-Kann Defense with this unique guide. We boldly confront the Caro-Kann Defense with the upcoming move 1.e4 c6 2.Nf3 d5 3.d3!? With this highly strategic choice, we disrupt Black's typical patterns and comfort zones and enter an early endgame full of chances for you. This line, championed by the AI phenomenon Leela Zero, has been embraced by top-level players including Carlsen, Vachier-Lagrave, Nepomniachtchi, Firouzja, Giri, and many more.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fabien-libiszewski-the-surprising-3-d3-against-the-caro-kann",
-         "pubDate" : "Wed, 12 Jun 2024 09:51:50",
-         "title" : "Fabien Libiszewski:The surprising 3.d3 against the Caro-Kann"
-      },
-      {
          "description" : "GMs Alexey Sarana and Hikaru Nakamura are your Titled Tuesday victors for June 11, 2024. Sarana won by the thinnest of margins in the early tournament, needing the second tiebreak before his 10 points were finally determined to have earned first p...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -50,28 +50,12 @@ news_feed (
          "title" : "Nakamura Posts Big Score After Near Miss"
       },
       {
-         "description" : "Round 6 of the UzChess Cup saw Nodirbek Abdusattorov beating Yu Yangyi to catch Nodirbek Yakubboev atop the standings. Abdusattorov outplayed Yu out of an Italian Opening. All remaining games ended drawn, leaving Javokhir Sindarov in sole third place as the only player standing a half point behind the co-leaders. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-2024-r6",
-         "pubDate" : "Wed, 12 Jun 2024 08:10:00",
-         "title" : "UzChess: Abdusattorov beats Yu, catches Yakubboev"
-      },
-      {
          "description" : "A major new blitz tournament showcasing the record-breaking next generation of young chess talents in two age categories will launch this month. The ChessKid Youth Championship kicks off on June 29 with a $15,000 prize fund and promises to be a ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesskid-youth-championship-starting-june-29",
          "pubDate" : "Wed, 12 Jun 2024 08:00:30",
          "title" : "See The Future: Watch The ChessKid Youth Championships, Starting June 29"
-      },
-      {
-         "description" : "On June 7-9, former world champion Vladimir Kramnik faced Peruvian GM Jos&eacute; Mart&iacute;nez (now representing Mexico) in a blitz match consisting of over-the-board and online games. A total of 36 games were supposed to take place, but only 26 ended up being played due to Kramnik's complaints regarding technical issues in the online games. In the end, Mart&iacute;nez secured overall victory with two games to spare.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/clash-of-claims-2024-d1",
-         "pubDate" : "Wed, 12 Jun 2024 03:15:00",
-         "title" : "Mart&iacute;nez beats Kramnik in controversial match"
       },
       {
          "description" : "GM Hans Niemann said on X that he has secured the necessary funds to play in the $1 million buy-in tournament alongside GMs Nodirbek Abdusattorov, Fabiano Caruana, and Ian Nepomniachtchi. Organizer Wadim Rosenstein confirmed to Chess.com that fund...",
@@ -170,22 +154,6 @@ news_feed (
          "title" : "Report :- Day 1 Rapid (Asian Youth Chess Championship 2024 )"
       },
       {
-         "description" : "The FIDE Ethics Commission caused a stir with a decision over the weekend. At the request of three FIDE members, including Peter Heine Nielsen, it threatened to expel the Russian Chess Federation for violating FIDE guidelines and also reprimanded FIDE President Arkady Dvorkovich. | Photo: The FIDE Ethics Commisstion at a meeting 2020: on the screen: Francois Strydom (RSA). From left to right: Ravindra Dongre (IND), Rajesh Joshi (NEP), Yolander Persaud (GUY), non-voting member Yuliya Levitan (USA). | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ethics-ethics-commission-suspends-russian-chess-federation-and-reprimands-fide-president",
-         "pubDate" : "Mon, 10 Jun 2024 15:41:18",
-         "title" : "FIDE Ethics Commission suspends Russian Chess Federation and reprimands FIDE President"
-      },
-      {
-         "description" : "In an exclusive interview for ChessBase, the international chess arbiter Shohreh Bayat sat down with international chess journalist Tatiana Flores to talk about how her life has changed since the hijab incident in 2020 and how she's built a new one for herself in the UK. The 37 years old Iranian also looked back on her early successes as a chess player and gave interesting insights into the challenges of an arbiter's job.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-ia-wfm-shohreh-bayat",
-         "pubDate" : "Mon, 10 Jun 2024 14:00:00",
-         "title" : "Interview with IA & WFM Shohreh Bayat"
-      },
-      {
          "description" : "European Chess Union and Montenegro Chess Federation have the honor to invite all National Chess Federations, members of the ECU, end eligible players to participate in the European Individual Chess Championship 2024. The event will be held from 7-20 November in Petrovac, Montenegro. European Individual Chess Championship 2024 is open for all players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations. There is no limit of number of participants per federation, but []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -216,14 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/martinez-beats-kramnik-clash-of-claims",
          "pubDate" : "Mon, 10 Jun 2024 11:32:00",
          "title" : "Martinez Beats Kramnik In Clash Of Claims"
-      },
-      {
-         "description" : "Bishops often wonder where they should be going. This is a difficult question that Jan Markos answers in his new course 'The Career Paths of Bishops'. Using carefully selected examples, he provides an instructive insight into the world of the specialists on the diagonals.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/where-to-go-what-to-do-jan-markos-reveals-the-secrets-of-the-bishops",
-         "pubDate" : "Mon, 10 Jun 2024 09:12:54",
-         "title" : "Where to go, what to do? - Jan Markos reveals the secrets of the bishops!"
       },
       {
          "description" : "One of the most unlikely and fun crossovers in sport is back: disc golf and chess are getting together to put on another blockbuster event for fans. The 2024 Chess.com Invitational was the Disc Golf Pro Tour&#38;rsquo;s season-opening event back in ...",
@@ -1040,14 +1000,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championship-begins-tomorrow.html",
          "pubDate" : "Thu, 23 May 2024 12:52:00",
          "title" : "2024 ACT Championship begins tomorrow"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110340866.cms\" />Grandmaster Erigaisi Arjun settled for a draw against Alexey Sarana, while Aravindh Chithambaram suffered a second consecutive loss, dimming Indian prospects at the Sharjah Masters chess tournament. With Bardiya Daneshvar, Sam Shankland, and Volodar Mulzin leading on six points, Arjun stands fourth with 5.5 points. However, his tie-break may hinder a podium finish even if he wins the final round.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmaster-erigaisi-arjun-held-by-serbias-alexey-sarana-in-sharjah-masters-chess-tournament/articleshow/110340866.cms",
-         "pubDate" : "Wed, 22 May 2024 16:21:43",
-         "title" : "Erigaisi held by Sarana in Sharjah Masters chess tournament"
       }
    ]
 }
