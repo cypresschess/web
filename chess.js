@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is startling to think that eight years have already passed by since the death, at the comparatively early age of 68, of the world's greatest chess trainer. It is equally startling to think that there will be a whole generation of chess players who know nothing about Mark Dvoretsky, his work or his achievements. Fortunately there is a new book from New in Chess to remind the chess world about Mark Dvoretsky. CHESS Magazine review by Sean Marsh.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-mark-dvoretsky",
+         "pubDate" : "Wed, 12 Jun 2024 15:00:00",
+         "title" : "Remembering Mark Dvoretsky"
+      },
+      {
          "description" : "After six rounds the two Nodirbeks share the lead at the UzChess Masters in Tashkent, Uzbekistan: With 4.0/6 Nodirbek Yakubboev and Nodirbek Abdusattorov are half a point ahead of Javokhir Sindarov who is third with 3.5/4. All three are Grandmasters and all three are from Uzbekistan. The UzChess Masters is a strong 10-player round robin, in which all players have an Elo rating of 2600+ while eight of the participants have a rating of 2700+. Round 7 starts on Wednesday at 12.00 CEST (6.00 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,12 +42,28 @@ news_feed (
          "title" : "Fabien Libiszewski:The surprising 3.d3 against the Caro-Kann"
       },
       {
+         "description" : "GMs Alexey Sarana and Hikaru Nakamura are your Titled Tuesday victors for June 11, 2024. Sarana won by the thinnest of margins in the early tournament, needing the second tiebreak before his 10 points were finally determined to have earned first p...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sarana-nakamura-win-titled-tuesday-june-11-2024",
+         "pubDate" : "Wed, 12 Jun 2024 08:16:00",
+         "title" : "Nakamura Posts Big Score After Near Miss"
+      },
+      {
          "description" : "Round 6 of the UzChess Cup saw Nodirbek Abdusattorov beating Yu Yangyi to catch Nodirbek Yakubboev atop the standings. Abdusattorov outplayed Yu out of an Italian Opening. All remaining games ended drawn, leaving Javokhir Sindarov in sole third place as the only player standing a half point behind the co-leaders. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/uzchess-2024-r6",
          "pubDate" : "Wed, 12 Jun 2024 08:10:00",
          "title" : "UzChess: Abdusattorov beats Yu, catches Yakubboev"
+      },
+      {
+         "description" : "A major new blitz tournament showcasing the record-breaking next generation of young chess talents in two age categories will launch this month. The ChessKid Youth Championship kicks off on June 29 with a $15,000 prize fund and promises to be a ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesskid-youth-championship-starting-june-29",
+         "pubDate" : "Wed, 12 Jun 2024 08:00:30",
+         "title" : "See The Future: Watch The ChessKid Youth Championships, Starting June 29"
       },
       {
          "description" : "On June 7-9, former world champion Vladimir Kramnik faced Peruvian GM Jos&eacute; Mart&iacute;nez (now representing Mexico) in a blitz match consisting of over-the-board and online games. A total of 36 games were supposed to take place, but only 26 ended up being played due to Kramnik's complaints regarding technical issues in the online games. In the end, Mart&iacute;nez secured overall victory with two games to spare.",
@@ -50,12 +74,12 @@ news_feed (
          "title" : "Mart&iacute;nez beats Kramnik in controversial match"
       },
       {
-         "description" : "GM Hans Niemann said on X that he has secured the necessary funds to play in the $4 million buy-in tournament alongside GMs Nodirbek Abdusattorov, Fabiano Caruana, and Ian Nepomniachtchi. Organizer Wadim Rosenstein confirmed to Chess.com that fund...",
+         "description" : "GM Hans Niemann said on X that he has secured the necessary funds to play in the $1 million buy-in tournament alongside GMs Nodirbek Abdusattorov, Fabiano Caruana, and Ian Nepomniachtchi. Organizer Wadim Rosenstein confirmed to Chess.com that fund...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/niemann-secures-funds-for-4-million-buy-in-tournament",
          "pubDate" : "Wed, 12 Jun 2024 00:33:00",
-         "title" : "Niemann Secures Funds For $4 Million Buy-In Tournament"
+         "title" : "Niemann Secures Funds For $1 Million Buy-In Tournament"
       },
       {
          "description" : "GMs Hikaru Nakamura&#38;nbsp;and Daniel Naroditsky have knocked everyone else out of the Winners Bracket of the Bullet Chess Championship 2024 (BCC).&#38;nbsp; Nakamura led by a vast margin throughout his match vs. GM Nihal Sarin. Naroditsky fought off ...",
@@ -658,14 +682,6 @@ news_feed (
          "title" : "FIDE June 2024 rating list published"
       },
       {
-         "description" : "GM Hikaru Nakamura is rated over 2800 for the first time in nine years after handing a third defeat in a row to World Champion Ding Liren. Nakamura is also world number-two after GM Fabiano Caruana cracked in the endgame for a second game in a row...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-5",
-         "pubDate" : "Sat, 01 Jun 2024 12:53:00",
-         "title" : "Nakamura Crosses 2800, World No. 2 As Carlsen, Praggnanandhaa Also Win"
-      },
-      {
          "description" : "I recently came across a handsome boxed chess set of some historical significance. Inscribed on a solid silver plaque , adorning the lid, were the words: To Mrs Rhoda A Bowles, from the Cambridge University Chess Club, in grateful recognition of her enthusiastic and sustained exertions on its behalf in the cause of International Chess []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -680,14 +696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3048",
          "pubDate" : "Sat, 01 Jun 2024 05:27:03",
          "title" : "FIDE World Championship Match 2024: Host city bids submitted"
-      },
-      {
-         "description" : "GM Andrew Tang won the inaugural 2024 Hyperbullet Chess Championship, the first event of the Chess.com Community Championships, on Friday. After losing a close match against&#38;nbsp;GM Daniel Naroditsky in the first round, he climbed through the Lose...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-hyperbullet-championship-tang-wins",
-         "pubDate" : "Fri, 31 May 2024 14:30:00",
-         "title" : "Tang Overthrows Naroditsky In Grand Final Reset To Win 1st Hyperbullet Championship"
       },
       {
          "description" : " Having suggested that the format of the 2024 Norway Chess event was contributing to overly drawish play, the next 2 rounds of the Open section saw 5 decisive games out of the 6 played. What really kicked things off seems to have been Prag beating Carlsen in a very simple and stylish manner. Carlsen then bounced back with a 4th round win over Caruana, while Prag went down to Nakamura. In the mean time Ding's struggles continue, losing to Caruana and Firouzja in successive rounds. At this stage Firouzja leads by half a point over Carlsen. The Women's event is a little more clear cut, with Vaishali leading by 2.5 points! <br /> <b>Praggnanandhaa, R vs Carlsen, Magnus</b><br /> Norway Chess 202",
@@ -1040,38 +1048,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indian-grandmaster-erigaisi-arjun-held-by-serbias-alexey-sarana-in-sharjah-masters-chess-tournament/articleshow/110340866.cms",
          "pubDate" : "Wed, 22 May 2024 16:21:43",
          "title" : "Erigaisi held by Sarana in Sharjah Masters chess tournament"
-      },
-      {
-         "description" : " South African International Master Watu Kobese International Master Watu Kobese has a chess resume as long as he is tall. He has added yet another venture into his portfolio. In what has become a popular trend in chess, Kobese sent The Chess Drum a message introducing a podcast titled &#8220;Chess, Nonsense &#38; Analysis.&#8221; It is The post <a href=\"https://www.thechessdrum.net/blog/2024/05/22/kobese-premiers-in-chess-nonsense-analysis/\">Watu Kobese premiers in new podcast!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/05/22/kobese-premiers-in-chess-nonsense-analysis/",
-         "pubDate" : "Wed, 22 May 2024 14:34:40",
-         "title" : "Watu Kobese premiers in new podcast!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3037",
-         "pubDate" : "Wed, 22 May 2024 12:37:59",
-         "title" : "FIDE Torch Relay Heads to Latin America"
-      },
-      {
-         "description" : "A letter from Arkady Dvorkovich, FIDE President, reads Dear Mr. Holowczak As you are aware, the FIDE Chess Olympiad 2024 will take place in...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/congratulations-ia-alex-holowczak-tap-chair-of-the-fide-chess-olympiad-2024/",
-         "pubDate" : "Wed, 22 May 2024 12:37:12",
-         "title" : "Congratulations IA Alex Holowczak, Technical Administration Panel Chair of the FIDE Chess Olympiad 2024!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110336311.cms\" />R Praggnanandhaa, a rising star in Indian chess, is confident as he prepares to face Magnus Carlsen at the upcoming Norway Chess tournament, commencing on May 27. The young Grandmaster has emerged victorious against the reigning world champion on multiple occasions in recent years. Most recently, Praggnanandhaa triumphed over the 33-year-old Norwegian at the Superbet rapid and blitz tournament, which was part of the Grand Chess Tour held in Warsaw earlier this month.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/playing-magnus-carlsen-in-his-home-turf-not-a-challenge-for-me-praggnanandhaa/articleshow/110336311.cms",
-         "pubDate" : "Wed, 22 May 2024 12:05:06",
-         "title" : "Playing Carlsen in his home turf not a challenge for me: Praggnanandhaa"
       }
    ]
 }
