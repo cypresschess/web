@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 4th Cairns Cup takes place Thu 13th Jun to Sun 23rd Jun 2024. Players: Zhongyi Tan, Mariya Muzychuk, Nana Dzagnidze, Anna Muzychuk, Harika Dronavalli, Alexandra Kosteniuk, Elisabeth Paehtz, Irina Krush, Alice Lee and Anna Zatonskih. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/4th-cairns-cup-2024",
+         "pubDate" : "Wed, 12 Jun 2024 23:00:00",
+         "title" : "4th Cairns Cup 2024 - Games and Results"
+      },
+      {
          "description" : "In this very instructive, and informative game, Svitlana managed to draw against a strong, Canadian IM. But the truth is, she almost had to forfeit the game! The reason for Svitlana arriving far too late to the game, and what you can learn from the opening, middle game with hanging pawns, and endgame technique, you will see in the video.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-beats-sachi-jain-to-maintain-sole-lead-in-world-junior-chess-championship/articleshow/110947702.cms",
          "pubDate" : "Wed, 12 Jun 2024 17:32:10",
          "title" : "Divya Deshmukh maintains sole lead in World Junior Chess C'ship"
+      },
+      {
+         "description" : "GM Hikaru Nakamura is through to the Grand Final of the 2024 Bullet Chess Championship&#38;nbsp;after beating Daniel Naroditsky 16.5-11.5. Naroditsky still has one life remaining and will play the winner of the match between GMs Alireza Firouzja and&#38;n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-ko-day-3",
+         "pubDate" : "Wed, 12 Jun 2024 15:55:00",
+         "title" : "Nakamura Storms Into Bullet Chess Grand Final"
       },
       {
          "description" : "It is startling to think that eight years have already passed by since the death, at the comparatively early age of 68, of the world's greatest chess trainer. It is equally startling to think that there will be a whole generation of chess players who know nothing about Mark Dvoretsky, his work or his achievements. Fortunately there is a new book from New in Chess to remind the chess world about Mark Dvoretsky. CHESS Magazine review by Sean Marsh.",
@@ -624,14 +640,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-stuns-world-no-2-fabiano-caruana-after-upseting-no-1-magnus-carlsen-in-classical-chess-to-climb-into-worlds-top-10/articleshow/110631680.cms",
          "pubDate" : "Sun, 02 Jun 2024 01:35:27",
          "title" : "Praggnanandhaa upsets No. 2 Caruana, climbs into world top 10"
-      },
-      {
-         "description" : "Days after his second-place finish in the Chess.com Hyperbullet Championship, GM Daniel Naroditsky finished atop June&#39;s first Bullet Brawl ahead of rival GMs Tuan Minh Le and Andrew Tang. After scoring 236 points in a run that included a precision...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-june-1-2024",
-         "pubDate" : "Sat, 01 Jun 2024 17:01:00",
-         "title" : "Naroditsky Out-Brawls Hyperbullet Rivals"
       },
       {
          "description" : "",
