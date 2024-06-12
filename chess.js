@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On June 7-9, former world champion Vladimir Kramnik faced Peruvian GM Jos&eacute; Mart&iacute;nez (now representing Mexico) in a blitz match consisting of over-the-board and online games. A total of 36 games were supposed to take place, but only 26 ended up being played due to Kramnik's complaints regarding technical issues in the online games. In the end, Mart&iacute;nez secured overall victory with two games to spare.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/clash-of-claims-2024-d1",
+         "pubDate" : "Wed, 12 Jun 2024 03:15:00",
+         "title" : "Mart&iacute;nez beats Kramnik in controversial match"
+      },
+      {
+         "description" : "GMs Hikaru Nakamura&#38;nbsp;and Daniel Naroditsky have knocked everyone else out of the Winners Bracket of the Bullet Chess Championship 2024 (BCC).&#38;nbsp; Nakamura led by a vast margin throughout his match vs. GM Nihal Sarin. Naroditsky fought off ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-ko-day-2",
+         "pubDate" : "Tue, 11 Jun 2024 17:35:00",
+         "title" : "Nakamura Unstoppable vs. Nihal, Naroditsky Overcomes Sevian's Comeback"
+      },
+      {
          "description" : "In this section we compare the risks playing a game of chess brings to your life - as compared to other activities a person may undertake. For example, riding a bike for 25 miles, running a marathon, climbing Matterhorn - or marrying Henry VIII. The assessment is given in micromort units, which can be used to generally calculate the risks under which people are in everyday life. | Picture Willie Benegas and Doug Pierson on Mountainmadness.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -704,14 +720,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/quick-easy-practice.html",
          "pubDate" : "Thu, 30 May 2024 14:04:00",
          "title" : "Quick easy practice"
-      },
-      {
-         "description" : "GM Hikaru Nakamura won a good game against&#38;nbsp;GM Praggnanandhaa Rameshbabu on Thursday to take over the lead from his opponent at Norway Chess 2024. Two more classical results included GM Magnus Carlsen scoring a vintage bounce-back-after-a-loss...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-4",
-         "pubDate" : "Thu, 30 May 2024 12:47:00",
-         "title" : "Nakamura New Leader In Norway As Round 4 Sees 5 Classical Wins"
       },
       {
          "description" : "",
