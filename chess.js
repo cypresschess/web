@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After six rounds the two Nodirbeks share the lead at the UzChess Masters in Tashkent, Uzbekistan: With 4.0/6 Nodirbek Yakubboev and Nodirbek Abdusattorov are half a point ahead of Javokhir Sindarov who is third with 3.5/4. All three are Grandmasters and all three are from Uzbekistan. The UzChess Masters is a strong 10-player round robin, in which all players have an Elo rating of 2600+ while eight of the participants have a rating of 2700+. Round 7 starts on Wednesday at 12.00 CEST (6.00 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/top-tournament-in-tashkent-the-uzchess-masters-live",
+         "pubDate" : "Wed, 12 Jun 2024 11:45:00",
+         "title" : "Top tournament in Tashkent - the UzChess Masters live"
+      },
+      {
+         "description" : " The final day of the 2024 NSW Open ended with a couple of surprise winners, after a very tough day of chess. Going into the final round there were 7 players tied for the lead on 5/6. The top board pairing saw IM Igor Bjelobrk and FM Gary McNamara reach a rook and pawn ending which ended in a draw when McNamara won a rook, but had to return it shortly afterwards to eliminate the last pawn on the board. On Board 2 IM George Xie was unable to break down CM Reyaansh Chakrabarty's solid play, and that game was drawn as well. Board 3 saw Willis Lo have the best of it for most of the game against Terrence Tang, until an attempt to avoid a bishop and wrong colour rook pawn finish blew up in his fac",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open-final-day.html",
+         "pubDate" : "Wed, 12 Jun 2024 11:27:00",
+         "title" : "2024 NSW Open - Final Day"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3062",
+         "pubDate" : "Wed, 12 Jun 2024 10:58:07",
+         "title" : "Chess tables in the prison yard of Alphen: A strategic move"
+      },
+      {
+         "description" : "Revolutionize your approach to the Caro-Kann Defense with this unique guide. We boldly confront the Caro-Kann Defense with the upcoming move 1.e4 c6 2.Nf3 d5 3.d3!? With this highly strategic choice, we disrupt Black's typical patterns and comfort zones and enter an early endgame full of chances for you. This line, championed by the AI phenomenon Leela Zero, has been embraced by top-level players including Carlsen, Vachier-Lagrave, Nepomniachtchi, Firouzja, Giri, and many more.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fabien-libiszewski-the-surprising-3-d3-against-the-caro-kann",
+         "pubDate" : "Wed, 12 Jun 2024 09:51:50",
+         "title" : "Fabien Libiszewski:The surprising 3.d3 against the Caro-Kann"
+      },
+      {
          "description" : "Round 6 of the UzChess Cup saw Nodirbek Abdusattorov beating Yu Yangyi to catch Nodirbek Yakubboev atop the standings. Abdusattorov outplayed Yu out of an Italian Opening. All remaining games ended drawn, leaving Javokhir Sindarov in sole third place as the only player standing a half point behind the co-leaders. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/clash-of-claims-2024-d1",
          "pubDate" : "Wed, 12 Jun 2024 03:15:00",
          "title" : "Mart&iacute;nez beats Kramnik in controversial match"
+      },
+      {
+         "description" : "GM Hans Niemann said on X that he has secured the necessary funds to play in the $4 million buy-in tournament alongside GMs Nodirbek Abdusattorov, Fabiano Caruana, and Ian Nepomniachtchi. Organizer Wadim Rosenstein confirmed to Chess.com that fund...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/niemann-secures-funds-for-4-million-buy-in-tournament",
+         "pubDate" : "Wed, 12 Jun 2024 00:33:00",
+         "title" : "Niemann Secures Funds For $4 Million Buy-In Tournament"
       },
       {
          "description" : "GMs Hikaru Nakamura&#38;nbsp;and Daniel Naroditsky have knocked everyone else out of the Winners Bracket of the Bullet Chess Championship 2024 (BCC).&#38;nbsp; Nakamura led by a vast margin throughout his match vs. GM Nihal Sarin. Naroditsky fought off ...",
@@ -666,14 +706,6 @@ news_feed (
          "title" : "Polish Chess Championships 2024: Double victory for married couple"
       },
       {
-         "description" : "At just 10 years old, Argentinian chess prodigy FM Faustino Oro is making significant strides towards achieving the international master (IM) title. On Friday, Oro secured his second norm, edging closer to becoming one of the youngest to ever achi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-edges-closer-to-im-title-at-10",
-         "pubDate" : "Fri, 31 May 2024 08:02:00",
-         "title" : "Faustino Oro Edges Closer To Historic IM Title At 10"
-      },
-      {
          "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a leading chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is happy to unveil the latest upgrade to FIDE Online Arena (the \"Arena\"). <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/SUieXr5GFKk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess is the exclusive operator of the FIDE Online Arena, a chess platform which allows paid members to receive an online rating recognised by FIDE, the international chess federation and world governing body recognised by the International Olympic Commi",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -1040,30 +1072,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/playing-magnus-carlsen-in-his-home-turf-not-a-challenge-for-me-praggnanandhaa/articleshow/110336311.cms",
          "pubDate" : "Wed, 22 May 2024 12:05:06",
          "title" : "Playing Carlsen in his home turf not a challenge for me: Praggnanandhaa"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3035",
-         "pubDate" : "Wed, 22 May 2024 10:16:25",
-         "title" : "Chess for Freedom Conference 2024: List of speakers announced"
-      },
-      {
-         "description" : " The 7th Sharjah Masters took place 14th to 22nd May 2024. Top seeds: Erigaisi, Maghsoodloo, Yu Yangyi, Radjabov, Tabatabaei, Sarana, Artemiev, Esipenko, Fedoseev, Sevian etc. Bardiya Daneshvar of Iran took first place on tie-break from Volodar Murzin, Sam Shankland and Shamsiddin Vokhidov, all scored 6.5/9. Deshmukh Divya won the Challengers ahead of Leya Garifullina and Sina Movahed on tie-break after all scored 7/9.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/7th-sharjah-masters-2024",
-         "pubDate" : "Wed, 22 May 2024 09:36:00",
-         "title" : "7th Sharjah Masters 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3036",
-         "pubDate" : "Wed, 22 May 2024 09:16:24",
-         "title" : "Unveiling triumphs of 11th Dhamso International Chess Festival 2024"
       }
    ]
 }
