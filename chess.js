@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live",
+         "pubDate" : "Thu, 13 Jun 2024 19:45:00",
+         "title" : "Cairns Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3063",
+         "pubDate" : "Thu, 13 Jun 2024 19:14:54",
+         "title" : "FIDE World Amateur Championship 2024: Registration is open"
+      },
+      {
+         "description" : "Combining Fritz 19 with the Opening Encyclopedia 2024 enhances chess training by providing comprehensive opening strategies and interactive practice. Users can easily load the Encyclopedia in Fritz 19, explore detailed opening suggestions, and play annotated games directly against Fritz to test their understanding. This integration allows for a systematic study of various chess openings, making training both effective and engaging. Thomas Stark and Arne Kaehler will guide you in the video.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/how-to-use-the-opening-encyclopaedia-2024-with-fritz-19-tutorial",
+         "pubDate" : "Thu, 13 Jun 2024 18:15:05",
+         "title" : "How to use the Opening Encyclopaedia 2024 with Fritz 19 - Tutorial"
+      },
+      {
+         "description" : " Dominica The island of Dominica recently held its National Chess Championships, including its first Women's Finals from May 30th to June 6th. The venue was the Dominica State College, which attracted the island's best. In fact, Dr. Jones Murphy, Jr. came from the U.S. to compete in the tournament for the first time in 40 The post <a href=\"https://www.thechessdrum.net/blog/2024/06/13/2024-dominica-chess-championships/\">2024 Dominica Chess Championships</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/06/13/2024-dominica-chess-championships/",
+         "pubDate" : "Thu, 13 Jun 2024 17:59:28",
+         "title" : "2024 Dominica Chess Championships"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110975473.cms\" />Divya Deshmukh, a skilled Indian chess player, triumphed in the World Junior Girls' chess championship on Thursday by outplaying Bulgaria's Beloslava Krasteva. The International Master concluded the event with a remarkable tally of 10 points out of 11, establishing a half-point advantage over Armenia's Mariam Mkrtchyan, who secured the second position at the Gift City. Deshmukh's outstanding performance throughout the tournament showcased her exceptional chess prowess and strategic thinking. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-divya-deshmukh-wins-world-junior-girls-chess-title/articleshow/110975473.cms",
+         "pubDate" : "Thu, 13 Jun 2024 16:13:33",
+         "title" : "India's Divya Deshmukh wins World Junior Girls chess title"
+      },
+      {
          "description" : "The FIDE Ethics Commission is threatening to expel the Russian Chess Federation from FIDE for, among other things, organising chess tournaments in areas of Ukraine occupied by Russia in violation of international law. It has also reprimanded FIDE President Arkadij Dvorkovich for his close ties to sanctioned members of the Russian government. Unsurprisingly, Russia criticised the Ethics Commission's decision.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1000,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3039",
          "pubDate" : "Thu, 23 May 2024 20:28:58",
          "title" : "EDU Commission announces its 17th \"Preparation of Teachers\" course"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3038",
-         "pubDate" : "Thu, 23 May 2024 17:27:31",
-         "title" : "FIDE World Senior Championships 2024: Registration is open"
       }
    ]
 }
