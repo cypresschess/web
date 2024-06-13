@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Ethics Commission is threatening to expel the Russian Chess Federation from FIDE for, among other things, organising chess tournaments in areas of Ukraine occupied by Russia in violation of international law. It has also reprimanded FIDE President Arkadij Dvorkovich for his close ties to sanctioned members of the Russian government. Unsurprisingly, Russia criticised the Ethics Commission's decision.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/reactions-to-the-decision-of-the-fide-ethics-commission",
+         "pubDate" : "Thu, 13 Jun 2024 15:00:00",
+         "title" : "Reactions to the decision of the FIDE Ethics Commission"
+      },
+      {
+         "description" : " I've just received an email from the FIDE Historical Commission, asking me to nominate the 10 best male and 10 best female players in history. This is part of the celebrations for FIDE's 100th Anniversary. I've probably attempted this a couple of time previously on this blog (at least for the list of male players), although I will have to go searching. The actual deadline for submissions is very short (1rth June), but if you think you can help me out here, I'm willing to listen to suggestions in the comments section. NB The request is the 10 'best' players, which indicates that playing strength is the overriding consideration, which may rule out 'significant' players, who may have had an im",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/the-top-ten.html",
+         "pubDate" : "Thu, 13 Jun 2024 13:33:00",
+         "title" : "The Top Ten"
+      },
+      {
          "description" : "Rounds 4 and 5 of the three events that make up the Madrid Chess Festival took place on Wednesday. The Closed A tournament has Levy Rozman, also known as Gotham Chess, topping the standings with 4/5 points. The famous streamer defeated Cuban GM Lelys Mart&iacute;nez with the white pieces in round 5. Meanwhile, three players are sharing the lead in the Closed B event, which has 10-year-old Faustino Oro in fifth place with a fifty-percent score. | Photo: Federico Mar&iacute;n's X account",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -992,22 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3038",
          "pubDate" : "Thu, 23 May 2024 17:27:31",
          "title" : "FIDE World Senior Championships 2024: Registration is open"
-      },
-      {
-         "description" : " IM Robert Gwaze is always in conversations about Africa's brightest moments in history. Since his 2002 gold medal at the Bled Olympiad, he has written his memoirs, Life and Games of Robert Gwaze. There had always been the thought that Gwaze was poised to earn his Grandmaster title. However, his competitive play has been inconsistent The post <a href=\"https://www.thechessdrum.net/blog/2024/05/23/robert-gwaze-resurfaces-wins-namibia-open/\">Robert Gwaze resurfaces, wins Namibia Open</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/05/23/robert-gwaze-resurfaces-wins-namibia-open/",
-         "pubDate" : "Thu, 23 May 2024 15:26:20",
-         "title" : "Robert Gwaze resurfaces, wins Namibia Open"
-      },
-      {
-         "description" : " The 2024 ACT Chess Championship starts tomorrow, running across the Reconciliation Day long weekend. As of this evening here are 52 players entered, with IM Junta Ikeda and FM Michael Kethro as the top seeds. As it is an open event, there are also a bunch of interstate players taking part, noting that while they are eligible for prizes, they are not eligible for the Championship title. The first round is at 7pm tomorrow (Friday) and and has 2 rounds on each of the following days. It is not too late to enter, and you can do so via <a href=\"https://www.trybooking.com/CRNMU\">https://www.trybooking.com/CRNMU</a> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championship-begins-tomorrow.html",
-         "pubDate" : "Thu, 23 May 2024 12:52:00",
-         "title" : "2024 ACT Championship begins tomorrow"
       }
    ]
 }
