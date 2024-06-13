@@ -42,7 +42,7 @@ news_feed (
          "title" : "Divya Deshmukh maintains sole lead in World Junior Chess C'ship"
       },
       {
-         "description" : "GM Hikaru Nakamura is through to the Grand Final of the 2024 Bullet Chess Championship&#38;nbsp;after beating Daniel Naroditsky 16.5-11.5. Naroditsky still has one life remaining and will play the winner of the match between GMs Alireza Firouzja and&#38;n...",
+         "description" : "GM Hikaru Nakamura is through to the Grand Final of the 2024 Bullet Chess Championship after beating GM Daniel Naroditsky 16.5-11.5. Naroditsky still has one life remaining and will play the winner of the match between GMs Alireza Firouzja and&#38;nbs...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-ko-day-3",
