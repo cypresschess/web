@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3064",
+         "pubDate" : "Thu, 13 Jun 2024 20:12:04",
+         "title" : "Cairns Cup 2024 begins in St. Louis"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/reactions-to-the-decision-of-the-fide-ethics-commission",
          "pubDate" : "Thu, 13 Jun 2024 15:00:00",
          "title" : "Reactions to the decision of the FIDE Ethics Commission"
+      },
+      {
+         "description" : "GM Alireza Firouzja has pulled off a stunning triumph to claim his second Bullet Chess Championship after winning four matches on the final day. He won gruelling matches against GMs Sam Sevian and Daniel Naroditsky and considered conceding the tit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-ko-day-4",
+         "pubDate" : "Thu, 13 Jun 2024 13:38:00",
+         "title" : "Firouzja Beats Nakamura Twice To Win Bullet Chess Championship"
       },
       {
          "description" : " I've just received an email from the FIDE Historical Commission, asking me to nominate the 10 best male and 10 best female players in history. This is part of the celebrations for FIDE's 100th Anniversary. I've probably attempted this a couple of time previously on this blog (at least for the list of male players), although I will have to go searching. The actual deadline for submissions is very short (1rth June), but if you think you can help me out here, I'm willing to listen to suggestions in the comments section. NB The request is the 10 'best' players, which indicates that playing strength is the overriding consideration, which may rule out 'significant' players, who may have had an im",
@@ -690,14 +706,6 @@ news_feed (
          "title" : "What is up with Ding?"
       },
       {
-         "description" : "World number-one Magnus Carlsen has taken over as the leader of Norway Chess 2024 after World Champion Ding Liren&#38;nbsp;blundered into mate-in-two and sank to a fourth loss in a row. Elsewhere there was armageddon revenge for the first-round result...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-6",
-         "pubDate" : "Sun, 02 Jun 2024 13:00:00",
-         "title" : "Carlsen Leads Norway Chess After Ding Blunders Mate-In-2"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110634384.cms\" />Indian chess prodigy Rameshbabu Praggnanandhaa, 18, stunned the chess world with victories at the 2024 Norway Chess tournament. He defeated top-ranked players Magnus Carlsen and Fabiano Caruana in classical chess, earning praise from figures like Gautam Adani. Praggnanandhaa's achievements solidify his status as a rising star in the international chess community.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/may/24/chess-carlsen-wins-in-casablanca-as-new-variant-tests-historic-skills",
          "pubDate" : "Fri, 24 May 2024 07:00:13",
          "title" : "Chess: Carlsen wins in Casablanca as new variant tests historic skills"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3039",
-         "pubDate" : "Thu, 23 May 2024 20:28:58",
-         "title" : "EDU Commission announces its 17th \"Preparation of Teachers\" course"
       }
    ]
 }
