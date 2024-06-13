@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Rounds 4 and 5 of the three events that make up the Madrid Chess Festival took place on Wednesday. The Closed A tournament has Levy Rozman, also known as Gotham Chess, topping the standings with 4/5 points. The famous streamer defeated Cuban GM Lelys Mart&iacute;nez with the white pieces in round 5. Meanwhile, three players are sharing the lead in the Closed B event, which has 10-year-old Faustino Oro in fifth place with a fifty-percent score. | Photo: Federico Mar&iacute;n's X account",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/madrid-chess-festival-2024-d3",
+         "pubDate" : "Thu, 13 Jun 2024 06:30:00",
+         "title" : "Madrid Chess Festival: Rozman sole leader in main event"
+      },
+      {
+         "description" : "&#160;&#160;&#160;&#160;India beat Pakistan in Asian Youth Chess Championship in Kazakhstan It sounds like the first day of the Asian Youth Chess Championship in Almaty, Kazakhstan,",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/classical-chess-aycc-2024-day-1/",
+         "pubDate" : "Thu, 13 Jun 2024 06:17:24",
+         "title" : "Classical Chess - AYCC 2024 Day-1"
+      },
+      {
          "description" : " The 4th Cairns Cup takes place Thu 13th Jun to Sun 23rd Jun 2024. Players: Zhongyi Tan, Mariya Muzychuk, Nana Dzagnidze, Anna Muzychuk, Harika Dronavalli, Alexandra Kosteniuk, Elisabeth Paehtz, Irina Krush, Alice Lee and Anna Zatonskih. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -898,14 +914,6 @@ news_feed (
          "title" : "12th Norway Chess 2024 - Games and Results"
       },
       {
-         "description" : "*Player finished first in corresponding Nationals Age Group over the board Championship for the year 2023: Rs. 16,290/- *The Players: Rs. 1,20,870/- (Single Room Accommodation)",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/7th-western-asian-youth-chess-championship-2024-in-sri-lanka-from-7th-to-16th-july-2024/",
-         "pubDate" : "Sun, 26 May 2024 16:45:05",
-         "title" : "7th Western Asian Youth Chess Championship - 2024 in Sri Lanka from 7th to 16th July, 2024"
-      },
-      {
          "description" : " IM Junta Ikeda has taken the outright lead in the 2024 ACT Chess Championship, after another 2 wins on day 3. He beat CM Lalit Prasad in the morning round, and then CM Hui Li in round 5. Li had drawn with FM Michael Kethro in the 4th round before being outplayed by Ikeda in the days 2nd round. Kethro defeated Harry Johnson in the 5th round to move to 4.5, and will now play Ikeda in Round 6 tomorrow. Reyaansh Chakrabarty recovered from his round 3 disaster to win both game today and is tied for 3rd alongside Prasad, Thomas Gatzen-O'Keefe and Tim Pearce. <br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -944,14 +952,6 @@ news_feed (
          "link" : "https://www.europechess.org/norway-chess-2024-starts-in-stavanger/",
          "pubDate" : "Sat, 25 May 2024 08:57:02",
          "title" : "Norway Chess 2024 starts in Stavanger"
-      },
-      {
-         "description" : "In the 1971 Candidate Matches Bobby Fischer faced Mark Taimanov In Vancouver, Canada. The American defeated his opponent from the Soviet Union with a \"dry\" 6-0 score. But matters could have started differently. In the first game it was Taimanov who put on the pressure, and even had winning chances. He played 27.h3, which nobody considered a bad move - until Kasparov pointed out its defect in 2004. Today's riddle deals with the position before White's 27th move. Computers find it devilishly difficult to find the best continuation. Can you?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/could-taimanov-have-beaten-fischer",
-         "pubDate" : "Fri, 24 May 2024 19:00:00",
-         "title" : "Could Taimanov have beaten Fischer?"
       },
       {
          "description" : " The 2024 ACT Chess Championship has started with a large field of 56 players. As an open event it does have a significant 'tail' but the top end of the event still has a number of strong players. IM Junta Ikeda and FM Michael Kethro are the two favoured local players, with Reyansh Chakrabarty (NSW) checking in as number 2 seed. The first round went according to seeding, with one exception. Tim Pearce dropped an exchange to local junior Louis Chen, who then methodically reduce material until Pearce was left in a lost king and pawn ending. Paul Dunn held out the longest against a stronger opponent, until walking into a game ending tactic against CM Lalit Prasad. You can see the tournament res",
