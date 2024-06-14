@@ -58,7 +58,7 @@ news_feed (
          "title" : "2024 Dominica Chess Championships"
       },
       {
-         "description" : "20-year-old IM Kazybek Nogerbek was only the ninth seed but edged out 13 grandmasters to win the 2024 FIDE World Junior Chess Championship. The Girl&#39;s section was dominated by 18-year-old top-seed IM Divya Deshmukh from India to win on an undefeat...",
+         "description" : "20-year-old IM Kazybek Nogerbek was only the ninth seed but edged out 13 grandmasters to win the 2024 FIDE World Junior Chess Championship. The Girl&#39;s section was dominated by 18-year-old top-seed IM Divya Deshmukh from India, who won with an unde...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nogerbek-wins-close-race-in-world-junior-championship-deshmukh-dominates-girls",
