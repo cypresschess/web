@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
+         "pubDate" : "Fri, 14 Jun 2024 19:30:00",
+         "title" : "Cairns Cup, Round 2 - Live!"
+      },
+      {
          "description" : "The 2024 Cairns Cup kicked off yesterday in St. Louis. Three World Champions take part in the strong women's tournament, and all three won in the first round. Chess legend Nona Gaprindashvili opened the tournament as guest of honour. | Photos: St. Louis Chess Club/ Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,6 +26,14 @@ news_feed (
          "title" : "Nogerbek Kazybek and Divya Deshmukh triumph at Word Junior Championship 2024"
       },
       {
+         "description" : "Bottom-seed GM Nodirbek Yakubboev edged out top-seed GM Nodirbek Abdusattorov on tiebreaks to claim the $25,000 first prize at the UzChess Cup Masters, part of a bigger chess festival in Tashkent, Uzbekistan. The two Uzbek GMs scored 5.5/9, half a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nodirbek-yakubboev-wins-2024-uzchess-cup",
+         "pubDate" : "Fri, 14 Jun 2024 10:44:00",
+         "title" : "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov"
+      },
+      {
          "description" : "Every summer Greece organises chess tournaments that give participants the opportunity to combine chess games with holidays in scenic travel destinations. The international tournament with the longest tradition in Greece is the 'Ikaros' tournament, which for 47 consecutive years, every July, takes place on the island of Ikaria. In a truly relaxed atmosphere chess players from all over the world can enjoy an international tournament in a magnificent island landscape. This year, the 47th edition of the tournament, will be from 11 to 18 July 2024 and is part of the celebration of the 100 years of FIDE.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "The Greek Chess Island of Ikaria"
       },
       {
-         "description" : " Magnus Carlsen continued his winning streak in Norway as Hikaru Nakamura gained the No2 ranking and a 2800 rating, but China's world champion finished a poor last of six Norway Chess, last weekend's $161,000 event in Stavanger, was Magnus Carlsen's 10th victory in his last 11 starts, and also a significant success for Hikaru Nakamura. The 36-year-old streamer regained a 2800 rating, and passed Fabiano Caruana to take over as No 2 in the Fide world rankings. Carlsen assessed it as \"a good performance, not a sparkling performance by any means, but I feel I was quite professional in the way that I handled the last seven games or so. My mindset went from trying to play fun chess, which wasn't f",
+         "description" : " Magnus Carlsen continued his winning streak in Norway as Hikaru Nakamura gained the No 2 ranking, but China's world champion finished a poor last of six Norway Chess, last weekend's $161,000 event in Stavanger, was Magnus Carlsen's 10th victory in his last 11 starts, and also a significant success for Hikaru Nakamura. The 36-year-old streamer regained a 2800 rating, and passed Fabiano Caruana to take over as No 2 in the Fide world rankings. Carlsen assessed it as \"a good performance, not a sparkling performance by any means, but I feel I was quite professional in the way that I handled the last seven games or so. My mindset went from trying to play fun chess, which wasn't fun at all, to mor",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/jun/14/chess-carlsen-and-nakamura-dominate-in-stavanger-while-ding-falters-again",
@@ -664,14 +680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3052",
          "pubDate" : "Mon, 03 Jun 2024 13:02:30",
          "title" : "Roberto Garc&iacute;a Pantoja wins XVII Absolute Championship of the Americas"
-      },
-      {
-         "description" : "GM Hikaru Nakamura closed the gap to Norway Chess 2024 leader GM&#38;nbsp;Magnus Carlsen down to to half a point after winning an armageddon thriller on time. World Champion Ding Liren ended his losing streak to draw against GM Praggnanandhaa Rameshba...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-7",
-         "pubDate" : "Mon, 03 Jun 2024 12:59:00",
-         "title" : "Nakamura Beats Carlsen On Time To Close Gap, Muzychuk Takes Sole Lead"
       },
       {
          "description" : "The European School Chess Championship 2024 is underway in Limerick, Ireland, with nearly 200 participants coming from 17 European federations. Three rounds have already been played over six age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Scoring perfect 3/3 points, Omer Taha Dede (TUR) and Amandeep Singh (ENG) co-lead in he U7 section, while five players tie for the top in the GU7 category with the score of 2 points each: Miray Akindi (TUR), []",
