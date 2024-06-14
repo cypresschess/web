@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 Cairns Cup kicked off yesterday in St. Louis. Three World Champions take part in the strong women's tournament, and all three won in the first round. Chess legend Nona Gaprindashvili opened the tournament as guest of honour. | Photos: St. Louis Chess Club/ Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-kick-off-with-four-world-champions",
+         "pubDate" : "Fri, 14 Jun 2024 17:03:36",
+         "title" : "Cairns Cup: Kick-off with four World Champions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3065",
+         "pubDate" : "Fri, 14 Jun 2024 12:13:46",
+         "title" : "Nogerbek Kazybek and Divya Deshmukh triumph at Word Junior Championship 2024"
+      },
+      {
          "description" : "Every summer Greece organises chess tournaments that give participants the opportunity to combine chess games with holidays in scenic travel destinations. The international tournament with the longest tradition in Greece is the 'Ikaros' tournament, which for 47 consecutive years, every July, takes place on the island of Ikaria. In a truly relaxed atmosphere chess players from all over the world can enjoy an international tournament in a magnificent island landscape. This year, the 47th edition of the tournament, will be from 11 to 18 July 2024 and is part of the celebration of the 100 years of FIDE.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -63,7 +79,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nogerbek-wins-close-race-in-world-junior-championship-deshmukh-dominates-girls",
          "pubDate" : "Thu, 13 Jun 2024 17:35:00",
-         "title" : "Nogerbek Becomes World Junior Champion In Close Race, Deshmukh Dominates Girls"
+         "title" : "Nogerbek Becomes World Junior Champion In Close Race, Divya Dominates Girls"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110975473.cms\" />Divya Deshmukh, a skilled Indian chess player, triumphed in the World Junior Girls' chess championship on Thursday by outplaying Bulgaria's Beloslava Krasteva. The International Master concluded the event with a remarkable tally of 10 points out of 11, establishing a half-point advantage over Armenia's Mariam Mkrtchyan, who secured the second position at the Gift City. Deshmukh's outstanding performance throughout the tournament showcased her exceptional chess prowess and strategic thinking. ",
@@ -1008,22 +1024,6 @@ news_feed (
          "link" : "https://www.europechess.org/norway-chess-2024-starts-in-stavanger/",
          "pubDate" : "Sat, 25 May 2024 08:57:02",
          "title" : "Norway Chess 2024 starts in Stavanger"
-      },
-      {
-         "description" : " The 2024 ACT Chess Championship has started with a large field of 56 players. As an open event it does have a significant 'tail' but the top end of the event still has a number of strong players. IM Junta Ikeda and FM Michael Kethro are the two favoured local players, with Reyansh Chakrabarty (NSW) checking in as number 2 seed. The first round went according to seeding, with one exception. Tim Pearce dropped an exchange to local junior Louis Chen, who then methodically reduce material until Pearce was left in a lost king and pawn ending. Paul Dunn held out the longest against a stronger opponent, until walking into a game ending tactic against CM Lalit Prasad. You can see the tournament res",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championship-day-1.html",
-         "pubDate" : "Fri, 24 May 2024 14:36:00",
-         "title" : "2024 ACT Championship - Day 1"
-      },
-      {
-         "description" : "The English Seniors Championship starts today with two sections (50+ and 65+) over seven rounds from Friday 24th May to Tuesday 28th May. For further...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-seniors-entry-closing-soon/",
-         "pubDate" : "Fri, 24 May 2024 12:30:23",
-         "title" : "English Seniors Championship starts today"
       }
    ]
 }
