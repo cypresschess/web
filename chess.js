@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " &#8220;The Battle of the Ages&#8221; kicked off on June 11th, pitting global ambassador Tunde Onakoya against Nigerian phenom Deborah Quickpen. The atmosphere was electric, and the venue was splendid, with many dignitaries attending the intergenerational match. The Daniel Ford Foundation sponsored the match, which took place in Lagos. The Initiatives Four years ago, social media The post <a href=\"https://www.thechessdrum.net/blog/2024/06/14/nigerias-the-battle-of-the-ages-fought-to-exciting-draw/\">Nigeria's &#8220;The Battle of the Ages&#8221; fought to exciting draw!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/06/14/nigerias-the-battle-of-the-ages-fought-to-exciting-draw/",
+         "pubDate" : "Fri, 14 Jun 2024 23:11:41",
+         "title" : "Nigeria's \"The Battle of the Ages\" fought to exciting draw!"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
