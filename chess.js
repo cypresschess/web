@@ -42,6 +42,14 @@ news_feed (
          "title" : "2024 Dominica Chess Championships"
       },
       {
+         "description" : "20-year-old IM Kazybek Nogerbek was only the ninth seed but edged out 13 grandmasters to win the 2024 FIDE World Junior Chess Championship. The Girl&#39;s section was dominated by 18-year-old top-seed IM Divya Deshmukh from India to win on an undefeat...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nogerbek-wins-close-race-in-world-junior-championship-deshmukh-dominates-girls",
+         "pubDate" : "Thu, 13 Jun 2024 17:35:00",
+         "title" : "Nogerbek Becomes World Junior Champion In Close Race, Deshmukh Dominates Girls"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110975473.cms\" />Divya Deshmukh, a skilled Indian chess player, triumphed in the World Junior Girls' chess championship on Thursday by outplaying Bulgaria's Beloslava Krasteva. The International Master concluded the event with a remarkable tally of 10 points out of 11, establishing a half-point advantage over Armenia's Mariam Mkrtchyan, who secured the second position at the Gift City. Deshmukh's outstanding performance throughout the tournament showcased her exceptional chess prowess and strategic thinking. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -58,7 +66,7 @@ news_feed (
          "title" : "Reactions to the decision of the FIDE Ethics Commission"
       },
       {
-         "description" : "GM Alireza Firouzja has pulled off a stunning triumph to claim his second Bullet Chess Championship after winning four matches on the final day. He won gruelling matches against GMs Sam Sevian and Daniel Naroditsky and considered conceding the tit...",
+         "description" : "GM Alireza Firouzja has pulled off a stunning triumph to claim his second Bullet Chess Championship after winning four matches on the final day. He won grueling encounters with GMs Sam Sevian and Daniel Naroditsky and was on the verge of pulling o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-ko-day-4",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.europechess.org/three-rounds-played-at-the-european-school-chess-championship-2024/",
          "pubDate" : "Mon, 03 Jun 2024 09:20:14",
          "title" : "Three rounds played at the European School Chess Championship 2024"
-      },
-      {
-         "description" : "Chess.com is excited to announce Chess Events, a brand new app that isolates key features of the site and main app to streamline a user&#39;s experience with major events. Chess Events will help you stay up-to-date with the latest tournaments and resu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-announces-chess-events-app",
-         "pubDate" : "Mon, 03 Jun 2024 08:00:00",
-         "title" : "Chess.com Announces Chess Events App"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110650877.cms\" />The Norway Chess tournament saw Magnus Carlsen solidify his lead with a victory over Ding Liren, reaching 12 points. Fabiano Caruana's win over Hikaru Nakamura left Nakamura one point behind Carlsen. Indian players faced setbacks; R Praggnanandhaa lost in the Armageddon tiebreaker to Firouzja Alireza, and R Vaishali was defeated by Wenjun Ju, leaving her just half a point behind the leaders.",
