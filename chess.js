@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Every summer Greece organises chess tournaments that give participants the opportunity to combine chess games with holidays in scenic travel destinations. The international tournament with the longest tradition in Greece is the 'Ikaros' tournament, which for 47 consecutive years, every July, takes place on the island of Ikaria. In a truly relaxed atmosphere chess players from all over the world can enjoy an international tournament in a magnificent island landscape. This year, the 47th edition of the tournament, will be from 11 to 18 July 2024 and is part of the celebration of the 100 years of FIDE.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-chess-island-of-ikaaria",
+         "pubDate" : "Fri, 14 Jun 2024 07:07:14",
+         "title" : "The Greek Chess Island of Ikaria"
+      },
+      {
+         "description" : " Magnus Carlsen continued his winning streak in Norway as Hikaru Nakamura gained the No2 ranking and a 2800 rating, but China's world champion finished a poor last of six Norway Chess, last weekend's $161,000 event in Stavanger, was Magnus Carlsen's 10th victory in his last 11 starts, and also a significant success for Hikaru Nakamura. The 36-year-old streamer regained a 2800 rating, and passed Fabiano Caruana to take over as No 2 in the Fide world rankings. Carlsen assessed it as \"a good performance, not a sparkling performance by any means, but I feel I was quite professional in the way that I handled the last seven games or so. My mindset went from trying to play fun chess, which wasn't f",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/jun/14/chess-carlsen-and-nakamura-dominate-in-stavanger-while-ding-falters-again",
+         "pubDate" : "Fri, 14 Jun 2024 07:00:44",
+         "title" : "Chess: Carlsen and Nakamura dominate in Stavanger, while Ding falters again"
+      },
+      {
+         "description" : "Former women&#39;s world chess champions GMs Tan Zhongyi, Mariya Muzychuk, and Alexandra Kosteniuk opened with victories in the first round of the Cairns Cup 2024 which began at the Saint Louis Chess Club on Thursday. Muzychuk&#39;s game featured a twin e...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-1",
+         "pubDate" : "Thu, 13 Jun 2024 20:41:00",
+         "title" : "Wins For Former World Champions Tan, Kosteniuk, Mariya Muzychuk"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3064",
          "pubDate" : "Thu, 13 Jun 2024 20:12:04",
          "title" : "Cairns Cup 2024 begins in St. Louis"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live",
-         "pubDate" : "Thu, 13 Jun 2024 19:45:00",
-         "title" : "Cairns Cup - Live!"
       },
       {
          "description" : "",
@@ -82,14 +98,6 @@ news_feed (
          "title" : "The Top Ten"
       },
       {
-         "description" : "Rounds 4 and 5 of the three events that make up the Madrid Chess Festival took place on Wednesday. The Closed A tournament has Levy Rozman, also known as Gotham Chess, topping the standings with 4/5 points. The famous streamer defeated Cuban GM Lelys Mart&iacute;nez with the white pieces in round 5. Meanwhile, three players are sharing the lead in the Closed B event, which has 10-year-old Faustino Oro in fifth place with a fifty-percent score. | Photo: Federico Mar&iacute;n's X account",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/madrid-chess-festival-2024-d3",
-         "pubDate" : "Thu, 13 Jun 2024 06:30:00",
-         "title" : "Madrid Chess Festival: Rozman sole leader in main event"
-      },
-      {
          "description" : "&#160;&#160;&#160;&#160;India beat Pakistan in Asian Youth Chess Championship in Kazakhstan It sounds like the first day of the Asian Youth Chess Championship in Almaty, Kazakhstan,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/4th-cairns-cup-2024",
          "pubDate" : "Wed, 12 Jun 2024 23:00:00",
          "title" : "4th Cairns Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "In this very instructive, and informative game, Svitlana managed to draw against a strong, Canadian IM. But the truth is, she almost had to forfeit the game! The reason for Svitlana arriving far too late to the game, and what you can learn from the opening, middle game with hanging pawns, and endgame technique, you will see in the video.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-svitlana-s-important-draw-against-an-im",
-         "pubDate" : "Wed, 12 Jun 2024 18:00:00",
-         "title" : "Svitlana's Smart Moves - Svitlana's important draw against an IM"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110947702.cms\" />Top seed Divya Deshmukh maintained her sole lead by defeating fellow Indian Sachi Jain in the 10th round of the World Junior Girls' Chess Championship in Gandhinagar on Wednesday. Divya's attacking play ensured a podium finish with nine points from 10 games, half a point ahead of Armenia's Mariam Mkrtchiyan, who beat Sri Lankan Oshini Gunawardhana Devindya.",
@@ -658,14 +658,6 @@ news_feed (
          "title" : "Nakamura Beats Carlsen On Time To Close Gap, Muzychuk Takes Sole Lead"
       },
       {
-         "description" : "You&#38;rsquo;ve played fun, new monthly Chess.com bots for years. Now it&#38;rsquo;s time for you to play the first chess robot ever built, The Mechanical Turk!&#38;nbsp; Created in 1770, The Mechanical Turk was a chess playing automaton that toured around...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/play-chess-against-the-mechanical-turk",
-         "pubDate" : "Mon, 03 Jun 2024 12:05:00",
-         "title" : "Play Against The Mechanical Turk and Friends!"
-      },
-      {
          "description" : "The European School Chess Championship 2024 is underway in Limerick, Ireland, with nearly 200 participants coming from 17 European federations. Three rounds have already been played over six age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Scoring perfect 3/3 points, Omer Taha Dede (TUR) and Amandeep Singh (ENG) co-lead in he U7 section, while five players tie for the top in the GU7 category with the score of 2 points each: Miray Akindi (TUR), []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1032,14 +1024,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-seniors-entry-closing-soon/",
          "pubDate" : "Fri, 24 May 2024 12:30:23",
          "title" : "English Seniors Championship starts today"
-      },
-      {
-         "description" : " The world No 1 identified most of the six positions from previous world championships and exploited Vishy Anand's unfamiliarity with a classic from Havana 1889 The innovative Casablanca variant, where today's best players tested their skills on historic games from the past, sparked some surprise results on its debut in Morocco last weekend. The event had four participants, each representing a continent: the world No 1, Magnus Carlsen (Europe), the former world champion Vishy Anand (Asia), the world No 3, Hikaru Nakamura (America), and Egypt's top grandmaster, Bassim Amin (Africa). Four positions were chosen by experts, two by the audience. Carlsen is well versed in chess history, and correc",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/may/24/chess-carlsen-wins-in-casablanca-as-new-variant-tests-historic-skills",
-         "pubDate" : "Fri, 24 May 2024 07:00:13",
-         "title" : "Chess: Carlsen wins in Casablanca as new variant tests historic skills"
       }
    ]
 }
