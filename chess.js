@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two decisive results in round 2 left four players tied for first place at the Cairns Cup in Saint Louis, with Harika Dronavalli and Nana Dzagnidze joining Mariya Muzychuk and Tan Zhongyi at the top of the standings. While Harika got the better of Alexandra Kosteniuk, Dzagnidze inflicted a second consecutive loss on defending champion Anna Zatonskih. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-2",
+         "pubDate" : "Sat, 15 Jun 2024 17:15:00",
+         "title" : "Cairns Cup: Four co-leaders, Harika and Dzagnidze score"
+      },
+      {
+         "description" : "Kazybek Nogerbek from Kazakhstan and Divya Deshmuk from India are the new U20 World Champions. Bogerbek won the decisive game in the final round against former leader Mamikon Gharibyan from Armenia, while Divy also won her final round game to end the event with a remarkable 10/11 score. | Photos: Aditya Sur Roy",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-junior-championship-2024-report",
+         "pubDate" : "Sat, 15 Jun 2024 14:00:00",
+         "title" : "Nogerbek and Divya are the 2024 world junior champions"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3067",
+         "pubDate" : "Sat, 15 Jun 2024 12:41:21",
+         "title" : "Schools receive FIDE School Awards "
+      },
+      {
          "description" : "For the first time since the age of four my feelings are conflicted concerning the imminent general election on July 4th. A committed Conservative since pre-primary school, I voted (once old enough to do so) with enthusiasm in the Conservative cause, until the political demise of Mrs Thatcher, who most helpfully opened the London 1986 []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/06/14/nigerias-the-battle-of-the-ages-fought-to-exciting-draw/",
          "pubDate" : "Fri, 14 Jun 2024 23:11:41",
          "title" : "Nigeria's \"The Battle of the Ages\" fought to exciting draw!"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
-         "pubDate" : "Fri, 14 Jun 2024 19:30:00",
-         "title" : "Cairns Cup, Round 2 - Live!"
       },
       {
          "description" : "Four players&#38;mdash;GMs Nana Dzagnidze, Harika Dronavalli, Mariya Muzychuk, and Tan Zhongyi&#38;mdash;sit atop the standings on 1.5/2 at the Cairns Cup 2024 after Dzagnidze and Harika won their respective games against IM Anna Zatonskih and GM Alexandr...",
@@ -1008,22 +1024,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championships-day-3.html",
          "pubDate" : "Sun, 26 May 2024 13:54:00",
          "title" : "2024 ACT Championships - Day 3"
-      },
-      {
-         "description" : " The 2nd day of the 2024 ACT Championship saw the top seeds having a much tougher time of it, than on the first day. Both IM Junta Ikeda and FM Michael Kethro had to convert drawn rook and pawn endings into wins, while 2nd see Reyaansh Chakrabarty blundered into a mate against Ian Hosking after 16 moves. The Round 3 game between Oladoyin Fasakin and Ikeda saw the evaluation needle swing back and forth, including a missed mate in 2 for Oladoyin when both players were in time trouble. Eventually Ikeda was able to pose enough problems and a misplaced rook spelled the end for Fasakin. It was a similar story in the Kethro Vos game where an over pressing Kethro gave Vos a brief chance to win mater",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championships-day-2.html",
-         "pubDate" : "Sat, 25 May 2024 13:46:00",
-         "title" : "2024 ACT Championships - Day 2"
-      },
-      {
-         "description" : "You play a great game, four hours of high focus and great moves. It feels like victory is just about to happen, and then, in a split-second, you make an intuitive move and hang a piece. All the hard work for nothing. Frustrated, you leave the playing hall and ask yourself: how can I finally []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/blunder-che/",
-         "pubDate" : "Sat, 25 May 2024 13:31:00",
-         "title" : "Chess Blunder Check: Stop Hanging Pieces And Avoid Frustration"
       }
    ]
 }
