@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3066",
+         "pubDate" : "Sat, 15 Jun 2024 06:30:05",
+         "title" : "Chess and Business Meet at Nasdaq Stock Exchange: Opening Ceremony of World Corporate Chess Championship"
+      },
+      {
          "description" : "Nodirbek Yakubboev was declared winner of the UzChess Cup after scoring a draw from a position of strength against Yu Yangyi in Friday's final round. Yakubboev collected as many points as his higher-rated compatriot Nodirbek Abdusattorov, but obtained a better tiebreak score. Yu and Alexey Sarana finished a half point behind. The strong round-robin in Tashkent saw Parham Maghsoodloo, Alexander Grischuk and Shakhriyar Mamedyarov ending the event in the bottom three places. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
