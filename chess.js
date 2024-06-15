@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For the first time since the age of four my feelings are conflicted concerning the imminent general election on July 4th. A committed Conservative since pre-primary school, I voted (once old enough to do so) with enthusiasm in the Conservative cause, until the political demise of Mrs Thatcher, who most helpfully opened the London 1986 []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-the-election-and-rachel-reeves/",
+         "pubDate" : "Sat, 15 Jun 2024 07:38:32",
+         "title" : "Chess, the election and Rachel Reeves"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1016,22 +1024,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/blunder-che/",
          "pubDate" : "Sat, 25 May 2024 13:31:00",
          "title" : "Chess Blunder Check: Stop Hanging Pieces And Avoid Frustration"
-      },
-      {
-         "description" : "​At the real risk of being dismissed as a Laudator Temporis Acti, aka a grumpy old man, or disgruntled of Clapham, I am finding the games of leading contemporary grandmasters increasingly featureless. Typically, after a more or less symmetrical Giuoco Piano opening, 1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 &hellip;.one side or the other then commits a virtually imperceptible []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/the-latvian-legacy/",
-         "pubDate" : "Sat, 25 May 2024 09:08:46",
-         "title" : "The Latvian legacy"
-      },
-      {
-         "description" : "The 2024 edition of the Norway Chess kicks off this Monday in Stavanger. The event features Open and Women's tournaments, which will be played in the same system, with the equal prize funds. The tournaments will be held from 27th May to 7th June in the SR Bank venue. Each tournament features the line-up of six players, played in a double round-robin system, with time control of 120 minutes with an increment of 10 seconds starting from move 41. The []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/norway-chess-2024-starts-in-stavanger/",
-         "pubDate" : "Sat, 25 May 2024 08:57:02",
-         "title" : "Norway Chess 2024 starts in Stavanger"
       }
    ]
 }
