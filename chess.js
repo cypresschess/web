@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
+         "pubDate" : "Sat, 15 Jun 2024 19:50:00",
+         "title" : "Cairns Cup, Round 3 - Live!"
+      },
+      {
          "description" : "Two decisive results in round 2 left four players tied for first place at the Cairns Cup in Saint Louis, with Harika Dronavalli and Nana Dzagnidze joining Mariya Muzychuk and Tan Zhongyi at the top of the standings. While Harika got the better of Alexandra Kosteniuk, Dzagnidze inflicted a second consecutive loss on defending champion Anna Zatonskih. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
