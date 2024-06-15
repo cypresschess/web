@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nodirbek Yakubboev was declared winner of the UzChess Cup after scoring a draw from a position of strength against Yu Yangyi in Friday's final round. Yakubboev collected as many points as his higher-rated compatriot Nodirbek Abdusattorov, but obtained a better tiebreak score. Yu and Alexey Sarana finished a half point behind. The strong round-robin in Tashkent saw Parham Maghsoodloo, Alexander Grischuk and Shakhriyar Mamedyarov ending the event in the bottom three places. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/uzchess-2024-r9",
+         "pubDate" : "Sat, 15 Jun 2024 02:40:00",
+         "title" : "Yakubboev edges Abdusattorov on tiebreak criteria to win UzChess Cup"
+      },
+      {
          "description" : " &#8220;The Battle of the Ages&#8221; kicked off on June 11th, pitting global ambassador Tunde Onakoya against Nigerian phenom Deborah Quickpen. The atmosphere was electric, and the venue was splendid, with many dignitaries attending the intergenerational match. The Daniel Ford Foundation sponsored the match, which took place in Lagos. The Initiatives Four years ago, social media The post <a href=\"https://www.thechessdrum.net/blog/2024/06/14/nigerias-the-battle-of-the-ages-fought-to-exciting-draw/\">Nigeria's &#8220;The Battle of the Ages&#8221; fought to exciting draw!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -18,12 +26,20 @@ news_feed (
          "title" : "Cairns Cup, Round 2 - Live!"
       },
       {
-         "description" : "The 2024 Cairns Cup kicked off yesterday in St. Louis. Three World Champions take part in the strong women's tournament, and all three won in the first round. Chess legend Nona Gaprindashvili opened the tournament as guest of honour. | Photos: St. Louis Chess Club/ Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-kick-off-with-four-world-champions",
-         "pubDate" : "Fri, 14 Jun 2024 17:03:36",
-         "title" : "Cairns Cup: Kick-off with four World Champions"
+         "description" : "Four players&#38;mdash;GMs Nana Dzagnidze, Harika Dronavalli, Mariya Muzychuk, and Tan Zhongyi&#38;mdash;sit atop the standings on 1.5/2 at the Cairns Cup 2024 after Dzagnidze and Harika won their respective games against IM Anna Zatonskih and GM Alexandr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-2",
+         "pubDate" : "Fri, 14 Jun 2024 18:53:00",
+         "title" : "Harika Forsakes Castling In Victory Over 'Chess Queen' Kosteniuk"
+      },
+      {
+         "description" : "In a groundbreaking initiative to support women&#39;s chess, Saint Louis Chess Club has announced $100,000 awards to U.S. female players achieving the grandmaster title by July 4, 2029.&#38;nbsp; Jeanne Cairns Sinquefield, co-founder of the Saint Louis ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jeanne-cairns-sinquefield-award-us-female-grandmasters",
+         "pubDate" : "Fri, 14 Jun 2024 18:31:00",
+         "title" : "Jeanne Sinquefield Offers Historic $100,000 Awards To New Female Grandmasters In U.S."
       },
       {
          "description" : "",
@@ -82,14 +98,6 @@ news_feed (
          "title" : "FIDE World Amateur Championship 2024: Registration is open"
       },
       {
-         "description" : "Combining Fritz 19 with the Opening Encyclopedia 2024 enhances chess training by providing comprehensive opening strategies and interactive practice. Users can easily load the Encyclopedia in Fritz 19, explore detailed opening suggestions, and play annotated games directly against Fritz to test their understanding. This integration allows for a systematic study of various chess openings, making training both effective and engaging. Thomas Stark and Arne Kaehler will guide you in the video.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-to-use-the-opening-encyclopaedia-2024-with-fritz-19-tutorial",
-         "pubDate" : "Thu, 13 Jun 2024 18:15:05",
-         "title" : "How to use the Opening Encyclopaedia 2024 with Fritz 19 - Tutorial"
-      },
-      {
          "description" : " Dominica The island of Dominica recently held its National Chess Championships, including its first Women's Finals from May 30th to June 6th. The venue was the Dominica State College, which attracted the island's best. In fact, Dr. Jones Murphy, Jr. came from the U.S. to compete in the tournament for the first time in 40 The post <a href=\"https://www.thechessdrum.net/blog/2024/06/13/2024-dominica-chess-championships/\">2024 Dominica Chess Championships</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -112,14 +120,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-divya-deshmukh-wins-world-junior-girls-chess-title/articleshow/110975473.cms",
          "pubDate" : "Thu, 13 Jun 2024 16:13:33",
          "title" : "India's Divya Deshmukh wins World Junior Girls chess title"
-      },
-      {
-         "description" : "The FIDE Ethics Commission is threatening to expel the Russian Chess Federation from FIDE for, among other things, organising chess tournaments in areas of Ukraine occupied by Russia in violation of international law. It has also reprimanded FIDE President Arkadij Dvorkovich for his close ties to sanctioned members of the Russian government. Unsurprisingly, Russia criticised the Ethics Commission's decision.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/reactions-to-the-decision-of-the-fide-ethics-commission",
-         "pubDate" : "Thu, 13 Jun 2024 15:00:00",
-         "title" : "Reactions to the decision of the FIDE Ethics Commission"
       },
       {
          "description" : "GM Alireza Firouzja has pulled off a stunning triumph to claim his second Bullet Chess Championship after winning four matches on the final day. He won grueling encounters with GMs Sam Sevian and Daniel Naroditsky and was on the verge of pulling o...",
@@ -618,14 +618,6 @@ news_feed (
          "title" : "Titled '10s Day' As Sarana, Bortnyk Win Outright"
       },
       {
-         "description" : "After an intense 61-hour blitz marathon, Norwegian chess enthusiasts Askild Bryn and CM Odin Blikra Vea have shattered the GUINNESS WORLD RECORDS&#38;trade; record for the Longest Chess Marathon. In a stunning display of endurance and mental fortitu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/norwegian-duo-surpasses-61-hours-smashes-guinness-record-longest-chess-marathon",
-         "pubDate" : "Wed, 05 Jun 2024 07:08:00",
-         "title" : "Norwegian Duo Surpass 61 Hours, Smash Record For Longest Chess Marathon"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110716903.cms\" />World number one Magnus Carlsen extended his lead by defeating R Praggnanandhaa in an armageddon showdown at Norway Chess 2024. Carlsen avenged his earlier classical game loss to the Indian prodigy. The tournament saw intense battles, with notable performances from Hikaru Nakamura, Ding Liren, Ju Wenjun, Lei Tingjie, and R Vaishali.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -640,14 +632,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
          "pubDate" : "Tue, 04 Jun 2024 14:00:42",
          "title" : "English and English Women's Championships - drawing near!"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen extended his Norway Chess 2024 lead to a full point after beating GM Praggnanandhaa Rameshbabu in armageddon. For most of the day it had looked as though GM Hikaru Nakamura would defeat GM Alireza Firouzja in classi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-8",
-         "pubDate" : "Tue, 04 Jun 2024 13:16:00",
-         "title" : "Carlsen Gets Revenge Vs. Praggnanandhaa As Ju Wenjun Takes Women's Lead"
       },
       {
          "description" : " I guess half remembered opening theory is better than none, at least under certain circumstances. Facing a Goring Gambit in a very recent game, I remembered a recommendation from George Botterill where Black plays Bb4, follows up with d6 and then takes on c3 with the bishop at the correct moment. So far so good, but I could not remember what happens next. Fortunately my opponent chose a line that Botterill did not recommend, although I then chose a response that wasn't good either. But the long and the short of it was that I seemed to have the better of the opening, my opponent sacrificed material for play, and after3 hours, I managed to grind out a win in a R+B+N v Q position (I had the bi",
