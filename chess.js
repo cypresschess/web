@@ -31,7 +31,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-2",
          "pubDate" : "Fri, 14 Jun 2024 18:53:00",
-         "title" : "Harika Forsakes Castling In Victory Over 'Chess Queen' Kosteniuk"
+         "title" : "Harika Forgoes Castling In Victory Over 'Chess Queen' Kosteniuk"
       },
       {
          "description" : "In a groundbreaking initiative to support women&#39;s chess, Saint Louis Chess Club has announced $100,000 awards to U.S. female players achieving the grandmaster title by July 4, 2029.&#38;nbsp; Jeanne Cairns Sinquefield, co-founder of the Saint Louis ...",
