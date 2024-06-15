@@ -18,6 +18,14 @@ news_feed (
          "title" : "Cairns Cup: Four co-leaders, Harika and Dzagnidze score"
       },
       {
+         "description" : "In a near-carbon copy of June&#39;s earlier editions, GM Daniel Naroditsky scored a dominant 235 points to secure his third straight Bullet Brawl title in the $1,000 event. With 66 wins, four draws, and just 13 losses to his name, Naroditsky finished ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-june-15-2024",
+         "pubDate" : "Sat, 15 Jun 2024 15:18:00",
+         "title" : "Hat-Trick Hero Naroditsky Secures 19th Title"
+      },
+      {
          "description" : "Kazybek Nogerbek from Kazakhstan and Divya Deshmuk from India are the new U20 World Champions. Bogerbek won the decisive game in the final round against former leader Mamikon Gharibyan from Armenia, while Divy also won her final round game to end the event with a remarkable 10/11 score. | Photos: Aditya Sur Roy",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3053",
          "pubDate" : "Wed, 05 Jun 2024 12:20:49",
          "title" : "Chess for Freedom Conference 2024: Program and registration links"
-      },
-      {
-         "description" : "GMs Alexey Sarana and Oleksandr Bortnyk scored 10 points each in the early and late Titled Tuesdays of June 4, respectively, earning Sarana his second victory of the year and Bortnyk his first. Neither required tiebreaks, both winning outright. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-bortnyk-win-titled-tuesday-june-4-2024",
-         "pubDate" : "Wed, 05 Jun 2024 07:54:22",
-         "title" : "Titled '10s Day' As Sarana, Bortnyk Win Outright"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110716903.cms\" />World number one Magnus Carlsen extended his lead by defeating R Praggnanandhaa in an armageddon showdown at Norway Chess 2024. Carlsen avenged his earlier classical game loss to the Indian prodigy. The tournament saw intense battles, with notable performances from Hikaru Nakamura, Ding Liren, Ju Wenjun, Lei Tingjie, and R Vaishali.",
