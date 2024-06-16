@@ -10,6 +10,14 @@ news_feed (
          "title" : "Cairns Cup, Round 3 - Live!"
       },
       {
+         "description" : "GM Alexandra Kosteniuk has joined the leaders on 2/3 at the Cairns Cup 2024 following a fine victory over Georgia&#39;s GM Nana Dzagnidze in round three while the tournament&#39;s other leaders; GMs Harika Dronavalli, Mariya Muzychuk, and Tan Zhongyi drew...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-3",
+         "pubDate" : "Sat, 15 Jun 2024 19:24:24",
+         "title" : "Kosteniuk Topples Dzagdnize, Joins Leaders"
+      },
+      {
          "description" : "Two decisive results in round 2 left four players tied for first place at the Cairns Cup in Saint Louis, with Harika Dronavalli and Nana Dzagnidze joining Mariya Muzychuk and Tan Zhongyi at the top of the standings. While Harika got the better of Alexandra Kosteniuk, Dzagnidze inflicted a second consecutive loss on defending champion Anna Zatonskih. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -624,14 +632,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-yearbook-2024/",
          "pubDate" : "Wed, 05 Jun 2024 14:15:59",
          "title" : "ECF Yearbook 2024 - new link"
-      },
-      {
-         "description" : "The first game of the 2024 NBA Finals is on Thursday, and we&#39;re celebrating the ultimate basketball showdown with chess. Two of the biggest stars in the Finals have Chess.com bots and we&#39;re offering a limited-time only bot challenge starting on&#38;nb...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nba-finals-bot-showdown-jaylen-brown-luka-doncic",
-         "pubDate" : "Wed, 05 Jun 2024 13:44:41",
-         "title" : "MVP Jaylen Brown, Luka Donči&#263 Bots Go Head-To-Head During NBA Finals"
       },
       {
          "description" : "Submissions are now open for this year's ECF Awards.&#160;The closing date for nominations will be 14th July 2024. Details for this year's ECF Awards are...",
