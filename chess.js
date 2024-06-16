@@ -1024,14 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3040",
          "pubDate" : "Mon, 27 May 2024 06:05:57",
          "title" : "FIDE Torch Relay arrives in Colombia to celebrate chess and unity"
-      },
-      {
-         "description" : " The 12th Norway Chess tournament took place in Stavanger Mon 27th May to Fri 7th Jun 2024. Players: Carlsen, Caruana, Ding, Nakamura Praggnanandhaa and Firouzja. If any games were drawn there was an Armageddon played. This year there was also a women's tournament with the same format. Ju Wenjun, Lei Tingjie, Humpy Koneru, Anna Muzychuk, Rameshbabu Vaishali and Pia Cramling played in that. Magnus Carlsen won the event ahead of Hikaru Nakamura. If conventional scoring had been chosen they would have tied for first and different tie-breaks would have produced different winners (SB vs most wins say). Ju Wenjun beat rival Lei Tingjie on the final day to take clear first in the women's event. The",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/12th-norway-chess-2024",
-         "pubDate" : "Sun, 26 May 2024 22:48:00",
-         "title" : "12th Norway Chess 2024 - Games and Results"
       }
    ]
 }
