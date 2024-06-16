@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Starting July 4, 2024 through July 4, 2029, Jeanne Cairns Sinquefield, co-founder of the Saint Louis Chess Club, will offer the Cairns Chess Queens Award. The Cairns Chess Queens Award is designed to encourage more US female chess players to become Grandmasters. An award of $100,000 for up to five players who earn the GM title will be on offer. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-chess-queens-award-announcement",
+         "pubDate" : "Sun, 16 Jun 2024 08:00:00",
+         "title" : "Cairns Chess Queens Award: $100,000 for women who get the GM title"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-3",
-         "pubDate" : "Sat, 15 Jun 2024 19:24:24",
+         "pubDate" : "Sat, 15 Jun 2024 19:24:00",
          "title" : "Kosteniuk Topples Dzagdnize, Joins Leaders"
       },
       {
