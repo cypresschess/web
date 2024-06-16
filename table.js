@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-06-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406158332 target='_blank'>JUNE 15TH  2024 SATURDAY SWISS AT N</a>",
 "HOUSTON","2024-06-15","6","<a href=http://www.uschess.org/msa/XtblMain.php?202406157762 target='_blank'>CHESSPANDA06152024SATURDAY</a>",
 "HOUSTON","2024-06-15","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406157342 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-06-14","32","<a href=http://www.uschess.org/msa/XtblMain.php?202406147692 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-12-01","6","<a href=http://www.uschess.org/msa/XtblMain.php?202312017062 target='_blank'>REBECCA CHESS CLUB QUADS DECEMBER 1, 2023</a>",
 "HOUSTON","2023-11-07  - 11-28","23","<a href=http://www.uschess.org/msa/XtblMain.php?202311286052 target='_blank'>NOV 2023 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2023-11-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202311264812 target='_blank'>NOVEMBER 26TH SUNDAY SWISS</a>",
-"HOUSTON","2023-11-25","14","<a href=http://www.uschess.org/msa/XtblMain.php?202311254842 target='_blank'>HOUSTON WOMEN AND GIRLS 2023 CHESS</a>",
 ]);
