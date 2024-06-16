@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
+         "pubDate" : "Sun, 16 Jun 2024 19:50:00",
+         "title" : "Cairns Cup, Round 4 - Live!"
+      },
+      {
          "description" : "Starting July 4, 2024 through July 4, 2029, Jeanne Cairns Sinquefield, co-founder of the Saint Louis Chess Club, will offer the Cairns Chess Queens Award. The Cairns Chess Queens Award is designed to encourage more US female chess players to become Grandmasters. An award of $100,000 for up to five players who earn the GM title will be on offer. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,28 +34,12 @@ news_feed (
          "title" : "Faustino Oro, Levy Rozman Narrowly Miss Norms In Madrid"
       },
       {
-         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
-         "pubDate" : "Sat, 15 Jun 2024 19:50:00",
-         "title" : "Cairns Cup, Round 3 - Live!"
-      },
-      {
          "description" : "GM Alexandra Kosteniuk has joined the leaders on 2/3 at the Cairns Cup 2024 following a fine victory over Georgia&#39;s GM Nana Dzagnidze in round three while the tournament&#39;s other leaders; GMs Harika Dronavalli, Mariya Muzychuk, and Tan Zhongyi drew...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-3",
          "pubDate" : "Sat, 15 Jun 2024 19:24:00",
-         "title" : "Kosteniuk Topples Dzagdnize, Joins Leaders"
-      },
-      {
-         "description" : "Two decisive results in round 2 left four players tied for first place at the Cairns Cup in Saint Louis, with Harika Dronavalli and Nana Dzagnidze joining Mariya Muzychuk and Tan Zhongyi at the top of the standings. While Harika got the better of Alexandra Kosteniuk, Dzagnidze inflicted a second consecutive loss on defending champion Anna Zatonskih. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-2",
-         "pubDate" : "Sat, 15 Jun 2024 17:15:00",
-         "title" : "Cairns Cup: Four co-leaders, Harika and Dzagnidze score"
+         "title" : "Kosteniuk Topples Dzagnidze, Joins Leaders"
       },
       {
          "description" : "In a near-carbon copy of June&#39;s earlier editions, GM Daniel Naroditsky scored a dominant 235 points to secure his third straight Bullet Brawl title in the $1,000 event. With 66 wins, four draws, and just 13 losses to his name, Naroditsky finished ...",
