@@ -10,6 +10,14 @@ news_feed (
          "title" : "Cairns Chess Queens Award: $100,000 for women who get the GM title"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3068",
+         "pubDate" : "Sun, 16 Jun 2024 07:42:05",
+         "title" : "WCCC 2024: The race for the smartest company in the world is on"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
