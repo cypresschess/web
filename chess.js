@@ -18,6 +18,14 @@ news_feed (
          "title" : "WCCC 2024: The race for the smartest company in the world is on"
       },
       {
+         "description" : "IM Levy Rozman and FM Faustino Oro, two of the world&#39;s most popular chess players, have met for the first time in a tournament. It took place at the 2024 Madrid Chess Festival, which ran June 10-15 and featured two closed tournaments and one open....",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-levy-rozman-norms-madrid",
+         "pubDate" : "Sun, 16 Jun 2024 06:08:00",
+         "title" : "Faustino Oro, Levy Rozman Narrowly Miss Norms In Madrid"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -626,14 +634,6 @@ news_feed (
          "title" : "Ding Lands Blow Against Nakamura As Carlsen Increases His Lead"
       },
       {
-         "description" : "A player was caught red-handed at the Chicago Open 2024, using a phone to win chess games over the board. Unlike other offline cheating cases, the player didn&#39;t use a device outside the playing hall; instead, he used his phone in his lap, right at...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-player-caught-cheating-in-chicago-open",
-         "pubDate" : "Thu, 06 Jun 2024 06:34:04",
-         "title" : "Player Caught Cheating Over-The-Board At Chicago Open 2024"
-      },
-      {
          "description" : "Dear Participants and Stakeholders, Please be informed that due to unavoidable circumstances, The National Women Chess Championship 2024, which was scheduled to be held in",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/12th-norway-chess-2024",
          "pubDate" : "Sun, 26 May 2024 22:48:00",
          "title" : "12th Norway Chess 2024 - Games and Results"
-      },
-      {
-         "description" : " IM Junta Ikeda has taken the outright lead in the 2024 ACT Chess Championship, after another 2 wins on day 3. He beat CM Lalit Prasad in the morning round, and then CM Hui Li in round 5. Li had drawn with FM Michael Kethro in the 4th round before being outplayed by Ikeda in the days 2nd round. Kethro defeated Harry Johnson in the 5th round to move to 4.5, and will now play Ikeda in Round 6 tomorrow. Reyaansh Chakrabarty recovered from his round 3 disaster to win both game today and is tied for 3rd alongside Prasad, Thomas Gatzen-O'Keefe and Tim Pearce. <br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championships-day-3.html",
-         "pubDate" : "Sun, 26 May 2024 13:54:00",
-         "title" : "2024 ACT Championships - Day 3"
       }
    ]
 }
