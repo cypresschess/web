@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When you begin your journey to build an opening repertoire, wouldn't it be nice to get a glimpse of what each opening looks like - through the eyes of a super-grandmaster?. That would certainly help your understanding of the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. This week - from June 17-23 - you can get it for Euro 69.90, instead of the list price of €89.90!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/here-s-your-chance-a-summer-special-with-anish-giri",
+         "pubDate" : "Mon, 17 Jun 2024 08:00:00",
+         "title" : "Here's your chance: learn chess openings with Anish Giri"
+      },
+      {
+         "description" : "The Stepan Avagyan Memorial is taking place in Jermuk, Armenia on June 10-18. A 10-player single round-robin, the tournament includes five Armenian representatives and five international grandmasters. Top seed Arjun Erigaisi is the sole leader with two rounds to go, as he stands a full point ahead of a three-player chasing pack consisting of Amin Tabatabaei, Sam Sevian and Bogdan-Daniel Deac. | Photos: Chess Academy of Armenia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stepan-agavyan-memorial-2024-r7",
+         "pubDate" : "Mon, 17 Jun 2024 04:45:00",
+         "title" : "Stepan Avagyan Memorial: Arjun leads by a full point"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3069",
+         "pubDate" : "Mon, 17 Jun 2024 04:17:38",
+         "title" : "Four teams in the finals of the World Corporate Chess Championship"
+      },
+      {
+         "description" : "Former Women&#39;s World Champion GM Tan Zhongyi scored a quick 20-move victory over defending champion IM Anna Zatonskih to move into the sole lead with three points after four rounds at the Cairns Cup 2024 in St. Louis. Tan is trailed by GMs Mariya ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-4",
+         "pubDate" : "Sun, 16 Jun 2024 22:57:00",
+         "title" : "Tan Zhongyi Sole Leader After Quick Victory"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
          "pubDate" : "Sun, 16 Jun 2024 19:50:00",
          "title" : "Cairns Cup, Round 4 - Live!"
-      },
-      {
-         "description" : "Starting July 4, 2024 through July 4, 2029, Jeanne Cairns Sinquefield, co-founder of the Saint Louis Chess Club, will offer the Cairns Chess Queens Award. The Cairns Chess Queens Award is designed to encourage more US female chess players to become Grandmasters. An award of $100,000 for up to five players who earn the GM title will be on offer. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-chess-queens-award-announcement",
-         "pubDate" : "Sun, 16 Jun 2024 08:00:00",
-         "title" : "Cairns Chess Queens Award: $100,000 for women who get the GM title"
       },
       {
          "description" : "",
@@ -50,14 +74,6 @@ news_feed (
          "title" : "Hat-Trick Hero Naroditsky Secures 19th Title"
       },
       {
-         "description" : "Kazybek Nogerbek from Kazakhstan and Divya Deshmuk from India are the new U20 World Champions. Bogerbek won the decisive game in the final round against former leader Mamikon Gharibyan from Armenia, while Divy also won her final round game to end the event with a remarkable 10/11 score. | Photos: Aditya Sur Roy",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-junior-championship-2024-report",
-         "pubDate" : "Sat, 15 Jun 2024 14:00:00",
-         "title" : "Nogerbek and Divya are the 2024 world junior champions"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3066",
          "pubDate" : "Sat, 15 Jun 2024 06:30:05",
          "title" : "Chess and Business Meet at Nasdaq Stock Exchange: Opening Ceremony of World Corporate Chess Championship"
-      },
-      {
-         "description" : "Nodirbek Yakubboev was declared winner of the UzChess Cup after scoring a draw from a position of strength against Yu Yangyi in Friday's final round. Yakubboev collected as many points as his higher-rated compatriot Nodirbek Abdusattorov, but obtained a better tiebreak score. Yu and Alexey Sarana finished a half point behind. The strong round-robin in Tashkent saw Parham Maghsoodloo, Alexander Grischuk and Shakhriyar Mamedyarov ending the event in the bottom three places. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/uzchess-2024-r9",
-         "pubDate" : "Sat, 15 Jun 2024 02:40:00",
-         "title" : "Yakubboev edges Abdusattorov on tiebreak criteria to win UzChess Cup"
       },
       {
          "description" : " &#8220;The Battle of the Ages&#8221; kicked off on June 11th, pitting global ambassador Tunde Onakoya against Nigerian phenom Deborah Quickpen. The atmosphere was electric, and the venue was splendid, with many dignitaries attending the intergenerational match. The Daniel Ford Foundation sponsored the match, which took place in Lagos. The Initiatives Four years ago, social media The post <a href=\"https://www.thechessdrum.net/blog/2024/06/14/nigerias-the-battle-of-the-ages-fought-to-exciting-draw/\">Nigeria's &#8220;The Battle of the Ages&#8221; fought to exciting draw!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nodirbek-yakubboev-wins-2024-uzchess-cup",
          "pubDate" : "Fri, 14 Jun 2024 10:44:00",
          "title" : "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov"
-      },
-      {
-         "description" : "Every summer Greece organises chess tournaments that give participants the opportunity to combine chess games with holidays in scenic travel destinations. The international tournament with the longest tradition in Greece is the 'Ikaros' tournament, which for 47 consecutive years, every July, takes place on the island of Ikaria. In a truly relaxed atmosphere chess players from all over the world can enjoy an international tournament in a magnificent island landscape. This year, the 47th edition of the tournament, will be from 11 to 18 July 2024 and is part of the celebration of the 100 years of FIDE.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-chess-island-of-ikaaria",
-         "pubDate" : "Fri, 14 Jun 2024 07:07:14",
-         "title" : "The Greek Chess Island of Ikaria"
       },
       {
          "description" : " Magnus Carlsen continued his winning streak in Norway as Hikaru Nakamura gained the No 2 ranking, but China's world champion finished a poor last of six Norway Chess, last weekend's $161,000 event in Stavanger, was Magnus Carlsen's 10th victory in his last 11 starts, and also a significant success for Hikaru Nakamura. The 36-year-old streamer regained a 2800 rating, and passed Fabiano Caruana to take over as No 2 in the Fide world rankings. Carlsen assessed it as \"a good performance, not a sparkling performance by any means, but I feel I was quite professional in the way that I handled the last seven games or so. My mindset went from trying to play fun chess, which wasn't fun at all, to mor",
@@ -618,14 +618,6 @@ news_feed (
          "title" : "2024 NSW Open"
       },
       {
-         "description" : "World Champion Ding Liren finally has something to celebrate after beating GM Hikaru Nakamura in armageddon. That is good news for world number-one Magnus Carlsen, who extended his Norway Chess 2024 lead to 1.5 points before the final round after ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-9",
-         "pubDate" : "Thu, 06 Jun 2024 13:12:00",
-         "title" : "Ding Lands Blow Against Nakamura As Carlsen Increases His Lead"
-      },
-      {
          "description" : "Dear Participants and Stakeholders, Please be informed that due to unavoidable circumstances, The National Women Chess Championship 2024, which was scheduled to be held in",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -858,6 +850,14 @@ news_feed (
          "title" : "Chess: Magnus Carlsen loses on home turf in Norway to 18-year-old Indian"
       },
       {
+         "description" : "Last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/candidate-yahoos.html\">Candidate Yahoos</A> (April 2024), started:- <BLOCKQUOTE> Of the 99 chess stories returned by Google News for the month of April, 27 were about the just concluded Candidates tournament. </BLOCKQUOTE> <P> Skip ahead one month and we get similar:- <BLOCKQUOTE> Of the 101 chess stories returned by Google News for the month of May, 28 were about... </BLOCKQUOTE> <P> Were about what exactly? The lead section, with nine related stories, was titled 'R Praggnanandhaa defeats Magnus Carlsen in classical format'. Add to that more on the same game mixed in with other chess news and we get 24 Pragg-Car",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/05/an-indian-norwegian-yahoo.html",
+         "pubDate" : "Thu, 30 May 2024 15:27:00",
+         "title" : "An Indian-Norwegian Yahoo"
+      },
+      {
          "description" : " If you are looking for some easy practice, then Youtube might have the answer. I'm not talking about instructional videos, but a fairly easy chess engine you can play through their website. Under the new heading of 'Playables' Youtube have added a whole pile of web based games. One of the games is 'Chess Classic' While it isn't very good (at least the lower levels) it does provide a quick way to play some casual online chess. As for the practice bit, if you are just learning chess, then beating easy chess engines is one way top get better. It helps you sharpen your basic tactics without getting crushed later in the game. As per an earlier recommendation, start at the easiest level and play ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1016,14 +1016,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-schools-rapid-and-blitz-chess-championships-20241st-to-8th-august-2024-tashkent-uzbekistan/",
          "pubDate" : "Mon, 27 May 2024 10:44:40",
          "title" : "FIDE World Schools Rapid and Blitz Chess Championships - 2024 from 1st to 8th August, 2024 Tashkent, Uzbekistan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3040",
-         "pubDate" : "Mon, 27 May 2024 06:05:57",
-         "title" : "FIDE Torch Relay arrives in Colombia to celebrate chess and unity"
       }
    ]
 }
