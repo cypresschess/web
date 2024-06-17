@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " I was looking through my newsfeed when I glanced at an articled concerning Assisted Dying. What was more concerning was the accompanying photo was of two elderly gentleman playing chess. No idea why. ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/disturbing-image-of-day.html",
+         "pubDate" : "Mon, 17 Jun 2024 13:25:00",
+         "title" : "Disturbing image of the day"
+      },
+      {
          "description" : "When you begin your journey to build an opening repertoire, wouldn't it be nice to get a glimpse of what each opening looks like - through the eyes of a super-grandmaster?. That would certainly help your understanding of the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. This week - from June 17-23 - you can get it for Euro 69.90, instead of the list price of €89.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -992,14 +1000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3041",
          "pubDate" : "Mon, 27 May 2024 19:10:52",
          "title" : "FIDE ChessMom Initiative: Applications due May 29"
-      },
-      {
-         "description" : " IM Junta Ikeda has won his 11th ACT Championship, repeating his 7/7 score he also achieved in last years tournament. His round 6 game against FM Michael Kethro left him a point in front with 1 round to play, but a win over NSW junior Reyaansh Chakrabarty in round 7 kept his 100% record intact. 2nd place was shared between FM Michael Kethro, CM Lalit Prasad, and ACT junior, Masaki Horikawa, on 5.5. Horikawa started the tournament seeded 20th, so his 2nd place finish was quite an achievement. Oladoyan Fasakin and Somon Vos shared the Under 2000 prize, while the Under 1600 prize was shared between Simon Louie, Jerry Cheng, Lohit Hegde, Aarav Rawat and Olamide Fasakin. Padma Gyalpo was the best",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championship-final-day.html",
-         "pubDate" : "Mon, 27 May 2024 12:27:00",
-         "title" : "2024 ACT Championship - Final Day"
       }
    ]
 }
