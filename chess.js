@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Our beloved WIM from Canada picked up streaming chess games online a couple of months ago, and became a Twitch partner in no time. Thousands of chess friends are watching her, playing blitz and bullet games, or solving puzzles. Svitlana gained nearly 6000 followers, who she even plays against on stream, at times.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/did-you-know-svitlana-demchenko-is-streaming-chess",
+         "pubDate" : "Mon, 17 Jun 2024 23:50:00",
+         "title" : "Did you know? Svitlana Demchenko is streaming chess!"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3070",
          "pubDate" : "Mon, 17 Jun 2024 13:18:27",
          "title" : "Epic spectacle this Christmas: FIDE World Rapid and Blitz Championships come to New York"
+      },
+      {
+         "description" : "The 2024 FIDE World Rapid and Blitz Championships are scheduled to take place in the last week of December in New York, FIDE announced on Monday. The two championships, traditionally held over five days between Christmas and the New Year, are the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-chess-championships-held-in-new-york",
+         "pubDate" : "Mon, 17 Jun 2024 12:41:00",
+         "title" : "2024 FIDE World Rapid & Blitz Championships To Be Held In New York"
       },
       {
          "description" : "When you begin your journey to build an opening repertoire, wouldn't it be nice to get a glimpse of what each opening looks like - through the eyes of a super-grandmaster?. That would certainly help your understanding of the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. This week - from June 17-23 - you can get it for Euro 69.90, instead of the list price of €89.90!",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-norway-chess-round-10",
          "pubDate" : "Fri, 07 Jun 2024 13:16:00",
          "title" : "Carlsen, Ju Wenjun Win Norway Chess Titles"
-      },
-      {
-         "description" : "The FIDE Ethics and Disciplinary Commission has punished the Chess Federation of Russia with a two-year conditional ban and reprimanded FIDE President Arkady Dvorkovich, in both cases for violations related to Russia&#39;s invasion of and continued ag...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-federation-russia-2-year-ban-dvorkovich-reprimanded-fide-ethics-commission",
-         "pubDate" : "Fri, 07 Jun 2024 09:47:00",
-         "title" : "Conditional Ban For Russian Federation; Dvorkovich Reprimanded By Ethics Commission"
       },
       {
          "description" : " Argentinian prodigy already has two international master norms and looks set to break more records while England's pre-teen talents are also making eye-catching progress Faustino Oro, just 10 years old, is already known as \"the Messi of chess\". The Argentinian boy burst on to the record books in 2023 when he became the youngest ever 2200-rated master level player at nine years, three months, followed by passing the 2300 mark just three months later. Oro's surge is continuing apace. Last week, at the Continental American Championship at Medellin, Colombia, he secured the second of three norms needed for the International Master (IM) title by reaching the required total of 6.5/9. The event wa",
