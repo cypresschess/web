@@ -10,14 +10,6 @@ news_feed (
          "title" : "Here's your chance: learn chess openings with Anish Giri"
       },
       {
-         "description" : "The Stepan Avagyan Memorial is taking place in Jermuk, Armenia on June 10-18. A 10-player single round-robin, the tournament includes five Armenian representatives and five international grandmasters. Top seed Arjun Erigaisi is the sole leader with two rounds to go, as he stands a full point ahead of a three-player chasing pack consisting of Amin Tabatabaei, Sam Sevian and Bogdan-Daniel Deac. | Photos: Chess Academy of Armenia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stepan-agavyan-memorial-2024-r7",
-         "pubDate" : "Mon, 17 Jun 2024 04:45:00",
-         "title" : "Stepan Avagyan Memorial: Arjun leads by a full point"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,14 +24,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-4",
          "pubDate" : "Sun, 16 Jun 2024 22:57:00",
          "title" : "Tan Zhongyi Sole Leader After Quick Victory"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
-         "pubDate" : "Sun, 16 Jun 2024 19:50:00",
-         "title" : "Cairns Cup, Round 4 - Live!"
       },
       {
          "description" : "",
@@ -416,6 +400,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/disc-golf-gets-2024-bullet-chess-championship",
          "pubDate" : "Mon, 10 Jun 2024 08:06:00",
          "title" : "Sport's Craziest Crossover: Disc Golf Gets On Board For 2024 Bullet Chess Championship"
+      },
+      {
+         "description" : "All FIDE Member Federations and eligible players with FIDE rating under 2300 are invited to participate in the FIDE World Amateur Chess Championship 2024. The...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/world-amateur-championship-2024-registration-is-open/",
+         "pubDate" : "Mon, 10 Jun 2024 08:00:45",
+         "title" : "World Amateur Championship 2024 registration is open"
       },
       {
          "description" : " The third day of the 2024 NSW Open ended with a couple of surprises at the top of the leaders board. Young CM Reyaansh Chakrabarty defeated FM Michael Kethro in round 4 and drew with IM Gary Lane in round 5 to reach 4.5/5. He was joined by FM Gary McNamara and Willis Lo, levaing the 3 of them half a point ahead of the chasing pack. he group of players on 4 includeds IM's Lane, Igor Bjelobrk and George Xie, along with a number of other top seeds. Today's 6th round will see Chakrabarty and McNamara meet on board 1, with Lo facing off against fellow Canberran Michael Kethro on board 2. Steve Hemsley holds a half point lead in the Minor, having won his first 5 games. Unrated player Edward Rust ",
@@ -1008,14 +1000,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/2024-act-championship-final-day.html",
          "pubDate" : "Mon, 27 May 2024 12:27:00",
          "title" : "2024 ACT Championship - Final Day"
-      },
-      {
-         "description" : "1.The players who participated in the Over the Board National School Age Group (Under 9, Under 11, Under 13, Under 15 and Under 17) Chess",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-schools-rapid-and-blitz-chess-championships-20241st-to-8th-august-2024-tashkent-uzbekistan/",
-         "pubDate" : "Mon, 27 May 2024 10:44:40",
-         "title" : "FIDE World Schools Rapid and Blitz Chess Championships - 2024 from 1st to 8th August, 2024 Tashkent, Uzbekistan"
       }
    ]
 }
