@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
+         "pubDate" : "Mon, 17 Jun 2024 19:50:00",
+         "title" : "Cairns Cup, Round 5 - Live!"
+      },
+      {
          "description" : " I was looking through my newsfeed when I glanced at an articled concerning Assisted Dying. What was more concerning was the accompanying photo was of two elderly gentleman playing chess. No idea why. ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/06/disturbing-image-of-day.html",
          "pubDate" : "Mon, 17 Jun 2024 13:25:00",
          "title" : "Disturbing image of the day"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3070",
+         "pubDate" : "Mon, 17 Jun 2024 13:18:27",
+         "title" : "Epic spectacle this Christmas: FIDE World Rapid and Blitz Championships come to New York"
       },
       {
          "description" : "When you begin your journey to build an opening repertoire, wouldn't it be nice to get a glimpse of what each opening looks like - through the eyes of a super-grandmaster?. That would certainly help your understanding of the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. This week - from June 17-23 - you can get it for Euro 69.90, instead of the list price of €89.90!",
@@ -992,14 +1008,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-cruises-to-victory-against-firouzja-alireza-in-first-round-of-norway-chess-tournament/articleshow/110492267.cms",
          "pubDate" : "Tue, 28 May 2024 08:28:57",
          "title" : "R Praggnanandhaa beats Firouzja in Norway Chess tournament"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3041",
-         "pubDate" : "Mon, 27 May 2024 19:10:52",
-         "title" : "FIDE ChessMom Initiative: Applications due May 29"
       }
    ]
 }
