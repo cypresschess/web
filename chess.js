@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new ChessBase Books series offers quick and easy access to all content: read, watch videos explaining the ideas, replay sample games, take tests. It's that easy to learn openings with the opening tutorial in CB Books format.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/understanding-instead-of-memorising",
+         "pubDate" : "Tue, 18 Jun 2024 10:13:33",
+         "title" : "Understanding instead of memorising"
+      },
+      {
          "description" : "Narayani is the leader after 7th&#160;round in Asian Youth Chess Championship at Almaty where the biggest upset was Mani and Advik lost in their group.",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/asian-youth-2024-day-6/",
          "pubDate" : "Tue, 18 Jun 2024 05:10:49",
          "title" : "Asian Youth 2024 :Day 6"
-      },
-      {
-         "description" : "The Madrid Chess Festival came to an end on Saturday. Two 10-player closed tournaments and a 48-player Swiss open took place concurrently. The main event was won by Spanish IM Julio Su&aacute;rez, who beat former sole leader Levy Rozman in their round-8 encounter. The Closed B tournament was won by Venezuelan FM Pedro Mart&iacute;nez. Argentine rising star, 10-year-old Faustino Oro (pictured), needed to score 5&frac12; points to become the youngest IM in the history of the game, but missed the goal by a mere half point after finishing the tournament undefeated in sole third place. | Photo: chess.com / Federico Mar&iacute;n",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/madrid-chess-festival-2024-d6",
-         "pubDate" : "Tue, 18 Jun 2024 03:10:00",
-         "title" : "Madrid: Su&aacute;rez wins main event, Oro's IM title hunt falls just short"
       },
       {
          "description" : "",
@@ -46,7 +46,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-5",
-         "pubDate" : "Mon, 17 Jun 2024 19:45:05",
+         "pubDate" : "Mon, 17 Jun 2024 19:45:00",
          "title" : "Lee Miraculously Saves Game After 5-Hour Marathon"
       },
       {
@@ -72,14 +72,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-chess-championships-held-in-new-york",
          "pubDate" : "Mon, 17 Jun 2024 12:41:00",
          "title" : "2024 FIDE World Rapid & Blitz Championships To Be Held In New York"
-      },
-      {
-         "description" : "When you begin your journey to build an opening repertoire, wouldn't it be nice to get a glimpse of what each opening looks like - through the eyes of a super-grandmaster?. That would certainly help your understanding of the vast world of chess openings. It is exactly with this thought that \"A Supergrandmaster's Guide to Openings with Anish Giri\" was made. This week - from June 17-23 - you can get it for Euro 69.90, instead of the list price of €89.90!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/here-s-your-chance-a-summer-special-with-anish-giri",
-         "pubDate" : "Mon, 17 Jun 2024 08:00:00",
-         "title" : "Here's your chance: learn chess openings with Anish Giri"
       },
       {
          "description" : "",
@@ -192,6 +184,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nodirbek-yakubboev-wins-2024-uzchess-cup",
          "pubDate" : "Fri, 14 Jun 2024 10:44:00",
          "title" : "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov"
+      },
+      {
+         "description" : "Round 1 saw many exciting tussles, not least for GM Marcin Tazbir, who had to have a very long think (around thirty minutes) in the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ibca-2024-reports-from-owen-phillips/",
+         "pubDate" : "Fri, 14 Jun 2024 08:00:09",
+         "title" : "IBCA 2024 - reports from Owen Phillips"
       },
       {
          "description" : " Magnus Carlsen continued his winning streak in Norway as Hikaru Nakamura gained the No 2 ranking, but China's world champion finished a poor last of six Norway Chess, last weekend's $161,000 event in Stavanger, was Magnus Carlsen's 10th victory in his last 11 starts, and also a significant success for Hikaru Nakamura. The 36-year-old streamer regained a 2800 rating, and passed Fabiano Caruana to take over as No 2 in the Fide world rankings. Carlsen assessed it as \"a good performance, not a sparkling performance by any means, but I feel I was quite professional in the way that I handled the last seven games or so. My mindset went from trying to play fun chess, which wasn't fun at all, to mor",
@@ -786,6 +786,14 @@ news_feed (
          "title" : "FIDE World Junior Championship kicks off in Gujarat, India"
       },
       {
+         "description" : "A couple of months ago in this series on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), the post of the month was <A HREF=\"https://chessforallages.blogspot.com/2024/04/morphy-unpublished.html\">Morphy Unpublished</A> (April 2024). There I wrote, <BLOCKQUOTE> On this blog's long running series 'Top eBay Chess Items', Morphy items are not unusual. Having said that, it's been a few years since the previous post on Morphy. </BLOCKQUOTE> <P> And here we are again. The item pictured below was titled '1860 Sage Token No. 3 Paul Morphy Chess King Harrwitz & Staunton Copper Plated', and carried the note 'AU Deta",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/06/everybody-loves-morphy.html",
+         "pubDate" : "Sun, 02 Jun 2024 15:16:00",
+         "title" : "Everybody Loves Morphy"
+      },
+      {
          "description" : "Please find the Live Games Link for FIDE World Junior Chess Championship 2024 Open Live Link :&#160;https://live.aicf.in/worldjunior2024/open/index.html Girls Live Link :&#160;https://live.aicf.in/worldjunior2024/girls/index.html",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1032,14 +1040,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine-2024/",
          "pubDate" : "Tue, 28 May 2024 12:00:32",
          "title" : "ECF Charity Marathon for Ukraine 2024 now complete - results and further details here!"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110492267.cms\" />Indian Grandmaster R Praggnanandhaa triumphed over France's Firouzja Alireza in the Armageddon game during the Norway Chess tournament's first round. The classical game ended in a draw, but Praggnanandhaa, with more time on the clock, clinched the win. After the first round, Praggnanandhaa shares the lead with Magnus Carlsen and Hikaru Nakamura.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-cruises-to-victory-against-firouzja-alireza-in-first-round-of-norway-chess-tournament/articleshow/110492267.cms",
-         "pubDate" : "Tue, 28 May 2024 08:28:57",
-         "title" : "R Praggnanandhaa beats Firouzja in Norway Chess tournament"
       }
    ]
 }
