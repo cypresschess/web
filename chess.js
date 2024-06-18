@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Narayani is the leader after 7th&#160;round in Asian Youth Chess Championship at Almaty where the biggest upset was Mani and Advik lost in their group.",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-youth-2024-day-6/",
+         "pubDate" : "Tue, 18 Jun 2024 05:10:49",
+         "title" : "Asian Youth 2024 :Day 6"
+      },
+      {
          "description" : "The Madrid Chess Festival came to an end on Saturday. Two 10-player closed tournaments and a 48-player Swiss open took place concurrently. The main event was won by Spanish IM Julio Su&aacute;rez, who beat former sole leader Levy Rozman in their round-8 encounter. The Closed B tournament was won by Venezuelan FM Pedro Mart&iacute;nez. Argentine rising star, 10-year-old Faustino Oro (pictured), needed to score 5&frac12; points to become the youngest IM in the history of the game, but missed the goal by a mere half point after finishing the tournament undefeated in sole third place. | Photo: chess.com / Federico Mar&iacute;n",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +42,7 @@ news_feed (
          "title" : "Cairns Cup, Round 5 - Live!"
       },
       {
-         "description" : "14-year-old IM Alice Lee is the talk of the town at the Cairns Cup 2024 after tricking GM Nana Dzagnidze&#38;nbsp; into a drawn ending when all seemed lost. GMs Irina Krush, Mariya Muzychuk and IM Anna Zatonskih all missed golden opportunities to win ...",
+         "description" : "14-year-old IM Alice Lee is the talk of the town at the Cairns Cup 2024 after tricking GM Nana Dzagnidze into a drawn ending when all seemed lost. GMs Irina Krush, Mariya Muzychuk, and IM Anna Zatonskih all missed golden opportunities to win their...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-5",
