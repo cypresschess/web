@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Arjun Erigaisi continues to impress: after a strong performance at the French Team Championships, he won the Stepan Avagyan Memorial in Jermuk, Armenia, with 6.0/9, finishing 1.5 points ahead of his closest rivals. With a live rating of 2778.1, he is now ranked 4th in the world. | Photos: Chess Academy Armenia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-dominates-stepan-avagyan-memorial",
+         "pubDate" : "Tue, 18 Jun 2024 18:06:23",
+         "title" : "Arjun Erigaisi dominates Stepan Avagyan Memorial"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3072",
+         "pubDate" : "Tue, 18 Jun 2024 17:38:20",
+         "title" : "FIDE World Cadet Championship 2024: Registration is open"
+      },
+      {
          "description" : "FIDE has announced the venue for the 2024 World Rapid and Blitz Championships. The tournament will take place in New York in the last week of December this year. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,14 +64,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/did-you-know-svitlana-demchenko-is-streaming-chess",
          "pubDate" : "Mon, 17 Jun 2024 23:50:00",
          "title" : "Did you know? Svitlana Demchenko is streaming chess!"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
-         "pubDate" : "Mon, 17 Jun 2024 19:50:00",
-         "title" : "Cairns Cup, Round 5 - Live!"
       },
       {
          "description" : "14-year-old IM Alice Lee is the talk of the town at the Cairns Cup 2024 after tricking GM Nana Dzagnidze into a drawn ending when all seemed lost. GMs Irina Krush, Mariya Muzychuk, and IM Anna Zatonskih all missed golden opportunities to win their...",
