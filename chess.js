@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has announced the venue for the 2024 World Rapid and Blitz Championships. The tournament will take place in New York in the last week of December this year. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-championships-2024-come-to-new-york",
+         "pubDate" : "Tue, 18 Jun 2024 14:00:00",
+         "title" : "FIDE World Rapid and Blitz Championships 2024 come to New York"
+      },
+      {
          "description" : "The new ChessBase Books series offers quick and easy access to all content: read, watch videos explaining the ideas, replay sample games, take tests. It's that easy to learn openings with the opening tutorial in CB Books format.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/understanding-instead-of-memorising",
          "pubDate" : "Tue, 18 Jun 2024 10:13:33",
          "title" : "Understanding instead of memorising"
+      },
+      {
+         "description" : "It&#39;s time to let your inner chess author shine. We&#39;re excited to announce Chessable&#39;s 2024 Create Your Own Course contest! This is your chance to launch your own Chessable course presented by none other than 2021 Chessable Author of the Year, IM A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/create-your-own-course-2024",
+         "pubDate" : "Tue, 18 Jun 2024 08:00:00",
+         "title" : "Announcing Chessable's 2024 Create Your Own Course Contest"
       },
       {
          "description" : "Narayani is the leader after 7th&#160;round in Asian Youth Chess Championship at Almaty where the biggest upset was Mani and Advik lost in their group.",
@@ -586,14 +602,6 @@ news_feed (
          "title" : "Warren Seymour, legend of Bahamian chess, dies"
       },
       {
-         "description" : "FM Banh Gia Huy has booked his spot at the 2024 FIDE Chess Olympiad for team Vietnam after winning the country&#39;s national championship in March. Huy has since crossed the 2400 FIDE rating threshold, leaving him one norm shy of the coveted IM title...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/banh-gia-huy-wins-vietnam-championship",
-         "pubDate" : "Fri, 07 Jun 2024 17:27:00",
-         "title" : "15-Year-Old Chessable Author Huy Wins Vietnam Chess Championship"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> <title>Top Female Chess Players to Compete in Cairns Cup in Saint Louis</title> <p style=\"text-align: center; font-size: 20px;\"><em>Saint Louis Chess Club to host elite international players in tournament that offers one of the largest chess prize funds for women</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2024%20Cairns%20Cup%20Club%20Slideshow%20Banner%20475.jpg?itok=3s",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1008,38 +1016,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/05/28/hbcu-chess-spotlight-alan-cowan/",
          "pubDate" : "Tue, 28 May 2024 19:40:48",
          "title" : "HBCU Chess Spotlight: Alan Cowan"
-      },
-      {
-         "description" : " <p class=\"lead\">The landscape of sports revenue is marked by significant gender disparities, with top female athletes generally earning less than their male counterparts across various sports. This article examines the revenue differences between top female and male athletes in tennis, soccer, basketball, golf, and chess, shedding light on the factors contributing to these disparities. <div class=\"e2-text-picture\"> <div class=\"fotorama\" data-width=\"1600\" data-ratio=\"1.7777777777778\"> <img src=\"https://worldchess.com/news/pictures/release-woman's-revenue-pt2.png\" width=\"1600\" height=\"900\" alt=\"\" /> <img src=\"https://worldchess.com/news/pictures/release-woman's-revenue-pt1.png\" width=\"1600\" h",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/comparative-analysis-of-top-womens-and-mens-revenue-in-different/",
-         "pubDate" : "Tue, 28 May 2024 14:23:39",
-         "title" : "Comparative analysis of top women's and men's revenue in different sports, including Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3043",
-         "pubDate" : "Tue, 28 May 2024 12:59:18",
-         "title" : "Call for Bids: FIDE World Championships 2025"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3042",
-         "pubDate" : "Tue, 28 May 2024 12:37:42",
-         "title" : "Chess databases: empowering players and educators"
-      },
-      {
-         "description" : "The English Chess Federation will once again be holding a 24-hour online chess marathon in support of the British Red Cross Ukraine Crisis Appeal. Chess.com will...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-charity-marathon-for-ukraine-2024/",
-         "pubDate" : "Tue, 28 May 2024 12:00:32",
-         "title" : "ECF Charity Marathon for Ukraine 2024 now complete - results and further details here!"
       }
    ]
 }
