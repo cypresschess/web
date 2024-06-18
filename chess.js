@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All five games ended drawn in round 5 of the Cairns Cup, with Alice Lee (pictured) and Alexandra Kosteniuk escaping with half points from clearly inferior positions, against Nana Dzagnidze and Irina Krush, respectively. The results left Tan Zhongyi as the sole leader with four rounds to go. Mariya Muzychuk and Harika Dronavalli are tied for second place a half point back. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-5",
+         "pubDate" : "Tue, 18 Jun 2024 21:00:00",
+         "title" : "Cairns Cup: Fighting draws"
+      },
+      {
          "description" : "Arjun Erigaisi continues to impress: after a strong performance at the French Team Championships, he won the Stepan Avagyan Memorial in Jermuk, Armenia, with 6.0/9, finishing 1.5 points ahead of his closest rivals. With a live rating of 2778.1, he is now ranked 4th in the world. | Photos: Chess Academy Armenia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1016,14 +1024,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-school-chess-championship-2024-starts-in-limerick-ireland/",
          "pubDate" : "Wed, 29 May 2024 05:36:34",
          "title" : "European School Chess Championship 2024 starts in Limerick, Ireland"
-      },
-      {
-         "description" : " Alan Cowan was co-valedictorian of Morehouse College's 2023 graduating class. He kindled an intense interest in finance and now works in venture capital for Mosaic General Partnership in San Francisco. Apart from his academic achievements, he executed one of the most potentially impactful ideas in American chess. In 2020, Cowan and Spelman student Shaniah Francis The post <a href=\"https://www.thechessdrum.net/blog/2024/05/28/hbcu-chess-spotlight-alan-cowan/\">HBCU Chess Spotlight: Alan Cowan</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/05/28/hbcu-chess-spotlight-alan-cowan/",
-         "pubDate" : "Tue, 28 May 2024 19:40:48",
-         "title" : "HBCU Chess Spotlight: Alan Cowan"
       }
    ]
 }
