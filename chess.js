@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Madrid Chess Festival came to an end on Saturday. Two 10-player closed tournaments and a 48-player Swiss open took place concurrently. The main event was won by Spanish IM Julio Su&aacute;rez, who beat former sole leader Levy Rozman in their round-8 encounter. The Closed B tournament was won by Venezuelan FM Pedro Mart&iacute;nez. Argentine rising star, 10-year-old Faustino Oro (pictured), needed to score 5&frac12; points to become the youngest IM in the history of the game, but missed the goal by a mere half point after finishing the tournament undefeated in sole third place. | Photo: chess.com / Federico Mar&iacute;n",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/madrid-chess-festival-2024-d6",
+         "pubDate" : "Tue, 18 Jun 2024 03:10:00",
+         "title" : "Madrid: Su&aacute;rez wins main event, Oro's IM title hunt falls just short"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3071",
+         "pubDate" : "Tue, 18 Jun 2024 01:52:59",
+         "title" : "Chessify wins the World Corporate Chess Championship"
+      },
+      {
          "description" : "Our beloved WIM from Canada picked up streaming chess games online a couple of months ago, and became a Twitch partner in no time. Thousands of chess friends are watching her, playing blitz and bullet games, or solving puzzles. Svitlana gained nearly 6000 followers, who she even plays against on stream, at times.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
          "pubDate" : "Mon, 17 Jun 2024 19:50:00",
          "title" : "Cairns Cup, Round 5 - Live!"
+      },
+      {
+         "description" : "14-year-old IM Alice Lee is the talk of the town at the Cairns Cup 2024 after tricking GM Nana Dzagnidze&#38;nbsp; into a drawn ending when all seemed lost. GMs Irina Krush, Mariya Muzychuk and IM Anna Zatonskih all missed golden opportunities to win ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-5",
+         "pubDate" : "Mon, 17 Jun 2024 19:45:05",
+         "title" : "Lee Miraculously Saves Game After 5-Hour Marathon"
       },
       {
          "description" : " I was looking through my newsfeed when I glanced at an articled concerning Assisted Dying. What was more concerning was the accompanying photo was of two elderly gentleman playing chess. No idea why. ",
@@ -568,14 +592,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/news/top-female-chess-players-compete-cairns-cup-saint-louis",
          "pubDate" : "Fri, 07 Jun 2024 13:52:38",
          "title" : "Top Female Chess Players to Compete in Cairns Cup in Saint Louis"
-      },
-      {
-         "description" : "World number-one Magnus Carlsen has won his sixth Norway Chess&#38;nbsp;title after beating GM Fabiano Caruana in armageddon while GM Hikaru Nakamura was held to an incredibly tense classical draw by GM Praggnanandhaa Rameshbabu. The young Indian won ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-norway-chess-round-10",
-         "pubDate" : "Fri, 07 Jun 2024 13:16:00",
-         "title" : "Carlsen, Ju Wenjun Win Norway Chess Titles"
       },
       {
          "description" : " Argentinian prodigy already has two international master norms and looks set to break more records while England's pre-teen talents are also making eye-catching progress Faustino Oro, just 10 years old, is already known as \"the Messi of chess\". The Argentinian boy burst on to the record books in 2023 when he became the youngest ever 2200-rated master level player at nine years, three months, followed by passing the 2300 mark just three months later. Oro's surge is continuing apace. Last week, at the Continental American Championship at Medellin, Colombia, he secured the second of three norms needed for the International Master (IM) title by reaching the required total of 6.5/9. The event wa",
