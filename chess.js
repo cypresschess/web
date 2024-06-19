@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
+         "pubDate" : "Wed, 19 Jun 2024 19:50:00",
+         "title" : "Cairns Cup, Round 6 - Live!"
+      },
+      {
+         "description" : " A couple of nights ago, Jaylen Brown of the Boston Celtics became an NBA Champion. He was also voted the Most Valuable Player of the series, justifying his mammoth five-year, $304 million contract signed the previous year. There were questions about whether the dynamic duo of Brown and fellow All-Star Jayson Tatum would materialize into The post <a href=\"https://www.thechessdrum.net/blog/2024/06/19/chess-molds-nba-champion-jaylen-brown/\">Chess molds NBA Champion, Jaylen Brown</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/06/19/chess-molds-nba-champion-jaylen-brown/",
+         "pubDate" : "Wed, 19 Jun 2024 18:45:19",
+         "title" : "Chess molds NBA Champion, Jaylen Brown"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "CAS upholds FIDE's decision on South African Chess Elections"
       },
       {
+         "description" : "A streamer, a grandmaster, and a club player walk into a tournament. This isn&#38;rsquo;t the set-up of a terrible joke, but rather the backdrop of the 8th Annual Carolinas Classic 2024 that happened at the Charlotte Chess Center. Participants include...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-carolinas-chess-classic",
+         "pubDate" : "Wed, 19 Jun 2024 12:06:37",
+         "title" : "Legends, Grandmasters, Streamers Meet In Carolinas Classic"
+      },
+      {
          "description" : " <p class=\"lead\">In a revealing interview with Andrew Winton, Chief Marketing Officer of World Chess, the intricate marketing landscape of the chess industry is explored, shedding light on its timeless appeal, intellectual engagement, and global reach. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/chess-World-_Chess-andrew_winton-chess_marketing_marketing.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The chess industry stands out uniquely in the marketing realm due to its rich historical significance and universal recognition. Chess's timeless appeal transcends generations and cultures, making it a captivating subject for a diverse audience. The intellectual",
          "iconLink" : "https://cypresschess.github.io/web/world.png",
          "iconName" : "World Chess",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://nextlevelchess.blog/game-analysis-mistake/",
          "pubDate" : "Wed, 19 Jun 2024 08:57:05",
          "title" : "99% of Chess Players make this game analysis mistake"
+      },
+      {
+         "description" : "Teenage GMs Nihal Sarin and Denis Lazavik won the Titled Tuesday events of June 18. Both outlasted giants, with the second places going to GMs Magnus Carlsen and Hikaru Nakamura, respectively. Nihal won outright early with an undefeated performanc...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nihal-lazavik-win-titled-tuesday-june-18-2024",
+         "pubDate" : "Wed, 19 Jun 2024 08:35:55",
+         "title" : "Nihal, Lazavik Take Titled Tuesday Over Carlsen, Nakamura"
       },
       {
          "description" : "",
@@ -690,14 +722,6 @@ news_feed (
          "title" : "2024 NSW Open Day 3"
       },
       {
-         "description" : "GM Magnus Carlsen briefly stared into the abyss of losing his world number-one spot, but he turned things around to win his sixth Norway Chess title. GM Hikaru Nakamura returned to the 2800 club, while Women&#39;s World Champion Ju Wenjun cruised to v...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/7-things-we-learned-2024-norway-chess",
-         "pubDate" : "Sun, 09 Jun 2024 07:35:00",
-         "title" : "7 Things We Learned - Norway Chess 2024"
-      },
-      {
          "description" : "England's grandmaster grandfathers of the chessboard are back in the news. Last month the three English veterans teams won triple European gold, as that talented generation, which ranked second only to the USSR in the 1980s and 1990s, continued to demonstrate its persistent strength. The nine-day competition, held at Terme Catez, Slovenia, included 21 teams aged []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -712,14 +736,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open-day-2.html",
          "pubDate" : "Sun, 09 Jun 2024 06:58:00",
          "title" : "2024 NSW Open Day 2"
-      },
-      {
-         "description" : "GM Daniel Naroditsky has added another Bullet Brawl trophy to his ever-growing cabinet after winning his second straight event ahead of GMs Andrew Tang, Oleksandr Bortnyk, and 171 other titled players. Playing 76 games in two hours, Naroditsky acc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-june-8-2024",
-         "pubDate" : "Sat, 08 Jun 2024 17:27:00",
-         "title" : "Naroditsky Eclipses Field Featuring Carlsen, Praggnanandhaa, Giri"
       },
       {
          "description" : "European School Chess Championship 2024 concluded yesterday in Limerick, Ireland. The event gathered nearly 200 players coming from 18 European federations, who competed in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Turkish players achieved a historical result, winning all 12 golds in all categories, and a total of 28 medals (12 gold, 8 silver and 8 bronze)! Omer Taha Dede (TUR) triumphed in the U7 section scoring perfect 7/7 points. David-Christian Talaba []",
