@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3075",
+         "pubDate" : "Wed, 19 Jun 2024 13:45:08",
+         "title" : "Pune, India hosts Chess for Freedom Conference to promote global growth of chess in prisons"
+      },
+      {
+         "description" : " While there is no rule that says that players of a certain style must play a certain style of opening, it is always a little surprising when a well know player breaks that rule. Reading about Akiba Rubinstein, I discovered that in a tournament organised shortly after the end of World War I in Sweden, be basically played the Kings Gambit as White whenever he had the chance. It did not do him any harm, as he finished in 1st place, albeit against a fairly weak field. But when facing stronger opposition, he did not seem to shy away from this opening choice other, as the following slashing win demonstrates. <br /> <b>Rubinstein,Akiba - Hromadka,Karel [C30]</b><br /> Maehrisch Ostrau Internationa",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/surprise-opening-surprise-player.html",
+         "pubDate" : "Wed, 19 Jun 2024 13:32:00",
+         "title" : "Surprise Opening, surprise player"
+      },
+      {
          "description" : "There is something very special about playing chess. During a game your heart often races and your blood pressure rises. Evolution has set this up: in times of stress, pour out adrenaline and prepare the individual for a physical fight - or a lightening retreat. Can it be healthy for chess players to experience this while they sit motionless, for a number of hours? In part three of their series, Prof. Christian Hesse and Frederic Friedel discuss this question.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-risk-of-playing-chess-3",
          "pubDate" : "Wed, 19 Jun 2024 13:00:00",
          "title" : "The risk of playing chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3074",
+         "pubDate" : "Wed, 19 Jun 2024 12:26:52",
+         "title" : "CAS upholds FIDE's decision on South African Chess Elections"
       },
       {
          "description" : " <p class=\"lead\">In a revealing interview with Andrew Winton, Chief Marketing Officer of World Chess, the intricate marketing landscape of the chess industry is explored, shedding light on its timeless appeal, intellectual engagement, and global reach. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/chess-World-_Chess-andrew_winton-chess_marketing_marketing.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The chess industry stands out uniquely in the marketing realm due to its rich historical significance and universal recognition. Chess's timeless appeal transcends generations and cultures, making it a captivating subject for a diverse audience. The intellectual",
@@ -184,14 +208,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-championships-2024-come-to-new-york",
          "pubDate" : "Tue, 18 Jun 2024 14:00:00",
          "title" : "FIDE World Rapid and Blitz Championships 2024 come to New York"
-      },
-      {
-         "description" : "The new ChessBase Books series offers quick and easy access to all content: read, watch videos explaining the ideas, replay sample games, take tests. It's that easy to learn openings with the opening tutorial in CB Books format.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/understanding-instead-of-memorising",
-         "pubDate" : "Tue, 18 Jun 2024 10:13:33",
-         "title" : "Understanding instead of memorising"
       },
       {
          "description" : "It&#39;s time to let your inner chess author shine. We&#39;re excited to announce Chessable&#39;s 2024 Create Your Own Course contest! This is your chance to launch your own Chessable course presented by none other than 2021 Chessable Author of the Year, IM A...",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3044",
          "pubDate" : "Wed, 29 May 2024 21:48:49",
          "title" : "VII Festival in Salamanca, cradle of modern chess: Ruslan Ponomariov clinches title"
-      },
-      {
-         "description" : " The 2024 Norway Chess event started a few days ago, with a strong group of players in both the Open and Women's sections. As in previous years, they are using a scoring format (3,1,0) that is designed to create a winner and loser for each pairing, even if the games themselves fail to do so. If the normal game is drawn, an Armageddon game is played, with winner getting an extra half point (so drawn games always score 1.5-1.0) While it might make the scoreboard look interesting, this hasn't necessarily carried over to the board. All 6 games in the Open section have been drawn, with 5 of the 6 in the Women's section also going that way. And while there is a restriction of draw offer before mov",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/fighting-against-draws.html",
-         "pubDate" : "Wed, 29 May 2024 13:14:00",
-         "title" : "Fighting against draws"
       }
    ]
 }
