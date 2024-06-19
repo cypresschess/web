@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111100740.cms\" />India's 20-year-old super GM, Arjun Erigaisi, won his second classical title of the year in the Stepan Avagyan Memorial round-robin tournament in Armenia. Erigaisi currently holds fourth position in live world ratings with 2778.1 Elo, 17 points away from surpassing world No. 3 Fabiano Caruana, and trailing Magnus Carlsen, Hikaru Nakamura, and Caruana in live ratings.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-no-1-arjun-erigaisi-triumphs-in-armenia-takes-break-from-classical-chess/articleshow/111100740.cms",
+         "pubDate" : "Wed, 19 Jun 2024 04:05:14",
+         "title" : "India No.1 Arjun Erigaisi triumphs in Armenia, takes break from Classical chess"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Finding the better move than grabbing the pawn </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-thats-only-3-cairnscup-chess-chesstactics-chessdotcom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zHrUf_OSqwI.jpg?itok=Ml7LJ6xz\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://worldchess.com/news/all/world-chess-launches-chess-news-programme-across-major-tv-statio/",
          "pubDate" : "Wed, 29 May 2024 07:41:31",
          "title" : "World Chess Launches Chess News Programme Across Major TV Stations Worldwide"
-      },
-      {
-         "description" : "The European School Chess Championship 2024 is set to take place from 31 May to 7 June in Limerick, Ireland. The event is played in 6 age categories: U7, U9, U11, U13, U15, and U17, open and girls sections separately, with 9-swiss rounds, and the time control of 90 minutes for the whole game + 30-second increment for each move, starting from the move one. More than 190 players coming from 18 European federations registered for the event and the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-school-chess-championship-2024-starts-in-limerick-ireland/",
-         "pubDate" : "Wed, 29 May 2024 05:36:34",
-         "title" : "European School Chess Championship 2024 starts in Limerick, Ireland"
       }
    ]
 }
