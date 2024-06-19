@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "There is something very special about playing chess. During a game your heart often races and your blood pressure rises. Evolution has set this up: in times of stress, pour out adrenaline and prepare the individual for a physical fight - or a lightening retreat. Can it be healthy for chess players to experience this while they sit motionless, for a number of hours? In part three of their series, Prof. Christian Hesse and Frederic Friedel discuss this question.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-risk-of-playing-chess-3",
+         "pubDate" : "Wed, 19 Jun 2024 13:00:00",
+         "title" : "The risk of playing chess"
+      },
+      {
+         "description" : " <p class=\"lead\">In a revealing interview with Andrew Winton, Chief Marketing Officer of World Chess, the intricate marketing landscape of the chess industry is explored, shedding light on its timeless appeal, intellectual engagement, and global reach. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/chess-World-_Chess-andrew_winton-chess_marketing_marketing.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The chess industry stands out uniquely in the marketing realm due to its rich historical significance and universal recognition. Chess's timeless appeal transcends generations and cultures, making it a captivating subject for a diverse audience. The intellectual",
+         "iconLink" : "https://cypresschess.github.io/web/world.png",
+         "iconName" : "World Chess",
+         "link" : "https://worldchess.com/news/all/bridging-minds-cmo-andrew-winton-on-the-unique-appeal-and-market/",
+         "pubDate" : "Wed, 19 Jun 2024 10:40:47",
+         "title" : "Bridging Minds: CMO Andrew Winton on the Unique Appeal and Marketing of the Chess Industry"
+      },
+      {
+         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how best to use them, just as a craftsman knows his tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't position the knights on the edge of the board. Knights are mysterious creatures. They add irrational content to any position. However, in this video tutorial you will learn how to tame them.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-markos-middlegame-secrets-vol-4-the-secrets-lives-of-knights",
+         "pubDate" : "Wed, 19 Jun 2024 10:00:00",
+         "title" : "Jan Markos: Middlegame Secrets Vol.4 - The Secrets Lives of Knights"
+      },
+      {
+         "description" : "Most chess player's game analysis, if they do it at all, looks somewhat like this: If that comes close to what you do, you absolutely have to read this Newsletter. This process is flawed and won't help you improve. The Wrong Question In the above process, the question you ask yourself is wrong.You search for []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/game-analysis-mistake/",
+         "pubDate" : "Wed, 19 Jun 2024 08:57:05",
+         "title" : "99% of Chess Players make this game analysis mistake"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3073",
+         "pubDate" : "Wed, 19 Jun 2024 08:24:29",
+         "title" : "Selected participants for the ChessMom Project announced"
+      },
+      {
+         "description" : "Everything is set for the European Youth Team Chess Championship 2024 which is taking place from 20-28 June in Rhodes, Greece. It is co-organised by the Chess Club of Rhodes &#8220;Ippotis&#8221; and the Region of South Aegean. The event is played in two age categories: U12 and U18, open and girls sections separately. Teams in the Open section feature four players + one reserve player, and in the Girls' section the teams consist of three players + one reserve player. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-starts-in-rhodes/",
+         "pubDate" : "Wed, 19 Jun 2024 08:10:57",
+         "title" : "European Youth Team Chess Championship 2024 starts in Rhodes"
+      },
+      {
+         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships has...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
+         "pubDate" : "Wed, 19 Jun 2024 08:00:42",
+         "title" : "English and English Women's Championships - starts tomorrow!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/fide-chess-for-freedom-conference-featuring-carl-portman/",
+         "pubDate" : "Wed, 19 Jun 2024 07:00:00",
+         "title" : "FIDE Chess for Freedom Conference - featuring Carl Portman"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111100740.cms\" />India's 20-year-old super GM, Arjun Erigaisi, won his second classical title of the year in the Stepan Avagyan Memorial round-robin tournament in Armenia. Erigaisi currently holds fourth position in live world ratings with 2778.1 Elo, 17 points away from surpassing world No. 3 Fabiano Caruana, and trailing Magnus Carlsen, Hikaru Nakamura, and Caruana in live ratings.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -306,7 +370,7 @@ news_feed (
          "title" : "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov"
       },
       {
-         "description" : "Round 1 saw many exciting tussles, not least for GM Marcin Tazbir, who had to have a very long think (around thirty minutes) in the...",
+         "description" : "Yesterday, Gary Hogan drew with a BD6 variant of the London System against his Slovenian opponents and now has 1/3. Eight-times IBCA World Ladies Champion,...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ibca-2024-reports-from-owen-phillips/",
@@ -818,12 +882,12 @@ news_feed (
          "title" : "Pragg suffers defeat to world no. 1 Carlsen at Norway Chess"
       },
       {
-         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships has...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
-         "pubDate" : "Tue, 04 Jun 2024 14:00:42",
-         "title" : "English and English Women's Championships - drawing near!"
+         "description" : "In last month's post about American chess mazines of yesteryear, <A HREF=\"https://chessforallages.blogspot.com/2024/05/may-1974-1999-on-cover.html\">May 1974 & 1999 'On the Cover'</A> (May 2024), we had the Candidates stage of the World Championship on the left and American news on the right. Here we go again. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-of04.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> '\"I saw Ehlvest in Las Vegas\" &#149; GM Jaan Ehlvest; Winner of the 1999 National Open' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Soviet Grandmaster Viktor Korchnoi, vanquisher of Mecking and then Petrosian. during a talk on the Me",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/06/june-1974-1999-on-cover.html",
+         "pubDate" : "Tue, 04 Jun 2024 15:25:00",
+         "title" : "June 1974 & 1999 'On the Cover'"
       },
       {
          "description" : " I guess half remembered opening theory is better than none, at least under certain circumstances. Facing a Goring Gambit in a very recent game, I remembered a recommendation from George Botterill where Black plays Bb4, follows up with d6 and then takes on c3 with the bishop at the correct moment. So far so good, but I could not remember what happens next. Fortunately my opponent chose a line that Botterill did not recommend, although I then chose a response that wasn't good either. But the long and the short of it was that I seemed to have the better of the opening, my opponent sacrificed material for play, and after3 hours, I managed to grind out a win in a R+B+N v Q position (I had the bi",
@@ -1072,30 +1136,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/fighting-against-draws.html",
          "pubDate" : "Wed, 29 May 2024 13:14:00",
          "title" : "Fighting against draws"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110533435.cms\" />The All India Chess Federation (AICF) has bid to host the World Chess Championship between Indian prodigy D Gukesh and China's world champion Ding Liren. Scheduled for November 20 to December 15 in Chennai, AICF awaits FIDE's decision, due after the May 31 bid deadline. Singapore is expected to compete for hosting rights.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-bids-to-host-d-gukesh-vs-ding-liren-world-chess-championship-match/articleshow/110533435.cms",
-         "pubDate" : "Wed, 29 May 2024 10:06:24",
-         "title" : "India bids to host Gukesh vs Liren World Chess Championship match"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110528476.cms\" />Indian Grandmaster R Praggnanandhaa drew against World Champion Ding Liren in the classical game but lost in the Armageddon tie-breaker in the Norway Chess tournament's second round. Magnus Carlsen, Alireza Firouzja, and Liren secured 1.5 points each by winning their respective Armageddon games, while Praggnanandhaa's first classical draw led to a tie-break defeat.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-suffers-defeat-to-world-champion-ding-liren-r-vaishali-beats-koneru-humpy-in-norway-chess-tournament/articleshow/110528476.cms",
-         "pubDate" : "Wed, 29 May 2024 08:09:36",
-         "title" : "Pragg suffers defeat to Liren, Vaishali beats Humpy in Norway Chess"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess (LSE: CHSS), a leading chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is pleased to announce the launch of its new television programme which will be broadcast on major TV stations globally. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/image.png\" width=\"1600\" height=\"900\" alt=\"\" /> </div> Scheduled to air from September 2024 to July 2025, this innovative chess news programme aims to enhance the way chess is presented on television, transforming it into a compelling and mainstream TV sport. The new series will consist of ten episodes, ",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-launches-chess-news-programme-across-major-tv-statio/",
-         "pubDate" : "Wed, 29 May 2024 07:41:31",
-         "title" : "World Chess Launches Chess News Programme Across Major TV Stations Worldwide"
       }
    ]
 }
