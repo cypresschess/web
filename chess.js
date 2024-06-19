@@ -42,6 +42,14 @@ news_feed (
          "title" : "The risk of playing chess"
       },
       {
+         "description" : "GM Arjun Erigaisi once again proved unstoppable as he dominated the Stepan Avagyan Memorial 2024 which took place in Jermuk, Armenia from June 10-18. New research shows only two players can match his meteoric rise to the world&#39;s elite, but the Ind...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/unstoppable-erigaisi-continues-rise-wins-in-armenia-with-a-round-to-spare",
+         "pubDate" : "Wed, 19 Jun 2024 12:49:00",
+         "title" : "'Caring Less' Helps Arjun Erigaisi Continue Rise With Win In Armenia"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -698,14 +706,6 @@ news_feed (
          "title" : "Martinez Beats Kramnik In Clash Of Claims"
       },
       {
-         "description" : "One of the most unlikely and fun crossovers in sport is back: disc golf and chess are getting together to put on another blockbuster event for fans. The 2024 Chess.com Invitational was the Disc Golf Pro Tour&#38;rsquo;s season-opening event back in ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/disc-golf-gets-2024-bullet-chess-championship",
-         "pubDate" : "Mon, 10 Jun 2024 08:06:00",
-         "title" : "Sport's Craziest Crossover: Disc Golf Gets On Board For 2024 Bullet Chess Championship"
-      },
-      {
          "description" : "All FIDE Member Federations and eligible players with FIDE rating under 2300 are invited to participate in the FIDE World Amateur Chess Championship 2024. The...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1152,14 +1152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-scripts-history-beats-world-number-one-magnus-carlsen-in-classical-chess-for-first-time/articleshow/110551422.cms",
          "pubDate" : "Thu, 30 May 2024 04:39:08",
          "title" : "Praggnanandhaa beats Carlsen in classical chess for first time"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3044",
-         "pubDate" : "Wed, 29 May 2024 21:48:49",
-         "title" : "VII Festival in Salamanca, cradle of modern chess: Ruslan Ponomariov clinches title"
       }
    ]
 }
