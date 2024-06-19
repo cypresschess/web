@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Finding the better move than grabbing the pawn </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-thats-only-3-cairnscup-chess-chesstactics-chessdotcom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zHrUf_OSqwI.jpg?itok=Ml7LJ6xz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yasser-thats-only-3-cairnscup-chess-chesstactics-chessdotcom",
+         "pubDate" : "Wed, 19 Jun 2024 02:23:11",
+         "title" : "Yasser, that's ONLY +3 #CairnsCup #chess #chesstactics #chessdotcom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Alice Lee wins a huge round against highly respected and Former World Champion, GM Alexandra Kosteniuk </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-wins-cairnscup-chess-chessdotcom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lXGq7aDbXPk.jpg?itok=dIeK4d5W\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-wins-cairnscup-chess-chessdotcom",
+         "pubDate" : "Wed, 19 Jun 2024 02:23:11",
+         "title" : "Alice Lee Wins #Cairnscup #chess #chessdotcom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 4 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-cairns-cup-round-4\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PuplyAV8L8A.jpg?itok=HzheFwPl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-cairns-cup-round-4",
+         "pubDate" : "Wed, 19 Jun 2024 02:23:11",
+         "title" : "RECAP | 2024 Cairns Cup: Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the fourth Cairns Cup, a classical round robin event (players below). Join GM Yasser Seirawan, and IMs Jovanka Houska, Nazi Paikidze, &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-cairns-cup-round-6\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thum",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-cairns-cup-round-6",
+         "pubDate" : "Wed, 19 Jun 2024 02:23:11",
+         "title" : "2024 Cairns Cup: Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anna Muzychuk talks to Begim Tokhirjonova before the 2024 Cairns Cup. This aired during Round 4. 2024.06.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><di",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/anna-muzychuk-it%E2%80%99s-muzychuks-vs-others-cairnscup",
+         "pubDate" : "Wed, 19 Jun 2024 02:23:11",
+         "title" : "Anna Muzychuk: It's Muzychuks vs. The Others | #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Before the event, the 2024 Cairns Cup players offer advice to young girls who aspire to be professional chess players. This aired during Round 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/advice-girl-chess-players-cairnscup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qy4diRWMKEo.jpg?itok=CSMGrQuI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/advice-girl-chess-players-cairnscup",
+         "pubDate" : "Wed, 19 Jun 2024 02:23:11",
+         "title" : "Advice for the Girl Chess Players | #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Tan Zhongyi talks to Begim Tokhirjonova after defeating Zatonskih in the fourth round of the 2024 Cairns Cup. 2024.06.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL S",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tan-zhongyi-improve-it%E2%80%99s-important-come-events-r4-cairnscup",
+         "pubDate" : "Wed, 19 Jun 2024 02:23:11",
+         "title" : "Tan Zhongyi: To Improve, It's Important to Come to Events Like This | R4 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Elisabeth Paehtz talks to Begim Tokhirjonova before the 2024 Cairns Cup. This aired during Round 4. 2024.06.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paehtz-maybe-inside-anger-isn%E2%80%99t-so-bad-after-all-cairnscup",
+         "pubDate" : "Wed, 19 Jun 2024 02:23:11",
+         "title" : "Paehtz: Maybe Inside Anger Isn't So Bad After All | #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Begim Tokhirjonova after defeating Kosteniuk in the fourth round of the 2024 Cairns Cup. 2024.06.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee%E2%80%99s-respect-kosteniuk-makes-victory-sweeter-r4-cairnscup",
+         "pubDate" : "Wed, 19 Jun 2024 02:23:11",
+         "title" : "Alice Lee's Respect for Kosteniuk Makes Victory Sweeter | R4 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Harika Dronavalli talks to Begim Tokhirjonova before the 2024 Cairns Cup. This aired during Round 5. 2024.06.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dronavalli-balancing-%E2%80%98mom-guilt%E2%80%99-motivation-cairnscup",
+         "pubDate" : "Wed, 19 Jun 2024 02:23:11",
+         "title" : "Dronavalli: Balancing 'Mom Guilt' & Motivation | #CairnsCup"
+      },
+      {
          "description" : "All five games ended drawn in round 5 of the Cairns Cup, with Alice Lee (pictured) and Alexandra Kosteniuk escaping with half points from clearly inferior positions, against Nana Dzagnidze and Irina Krush, respectively. The results left Tan Zhongyi as the sole leader with four rounds to go. Mariya Muzychuk and Harika Dronavalli are tied for second place a half point back. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -616,14 +696,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/",
          "pubDate" : "Fri, 07 Jun 2024 18:07:32",
          "title" : "Warren Seymour, legend of Bahamian chess, dies"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <title>Top Female Chess Players to Compete in Cairns Cup in Saint Louis</title> <p style=\"text-align: center; font-size: 20px;\"><em>Saint Louis Chess Club to host elite international players in tournament that offers one of the largest chess prize funds for women</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/2024%20Cairns%20Cup%20Club%20Slideshow%20Banner%20475.jpg?itok=3s",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/news/top-female-chess-players-compete-cairns-cup-saint-louis",
-         "pubDate" : "Fri, 07 Jun 2024 13:52:38",
-         "title" : "Top Female Chess Players to Compete in Cairns Cup in Saint Louis"
       },
       {
          "description" : " Argentinian prodigy already has two international master norms and looks set to break more records while England's pre-teen talents are also making eye-catching progress Faustino Oro, just 10 years old, is already known as \"the Messi of chess\". The Argentinian boy burst on to the record books in 2023 when he became the youngest ever 2200-rated master level player at nine years, three months, followed by passing the 2300 mark just three months later. Oro's surge is continuing apace. Last week, at the Continental American Championship at Medellin, Colombia, he secured the second of three norms needed for the International Master (IM) title by reaching the required total of 6.5/9. The event wa",
