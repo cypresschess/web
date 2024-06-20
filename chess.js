@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/8R_8DG4RvkY\" width=\"320\" youtube-src-id=\"8R_8DG4RvkY\"></iframe></div><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/but-chess-is-already-cool.html",
+         "pubDate" : "Thu, 20 Jun 2024 11:25:00",
+         "title" : "But chess is already cool"
+      },
+      {
+         "description" : "The University of Bologna in Italy was founded in 1088 and is the oldest university in the world. It was at its foundation that the word \"Universitas\" was first coined. From 14 to 16 June, sixteen universities, including some of the most prestigious in the world (such as Yale, Cambridge and the Sorbonne), took part in the First Alma Mater University Chess Tournament for Teams, held in the most picturesque hall of the University Library in Bologna, the Aula Magna. Eindhoven won, Politecnico di Milano came second. Roberto Mesa reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/eindhoven-wins-alma-mater-university-chess-tournament-in-bologna",
+         "pubDate" : "Thu, 20 Jun 2024 11:00:00",
+         "title" : "Eindhoven Wins Alma Mater University Chess Tournament in Bologna"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3076",
+         "pubDate" : "Thu, 20 Jun 2024 07:21:56",
+         "title" : "Making History: Countdown to Guinness World Records Æ attempt begins!"
+      },
+      {
          "description" : "Alexandra Kosteniuk was the only player to score a full point in round 6 of the Cairns Cup. Kosteniuk's win over Mariya Muzychuk left her tied for second place with Harika Dronavalli, as they stand a half point behind sole leader Tan Zhongyi. In the one decisive game of the round, Muzychuk blundered in a materially balanced minor-piece endgame. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://aicf.in/asian-youth-chess-championship-2024classical-report-day-8/",
          "pubDate" : "Thu, 20 Jun 2024 05:13:57",
          "title" : "Asian Youth Chess Championship 2024:Classical Report Day 8"
+      },
+      {
+         "description" : "He&#39;s one of the world&#39;s top strikers and his nation&#39;s greatest-ever goalscorer. But between matches Harry Kane also finds time to dive into the 10-minute pool for a quick game on Chess.com. The 30-year-old, who plays for England in UEFA&#39;s Euro 2...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/england-striker-harry-kane-reveals-hes-about-1200-rated-on-chess-com",
+         "pubDate" : "Thu, 20 Jun 2024 04:01:41",
+         "title" : "England Striker Harry Kane Reveals He's 'About 1200-Rated On Chess.com'"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 6 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8257\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KLy8m07bAx0.jpg?itok=oaOVd7yM\" alt=\"\" /></a></div>",
@@ -102,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-6",
-         "pubDate" : "Wed, 19 Jun 2024 19:09:04",
+         "pubDate" : "Wed, 19 Jun 2024 19:09:00",
          "title" : "Kosteniuk Records Fifth Decisive Result, Moves Into Second"
       },
       {
@@ -205,9 +237,9 @@ news_feed (
          "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships has...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championship-series-2024/",
+         "link" : "https://www.englishchess.org.uk/english-championships-2024/",
          "pubDate" : "Wed, 19 Jun 2024 08:00:42",
-         "title" : "English and English Women's Championships - starts tomorrow!"
+         "title" : "English and English Women's Championships - starts today!"
       },
       {
          "description" : "",
@@ -640,14 +672,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-world-no-4-chess-gm-arjun-erigaisi-aims-to-have-fun-and-crack-at-candidates/articleshow/110883621.cms",
          "pubDate" : "Mon, 10 Jun 2024 19:41:11",
          "title" : "India's world no. 4 chess GM Erigaisi aims to have fun and crack at Candidates"
-      },
-      {
-         "description" : "GMs Hikaru Nakamura, Sam Sevian, Nihal Sarin, and Daniel Naroditsky advanced to the Winners Semifinals of the Bullet Chess Championship 2024 (BCC) on Monday.&#38;nbsp; In his debut to the BCC, Sevian defeated the 2021 champion, GM Alireza Firouzja, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-ko-day-1",
-         "pubDate" : "Mon, 10 Jun 2024 17:32:00",
-         "title" : "Sevian Stuns Firouzja; Nakamura, Nihal, Naroditsky Advance"
       },
       {
          "description" : " 5 Indians are leading after 4 rounds in Asian Youth Rapid, Kazakhstan Aaaradhya Das and R Pooja Shree are leading after 4 rounds in",
@@ -1096,22 +1120,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/quick-easy-practice.html",
          "pubDate" : "Thu, 30 May 2024 14:04:00",
          "title" : "Quick easy practice"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3045",
-         "pubDate" : "Thu, 30 May 2024 11:01:16",
-         "title" : "INTERVIEW: Timur Turlov, CEO of Freedom Holding Corp. on —Åhess and business"
-      },
-      {
-         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/western-asian-junior-girls-chess-championship-2024-in-sri-lanka-from-15th-to-23rd-july-2024/",
-         "pubDate" : "Thu, 30 May 2024 09:30:41",
-         "title" : "Western Asian Junior/ Girls Chess Championship - 2024 in Sri Lanka from 15th to 23rd July, 2024"
       }
    ]
 }
