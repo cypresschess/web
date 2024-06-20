@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Paehtz has a few tricks up her sleeve in her prep for Muzychuk </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8259\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zRmTyKb7XqI.jpg?itok=sf_XfWqN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8259",
+         "pubDate" : "Thu, 20 Jun 2024 20:24:34",
+         "title" : "WARNING...It's Tricky #Cairnscup #chess #chesstactics #chesscom"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +176,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/node/8250",
          "pubDate" : "Thu, 20 Jun 2024 02:24:18",
          "title" : "BEWARE...There's A Trick #Cairnscup #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alexandra Kosteniuk talks to Begim Tokhirjonova before the 2024 Cairns Cup. This aired during Round 6. 2024.06.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8249",
-         "pubDate" : "Wed, 19 Jun 2024 23:24:17",
-         "title" : "Kosteniuk's Goal: Enjoy It While It Lasts! | #CairnsCup"
       },
       {
          "description" : "GM Alexandra Kosteniuk has continued her run of decisive results at the Cairns Cup 2024 with a win over GM Mariya Muzychuk and now moves to 3.5/6, half a point behind the sole leader GM Tan Zhongyi. Draws on the remaining boards occurred with mi...",
@@ -1144,14 +1144,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-rating-chess-tournament-vedant-varasada-holds-top-seed-kartavya-anadkat-to-draw-second-seed-shrayan-majumder-upset-by-ujjwal-deep/articleshow/110580939.cms",
          "pubDate" : "Fri, 31 May 2024 04:11:44",
          "title" : "FIDE Rating tournament: Vedant holds top seed Kartavya to draw, second seed Shrayan upset by Ujjwal"
-      },
-      {
-         "description" : " Praggnanandhaa Rameshbabu, fifth in the Candidates, says: 'I can beat these players, but I have to play my best for that' The world No 1, Magnus Carlsen, has been the dominant performer in recent years in Norway Chess, the elite tournament played annually at Stavanger. From 2019 to 2022 he won it four times a row, before a setback in 2023. Coming into the 2024 event with eight victories in nine tournaments, he was the strong favourite. Wednesday's third round was off script. Carlsen not only lost to India's rising 18-year-old star <sup> ­</sup>Praggnanandhaa Rameshbabu, he was <a href=\"https://lichess.org/broadcast/norway-chess-2024--open/round-3/xmZcMs9U\">comprehensively outplayed</a> in a",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/may/31/chess-magnus-carlsen-loses-on-home-ground-in-norway-to-18-year-old-indian",
-         "pubDate" : "Thu, 30 May 2024 23:00:22",
-         "title" : "Chess: Magnus Carlsen loses on home turf in Norway to 18-year-old Indian"
       }
    ]
 }
