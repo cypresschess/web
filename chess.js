@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
+         "pubDate" : "Thu, 20 Jun 2024 19:50:00",
+         "title" : "Cairns Cup, Round 7 - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111146863.cms\" />The Norway Chess 2024 tournament showcased a remarkable feat by 18-year-old Indian chess prodigy R Praggnanandhaa, who defeated World No. 1 Magnus Carlsen. Despite Carlsen winning the tournament, Praggnanandhaa's victory was a milestone. His overall performance, including a draw against Hikaru Nakamura, secured him third place. Praggnanandhaa attributed his success to a favourable opening and expressed confidence in competing with the world's elite players. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/he-surprised-me-with-r-praggnanandhaa-on-win-against-world-no-1-magnus-carlsen-at-norway-chess-2024/articleshow/111146863.cms",
+         "pubDate" : "Thu, 20 Jun 2024 17:43:27",
+         "title" : "'He surprised me with...': Pragg on win against Carlsen"
+      },
+      {
          "description" : "With more than 5 million followers on YouTube, Levy Rozman, aka GothamChess, is the world's most popular chess streamer. He was recently invited to visit Google in New York, where Rozman spoke enthusiastically about his chess career, his book and chess in general. | Photo: Screenshot from the video about the event",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +26,15 @@ news_feed (
          "title" : "Levy Rozman talks chess at Google"
       },
       {
-         "description" : " In the aftermath of the &#8220;Battle of the Ages&#8221; match between Tunde Onakoya and rising star Deborah Quickpen, we are possibly witnessing the beginning of a new era in African chess. While many are raving about the top-level prodigies from around the world (specifically Asia), Africa has yet to see a bright star with a The post <a href=\"https://www.thechessdrum.net/blog/2024/06/20/the-rise-of-deborah-quickpen/\">The Rise of Deborah Quickpen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3078",
+         "pubDate" : "Thu, 20 Jun 2024 16:00:23",
+         "title" : "Chess for Freedom Conference continues in Pune, India"
+      },
+      {
+         "description" : " In the aftermath of the &#8220;Battle of the Ages&#8221; match between Nigerians Tunde Onakoya and rising star Deborah Quickpen, we are possibly witnessing the beginning of a new era in African chess. While many are raving about the top-level prodigies from around the world (specifically Asia), Africa has yet to see a bright star with The post <a href=\"https://www.thechessdrum.net/blog/2024/06/20/the-rise-of-deborah-quickpen/\">The Rise of Deborah Quickpen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/06/20/the-rise-of-deborah-quickpen/",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3076",
          "pubDate" : "Thu, 20 Jun 2024 07:21:56",
          "title" : "Making History: Countdown to Guinness World Records ® attempt begins!"
-      },
-      {
-         "description" : "Alexandra Kosteniuk was the only player to score a full point in round 6 of the Cairns Cup. Kosteniuk's win over Mariya Muzychuk left her tied for second place with Harika Dronavalli, as they stand a half point behind sole leader Tan Zhongyi. In the one decisive game of the round, Muzychuk blundered in a materially balanced minor-piece endgame. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-6",
-         "pubDate" : "Thu, 20 Jun 2024 07:00:00",
-         "title" : "Cairns Cup: Kosteniuk scores, climbs to shared second place"
       },
       {
          "description" : "8 Medals with one Gold for India in Asian Youth Chess Championship 2024 Narayani, Mani, Pratitee, Nakshtra, Aaradhya, Siddhanth, Ragavesh and Harsh got medals in",
