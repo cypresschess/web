@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With more than 5 million followers on YouTube, Levy Rozman, aka GothamChess, is the world's most popular chess streamer. He was recently invited to visit Google in New York, where Rozman spoke enthusiastically about his chess career, his book and chess in general. | Photo: Screenshot from the video about the event",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/levy-rozman-talks-chess-at-google",
+         "pubDate" : "Thu, 20 Jun 2024 16:13:00",
+         "title" : "Levy Rozman talks chess at Google"
+      },
+      {
+         "description" : " In the aftermath of the &#8220;Battle of the Ages&#8221; match between Tunde Onakoya and rising star Deborah Quickpen, we are possibly witnessing the beginning of a new era in African chess. While many are raving about the top-level prodigies from around the world (specifically Asia), Africa has yet to see a bright star with a The post <a href=\"https://www.thechessdrum.net/blog/2024/06/20/the-rise-of-deborah-quickpen/\">The Rise of Deborah Quickpen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/06/20/the-rise-of-deborah-quickpen/",
+         "pubDate" : "Thu, 20 Jun 2024 15:09:04",
+         "title" : "The Rise of Deborah Quickpen"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3077",
+         "pubDate" : "Thu, 20 Jun 2024 14:30:59",
+         "title" : "FIDE World Youth Championships 2024: Registration is open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kosteniuk talks about her up and down performance during the Cairns Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8258\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8e8rCDY80z4.jpg?itok=MF3eKNDC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8258",
+         "pubDate" : "Thu, 20 Jun 2024 14:24:31",
+         "title" : "All My Games Are Like....#Cairnscup #chess #chesscom #chessqueen #chessba"
+      },
+      {
+         "description" : "The team from Chessify emerged victorious at the World Corporate Chess Championship organised by FIDE in New York. After an intermediate round, four teams competed for the title in a knockout tournament. In the final, the Chessify team defeated the Chess Mood team. | Photos: Rafał Oleksiewicz",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessify-wins-the-world-corporate-chess-championship",
+         "pubDate" : "Thu, 20 Jun 2024 14:00:00",
+         "title" : "Chessify takes first at the World Corporate Chess Championship"
+      },
+      {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/8R_8DG4RvkY\" width=\"320\" youtube-src-id=\"8R_8DG4RvkY\"></iframe></div><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -46,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/england-striker-harry-kane-reveals-hes-about-1200-rated-on-chess-com",
-         "pubDate" : "Thu, 20 Jun 2024 04:01:41",
+         "pubDate" : "Thu, 20 Jun 2024 04:01:00",
          "title" : "England Striker Harry Kane Reveals He's 'About 1200-Rated On Chess.com'"
       },
       {
@@ -120,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/node/8249",
          "pubDate" : "Wed, 19 Jun 2024 23:24:17",
          "title" : "Kosteniuk's Goal: Enjoy It While It Lasts! | #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred talks to the team during the sixth round of the 2024 Cairns Cup. 2024.06.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8248",
-         "pubDate" : "Wed, 19 Jun 2024 23:24:17",
-         "title" : "WCHOF's Emily Allred on Nona Gaprindashvili's Incredible Visit | R6 #CairnsCup"
       },
       {
          "description" : "GM Alexandra Kosteniuk has continued her run of decisive results at the Cairns Cup 2024 with a win over GM Mariya Muzychuk and now moves to 3.5/6, half a point behind the sole leader GM Tan Zhongyi. Draws on the remaining boards occurred with mi...",
@@ -1104,22 +1136,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/may/31/chess-magnus-carlsen-loses-on-home-ground-in-norway-to-18-year-old-indian",
          "pubDate" : "Thu, 30 May 2024 23:00:22",
          "title" : "Chess: Magnus Carlsen loses on home turf in Norway to 18-year-old Indian"
-      },
-      {
-         "description" : "Last month's Yahoos post, <A HREF=\"https://chessforallages.blogspot.com/2024/04/candidate-yahoos.html\">Candidate Yahoos</A> (April 2024), started:- <BLOCKQUOTE> Of the 99 chess stories returned by Google News for the month of April, 27 were about the just concluded Candidates tournament. </BLOCKQUOTE> <P> Skip ahead one month and we get similar:- <BLOCKQUOTE> Of the 101 chess stories returned by Google News for the month of May, 28 were about... </BLOCKQUOTE> <P> Were about what exactly? The lead section, with nine related stories, was titled 'R Praggnanandhaa defeats Magnus Carlsen in classical format'. Add to that more on the same game mixed in with other chess news and we get 24 Pragg-Car",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/05/an-indian-norwegian-yahoo.html",
-         "pubDate" : "Thu, 30 May 2024 15:27:00",
-         "title" : "An Indian-Norwegian Yahoo"
-      },
-      {
-         "description" : " If you are looking for some easy practice, then Youtube might have the answer. I'm not talking about instructional videos, but a fairly easy chess engine you can play through their website. Under the new heading of 'Playables' Youtube have added a whole pile of web based games. One of the games is 'Chess Classic' While it isn't very good (at least the lower levels) it does provide a quick way to play some casual online chess. As for the practice bit, if you are just learning chess, then beating easy chess engines is one way top get better. It helps you sharpen your basic tactics without getting crushed later in the game. As per an earlier recommendation, start at the easiest level and play ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/quick-easy-practice.html",
-         "pubDate" : "Thu, 30 May 2024 14:04:00",
-         "title" : "Quick easy practice"
       }
    ]
 }
