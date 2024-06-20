@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alexandra Kosteniuk was the only player to score a full point in round 6 of the Cairns Cup. Kosteniuk's win over Mariya Muzychuk left her tied for second place with Harika Dronavalli, as they stand a half point behind sole leader Tan Zhongyi. In the one decisive game of the round, Muzychuk blundered in a materially balanced minor-piece endgame. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-6",
+         "pubDate" : "Thu, 20 Jun 2024 07:00:00",
+         "title" : "Cairns Cup: Kosteniuk scores, climbs to shared second place"
+      },
+      {
+         "description" : "8 Medals with one Gold for India in Asian Youth Chess Championship 2024 Narayani, Mani, Pratitee, Nakshtra, Aaradhya, Siddhanth, Ragavesh and Harsh got medals in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/asian-youth-chess-championship-2024classical-report-day-8/",
+         "pubDate" : "Thu, 20 Jun 2024 05:13:57",
+         "title" : "Asian Youth Chess Championship 2024:Classical Report Day 8"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 6 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8257\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KLy8m07bAx0.jpg?itok=oaOVd7yM\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,14 +98,6 @@ news_feed (
          "title" : "WCHOF's Emily Allred on Nona Gaprindashvili's Incredible Visit | R6 #CairnsCup"
       },
       {
-         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
-         "pubDate" : "Wed, 19 Jun 2024 19:50:00",
-         "title" : "Cairns Cup, Round 6 - Live!"
-      },
-      {
          "description" : "GM Alexandra Kosteniuk has continued her run of decisive results at the Cairns Cup 2024 with a win over GM Mariya Muzychuk and now moves to 3.5/6, half a point behind the sole leader GM Tan Zhongyi. Draws on the remaining boards occurred with mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -162,14 +170,6 @@ news_feed (
          "title" : "Bridging Minds: CMO Andrew Winton on the Unique Appeal and Marketing of the Chess Industry"
       },
       {
-         "description" : "For a chess player, chess pieces are like specific tools in a toolbox. We need to know how best to use them, just as a craftsman knows his tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't position the knights on the edge of the board. Knights are mysterious creatures. They add irrational content to any position. However, in this video tutorial you will learn how to tame them.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-markos-middlegame-secrets-vol-4-the-secrets-lives-of-knights",
-         "pubDate" : "Wed, 19 Jun 2024 10:00:00",
-         "title" : "Jan Markos: Middlegame Secrets Vol.4 - The Secrets Lives of Knights"
-      },
-      {
          "description" : "Most chess player's game analysis, if they do it at all, looks somewhat like this: If that comes close to what you do, you absolutely have to read this Newsletter. This process is flawed and won't help you improve. The Wrong Question In the above process, the question you ask yourself is wrong.You search for []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -226,36 +226,12 @@ news_feed (
          "title" : "India No.1 Arjun Erigaisi triumphs in Armenia, takes break from Classical chess"
       },
       {
-         "description" : "All five games ended drawn in round 5 of the Cairns Cup, with Alice Lee (pictured) and Alexandra Kosteniuk escaping with half points from clearly inferior positions, against Nana Dzagnidze and Irina Krush, respectively. The results left Tan Zhongyi as the sole leader with four rounds to go. Mariya Muzychuk and Harika Dronavalli are tied for second place a half point back. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-5",
-         "pubDate" : "Tue, 18 Jun 2024 21:00:00",
-         "title" : "Cairns Cup: Fighting draws"
-      },
-      {
-         "description" : "Arjun Erigaisi continues to impress: after a strong performance at the French Team Championships, he won the Stepan Avagyan Memorial in Jermuk, Armenia, with 6.0/9, finishing 1.5 points ahead of his closest rivals. With a live rating of 2778.1, he is now ranked 4th in the world. | Photos: Chess Academy Armenia",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-dominates-stepan-avagyan-memorial",
-         "pubDate" : "Tue, 18 Jun 2024 18:06:23",
-         "title" : "Arjun Erigaisi dominates Stepan Avagyan Memorial"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3072",
          "pubDate" : "Tue, 18 Jun 2024 17:38:20",
          "title" : "FIDE World Cadet Championship 2024: Registration is open"
-      },
-      {
-         "description" : "FIDE has announced the venue for the 2024 World Rapid and Blitz Championships. The tournament will take place in New York in the last week of December this year. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-world-rapid-and-blitz-championships-2024-come-to-new-york",
-         "pubDate" : "Tue, 18 Jun 2024 14:00:00",
-         "title" : "FIDE World Rapid and Blitz Championships 2024 come to New York"
       },
       {
          "description" : "It&#39;s time to let your inner chess author shine. We&#39;re excited to announce Chessable&#39;s 2024 Create Your Own Course contest! This is your chance to launch your own Chessable course presented by none other than 2021 Chessable Author of the Year, IM A...",
@@ -1136,22 +1112,6 @@ news_feed (
          "link" : "https://aicf.in/western-asian-junior-girls-chess-championship-2024-in-sri-lanka-from-15th-to-23rd-july-2024/",
          "pubDate" : "Thu, 30 May 2024 09:30:41",
          "title" : "Western Asian Junior/ Girls Chess Championship - 2024 in Sri Lanka from 15th to 23rd July, 2024"
-      },
-      {
-         "description" : "The above amount includes registration fee, entry fee, accommodation charges and bank charges only.&#160;As said earlier the players and accompanying persons are required to make",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/world-junior-rapid-blitz-chess-championship-2024-at-tashkent-uzbekistan-from-1st-to-8th-august-2024/",
-         "pubDate" : "Thu, 30 May 2024 07:09:17",
-         "title" : "World Junior Rapid & Blitz Chess Championship - 2024 at Tashkent, Uzbekistan from 1st to 8th August, 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110551422.cms\" />R Praggnanandhaa, the Indian chess sensation, clinched a remarkable victory against world number one Magnus Carlsen in classical chess, securing his first-ever win in this format against the champion. At just 18, Praggnanandhaa leads the open section of the tournament, with Magnus Carlsen dropping to fifth position after the defeat.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-scripts-history-beats-world-number-one-magnus-carlsen-in-classical-chess-for-first-time/articleshow/110551422.cms",
-         "pubDate" : "Thu, 30 May 2024 04:39:08",
-         "title" : "Praggnanandhaa beats Carlsen in classical chess for first time"
       }
    ]
 }
