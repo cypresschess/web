@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Svitlana was showcasing material imbalances in chess a couple of times already, and features plenty of interesting examples on her first Fritztrainer. But the legendary queen sacrifice which Magnus Carlsen pulled off against David Navara at the Biel Chess Festival 2018, remains one of the most beautiful imbalance games. Rook, knight, and pawn, are an interesting compensation for the queen, and the endgame skills of the Norwegian GM can never be underestimated. Also, we are so close to our 100th episode, and have a little surprise for you in the first week of July!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-biel-chess-festival-brilliancy",
+         "pubDate" : "Fri, 21 Jun 2024 09:18:49",
+         "title" : "Svitlana's Smart Moves - The Biel Chess Festival brilliancy"
+      },
+      {
+         "description" : " Entry is free, the prize fund is expected to be &pound;2,500, and the winner qualifies for the world solving championship This week's puzzle is a chance to enter an annual national contest in which Guardian readers traditionally perform strongly and in considerable numbers. White in the diagram, ­playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. This competition is open only to British residents, and entry is free. <a href=\"https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024-",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024-open-to-entries-from-britain",
+         "pubDate" : "Fri, 21 Jun 2024 07:00:09",
+         "title" : "Chess: national solving championship 2024 open to entries from Britain"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Kosteniuk talks about her up and down performance during the Cairns Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8268\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8e8rCDY80z4.jpg?itok=MF3eKNDC\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -90,7 +106,7 @@ news_feed (
          "title" : "Cairns Cup, Round 7 - Live!"
       },
       {
-         "description" : "Four decisive results shook up the standings at the Cairns Cup 2024 and with two rounds to go, five players are still in the hunt for the $50,000 first prize. GM Tan Zhongyi leads the event on 5/7 after defeating GM Elisabeth Paehtz while chaos ag...",
+         "description" : "Four decisive results shook up the standings at the Cairns Cup 2024 and, with two rounds to go, five players are still in the hunt for the $50,000 first prize. GM Tan Zhongyi leads the event on 5/7 after defeating GM Elisabeth Paehtz while chaos a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-7",
@@ -1128,22 +1144,6 @@ news_feed (
          "link" : "https://aicf.in/vacancy-announcement-2/",
          "pubDate" : "Fri, 31 May 2024 07:33:00",
          "title" : "Vacancy Announcement"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110584363.cms\" />In Norway chess tournament, R Vaishali dominates, securing 8.5 points after defeating Pia Cramling. She leads ahead of Wenjun Ju and Anna Muzychuk. Magnus Carlsen triumphs over Fabiano Caruana, while Hikaru Nakamura leads the men's section. R Praggnanandhaa faces setbacks, trailing with 5.5 points. With six rounds left, competition intensifies in the double round-robin format for the USD 1,61,000 prize.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-loses-to-hikaru-nakamura-after-defeating-world-no-1-magnus-carlsen-r-vaishali-leads-in-norway-chess-tournament/articleshow/110584363.cms",
-         "pubDate" : "Fri, 31 May 2024 06:24:10",
-         "title" : "Norway Chess: Pragg loses to Nakamura, R Vaishali leads"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110580939.cms\" />The most shocking result came on the second board when No. 2 seed Shrayan Majumder was stunned by Ujjwal Deep. Shrayan, Elo rating of 2134, was upset by Ujjwal, who has a lowly rating of 1767.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/fide-rating-chess-tournament-vedant-varasada-holds-top-seed-kartavya-anadkat-to-draw-second-seed-shrayan-majumder-upset-by-ujjwal-deep/articleshow/110580939.cms",
-         "pubDate" : "Fri, 31 May 2024 04:11:44",
-         "title" : "FIDE Rating tournament: Vedant holds top seed Kartavya to draw, second seed Shrayan upset by Ujjwal"
       }
    ]
 }
