@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3079",
+         "pubDate" : "Fri, 21 Jun 2024 12:00:21",
+         "title" : "Ganzorig Amartuvshin and Turmunkh Munkhzul win Mongolian Championship"
+      },
+      {
          "description" : "Svitlana was showcasing material imbalances in chess a couple of times already, and features plenty of interesting examples on her first Fritztrainer. But the legendary queen sacrifice which Magnus Carlsen pulled off against David Navara at the Biel Chess Festival 2018, remains one of the most beautiful imbalance games. Rook, knight, and pawn, are an interesting compensation for the queen, and the endgame skills of the Norwegian GM can never be underestimated. Also, we are so close to our 100th episode, and have a little surprise for you in the first week of July!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +26,7 @@ news_feed (
          "title" : "Final Report :Asian Youth Chess Championships 2024"
       },
       {
-         "description" : " Entry is free, the prize fund is expected to be &pound;2,500, and the winner qualifies for the world solving championship This week's puzzle is a chance to enter an annual national contest in which Guardian readers traditionally perform strongly and in considerable numbers. White in the diagram, ­playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. This competition is open only to British residents, and entry is free. <a href=\"https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024-",
+         "description" : " Entry is free, the prize fund is expected to be &pound;2,500, and the winner qualifies for the world solving championship This week's puzzle is a chance to enter an annual national contest in which Guardian readers traditionally perform strongly and in ­considerable numbers. White in the diagram, ­playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. This competition is open only to British residents, and entry is free. <a href=\"https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024-open-to-entries-from-britain",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3048",
          "pubDate" : "Sat, 01 Jun 2024 05:27:03",
          "title" : "FIDE World Championship Match 2024: Host city bids submitted"
-      },
-      {
-         "description" : " Having suggested that the format of the 2024 Norway Chess event was contributing to overly drawish play, the next 2 rounds of the Open section saw 5 decisive games out of the 6 played. What really kicked things off seems to have been Prag beating Carlsen in a very simple and stylish manner. Carlsen then bounced back with a 4th round win over Caruana, while Prag went down to Nakamura. In the mean time Ding's struggles continue, losing to Caruana and Firouzja in successive rounds. At this stage Firouzja leads by half a point over Carlsen. The Women's event is a little more clear cut, with Vaishali leading by 2.5 points! <br /> <b>Praggnanandhaa, R vs Carlsen, Magnus</b><br /> Norway Chess 202",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/05/aged-like-sour-milk.html",
-         "pubDate" : "Fri, 31 May 2024 13:57:00",
-         "title" : "Aged like sour milk"
       }
    ]
 }
