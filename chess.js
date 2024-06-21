@@ -10,6 +10,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - The Biel Chess Festival brilliancy"
       },
       {
+         "description" : "Sarbartho won the Gold in Blitz That's impressive! It seems like Indian chess players performed exceptionally well at the Asian Youth Blitz Chess Championship in",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-wins-eight-medals-at-asian-youth-chess-championships-2024/",
+         "pubDate" : "Fri, 21 Jun 2024 07:47:41",
+         "title" : "Final Report :Asian Youth Chess Championships 2024"
+      },
+      {
          "description" : " Entry is free, the prize fund is expected to be &pound;2,500, and the winner qualifies for the world solving championship This week's puzzle is a chance to enter an annual national contest in which Guardian readers traditionally perform strongly and in considerable numbers. White in the diagram, ­playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. This competition is open only to British residents, and entry is free. <a href=\"https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024-",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -522,7 +530,7 @@ news_feed (
          "title" : "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov"
       },
       {
-         "description" : "Yesterday, Gary Hogan drew with a BD6 variant of the London System against his Slovenian opponents and now has 1/3. Eight-times IBCA World Ladies Champion,...",
+         "description" : "Gary Hogan won his game with Black today inside two hrs in a g3 Queens Gambit Declined, so he moves onto 2/5. IM Rasim Nazim...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ibca-2024-reports-from-owen-phillips/",
@@ -1120,30 +1128,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/05/aged-like-sour-milk.html",
          "pubDate" : "Fri, 31 May 2024 13:57:00",
          "title" : "Aged like sour milk"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3047",
-         "pubDate" : "Fri, 31 May 2024 10:11:32",
-         "title" : "Polish Chess Championships 2024: Double victory for married couple"
-      },
-      {
-         "description" : " <p class=\"lead\">World Chess plc (LSE: CHSS), a leading chess organisation committed to enhancing the global mass market appeal of chess by introducing a variety of innovative chess-related activities, is happy to unveil the latest upgrade to FIDE Online Arena (the \"Arena\"). <div class=\"e2-text-video\"> <iframe src=\"https://www.youtube.com/embed/SUieXr5GFKk?enablejsapi=1\" allow=\"autoplay\" frameborder=\"0\" allowfullscreen></iframe> </div> World Chess is the exclusive operator of the FIDE Online Arena, a chess platform which allows paid members to receive an online rating recognised by FIDE, the international chess federation and world governing body recognised by the International Olympic Commi",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/world-chess-launches-new-and-revamped-interface-for-fide-online/",
-         "pubDate" : "Fri, 31 May 2024 07:37:50",
-         "title" : "World Chess launches new and revamped interface for FIDE Online Arena"
-      },
-      {
-         "description" : "All India Chess Federation announces a new vacancy for suitable candidates having sincerity ,hardworking and proficiency in English Name of the Post: Rating Officer Qualification:",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/vacancy-announcement-2/",
-         "pubDate" : "Fri, 31 May 2024 07:33:00",
-         "title" : "Vacancy Announcement"
       }
    ]
 }
