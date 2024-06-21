@@ -58,6 +58,14 @@ news_feed (
          "title" : "SNA Seminar & Examination at Guwahati on 21-22 June 2024"
       },
       {
+         "description" : "GM Vladimir Fedoseev won the 2024 Chess.com Chess960 Championship, defeating GM Denis Lazavik 3.5-1.5 in the Final and winning $2,000 in the process. Four days of qualifiers culminated on Friday with an eight-player knockout. The next community ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chess960-championship-fedoseev-wins",
+         "pubDate" : "Fri, 21 Jun 2024 14:22:00",
+         "title" : "Fedoseev Wins 2024 Chess960 Championship With Queen Sac In Final"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/niemann-secures-funds-for-4-million-buy-in-tournament",
          "pubDate" : "Wed, 12 Jun 2024 00:33:00",
          "title" : "Niemann Secures Funds For $1 Million Buy-In Tournament"
-      },
-      {
-         "description" : "GMs Hikaru Nakamura&#38;nbsp;and Daniel Naroditsky have knocked everyone else out of the Winners Bracket of the Bullet Chess Championship 2024 (BCC).&#38;nbsp; Nakamura led by a vast margin throughout his match vs. GM Nihal Sarin. Naroditsky fought off ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-ko-day-2",
-         "pubDate" : "Tue, 11 Jun 2024 17:35:00",
-         "title" : "Nakamura Unstoppable vs. Nihal, Naroditsky Overcomes Sevian's Comeback"
       },
       {
          "description" : "In this section we compare the risks playing a game of chess brings to your life - as compared to other activities a person may undertake. For example, riding a bike for 25 miles, running a marathon, climbing Matterhorn - or marrying Henry VIII. The assessment is given in micromort units, which can be used to generally calculate the risks under which people are in everyday life. | Picture Willie Benegas and Doug Pierson on Mountainmadness.com",
