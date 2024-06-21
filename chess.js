@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
+         "pubDate" : "Fri, 21 Jun 2024 19:50:00",
+         "title" : "Cairns Cup, Round 8 - Live!"
+      },
+      {
+         "description" : "Four games ended decisively in round 7 of the Cairns Cup, with Tan Zhongyi keeping the lead thanks to a victory over Elisabeth Paehtz and Alexandra Kosteniuk climbing to sole second place after beating Anna Zatonskih. Nana Dzagnidze and Mariya Muzychuk also scored full points, and are now tied for third place with Harika Dronavalli, who barely escaped with a draw against Anna Muzychuk. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-7",
+         "pubDate" : "Fri, 21 Jun 2024 17:45:00",
+         "title" : "Cairns Cup: Tan beats Paehtz in eventful round"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> White gets caught up in bishop&#039;s crossfire in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8271\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3gI2Wp60TKo.jpg?itok=h_qZjvjt\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8271",
+         "pubDate" : "Fri, 21 Jun 2024 17:25:12",
+         "title" : "Don't Think She Saw The Bishops #cairnscup #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser replies to who attributed to the rise of the top 3 players from India </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8270\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wd7WYK13U-U.jpg?itok=1r3vgIj6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8270",
+         "pubDate" : "Fri, 21 Jun 2024 17:25:12",
+         "title" : "Vishy's Influence In Chess #Cairnscup #chess #vishyanand #chessbaseindia #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In this position, IM Nazi Paikidze breaks down the interesting move of b4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8269\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hvo5giycPXA.jpg?itok=Q56XploF\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8269",
+         "pubDate" : "Fri, 21 Jun 2024 17:25:12",
+         "title" : "Nazi Explains b4 #Cairnscup #chess #chesstactics #chessstrategy #chesscom"
+      },
+      {
+         "description" : "A brief report on BRICS games Rapid Chess Championships 2024 Kazan, Russia. The BRICS games Rapid Chess Championships for Men and Women were held",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/brics-games-2024-kazan-russia/",
+         "pubDate" : "Fri, 21 Jun 2024 16:27:30",
+         "title" : "BRICS Games 2024 Kazan, Russia"
+      },
+      {
+         "description" : "SNA Seminar &#38; Examination starts at Guwahati&#160; A total of 41 participants from 7 states have started their two days' Seminar cum Examination at Guwahati",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-examination-at-guwahati-on-21-22-june-2024/",
+         "pubDate" : "Fri, 21 Jun 2024 16:19:40",
+         "title" : "SNA Seminar & Examination at Guwahati on 21-22 June 2024"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -90,38 +146,6 @@ news_feed (
          "title" : "Kosteniuk: Still Critical of Her Win Over Zatonskih | R7 #CairnsCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Tan Zhongyi talks to Begim Tokhirjonova before the 2024 Cairns Cup. This aired during Round 7. 2024.06.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8261",
-         "pubDate" : "Fri, 21 Jun 2024 02:24:36",
-         "title" : "Tan Zhongyi: You Deserve To Be Where You Are! | #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield talks to the team before the seventh round of the 2024 Cairns Cup. 2024.06.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">C",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8260",
-         "pubDate" : "Thu, 20 Jun 2024 23:24:35",
-         "title" : "Sinquefield: Krush 'a Marvelous Ambassador' for Chess | R7 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Paehtz has a few tricks up her sleeve in her prep for Muzychuk </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8259\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zRmTyKb7XqI.jpg?itok=sf_XfWqN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8259",
-         "pubDate" : "Thu, 20 Jun 2024 20:24:34",
-         "title" : "WARNING...It's Tricky #Cairnscup #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
-         "pubDate" : "Thu, 20 Jun 2024 19:50:00",
-         "title" : "Cairns Cup, Round 7 - Live!"
-      },
-      {
          "description" : "Four decisive results shook up the standings at the Cairns Cup 2024 and, with two rounds to go, five players are still in the hunt for the $50,000 first prize. GM Tan Zhongyi leads the event on 5/7 after defeating GM Elisabeth Paehtz while chaos a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -144,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-chess960-championship-qualifiers",
          "pubDate" : "Thu, 20 Jun 2024 17:36:00",
          "title" : "Duda Scores 9/9, Caruana Misses Out As 8 Qualify For Chess960 Finals"
-      },
-      {
-         "description" : "With more than 5 million followers on YouTube, Levy Rozman, aka GothamChess, is the world's most popular chess streamer. He was recently invited to visit Google in New York, where Rozman spoke enthusiastically about his chess career, his book and chess in general. | Photo: Screenshot from the video about the event",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/levy-rozman-talks-chess-at-google",
-         "pubDate" : "Thu, 20 Jun 2024 16:13:00",
-         "title" : "Levy Rozman talks chess at Google"
       },
       {
          "description" : "",
@@ -178,28 +194,12 @@ news_feed (
          "title" : "FIDE World Youth Championships 2024: Registration is open"
       },
       {
-         "description" : "The team from Chessify emerged victorious at the World Corporate Chess Championship organised by FIDE in New York. After an intermediate round, four teams competed for the title in a knockout tournament. In the final, the Chessify team defeated the Chess Mood team. | Photos: Rafał Oleksiewicz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessify-wins-the-world-corporate-chess-championship",
-         "pubDate" : "Thu, 20 Jun 2024 14:00:00",
-         "title" : "Chessify takes first at the World Corporate Chess Championship"
-      },
-      {
          "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/8R_8DG4RvkY\" width=\"320\" youtube-src-id=\"8R_8DG4RvkY\"></iframe></div><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
          "link" : "http://chessexpress.blogspot.com/2024/06/but-chess-is-already-cool.html",
          "pubDate" : "Thu, 20 Jun 2024 11:25:00",
          "title" : "But chess is already cool"
-      },
-      {
-         "description" : "The University of Bologna in Italy was founded in 1088 and is the oldest university in the world. It was at its foundation that the word \"Universitas\" was first coined. From 14 to 16 June, sixteen universities, including some of the most prestigious in the world (such as Yale, Cambridge and the Sorbonne), took part in the First Alma Mater University Chess Tournament for Teams, held in the most picturesque hall of the University Library in Bologna, the Aula Magna. Eindhoven won, Politecnico di Milano came second. Roberto Mesa reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/eindhoven-wins-alma-mater-university-chess-tournament-in-bologna",
-         "pubDate" : "Thu, 20 Jun 2024 11:00:00",
-         "title" : "Eindhoven Wins Alma Mater University Chess Tournament in Bologna"
       },
       {
          "description" : "",
@@ -1072,14 +1072,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/06/everybody-loves-morphy.html",
          "pubDate" : "Sun, 02 Jun 2024 15:16:00",
          "title" : "Everybody Loves Morphy"
-      },
-      {
-         "description" : "Please find the Live Games Link for FIDE World Junior Chess Championship 2024 Open Live Link :&#160;https://live.aicf.in/worldjunior2024/open/index.html Girls Live Link :&#160;https://live.aicf.in/worldjunior2024/girls/index.html",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-fide-world-junior-chess-championship-2024/",
-         "pubDate" : "Sun, 02 Jun 2024 14:10:13",
-         "title" : "Live Games Link for FIDE World Junior Chess Championship 2024"
       },
       {
          "description" : " The short answer, is that I have no idea. His poor run of form has continued, losing his last 3 classical games at 2024 Norway Chess. The most common explanation is a combination of recent poor health, and the psychological letdown after winning the World Championship. This may be so, but then again ... When I played him in 2019, he had just flown in from St Louis, where he had beaten Magnus Carlsen in a playoff to win the 2019 Sinquefield Cup. He was clearly unwell when he played me, and at one point I was convinced he was going to fall asleep at the board. Nonetheless, he went all the way through the tournament, only losing in the Final. Of course the level of opposition is slightly below",
