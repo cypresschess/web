@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Anna Muzychuk talks to Begim Tokhirjonova after defeating Kosteniuk in the eighth round of the 2024 Cairns Cup. 2024.06.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8281",
+         "pubDate" : "Sat, 22 Jun 2024 08:25:23",
+         "title" : "Anna Muzychuk's First Win, Over Kosteniuk | R8 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Begim Tokhirjonova after defeating Zatonskih in the eighth round of the 2024 Cairns Cup. 2024.06.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8280",
+         "pubDate" : "Sat, 22 Jun 2024 08:25:23",
+         "title" : "Alice Lee: Whatever Happens, Happy With My Performance So Far | R8 #CairnsCup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Yasser reflects on a quote from GM Vishy Anand regarding the rollercoaster of games played by a GM </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8279\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Y86RzVXy1l8.jpg?itok=5MW1ILjY\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -88,22 +104,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-8",
          "pubDate" : "Fri, 21 Jun 2024 19:37:00",
          "title" : "Anna Muzychuk With Black Beats Kosteniuk, Joins Five-Way Tie For Second"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> White gets caught up in bishop&#039;s crossfire in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8271\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3gI2Wp60TKo.jpg?itok=h_qZjvjt\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8271",
-         "pubDate" : "Fri, 21 Jun 2024 17:25:12",
-         "title" : "Don't Think She Saw The Bishops #cairnscup #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser replies to who attributed to the rise of the top 3 players from India </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8270\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wd7WYK13U-U.jpg?itok=1r3vgIj6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8270",
-         "pubDate" : "Fri, 21 Jun 2024 17:25:12",
-         "title" : "Vishy's Influence In Chess #Cairnscup #chess #vishyanand #chessbaseindia #chesscom"
       },
       {
          "description" : "A brief report on BRICS games Rapid Chess Championships 2024 Kazan, Russia. The BRICS games Rapid Chess Championships for Men and Women were held",
@@ -1096,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3049",
          "pubDate" : "Sat, 01 Jun 2024 12:54:30",
          "title" : "FIDE June 2024 rating list published"
-      },
-      {
-         "description" : "I recently came across a handsome boxed chess set of some historical significance. Inscribed on a solid silver plaque , adorning the lid, were the words: To Mrs Rhoda A Bowles, from the Cambridge University Chess Club, in grateful recognition of her enthusiastic and sustained exertions on its behalf in the cause of International Chess []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/rhoda-bowles-a-lost-heroine-of-female-chess/",
-         "pubDate" : "Sat, 01 Jun 2024 11:18:19",
-         "title" : "Rhoda Bowles: a lost heroine of female chess"
       }
    ]
 }
