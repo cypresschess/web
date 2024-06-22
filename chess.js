@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Tan Zhongyi talks to Begim Tokhirjonova after a draw against Kosteniuk in the ninth round to clinch the 2024 Cairns Cup. 2024.06.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8284",
+         "pubDate" : "Sat, 22 Jun 2024 20:25:39",
+         "title" : "Tan Zhongyi Wins The Event! And Drops to World #5! | R9 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Contemporary Music Director Brian Owens talks to the team during the ninth round of the 2024 Cairns Cup. 2024.06.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8283",
+         "pubDate" : "Sat, 22 Jun 2024 20:25:39",
+         "title" : "WCHOF Music's Brian Owens: Promoting Excellence in My Creative Discipline | R9 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the fourth Cairns Cup, a classical round robin event (players below). Join GM Yasser Seirawan, and IMs Jovanka Houska, Nazi Paikidze, &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8282\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ILAH",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8282",
+         "pubDate" : "Sat, 22 Jun 2024 20:25:39",
+         "title" : "2024 Cairns Cup: Round 9 | Final Round"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -88,30 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/node/8275",
          "pubDate" : "Fri, 21 Jun 2024 23:25:18",
          "title" : "Nona Gaprindashvili: First Grandmaster Woman | #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Classical Music Director Brian Woods talks to the team during the eighth round of the 2024 Cairns Cup. BrianWoodsPianist.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8274\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hnMZodfNuLI.jpg?itok=85I1XaLq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8274",
-         "pubDate" : "Fri, 21 Jun 2024 23:25:18",
-         "title" : "WCHOF's Brian Woods: 'Wanderings' Album About Displaced Musicians | R8 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Mariya Muzychuk talks to Begim Tokhirjonova before the 2024 Cairns Cup. This aired during Round 8. 2024.06.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8273",
-         "pubDate" : "Fri, 21 Jun 2024 23:25:18",
-         "title" : "Mariya Muzychuk: Necessary to Involve Girls at Chess Clubs | #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Begim Tokhirjonova after a draw against Mariya Muzychuk in the eighth round of the 2024 Cairns Cup. 2024.06.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8272",
-         "pubDate" : "Fri, 21 Jun 2024 23:25:18",
-         "title" : "Krush Touched by Generosity of Cairns Chess Queens Award | R8 #CairnsCup"
       },
       {
          "description" : "GM Anna Muzychuk and IM Alice Lee both won their respective games against GM Alexandra Kosteniuk and IM Anna Zatonskih respectively at the Cairns Cup 2024 on Friday. For Muzychuk, this means she is now one point shy of leader GM Tan Zhongyi&#38;nbsp;h...",
