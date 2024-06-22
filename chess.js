@@ -1104,14 +1104,6 @@ news_feed (
          "link" : "https://www.thearticle.com/rhoda-bowles-a-lost-heroine-of-female-chess/",
          "pubDate" : "Sat, 01 Jun 2024 11:18:19",
          "title" : "Rhoda Bowles: a lost heroine of female chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3048",
-         "pubDate" : "Sat, 01 Jun 2024 05:27:03",
-         "title" : "FIDE World Championship Match 2024: Host city bids submitted"
       }
    ]
 }
