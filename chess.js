@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Yasser reflects on a quote from GM Vishy Anand regarding the rollercoaster of games played by a GM </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8279\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Y86RzVXy1l8.jpg?itok=5MW1ILjY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8279",
+         "pubDate" : "Sat, 22 Jun 2024 02:25:22",
+         "title" : "The Ups and Downs of Being A GM #Cairnscup #chess #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser and Jovi go through a line in which Dronavalli can demolish Tan&#039;s kingside in their position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8278\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t1Ps5p-U95o.jpg?itok=Ofzr0e7G\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8278",
+         "pubDate" : "Sat, 22 Jun 2024 02:25:22",
+         "title" : "Demolishing the Kingside #Cairnscup #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Yasser Seirawan shares a bit of knowledge when playing the queen and pawn endgame when up a pawn </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8277\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oYDE8o3T8Ag.jpg?itok=QjnxqWES\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8277",
+         "pubDate" : "Sat, 22 Jun 2024 02:25:22",
+         "title" : "Chess Bit: Queen and Pawn Ending #Cairnscup #chess #chesstactics #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 8 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8276\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wsfoKr3cHn0.jpg?itok=6VN4GRC9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8276",
+         "pubDate" : "Sat, 22 Jun 2024 02:25:22",
+         "title" : "Tan Zhongyi Takes Control | RECAP | 2024 Cairns Cup: Round 8"
+      },
+      {
+         "description" : "The English Championships are taking place on June 20-23 at the Holiday Inn Kenilworth-Warwick in Kenilworth. Each event is a 7-round Swiss open. After 4 rounds, the open section has 5 players sharing the lead, including top seeds Michael Adams (pictured) and Gawain Jones. In the women's tournament, defending champion Katarzyna Toma is the sole leader with a perfect 4/4 score. | Photo: English Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/english-championships-2024-r4",
+         "pubDate" : "Sat, 22 Jun 2024 02:15:00",
+         "title" : "English Championships: Five co-leaders in the open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Learn about Cairns Cup special guest, former women's world champion GM Nona Gaprindashvili. The Georgian was the first woman to earn the grandmaster title. Plus, Nona comments on the Saint Louis Chess Campus and the 2024 Cairns Cup. This full version aired during Round 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8275\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/F3RKQ6av",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8275",
+         "pubDate" : "Fri, 21 Jun 2024 23:25:18",
+         "title" : "Nona Gaprindashvili: First Grandmaster Woman | #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Classical Music Director Brian Woods talks to the team during the eighth round of the 2024 Cairns Cup. BrianWoodsPianist.com </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8274\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hnMZodfNuLI.jpg?itok=85I1XaLq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8274",
+         "pubDate" : "Fri, 21 Jun 2024 23:25:18",
+         "title" : "WCHOF's Brian Woods: 'Wanderings' Album About Displaced Musicians | R8 #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Mariya Muzychuk talks to Begim Tokhirjonova before the 2024 Cairns Cup. This aired during Round 8. 2024.06.12<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8273",
+         "pubDate" : "Fri, 21 Jun 2024 23:25:18",
+         "title" : "Mariya Muzychuk: Necessary to Involve Girls at Chess Clubs | #CairnsCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Irina Krush talks to Begim Tokhirjonova after a draw against Mariya Muzychuk in the eighth round of the 2024 Cairns Cup. 2024.06.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8272",
+         "pubDate" : "Fri, 21 Jun 2024 23:25:18",
+         "title" : "Krush Touched by Generosity of Cairns Chess Queens Award | R8 #CairnsCup"
+      },
+      {
          "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +82,12 @@ news_feed (
          "title" : "Cairns Cup, Round 8 - Live!"
       },
       {
-         "description" : "Four games ended decisively in round 7 of the Cairns Cup, with Tan Zhongyi keeping the lead thanks to a victory over Elisabeth Paehtz and Alexandra Kosteniuk climbing to sole second place after beating Anna Zatonskih. Nana Dzagnidze and Mariya Muzychuk also scored full points, and are now tied for third place with Harika Dronavalli, who barely escaped with a draw against Anna Muzychuk. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-7",
-         "pubDate" : "Fri, 21 Jun 2024 17:45:00",
-         "title" : "Cairns Cup: Tan beats Paehtz in eventful round"
+         "description" : "GM Anna Muzychuk and IM Alice Lee both won their respective games against GM Alexandra Kosteniuk and IM Anna Zatonskih respectively at the Cairns Cup 2024 on Friday. For Muzychuk, this means she is now one point shy of leader GM Tan Zhongyi&#38;nbsp;h...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-8",
+         "pubDate" : "Fri, 21 Jun 2024 19:37:00",
+         "title" : "Anna Muzychuk With Black Beats Kosteniuk, Joins Five-Way Tie For Second"
       },
       {
          "description" : "<div class=\"body text-secondary\"> White gets caught up in bishop&#039;s crossfire in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8271\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3gI2Wp60TKo.jpg?itok=h_qZjvjt\" alt=\"\" /></a></div>",
@@ -32,14 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/node/8270",
          "pubDate" : "Fri, 21 Jun 2024 17:25:12",
          "title" : "Vishy's Influence In Chess #Cairnscup #chess #vishyanand #chessbaseindia #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In this position, IM Nazi Paikidze breaks down the interesting move of b4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8269\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hvo5giycPXA.jpg?itok=Q56XploF\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8269",
-         "pubDate" : "Fri, 21 Jun 2024 17:25:12",
-         "title" : "Nazi Explains b4 #Cairnscup #chess #chesstactics #chessstrategy #chesscom"
       },
       {
          "description" : "A brief report on BRICS games Rapid Chess Championships 2024 Kazan, Russia. The BRICS games Rapid Chess Championships for Men and Women were held",
@@ -74,14 +138,6 @@ news_feed (
          "title" : "Ganzorig Amartuvshin and Turmunkh Munkhzul win Mongolian Championship"
       },
       {
-         "description" : "Svitlana was showcasing material imbalances in chess a couple of times already, and features plenty of interesting examples on her first Fritztrainer. But the legendary queen sacrifice which Magnus Carlsen pulled off against David Navara at the Biel Chess Festival 2018, remains one of the most beautiful imbalance games. Rook, knight, and pawn, are an interesting compensation for the queen, and the endgame skills of the Norwegian GM can never be underestimated. Also, we are so close to our 100th episode, and have a little surprise for you in the first week of July!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-biel-chess-festival-brilliancy",
-         "pubDate" : "Fri, 21 Jun 2024 09:18:49",
-         "title" : "Svitlana's Smart Moves - The Biel Chess Festival brilliancy"
-      },
-      {
          "description" : "Sarbartho won the Gold in Blitz That's impressive! It seems like Indian chess players performed exceptionally well at the Asian Youth Blitz Chess Championship in",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -96,62 +152,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024-open-to-entries-from-britain",
          "pubDate" : "Fri, 21 Jun 2024 07:00:09",
          "title" : "Chess: national solving championship 2024 open to entries from Britain"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kosteniuk talks about her up and down performance during the Cairns Cup </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8268\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8e8rCDY80z4.jpg?itok=MF3eKNDC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8268",
-         "pubDate" : "Fri, 21 Jun 2024 02:24:36",
-         "title" : "All My Games Are Like....#Cairnscup #chess #chesscom #chessqueen"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Mariya Muzychuk talks to Begim Tokhirjonova after defeating Alice Lee in the seventh round of the 2024 Cairns Cup. Fun fact: that ice cream shop was the home of the 2022 Chess Club summer events. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8267\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UMqrG9NgEPQ.jpg?itok=PuUdbWG8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8267",
-         "pubDate" : "Fri, 21 Jun 2024 02:24:36",
-         "title" : "Mariya Muzychuk: Ice Cream Improved My Mood | R7 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tan Zhongyi talks to Begim Tokhirjonova after defeating Paehtz in the seventh round of the 2024 Cairns Cup. 2024.06.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8266",
-         "pubDate" : "Fri, 21 Jun 2024 02:24:36",
-         "title" : "Tan Zhongyi's 1.c4 Throws Lizzy for a Loop | R7 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 7 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8265\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/8TycQy2Fpes.jpg?itok=oac6xx0N\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8265",
-         "pubDate" : "Fri, 21 Jun 2024 02:24:36",
-         "title" : "Tan Zhongyi, Kosteniuk Pull Ahead | RECAP | 2024 Cairns Cup: Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the fourth Cairns Cup, a classical round robin event (players below). Join GM Yasser Seirawan, and IMs Jovanka Houska, Nazi Paikidze, &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8264\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ILAH",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8264",
-         "pubDate" : "Fri, 21 Jun 2024 02:24:36",
-         "title" : "2024 Cairns Cup: Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nana Dzagnidze talks to Begim Tokhirjonova after defeating Krush in the seventh round of the 2024 Cairns Cup. 2024.06.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL S",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8263",
-         "pubDate" : "Fri, 21 Jun 2024 02:24:36",
-         "title" : "Dzagnidze Proves that She 'Missed This Atmosphere' | R7 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alexandra Kosteniuk talks to Begim Tokhirjonova after defeating Zatonskih in the seventh round of the 2024 Cairns Cup. 2024.06.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8262",
-         "pubDate" : "Fri, 21 Jun 2024 02:24:36",
-         "title" : "Kosteniuk: Still Critical of Her Win Over Zatonskih | R7 #CairnsCup"
       },
       {
          "description" : "Four decisive results shook up the standings at the Cairns Cup 2024 and, with two rounds to go, five players are still in the hunt for the $50,000 first prize. GM Tan Zhongyi leads the event on 5/7 after defeating GM Elisabeth Paehtz while chaos a...",
@@ -696,14 +696,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesskid-youth-championship-starting-june-29",
          "pubDate" : "Wed, 12 Jun 2024 08:00:30",
          "title" : "See The Future: Watch The ChessKid Youth Championships, Starting June 29"
-      },
-      {
-         "description" : "GM Hans Niemann said on X that he has secured the necessary funds to play in the $1 million buy-in tournament alongside GMs Nodirbek Abdusattorov, Fabiano Caruana, and Ian Nepomniachtchi. Organizer Wadim Rosenstein confirmed to Chess.com that fund...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/niemann-secures-funds-for-4-million-buy-in-tournament",
-         "pubDate" : "Wed, 12 Jun 2024 00:33:00",
-         "title" : "Niemann Secures Funds For $1 Million Buy-In Tournament"
       },
       {
          "description" : "In this section we compare the risks playing a game of chess brings to your life - as compared to other activities a person may undertake. For example, riding a bike for 25 miles, running a marathon, climbing Matterhorn - or marrying Henry VIII. The assessment is given in micromort units, which can be used to generally calculate the risks under which people are in everyday life. | Picture Willie Benegas and Doug Pierson on Mountainmadness.com",
