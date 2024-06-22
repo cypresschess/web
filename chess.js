@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Tan Zhongyi has a 1-point lead going into the final round of the Cairns Cup in Saint Louis. Alexandra Kosteniuk, who stood in sole second place before Friday's eighth round, was defeated by Anna Muzychuk. This crucial result left five players tied for second place a full point behind the leader: Anna and Mariya Muzychuk, Kosteniuk, Nana Dzagnidze and Harika Dronavalli. | Photo: Lennart Ootes",
+         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-8",
-         "pubDate" : "Sat, 22 Jun 2024 15:45:00",
-         "title" : "Cairns Cup: Tan extends lead as Anna Muzychuk beats Kosteniuk"
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
+         "pubDate" : "Sat, 22 Jun 2024 19:50:00",
+         "title" : "Cairns Cup, Round 9 - Live!"
+      },
+      {
+         "description" : "GQ magazine is conducting a series of video portraits of celebrities in which they are asked to name their ten \"essentials\". For the English striker Harry Kane, chess is one of them. The Queen's Gambit series has inspired him, and he regularly plays online, with his family and the other Bayern professionals. Kane also revealed who the best Bayern professional in chess is - not him. | Photo: Video GQ",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/harry-kane-passion-chess",
+         "pubDate" : "Sat, 22 Jun 2024 19:00:00",
+         "title" : "Harry Kane's passion for chess"
       },
       {
          "description" : "In 1970 in Belgrade the mighty USSR Chess Team was challenged by an elite selection, representing the Rest of the World, in what was dubbed the \"Match of the Century\". The Soviets won by the tightest of margins, 20&frac12; points to 19&frac12;; close though it was, nobody could deny their achievement in taking on and beating the []",
@@ -272,14 +280,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/06/surprise-opening-surprise-player.html",
          "pubDate" : "Wed, 19 Jun 2024 13:32:00",
          "title" : "Surprise Opening, surprise player"
-      },
-      {
-         "description" : "There is something very special about playing chess. During a game your heart often races and your blood pressure rises. Evolution has set this up: in times of stress, pour out adrenaline and prepare the individual for a physical fight - or a lightening retreat. Can it be healthy for chess players to experience this while they sit motionless, for a number of hours? In part three of their series, Prof. Christian Hesse and Frederic Friedel discuss this question.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-risk-of-playing-chess-3",
-         "pubDate" : "Wed, 19 Jun 2024 13:00:00",
-         "title" : "The risk of playing chess"
       },
       {
          "description" : "GM Arjun Erigaisi once again proved unstoppable as he dominated the Stepan Avagyan Memorial 2024 which took place in Jermuk, Armenia from June 10-18. New research shows only two players can match his meteoric rise to the world&#39;s elite, but the Ind...",
