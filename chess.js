@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In celebration of International Chess Day and the FIDE's 100th anniversary, FIDE invites all chess players in the world to participate in an attempt to set a new Guinness World Record on July 20. All chess players are invited to support the attempt by participating in OTB tournaments or playing online, thus demonstrating the unity and passion of the chess community.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/countdown-guinness-world-records",
+         "pubDate" : "Sun, 23 Jun 2024 07:00:00",
+         "title" : "Countdown to Guinness World Records' attempt begins"
+      },
+      {
+         "description" : "The 2024 European Youth Team Chess Championship commenced in Rhodes, Greece. With the participation of 58 teams from 16 European federations, the event broke the participation record. The Opening ceremony of the event took place shortly before the start of the first round, with the ECU Secretary General Mr. Theodoros Tsorbatzoglou and the special guest, President of the Asean Chess Confederation Mr. Leong Ignatius played the first ceremonial moves on the top boards. The first two rounds saw some upsets []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-commenced-in-rhodes-greece/",
+         "pubDate" : "Sun, 23 Jun 2024 05:55:00",
+         "title" : "European Youth Team Chess Championship 2024 commenced in Rhodes, Greece"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 9 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8285\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pXOJnyG4c5k.jpg?itok=4RrJjxDZ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "http://chessexpress.blogspot.com/2024/06/what-is-up-with-ding.html",
          "pubDate" : "Sun, 02 Jun 2024 13:55:00",
          "title" : "What is up with Ding?"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110634384.cms\" />Indian chess prodigy Rameshbabu Praggnanandhaa, 18, stunned the chess world with victories at the 2024 Norway Chess tournament. He defeated top-ranked players Magnus Carlsen and Fabiano Caruana in classical chess, earning praise from figures like Gautam Adani. Praggnanandhaa's achievements solidify his status as a rising star in the international chess community.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/incredible-praggnanandhaa-gautam-adani-hails-indian-prodigy-for-beating-both-world-no-1-and-2-at-norway-chess-tournament/articleshow/110634384.cms",
-         "pubDate" : "Sun, 02 Jun 2024 05:31:13",
-         "title" : "Adani hails Praggnanandhaa for beating both World No. 1 and 2"
       }
    ]
 }
