@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tan Zhongyi signed a quick draw with Alexandra Kosteniuk to become the outright winner of the Cairns Cup in Saint Louis. The Chinese star finished the event with an undefeated 6/9 score. In the one decisive game of the final round, Anna Muzychuk defeated Alice Lee to secure sole second place. This was Muzychuk's second win in a row, after having collected seven draws in the first seven rounds of the event. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cairns-cup-2024-9",
+         "pubDate" : "Sun, 23 Jun 2024 19:00:00",
+         "title" : "Tan Zhongyi wins Cairns Cup, Anna Muzychuk grabs second place"
+      },
+      {
          "description" : " Can you work out what day of the week Abby was born on, based on the following conversations? Abby and Barry know the day of the week they were born on, but not the day of the week the other was. Both know that Barry was not born on a Monday, and they are told (by someone who knows both birthdays) that they were born on consecutive days of the week (eg Tue, Wed), although not necessarily in a specific order. They are then asked alternately whether they know the day of the week the other was born on, starting with Abby. \"No\", \"No\", \"No\" \"No\", \"No\", \"Yes!\" (3 No's by Abbey, 2 No's and a final Yes by Barry). What day of the week was Abby born? If you can't find a solution, or the question was ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess Express",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/brother-sister-indian-duo-of-r-praggnanandhaaa-and-r-vaishali-suffer-defeats-at-norway-chess-tournament/articleshow/110650877.cms",
          "pubDate" : "Mon, 03 Jun 2024 03:16:55",
          "title" : "Brother-sister Indian duo of Pragg and Vaishali suffer defeats"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3050",
-         "pubDate" : "Sun, 02 Jun 2024 16:33:07",
-         "title" : "FIDE World Junior Championship kicks off in Gujarat, India"
       }
    ]
 }
