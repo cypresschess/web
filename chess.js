@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 9 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8285\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pXOJnyG4c5k.jpg?itok=4RrJjxDZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8285",
+         "pubDate" : "Sun, 23 Jun 2024 02:25:50",
+         "title" : "Tan Zhongyi Clinches, Muzychuk Second | RECAP | 2024 Cairns Cup: Round 9"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Tan Zhongyi talks to Begim Tokhirjonova after a draw against Kosteniuk in the ninth round to clinch the 2024 Cairns Cup. 2024.06.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -40,6 +48,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/harry-kane-passion-chess",
          "pubDate" : "Sat, 22 Jun 2024 19:00:00",
          "title" : "Harry Kane's passion for chess"
+      },
+      {
+         "description" : "GM Andrew Tang made a statement in Saturday&#39;s Bullet Brawl&#38;nbsp;after winning 70 games and accruing 253 points on the way to claiming the $400 first prize and his second title. For the first time since March, a player not named GM Hikaru Nakamura,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-june-22-2024",
+         "pubDate" : "Sat, 22 Jun 2024 16:59:00",
+         "title" : "Tang Snaps Naroditsky's 3-Week Streak"
+      },
+      {
+         "description" : "GM Tan Zhongyi was crowned as the winner and will receive the $50,000 first prize after a quick draw with GM Alexandra Kosteniuk secured her a 6/9 score in the final round of the Cairns Cup 2024 on Saturday. GM Anna Muzychuk finished on a high n...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-9-tan-wins",
+         "pubDate" : "Sat, 22 Jun 2024 16:31:00",
+         "title" : "Tan Draws With Kosteniuk, Wins Cairns Cup"
       },
       {
          "description" : "In 1970 in Belgrade the mighty USSR Chess Team was challenged by an elite selection, representing the Rest of the World, in what was dubbed the \"Match of the Century\". The Soviets won by the tightest of margins, 20&frac12; points to 19&frac12;; close though it was, nobody could deny their achievement in taking on and beating the []",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/english-championships-2024-r4",
          "pubDate" : "Sat, 22 Jun 2024 02:15:00",
          "title" : "English Championships: Five co-leaders in the open"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Learn about Cairns Cup special guest, former women's world champion GM Nona Gaprindashvili. The Georgian was the first woman to earn the grandmaster title. Plus, Nona comments on the Saint Louis Chess Campus and the 2024 Cairns Cup. This full version aired during Round 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8275\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/F3RKQ6av",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8275",
-         "pubDate" : "Fri, 21 Jun 2024 23:25:18",
-         "title" : "Nona Gaprindashvili: First Grandmaster Woman | #CairnsCup"
       },
       {
          "description" : "GM Anna Muzychuk and IM Alice Lee both won their respective games against GM Alexandra Kosteniuk and IM Anna Zatonskih respectively at the Cairns Cup 2024 on Friday. For Muzychuk, this means she is now one point shy of leader GM Tan Zhongyi&#38;nbsp;h...",
@@ -690,22 +706,6 @@ news_feed (
          "title" : "Chess tables in the prison yard of Alphen: A strategic move"
       },
       {
-         "description" : "GMs Alexey Sarana and Hikaru Nakamura are your Titled Tuesday victors for June 11, 2024. Sarana won by the thinnest of margins in the early tournament, needing the second tiebreak before his 10 points were finally determined to have earned first p...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sarana-nakamura-win-titled-tuesday-june-11-2024",
-         "pubDate" : "Wed, 12 Jun 2024 08:16:00",
-         "title" : "Nakamura Posts Big Score After Near Miss"
-      },
-      {
-         "description" : "A major new blitz tournament showcasing the record-breaking next generation of young chess talents in two age categories will launch this month. The ChessKid Youth Championship kicks off on June 29 with a $15,000 prize fund and promises to be a ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesskid-youth-championship-starting-june-29",
-         "pubDate" : "Wed, 12 Jun 2024 08:00:30",
-         "title" : "See The Future: Watch The ChessKid Youth Championships, Starting June 29"
-      },
-      {
          "description" : "In this section we compare the risks playing a game of chess brings to your life - as compared to other activities a person may undertake. For example, riding a bike for 25 miles, running a marathon, climbing Matterhorn - or marrying Henry VIII. The assessment is given in micromort units, which can be used to generally calculate the risks under which people are in everyday life. | Picture Willie Benegas and Doug Pierson on Mountainmadness.com",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1088,14 +1088,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/incredible-praggnanandhaa-gautam-adani-hails-indian-prodigy-for-beating-both-world-no-1-and-2-at-norway-chess-tournament/articleshow/110634384.cms",
          "pubDate" : "Sun, 02 Jun 2024 05:31:13",
          "title" : "Adani hails Praggnanandhaa for beating both World No. 1 and 2"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110631680.cms\" />India's R Praggnanandhaa continues to produce exceptional performances on the chequered board, stunning world number two Fabiano Caruana on Saturday in Round 5 of Norway Chess. This victory marks the first time he has defeated both world number one and number two in classical chess. The wins have helped him enter the top ten in world rankings. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/praggnanandhaa-stuns-world-no-2-fabiano-caruana-after-upseting-no-1-magnus-carlsen-in-classical-chess-to-climb-into-worlds-top-10/articleshow/110631680.cms",
-         "pubDate" : "Sun, 02 Jun 2024 01:35:27",
-         "title" : "Praggnanandhaa upsets No. 2 Caruana, climbs into world top 10"
       }
    ]
 }
