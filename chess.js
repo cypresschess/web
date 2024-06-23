@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3081",
+         "pubDate" : "Sun, 23 Jun 2024 20:57:15",
+         "title" : "FIDE World Cup U8-12 kicks off in Batumi, Georgia"
+      },
+      {
          "description" : "Tan Zhongyi signed a quick draw with Alexandra Kosteniuk to become the outright winner of the Cairns Cup in Saint Louis. The Chinese star finished the event with an undefeated 6/9 score. In the one decisive game of the final round, Anna Muzychuk defeated Alice Lee to secure sole second place. This was Muzychuk's second win in a row, after having collected seven draws in the first seven rounds of the event. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3080",
          "pubDate" : "Sun, 23 Jun 2024 12:36:35",
          "title" : "Cairns Cup 2024: Tan Zhongyi clinch title"
-      },
-      {
-         "description" : "In celebration of International Chess Day and the FIDE's 100th anniversary, FIDE invites all chess players in the world to participate in an attempt to set a new Guinness World Record on July 20. All chess players are invited to support the attempt by participating in OTB tournaments or playing online, thus demonstrating the unity and passion of the chess community.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/countdown-guinness-world-records",
-         "pubDate" : "Sun, 23 Jun 2024 07:00:00",
-         "title" : "Countdown to Guinness World Records' attempt begins"
       },
       {
          "description" : "Former World Champion Viswanathan Anand will be joined by Women&#39;s World Champion Ju Wenjun and 14 more top players for the WR Chess Masters Cup, a 16-player knockout in London that runs October 14-18. That&#39;s just the start of a month of chess, wit...",
@@ -88,14 +88,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
          "pubDate" : "Sat, 22 Jun 2024 19:50:00",
          "title" : "Cairns Cup, Round 9 - Live!"
-      },
-      {
-         "description" : "GQ magazine is conducting a series of video portraits of celebrities in which they are asked to name their ten \"essentials\". For the English striker Harry Kane, chess is one of them. The Queen's Gambit series has inspired him, and he regularly plays online, with his family and the other Bayern professionals. Kane also revealed who the best Bayern professional in chess is - not him. | Photo: Video GQ",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/harry-kane-passion-chess",
-         "pubDate" : "Sat, 22 Jun 2024 19:00:00",
-         "title" : "Harry Kane's passion for chess"
       },
       {
          "description" : "GM Andrew Tang made a statement in Saturday&#39;s Bullet Brawl&#38;nbsp;after winning 70 games and accruing 253 points on the way to claiming the $400 first prize and his second title. For the first time since March, a player not named GM Hikaru Nakamura,...",
@@ -168,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/node/8276",
          "pubDate" : "Sat, 22 Jun 2024 02:25:22",
          "title" : "Tan Zhongyi Takes Control | RECAP | 2024 Cairns Cup: Round 8"
-      },
-      {
-         "description" : "The English Championships are taking place on June 20-23 at the Holiday Inn Kenilworth-Warwick in Kenilworth. Each event is a 7-round Swiss open. After 4 rounds, the open section has 5 players sharing the lead, including top seeds Michael Adams (pictured) and Gawain Jones. In the women's tournament, defending champion Katarzyna Toma is the sole leader with a perfect 4/4 score. | Photo: English Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/english-championships-2024-r4",
-         "pubDate" : "Sat, 22 Jun 2024 02:15:00",
-         "title" : "English Championships: Five co-leaders in the open"
       },
       {
          "description" : "GM Anna Muzychuk and IM Alice Lee both won their respective games against GM Alexandra Kosteniuk and IM Anna Zatonskih respectively at the Cairns Cup 2024 on Friday. For Muzychuk, this means she is now one point shy of leader GM Tan Zhongyi&#38;nbsp;h...",
