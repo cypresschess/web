@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Can you work out what day of the week Abby was born on, based on the following conversations? Abby and Barry know the day of the week they were born on, but not the day of the week the other was. Both know that Barry was not born on a Monday, and they are told (by someone who knows both birthdays) that they were born on consecutive days of the week (eg Tue, Wed), although not necessarily in a specific order. They are then asked alternately whether they know the day of the week the other was born on, starting with Abby. \"No\", \"No\", \"No\" \"No\", \"No\", \"Yes!\" (3 No's by Abbey, 2 No's and a final Yes by Barry). What day of the week was Abby born? If you can't find a solution, or the question was ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess Express",
+         "link" : "http://chessexpress.blogspot.com/2024/06/not-chess-puzzle.html",
+         "pubDate" : "Sun, 23 Jun 2024 13:13:00",
+         "title" : "Not a chess puzzle"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3080",
+         "pubDate" : "Sun, 23 Jun 2024 12:36:35",
+         "title" : "Cairns Cup 2024: Tan Zhongyi clinch title"
+      },
+      {
          "description" : "In celebration of International Chess Day and the FIDE's 100th anniversary, FIDE invites all chess players in the world to participate in an attempt to set a new Guinness World Record on July 20. All chess players are invited to support the attempt by participating in OTB tournaments or playing online, thus demonstrating the unity and passion of the chess community.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/countdown-guinness-world-records",
          "pubDate" : "Sun, 23 Jun 2024 07:00:00",
          "title" : "Countdown to Guinness World Records' attempt begins"
+      },
+      {
+         "description" : "Former World Champion Viswanathan Anand will be joined by Women&#39;s World Champion Ju Wenjun and 14 more top players for the WR Chess Masters Cup, a 16-player knockout in London that runs October 14-18. That&#39;s just the start of a month of chess, wit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/anand-ju-wenjun-wr-chess-masters-dubai-london",
+         "pubDate" : "Sun, 23 Jun 2024 06:37:27",
+         "title" : "Anand, Ju Wenjun In Action As WR Masters Returns In London, Dubai, Dusseldorf"
       },
       {
          "description" : "The 2024 European Youth Team Chess Championship commenced in Rhodes, Greece. With the participation of 58 teams from 16 European federations, the event broke the participation record. The Opening ceremony of the event took place shortly before the start of the first round, with the ECU Secretary General Mr. Theodoros Tsorbatzoglou and the special guest, President of the Asean Chess Confederation Mr. Leong Ignatius played the first ceremonial moves on the top boards. The first two rounds saw some upsets []",
@@ -690,14 +714,6 @@ news_feed (
          "title" : "Divya Deshmukh maintains sole lead in World Junior Chess C'ship"
       },
       {
-         "description" : "GM Hikaru Nakamura is through to the Grand Final of the 2024 Bullet Chess Championship after beating GM Daniel Naroditsky 16.5-11.5. Naroditsky still has one life remaining and will play the winner of the match between GMs Alireza Firouzja and&#38;nbs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-ko-day-3",
-         "pubDate" : "Wed, 12 Jun 2024 15:55:00",
-         "title" : "Nakamura Storms Into Bullet Chess Grand Final"
-      },
-      {
          "description" : "It is startling to think that eight years have already passed by since the death, at the comparatively early age of 68, of the world's greatest chess trainer. It is equally startling to think that there will be a whole generation of chess players who know nothing about Mark Dvoretsky, his work or his achievements. Fortunately there is a new book from New in Chess to remind the chess world about Mark Dvoretsky. CHESS Magazine review by Sean Marsh.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1080,22 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3050",
          "pubDate" : "Sun, 02 Jun 2024 16:33:07",
          "title" : "FIDE World Junior Championship kicks off in Gujarat, India"
-      },
-      {
-         "description" : "A couple of months ago in this series on <A HREF=\"https://chessforallages.blogspot.com/2010/03/top-ebay-chess-items-by-price.html\">Top eBay Chess Items by Price</A> (March 2010), the post of the month was <A HREF=\"https://chessforallages.blogspot.com/2024/04/morphy-unpublished.html\">Morphy Unpublished</A> (April 2024). There I wrote, <BLOCKQUOTE> On this blog's long running series 'Top eBay Chess Items', Morphy items are not unusual. Having said that, it's been a few years since the previous post on Morphy. </BLOCKQUOTE> <P> And here we are again. The item pictured below was titled '1860 Sage Token No. 3 Paul Morphy Chess King Harrwitz & Staunton Copper Plated', and carried the note 'AU Deta",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/06/everybody-loves-morphy.html",
-         "pubDate" : "Sun, 02 Jun 2024 15:16:00",
-         "title" : "Everybody Loves Morphy"
-      },
-      {
-         "description" : " The short answer, is that I have no idea. His poor run of form has continued, losing his last 3 classical games at 2024 Norway Chess. The most common explanation is a combination of recent poor health, and the psychological letdown after winning the World Championship. This may be so, but then again ... When I played him in 2019, he had just flown in from St Louis, where he had beaten Magnus Carlsen in a playoff to win the 2019 Sinquefield Cup. He was clearly unwell when he played me, and at one point I was convinced he was going to fall asleep at the board. Nonetheless, he went all the way through the tournament, only losing in the Final. Of course the level of opposition is slightly below",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/what-is-up-with-ding.html",
-         "pubDate" : "Sun, 02 Jun 2024 13:55:00",
-         "title" : "What is up with Ding?"
       }
    ]
 }
