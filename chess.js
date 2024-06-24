@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Superbet Chess Classic, the second event in this year's Grand Chess Tour, is set to take place from June 26 to July 5 at the Grand Hotel Bucharest in Romania's capital. All nine GCT regulars will participate, and will be joined by local rising star Bogdan-Daniel Deac. Defending champion Fabiano Caruana is the rating favourite, with Ian Nepomniachtchi (pictured, center) and Nodirbek Abdusattorov the second and third seeds respectively. | Photo: Grand Chess Tour 2023 / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-preview",
+         "pubDate" : "Mon, 24 Jun 2024 08:00:00",
+         "title" : "Superbet Classic: Caruana, Nepo and Abdusattorov favourites in Romania"
+      },
+      {
+         "description" : "The 5th edition of the European Small Nations Individual Chess Championship and the 2nd edition of the European Small Nations Women's Chess Championship have started in Andorra la Vella. The events are supported by European Chess Union. The events are simultaneously taking place from 22nd-30th June. Both Championships are played as a 10-player round-robin tournaments, with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino. The time control of the []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-small-nations-individual-chess-championship-2024-started-in-andorra/",
+         "pubDate" : "Mon, 24 Jun 2024 06:08:12",
+         "title" : "European Small Nations Individual Chess Championship 2024 started in Andorra"
+      },
+      {
          "description" : "The English Championships came to an end on Sunday in Kenilworth. Both the open and the women's sections were decided in rapid tiebreakers, with Gawain Jones beating Michael Adams in the open and Elmira Mirzoeva beating Katarzyna Toma in the women's. Coincidentally, both champions entered the final round of the event standing a half point behind the players they would later beat in the playoffs. | Photo: London Chess Classic",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -38,7 +54,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/anand-ju-wenjun-wr-chess-masters-dubai-london",
-         "pubDate" : "Sun, 23 Jun 2024 06:37:27",
+         "pubDate" : "Sun, 23 Jun 2024 06:37:00",
          "title" : "Anand, Ju Wenjun In Action As WR Masters Returns In London, Dubai, Dusseldorf"
       },
       {
@@ -170,7 +186,7 @@ news_feed (
          "title" : "Anna Muzychuk With Black Beats Kosteniuk, Joins Five-Way Tie For Second"
       },
       {
-         "description" : "A brief report on BRICS games Rapid Chess Championships 2024 Kazan, Russia. The BRICS games Rapid Chess Championships for Men and Women were held",
+         "description" : "A brief report on BRICS games Rapid Chess Championships 2024 Kazan, Russia. &#160; The BRICS games Rapid Chess Championships for Men and Women were held",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/brics-games-2024-kazan-russia/",
@@ -946,7 +962,7 @@ news_feed (
          "title" : "Pragg suffers defeat to world no. 1 Carlsen at Norway Chess"
       },
       {
-         "description" : "In last month's post about American chess mazines of yesteryear, <A HREF=\"https://chessforallages.blogspot.com/2024/05/may-1974-1999-on-cover.html\">May 1974 & 1999 'On the Cover'</A> (May 2024), we had the Candidates stage of the World Championship on the left and American news on the right. Here we go again. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-of04.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> '\"I saw Ehlvest in Las Vegas\" &#149; GM Jaan Ehlvest; Winner of the 1999 National Open' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Soviet Grandmaster Viktor Korchnoi, vanquisher of Mecking and then Petrosian. during a talk on the Me",
+         "description" : "In last month's post about American chess magazines of yesteryear, <A HREF=\"https://chessforallages.blogspot.com/2024/05/may-1974-1999-on-cover.html\">May 1974 & 1999 'On the Cover'</A> (May 2024), we had the Candidates stage of the World Championship on the left and American news on the right. Here we go again. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-of04.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> '\"I saw Ehlvest in Las Vegas\" &#149; GM Jaan Ehlvest; Winner of the 1999 National Open' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Soviet Grandmaster Viktor Korchnoi, vanquisher of Mecking and then Petrosian. during a talk on the ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2024/06/june-1974-1999-on-cover.html",
