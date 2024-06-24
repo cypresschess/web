@@ -1024,14 +1024,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-stuns-world-champion-ding-liren-at-norway-chess-tournament/articleshow/110683308.cms",
          "pubDate" : "Tue, 04 Jun 2024 00:11:12",
          "title" : "Pragg stuns World Champion Ding Liren at Norway Chess"
-      },
-      {
-         "description" : "The 2024 FIDE World Junior Chess Championship has commenced at Radisson GIFT City in Gujarat, India, featuring almost 230 players from 44 countries. The open",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-junior-championship-2024-kicks-off-in-gandhinagar-gujarat-india/",
-         "pubDate" : "Mon, 03 Jun 2024 15:55:50",
-         "title" : "FIDE World Junior Chess Championship 2024 kicks off in Gandhinagar Gujarat, India"
       }
    ]
 }
