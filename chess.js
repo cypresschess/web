@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The English Championships came to an end on Sunday in Kenilworth. Both the open and the women's sections were decided in rapid tiebreakers, with Gawain Jones beating Michael Adams in the open and Elmira Mirzoeva beating Katarzyna Toma in the women's. Coincidentally, both champions entered the final round of the event standing a half point behind the players they would later beat in the playoffs. | Photo: London Chess Classic",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/english-championships-2024-r7",
+         "pubDate" : "Sun, 23 Jun 2024 22:50:00",
+         "title" : "Jones and Mirzoeva come from behind, win English Championships"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1072,14 +1080,6 @@ news_feed (
          "link" : "https://www.europechess.org/three-rounds-played-at-the-european-school-chess-championship-2024/",
          "pubDate" : "Mon, 03 Jun 2024 09:20:14",
          "title" : "Three rounds played at the European School Chess Championship 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110650877.cms\" />The Norway Chess tournament saw Magnus Carlsen solidify his lead with a victory over Ding Liren, reaching 12 points. Fabiano Caruana's win over Hikaru Nakamura left Nakamura one point behind Carlsen. Indian players faced setbacks; R Praggnanandhaa lost in the Armageddon tiebreaker to Firouzja Alireza, and R Vaishali was defeated by Wenjun Ju, leaving her just half a point behind the leaders.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/brother-sister-indian-duo-of-r-praggnanandhaaa-and-r-vaishali-suffer-defeats-at-norway-chess-tournament/articleshow/110650877.cms",
-         "pubDate" : "Mon, 03 Jun 2024 03:16:55",
-         "title" : "Brother-sister Indian duo of Pragg and Vaishali suffer defeats"
       }
    ]
 }
