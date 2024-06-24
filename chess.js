@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Congratulations to the 2024 English Champion Gawain Jones and 2024 English Women's Champion Elmira Mirzoeva, and well played Mickey Adams and Kata Toma, both finishing...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/tournament-report-and-results-english-chess-championships/",
+         "pubDate" : "Mon, 24 Jun 2024 09:23:23",
+         "title" : "Tournament Report and Results - English Chess Championships"
+      },
+      {
+         "description" : "He is considered by many to be the most talented of all world champions- Fischer called him one of the top ten players of all time. In our Master Class trainer you can learn all about his style and his strategy from leading experts, and in this week get this latest Fritztrainer for €34.90. And in our Summer Special you can have all 17 Fritztrainers for just €199.90 (instead of €389.90). Don't miss the chance.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-master-class-boris-spassky",
+         "pubDate" : "Mon, 24 Jun 2024 09:00:00",
+         "title" : "New Master Class: Boris Spassky"
+      },
+      {
          "description" : "The Superbet Chess Classic, the second event in this year's Grand Chess Tour, is set to take place from June 26 to July 5 at the Grand Hotel Bucharest in Romania's capital. All nine GCT regulars will participate, and will be joined by local rising star Bogdan-Daniel Deac. Defending champion Fabiano Caruana is the rating favourite, with Ian Nepomniachtchi (pictured, center) and Nodirbek Abdusattorov the second and third seeds respectively. | Photo: Grand Chess Tour 2023 / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -394,14 +410,6 @@ news_feed (
          "title" : "European Youth Team Chess Championship 2024 starts in Rhodes"
       },
       {
-         "description" : "The ECF is pleased to announce this year's English Championship series which will take place in May and June 2024. The English Seniors Championships has...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-championships-2024/",
-         "pubDate" : "Wed, 19 Jun 2024 08:00:42",
-         "title" : "English and English Women's Championships - starts today!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -594,7 +602,7 @@ news_feed (
          "title" : "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov"
       },
       {
-         "description" : "Gary Hogan won his game with Black today inside two hrs in a g3 Queens Gambit Declined, so he moves onto 2/5. IM Rasim Nazim...",
+         "description" : "Round 8 saw a mixture of fighting draws and bloodthirsty wins and a few tired or amicable early draws! GM Tazbir (Poland) was held to...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ibca-2024-reports-from-owen-phillips/",
@@ -1000,14 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3052",
          "pubDate" : "Mon, 03 Jun 2024 13:02:30",
          "title" : "Roberto Garc&iacute;a Pantoja wins XVII Absolute Championship of the Americas"
-      },
-      {
-         "description" : "The European School Chess Championship 2024 is underway in Limerick, Ireland, with nearly 200 participants coming from 17 European federations. Three rounds have already been played over six age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Scoring perfect 3/3 points, Omer Taha Dede (TUR) and Amandeep Singh (ENG) co-lead in he U7 section, while five players tie for the top in the GU7 category with the score of 2 points each: Miray Akindi (TUR), []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/three-rounds-played-at-the-european-school-chess-championship-2024/",
-         "pubDate" : "Mon, 03 Jun 2024 09:20:14",
-         "title" : "Three rounds played at the European School Chess Championship 2024"
       }
    ]
 }
