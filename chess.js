@@ -26,14 +26,6 @@ news_feed (
          "title" : "Tan Zhongyi wins Cairns Cup, Anna Muzychuk grabs second place"
       },
       {
-         "description" : " Can you work out what day of the week Abby was born on, based on the following conversations? Abby and Barry know the day of the week they were born on, but not the day of the week the other was. Both know that Barry was not born on a Monday, and they are told (by someone who knows both birthdays) that they were born on consecutive days of the week (eg Tue, Wed), although not necessarily in a specific order. They are then asked alternately whether they know the day of the week the other was born on, starting with Abby. \"No\", \"No\", \"No\" \"No\", \"No\", \"Yes!\" (3 No's by Abbey, 2 No's and a final Yes by Barry). What day of the week was Abby born? If you can't find a solution, or the question was ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/not-chess-puzzle.html",
-         "pubDate" : "Sun, 23 Jun 2024 13:13:00",
-         "title" : "Not a chess puzzle"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -274,14 +266,6 @@ news_feed (
          "title" : "FIDE World Youth Championships 2024: Registration is open"
       },
       {
-         "description" : " <div class=\"separator\" style=\"clear: both; text-align: center;\"><iframe allowfullscreen=\"\" class=\"BLOG_video_class\" height=\"266\" src=\"https://www.youtube.com/embed/8R_8DG4RvkY\" width=\"320\" youtube-src-id=\"8R_8DG4RvkY\"></iframe></div><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/but-chess-is-already-cool.html",
-         "pubDate" : "Thu, 20 Jun 2024 11:25:00",
-         "title" : "But chess is already cool"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -328,14 +312,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3075",
          "pubDate" : "Wed, 19 Jun 2024 13:45:08",
          "title" : "Pune, India hosts Chess for Freedom Conference to promote global growth of chess in prisons"
-      },
-      {
-         "description" : " While there is no rule that says that players of a certain style must play a certain style of opening, it is always a little surprising when a well know player breaks that rule. Reading about Akiba Rubinstein, I discovered that in a tournament organised shortly after the end of World War I in Sweden, be basically played the Kings Gambit as White whenever he had the chance. It did not do him any harm, as he finished in 1st place, albeit against a fairly weak field. But when facing stronger opposition, he did not seem to shy away from this opening choice other, as the following slashing win demonstrates. <br /> <b>Rubinstein,Akiba - Hromadka,Karel [C30]</b><br /> Maehrisch Ostrau Internationa",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/surprise-opening-surprise-player.html",
-         "pubDate" : "Wed, 19 Jun 2024 13:32:00",
-         "title" : "Surprise Opening, surprise player"
       },
       {
          "description" : "GM Arjun Erigaisi once again proved unstoppable as he dominated the Stepan Avagyan Memorial 2024 which took place in Jermuk, Armenia from June 10-18. New research shows only two players can match his meteoric rise to the world&#39;s elite, but the Ind...",
@@ -472,14 +448,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-5",
          "pubDate" : "Mon, 17 Jun 2024 19:45:00",
          "title" : "Lee Miraculously Saves Game After 5-Hour Marathon"
-      },
-      {
-         "description" : " I was looking through my newsfeed when I glanced at an articled concerning Assisted Dying. What was more concerning was the accompanying photo was of two elderly gentleman playing chess. No idea why. ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/disturbing-image-of-day.html",
-         "pubDate" : "Mon, 17 Jun 2024 13:25:00",
-         "title" : "Disturbing image of the day"
       },
       {
          "description" : "",
@@ -682,14 +650,6 @@ news_feed (
          "title" : "Firouzja Beats Nakamura Twice To Win Bullet Chess Championship"
       },
       {
-         "description" : " I've just received an email from the FIDE Historical Commission, asking me to nominate the 10 best male and 10 best female players in history. This is part of the celebrations for FIDE's 100th Anniversary. I've probably attempted this a couple of time previously on this blog (at least for the list of male players), although I will have to go searching. The actual deadline for submissions is very short (1rth June), but if you think you can help me out here, I'm willing to listen to suggestions in the comments section. NB The request is the 10 'best' players, which indicates that playing strength is the overriding consideration, which may rule out 'significant' players, who may have had an im",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/the-top-ten.html",
-         "pubDate" : "Thu, 13 Jun 2024 13:33:00",
-         "title" : "The Top Ten"
-      },
-      {
          "description" : "&#160;&#160;&#160;&#160;India beat Pakistan in Asian Youth Chess Championship in Kazakhstan It sounds like the first day of the Asian Youth Chess Championship in Almaty, Kazakhstan,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -720,14 +680,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/remembering-mark-dvoretsky",
          "pubDate" : "Wed, 12 Jun 2024 15:00:00",
          "title" : "Remembering Mark Dvoretsky"
-      },
-      {
-         "description" : " The final day of the 2024 NSW Open ended with a couple of surprise winners, after a very tough day of chess. Going into the final round there were 7 players tied for the lead on 5/6. The top board pairing saw IM Igor Bjelobrk and FM Gary McNamara reach a rook and pawn ending which ended in a draw when McNamara won a rook, but had to return it shortly afterwards to eliminate the last pawn on the board. On Board 2 IM George Xie was unable to break down CM Reyaansh Chakrabarty's solid play, and that game was drawn as well. Board 3 saw Willis Lo have the best of it for most of the game against Terrence Tang, until an attempt to avoid a bishop and wrong colour rook pawn finish blew up in his fac",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open-final-day.html",
-         "pubDate" : "Wed, 12 Jun 2024 11:27:00",
-         "title" : "2024 NSW Open - Final Day"
       },
       {
          "description" : "",
@@ -826,28 +778,12 @@ news_feed (
          "title" : "World Amateur Championship 2024 registration is open"
       },
       {
-         "description" : " The third day of the 2024 NSW Open ended with a couple of surprises at the top of the leaders board. Young CM Reyaansh Chakrabarty defeated FM Michael Kethro in round 4 and drew with IM Gary Lane in round 5 to reach 4.5/5. He was joined by FM Gary McNamara and Willis Lo, levaing the 3 of them half a point ahead of the chasing pack. he group of players on 4 includeds IM's Lane, Igor Bjelobrk and George Xie, along with a number of other top seeds. Today's 6th round will see Chakrabarty and McNamara meet on board 1, with Lo facing off against fellow Canberran Michael Kethro on board 2. Steve Hemsley holds a half point lead in the Minor, having won his first 5 games. Unrated player Edward Rust ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open-day-3.html",
-         "pubDate" : "Mon, 10 Jun 2024 01:19:00",
-         "title" : "2024 NSW Open Day 3"
-      },
-      {
          "description" : "England's grandmaster grandfathers of the chessboard are back in the news. Last month the three English veterans teams won triple European gold, as that talented generation, which ranked second only to the USSR in the 1980s and 1990s, continued to demonstrate its persistent strength. The nine-day competition, held at Terme Catez, Slovenia, included 21 teams aged []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
          "link" : "https://www.thearticle.com/grandfathers-of-the-chessboard/",
          "pubDate" : "Sun, 09 Jun 2024 07:00:08",
          "title" : "Grandfathers of the chessboard"
-      },
-      {
-         "description" : " The 2nd day of the 2024 NSW Open ended with 5 players still sharing the lead. A few quick draws in the days third round contributed to this, although a number of hard fought battles were also a factor. IM's Igor Bjelobrk and Gary Lane were held to draws by their CM opponents (Kendrick Zhang and Yifei Hu) on boards 1 and 3. IM George Xi picked up the full point against Kye Walls, as FM Michael Kethro and FM Gary McNamara. CM Reyansh Chakarabarty and FM Clive Ng were the other 2 players to reach 3/3. In the Under 1600 event, 2nd seed Steve Hemsley was joined by 2 unrated players (Edward Rust and Cory Yang) along with Lucas Lin, Kamal Jain and Arav Callan. A few strong player who stumbled earl",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open-day-2.html",
-         "pubDate" : "Sun, 09 Jun 2024 06:58:00",
-         "title" : "2024 NSW Open Day 2"
       },
       {
          "description" : "European School Chess Championship 2024 concluded yesterday in Limerick, Ireland. The event gathered nearly 200 players coming from 18 European federations, who competed in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Turkish players achieved a historical result, winning all 12 golds in all categories, and a total of 28 medals (12 gold, 8 silver and 8 bronze)! Omer Taha Dede (TUR) triumphed in the U7 section scoring perfect 7/7 points. David-Christian Talaba []",
@@ -872,14 +808,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-praggnanandhaa-beats-nakamura-carlsen-wins-title/articleshow/110818221.cms",
          "pubDate" : "Sat, 08 Jun 2024 09:45:03",
          "title" : "Norway Chess: Praggnanandhaa beats Nakamura; Carlsen wins title"
-      },
-      {
-         "description" : " The 2024 NSW Open started with a new innovation, a Friday night round! As a result the event is now held over 4 days, with a slightly easier schedule for players, with 2 rounds on Saturday, Sunday and Monday. The new tournament venue (Novatel @ Rooty Hill) has seen a record turnout of 176 players across two sections (Open 96, Minor 80). There was some concern that the Friday night round might result in increased bye requests for that round, but the number of byes on Friday, matched the number of byes that were requested for the previous Sunday night round. As for the tournament, 15 players have started with 2/2. Most of the top seeds are in this group, although a first round loss by one of ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open-day-1.html",
-         "pubDate" : "Sat, 08 Jun 2024 06:21:00",
-         "title" : "2024 NSW Open - Day 1"
       },
       {
          "description" : " Nigeria is hosting a &#8220;Battle of the Ages&#8221; on June 11th between global chess activist Tunde Onakoya and teen phenom Deborah Quickpen. Onakoya recently entered the Guinness Book of World Records by playing chess for 60 hours in Times Square. While setting a mark for the records, Onakoya is most known for promoting chess in The post <a href=\"https://www.thechessdrum.net/blog/2024/06/07/nigerian-chess-action-battle-of-the-ages/\">Nigerian Chess Action, &#8220;Battle of the Ages&#8221;</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -970,14 +898,6 @@ news_feed (
          "title" : "Divya Deshmukh rises to joint lead in World Junior Chess C'ship"
       },
       {
-         "description" : " The 2024 NSW Open is being held across this coming long weekend (All hail King Charles). It looks like here will be around 180 players across the Open and Under 1600 section. This is an increase over last year, due in part to a new venue. The old Russian Club could only accommodate 150 players (at a very tight squeeze) while the new venue (Novatel at Rooty Hill) has a lot more room. The other change is extending the schedule to 4 days, meaning Sunday only has 2 rounds, rather than 3 as in previous years. If you want to check out the results you can follow the tournament at <a href=\"https://www.vegaresult.com/event/2551\">https://www.vegaresult.com/event/2551</a> Other cool stuff like a lnk t",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/2024-nsw-open.html",
-         "pubDate" : "Thu, 06 Jun 2024 14:09:00",
-         "title" : "2024 NSW Open"
-      },
-      {
          "description" : "Dear Participants and Stakeholders, Please be informed that due to unavoidable circumstances, The National Women Chess Championship 2024, which was scheduled to be held in",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1032,14 +952,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/06/june-1974-1999-on-cover.html",
          "pubDate" : "Tue, 04 Jun 2024 15:25:00",
          "title" : "June 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : " I guess half remembered opening theory is better than none, at least under certain circumstances. Facing a Goring Gambit in a very recent game, I remembered a recommendation from George Botterill where Black plays Bb4, follows up with d6 and then takes on c3 with the bishop at the correct moment. So far so good, but I could not remember what happens next. Fortunately my opponent chose a line that Botterill did not recommend, although I then chose a response that wasn't good either. But the long and the short of it was that I seemed to have the better of the opening, my opponent sacrificed material for play, and after3 hours, I managed to grind out a win in a R+B+N v Q position (I had the bi",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess Express",
-         "link" : "http://chessexpress.blogspot.com/2024/06/half-remembered-opening-theory.html",
-         "pubDate" : "Tue, 04 Jun 2024 13:13:00",
-         "title" : "Half remembered opening theory"
       },
       {
          "description" : "There are fewer than 6 weeks to go until ChessFest 2024, CSC's annual chess extravaganza in Trafalgar Square, London. On Sunday 7th July 2024, 11am-6pm,...",
