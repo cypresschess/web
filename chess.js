@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3084",
+         "pubDate" : "Mon, 24 Jun 2024 22:25:06",
+         "title" : "FIDE World Cup 8-12: Multiple leaders emerge after Day 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 9 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8286\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pXOJnyG4c5k.jpg?itok=4RrJjxDZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/node/8286",
+         "pubDate" : "Mon, 24 Jun 2024 20:27:02",
+         "title" : "Tan Zhongyi Clinches! Muzychuk 2nd! | RECAP | 2024 Cairns Cup: Round 9"
+      },
+      {
          "description" : "It is incredible to see how many drawish or marginally better endgames is Magnus Carlsen able to win. The computer claims the advantage of the Norwegian is minimal, let us say +0,2 or +0,4, and yet he wins. Again, and again. What is his secret? Jan Markos tries an answer. | Photo: Magnus Carlsen at the World Blitz Championship 2022 | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3083",
          "pubDate" : "Mon, 24 Jun 2024 13:44:58",
          "title" : "Max Warmerdam wins Teplice Open 2024"
+      },
+      {
+         "description" : "Thirteen-year-old FM Tani Adewumi won his first national title at the 2024 U.S. Cadet Championship, which concluded on Sunday. By live rating, he should be 14 rating points away from earning the international master title. Undefeated, he finishe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-tani-wins-2024-us-cadet-championship",
+         "pubDate" : "Mon, 24 Jun 2024 13:13:26",
+         "title" : "Tani Adewumi Wins His 1st National Championship"
       },
       {
          "description" : "",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/node/8277",
          "pubDate" : "Sat, 22 Jun 2024 02:25:22",
          "title" : "Chess Bit: Queen and Pawn Ending #Cairnscup #chess #chesstactics #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 8 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8276\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wsfoKr3cHn0.jpg?itok=6VN4GRC9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8276",
-         "pubDate" : "Sat, 22 Jun 2024 02:25:22",
-         "title" : "Tan Zhongyi Takes Control | RECAP | 2024 Cairns Cup: Round 8"
       },
       {
          "description" : "GM Anna Muzychuk and IM Alice Lee both won their respective games against GM Alexandra Kosteniuk and IM Anna Zatonskih respectively at the Cairns Cup 2024 on Friday. For Muzychuk, this means she is now one point shy of leader GM Tan Zhongyi&#38;nbsp;h...",
@@ -688,14 +704,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/06/13/2024-dominica-chess-championships/",
          "pubDate" : "Thu, 13 Jun 2024 17:59:28",
          "title" : "2024 Dominica Chess Championships"
-      },
-      {
-         "description" : "20-year-old IM Kazybek Nogerbek was only the ninth seed but edged out 13 grandmasters to win the 2024 FIDE World Junior Chess Championship. The Girl&#39;s section was dominated by 18-year-old top-seed IM Divya Deshmukh from India, who won with an unde...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nogerbek-wins-close-race-in-world-junior-championship-deshmukh-dominates-girls",
-         "pubDate" : "Thu, 13 Jun 2024 17:35:00",
-         "title" : "Nogerbek Becomes World Junior Champion In Close Race, Divya Dominates Girls"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110975473.cms\" />Divya Deshmukh, a skilled Indian chess player, triumphed in the World Junior Girls' chess championship on Thursday by outplaying Bulgaria's Beloslava Krasteva. The International Master concluded the event with a remarkable tally of 10 points out of 11, establishing a half-point advantage over Armenia's Mariam Mkrtchyan, who secured the second position at the Gift City. Deshmukh's outstanding performance throughout the tournament showcased her exceptional chess prowess and strategic thinking. ",
