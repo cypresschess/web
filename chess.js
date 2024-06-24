@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "To conduct a successful attack on any part of the board, you need pieces. You need to gather as much power force as possible and force your opponent to kneel down under the unbearable pressure. In more simple words, if the ratio of your attacking pieces surpass the ratio of your enemy's defensive pieces, then you are in the right track! Even if you cannot see directly a decisive blow, you must be assured that sooner or later the opportunity will come in sight&hellip; Let international chess trainer Efstratios Grivas explain the concept with a game he played thirty years ago.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gathering-piece-force",
+         "pubDate" : "Mon, 24 Jun 2024 16:00:00",
+         "title" : "Gathering Piece Force"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3083",
+         "pubDate" : "Mon, 24 Jun 2024 13:44:58",
+         "title" : "Max Warmerdam wins Teplice Open 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3082",
+         "pubDate" : "Mon, 24 Jun 2024 12:13:23",
+         "title" : "Gawain Jones and Elmira Mirzoeva сrowned English Chess Champions"
+      },
+      {
          "description" : "Congratulations to the 2024 English Champion Gawain Jones and 2024 English Women's Champion Elmira Mirzoeva, and well played Mickey Adams and Kata Toma, both finishing...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-preview",
          "pubDate" : "Mon, 24 Jun 2024 08:00:00",
          "title" : "Superbet Classic: Caruana, Nepo and Abdusattorov favourites in Romania"
+      },
+      {
+         "description" : "Chess.com&#38;rsquo;s print publishing operations, comprising of New in Chess and Everyman Chess are splitting off from Chess.com and merging with Quality Chess to create a group of strong and independent print publishing companies. The New in Chess m...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-com-transitions-new-in-chess-everyman-chess-to-quality-chess",
+         "pubDate" : "Mon, 24 Jun 2024 07:34:00",
+         "title" : "Chess Print Publishers Merge To Create Independent Powerhouse, Chess.com Gains Digital Rights"
       },
       {
          "description" : "The 5th edition of the European Small Nations Individual Chess Championship and the 2nd edition of the European Small Nations Women's Chess Championship have started in Andorra la Vella. The events are supported by European Chess Union. The events are simultaneously taking place from 22nd-30th June. Both Championships are played as a 10-player round-robin tournaments, with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino. The time control of the []",
@@ -666,14 +698,6 @@ news_feed (
          "title" : "India's Divya Deshmukh wins World Junior Girls chess title"
       },
       {
-         "description" : "GM Alireza Firouzja has pulled off a stunning triumph to claim his second Bullet Chess Championship after winning four matches on the final day. He won grueling encounters with GMs Sam Sevian and Daniel Naroditsky and was on the verge of pulling o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-bullet-chess-championship-ko-day-4",
-         "pubDate" : "Thu, 13 Jun 2024 13:38:00",
-         "title" : "Firouzja Beats Nakamura Twice To Win Bullet Chess Championship"
-      },
-      {
          "description" : "&#160;&#160;&#160;&#160;India beat Pakistan in Asian Youth Chess Championship in Kazakhstan It sounds like the first day of the Asian Youth Chess Championship in Almaty, Kazakhstan,",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -800,6 +824,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-amateur-championship-2024-registration-is-open/",
          "pubDate" : "Mon, 10 Jun 2024 08:00:45",
          "title" : "World Amateur Championship 2024 registration is open"
+      },
+      {
+         "description" : "Only 180 views for a chat with the man who shepherded the greatest chess boom of all time? The most popular chess streamers probably get that much attention in the first millisecond of their latest stream. There is definitely something wrong with this picture. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/gBEKnAB3HFc?si=2KJinj5Me2o_7vDo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><BR> <B>Erik Allebest - From 0 to 150 million ARR - The Chess.com story</B> (1:12:33) &#149; '[Published on",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/06/chesscom-aar-takeaways-and-sound-bites.html",
+         "pubDate" : "Sun, 09 Jun 2024 15:05:00",
+         "title" : "Chess.com AAR, Takeaways, and Sound Bites"
       },
       {
          "description" : "England's grandmaster grandfathers of the chessboard are back in the news. Last month the three English veterans teams won triple European gold, as that talented generation, which ranked second only to the USSR in the 1980s and 1990s, continued to demonstrate its persistent strength. The nine-day competition, held at Terme Catez, Slovenia, included 21 teams aged []",
@@ -1000,14 +1032,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-junior-championship-2024-kicks-off-in-gandhinagar-gujarat-india/",
          "pubDate" : "Mon, 03 Jun 2024 15:55:50",
          "title" : "FIDE World Junior Chess Championship 2024 kicks off in Gandhinagar Gujarat, India"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3052",
-         "pubDate" : "Mon, 03 Jun 2024 13:02:30",
-         "title" : "Roberto Garc&iacute;a Pantoja wins XVII Absolute Championship of the Americas"
       }
    ]
 }
