@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It is incredible to see how many drawish or marginally better endgames is Magnus Carlsen able to win. The computer claims the advantage of the Norwegian is minimal, let us say +0,2 or +0,4, and yet he wins. Again, and again. What is his secret? Jan Markos tries an answer. | Photo: Magnus Carlsen at the World Blitz Championship 2022 | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-35-impatience-loses-games",
+         "pubDate" : "Mon, 24 Jun 2024 20:00:00",
+         "title" : "The Winning Academy 35: Impatience Loses Games"
+      },
+      {
          "description" : "To conduct a successful attack on any part of the board, you need pieces. You need to gather as much power force as possible and force your opponent to kneel down under the unbearable pressure. In more simple words, if the ratio of your attacking pieces surpass the ratio of your enemy's defensive pieces, then you are in the right track! Even if you cannot see directly a decisive blow, you must be assured that sooner or later the opportunity will come in sight&hellip; Let international chess trainer Efstratios Grivas explain the concept with a game he played thirty years ago.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
