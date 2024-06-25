@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Although the selection of three Indian players in this year's FIDE Candidates Tournament was a significant event in itself, there was a certain sadness in everyone's hearts as Arjun Erigaisi, despite coming close to qualifying multiple times, could not secure a spot. In an exclusive interview with ChessBase India Hindi's Niklesh Jain, Arjun discussed missing out on the FIDE Candidates, his future goals, recent performances, and upcoming tournaments.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/arjun-erigaisi-interview-june-2024",
+         "pubDate" : "Tue, 25 Jun 2024 08:00:00",
+         "title" : "Arjun Erigaisi: \"Missing the Candidates was tough, but I moved on\""
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -634,7 +642,7 @@ news_feed (
          "title" : "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov"
       },
       {
-         "description" : "Round 8 saw a mixture of fighting draws and bloodthirsty wins and a few tired or amicable early draws! GM Tazbir (Poland) was held to...",
+         "description" : "The last round saw some long tussles, particularly on boards 2 5, but GM Marcin Tazbir of Poland disposed of his opponent relatively quickly...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ibca-2024-reports-from-owen-phillips/",
@@ -823,7 +831,7 @@ news_feed (
          "iconName" : "Chess for<br>All Ages",
          "link" : "https://chessforallages.blogspot.com/2024/06/chesscom-aar-takeaways-and-sound-bites.html",
          "pubDate" : "Sun, 09 Jun 2024 15:05:00",
-         "title" : "Chess.com AAR, Takeaways, and Sound Bites"
+         "title" : "Chess.com ARR, Takeaways, and Sound Bites"
       },
       {
          "description" : "England's grandmaster grandfathers of the chessboard are back in the news. Last month the three English veterans teams won triple European gold, as that talented generation, which ranked second only to the USSR in the 1980s and 1990s, continued to demonstrate its persistent strength. The nine-day competition, held at Terme Catez, Slovenia, included 21 teams aged []",
