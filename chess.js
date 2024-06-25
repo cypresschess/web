@@ -2,7 +2,23 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " Bernard Parham I, the 1967 Indiana State Champion and creator of the Matrix System, has passed away. He is now an ancestor. His son Bernard II told The Chess Drum, &#8220;Resigned against diabetes on Wednesday, June 19th-one day after reaching his 58th wedding anniversary.&#8221; Born in October 30, 1946 to Eddie and Kathleen Parham, Bernard The post <a href=\"https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/\">Bernard Parham, chess innovator, passes away</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. In the first part of his series our columnist dealt with the treatment of chess in the 21st Century in the MegaBase. In the second part of the series he took us down the memory lane with a world championship that deserves to be better known. In the third and concluding part of the series he shows how we can learn from the games of the past in the MegaBase. | Photo: Boris Spassky and Paul Keres / Dmitri Prants, Estonian Sports and Olympic Museum",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/megabase-2024-legends-nagesh-havanur",
+         "pubDate" : "Tue, 25 Jun 2024 23:00:00",
+         "title" : "MegaBase 2024: Learn from the Legends"
+      },
+      {
+         "description" : " The Superbet Romania Chess Classic takes place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2024",
+         "pubDate" : "Tue, 25 Jun 2024 22:43:00",
+         "title" : "Superbet Romania Chess Classic 2024 - Games and Results"
+      },
+      {
+         "description" : " Bernard Parham I, the 1967 Indiana State Champion and creator of the Matrix System, has passed away. His son Bernard II told The Chess Drum, &#8220;Resigned against diabetes on Wednesday, June 19th-one day after reaching his 58th wedding anniversary.&#8221; Born in October 30, 1946 to Eddie and Kathleen Parham, Bernard married Lugenia (White) on June The post <a href=\"https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/\">Bernard Parham, chess innovator, passes away</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/",
