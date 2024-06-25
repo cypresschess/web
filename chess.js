@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The famous Biel International Chess Festival will take place again, from the 12.07. - 26.07.2024. It is still enough time to spontaneously plan to participate, book travel tickets + hotel, and invest a little time to brush up your openings. Whatever you enjoy the most in chess, the Biel festival has you covered: from Blitz, to Rapid, to several Classical events, up to a Simultaneous match against Abhimanyu Mishra, a 960 event, and even more formats for younger players, and Physicians only! | Photo: Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-international-chess-festival-last-chance-to-join",
+         "pubDate" : "Tue, 25 Jun 2024 13:07:23",
+         "title" : "Biel International Chess Festival - Last chance to join!"
+      },
+      {
          "description" : "On the Day 2 of the FIDE World Cup, we have one more major upset in the&#160;&#160;&#160;&#160;&#160; girls section U8- Group B, 8th seeded Harshika.M",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -224,6 +232,14 @@ news_feed (
          "link" : "https://www.thearticle.com/london-1984-ussr-vs-the-world/",
          "pubDate" : "Sat, 22 Jun 2024 13:10:10",
          "title" : "London 1984: USSR vs the World"
+      },
+      {
+         "description" : "I've spent a good part of the last two weeks planning a great challenge for the last six months of the year. That challenge was supposed to improve my eating habits, get me to the gym more often, and reduce my procrastination. I got so excited about the planning that planning itself became my procrastination. []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/planning-procrastination/",
+         "pubDate" : "Sat, 22 Jun 2024 13:00:00",
+         "title" : "The Planning Procrastination"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Anna Muzychuk talks to Begim Tokhirjonova after defeating Kosteniuk in the eighth round of the 2024 Cairns Cup. 2024.06.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
