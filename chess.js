@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Bernard Parham I, the 1967 Indiana State Champion and creator of the Matrix System, has passed away. He is now an ancestor. His son Bernard II told The Chess Drum, &#8220;Resigned against diabetes on Wednesday, June 19th-one day after reaching his 58th wedding anniversary.&#8221; Born in October 30, 1946 to Eddie and Kathleen Parham, Bernard The post <a href=\"https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/\">Bernard Parham, chess innovator, passes away</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/",
+         "pubDate" : "Tue, 25 Jun 2024 18:21:23",
+         "title" : "Bernard Parham, chess innovator, passes away"
+      },
+      {
          "description" : "The famous Biel International Chess Festival will take place again, from the 12.07. - 26.07.2024. It is still enough time to spontaneously plan to participate, book travel tickets + hotel, and invest a little time to brush up your openings. Whatever you enjoy the most in chess, the Biel festival has you covered: from Blitz, to Rapid, to several Classical events, up to a Simultaneous match against Abhimanyu Mishra, a 960 event, and even more formats for younger players, and Physicians only! | Photo: Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/website-menu/",
          "pubDate" : "Tue, 25 Jun 2024 09:21:08",
          "title" : "Website menu"
-      },
-      {
-         "description" : "Although the selection of three Indian players in this year's FIDE Candidates Tournament was a significant event in itself, there was a certain sadness in everyone's hearts as Arjun Erigaisi, despite coming close to qualifying multiple times, could not secure a spot. In an exclusive interview with ChessBase India Hindi's Niklesh Jain, Arjun discussed missing out on the FIDE Candidates, his future goals, recent performances, and upcoming tournaments.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/arjun-erigaisi-interview-june-2024",
-         "pubDate" : "Tue, 25 Jun 2024 08:00:00",
-         "title" : "Arjun Erigaisi: \"Missing the Candidates was tough, but I moved on\""
       },
       {
          "description" : "",
