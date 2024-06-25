@@ -10,6 +10,14 @@ news_feed (
          "title" : "Biel International Chess Festival - Last chance to join!"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3086",
+         "pubDate" : "Tue, 25 Jun 2024 11:57:34",
+         "title" : "2024 FISU World University Championship Mind Sports underway in Uganda"
+      },
+      {
          "description" : "On the Day 2 of the FIDE World Cup, we have one more major upset in the&#160;&#160;&#160;&#160;&#160; girls section U8- Group B, 8th seeded Harshika.M",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1040,14 +1048,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-suffers-defeat-to-world-no-1-magnus-carlsen-at-norway-chess-tournament/articleshow/110716903.cms",
          "pubDate" : "Wed, 05 Jun 2024 00:25:58",
          "title" : "Pragg suffers defeat to world no. 1 Carlsen at Norway Chess"
-      },
-      {
-         "description" : "In last month's post about American chess magazines of yesteryear, <A HREF=\"https://chessforallages.blogspot.com/2024/05/may-1974-1999-on-cover.html\">May 1974 & 1999 'On the Cover'</A> (May 2024), we had the Candidates stage of the World Championship on the left and American news on the right. Here we go again. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-of04.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> '\"I saw Ehlvest in Las Vegas\" &#149; GM Jaan Ehlvest; Winner of the 1999 National Open' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> Soviet Grandmaster Viktor Korchnoi, vanquisher of Mecking and then Petrosian. during a talk on the ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/06/june-1974-1999-on-cover.html",
-         "pubDate" : "Tue, 04 Jun 2024 15:25:00",
-         "title" : "June 1974 & 1999 'On the Cover'"
       }
    ]
 }
