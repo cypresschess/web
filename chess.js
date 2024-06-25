@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On the Day 2 of the FIDE World Cup, we have one more major upset in the&#160;&#160;&#160;&#160;&#160; girls section U8- Group B, 8th seeded Harshika.M",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/harshika-upsets-top-seed-classen-meara-in-round-2-fide-world-cup-under-08-12/",
+         "pubDate" : "Tue, 25 Jun 2024 09:33:56",
+         "title" : "Harshika upsets top seed Classen, Meara in Round 2 :Fide World Cup Under 08-12"
+      },
+      {
+         "description" : "As FIDE celebrates its centenary anniversary this year and as part of the FIDE100 celebration a New Approach, New System has been initiated which is",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-cup-under-8-10-12-round-1/",
+         "pubDate" : "Tue, 25 Jun 2024 09:30:22",
+         "title" : "FIDE World Cup - Under - 8 -10-12: Round 1 "
+      },
+      {
+         "description" : "The website menu is recovering from a major mishap, and visitors may find the About Us and ECF Tournaments tabs inactive for a short while...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/website-menu/",
+         "pubDate" : "Tue, 25 Jun 2024 09:21:08",
+         "title" : "Website menu"
+      },
+      {
          "description" : "Although the selection of three Indian players in this year's FIDE Candidates Tournament was a significant event in itself, there was a certain sadness in everyone's hearts as Arjun Erigaisi, despite coming close to qualifying multiple times, could not secure a spot. In an exclusive interview with ChessBase India Hindi's Niklesh Jain, Arjun discussed missing out on the FIDE Candidates, his future goals, recent performances, and upcoming tournaments.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/arjun-erigaisi-interview-june-2024",
          "pubDate" : "Tue, 25 Jun 2024 08:00:00",
          "title" : "Arjun Erigaisi: \"Missing the Candidates was tough, but I moved on\""
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3085",
+         "pubDate" : "Tue, 25 Jun 2024 07:26:20",
+         "title" : "26th Asian Youth Chess Championships conclude in Almaty, Kazakhstan"
       },
       {
          "description" : "",
@@ -954,14 +986,6 @@ news_feed (
          "title" : "Divya Deshmukh rises to joint lead in World Junior Chess C'ship"
       },
       {
-         "description" : "Dear Participants and Stakeholders, Please be informed that due to unavoidable circumstances, The National Women Chess Championship 2024, which was scheduled to be held in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/national-women-chess-championship-2024/",
-         "pubDate" : "Thu, 06 Jun 2024 05:59:08",
-         "title" : "National Women Chess Championship 2024"
-      },
-      {
          "description" : "The Yearbook 2024 hard copy version is now available to order while stocks last - &pound;9.99 for members, &pound;11.99 for non-members! Owing to a huge...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1008,14 +1032,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/06/june-1974-1999-on-cover.html",
          "pubDate" : "Tue, 04 Jun 2024 15:25:00",
          "title" : "June 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "There are fewer than 6 weeks to go until ChessFest 2024, CSC's annual chess extravaganza in Trafalgar Square, London. On Sunday 7th July 2024, 11am-6pm,...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/chessfest-is-back-sunday-july-7th-2024/",
-         "pubDate" : "Tue, 04 Jun 2024 08:30:50",
-         "title" : "ChessFest is back - Sunday July 7th 2024"
       }
    ]
 }
