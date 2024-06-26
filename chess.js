@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After being reelected as President of the <strong>Austrian Chess Federation</strong> for two more years, <strong>Michael St&ouml;ttinger</strong> told ChessTech that <a href=\"https://www.fide.com/news/3071\">FIDE's announcement</a> of the <strong>Rapid &amp; Blitz World Championship</strong> 2024 in New York helps him to secure funding and support to bid for the 2025 event in Austria, where it may be held in Linz, Salzburg or Vienna. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/austria-prepares-bid-for-rb-2025/",
+         "pubDate" : "Wed, 26 Jun 2024 18:59:44",
+         "title" : "Austria prepares bid for R&B 2025"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Going into its strongest season ever with virtually all world-class players committed to a club, the German <strong>Bundesliga</strong> will hold its <a href=\"https://www.schachbund.de/terminplan.html\">final three rounds</a> on 11-13 April 2025 near Munich in Deggendorf, where the local club will celebrate its 100th anniversary. On 22/23 March 2025 eight out of 16 teams will meet at the <strong>FC St Pauli</strong> football stadion in Hamburg and most likely <strong>Magnus Carlsen</strong>, who is connected with St Pauli and the <strong>Weissenhaus Chess Academy</strong>, will be among them. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/schachbundesliga-announces-central/",
+         "pubDate" : "Wed, 26 Jun 2024 18:46:27",
+         "title" : "Schachbundesliga final rounds in Deggendorf"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3089",
+         "pubDate" : "Wed, 26 Jun 2024 14:50:16",
+         "title" : "Parivartan: Transforming lives through chess"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-1-grandchesstour\"><img src=\"https",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/stunning-carlsen-s-chess-memory",
          "pubDate" : "Wed, 26 Jun 2024 12:49:23",
          "title" : "Stunning: Carlsen's chess memory"
+      },
+      {
+         "description" : "It&#39;s a common problem among chess players: You played a good opening and developed all your pieces. But what do you do next? If you&#39;re among the many players who struggle to find the right plan in the middlegame, it&#39;s because you&#39;re missing the ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-structures-a-grandmaster-guide",
+         "pubDate" : "Wed, 26 Jun 2024 08:41:00",
+         "title" : "Master The Middlegame With Chess Structures Chessable Course Presented By Magnus Carlsen's Coach"
       },
       {
          "description" : "",
@@ -280,14 +312,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2024-cairns-cup-round-9-final-round",
          "pubDate" : "Sat, 22 Jun 2024 20:25:39",
          "title" : "2024 Cairns Cup: Round 9 | Final Round"
-      },
-      {
-         "description" : "The Cairns Cup is taking place on June 13-24 at the World Chess Hall of Fame. Tan Zhongyi, Mariya Muzychuk and Nana Dzagnidze are the top seeds in the 10-player single round robin with a classical time control. The event features one of the strongest female fields, as they compete for a total prize fund of $200,000. | Follow the action live starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cairns-cup-2024-live-2",
-         "pubDate" : "Sat, 22 Jun 2024 19:50:00",
-         "title" : "Cairns Cup, Round 9 - Live!"
       },
       {
          "description" : "GM Andrew Tang made a statement in Saturday&#39;s Bullet Brawl&#38;nbsp;after winning 70 games and accruing 253 points on the way to claiming the $400 first prize and his second title. For the first time since March, a player not named GM Hikaru Nakamura,...",
@@ -760,14 +784,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3065",
          "pubDate" : "Fri, 14 Jun 2024 12:13:46",
          "title" : "Nogerbek Kazybek and Divya Deshmukh triumph at Word Junior Championship 2024"
-      },
-      {
-         "description" : "Bottom-seed GM Nodirbek Yakubboev edged out top-seed GM Nodirbek Abdusattorov on tiebreaks to claim the $25,000 first prize at the UzChess Cup Masters, part of a bigger chess festival in Tashkent, Uzbekistan. The two Uzbek GMs scored 5.5/9, half a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nodirbek-yakubboev-wins-2024-uzchess-cup",
-         "pubDate" : "Fri, 14 Jun 2024 10:44:00",
-         "title" : "Yakubboev Wins UzChess Cup On Tiebreaks Ahead Of Abdusattorov"
       },
       {
          "description" : "The last round saw some long tussles, particularly on boards 2 5, but GM Marcin Tazbir of Poland disposed of his opponent relatively quickly...",
