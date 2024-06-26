@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen's chess memory never ceases to amaze. At the Casablanca Chess Tournament in May 2024, Carlsen, Vishy Anand and Hikaru Nakamura were shown positions from historically important games and asked to guess the players and dates of the games. The twist: instead of pieces, the three top players saw only black and white checkers. But for Carlsen this seemed to be only a minor obstacle.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stunning-carlsen-s-chess-memory",
+         "pubDate" : "Wed, 26 Jun 2024 12:49:23",
+         "title" : "Stunning: Carlsen's chess memory"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The market leader is parting with several dozen staff members and publishers New in Chess and Everyman, reports Stefan L&ouml;ffler </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/aagaard-small-margin.1920.jpeg\" title=\"Jacob Aagaard asked on X how he could become the publisher of his favourite author Matthew Sadler. Now that New in Chess (and Everyman) join Quality Chess, he is. photo: David Llada\" data-title=\"Jacob Aagaard asked on X how he could become the publisher of his favourite author Matthew Sadler. Now that New in Chess (and Everyman) join Quality Chess, he is. (photo: David Llada)\"",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/downsizing-on-staff-and/",
+         "pubDate" : "Wed, 26 Jun 2024 10:17:18",
+         "title" : "Downsizing on staff and subsidiaries, Chess.com prioritizes profitability"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championship-2024/",
+         "pubDate" : "Wed, 26 Jun 2024 08:14:30",
+         "title" : "English Women's Online Blitz Championship 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3087",
+         "pubDate" : "Wed, 26 Jun 2024 08:13:02",
+         "title" : "Nine new female teams to participate in 45th Chess Olympiad"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3088",
+         "pubDate" : "Wed, 26 Jun 2024 07:22:41",
+         "title" : "Aleksandar Indic and Irina Chelushkina triumph at 2024 Serbian Championship"
+      },
+      {
+         "description" : "10-year-old Argentinian prodigy FM Faustino Oro missed his final IM norm by a hair&#39;s breadth but broke the 2400 barrier for the first time. Meanwhile, he also reached a remarkable milestone on Chess.com. The &#39;Messi of Chess,&#39; as he&#39;s been dubbed...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-breaks-3000-on-chess-com",
+         "pubDate" : "Wed, 26 Jun 2024 00:51:00",
+         "title" : "10-Year-Old Faustino Oro Becomes Youngest Ever To Break 3000 On Chess.com"
+      },
+      {
          "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. In the first part of his series our columnist dealt with the treatment of chess in the 21st Century in the MegaBase. In the second part of the series he took us down the memory lane with a world championship that deserves to be better known. In the third and concluding part of the series he shows how we can learn from the games of the past in the MegaBase.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,7 +66,7 @@ news_feed (
          "title" : "Superbet Romania Chess Classic 2024 - Games and Results"
       },
       {
-         "description" : " Bernard Parham I, the 1967 Indiana State Champion and creator of the Matrix System, has passed away. His son Bernard II told The Chess Drum, &#8220;Resigned against diabetes on Wednesday, June 19th-one day after reaching his 58th wedding anniversary.&#8221; Born on October 30, 1946, to Eddie and Kathleen Parham, Bernard married Lugenia (White) on June The post <a href=\"https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/\">Bernard Parham, chess innovator, passes away</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Bernard Parham I, the 1967 Indiana State Champion and creator of the Matrix Chess System, has passed away. His son Bernard II relayed the news to The Chess Drum, &#8220;Resigned against diabetes on Wednesday, June 19th-one day after reaching his 58th wedding anniversary.&#8221; Born on October 30, 1946, to Eddie and Kathleen Parham, Bernard married The post <a href=\"https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/\">Bernard Parham, chess innovator, passes away</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/",
@@ -56,14 +104,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-cup-under-8-10-12-round-1/",
          "pubDate" : "Tue, 25 Jun 2024 09:30:22",
          "title" : "FIDE World Cup - Under - 8 -10-12: Round 1 "
-      },
-      {
-         "description" : "The website menu is recovering from a major mishap, and visitors may find the About Us and ECF Tournaments tabs inactive for a short while...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/website-menu/",
-         "pubDate" : "Tue, 25 Jun 2024 09:21:08",
-         "title" : "Website menu"
       },
       {
          "description" : "",
@@ -728,14 +768,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jun/14/chess-carlsen-and-nakamura-dominate-in-stavanger-while-ding-falters-again",
          "pubDate" : "Fri, 14 Jun 2024 07:00:44",
          "title" : "Chess: Carlsen and Nakamura dominate in Stavanger, while Ding falters again"
-      },
-      {
-         "description" : "Former women&#39;s world chess champions GMs Tan Zhongyi, Mariya Muzychuk, and Alexandra Kosteniuk opened with victories in the first round of the Cairns Cup 2024 which began at the Saint Louis Chess Club on Thursday. Muzychuk&#39;s game featured a twin e...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-1",
-         "pubDate" : "Thu, 13 Jun 2024 20:41:00",
-         "title" : "Wins For Former World Champions Tan, Kosteniuk, Mariya Muzychuk"
       },
       {
          "description" : "",
