@@ -2,6 +2,86 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3090",
+         "pubDate" : "Wed, 26 Jun 2024 21:10:16",
+         "title" : "Don't miss out: Registration deadline for the FIDE World Rapid and Blitz Team Championships approaching"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-2-grandchesstour\"><img src=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-2-grandchesstour",
+         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
+         "title" : "Superbet Chess Classic 2024: Round 2 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Join Anastasiya Karlovich at the opening ceremony and drawing of lots at the Grand Hotel Bucharest for the Superbet Chess Classic 2024. This aired during Round 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vishy-opening-ceremony-people-are-excited-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xFx9TfkpgTc.jpg?itok=cWGKYa4s\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/vishy-opening-ceremony-people-are-excited-superbetchessclassicromania",
+         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
+         "title" : "Vishy at Opening Ceremony: People Are Excited! | #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after a draw against Nepomniachtchi in Round 1 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-tries-stay-competitive-%E2%80%99solid-younger-generation%E2%80%99-r1-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lsknTteyT2g.jpg?itok=FES2YSx3\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-tries-stay-competitive-%E2%80%99solid-younger-generation%E2%80%99-r1-superbetchessclassicromania",
+         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
+         "title" : "MVL Tries to Stay Competitive with 'Solid Younger Generation' | R1 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-still-young-despite-so-many-events-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CiaCxSK51Gs.jpg?itok=mci-87cl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-still-young-despite-so-many-events-superbetchessclassicromania",
+         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
+         "title" : "Firouzja: Still Young Despite So Many Events | #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 1 of the Superbet Chess Classic. Taking place at the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-1-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/bl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-1-grandchesstour",
+         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
+         "title" : "RECAP | Superbet Chess Classic 2024: Round 1 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Cristian Chirila after defeating Deac in Round 1 of the Superbet Chess Classic 2024. 2024.06.26<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-happy-play-classical-again-r1-superbetchessclassicromania",
+         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
+         "title" : "Gukesh: Happy to Play Classical Again | R1 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The players tell how they handle pressure at major chess tournaments before the Superbet Chess Classic 2024. This aired during Round 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/handling-pressure-high-profile-tournaments-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0LPyQLpDu0o.jpg?itok=MtF4MkDO\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/handling-pressure-high-profile-tournaments-superbetchessclassicromania",
+         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
+         "title" : "Handling Pressure at High Profile Tournaments? | #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Firouzja in Round 1 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-turns-%E2%80%98dodgy%E2%80%99-position-win-r1-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ts83tLZGS4E.jpg?itok=E3jfddFM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-turns-%E2%80%98dodgy%E2%80%99-position-win-r1-superbetchessclassicromania",
+         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
+         "title" : "Caruana Turns 'Dodgy' Position into Win! | R1 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Backed by <strong>Magnus Carlsen</strong> the Oslo-based startup <strong>Fantasychess</strong> <a href=\"https://www.forbes.com/sites/alexkonrad/2024/06/25/fantasy-chess-magnus-carlsen-startup-raises-millions/#:~:text=Fantasy%20Chess%20founder%20Magnus%20Carlsen,and%20streaming%20startup%20in%20chess.\">has raised $3million</a> in 2023 and is <a href=\"https://www.fantasychess.app/careers\">currently hiring</a> a CFO, head of content, fullstack developer, designer and also invites open applications. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/fantasychess-is-hiring/",
+         "pubDate" : "Wed, 26 Jun 2024 19:41:51",
+         "title" : "Fantasychess is hiring"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After being reelected as President of the <strong>Austrian Chess Federation</strong> for two more years, <strong>Michael St&ouml;ttinger</strong> told ChessTech that <a href=\"https://www.fide.com/news/3071\">FIDE's announcement</a> of the <strong>Rapid &amp; Blitz World Championship</strong> 2024 in New York helps him to secure funding and support to bid for the 2025 event in Austria, where it may be held in Linz, Salzburg or Vienna. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -26,12 +106,20 @@ news_feed (
          "title" : "Parivartan: Transforming lives through chess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-1-grandchesstour\"><img src=\"https",
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-1-grandchesstour\"><img src=\"htt",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-1-grandchesstour",
          "pubDate" : "Wed, 26 Jun 2024 14:28:15",
          "title" : "Superbet Chess Classic 2024: Round 1 | #GrandChessTour"
+      },
+      {
+         "description" : "The Superbet Chess Classic Romania, the second leg of the 2024 Grand Chess Tour, started on Wednesday in Bucharest with wins for GMs Gukesh Dommaraju and Fabiano Caruana. In his first classical game since winning the Candidates, Gukesh defeated wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-1",
+         "pubDate" : "Wed, 26 Jun 2024 14:02:15",
+         "title" : "Caruana, Gukesh Score In Opening Round Of Superbet Chess Classic Romania"
       },
       {
          "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -282,38 +370,6 @@ news_feed (
          "title" : "European Youth Team Chess Championship 2024 commenced in Rhodes, Greece"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 9 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/node/8285\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pXOJnyG4c5k.jpg?itok=4RrJjxDZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/node/8285",
-         "pubDate" : "Sun, 23 Jun 2024 02:25:50",
-         "title" : "Tan Zhongyi Clinches, Muzychuk Second | RECAP | 2024 Cairns Cup: Round 9"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Tan Zhongyi talks to Begim Tokhirjonova after a draw against Kosteniuk in the ninth round to clinch the 2024 Cairns Cup. 2024.06.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tan-zhongyi-wins-event-and-drops-world-5-r9-cairnscup",
-         "pubDate" : "Sat, 22 Jun 2024 20:25:39",
-         "title" : "Tan Zhongyi Wins The Event! And Drops to World #5! | R9 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Contemporary Music Director Brian Owens talks to the team during the ninth round of the 2024 Cairns Cup. 2024.06.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wchof-music%E2%80%99s-brian-owens-promoting-excellence-my-creative-discipline-r9-cairnscup",
-         "pubDate" : "Sat, 22 Jun 2024 20:25:39",
-         "title" : "WCHOF Music's Brian Owens: Promoting Excellence in My Creative Discipline | R9 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, ten of the world's best female chess players compete in the fourth Cairns Cup, a classical round robin event (players below). Join GM Yasser Seirawan, and IMs Jovanka Houska, Nazi Paikidze, &amp; Begim Tokhirjonova for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-cairns-cup-round-9-final-round\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-cairns-cup-round-9-final-round",
-         "pubDate" : "Sat, 22 Jun 2024 20:25:39",
-         "title" : "2024 Cairns Cup: Round 9 | Final Round"
-      },
-      {
          "description" : "GM Andrew Tang made a statement in Saturday&#39;s Bullet Brawl&#38;nbsp;after winning 70 games and accruing 253 points on the way to claiming the $400 first prize and his second title. For the first time since March, a player not named GM Hikaru Nakamura,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -344,38 +400,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/planning-procrastination/",
          "pubDate" : "Sat, 22 Jun 2024 13:00:00",
          "title" : "The Planning Procrastination"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anna Muzychuk talks to Begim Tokhirjonova after defeating Kosteniuk in the eighth round of the 2024 Cairns Cup. 2024.06.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anna-muzychuk%E2%80%99s-first-win-over-kosteniuk-r8-cairnscup",
-         "pubDate" : "Sat, 22 Jun 2024 08:25:23",
-         "title" : "Anna Muzychuk's First Win, Over Kosteniuk | R8 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Begim Tokhirjonova after defeating Zatonskih in the eighth round of the 2024 Cairns Cup. 2024.06.21<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Sta",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-whatever-happens-happy-my-performance-so-far-r8-cairnscup",
-         "pubDate" : "Sat, 22 Jun 2024 08:25:23",
-         "title" : "Alice Lee: Whatever Happens, Happy With My Performance So Far | R8 #CairnsCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser reflects on a quote from GM Vishy Anand regarding the rollercoaster of games played by a GM </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ups-and-downs-being-gm-cairnscup-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Y86RzVXy1l8.jpg?itok=5MW1ILjY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ups-and-downs-being-gm-cairnscup-chess-chesscom",
-         "pubDate" : "Sat, 22 Jun 2024 02:25:22",
-         "title" : "The Ups and Downs of Being A GM #Cairnscup #chess #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser and Jovi go through a line in which Dronavalli can demolish Tan&#039;s kingside in their position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/demolishing-kingside-cairnscup-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/t1Ps5p-U95o.jpg?itok=Ofzr0e7G\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/demolishing-kingside-cairnscup-chess-chesstactics-chesscom",
-         "pubDate" : "Sat, 22 Jun 2024 02:25:22",
-         "title" : "Demolishing the Kingside #Cairnscup #chess #chesstactics #chesscom"
       },
       {
          "description" : "GM Anna Muzychuk and IM Alice Lee both won their respective games against GM Alexandra Kosteniuk and IM Anna Zatonskih respectively at the Cairns Cup 2024 on Friday. For Muzychuk, this means she is now one point shy of leader GM Tan Zhongyi&#38;nbsp;h...",
@@ -768,14 +792,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-2",
          "pubDate" : "Fri, 14 Jun 2024 18:53:00",
          "title" : "Harika Forgoes Castling In Victory Over 'Chess Queen' Kosteniuk"
-      },
-      {
-         "description" : "In a groundbreaking initiative to support women&#39;s chess, Saint Louis Chess Club has announced $100,000 awards to U.S. female players achieving the grandmaster title by July 4, 2029.&#38;nbsp; Jeanne Cairns Sinquefield, co-founder of the Saint Louis ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jeanne-cairns-sinquefield-award-us-female-grandmasters",
-         "pubDate" : "Fri, 14 Jun 2024 18:31:00",
-         "title" : "Jeanne Sinquefield Offers Historic $100,000 Awards To New Female Grandmasters In U.S."
       },
       {
          "description" : "",
