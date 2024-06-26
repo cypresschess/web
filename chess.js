@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. In the first part of his series our columnist dealt with the treatment of chess in the 21st Century in the MegaBase. In the second part of the series he took us down the memory lane with a world championship that deserves to be better known. In the third and concluding part of the series he shows how we can learn from the games of the past in the MegaBase. | Photo: Boris Spassky and Paul Keres / Dmitri Prants, Estonian Sports and Olympic Museum",
+         "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. In the first part of his series our columnist dealt with the treatment of chess in the 21st Century in the MegaBase. In the second part of the series he took us down the memory lane with a world championship that deserves to be better known. In the third and concluding part of the series he shows how we can learn from the games of the past in the MegaBase.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/megabase-2024-legends-nagesh-havanur",
@@ -18,7 +18,7 @@ news_feed (
          "title" : "Superbet Romania Chess Classic 2024 - Games and Results"
       },
       {
-         "description" : " Bernard Parham I, the 1967 Indiana State Champion and creator of the Matrix System, has passed away. His son Bernard II told The Chess Drum, &#8220;Resigned against diabetes on Wednesday, June 19th-one day after reaching his 58th wedding anniversary.&#8221; Born in October 30, 1946 to Eddie and Kathleen Parham, Bernard married Lugenia (White) on June The post <a href=\"https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/\">Bernard Parham, chess innovator, passes away</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Bernard Parham I, the 1967 Indiana State Champion and creator of the Matrix System, has passed away. His son Bernard II told The Chess Drum, &#8220;Resigned against diabetes on Wednesday, June 19th-one day after reaching his 58th wedding anniversary.&#8221; Born on October 30, 1946, to Eddie and Kathleen Parham, Bernard married Lugenia (White) on June The post <a href=\"https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/\">Bernard Parham, chess innovator, passes away</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/",
@@ -1056,14 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3053",
          "pubDate" : "Wed, 05 Jun 2024 12:20:49",
          "title" : "Chess for Freedom Conference 2024: Program and registration links"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110716903.cms\" />World number one Magnus Carlsen extended his lead by defeating R Praggnanandhaa in an armageddon showdown at Norway Chess 2024. Carlsen avenged his earlier classical game loss to the Indian prodigy. The tournament saw intense battles, with notable performances from Hikaru Nakamura, Ding Liren, Ju Wenjun, Lei Tingjie, and R Vaishali.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-suffers-defeat-to-world-no-1-magnus-carlsen-at-norway-chess-tournament/articleshow/110716903.cms",
-         "pubDate" : "Wed, 05 Jun 2024 00:25:58",
-         "title" : "Pragg suffers defeat to world no. 1 Carlsen at Norway Chess"
       }
    ]
 }
