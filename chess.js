@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Magnus Carlsen's chess memory never ceases to amaze. At the Casablanca Chess Tournament in May 2024, Carlsen, Vishy Anand and Hikaru Nakamura were shown positions from historically important games and asked to guess the players and dates of the games. The twist: instead of pieces, the three top players saw only black and white checkers. But for Carlsen this seemed to be only a minor obstacle.",
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (listed below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-1-grandchesstour\"><img src=\"https",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-1-grandchesstour",
+         "pubDate" : "Wed, 26 Jun 2024 14:28:15",
+         "title" : "Superbet Chess Classic 2024: Round 1 | #GrandChessTour"
+      },
+      {
+         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stunning-carlsen-s-chess-memory",
-         "pubDate" : "Wed, 26 Jun 2024 12:49:23",
-         "title" : "Stunning: Carlsen's chess memory"
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
+         "pubDate" : "Wed, 26 Jun 2024 13:50:00",
+         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The market leader is parting with several dozen staff members and publishers New in Chess and Everyman, reports Stefan L&ouml;ffler </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/aagaard-small-margin.1920.jpeg\" title=\"Jacob Aagaard asked on X how he could become the publisher of his favourite author Matthew Sadler. Now that New in Chess (and Everyman) join Quality Chess, he is. photo: David Llada\" data-title=\"Jacob Aagaard asked on X how he could become the publisher of his favourite author Matthew Sadler. Now that New in Chess (and Everyman) join Quality Chess, he is. (photo: David Llada)\"",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2024/downsizing-on-staff-and/",
-         "pubDate" : "Wed, 26 Jun 2024 10:17:18",
+         "pubDate" : "Wed, 26 Jun 2024 13:16:12",
          "title" : "Downsizing on staff and subsidiaries, Chess.com prioritizes profitability"
+      },
+      {
+         "description" : "Magnus Carlsen's chess memory never ceases to amaze. At the Casablanca Chess Tournament in May 2024, Carlsen, Vishy Anand and Hikaru Nakamura were shown positions from historically important games and asked to guess the players and dates of the games. The twist: instead of pieces, the three top players saw only black and white checkers. But for Carlsen this seemed to be only a minor obstacle.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/stunning-carlsen-s-chess-memory",
+         "pubDate" : "Wed, 26 Jun 2024 12:49:23",
+         "title" : "Stunning: Carlsen's chess memory"
       },
       {
          "description" : "",
@@ -338,14 +354,6 @@ news_feed (
          "title" : "Demolishing the Kingside #Cairnscup #chess #chesstactics #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Yasser Seirawan shares a bit of knowledge when playing the queen and pawn endgame when up a pawn </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-queen-and-pawn-ending-cairnscup-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oYDE8o3T8Ag.jpg?itok=QjnxqWES\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-bit-queen-and-pawn-ending-cairnscup-chess-chesstactics-chessendgame-chesscom",
-         "pubDate" : "Sat, 22 Jun 2024 02:25:22",
-         "title" : "Chess Bit: Queen and Pawn Ending #Cairnscup #chess #chesstactics #chessendgame #chesscom"
-      },
-      {
          "description" : "GM Anna Muzychuk and IM Alice Lee both won their respective games against GM Alexandra Kosteniuk and IM Anna Zatonskih respectively at the Cairns Cup 2024 on Friday. For Muzychuk, this means she is now one point shy of leader GM Tan Zhongyi&#38;nbsp;h...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -656,6 +664,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-4",
          "pubDate" : "Sun, 16 Jun 2024 22:57:00",
          "title" : "Tan Zhongyi Sole Leader After Quick Victory"
+      },
+      {
+         "description" : "For this month's Flickr favorite, I could have chosen another AI generated photo as in <A HREF=\"https://chessforallages.blogspot.com/2024/04/no-hunk-o-junk-here.html\">No Hunk-o'-Junk Here</A> (April 2024), but none of the three candidates on the short list were particularly inspiring. I was more intrigued by the photo shown below although there was almost no information about it. The description of the photo repeated its title and added only, <BLOCKQUOTE> Curt Schlevogt, Ingrid Collection </BLOCKQUOTE> <P> There were no tags offering further clues. This leads to the often asked question, 'What have we here?'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-of16.jpg\" WIDTH=400 ",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/06/an-unexplained-chess-set.html",
+         "pubDate" : "Sun, 16 Jun 2024 15:06:00",
+         "title" : "An Unexplained Chess Set"
       },
       {
          "description" : "",
@@ -1056,38 +1072,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-rises-to-joint-lead-in-world-junior-chess-championship/articleshow/110775371.cms",
          "pubDate" : "Thu, 06 Jun 2024 17:55:53",
          "title" : "Divya Deshmukh rises to joint lead in World Junior Chess C'ship"
-      },
-      {
-         "description" : "The Yearbook 2024 hard copy version is now available to order while stocks last - &pound;9.99 for members, &pound;11.99 for non-members! Owing to a huge...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-yearbook-2024/",
-         "pubDate" : "Wed, 05 Jun 2024 14:15:59",
-         "title" : "ECF Yearbook 2024 - new link"
-      },
-      {
-         "description" : "Submissions are now open for this year's ECF Awards.&#160;The closing date for nominations will be 14th July 2024. Details for this year's ECF Awards are...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2024-ecf-awards-submissions-are-now-open/",
-         "pubDate" : "Wed, 05 Jun 2024 13:29:37",
-         "title" : "2024 ECF Awards - submissions are now open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3054",
-         "pubDate" : "Wed, 05 Jun 2024 12:45:12",
-         "title" : "Shakeup in FIDE Circuit 2024 leaderboard as Erigaisi leads"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3053",
-         "pubDate" : "Wed, 05 Jun 2024 12:20:49",
-         "title" : "Chess for Freedom Conference 2024: Program and registration links"
       }
    ]
 }
