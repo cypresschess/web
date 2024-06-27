@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Going into its strongest season ever with virtually all world-class players committed to a club, the German <strong>Bundesliga</strong> will hold its <a href=\"https://www.schachbund.de/terminplan.html\">final three rounds</a> on 25-27 April 2025 near Munich in Deggendorf, where the local club will celebrate its 100th anniversary. On 22/23 March 2025 eight out of 16 teams will meet at the <strong>FC St Pauli</strong> football stadion in Hamburg and most likely <strong>Magnus Carlsen</strong>, who is connected with St Pauli and the <strong>Weissenhaus Chess Academy</strong>, will be among them. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/schachbundesliga-announces-central/",
+         "pubDate" : "Thu, 27 Jun 2024 10:55:47",
+         "title" : "Schachbundesliga final rounds in Deggendorf"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111312036.cms\" />​Gukesh, who is set to challenge reigning World Champion Ding Liren of China later this year, benefited from a tactical oversight by both players in the middle game but quickly capitalized on his advantage to secure the victory in his first classical game since winning the Candidates tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-beats-deac-bogdan-danielin-superbet-classic-chess/articleshow/111312036.cms",
+         "pubDate" : "Thu, 27 Jun 2024 09:55:13",
+         "title" : "Gukesh beats Deac Bogdan-Daniel in Superbet Classic chess"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Tech Mahindra</strong> has announced a second season of its <strong><a href=\"https://globalchessleague.com\">Global Chess League</a></strong> on 3-12 October in London, securing a live audience and interaction with fans for the high powered rapid team event, which will be followed by the <strong>WR Chess Masters Cup</strong> on 14-18 October held by German sponsor <strong>Wadim Rosenstein</strong> in a k.o.-format, also in London. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/london-hosts-global-chess-league/",
+         "pubDate" : "Thu, 27 Jun 2024 09:30:12",
+         "title" : "London hosts Global Chess League"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -122,14 +146,6 @@ news_feed (
          "title" : "Austria prepares bid for R&B 2025"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Going into its strongest season ever with virtually all world-class players committed to a club, the German <strong>Bundesliga</strong> will hold its <a href=\"https://www.schachbund.de/terminplan.html\">final three rounds</a> on 11-13 April 2025 near Munich in Deggendorf, where the local club will celebrate its 100th anniversary. On 22/23 March 2025 eight out of 16 teams will meet at the <strong>FC St Pauli</strong> football stadion in Hamburg and most likely <strong>Magnus Carlsen</strong>, who is connected with St Pauli and the <strong>Weissenhaus Chess Academy</strong>, will be among them. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/schachbundesliga-announces-central/",
-         "pubDate" : "Wed, 26 Jun 2024 18:46:27",
-         "title" : "Schachbundesliga final rounds in Deggendorf"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-1",
          "pubDate" : "Wed, 26 Jun 2024 14:02:00",
          "title" : "Caruana, Gukesh Score In Opening Round Of Superbet Chess Classic Romania"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The market leader is parting with several dozen staff members and publishers New in Chess and Everyman, reports Stefan L&ouml;ffler </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/aagaard-small-margin.1920.jpeg\" title=\"Jacob Aagaard asked on X how he could become the publisher of his favourite author Matthew Sadler. Now that New in Chess (and Everyman) join Quality Chess, he is. photo: David Llada\" data-title=\"Jacob Aagaard asked on X how he could become the publisher of his favourite author Matthew Sadler. Now that New in Chess (and Everyman) join Quality Chess, he is. (photo: David Llada)\"",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/downsizing-on-staff-and/",
-         "pubDate" : "Wed, 26 Jun 2024 13:16:12",
-         "title" : "Downsizing on staff and subsidiaries, Chess.com prioritizes profitability"
       },
       {
          "description" : "Magnus Carlsen's chess memory never ceases to amaze. At the Casablanca Chess Tournament in May 2024, Carlsen, Vishy Anand and Hikaru Nakamura were shown positions from historically important games and asked to guess the players and dates of the games. The twist: instead of pieces, the three top players saw only black and white checkers. But for Carlsen this seemed to be only a minor obstacle.",
@@ -344,14 +352,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/tournament-report-and-results-english-chess-championships/",
          "pubDate" : "Mon, 24 Jun 2024 09:23:23",
          "title" : "Tournament Report and Results - English Chess Championships"
-      },
-      {
-         "description" : "He is considered by many to be the most talented of all world champions- Fischer called him one of the top ten players of all time. In our Master Class trainer you can learn all about his style and his strategy from leading experts, and in this week get this latest Fritztrainer for €34.90. And in our Summer Special you can have all 17 Fritztrainers for just €199.90 (instead of €389.90). Don't miss the chance.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-master-class-boris-spassky",
-         "pubDate" : "Mon, 24 Jun 2024 09:00:00",
-         "title" : "New Master Class: Boris Spassky"
       },
       {
          "description" : "Chess.com&#38;rsquo;s print publishing operations, comprising of New in Chess and Everyman Chess are splitting off from Chess.com and merging with Quality Chess to create a group of strong and independent print publishing companies. The New in Chess m...",
