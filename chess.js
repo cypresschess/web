@@ -118,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-1",
-         "pubDate" : "Wed, 26 Jun 2024 14:02:15",
+         "pubDate" : "Wed, 26 Jun 2024 14:02:00",
          "title" : "Caruana, Gukesh Score In Opening Round Of Superbet Chess Classic Romania"
       },
       {
