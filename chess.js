@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/english-schools-finals-2024/#new_tab",
+         "pubDate" : "Thu, 27 Jun 2024 08:06:40",
+         "title" : "English Schools Finals 2024 start today"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3091",
+         "pubDate" : "Thu, 27 Jun 2024 07:30:40",
+         "title" : "Tech Mahindra Global Chess League to host its second edition in London"
+      },
+      {
          "description" : "The Superbet Chess Classic saw two out of five games ending decisively on the first day of action. Fabiano Caruana and D Gukesh became the early co-leaders by beating Alireza Firouzja and Bogdan-Daniel Deac respectively. Both games featured considerable changes in evaluation, as the double-edged positions that appeared on the boards provoked mistakes by all involved parties. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
