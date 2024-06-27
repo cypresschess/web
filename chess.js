@@ -186,6 +186,22 @@ news_feed (
          "title" : "10-Year-Old Faustino Oro Becomes Youngest Ever To Break 3000 On Chess.com"
       },
       {
+         "description" : "FM Tanitoluwa \"Tani\" Adewumi won the 2024 U.S. Cadet Championship, held June 20 through 23 in Lisle, IL. The seven-round Round Robin featured eight of the country's top players under the age of 16, with the 13-year-old Adewumi winning the event outright with a 6/7 score. <br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> photo courtesy Adewumi family<br /><br /><br /> <br /><br /> Adewumi yielded only two draws - winning his other five games - against an incredibly strong field. In fact, Adewumi was the lower-rated player (according to FIDE ratings) in five of his seven games. He got off to a hot start with a first-round win against one of two IMs in the field, and t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tani-adewumi-wins-2024-us-cadet-championship",
+         "pubDate" : "Wed, 26 Jun 2024 00:00:00",
+         "title" : "Tani Adewumi Wins 2024 U.S. Cadet Championship "
+      },
+      {
+         "description" : "Two sets of GM and IM norm invitational Round Robins were held by 1000GM around the National Open in Las Vegas earlier this month. FM Varun Krishnan earned an IM norm, WFM Rachael Li earned a WIM norm, and FMs Rose Atwell and Zoey Tang each earned a WIM norm (although Tang already has earned the WIM title). This week's tactics again draw from the many tense games across the seven (!) separate sections.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-1000gm-las-vegas-norm-invitationals-pt-2",
+         "pubDate" : "Wed, 26 Jun 2024 00:00:00",
+         "title" : "Wednesday Workout: 1000GM Las Vegas Norm Invitationals, Pt. 2"
+      },
+      {
          "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. In the first part of his series our columnist dealt with the treatment of chess in the 21st Century in the MegaBase. In the second part of the series he took us down the memory lane with a world championship that deserves to be better known. In the third and concluding part of the series he shows how we can learn from the games of the past in the MegaBase.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -248,6 +264,22 @@ news_feed (
          "link" : "https://www.fide.com/news/3085",
          "pubDate" : "Tue, 25 Jun 2024 07:26:20",
          "title" : "26th Asian Youth Chess Championships conclude in Almaty, Kazakhstan"
+      },
+      {
+         "description" : "Downtown Manhattan is one of the world's most traversed spots. With several financial centers on Wall Street as well as dozens of world-famous attractions, the land between the two rivers has attracted tourists and businesspersons from all around the world. The FIDE World Corporate Chess Championship, held June 15 through 17, merged these two worlds fantastically, and did so much more in the process.<br /><br /> A gathering of businesspersons and chess players from all around the world, this tournament bridged the divides of different countries, languages, and professions in a shared language of chess. Some players flew in from faraway places including China and Kazakhstan, and many others f",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/chess-transcends-borders-fide-world-corporate-chess-championships",
+         "pubDate" : "Tue, 25 Jun 2024 00:00:00",
+         "title" : "Chess Transcends Borders at FIDE World Corporate Chess Championships"
+      },
+      {
+         "description" : "Two sets of GM and IM norm invitational Round Robins were held by 1000GM around the National Open in Las Vegas earlier this month. FM Varun Krishnan earned an IM norm, WFM Rachael Li earned a WIM norm, and FMs Rose Atwell and Zoey Tang each earned a WIM norm (although Tang already has earned the WIM title). This week's tactics once again draw from the many tense games across the seven (!) separate sections.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-1000gm-las-vegas-tactics-pt-2",
+         "pubDate" : "Tue, 25 Jun 2024 00:00:00",
+         "title" : "Tactics Tuesday: 1000GM Las Vegas Tactics, Pt. 2"
       },
       {
          "description" : "",
@@ -336,6 +368,22 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-individual-chess-championship-2024-started-in-andorra/",
          "pubDate" : "Mon, 24 Jun 2024 06:08:12",
          "title" : "European Small Nations Individual Chess Championship 2024 started in Andorra"
+      },
+      {
+         "description" : "No tiebreaks needed! Just like in the 2024 FIDE Women's Candidates two months ago, GM Tan Zhongyi basically had the victory in the bag before the last round of the 2024 Cairns Cup even started in St. Louis. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Tan Zhongyi with the Cairns Cup (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> In what was, for the most part, a tame affair by this tournament's standards, Tan won one game in each third of the event, and held with solid play in the rest. In some years, a 6/9 score might not be enough for clear first, but this year an abno",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tan-zhongyi-wins-2024-cairns-cup",
+         "pubDate" : "Mon, 24 Jun 2024 00:00:00",
+         "title" : "Tan Zhongyi Wins 2024 Cairns Cup"
+      },
+      {
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Share your Story<br /><br /> The US Chess Federation wants to hear your story. With 85 years of organizational history, there are so many stories to tell! And we need your help. The US Chess Oral History Project is a chance to collect the stories of your chess life in your own words. These stories will be preserved in a beautiful book and in a digital archive that celebrates US Chess' impact on your life and the person you are today. As of June 24, over 4,000 people have already shared their oral histories with us!<br /><br /> You may receive an email, postcard and phone call from a company calle",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-oral-history-project",
+         "pubDate" : "Mon, 24 Jun 2024 00:00:00",
+         "title" : "US Chess Oral History Project"
       },
       {
          "description" : "",
@@ -458,6 +506,22 @@ news_feed (
          "title" : "Chess: national solving championship 2024 open to entries from Britain"
       },
       {
+         "description" : "At the time of publication, the penultimate round of the 2024 Cairns Cup is underway in St. Louis. Today, we have annotations on key games and moments from rounds four through six courtesy of WGM Begim Tokhirjonova, and we'll have a report on the last three rounds published on Monday. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Kosteniuk had a promising position early on against Lee, but found herself on the wrong end of the decisive result (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> As mentioned earlier this week, GM Alexandra Kosteniuk was playing combative chess i",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tan-leads-over-topsy-turvy-kosteniuk-cairns-cup-enters-home-stretch",
+         "pubDate" : "Fri, 21 Jun 2024 00:00:00",
+         "title" : "Tan Leads Over Topsy Turvy Kosteniuk as Cairns Cup Enters Home Stretch"
+      },
+      {
+         "description" : "The FIDE World Senior Team Championship is taking place July 1 through 12 in Krakow, Poland, and, this year, three teams will be making the trip. Read on to meet this year's teams and learn how to follow along with their games!<br /><br /> In the Open (age 50+), the team will consist of GM Vladimir Akopian, GM Jaan Ehlvest, GM Igor Novikov, GM Alexander Shabalov (Captain), and GM Melikset Khachiyan. This team looks to defend last year's title, although Akopian and Khachiyan are swapped in this year for GMs Alex Yermolinsky and Gregory Kaidanov. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/three-teams-represent-united-states-fide-world-team-senior-championship",
+         "pubDate" : "Fri, 21 Jun 2024 00:00:00",
+         "title" : "Three Teams to Represent United States at FIDE World Team Senior Championship"
+      },
+      {
          "description" : "Four decisive results shook up the standings at the Cairns Cup 2024 and, with two rounds to go, five players are still in the hunt for the $50,000 first prize. GM Tan Zhongyi leads the event on 5/7 after defeating GM Elisabeth Paehtz while chaos a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -528,6 +592,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/england-striker-harry-kane-reveals-hes-about-1200-rated-on-chess-com",
          "pubDate" : "Thu, 20 Jun 2024 04:01:00",
          "title" : "England Striker Harry Kane Reveals He's 'About 1200-Rated On Chess.com'"
+      },
+      {
+         "description" : "Every June, thousands of players flock to Las Vegas, but it's not to gamble (indeed, many of them have to wait upwards of a decade before they can hit the slot machines). With a plethora of side events, special guests, and lessons in addition to the perennially strong National Open, the Las Vegas Chess Festival is one of the most engaging tournaments of the year. This was also a milestone National Open for me: I've now played in this tournament for more than half the years I've been alive!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> GM Vasif Durarbayli, pictured here with the Edmonson Cup, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-las-vegas-chess-festival-durarbayli-wins-national-open",
+         "pubDate" : "Thu, 20 Jun 2024 00:00:00",
+         "title" : "2024 Las Vegas Chess Festival: Durarbayli Wins National Open"
       },
       {
          "description" : "GM Alexandra Kosteniuk has continued her run of decisive results at the Cairns Cup 2024 with a win over GM Mariya Muzychuk and now moves to 3.5/6, half a point behind the sole leader GM Tan Zhongyi. Draws on the remaining boards occurred with mi...",
@@ -632,6 +704,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-no-1-arjun-erigaisi-triumphs-in-armenia-takes-break-from-classical-chess/articleshow/111100740.cms",
          "pubDate" : "Wed, 19 Jun 2024 04:05:14",
          "title" : "India No.1 Arjun Erigaisi triumphs in Armenia, takes break from Classical chess"
+      },
+      {
+         "description" : "Two sets of GM and IM norm invitational Round Robins were held by 1000GM around the National Open in Las Vegas earlier this month. FM Varun Krishnan earned an IM norm, WFM Rachael Li earned a WIM norm, and FMs Rose Atwell and Zoey Tang each earned a WIM norm (although Tang already has earned the WIM title). This week's tactics draw from the many tense games across the seven (!) separate sections.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-1000gm-las-vegas-endgame-tactics",
+         "pubDate" : "Wed, 19 Jun 2024 00:00:00",
+         "title" : "Wednesday Workout: 1000GM Las Vegas Endgame Tactics"
       },
       {
          "description" : "",
