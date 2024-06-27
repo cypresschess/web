@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In an in-depth interview, the founder and CEO of ChessBase India, Sagar Shah, talks about how chess is developing in India and what projects are keeping him busy. The interview was conducted by Stefan Liebig for the German chess magazine Schach 64 and tells us about Sagar's professional career, and his work with top Indian talents.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/all-about-chessbase-india",
+         "pubDate" : "Thu, 27 Jun 2024 21:00:00",
+         "title" : "All about ChessBase India"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-3-grandchesstour\"><img src=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-3-grandchesstour",
+         "pubDate" : "Thu, 27 Jun 2024 17:28:53",
+         "title" : "Superbet Chess Classic 2024: Round 3 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The competitors give advice to players who would like to reach a high level of chess before the Superbet Chess Classic 2024. This aired during Round 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/advice-chess-players-reach-high-level-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9vXCAAGb7C8.jpg?itok=5EWHIAl2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/advice-chess-players-reach-high-level-superbetchessclassicromania",
+         "pubDate" : "Thu, 27 Jun 2024 17:28:53",
+         "title" : "Advice for Chess Players to Reach High Level? | #SuperbetChessClassicRomania"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> In a complicated and doubled-edged position, Gukesh maneuvers his way to a first round victory over Bogdan Deac. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YdwwP2k9_yw.jpg?itok=JLwuzEJs\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -42,6 +66,14 @@ news_feed (
          "title" : "Schachbundesliga final rounds in Deggendorf"
       },
       {
+         "description" : "GM M Pranesh finished with the highest score, 9.5/11, in the Swiss stage of the 2024 Speed Chess Championship Play-in. He and seven other players advance to a double-elimination Knockout. Just one player will earn the last qualifying spot availabl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-play-in-swiss",
+         "pubDate" : "Thu, 27 Jun 2024 10:25:00",
+         "title" : "Pranesh Tops Swiss Qualifier, 8 Players Move On To Knockout Stage"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111312036.cms\" />​Gukesh, who is set to challenge reigning World Champion Ding Liren of China later this year, benefited from a tactical oversight by both players in the middle game but quickly capitalized on his advantage to secure the victory in his first classical game since winning the Candidates tournament.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -56,6 +88,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/london-hosts-global-chess-league/",
          "pubDate" : "Thu, 27 Jun 2024 09:30:12",
          "title" : "London hosts Global Chess League"
+      },
+      {
+         "description" : "GMs Awonder Liang and Denis Lazavik won Titled Tuesday on June 25, and several more players locked up a spot in the 2024 Speed Chess Championship after their highly successful Titled Tuesday performances this year to date: GMs Jan-Krzysztof Duda, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/liang-lazavik-win-titled-tuesday-june-25-2024",
+         "pubDate" : "Thu, 27 Jun 2024 09:26:14",
+         "title" : "Last Titled Tuesdays Of June Determine SCC Qualifications"
       },
       {
          "description" : "",
@@ -88,6 +128,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-jazzmusic",
          "pubDate" : "Thu, 27 Jun 2024 05:28:30",
          "title" : "Caruana's Inspired Freestyle Against Alireza #GrandChessTour #chess #chessopenings #jazzmusic"
+      },
+      {
+         "description" : "GM Hans Niemann won a Super Grandmaster Match, with a prize fund of $50,000, against GM Vidit Gujrathi on June 22, 2024. The Universal Chess Tour (UCT) chose Niemann and Gujrathi for their chess credentials and for their abilities to attract media coverage and fans. National Football League (NFL) player Chidobe Awuzie bested other celebrities in rapid chess.<br /><br /> The Super Grandmaster Match happened at the NYTEX Sports Centre in North Richland Hills, Texas, a city in the Dallas-Fort Worth Metroplex. The arena matches served as a main attraction and novel selling point for the UCT's Universal Chess Open, held June 20 through 23 in the same location. All participants in the Open receive",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/hans-niemann-wins-universal-chess-tours-inaugural-super-gm-match-chidobe-awuzie-celebrity",
+         "pubDate" : "Thu, 27 Jun 2024 00:00:00",
+         "title" : "Hans Niemann Wins Universal Chess Tour's Inaugural Super GM Match; Chidobe Awuzie Celebrity Chess Winner"
       },
       {
          "description" : "",
@@ -144,22 +192,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/gukesh-happy-play-classical-again-r1-superbetchessclassicromania",
          "pubDate" : "Wed, 26 Jun 2024 20:28:25",
          "title" : "Gukesh: Happy to Play Classical Again | R1 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players tell how they handle pressure at major chess tournaments before the Superbet Chess Classic 2024. This aired during Round 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/handling-pressure-high-profile-tournaments-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0LPyQLpDu0o.jpg?itok=MtF4MkDO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/handling-pressure-high-profile-tournaments-superbetchessclassicromania",
-         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
-         "title" : "Handling Pressure at High Profile Tournaments? | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Firouzja in Round 1 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-turns-%E2%80%98dodgy%E2%80%99-position-win-r1-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ts83tLZGS4E.jpg?itok=E3jfddFM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-turns-%E2%80%98dodgy%E2%80%99-position-win-r1-superbetchessclassicromania",
-         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
-         "title" : "Caruana Turns 'Dodgy' Position into Win! | R1 #SuperbetChessClassicRomania"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Backed by <strong>Magnus Carlsen</strong> the Oslo-based startup <strong>Fantasychess</strong> <a href=\"https://www.forbes.com/sites/alexkonrad/2024/06/25/fantasy-chess-magnus-carlsen-startup-raises-millions/#:~:text=Fantasy%20Chess%20founder%20Magnus%20Carlsen,and%20streaming%20startup%20in%20chess.\">has raised $3million</a> in 2023 and is <a href=\"https://www.fantasychess.app/careers\">currently hiring</a> a CFO, head of content, fullstack developer, designer and also invites open applications. </div> ",
@@ -242,7 +274,7 @@ news_feed (
          "title" : "10-Year-Old Faustino Oro Becomes Youngest Ever To Break 3000 On Chess.com"
       },
       {
-         "description" : "FM Tanitoluwa \"Tani\" Adewumi won the 2024 U.S. Cadet Championship, held June 20 through 23 in Lisle, IL. The seven-round Round Robin featured eight of the country's top players under the age of 16, with the 13-year-old Adewumi winning the event outright with a 6/7 score. <br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> photo courtesy Adewumi family<br /><br /><br /> <br /><br /> Adewumi yielded only two draws - winning his other five games - against an incredibly strong field. In fact, Adewumi was the lower-rated player (according to FIDE ratings) in five of his seven games. He got off to a hot start with a first-round win against one of two IMs in the field, and t",
+         "description" : "FM Tanitoluwa \"Tani\" Adewumi won the 2024 U.S. Cadet Championship, held June 20 through 23 in Lisle, IL. The seven-round Round Robin featured eight of the country's top players under the age of 16, with the 13-year-old Adewumi winning the event outright with a 6/7 score. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> photo courtesy Adewumi family<br /><br /><br /> <br /><br /> Adewumi yielded only two draws - winning his other five games - against an incredibly strong field. In fact, Adewumi was the lower-rated player (according to FIDE ratings) in five of his seven games. He got off to a hot",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tani-adewumi-wins-2024-us-cadet-championship",
@@ -730,14 +762,6 @@ news_feed (
          "title" : "India No.1 Arjun Erigaisi triumphs in Armenia, takes break from Classical chess"
       },
       {
-         "description" : "Two sets of GM and IM norm invitational Round Robins were held by 1000GM around the National Open in Las Vegas earlier this month. FM Varun Krishnan earned an IM norm, WFM Rachael Li earned a WIM norm, and FMs Rose Atwell and Zoey Tang each earned a WIM norm (although Tang already has earned the WIM title). This week's tactics draw from the many tense games across the seven (!) separate sections.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-1000gm-las-vegas-endgame-tactics",
-         "pubDate" : "Wed, 19 Jun 2024 00:00:00",
-         "title" : "Wednesday Workout: 1000GM Las Vegas Endgame Tactics"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -850,14 +874,6 @@ news_feed (
          "title" : "Kosteniuk Topples Dzagnidze, Joins Leaders"
       },
       {
-         "description" : "In a near-carbon copy of June&#39;s earlier editions, GM Daniel Naroditsky scored a dominant 235 points to secure his third straight Bullet Brawl title in the $1,000 event. With 66 wins, four draws, and just 13 losses to his name, Naroditsky finished ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-june-15-2024",
-         "pubDate" : "Sat, 15 Jun 2024 15:18:00",
-         "title" : "Hat-Trick Hero Naroditsky Secures 19th Title"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -888,14 +904,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/06/14/nigerias-the-battle-of-the-ages-fought-to-exciting-draw/",
          "pubDate" : "Fri, 14 Jun 2024 23:11:41",
          "title" : "Nigeria's \"The Battle of the Ages\" fought to exciting draw!"
-      },
-      {
-         "description" : "Four players&#38;mdash;GMs Nana Dzagnidze, Harika Dronavalli, Mariya Muzychuk, and Tan Zhongyi&#38;mdash;sit atop the standings on 1.5/2 at the Cairns Cup 2024 after Dzagnidze and Harika won their respective games against IM Anna Zatonskih and GM Alexandr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-2",
-         "pubDate" : "Fri, 14 Jun 2024 18:53:00",
-         "title" : "Harika Forgoes Castling In Victory Over 'Chess Queen' Kosteniuk"
       },
       {
          "description" : "",
@@ -1200,14 +1208,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/61st-world-juniors-2024",
          "pubDate" : "Thu, 6 Jun 2024 22:29:00",
          "title" : "61st World Juniors 2024 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110775371.cms\" />Woman Grandmaster Divya Deshmukh delivered a decisive victory over Narmi Abdinova of Azerbaijan to become the sole leader with 4.5 points at the World Juniors Girls' Chess Championship in Gandhinagar on Thursday. Deshmukh's win was a carefully crafted affair, taking down the overnight leader Abdinova. Opting for an English opening, Divya may have surprised Abdinova, who then tried to assert control early. This strategy resulted in a compromised pawn structure on the queen side for Abdinova, who still hoped to capitalize on some tactical complicatio",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-rises-to-joint-lead-in-world-junior-chess-championship/articleshow/110775371.cms",
-         "pubDate" : "Thu, 06 Jun 2024 17:55:53",
-         "title" : "Divya Deshmukh rises to joint lead in World Junior Chess C'ship"
       }
    ]
 }
