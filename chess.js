@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> In a complicated and doubled-edged position, Gukesh maneuvers his way to a first round victory over Bogdan Deac. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YdwwP2k9_yw.jpg?itok=JLwuzEJs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics",
+         "pubDate" : "Thu, 27 Jun 2024 14:28:47",
+         "title" : "Gukesh D Defeats Deac #GrandChessTour #chess #chesstactics"
+      },
+      {
+         "description" : "Picture courtesy of John Upham / British Chess News. More tributes can be found here https://www.ecforum.org.uk/viewtopic.php?f=2&#38;t=14149 and a detailed look at Bernard's life...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/90-today-happy-birthday-bernard-cafferty/",
+         "pubDate" : "Thu, 27 Jun 2024 14:23:16",
+         "title" : "90 today! Happy Birthday Bernard Cafferty"
+      },
+      {
+         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
+         "pubDate" : "Thu, 27 Jun 2024 13:50:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3092",
+         "pubDate" : "Thu, 27 Jun 2024 13:24:24",
+         "title" : "Queen Trap: Music short film to feature women in chess at Chess Olympiad"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Going into its strongest season ever with virtually all world-class players committed to a club, the German <strong>Bundesliga</strong> will hold its <a href=\"https://www.schachbund.de/terminplan.html\">final three rounds</a> on 25-27 April 2025 near Munich in Deggendorf, where the local club will celebrate its 100th anniversary. On 22/23 March 2025 eight out of 16 teams will meet at the <strong>FC St Pauli</strong> football stadion in Hamburg and most likely <strong>Magnus Carlsen</strong>, who is connected with St Pauli and the <strong>Weissenhaus Chess Academy</strong>, will be among them. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -152,14 +184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3089",
          "pubDate" : "Wed, 26 Jun 2024 14:50:16",
          "title" : "Parivartan: Transforming lives through chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-1-grandchesstour\"><img src=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-1-grandchesstour",
-         "pubDate" : "Wed, 26 Jun 2024 14:28:15",
-         "title" : "Superbet Chess Classic 2024: Round 1 | #GrandChessTour"
       },
       {
          "description" : "The Superbet Chess Classic Romania, the second leg of the 2024 Grand Chess Tour, started on Wednesday in Bucharest with wins for GMs Gukesh Dommaraju and Fabiano Caruana. In his first classical game since winning the Candidates, Gukesh defeated wi...",
