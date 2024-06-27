@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Superbet Chess Classic saw two out of five games ending decisively on the first day of action. Fabiano Caruana and D Gukesh became the early co-leaders by beating Alireza Firouzja and Bogdan-Daniel Deac respectively. Both games featured considerable changes in evaluation, as the double-edged positions that appeared on the boards provoked mistakes by all involved parties. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-1",
+         "pubDate" : "Thu, 27 Jun 2024 06:25:00",
+         "title" : "Superbet Classic: Caruana and Gukesh start off with wins"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -120,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-1",
          "pubDate" : "Wed, 26 Jun 2024 14:02:00",
          "title" : "Caruana, Gukesh Score In Opening Round Of Superbet Chess Classic Romania"
-      },
-      {
-         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
-         "pubDate" : "Wed, 26 Jun 2024 13:50:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The market leader is parting with several dozen staff members and publishers New in Chess and Everyman, reports Stefan L&ouml;ffler </div> <div class='topimage'><div class=\"image portrait\"><figure> <a href=\"https://www.chesstech.org/files/aagaard-small-margin.1920.jpeg\" title=\"Jacob Aagaard asked on X how he could become the publisher of his favourite author Matthew Sadler. Now that New in Chess (and Everyman) join Quality Chess, he is. photo: David Llada\" data-title=\"Jacob Aagaard asked on X how he could become the publisher of his favourite author Matthew Sadler. Now that New in Chess (and Everyman) join Quality Chess, he is. (photo: David Llada)\"",
