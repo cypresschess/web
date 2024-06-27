@@ -10,6 +10,14 @@ news_feed (
          "title" : "Superbet Classic: Caruana and Gukesh start off with wins"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Caruana&#039;s play of b6 and some inspiration in his defeat over Alireza Firouzja in Round 1 of the Grand Chess Tour in Bucharest. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-jazzmusic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4nd9skTq8pw.jpg?itok=vSeIIjtT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-jazzmusic",
+         "pubDate" : "Thu, 27 Jun 2024 05:28:30",
+         "title" : "Caruana's Inspired Freestyle Against Alireza #GrandChessTour #chess #chessopenings #jazzmusic"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -202,14 +210,6 @@ news_feed (
          "title" : "Wednesday Workout: 1000GM Las Vegas Norm Invitationals, Pt. 2"
       },
       {
-         "description" : "MegaBase 2024 is Chess History in action. Regularly updated every month, the Main Database currently offers 10.6 million games, many of them annotated. In the first part of his series our columnist dealt with the treatment of chess in the 21st Century in the MegaBase. In the second part of the series he took us down the memory lane with a world championship that deserves to be better known. In the third and concluding part of the series he shows how we can learn from the games of the past in the MegaBase.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/megabase-2024-legends-nagesh-havanur",
-         "pubDate" : "Tue, 25 Jun 2024 23:00:00",
-         "title" : "MegaBase 2024: Learn from the Legends"
-      },
-      {
          "description" : " The Superbet Romania Chess Classic takes place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -288,22 +288,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3084",
          "pubDate" : "Mon, 24 Jun 2024 22:25:06",
          "title" : "FIDE World Cup 8-12: Multiple leaders emerge after Day 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy summarizes Round 9 of the 2024 Cairns Cup, taking place June 12-23 at the World Chess Hall of Fame in Saint Louis. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/tan-zhongyi-clinches-muzychuk-2nd-recap-2024-cairns-cup-round-9\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pXOJnyG4c5k.jpg?itok=4RrJjxDZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tan-zhongyi-clinches-muzychuk-2nd-recap-2024-cairns-cup-round-9",
-         "pubDate" : "Mon, 24 Jun 2024 20:27:02",
-         "title" : "Tan Zhongyi Clinches! Muzychuk 2nd! | RECAP | 2024 Cairns Cup: Round 9"
-      },
-      {
-         "description" : "It is incredible to see how many drawish or marginally better endgames is Magnus Carlsen able to win. The computer claims the advantage of the Norwegian is minimal, let us say +0,2 or +0,4, and yet he wins. Again, and again. What is his secret? Jan Markos tries an answer. | Photo: Magnus Carlsen at the World Blitz Championship 2022 | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-35-impatience-loses-games",
-         "pubDate" : "Mon, 24 Jun 2024 20:00:00",
-         "title" : "The Winning Academy 35: Impatience Loses Games"
       },
       {
          "description" : "To conduct a successful attack on any part of the board, you need pieces. You need to gather as much power force as possible and force your opponent to kneel down under the unbearable pressure. In more simple words, if the ratio of your attacking pieces surpass the ratio of your enemy's defensive pieces, then you are in the right track! Even if you cannot see directly a decisive blow, you must be assured that sooner or later the opportunity will come in sight&hellip; Let international chess trainer Efstratios Grivas explain the concept with a game he played thirty years ago.",
