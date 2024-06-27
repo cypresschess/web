@@ -10,6 +10,30 @@ news_feed (
          "title" : "All about ChessBase India"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> The Superbet Chess Classic 2024 team looks back on the evening of Round 1, where the Romania national football team scored 1-1 with Slovakia to advance to the Round of 16 in UEFA Euro 2024. This aired during Round 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/football-fever-grips-romania-r2-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0hWHZOd8Q",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/football-fever-grips-romania-r2-superbetchessclassicromania",
+         "pubDate" : "Thu, 27 Jun 2024 20:29:01",
+         "title" : "Football Fever Grips Romania! | R2 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 2 of the Superbet Chess Classic. Taking place at the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-2-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/bl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-2-grandchesstour",
+         "pubDate" : "Thu, 27 Jun 2024 20:29:01",
+         "title" : "RECAP | Superbet Chess Classic 2024: Round 2 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo%E2%80%99s-goal-unchanged-candidates-two-years-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sS524oEYog.jpg?itok=VWy3NCWh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo%E2%80%99s-goal-unchanged-candidates-two-years-superbetchessclassicromania",
+         "pubDate" : "Thu, 27 Jun 2024 20:29:01",
+         "title" : "Nepo's Goal Unchanged: Candidates in Two Years | #SuperbetChessClassicRomania"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-3-grandchesstour\"><img src=\"htt",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3092",
          "pubDate" : "Thu, 27 Jun 2024 13:24:24",
          "title" : "Queen Trap: Music short film to feature women in chess at Chess Olympiad"
+      },
+      {
+         "description" : "After his painful loss in the opening round, GM Alireza Firouzja recovered with a victory against GM Nodirbek Abdusattorov on Thursday at the Superbet Chess Classic Romania. This time it was GM Fabiano Caruana&#39;s turn to spoil a winning position as...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-2",
+         "pubDate" : "Thu, 27 Jun 2024 13:15:00",
+         "title" : "Firouzja Bounces Back, Caruana Spoils Win In Bucharest"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Going into its strongest season ever with virtually all world-class players committed to a club, the German <strong>Bundesliga</strong> will hold its <a href=\"https://www.schachbund.de/terminplan.html\">final three rounds</a> on 25-27 April 2025 near Munich in Deggendorf, where the local club will celebrate its 100th anniversary. On 22/23 March 2025 eight out of 16 teams will meet at the <strong>FC St Pauli</strong> football stadion in Hamburg and most likely <strong>Magnus Carlsen</strong>, who is connected with St Pauli and the <strong>Weissenhaus Chess Academy</strong>, will be among them. </div> ",
@@ -114,14 +146,6 @@ news_feed (
          "title" : "Tech Mahindra Global Chess League to host its second edition in London"
       },
       {
-         "description" : "The Superbet Chess Classic saw two out of five games ending decisively on the first day of action. Fabiano Caruana and D Gukesh became the early co-leaders by beating Alireza Firouzja and Bogdan-Daniel Deac respectively. Both games featured considerable changes in evaluation, as the double-edged positions that appeared on the boards provoked mistakes by all involved parties. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-1",
-         "pubDate" : "Thu, 27 Jun 2024 06:25:00",
-         "title" : "Superbet Classic: Caruana and Gukesh start off with wins"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Caruana&#039;s play of b6 and some inspiration in his defeat over Alireza Firouzja in Round 1 of the Grand Chess Tour in Bucharest. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-jazzmusic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4nd9skTq8pw.jpg?itok=vSeIIjtT\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -170,30 +194,6 @@ news_feed (
          "title" : "MVL Tries to Stay Competitive with 'Solid Younger Generation' | R1 #SuperbetChessClassicRomania"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-still-young-despite-so-many-events-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CiaCxSK51Gs.jpg?itok=mci-87cl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-still-young-despite-so-many-events-superbetchessclassicromania",
-         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
-         "title" : "Firouzja: Still Young Despite So Many Events | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 1 of the Superbet Chess Classic. Taking place at the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-1-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/bl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-1-grandchesstour",
-         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
-         "title" : "RECAP | Superbet Chess Classic 2024: Round 1 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Cristian Chirila after defeating Deac in Round 1 of the Superbet Chess Classic 2024. 2024.06.26<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-happy-play-classical-again-r1-superbetchessclassicromania",
-         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
-         "title" : "Gukesh: Happy to Play Classical Again | R1 #SuperbetChessClassicRomania"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Backed by <strong>Magnus Carlsen</strong> the Oslo-based startup <strong>Fantasychess</strong> <a href=\"https://www.forbes.com/sites/alexkonrad/2024/06/25/fantasy-chess-magnus-carlsen-startup-raises-millions/#:~:text=Fantasy%20Chess%20founder%20Magnus%20Carlsen,and%20streaming%20startup%20in%20chess.\">has raised $3million</a> in 2023 and is <a href=\"https://www.fantasychess.app/careers\">currently hiring</a> a CFO, head of content, fullstack developer, designer and also invites open applications. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -224,14 +224,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-1",
          "pubDate" : "Wed, 26 Jun 2024 14:02:00",
          "title" : "Caruana, Gukesh Score In Opening Round Of Superbet Chess Classic Romania"
-      },
-      {
-         "description" : "Magnus Carlsen's chess memory never ceases to amaze. At the Casablanca Chess Tournament in May 2024, Carlsen, Vishy Anand and Hikaru Nakamura were shown positions from historically important games and asked to guess the players and dates of the games. The twist: instead of pieces, the three top players saw only black and white checkers. But for Carlsen this seemed to be only a minor obstacle.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/stunning-carlsen-s-chess-memory",
-         "pubDate" : "Wed, 26 Jun 2024 12:49:23",
-         "title" : "Stunning: Carlsen's chess memory"
       },
       {
          "description" : "It&#39;s a common problem among chess players: You played a good opening and developed all your pieces. But what do you do next? If you&#39;re among the many players who struggle to find the right plan in the middlegame, it&#39;s because you&#39;re missing the ...",
@@ -866,14 +858,6 @@ news_feed (
          "title" : "Faustino Oro, Levy Rozman Narrowly Miss Norms In Madrid"
       },
       {
-         "description" : "GM Alexandra Kosteniuk has joined the leaders on 2/3 at the Cairns Cup 2024 following a fine victory over Georgia&#39;s GM Nana Dzagnidze in round three while the tournament&#39;s other leaders; GMs Harika Dronavalli, Mariya Muzychuk, and Tan Zhongyi drew...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-3",
-         "pubDate" : "Sat, 15 Jun 2024 19:24:00",
-         "title" : "Kosteniuk Topples Dzagnidze, Joins Leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1176,38 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3051",
          "pubDate" : "Fri, 07 Jun 2024 05:36:49",
          "title" : "Refugee Team ready to compete on the global stage at Chess Olympiad"
-      },
-      {
-         "description" : " The UzChess Cup takes place in Tashkent, Uzbekistan Thu 6th Jun 2024Fri 14th Jun 2024. There are three round robin event. The Masters: Nodirbek Abdusattorov, Shakhriyar Mamedyarov, Parham Maghsoodloo, Santosh Gujrathi Vidit, Alexander Grischuk, Richard Rapport, Yangyi Yu, Alexey Sarana, Javokhir Sindarov, Nodirbek Yakubboev. Challengers: Aleksandar Indjic, Jakhongir Vakhidov, Abhijeet Gupta, Maxim Matlakov, Alexander Donchenko, Shamsiddin Vokhidov, Alexandr Predke, Evgeny Romanov, Mustafa Yilmaz, Aydin Suleymanli. and Futures: Bardiya Daneshvar, Mukhammadzokhid Suyarov, Sergei Tiviakov, Vitaliy Bernadskiy, Vitaly Sivuk, Vugar Rasulov, Khumoyun Begmuratov, Saidakbar Saydaliev, Mukhiddin Mada",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/uzchess-cup-2024",
-         "pubDate" : "Thu, 6 Jun 2024 23:19:00",
-         "title" : "UzChess Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3046",
-         "pubDate" : "Thu, 06 Jun 2024 22:57:13",
-         "title" : "FIDE announces finalists for 2024 World Corporate Chess Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3055",
-         "pubDate" : "Thu, 06 Jun 2024 22:53:28",
-         "title" : "Nepal Championship 2024: Rajan Subedi and Sindira Joshi claim titles"
-      },
-      {
-         "description" : " The 61st World Juniors and 40th World Junior Girls take place 1st to 14th June 2024 in GIFT City in Gandhinagar.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/61st-world-juniors-2024",
-         "pubDate" : "Thu, 6 Jun 2024 22:29:00",
-         "title" : "61st World Juniors 2024 - Games and Results"
       }
    ]
 }
