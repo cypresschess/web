@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana and D Gukesh continue to share the lead at the Superbet Chess Classic in Bucharest, as the one decisive result of round 2 saw Alireza Firouzja beating Nodirbek Abdusattorov. Since Firouzja had lost to Caruana in the first round, this victory only allowed him to return to a fifty-percent score. Importantly, co-leader Caruana failed to make the most of a clearly better position in his game with white against Wesley So. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-2",
+         "pubDate" : "Fri, 28 Jun 2024 12:15:00",
+         "title" : "Superbet Classic: Firouzja beats Abdusattorov, Caruana misses chance"
+      },
+      {
+         "description" : "The European Youth Team Chess Championship 2024 concluded yesterday in Rhodes, Greece. With the participation of 58 teams from 16 European federations, the event broke the participation record. The event was co-organised by the Chess Club of Rhodes \"Ippotis\" and the Region of South Aegean. The event was played in two age categories: U12 and U18, open and girls sections separately, with 7 rounds, swiss system, in each championship. The top-seeded team of Israel triumphed in the U18 section scoring []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-team-chess-champions-2024-crowned-in-rhodes-greece/",
+         "pubDate" : "Fri, 28 Jun 2024 09:44:59",
+         "title" : "European Youth Team Chess Champions 2024 crowned in Rhodes, Greece"
+      },
+      {
          "description" : "Knights are the pieces with the most complicated moves. Beginners know this, but professionals are also often painfully reminded of this when they overlook forks. Jan Markos goes in search of the secret life of the knights...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/90-today-happy-birthday-bernard-cafferty/",
          "pubDate" : "Thu, 27 Jun 2024 14:23:16",
          "title" : "90 today! Happy Birthday Bernard Cafferty"
-      },
-      {
-         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
-         "pubDate" : "Thu, 27 Jun 2024 13:50:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "",
