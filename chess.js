@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Knights are the pieces with the most complicated moves. Beginners know this, but professionals are also often painfully reminded of this when they overlook forks. Jan Markos goes in search of the secret life of the knights...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-markos-about-horses-which-feel-like-chicken",
+         "pubDate" : "Fri, 28 Jun 2024 09:14:42",
+         "title" : "Jan Markos about horses which feel like chicken"
+      },
+      {
+         "description" : " Gawain Jones won the English Open after a playoff with Michael Adams while the former Russian Elmira Mirzoeva is the women's champion Experienced grandmasters won both the Open and women's English championships at Kenilworth last weekend, but teenage talents made significant advances and even reached the prize list in both events. Pre-teens also narrowed the gap to the established stars. GM Gawain Jones, 36, won the open title after a speed playoff with the top seed and favourite, GM Michael Adams, 52, who had led until the final round and was also winning the tie-break until a spectacular own goal allowed checkmate in one. <a href=\"https://www.theguardian.com/sport/article/2024/jun/28/ches",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/jun/28/chess-jones-and-mirzoeva-win-english-championships-as-teenagers-impress",
+         "pubDate" : "Fri, 28 Jun 2024 07:00:20",
+         "title" : "Chess: Jones and Mirzoeva win English championships as teenagers impress"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Caruana&#039;s play of b6 and some inspiration in his defeat over Alireza Firouzja in Round 1 of the Grand Chess Tour in Bucharest. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chesstactics-fabianocaruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4nd9skTq8pw.jpg?itok=vSeIIjtT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chesstactics-fabianocaruana",
+         "pubDate" : "Fri, 28 Jun 2024 05:29:12",
+         "title" : "Caruana's Inspired Freestyle Against Alireza #GrandChessTour #chess #chesstactics #fabianocaruana"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In a complicated and doubled-edged position, Gukesh maneuvers his way to a first round victory over Bogdan Deac. Photograph by Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics-gukeshd\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YdwwP2k9_yw.jpg?itok=JLwuzEJs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics-gukeshd",
+         "pubDate" : "Fri, 28 Jun 2024 05:29:12",
+         "title" : "Gukesh D Defeats Deac #GrandChessTour #chess #chesstactics #gukeshd"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Starting the tournament in a topsy turvy manner, Alireza manages to stabilize and bounce back to defeat Nordibek in round 2 Photograph by Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-bounces-back-victory-grandchesstour-chess-chessopenings-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e63mMbAQg9I.jpg?itok=VoxQs-Dv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alireza-bounces-back-victory-grandchesstour-chess-chessopenings-chesstactics",
+         "pubDate" : "Fri, 28 Jun 2024 05:29:12",
+         "title" : "Alireza Bounces Back To Victory #GrandChessTour #chess #chessopenings #chesstactics"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111330727.cms\" />In the second round of the Superbet Chess Classic, India's D Gukesh and R Praggnanandhaa both secured draws against top opponents Ian Nepomniachtchi and Maxime Vachier-Lagrave, respectively. The tournament saw a twist when top seed Fabiano Caruana blundered, missing a win against Wesley So. Alireza Firouzja redeemed his earlier loss with a victory over Nodirbek Abdusattorov. Anish Giri also drew with Deac Bogdan-Daniel. Gukesh and Caruana lead with 1.5 points each, followed closely by others.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-chess-classic-r-praggnanandhaa-d-gukesh-secure-draws-against-top-opponents-in-round-2/articleshow/111330727.cms",
+         "pubDate" : "Fri, 28 Jun 2024 04:50:00",
+         "title" : "Superbet Chess: Pragg, Gukesh secure draws in Round 2"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Caruana&#039;s play of b6 and some inspiration in his defeat over Alireza Firouzja in Round 1 of the Grand Chess Tour in Bucharest. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-chessendgame\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4nd9skTq8pw.jpg?itok=vSeIIjtT\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -64,30 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nepo%E2%80%99s-goal-unchanged-candidates-two-years-superbetchessclassicromania",
          "pubDate" : "Thu, 27 Jun 2024 20:29:01",
          "title" : "Nepo's Goal Unchanged: Candidates in Two Years | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-3-grandchesstour\"><img src=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-3-grandchesstour",
-         "pubDate" : "Thu, 27 Jun 2024 17:28:53",
-         "title" : "Superbet Chess Classic 2024: Round 3 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The competitors give advice to players who would like to reach a high level of chess before the Superbet Chess Classic 2024. This aired during Round 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/advice-chess-players-reach-high-level-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9vXCAAGb7C8.jpg?itok=5EWHIAl2\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/advice-chess-players-reach-high-level-superbetchessclassicromania",
-         "pubDate" : "Thu, 27 Jun 2024 17:28:53",
-         "title" : "Advice for Chess Players to Reach High Level? | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In a complicated and doubled-edged position, Gukesh maneuvers his way to a first round victory over Bogdan Deac. Photograph by Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YdwwP2k9_yw.jpg?itok=JLwuzEJs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics",
-         "pubDate" : "Thu, 27 Jun 2024 14:28:47",
-         "title" : "Gukesh D Defeats Deac #GrandChessTour #chess #chesstactics"
       },
       {
          "description" : "Picture courtesy of John Upham / British Chess News. More tributes can be found here https://www.ecforum.org.uk/viewtopic.php?f=2&#38;t=14149 and a detailed look at Bernard's life...",
@@ -1144,22 +1168,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/",
          "pubDate" : "Fri, 07 Jun 2024 18:07:32",
          "title" : "Warren Seymour, legend of Bahamian chess, dies"
-      },
-      {
-         "description" : " Argentinian prodigy already has two international master norms and looks set to break more records while England's pre-teen talents are also making eye-catching progress Faustino Oro, just 10 years old, is already known as \"the Messi of chess\". The Argentinian boy burst on to the record books in 2023 when he became the youngest ever 2200-rated master level player at nine years, three months, followed by passing the 2300 mark just three months later. Oro's surge is continuing apace. Last week, at the Continental American Championship at Medellin, Colombia, he secured the second of three norms needed for the International Master (IM) title by reaching the required total of 6.5/9. The event wa",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/jun/07/faustino-oro-aged-10-and-known-as-the-messi-of-chess-advances-again",
-         "pubDate" : "Fri, 07 Jun 2024 07:00:44",
-         "title" : "Faustino Oro, aged 10 and known as 'the Messi of chess', advances again"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3051",
-         "pubDate" : "Fri, 07 Jun 2024 05:36:49",
-         "title" : "Refugee Team ready to compete on the global stage at Chess Olympiad"
       }
    ]
 }
