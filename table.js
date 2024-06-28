@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-06-26","26","<a href=http://www.uschess.org/msa/XtblMain.php?202406265592 target='_blank'>SHADOW CREEK SPORTS WEDNESDAY</a>",
 "HOUSTON","2024-06-04  - 06-25","32","<a href=http://www.uschess.org/msa/XtblMain.php?202406255032 target='_blank'>JUNE 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-06-25","29","<a href=http://www.uschess.org/msa/XtblMain.php?202406254922 target='_blank'>SHADOW CREEK SPORTS TUESDAY</a>",
 "HOUSTON","2024-06-22","25","<a href=http://www.uschess.org/msa/XtblMain.php?202406223002 target='_blank'>JUNE 22ND  2024 SATURDAY SWISS AT N</a>",
@@ -198,5 +199,4 @@ jtable([
 "CYPRESS","2023-12-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202312082952 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2023-12-08","10","<a href=http://www.uschess.org/msa/XtblMain.php?202312081812 target='_blank'>REBECCA CHESS CLUB QUADS DECEMBER 8, 2023</a>",
 "HOUSTON","2023-12-02  - 12-03","14","<a href=http://www.uschess.org/msa/XtblMain.php?202312039692 target='_blank'>U2000 - DEC 2 & 3</a>",
-"HOUSTON","2023-12-03","6","<a href=http://www.uschess.org/msa/XtblMain.php?202312035242 target='_blank'>GAME GUYS</a>",
 ]);
