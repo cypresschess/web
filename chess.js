@@ -10,6 +10,22 @@ news_feed (
          "title" : "Grandmasters two a penny?"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 3 of the Superbet Chess Classic. Taking place at the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-3-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/bl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-3-grandchesstour",
+         "pubDate" : "Fri, 28 Jun 2024 20:29:37",
+         "title" : "RECAP | Superbet Chess Classic 2024: Round 3 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> <h2 class=\"text-center text-3xl font-bold text-blue-600\">Saint Louis Chess Club Launches New Women's Initiative to Develop More American Female Grandmaster Chess Players</h2> <p class=\"mt-4 text-lg\"><strong>SAINT LOUIS, June 26, 2024</strong> - Tournament favorite Grandmaster (GM) Tan Zhongyi was crowned the winner of the 2024 Cairns Cup on Saturday, June 22, taking home a prize of $50,000. Created and hosted by the Saint Louis Chess Club, the Cairns Cup is one of the world's premier women's tournaments. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/news/grandmaster-tan-zhongyi-wins-2024-cairns-cup-and-50000-prize-saint-louis",
+         "pubDate" : "Fri, 28 Jun 2024 19:41:05",
+         "title" : "Grandmaster Tan Zhongyi Wins 2024 Cairns Cup and $50,000 Prize in Saint Louis"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Constantin Lupulescu talks to Anastasiya Karlovich during the second round of the Superbet Chess Classic 2024. This aired during Round 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lupulescu-if-deac-adjusts-time-control-he-will-do-well-r2-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7EWNEaRCl-c.jpg?itok=4qkog3dP\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -42,6 +58,14 @@ news_feed (
          "title" : "Caruana: Matching Young Players' Motivation is Difficult | #SuperbetChessClassicRomania"
       },
       {
+         "description" : "Despite lots of action on the boards, all of Friday&#39;s games in the third round of the Superbet Chess Classic Romania ended in draws. GMs Maxime Vachier-Lagrave and Praggnanandhaa Rameshbabu will be somewhat disappointed after spoiling winning posi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-3",
+         "pubDate" : "Fri, 28 Jun 2024 14:04:19",
+         "title" : "Vachier-Lagrave, Praggnanandhaa Let Opponents Off The Hook On Day of Draws"
+      },
+      {
          "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3093",
          "pubDate" : "Fri, 28 Jun 2024 13:00:07",
          "title" : "Newly revised \"Preparation of Lecturers\" course announced"
+      },
+      {
+         "description" : "GM Denis Lazavik sailed through day two of the 2024 Speed Chess Championship Play-in, winning all three of his matches to qualify for the main event. He played 14 games total on Friday&#38;mdash;against GMs Yuriy Kuzubov, M Pranesh, and Dmitry Andreik...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-play-in-knockout",
+         "pubDate" : "Fri, 28 Jun 2024 12:44:43",
+         "title" : "Lazavik Qualifies For SCC Main Event, Goes Undefeated On Day 2"
       },
       {
          "description" : "",
@@ -136,30 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-chessendgame",
          "pubDate" : "Fri, 28 Jun 2024 02:29:07",
          "title" : "Caruana's Inspired Freestyle Against Alireza #GrandChessTour #chess #chessopenings #chessendgame"
-      },
-      {
-         "description" : "FM Alisa Melekhina's photo report depicts her week at the Hotel Breezes resort in Nassau, Bahamas where she was one of four Americans competing in the Orjan Lindroth Memorial Open chess tournament, held from June 5 through 12, 2024. <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Views of Breezes Bahamas, the tournament hotel venue (Photos Tyrell Harriott) <br /><br /> Imagine celebrating a chess victory, or escaping from a devastating loss, by soaking up the Caribbean sun steps away from t",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/chess-paradise-fm-alisa-melekhinas-impressions-orjan-lindroth-memorial",
-         "pubDate" : "Fri, 28 Jun 2024 00:00:00",
-         "title" : "Chess in Paradise: FM Alisa Melekhina's Impressions From the Orjan Lindroth Memorial"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Praggnanandhaa R talks to Cristian Chirila after a draw against Vachier-Lagrave in Round 2 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/praggnanandhaa-nice-be-one-interviews-r2-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pW0rc8R-fmY.jpg?itok=-PXUWpwK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/praggnanandhaa-nice-be-one-interviews-r2-superbetchessclassicromania",
-         "pubDate" : "Thu, 27 Jun 2024 23:28:59",
-         "title" : "Praggnanandhaa: Nice to Be in One of the Interviews | R2 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Abdusattorov in Round 2 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-bounces-back-against-nodirbek-r2-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/O_aLH1mjPSo.jpg?itok=t5i70PEc\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-bounces-back-against-nodirbek-r2-superbetchessclassicromania",
-         "pubDate" : "Thu, 27 Jun 2024 23:28:59",
-         "title" : "Firouzja Bounces Back Against Nodirbek | R2 #SuperbetChessClassicRomania"
       },
       {
          "description" : "In an in-depth interview, the founder and CEO of ChessBase India, Sagar Shah, talks about how chess is developing in India and what projects are keeping him busy. The interview was conducted by Stefan Liebig for the German chess magazine Schach 64 and tells us about Sagar's professional career, and his work with top Indian talents.",
@@ -714,6 +722,14 @@ news_feed (
          "title" : "England Striker Harry Kane Reveals He's 'About 1200-Rated On Chess.com'"
       },
       {
+         "description" : "Every June, thousands of players flock to Las Vegas, but it's not to gamble (indeed, many of them have to wait upwards of a decade before they can hit the slot machines). With a plethora of side events, special guests, and lessons in addition to the perennially strong National Open, the Las Vegas Chess Festival is one of the most engaging tournaments of the year. This was also a milestone National Open for me: I've now played in this tournament for more than half the years I've been alive!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> GM Vasif Durarbayli, pictured here with the Edmonson Cup, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-las-vegas-chess-festival-durarbayli-wins-national-open",
+         "pubDate" : "Thu, 20 Jun 2024 00:00:00",
+         "title" : "2024 Las Vegas Chess Festival: Durarbayli Wins National Open"
+      },
+      {
          "description" : "GM Alexandra Kosteniuk has continued her run of decisive results at the Cairns Cup 2024 with a win over GM Mariya Muzychuk and now moves to 3.5/6, half a point behind the sole leader GM Tan Zhongyi. Draws on the remaining boards occurred with mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -890,14 +906,6 @@ news_feed (
          "title" : "Four teams in the finals of the World Corporate Chess Championship"
       },
       {
-         "description" : "Former Women&#39;s World Champion GM Tan Zhongyi scored a quick 20-move victory over defending champion IM Anna Zatonskih to move into the sole lead with three points after four rounds at the Cairns Cup 2024 in St. Louis. Tan is trailed by GMs Mariya ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-4",
-         "pubDate" : "Sun, 16 Jun 2024 22:57:00",
-         "title" : "Tan Zhongyi Sole Leader After Quick Victory"
-      },
-      {
          "description" : "For this month's Flickr favorite, I could have chosen another AI generated photo as in <A HREF=\"https://chessforallages.blogspot.com/2024/04/no-hunk-o-junk-here.html\">No Hunk-o'-Junk Here</A> (April 2024), but none of the three candidates on the short list were particularly inspiring. I was more intrigued by the photo shown below although there was almost no information about it. The description of the photo repeated its title and added only, <BLOCKQUOTE> Curt Schlevogt, Ingrid Collection </BLOCKQUOTE> <P> There were no tags offering further clues. This leads to the often asked question, 'What have we here?'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-of16.jpg\" WIDTH=400 ",
          "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
          "iconName" : "Chess for<br>All Ages",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3068",
          "pubDate" : "Sun, 16 Jun 2024 07:42:05",
          "title" : "WCCC 2024: The race for the smartest company in the world is on"
-      },
-      {
-         "description" : "IM Levy Rozman and FM Faustino Oro, two of the world&#39;s most popular chess players, have met for the first time in a tournament. It took place at the 2024 Madrid Chess Festival, which ran June 10-15 and featured two closed tournaments and one open....",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-levy-rozman-norms-madrid",
-         "pubDate" : "Sun, 16 Jun 2024 06:08:00",
-         "title" : "Faustino Oro, Levy Rozman Narrowly Miss Norms In Madrid"
       },
       {
          "description" : "",
@@ -1192,14 +1192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3057",
          "pubDate" : "Fri, 07 Jun 2024 23:49:57",
          "title" : "World Junior Championship 2024 crosses halfway mark"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3056",
-         "pubDate" : "Fri, 07 Jun 2024 22:08:56",
-         "title" : "FIDE Ethics Commission releases first instance decision on Case 11/2023"
       }
    ]
 }
