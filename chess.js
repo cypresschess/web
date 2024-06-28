@@ -11,6 +11,14 @@ news_feed (
       },
       {
          "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3093",
+         "pubDate" : "Fri, 28 Jun 2024 13:00:07",
+         "title" : "Newly revised \"Preparation of Lecturers\" course announced"
+      },
+      {
+         "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/counties-championship-2024/",
