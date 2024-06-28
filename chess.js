@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Caruana&#039;s play of b6 and some inspiration in his defeat over Alireza Firouzja in Round 1 of the Grand Chess Tour in Bucharest. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-chessendgame\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4nd9skTq8pw.jpg?itok=vSeIIjtT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-chessendgame",
+         "pubDate" : "Fri, 28 Jun 2024 02:29:07",
+         "title" : "Caruana's Inspired Freestyle Against Alireza #GrandChessTour #chess #chessopenings #chessendgame"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Praggnanandhaa R talks to Cristian Chirila after a draw against Vachier-Lagrave in Round 2 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/praggnanandhaa-nice-be-one-interviews-r2-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pW0rc8R-fmY.jpg?itok=-PXUWpwK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/praggnanandhaa-nice-be-one-interviews-r2-superbetchessclassicromania",
+         "pubDate" : "Thu, 27 Jun 2024 23:28:59",
+         "title" : "Praggnanandhaa: Nice to Be in One of the Interviews | R2 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Abdusattorov in Round 2 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-bounces-back-against-nodirbek-r2-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/O_aLH1mjPSo.jpg?itok=t5i70PEc\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-bounces-back-against-nodirbek-r2-superbetchessclassicromania",
+         "pubDate" : "Thu, 27 Jun 2024 23:28:59",
+         "title" : "Firouzja Bounces Back Against Nodirbek | R2 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw against Caruana in Round 2 of the Superbet Chess Classic 2024. 2024.06.27<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-saves-game-%E2%80%98thanks-new-time-control%E2%80%99-r2-superbetchessclassicromania",
+         "pubDate" : "Thu, 27 Jun 2024 23:28:59",
+         "title" : "Wesley So Saves Game 'Thanks to New Time Control' | R2 #SuperbetChessClassicRomania"
+      },
+      {
          "description" : "In an in-depth interview, the founder and CEO of ChessBase India, Sagar Shah, talks about how chess is developing in India and what projects are keeping him busy. The interview was conducted by Stefan Liebig for the German chess magazine Schach 64 and tells us about Sagar's professional career, and his work with top Indian talents.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +82,7 @@ news_feed (
          "title" : "Advice for Chess Players to Reach High Level? | #SuperbetChessClassicRomania"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> In a complicated and doubled-edged position, Gukesh maneuvers his way to a first round victory over Bogdan Deac. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YdwwP2k9_yw.jpg?itok=JLwuzEJs\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> In a complicated and doubled-edged position, Gukesh maneuvers his way to a first round victory over Bogdan Deac. Photograph by Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YdwwP2k9_yw.jpg?itok=JLwuzEJs\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics",
@@ -146,14 +178,6 @@ news_feed (
          "title" : "Tech Mahindra Global Chess League to host its second edition in London"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Caruana&#039;s play of b6 and some inspiration in his defeat over Alireza Firouzja in Round 1 of the Grand Chess Tour in Bucharest. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-jazzmusic\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4nd9skTq8pw.jpg?itok=vSeIIjtT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-jazzmusic",
-         "pubDate" : "Thu, 27 Jun 2024 05:28:30",
-         "title" : "Caruana's Inspired Freestyle Against Alireza #GrandChessTour #chess #chessopenings #jazzmusic"
-      },
-      {
          "description" : "GM Hans Niemann won a Super Grandmaster Match, with a prize fund of $50,000, against GM Vidit Gujrathi on June 22, 2024. The Universal Chess Tour (UCT) chose Niemann and Gujrathi for their chess credentials and for their abilities to attract media coverage and fans. National Football League (NFL) player Chidobe Awuzie bested other celebrities in rapid chess.<br /><br /> The Super Grandmaster Match happened at the NYTEX Sports Centre in North Richland Hills, Texas, a city in the Dallas-Fort Worth Metroplex. The arena matches served as a main attraction and novel selling point for the UCT's Universal Chess Open, held June 20 through 23 in the same location. All participants in the Open receive",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -168,30 +192,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3090",
          "pubDate" : "Wed, 26 Jun 2024 21:10:16",
          "title" : "Don't miss out: Registration deadline for the FIDE World Rapid and Blitz Team Championships approaching"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-2-grandchesstour\"><img src=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-2-grandchesstour",
-         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
-         "title" : "Superbet Chess Classic 2024: Round 2 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Join Anastasiya Karlovich at the opening ceremony and drawing of lots at the Grand Hotel Bucharest for the Superbet Chess Classic 2024. This aired during Round 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vishy-opening-ceremony-people-are-excited-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xFx9TfkpgTc.jpg?itok=cWGKYa4s\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/vishy-opening-ceremony-people-are-excited-superbetchessclassicromania",
-         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
-         "title" : "Vishy at Opening Ceremony: People Are Excited! | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after a draw against Nepomniachtchi in Round 1 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-tries-stay-competitive-%E2%80%99solid-younger-generation%E2%80%99-r1-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lsknTteyT2g.jpg?itok=FES2YSx3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-tries-stay-competitive-%E2%80%99solid-younger-generation%E2%80%99-r1-superbetchessclassicromania",
-         "pubDate" : "Wed, 26 Jun 2024 20:28:25",
-         "title" : "MVL Tries to Stay Competitive with 'Solid Younger Generation' | R1 #SuperbetChessClassicRomania"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Backed by <strong>Magnus Carlsen</strong> the Oslo-based startup <strong>Fantasychess</strong> <a href=\"https://www.forbes.com/sites/alexkonrad/2024/06/25/fantasy-chess-magnus-carlsen-startup-raises-millions/#:~:text=Fantasy%20Chess%20founder%20Magnus%20Carlsen,and%20streaming%20startup%20in%20chess.\">has raised $3million</a> in 2023 and is <a href=\"https://www.fantasychess.app/careers\">currently hiring</a> a CFO, head of content, fullstack developer, designer and also invites open applications. </div> ",
