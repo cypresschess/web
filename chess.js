@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
+         "pubDate" : "Fri, 28 Jun 2024 13:50:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/counties-championship-2024/",
+         "pubDate" : "Fri, 28 Jun 2024 12:22:31",
+         "title" : "2024 County Championships finals start 29/6/24"
+      },
+      {
          "description" : "Fabiano Caruana and D Gukesh continue to share the lead at the Superbet Chess Classic in Bucharest, as the one decisive result of round 2 saw Alireza Firouzja beating Nodirbek Abdusattorov. Since Firouzja had lost to Caruana in the first round, this victory only allowed him to return to a fifty-percent score. Importantly, co-leader Caruana failed to make the most of a clearly better position in his game with white against Wesley So. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
