@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "When FIDE created the inaugural list of grandmasters, in 1950, there were 27 of them. Today, there are more than 1,850. \"There are too many grandmasters,\" said GM Nigel Short, FIDE director for chess development. \"To call me grandmaster adds nothing. They are two a penny.\" Dylan Loeb McClain writes about the situation in this interesting New York Times article.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grandmasters-two-a-penny",
+         "pubDate" : "Fri, 28 Jun 2024 21:00:00",
+         "title" : "Grandmasters two a penny?"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Constantin Lupulescu talks to Anastasiya Karlovich during the second round of the Superbet Chess Classic 2024. This aired during Round 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lupulescu-if-deac-adjusts-time-control-he-will-do-well-r2-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7EWNEaRCl-c.jpg?itok=4qkog3dP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lupulescu-if-deac-adjusts-time-control-he-will-do-well-r2-superbetchessclassicromania",
+         "pubDate" : "Fri, 28 Jun 2024 17:29:27",
+         "title" : "Lupulescu: If Deac Adjusts to Time Control, He Will Do Well | R2 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The competitors talk about how they balance chess with their hobbies, family, and life before the Superbet Chess Classic 2024. This aired during Round 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/balancing-chess-career-life-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bIZf_MjdM1o.jpg?itok=NbTPycml\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/balancing-chess-career-life-superbetchessclassicromania",
+         "pubDate" : "Fri, 28 Jun 2024 17:29:27",
+         "title" : "Balancing Chess Career with Life? | #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-4-grandchesstour\"><img src=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-4-grandchesstour",
+         "pubDate" : "Fri, 28 Jun 2024 17:29:27",
+         "title" : "Superbet Chess Classic 2024: Round 4 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-matching-young-players%E2%80%99-motivation-difficult-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aL2M-F6e0s4.jpg?itok=SSNIVLkj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-matching-young-players%E2%80%99-motivation-difficult-superbetchessclassicromania",
+         "pubDate" : "Fri, 28 Jun 2024 17:29:27",
+         "title" : "Caruana: Matching Young Players' Motivation is Difficult | #SuperbetChessClassicRomania"
+      },
+      {
          "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -98,6 +138,14 @@ news_feed (
          "title" : "Caruana's Inspired Freestyle Against Alireza #GrandChessTour #chess #chessopenings #chessendgame"
       },
       {
+         "description" : "FM Alisa Melekhina's photo report depicts her week at the Hotel Breezes resort in Nassau, Bahamas where she was one of four Americans competing in the Orjan Lindroth Memorial Open chess tournament, held from June 5 through 12, 2024. <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Views of Breezes Bahamas, the tournament hotel venue (Photos Tyrell Harriott) <br /><br /> Imagine celebrating a chess victory, or escaping from a devastating loss, by soaking up the Caribbean sun steps away from t",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/chess-paradise-fm-alisa-melekhinas-impressions-orjan-lindroth-memorial",
+         "pubDate" : "Fri, 28 Jun 2024 00:00:00",
+         "title" : "Chess in Paradise: FM Alisa Melekhina's Impressions From the Orjan Lindroth Memorial"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Praggnanandhaa R talks to Cristian Chirila after a draw against Vachier-Lagrave in Round 2 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/praggnanandhaa-nice-be-one-interviews-r2-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pW0rc8R-fmY.jpg?itok=-PXUWpwK\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -114,44 +162,12 @@ news_feed (
          "title" : "Firouzja Bounces Back Against Nodirbek | R2 #SuperbetChessClassicRomania"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw against Caruana in Round 2 of the Superbet Chess Classic 2024. 2024.06.27<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-saves-game-%E2%80%98thanks-new-time-control%E2%80%99-r2-superbetchessclassicromania",
-         "pubDate" : "Thu, 27 Jun 2024 23:28:59",
-         "title" : "Wesley So Saves Game 'Thanks to New Time Control' | R2 #SuperbetChessClassicRomania"
-      },
-      {
          "description" : "In an in-depth interview, the founder and CEO of ChessBase India, Sagar Shah, talks about how chess is developing in India and what projects are keeping him busy. The interview was conducted by Stefan Liebig for the German chess magazine Schach 64 and tells us about Sagar's professional career, and his work with top Indian talents.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/all-about-chessbase-india",
          "pubDate" : "Thu, 27 Jun 2024 21:00:00",
          "title" : "All about ChessBase India"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The Superbet Chess Classic 2024 team looks back on the evening of Round 1, where the Romania national football team scored 1-1 with Slovakia to advance to the Round of 16 in UEFA Euro 2024. This aired during Round 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/football-fever-grips-romania-r2-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0hWHZOd8Q",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/football-fever-grips-romania-r2-superbetchessclassicromania",
-         "pubDate" : "Thu, 27 Jun 2024 20:29:01",
-         "title" : "Football Fever Grips Romania! | R2 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 2 of the Superbet Chess Classic. Taking place at the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-2-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/bl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-2-grandchesstour",
-         "pubDate" : "Thu, 27 Jun 2024 20:29:01",
-         "title" : "RECAP | Superbet Chess Classic 2024: Round 2 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo%E2%80%99s-goal-unchanged-candidates-two-years-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4sS524oEYog.jpg?itok=VWy3NCWh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo%E2%80%99s-goal-unchanged-candidates-two-years-superbetchessclassicromania",
-         "pubDate" : "Thu, 27 Jun 2024 20:29:01",
-         "title" : "Nepo's Goal Unchanged: Candidates in Two Years | #SuperbetChessClassicRomania"
       },
       {
          "description" : "Picture courtesy of John Upham / British Chess News. More tributes can be found here https://www.ecforum.org.uk/viewtopic.php?f=2&#38;t=14149 and a detailed look at Bernard's life...",
@@ -698,14 +714,6 @@ news_feed (
          "title" : "England Striker Harry Kane Reveals He's 'About 1200-Rated On Chess.com'"
       },
       {
-         "description" : "Every June, thousands of players flock to Las Vegas, but it's not to gamble (indeed, many of them have to wait upwards of a decade before they can hit the slot machines). With a plethora of side events, special guests, and lessons in addition to the perennially strong National Open, the Las Vegas Chess Festival is one of the most engaging tournaments of the year. This was also a milestone National Open for me: I've now played in this tournament for more than half the years I've been alive!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> GM Vasif Durarbayli, pictured here with the Edmonson Cup, ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-las-vegas-chess-festival-durarbayli-wins-national-open",
-         "pubDate" : "Thu, 20 Jun 2024 00:00:00",
-         "title" : "2024 Las Vegas Chess Festival: Durarbayli Wins National Open"
-      },
-      {
          "description" : "GM Alexandra Kosteniuk has continued her run of decisive results at the Cairns Cup 2024 with a win over GM Mariya Muzychuk and now moves to 3.5/6, half a point behind the sole leader GM Tan Zhongyi. Draws on the remaining boards occurred with mi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3056",
          "pubDate" : "Fri, 07 Jun 2024 22:08:56",
          "title" : "FIDE Ethics Commission releases first instance decision on Case 11/2023"
-      },
-      {
-         "description" : " According to press reports, Bahamas chess legend Warren Seymour passed away Tuesday morning, and the country now mourns his loss. If anyone can be called the &#8220;father&#8221; of Bahamaian chess, it would be Mr. Seymour. He is widely known in the country as one who single-handedly put chess on the map. Mr. Seymour brought the The post <a href=\"https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/\">Warren Seymour, legend of Bahamian chess, dies</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/06/07/warren-seymour-legend-of-bahamian-chess-dies/",
-         "pubDate" : "Fri, 07 Jun 2024 18:07:32",
-         "title" : "Warren Seymour, legend of Bahamian chess, dies"
       }
    ]
 }
