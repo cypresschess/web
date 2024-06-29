@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
+         "pubDate" : "Sat, 29 Jun 2024 13:50:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "Do you like to get attacked? Most of us don't. That's why, especially in bad positions, you should aim to pose threats to your opponent. The engine might laugh at you, but your human opponent will likely be scared and more prone to make mistakes. That's called playing practical chess. In this article, I show []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/practical-chess/",
+         "pubDate" : "Sat, 29 Jun 2024 12:45:00",
+         "title" : "How to play practical chess"
+      },
+      {
          "description" : "Chess and music are frequently connected, indeed rightly so. Of celebrated composers, Sergei Prokofiev was a talented player of master strength. Aggressive and tactical in style, the composer of the heroic score for Alexander Nevsky and the romantic ballet, Romeo and Juliet, once defeated Capablanca in a simultaneous display. His surviving games gave ample evidence []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/its-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom",
          "pubDate" : "Sat, 29 Jun 2024 05:29:56",
          "title" : "It's The Endgame #Grandchesstour #chess #chesstactics #chessendgame #chesscom"
+      },
+      {
+         "description" : "15th World Chess Champion Viswanathan Anand defeated one of his great rivals GM Veselin Topalov 2.5-1.5 on Friday to reach the Final of the 2024 Leon Masters. He&#39;ll face the winner of Saturday&#39;s Semifinal between GM Arjun Erigaisi and local hero G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-leon-masters-semifinals-1",
+         "pubDate" : "Sat, 29 Jun 2024 04:58:00",
+         "title" : "Anand Beats Topalov As Indian Legend Hunts 10th Leon Masters Title"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after a draw against Nepomniachtchi in Round 3 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-no-birthday-celebration-pragg-next-r3-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DOTZys7nYbU.jpg?itok=YcT1R4aj\" alt=\"\" /></a></div>",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-3",
          "pubDate" : "Fri, 28 Jun 2024 14:04:00",
          "title" : "Vachier-Lagrave, Praggnanandhaa Let Opponents Off The Hook On Day of Draws"
-      },
-      {
-         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
-         "pubDate" : "Fri, 28 Jun 2024 13:50:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "",
@@ -898,14 +914,6 @@ news_feed (
          "title" : "Epic spectacle this Christmas: FIDE World Rapid and Blitz Championships come to New York"
       },
       {
-         "description" : "The 2024 FIDE World Rapid and Blitz Championships are scheduled to take place in the last week of December in New York, FIDE announced on Monday. The two championships, traditionally held over five days between Christmas and the New Year, are the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-chess-championships-held-in-new-york",
-         "pubDate" : "Mon, 17 Jun 2024 12:41:00",
-         "title" : "2024 FIDE World Rapid & Blitz Championships To Be Held In New York"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1168,14 +1176,6 @@ news_feed (
          "link" : "https://www.europechess.org/turkey-wins-12-golds-at-the-european-school-chess-championship-2024/",
          "pubDate" : "Sat, 08 Jun 2024 15:24:43",
          "title" : "Turkey wins 12 golds at the European School Chess Championship 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3058",
-         "pubDate" : "Sat, 08 Jun 2024 12:52:05",
-         "title" : "Magnus Carlsen and Ju Wenjun winners at Norway Chess tournaments"
       }
    ]
 }
