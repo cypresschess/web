@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chess and music are frequently connected, indeed rightly so. Of celebrated composers, Sergei Prokofiev was a talented player of master strength. Aggressive and tactical in style, the composer of the heroic score for Alexander Nevsky and the romantic ballet, Romeo and Juliet, once defeated Capablanca in a simultaneous display. His surviving games gave ample evidence []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/music-chess-and-the-harmonies-of-the-world/",
+         "pubDate" : "Sat, 29 Jun 2024 10:23:46",
+         "title" : "Music, chess and the harmonies of the world"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111360180.cms\" />Round three of the Superbet Classic saw Indian Grandmaster R Praggnanandhaa miss a chance to claim the lead after drawing with compatriot D Gukesh. Gukesh remains tied at the top with Fabiano Caruana, while Praggnanandhaa is in a tie for third. A rematch of their previous encounter, the game saw promising chances for Praggnanandhaa, but ended in a draw after a critical error by Gukesh. All five games in this round ended in draws, leaving the leaderboard unchanged.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-misses-out-on-joint-leader-spot-after-draw-against-d-gukesh-at-superbet-classic-chess-tournament/articleshow/111360180.cms",
+         "pubDate" : "Sat, 29 Jun 2024 08:21:36",
+         "title" : "Pragg misses joint leader spot after draw against Gukesh"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> GM Evgeny &quot;Miro&quot; Miroshnichenko explains what happens to the misplaced bishop </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/miro-explains-ba2-grandchesstour-chess-chesstactics-chessblunders-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qtnsu9la7wY.jpg?itok=emWScaDr\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1160,14 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3058",
          "pubDate" : "Sat, 08 Jun 2024 12:52:05",
          "title" : "Magnus Carlsen and Ju Wenjun winners at Norway Chess tournaments"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110818221.cms\" />Indian Grandmaster R Praggnanandhaa finished third at the Norway Chess tournament as Magnus Carlsen emerged victorious in Stavanger.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-praggnanandhaa-beats-nakamura-carlsen-wins-title/articleshow/110818221.cms",
-         "pubDate" : "Sat, 08 Jun 2024 09:45:03",
-         "title" : "Norway Chess: Praggnanandhaa beats Nakamura; Carlsen wins title"
       }
    ]
 }
