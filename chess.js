@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Global Chess League, a joint initiative between the International Chess Federation and Tech Mahindra, is set for a highly anticipated second edition in London. The 10-day, one-of-a-kind chess league featuring top players will take place at Friends House, located in the heart of central London, from October 3 to 12. Building on the success of its first season, the league aims to further broaden the viewership base through live broadcasts, interactive fan experiences, and community engagement activities.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-2024-preview",
+         "pubDate" : "Sat, 29 Jun 2024 21:00:00",
+         "title" : "In October: Global Chess League to take place in London"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser shares a story behind the &quot;ugliest bishop&quot; played by Anatoly Karpov against Joel Lautier </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/karpovs-ugliest-bishop-grandchesstour-chess-chessgrandmaster-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vHpZtv8CkGk.jpg?itok=VEDM3e8m\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/karpovs-ugliest-bishop-grandchesstour-chess-chessgrandmaster-chesscom",
+         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
+         "title" : "Karpov's Ugliest Bishop #grandchesstour #chess #chessgrandmaster #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser explains kings of opposite flanks </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-safe-grandchesstour-chess-chesstactics-chessforbeginners-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JBjo-pAzK_4.jpg?itok=gme2xBpR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/king-safe-grandchesstour-chess-chesstactics-chessforbeginners-chesscom",
+         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
+         "title" : "Is The King Safe #Grandchesstour #chess #chesstactics #chessforbeginners #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Garry Kasparov shares blindfold analysis with Jan Smeets, Anish Giri's second, during Round 4 of the Superbet Chess Classic 2024. This did not air during the broadcast. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-kasparov-analyzes-jan-smeets-r4-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7aY8x5EsyCw.jpg?itok=fZGFt5tW\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-kasparov-analyzes-jan-smeets-r4-superbetchessclassicromania",
+         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
+         "title" : "EXCLUSIVE: Kasparov Analyzes with Jan Smeets | R4 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila and offers analysis during Round 4 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-talent-needs-right-atmosphere-be-discovered-r4-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SBWtqtqIcAc.jpg?itok=L7Cd-EZm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-talent-needs-right-atmosphere-be-discovered-r4-superbetchessclassicromania",
+         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
+         "title" : "Kasparov: Talent Needs Right Atmosphere to Be Discovered | R4 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 4. 2024.06.25<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidd",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-ding-doesn%E2%80%99t-matter-what-form-he-superbetchessclassicromania",
+         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
+         "title" : "Gukesh on Ding: Doesn't Matter What Form He is In | #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Cristian Chirila enjoys a pretzel (with cherries in it!) and water during Round 4 of the Superbet Chess Classic 2024. The commentators discuss the provisions for the players. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirila%E2%80%99s-favorite-pretzel-%E2%80%98you-made-buffoonery-it%E2%80%99-r4-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jJXv",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chirila%E2%80%99s-favorite-pretzel-%E2%80%98you-made-buffoonery-it%E2%80%99-r4-superbetchessclassicromania",
+         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
+         "title" : "Chirila's Favorite Pretzel: 'You Made Buffoonery of It!' | R4 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Cristian Chirila after a draw against Firouzja in Round 4 of the Superbet Chess Classic 2024. 2024.06.29<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-kasparov-joked-alireza-getting-old-r4-superbetchessclassicromania",
+         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
+         "title" : "Gukesh: Kasparov Joked That Alireza is Getting Old! | R4 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The competitors are asked to reveal their key strategies to prepare for their opponents before the Superbet Chess Classic 2024. This aired during Round 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/key-strategies-prepare-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pvf8VFRjLZI.jpg?itok=sH1isBHg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/key-strategies-prepare-superbetchessclassicromania",
+         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
+         "title" : "Key Strategies to Prepare? | #SuperbetChessClassicRomania"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -58,76 +130,12 @@ news_feed (
          "title" : "Miro Explains Ba2? #Grandchesstour #chess #chesstactics #chessblunders #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Yasser shares a story behind the &quot;ugliest bishop&quot; played by Anatoly Karpov against Joel Lautier </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ugliest-bishop-grandchesstour-chess-chessgrandmaster-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vHpZtv8CkGk.jpg?itok=VEDM3e8m\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ugliest-bishop-grandchesstour-chess-chessgrandmaster-chesscom",
-         "pubDate" : "Sat, 29 Jun 2024 05:29:56",
-         "title" : "Ugliest Bishop #grandchesstour #chess #chessgrandmaster #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser explains kings of opposite flanks </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-explains-long-castling-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JBjo-pAzK_4.jpg?itok=gme2xBpR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yasser-explains-long-castling-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Sat, 29 Jun 2024 05:29:56",
-         "title" : "Yasser Explains: Long Castling #Grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Miro takes a peak at the brilliancy behind Kg3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hb7mV0tZ5Tw.jpg?itok=NePdbbFa\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/its-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom",
-         "pubDate" : "Sat, 29 Jun 2024 05:29:56",
-         "title" : "It's The Endgame #Grandchesstour #chess #chesstactics #chessendgame #chesscom"
-      },
-      {
          "description" : "15th World Chess Champion Viswanathan Anand defeated one of his great rivals GM Veselin Topalov 2.5-1.5 on Friday to reach the Final of the 2024 Leon Masters. He&#39;ll face the winner of Saturday&#39;s Semifinal between GM Arjun Erigaisi and local hero G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-leon-masters-semifinals-1",
          "pubDate" : "Sat, 29 Jun 2024 04:58:00",
          "title" : "Anand Beats Topalov As Indian Legend Hunts 10th Leon Masters Title"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after a draw against Nepomniachtchi in Round 3 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-no-birthday-celebration-pragg-next-r3-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DOTZys7nYbU.jpg?itok=YcT1R4aj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-no-birthday-celebration-pragg-next-r3-superbetchessclassicromania",
-         "pubDate" : "Fri, 28 Jun 2024 23:29:49",
-         "title" : "Giri: No Birthday Celebration; Pragg Up Next! | R3 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nodirbek Abdusattorov talks to Cristian Chirila after a draw against Caruana in Round 3 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abdusattorov-need-play-faster-trust-instincts-r3-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UwCP5mKDgCM.jpg?itok=fJ5PLnG0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/abdusattorov-need-play-faster-trust-instincts-r3-superbetchessclassicromania",
-         "pubDate" : "Fri, 28 Jun 2024 23:29:49",
-         "title" : "Abdusattorov: Need to Play Faster, Trust Instincts | R3 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team profiles Caruana, Nepomniachtchi, Abdusattorov, Wesley So, Firouzja, Vachier-Lagrave, Praggnanandhaa, Giri, Gukesh, and Deac of the Superbet Chess Classic 2024. This aired during Round 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/meet-2024-players-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5XwMLvTLCik.jpg?itok=JNzcigqr\" alt=\"\" /></a",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/meet-2024-players-superbetchessclassicromania",
-         "pubDate" : "Fri, 28 Jun 2024 23:29:49",
-         "title" : "Meet The 2024 Players | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after a draw against Firouzja in Round 3 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-ali-fighting-player-r3-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q1c1puxwgSo.jpg?itok=Apmny8Fm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-ali-fighting-player-r3-superbetchessclassicromania",
-         "pubDate" : "Fri, 28 Jun 2024 23:29:49",
-         "title" : "MVL: Ali is a Fighting Player | R3 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-5-grandchesstour\"><img src=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-5-grandchesstour",
-         "pubDate" : "Fri, 28 Jun 2024 23:29:49",
-         "title" : "Superbet Chess Classic 2024: Round 5 | #GrandChessTour"
       },
       {
          "description" : "When FIDE created the inaugural list of grandmasters, in 1950, there were 27 of them. Today, there are more than 1,850. \"There are too many grandmasters,\" said GM Nigel Short, FIDE director for chess development. \"To call me grandmaster adds nothing. They are two a penny.\" Dylan Loeb McClain writes about the situation in this interesting New York Times article.",
