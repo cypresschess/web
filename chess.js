@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> GM Evgeny &quot;Miro&quot; Miroshnichenko explains what happens to the misplaced bishop </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/miro-explains-ba2-grandchesstour-chess-chesstactics-chessblunders-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qtnsu9la7wY.jpg?itok=emWScaDr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/miro-explains-ba2-grandchesstour-chess-chesstactics-chessblunders-chesscom",
+         "pubDate" : "Sat, 29 Jun 2024 05:29:56",
+         "title" : "Miro Explains Ba2? #Grandchesstour #chess #chesstactics #chessblunders #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser shares a story behind the &quot;ugliest bishop&quot; played by Anatoly Karpov against Joel Lautier </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/ugliest-bishop-grandchesstour-chess-chessgrandmaster-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vHpZtv8CkGk.jpg?itok=VEDM3e8m\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ugliest-bishop-grandchesstour-chess-chessgrandmaster-chesscom",
+         "pubDate" : "Sat, 29 Jun 2024 05:29:56",
+         "title" : "Ugliest Bishop #grandchesstour #chess #chessgrandmaster #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser explains kings of opposite flanks </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-explains-long-castling-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JBjo-pAzK_4.jpg?itok=gme2xBpR\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yasser-explains-long-castling-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Sat, 29 Jun 2024 05:29:56",
+         "title" : "Yasser Explains: Long Castling #Grandchesstour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Miro takes a peak at the brilliancy behind Kg3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/its-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hb7mV0tZ5Tw.jpg?itok=NePdbbFa\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/its-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom",
+         "pubDate" : "Sat, 29 Jun 2024 05:29:56",
+         "title" : "It's The Endgame #Grandchesstour #chess #chesstactics #chessendgame #chesscom"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after a draw against Nepomniachtchi in Round 3 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-no-birthday-celebration-pragg-next-r3-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DOTZys7nYbU.jpg?itok=YcT1R4aj\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,46 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/grandmasters-two-a-penny",
          "pubDate" : "Fri, 28 Jun 2024 21:00:00",
          "title" : "Grandmasters two a penny?"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 3 of the Superbet Chess Classic. Taking place at the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-3-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/bl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-3-grandchesstour",
-         "pubDate" : "Fri, 28 Jun 2024 20:29:37",
-         "title" : "RECAP | Superbet Chess Classic 2024: Round 3 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> <h2 class=\"text-center text-3xl font-bold text-blue-600\">Saint Louis Chess Club Launches New Women's Initiative to Develop More American Female Grandmaster Chess Players</h2> <p class=\"mt-4 text-lg\"><strong>SAINT LOUIS, June 26, 2024</strong> - Tournament favorite Grandmaster (GM) Tan Zhongyi was crowned the winner of the 2024 Cairns Cup on Saturday, June 22, taking home a prize of $50,000. Created and hosted by the Saint Louis Chess Club, the Cairns Cup is one of the world's premier women's tournaments. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/news/grandmaster-tan-zhongyi-wins-2024-cairns-cup-and-50000-prize-saint-louis",
-         "pubDate" : "Fri, 28 Jun 2024 19:41:05",
-         "title" : "Grandmaster Tan Zhongyi Wins 2024 Cairns Cup and $50,000 Prize in Saint Louis"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Constantin Lupulescu talks to Anastasiya Karlovich during the second round of the Superbet Chess Classic 2024. This aired during Round 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lupulescu-if-deac-adjusts-time-control-he-will-do-well-r2-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7EWNEaRCl-c.jpg?itok=4qkog3dP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lupulescu-if-deac-adjusts-time-control-he-will-do-well-r2-superbetchessclassicromania",
-         "pubDate" : "Fri, 28 Jun 2024 17:29:27",
-         "title" : "Lupulescu: If Deac Adjusts to Time Control, He Will Do Well | R2 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The competitors talk about how they balance chess with their hobbies, family, and life before the Superbet Chess Classic 2024. This aired during Round 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/balancing-chess-career-life-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bIZf_MjdM1o.jpg?itok=NbTPycml\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/balancing-chess-career-life-superbetchessclassicromania",
-         "pubDate" : "Fri, 28 Jun 2024 17:29:27",
-         "title" : "Balancing Chess Career with Life? | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-4-grandchesstour\"><img src=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-4-grandchesstour",
-         "pubDate" : "Fri, 28 Jun 2024 17:29:27",
-         "title" : "Superbet Chess Classic 2024: Round 4 | #GrandChessTour"
       },
       {
          "description" : "Despite lots of action on the boards, all of Friday&#39;s games in the third round of the Superbet Chess Classic Romania ended in draws. GMs Maxime Vachier-Lagrave and Praggnanandhaa Rameshbabu will be somewhat disappointed after spoiling winning posi...",
