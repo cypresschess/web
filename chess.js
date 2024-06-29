@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after a draw against Nepomniachtchi in Round 3 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-no-birthday-celebration-pragg-next-r3-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DOTZys7nYbU.jpg?itok=YcT1R4aj\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-no-birthday-celebration-pragg-next-r3-superbetchessclassicromania",
+         "pubDate" : "Fri, 28 Jun 2024 23:29:49",
+         "title" : "Giri: No Birthday Celebration; Pragg Up Next! | R3 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nodirbek Abdusattorov talks to Cristian Chirila after a draw against Caruana in Round 3 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abdusattorov-need-play-faster-trust-instincts-r3-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UwCP5mKDgCM.jpg?itok=fJ5PLnG0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/abdusattorov-need-play-faster-trust-instincts-r3-superbetchessclassicromania",
+         "pubDate" : "Fri, 28 Jun 2024 23:29:49",
+         "title" : "Abdusattorov: Need to Play Faster, Trust Instincts | R3 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team profiles Caruana, Nepomniachtchi, Abdusattorov, Wesley So, Firouzja, Vachier-Lagrave, Praggnanandhaa, Giri, Gukesh, and Deac of the Superbet Chess Classic 2024. This aired during Round 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/meet-2024-players-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5XwMLvTLCik.jpg?itok=JNzcigqr\" alt=\"\" /></a",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/meet-2024-players-superbetchessclassicromania",
+         "pubDate" : "Fri, 28 Jun 2024 23:29:49",
+         "title" : "Meet The 2024 Players | #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after a draw against Firouzja in Round 3 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-ali-fighting-player-r3-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q1c1puxwgSo.jpg?itok=Apmny8Fm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-ali-fighting-player-r3-superbetchessclassicromania",
+         "pubDate" : "Fri, 28 Jun 2024 23:29:49",
+         "title" : "MVL: Ali is a Fighting Player | R3 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-5-grandchesstour\"><img src=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-5-grandchesstour",
+         "pubDate" : "Fri, 28 Jun 2024 23:29:49",
+         "title" : "Superbet Chess Classic 2024: Round 5 | #GrandChessTour"
+      },
+      {
          "description" : "When FIDE created the inaugural list of grandmasters, in 1950, there were 27 of them. Today, there are more than 1,850. \"There are too many grandmasters,\" said GM Nigel Short, FIDE director for chess development. \"To call me grandmaster adds nothing. They are two a penny.\" Dylan Loeb McClain writes about the situation in this interesting New York Times article.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,19 +90,11 @@ news_feed (
          "title" : "Superbet Chess Classic 2024: Round 4 | #GrandChessTour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-matching-young-players%E2%80%99-motivation-difficult-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aL2M-F6e0s4.jpg?itok=SSNIVLkj\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-matching-young-players%E2%80%99-motivation-difficult-superbetchessclassicromania",
-         "pubDate" : "Fri, 28 Jun 2024 17:29:27",
-         "title" : "Caruana: Matching Young Players' Motivation is Difficult | #SuperbetChessClassicRomania"
-      },
-      {
          "description" : "Despite lots of action on the boards, all of Friday&#39;s games in the third round of the Superbet Chess Classic Romania ended in draws. GMs Maxime Vachier-Lagrave and Praggnanandhaa Rameshbabu will be somewhat disappointed after spoiling winning posi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-3",
-         "pubDate" : "Fri, 28 Jun 2024 14:04:19",
+         "pubDate" : "Fri, 28 Jun 2024 14:04:00",
          "title" : "Vachier-Lagrave, Praggnanandhaa Let Opponents Off The Hook On Day of Draws"
       },
       {
@@ -86,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-play-in-knockout",
-         "pubDate" : "Fri, 28 Jun 2024 12:44:43",
+         "pubDate" : "Fri, 28 Jun 2024 12:44:00",
          "title" : "Lazavik Qualifies For SCC Main Event, Goes Undefeated On Day 2"
       },
       {
@@ -130,44 +162,12 @@ news_feed (
          "title" : "Chess: Jones and Mirzoeva win English championships as teenagers impress"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Caruana&#039;s play of b6 and some inspiration in his defeat over Alireza Firouzja in Round 1 of the Grand Chess Tour in Bucharest. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chesstactics-fabianocaruana\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4nd9skTq8pw.jpg?itok=vSeIIjtT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chesstactics-fabianocaruana",
-         "pubDate" : "Fri, 28 Jun 2024 05:29:12",
-         "title" : "Caruana's Inspired Freestyle Against Alireza #GrandChessTour #chess #chesstactics #fabianocaruana"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In a complicated and doubled-edged position, Gukesh maneuvers his way to a first round victory over Bogdan Deac. Photograph by Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics-gukeshd\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YdwwP2k9_yw.jpg?itok=JLwuzEJs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-d-defeats-deac-grandchesstour-chess-chesstactics-gukeshd",
-         "pubDate" : "Fri, 28 Jun 2024 05:29:12",
-         "title" : "Gukesh D Defeats Deac #GrandChessTour #chess #chesstactics #gukeshd"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Starting the tournament in a topsy turvy manner, Alireza manages to stabilize and bounce back to defeat Nordibek in round 2 Photograph by Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-bounces-back-victory-grandchesstour-chess-chessopenings-chesstactics\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e63mMbAQg9I.jpg?itok=VoxQs-Dv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alireza-bounces-back-victory-grandchesstour-chess-chessopenings-chesstactics",
-         "pubDate" : "Fri, 28 Jun 2024 05:29:12",
-         "title" : "Alireza Bounces Back To Victory #GrandChessTour #chess #chessopenings #chesstactics"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111330727.cms\" />In the second round of the Superbet Chess Classic, India's D Gukesh and R Praggnanandhaa both secured draws against top opponents Ian Nepomniachtchi and Maxime Vachier-Lagrave, respectively. The tournament saw a twist when top seed Fabiano Caruana blundered, missing a win against Wesley So. Alireza Firouzja redeemed his earlier loss with a victory over Nodirbek Abdusattorov. Anish Giri also drew with Deac Bogdan-Daniel. Gukesh and Caruana lead with 1.5 points each, followed closely by others.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-chess-classic-r-praggnanandhaa-d-gukesh-secure-draws-against-top-opponents-in-round-2/articleshow/111330727.cms",
          "pubDate" : "Fri, 28 Jun 2024 04:50:00",
          "title" : "Superbet Chess: Pragg, Gukesh secure draws in Round 2"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Caruana&#039;s play of b6 and some inspiration in his defeat over Alireza Firouzja in Round 1 of the Grand Chess Tour in Bucharest. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-chessendgame\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4nd9skTq8pw.jpg?itok=vSeIIjtT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruanas-inspired-freestyle-against-alireza-grandchesstour-chess-chessopenings-chessendgame",
-         "pubDate" : "Fri, 28 Jun 2024 02:29:07",
-         "title" : "Caruana's Inspired Freestyle Against Alireza #GrandChessTour #chess #chessopenings #chessendgame"
       },
       {
          "description" : "In an in-depth interview, the founder and CEO of ChessBase India, Sagar Shah, talks about how chess is developing in India and what projects are keeping him busy. The interview was conducted by Stefan Liebig for the German chess magazine Schach 64 and tells us about Sagar's professional career, and his work with top Indian talents.",
@@ -1176,22 +1176,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/norway-chess-praggnanandhaa-beats-nakamura-carlsen-wins-title/articleshow/110818221.cms",
          "pubDate" : "Sat, 08 Jun 2024 09:45:03",
          "title" : "Norway Chess: Praggnanandhaa beats Nakamura; Carlsen wins title"
-      },
-      {
-         "description" : " Nigeria is hosting a &#8220;Battle of the Ages&#8221; on June 11th between global chess activist Tunde Onakoya and teen phenom Deborah Quickpen. Onakoya recently entered the Guinness Book of World Records by playing chess for 60 hours in Times Square. While setting a mark for the records, Onakoya is most known for promoting chess in The post <a href=\"https://www.thechessdrum.net/blog/2024/06/07/nigerian-chess-action-battle-of-the-ages/\">Nigerian Chess Action, &#8220;Battle of the Ages&#8221;</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/06/07/nigerian-chess-action-battle-of-the-ages/",
-         "pubDate" : "Sat, 08 Jun 2024 01:05:25",
-         "title" : "Nigerian Chess Action, \"Battle of the Ages\""
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3057",
-         "pubDate" : "Fri, 07 Jun 2024 23:49:57",
-         "title" : "World Junior Championship 2024 crosses halfway mark"
       }
    ]
 }
