@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3095",
+         "pubDate" : "Sat, 29 Jun 2024 22:15:35",
+         "title" : "Playoff matches set at FIDE World Cup 8-12"
+      },
+      {
          "description" : "The Global Chess League, a joint initiative between the International Chess Federation and Tech Mahindra, is set for a highly anticipated second edition in London. The 10-day, one-of-a-kind chess league featuring top players will take place at Friends House, located in the heart of central London, from October 3 to 12. Building on the success of its first season, the league aims to further broaden the viewership base through live broadcasts, interactive fan experiences, and community engagement activities.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/global-chess-league-2024-preview",
          "pubDate" : "Sat, 29 Jun 2024 21:00:00",
          "title" : "In October: Global Chess League to take place in London"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Mihaela Sandu and chess fan Pavel Pahomov talk to Anastasiya Karlovich during Rounds 3 and 2 respectively of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mihaela-sandu-wins-women%E2%80%99s-blitz-99-r2-r3-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QFm9p8ymFdY.jpg?itok=kXMJruSK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mihaela-sandu-wins-women%E2%80%99s-blitz-99-r2-r3-superbetchessclassicromania",
+         "pubDate" : "Sat, 29 Jun 2024 20:30:25",
+         "title" : "Mihaela Sandu Wins Women's Blitz 9/9! | R2 R3 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Cristian Chirila after a draw against Wesley So in Round 4 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo%E2%80%99s-youtube-recaps-%E2%80%98extra-press-conference%E2%80%99-r4-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vqlej4SvTz8.jpg?itok=jSf5oOf1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo%E2%80%99s-youtube-recaps-%E2%80%98extra-press-conference%E2%80%99-r4-superbetchessclassicromania",
+         "pubDate" : "Sat, 29 Jun 2024 20:30:25",
+         "title" : "Nepo's YouTube Recaps like 'Extra Press Conference' | R4 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Deac in Round 4 of the Superbet Chess Classic 2024. 2024.06.29<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-applies-%E2%80%98pressure-forever%E2%80%99-deac-r4-superbetchessclassicromania",
+         "pubDate" : "Sat, 29 Jun 2024 20:30:25",
+         "title" : "Caruana Applies 'Pressure Forever' to Deac | R4 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 4 of the Superbet Chess Classic. Taking place at the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-4-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/bl",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-4-grandchesstour",
+         "pubDate" : "Sat, 29 Jun 2024 20:30:25",
+         "title" : "RECAP | Superbet Chess Classic 2024: Round 4 | #GrandChessTour"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Yasser shares a story behind the &quot;ugliest bishop&quot; played by Anatoly Karpov against Joel Lautier </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/karpovs-ugliest-bishop-grandchesstour-chess-chessgrandmaster-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vHpZtv8CkGk.jpg?itok=VEDM3e8m\" alt=\"\" /></a></div>",
@@ -58,20 +98,28 @@ news_feed (
          "title" : "Chirila's Favorite Pretzel: 'You Made Buffoonery of It!' | R4 #SuperbetChessClassicRomania"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Cristian Chirila after a draw against Firouzja in Round 4 of the Superbet Chess Classic 2024. 2024.06.29<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-kasparov-joked-alireza-getting-old-r4-superbetchessclassicromania",
-         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
-         "title" : "Gukesh: Kasparov Joked That Alireza is Getting Old! | R4 #SuperbetChessClassicRomania"
+         "description" : "After progressing to the ChessKid Youth Championship Knockout earlier in the day, 13-year-old GM-elect Yagiz Erdogmus has commanded another headline off the back of a history Bullet Brawl win on Saturday. Scoring 220 points, Erdogmus finished well...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-june-29-2024",
+         "pubDate" : "Sat, 29 Jun 2024 16:17:42",
+         "title" : "13 Year Old Erdogmus Becomes First Junior To Win Bullet Brawl"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The competitors are asked to reveal their key strategies to prepare for their opponents before the Superbet Chess Classic 2024. This aired during Round 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/key-strategies-prepare-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pvf8VFRjLZI.jpg?itok=sH1isBHg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/key-strategies-prepare-superbetchessclassicromania",
-         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
-         "title" : "Key Strategies to Prepare? | #SuperbetChessClassicRomania"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/membership-pay-to-play-and-game-fees-2024-25-v1/#new_tab",
+         "pubDate" : "Sat, 29 Jun 2024 16:00:53",
+         "title" : "Membership, Pay to Play and Game Fees 2024/25 (V2)"
+      },
+      {
+         "description" : "GM Jaime Santos came from behind to beat GM Arjun Erigaisi 2.5-1.5 in a thrilling second Semifinal of the 2024 Leon Masters. The Spanish grandmaster will now attempt to defend the title he won in 2023 as he takes on the legendary GM Viswanathan An...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-leon-masters-semifinals-2",
+         "pubDate" : "Sat, 29 Jun 2024 15:48:00",
+         "title" : "Santos Shocks Arjun To Set Up Leon Masters Final With Anand"
       },
       {
          "description" : "",
@@ -82,12 +130,28 @@ news_feed (
          "title" : "Liaocheng No. 1 Experimental School celebrates FIDE centenary"
       },
       {
+         "description" : "The fourth round of the Superbet Chess Classic Romania was a good day for GM Fabiano Caruana. The 31-year-old American grandmaster is back to being the number two in the world with a 2800+ rating after beating GM Bogdan-Daniel Deac. GM Praggnanand...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-4",
+         "pubDate" : "Sat, 29 Jun 2024 14:03:25",
+         "title" : "Caruana Sole Leader, Back To World #2 After Beating Deac"
+      },
+      {
          "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
          "pubDate" : "Sat, 29 Jun 2024 13:50:00",
          "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "GM-elect Yagiz Erdogmus, Antoni Radzimski, FM Henry Tudor, and CM Aaron Mendes all move on to the four-player Knockout of the ChessKid Youth Championships 2024 for players under 13. The four players finished in the top two of their respective grou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-13-day-1",
+         "pubDate" : "Sat, 29 Jun 2024 13:08:00",
+         "title" : "Erdogmus, Radzimski, Tudor, Mendes Advance To ChessKid Youth Championships Knockout"
       },
       {
          "description" : "Do you like to get attacked? Most of us don't. That's why, especially in bad positions, you should aim to pose threats to your opponent. The engine might laugh at you, but your human opponent will likely be scared and more prone to make mistakes. That's called playing practical chess. In this article, I show []",
@@ -120,14 +184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-misses-out-on-joint-leader-spot-after-draw-against-d-gukesh-at-superbet-classic-chess-tournament/articleshow/111360180.cms",
          "pubDate" : "Sat, 29 Jun 2024 08:21:36",
          "title" : "Pragg misses joint leader spot after draw against Gukesh"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Evgeny &quot;Miro&quot; Miroshnichenko explains what happens to the misplaced bishop </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/miro-explains-ba2-grandchesstour-chess-chesstactics-chessblunders-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qtnsu9la7wY.jpg?itok=emWScaDr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/miro-explains-ba2-grandchesstour-chess-chesstactics-chessblunders-chesscom",
-         "pubDate" : "Sat, 29 Jun 2024 05:29:56",
-         "title" : "Miro Explains Ba2? #Grandchesstour #chess #chesstactics #chessblunders #chesscom"
       },
       {
          "description" : "15th World Chess Champion Viswanathan Anand defeated one of his great rivals GM Veselin Topalov 2.5-1.5 on Friday to reach the Final of the 2024 Leon Masters. He&#39;ll face the winner of Saturday&#39;s Semifinal between GM Arjun Erigaisi and local hero G...",
@@ -778,28 +834,12 @@ news_feed (
          "title" : "Pune, India hosts Chess for Freedom Conference to promote global growth of chess in prisons"
       },
       {
-         "description" : "GM Arjun Erigaisi once again proved unstoppable as he dominated the Stepan Avagyan Memorial 2024 which took place in Jermuk, Armenia from June 10-18. New research shows only two players can match his meteoric rise to the world&#39;s elite, but the Ind...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/unstoppable-erigaisi-continues-rise-wins-in-armenia-with-a-round-to-spare",
-         "pubDate" : "Wed, 19 Jun 2024 12:49:00",
-         "title" : "'Caring Less' Helps Arjun Erigaisi Continue Rise With Win In Armenia"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3074",
          "pubDate" : "Wed, 19 Jun 2024 12:26:52",
          "title" : "CAS upholds FIDE's decision on South African Chess Elections"
-      },
-      {
-         "description" : "A streamer, a grandmaster, and a club player walk into a tournament. This isn&#38;rsquo;t the set-up of a terrible joke, but rather the backdrop of the 8th Annual Carolinas Classic 2024 that happened at the Charlotte Chess Center. Participants include...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-carolinas-chess-classic",
-         "pubDate" : "Wed, 19 Jun 2024 12:06:37",
-         "title" : "Legends, Grandmasters, Streamers Meet In Carolinas Classic"
       },
       {
          "description" : " <p class=\"lead\">In a revealing interview with Andrew Winton, Chief Marketing Officer of World Chess, the intricate marketing landscape of the chess industry is explored, shedding light on its timeless appeal, intellectual engagement, and global reach. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/chess-World-_Chess-andrew_winton-chess_marketing_marketing.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The chess industry stands out uniquely in the marketing realm due to its rich historical significance and universal recognition. Chess's timeless appeal transcends generations and cultures, making it a captivating subject for a diverse audience. The intellectual",
@@ -816,14 +856,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/game-analysis-mistake/",
          "pubDate" : "Wed, 19 Jun 2024 08:57:05",
          "title" : "99% of Chess Players make this game analysis mistake"
-      },
-      {
-         "description" : "Teenage GMs Nihal Sarin and Denis Lazavik won the Titled Tuesday events of June 18. Both outlasted giants, with the second places going to GMs Magnus Carlsen and Hikaru Nakamura, respectively. Nihal won outright early with an undefeated performanc...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nihal-lazavik-win-titled-tuesday-june-18-2024",
-         "pubDate" : "Wed, 19 Jun 2024 08:35:55",
-         "title" : "Nihal, Lazavik Take Titled Tuesday Over Carlsen, Nakamura"
       },
       {
          "description" : "",
@@ -864,14 +896,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3072",
          "pubDate" : "Tue, 18 Jun 2024 17:38:20",
          "title" : "FIDE World Cadet Championship 2024: Registration is open"
-      },
-      {
-         "description" : "It&#39;s time to let your inner chess author shine. We&#39;re excited to announce Chessable&#39;s 2024 Create Your Own Course contest! This is your chance to launch your own Chessable course presented by none other than 2021 Chessable Author of the Year, IM A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/create-your-own-course-2024",
-         "pubDate" : "Tue, 18 Jun 2024 08:00:00",
-         "title" : "Announcing Chessable's 2024 Create Your Own Course Contest"
       },
       {
          "description" : "Narayani is the leader after 7th&#160;round in Asian Youth Chess Championship at Almaty where the biggest upset was Mani and Advik lost in their group.",
