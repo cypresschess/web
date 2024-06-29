@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3094",
+         "pubDate" : "Sat, 29 Jun 2024 14:08:59",
+         "title" : "Liaocheng No. 1 Experimental School celebrates FIDE centenary"
+      },
+      {
          "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://www.thearticle.com/music-chess-and-the-harmonies-of-the-world/",
          "pubDate" : "Sat, 29 Jun 2024 10:23:46",
          "title" : "Music, chess and the harmonies of the world"
+      },
+      {
+         "description" : "Perhaps it sounded too wild to be true. The $1 million buy-in tournament with GMs Hans Niemann, Nodirbek Abdusattorov, Fabiano Caruana, and Ian Nepomniachtchi, scheduled for November 21, 2024, in Dusseldorf, Germany, has been cancelled by organize...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/1-million-buy-in-tournament-cancelled-as-niemann-pulls-out",
+         "pubDate" : "Sat, 29 Jun 2024 08:25:00",
+         "title" : "$4 Million High Roller Tournament Cancelled As Niemann Pulls Out"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111360180.cms\" />Round three of the Superbet Classic saw Indian Grandmaster R Praggnanandhaa miss a chance to claim the lead after drawing with compatriot D Gukesh. Gukesh remains tied at the top with Fabiano Caruana, while Praggnanandhaa is in a tie for third. A rematch of their previous encounter, the game saw promising chances for Praggnanandhaa, but ended in a draw after a critical error by Gukesh. All five games in this round ended in draws, leaving the leaderboard unchanged.",
@@ -154,28 +170,12 @@ news_feed (
          "title" : "2024 County Championships finals start 29/6/24"
       },
       {
-         "description" : "Fabiano Caruana and D Gukesh continue to share the lead at the Superbet Chess Classic in Bucharest, as the one decisive result of round 2 saw Alireza Firouzja beating Nodirbek Abdusattorov. Since Firouzja had lost to Caruana in the first round, this victory only allowed him to return to a fifty-percent score. Importantly, co-leader Caruana failed to make the most of a clearly better position in his game with white against Wesley So. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-2",
-         "pubDate" : "Fri, 28 Jun 2024 12:15:00",
-         "title" : "Superbet Classic: Firouzja beats Abdusattorov, Caruana misses chance"
-      },
-      {
          "description" : "The European Youth Team Chess Championship 2024 concluded yesterday in Rhodes, Greece. With the participation of 58 teams from 16 European federations, the event broke the participation record. The event was co-organised by the Chess Club of Rhodes \"Ippotis\" and the Region of South Aegean. The event was played in two age categories: U12 and U18, open and girls sections separately, with 7 rounds, swiss system, in each championship. The top-seeded team of Israel triumphed in the U18 section scoring []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-youth-team-chess-champions-2024-crowned-in-rhodes-greece/",
          "pubDate" : "Fri, 28 Jun 2024 09:44:59",
          "title" : "European Youth Team Chess Champions 2024 crowned in Rhodes, Greece"
-      },
-      {
-         "description" : "Knights are the pieces with the most complicated moves. Beginners know this, but professionals are also often painfully reminded of this when they overlook forks. Jan Markos goes in search of the secret life of the knights...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-markos-about-horses-which-feel-like-chicken",
-         "pubDate" : "Fri, 28 Jun 2024 09:14:42",
-         "title" : "Jan Markos about horses which feel like chicken"
       },
       {
          "description" : " Gawain Jones won the English Open after a playoff with Michael Adams while the former Russian Elmira Mirzoeva is the women's champion Experienced grandmasters won both the Open and women's English championships at Kenilworth last weekend, but teenage talents made significant advances and even reached the prize list in both events. Pre-teens also narrowed the gap to the established stars. GM Gawain Jones, 36, won the open title after a speed playoff with the top seed and favourite, GM Michael Adams, 52, who had led until the final round and was also winning the tie-break until a spectacular own goal allowed checkmate in one. <a href=\"https://www.theguardian.com/sport/article/2024/jun/28/ches",
@@ -192,14 +192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-chess-classic-r-praggnanandhaa-d-gukesh-secure-draws-against-top-opponents-in-round-2/articleshow/111330727.cms",
          "pubDate" : "Fri, 28 Jun 2024 04:50:00",
          "title" : "Superbet Chess: Pragg, Gukesh secure draws in Round 2"
-      },
-      {
-         "description" : "In an in-depth interview, the founder and CEO of ChessBase India, Sagar Shah, talks about how chess is developing in India and what projects are keeping him busy. The interview was conducted by Stefan Liebig for the German chess magazine Schach 64 and tells us about Sagar's professional career, and his work with top Indian talents.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/all-about-chessbase-india",
-         "pubDate" : "Thu, 27 Jun 2024 21:00:00",
-         "title" : "All about ChessBase India"
       },
       {
          "description" : "Picture courtesy of John Upham / British Chess News. More tributes can be found here https://www.ecforum.org.uk/viewtopic.php?f=2&#38;t=14149 and a detailed look at Bernard's life...",
@@ -898,14 +890,6 @@ news_feed (
          "title" : "Did you know? Svitlana Demchenko is streaming chess!"
       },
       {
-         "description" : "14-year-old IM Alice Lee is the talk of the town at the Cairns Cup 2024 after tricking GM Nana Dzagnidze into a drawn ending when all seemed lost. GMs Irina Krush, Mariya Muzychuk, and IM Anna Zatonskih all missed golden opportunities to win their...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-5",
-         "pubDate" : "Mon, 17 Jun 2024 19:45:00",
-         "title" : "Lee Miraculously Saves Game After 5-Hour Marathon"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1168,14 +1152,6 @@ news_feed (
          "link" : "https://www.thearticle.com/grandfathers-of-the-chessboard/",
          "pubDate" : "Sun, 09 Jun 2024 07:00:08",
          "title" : "Grandfathers of the chessboard"
-      },
-      {
-         "description" : "European School Chess Championship 2024 concluded yesterday in Limerick, Ireland. The event gathered nearly 200 players coming from 18 European federations, who competed in 6 age categories: U7, U9, U11, U13, U15 and U17, open and girls sections separately. Turkish players achieved a historical result, winning all 12 golds in all categories, and a total of 28 medals (12 gold, 8 silver and 8 bronze)! Omer Taha Dede (TUR) triumphed in the U7 section scoring perfect 7/7 points. David-Christian Talaba []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/turkey-wins-12-golds-at-the-european-school-chess-championship-2024/",
-         "pubDate" : "Sat, 08 Jun 2024 15:24:43",
-         "title" : "Turkey wins 12 golds at the European School Chess Championship 2024"
       }
    ]
 }
