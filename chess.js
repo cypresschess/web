@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila and offers analysis during Round 5 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-predicts-five-draws-again-r5-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m4Iv2LarP84.jpg?itok=o3jAUvhZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-predicts-five-draws-again-r5-superbetchessclassicromania",
+         "pubDate" : "Sun, 30 Jun 2024 20:31:09",
+         "title" : "Kasparov Predicts Five Draws Again | R5 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The competitors are asked about the differences between a top chess professional and everyone else, before the Superbet Chess Classic 2024. This aired during Round 5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-sets-top-chess-players-apart-rest-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wJujah5p8Zo.jpg?itok=q6DPXbGu\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/what-sets-top-chess-players-apart-rest-superbetchessclassicromania",
+         "pubDate" : "Sun, 30 Jun 2024 20:31:09",
+         "title" : "What Sets Top Chess Players Apart from the Rest? | #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Praggnanandhaa R talks to Cristian Chirila after a draw against Wesley So in Round 5 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pragg-missed-chances-despite-pushing-r5-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cMsyraDZ5pw.jpg?itok=DPEUY0aW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pragg-missed-chances-despite-pushing-r5-superbetchessclassicromania",
+         "pubDate" : "Sun, 30 Jun 2024 20:31:09",
+         "title" : "Pragg: Missed Chances Despite the Pushing | R5 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 5 of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-5-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-5-grandchesstour",
+         "pubDate" : "Sun, 30 Jun 2024 20:31:09",
+         "title" : "RECAP | Superbet Chess Classic 2024: Round 5 | #GrandChessTour"
+      },
+      {
          "description" : "Faustino Oro scored 6&frac12;/9 points at the \"Cerrado IM Barcelona\" to become the youngest International Master in the history of chess. The Argentine prodigy gained his third IM norm at 10 years, 8 months and 16 days, thus breaking Abhimanyu Mishra's record by less than a month. Remarkably, Oro has already surpassed the 2400-rating mark as well, and even gained more rating at the event in Barcelona. | Photo: Federico Mar&iacute;n Bell&oacute;n / El Mundo",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +48,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/giri-grapples-degrees-caring-superbetchessclassicromania",
          "pubDate" : "Sun, 30 Jun 2024 17:31:04",
          "title" : "Giri Grapples with the Degrees of Caring | #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "Indian chess legend Viswanathan Anand has won his 10th Leon Masters title after defeating GM Jaime Santos 3-1 in the final match. 54-year-old Anand took over to win the last two games after a shaky start and has now won the event in northwest Spai...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-leon-masters-final",
+         "pubDate" : "Sun, 30 Jun 2024 16:03:24",
+         "title" : "Vishy Anand Wins 10th Leon Masters Title"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/sam-in-london.1920.jpeg\" title=\"Samantha Punch is a professor at the Faculty of Social Sciences at the University of Stirling and a Scottish championship bridge player photo: Francesca Canali, World Bridge Federation\" data-title=\"**[Samantha Punch][1]** is a professor at the Faculty of Social Sciences at the [University of Stirling][2] and a Scottish championship bridge player [1]: https://theconversation.com/profiles/samantha-",
@@ -40,6 +80,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
          "pubDate" : "Sun, 30 Jun 2024 13:50:00",
          "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "Another round with five draws at the Superbet Chess Classic Romania saw several missed chances. GM Praggnanandhaa Rameshbabu was completely winning for one move but failed to spot the required queen sortie against GM Wesley So. Another hard-to-fin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-5",
+         "pubDate" : "Sun, 30 Jun 2024 13:00:00",
+         "title" : "Missed Chances Mark Another Day Of Draws In Bucharest"
       },
       {
          "description" : "In 1921 World Champion Emanuel Lasker played a match against challenger Jos&eacute; Ra&uacute;l Capablanca. Game 10 saw the Cuban gain an advantage with the black pieces, but with limited material on the board Lasker had chances of survival. The game is particularly interesting from move 39 to 43, where there are several interesting riddles we want to solve. Can you help us do this?",
@@ -71,7 +119,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-13-day-erdogmus-wins",
          "pubDate" : "Sun, 30 Jun 2024 10:05:00",
-         "title" : "World's Youngest GM Wins 2024 ChessKid Youth Championship Under-13"
+         "title" : "World's Youngest GM Wins 2024 ChessKid Youth Championships Under-13"
       },
       {
          "description" : "The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship concluded yesterday in Andorra la Vella. The events were played from 22-30 June as 10-player round-robin tournaments with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino.&#160; GM Igor Efimov (MNC, 2312) emerged as the sole winner of the Open Championship scoring 8/9 points. Igor Efimov finished the event without a single loss, []",
@@ -136,38 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mihaela-sandu-wins-women%E2%80%99s-blitz-99-r2-r3-superbetchessclassicromania",
          "pubDate" : "Sat, 29 Jun 2024 20:30:25",
          "title" : "Mihaela Sandu Wins Women's Blitz 9/9! | R2 R3 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Cristian Chirila after a draw against Wesley So in Round 4 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo%E2%80%99s-youtube-recaps-%E2%80%98extra-press-conference%E2%80%99-r4-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vqlej4SvTz8.jpg?itok=jSf5oOf1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo%E2%80%99s-youtube-recaps-%E2%80%98extra-press-conference%E2%80%99-r4-superbetchessclassicromania",
-         "pubDate" : "Sat, 29 Jun 2024 20:30:25",
-         "title" : "Nepo's YouTube Recaps like 'Extra Press Conference' | R4 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Deac in Round 4 of the Superbet Chess Classic 2024. 2024.06.29<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-applies-%E2%80%98pressure-forever%E2%80%99-deac-r4-superbetchessclassicromania",
-         "pubDate" : "Sat, 29 Jun 2024 20:30:25",
-         "title" : "Caruana Applies 'Pressure Forever' to Deac | R4 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 4 of the Superbet Chess Classic. Taking place at the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-4-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/bl",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-4-grandchesstour",
-         "pubDate" : "Sat, 29 Jun 2024 20:30:25",
-         "title" : "RECAP | Superbet Chess Classic 2024: Round 4 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser shares a story behind the &quot;ugliest bishop&quot; played by Anatoly Karpov against Joel Lautier </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/karpovs-ugliest-bishop-grandchesstour-chess-chessgrandmaster-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vHpZtv8CkGk.jpg?itok=VEDM3e8m\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/karpovs-ugliest-bishop-grandchesstour-chess-chessgrandmaster-chesscom",
-         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
-         "title" : "Karpov's Ugliest Bishop #grandchesstour #chess #chessgrandmaster #chesscom"
       },
       {
          "description" : "After progressing to the ChessKid Youth Championships Knockout earlier in the day, 13-year-old GM-elect Yagiz Erdogmus has commanded another headline with a historic Bullet Brawl victory on Saturday. Scoring 220 points, he finished well ahead of s...",
@@ -786,28 +802,12 @@ news_feed (
          "title" : "Three Teams to Represent United States at FIDE World Team Senior Championship"
       },
       {
-         "description" : "Four decisive results shook up the standings at the Cairns Cup 2024 and, with two rounds to go, five players are still in the hunt for the $50,000 first prize. GM Tan Zhongyi leads the event on 5/7 after defeating GM Elisabeth Paehtz while chaos a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-7",
-         "pubDate" : "Thu, 20 Jun 2024 19:08:00",
-         "title" : "Chaos Reigns As Tan, Kosteniuk, Muzychuk, Dzagnidze Win"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111146863.cms\" />The Norway Chess 2024 tournament showcased a remarkable feat by 18-year-old Indian chess prodigy R Praggnanandhaa, who defeated World No. 1 Magnus Carlsen. Despite Carlsen winning the tournament, Praggnanandhaa's victory was a milestone. His overall performance, including a draw against Hikaru Nakamura, secured him third place. Praggnanandhaa attributed his success to a favourable opening and expressed confidence in competing with the world's elite players. ",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/he-surprised-me-with-r-praggnanandhaa-on-win-against-world-no-1-magnus-carlsen-at-norway-chess-2024/articleshow/111146863.cms",
          "pubDate" : "Thu, 20 Jun 2024 17:43:27",
          "title" : "'He surprised me with...': Pragg on win against Carlsen"
-      },
-      {
-         "description" : "GM Jan-Krzysztof Duda tops the eight-player lineup for the Finals of the 2024 Chess.com Chess960 Championship after finishing the first qualifier on a perfect 9/9 score. He&#39;ll be joined for the knockout event by GMs Vladimir Fedoseev, Raunak Sadhw...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chess960-championship-qualifiers",
-         "pubDate" : "Thu, 20 Jun 2024 17:36:00",
-         "title" : "Duda Scores 9/9, Caruana Misses Out As 8 Qualify For Chess960 Finals"
       },
       {
          "description" : "",
