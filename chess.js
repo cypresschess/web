@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Faustino Oro scored 6&frac12;/9 points at the \"Cerrado IM Barcelona\" to become the youngest International Master in the history of chess. The Argentine prodigy gained his third IM norm at 10 years, 8 months and 16 days, thus breaking Abhimanyu Mishra's record by less than a month. Remarkably, Oro has already surpassed the 2400-rating mark as well, and even gained more rating at the event in Barcelona. | Photo: Federico Mar&iacute;n Bell&oacute;n / El Mundo",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/faustino-oro-youngest-ever-im",
+         "pubDate" : "Sun, 30 Jun 2024 19:40:00",
+         "title" : "He did it: Faustino Oro becomes youngest IM in history"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 5. 2024.06.25<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-grapples-degrees-caring-superbetchessclassicromania",
+         "pubDate" : "Sun, 30 Jun 2024 17:31:04",
+         "title" : "Giri Grapples with the Degrees of Caring | #SuperbetChessClassicRomania"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/sam-in-london.1920.jpeg\" title=\"Samantha Punch is a professor at the Faculty of Social Sciences at the University of Stirling and a Scottish championship bridge player photo: Francesca Canali, World Bridge Federation\" data-title=\"**[Samantha Punch][1]** is a professor at the Faculty of Social Sciences at the [University of Stirling][2] and a Scottish championship bridge player [1]: https://theconversation.com/profiles/samantha-",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-4",
          "pubDate" : "Sun, 30 Jun 2024 10:35:00",
          "title" : "Superbet Classic: Caruana beats Deac, grabs the sole lead"
+      },
+      {
+         "description" : "GM-elect Yagiz Erdogmus defeated FM Henry Tudor in the Final of the ChessKid Youth Championships 2024 for players under 13. While the Turkish prodigy was the clear favorite to win this event, Tudor managed to finish the regular games with a tied 2...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-13-day-erdogmus-wins",
+         "pubDate" : "Sun, 30 Jun 2024 10:05:00",
+         "title" : "World's Youngest GM Wins 2024 ChessKid Youth Championship Under-13"
       },
       {
          "description" : "The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship concluded yesterday in Andorra la Vella. The events were played from 22-30 June as 10-player round-robin tournaments with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino.&#160; GM Igor Efimov (MNC, 2312) emerged as the sole winner of the Open Championship scoring 8/9 points. Igor Efimov finished the event without a single loss, []",
@@ -146,14 +170,6 @@ news_feed (
          "title" : "Karpov's Ugliest Bishop #grandchesstour #chess #chessgrandmaster #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Yasser explains kings of opposite flanks </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/king-safe-grandchesstour-chess-chesstactics-chessforbeginners-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JBjo-pAzK_4.jpg?itok=gme2xBpR\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/king-safe-grandchesstour-chess-chesstactics-chessforbeginners-chesscom",
-         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
-         "title" : "Is The King Safe #Grandchesstour #chess #chesstactics #chessforbeginners #chesscom"
-      },
-      {
          "description" : "After progressing to the ChessKid Youth Championships Knockout earlier in the day, 13-year-old GM-elect Yagiz Erdogmus has commanded another headline with a historic Bullet Brawl victory on Saturday. Scoring 220 points, he finished well ahead of s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -190,7 +206,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-4",
-         "pubDate" : "Sat, 29 Jun 2024 14:03:25",
+         "pubDate" : "Sat, 29 Jun 2024 14:03:00",
          "title" : "Caruana Sole Leader, Back To World #2 After Beating Deac"
       },
       {
@@ -832,14 +848,6 @@ news_feed (
          "link" : "https://aicf.in/asian-youth-chess-championship-2024classical-report-day-8/",
          "pubDate" : "Thu, 20 Jun 2024 05:13:57",
          "title" : "Asian Youth Chess Championship 2024:Classical Report Day 8"
-      },
-      {
-         "description" : "He&#39;s one of the world&#39;s top strikers and his nation&#39;s greatest-ever goalscorer. But between matches Harry Kane also finds time to dive into the 10-minute pool for a quick game on Chess.com. The 30-year-old, who plays for England in UEFA&#39;s Euro 2...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/england-striker-harry-kane-reveals-hes-about-1200-rated-on-chess-com",
-         "pubDate" : "Thu, 20 Jun 2024 04:01:00",
-         "title" : "England Striker Harry Kane Reveals He's 'About 1200-Rated On Chess.com'"
       },
       {
          "description" : "Every June, thousands of players flock to Las Vegas, but it's not to gamble (indeed, many of them have to wait upwards of a decade before they can hit the slot machines). With a plethora of side events, special guests, and lessons in addition to the perennially strong National Open, the Las Vegas Chess Festival is one of the most engaging tournaments of the year. This was also a milestone National Open for me: I've now played in this tournament for more than half the years I've been alive!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> GM Vasif Durarbayli, pictured here with the Edmonson Cup, ",
