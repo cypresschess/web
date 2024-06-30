@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/sam-in-london.1920.jpeg\" title=\"Samantha Punch is a professor at the Faculty of Social Sciences at the University of Stirling and a Scottish championship bridge player photo: Francesca Canali, World Bridge Federation\" data-title=\"**[Samantha Punch][1]** is a professor at the Faculty of Social Sciences at the [University of Stirling][2] and a Scottish championship bridge player [1]: https://theconversation.com/profiles/samantha-",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/from-bridge-to-chess-why-men/",
+         "pubDate" : "Sun, 30 Jun 2024 14:55:58",
+         "title" : "Why men outperform women at 'mindsports' - and what to do about it"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-6-grandchesstour\"><img src=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-6-grandchesstour",
+         "pubDate" : "Sun, 30 Jun 2024 14:30:57",
+         "title" : "Superbet Chess Classic 2024: Round 6 | #GrandChessTour"
+      },
+      {
+         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
+         "pubDate" : "Sun, 30 Jun 2024 13:50:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
          "description" : "In 1921 World Champion Emanuel Lasker played a match against challenger Jos&eacute; Ra&uacute;l Capablanca. Game 10 saw the Cuban gain an advantage with the black pieces, but with limited material on the board Lasker had chances of survival. The game is particularly interesting from move 39 to 43, where there are several interesting riddles we want to solve. Can you help us do this?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-riddle-lasker-capablanca",
          "pubDate" : "Sun, 30 Jun 2024 12:00:00",
          "title" : "New Riddle: Lasker-Capablanca"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/sam-in-london.1920.jpeg\" title=\"Samantha Punch is a professor at the Faculty of Social Sciences at the University of Stirling and a Scottish championship bridge player photo: Francesca Canali, World Bridge Federation\" data-title=\"**[Samantha Punch][1]** is a professor at the Faculty of Social Sciences at the [University of Stirling][2] and a Scottish championship bridge player [1]: https://theconversation.com/profiles/samantha-",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/from-bridge-to-chess-why-men/",
-         "pubDate" : "Sun, 30 Jun 2024 11:08:52",
-         "title" : "Why men outperform women at 'mindsports' - and what to do about it"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Both parties have appealed against the <a href=\"https://www.fide.com/news/3056\">decision</a> of the <strong>FIDE Ethics Commission</strong> to ban the <strong>Russian Chess Federation</strong> for having war criminals on its supervisory board and to reprimand President <strong>Arkady Dvorkovich</strong> for being on that board and not having intervened. </div> ",
@@ -42,7 +58,7 @@ news_feed (
          "title" : "GM Igor Efimov and WGM Elvira Berend win European Small Nations Chess Championships 2024"
       },
       {
-         "description" : "10-year-old FM Faustino Oro,, dubbed the &#39;Messi of Chess,&#39; has become the youngest-ever international master and once again earned a place in chess history, securing the final norm today in Barcelona, Spain. The Argentinian prodigy is one of only ...",
+         "description" : "10-year-old FM Faustino Oro, dubbed the &#39;Messi of Chess,&#39; has become the youngest-ever international master and once again earned a place in chess history, securing the final norm today in Barcelona, Spain. The Argentinian prodigy is one of only t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/faustino-oro-becomes-youngest-ever-international-master",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/king-safe-grandchesstour-chess-chesstactics-chessforbeginners-chesscom",
          "pubDate" : "Sat, 29 Jun 2024 17:30:20",
          "title" : "Is The King Safe #Grandchesstour #chess #chesstactics #chessforbeginners #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Garry Kasparov shares blindfold analysis with Jan Smeets, Anish Giri's second, during Round 4 of the Superbet Chess Classic 2024. This did not air during the broadcast. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-kasparov-analyzes-jan-smeets-r4-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7aY8x5EsyCw.jpg?itok=fZGFt5tW\" alt=\"\" /></a></d",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-kasparov-analyzes-jan-smeets-r4-superbetchessclassicromania",
-         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
-         "title" : "EXCLUSIVE: Kasparov Analyzes with Jan Smeets | R4 #SuperbetChessClassicRomania"
       },
       {
          "description" : "After progressing to the ChessKid Youth Championships Knockout earlier in the day, 13-year-old GM-elect Yagiz Erdogmus has commanded another headline with a historic Bullet Brawl victory on Saturday. Scoring 220 points, he finished well ahead of s...",
@@ -1192,14 +1200,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/world-amateur-championship-2024-registration-is-open/",
          "pubDate" : "Mon, 10 Jun 2024 08:00:45",
          "title" : "World Amateur Championship 2024 registration is open"
-      },
-      {
-         "description" : "Only 180 views for a chat with the man who shepherded the greatest chess boom of all time? The most popular chess streamers probably get that much attention in the first millisecond of their latest stream. There is definitely something wrong with this picture. <P> <iframe width=\"420\" height=\"236\" src=\"https://www.youtube.com/embed/gBEKnAB3HFc?si=2KJinj5Me2o_7vDo\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe><BR> <B>Erik Allebest - From 0 to 150 million ARR - The Chess.com story</B> (1:12:33) &#149; '[Published on",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/06/chesscom-aar-takeaways-and-sound-bites.html",
-         "pubDate" : "Sun, 09 Jun 2024 15:05:00",
-         "title" : "Chess.com ARR, Takeaways, and Sound Bites"
       }
    ]
 }
