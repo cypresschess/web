@@ -1,4 +1,10 @@
 jtable([
+"HOUSTON","2024-06-29","6","<a href=http://www.uschess.org/msa/XtblMain.php?202406297142 target='_blank'>CHESSPANDA06292024SATURDAY</a>",
+"HOUSTON","2024-06-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406297122 target='_blank'>SHADOW CREEK SPORTS FRIDAY QUICK</a>",
+"HOUSTON","2024-06-28","28","<a href=http://www.uschess.org/msa/XtblMain.php?202406286872 target='_blank'>SHADOW CREEK SPORTS FRIDAY</a>",
+"CYPRESS","2024-06-28","28","<a href=http://www.uschess.org/msa/XtblMain.php?202406286812 target='_blank'>KNIGHTS OF CYPRESS</a>",
+"SPRING","2024-06-28","28","<a href=http://www.uschess.org/msa/XtblMain.php?202406286762 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"SUGAR LAND","2024-06-28","8","<a href=http://www.uschess.org/msa/XtblMain.php?202406286722 target='_blank'>FBCC INTERNATIONAL CAPSLOCK DAY OPEN</a>",
 "HOUSTON","2024-06-27","29","<a href=http://www.uschess.org/msa/XtblMain.php?202406276162 target='_blank'>SHADOW CREEK SPORTS THURSDAY</a>",
 "HOUSTON","2024-06-26","26","<a href=http://www.uschess.org/msa/XtblMain.php?202406265592 target='_blank'>SHADOW CREEK SPORTS WEDNESDAY</a>",
 "HOUSTON","2024-06-04  - 06-25","32","<a href=http://www.uschess.org/msa/XtblMain.php?202406255032 target='_blank'>JUNE 2024 TUESDAY NIGHT SWISS</a>",
@@ -193,10 +199,4 @@ jtable([
 "HOUSTON","2023-12-01  - 12-15","9","<a href=http://www.uschess.org/msa/XtblMain.php?202312155882 target='_blank'>REBECCA CHESS CLUB DECEMBER 2023 MONTHLY SWISS</a>",
 "HOUSTON","2023-12-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202312155862 target='_blank'>REBECCA CHESS CLUB QUADS DECEMBER 15, 2023</a>",
 "HOUSTON","2023-12-13","42","<a href=http://www.uschess.org/msa/XtblMain.php?202312137692 target='_blank'>HOUSTON HOMESCHOOLERS TOURNAMENT 20</a>",
-"HOUSTON","2023-12-09","10","<a href=http://www.uschess.org/msa/XtblMain.php?202312095612 target='_blank'>DECEMBER 9TH SATURDAY SWISS</a>",
-"HOUSTON","2023-12-09","358","<a href=http://www.uschess.org/msa/XtblMain.php?202312092902 target='_blank'>MIMS CHESS TOURNAMENT</a>",
-"HOUSTON","2023-12-09","6","<a href=http://www.uschess.org/msa/XtblMain.php?202312092382 target='_blank'>CHESSPANDA12092023SATURDAY</a>",
-"HOUSTON","2023-12-08","16","<a href=http://www.uschess.org/msa/XtblMain.php?202312083672 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"CYPRESS","2023-12-08","22","<a href=http://www.uschess.org/msa/XtblMain.php?202312082952 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"HOUSTON","2023-12-08","10","<a href=http://www.uschess.org/msa/XtblMain.php?202312081812 target='_blank'>REBECCA CHESS CLUB QUADS DECEMBER 8, 2023</a>",
 ]);
