@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In 1921 World Champion Emanuel Lasker played a match against challenger Jos&eacute; Ra&uacute;l Capablanca. Game 10 saw the Cuban gain an advantage with the black pieces, but with limited material on the board Lasker had chances of survival. The game is particularly interesting from move 39 to 43, where there are several interesting riddles we want to solve. Can you help us do this?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-riddle-lasker-capablanca",
+         "pubDate" : "Sun, 30 Jun 2024 12:00:00",
+         "title" : "New Riddle: Lasker-Capablanca"
+      },
+      {
+         "description" : "Fabiano Caruana obtained a convincing victory over Bogdan-Daniel Deac to become the sole leader at the Superbet Chess Classic in Bucharest. Tied for second place are Indian prodigies Praggnanandhaa and Gukesh. On Saturday, Pragg got the better of Anish Giri in a gripping 80-move encounter. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-4",
+         "pubDate" : "Sun, 30 Jun 2024 10:35:00",
+         "title" : "Superbet Classic: Caruana beats Deac, grabs the sole lead"
+      },
+      {
+         "description" : "The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship concluded yesterday in Andorra la Vella. The events were played from 22-30 June as 10-player round-robin tournaments with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino.&#160; GM Igor Efimov (MNC, 2312) emerged as the sole winner of the Open Championship scoring 8/9 points. Igor Efimov finished the event without a single loss, []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/gm-igor-efimov-and-wgm-elvira-berend-win-european-small-nations-chess-championships-2024/",
+         "pubDate" : "Sun, 30 Jun 2024 09:09:27",
+         "title" : "GM Igor Efimov and WGM Elvira Berend win European Small Nations Chess Championships 2024"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Giri keeps viewers on the edge in his game against Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-living-his-increment-grandchesstour-chess-anishgiri\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/THS6B3Iphn0.jpg?itok=P8-M8uj-\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -136,14 +160,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-4",
          "pubDate" : "Sat, 29 Jun 2024 14:03:25",
          "title" : "Caruana Sole Leader, Back To World #2 After Beating Deac"
-      },
-      {
-         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
-         "pubDate" : "Sat, 29 Jun 2024 13:50:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "GM-elect Yagiz Erdogmus, Antoni Radzimski, FM Henry Tudor, and CM Aaron Mendes all move on to the four-player Knockout of the ChessKid Youth Championships 2024 for players under 13. The four players finished in the top two of their respective grou...",
@@ -1176,14 +1192,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/06/chesscom-aar-takeaways-and-sound-bites.html",
          "pubDate" : "Sun, 09 Jun 2024 15:05:00",
          "title" : "Chess.com ARR, Takeaways, and Sound Bites"
-      },
-      {
-         "description" : "England's grandmaster grandfathers of the chessboard are back in the news. Last month the three English veterans teams won triple European gold, as that talented generation, which ranked second only to the USSR in the 1980s and 1990s, continued to demonstrate its persistent strength. The nine-day competition, held at Terme Catez, Slovenia, included 21 teams aged []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/grandfathers-of-the-chessboard/",
-         "pubDate" : "Sun, 09 Jun 2024 07:00:08",
-         "title" : "Grandfathers of the chessboard"
       }
    ]
 }
