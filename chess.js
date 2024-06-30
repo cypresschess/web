@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Giri keeps viewers on the edge in his game against Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-living-his-increment-grandchesstour-chess-anishgiri\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/THS6B3Iphn0.jpg?itok=P8-M8uj-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-living-his-increment-grandchesstour-chess-anishgiri",
+         "pubDate" : "Sat, 29 Jun 2024 23:30:37",
+         "title" : "Giri Living On His Increment #grandchesstour #chess #anishgiri"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chess Analyst Anastasiya Karlovich is impressed with Pragg&#039;s approach going into the rounds </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anastasiyas-overview-praggnanandhaa-grandchesstour-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sdoTXgCZGYA.jpg?itok=CESj7hL_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/anastasiyas-overview-praggnanandhaa-grandchesstour-chess",
+         "pubDate" : "Sat, 29 Jun 2024 23:30:37",
+         "title" : "Anastasiya's Overview of Praggnanandhaa #grandchesstour #chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jovi, Yasser, and Anastasiya are impressed with Pragg&#039;s accuracy and determination...Cristian identifies it as something else Photo by Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/praggs-accuracy-and-determination-grandchesstour-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fXZ3arLcmPo.jpg?itok=qwn0lxn7\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/praggs-accuracy-and-determination-grandchesstour-chess",
+         "pubDate" : "Sat, 29 Jun 2024 23:30:37",
+         "title" : "Pragg's Accuracy and Determination #Grandchesstour #chess"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,36 +98,12 @@ news_feed (
          "title" : "EXCLUSIVE: Kasparov Analyzes with Jan Smeets | R4 #SuperbetChessClassicRomania"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila and offers analysis during Round 4 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-talent-needs-right-atmosphere-be-discovered-r4-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SBWtqtqIcAc.jpg?itok=L7Cd-EZm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-talent-needs-right-atmosphere-be-discovered-r4-superbetchessclassicromania",
-         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
-         "title" : "Kasparov: Talent Needs Right Atmosphere to Be Discovered | R4 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 4. 2024.06.25<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidd",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-ding-doesn%E2%80%99t-matter-what-form-he-superbetchessclassicromania",
-         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
-         "title" : "Gukesh on Ding: Doesn't Matter What Form He is In | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Cristian Chirila enjoys a pretzel (with cherries in it!) and water during Round 4 of the Superbet Chess Classic 2024. The commentators discuss the provisions for the players. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirila%E2%80%99s-favorite-pretzel-%E2%80%98you-made-buffoonery-it%E2%80%99-r4-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jJXv",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chirila%E2%80%99s-favorite-pretzel-%E2%80%98you-made-buffoonery-it%E2%80%99-r4-superbetchessclassicromania",
-         "pubDate" : "Sat, 29 Jun 2024 17:30:20",
-         "title" : "Chirila's Favorite Pretzel: 'You Made Buffoonery of It!' | R4 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "After progressing to the ChessKid Youth Championship Knockout earlier in the day, 13-year-old GM-elect Yagiz Erdogmus has commanded another headline off the back of a history Bullet Brawl win on Saturday. Scoring 220 points, Erdogmus finished well...",
+         "description" : "After progressing to the ChessKid Youth Championships Knockout earlier in the day, 13-year-old GM-elect Yagiz Erdogmus has commanded another headline with a historic Bullet Brawl victory on Saturday. Scoring 220 points, he finished well ahead of s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-june-29-2024",
-         "pubDate" : "Sat, 29 Jun 2024 16:17:42",
-         "title" : "13 Year Old Erdogmus Becomes First Junior To Win Bullet Brawl"
+         "pubDate" : "Sat, 29 Jun 2024 16:17:00",
+         "title" : "13-Year-Old Erdogmus Becomes First Junior To Win Bullet Brawl"
       },
       {
          "description" : "",
