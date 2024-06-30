@@ -10,6 +10,22 @@ news_feed (
          "title" : "New Riddle: Lasker-Capablanca"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/sam-in-london.1920.jpeg\" title=\"Samantha Punch is a professor at the Faculty of Social Sciences at the University of Stirling and a Scottish championship bridge player photo: Francesca Canali, World Bridge Federation\" data-title=\"**[Samantha Punch][1]** is a professor at the Faculty of Social Sciences at the [University of Stirling][2] and a Scottish championship bridge player [1]: https://theconversation.com/profiles/samantha-",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/from-bridge-to-chess-why-men/",
+         "pubDate" : "Sun, 30 Jun 2024 11:08:52",
+         "title" : "Why men outperform women at 'mindsports' - and what to do about it"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Both parties have appealed against the <a href=\"https://www.fide.com/news/3056\">decision</a> of the <strong>FIDE Ethics Commission</strong> to ban the <strong>Russian Chess Federation</strong> for having war criminals on its supervisory board and to reprimand President <strong>Arkady Dvorkovich</strong> for being on that board and not having intervened. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/russia-decision-appealed/",
+         "pubDate" : "Sun, 30 Jun 2024 11:04:01",
+         "title" : "Russia decision appealed"
+      },
+      {
          "description" : "Fabiano Caruana obtained a convincing victory over Bogdan-Daniel Deac to become the sole leader at the Superbet Chess Classic in Bucharest. Tied for second place are Indian prodigies Praggnanandhaa and Gukesh. On Saturday, Pragg got the better of Anish Giri in a gripping 80-move encounter. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +40,14 @@ news_feed (
          "link" : "https://www.europechess.org/gm-igor-efimov-and-wgm-elvira-berend-win-european-small-nations-chess-championships-2024/",
          "pubDate" : "Sun, 30 Jun 2024 09:09:27",
          "title" : "GM Igor Efimov and WGM Elvira Berend win European Small Nations Chess Championships 2024"
+      },
+      {
+         "description" : "10-year-old FM Faustino Oro,, dubbed the &#39;Messi of Chess,&#39; has become the youngest-ever international master and once again earned a place in chess history, securing the final norm today in Barcelona, Spain. The Argentinian prodigy is one of only ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/faustino-oro-becomes-youngest-ever-international-master",
+         "pubDate" : "Sun, 30 Jun 2024 04:16:00",
+         "title" : "Faustino Oro Becomes Youngest Ever International Master At 10"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Giri keeps viewers on the edge in his game against Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-living-his-increment-grandchesstour-chess-anishgiri\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/THS6B3Iphn0.jpg?itok=P8-M8uj-\" alt=\"\" /></a></div>",
@@ -296,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-2",
          "pubDate" : "Thu, 27 Jun 2024 13:15:00",
          "title" : "Firouzja Bounces Back, Caruana Spoils Win In Bucharest"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Going into its strongest season ever with virtually all world-class players committed to a club, the German <strong>Bundesliga</strong> will hold its <a href=\"https://www.schachbund.de/terminplan.html\">final three rounds</a> on 25-27 April 2025 near Munich in Deggendorf, where the local club will celebrate its 100th anniversary. On 22/23 March 2025 eight out of 16 teams will meet at the <strong>FC St Pauli</strong> football stadion in Hamburg and most likely <strong>Magnus Carlsen</strong>, who is connected with St Pauli and the <strong>Weissenhaus Chess Academy</strong>, will be among them. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/schachbundesliga-announces-central/",
-         "pubDate" : "Thu, 27 Jun 2024 10:55:47",
-         "title" : "Schachbundesliga final rounds in Deggendorf"
       },
       {
          "description" : "GM M Pranesh finished with the highest score, 9.5/11, in the Swiss stage of the 2024 Speed Chess Championship Play-in. He and seven other players advance to a double-elimination Knockout. Just one player will earn the last qualifying spot availabl...",
@@ -824,14 +840,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2024-las-vegas-chess-festival-durarbayli-wins-national-open",
          "pubDate" : "Thu, 20 Jun 2024 00:00:00",
          "title" : "2024 Las Vegas Chess Festival: Durarbayli Wins National Open"
-      },
-      {
-         "description" : "GM Alexandra Kosteniuk has continued her run of decisive results at the Cairns Cup 2024 with a win over GM Mariya Muzychuk and now moves to 3.5/6, half a point behind the sole leader GM Tan Zhongyi. Draws on the remaining boards occurred with mi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-6",
-         "pubDate" : "Wed, 19 Jun 2024 19:09:00",
-         "title" : "Kosteniuk Records Fifth Decisive Result, Moves Into Second"
       },
       {
          "description" : " A couple of nights ago, Jaylen Brown of the Boston Celtics became an NBA Champion. He was also voted the Most Valuable Player of the series, justifying his mammoth five-year, $304 million contract signed the previous year. There were questions about whether the dynamic duo of Brown and fellow All-Star Jayson Tatum would materialize into The post <a href=\"https://www.thechessdrum.net/blog/2024/06/19/chess-molds-nba-champion-jaylen-brown/\">Chess molds NBA Champion, Jaylen Brown</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
