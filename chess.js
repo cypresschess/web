@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Singapore Chess Federation, supported by the Government of Singapore, has won the bid to host the FIDE World Championship Match 2024. The Match will feature the defending Champion Ding Liren from China and the Challenger Gukesh D from India, and will take place between November 20 and December 15, 2024. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-singapore-to-host-the-world-championship-2024",
+         "pubDate" : "Mon, 01 Jul 2024 14:40:33",
+         "title" : "Breaking: Singapore to host the World Championship 2024!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111408746.cms\" />FIDE announced on Monday that Singapore will host the 2024 World Championship match between India's chess prodigy D Gukesh and defending champion Ding Liren from China.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-wont-challenge-liren-on-home-turf-singapore-wins-bid-for-world-championships-match/articleshow/111408746.cms",
+         "pubDate" : "Mon, 01 Jul 2024 12:59:58",
+         "title" : "Gukesh won't challenge Liren on home turf; Singapore wins bid for World Championships match"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://www.fide.com/news/3096\">awarded</a> the classical <strong>World Championship</strong> to Singapore, where the government is the main sponsor. The two other bids came from India, which had caused a political stir between the camps of Indian Prime Minister Modi and the <strong>All India Chess Federation</strong> that supported Delhi and Tamil Nadu Chief Minister Stalin behind the Indian chess capital Chennai. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/singapore-hosts-ding-gukesh/",
+         "pubDate" : "Mon, 01 Jul 2024 12:49:59",
+         "title" : "Singapore hosts Ding-Gukesh"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3096",
+         "pubDate" : "Mon, 01 Jul 2024 12:00:53",
+         "title" : "Singapore to host 2024 World Chess Championship Match"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/2899",
+         "pubDate" : "Mon, 01 Jul 2024 12:00:51",
+         "title" : "Gligoric Trophy 2024: Call for Nominations"
+      },
+      {
          "description" : "Despite the significant advances made in defensive technique over the years, the phenomenon of the unprotected king is still quite common, as it is met in a high number of games. By this we mean a king that has come under enemy fire that is not readily repulsed. Top chess trainer GM Efstratios Grivas gives us a comprehensive lesson in attacking the uncastled king.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chessbase-17-fritz-19",
          "pubDate" : "Mon, 01 Jul 2024 09:02:36",
          "title" : "ChessBase 17 + Fritz 19"
+      },
+      {
+         "description" : "The $2.5 million 2024 FIDE World Championship between reigning World Champion Ding Liren and his challenger GM Gukesh Dommaraju will take place in Singapore between November 20 and December 15. FIDE announced on Monday that the southeast Asian cit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/singapore-venue-ding-gukesh-world-championship",
+         "pubDate" : "Mon, 01 Jul 2024 05:56:00",
+         "title" : "Singapore Chosen As Venue For Ding vs. Gukesh FIDE World Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Commentators were asked about Chess Boxing </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-boxing-grandchesstour-chess-chessboxing\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/C8Rs8koqsfM.jpg?itok=dlJ_U-WX\" alt=\"\" /></a></div>",
@@ -394,14 +442,6 @@ news_feed (
          "title" : "Gukesh beats Deac Bogdan-Daniel in Superbet Classic chess"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Tech Mahindra</strong> has announced a second season of its <strong><a href=\"https://globalchessleague.com\">Global Chess League</a></strong> on 3-12 October in London, securing a live audience and interaction with fans for the high powered rapid team event, which will be followed by the <strong>WR Chess Masters Cup</strong> on 14-18 October held by German sponsor <strong>Wadim Rosenstein</strong> in a k.o.-format, also in London. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/london-hosts-global-chess-league/",
-         "pubDate" : "Thu, 27 Jun 2024 09:30:12",
-         "title" : "London hosts Global Chess League"
-      },
-      {
          "description" : "GMs Awonder Liang and Denis Lazavik won Titled Tuesday on June 25, and several more players locked up a spot in the 2024 Speed Chess Championship after their highly successful Titled Tuesday performances this year to date: GMs Jan-Krzysztof Duda, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -736,14 +776,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-examination-at-guwahati-on-21-22-june-2024/",
          "pubDate" : "Fri, 21 Jun 2024 16:19:40",
          "title" : "SNA Seminar & Examination at Guwahati on 21-22 June 2024"
-      },
-      {
-         "description" : "GM Vladimir Fedoseev won the 2024 Chess.com Chess960 Championship, defeating GM Denis Lazavik 3.5-1.5 in the Final and winning $2,000 in the process. Four days of qualifiers culminated on Friday with an eight-player knockout. The next community ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chess960-championship-fedoseev-wins",
-         "pubDate" : "Fri, 21 Jun 2024 14:22:00",
-         "title" : "Fedoseev Wins 2024 Chess960 Championship With Queen Sac In Final"
       },
       {
          "description" : "",
@@ -1120,30 +1152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-world-no-4-chess-gm-arjun-erigaisi-aims-to-have-fun-and-crack-at-candidates/articleshow/110883621.cms",
          "pubDate" : "Mon, 10 Jun 2024 19:41:11",
          "title" : "India's world no. 4 chess GM Erigaisi aims to have fun and crack at Candidates"
-      },
-      {
-         "description" : "European Chess Union and Montenegro Chess Federation have the honor to invite all National Chess Federations, members of the ECU, end eligible players to participate in the European Individual Chess Championship 2024. The event will be held from 7-20 November in Petrovac, Montenegro. European Individual Chess Championship 2024 is open for all players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations. There is no limit of number of participants per federation, but []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-individual-chess-championship-2024-in-petrovac-montenegro-official-regulations/",
-         "pubDate" : "Mon, 10 Jun 2024 12:27:33",
-         "title" : "European Individual Chess Championship 2024 in Petrovac, Montenegro - Official regulations"
-      },
-      {
-         "description" : "ECU E-Magazine May 2024 is out! In this edition of the ECU E-Magazine you may read about: The May 2024 edition of the ECU Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below in the PDF format.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-may-2024/",
-         "pubDate" : "Mon, 10 Jun 2024 12:22:55",
-         "title" : "ECU E-Magazine May 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3059",
-         "pubDate" : "Mon, 10 Jun 2024 12:00:29",
-         "title" : "Olympiad Training Support Program is open"
       }
    ]
 }
