@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With a current rating of 2832 Magnus Carlsen leads the world ranking list from July 2024. He is 30 rating points ahead of Hikaru Nakamura, who is the world's number 2 with 2802 points. Nakamura swapped places with Fabiano Caruana, number 3 on the ranking list. Hou Yifan is still number 1 on the Women's World Ranking list, while Nodirbek Abdusattorov is the world's best junior. Bibisara Assaubayeva defended her position as the world's best female junior.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-july-2024",
+         "pubDate" : "Mon, 01 Jul 2024 18:00:00",
+         "title" : "FIDE ratings - July 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jovi explains the potential in her decision on how to capture </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/capture-pawn-or-bishop-grandchesstour-chess-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Eu5dZSAu3Xs.jpg?itok=Pix4LyRo\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/capture-pawn-or-bishop-grandchesstour-chess-chessstrategy-chesscom",
+         "pubDate" : "Mon, 01 Jul 2024 17:31:42",
+         "title" : "Capture With The Pawn or Bishop #GrandChessTour #chess #chessstrategy #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Well prepared to play against Alireza, but their body language gives away the ending </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eventual-end-grandchesstour-chess-chessopenings-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QclUlVbK9dU.jpg?itok=FWw1-6I4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/eventual-end-grandchesstour-chess-chessopenings-chesstactics-chesscom",
+         "pubDate" : "Mon, 01 Jul 2024 17:31:42",
+         "title" : "The Eventual End #GrandChessTour #chess #chessopenings #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jovi talks about how boxers use chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-helps-boxers-grandchesstour-chess-chessboxing-boxing\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TeeNkdt4h9A.jpg?itok=rZwNALBf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-helps-boxers-grandchesstour-chess-chessboxing-boxing",
+         "pubDate" : "Mon, 01 Jul 2024 17:31:42",
+         "title" : "Chess Helps Boxers #GrandChessTour #chess #chessboxing #boxing"
+      },
+      {
          "description" : "The Singapore Chess Federation, supported by the Government of Singapore, has won the bid to host the FIDE World Championship Match 2024. The Match will feature the defending Champion Ding Liren from China and the Challenger Gukesh D from India, and will take place between November 20 and December 15, 2024. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -160,30 +192,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/knight-and-rook-endgame-grandchesstour-chess-chessstrategy-checkmatepatterns-chesscom",
          "pubDate" : "Sun, 30 Jun 2024 23:31:12",
          "title" : "Knight and Rook Endgame #GrandChessTour #chess #chessstrategy #checkmatepatterns #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila and offers analysis during Round 5 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-predicts-five-draws-again-r5-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m4Iv2LarP84.jpg?itok=o3jAUvhZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-predicts-five-draws-again-r5-superbetchessclassicromania",
-         "pubDate" : "Sun, 30 Jun 2024 20:31:09",
-         "title" : "Kasparov Predicts Five Draws Again | R5 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The competitors are asked about the differences between a top chess professional and everyone else, before the Superbet Chess Classic 2024. This aired during Round 5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-sets-top-chess-players-apart-rest-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wJujah5p8Zo.jpg?itok=q6DPXbGu\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-sets-top-chess-players-apart-rest-superbetchessclassicromania",
-         "pubDate" : "Sun, 30 Jun 2024 20:31:09",
-         "title" : "What Sets Top Chess Players Apart from the Rest? | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Praggnanandhaa R talks to Cristian Chirila after a draw against Wesley So in Round 5 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pragg-missed-chances-despite-pushing-r5-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cMsyraDZ5pw.jpg?itok=DPEUY0aW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pragg-missed-chances-despite-pushing-r5-superbetchessclassicromania",
-         "pubDate" : "Sun, 30 Jun 2024 20:31:09",
-         "title" : "Pragg: Missed Chances Despite the Pushing | R5 #SuperbetChessClassicRomania"
       },
       {
          "description" : "Indian chess legend Viswanathan Anand has won his 10th Leon Masters title after defeating GM Jaime Santos 3-1 in the final match. The 54-year-old Anand took over to win the last two games after a shaky start and has now won the event in northwest ...",
@@ -400,6 +408,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-chess-classic-r-praggnanandhaa-d-gukesh-secure-draws-against-top-opponents-in-round-2/articleshow/111330727.cms",
          "pubDate" : "Fri, 28 Jun 2024 04:50:00",
          "title" : "Superbet Chess: Pragg, Gukesh secure draws in Round 2"
+      },
+      {
+         "description" : "FM Alisa Melekhina's photo report depicts her week at the Hotel Breezes resort in Nassau, Bahamas where she was one of several Americans competing in the Orjan Lindroth Memorial Open chess tournament, held from June 5 through 12, 2024.<br /><br /> Imagine celebrating a chess victory, or escaping from a devastating loss, by soaking up the Caribbean sun steps away from the beach. This rare experience is made possible by the new Orjan Lindroth Memorial Chess Open, organized annually in early June by the Bahamas Chess Federation and the Bahamas Chess Institute. Only in its third edition, this hidden gem of a tournament is about to be uncovered.<br /><br /> For players staying on-site, the Hotel ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/chess-paradise-fm-alisa-melekhinas-impressions-orjan-lindroth-memorial",
+         "pubDate" : "Fri, 28 Jun 2024 00:00:00",
+         "title" : "Chess in Paradise: FM Alisa Melekhina's Impressions From the Orjan Lindroth Memorial"
       },
       {
          "description" : "Picture courtesy of John Upham / British Chess News. More tributes can be found here https://www.ecforum.org.uk/viewtopic.php?f=2&#38;t=14149 and a detailed look at Bernard's life...",
@@ -864,14 +880,6 @@ news_feed (
          "link" : "https://aicf.in/asian-youth-chess-championship-2024classical-report-day-8/",
          "pubDate" : "Thu, 20 Jun 2024 05:13:57",
          "title" : "Asian Youth Chess Championship 2024:Classical Report Day 8"
-      },
-      {
-         "description" : "Every June, thousands of players flock to Las Vegas, but it's not to gamble (indeed, many of them have to wait upwards of a decade before they can hit the slot machines). With a plethora of side events, special guests, and lessons in addition to the perennially strong National Open, the Las Vegas Chess Festival is one of the most engaging tournaments of the year. This was also a milestone National Open for me: I've now played in this tournament for more than half the years I've been alive!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> GM Vasif Durarbayli, pictured here with the Edmonson Cup, ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-las-vegas-chess-festival-durarbayli-wins-national-open",
-         "pubDate" : "Thu, 20 Jun 2024 00:00:00",
-         "title" : "2024 Las Vegas Chess Festival: Durarbayli Wins National Open"
       },
       {
          "description" : " A couple of nights ago, Jaylen Brown of the Boston Celtics became an NBA Champion. He was also voted the Most Valuable Player of the series, justifying his mammoth five-year, $304 million contract signed the previous year. There were questions about whether the dynamic duo of Brown and fellow All-Star Jayson Tatum would materialize into The post <a href=\"https://www.thechessdrum.net/blog/2024/06/19/chess-molds-nba-champion-jaylen-brown/\">Chess molds NBA Champion, Jaylen Brown</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
