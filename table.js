@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-06-30","27","<a href=http://www.uschess.org/msa/XtblMain.php?202406308032 target='_blank'>WARM UP FOR THE JULY CHAMPIONSHIP</a>",
 "HOUSTON","2024-06-29","6","<a href=http://www.uschess.org/msa/XtblMain.php?202406297142 target='_blank'>CHESSPANDA06292024SATURDAY</a>",
 "HOUSTON","2024-06-29","20","<a href=http://www.uschess.org/msa/XtblMain.php?202406297122 target='_blank'>SHADOW CREEK SPORTS FRIDAY QUICK</a>",
 "HOUSTON","2024-06-28","28","<a href=http://www.uschess.org/msa/XtblMain.php?202406286872 target='_blank'>SHADOW CREEK SPORTS FRIDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2023-12-15","27","<a href=http://www.uschess.org/msa/XtblMain.php?202312155932 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-12-01  - 12-15","9","<a href=http://www.uschess.org/msa/XtblMain.php?202312155882 target='_blank'>REBECCA CHESS CLUB DECEMBER 2023 MONTHLY SWISS</a>",
 "HOUSTON","2023-12-15","10","<a href=http://www.uschess.org/msa/XtblMain.php?202312155862 target='_blank'>REBECCA CHESS CLUB QUADS DECEMBER 15, 2023</a>",
-"HOUSTON","2023-12-13","42","<a href=http://www.uschess.org/msa/XtblMain.php?202312137692 target='_blank'>HOUSTON HOMESCHOOLERS TOURNAMENT 20</a>",
 ]);
