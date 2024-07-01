@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "These two programs, the standard chess database and the World Champion chess engine, cost €279.80. Together as a package they are €249.90. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to equip yourself with the tools you need to take giant leaps forward as an ambitious chess player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-fritz-19",
+         "pubDate" : "Mon, 01 Jul 2024 09:02:36",
+         "title" : "ChessBase 17 + Fritz 19"
+      },
+      {
+         "description" : "The main event of the Le&oacute;n Chess Festival was the Le&oacute;n Masters, a 4-player knockout tournament featuring Arjun Erigaisi, Vishy Anand, Veselin Topalov and Jaime Santos. In its 37th edition, the event saw Anand grabbing his tenth title after beating Topalov in the semis and defending champion Santos in the final. Local hero Santos stunned top seed Arjun in their semifinal encounter. | Photo: Luque",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/leon-masters-2024-final-report",
+         "pubDate" : "Mon, 01 Jul 2024 08:10:00",
+         "title" : "Le&oacute;n Masters: Anand beats Topalov and Santos to claim tenth title"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Commentators were asked about Chess Boxing </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-boxing-grandchesstour-chess-chessboxing\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/C8Rs8koqsfM.jpg?itok=dlJ_U-WX\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,14 +98,6 @@ news_feed (
          "title" : "Pragg: Missed Chances Despite the Pushing | R5 #SuperbetChessClassicRomania"
       },
       {
-         "description" : "Faustino Oro scored 6&frac12;/9 points at the \"Cerrado IM Barcelona\" to become the youngest International Master in the history of chess. The Argentine prodigy gained his third IM norm at 10 years, 8 months and 16 days, thus breaking Abhimanyu Mishra's record by less than a month. Remarkably, Oro has already surpassed the 2400-rating mark as well, and even gained more rating at the event in Barcelona. | Photo: Federico Mar&iacute;n Bell&oacute;n / El Mundo",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/faustino-oro-youngest-ever-im",
-         "pubDate" : "Sun, 30 Jun 2024 19:40:00",
-         "title" : "He did it: Faustino Oro becomes youngest IM in history"
-      },
-      {
          "description" : "Indian chess legend Viswanathan Anand has won his 10th Leon Masters title after defeating GM Jaime Santos 3-1 in the final match. The 54-year-old Anand took over to win the last two games after a shaky start and has now won the event in northwest ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -138,14 +146,6 @@ news_feed (
          "title" : "Russia decision appealed"
       },
       {
-         "description" : "Fabiano Caruana obtained a convincing victory over Bogdan-Daniel Deac to become the sole leader at the Superbet Chess Classic in Bucharest. Tied for second place are Indian prodigies Praggnanandhaa and Gukesh. On Saturday, Pragg got the better of Anish Giri in a gripping 80-move encounter. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-4",
-         "pubDate" : "Sun, 30 Jun 2024 10:35:00",
-         "title" : "Superbet Classic: Caruana beats Deac, grabs the sole lead"
-      },
-      {
          "description" : "GM-elect Yagiz Erdogmus defeated FM Henry Tudor in the Final of the ChessKid Youth Championship 2024 for players under 13. While the Turkish prodigy was the clear favorite to win this event, Tudor managed to finish the regular games with a tied 2-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -176,14 +176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3095",
          "pubDate" : "Sat, 29 Jun 2024 22:15:35",
          "title" : "Playoff matches set at FIDE World Cup 8-12"
-      },
-      {
-         "description" : "The Global Chess League, a joint initiative between the International Chess Federation and Tech Mahindra, is set for a highly anticipated second edition in London. The 10-day, one-of-a-kind chess league featuring top players will take place at Friends House, located in the heart of central London, from October 3 to 12. Building on the success of its first season, the league aims to further broaden the viewership base through live broadcasts, interactive fan experiences, and community engagement activities.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-2024-preview",
-         "pubDate" : "Sat, 29 Jun 2024 21:00:00",
-         "title" : "In October: Global Chess League to take place in London"
       },
       {
          "description" : "After progressing to the ChessKid Youth Championships Knockout earlier in the day, 13-year-old GM-elect Yagiz Erdogmus has commanded another headline with a historic Bullet Brawl victory on Saturday. Scoring 220 points, he finished well ahead of s...",
@@ -272,14 +264,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-leon-masters-semifinals-1",
          "pubDate" : "Sat, 29 Jun 2024 04:58:00",
          "title" : "Anand Beats Topalov As Indian Legend Hunts 10th Leon Masters Title"
-      },
-      {
-         "description" : "When FIDE created the inaugural list of grandmasters, in 1950, there were 27 of them. Today, there are more than 1,850. \"There are too many grandmasters,\" said GM Nigel Short, FIDE director for chess development. \"To call me grandmaster adds nothing. They are two a penny.\" Dylan Loeb McClain writes about the situation in this interesting New York Times article.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grandmasters-two-a-penny",
-         "pubDate" : "Fri, 28 Jun 2024 21:00:00",
-         "title" : "Grandmasters two a penny?"
       },
       {
          "description" : "Despite lots of action on the boards, all of Friday&#39;s games in the third round of the Superbet Chess Classic Romania ended in draws. GMs Maxime Vachier-Lagrave and Praggnanandhaa Rameshbabu will be somewhat disappointed after spoiling winning posi...",
