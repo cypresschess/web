@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Commentators were asked about Chess Boxing </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-boxing-grandchesstour-chess-chessboxing\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/C8Rs8koqsfM.jpg?itok=dlJ_U-WX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-boxing-grandchesstour-chess-chessboxing",
+         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
+         "title" : "Chess Boxing #GrandChessTour #chess #chessboxing"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jovi explains why she would take with the pawn instead of the bishop </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jovis-potential-grandchesstour-chess-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Eu5dZSAu3Xs.jpg?itok=Pix4LyRo\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jovis-potential-grandchesstour-chess-chessstrategy-chesscom",
+         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
+         "title" : "Jovi's Potential #GrandChessTour #chess #chessstrategy #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Both gentlemen came prepared for this battle </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/body-language-grandchesstour-chess-chessopenings-anishgiri-alirezafirouzja\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QclUlVbK9dU.jpg?itok=FWw1-6I4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/body-language-grandchesstour-chess-chessopenings-anishgiri-alirezafirouzja",
+         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
+         "title" : "Body Language #GrandChessTour #chess #chessopenings #anishgiri #alirezafirouzja"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jovi shares an interesting bit about professional boxers and the game of chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jovi-speaks-professional-boxing-grandchesstour-chess-chessboxing-boxing\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TeeNkdt4h9A.jpg?itok=rZwNALBf\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jovi-speaks-professional-boxing-grandchesstour-chess-chessboxing-boxing",
+         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
+         "title" : "Jovi Speaks On Professional Boxing #GrandChessTour #chess #chessboxing #boxing"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jovi and Yasser having a little fun </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jovi-and-yassers-qualities-and-rules-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oUR5wklnHkE.jpg?itok=0KAa2jhE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jovi-and-yassers-qualities-and-rules-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
+         "title" : "Jovi and Yasser's Qualities and Rules #GrandChessTour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> This line was prepared awhile ago, however, Miro needs a little convincing </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-dont-take-rook-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wo1c4bPNWVA.jpg?itok=ov0GkOQY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/warning-dont-take-rook-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
+         "title" : "WARNING: Don't Take The Rook #GrandChessTour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jovi and Yasser look at potential Knight and Rook mates in the game between Nepo and Deac including the Vukovic </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/knight-and-rook-endgame-grandchesstour-chess-chessstrategy-checkmatepatterns-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/giH6_rVcYzQ.jpg?itok=tB0AU5XW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/knight-and-rook-endgame-grandchesstour-chess-chessstrategy-checkmatepatterns-chesscom",
+         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
+         "title" : "Knight and Rook Endgame #GrandChessTour #chess #chessstrategy #checkmatepatterns #chesscom"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila and offers analysis during Round 5 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-predicts-five-draws-again-r5-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m4Iv2LarP84.jpg?itok=o3jAUvhZ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -26,14 +82,6 @@ news_feed (
          "title" : "Pragg: Missed Chances Despite the Pushing | R5 #SuperbetChessClassicRomania"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 5 of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-5-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-5-grandchesstour",
-         "pubDate" : "Sun, 30 Jun 2024 20:31:09",
-         "title" : "RECAP | Superbet Chess Classic 2024: Round 5 | #GrandChessTour"
-      },
-      {
          "description" : "Faustino Oro scored 6&frac12;/9 points at the \"Cerrado IM Barcelona\" to become the youngest International Master in the history of chess. The Argentine prodigy gained his third IM norm at 10 years, 8 months and 16 days, thus breaking Abhimanyu Mishra's record by less than a month. Remarkably, Oro has already surpassed the 2400-rating mark as well, and even gained more rating at the event in Barcelona. | Photo: Federico Mar&iacute;n Bell&oacute;n / El Mundo",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,19 +90,11 @@ news_feed (
          "title" : "He did it: Faustino Oro becomes youngest IM in history"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 5. 2024.06.25<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-grapples-degrees-caring-superbetchessclassicromania",
-         "pubDate" : "Sun, 30 Jun 2024 17:31:04",
-         "title" : "Giri Grapples with the Degrees of Caring | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "Indian chess legend Viswanathan Anand has won his 10th Leon Masters title after defeating GM Jaime Santos 3-1 in the final match. 54-year-old Anand took over to win the last two games after a shaky start and has now won the event in northwest Spai...",
+         "description" : "Indian chess legend Viswanathan Anand has won his 10th Leon Masters title after defeating GM Jaime Santos 3-1 in the final match. The 54-year-old Anand took over to win the last two games after a shaky start and has now won the event in northwest ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-leon-masters-final",
-         "pubDate" : "Sun, 30 Jun 2024 16:03:24",
+         "pubDate" : "Sun, 30 Jun 2024 16:03:00",
          "title" : "Vishy Anand Wins 10th Leon Masters Title"
       },
       {
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/from-bridge-to-chess-why-men/",
          "pubDate" : "Sun, 30 Jun 2024 14:55:58",
          "title" : "Why men outperform women at 'mindsports' - and what to do about it"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-6-grandchesstour\"><img src=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-6-grandchesstour",
-         "pubDate" : "Sun, 30 Jun 2024 14:30:57",
-         "title" : "Superbet Chess Classic 2024: Round 6 | #GrandChessTour"
       },
       {
          "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -114,12 +146,12 @@ news_feed (
          "title" : "Superbet Classic: Caruana beats Deac, grabs the sole lead"
       },
       {
-         "description" : "GM-elect Yagiz Erdogmus defeated FM Henry Tudor in the Final of the ChessKid Youth Championships 2024 for players under 13. While the Turkish prodigy was the clear favorite to win this event, Tudor managed to finish the regular games with a tied 2...",
+         "description" : "GM-elect Yagiz Erdogmus defeated FM Henry Tudor in the Final of the ChessKid Youth Championship 2024 for players under 13. While the Turkish prodigy was the clear favorite to win this event, Tudor managed to finish the regular games with a tied 2-...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-13-day-erdogmus-wins",
          "pubDate" : "Sun, 30 Jun 2024 10:05:00",
-         "title" : "World's Youngest GM Wins 2024 ChessKid Youth Championships Under-13"
+         "title" : "World's Youngest GM Wins 2024 ChessKid Youth Championship Under-13"
       },
       {
          "description" : "The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship concluded yesterday in Andorra la Vella. The events were played from 22-30 June as 10-player round-robin tournaments with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino.&#160; GM Igor Efimov (MNC, 2312) emerged as the sole winner of the Open Championship scoring 8/9 points. Igor Efimov finished the event without a single loss, []",
@@ -138,30 +170,6 @@ news_feed (
          "title" : "Faustino Oro Becomes Youngest Ever International Master At 10"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Giri keeps viewers on the edge in his game against Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-living-his-increment-grandchesstour-chess-anishgiri\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/THS6B3Iphn0.jpg?itok=P8-M8uj-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-living-his-increment-grandchesstour-chess-anishgiri",
-         "pubDate" : "Sat, 29 Jun 2024 23:30:37",
-         "title" : "Giri Living On His Increment #grandchesstour #chess #anishgiri"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chess Analyst Anastasiya Karlovich is impressed with Pragg&#039;s approach going into the rounds </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anastasiyas-overview-praggnanandhaa-grandchesstour-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sdoTXgCZGYA.jpg?itok=CESj7hL_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anastasiyas-overview-praggnanandhaa-grandchesstour-chess",
-         "pubDate" : "Sat, 29 Jun 2024 23:30:37",
-         "title" : "Anastasiya's Overview of Praggnanandhaa #grandchesstour #chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jovi, Yasser, and Anastasiya are impressed with Pragg&#039;s accuracy and determination...Cristian identifies it as something else Photo by Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/praggs-accuracy-and-determination-grandchesstour-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/fXZ3arLcmPo.jpg?itok=qwn0lxn7\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/praggs-accuracy-and-determination-grandchesstour-chess",
-         "pubDate" : "Sat, 29 Jun 2024 23:30:37",
-         "title" : "Pragg's Accuracy and Determination #Grandchesstour #chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -176,14 +184,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/global-chess-league-2024-preview",
          "pubDate" : "Sat, 29 Jun 2024 21:00:00",
          "title" : "In October: Global Chess League to take place in London"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Mihaela Sandu and chess fan Pavel Pahomov talk to Anastasiya Karlovich during Rounds 3 and 2 respectively of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mihaela-sandu-wins-women%E2%80%99s-blitz-99-r2-r3-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QFm9p8ymFdY.jpg?itok=kXMJruSK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mihaela-sandu-wins-women%E2%80%99s-blitz-99-r2-r3-superbetchessclassicromania",
-         "pubDate" : "Sat, 29 Jun 2024 20:30:25",
-         "title" : "Mihaela Sandu Wins Women's Blitz 9/9! | R2 R3 #SuperbetChessClassicRomania"
       },
       {
          "description" : "After progressing to the ChessKid Youth Championships Knockout earlier in the day, 13-year-old GM-elect Yagiz Erdogmus has commanded another headline with a historic Bullet Brawl victory on Saturday. Scoring 220 points, he finished well ahead of s...",
@@ -226,12 +226,12 @@ news_feed (
          "title" : "Caruana Sole Leader, Back To World #2 After Beating Deac"
       },
       {
-         "description" : "GM-elect Yagiz Erdogmus, Antoni Radzimski, FM Henry Tudor, and CM Aaron Mendes all move on to the four-player Knockout of the ChessKid Youth Championships 2024 for players under 13. The four players finished in the top two of their respective grou...",
+         "description" : "GM-elect Yagiz Erdogmus, Antoni Radzimski, FM Henry Tudor, and CM Aaron Mendes all move on to the four-player Knockout of the ChessKid Youth Championship 2024 for players under 13. The four players finished in the top two of their respective group...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-13-day-1",
          "pubDate" : "Sat, 29 Jun 2024 13:08:00",
-         "title" : "Erdogmus, Radzimski, Tudor, Mendes Advance To ChessKid Youth Championships Knockout"
+         "title" : "Erdogmus, Radzimski, Tudor, Mendes Advance To ChessKid Youth Championship Knockout"
       },
       {
          "description" : "Do you like to get attacked? Most of us don't. That's why, especially in bad positions, you should aim to pose threats to your opponent. The engine might laugh at you, but your human opponent will likely be scared and more prone to make mistakes. That's called playing practical chess. In this article, I show []",
