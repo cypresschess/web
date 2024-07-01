@@ -410,7 +410,7 @@ news_feed (
          "title" : "Superbet Chess: Pragg, Gukesh secure draws in Round 2"
       },
       {
-         "description" : "FM Alisa Melekhina's photo report depicts her week at the Hotel Breezes resort in Nassau, Bahamas where she was one of several Americans competing in the Orjan Lindroth Memorial Open chess tournament, held from June 5 through 12, 2024.<br /><br /> Imagine celebrating a chess victory, or escaping from a devastating loss, by soaking up the Caribbean sun steps away from the beach. This rare experience is made possible by the new Orjan Lindroth Memorial Chess Open, organized annually in early June by the Bahamas Chess Federation and the Bahamas Chess Institute. Only in its third edition, this hidden gem of a tournament is about to be uncovered.<br /><br /> For players staying on-site, the Hotel ",
+         "description" : "FM Alisa Melekhina's photo report depicts her week at the Hotel Breezes resort in Nassau, Bahamas where she was one of several Americans competing in the Orjan Lindroth Memorial Open chess tournament, held from June 5 through 12, 2024.<br /><br /> Imagine celebrating a chess victory, or escaping from a devastating loss, by soaking up the Caribbean sun steps away from the beach. This rare experience is made possible by the new Orjan Lindroth Memorial Chess Open, organized annually in early June by the Bahamas Chess Federation and the Bahamas Chess Institute. Only in its third edition, this hidden gem of a tournament is about to be uncovered.<br /><br /> <br /><br /><br /> Image<br /><br /><br",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/chess-paradise-fm-alisa-melekhinas-impressions-orjan-lindroth-memorial",
@@ -1144,22 +1144,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-holds-half-point-lead-on-top-in-world-junior-chess/articleshow/110892554.cms",
          "pubDate" : "Tue, 11 Jun 2024 05:19:10",
          "title" : "Divya Deshmukh holds half-point lead to stay on top in World Junior chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3060",
-         "pubDate" : "Mon, 10 Jun 2024 21:07:21",
-         "title" : "FIDE Grand Swiss & Women's Grand Swiss 2025 - Call for bids"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110883621.cms\" />India's highest ranked chess player Arjun Erigaisi, who has touched world No. 4 in live rating (Elo 2771), thanks to his good show in the recent Open tournaments, told TOI: \"It's a good feeling to be world No. 4 but I am not caring too much about the rankings. Rating is not my priority. I am just enjoying the process and the main aim is to have fun.\"",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-world-no-4-chess-gm-arjun-erigaisi-aims-to-have-fun-and-crack-at-candidates/articleshow/110883621.cms",
-         "pubDate" : "Mon, 10 Jun 2024 19:41:11",
-         "title" : "India's world no. 4 chess GM Erigaisi aims to have fun and crack at Candidates"
       }
    ]
 }
