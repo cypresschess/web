@@ -2,20 +2,60 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Despite the significant advances made in defensive technique over the years, the phenomenon of the unprotected king is still quite common, as it is met in a high number of games. By this we mean a king that has come under enemy fire that is not readily repulsed. Top chess trainer GM Efstratios Grivas gives us a comprehensive lesson in attacking the uncastled king.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/crime-and-punishment",
+         "pubDate" : "Mon, 01 Jul 2024 12:00:00",
+         "title" : "Crime and Punishment"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, UP Sports Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 27 to 28 July",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-from-27-to-28-july-2024-at-bijnor-up/",
+         "pubDate" : "Mon, 01 Jul 2024 10:37:56",
+         "title" : "Senior National Arbiters Seminar & Exam from 27 to 28 July 2024 at Bijnor , UP"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Global Chess League</strong> event in October in London comes with a <strong>Hackathon</strong> and $10.000 in prices. Ideas how to improve the chess experience have <a href=\"https://fans.globalchessleague.com/hackathon\">to be submitted</a> until 12 July. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/innovation-challenge/",
+         "pubDate" : "Mon, 01 Jul 2024 10:32:51",
+         "title" : "Innovation Challenge"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The American GM Hans Niemann announced a series of matches with Giri in Utrecht, Vitiugov in London, Bacrot in Paris and Nihal Sarin in Sharjah throughout August. Each match to consist of 6 classical, 6 rapid and 12 blitz games. The <a href=\"https://x.com/HansMokeNiemann/status/1807422406476063021\">announcement</a> includes a call for sponsors. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/niemann-match-tour-in-august/",
+         "pubDate" : "Mon, 01 Jul 2024 10:25:22",
+         "title" : "Niemann match tour in August"
+      },
+      {
+         "description" : "All Assam Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at Down",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-at-guwahati-on-21-22-june-2024/",
+         "pubDate" : "Mon, 01 Jul 2024 10:02:15",
+         "title" : "Final Report of Senior National Arbiter Seminar & Examination at Guwahati on 21-22 June 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3097",
+         "pubDate" : "Mon, 01 Jul 2024 09:07:19",
+         "title" : "Polish chess players shine at 2024 FISU Championship Mind Sports"
+      },
+      {
          "description" : "These two programs, the standard chess database and the World Champion chess engine, cost €279.80. Together as a package they are €249.90. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to equip yourself with the tools you need to take giant leaps forward as an ambitious chess player.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chessbase-17-fritz-19",
          "pubDate" : "Mon, 01 Jul 2024 09:02:36",
          "title" : "ChessBase 17 + Fritz 19"
-      },
-      {
-         "description" : "The main event of the Le&oacute;n Chess Festival was the Le&oacute;n Masters, a 4-player knockout tournament featuring Arjun Erigaisi, Vishy Anand, Veselin Topalov and Jaime Santos. In its 37th edition, the event saw Anand grabbing his tenth title after beating Topalov in the semis and defending champion Santos in the final. Local hero Santos stunned top seed Arjun in their semifinal encounter. | Photo: Luque",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/leon-masters-2024-final-report",
-         "pubDate" : "Mon, 01 Jul 2024 08:10:00",
-         "title" : "Le&oacute;n Masters: Anand beats Topalov and Santos to claim tenth title"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Commentators were asked about Chess Boxing </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-boxing-grandchesstour-chess-chessboxing\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/C8Rs8koqsfM.jpg?itok=dlJ_U-WX\" alt=\"\" /></a></div>",
@@ -128,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-5",
          "pubDate" : "Sun, 30 Jun 2024 13:00:00",
          "title" : "Missed Chances Mark Another Day Of Draws In Bucharest"
-      },
-      {
-         "description" : "In 1921 World Champion Emanuel Lasker played a match against challenger Jos&eacute; Ra&uacute;l Capablanca. Game 10 saw the Cuban gain an advantage with the black pieces, but with limited material on the board Lasker had chances of survival. The game is particularly interesting from move 39 to 43, where there are several interesting riddles we want to solve. Can you help us do this?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-riddle-lasker-capablanca",
-         "pubDate" : "Sun, 30 Jun 2024 12:00:00",
-         "title" : "New Riddle: Lasker-Capablanca"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Both parties have appealed against the <a href=\"https://www.fide.com/news/3056\">decision</a> of the <strong>FIDE Ethics Commission</strong> to ban the <strong>Russian Chess Federation</strong> for having war criminals on its supervisory board and to reprimand President <strong>Arkady Dvorkovich</strong> for being on that board and not having intervened. </div> ",
@@ -410,22 +442,6 @@ news_feed (
          "title" : "Don't miss out: Registration deadline for the FIDE World Rapid and Blitz Team Championships approaching"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Backed by <strong>Magnus Carlsen</strong> the Oslo-based startup <strong>Fantasychess</strong> <a href=\"https://www.forbes.com/sites/alexkonrad/2024/06/25/fantasy-chess-magnus-carlsen-startup-raises-millions/#:~:text=Fantasy%20Chess%20founder%20Magnus%20Carlsen,and%20streaming%20startup%20in%20chess.\">has raised $3million</a> in 2023 and is <a href=\"https://www.fantasychess.app/careers\">currently hiring</a> a CFO, head of content, fullstack developer, designer and also invites open applications. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/fantasychess-is-hiring/",
-         "pubDate" : "Wed, 26 Jun 2024 19:41:51",
-         "title" : "Fantasychess is hiring"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> After being reelected as President of the <strong>Austrian Chess Federation</strong> for two more years, <strong>Michael St&ouml;ttinger</strong> told ChessTech that <a href=\"https://www.fide.com/news/3071\">FIDE's announcement</a> of the <strong>Rapid &amp; Blitz World Championship</strong> 2024 in New York helps him to secure funding and support to bid for the 2025 event in Austria, where it may be held in Linz, Salzburg or Vienna. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/austria-prepares-bid-for-rb-2025/",
-         "pubDate" : "Wed, 26 Jun 2024 18:59:44",
-         "title" : "Austria prepares bid for R&B 2025"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -514,14 +530,6 @@ news_feed (
          "title" : "Bernard Parham, chess innovator, passes away"
       },
       {
-         "description" : "The famous Biel International Chess Festival will take place again, from the 12.07. - 26.07.2024. It is still enough time to spontaneously plan to participate, book travel tickets + hotel, and invest a little time to brush up your openings. Whatever you enjoy the most in chess, the Biel festival has you covered: from Blitz, to Rapid, to several Classical events, up to a Simultaneous match against Abhimanyu Mishra, a 960 event, and even more formats for younger players, and Physicians only! | Photo: Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-international-chess-festival-last-chance-to-join",
-         "pubDate" : "Tue, 25 Jun 2024 13:07:23",
-         "title" : "Biel International Chess Festival - Last chance to join!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -576,14 +584,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3084",
          "pubDate" : "Mon, 24 Jun 2024 22:25:06",
          "title" : "FIDE World Cup 8-12: Multiple leaders emerge after Day 2"
-      },
-      {
-         "description" : "To conduct a successful attack on any part of the board, you need pieces. You need to gather as much power force as possible and force your opponent to kneel down under the unbearable pressure. In more simple words, if the ratio of your attacking pieces surpass the ratio of your enemy's defensive pieces, then you are in the right track! Even if you cannot see directly a decisive blow, you must be assured that sooner or later the opportunity will come in sight&hellip; Let international chess trainer Efstratios Grivas explain the concept with a game he played thirty years ago.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gathering-piece-force",
-         "pubDate" : "Mon, 24 Jun 2024 16:00:00",
-         "title" : "Gathering Piece Force"
       },
       {
          "description" : "",
@@ -938,14 +938,6 @@ news_feed (
          "title" : "Chessify wins the World Corporate Chess Championship"
       },
       {
-         "description" : "Our beloved WIM from Canada picked up streaming chess games online a couple of months ago, and became a Twitch partner in no time. Thousands of chess friends are watching her, playing blitz and bullet games, or solving puzzles. Svitlana gained nearly 6000 followers, who she even plays against on stream, at times.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/did-you-know-svitlana-demchenko-is-streaming-chess",
-         "pubDate" : "Mon, 17 Jun 2024 23:50:00",
-         "title" : "Did you know? Svitlana Demchenko is streaming chess!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1090,36 +1082,12 @@ news_feed (
          "title" : "Divya Deshmukh maintains sole lead in World Junior Chess C'ship"
       },
       {
-         "description" : "It is startling to think that eight years have already passed by since the death, at the comparatively early age of 68, of the world's greatest chess trainer. It is equally startling to think that there will be a whole generation of chess players who know nothing about Mark Dvoretsky, his work or his achievements. Fortunately there is a new book from New in Chess to remind the chess world about Mark Dvoretsky. CHESS Magazine review by Sean Marsh.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-mark-dvoretsky",
-         "pubDate" : "Wed, 12 Jun 2024 15:00:00",
-         "title" : "Remembering Mark Dvoretsky"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3062",
          "pubDate" : "Wed, 12 Jun 2024 10:58:07",
          "title" : "Chess tables in the prison yard of Alphen: A strategic move"
-      },
-      {
-         "description" : "In this section we compare the risks playing a game of chess brings to your life - as compared to other activities a person may undertake. For example, riding a bike for 25 miles, running a marathon, climbing Matterhorn - or marrying Henry VIII. The assessment is given in micromort units, which can be used to generally calculate the risks under which people are in everyday life. | Picture Willie Benegas and Doug Pierson on Mountainmadness.com",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/how-dangerous-is-life-in-general",
-         "pubDate" : "Tue, 11 Jun 2024 17:00:00",
-         "title" : "How dangerous is life in general?"
-      },
-      {
-         "description" : "India won 3 Gold &#38; 1 Silver in Asian Youth Rapid Chess Championship, at Almaty (Kazakhstan) Asian Youth Rapid Chess Championship started here in Baluan",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/day-2-rapid-asian-youth-chess-championship-2024/",
-         "pubDate" : "Tue, 11 Jun 2024 11:53:12",
-         "title" : "Day 2 Rapid ! Asian Youth Chess Championship 2024"
       },
       {
          "description" : "",
@@ -1154,14 +1122,6 @@ news_feed (
          "title" : "India's world no. 4 chess GM Erigaisi aims to have fun and crack at Candidates"
       },
       {
-         "description" : " 5 Indians are leading after 4 rounds in Asian Youth Rapid, Kazakhstan Aaaradhya Das and R Pooja Shree are leading after 4 rounds in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/report-day-1-rapid-asian-youth-chess-championship-2024/",
-         "pubDate" : "Mon, 10 Jun 2024 17:14:13",
-         "title" : "Report :- Day 1 Rapid (Asian Youth Chess Championship 2024 )"
-      },
-      {
          "description" : "European Chess Union and Montenegro Chess Federation have the honor to invite all National Chess Federations, members of the ECU, end eligible players to participate in the European Individual Chess Championship 2024. The event will be held from 7-20 November in Petrovac, Montenegro. European Individual Chess Championship 2024 is open for all players from National Chess Federations members of the European Chess Union (ECU) without rating or title limitations. There is no limit of number of participants per federation, but []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1184,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3059",
          "pubDate" : "Mon, 10 Jun 2024 12:00:29",
          "title" : "Olympiad Training Support Program is open"
-      },
-      {
-         "description" : "All FIDE Member Federations and eligible players with FIDE rating under 2300 are invited to participate in the FIDE World Amateur Chess Championship 2024. The...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/world-amateur-championship-2024-registration-is-open/",
-         "pubDate" : "Mon, 10 Jun 2024 08:00:45",
-         "title" : "World Amateur Championship 2024 registration is open"
       }
    ]
 }
