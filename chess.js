@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All games in round 5 of the Superbet Chess Classic ended drawn, leaving Fabiano Caruana as the sole leader in the standings. The biggest chance missed on Sunday was Praggnanandhaa's, who failed to make the most of a mistake made by Wesley So. Pragg is tied for second place with Gukesh, who drew his game with white against Nodirbek Abdusattorov. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-5",
+         "pubDate" : "Tue, 02 Jul 2024 08:40:00",
+         "title" : "Superbet Classic: Caruana sole leader at the halfway mark"
+      },
+      {
+         "description" : "These two programs, the standard chess database and the World Champion chess engine, cost €279.80. Together as a package they are €249.90. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to equip yourself with the tools you need to take giant leaps forward as an ambitious chess player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-fritz-19",
+         "pubDate" : "Mon, 01 Jul 2024 22:02:36",
+         "title" : "ChessBase 17 + Fritz 19"
+      },
+      {
+         "description" : "The Singapore Chess Federation, supported by the Government of Singapore, has won the bid to host the FIDE World Championship Match 2024. The Match will feature the defending Champion Ding Liren from China and the Challenger Gukesh D from India, and will take place between November 20 and December 15, 2024. Press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/breaking-singapore-to-host-the-world-championship-2024",
+         "pubDate" : "Mon, 01 Jul 2024 20:40:33",
+         "title" : "Breaking: Singapore to host the World Championship 2024!"
+      },
+      {
          "description" : "With a current rating of 2832 Magnus Carlsen leads the world ranking list from July 2024. He is 30 rating points ahead of Hikaru Nakamura, who is the world's number 2 with 2802 points. Nakamura swapped places with Fabiano Caruana, number 3 on the ranking list. Hou Yifan is still number 1 on the Women's World Ranking list, while Nodirbek Abdusattorov is the world's best junior. Bibisara Assaubayeva defended her position as the world's best female junior.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-helps-boxers-grandchesstour-chess-chessboxing-boxing",
          "pubDate" : "Mon, 01 Jul 2024 17:31:42",
          "title" : "Chess Helps Boxers #GrandChessTour #chess #chessboxing #boxing"
-      },
-      {
-         "description" : "The Singapore Chess Federation, supported by the Government of Singapore, has won the bid to host the FIDE World Championship Match 2024. The Match will feature the defending Champion Ding Liren from China and the Challenger Gukesh D from India, and will take place between November 20 and December 15, 2024. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-singapore-to-host-the-world-championship-2024",
-         "pubDate" : "Mon, 01 Jul 2024 14:40:33",
-         "title" : "Breaking: Singapore to host the World Championship 2024!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111408746.cms\" />FIDE announced on Monday that Singapore will host the 2024 World Championship match between India's chess prodigy D Gukesh and defending champion Ding Liren from China.",
@@ -122,14 +138,6 @@ news_feed (
          "title" : "Polish chess players shine at 2024 FISU Championship Mind Sports"
       },
       {
-         "description" : "These two programs, the standard chess database and the World Champion chess engine, cost €279.80. Together as a package they are €249.90. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to equip yourself with the tools you need to take giant leaps forward as an ambitious chess player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-fritz-19",
-         "pubDate" : "Mon, 01 Jul 2024 09:02:36",
-         "title" : "ChessBase 17 + Fritz 19"
-      },
-      {
          "description" : "The $2.5 million 2024 FIDE World Championship between reigning World Champion Ding Liren and his challenger GM Gukesh Dommaraju will take place in Singapore between November 20 and December 15. FIDE announced on Monday that the southeast Asian cit...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -208,14 +216,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/from-bridge-to-chess-why-men/",
          "pubDate" : "Sun, 30 Jun 2024 14:55:58",
          "title" : "Why men outperform women at 'mindsports' - and what to do about it"
-      },
-      {
-         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
-         "pubDate" : "Sun, 30 Jun 2024 13:50:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "Another round with five draws at the Superbet Chess Classic Romania saw several missed chances. GM Praggnanandhaa Rameshbabu was completely winning for one move but failed to spot the required queen sortie against GM Wesley So. Another hard-to-fin...",
@@ -1136,14 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3061",
          "pubDate" : "Tue, 11 Jun 2024 11:20:40",
          "title" : "Important update to C.04.1 Basic Rules for Swiss Systems"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110892554.cms\" />The top seeded Divya took just 36 moves to win her eighth-round contest against Norman and maintain a half-point lead with an unbeaten run in the World Chess Federation (FIDE) organized U-20 championship.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-holds-half-point-lead-on-top-in-world-junior-chess/articleshow/110892554.cms",
-         "pubDate" : "Tue, 11 Jun 2024 05:19:10",
-         "title" : "Divya Deshmukh holds half-point lead to stay on top in World Junior chess"
       }
    ]
 }
