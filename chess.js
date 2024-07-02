@@ -10,6 +10,22 @@ news_feed (
          "title" : "Behind the board - Interview with Nico Zwirs"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 6 of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-6-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-6-grandchesstour",
+         "pubDate" : "Tue, 02 Jul 2024 20:32:42",
+         "title" : "RECAP | Superbet Chess Classic 2024: Round 6 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-ding-no-one-can-play-if-not-100-ready-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hgB6i1Wcqsg.jpg?itok=F_ER3BQ2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-ding-no-one-can-play-if-not-100-ready-superbetchessclassicromania",
+         "pubDate" : "Tue, 02 Jul 2024 20:32:42",
+         "title" : "MVL on Ding: No One Can Play if Not 100% Ready | #SuperbetChessClassicRomania"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2024/file-20240219-24-m3v5sz.1920.jpeg\" title=\"Elite bridge player Margherita Chavarria from Italy. Francesca Canali from the World Bridge Federation, CC BY-SA\" data-title=\"Elite bridge player Margherita Chavarria from Italy. (Francesca Canali from the World Bridge Federation, &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC BY-SA&lt;/a&gt;)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.ches",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -58,6 +74,14 @@ news_feed (
          "title" : "Superbet Chess Classic - Live!"
       },
       {
+         "description" : "A powerful victory against GM Wesley So brought GM Alireza Firouzja into joined second place at the Superbet Chess Classic Romania, which resumed on Tuesday following a rest day. After the sixth round, GM Fabiano Caruana continues to lead by half ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-6",
+         "pubDate" : "Tue, 02 Jul 2024 13:42:36",
+         "title" : "Firouzja Beats So; Joins Gukesh, Praggnanandhaa In 2nd Place"
+      },
+      {
          "description" : "The England teams for the Chess Olympiad at Budapest in September have been selected. Board orders will be determined by the Selection Committee at a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -96,6 +120,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/kids-vs-stars-2",
          "pubDate" : "Tue, 02 Jul 2024 08:10:00",
          "title" : "Kids vs Stars: Can The Young Guns Checkmate the Chess Masters Again?"
+      },
+      {
+         "description" : "Note: These scholarships are funded and administered outside of US Chess by the private organization Kids for Chess. <br /><br /> Kids for Chess, a nonprofit organization committed to supporting America's best youth chess players, is thrilled to announce the five winners of its scholarships for the 2024 World Youth and World Cadets Championships. <br /><br /> After a rigorous selection process, the scholarships, each valued at $1,500, have been awarded to Aayansh Guntaka, Laurie Qiu, Megan Paragua, Michael Li, and Sasha Schaefer. The scholarships aim to assist the winners with the costs associated with participating in the World Youth and World Cadets Chess Championships this year.<br /><br ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/kids-chess-announces-2024-scholarship-winners",
+         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
+         "title" : "Kids for Chess Announces 2024 Scholarship Winners"
       },
       {
          "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Share your Story<br /><br /> The US Chess Federation wants to hear your story. With 85 years of organizational history, there are so many stories to tell! And we need your help. The US Chess Oral History Project is a chance to collect the stories of your chess life in your own words. These stories will be preserved in a beautiful book and in a digital archive that celebrates US Chess' impact on your life and the person you are today. As of June 24, over 4,000 people have already shared their oral histories with us!<br /><br /> You may receive an email, postcard and phone call from a company calle",
@@ -250,14 +282,6 @@ news_feed (
          "title" : "Senior National Arbiters Seminar & Exam from 27 to 28 July 2024 at Bijnor , UP"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>Global Chess League</strong> event in October in London comes with a <strong>Hackathon</strong> and $10.000 in prices. Ideas how to improve the chess experience have <a href=\"https://fans.globalchessleague.com/hackathon\">to be submitted</a> until 12 July. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/innovation-challenge/",
-         "pubDate" : "Mon, 01 Jul 2024 10:32:51",
-         "title" : "Innovation Challenge"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The American GM Hans Niemann announced a series of matches with Giri in Utrecht, Vitiugov in London, Bacrot in Paris and Nihal Sarin in Sharjah throughout August. Each match to consist of 6 classical, 6 rapid and 12 blitz games. The <a href=\"https://x.com/HansMokeNiemann/status/1807422406476063021\">announcement</a> includes a call for sponsors. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -320,22 +344,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jovi-speaks-professional-boxing-grandchesstour-chess-chessboxing-boxing",
          "pubDate" : "Sun, 30 Jun 2024 23:31:12",
          "title" : "Jovi Speaks On Professional Boxing #GrandChessTour #chess #chessboxing #boxing"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jovi and Yasser having a little fun </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jovi-and-yassers-qualities-and-rules-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oUR5wklnHkE.jpg?itok=0KAa2jhE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jovi-and-yassers-qualities-and-rules-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
-         "title" : "Jovi and Yasser's Qualities and Rules #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> This line was prepared awhile ago, however, Miro needs a little convincing </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-dont-take-rook-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wo1c4bPNWVA.jpg?itok=ov0GkOQY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/warning-dont-take-rook-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
-         "title" : "WARNING: Don't Take The Rook #GrandChessTour #chess #chesstactics #chesscom"
       },
       {
          "description" : "Indian chess legend Viswanathan Anand has won his 10th Leon Masters title after defeating GM Jaime Santos 3-1 in the final match. The 54-year-old Anand took over to win the last two games after a shaky start and has now won the event in northwest ...",
@@ -578,6 +586,14 @@ news_feed (
          "title" : "Gukesh beats Deac Bogdan-Daniel in Superbet Classic chess"
       },
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Tech Mahindra</strong> has announced a second season of its <strong><a href=\"https://globalchessleague.com\">Global Chess League</a></strong> on 3-12 October in London, securing a live audience and interaction with fans for the high powered rapid team event, which will be followed by the <strong>WR Chess Masters Cup</strong> on 14-18 October held by German sponsor <strong>Wadim Rosenstein</strong> in a k.o.-format, also in London. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/london-hosts-global-chess-league/",
+         "pubDate" : "Thu, 27 Jun 2024 09:30:12",
+         "title" : "London hosts Global Chess League"
+      },
+      {
          "description" : "GMs Awonder Liang and Denis Lazavik won Titled Tuesday on June 25, and several more players locked up a spot in the 2024 Speed Chess Championship after their highly successful Titled Tuesday performances this year to date: GMs Jan-Krzysztof Duda, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "26th Asian Youth Chess Championships conclude in Almaty, Kazakhstan"
       },
       {
-         "description" : "Downtown Manhattan is one of the world's most traversed spots. With several financial centers on Wall Street as well as dozens of world-famous attractions, the land between the two rivers has attracted tourists and businesspersons from all around the world. The FIDE World Corporate Chess Championship, held June 15 through 17, merged these two worlds fantastically, and did so much more in the process.<br /><br /> A gathering of businesspersons and chess players from all around the world, this tournament bridged the divides of different countries, languages, and professions in a shared language of chess. Some players flew in from faraway places including China and Kazakhstan, and many others f",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/chess-transcends-borders-fide-world-corporate-chess-championships",
-         "pubDate" : "Tue, 25 Jun 2024 00:00:00",
-         "title" : "Chess Transcends Borders at FIDE World Corporate Chess Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -808,14 +816,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3080",
          "pubDate" : "Sun, 23 Jun 2024 12:36:35",
          "title" : "Cairns Cup 2024: Tan Zhongyi clinch title"
-      },
-      {
-         "description" : "Former World Champion Viswanathan Anand will be joined by Women&#39;s World Champion Ju Wenjun and 14 more top players for the WR Chess Masters Cup, a 16-player knockout in London that runs October 14-18. That&#39;s just the start of a month of chess, wit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/anand-ju-wenjun-wr-chess-masters-dubai-london",
-         "pubDate" : "Sun, 23 Jun 2024 06:37:00",
-         "title" : "Anand, Ju Wenjun In Action As WR Masters Returns In London, Dubai, Dusseldorf"
       },
       {
          "description" : "The 2024 European Youth Team Chess Championship commenced in Rhodes, Greece. With the participation of 58 teams from 16 European federations, the event broke the participation record. The Opening ceremony of the event took place shortly before the start of the first round, with the ECU Secretary General Mr. Theodoros Tsorbatzoglou and the special guest, President of the Asean Chess Confederation Mr. Leong Ignatius played the first ceremonial moves on the top boards. The first two rounds saw some upsets []",
