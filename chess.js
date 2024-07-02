@@ -18,6 +18,14 @@ news_feed (
          "title" : "ChessBase 17 + Fritz 19"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3090",
+         "pubDate" : "Mon, 01 Jul 2024 21:10:16",
+         "title" : "Don't miss out: Registration deadline for the FIDE World Rapid and Blitz Team Championships approaching"
+      },
+      {
          "description" : "The Singapore Chess Federation, supported by the Government of Singapore, has won the bid to host the FIDE World Championship Match 2024. The Match will feature the defending Champion Ding Liren from China and the Challenger Gukesh D from India, and will take place between November 20 and December 15, 2024. Press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -488,14 +496,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/hans-niemann-wins-universal-chess-tours-inaugural-super-gm-match-chidobe-awuzie-celebrity",
          "pubDate" : "Thu, 27 Jun 2024 00:00:00",
          "title" : "Hans Niemann Wins Universal Chess Tour's Inaugural Super GM Match; Chidobe Awuzie Celebrity Chess Winner"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3090",
-         "pubDate" : "Wed, 26 Jun 2024 21:10:16",
-         "title" : "Don't miss out: Registration deadline for the FIDE World Rapid and Blitz Team Championships approaching"
       },
       {
          "description" : "",
