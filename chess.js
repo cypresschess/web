@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In an interview with Nico Zwirs at the ChessBase studio in Hamburg, the Dutch IM shares insights into his recent tournament experiences, his journey in the chess world, and his thoughts on balancing competitive play with coaching. He also discusses the intricate dynamics of chess training and preparation, the personal and professional growth of a chess player, and the balance between maintaining a competitive edge while nurturing the next generation of players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/behind-the-board-interview-with-nico-zwirs",
+         "pubDate" : "Tue, 02 Jul 2024 21:00:00",
+         "title" : "Behind the board - Interview with Nico Zwirs"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2024/file-20240219-24-m3v5sz.1920.jpeg\" title=\"Elite bridge player Margherita Chavarria from Italy. Francesca Canali from the World Bridge Federation, CC BY-SA\" data-title=\"Elite bridge player Margherita Chavarria from Italy. (Francesca Canali from the World Bridge Federation, &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC BY-SA&lt;/a&gt;)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.ches",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/from-bridge-to-chess-why-men/",
+         "pubDate" : "Tue, 02 Jul 2024 18:15:16",
+         "title" : "Why men outperform women at 'mindsports' - and what to do about it"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-7-grandchesstour\"><img src=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-7-grandchesstour",
+         "pubDate" : "Tue, 02 Jul 2024 17:32:41",
+         "title" : "Superbet Chess Classic 2024: Round 7 | #GrandChessTour"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3099",
+         "pubDate" : "Tue, 02 Jul 2024 16:08:20",
+         "title" : "FIDE World Senior Team Championship 2024 kicks off in Krakow, Poland"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Both parties have appealed against the <a href=\"https://www.fide.com/news/3056\">decision</a> of the <strong>FIDE Ethics Commission</strong> to ban the <strong>Russian Chess Federation</strong> for having war criminals on its supervisory board and to reprimand President <strong>Arkady Dvorkovich</strong> for being on that board and not having intervened. The <strong>Chess Federation of Russia</strong> is <a href=\"https://ruchess.ru/en/news/all/alexander_tkachev_we_filed_an_appeal_against_the_fide_edc_s_decision/\">also demanding</a> to dissolve the Ethics Commission, revise its codex and readmit Russia, Belarus and their national symbols in FIDE event",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -42,6 +74,14 @@ news_feed (
          "title" : "World Senior Team Championships start in Krakow"
       },
       {
+         "description" : "Meet nine-year-old Ethan Pang from London, U.K. The chess prodigy has just fulfilled a dream after a series of incredible results that earned him the title of candidate master and the record as the youngest player ever to cross the 2200-barrier. ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9-year-old-ethan-pang-becomes-youngest-to-ever-break-2200",
+         "pubDate" : "Tue, 02 Jul 2024 08:55:00",
+         "title" : "9-Year-Old Ethan Pang Breaks Faustino Oro's Record To Become Youngest Ever 2200-Player"
+      },
+      {
          "description" : "The Collegiate Chess League is excited to announce our third annual summer season, proudly presented by Susquehanna, one of the world&#38;rsquo;s leading quantitative trading firms. The 2024 summer season will bring back both the bullet and Bughouse...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -58,7 +98,31 @@ news_feed (
          "title" : "Kids vs Stars: Can The Young Guns Checkmate the Chess Masters Again?"
       },
       {
-         "description" : "<br /><br /><br /><br /> <br /><br /> US Chess offices will be closed Thursday, July 4 in celebration of Independence Day, and will reopen for normal business operations on Friday, July 5. <br /><br /> All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing, so please submit any TLAs or email blasts by noon CDT on Wednesday, July 3, to ensure they will be approved before the office closure.",
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Share your Story<br /><br /> The US Chess Federation wants to hear your story. With 85 years of organizational history, there are so many stories to tell! And we need your help. The US Chess Oral History Project is a chance to collect the stories of your chess life in your own words. These stories will be preserved in a beautiful book and in a digital archive that celebrates US Chess' impact on your life and the person you are today. As of June 24, over 4,000 people have already shared their oral histories with us!<br /><br /> You may receive an email, postcard and phone call from a company calle",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-oral-history-project",
+         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
+         "title" : "US Chess Oral History Project"
+      },
+      {
+         "description" : "This week's Tactics Tuesday features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12 and Girls U-12 tournaments. The \"match\" portion of this event has just finished, and future editions of Tactics Tuesday will highlight games from the U-10 and U-8 open and Girls sections. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-u-12-and-girls-u-12",
+         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Cup U-12 and Girls U-12"
+      },
+      {
+         "description" : " <br /><br /> The 2024 Delegates Call can be downloaded by clicking here. <br /><br /> The printed copies of the Call were mailed to Delegates at the end of last week.<br /><br /> For more Delegates information, please click here. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-delegates-call",
+         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
+         "title" : "2024 Delegates Call"
+      },
+      {
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> US Chess offices will be closed Thursday, July 4 in celebration of Independence Day, and will reopen for normal business operations on Friday, July 5. <br /><br /> All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing, so please submit any TLAs or email blasts by noon CDT on Wednesday, July 3, to ensure they will be approved before the office closure.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-offices-closed-thursday-july-4",
@@ -128,6 +192,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chess-helps-boxers-grandchesstour-chess-chessboxing-boxing",
          "pubDate" : "Mon, 01 Jul 2024 17:31:42",
          "title" : "Chess Helps Boxers #GrandChessTour #chess #chessboxing #boxing"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3098",
+         "pubDate" : "Mon, 01 Jul 2024 13:44:16",
+         "title" : "Arjun Erigaisi enter top 5 Open in July 2024 rating list"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111408746.cms\" />FIDE announced on Monday that Singapore will host the 2024 World Championship match between India's chess prodigy D Gukesh and defending champion Ding Liren from China.",
@@ -205,14 +277,6 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3098",
-         "pubDate" : "Mon, 01 Jul 2024 09:44:16",
-         "title" : "Arjun Erigaisi enter top 5 Open in July 2024 rating list"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3097",
          "pubDate" : "Mon, 01 Jul 2024 09:07:19",
          "title" : "Polish chess players shine at 2024 FISU Championship Mind Sports"
@@ -274,28 +338,12 @@ news_feed (
          "title" : "WARNING: Don't Take The Rook #GrandChessTour #chess #chesstactics #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Jovi and Yasser look at potential Knight and Rook mates in the game between Nepo and Deac including the Vukovic </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/knight-and-rook-endgame-grandchesstour-chess-chessstrategy-checkmatepatterns-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/giH6_rVcYzQ.jpg?itok=tB0AU5XW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/knight-and-rook-endgame-grandchesstour-chess-chessstrategy-checkmatepatterns-chesscom",
-         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
-         "title" : "Knight and Rook Endgame #GrandChessTour #chess #chessstrategy #checkmatepatterns #chesscom"
-      },
-      {
          "description" : "Indian chess legend Viswanathan Anand has won his 10th Leon Masters title after defeating GM Jaime Santos 3-1 in the final match. The 54-year-old Anand took over to win the last two games after a shaky start and has now won the event in northwest ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-leon-masters-final",
          "pubDate" : "Sun, 30 Jun 2024 16:03:00",
          "title" : "Vishy Anand Wins 10th Leon Masters Title"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/sam-in-london.1920.jpeg\" title=\"Samantha Punch is a professor at the Faculty of Social Sciences at the University of Stirling and a Scottish championship bridge player photo: Francesca Canali, World Bridge Federation\" data-title=\"**[Samantha Punch][1]** is a professor at the Faculty of Social Sciences at the [University of Stirling][2] and a Scottish championship bridge player [1]: https://theconversation.com/profiles/samantha-",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/from-bridge-to-chess-why-men/",
-         "pubDate" : "Sun, 30 Jun 2024 14:55:58",
-         "title" : "Why men outperform women at 'mindsports' - and what to do about it"
       },
       {
          "description" : "Another round with five draws at the Superbet Chess Classic Romania saw several missed chances. GM Praggnanandhaa Rameshbabu was completely winning for one move but failed to spot the required queen sortie against GM Wesley So. Another hard-to-fin...",
@@ -690,14 +738,6 @@ news_feed (
          "title" : "Chess Transcends Borders at FIDE World Corporate Chess Championships"
       },
       {
-         "description" : "Two sets of GM and IM norm invitational Round Robins were held by 1000GM around the National Open in Las Vegas earlier this month. FM Varun Krishnan earned an IM norm, WFM Rachael Li earned a WIM norm, and FMs Rose Atwell and Zoey Tang each earned a WIM norm (although Tang already has earned the WIM title). This week's tactics once again draw from the many tense games across the seven (!) separate sections.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-1000gm-las-vegas-tactics-pt-2",
-         "pubDate" : "Tue, 25 Jun 2024 00:00:00",
-         "title" : "Tactics Tuesday: 1000GM Las Vegas Tactics, Pt. 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -754,22 +794,6 @@ news_feed (
          "title" : "European Small Nations Individual Chess Championship 2024 started in Andorra"
       },
       {
-         "description" : "No tiebreaks needed! Just like in the 2024 FIDE Women's Candidates two months ago, GM Tan Zhongyi basically had the victory in the bag before the last round of the 2024 Cairns Cup even started in St. Louis. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Tan Zhongyi with the Cairns Cup (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> In what was, for the most part, a tame affair by this tournament's standards, Tan won one game in each third of the event, and held with solid play in the rest. In some years, a 6/9 score might not be enough for clear first, but this year an abno",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tan-zhongyi-wins-2024-cairns-cup",
-         "pubDate" : "Mon, 24 Jun 2024 00:00:00",
-         "title" : "Tan Zhongyi Wins 2024 Cairns Cup"
-      },
-      {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Share your Story<br /><br /> The US Chess Federation wants to hear your story. With 85 years of organizational history, there are so many stories to tell! And we need your help. The US Chess Oral History Project is a chance to collect the stories of your chess life in your own words. These stories will be preserved in a beautiful book and in a digital archive that celebrates US Chess' impact on your life and the person you are today. As of June 24, over 4,000 people have already shared their oral histories with us!<br /><br /> You may receive an email, postcard and phone call from a company calle",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-oral-history-project",
-         "pubDate" : "Mon, 24 Jun 2024 00:00:00",
-         "title" : "US Chess Oral History Project"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -800,14 +824,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-commenced-in-rhodes-greece/",
          "pubDate" : "Sun, 23 Jun 2024 05:55:00",
          "title" : "European Youth Team Chess Championship 2024 commenced in Rhodes, Greece"
-      },
-      {
-         "description" : "GM Andrew Tang made a statement in Saturday&#39;s Bullet Brawl&#38;nbsp;after winning 70 games and accruing 253 points on the way to claiming the $400 first prize and his second title. For the first time since March, a player not named GM Hikaru Nakamura,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andrew-tang-wins-bullet-brawl-june-22-2024",
-         "pubDate" : "Sat, 22 Jun 2024 16:59:00",
-         "title" : "Tang Snaps Naroditsky's 3-Week Streak"
       },
       {
          "description" : "In 1970 in Belgrade the mighty USSR Chess Team was challenged by an elite selection, representing the Rest of the World, in what was dubbed the \"Match of the Century\". The Soviets won by the tightest of margins, 20&frac12; points to 19&frac12;; close though it was, nobody could deny their achievement in taking on and beating the []",
