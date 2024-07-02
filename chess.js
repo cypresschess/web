@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Both parties have appealed against the <a href=\"https://www.fide.com/news/3056\">decision</a> of the <strong>FIDE Ethics Commission</strong> to ban the <strong>Russian Chess Federation</strong> for having war criminals on its supervisory board and to reprimand President <strong>Arkady Dvorkovich</strong> for being on that board and not having intervened. The <strong>Chess Federation of Russia</strong> is <a href=\"https://ruchess.ru/en/news/all/alexander_tkachev_we_filed_an_appeal_against_the_fide_edc_s_decision/\">also demanding</a> to dissolve the Ethics Commission, revise its codex and readmit Russia, Belarus and their national symbols in FIDE event",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/russia-decision-appealed/",
+         "pubDate" : "Tue, 02 Jul 2024 14:23:54",
+         "title" : "Russia decision appealed"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111437054.cms\" />Bodhana Sivanandan, a nine-year-old chess prodigy from Harrow, London, has made history by becoming the youngest individual ever chosen to represent England in an international tournament. Reuters quoted a report by The Guardian newspaper on Tuesday, Sivanandan has been selected for the women's team that will compete in the Chess Olympiad in September.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/nine-year-old-chess-prodigy-sivanandan-to-become-youngest-england-international/articleshow/111437054.cms",
+         "pubDate" : "Tue, 02 Jul 2024 14:15:48",
+         "title" : "Nine-year-old Sivanandan to become youngest England international"
+      },
+      {
+         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
+         "pubDate" : "Tue, 02 Jul 2024 13:50:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "The England teams for the Chess Olympiad at Budapest in September have been selected. Board orders will be determined by the Selection Committee at a...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-teams-for-the-chess-olympiad/",
+         "pubDate" : "Tue, 02 Jul 2024 13:00:41",
+         "title" : "England teams for the Chess Olympiad"
+      },
+      {
          "description" : "The World Team Championships for seniors over 50 and over 65 begin today (2 July) in Krakow, Poland. The USA and England are the top seeds. The first round will be played today at 3 pm.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +42,36 @@ news_feed (
          "title" : "World Senior Team Championships start in Krakow"
       },
       {
-         "description" : "All games in round 5 of the Superbet Chess Classic ended drawn, leaving Fabiano Caruana as the sole leader in the standings. The biggest chance missed on Sunday was Praggnanandhaa's, who failed to make the most of a mistake made by Wesley So. Pragg is tied for second place with Gukesh, who drew his game with white against Nodirbek Abdusattorov. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-5",
-         "pubDate" : "Tue, 02 Jul 2024 08:40:00",
-         "title" : "Superbet Classic: Caruana sole leader at the halfway mark"
+         "description" : "The Collegiate Chess League is excited to announce our third annual summer season, proudly presented by Susquehanna, one of the world&#38;rsquo;s leading quantitative trading firms. The 2024 summer season will bring back both the bullet and Bughouse...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-2024-summer-season",
+         "pubDate" : "Tue, 02 Jul 2024 08:20:44",
+         "title" : "Collegiate Chess League 2024 Summer Season"
+      },
+      {
+         "description" : "The talented youngsters dominated the first Kids vs. Stars match, but the experienced masters are not backing down and have brought in reinforcements. Can the stars turn the tide and outsmart their significantly younger opponents? Kids vs. Stars...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/kids-vs-stars-2",
+         "pubDate" : "Tue, 02 Jul 2024 08:10:00",
+         "title" : "Kids vs Stars: Can The Young Guns Checkmate the Chess Masters Again?"
+      },
+      {
+         "description" : "<br /><br /><br /><br /> <br /><br /> US Chess offices will be closed Thursday, July 4 in celebration of Independence Day, and will reopen for normal business operations on Friday, July 5. <br /><br /> All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing, so please submit any TLAs or email blasts by noon CDT on Wednesday, July 3, to ensure they will be approved before the office closure.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-closed-thursday-july-4",
+         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
+         "title" : "US Chess Offices Closed Thursday, July 4"
+      },
+      {
+         "description" : "The aura of chess cheaters has changed chess. Their underhanded ways have backed tournaments into implementing all sorts of stop-gap anti-cheating measures, especially at big prize buck events. We see this with their electronic gear usage, the restroom wand routine, limits on hallway conversations, cell phone storage requirements (or bans), etc. These measures do manage to keep honest people honest. They also give wood-pushers some reassurance that cheating has become a lot more difficult to pull off.<br /><br /> Some would-be scammers still put in the effort. A few have even tried some fairly simple methods to increase their win-loss score, such as nestling an unobserved cell phone in their",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-cheaters-rulebook-and-you",
+         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
+         "title" : "Just the Rules: Cheaters, The Rulebook, and You"
       },
       {
          "description" : "These two programs, the standard chess database and the World Champion chess engine, cost €279.80. Together as a package they are €249.90. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to equip yourself with the tools you need to take giant leaps forward as an ambitious chess player.",
@@ -149,6 +205,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3098",
+         "pubDate" : "Mon, 01 Jul 2024 09:44:16",
+         "title" : "Arjun Erigaisi enter top 5 Open in July 2024 rating list"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3097",
          "pubDate" : "Mon, 01 Jul 2024 09:07:19",
          "title" : "Polish chess players shine at 2024 FISU Championship Mind Sports"
@@ -240,14 +304,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-5",
          "pubDate" : "Sun, 30 Jun 2024 13:00:00",
          "title" : "Missed Chances Mark Another Day Of Draws In Bucharest"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Both parties have appealed against the <a href=\"https://www.fide.com/news/3056\">decision</a> of the <strong>FIDE Ethics Commission</strong> to ban the <strong>Russian Chess Federation</strong> for having war criminals on its supervisory board and to reprimand President <strong>Arkady Dvorkovich</strong> for being on that board and not having intervened. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/russia-decision-appealed/",
-         "pubDate" : "Sun, 30 Jun 2024 11:04:01",
-         "title" : "Russia decision appealed"
       },
       {
          "description" : "GM-elect Yagiz Erdogmus defeated FM Henry Tudor in the Final of the ChessKid Youth Championship 2024 for players under 13. While the Turkish prodigy was the clear favorite to win this event, Tudor managed to finish the regular games with a tied 2-...",
@@ -754,14 +810,6 @@ news_feed (
          "title" : "Tang Snaps Naroditsky's 3-Week Streak"
       },
       {
-         "description" : "GM Tan Zhongyi was crowned as the winner and will receive the $50,000 first prize after a quick draw with GM Alexandra Kosteniuk secured her a 6/9 score in the final round of the Cairns Cup 2024 on Saturday. GM Anna Muzychuk finished on a high n...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-9-tan-wins",
-         "pubDate" : "Sat, 22 Jun 2024 16:31:00",
-         "title" : "Tan Draws With Kosteniuk, Wins Cairns Cup"
-      },
-      {
          "description" : "In 1970 in Belgrade the mighty USSR Chess Team was challenged by an elite selection, representing the Rest of the World, in what was dubbed the \"Match of the Century\". The Soviets won by the tightest of margins, 20&frac12; points to 19&frac12;; close though it was, nobody could deny their achievement in taking on and beating the []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -776,14 +824,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/planning-procrastination/",
          "pubDate" : "Sat, 22 Jun 2024 13:00:00",
          "title" : "The Planning Procrastination"
-      },
-      {
-         "description" : "GM Anna Muzychuk and IM Alice Lee both won their respective games against GM Alexandra Kosteniuk and IM Anna Zatonskih respectively at the Cairns Cup 2024 on Friday. For Muzychuk, this means she is now one point shy of leader GM Tan Zhongyi&#38;nbsp;h...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/cairns-cup-2024-round-8",
-         "pubDate" : "Fri, 21 Jun 2024 19:37:00",
-         "title" : "Anna Muzychuk With Black Beats Kosteniuk, Joins Five-Way Tie For Second"
       },
       {
          "description" : "A brief report on BRICS games Rapid Chess Championships 2024 Kazan, Russia. &#160; The BRICS games Rapid Chess Championships for Men and Women were held",
@@ -824,22 +864,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024-open-to-entries-from-britain",
          "pubDate" : "Fri, 21 Jun 2024 07:00:09",
          "title" : "Chess: national solving championship 2024 open to entries from Britain"
-      },
-      {
-         "description" : "At the time of publication, the penultimate round of the 2024 Cairns Cup is underway in St. Louis. Today, we have annotations on key games and moments from rounds four through six courtesy of WGM Begim Tokhirjonova, and we'll have a report on the last three rounds published on Monday. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Kosteniuk had a promising position early on against Lee, but found herself on the wrong end of the decisive result (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> As mentioned earlier this week, GM Alexandra Kosteniuk was playing combative chess i",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tan-leads-over-topsy-turvy-kosteniuk-cairns-cup-enters-home-stretch",
-         "pubDate" : "Fri, 21 Jun 2024 00:00:00",
-         "title" : "Tan Leads Over Topsy Turvy Kosteniuk as Cairns Cup Enters Home Stretch"
-      },
-      {
-         "description" : "The FIDE World Senior Team Championship is taking place July 1 through 12 in Krakow, Poland, and, this year, three teams will be making the trip. Read on to meet this year's teams and learn how to follow along with their games!<br /><br /> In the Open (age 50+), the team will consist of GM Vladimir Akopian, GM Jaan Ehlvest, GM Igor Novikov, GM Alexander Shabalov (Captain), and GM Melikset Khachiyan. This team looks to defend last year's title, although Akopian and Khachiyan are swapped in this year for GMs Alex Yermolinsky and Gregory Kaidanov. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/three-teams-represent-united-states-fide-world-team-senior-championship",
-         "pubDate" : "Fri, 21 Jun 2024 00:00:00",
-         "title" : "Three Teams to Represent United States at FIDE World Team Senior Championship"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111146863.cms\" />The Norway Chess 2024 tournament showcased a remarkable feat by 18-year-old Indian chess prodigy R Praggnanandhaa, who defeated World No. 1 Magnus Carlsen. Despite Carlsen winning the tournament, Praggnanandhaa's victory was a milestone. His overall performance, including a draw against Hikaru Nakamura, secured him third place. Praggnanandhaa attributed his success to a favourable opening and expressed confidence in competing with the world's elite players. ",
