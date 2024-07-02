@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Team Championships for seniors over 50 and over 65 begin today (2 July) in Krakow, Poland. The USA and England are the top seeds. The first round will be played today at 3 pm.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-senior-team-championships-start-in-krakow",
+         "pubDate" : "Tue, 02 Jul 2024 12:06:52",
+         "title" : "World Senior Team Championships start in Krakow"
+      },
+      {
          "description" : "All games in round 5 of the Superbet Chess Classic ended drawn, leaving Fabiano Caruana as the sole leader in the standings. The biggest chance missed on Sunday was Praggnanandhaa's, who failed to make the most of a mistake made by Wesley So. Pragg is tied for second place with Gukesh, who drew his game with white against Nodirbek Abdusattorov. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3062",
          "pubDate" : "Wed, 12 Jun 2024 10:58:07",
          "title" : "Chess tables in the prison yard of Alphen: A strategic move"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3061",
-         "pubDate" : "Tue, 11 Jun 2024 11:20:40",
-         "title" : "Important update to C.04.1 Basic Rules for Swiss Systems"
       }
    ]
 }
