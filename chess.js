@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/Seniors/world-senior-team-chess-championships-wstcc-2024/#new_tab",
+         "pubDate" : "Wed, 03 Jul 2024 07:36:11",
+         "title" : "World Senior Team Chess Championships reports"
+      },
+      {
          "description" : "In the one decisive game of round 6 at the Superbet Chess Classic, Alireza Firouzja obtained a convincing victory with the white pieces over Wesley So. Firouzja thus climbed to shared second place in the tournament standings, as he now has as many points as Praggnanandhaa and Gukesh - the three chasers stand a half point behind sole leader Fabiano Caruana with three rounds to go in Bucharest. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
