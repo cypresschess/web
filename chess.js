@@ -2,6 +2,94 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the one decisive game of round 6 at the Superbet Chess Classic, Alireza Firouzja obtained a convincing victory with the white pieces over Wesley So. Firouzja thus climbed to shared second place in the tournament standings, as he now has as many points as Praggnanandhaa and Gukesh - the three chasers stand a half point behind sole leader Fabiano Caruana with three rounds to go in Bucharest. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-6",
+         "pubDate" : "Wed, 03 Jul 2024 06:50:00",
+         "title" : "Superbet Classic: Firouzja beats So, climbs to shared second place"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> A brief overview of Frank Marshall&#039;s Gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-marshall-gambit-grandchesstour-chess-chessopenings-chesshistory-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Dn00Myj2sSs.jpg?itok=0us4D55A\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/yasser-marshall-gambit-grandchesstour-chess-chessopenings-chesshistory-chesscom",
+         "pubDate" : "Wed, 03 Jul 2024 05:33:00",
+         "title" : "Yasser on The Marshall Gambit #GrandChessTour #chess #chessopenings #chesshistory #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza plays a rare move in the Nimzo-Indian Samisch Variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/miro-explains-rb1-nimzo-indian-grandchesstour-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MJHBWZ0wiQs.jpg?itok=NTziQRk8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/miro-explains-rb1-nimzo-indian-grandchesstour-chess-chessopenings-chesscom",
+         "pubDate" : "Wed, 03 Jul 2024 05:33:00",
+         "title" : "Miro Explains Rb1 in Nimzo-Indian #GrandChessTour #chess #chessopenings #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Karpov and then Magnus use this endgame style to defeat their opponents </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-we-didnt-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hpf6HKyecCs.jpg?itok=OcgAMIrl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgame-we-didnt-grandchesstour-chess-chesstactics-chessendgame-chesscom",
+         "pubDate" : "Wed, 03 Jul 2024 05:33:00",
+         "title" : "Endgame We Didn't Like #GrandChessTour #chess #chesstactics #chessendgame #chesscom"
+      },
+      {
+         "description" : "In U12 Girls Pratitee, Bordoloi settledfor silver after a long fight with Xue,Tianhao from China . In the classical \"best-of-2 games\" both their games ended",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/india-bags-silver-bronze-in-fide-world-cup-under-8-10-12/",
+         "pubDate" : "Wed, 03 Jul 2024 05:00:34",
+         "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chess fan Alesia Marin and Anish Giri's second Jan Smeets talk to Anastasiya Karlovich during Rounds 4 and 5 respectively of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alesia-artist-sketching-meeting-best-chess-r4-r5-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0wd7astoryg.jpg?itok=JHUxbUgZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alesia-artist-sketching-meeting-best-chess-r4-r5-superbetchessclassicromania",
+         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
+         "title" : "Alesia the Artist: Sketching & Meeting the Best in Chess! | R4 R5 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila and offers analysis during Round 6 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-singapore-best-gukesh-wcc-match-r6-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/igApB5Bg3ho.jpg?itok=DmhzfsKX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-singapore-best-gukesh-wcc-match-r6-superbetchessclassicromania",
+         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
+         "title" : "Kasparov: Singapore Best for Gukesh in WCC Match | R6 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Wesley So in Round 6 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-wesley%E2%80%99s-sharp-opening-backfired-r6-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3K3HbkF14q4.jpg?itok=72wTRtvI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-wesley%E2%80%99s-sharp-opening-backfired-r6-superbetchessclassicromania",
+         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
+         "title" : "Firouzja: Wesley's Sharp Opening Backfired | R6 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Praggnanandhaa R talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pragg-it%E2%80%99s-time-win-gct-event-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0QPS8s_xhTk.jpg?itok=cdUUuz0O\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pragg-it%E2%80%99s-time-win-gct-event-superbetchessclassicromania",
+         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
+         "title" : "Pragg: It's Time to Win a GCT Event! | #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Cristian Chirila after a draw against Vachier-Lagrave in Round 6 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-super-excited-wcc-singapore-r6-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BK6BDBjx5_A.jpg?itok=m7N6kg-B\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-super-excited-wcc-singapore-r6-superbetchessclassicromania",
+         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
+         "title" : "Gukesh: Super Excited for WCC in Singapore! | R6 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-8-grandchesstour\"><img src=\"htt",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-8-grandchesstour",
+         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
+         "title" : "Superbet Chess Classic 2024: Round 8 | #GrandChessTour"
+      },
+      {
          "description" : "In an interview with Nico Zwirs at the ChessBase studio in Hamburg, the Dutch IM shares insights into his recent tournament experiences, his journey in the chess world, and his thoughts on balancing competitive play with coaching. He also discusses the intricate dynamics of chess training and preparation, the personal and professional growth of a chess player, and the balance between maintaining a competitive edge while nurturing the next generation of players.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,28 +106,12 @@ news_feed (
          "title" : "RECAP | Superbet Chess Classic 2024: Round 6 | #GrandChessTour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-ding-no-one-can-play-if-not-100-ready-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hgB6i1Wcqsg.jpg?itok=F_ER3BQ2\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-ding-no-one-can-play-if-not-100-ready-superbetchessclassicromania",
-         "pubDate" : "Tue, 02 Jul 2024 20:32:42",
-         "title" : "MVL on Ding: No One Can Play if Not 100% Ready | #SuperbetChessClassicRomania"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2024/file-20240219-24-m3v5sz.1920.jpeg\" title=\"Elite bridge player Margherita Chavarria from Italy. Francesca Canali from the World Bridge Federation, CC BY-SA\" data-title=\"Elite bridge player Margherita Chavarria from Italy. (Francesca Canali from the World Bridge Federation, &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC BY-SA&lt;/a&gt;)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.ches",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2024/from-bridge-to-chess-why-men/",
          "pubDate" : "Tue, 02 Jul 2024 18:15:16",
          "title" : "Why men outperform women at 'mindsports' - and what to do about it"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-7-grandchesstour\"><img src=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-7-grandchesstour",
-         "pubDate" : "Tue, 02 Jul 2024 17:32:41",
-         "title" : "Superbet Chess Classic 2024: Round 7 | #GrandChessTour"
       },
       {
          "description" : "",
@@ -64,14 +136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/nine-year-old-chess-prodigy-sivanandan-to-become-youngest-england-international/articleshow/111437054.cms",
          "pubDate" : "Tue, 02 Jul 2024 14:15:48",
          "title" : "Nine-year-old Sivanandan to become youngest England international"
-      },
-      {
-         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
-         "pubDate" : "Tue, 02 Jul 2024 13:50:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "A powerful victory against GM Wesley So brought GM Alireza Firouzja into joined second place at the Superbet Chess Classic Romania, which resumed on Tuesday following a rest day. After the sixth round, GM Fabiano Caruana continues to lead by half ...",
@@ -202,30 +266,6 @@ news_feed (
          "title" : "FIDE ratings - July 2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Jovi explains the potential in her decision on how to capture </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/capture-pawn-or-bishop-grandchesstour-chess-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Eu5dZSAu3Xs.jpg?itok=Pix4LyRo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/capture-pawn-or-bishop-grandchesstour-chess-chessstrategy-chesscom",
-         "pubDate" : "Mon, 01 Jul 2024 17:31:42",
-         "title" : "Capture With The Pawn or Bishop #GrandChessTour #chess #chessstrategy #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Well prepared to play against Alireza, but their body language gives away the ending </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/eventual-end-grandchesstour-chess-chessopenings-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QclUlVbK9dU.jpg?itok=FWw1-6I4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/eventual-end-grandchesstour-chess-chessopenings-chesstactics-chesscom",
-         "pubDate" : "Mon, 01 Jul 2024 17:31:42",
-         "title" : "The Eventual End #GrandChessTour #chess #chessopenings #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jovi talks about how boxers use chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-helps-boxers-grandchesstour-chess-chessboxing-boxing\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TeeNkdt4h9A.jpg?itok=rZwNALBf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-helps-boxers-grandchesstour-chess-chessboxing-boxing",
-         "pubDate" : "Mon, 01 Jul 2024 17:31:42",
-         "title" : "Chess Helps Boxers #GrandChessTour #chess #chessboxing #boxing"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -312,38 +352,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/singapore-venue-ding-gukesh-world-championship",
          "pubDate" : "Mon, 01 Jul 2024 05:56:00",
          "title" : "Singapore Chosen As Venue For Ding vs. Gukesh FIDE World Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Commentators were asked about Chess Boxing </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-boxing-grandchesstour-chess-chessboxing\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/C8Rs8koqsfM.jpg?itok=dlJ_U-WX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-boxing-grandchesstour-chess-chessboxing",
-         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
-         "title" : "Chess Boxing #GrandChessTour #chess #chessboxing"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jovi explains why she would take with the pawn instead of the bishop </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jovis-potential-grandchesstour-chess-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Eu5dZSAu3Xs.jpg?itok=Pix4LyRo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jovis-potential-grandchesstour-chess-chessstrategy-chesscom",
-         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
-         "title" : "Jovi's Potential #GrandChessTour #chess #chessstrategy #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Both gentlemen came prepared for this battle </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/body-language-grandchesstour-chess-chessopenings-anishgiri-alirezafirouzja\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QclUlVbK9dU.jpg?itok=FWw1-6I4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/body-language-grandchesstour-chess-chessopenings-anishgiri-alirezafirouzja",
-         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
-         "title" : "Body Language #GrandChessTour #chess #chessopenings #anishgiri #alirezafirouzja"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jovi shares an interesting bit about professional boxers and the game of chess </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jovi-speaks-professional-boxing-grandchesstour-chess-chessboxing-boxing\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TeeNkdt4h9A.jpg?itok=rZwNALBf\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jovi-speaks-professional-boxing-grandchesstour-chess-chessboxing-boxing",
-         "pubDate" : "Sun, 30 Jun 2024 23:31:12",
-         "title" : "Jovi Speaks On Professional Boxing #GrandChessTour #chess #chessboxing #boxing"
       },
       {
          "description" : "Indian chess legend Viswanathan Anand has won his 10th Leon Masters title after defeating GM Jaime Santos 3-1 in the final match. The 54-year-old Anand took over to win the last two games after a shaky start and has now won the event in northwest ...",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-divya-deshmukh-wins-world-junior-girls-chess-title/articleshow/110975473.cms",
          "pubDate" : "Thu, 13 Jun 2024 16:13:33",
          "title" : "India's Divya Deshmukh wins World Junior Girls chess title"
-      },
-      {
-         "description" : "&#160;&#160;&#160;&#160;India beat Pakistan in Asian Youth Chess Championship in Kazakhstan It sounds like the first day of the Asian Youth Chess Championship in Almaty, Kazakhstan,",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/classical-chess-aycc-2024-day-1/",
-         "pubDate" : "Thu, 13 Jun 2024 06:17:24",
-         "title" : "Classical Chess - AYCC 2024 Day-1"
       },
       {
          "description" : " The 4th Cairns Cup takes place Thu 13th Jun to Sun 23rd Jun 2024. Players: Zhongyi Tan, Mariya Muzychuk, Nana Dzagnidze, Anna Muzychuk, Harika Dronavalli, Alexandra Kosteniuk, Elisabeth Paehtz, Irina Krush, Alice Lee and Anna Zatonskih. ",
