@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Once a year the English school chess initiative \"Chess in Schools and Communities\" organises a chess festival in the heart of London, in Trafalgar Square, which naturally focuses on children and young people. Next Sunday, July 7, is the day again. The theme of this year's ChessFest is the chess fairy tale \"Alice Through the Looking Glass\".",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sunday-july-7-great-chess-fest-in-london",
+         "pubDate" : "Wed, 03 Jul 2024 12:00:00",
+         "title" : "Sunday, July 7: Great Chess Fest in London"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/Seniors/world-senior-team-chess-championships-wstcc-2024/#new_tab",
          "pubDate" : "Wed, 03 Jul 2024 07:36:11",
          "title" : "World Senior Team Chess Championships reports"
-      },
-      {
-         "description" : "In the one decisive game of round 6 at the Superbet Chess Classic, Alireza Firouzja obtained a convincing victory with the white pieces over Wesley So. Firouzja thus climbed to shared second place in the tournament standings, as he now has as many points as Praggnanandhaa and Gukesh - the three chasers stand a half point behind sole leader Fabiano Caruana with three rounds to go in Bucharest. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-6",
-         "pubDate" : "Wed, 03 Jul 2024 06:50:00",
-         "title" : "Superbet Classic: Firouzja beats So, climbs to shared second place"
       },
       {
          "description" : "<div class=\"body text-secondary\"> A brief overview of Frank Marshall&#039;s Gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-marshall-gambit-grandchesstour-chess-chessopenings-chesshistory-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Dn00Myj2sSs.jpg?itok=0us4D55A\" alt=\"\" /></a></div>",
@@ -98,20 +98,20 @@ news_feed (
          "title" : "Superbet Chess Classic 2024: Round 8 | #GrandChessTour"
       },
       {
-         "description" : "In an interview with Nico Zwirs at the ChessBase studio in Hamburg, the Dutch IM shares insights into his recent tournament experiences, his journey in the chess world, and his thoughts on balancing competitive play with coaching. He also discusses the intricate dynamics of chess training and preparation, the personal and professional growth of a chess player, and the balance between maintaining a competitive edge while nurturing the next generation of players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/behind-the-board-interview-with-nico-zwirs",
-         "pubDate" : "Tue, 02 Jul 2024 21:00:00",
-         "title" : "Behind the board - Interview with Nico Zwirs"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 6 of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-6-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-6-grandchesstour",
          "pubDate" : "Tue, 02 Jul 2024 20:32:42",
          "title" : "RECAP | Superbet Chess Classic 2024: Round 6 | #GrandChessTour"
+      },
+      {
+         "description" : "These two programs, the standard chess database and the World Champion chess engine, cost €279.80. Together as a package they are €249.90. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to equip yourself with the tools you need to take giant leaps forward as an ambitious chess player.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chessbase-17-fritz-19",
+         "pubDate" : "Tue, 02 Jul 2024 20:02:36",
+         "title" : "ChessBase 17 + Fritz 19"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2024/file-20240219-24-m3v5sz.1920.jpeg\" title=\"Elite bridge player Margherita Chavarria from Italy. Francesca Canali from the World Bridge Federation, CC BY-SA\" data-title=\"Elite bridge player Margherita Chavarria from Italy. (Francesca Canali from the World Bridge Federation, &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC BY-SA&lt;/a&gt;)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.ches",
@@ -160,14 +160,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/england-teams-for-the-chess-olympiad/",
          "pubDate" : "Tue, 02 Jul 2024 13:00:41",
          "title" : "England teams for the Chess Olympiad"
-      },
-      {
-         "description" : "The World Team Championships for seniors over 50 and over 65 begin today (2 July) in Krakow, Poland. The USA and England are the top seeds. The first round will be played today at 3 pm.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-senior-team-championships-start-in-krakow",
-         "pubDate" : "Tue, 02 Jul 2024 12:06:52",
-         "title" : "World Senior Team Championships start in Krakow"
       },
       {
          "description" : "Meet nine-year-old Ethan Pang from London, U.K. The chess prodigy has just fulfilled a dream after a series of incredible results that earned him the title of candidate master and the record as the youngest player ever to cross the 2200-barrier. ...",
@@ -242,36 +234,12 @@ news_feed (
          "title" : "Just the Rules: Cheaters, The Rulebook, and You"
       },
       {
-         "description" : "These two programs, the standard chess database and the World Champion chess engine, cost €279.80. Together as a package they are €249.90. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to equip yourself with the tools you need to take giant leaps forward as an ambitious chess player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-fritz-19",
-         "pubDate" : "Mon, 01 Jul 2024 22:02:36",
-         "title" : "ChessBase 17 + Fritz 19"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3090",
          "pubDate" : "Mon, 01 Jul 2024 21:10:16",
          "title" : "Don't miss out: Registration deadline for the FIDE World Rapid and Blitz Team Championships approaching"
-      },
-      {
-         "description" : "The Singapore Chess Federation, supported by the Government of Singapore, has won the bid to host the FIDE World Championship Match 2024. The Match will feature the defending Champion Ding Liren from China and the Challenger Gukesh D from India, and will take place between November 20 and December 15, 2024. Press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/breaking-singapore-to-host-the-world-championship-2024",
-         "pubDate" : "Mon, 01 Jul 2024 20:40:33",
-         "title" : "Breaking: Singapore to host the World Championship 2024!"
-      },
-      {
-         "description" : "With a current rating of 2832 Magnus Carlsen leads the world ranking list from July 2024. He is 30 rating points ahead of Hikaru Nakamura, who is the world's number 2 with 2802 points. Nakamura swapped places with Fabiano Caruana, number 3 on the ranking list. Hou Yifan is still number 1 on the Women's World Ranking list, while Nodirbek Abdusattorov is the world's best junior. Bibisara Assaubayeva defended her position as the world's best female junior.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-july-2024",
-         "pubDate" : "Mon, 01 Jul 2024 18:00:00",
-         "title" : "FIDE ratings - July 2024"
       },
       {
          "description" : "",
@@ -314,14 +282,6 @@ news_feed (
          "title" : "Gligoric Trophy 2024: Call for Nominations"
       },
       {
-         "description" : "Despite the significant advances made in defensive technique over the years, the phenomenon of the unprotected king is still quite common, as it is met in a high number of games. By this we mean a king that has come under enemy fire that is not readily repulsed. Top chess trainer GM Efstratios Grivas gives us a comprehensive lesson in attacking the uncastled king.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crime-and-punishment",
-         "pubDate" : "Mon, 01 Jul 2024 12:00:00",
-         "title" : "Crime and Punishment"
-      },
-      {
          "description" : "On behalf of All India Chess Federation, UP Sports Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 27 to 28 July",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -359,7 +319,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/singapore-venue-ding-gukesh-world-championship",
          "pubDate" : "Mon, 01 Jul 2024 05:56:00",
-         "title" : "Singapore Chosen As Venue For Ding vs. Gukesh FIDE World Championship"
+         "title" : "Singapore Chosen For Ding vs. Gukesh FIDE World Championship"
       },
       {
          "description" : "Indian chess legend Viswanathan Anand has won his 10th Leon Masters title after defeating GM Jaime Santos 3-1 in the final match. The 54-year-old Anand took over to win the last two games after a shaky start and has now won the event in northwest ...",
@@ -1176,14 +1136,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-beats-sachi-jain-to-maintain-sole-lead-in-world-junior-chess-championship/articleshow/110947702.cms",
          "pubDate" : "Wed, 12 Jun 2024 17:32:10",
          "title" : "Divya Deshmukh maintains sole lead in World Junior Chess C'ship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3062",
-         "pubDate" : "Wed, 12 Jun 2024 10:58:07",
-         "title" : "Chess tables in the prison yard of Alphen: A strategic move"
       }
    ]
 }
