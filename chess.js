@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3101",
+         "pubDate" : "Wed, 03 Jul 2024 15:45:33",
+         "title" : "Tbilisi to Host Inaugural Leg of 2024-2025 Women's Grand Prix"
+      },
+      {
          "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +26,28 @@ news_feed (
          "title" : "Winners crowned at World Cup Under 8-12"
       },
       {
+         "description" : "The Chess.com team has been popping up all over the world recently and members of the team spent last Friday and Saturday promoting chess to mixed martial arts (MMA) fans in a crossover at UFC X. Hosted at the 200,000 square foot Las Vegas Conve...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-takes-over-las-vegas-in-ufcx-crossover",
+         "pubDate" : "Wed, 03 Jul 2024 12:08:30",
+         "title" : "Chess.com Comes To Las Vegas In UFC X Crossover"
+      },
+      {
          "description" : "Once a year the English school chess initiative \"Chess in Schools and Communities\" organises a chess festival in the heart of London, in Trafalgar Square, which naturally focuses on children and young people. Next Sunday, July 7, is the day again. The theme of this year's ChessFest is the chess fairy tale \"Alice Through the Looking Glass\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sunday-july-7-great-chess-fest-in-london",
          "pubDate" : "Wed, 03 Jul 2024 12:00:00",
          "title" : "Sunday, July 7: Great Chess Fest in London"
+      },
+      {
+         "description" : "Titled Tuesday belonged to GMs Dmitry Andreikin and Hikaru Nakamura on July 2, although both needed tiebreaks after scoring 9.5 points. GM Arjun Erigaisi pulled off the impressive but unenviable feat of finishing in second place in both events, wh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/andreikin-nakamura-win-titled-tuesday-july-2-2024",
+         "pubDate" : "Wed, 03 Jul 2024 08:32:06",
+         "title" : "Nakamura Returns To Titled Tuesday Top"
       },
       {
          "description" : "",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://aicf.in/india-bags-silver-bronze-in-fide-world-cup-under-8-10-12/",
          "pubDate" : "Wed, 03 Jul 2024 05:00:34",
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
+      },
+      {
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
+         "pubDate" : "Wed, 03 Jul 2024 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Cup U-12, U-10, U-8 Highlights"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Chess fan Alesia Marin and Anish Giri's second Jan Smeets talk to Anastasiya Karlovich during Rounds 4 and 5 respectively of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alesia-artist-sketching-meeting-best-chess-r4-r5-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0wd7astoryg.jpg?itok=JHUxbUgZ\" alt=\"\" /></a></div>",
@@ -674,28 +706,12 @@ news_feed (
          "title" : "Aleksandar Indic and Irina Chelushkina triumph at 2024 Serbian Championship"
       },
       {
-         "description" : "10-year-old Argentinian prodigy FM Faustino Oro missed his final IM norm by a hair&#39;s breadth but broke the 2400 barrier for the first time. Meanwhile, he also reached a remarkable milestone on Chess.com. The &#39;Messi of Chess,&#39; as he&#39;s been dubbed...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-breaks-3000-on-chess-com",
-         "pubDate" : "Wed, 26 Jun 2024 00:51:00",
-         "title" : "10-Year-Old Faustino Oro Becomes Youngest Ever To Break 3000 On Chess.com"
-      },
-      {
          "description" : "FM Tanitoluwa \"Tani\" Adewumi won the 2024 U.S. Cadet Championship, held June 20 through 23 in Lisle, IL. The seven-round Round Robin featured eight of the country's top players under the age of 16, with the 13-year-old Adewumi winning the event outright with a 6/7 score. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> photo courtesy Adewumi family<br /><br /><br /> <br /><br /> Adewumi yielded only two draws - winning his other five games - against an incredibly strong field. In fact, Adewumi was the lower-rated player (according to FIDE ratings) in five of his seven games. He got off to a hot",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tani-adewumi-wins-2024-us-cadet-championship",
          "pubDate" : "Wed, 26 Jun 2024 00:00:00",
          "title" : "Tani Adewumi Wins 2024 U.S. Cadet Championship "
-      },
-      {
-         "description" : "Two sets of GM and IM norm invitational Round Robins were held by 1000GM around the National Open in Las Vegas earlier this month. FM Varun Krishnan earned an IM norm, WFM Rachael Li earned a WIM norm, and FMs Rose Atwell and Zoey Tang each earned a WIM norm (although Tang already has earned the WIM title). This week's tactics again draw from the many tense games across the seven (!) separate sections.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-1000gm-las-vegas-norm-invitationals-pt-2",
-         "pubDate" : "Wed, 26 Jun 2024 00:00:00",
-         "title" : "Wednesday Workout: 1000GM Las Vegas Norm Invitationals, Pt. 2"
       },
       {
          "description" : " The Superbet Romania Chess Classic takes place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. ",
@@ -760,14 +776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3083",
          "pubDate" : "Mon, 24 Jun 2024 13:44:58",
          "title" : "Max Warmerdam wins Teplice Open 2024"
-      },
-      {
-         "description" : "Thirteen-year-old FM Tani Adewumi won his first national title at the 2024 U.S. Cadet Championship, which concluded on Sunday. By live rating, he should be 14 rating points away from earning the international master title. Undefeated, he finishe...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-tani-wins-2024-us-cadet-championship",
-         "pubDate" : "Mon, 24 Jun 2024 13:13:26",
-         "title" : "Tani Adewumi Wins His 1st National Championship"
       },
       {
          "description" : "",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/4th-cairns-cup-2024",
          "pubDate" : "Wed, 12 Jun 2024 23:00:00",
          "title" : "4th Cairns Cup 2024 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110947702.cms\" />Top seed Divya Deshmukh maintained her sole lead by defeating fellow Indian Sachi Jain in the 10th round of the World Junior Girls' Chess Championship in Gandhinagar on Wednesday. Divya's attacking play ensured a podium finish with nine points from 10 games, half a point ahead of Armenia's Mariam Mkrtchiyan, who beat Sri Lankan Oshini Gunawardhana Devindya.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/divya-deshmukh-beats-sachi-jain-to-maintain-sole-lead-in-world-junior-chess-championship/articleshow/110947702.cms",
-         "pubDate" : "Wed, 12 Jun 2024 17:32:10",
-         "title" : "Divya Deshmukh maintains sole lead in World Junior Chess C'ship"
       }
    ]
 }
