@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The seventh round of the Superbet Chess Classic saw all five games ending drawn for a third time in the event - much like in the two previous occasions, it was not for a lack of fighting spirit, though. Fabiano Caruana and Wesley So failed to convert superior positions against Dommaraju Gukesh and Nodirbek Abdusattorov respectively. The results left Caruana in sole first place with two round to go. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-7",
+         "pubDate" : "Thu, 04 Jul 2024 01:20:00",
+         "title" : "Superbet Classic: Missed chances by Caruana and So"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Global Chess League runs a competition for ideas to make chess more interesting and engaging for fans with submissions open until 20 July. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/hackathon.1920.jpeg\" title=\"Hackathon graphic: GLC\" data-title=\"Hackathon (graphic: GLC)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/hackathon.480.jpeg?v=1\" alt=\"Hackathon\" srcset=\"https://www.chesstech.org/files/hackathon.480.jpeg?v=1 1x, https://www.chesstech.org/files/hackathon.960.jpeg?v=1 2x\" > </a> <figcaption><em>Hackathon <small>(graphic: GLC)</small></em></figcapt",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/how-to-enhance-the-fan-experience/",
+         "pubDate" : "Wed, 03 Jul 2024 21:41:39",
+         "title" : "How to enhance the fan experience"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nodirbek Abdusattorov talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abdusattorov-had-dream-play-tournament-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/angTR-dx5JY.jpg?itok=Dk_S4qra\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/abdusattorov-had-dream-play-tournament-superbetchessclassicromania",
+         "pubDate" : "Wed, 03 Jul 2024 20:33:29",
+         "title" : "Abdusattorov: Had a Dream to Play in This Tournament | #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Cristian Chirila after a draw against Praggnanandhaa in Round 7 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-seven-draws-not-reflection-my-games-r7-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IAgijlsj07M.jpg?itok=CGf-s8su\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-seven-draws-not-reflection-my-games-r7-superbetchessclassicromania",
+         "pubDate" : "Wed, 03 Jul 2024 20:33:29",
+         "title" : "Nepo: Seven Draws is Not a Reflection of My Games | R7 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 7 of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-7-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-7-grandchesstour",
+         "pubDate" : "Wed, 03 Jul 2024 20:33:29",
+         "title" : "RECAP | Superbet Chess Classic 2024: Round 7 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after a draw against Giri in Round 7 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-deserve-win-one-game-end-r7-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DxehT5lACik.jpg?itok=TzxoI0CC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-deserve-win-one-game-end-r7-superbetchessclassicromania",
+         "pubDate" : "Wed, 03 Jul 2024 20:33:29",
+         "title" : "MVL: Deserve to Win ONE Game Before the End! | R7 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Bogdan Deac talks to Cristian Chirila after a draw against Firouzja in Round 7 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/deac%E2%80%99s-best-chess-needed-next-two-rounds-r7-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ekYFQ1OHQIg.jpg?itok=goMOe81p\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/deac%E2%80%99s-best-chess-needed-next-two-rounds-r7-superbetchessclassicromania",
+         "pubDate" : "Wed, 03 Jul 2024 20:33:29",
+         "title" : "Deac's Best Chess is Needed for Next Two Rounds | R7 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"><p style=\"text-align: center; font-size: 20px;\"><em>Saint Louis Chess Club to host prestigious tournaments featuring top American chess talents across generations</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/landing/thumbnail/US%20JR%20JR%20Girls%20Senior%20Champs%202024.jpg?itok=XJdcbHe1\" alt=\"U.S. Junior Junior Girls and Senior Champinship\" /></div><div class=\"field field-name-field-c",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/news/2024-US-Senior-Junior-and-Junior-Girls-Championships",
+         "pubDate" : "Wed, 03 Jul 2024 19:42:25",
+         "title" : "Saint Louis Chess Club to Host Legends and Rising Stars of American Chess during 2024 U.S. Senior, Junior and Junior Girls' Championships"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -10,20 +74,20 @@ news_feed (
          "title" : "Tbilisi to Host Inaugural Leg of 2024-2025 Women's Grand Prix"
       },
       {
-         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
-         "pubDate" : "Wed, 03 Jul 2024 13:50:00",
-         "title" : "Superbet Chess Classic - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3100",
          "pubDate" : "Wed, 03 Jul 2024 12:57:05",
          "title" : "Winners crowned at World Cup Under 8-12"
+      },
+      {
+         "description" : "It was in serious mutual time trouble, but GM Fabiano Caruana did miss a chance to get at least very close to winning his third game at the Superbet Chess Classic Romania today, against GM Gukesh Dommaraju. The other American GM Wesley So had GM N...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-7",
+         "pubDate" : "Wed, 03 Jul 2024 12:29:00",
+         "title" : "Caruana Misses Chance To Increase Lead In Bucharest"
       },
       {
          "description" : "The Chess.com team has been popping up all over the world recently and members of the team spent last Friday and Saturday promoting chess to mixed martial arts (MMA) fans in a crossover at UFC X. Hosted at the 200,000 square foot Las Vegas Conve...",
@@ -98,7 +162,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -112,54 +176,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alesia-artist-sketching-meeting-best-chess-r4-r5-superbetchessclassicromania",
          "pubDate" : "Tue, 02 Jul 2024 23:32:52",
          "title" : "Alesia the Artist: Sketching & Meeting the Best in Chess! | R4 R5 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Founder Garry Kasparov talks to Cristian Chirila and offers analysis during Round 6 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-singapore-best-gukesh-wcc-match-r6-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/igApB5Bg3ho.jpg?itok=DmhzfsKX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-singapore-best-gukesh-wcc-match-r6-superbetchessclassicromania",
-         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
-         "title" : "Kasparov: Singapore Best for Gukesh in WCC Match | R6 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Wesley So in Round 6 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-wesley%E2%80%99s-sharp-opening-backfired-r6-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3K3HbkF14q4.jpg?itok=72wTRtvI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-wesley%E2%80%99s-sharp-opening-backfired-r6-superbetchessclassicromania",
-         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
-         "title" : "Firouzja: Wesley's Sharp Opening Backfired | R6 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Praggnanandhaa R talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pragg-it%E2%80%99s-time-win-gct-event-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0QPS8s_xhTk.jpg?itok=cdUUuz0O\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pragg-it%E2%80%99s-time-win-gct-event-superbetchessclassicromania",
-         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
-         "title" : "Pragg: It's Time to Win a GCT Event! | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Cristian Chirila after a draw against Vachier-Lagrave in Round 6 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-super-excited-wcc-singapore-r6-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BK6BDBjx5_A.jpg?itok=m7N6kg-B\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-super-excited-wcc-singapore-r6-superbetchessclassicromania",
-         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
-         "title" : "Gukesh: Super Excited for WCC in Singapore! | R6 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-8-grandchesstour\"><img src=\"htt",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-8-grandchesstour",
-         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
-         "title" : "Superbet Chess Classic 2024: Round 8 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 6 of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-6-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-6-grandchesstour",
-         "pubDate" : "Tue, 02 Jul 2024 20:32:42",
-         "title" : "RECAP | Superbet Chess Classic 2024: Round 6 | #GrandChessTour"
       },
       {
          "description" : "These two programs, the standard chess database and the World Champion chess engine, cost €279.80. Together as a package they are €249.90. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to equip yourself with the tools you need to take giant leaps forward as an ambitious chess player.",
@@ -618,14 +634,6 @@ news_feed (
          "title" : "Gukesh beats Deac Bogdan-Daniel in Superbet Classic chess"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Tech Mahindra</strong> has announced a second season of its <strong><a href=\"https://globalchessleague.com\">Global Chess League</a></strong> on 3-12 October in London, securing a live audience and interaction with fans for the high powered rapid team event, which will be followed by the <strong>WR Chess Masters Cup</strong> on 14-18 October held by German sponsor <strong>Wadim Rosenstein</strong> in a k.o.-format, also in London. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/london-hosts-global-chess-league/",
-         "pubDate" : "Thu, 27 Jun 2024 09:30:12",
-         "title" : "London hosts Global Chess League"
-      },
-      {
          "description" : "GMs Awonder Liang and Denis Lazavik won Titled Tuesday on June 25, and several more players locked up a spot in the 2024 Speed Chess Championship after their highly successful Titled Tuesday performances this year to date: GMs Jan-Krzysztof Duda, ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-1",
          "pubDate" : "Wed, 26 Jun 2024 14:02:00",
          "title" : "Caruana, Gukesh Score In Opening Round Of Superbet Chess Classic Romania"
-      },
-      {
-         "description" : "It&#39;s a common problem among chess players: You played a good opening and developed all your pieces. But what do you do next? If you&#39;re among the many players who struggle to find the right plan in the middlegame, it&#39;s because you&#39;re missing the ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-structures-a-grandmaster-guide",
-         "pubDate" : "Wed, 26 Jun 2024 08:41:00",
-         "title" : "Master The Middlegame With Chess Structures Chessable Course Presented By Magnus Carlsen's Coach"
       },
       {
          "description" : "",
@@ -1144,14 +1144,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-divya-deshmukh-wins-world-junior-girls-chess-title/articleshow/110975473.cms",
          "pubDate" : "Thu, 13 Jun 2024 16:13:33",
          "title" : "India's Divya Deshmukh wins World Junior Girls chess title"
-      },
-      {
-         "description" : " The 4th Cairns Cup takes place Thu 13th Jun to Sun 23rd Jun 2024. Players: Zhongyi Tan, Mariya Muzychuk, Nana Dzagnidze, Anna Muzychuk, Harika Dronavalli, Alexandra Kosteniuk, Elisabeth Paehtz, Irina Krush, Alice Lee and Anna Zatonskih. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/4th-cairns-cup-2024",
-         "pubDate" : "Wed, 12 Jun 2024 23:00:00",
-         "title" : "4th Cairns Cup 2024 - Games and Results"
       }
    ]
 }
