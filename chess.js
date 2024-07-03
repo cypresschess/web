@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
+         "pubDate" : "Wed, 03 Jul 2024 13:50:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3100",
+         "pubDate" : "Wed, 03 Jul 2024 12:57:05",
+         "title" : "Winners crowned at World Cup Under 8-12"
+      },
+      {
          "description" : "Once a year the English school chess initiative \"Chess in Schools and Communities\" organises a chess festival in the heart of London, in Trafalgar Square, which naturally focuses on children and young people. Next Sunday, July 7, is the day again. The theme of this year's ChessFest is the chess fairy tale \"Alice Through the Looking Glass\".",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Seniors/world-senior-team-chess-championships-wstcc-2024/#new_tab",
          "pubDate" : "Wed, 03 Jul 2024 07:36:11",
          "title" : "World Senior Team Chess Championships reports"
+      },
+      {
+         "description" : "British chess sensation WFM Bodhana Sivanandan continues to make chess history. Now the nine-year-old prodigy is set to become the youngest player ever to represent England in an international sporting competition. Sivanandan is one of five play...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/9-year-old-bodhana-youngest-england-player-chess-olympiad",
+         "pubDate" : "Wed, 03 Jul 2024 07:30:40",
+         "title" : "9-Year-Old Bodhana To Become England's Youngest Ever Olympian"
       },
       {
          "description" : "<div class=\"body text-secondary\"> A brief overview of Frank Marshall&#039;s Gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-marshall-gambit-grandchesstour-chess-chessopenings-chesshistory-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Dn00Myj2sSs.jpg?itok=0us4D55A\" alt=\"\" /></a></div>",
@@ -760,14 +784,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/tournament-report-and-results-english-chess-championships/",
          "pubDate" : "Mon, 24 Jun 2024 09:23:23",
          "title" : "Tournament Report and Results - English Chess Championships"
-      },
-      {
-         "description" : "Chess.com&#38;rsquo;s print publishing operations, comprising of New in Chess and Everyman Chess are splitting off from Chess.com and merging with Quality Chess to create a group of strong and independent print publishing companies. The New in Chess m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-com-transitions-new-in-chess-everyman-chess-to-quality-chess",
-         "pubDate" : "Mon, 24 Jun 2024 07:34:00",
-         "title" : "Chess Print Publishers Merge To Create Independent Powerhouse, Chess.com Gains Digital Rights"
       },
       {
          "description" : "The 5th edition of the European Small Nations Individual Chess Championship and the 2nd edition of the European Small Nations Women's Chess Championship have started in Andorra la Vella. The events are supported by European Chess Union. The events are simultaneously taking place from 22nd-30th June. Both Championships are played as a 10-player round-robin tournaments, with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino. The time control of the []",
