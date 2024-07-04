@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The ChessBase board in itself is a vast paradise of various options! Here we are going to show you some of the key features that can help you in your analysis of a position. Some of you may not have \"discovered\" them yet, and many might find them useful in your study of games. Take a look - and don't miss your chance to get the software in our Summer Special week!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/secret-features-of-chessbase",
+         "pubDate" : "Thu, 04 Jul 2024 09:23:22",
+         "title" : "Secret features of ChessBase"
+      },
+      {
          "description" : "The seventh round of the Superbet Chess Classic saw all five games ending drawn for a third time in the event - much like in the two previous occasions, it was not for a lack of fighting spirit, though. Fabiano Caruana and Wesley So failed to convert superior positions against Dommaraju Gukesh and Nodirbek Abdusattorov respectively. The results left Caruana in sole first place with two round to go. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,14 +122,6 @@ news_feed (
          "title" : "Chess.com Comes To Las Vegas In UFC X Crossover"
       },
       {
-         "description" : "Once a year the English school chess initiative \"Chess in Schools and Communities\" organises a chess festival in the heart of London, in Trafalgar Square, which naturally focuses on children and young people. Next Sunday, July 7, is the day again. The theme of this year's ChessFest is the chess fairy tale \"Alice Through the Looking Glass\".",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sunday-july-7-great-chess-fest-in-london",
-         "pubDate" : "Wed, 03 Jul 2024 12:00:00",
-         "title" : "Sunday, July 7: Great Chess Fest in London"
-      },
-      {
          "description" : "Titled Tuesday belonged to GMs Dmitry Andreikin and Hikaru Nakamura on July 2, although both needed tiebreaks after scoring 9.5 points. GM Arjun Erigaisi pulled off the impressive but unenviable feat of finishing in second place in both events, wh...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -176,14 +176,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
          "pubDate" : "Wed, 03 Jul 2024 00:00:00",
          "title" : "Wednesday Workout: FIDE World Cup U-12, U-10, U-8 Highlights"
-      },
-      {
-         "description" : "These two programs, the standard chess database and the World Champion chess engine, cost €279.80. Together as a package they are €249.90. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to equip yourself with the tools you need to take giant leaps forward as an ambitious chess player.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chessbase-17-fritz-19",
-         "pubDate" : "Tue, 02 Jul 2024 20:02:36",
-         "title" : "ChessBase 17 + Fritz 19"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2024/file-20240219-24-m3v5sz.1920.jpeg\" title=\"Elite bridge player Margherita Chavarria from Italy. Francesca Canali from the World Bridge Federation, CC BY-SA\" data-title=\"Elite bridge player Margherita Chavarria from Italy. (Francesca Canali from the World Bridge Federation, &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC BY-SA&lt;/a&gt;)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.ches",
