@@ -10,6 +10,14 @@ news_feed (
          "title" : "Secret features of ChessBase"
       },
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3102",
+         "pubDate" : "Thu, 04 Jul 2024 07:17:52",
+         "title" : "East Africa Cup: Teaching Chess and Life Skills"
+      },
+      {
          "description" : "The seventh round of the Superbet Chess Classic saw all five games ending drawn for a third time in the event - much like in the two previous occasions, it was not for a lack of fighting spirit, though. Fabiano Caruana and Wesley So failed to convert superior positions against Dommaraju Gukesh and Nodirbek Abdusattorov respectively. The results left Caruana in sole first place with two round to go. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
