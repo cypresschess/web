@@ -2,12 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Executive Director Michael Khodarkovsky talks to Cristian Chirila during Round 8 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gct%E2%80%99s-khodarkovsky-grand-chess-tour-finals-return-2025-r8-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BRO5VZ05Zx8.jpg?itok=mhvcMHgX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gct%E2%80%99s-khodarkovsky-grand-chess-tour-finals-return-2025-r8-superbetchessclassicromania",
+         "pubDate" : "Thu, 04 Jul 2024 17:33:52",
+         "title" : "GCT's Khodarkovsky: Grand Chess Tour Finals Return in 2025? | R8 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after a draw against Praggnanandhaa in Round 8 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-anish-will-press-win-tomorrow-r8-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xn6QwzynJBY.jpg?itok=6F56CWqW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-anish-will-press-win-tomorrow-r8-superbetchessclassicromania",
+         "pubDate" : "Thu, 04 Jul 2024 17:33:52",
+         "title" : "Caruana: Anish Will Press to Win Tomorrow | R8 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after a draw against Gukesh in Round 8 of the Superbet Chess Classic 2024. 2024.07.04<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-tomorrow-squeeze-fabi-very-tight-watch-him-explode-r8-superbetchessclassicromania",
+         "pubDate" : "Thu, 04 Jul 2024 17:33:52",
+         "title" : "Giri Tomorrow: Squeeze Fabi Very Tight, Watch Him Explode! | R8 #SuperbetChessClassicRomania"
+      },
+      {
          "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
          "pubDate" : "Thu, 04 Jul 2024 13:50:00",
          "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "A fourth day full of draws means that GM Fabiano Caruana, who played GM Praggnanandhaa Rameshbabu&#38;nbsp;today, goes into the final round of the Superbet Chess Classic Romania with a half-point lead. The longest game of the round, between GM Nodirbe...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-8",
+         "pubDate" : "Thu, 04 Jul 2024 12:08:50",
+         "title" : "Caruana Keeps Slim Lead Ahead Of Final Round"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3103",
+         "pubDate" : "Thu, 04 Jul 2024 11:34:34",
+         "title" : "FIDE Torch Arrives at the Triumphal Arch in Bucharest"
       },
       {
          "description" : "The ChessBase board in itself is a vast paradise of various options! Here we are going to show you some of the key features that can help you in your analysis of a position. Some of you may not have \"discovered\" them yet, and many might find them useful in your study of games. Take a look - and don't miss your chance to get the software in our Summer Special week!",
@@ -22,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/roman-empire-bots",
-         "pubDate" : "Thu, 04 Jul 2024 08:18:39",
+         "pubDate" : "Thu, 04 Jul 2024 08:18:00",
          "title" : "Join Forces With The Great Leaders Of The Roman Era With Chess.com's New Bots"
       },
       {
@@ -98,14 +138,6 @@ news_feed (
          "title" : "Deac's Best Chess is Needed for Next Two Rounds | R7 #SuperbetChessClassicRomania"
       },
       {
-         "description" : "<div class=\"body text-secondary\"><p style=\"text-align: center; font-size: 20px;\"><em>Saint Louis Chess Club to host prestigious tournaments featuring top American chess talents across generations</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/landing/thumbnail/US%20JR%20JR%20Girls%20Senior%20Champs%202024.jpg?itok=XJdcbHe1\" alt=\"U.S. Junior Junior Girls and Senior Champinship\" /></div><div class=\"field field-name-field-c",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/news/2024-US-Senior-Junior-and-Junior-Girls-Championships",
-         "pubDate" : "Wed, 03 Jul 2024 19:42:25",
-         "title" : "Saint Louis Chess Club to Host Legends and Rising Stars of American Chess during 2024 U.S. Senior, Junior and Junior Girls' Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -162,22 +194,6 @@ news_feed (
          "title" : "9-Year-Old Bodhana To Become England's Youngest Ever Olympian"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> A brief overview of Frank Marshall&#039;s Gambit </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-marshall-gambit-grandchesstour-chess-chessopenings-chesshistory-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Dn00Myj2sSs.jpg?itok=0us4D55A\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yasser-marshall-gambit-grandchesstour-chess-chessopenings-chesshistory-chesscom",
-         "pubDate" : "Wed, 03 Jul 2024 05:33:00",
-         "title" : "Yasser on The Marshall Gambit #GrandChessTour #chess #chessopenings #chesshistory #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza plays a rare move in the Nimzo-Indian Samisch Variation </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/miro-explains-rb1-nimzo-indian-grandchesstour-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MJHBWZ0wiQs.jpg?itok=NTziQRk8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/miro-explains-rb1-nimzo-indian-grandchesstour-chess-chessopenings-chesscom",
-         "pubDate" : "Wed, 03 Jul 2024 05:33:00",
-         "title" : "Miro Explains Rb1 in Nimzo-Indian #GrandChessTour #chess #chessopenings #chesscom"
-      },
-      {
          "description" : "In U12 Girls Pratitee, Bordoloi settledfor silver after a long fight with Xue,Tianhao from China . In the classical \"best-of-2 games\" both their games ended",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -186,7 +202,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -274,7 +290,7 @@ news_feed (
          "title" : "Kids for Chess Announces 2024 Scholarship Winners"
       },
       {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Share your Story<br /><br /> The US Chess Federation wants to hear your story. With 85 years of organizational history, there are so many stories to tell! And we need your help. The US Chess Oral History Project is a chance to collect the stories of your chess life in your own words. These stories will be preserved in a beautiful book and in a digital archive that celebrates US Chess' impact on your life and the person you are today. As of June 24, over 4,000 people have already shared their oral histories with us!<br /><br /> You may receive an email, postcard and phone call from a company calle",
+         "description" : "<br /><br /><br /><br /> Share your Story<br /><br /> The US Chess Federation wants to hear your story. With 85 years of organizational history, there are so many stories to tell! And we need your help. The US Chess Oral History Project is a chance to collect the stories of your chess life in your own words. These stories will be preserved in a beautiful book and in a digital archive that celebrates US Chess' impact on your life and the person you are today. As of June 24, over 4,000 people have already shared their oral histories with us!<br /><br /> You may receive an email, postcard and phone call from a company called Publishing Concepts (PCI) asking for some personal information and a s",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-oral-history-project",
@@ -640,14 +656,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-beats-deac-bogdan-danielin-superbet-classic-chess/articleshow/111312036.cms",
          "pubDate" : "Thu, 27 Jun 2024 09:55:13",
          "title" : "Gukesh beats Deac Bogdan-Daniel in Superbet Classic chess"
-      },
-      {
-         "description" : "GMs Awonder Liang and Denis Lazavik won Titled Tuesday on June 25, and several more players locked up a spot in the 2024 Speed Chess Championship after their highly successful Titled Tuesday performances this year to date: GMs Jan-Krzysztof Duda, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/liang-lazavik-win-titled-tuesday-june-25-2024",
-         "pubDate" : "Thu, 27 Jun 2024 09:26:14",
-         "title" : "Last Titled Tuesdays Of June Determine SCC Qualifications"
       },
       {
          "description" : "",
@@ -1120,30 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3064",
          "pubDate" : "Thu, 13 Jun 2024 20:12:04",
          "title" : "Cairns Cup 2024 begins in St. Louis"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3063",
-         "pubDate" : "Thu, 13 Jun 2024 19:14:54",
-         "title" : "FIDE World Amateur Championship 2024: Registration is open"
-      },
-      {
-         "description" : " Dominica The island of Dominica recently held its National Chess Championships, including its first Women's Finals from May 30th to June 6th. The venue was the Dominica State College, which attracted the island's best. In fact, Dr. Jones Murphy, Jr. came from the U.S. to compete in the tournament for the first time in 40 The post <a href=\"https://www.thechessdrum.net/blog/2024/06/13/2024-dominica-chess-championships/\">2024 Dominica Chess Championships</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/06/13/2024-dominica-chess-championships/",
-         "pubDate" : "Thu, 13 Jun 2024 17:59:28",
-         "title" : "2024 Dominica Chess Championships"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/110975473.cms\" />Divya Deshmukh, a skilled Indian chess player, triumphed in the World Junior Girls' chess championship on Thursday by outplaying Bulgaria's Beloslava Krasteva. The International Master concluded the event with a remarkable tally of 10 points out of 11, establishing a half-point advantage over Armenia's Mariam Mkrtchyan, who secured the second position at the Gift City. Deshmukh's outstanding performance throughout the tournament showcased her exceptional chess prowess and strategic thinking. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/indias-divya-deshmukh-wins-world-junior-girls-chess-title/articleshow/110975473.cms",
-         "pubDate" : "Thu, 13 Jun 2024 16:13:33",
-         "title" : "India's Divya Deshmukh wins World Junior Girls chess title"
       }
    ]
 }
