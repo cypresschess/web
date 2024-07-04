@@ -38,7 +38,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-8",
-         "pubDate" : "Thu, 04 Jul 2024 12:08:50",
+         "pubDate" : "Thu, 04 Jul 2024 12:08:00",
          "title" : "Caruana Keeps Slim Lead Ahead Of Final Round"
       },
       {
@@ -202,7 +202,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -290,7 +290,7 @@ news_feed (
          "title" : "Kids for Chess Announces 2024 Scholarship Winners"
       },
       {
-         "description" : "<br /><br /><br /><br /> Share your Story<br /><br /> The US Chess Federation wants to hear your story. With 85 years of organizational history, there are so many stories to tell! And we need your help. The US Chess Oral History Project is a chance to collect the stories of your chess life in your own words. These stories will be preserved in a beautiful book and in a digital archive that celebrates US Chess' impact on your life and the person you are today. As of June 24, over 4,000 people have already shared their oral histories with us!<br /><br /> You may receive an email, postcard and phone call from a company called Publishing Concepts (PCI) asking for some personal information and a s",
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Share your Story<br /><br /> The US Chess Federation wants to hear your story. With 85 years of organizational history, there are so many stories to tell! And we need your help. The US Chess Oral History Project is a chance to collect the stories of your chess life in your own words. These stories will be preserved in a beautiful book and in a digital archive that celebrates US Chess' impact on your life and the person you are today. As of June 24, over 4,000 people have already shared their oral histories with us!<br /><br /> You may receive an email, postcard and phone call from a company calle",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-oral-history-project",
@@ -1120,14 +1120,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jun/14/chess-carlsen-and-nakamura-dominate-in-stavanger-while-ding-falters-again",
          "pubDate" : "Fri, 14 Jun 2024 07:00:44",
          "title" : "Chess: Carlsen and Nakamura dominate in Stavanger, while Ding falters again"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3064",
-         "pubDate" : "Thu, 13 Jun 2024 20:12:04",
-         "title" : "Cairns Cup 2024 begins in St. Louis"
       }
    ]
 }
