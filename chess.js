@@ -10,6 +10,22 @@ news_feed (
          "title" : "Superbet Classic: Missed chances by Caruana and So"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-9-playoffs-grandchesstour\"><img",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-9-playoffs-grandchesstour",
+         "pubDate" : "Wed, 03 Jul 2024 23:33:28",
+         "title" : "Superbet Chess Classic 2024: Round 9 & Playoffs | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after a draw against Gukesh in Round 7 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-freestyles-gukesh-move-6-r7-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kcEqYNXHlng.jpg?itok=_N7bCHrN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-freestyles-gukesh-move-6-r7-superbetchessclassicromania",
+         "pubDate" : "Wed, 03 Jul 2024 23:33:28",
+         "title" : "Caruana Freestyles with Gukesh from Move 6 | R7 #SuperbetChessClassicRomania"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Global Chess League runs a competition for ideas to make chess more interesting and engaging for fans with submissions open until 20 July. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/hackathon.1920.jpeg\" title=\"Hackathon graphic: GLC\" data-title=\"Hackathon (graphic: GLC)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/hackathon.480.jpeg?v=1\" alt=\"Hackathon\" srcset=\"https://www.chesstech.org/files/hackathon.480.jpeg?v=1 1x, https://www.chesstech.org/files/hackathon.960.jpeg?v=1 2x\" > </a> <figcaption><em>Hackathon <small>(graphic: GLC)</small></em></figcapt",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -146,14 +162,6 @@ news_feed (
          "title" : "Miro Explains Rb1 in Nimzo-Indian #GrandChessTour #chess #chessopenings #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Karpov and then Magnus use this endgame style to defeat their opponents </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-we-didnt-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Hpf6HKyecCs.jpg?itok=OcgAMIrl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgame-we-didnt-grandchesstour-chess-chesstactics-chessendgame-chesscom",
-         "pubDate" : "Wed, 03 Jul 2024 05:33:00",
-         "title" : "Endgame We Didn't Like #GrandChessTour #chess #chesstactics #chessendgame #chesscom"
-      },
-      {
          "description" : "In U12 Girls Pratitee, Bordoloi settledfor silver after a long fight with Xue,Tianhao from China . In the classical \"best-of-2 games\" both their games ended",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -168,14 +176,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
          "pubDate" : "Wed, 03 Jul 2024 00:00:00",
          "title" : "Wednesday Workout: FIDE World Cup U-12, U-10, U-8 Highlights"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chess fan Alesia Marin and Anish Giri's second Jan Smeets talk to Anastasiya Karlovich during Rounds 4 and 5 respectively of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alesia-artist-sketching-meeting-best-chess-r4-r5-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0wd7astoryg.jpg?itok=JHUxbUgZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alesia-artist-sketching-meeting-best-chess-r4-r5-superbetchessclassicromania",
-         "pubDate" : "Tue, 02 Jul 2024 23:32:52",
-         "title" : "Alesia the Artist: Sketching & Meeting the Best in Chess! | R4 R5 #SuperbetChessClassicRomania"
       },
       {
          "description" : "These two programs, the standard chess database and the World Champion chess engine, cost €279.80. Together as a package they are €249.90. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to equip yourself with the tools you need to take giant leaps forward as an ambitious chess player.",
