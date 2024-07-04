@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
+         "pubDate" : "Thu, 04 Jul 2024 13:50:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
          "description" : "The ChessBase board in itself is a vast paradise of various options! Here we are going to show you some of the key features that can help you in your analysis of a position. Some of you may not have \"discovered\" them yet, and many might find them useful in your study of games. Take a look - and don't miss your chance to get the software in our Summer Special week!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,20 +18,20 @@ news_feed (
          "title" : "Secret features of ChessBase"
       },
       {
+         "description" : "Are you ready to take on some of the greatest strategists in history? Prepare your army and head to our Play Computer page to join forces with the new Roman Empire bots. The more games you win against the bots, the stronger they grow as the month ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/roman-empire-bots",
+         "pubDate" : "Thu, 04 Jul 2024 08:18:39",
+         "title" : "Join Forces With The Great Leaders Of The Roman Era With Chess.com's New Bots"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3102",
          "pubDate" : "Thu, 04 Jul 2024 07:17:52",
          "title" : "East Africa Cup: Teaching Chess and Life Skills"
-      },
-      {
-         "description" : "The seventh round of the Superbet Chess Classic saw all five games ending drawn for a third time in the event - much like in the two previous occasions, it was not for a lack of fighting spirit, though. Fabiano Caruana and Wesley So failed to convert superior positions against Dommaraju Gukesh and Nodirbek Abdusattorov respectively. The results left Caruana in sole first place with two round to go. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-7",
-         "pubDate" : "Thu, 04 Jul 2024 01:20:00",
-         "title" : "Superbet Classic: Missed chances by Caruana and So"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-9-playoffs-grandchesstour\"><img",
@@ -126,7 +134,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/chesscom-takes-over-las-vegas-in-ufcx-crossover",
-         "pubDate" : "Wed, 03 Jul 2024 12:08:30",
+         "pubDate" : "Wed, 03 Jul 2024 12:08:00",
          "title" : "Chess.com Comes To Las Vegas In UFC X Crossover"
       },
       {
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3089",
          "pubDate" : "Wed, 26 Jun 2024 14:50:16",
          "title" : "Parivartan: Transforming lives through chess"
-      },
-      {
-         "description" : "The Superbet Chess Classic Romania, the second leg of the 2024 Grand Chess Tour, started on Wednesday in Bucharest with wins for GMs Gukesh Dommaraju and Fabiano Caruana. In his first classical game since winning the Candidates, Gukesh defeated wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-1",
-         "pubDate" : "Wed, 26 Jun 2024 14:02:00",
-         "title" : "Caruana, Gukesh Score In Opening Round Of Superbet Chess Classic Romania"
       },
       {
          "description" : "",
