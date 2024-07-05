@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw against Gukesh in Round 9 of the Superbet Chess Classic 2024. 2024.07.05<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-doesn%E2%80%99t-feel-well-bails-out-quickly-r9-superbetchessclassicromania",
+         "pubDate" : "Fri, 05 Jul 2024 14:34:18",
+         "title" : "Wesley So Doesn't Feel Well; Bails Out Quickly | R9 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBA for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superunited-rapid-blitz-cro",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superunited-rapid-blitz-croatia-2024-day-1-grandchesstour",
+         "pubDate" : "Fri, 05 Jul 2024 14:34:18",
+         "title" : "SuperUnited Rapid & Blitz Croatia 2024: Day 1 | #GrandChessTour"
+      },
+      {
+         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
+         "pubDate" : "Fri, 05 Jul 2024 13:50:00",
+         "title" : "Superbet Chess Classic - Live!"
+      },
+      {
+         "description" : "We've now completed the IT changes to put into effect the decision made at the English Chess Federation's Finance Council meeting last April to merge...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/silver-and-gold-membership-merge-2024-british-chess-championships/",
+         "pubDate" : "Fri, 05 Jul 2024 13:40:13",
+         "title" : "Silver and Gold Membership Merge/2024 British Chess Championships"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -146,22 +178,6 @@ news_feed (
          "title" : "Nepo: Seven Draws is Not a Reflection of My Games | R7 #SuperbetChessClassicRomania"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 7 of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-7-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-7-grandchesstour",
-         "pubDate" : "Wed, 03 Jul 2024 20:33:29",
-         "title" : "RECAP | Superbet Chess Classic 2024: Round 7 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after a draw against Giri in Round 7 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-deserve-win-one-game-end-r7-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DxehT5lACik.jpg?itok=TzxoI0CC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-deserve-win-one-game-end-r7-superbetchessclassicromania",
-         "pubDate" : "Wed, 03 Jul 2024 20:33:29",
-         "title" : "MVL: Deserve to Win ONE Game Before the End! | R7 #SuperbetChessClassicRomania"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -226,7 +242,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/06/14/nigerias-the-battle-of-the-ages-fought-to-exciting-draw/",
          "pubDate" : "Fri, 14 Jun 2024 23:11:41",
          "title" : "Nigeria's \"The Battle of the Ages\" fought to exciting draw!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3065",
-         "pubDate" : "Fri, 14 Jun 2024 12:13:46",
-         "title" : "Nogerbek Kazybek and Divya Deshmukh triumph at Word Junior Championship 2024"
       }
    ]
 }
