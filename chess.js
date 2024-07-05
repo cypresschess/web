@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 8 of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-8-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-8-grandchesstour",
+         "pubDate" : "Thu, 04 Jul 2024 23:33:59",
+         "title" : "RECAP | Superbet Chess Classic 2024: Round 8 | #GrandChessTour"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Executive Director Michael Khodarkovsky talks to Cristian Chirila during Round 8 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gct%E2%80%99s-khodarkovsky-grand-chess-tour-finals-return-2025-r8-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BRO5VZ05Zx8.jpg?itok=mhvcMHgX\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -128,14 +136,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/mvl-deserve-win-one-game-end-r7-superbetchessclassicromania",
          "pubDate" : "Wed, 03 Jul 2024 20:33:29",
          "title" : "MVL: Deserve to Win ONE Game Before the End! | R7 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Bogdan Deac talks to Cristian Chirila after a draw against Firouzja in Round 7 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/deac%E2%80%99s-best-chess-needed-next-two-rounds-r7-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ekYFQ1OHQIg.jpg?itok=goMOe81p\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/deac%E2%80%99s-best-chess-needed-next-two-rounds-r7-superbetchessclassicromania",
-         "pubDate" : "Wed, 03 Jul 2024 20:33:29",
-         "title" : "Deac's Best Chess is Needed for Next Two Rounds | R7 #SuperbetChessClassicRomania"
       },
       {
          "description" : "",
