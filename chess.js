@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Superbet Romania Chess Classic took place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. Long time leader Fabiano Caruana lost in the final round to Anish Giri, this brought about a rapid tie-break with Alireza Firouzja, D Gukesh and Praggnanandhaa. Caruana mounted a remarkable recovery by beating all three of his opponents to win the event.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2024",
+         "pubDate" : "Fri, 5 Jul 2024 22:43:00",
+         "title" : "Superbet Romania Chess Classic 2024 - Games and Results"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -50,6 +58,14 @@ news_feed (
          "title" : "Silver and Gold Membership Merge/2024 British Chess Championships"
       },
       {
+         "description" : "GM Fabiano Caruana ended up winning the $68,750 first prize at the Superbet Chess Classic Romania after a dramatic final day in Bucharest. Although he lost his classical game to a strong-playing GM Anish Giri, the American GM won all three games i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-9",
+         "pubDate" : "Fri, 05 Jul 2024 13:11:00",
+         "title" : "Caruana Wins Superbet Chess Classic Romania In Playoff After Dramatic Final Day"
+      },
+      {
          "description" : "TwitchCon, TwitchCon, TwitchCon. I just celebrated my first time at the convention as part of the Chess.com team. Sure, I expected things to be a little bit wild. But what I walked into was a vibrant ball of purple-drenched chaos, inflatable pawns...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jul/05/england-reveal-strong-chess-olympiad-squads-seniors-campaign-gold-krakow",
          "pubDate" : "Fri, 05 Jul 2024 07:00:03",
          "title" : "England reveal strong Olympiad squads as seniors campaign for gold in Krakow"
-      },
-      {
-         "description" : "A second consecutive round with all games ending drawn took place on Thursday at the Superbet Chess Classic in Romania. Fabiano Caruana thus continues to lead the standings, with Gukesh, Praggnanandhaa and Alireza Firouzja sharing second place a half point behind the US star. The tournament's final round will see Caruana playing black against Anish Giri. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-8",
-         "pubDate" : "Fri, 05 Jul 2024 05:50:00",
-         "title" : "Superbet Classic: The calm before the storm?"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111503315.cms\" />The Superbet Classic tournament saw Indian prodigies R Praggnanandhaa and D Gukesh securing hard-fought draws in the eighth round. Indian prodigy Praggnanandhaa equalized against Fabiano Caruana, resulting in a draw after 31 moves. Gukesh, preparing for the FIDE World Championship 2024, drew with Anish Giri after a 30-move game. All five games ended in draws, allowing Caruana to maintain a half-point lead with 5 points. Praggnanandhaa, Gukesh, and Alireza Firouzja follow closely with 4.5 points each.",
@@ -282,7 +290,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -634,14 +642,6 @@ news_feed (
          "title" : "Anand Beats Topalov As Indian Legend Hunts 10th Leon Masters Title"
       },
       {
-         "description" : "Despite lots of action on the boards, all of Friday&#39;s games in the third round of the Superbet Chess Classic Romania ended in draws. GMs Maxime Vachier-Lagrave and Praggnanandhaa Rameshbabu will be somewhat disappointed after spoiling winning posi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-3",
-         "pubDate" : "Fri, 28 Jun 2024 14:04:00",
-         "title" : "Vachier-Lagrave, Praggnanandhaa Let Opponents Off The Hook On Day of Draws"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -768,14 +768,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tani-adewumi-wins-2024-us-cadet-championship",
          "pubDate" : "Wed, 26 Jun 2024 00:00:00",
          "title" : "Tani Adewumi Wins 2024 U.S. Cadet Championship "
-      },
-      {
-         "description" : " The Superbet Romania Chess Classic takes place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2024",
-         "pubDate" : "Tue, 25 Jun 2024 22:43:00",
-         "title" : "Superbet Romania Chess Classic 2024 - Games and Results"
       },
       {
          "description" : " Bernard Parham I, the 1967 Indiana State Champion and creator of the Matrix Chess System, has passed away. His son Bernard II relayed the news to The Chess Drum, &#8220;Resigned against diabetes on Wednesday, June 19th-one day after reaching his 58th wedding anniversary.&#8221; Born on October 30, 1946, to Eddie and Kathleen Parham, Bernard married The post <a href=\"https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/\">Bernard Parham, chess innovator, passes away</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
