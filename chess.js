@@ -13,6 +13,14 @@ news_feed (
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3105",
+         "pubDate" : "Fri, 05 Jul 2024 21:52:31",
+         "title" : "Fabiano Caruana wins Superbet Chess Classic Romania"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3104",
          "pubDate" : "Fri, 05 Jul 2024 17:33:04",
          "title" : "Ziaur Rahman (1974-2024)"
@@ -290,7 +298,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -1128,14 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3066",
          "pubDate" : "Sat, 15 Jun 2024 06:30:05",
          "title" : "Chess and Business Meet at Nasdaq Stock Exchange: Opening Ceremony of World Corporate Chess Championship"
-      },
-      {
-         "description" : " &#8220;The Battle of the Ages&#8221; kicked off on June 11th, pitting global ambassador Tunde Onakoya against Nigerian phenom Deborah Quickpen. The atmosphere was electric, and the venue was splendid, with many dignitaries attending the intergenerational match. The Daniel Ford Foundation sponsored the match, which took place in Lagos. The Initiatives Four years ago, social media The post <a href=\"https://www.thechessdrum.net/blog/2024/06/14/nigerias-the-battle-of-the-ages-fought-to-exciting-draw/\">Nigeria's &#8220;The Battle of the Ages&#8221; fought to exciting draw!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/06/14/nigerias-the-battle-of-the-ages-fought-to-exciting-draw/",
-         "pubDate" : "Fri, 14 Jun 2024 23:11:41",
-         "title" : "Nigeria's \"The Battle of the Ages\" fought to exciting draw!"
       }
    ]
 }
