@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/counties-championship-2024/",
+         "pubDate" : "Fri, 05 Jul 2024 08:00:31",
+         "title" : "2024 County Championships finals continue on Saturday 6 July!"
+      },
+      {
          "description" : " Top five English grandmasters will feature in Budapest - as will nine-year-old prodigy Bodhana Sivanandan England will look for at least a top-10 finish from the national Open team when the biennial 180-country chess Olympiad starts in Budapest, Hungary, in September, while the women's squad features a debut for Bodhana Sivanandan, aged nine. In the 2022 Olympiad at Chennai, England finished 14th and 32nd. Since then the former Russian Nikita Vitiugov has transferred his allegiance, and is likely to be a formidable top board. The Open team in rating order is: Vitiugov (2678), David Howell (2675), Michael Adams (2672), Gawain Jones (2640), Luke McShane (2617). The women's team consists of: J",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -594,14 +602,6 @@ news_feed (
          "title" : "Lazavik Qualifies For SCC Main Event, Goes Undefeated On Day 2"
       },
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/counties-championship-2024/",
-         "pubDate" : "Fri, 28 Jun 2024 12:22:31",
-         "title" : "2024 County Championships finals start 29/6/24"
-      },
-      {
          "description" : "The European Youth Team Chess Championship 2024 concluded yesterday in Rhodes, Greece. With the participation of 58 teams from 16 European federations, the event broke the participation record. The event was co-organised by the Chess Club of Rhodes \"Ippotis\" and the Region of South Aegean. The event was played in two age categories: U12 and U18, open and girls sections separately, with 7 rounds, swiss system, in each championship. The top-seeded team of Israel triumphed in the U18 section scoring []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1120,14 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3065",
          "pubDate" : "Fri, 14 Jun 2024 12:13:46",
          "title" : "Nogerbek Kazybek and Divya Deshmukh triumph at Word Junior Championship 2024"
-      },
-      {
-         "description" : "The last round saw some long tussles, particularly on boards 2 5, but GM Marcin Tazbir of Poland disposed of his opponent relatively quickly...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ibca-2024-reports-from-owen-phillips/",
-         "pubDate" : "Fri, 14 Jun 2024 08:00:09",
-         "title" : "IBCA 2024 - reports from Owen Phillips"
       }
    ]
 }
