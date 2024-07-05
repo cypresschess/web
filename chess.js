@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3104",
+         "pubDate" : "Fri, 05 Jul 2024 17:33:04",
+         "title" : "Ziaur Rahman (1974-2024)"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111521247.cms\" />Chess grandmaster Ziaur Rahman died Friday at the age of 50 after suffering a stroke and collapsing on his board in the middle of a national championship match. Ziaur Rahman was the highest-ranked of Bangladesh's five chess grandmasters.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/bangladeshs-top-chess-grandmaster-dies-mid-match/articleshow/111521247.cms",
+         "pubDate" : "Fri, 05 Jul 2024 17:12:02",
+         "title" : "Bangladesh's top chess grandmaster dies mid-match"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw against Gukesh in Round 9 of the Superbet Chess Classic 2024. 2024.07.05<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -23,7 +39,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
          "pubDate" : "Fri, 05 Jul 2024 13:50:00",
-         "title" : "Superbet Chess Classic - Live!"
+         "title" : "Superbet Chess Classic Tiebreaks - Live!"
       },
       {
          "description" : "We've now completed the IT changes to put into effect the decision made at the English Chess Federation's Finance Council meeting last April to merge...",
@@ -32,6 +48,30 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/silver-and-gold-membership-merge-2024-british-chess-championships/",
          "pubDate" : "Fri, 05 Jul 2024 13:40:13",
          "title" : "Silver and Gold Membership Merge/2024 British Chess Championships"
+      },
+      {
+         "description" : "TwitchCon, TwitchCon, TwitchCon. I just celebrated my first time at the convention as part of the Chess.com team. Sure, I expected things to be a little bit wild. But what I walked into was a vibrant ball of purple-drenched chaos, inflatable pawns...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/twitch-con-eu-2024",
+         "pubDate" : "Fri, 05 Jul 2024 12:05:12",
+         "title" : "Suns Out, Pawns Out: Chess.com Invades TwitchConEu"
+      },
+      {
+         "description" : "Fifteen-time Bangladesh Chess Champion GM Ziaur Rahman has passed away today after suffering a stroke during his 12th-round game at the national chess championship, the Bangladesh Chess Federation has confirmed. The 50-year-old had a close-to-wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/grandmaster-ziaur-rahman-dies-heart-attack-game-bangladesh",
+         "pubDate" : "Fri, 05 Jul 2024 10:33:00",
+         "title" : "GM Ziaur Rahman Dies After Stroke During Game In Bangladesh Chess Championship"
+      },
+      {
+         "description" : "GM Hikaru Nakamura is proud to announce Hikaru&#39;s Kickathalon of Chess - Sponsored by Kick.com. On Thursday, July 11 at 12 p.m. ET/18:00 CEST, both titled and amateur players alike will have a chance to compete for a share of the $13,150 prize fund...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-hikarus-2024-kickathalon-of-chess",
+         "pubDate" : "Fri, 05 Jul 2024 09:39:00",
+         "title" : "Announcing Hikaru's Kickathalon of Chess"
       },
       {
          "description" : "",
@@ -242,7 +282,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -610,14 +650,6 @@ news_feed (
          "title" : "Newly revised \"Preparation of Lecturers\" course announced"
       },
       {
-         "description" : "GM Denis Lazavik sailed through day two of the 2024 Speed Chess Championship Play-in, winning all three of his matches to qualify for the main event. He played 14 games total on Friday&#38;mdash;against GMs Yuriy Kuzubov, M Pranesh, and Dmitry Andreik...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-play-in-knockout",
-         "pubDate" : "Fri, 28 Jun 2024 12:44:00",
-         "title" : "Lazavik Qualifies For SCC Main Event, Goes Undefeated On Day 2"
-      },
-      {
          "description" : "The European Youth Team Chess Championship 2024 concluded yesterday in Rhodes, Greece. With the participation of 58 teams from 16 European federations, the event broke the participation record. The event was co-organised by the Chess Club of Rhodes \"Ippotis\" and the Region of South Aegean. The event was played in two age categories: U12 and U18, open and girls sections separately, with 7 rounds, swiss system, in each championship. The top-seeded team of Israel triumphed in the U18 section scoring []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -664,22 +696,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3092",
          "pubDate" : "Thu, 27 Jun 2024 13:24:24",
          "title" : "Queen Trap: Music short film to feature women in chess at Chess Olympiad"
-      },
-      {
-         "description" : "After his painful loss in the opening round, GM Alireza Firouzja recovered with a victory against GM Nodirbek Abdusattorov on Thursday at the Superbet Chess Classic Romania. This time it was GM Fabiano Caruana&#39;s turn to spoil a winning position as...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-2",
-         "pubDate" : "Thu, 27 Jun 2024 13:15:00",
-         "title" : "Firouzja Bounces Back, Caruana Spoils Win In Bucharest"
-      },
-      {
-         "description" : "GM M Pranesh finished with the highest score, 9.5/11, in the Swiss stage of the 2024 Speed Chess Championship Play-in. He and seven other players advance to a double-elimination Knockout. Just one player will earn the last qualifying spot availabl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-play-in-swiss",
-         "pubDate" : "Thu, 27 Jun 2024 10:25:00",
-         "title" : "Pranesh Tops Swiss Qualifier, 8 Players Move On To Knockout Stage"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111312036.cms\" />​Gukesh, who is set to challenge reigning World Champion Ding Liren of China later this year, benefited from a tactical oversight by both players in the middle game but quickly capitalized on his advantage to secure the victory in his first classical game since winning the Candidates tournament.",
