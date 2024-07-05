@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Top five English grandmasters will feature in Budapest - as will nine-year-old prodigy Bodhana Sivanandan England will look for at least a top-10 finish from the national Open team when the biennial 180-country chess Olympiad starts in Budapest, Hungary, in September, while the women's squad features a debut for Bodhana Sivanandan, aged nine. In the 2022 Olympiad at Chennai, England finished 14th and 32nd. Since then the former Russian Nikita Vitiugov has transferred his allegiance, and is likely to be a formidable top board. The Open team in rating order is: Vitiugov (2678), David Howell (2675), Michael Adams (2672), Gawain Jones (2640), Luke McShane (2617). The women's team consists of: J",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/jul/05/england-reveal-strong-chess-olympiad-squads-seniors-campaign-gold-krakow",
+         "pubDate" : "Fri, 05 Jul 2024 07:00:03",
+         "title" : "England reveal strong Olympiad squads as seniors campaign for gold in Krakow"
+      },
+      {
+         "description" : "A second consecutive round with all games ending drawn took place on Thursday at the Superbet Chess Classic in Romania. Fabiano Caruana thus continues to lead the standings, with Gukesh, Praggnanandhaa and Alireza Firouzja sharing second place a half point behind the US star. The tournament's final round will see Caruana playing black against Anish Giri. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-8",
+         "pubDate" : "Fri, 05 Jul 2024 05:50:00",
+         "title" : "Superbet Classic: The calm before the storm?"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111503315.cms\" />The Superbet Classic tournament saw Indian prodigies R Praggnanandhaa and D Gukesh securing hard-fought draws in the eighth round. Indian prodigy Praggnanandhaa equalized against Fabiano Caruana, resulting in a draw after 31 moves. Gukesh, preparing for the FIDE World Championship 2024, drew with Anish Giri after a 30-move game. All five games ended in draws, allowing Caruana to maintain a half-point lead with 5 points. Praggnanandhaa, Gukesh, and Alireza Firouzja follow closely with 4.5 points each.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-classic-chess-r-praggnanandhaa-d-gukesh-hold-strong-against-top-grandmasters-in-penultimate-round/articleshow/111503315.cms",
+         "pubDate" : "Fri, 05 Jul 2024 04:47:32",
+         "title" : "Pragg, Gukesh hold strong in Superbet Classic's penultimate round"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 8 of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-8-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/giri-tomorrow-squeeze-fabi-very-tight-watch-him-explode-r8-superbetchessclassicromania",
          "pubDate" : "Thu, 04 Jul 2024 17:33:52",
          "title" : "Giri Tomorrow: Squeeze Fabi Very Tight, Watch Him Explode! | R8 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-live",
-         "pubDate" : "Thu, 04 Jul 2024 13:50:00",
-         "title" : "Superbet Chess Classic - Live!"
       },
       {
          "description" : "A fourth day full of draws means that GM Fabiano Caruana, who played GM Praggnanandhaa Rameshbabu&#38;nbsp;today, goes into the final round of the Superbet Chess Classic Romania with a half-point lead. The longest game of the round, between GM Nodirbe...",
@@ -1112,14 +1128,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ibca-2024-reports-from-owen-phillips/",
          "pubDate" : "Fri, 14 Jun 2024 08:00:09",
          "title" : "IBCA 2024 - reports from Owen Phillips"
-      },
-      {
-         "description" : " Magnus Carlsen continued his winning streak in Norway as Hikaru Nakamura gained the No 2 ranking, but China's world champion finished a poor last of six Norway Chess, last weekend's $161,000 event in Stavanger, was Magnus Carlsen's 10th victory in his last 11 starts, and also a significant success for Hikaru Nakamura. The 36-year-old streamer regained a 2800 rating, and passed Fabiano Caruana to take over as No 2 in the Fide world rankings. Carlsen assessed it as \"a good performance, not a sparkling performance by any means, but I feel I was quite professional in the way that I handled the last seven games or so. My mindset went from trying to play fun chess, which wasn't fun at all, to mor",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/jun/14/chess-carlsen-and-nakamura-dominate-in-stavanger-while-ding-falters-again",
-         "pubDate" : "Fri, 14 Jun 2024 07:00:44",
-         "title" : "Chess: Carlsen and Nakamura dominate in Stavanger, while Ding falters again"
       }
    ]
 }
