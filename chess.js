@@ -2,6 +2,78 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> What kind of move is this? Brilliant move, good move, book move, or whatever it is, the engine just can&#039;t figure it </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/engine-bailout-grandchesstour-chess-chesstactics-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a5XDsLzpcZc.jpg?itok=kljyUamZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/engine-bailout-grandchesstour-chess-chesstactics-chessstrategy-chesscom",
+         "pubDate" : "Sat, 06 Jul 2024 02:34:42",
+         "title" : "Engine Bailout #GrandChessTour #chess #chesstactics #chessstrategy #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In a position between Giri and Gukesh D the moves are small, but are they effective </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/miro-and-cristian-mickey-mouse-moves-explained-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/54k1DXvVlOI.jpg?itok=kLHwLlyD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/miro-and-cristian-mickey-mouse-moves-explained-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Sat, 06 Jul 2024 02:34:42",
+         "title" : "Miro and Cristian: Mickey Mouse Moves Explained #GrandChessTour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sometimes tactics just don&#039;t work. Miro explains why e6 doesn&#039;t work in a position between Pragg and Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/silly-bishops-grandchesstour-chess-chesstactics-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OUzs2akex7I.jpg?itok=2V8URNJC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/silly-bishops-grandchesstour-chess-chesstactics-chessstrategy-chesscom",
+         "pubDate" : "Sat, 06 Jul 2024 02:34:42",
+         "title" : "Silly Bishops #GrandChessTour #chess #chesstactics #chessstrategy #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> There are so many possibilities to...draw this endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-endgame-explainedoh-so-many-possibilities-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/c9apVaHyM3Q.jpg?itok=Cq8tFmI8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rook-endgame-explainedoh-so-many-possibilities-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Sat, 06 Jul 2024 02:34:42",
+         "title" : "Rook Endgame Explained...OH! So Many Possibilities #GrandChessTour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> All the natural moves, but it&#039;s the unnatural you won&#039;t see </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirilas-pov-without-engine-grandchesstour-chess-chesstactics-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/z3L-Ukb91PM.jpg?itok=AtiiBCVx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chirilas-pov-without-engine-grandchesstour-chess-chesstactics-chessstrategy-chesscom",
+         "pubDate" : "Sat, 06 Jul 2024 02:34:42",
+         "title" : "Chirila's POV: Without An Engine #GrandChessTour #chess #chesstactics #chessstrategy #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana, Praggnanandhaa, Gukesh D, and Alireza Firouzja tied for 1st after regulation. They played a rapid round robin. In the third and final round of the playoff, Caruana only had to score to win the event. If he lost, a winner in the other pairing could force an armageddon game. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watch-pragg-vs-caruana-playoff-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/b",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/watch-pragg-vs-caruana-playoff-superbetchessclassicromania",
+         "pubDate" : "Fri, 05 Jul 2024 23:34:36",
+         "title" : "WATCH: Pragg vs. Caruana | Playoff #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila and is presented the trophy by REKARO Founder Andreea Maria Paul and Michael Khodarkovsky after the playoffs of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-laughs-last-best-i-played-terribly-playoff-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XuRx85_tm-A.jpg?itok",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-laughs-last-best-i-played-terribly-playoff-superbetchessclassicromania",
+         "pubDate" : "Fri, 05 Jul 2024 23:34:36",
+         "title" : "Caruana Laughs Last & Best: I Played Terribly! | Playoff #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Anastasiya Karlovich after the final regulation round at the Superbet Chess Classic 2024. 2024.07.05<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukeshs-performance-superbet-classic-r9-superbetchessclassicromania",
+         "pubDate" : "Fri, 05 Jul 2024 23:34:36",
+         "title" : "Gukesh's Performance at the Superbet Classic | R9 #SuperbetChessClassicRomania"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 9 and the playoffs of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-9-playoffs-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-9-playoffs-grandchesstour",
+         "pubDate" : "Fri, 05 Jul 2024 23:34:36",
+         "title" : "RECAP | Superbet Chess Classic 2024: Round 9 & Playoffs | #GrandChessTour"
+      },
+      {
          "description" : " The Superbet Romania Chess Classic took place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. Long time leader Fabiano Caruana lost in the final round to Anish Giri, this brought about a rapid tie-break with Alireza Firouzja, D Gukesh and Praggnanandhaa. Caruana mounted a remarkable recovery by beating all three of his opponents to win the event.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -40,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/wesley-so-doesn%E2%80%99t-feel-well-bails-out-quickly-r9-superbetchessclassicromania",
          "pubDate" : "Fri, 05 Jul 2024 14:34:18",
          "title" : "Wesley So Doesn't Feel Well; Bails Out Quickly | R9 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (players below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBA for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superunited-rapid-blitz-cro",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superunited-rapid-blitz-croatia-2024-day-1-grandchesstour",
-         "pubDate" : "Fri, 05 Jul 2024 14:34:18",
-         "title" : "SuperUnited Rapid & Blitz Croatia 2024: Day 1 | #GrandChessTour"
       },
       {
          "description" : "The second event of the 2024 Grand Chess Tour is the Superbet Chess Classic, a 10-player single round-robin taking place from June 26 to July 5 at the Grand Hotel Bucharest. Defending champion Fabiano Caruana is the rating favourite, while Ian Nepomniachtchi and Nodirbek Abdusattorov are the second and third seeds respectively. | Follow the games live with expert commentary, starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -122,38 +186,6 @@ news_feed (
          "title" : "Pragg, Gukesh hold strong in Superbet Classic's penultimate round"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster JJ Ali Marandi recaps Round 8 of the Superbet Chess Classic live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superbet-chess-classic-2024-round-8-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thum",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superbet-chess-classic-2024-round-8-grandchesstour",
-         "pubDate" : "Thu, 04 Jul 2024 23:33:59",
-         "title" : "RECAP | Superbet Chess Classic 2024: Round 8 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour Executive Director Michael Khodarkovsky talks to Cristian Chirila during Round 8 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gct%E2%80%99s-khodarkovsky-grand-chess-tour-finals-return-2025-r8-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BRO5VZ05Zx8.jpg?itok=mhvcMHgX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gct%E2%80%99s-khodarkovsky-grand-chess-tour-finals-return-2025-r8-superbetchessclassicromania",
-         "pubDate" : "Thu, 04 Jul 2024 17:33:52",
-         "title" : "GCT's Khodarkovsky: Grand Chess Tour Finals Return in 2025? | R8 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after a draw against Praggnanandhaa in Round 8 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-anish-will-press-win-tomorrow-r8-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xn6QwzynJBY.jpg?itok=6F56CWqW\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-anish-will-press-win-tomorrow-r8-superbetchessclassicromania",
-         "pubDate" : "Thu, 04 Jul 2024 17:33:52",
-         "title" : "Caruana: Anish Will Press to Win Tomorrow | R8 #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after a draw against Gukesh in Round 8 of the Superbet Chess Classic 2024. 2024.07.04<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-tomorrow-squeeze-fabi-very-tight-watch-him-explode-r8-superbetchessclassicromania",
-         "pubDate" : "Thu, 04 Jul 2024 17:33:52",
-         "title" : "Giri Tomorrow: Squeeze Fabi Very Tight, Watch Him Explode! | R8 #SuperbetChessClassicRomania"
-      },
-      {
          "description" : "A fourth day full of draws means that GM Fabiano Caruana, who played GM Praggnanandhaa Rameshbabu&#38;nbsp;today, goes into the final round of the Superbet Chess Classic Romania with a half-point lead. The longest game of the round, between GM Nodirbe...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -194,44 +226,12 @@ news_feed (
          "title" : "East Africa Cup: Teaching Chess and Life Skills"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the Grand Hotel Bucharest, the 5th Superbet Chess Classic is the second of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan, Evgeny Miroshnichenko, &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/superbet-chess-classic-2024-round-9-playoffs-grandchesstour\"><img",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superbet-chess-classic-2024-round-9-playoffs-grandchesstour",
-         "pubDate" : "Wed, 03 Jul 2024 23:33:28",
-         "title" : "Superbet Chess Classic 2024: Round 9 & Playoffs | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after a draw against Gukesh in Round 7 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-freestyles-gukesh-move-6-r7-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kcEqYNXHlng.jpg?itok=_N7bCHrN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-freestyles-gukesh-move-6-r7-superbetchessclassicromania",
-         "pubDate" : "Wed, 03 Jul 2024 23:33:28",
-         "title" : "Caruana Freestyles with Gukesh from Move 6 | R7 #SuperbetChessClassicRomania"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Global Chess League runs a competition for ideas to make chess more interesting and engaging for fans with submissions open until 20 July. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/hackathon.1920.jpeg\" title=\"Hackathon graphic: GLC\" data-title=\"Hackathon (graphic: GLC)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/hackathon.480.jpeg?v=1\" alt=\"Hackathon\" srcset=\"https://www.chesstech.org/files/hackathon.480.jpeg?v=1 1x, https://www.chesstech.org/files/hackathon.960.jpeg?v=1 2x\" > </a> <figcaption><em>Hackathon <small>(graphic: GLC)</small></em></figcapt",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
          "link" : "https://www.chesstech.org/2024/how-to-enhance-the-fan-experience/",
          "pubDate" : "Wed, 03 Jul 2024 21:41:39",
          "title" : "How to enhance the fan experience"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nodirbek Abdusattorov talks to Anastasiya Karlovich before the Superbet Chess Classic 2024. This aired during Round 7. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abdusattorov-had-dream-play-tournament-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/angTR-dx5JY.jpg?itok=Dk_S4qra\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/abdusattorov-had-dream-play-tournament-superbetchessclassicromania",
-         "pubDate" : "Wed, 03 Jul 2024 20:33:29",
-         "title" : "Abdusattorov: Had a Dream to Play in This Tournament | #SuperbetChessClassicRomania"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Cristian Chirila after a draw against Praggnanandhaa in Round 7 of the Superbet Chess Classic 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-seven-draws-not-reflection-my-games-r7-superbetchessclassicromania\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IAgijlsj07M.jpg?itok=CGf-s8su\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-seven-draws-not-reflection-my-games-r7-superbetchessclassicromania",
-         "pubDate" : "Wed, 03 Jul 2024 20:33:29",
-         "title" : "Nepo: Seven Draws is Not a Reflection of My Games | R7 #SuperbetChessClassicRomania"
       },
       {
          "description" : "",
