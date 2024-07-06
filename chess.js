@@ -50,6 +50,14 @@ news_feed (
          "title" : "Howard University Chess Club approaches 100 years!"
       },
       {
+         "description" : "The latest edition of Bullet Brawl,&#38;nbsp;which was one of the strongest in the event&#39;s history, was won by GM Daniel Naroditsky, who outscored GMs Hikaru Nakamura, Magnus Carlsen, Arjun Erigaisi, Rameshbabu Praggnanandhaa, and 125 other titled pla...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-daniel-naroditsky-wins-bullet-brawl-july-6-2024",
+         "pubDate" : "Sat, 06 Jul 2024 15:55:00",
+         "title" : "Naroditsky Outscores Nakamura, Carlsen, Erigaisi, Praggnanandhaa"
+      },
+      {
          "description" : "This week I focus on the praiseworthy efforts of the National Director for Chess in Prisons, Carl Portman. In what follows, I will quote extensively from the Director's own writings: \"In 2022 I volunteered to manage a team of chess players at HMP Hewell and enter them into the International World online prison chess championships as []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -330,7 +338,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-misses-out-on-joint-leader-spot-after-draw-against-d-gukesh-at-superbet-classic-chess-tournament/articleshow/111360180.cms",
          "pubDate" : "Sat, 29 Jun 2024 08:21:36",
          "title" : "Pragg misses joint leader spot after draw against Gukesh"
-      },
-      {
-         "description" : "15th World Chess Champion Viswanathan Anand defeated one of his great rivals GM Veselin Topalov 2.5-1.5 on Friday to reach the Final of the 2024 Leon Masters. He&#39;ll face the winner of Saturday&#39;s Semifinal between GM Arjun Erigaisi and local hero G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-leon-masters-semifinals-1",
-         "pubDate" : "Sat, 29 Jun 2024 04:58:00",
-         "title" : "Anand Beats Topalov As Indian Legend Hunts 10th Leon Masters Title"
       },
       {
          "description" : "",
