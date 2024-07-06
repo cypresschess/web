@@ -1,4 +1,5 @@
 jtable([
+"CYPRESS","2024-07-05","22","<a href=http://www.uschess.org/msa/XtblMain.php?202407050062 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-06-30","27","<a href=http://www.uschess.org/msa/XtblMain.php?202406308032 target='_blank'>WARM UP FOR THE JULY CHAMPIONSHIP</a>",
 "HOUSTON","2024-06-29","17","<a href=http://www.uschess.org/msa/XtblMain.php?202406299012 target='_blank'>KW BLITZ JUNE 2024</a>",
 "HOUSTON","2024-06-29","6","<a href=http://www.uschess.org/msa/XtblMain.php?202406297142 target='_blank'>CHESSPANDA06292024SATURDAY</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2023-12-16","8","<a href=http://www.uschess.org/msa/XtblMain.php?202312166262 target='_blank'>CHESSPANDA12162023SATURDAY</a>",
 "CYPRESS","2023-12-16","18","<a href=http://www.uschess.org/msa/XtblMain.php?202312166032 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SPRING","2023-12-15","27","<a href=http://www.uschess.org/msa/XtblMain.php?202312155932 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2023-12-01  - 12-15","9","<a href=http://www.uschess.org/msa/XtblMain.php?202312155882 target='_blank'>REBECCA CHESS CLUB DECEMBER 2023 MONTHLY SWISS</a>",
 ]);
