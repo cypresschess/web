@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This week I focus on the praiseworthy efforts of the National Director for Chess in Prisons, Carl Portman. In what follows, I will quote extensively from the Director's own writings: \"In 2022 I volunteered to manage a team of chess players at HMP Hewell and enter them into the International World online prison chess championships as []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/chess-in-prisons/",
+         "pubDate" : "Sat, 06 Jul 2024 14:47:49",
+         "title" : "Chess in prisons"
+      },
+      {
+         "description" : "I have a confession to make: I'm addicted to my phone. Even pooping without staring at my phone seems hard on some days. I've tried a lot: 30-day digital detox, uninstalling most apps, switching off all notifications but nothing has really worked. I'm also aware of the costs: The list goes on. Honestly, I nearly []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/phone-addiction/",
+         "pubDate" : "Sat, 06 Jul 2024 13:00:00",
+         "title" : "A simple hack for phone addicts like me"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111531116.cms\" />The classical section of the competition was blown wide open when Caruana lost to Anish Giri of Holland, resulting in a four-way tie for first place between Gukesh, Praggnanandhaa, France's Alireza Firouzja and Caruana.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1120,14 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3068",
          "pubDate" : "Sun, 16 Jun 2024 07:42:05",
          "title" : "WCCC 2024: The race for the smartest company in the world is on"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3067",
-         "pubDate" : "Sat, 15 Jun 2024 12:41:21",
-         "title" : "Schools receive FIDE School Awards "
       }
    ]
 }
