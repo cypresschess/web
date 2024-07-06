@@ -1128,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3067",
          "pubDate" : "Sat, 15 Jun 2024 12:41:21",
          "title" : "Schools receive FIDE School Awards "
-      },
-      {
-         "description" : "For the first time since the age of four my feelings are conflicted concerning the imminent general election on July 4th. A committed Conservative since pre-primary school, I voted (once old enough to do so) with enthusiasm in the Conservative cause, until the political demise of Mrs Thatcher, who most helpfully opened the London 1986 []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-the-election-and-rachel-reeves/",
-         "pubDate" : "Sat, 15 Jun 2024 07:38:32",
-         "title" : "Chess, the election and Rachel Reeves"
       }
    ]
 }
