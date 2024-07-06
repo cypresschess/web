@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Chirila gives his overview of the endgame position between Alireza and Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirilas-pov-firouzja-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Qi-LvqyHOZw.jpg?itok=MPa5D_dE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chirilas-pov-firouzja-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom",
+         "pubDate" : "Sat, 06 Jul 2024 17:34:56",
+         "title" : "Chirila's POV: Firouzja Endgame #GrandChessTour #chess #chesstactics #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Cristian gives his insights on Giri&#039;s position against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirilas-pov-giris-golden-opportunity-grandchesstour-chess-chesstactics-anishgiri-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YqZcNIXUYtg.jpg?itok=UsLLg8n_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chirilas-pov-giris-golden-opportunity-grandchesstour-chess-chesstactics-anishgiri-chesscom",
+         "pubDate" : "Sat, 06 Jul 2024 17:34:56",
+         "title" : "Chirila's POV: Giri's Golden Opportunity #GrandChessTour #chess #chesstactics #anishgiri #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In a winning position for Alireza, Jovi and Yasser look at using the drawing strategy for Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/drawing-strategy-pragg-grandchesstour-chess-chessstrategy-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bsruL4G2fnc.jpg?itok=pceF2ssd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/drawing-strategy-pragg-grandchesstour-chess-chessstrategy-chessendgame-chesscom",
+         "pubDate" : "Sat, 06 Jul 2024 17:34:56",
+         "title" : "Drawing Strategy for Pragg #GrandChessTour #chess #chessstrategy #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser looks back on the turning point in the game between Caruana and Giri </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/turning-point-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XYYYNEVgZQQ.jpg?itok=QBAGD82y\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/turning-point-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Sat, 06 Jul 2024 17:34:56",
+         "title" : "The Turning Point #GrandChessTour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish picks up a few more pieces on his way to victory against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-operation-mop-grandchesstour-chess-chessendgame-checkmatepatterns-chesscom-anishgiri\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tDr33Zjl4oQ.jpg?itok=rmApDR_P\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-operation-mop-grandchesstour-chess-chessendgame-checkmatepatterns-chesscom-anishgiri",
+         "pubDate" : "Sat, 06 Jul 2024 17:34:56",
+         "title" : "GIRI OPERATION: Mop Up #GrandChessTour #chess #chessendgame #checkmatepatterns #chesscom #anishgiri"
+      },
+      {
+         "description" : " Howard University, founded in 1867, is a preeminent institution of higher learning. Jamaal Abdul-Alim&#160;has been an unofficial advisor to the chess club for several years, helping the organization in various areas, including a recent historical project. Currently an adjunct professor at the University of Maryland, he is keen on the potential of leveraging chess at The post <a href=\"https://www.thechessdrum.net/blog/2024/07/06/howard-university-chess-club-approaches-100-years/\">Howard University Chess Club approaches 100 years!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/07/06/howard-university-chess-club-approaches-100-years/",
+         "pubDate" : "Sat, 06 Jul 2024 16:31:25",
+         "title" : "Howard University Chess Club approaches 100 years!"
+      },
+      {
          "description" : "This week I focus on the praiseworthy efforts of the National Director for Chess in Prisons, Carl Portman. In what follows, I will quote extensively from the Director's own writings: \"In 2022 I volunteered to manage a team of chess players at HMP Hewell and enter them into the International World online prison chess championships as []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -58,7 +106,7 @@ news_feed (
          "title" : "Pragg's Drawing Chances Explained #GrandChessTour #chess #chesstactics #chessendgame #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Can the pawn be captured by black </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-grubber-tactic-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OhkJstEo-3U.jpg?itok=ed7zkaZZ\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Yasser inquires if the pawn can be captured by black </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-grubber-tactic-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OhkJstEo-3U.jpg?itok=ed7zkaZZ\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/pawn-grubber-tactic-grandchesstour-chess-chesstactics-chesscom",
@@ -72,46 +120,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/role-spoiler-grandchesstour-chess-checkmatepatterns-chesscom",
          "pubDate" : "Sat, 06 Jul 2024 05:34:41",
          "title" : "The Role of The Spoiler #GrandChessTour #chess #checkmatepatterns #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser looks back on the turning point in the game between Caruana and Giri </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/where-it-went-wrong-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XYYYNEVgZQQ.jpg?itok=QBAGD82y\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/where-it-went-wrong-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 05:34:41",
-         "title" : "Where It Went Wrong #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anish cleans up the board in his last moves to victory against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-operation-mop-grandchesstour-chess-chessendgame-checkmatepatterns-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tDr33Zjl4oQ.jpg?itok=rmApDR_P\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-operation-mop-grandchesstour-chess-chessendgame-checkmatepatterns-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 05:34:41",
-         "title" : "GIRI OPERATION: Mop Up #GrandChessTour #chess #chessendgame #checkmatepatterns #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> What kind of move is this? Brilliant move, good move, book move, or whatever it is, the engine just can&#039;t figure it </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/engine-bailout-grandchesstour-chess-chesstactics-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/a5XDsLzpcZc.jpg?itok=kljyUamZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/engine-bailout-grandchesstour-chess-chesstactics-chessstrategy-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 02:34:42",
-         "title" : "Engine Bailout #GrandChessTour #chess #chesstactics #chessstrategy #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In a position between Giri and Gukesh D the moves are small, but are they effective </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/miro-and-cristian-mickey-mouse-moves-explained-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/54k1DXvVlOI.jpg?itok=kLHwLlyD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/miro-and-cristian-mickey-mouse-moves-explained-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 02:34:42",
-         "title" : "Miro and Cristian: Mickey Mouse Moves Explained #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sometimes tactics just don&#039;t work. Miro explains why e6 doesn&#039;t work in a position between Pragg and Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/silly-bishops-grandchesstour-chess-chesstactics-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OUzs2akex7I.jpg?itok=2V8URNJC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/silly-bishops-grandchesstour-chess-chesstactics-chessstrategy-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 02:34:42",
-         "title" : "Silly Bishops #GrandChessTour #chess #chesstactics #chessstrategy #chesscom"
       },
       {
          "description" : " The Superbet Romania Chess Classic took place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. Long time leader Fabiano Caruana lost in the final round to Anish Giri, this brought about a rapid tie-break with Alireza Firouzja, D Gukesh and Praggnanandhaa. Caruana mounted a remarkable recovery by beating all three of his opponents to win the event.",
