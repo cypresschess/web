@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3106",
+         "pubDate" : "Sun, 07 Jul 2024 22:43:53",
+         "title" : "WSTCC 2024: Iceland and France Cercle D'Echecs lead after six rounds"
+      },
+      {
          "description" : "Trapping the pieces of the opponent has a particular charm. When thinking back to the first days of ChessBase and looking at a game Maxime Vachier-Lagrave and Alireza Firouzja recently played at the Superbet Classic in Bucharest, Jon Speelman (pictured) remembered a number of famous and entertaining games, in which pieces were caught. | Photo: David Llada",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +18,7 @@ news_feed (
          "title" : "Trappers trapped"
       },
       {
-         "description" : " The Chess Club and Scholastic Center of St. Louis (St. Louis Chess Club) has been slowly expanding since its opening in 2008. The chess club is the home of the Sinquefield Cup and Grand Chess Tour events. Since I have relatives in the St. Louis area, I usually stop by the chess club and the The post <a href=\"https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/\">St. Louis Chess Club upgrading!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The Chess Club and Scholastic Center of St. Louis (St. Louis Chess Club) has been slowly expanding since its opening in 2008. The chess club is the home of the U.S. Championships, the Sinquefield Cup and Grand Chess Tour events. Since I have relatives in the St. Louis area, I usually stop by the chess The post <a href=\"https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/\">St. Louis Chess Club upgrading!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/",
