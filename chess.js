@@ -1136,14 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3069",
          "pubDate" : "Mon, 17 Jun 2024 04:17:38",
          "title" : "Four teams in the finals of the World Corporate Chess Championship"
-      },
-      {
-         "description" : "For this month's Flickr favorite, I could have chosen another AI generated photo as in <A HREF=\"https://chessforallages.blogspot.com/2024/04/no-hunk-o-junk-here.html\">No Hunk-o'-Junk Here</A> (April 2024), but none of the three candidates on the short list were particularly inspiring. I was more intrigued by the photo shown below although there was almost no information about it. The description of the photo repeated its title and added only, <BLOCKQUOTE> Curt Schlevogt, Ingrid Collection </BLOCKQUOTE> <P> There were no tags offering further clues. This leads to the often asked question, 'What have we here?'. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-of16.jpg\" WIDTH=400 ",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/06/an-unexplained-chess-set.html",
-         "pubDate" : "Sun, 16 Jun 2024 15:06:00",
-         "title" : "An Unexplained Chess Set"
       }
    ]
 }
