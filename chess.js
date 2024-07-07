@@ -42,6 +42,14 @@ news_feed (
          "title" : "GIRI OPERATION: Mop Up #GrandChessTour #chess #chessendgame #checkmatepatterns #chesscom #anishgiri"
       },
       {
+         "description" : "GM-elect Yagiz Erdogmus won the Under 13 ChessKid Youth Championship 2024 a week ago and has now booked his place in the knockout Finals of the Under 16 Championship. Once again he won his group with 8/10, as did GM Abhimanyu Mishra, while GMs-ele...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-16-day-1",
+         "pubDate" : "Sat, 06 Jul 2024 17:33:00",
+         "title" : "Erdogmus, Mishra On Course To Meet In Final"
+      },
+      {
          "description" : " Howard University, founded in 1867, is a preeminent institution of higher learning. Jamaal Abdul-Alim&#160;has been an unofficial advisor to the chess club for several years, helping the organization in various areas, including a recent historical project. Currently an adjunct professor at the University of Maryland, he is keen on the potential of leveraging chess at The post <a href=\"https://www.thechessdrum.net/blog/2024/07/06/howard-university-chess-club-approaches-100-years/\">Howard University Chess Club approaches 100 years!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -53,7 +61,7 @@ news_feed (
          "description" : "The latest edition of Bullet Brawl,&#38;nbsp;which was one of the strongest in the event&#39;s history, was won by GM Daniel Naroditsky, who outscored GMs Hikaru Nakamura, Magnus Carlsen, Arjun Erigaisi, Rameshbabu Praggnanandhaa, and 125 other titled pla...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/https-www-chess-com-news-view-daniel-naroditsky-wins-bullet-brawl-july-6-2024",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-july-6-2024",
          "pubDate" : "Sat, 06 Jul 2024 15:55:00",
          "title" : "Naroditsky Outscores Nakamura, Carlsen, Erigaisi, Praggnanandhaa"
       },
@@ -338,7 +346,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.thearticle.com/music-chess-and-the-harmonies-of-the-world/",
          "pubDate" : "Sat, 29 Jun 2024 10:23:46",
          "title" : "Music, chess and the harmonies of the world"
-      },
-      {
-         "description" : "Perhaps it sounded too wild to be true. The $1 million buy-in tournament with GMs Hans Niemann, Nodirbek Abdusattorov, Fabiano Caruana, and Ian Nepomniachtchi, scheduled for November 21, 2024, in Dusseldorf, Germany, has been cancelled by organize...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/1-million-buy-in-tournament-cancelled-as-niemann-pulls-out",
-         "pubDate" : "Sat, 29 Jun 2024 08:25:00",
-         "title" : "$4 Million High Roller Tournament Cancelled As Niemann Pulls Out"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111360180.cms\" />Round three of the Superbet Classic saw Indian Grandmaster R Praggnanandhaa miss a chance to claim the lead after drawing with compatriot D Gukesh. Gukesh remains tied at the top with Fabiano Caruana, while Praggnanandhaa is in a tie for third. A rematch of their previous encounter, the game saw promising chances for Praggnanandhaa, but ended in a draw after a critical error by Gukesh. All five games in this round ended in draws, leaving the leaderboard unchanged.",
