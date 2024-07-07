@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The new ChessBase Magazine #220 again provides plenty of ideas for your repertoire with ten opening articles, from the Reti Opening to the Jobava London System and the King's Indian! In his search for a weapon against the Semi-Slav (1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6), our author Yago Santiago came across the move 5.Qc2!? with which Matthias Bluebaum, among others, has achieved impressive results! The article in CBM #220 consists of an introductory text and nine extensively annotated games (with an outright 9:0 in favour of White!), including no less than five games by the German grandmaster. This week we invite you to take a look at the article with all our author's analyses as a free readi",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-12",
+         "pubDate" : "Sun, 07 Jul 2024 08:13:13",
+         "title" : "The Bluebaum Variation"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Chirila gives his overview of the endgame position between Alireza and Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirilas-pov-firouzja-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Qi-LvqyHOZw.jpg?itok=MPa5D_dE\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
