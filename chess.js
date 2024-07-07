@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Trapping the pieces of the opponent has a particular charm. When thinking back to the first days of ChessBase and looking at a game Maxime Vachier-Lagrave and Alireza Firouzja recently played at the Superbet Classic in Bucharest, Jon Speelman (pictured) remembered a number of famous and entertaining games, in which pieces were caught. | Photo: David Llada",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/trappers-trapped",
+         "pubDate" : "Sun, 07 Jul 2024 21:45:53",
+         "title" : "Trappers trapped"
+      },
+      {
+         "description" : " The Chess Club and Scholastic Center of St. Louis (St. Louis Chess Club) has been slowly expanding since its opening in 2008. The chess club is the home of the Sinquefield Cup and Grand Chess Tour events. Since I have relatives in the St. Louis area, I usually stop by the chess club and the The post <a href=\"https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/\">St. Louis Chess Club upgrading!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/",
+         "pubDate" : "Sun, 07 Jul 2024 20:47:14",
+         "title" : "St. Louis Chess Club upgrading!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> After the resignation and then the draw...Gukesh, Alireza, and Pragg gives Fabi the opportunity to reign again as the winner of the Superbet Chess Classic in Bucharest </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/playoff-fabi-gets-second-chance-grandchesstour-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ec9fPR5mVTk.jpg?itok=lmeT3d-b\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/playoff-fabi-gets-second-chance-grandchesstour-chess-chesscom",
+         "pubDate" : "Sun, 07 Jul 2024 20:35:45",
+         "title" : "THE PLAYOFF: Fabi Gets A Second Chance #GrandChessTour #chess #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> If you missed it, here is what happened on the the second leg of the Grand Chess Tour. Fabiano Caruana repeats as Superbet Chess Classic champion! This didn't air during the program. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-look-back-superbet-chess-classic-2024-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ixQ-ZFKwaoQ.jpg?itok=uXWmUMaI\" alt=\"\" />",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-look-back-superbet-chess-classic-2024-grandchesstour",
+         "pubDate" : "Sun, 07 Jul 2024 20:35:45",
+         "title" : "EXCLUSIVE: A Look Back at the Superbet Chess Classic 2024 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gukesh D tells Anastasiya Karlovich with whom he would prefer to be stranded on a desert island. <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL S",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-island-superbetchessclassicromania-grandchesstour",
+         "pubDate" : "Sun, 07 Jul 2024 20:35:45",
+         "title" : "Gukesh on an Island? #SuperbetChessClassicRomania #GrandChessTour"
+      },
+      {
+         "description" : "13-year-old GM-elect Yagiz Erdogmus has added the Under 16 ChessKid Youth Championship 2024 title to the Under 13 title he won a week ago. The Turkish prodigy overcame fellow GM-elect Ivan Zemlyanskii 3-1 in the Final after Zemlyanskii had upset G...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-16-erdogmus-wins",
+         "pubDate" : "Sun, 07 Jul 2024 14:04:09",
+         "title" : "Erdogmus Clinches Double ChessKid Youth Championships Triumph"
+      },
+      {
          "description" : "FM Faustino Oro, dubbed the &#39;Messi of Chess,&#39; has created a media frenzy in his native Argentina by setting a prestigious new world record. This week he followed up by beating none other than GM Hikaru Nakamura twice. Oro achieved his final norm...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -128,30 +176,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/cristian-analyzes-giris-winning-opportunity-grandchesstour-chess-chesstactics-chesscom",
          "pubDate" : "Sat, 06 Jul 2024 05:34:41",
          "title" : "Cristian Analyzes Giri's Winning Opportunity #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser and Jovi look explain the drawing possibility for Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/praggs-drawing-chances-explained-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bsruL4G2fnc.jpg?itok=pceF2ssd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/praggs-drawing-chances-explained-grandchesstour-chess-chesstactics-chessendgame-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 05:34:41",
-         "title" : "Pragg's Drawing Chances Explained #GrandChessTour #chess #chesstactics #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser inquires if the pawn can be captured by black </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pawn-grubber-tactic-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OhkJstEo-3U.jpg?itok=ed7zkaZZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pawn-grubber-tactic-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 05:34:41",
-         "title" : "Pawn Grubber Tactic #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Giri completes his task as the spoiler in his final round to send the tournament into a frenzy </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/role-spoiler-grandchesstour-chess-checkmatepatterns-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WzQ-93HbH-4.jpg?itok=kRKqzOlg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/role-spoiler-grandchesstour-chess-checkmatepatterns-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 05:34:41",
-         "title" : "The Role of The Spoiler #GrandChessTour #chess #checkmatepatterns #chesscom"
       },
       {
          "description" : " The Superbet Romania Chess Classic took place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. Long time leader Fabiano Caruana lost in the final round to Anish Giri, this brought about a rapid tie-break with Alireza Firouzja, D Gukesh and Praggnanandhaa. Caruana mounted a remarkable recovery by beating all three of his opponents to win the event.",
@@ -362,7 +386,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -656,14 +680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3094",
          "pubDate" : "Sat, 29 Jun 2024 14:08:59",
          "title" : "Liaocheng No. 1 Experimental School celebrates FIDE centenary"
-      },
-      {
-         "description" : "The fourth round of the Superbet Chess Classic Romania was a good day for GM Fabiano Caruana. The 31-year-old American grandmaster is back to being the number two in the world with a 2800+ rating after beating GM Bogdan-Daniel Deac. GM Praggnanand...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-4",
-         "pubDate" : "Sat, 29 Jun 2024 14:03:00",
-         "title" : "Caruana Sole Leader, Back To World #2 After Beating Deac"
       },
       {
          "description" : "Do you like to get attacked? Most of us don't. That's why, especially in bad positions, you should aim to pose threats to your opponent. The engine might laugh at you, but your human opponent will likely be scared and more prone to make mistakes. That's called playing practical chess. In this article, I show []",
