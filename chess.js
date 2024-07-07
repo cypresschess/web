@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FM Faustino Oro, dubbed the &#39;Messi of Chess,&#39; has created a media frenzy in his native Argentina by setting a prestigious new world record. This week he followed up by beating none other than GM Hikaru Nakamura twice. Oro achieved his final norm...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/how-the-messi-of-chess-is-creating-faustimania-in-argentina",
+         "pubDate" : "Sun, 07 Jul 2024 09:54:00",
+         "title" : "How the 'Messi of Chess' Is Creating 'Faustimania' In Argentina"
+      },
+      {
          "description" : "The new ChessBase Magazine #220 again provides plenty of ideas for your repertoire with ten opening articles, from the Reti Opening to the Jobava London System and the King's Indian! In his search for a weapon against the Semi-Slav (1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6), our author Yago Santiago came across the move 5.Qc2!? with which Matthias Bluebaum, among others, has achieved impressive results! The article in CBM #220 consists of an introductory text and nine extensively annotated games (with an outright 9:0 in favour of White!), including no less than five games by the German grandmaster. This week we invite you to take a look at the article with all our author's analyses as a free readi",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -354,7 +362,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -656,14 +664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-4",
          "pubDate" : "Sat, 29 Jun 2024 14:03:00",
          "title" : "Caruana Sole Leader, Back To World #2 After Beating Deac"
-      },
-      {
-         "description" : "GM-elect Yagiz Erdogmus, Antoni Radzimski, FM Henry Tudor, and CM Aaron Mendes all move on to the four-player Knockout of the ChessKid Youth Championship 2024 for players under 13. The four players finished in the top two of their respective group...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-13-day-1",
-         "pubDate" : "Sat, 29 Jun 2024 13:08:00",
-         "title" : "Erdogmus, Radzimski, Tudor, Mendes Advance To ChessKid Youth Championship Knockout"
       },
       {
          "description" : "Do you like to get attacked? Most of us don't. That's why, especially in bad positions, you should aim to pose threats to your opponent. The engine might laugh at you, but your human opponent will likely be scared and more prone to make mistakes. That's called playing practical chess. In this article, I show []",
