@@ -1144,14 +1144,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/06/an-unexplained-chess-set.html",
          "pubDate" : "Sun, 16 Jun 2024 15:06:00",
          "title" : "An Unexplained Chess Set"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3068",
-         "pubDate" : "Sun, 16 Jun 2024 07:42:05",
-         "title" : "WCCC 2024: The race for the smartest company in the world is on"
       }
    ]
 }
