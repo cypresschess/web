@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-07-05  - 07-07","67","<a href=http://www.uschess.org/msa/XtblMain.php?202407071042 target='_blank'>$3,000 JULY 2024 CHAMPIONSHIP</a>",
 "SUGAR LAND","2024-07-05","12","<a href=http://www.uschess.org/msa/XtblMain.php?202407050132 target='_blank'>FBCC 2024 GRAHAM CRACKER DAY OPEN</a>",
 "SPRING","2024-07-05","30","<a href=http://www.uschess.org/msa/XtblMain.php?202407050092 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-07-05","22","<a href=http://www.uschess.org/msa/XtblMain.php?202407050062 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2023-12-22","22","<a href=http://www.uschess.org/msa/XtblMain.php?202312220072 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2023-12-15  - 12-17","42","<a href=http://www.uschess.org/msa/XtblMain.php?202312177932 target='_blank'>$2,000 STUDIO  DEC 2023 CHAMPIONSHI</a>",
 "HOUSTON","2023-12-17","13","<a href=http://www.uschess.org/msa/XtblMain.php?202312177592 target='_blank'>GAME GUYS 12.17.23</a>",
-"HOUSTON","2023-12-16","8","<a href=http://www.uschess.org/msa/XtblMain.php?202312166262 target='_blank'>CHESSPANDA12162023SATURDAY</a>",
 ]);
