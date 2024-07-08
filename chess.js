@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is a comprehensive course that arms the club or tournament player with fresh ideas which can be used in their own practice. The nine volumes, individually bought, would normally cost you €299.10. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to let the Dutch-Bosnian grandmaster and world-class chess trainer help you enhance your overall chess understanding.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies-vol-1-9",
+         "pubDate" : "Mon, 08 Jul 2024 09:00:00",
+         "title" : "Ivan Sokolov: Understanding Middlegame Strategies Vol. 1-9"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"><p style=\"text-align: center; font-size: 20px;\"><em>U.S. Grandmaster Wins Second Leg of the Grand Chess Tour; Takes Home $68,750 Prize</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/Superbet%202024%20GM%20Fabiano%20Caruana.jpg?itok=DvXCctTw\" alt=\"2024 Superbet - GM Fabiano Caruana\" /></div><div class=\"field field-name-field-category field-type-entityreference field-label-hid",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -1074,14 +1082,6 @@ news_feed (
          "title" : "CAS upholds FIDE's decision on South African Chess Elections"
       },
       {
-         "description" : " <p class=\"lead\">In a revealing interview with Andrew Winton, Chief Marketing Officer of World Chess, the intricate marketing landscape of the chess industry is explored, shedding light on its timeless appeal, intellectual engagement, and global reach. <div class=\"e2-text-picture\"> <img src=\"https://worldchess.com/news/pictures/chess-World-_Chess-andrew_winton-chess_marketing_marketing.jpg\" width=\"1920\" height=\"1280\" alt=\"\" /> </div> The chess industry stands out uniquely in the marketing realm due to its rich historical significance and universal recognition. Chess's timeless appeal transcends generations and cultures, making it a captivating subject for a diverse audience. The intellectual",
-         "iconLink" : "https://cypresschess.github.io/web/world.png",
-         "iconName" : "World Chess",
-         "link" : "https://worldchess.com/news/all/bridging-minds-cmo-andrew-winton-on-the-unique-appeal-and-market/",
-         "pubDate" : "Wed, 19 Jun 2024 10:40:47",
-         "title" : "Bridging Minds: CMO Andrew Winton on the Unique Appeal and Marketing of the Chess Industry"
-      },
-      {
          "description" : "Most chess player's game analysis, if they do it at all, looks somewhat like this: If that comes close to what you do, you absolutely have to read this Newsletter. This process is flawed and won't help you improve. The Wrong Question In the above process, the question you ask yourself is wrong.You search for []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -1152,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3070",
          "pubDate" : "Mon, 17 Jun 2024 13:18:27",
          "title" : "Epic spectacle this Christmas: FIDE World Rapid and Blitz Championships come to New York"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3069",
-         "pubDate" : "Mon, 17 Jun 2024 04:17:38",
-         "title" : "Four teams in the finals of the World Corporate Chess Championship"
       }
    ]
 }
