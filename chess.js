@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"><p style=\"text-align: center; font-size: 20px;\"><em>U.S. Grandmaster Wins Second Leg of the Grand Chess Tour; Takes Home $68,750 Prize</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/Superbet%202024%20GM%20Fabiano%20Caruana.jpg?itok=DvXCctTw\" alt=\"2024 Superbet - GM Fabiano Caruana\" /></div><div class=\"field field-name-field-category field-type-entityreference field-label-hid",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/news/GM-Fabiano-Caruana-Wins-2024-Superbet-Chess-Classic-Romania",
+         "pubDate" : "Mon, 08 Jul 2024 02:15:21",
+         "title" : "Defending Champion Grandmaster Fabiano Caruana Wins 2024 Superbet Chess Classic Romania"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -54,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-16-erdogmus-wins",
-         "pubDate" : "Sun, 07 Jul 2024 14:04:09",
+         "pubDate" : "Sun, 07 Jul 2024 14:04:00",
          "title" : "Erdogmus Clinches Double ChessKid Youth Championships Triumph"
       },
       {
@@ -176,14 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/cristian-analyzes-firouzja-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom",
          "pubDate" : "Sat, 06 Jul 2024 05:34:41",
          "title" : "Cristian Analyzes Firouzja Endgame #GrandChessTour #chess #chesstactics #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Cristian gives his insights on Giri&#039;s position against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cristian-analyzes-giris-winning-opportunity-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YqZcNIXUYtg.jpg?itok=UsLLg8n_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/cristian-analyzes-giris-winning-opportunity-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 05:34:41",
-         "title" : "Cristian Analyzes Giri's Winning Opportunity #GrandChessTour #chess #chesstactics #chesscom"
       },
       {
          "description" : " The Superbet Romania Chess Classic took place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. Long time leader Fabiano Caruana lost in the final round to Anish Giri, this brought about a rapid tie-break with Alireza Firouzja, D Gukesh and Praggnanandhaa. Caruana mounted a remarkable recovery by beating all three of his opponents to win the event.",
