@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3107",
+         "pubDate" : "Mon, 08 Jul 2024 10:15:29",
+         "title" : "Swedish Championship 2024: Vitaly Sivuk retains title"
+      },
+      {
          "description" : "This is a comprehensive course that arms the club or tournament player with fresh ideas which can be used in their own practice. The nine volumes, individually bought, would normally cost you €299.10. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to let the Dutch-Bosnian grandmaster and world-class chess trainer help you enhance your overall chess understanding.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies-vol-1-9",
          "pubDate" : "Mon, 08 Jul 2024 09:00:00",
          "title" : "Ivan Sokolov: Understanding Middlegame Strategies Vol. 1-9"
+      },
+      {
+         "description" : "The ECU E-Magazine June 2024 is out! In this edition of the ECU Magazine you may read about: The June 2024 edition of the ECU Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-e-magazine-june-2024/",
+         "pubDate" : "Mon, 08 Jul 2024 08:52:16",
+         "title" : "ECU E-Magazine June 2024"
+      },
+      {
+         "description" : "There is a full social programme available for the British Championships. There are historic walks, receptions, a fabulous Ukrainian evening, outdoor chess (with some sponsored...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/british-chess-championships-social-programme/",
+         "pubDate" : "Mon, 08 Jul 2024 07:40:38",
+         "title" : "British Chess Championships Social Programme"
       },
       {
          "description" : "<div class=\"body text-secondary\"><p style=\"text-align: center; font-size: 20px;\"><em>U.S. Grandmaster Wins Second Leg of the Grand Chess Tour; Takes Home $68,750 Prize</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/Superbet%202024%20GM%20Fabiano%20Caruana.jpg?itok=DvXCctTw\" alt=\"2024 Superbet - GM Fabiano Caruana\" /></div><div class=\"field field-name-field-category field-type-entityreference field-label-hid",
@@ -24,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3106",
          "pubDate" : "Sun, 07 Jul 2024 22:43:53",
          "title" : "WSTCC 2024: Iceland and France Cercle D'Echecs lead after six rounds"
-      },
-      {
-         "description" : "Trapping the pieces of the opponent has a particular charm. When thinking back to the first days of ChessBase and looking at a game Maxime Vachier-Lagrave and Alireza Firouzja recently played at the Superbet Classic in Bucharest, Jon Speelman (pictured) remembered a number of famous and entertaining games, in which pieces were caught. | Photo: David Llada",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/trappers-trapped",
-         "pubDate" : "Sun, 07 Jul 2024 21:45:53",
-         "title" : "Trappers trapped"
       },
       {
          "description" : " The Chess Club and Scholastic Center of St. Louis (St. Louis Chess Club) has been slowly expanding since its opening in 2008. The chess club is the home of the U.S. Championships, the Sinquefield Cup and Grand Chess Tour events. Since I have relatives in the St. Louis area, I usually stop by the chess The post <a href=\"https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/\">St. Louis Chess Club upgrading!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -80,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/how-the-messi-of-chess-is-creating-faustimania-in-argentina",
          "pubDate" : "Sun, 07 Jul 2024 09:54:00",
          "title" : "How the 'Messi of Chess' Is Creating 'Faustimania' In Argentina"
-      },
-      {
-         "description" : "The new ChessBase Magazine #220 again provides plenty of ideas for your repertoire with ten opening articles, from the Reti Opening to the Jobava London System and the King's Indian! In his search for a weapon against the Semi-Slav (1.d4 d5 2.c4 c6 3.Nf3 Nf6 4.Nc3 e6), our author Yago Santiago came across the move 5.Qc2!? with which Matthias Bluebaum, among others, has achieved impressive results! The article in CBM #220 consists of an introductory text and nine extensively annotated games (with an outright 9:0 in favour of White!), including no less than five games by the German grandmaster. This week we invite you to take a look at the article with all our author's analyses as a free readi",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-12",
-         "pubDate" : "Sun, 07 Jul 2024 08:13:13",
-         "title" : "The Bluebaum Variation"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Chirila gives his overview of the endgame position between Alireza and Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirilas-pov-firouzja-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Qi-LvqyHOZw.jpg?itok=MPa5D_dE\" alt=\"\" /></a></div>",
@@ -176,14 +184,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-classic-praggnanandhaa-and-gukesh-miss-out-in-four-way-tiebreaker-as-fabiano-caruana-wins-title/articleshow/111531116.cms",
          "pubDate" : "Sat, 06 Jul 2024 06:36:55",
          "title" : "Superbet Classic: Pragg, Gukesh miss out; Caruana wins title"
-      },
-      {
-         "description" : "An exciting final day of action at the Superbet Chess Classic saw Fabiano Caruana first losing his round-9 classical game against Anish Giri and then convincingly prevailing in a 4-way rapid playoff. Gukesh, Praggnanandhaa and Alireza Firouzja finished the classical section tied for first with Caruana after Firouzja failed to make the most of a considerable advantage in his game against Pragg. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superbet-chess-classic-2024-9",
-         "pubDate" : "Sat, 06 Jul 2024 05:40:00",
-         "title" : "Caruana scores 3/3 in rapid playoff, wins Superbet Chess Classic"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Chirila gives his overview of the endgame position between Alireza and Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cristian-analyzes-firouzja-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Qi-LvqyHOZw.jpg?itok=MPa5D_dE\" alt=\"\" /></a></div>",
@@ -1104,14 +1104,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-starts-in-rhodes/",
          "pubDate" : "Wed, 19 Jun 2024 08:10:57",
          "title" : "European Youth Team Chess Championship 2024 starts in Rhodes"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/fide-chess-for-freedom-conference-featuring-carl-portman/",
-         "pubDate" : "Wed, 19 Jun 2024 07:00:00",
-         "title" : "FIDE Chess for Freedom Conference - featuring Carl Portman"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111100740.cms\" />India's 20-year-old super GM, Arjun Erigaisi, won his second classical title of the year in the Stepan Avagyan Memorial round-robin tournament in Armenia. Erigaisi currently holds fourth position in live world ratings with 2778.1 Elo, 17 points away from surpassing world No. 3 Fabiano Caruana, and trailing Magnus Carlsen, Hikaru Nakamura, and Caruana in live ratings.",
