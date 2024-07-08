@@ -74,6 +74,14 @@ news_feed (
          "title" : "Defending Champion Grandmaster Fabiano Caruana Wins 2024 Superbet Chess Classic Romania"
       },
       {
+         "description" : "The first-ever FIDE World Cup for juniors took place from June 22 through July 3 in Batumi, Georgia, with Under-12, Under-10, and Under-8 open sections and corresponding sections for girls. 20 Americans competed across the six sections, comprising just over a tenth of the 198 overall participants.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Some of the 20 Americans competing in the FIDE World Cup for juniors (Photo US Chess)<br /><br /><br /> <br /><br /> In the end, three Americans took second-place finishes on the podium: Stella Xin (Under-8 girls), Aiden Li (Under-8), and Chenxuan Ling (",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/three-americans-earn-silver-inaugural-fide-world-cup-youth-event",
+         "pubDate" : "Mon, 08 Jul 2024 00:00:00",
+         "title" : "Three Americans Earn Silver At Inaugural FIDE World Cup Youth Event"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -82,7 +90,7 @@ news_feed (
          "title" : "WSTCC 2024: Iceland and France Cercle D'Echecs lead after six rounds"
       },
       {
-         "description" : " The Chess Club and Scholastic Center of St. Louis (St. Louis Chess Club) has been slowly expanding since its opening in 2008. The chess club is the home of the U.S. Championships, the Sinquefield Cup and Grand Chess Tour events. Since I have relatives in the St. Louis area, I usually stop by the chess The post <a href=\"https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/\">St. Louis Chess Club upgrading!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " The Chess Club and Scholastic Center of St. Louis (CCSCSL or St. Louis Chess Club) has been slowly expanding since its opening in 2008. The chess club is the home of the U.S. Championships, the Sinquefield Cup and Grand Chess Tour events. Since I have relatives in the St. Louis area, I usually stop by The post <a href=\"https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/\">St. Louis Chess Club upgrading!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/",
@@ -434,7 +442,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -872,14 +880,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3088",
          "pubDate" : "Wed, 26 Jun 2024 07:22:41",
          "title" : "Aleksandar Indic and Irina Chelushkina triumph at 2024 Serbian Championship"
-      },
-      {
-         "description" : "FM Tanitoluwa \"Tani\" Adewumi won the 2024 U.S. Cadet Championship, held June 20 through 23 in Lisle, IL. The seven-round Round Robin featured eight of the country's top players under the age of 16, with the 13-year-old Adewumi winning the event outright with a 6/7 score. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> photo courtesy Adewumi family<br /><br /><br /> <br /><br /> Adewumi yielded only two draws - winning his other five games - against an incredibly strong field. In fact, Adewumi was the lower-rated player (according to FIDE ratings) in five of his seven games. He got off to a hot",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tani-adewumi-wins-2024-us-cadet-championship",
-         "pubDate" : "Wed, 26 Jun 2024 00:00:00",
-         "title" : "Tani Adewumi Wins 2024 U.S. Cadet Championship "
       },
       {
          "description" : " Bernard Parham I, the 1967 Indiana State Champion and creator of the Matrix Chess System, has passed away. His son Bernard II relayed the news to The Chess Drum, &#8220;Resigned against diabetes on Wednesday, June 19th-one day after reaching his 58th wedding anniversary.&#8221; Born on October 30, 1946, to Eddie and Kathleen Parham, Bernard married The post <a href=\"https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/\">Bernard Parham, chess innovator, passes away</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
