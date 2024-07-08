@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Due to urgent family matters, Magnus Carlsen had to cancel his participation in the Superunited Rapid & Blitz Croatia in Zagreb. Levon Aronian is standing in for the world number one. The third stage of the Grand Chess Tour 2024 begins on Wednesday with the blitz tournament.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/grand-chess-tour-zagreb-carlsen-has-to-cancel",
+         "pubDate" : "Mon, 08 Jul 2024 19:56:52",
+         "title" : "Grand Chess Tour Zagreb: Carlsen had to cancel"
+      },
+      {
          "description" : "Tigran Petrosian was a very conservative player. On the other hand he could see tactics and combinations far in advance, so he went about countering them before even his opponents smell anything! Chess trainer GM Efstratios Grivas has always told his students to study the games of the former World Champion and try to understand what he had seen and why he chose his moves. You too can learn from the great master.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -270,7 +278,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/twitch-con-eu-2024",
-         "pubDate" : "Fri, 05 Jul 2024 12:05:12",
+         "pubDate" : "Fri, 05 Jul 2024 12:05:00",
          "title" : "Suns Out, Pawns Out: Chess.com Invades TwitchConEu"
       },
       {
@@ -295,7 +303,7 @@ news_feed (
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/counties-championship-2024/",
          "pubDate" : "Fri, 05 Jul 2024 08:00:31",
-         "title" : "2024 County Championships finals continue on Saturday 6 July!"
+         "title" : "2024 County Championships finals - results and pictures"
       },
       {
          "description" : " Top five English grandmasters will feature in Budapest - as will nine-year-old prodigy Bodhana Sivanandan England will look for at least a top-10 finish from the national Open team when the biennial 180-country chess Olympiad starts in Budapest, Hungary, in September, while the women's squad features a debut for Bodhana Sivanandan, aged nine. In the 2022 Olympiad at Chennai, England finished 14th and 32nd. Since then the former Russian Nikita Vitiugov has transferred his allegiance, and is likely to be a formidable top board. The Open team in rating order is: Vitiugov (2678), David Howell (2675), Michael Adams (2672), Gawain Jones (2640), Luke McShane (2617). The women's team consists of: J",
@@ -426,7 +434,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
