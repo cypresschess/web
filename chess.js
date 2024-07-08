@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tigran Petrosian was a very conservative player. On the other hand he could see tactics and combinations far in advance, so he went about countering them before even his opponents smell anything! Chess trainer GM Efstratios Grivas has always told his students to study the games of the former World Champion and try to understand what he had seen and why he chose his moves. You too can learn from the great master.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/petrosian-learning-from-the-master",
+         "pubDate" : "Mon, 08 Jul 2024 15:00:00",
+         "title" : "Petrosian - Learning from the Master"
+      },
+      {
+         "description" : "The deadline for the National Under 17 Open &#38; Girls online entries has been extended to 10 July 2024, 5:00 PM. AICF",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/notice-national-under-17-open-girls-chess-championship-2024/",
+         "pubDate" : "Mon, 08 Jul 2024 12:39:12",
+         "title" : "NOTICE: National Under 17 (Open & Girls ) Chess Championship 2024"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111580043.cms\" />The Global Chess League on Monday announced the six franchises that will compete in the second edition, which is scheduled to take place in London from October 3 to 12. The American Gambits, co-owned by notable business figures Prachura PP, Venkat K Narayana, and star Indian spinner Ravichandran Ashwin, will take the place of the Chingari Gulf Titans in the tournament. The tournament will feature a distinctive team format, with each team comprising six players, including two leading female chess players and a prodigy.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/ravichandran-ashwin-buys-team-in-global-chess-league/articleshow/111580043.cms",
+         "pubDate" : "Mon, 08 Jul 2024 11:22:58",
+         "title" : "Ravichandran Ashwin buys team in Global Chess League"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -402,7 +426,7 @@ news_feed (
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
       },
       {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
@@ -1122,28 +1146,12 @@ news_feed (
          "title" : "FIDE World Cadet Championship 2024: Registration is open"
       },
       {
-         "description" : "Narayani is the leader after 7th&#160;round in Asian Youth Chess Championship at Almaty where the biggest upset was Mani and Advik lost in their group.",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-youth-2024-day-6/",
-         "pubDate" : "Tue, 18 Jun 2024 05:10:49",
-         "title" : "Asian Youth 2024 :Day 6"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3071",
          "pubDate" : "Tue, 18 Jun 2024 01:52:59",
          "title" : "Chessify wins the World Corporate Chess Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3070",
-         "pubDate" : "Mon, 17 Jun 2024 13:18:27",
-         "title" : "Epic spectacle this Christmas: FIDE World Rapid and Blitz Championships come to New York"
       }
    ]
 }
