@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "One thing was certain: when Boris Spassky sat down at the chessboard, something extraordinary happened. The 17th edition of the ChessBase Master Class series presents a detailed portrait of the tenth World Champion. The interactive features of the e-book offer the opportunity to actively relive important phases of his unique career ...",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/master-class-17-boris-the-greatest",
+         "pubDate" : "Tue, 09 Jul 2024 17:00:00",
+         "title" : "Master Class 17: Boris the Greatest"
+      },
+      {
+         "description" : "The German Chess Club Frankfurt-West celebrated its 100th birthday with a big Chess960 festival and invited to the \"9th Open German Rapid Chess Championship in Chess960\". Nearly 400 chess fans, including numerous grandmasters and many young chess fans, followed the call. | Photos: Dariusz Gorzinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/frankfurt-west-celebrates-100th-birthday-with-chess960-festival",
+         "pubDate" : "Tue, 09 Jul 2024 14:35:31",
+         "title" : "Frankfurt-West celebrates 100th birthday with Chess960 festival"
+      },
+      {
          "description" : "Record-breaking nine-year-old Bodhana Sivanandan celebrated her call-up to England's chess team in a packed Trafalgar Square on Sunday as ChessFest drew its biggest-ever crowd. More than 23,000 people-8,000 more than last year-descended on London's iconic venue to brave a mixed bag of weather as the UK's annual free chess event got under way. | Photo: ChessFest",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/bodhana-sivanandan-celebrates-england-call-up-at-with-20-000-chess-fans-at-biggest-ever-chessfest",
          "pubDate" : "Tue, 09 Jul 2024 11:56:50",
          "title" : "Bodhana Sivanandan celebrates England call-up at with 20,000 chess fans at biggest-ever ChessFest"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3108",
+         "pubDate" : "Tue, 09 Jul 2024 11:54:17",
+         "title" : "Winners crowned at ICCD World Deaf Chess Championship 2024"
       },
       {
          "description" : "Record-breaking nine-year-old Bodhana Sivanandan celebrated her call-up to England's chess team in a packed Trafalgar Square on Sunday as ChessFest drew its biggest-ever crowd. More...",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies-vol-1-9",
          "pubDate" : "Tue, 09 Jul 2024 10:00:00",
          "title" : "Ivan Sokolov: Understanding Middlegame Strategies Vol. 1-9"
+      },
+      {
+         "description" : "This week's Tactics Tuesday follows up on last week's coverage of the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-ages-12-and-under-pt-2",
+         "pubDate" : "Tue, 09 Jul 2024 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Cup Ages 12 and Under, Pt. 2"
       },
       {
          "description" : "Due to urgent family matters, Magnus Carlsen had to cancel his participation in the Superunited Rapid & Blitz Croatia in Zagreb. Levon Aronian is standing in for the world number one. The third stage of the Grand Chess Tour 2024 begins on Wednesday with the blitz tournament.",
@@ -90,12 +122,28 @@ news_feed (
          "title" : "Defending Champion Grandmaster Fabiano Caruana Wins 2024 Superbet Chess Classic Romania"
       },
       {
-         "description" : "The first-ever FIDE World Cup for juniors took place from June 22 through July 3 in Batumi, Georgia, with Under-12, Under-10, and Under-8 open sections and corresponding sections for girls. 20 Americans competed across the six sections, comprising just over a tenth of the 198 overall participants.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Some of the 20 Americans competing in the FIDE World Cup for juniors (Photo US Chess)<br /><br /><br /> <br /><br /> In the end, three Americans took second-place finishes on the podium: Stella Xin (Under-8 girls), Aiden Li (Under-8), and Chenxuan Ling (Under-10).<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><",
+         "description" : "The first-ever FIDE World Cup for juniors took place from June 22 through July 3 in Batumi, Georgia, with Under-12, Under-10, and Under-8 open sections and corresponding sections for girls. 20 Americans competed across the six sections, comprising just over a tenth of the 198 overall participants.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Some of the 20 Americans competing in the FIDE World Cup for juniors (Photo US Chess)<br /><br /><br /> <br /><br /> In the end, three Americans took second-place finishes on the podium: Stella Xin (Under-8 girls), Aiden Li (Under-8), and Chenxuan Ling (",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/three-americans-earn-silver-inaugural-fide-world-cup-youth-event",
          "pubDate" : "Mon, 08 Jul 2024 00:00:00",
          "title" : "Three Americans Earn Silver At Inaugural FIDE World Cup Youth Event"
+      },
+      {
+         "description" : "Registration is now open for the FIDE World Cadet Chess Championships 2024. The international event, organized by FIDE and the Italian Chess Federation, together with UniChess, and Le Due Torri srl and ASD Fischer Chiet, will take place November, 14-27 in Montesilvano (PE), Italy.<br /><br /> US Chess will be accepting registrations for eligible U.S. participants until Friday, September 13. <br /><br /> TOURNAMENT DETAILS AND ELIGIBILITY<br /><br /> There will be six sections: Open and Girls in age categories Under 12, Under 10, and Under 8.<br /><br /> A player's age as of Jan. 1, 2024 determines their age eligibility for a section.<br /><br /> Under 12: Players born on or after Jan. 1, 201",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/registration-open-2024-fide-world-cadet-chess-championships",
+         "pubDate" : "Mon, 08 Jul 2024 00:00:00",
+         "title" : "Registration Open for 2024 FIDE World Cadet Chess Championships"
+      },
+      {
+         "description" : "Registration is now open for the FIDE World Youth Chess Championships 2024. The international event, organized by FIDE, The Confederation of Chess for Americas (CCA) and the Brazilian Chess Federation (CBX), will take place October 28 - November 10, in Florianopolis (SC), Brazil.<br /><br /> US Chess will be accepting registrations for eligible U.S. participants until Friday, August 16, 2024. <br /><br /> TOURNAMENT DETAILS AND ELIGIBILITY<br /><br /> There will be six sections: Open and Girls in age categories Under 18, Under 16, and Under 14.<br /><br /> A player's age as of Jan. 1, 2024 determines their age eligibility for a section.<br /><br /> Under 18: Players born on or after Jan. 1, ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/registration-open-2024-fide-world-youth-chess-championships",
+         "pubDate" : "Mon, 08 Jul 2024 00:00:00",
+         "title" : "Registration Open for 2024 FIDE World Youth Chess Championships"
       },
       {
          "description" : "",
@@ -578,14 +626,6 @@ news_feed (
          "title" : "US Chess Offices Closed Thursday, July 4"
       },
       {
-         "description" : "The aura of chess cheaters has changed chess. Their underhanded ways have backed tournaments into implementing all sorts of stop-gap anti-cheating measures, especially at big prize buck events. We see this with their electronic gear usage, the restroom wand routine, limits on hallway conversations, cell phone storage requirements (or bans), etc. These measures do manage to keep honest people honest. They also give wood-pushers some reassurance that cheating has become a lot more difficult to pull off.<br /><br /> Some would-be scammers still put in the effort. A few have even tried some fairly simple methods to increase their win-loss score, such as nestling an unobserved cell phone in their",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-cheaters-rulebook-and-you",
-         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
-         "title" : "Just the Rules: Cheaters, The Rulebook, and You"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -810,14 +850,6 @@ news_feed (
          "title" : "Superbet Chess: Pragg, Gukesh secure draws in Round 2"
       },
       {
-         "description" : "FM Alisa Melekhina's photo report depicts her week at the Hotel Breezes resort in Nassau, Bahamas where she was one of several Americans competing in the Orjan Lindroth Memorial Open chess tournament, held from June 5 through 12, 2024.<br /><br /> Imagine celebrating a chess victory, or escaping from a devastating loss, by soaking up the Caribbean sun steps away from the beach. This rare experience is made possible by the new Orjan Lindroth Memorial Chess Open, organized annually in early June by the Bahamas Chess Federation and the Bahamas Chess Institute. Only in its third edition, this hidden gem of a tournament is about to be uncovered.<br /><br /> <br /><br /><br /> Image<br /><br /><br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/chess-paradise-fm-alisa-melekhinas-impressions-orjan-lindroth-memorial",
-         "pubDate" : "Fri, 28 Jun 2024 00:00:00",
-         "title" : "Chess in Paradise: FM Alisa Melekhina's Impressions From the Orjan Lindroth Memorial"
-      },
-      {
          "description" : "Picture courtesy of John Upham / British Chess News. More tributes can be found here https://www.ecforum.org.uk/viewtopic.php?f=2&#38;t=14149 and a detailed look at Bernard's life...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -856,14 +888,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3091",
          "pubDate" : "Thu, 27 Jun 2024 07:30:40",
          "title" : "Tech Mahindra Global Chess League to host its second edition in London"
-      },
-      {
-         "description" : "GM Hans Niemann won a Super Grandmaster Match, with a prize fund of $50,000, against GM Vidit Gujrathi on June 22, 2024. The Universal Chess Tour (UCT) chose Niemann and Gujrathi for their chess credentials and for their abilities to attract media coverage and fans. National Football League (NFL) player Chidobe Awuzie bested other celebrities in rapid chess.<br /><br /> The Super Grandmaster Match happened at the NYTEX Sports Centre in North Richland Hills, Texas, a city in the Dallas-Fort Worth Metroplex. The arena matches served as a main attraction and novel selling point for the UCT's Universal Chess Open, held June 20 through 23 in the same location. All participants in the Open receive",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/hans-niemann-wins-universal-chess-tours-inaugural-super-gm-match-chidobe-awuzie-celebrity",
-         "pubDate" : "Thu, 27 Jun 2024 00:00:00",
-         "title" : "Hans Niemann Wins Universal Chess Tour's Inaugural Super GM Match; Chidobe Awuzie Celebrity Chess Winner"
       },
       {
          "description" : "",
