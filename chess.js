@@ -1152,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3072",
          "pubDate" : "Tue, 18 Jun 2024 17:38:20",
          "title" : "FIDE World Cadet Championship 2024: Registration is open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3071",
-         "pubDate" : "Tue, 18 Jun 2024 01:52:59",
-         "title" : "Chessify wins the World Corporate Chess Championship"
       }
    ]
 }
