@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian cricket star <strong>Ravichandran Ashwin</strong> has <a href=\"https://indianexpress.com/article/sports/chess/ravichandran-ashwin-global-chess-league-franchise-9440367/\">agreed to become co-owner</a> of the <strong>American Gambits</strong> team that will replace the <strong>Chingari Gulf Titans</strong> in the forthcoming <strong>Global Chess League</strong> season. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/cricket-star-co-owns-gcl-team/",
+         "pubDate" : "Tue, 09 Jul 2024 18:04:12",
+         "title" : "Cricket star co-owns GCL team"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The fourth <strong>ChessFest</strong> on Trafalgar Square by <strong>Chess in Schools and Communities</strong> <a href=\"https://www.englishchess.org.uk/23000-join-bodhana-at-chessfest/\">drew 23.000 attendees</a> helped by <a href=\"https://www.thetimes.com/article/meet-the-9-year-old-chess-prodigy-and-her-unpushy-parents-v2zjxfxtk\">publicity around</a> the 9-year-old star guest <strong>Bodhana Sivanandan</strong> and her nomination for the English Olympiad women team. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/chessfest-london-record-crowd/",
+         "pubDate" : "Tue, 09 Jul 2024 17:57:19",
+         "title" : "ChessFest London record crowd"
+      },
+      {
+         "description" : " The Grand Chess Tour continues with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment citing urgent family matters. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gct-superunited-rapid-and-blitz-croatia-2024",
+         "pubDate" : "Tue, 9 Jul 2024 17:57:00",
+         "title" : "GCT SuperUnited Rapid and Blitz Croatia 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3109",
+         "pubDate" : "Tue, 09 Jul 2024 17:16:41",
+         "title" : "Final Call for the World Guinness Records Attempt!"
+      },
+      {
          "description" : "One thing was certain: when Boris Spassky sat down at the chessboard, something extraordinary happened. The 17th edition of the ChessBase Master Class series presents a detailed portrait of the tenth World Champion. The interactive features of the e-book offer the opportunity to actively relive important phases of his unique career ...",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +82,7 @@ news_feed (
          "title" : "Ivan Sokolov: Understanding Middlegame Strategies Vol. 1-9"
       },
       {
-         "description" : "This week's Tactics Tuesday follows up on last week's coverage of the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's Tactics Tuesday follows up on last week's coverage of the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-ages-12-and-under-pt-2",
@@ -514,28 +546,12 @@ news_feed (
          "title" : "Wednesday Workout: FIDE World Cup U-12, U-10, U-8 Highlights"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Having studied the gender divide in bridge, <strong>Samantha Punch</strong> has some insights for the chess community. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/2024/file-20240219-24-m3v5sz.1920.jpeg\" title=\"Elite bridge player Margherita Chavarria from Italy. Francesca Canali from the World Bridge Federation, CC BY-SA\" data-title=\"Elite bridge player Margherita Chavarria from Italy. (Francesca Canali from the World Bridge Federation, &lt;a href=&quot;http://creativecommons.org/licenses/by-sa/4.0/&quot;&gt;CC BY-SA&lt;/a&gt;)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.ches",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/from-bridge-to-chess-why-men/",
-         "pubDate" : "Tue, 02 Jul 2024 18:15:16",
-         "title" : "Why men outperform women at 'mindsports' - and what to do about it"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3099",
          "pubDate" : "Tue, 02 Jul 2024 16:08:20",
          "title" : "FIDE World Senior Team Championship 2024 kicks off in Krakow, Poland"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Both parties have appealed against the <a href=\"https://www.fide.com/news/3056\">decision</a> of the <strong>FIDE Ethics Commission</strong> to ban the <strong>Russian Chess Federation</strong> for having war criminals on its supervisory board and to reprimand President <strong>Arkady Dvorkovich</strong> for being on that board and not having intervened. The <strong>Chess Federation of Russia</strong> is <a href=\"https://ruchess.ru/en/news/all/alexander_tkachev_we_filed_an_appeal_against_the_fide_edc_s_decision/\">also demanding</a> to dissolve the Ethics Commission, revise its codex and readmit Russia, Belarus and their national symbols in FIDE event",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/russia-decision-appealed/",
-         "pubDate" : "Tue, 02 Jul 2024 14:23:54",
-         "title" : "Russia decision appealed"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111437054.cms\" />Bodhana Sivanandan, a nine-year-old chess prodigy from Harrow, London, has made history by becoming the youngest individual ever chosen to represent England in an international tournament. Reuters quoted a report by The Guardian newspaper on Tuesday, Sivanandan has been selected for the women's team that will compete in the Chess Olympiad in September.",
@@ -1176,14 +1192,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/india-no-1-arjun-erigaisi-triumphs-in-armenia-takes-break-from-classical-chess/articleshow/111100740.cms",
          "pubDate" : "Wed, 19 Jun 2024 04:05:14",
          "title" : "India No.1 Arjun Erigaisi triumphs in Armenia, takes break from Classical chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3072",
-         "pubDate" : "Tue, 18 Jun 2024 17:38:20",
-         "title" : "FIDE World Cadet Championship 2024: Registration is open"
       }
    ]
 }
