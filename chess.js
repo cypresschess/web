@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Record-breaking nine-year-old Bodhana Sivanandan celebrated her call-up to England's chess team in a packed Trafalgar Square on Sunday as ChessFest drew its biggest-ever crowd. More than 23,000 people-8,000 more than last year-descended on London's iconic venue to brave a mixed bag of weather as the UK's annual free chess event got under way. | Photo: ChessFest",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-celebrates-england-call-up-at-with-20-000-chess-fans-at-biggest-ever-chessfest",
+         "pubDate" : "Tue, 09 Jul 2024 11:56:50",
+         "title" : "Bodhana Sivanandan celebrates England call-up at with 20,000 chess fans at biggest-ever ChessFest"
+      },
+      {
+         "description" : "Record-breaking nine-year-old Bodhana Sivanandan celebrated her call-up to England's chess team in a packed Trafalgar Square on Sunday as ChessFest drew its biggest-ever crowd. More...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/23000-join-bodhana-at-chessfest/",
+         "pubDate" : "Tue, 09 Jul 2024 10:55:05",
+         "title" : "23,000 join Bodhana at ChessFest!"
+      },
+      {
+         "description" : "This is a comprehensive course that arms the club or tournament player with fresh ideas which can be used in their own practice. The nine volumes, individually bought, would normally cost you €299.10. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to let the Dutch-Bosnian grandmaster and world-class chess trainer help you enhance your overall chess understanding.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies-vol-1-9",
+         "pubDate" : "Tue, 09 Jul 2024 10:00:00",
+         "title" : "Ivan Sokolov: Understanding Middlegame Strategies Vol. 1-9"
+      },
+      {
          "description" : "Due to urgent family matters, Magnus Carlsen had to cancel his participation in the Superunited Rapid & Blitz Croatia in Zagreb. Levon Aronian is standing in for the world number one. The third stage of the Grand Chess Tour 2024 begins on Wednesday with the blitz tournament.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3107",
          "pubDate" : "Mon, 08 Jul 2024 10:15:29",
          "title" : "Swedish Championship 2024: Vitaly Sivuk retains title"
-      },
-      {
-         "description" : "This is a comprehensive course that arms the club or tournament player with fresh ideas which can be used in their own practice. The nine volumes, individually bought, would normally cost you €299.10. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to let the Dutch-Bosnian grandmaster and world-class chess trainer help you enhance your overall chess understanding.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies-vol-1-9",
-         "pubDate" : "Mon, 08 Jul 2024 09:00:00",
-         "title" : "Ivan Sokolov: Understanding Middlegame Strategies Vol. 1-9"
       },
       {
          "description" : "The ECU E-Magazine June 2024 is out! In this edition of the ECU Magazine you may read about: The June 2024 edition of the ECU Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below.",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3082",
          "pubDate" : "Mon, 24 Jun 2024 12:13:23",
          "title" : "Gawain Jones and Elmira Mirzoeva сrowned English Chess Champions"
-      },
-      {
-         "description" : "Congratulations to the 2024 English Champion Gawain Jones and 2024 English Women's Champion Elmira Mirzoeva, and well played Mickey Adams and Kata Toma, both finishing...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/tournament-report-and-results-english-chess-championships/",
-         "pubDate" : "Mon, 24 Jun 2024 09:23:23",
-         "title" : "Tournament Report and Results - English Chess Championships"
       },
       {
          "description" : "The 5th edition of the European Small Nations Individual Chess Championship and the 2nd edition of the European Small Nations Women's Chess Championship have started in Andorra la Vella. The events are supported by European Chess Union. The events are simultaneously taking place from 22nd-30th June. Both Championships are played as a 10-player round-robin tournaments, with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino. The time control of the []",
