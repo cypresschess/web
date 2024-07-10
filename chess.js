@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 57th edition of Biel Chess Festival begins this Saturday and will once again attract chess enthusiasts from all over the world to the watchmaking metropolis. There will now be two invitational tournaments for the elite: the GMT-Masters and the GMT-Challengers, which will each be contested by six players. The field of participants will be led by the world number 8, Praggnanandhaa from India. There is also a whole range of tournaments on the programme for amateurs, including a new one-week tournament in the morning and the physicians' tournament. Registrations for the open tournaments are still possible at short notice.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/two-grandmaster-tournaments-in-biel-at-once",
+         "pubDate" : "Wed, 10 Jul 2024 12:41:16",
+         "title" : "Two grandmaster tournaments in Biel at once"
+      },
+      {
          "description" : "The Swedish Championship 2024 featured several categories, from a youth tournament to the Sverigem&auml;starklassen, a round-robin tournament with classical time control for Sweden's top chess players. The tournament took place in V&auml;xj&ouml; from June 28 to July 7. GM Vitaly Sivuk defended his national title by obtaining an undefeated 6&frac12;/9 score. Jonny Hector, who had won the event in 2022, finished in sole second place a half point behind. | Photos: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-guwahati-from-21st-to-22nd-june-2024/",
          "pubDate" : "Wed, 10 Jul 2024 05:31:06",
          "title" : "Certificates for SNA Seminar held at Guwahati from 21st to 22nd June 2024"
+      },
+      {
+         "description" : "IM Aksel Bu Kvaloy is Norway&#39;s new national champion, copying the feat of GMs Simen Agdestein and Magnus Carlsen by winning the title at age 15. The Norwegian Championship took place from June 28 to July 5 in the mountain resort of Gol, drawing ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/15-year-old-copies-magnus-carlsen-norwegian-champion",
+         "pubDate" : "Wed, 10 Jul 2024 03:29:00",
+         "title" : "15-year-old Follows In Footsteps Of Carlsen, Agdestein To Win Norwegian Title"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian cricket star <strong>Ravichandran Ashwin</strong> has <a href=\"https://indianexpress.com/article/sports/chess/ravichandran-ashwin-global-chess-league-franchise-9440367/\">agreed to become co-owner</a> of the <strong>American Gambits</strong> team that will replace the <strong>Chingari Gulf Titans</strong> in the forthcoming <strong>Global Chess League</strong> season. </div> ",
@@ -810,14 +826,6 @@ news_feed (
          "title" : "Membership, Pay to Play and Game Fees 2024/25 (V2)"
       },
       {
-         "description" : "GM Jaime Santos came from behind to beat GM Arjun Erigaisi 2.5-1.5 in a thrilling second Semifinal of the 2024 Leon Masters. The Spanish grandmaster will now attempt to defend the title he won in 2023 as he takes on the legendary GM Viswanathan An...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-leon-masters-semifinals-2",
-         "pubDate" : "Sat, 29 Jun 2024 15:48:00",
-         "title" : "Santos Shocks Arjun To Set Up Leon Masters Final With Anand"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1168,30 +1176,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3074",
          "pubDate" : "Wed, 19 Jun 2024 12:26:52",
          "title" : "CAS upholds FIDE's decision on South African Chess Elections"
-      },
-      {
-         "description" : "Most chess player's game analysis, if they do it at all, looks somewhat like this: If that comes close to what you do, you absolutely have to read this Newsletter. This process is flawed and won't help you improve. The Wrong Question In the above process, the question you ask yourself is wrong.You search for []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/game-analysis-mistake/",
-         "pubDate" : "Wed, 19 Jun 2024 08:57:05",
-         "title" : "99% of Chess Players make this game analysis mistake"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3073",
-         "pubDate" : "Wed, 19 Jun 2024 08:24:29",
-         "title" : "Selected participants for the ChessMom Project announced"
-      },
-      {
-         "description" : "Everything is set for the European Youth Team Chess Championship 2024 which is taking place from 20-28 June in Rhodes, Greece. It is co-organised by the Chess Club of Rhodes &#8220;Ippotis&#8221; and the Region of South Aegean. The event is played in two age categories: U12 and U18, open and girls sections separately. Teams in the Open section feature four players + one reserve player, and in the Girls' section the teams consist of three players + one reserve player. []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-starts-in-rhodes/",
-         "pubDate" : "Wed, 19 Jun 2024 08:10:57",
-         "title" : "European Youth Team Chess Championship 2024 starts in Rhodes"
       }
    ]
 }
