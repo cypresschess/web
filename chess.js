@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
+         "pubDate" : "Wed, 10 Jul 2024 14:50:00",
+         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
          "description" : "The 57th edition of Biel Chess Festival begins this Saturday and will once again attract chess enthusiasts from all over the world to the watchmaking metropolis. There will now be two invitational tournaments for the elite: the GMT-Masters and the GMT-Challengers, which will each be contested by six players. The field of participants will be led by the world number 8, Praggnanandhaa from India. There is also a whole range of tournaments on the programme for amateurs, including a new one-week tournament in the morning and the physicians' tournament. Registrations for the open tournaments are still possible at short notice.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Two grandmaster tournaments in Biel at once"
       },
       {
+         "description" : "Chess.com is excited to announce the winners of the 2023 Create Your Own Course contest, authors IceBreaker and Benedictine! Their courses, Killer Kings: The King as a Fighting Piece in Chess and Advanced Chess Patterns, are now available on Chess...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2023-create-your-own-course-winners",
+         "pubDate" : "Wed, 10 Jul 2024 08:00:00",
+         "title" : "Announcing The 2023 Create Your Own Course Winners"
+      },
+      {
          "description" : "The Swedish Championship 2024 featured several categories, from a youth tournament to the Sverigem&auml;starklassen, a round-robin tournament with classical time control for Sweden's top chess players. The tournament took place in V&auml;xj&ouml; from June 28 to July 7. GM Vitaly Sivuk defended his national title by obtaining an undefeated 6&frac12;/9 score. Jonny Hector, who had won the event in 2022, finished in sole second place a half point behind. | Photos: Lars OA Hedlund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/swedish-championship-2024",
          "pubDate" : "Wed, 10 Jul 2024 08:00:00",
          "title" : "Swedish Championship: Vitaly Sivuk retains title"
+      },
+      {
+         "description" : "GMs Magnus Carlsen and Hikaru Nakamura won the July 9 editions of Titled Tuesday. It&#39;s the fourth time the world&#39;s two best blitz chess players have each won one of the Tuesday events, but only the first time this year, last occurring on December ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-nakamura-win-titled-tuesday-july-9-2024",
+         "pubDate" : "Wed, 10 Jul 2024 07:44:10",
+         "title" : "Carlsen-Nakamura Double Feature In Titled Tuesday"
       },
       {
          "description" : "No Name 1 Rapolu Dhanush Kumar 2 Shuktara Samkalpa 3 Chandra Raj 4 Abhishek Borthakur 5 Rituraj Borgohain 6 Anurag Pritam Medhi 7 Gnanyta Netha",
@@ -87,7 +111,7 @@ news_feed (
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/bodhana-sivanandan-celebrates-england-call-up-at-with-20-000-chess-fans-at-biggest-ever-chessfest",
          "pubDate" : "Tue, 09 Jul 2024 11:56:50",
-         "title" : "Bodhana Sivanandan celebrates England call-up at with 20,000 chess fans at biggest-ever ChessFest"
+         "title" : "Bodhana Sivanandan celebrates England call-up with 20,000 chess fans at biggest-ever ChessFest"
       },
       {
          "description" : "",
@@ -794,28 +818,12 @@ news_feed (
          "title" : "GM Igor Efimov and WGM Elvira Berend win European Small Nations Chess Championships 2024"
       },
       {
-         "description" : "10-year-old FM Faustino Oro, dubbed the &#39;Messi of Chess,&#39; has become the youngest-ever international master and once again earned a place in chess history, securing the final norm today in Barcelona, Spain. The Argentinian prodigy is one of only t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/faustino-oro-becomes-youngest-ever-international-master",
-         "pubDate" : "Sun, 30 Jun 2024 04:16:00",
-         "title" : "Faustino Oro Becomes Youngest Ever International Master At 10"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3095",
          "pubDate" : "Sat, 29 Jun 2024 22:15:35",
          "title" : "Playoff matches set at FIDE World Cup 8-12"
-      },
-      {
-         "description" : "After progressing to the ChessKid Youth Championships Knockout earlier in the day, 13-year-old GM-elect Yagiz Erdogmus has commanded another headline with a historic Bullet Brawl victory on Saturday. Scoring 220 points, he finished well ahead of s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yagiz-erdogmus-wins-bullet-brawl-june-29-2024",
-         "pubDate" : "Sat, 29 Jun 2024 16:17:00",
-         "title" : "13-Year-Old Erdogmus Becomes First Junior To Win Bullet Brawl"
       },
       {
          "description" : "",
@@ -1160,22 +1168,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/06/19/chess-molds-nba-champion-jaylen-brown/",
          "pubDate" : "Wed, 19 Jun 2024 18:45:19",
          "title" : "Chess molds NBA Champion, Jaylen Brown"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3075",
-         "pubDate" : "Wed, 19 Jun 2024 13:45:08",
-         "title" : "Pune, India hosts Chess for Freedom Conference to promote global growth of chess in prisons"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3074",
-         "pubDate" : "Wed, 19 Jun 2024 12:26:52",
-         "title" : "CAS upholds FIDE's decision on South African Chess Elections"
       }
    ]
 }
