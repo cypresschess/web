@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "For a chess player, chess pieces are like special tools in a toolbox. We need to know how best to use them, just as a craftsman knows his tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't write off the king as a vulnerable creature in need of constant care and protection. Because in this video course, kings will play a different role: a role of strong and active pieces.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jan-markos-middlegame-secrets-vol-5-the-inner-strength-of-kings",
+         "pubDate" : "Wed, 10 Jul 2024 21:00:00",
+         "title" : "Jan Markos: Middlegame Secrets Vol.5 - The Inner Strength of Kings"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Join Anastasiya Karlovich at the opening ceremony and drawing of lots at The Westin Zagreb for the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired during Day 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-opening-ceremony-proud-gct-zagreb-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-2wOuopOORI.jpg?itok=Jv2vvkeb\" alt=\"\" /></a></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-opening-ceremony-proud-gct-zagreb-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 10 Jul 2024 17:38:01",
+         "title" : "Kasparov at Opening Ceremony: Proud of GCT in Zagreb! | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the middle three rounds of the rapid round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-typ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superunited-rapid-blitz-croatia-2024-day-2-grandchesstour",
+         "pubDate" : "Wed, 10 Jul 2024 17:38:01",
+         "title" : "SuperUnited Rapid & Blitz Croatia 2024: Day 2 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after defeating Aronian in Rapid Round 1 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-two-pawns-when-dust-cleared-rapid-1-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w8wkkc2CLYg.jpg?itok=Jy7ushvE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-two-pawns-when-dust-cleared-rapid-1-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 10 Jul 2024 17:38:01",
+         "title" : "MVL: Two Pawns Up When the Dust Cleared | Rapid 1 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team profiles Caruana, Nepomniachtchi, Firouzja, Wesley So, Aronian, Vachier-Lagrave, Giri, Gujrathi, Gukesh, and Saric of the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired during Day 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/meet-2024-players-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NLuJoqKb8vQ.jpg?itok=3fh4d1Es\" alt=\"\" /",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/meet-2024-players-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 10 Jul 2024 17:38:01",
+         "title" : "Meet The 2024 Players! | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
          "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,14 +66,6 @@ news_feed (
          "title" : "Announcing The 2023 Create Your Own Course Winners"
       },
       {
-         "description" : "The Swedish Championship 2024 featured several categories, from a youth tournament to the Sverigem&auml;starklassen, a round-robin tournament with classical time control for Sweden's top chess players. The tournament took place in V&auml;xj&ouml; from June 28 to July 7. GM Vitaly Sivuk defended his national title by obtaining an undefeated 6&frac12;/9 score. Jonny Hector, who had won the event in 2022, finished in sole second place a half point behind. | Photos: Lars OA Hedlund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/swedish-championship-2024",
-         "pubDate" : "Wed, 10 Jul 2024 08:00:00",
-         "title" : "Swedish Championship: Vitaly Sivuk retains title"
-      },
-      {
          "description" : "GMs Magnus Carlsen and Hikaru Nakamura won the July 9 editions of Titled Tuesday. It&#39;s the fourth time the world&#39;s two best blitz chess players have each won one of the Tuesday events, but only the first time this year, last occurring on December ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -56,6 +88,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/15-year-old-copies-magnus-carlsen-norwegian-champion",
          "pubDate" : "Wed, 10 Jul 2024 03:29:00",
          "title" : "15-year-old Follows In Footsteps Of Carlsen, Agdestein To Win Norwegian Title"
+      },
+      {
+         "description" : "This week's workout continues our coverage of the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. Our coverage of the match portion can be seen here, and future workouts will cover those games, as well.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-juniors-pt-2",
+         "pubDate" : "Wed, 10 Jul 2024 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Cup Juniors, Pt. 2"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian cricket star <strong>Ravichandran Ashwin</strong> has <a href=\"https://indianexpress.com/article/sports/chess/ravichandran-ashwin-global-chess-league-franchise-9440367/\">agreed to become co-owner</a> of the <strong>American Gambits</strong> team that will replace the <strong>Chingari Gulf Titans</strong> in the forthcoming <strong>Global Chess League</strong> season. </div> ",
@@ -98,22 +138,6 @@ news_feed (
          "title" : "Master Class 17: Boris the Greatest"
       },
       {
-         "description" : "The German Chess Club Frankfurt-West celebrated its 100th birthday with a big Chess960 festival and invited to the \"9th Open German Rapid Chess Championship in Chess960\". Nearly 400 chess fans, including numerous grandmasters and many young chess fans, followed the call. | Photos: Dariusz Gorzinski",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/frankfurt-west-celebrates-100th-birthday-with-chess960-festival",
-         "pubDate" : "Tue, 09 Jul 2024 14:35:31",
-         "title" : "Frankfurt-West celebrates 100th birthday with Chess960 festival"
-      },
-      {
-         "description" : "Record-breaking nine-year-old Bodhana Sivanandan celebrated her call-up to England's chess team in a packed Trafalgar Square on Sunday as ChessFest drew its biggest-ever crowd. More than 23,000 people-8,000 more than last year-descended on London's iconic venue to brave a mixed bag of weather as the UK's annual free chess event got under way. | Photo: ChessFest",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/bodhana-sivanandan-celebrates-england-call-up-at-with-20-000-chess-fans-at-biggest-ever-chessfest",
-         "pubDate" : "Tue, 09 Jul 2024 11:56:50",
-         "title" : "Bodhana Sivanandan celebrates England call-up with 20,000 chess fans at biggest-ever ChessFest"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -138,20 +162,20 @@ news_feed (
          "title" : "Ivan Sokolov: Understanding Middlegame Strategies Vol. 1-9"
       },
       {
-         "description" : "This week's Tactics Tuesday follows up on last week's coverage of the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "The US Chess Federation is pleased to announce the 2024 Annual Award recipients. Congratulations to all of these individuals and organizations who are advancing our mission to \"empower people, enrich lives, and enhance communities through chess.\"<br /><br /> US Chess Awards Recipients from previous years can be viewed here: 2023 | 2022 | 2021 | 2020<br /><br /> <br /><br /><br /> \t\t\tNamed Awards<br /><br /> \t\t\tDan Heisman Award for Excellence in Chess Instruction<br /><br /> \t\t\tKoltanowski Awards<br /><br /> \t\t\tFrank J. Marshall Award<br /><br /><br /> \t\t\tOrganizer Awards<br /><br /> \t\t\tChess City of the Year<br /><br /> \t\t\tChess Club of the Year<br /><br /> \t\t\tChess College of the Year<br /",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-us-chess-awards-recipients",
+         "pubDate" : "Tue, 09 Jul 2024 00:00:00",
+         "title" : "2024 US Chess Awards Recipients"
+      },
+      {
+         "description" : "This week's Tactics Tuesday follows up on last week's coverage of the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-ages-12-and-under-pt-2",
          "pubDate" : "Tue, 09 Jul 2024 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Cup Ages 12 and Under, Pt. 2"
-      },
-      {
-         "description" : "Due to urgent family matters, Magnus Carlsen had to cancel his participation in the Superunited Rapid & Blitz Croatia in Zagreb. Levon Aronian is standing in for the world number one. The third stage of the Grand Chess Tour 2024 begins on Wednesday with the blitz tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/grand-chess-tour-zagreb-carlsen-has-to-cancel",
-         "pubDate" : "Mon, 08 Jul 2024 19:56:52",
-         "title" : "Grand Chess Tour Zagreb: Carlsen had to cancel"
       },
       {
          "description" : "Tigran Petrosian was a very conservative player. On the other hand he could see tactics and combinations far in advance, so he went about countering them before even his opponents smell anything! Chess trainer GM Efstratios Grivas has always told his students to study the games of the former World Champion and try to understand what he had seen and why he chose his moves. You too can learn from the great master.",
@@ -306,30 +330,6 @@ news_feed (
          "title" : "Chirila's POV: Giri's Golden Opportunity #GrandChessTour #chess #chesstactics #anishgiri #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> In a winning position for Alireza, Jovi and Yasser look at using the drawing strategy for Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/drawing-strategy-pragg-grandchesstour-chess-chessstrategy-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bsruL4G2fnc.jpg?itok=pceF2ssd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/drawing-strategy-pragg-grandchesstour-chess-chessstrategy-chessendgame-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 17:34:56",
-         "title" : "Drawing Strategy for Pragg #GrandChessTour #chess #chessstrategy #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser looks back on the turning point in the game between Caruana and Giri </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/turning-point-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XYYYNEVgZQQ.jpg?itok=QBAGD82y\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/turning-point-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 17:34:56",
-         "title" : "The Turning Point #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anish picks up a few more pieces on his way to victory against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-operation-mop-grandchesstour-chess-chessendgame-checkmatepatterns-chesscom-anishgiri\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tDr33Zjl4oQ.jpg?itok=rmApDR_P\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-operation-mop-grandchesstour-chess-chessendgame-checkmatepatterns-chesscom-anishgiri",
-         "pubDate" : "Sat, 06 Jul 2024 17:34:56",
-         "title" : "GIRI OPERATION: Mop Up #GrandChessTour #chess #chessendgame #checkmatepatterns #chesscom #anishgiri"
-      },
-      {
          "description" : "GM-elect Yagiz Erdogmus won the Under 13 ChessKid Youth Championship 2024 a week ago and has now booked his place in the knockout Finals of the Under 16 Championship. Once again he won his group with 8/10, as did GM Abhimanyu Mishra, while GMs-ele...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -376,14 +376,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-classic-praggnanandhaa-and-gukesh-miss-out-in-four-way-tiebreaker-as-fabiano-caruana-wins-title/articleshow/111531116.cms",
          "pubDate" : "Sat, 06 Jul 2024 06:36:55",
          "title" : "Superbet Classic: Pragg, Gukesh miss out; Caruana wins title"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chirila gives his overview of the endgame position between Alireza and Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cristian-analyzes-firouzja-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Qi-LvqyHOZw.jpg?itok=MPa5D_dE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/cristian-analyzes-firouzja-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 05:34:41",
-         "title" : "Cristian Analyzes Firouzja Endgame #GrandChessTour #chess #chesstactics #chessendgame #chesscom"
       },
       {
          "description" : " The Superbet Romania Chess Classic took place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. Long time leader Fabiano Caruana lost in the final round to Anish Giri, this brought about a rapid tie-break with Alireza Firouzja, D Gukesh and Praggnanandhaa. Caruana mounted a remarkable recovery by beating all three of his opponents to win the event.",
@@ -680,22 +672,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-u-12-and-girls-u-12",
          "pubDate" : "Tue, 02 Jul 2024 00:00:00",
          "title" : "Tactics Tuesday: FIDE World Cup U-12 and Girls U-12"
-      },
-      {
-         "description" : " <br /><br /> The 2024 Delegates Call can be downloaded by clicking here. <br /><br /> The printed copies of the Call were mailed to Delegates at the end of last week.<br /><br /> For more Delegates information, please click here. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-delegates-call",
-         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
-         "title" : "2024 Delegates Call"
-      },
-      {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> US Chess offices will be closed Thursday, July 4 in celebration of Independence Day, and will reopen for normal business operations on Friday, July 5. <br /><br /> All Tournament Life Announcements (TLAs) and email blasts are reviewed by a US Chess employee before the item is posted or released. It normally takes us up to one business day before reviewing, so please submit any TLAs or email blasts by noon CDT on Wednesday, July 3, to ensure they will be approved before the office closure.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-offices-closed-thursday-july-4",
-         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
-         "title" : "US Chess Offices Closed Thursday, July 4"
       },
       {
          "description" : "",
@@ -1160,14 +1136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3076",
          "pubDate" : "Thu, 20 Jun 2024 07:21:56",
          "title" : "Making History: Countdown to Guinness World Records ® attempt begins!"
-      },
-      {
-         "description" : " A couple of nights ago, Jaylen Brown of the Boston Celtics became an NBA Champion. He was also voted the Most Valuable Player of the series, justifying his mammoth five-year, $304 million contract signed the previous year. There were questions about whether the dynamic duo of Brown and fellow All-Star Jayson Tatum would materialize into The post <a href=\"https://www.thechessdrum.net/blog/2024/06/19/chess-molds-nba-champion-jaylen-brown/\">Chess molds NBA Champion, Jaylen Brown</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/06/19/chess-molds-nba-champion-jaylen-brown/",
-         "pubDate" : "Wed, 19 Jun 2024 18:45:19",
-         "title" : "Chess molds NBA Champion, Jaylen Brown"
       }
    ]
 }
