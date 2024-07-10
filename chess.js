@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Swedish Championship 2024 featured several categories, from a youth tournament to the Sverigem&auml;starklassen, a round-robin tournament with classical time control for Sweden's top chess players. The tournament took place in V&auml;xj&ouml; from June 28 to July 7. GM Vitaly Sivuk defended his national title by obtaining an undefeated 6&frac12;/9 score. Jonny Hector, who had won the event in 2022, finished in sole second place a half point behind. | Photos: Lars OA Hedlund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/swedish-championship-2024",
+         "pubDate" : "Wed, 10 Jul 2024 08:00:00",
+         "title" : "Swedish Championship: Vitaly Sivuk retains title"
+      },
+      {
+         "description" : "No Name 1 Rapolu Dhanush Kumar 2 Shuktara Samkalpa 3 Chandra Raj 4 Abhishek Borthakur 5 Rituraj Borgohain 6 Anurag Pritam Medhi 7 Gnanyta Netha",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-guwahati-from-21st-to-22nd-june-2024/",
+         "pubDate" : "Wed, 10 Jul 2024 05:31:06",
+         "title" : "Certificates for SNA Seminar held at Guwahati from 21st to 22nd June 2024"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian cricket star <strong>Ravichandran Ashwin</strong> has <a href=\"https://indianexpress.com/article/sports/chess/ravichandran-ashwin-global-chess-league-franchise-9440367/\">agreed to become co-owner</a> of the <strong>American Gambits</strong> team that will replace the <strong>Chingari Gulf Titans</strong> in the forthcoming <strong>Global Chess League</strong> season. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "Ivan Sokolov: Understanding Middlegame Strategies Vol. 1-9"
       },
       {
-         "description" : "This week's Tactics Tuesday follows up on last week's coverage of the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's Tactics Tuesday follows up on last week's coverage of the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-ages-12-and-under-pt-2",
@@ -1130,14 +1146,6 @@ news_feed (
          "title" : "Making History: Countdown to Guinness World Records ® attempt begins!"
       },
       {
-         "description" : "8 Medals with one Gold for India in Asian Youth Chess Championship 2024 Narayani, Mani, Pratitee, Nakshtra, Aaradhya, Siddhanth, Ragavesh and Harsh got medals in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/asian-youth-chess-championship-2024classical-report-day-8/",
-         "pubDate" : "Thu, 20 Jun 2024 05:13:57",
-         "title" : "Asian Youth Chess Championship 2024:Classical Report Day 8"
-      },
-      {
          "description" : " A couple of nights ago, Jaylen Brown of the Boston Celtics became an NBA Champion. He was also voted the Most Valuable Player of the series, justifying his mammoth five-year, $304 million contract signed the previous year. There were questions about whether the dynamic duo of Brown and fellow All-Star Jayson Tatum would materialize into The post <a href=\"https://www.thechessdrum.net/blog/2024/06/19/chess-molds-nba-champion-jaylen-brown/\">Chess molds NBA Champion, Jaylen Brown</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1184,14 +1192,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-starts-in-rhodes/",
          "pubDate" : "Wed, 19 Jun 2024 08:10:57",
          "title" : "European Youth Team Chess Championship 2024 starts in Rhodes"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111100740.cms\" />India's 20-year-old super GM, Arjun Erigaisi, won his second classical title of the year in the Stepan Avagyan Memorial round-robin tournament in Armenia. Erigaisi currently holds fourth position in live world ratings with 2778.1 Elo, 17 points away from surpassing world No. 3 Fabiano Caruana, and trailing Magnus Carlsen, Hikaru Nakamura, and Caruana in live ratings.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/india-no-1-arjun-erigaisi-triumphs-in-armenia-takes-break-from-classical-chess/articleshow/111100740.cms",
-         "pubDate" : "Wed, 19 Jun 2024 04:05:14",
-         "title" : "India No.1 Arjun Erigaisi triumphs in Armenia, takes break from Classical chess"
       }
    ]
 }
