@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first three rounds of rapid action at the SuperUnited Rapid & Blitz Tournament in Croatia saw Maxime Vachier-Lagrave scoring two wins and one draw to become the early sole leader in Zagreb. MVL defeated Levon Aronian and Ivan Saric in the first two rounds before holding a draw in a pawn-down endgame against Wesley So. Tied for second place at a 1-point distance (wins are worth 2 points in the rapid) are So and Fabiano Caruana. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-1",
+         "pubDate" : "Thu, 11 Jul 2024 01:00:00",
+         "title" : "SuperUnited Croatia: Vachier-Lagrave leads, Vidit struggles"
+      },
+      {
          "description" : "For a chess player, chess pieces are like special tools in a toolbox. We need to know how best to use them, just as a craftsman knows his tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't write off the king as a vulnerable creature in need of constant care and protection. Because in this video course, kings will play a different role: a role of strong and active pieces.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/jan-markos-middlegame-secrets-vol-5-the-inner-strength-of-kings",
          "pubDate" : "Wed, 10 Jul 2024 21:00:00",
          "title" : "Jan Markos: Middlegame Secrets Vol.5 - The Inner Strength of Kings"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich after defeating Gujrathi in Rapid Round 2 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-play-aggressively-play-faster-rapid-2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IpSlyQRjUV0.jpg?itok=DMadqsMr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-play-aggressively-play-faster-rapid-2-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 10 Jul 2024 20:38:06",
+         "title" : "Aronian: Play Aggressively, Play Faster | Rapid 2 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ivan Saric talks to Cristian Chirila after defeating Gujrathi in Rapid Round 3 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saric-no-secret-recipe-time-management-rapid-3-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3rJ4rsyqANY.jpg?itok=c4-ZAoCp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/saric-no-secret-recipe-time-management-rapid-3-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 10 Jul 2024 20:38:06",
+         "title" : "Saric: No Secret Recipe to Time Management | Rapid 3 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after a draw against Nepomniachtchi in Rapid Round 3 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-back-50-feeling-good-rapid-3-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nQe2buOaDn8.jpg?itok=2s74QFpw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-back-50-feeling-good-rapid-3-superunitedrapidblitzcroatia",
+         "pubDate" : "Wed, 10 Jul 2024 20:38:06",
+         "title" : "Aronian: Back to 50%, Feeling Good | Rapid 3 #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Join Anastasiya Karlovich at the opening ceremony and drawing of lots at The Westin Zagreb for the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired during Day 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-opening-ceremony-proud-gct-zagreb-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-2wOuopOORI.jpg?itok=Jv2vvkeb\" alt=\"\" /></a></",
@@ -42,12 +74,12 @@ news_feed (
          "title" : "Meet The 2024 Players! | #SuperUnitedRapidBlitzCroatia"
       },
       {
-         "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
-         "pubDate" : "Wed, 10 Jul 2024 14:50:00",
-         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+         "description" : "GM Maxime Vachier-Lagrave came into the 2024 SuperUnited Croatia Rapid &#38;amp; Blitz after drawing all nine games in Bucharest, but in Zagreb, Croatia he began by winning a wild game against the player who was replacing GM Magnus Carlsen, GM Levon A...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-1",
+         "pubDate" : "Wed, 10 Jul 2024 14:14:00",
+         "title" : "Vachier-Lagrave Sole Leader After Day 1 Of Croatia Grand Chess Tour"
       },
       {
          "description" : "The 57th edition of Biel Chess Festival begins this Saturday and will once again attract chess enthusiasts from all over the world to the watchmaking metropolis. There will now be two invitational tournaments for the elite: the GMT-Masters and the GMT-Challengers, which will each be contested by six players. The field of participants will be led by the world number 8, Praggnanandhaa from India. There is also a whole range of tournaments on the programme for amateurs, including a new one-week tournament in the morning and the physicians' tournament. Registrations for the open tournaments are still possible at short notice.",
@@ -90,7 +122,7 @@ news_feed (
          "title" : "15-year-old Follows In Footsteps Of Carlsen, Agdestein To Win Norwegian Title"
       },
       {
-         "description" : "This week's workout continues our coverage of the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. Our coverage of the match portion can be seen here, and future workouts will cover those games, as well.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout continues our coverage of the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. Our coverage of the match portion can be seen here, and future workouts will cover those games, as well.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-juniors-pt-2",
@@ -290,14 +322,6 @@ news_feed (
          "title" : "EXCLUSIVE: A Look Back at the Superbet Chess Classic 2024 | #GrandChessTour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Gukesh D tells Anastasiya Karlovich with whom he would prefer to be stranded on a desert island. <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL S",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-island-superbetchessclassicromania-grandchesstour",
-         "pubDate" : "Sun, 07 Jul 2024 20:35:45",
-         "title" : "Gukesh on an Island? #SuperbetChessClassicRomania #GrandChessTour"
-      },
-      {
          "description" : "13-year-old GM-elect Yagiz Erdogmus has added the Under 16 ChessKid Youth Championship 2024 title to the Under 13 title he won a week ago. The Turkish prodigy overcame fellow GM-elect Ivan Zemlyanskii 3-1 in the Final after Zemlyanskii had upset G...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -312,22 +336,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/how-the-messi-of-chess-is-creating-faustimania-in-argentina",
          "pubDate" : "Sun, 07 Jul 2024 09:54:00",
          "title" : "How the 'Messi of Chess' Is Creating 'Faustimania' In Argentina"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chirila gives his overview of the endgame position between Alireza and Pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirilas-pov-firouzja-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Qi-LvqyHOZw.jpg?itok=MPa5D_dE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chirilas-pov-firouzja-endgame-grandchesstour-chess-chesstactics-chessendgame-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 17:34:56",
-         "title" : "Chirila's POV: Firouzja Endgame #GrandChessTour #chess #chesstactics #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Cristian gives his insights on Giri&#039;s position against Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirilas-pov-giris-golden-opportunity-grandchesstour-chess-chesstactics-anishgiri-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YqZcNIXUYtg.jpg?itok=UsLLg8n_\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chirilas-pov-giris-golden-opportunity-grandchesstour-chess-chesstactics-anishgiri-chesscom",
-         "pubDate" : "Sat, 06 Jul 2024 17:34:56",
-         "title" : "Chirila's POV: Giri's Golden Opportunity #GrandChessTour #chess #chesstactics #anishgiri #chesscom"
       },
       {
          "description" : "GM-elect Yagiz Erdogmus won the Under 13 ChessKid Youth Championship 2024 a week ago and has now booked his place in the knockout Finals of the Under 16 Championship. Once again he won his group with 8/10, as did GM Abhimanyu Mishra, while GMs-ele...",
@@ -776,14 +784,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-5",
          "pubDate" : "Sun, 30 Jun 2024 13:00:00",
          "title" : "Missed Chances Mark Another Day Of Draws In Bucharest"
-      },
-      {
-         "description" : "GM-elect Yagiz Erdogmus defeated FM Henry Tudor in the Final of the ChessKid Youth Championship 2024 for players under 13. While the Turkish prodigy was the clear favorite to win this event, Tudor managed to finish the regular games with a tied 2-...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-13-day-erdogmus-wins",
-         "pubDate" : "Sun, 30 Jun 2024 10:05:00",
-         "title" : "World's Youngest GM Wins 2024 ChessKid Youth Championship Under-13"
       },
       {
          "description" : "The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship concluded yesterday in Andorra la Vella. The events were played from 22-30 June as 10-player round-robin tournaments with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino.&#160; GM Igor Efimov (MNC, 2312) emerged as the sole winner of the Open Championship scoring 8/9 points. Igor Efimov finished the event without a single loss, []",
