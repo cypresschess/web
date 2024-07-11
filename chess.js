@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich shows video of the second and last day of the KCF training camp (featuring notable young titled players) before the second day of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/look-inside-kasparov-chess-foundation-training-camp-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rv7",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/look-inside-kasparov-chess-foundation-training-camp-d2-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 11 Jul 2024 17:38:51",
+         "title" : "Look Inside Kasparov Chess Foundation Training Camp | D2 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Anastasiya Karlovich before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-recover-%E2%80%98chess-hangover%E2%80%99-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UYzrf7BXCMU.jpg?itok=qGwJv7Wv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-recover-%E2%80%98chess-hangover%E2%80%99-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 11 Jul 2024 17:38:51",
+         "title" : "Giri: Recover from a 'Chess Hangover' | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Anastasiya Karlovich after defeating Vachier-Lagrave in Rapid Round 4 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-found-some-tricks-mvl-blundered-rapid-4-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QOiQE6_L9Ew.jpg?itok=MJVgV8bM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-found-some-tricks-mvl-blundered-rapid-4-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 11 Jul 2024 17:38:51",
+         "title" : "Gukesh: Found Some Tricks & MVL Blundered! | Rapid 4 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The competitors share thoughts on time management, especially in faster time controls, before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/managing-time-fast-chess-game-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qR91y8cdOqc.jpg?itok=YyxvHSGT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/managing-time-fast-chess-game-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 11 Jul 2024 17:38:51",
+         "title" : "Managing Time in a Fast Chess Game? | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
          "description" : "It was announced today that Magnus Carlsen's mother, Sigrun Øen, died on Monday after a long illness surrounded by her family. Sigrun Øen was a chemist, but gave up her profession after the birth of her children, and accompanied her son Magnus Carlsen together with her husband and daughters to numerous chess tournaments. Sigrun Øen was 61 years old.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,22 +122,6 @@ news_feed (
          "title" : "Benefit of New Training Method #GrandChessTour #chess #chesstactics #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Miro explains what happens after f4 is played </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/miro-i-have-trust-computer-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dvjG4Fwjw88.jpg?itok=HfbjNxjp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/miro-i-have-trust-computer-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
-         "title" : "Miro: I Have To Trust The Computer #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Cristian gives a brief overview of a conversation he had with Aronian about his new method </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/and-coming-player-gm-levon-aronian-grandchesstour-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YbOPviK0d3E.jpg?itok=2xFJYe1w\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/and-coming-player-gm-levon-aronian-grandchesstour-chess-chesscom",
-         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
-         "title" : "Up and Coming Player, GM Levon Aronian #GrandChessTour #chess #chesscom"
-      },
-      {
          "description" : "The first three rounds of rapid action at the SuperUnited Rapid & Blitz Tournament in Croatia saw Maxime Vachier-Lagrave scoring two wins and one draw to become the early sole leader in Zagreb. MVL defeated Levon Aronian and Ivan Saric in the first two rounds before holding a draw in a pawn-down endgame against Wesley So. Tied for second place at a 1-point distance (wins are worth 2 points in the rapid) are So and Fabiano Caruana. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,20 +138,12 @@ news_feed (
          "title" : "SuperUnited Rapid & Blitz: Gukesh and Vidit struggle with poor start in Croatia on Day 1"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 1 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superunited-rapid-blitz-croatia-2024-day-1-gra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superunited-rapid-blitz-croatia-2024-day-1-grandchesstour",
-         "pubDate" : "Wed, 10 Jul 2024 23:38:12",
-         "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 1 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich after defeating Gujrathi in Rapid Round 2 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-play-aggressively-play-faster-rapid-2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IpSlyQRjUV0.jpg?itok=DMadqsMr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-play-aggressively-play-faster-rapid-2-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 10 Jul 2024 20:38:06",
-         "title" : "Aronian: Play Aggressively, Play Faster | Rapid 2 #SuperUnitedRapidBlitzCroatia"
+         "description" : "Editor's note: GM Awonder Liang has agreed to write a report on his come-from-behind victory in the 2024 World Open in a future print edition of Chess Life magazine. Until then, enjoy this personal report from Matt Clibanoff, a World Open regular and chess instructor.<br /><br /> Boasting a guaranteed prize fund of $208,000 across the top six sections, the World Open holds an incredible allure for amateur and professional chess players alike. But, for most of us, \"cashing\" in the World Open is but a dream. In reality, the crowds are huge, the children are all severely underrated, and there is never enough soap or paper towels in the bathroom. <br /><br /> While many are drawn in by the promi",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/liang-takes-clear-first-2024-world-open",
+         "pubDate" : "Thu, 11 Jul 2024 00:00:00",
+         "title" : "Liang Takes Clear First at 2024 World Open"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave came into the 2024 SuperUnited Croatia Rapid &#38;amp; Blitz after drawing all nine games in Bucharest, but in Zagreb, Croatia he began by winning a wild game against the player who was replacing GM Magnus Carlsen, GM Levon A...",
@@ -690,14 +698,6 @@ news_feed (
          "title" : "US Chess Oral History Project"
       },
       {
-         "description" : "This week's Tactics Tuesday features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12 and Girls U-12 tournaments. The \"match\" portion of this event has just finished, and future editions of Tactics Tuesday will highlight games from the U-10 and U-8 open and Girls sections. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-u-12-and-girls-u-12",
-         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Cup U-12 and Girls U-12"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1096,22 +1096,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024-open-to-entries-from-britain",
          "pubDate" : "Fri, 21 Jun 2024 07:00:09",
          "title" : "Chess: national solving championship 2024 open to entries from Britain"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111146863.cms\" />The Norway Chess 2024 tournament showcased a remarkable feat by 18-year-old Indian chess prodigy R Praggnanandhaa, who defeated World No. 1 Magnus Carlsen. Despite Carlsen winning the tournament, Praggnanandhaa's victory was a milestone. His overall performance, including a draw against Hikaru Nakamura, secured him third place. Praggnanandhaa attributed his success to a favourable opening and expressed confidence in competing with the world's elite players. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/he-surprised-me-with-r-praggnanandhaa-on-win-against-world-no-1-magnus-carlsen-at-norway-chess-2024/articleshow/111146863.cms",
-         "pubDate" : "Thu, 20 Jun 2024 17:43:27",
-         "title" : "'He surprised me with...': Pragg on win against Carlsen"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3078",
-         "pubDate" : "Thu, 20 Jun 2024 16:00:23",
-         "title" : "Chess for Freedom Conference continues in Pune, India"
       }
    ]
 }
