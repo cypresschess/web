@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Cristian Chirila after going 2-0-1 on the second rapid day of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-happy-be-tied-3rd-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q7UTlgs3YZs.jpg?itok=51aciQbl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-happy-be-tied-3rd-d2-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 11 Jul 2024 20:39:00",
+         "title" : "Gukesh: Happy to Be Tied 3rd | D2 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after going 2-0-1 on the second rapid day of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-squeezes-draw-wesley-always-fight-left-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UmEquXvMtAY.jpg?itok=0PezcBCL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-squeezes-draw-wesley-always-fight-left-d2-superunitedrapidblitzcroatia",
+         "pubDate" : "Thu, 11 Jul 2024 20:39:00",
+         "title" : "Caruana Squeezes Draw from Wesley: Always a Fight Left | D2 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich shows video of the second and last day of the KCF training camp (featuring notable young titled players) before the second day of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/look-inside-kasparov-chess-foundation-training-camp-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rv7",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,7 +66,15 @@ news_feed (
          "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Game between Giri and Gukesh break last year&#039;s record by 1 move </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/116-moves-its-record-grandchesstour-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YAzVIfpQyXs.jpg?itok=BXwOBgMV\" alt=\"\" /></a></div>",
+         "description" : "GM Fabiano Caruana beat GMs Levon Aronian and Ivan Saric and escaped against GM Wesley So to climb into sole first place after day two of the&#38;nbsp;2024 SuperUnited Rapid &#38;amp; Blitz Croatia. The previous leader, GM Maxime Vachier-Lagrave, blundere...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-2",
+         "pubDate" : "Thu, 11 Jul 2024 14:44:00",
+         "title" : "Caruana Leads In Zagreb As Gukesh Climbs Into Contention"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Game between Giri and Gukesh break last year&#039;s record by 1 move Photographs by: Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/116-moves-its-record-grandchesstour-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YAzVIfpQyXs.jpg?itok=BXwOBgMV\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/116-moves-its-record-grandchesstour-chess-chesscom",
@@ -78,7 +102,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-2024-crunchlabs-masters-champions-chess-tour",
-         "pubDate" : "Thu, 11 Jul 2024 07:03:43",
+         "pubDate" : "Thu, 11 Jul 2024 07:03:00",
          "title" : "Announcing The 2024 CrunchLabs Masters, Champions Chess Tour's Third Event"
       },
       {
@@ -104,30 +128,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruanas-hidden-bishop-finds-anchor-grandchesstour-chess-chesstactics-chesscom",
          "pubDate" : "Thu, 11 Jul 2024 02:38:21",
          "title" : "Caruana's Hidden Bishop Finds An Anchor #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Up a piece and open the file for the rook, MVL finds the beautiful queen sacrifice </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-ultimate-sacrifice-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GgU_vW3o2GM.jpg?itok=2cbQodBo\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-ultimate-sacrifice-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
-         "title" : "MVL: The Ultimate Sacrifice #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> After analyzing a position in the round between Aronian and MVL, Miro sees the benefits of the new training method </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/benefit-new-training-method-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDhLSRwGuE0.jpg?itok=kVuOeJJe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/benefit-new-training-method-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
-         "title" : "Benefit of New Training Method #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "The first three rounds of rapid action at the SuperUnited Rapid & Blitz Tournament in Croatia saw Maxime Vachier-Lagrave scoring two wins and one draw to become the early sole leader in Zagreb. MVL defeated Levon Aronian and Ivan Saric in the first two rounds before holding a draw in a pawn-down endgame against Wesley So. Tied for second place at a 1-point distance (wins are worth 2 points in the rapid) are So and Fabiano Caruana. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-1",
-         "pubDate" : "Thu, 11 Jul 2024 01:00:00",
-         "title" : "SuperUnited Croatia: Vachier-Lagrave leads, Vidit struggles"
       },
       {
          "description" : "Gukesh only managed two draws from his opening three games, while Vidit lost all three as the Indian pair were bottom of the standings after Day 1.",
@@ -776,14 +776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3097",
          "pubDate" : "Mon, 01 Jul 2024 09:07:19",
          "title" : "Polish chess players shine at 2024 FISU Championship Mind Sports"
-      },
-      {
-         "description" : "The $2.5 million 2024 FIDE World Championship between reigning World Champion Ding Liren and his challenger GM Gukesh Dommaraju will take place in Singapore between November 20 and December 15. FIDE announced on Monday that the southeast Asian cit...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/singapore-venue-ding-gukesh-world-championship",
-         "pubDate" : "Mon, 01 Jul 2024 05:56:00",
-         "title" : "Singapore Chosen For Ding vs. Gukesh FIDE World Championship"
       },
       {
          "description" : "The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship concluded yesterday in Andorra la Vella. The events were played from 22-30 June as 10-player round-robin tournaments with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino.&#160; GM Igor Efimov (MNC, 2312) emerged as the sole winner of the Open Championship scoring 8/9 points. Igor Efimov finished the event without a single loss, []",
