@@ -66,14 +66,6 @@ news_feed (
          "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 1 | #GrandChessTour"
       },
       {
-         "description" : "For a chess player, chess pieces are like special tools in a toolbox. We need to know how best to use them, just as a craftsman knows his tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't write off the king as a vulnerable creature in need of constant care and protection. Because in this video course, kings will play a different role: a role of strong and active pieces.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-markos-middlegame-secrets-vol-5-the-inner-strength-of-kings",
-         "pubDate" : "Wed, 10 Jul 2024 21:00:00",
-         "title" : "Jan Markos: Middlegame Secrets Vol.5 - The Inner Strength of Kings"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich after defeating Gujrathi in Rapid Round 2 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-play-aggressively-play-faster-rapid-2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IpSlyQRjUV0.jpg?itok=DMadqsMr\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -104,14 +96,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-1",
          "pubDate" : "Wed, 10 Jul 2024 14:14:00",
          "title" : "Vachier-Lagrave Sole Leader After Day 1 Of Croatia Grand Chess Tour"
-      },
-      {
-         "description" : "The 57th edition of Biel Chess Festival begins this Saturday and will once again attract chess enthusiasts from all over the world to the watchmaking metropolis. There will now be two invitational tournaments for the elite: the GMT-Masters and the GMT-Challengers, which will each be contested by six players. The field of participants will be led by the world number 8, Praggnanandhaa from India. There is also a whole range of tournaments on the programme for amateurs, including a new one-week tournament in the morning and the physicians' tournament. Registrations for the open tournaments are still possible at short notice.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/two-grandmaster-tournaments-in-biel-at-once",
-         "pubDate" : "Wed, 10 Jul 2024 12:41:16",
-         "title" : "Two grandmaster tournaments in Biel at once"
       },
       {
          "description" : "Chess.com is excited to announce the winners of the 2023 Create Your Own Course contest, authors IceBreaker and Benedictine! Their courses, Killer Kings: The King as a Fighting Piece in Chess and Advanced Chess Patterns, are now available on Chess...",
@@ -186,14 +170,6 @@ news_feed (
          "title" : "Final Call for the World Guinness Records Attempt!"
       },
       {
-         "description" : "One thing was certain: when Boris Spassky sat down at the chessboard, something extraordinary happened. The 17th edition of the ChessBase Master Class series presents a detailed portrait of the tenth World Champion. The interactive features of the e-book offer the opportunity to actively relive important phases of his unique career ...",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/master-class-17-boris-the-greatest",
-         "pubDate" : "Tue, 09 Jul 2024 17:00:00",
-         "title" : "Master Class 17: Boris the Greatest"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -208,14 +184,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/23000-join-bodhana-at-chessfest/",
          "pubDate" : "Tue, 09 Jul 2024 10:55:05",
          "title" : "23,000 join Bodhana at ChessFest!"
-      },
-      {
-         "description" : "This is a comprehensive course that arms the club or tournament player with fresh ideas which can be used in their own practice. The nine volumes, individually bought, would normally cost you €299.10. But as a special Summer Special this week, we offer you the package for just €199.90. Don't miss the opportunity to let the Dutch-Bosnian grandmaster and world-class chess trainer help you enhance your overall chess understanding.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ivan-sokolov-understanding-middlegame-strategies-vol-1-9",
-         "pubDate" : "Tue, 09 Jul 2024 10:00:00",
-         "title" : "Ivan Sokolov: Understanding Middlegame Strategies Vol. 1-9"
       },
       {
          "description" : "The US Chess Federation is pleased to announce the 2024 Annual Award recipients. Congratulations to all of these individuals and organizations who are advancing our mission to \"empower people, enrich lives, and enhance communities through chess.\"<br /><br /> US Chess Awards Recipients from previous years can be viewed here: 2023 | 2022 | 2021 | 2020<br /><br /> <br /><br /><br /> \t\t\tNamed Awards<br /><br /> \t\t\tDan Heisman Award for Excellence in Chess Instruction<br /><br /> \t\t\tKoltanowski Awards<br /><br /> \t\t\tFrank J. Marshall Award<br /><br /><br /> \t\t\tOrganizer Awards<br /><br /> \t\t\tChess City of the Year<br /><br /> \t\t\tChess Club of the Year<br /><br /> \t\t\tChess College of the Year<br /",
@@ -1128,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3077",
          "pubDate" : "Thu, 20 Jun 2024 14:30:59",
          "title" : "FIDE World Youth Championships 2024: Registration is open"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3076",
-         "pubDate" : "Thu, 20 Jun 2024 07:21:56",
-         "title" : "Making History: Countdown to Guinness World Records � attempt begins!"
       }
    ]
 }
