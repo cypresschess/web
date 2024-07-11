@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "We all love the dragon for it's attacking play against the king on the queen-side. But how can one attack the king on the king-side? Chris Ward has not only an answer to that, but actually dives deep into the the psychology of king-side attacking, and how to actually get an advantage on the queen-side instead. Furthermore, the example game shows nicely how a material imbalance harmonizes against White. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-hungarian-dragon-attacking-the-king-side",
+         "pubDate" : "Thu, 11 Jul 2024 11:00:00",
+         "title" : "The Monthly Dragon - Hungarian Dragon attacking the king-side?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3110",
+         "pubDate" : "Thu, 11 Jul 2024 08:32:30",
+         "title" : "SuperUnited Rapid & Blitz Croatia: Vachier-Lagrave takes sole lead"
+      },
+      {
+         "description" : "Sigrun &#38;Oslash;en (1963-2024), a chemical engineer and the mother of 16th World Chess Champion Magnus Carlsen, passed away in Oslo on Tuesday at the age of just 61. She died peacefully with her family around her after suffering a long illness. S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/sigrun-oen-mother-of-magnus-carlsen-passes-away-at-61",
+         "pubDate" : "Thu, 11 Jul 2024 03:10:00",
+         "title" : "Sigrun Øen, Mother Of Magnus Carlsen, Passes Away At 61"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Var Akobian reaches the commentators to suggest the move Qb5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/var-akobian-says-qb5-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/atsqk-s6Mb4.jpg?itok=iNM3qPXn\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -744,14 +768,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-leon-masters-final",
          "pubDate" : "Sun, 30 Jun 2024 16:03:00",
          "title" : "Vishy Anand Wins 10th Leon Masters Title"
-      },
-      {
-         "description" : "Another round with five draws at the Superbet Chess Classic Romania saw several missed chances. GM Praggnanandhaa Rameshbabu was completely winning for one move but failed to spot the required queen sortie against GM Wesley So. Another hard-to-fin...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-5",
-         "pubDate" : "Sun, 30 Jun 2024 13:00:00",
-         "title" : "Missed Chances Mark Another Day Of Draws In Bucharest"
       },
       {
          "description" : "The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship concluded yesterday in Andorra la Vella. The events were played from 22-30 June as 10-player round-robin tournaments with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino.&#160; GM Igor Efimov (MNC, 2312) emerged as the sole winner of the Open Championship scoring 8/9 points. Igor Efimov finished the event without a single loss, []",
