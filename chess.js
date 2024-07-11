@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "We all love the dragon for it's attacking play against the king on the queen-side. But how can one attack the king on the king-side? Chris Ward has not only an answer to that, but actually dives deep into the the psychology of king-side attacking, and how to actually get an advantage on the queen-side instead. Furthermore, the example game shows nicely how a material imbalance harmonizes against White. | Photo: John Upham",
+         "description" : "It was announced today that Magnus Carlsen's mother, Sigrun Øen, died on Monday after a long illness surrounded by her family. Sigrun Øen was a chemist, but gave up her profession after the birth of her children, and accompanied her son Magnus Carlsen together with her husband and daughters to numerous chess tournaments. Sigrun Øen was 61 years old.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-hungarian-dragon-attacking-the-king-side",
-         "pubDate" : "Thu, 11 Jul 2024 11:00:00",
-         "title" : "The Monthly Dragon - Hungarian Dragon attacking the king-side?"
+         "link" : "https://en.chessbase.com/post/sigrun-en-1963-2024",
+         "pubDate" : "Thu, 11 Jul 2024 16:15:00",
+         "title" : "Sigrun Øen (1963-2024)"
+      },
+      {
+         "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
+         "pubDate" : "Thu, 11 Jul 2024 14:50:00",
+         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Game between Giri and Gukesh break last year&#039;s record by 1 move </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/116-moves-its-record-grandchesstour-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YAzVIfpQyXs.jpg?itok=BXwOBgMV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/116-moves-its-record-grandchesstour-chess-chesscom",
+         "pubDate" : "Thu, 11 Jul 2024 14:38:46",
+         "title" : "116 Moves!!! It's A Record #GrandChessTour #chess #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the final three rounds of the rapid round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superunited-rapid-blitz-croatia-2024-day-3-grandchesstour",
+         "pubDate" : "Thu, 11 Jul 2024 14:38:46",
+         "title" : "SuperUnited Rapid & Blitz Croatia 2024: Day 3 | #GrandChessTour"
       },
       {
          "description" : "",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3110",
          "pubDate" : "Thu, 11 Jul 2024 08:32:30",
          "title" : "SuperUnited Rapid & Blitz Croatia: Vachier-Lagrave takes sole lead"
+      },
+      {
+         "description" : "Chess.com is excited to announce the 2024 CrunchLabs Masters, the next leg of The Champions Chess Tour (CCT). Running from July 17 to July 24, this highly anticipated event, in partnership with CrunchLabs, will feature the world&#39;s top chess player...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-2024-crunchlabs-masters-champions-chess-tour",
+         "pubDate" : "Thu, 11 Jul 2024 07:03:43",
+         "title" : "Announcing The 2024 CrunchLabs Masters, Champions Chess Tour's Third Event"
       },
       {
          "description" : "Sigrun &#38;Oslash;en (1963-2024), a chemical engineer and the mother of 16th World Chess Champion Magnus Carlsen, passed away in Oslo on Tuesday at the age of just 61. She died peacefully with her family around her after suffering a long illness. S...",
@@ -82,6 +114,14 @@ news_feed (
          "title" : "SuperUnited Croatia: Vachier-Lagrave leads, Vidit struggles"
       },
       {
+         "description" : "Gukesh only managed two draws from his opening three games, while Vidit lost all three as the Indian pair were bottom of the standings after Day 1.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40537821/superunited-rapid-blitz-2024-d-gukesh-vidit-gujrathi-struggle-poor-start-croatia-day-1?device=featurephone",
+         "pubDate" : "Thu, 11 Jul 2024 00:01:41",
+         "title" : "SuperUnited Rapid & Blitz: Gukesh and Vidit struggle with poor start in Croatia on Day 1"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 1 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superunited-rapid-blitz-croatia-2024-day-1-gra",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -96,22 +136,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/aronian-play-aggressively-play-faster-rapid-2-superunitedrapidblitzcroatia",
          "pubDate" : "Wed, 10 Jul 2024 20:38:06",
          "title" : "Aronian: Play Aggressively, Play Faster | Rapid 2 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ivan Saric talks to Cristian Chirila after defeating Gujrathi in Rapid Round 3 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/saric-no-secret-recipe-time-management-rapid-3-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3rJ4rsyqANY.jpg?itok=c4-ZAoCp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/saric-no-secret-recipe-time-management-rapid-3-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 10 Jul 2024 20:38:06",
-         "title" : "Saric: No Secret Recipe to Time Management | Rapid 3 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after a draw against Nepomniachtchi in Rapid Round 3 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-back-50-feeling-good-rapid-3-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nQe2buOaDn8.jpg?itok=2s74QFpw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-back-50-feeling-good-rapid-3-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 10 Jul 2024 20:38:06",
-         "title" : "Aronian: Back to 50%, Feeling Good | Rapid 3 #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave came into the 2024 SuperUnited Croatia Rapid &#38;amp; Blitz after drawing all nine games in Bucharest, but in Zagreb, Croatia he began by winning a wild game against the player who was replacing GM Magnus Carlsen, GM Levon A...",
@@ -154,7 +178,7 @@ news_feed (
          "title" : "15-year-old Follows In Footsteps Of Carlsen, Agdestein To Win Norwegian Title"
       },
       {
-         "description" : "This week's workout continues our coverage of the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. Our coverage of the match portion can be seen here, and future workouts will cover those games, as well.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's workout continues our coverage of the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. Our coverage of the match portion can be seen here, and future workouts will cover those games, as well.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-juniors-pt-2",
@@ -762,14 +786,6 @@ news_feed (
          "title" : "Singapore Chosen For Ding vs. Gukesh FIDE World Championship"
       },
       {
-         "description" : "Indian chess legend Viswanathan Anand has won his 10th Leon Masters title after defeating GM Jaime Santos 3-1 in the final match. The 54-year-old Anand took over to win the last two games after a shaky start and has now won the event in northwest ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-leon-masters-final",
-         "pubDate" : "Sun, 30 Jun 2024 16:03:00",
-         "title" : "Vishy Anand Wins 10th Leon Masters Title"
-      },
-      {
          "description" : "The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship concluded yesterday in Andorra la Vella. The events were played from 22-30 June as 10-player round-robin tournaments with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino.&#160; GM Igor Efimov (MNC, 2312) emerged as the sole winner of the Open Championship scoring 8/9 points. Igor Efimov finished the event without a single loss, []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -856,14 +872,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-chess-classic-r-praggnanandhaa-d-gukesh-secure-draws-against-top-opponents-in-round-2/articleshow/111330727.cms",
          "pubDate" : "Fri, 28 Jun 2024 04:50:00",
          "title" : "Superbet Chess: Pragg, Gukesh secure draws in Round 2"
-      },
-      {
-         "description" : "Picture courtesy of John Upham / British Chess News. More tributes can be found here https://www.ecforum.org.uk/viewtopic.php?f=2&#38;t=14149 and a detailed look at Bernard's life...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/90-today-happy-birthday-bernard-cafferty/",
-         "pubDate" : "Thu, 27 Jun 2024 14:23:16",
-         "title" : "90 today! Happy Birthday Bernard Cafferty"
       },
       {
          "description" : "",
@@ -994,6 +1002,14 @@ news_feed (
          "title" : "Gawain Jones and Elmira Mirzoeva сrowned English Chess Champions"
       },
       {
+         "description" : "Congratulations to the 2024 English Champion Gawain Jones and 2024 English Women's Champion Elmira Mirzoeva, and well played Mickey Adams and Kata Toma, both finishing...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/tournament-report-and-results-english-chess-championships/",
+         "pubDate" : "Mon, 24 Jun 2024 09:23:23",
+         "title" : "Tournament Report and Results - English Chess Championships"
+      },
+      {
          "description" : "The 5th edition of the European Small Nations Individual Chess Championship and the 2nd edition of the European Small Nations Women's Chess Championship have started in Andorra la Vella. The events are supported by European Chess Union. The events are simultaneously taking place from 22nd-30th June. Both Championships are played as a 10-player round-robin tournaments, with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino. The time control of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1096,22 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3078",
          "pubDate" : "Thu, 20 Jun 2024 16:00:23",
          "title" : "Chess for Freedom Conference continues in Pune, India"
-      },
-      {
-         "description" : " In the aftermath of the &#8220;Battle of the Ages&#8221; match between Nigerians Tunde Onakoya and rising star Deborah Quickpen, we are possibly witnessing the beginning of a new era in African chess. While many are raving about the top-level prodigies from around the world (specifically Asia), Africa has yet to see a bright star with The post <a href=\"https://www.thechessdrum.net/blog/2024/06/20/the-rise-of-deborah-quickpen/\">The Rise of Deborah Quickpen</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/06/20/the-rise-of-deborah-quickpen/",
-         "pubDate" : "Thu, 20 Jun 2024 15:09:04",
-         "title" : "The Rise of Deborah Quickpen"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3077",
-         "pubDate" : "Thu, 20 Jun 2024 14:30:59",
-         "title" : "FIDE World Youth Championships 2024: Registration is open"
       }
    ]
 }
