@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Var Akobian reaches the commentators to suggest the move Qb5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/var-akobian-says-qb5-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/atsqk-s6Mb4.jpg?itok=iNM3qPXn\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/var-akobian-says-qb5-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
+         "title" : "Var Akobian Says Qb5 #GrandChessTour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> After some superb tactical maneuvering, Fabi&#039;s hidden bishop on a7 made its way to c3 with a b4 anchor </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-hidden-bishop-finds-anchor-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JX8hrB-1HQY.jpg?itok=Xj2P9NgK\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruanas-hidden-bishop-finds-anchor-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
+         "title" : "Caruana's Hidden Bishop Finds An Anchor #GrandChessTour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Up a piece and open the file for the rook, MVL finds the beautiful queen sacrifice </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-ultimate-sacrifice-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GgU_vW3o2GM.jpg?itok=2cbQodBo\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-ultimate-sacrifice-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
+         "title" : "MVL: The Ultimate Sacrifice #GrandChessTour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> After analyzing a position in the round between Aronian and MVL, Miro sees the benefits of the new training method </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/benefit-new-training-method-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HDhLSRwGuE0.jpg?itok=kVuOeJJe\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/benefit-new-training-method-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
+         "title" : "Benefit of New Training Method #GrandChessTour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Miro explains what happens after f4 is played </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/miro-i-have-trust-computer-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dvjG4Fwjw88.jpg?itok=HfbjNxjp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/miro-i-have-trust-computer-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
+         "title" : "Miro: I Have To Trust The Computer #GrandChessTour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Cristian gives a brief overview of a conversation he had with Aronian about his new method </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/and-coming-player-gm-levon-aronian-grandchesstour-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YbOPviK0d3E.jpg?itok=2xFJYe1w\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/and-coming-player-gm-levon-aronian-grandchesstour-chess-chesscom",
+         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
+         "title" : "Up and Coming Player, GM Levon Aronian #GrandChessTour #chess #chesscom"
+      },
+      {
          "description" : "The first three rounds of rapid action at the SuperUnited Rapid & Blitz Tournament in Croatia saw Maxime Vachier-Lagrave scoring two wins and one draw to become the early sole leader in Zagreb. MVL defeated Levon Aronian and Ivan Saric in the first two rounds before holding a draw in a pawn-down endgame against Wesley So. Tied for second place at a 1-point distance (wins are worth 2 points in the rapid) are So and Fabiano Caruana. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superunited-croatia-2024-1",
          "pubDate" : "Thu, 11 Jul 2024 01:00:00",
          "title" : "SuperUnited Croatia: Vachier-Lagrave leads, Vidit struggles"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 1 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superunited-rapid-blitz-croatia-2024-day-1-gra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superunited-rapid-blitz-croatia-2024-day-1-grandchesstour",
+         "pubDate" : "Wed, 10 Jul 2024 23:38:12",
+         "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 1 | #GrandChessTour"
       },
       {
          "description" : "For a chess player, chess pieces are like special tools in a toolbox. We need to know how best to use them, just as a craftsman knows his tools. We shouldn't use a screwdriver to hammer in a nail; and we shouldn't write off the king as a vulnerable creature in need of constant care and protection. Because in this video course, kings will play a different role: a role of strong and active pieces.",
@@ -40,38 +96,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/aronian-back-50-feeling-good-rapid-3-superunitedrapidblitzcroatia",
          "pubDate" : "Wed, 10 Jul 2024 20:38:06",
          "title" : "Aronian: Back to 50%, Feeling Good | Rapid 3 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Join Anastasiya Karlovich at the opening ceremony and drawing of lots at The Westin Zagreb for the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired during Day 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-opening-ceremony-proud-gct-zagreb-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-2wOuopOORI.jpg?itok=Jv2vvkeb\" alt=\"\" /></a></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-opening-ceremony-proud-gct-zagreb-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 10 Jul 2024 17:38:01",
-         "title" : "Kasparov at Opening Ceremony: Proud of GCT in Zagreb! | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the middle three rounds of the rapid round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-typ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superunited-rapid-blitz-croatia-2024-day-2-grandchesstour",
-         "pubDate" : "Wed, 10 Jul 2024 17:38:01",
-         "title" : "SuperUnited Rapid & Blitz Croatia 2024: Day 2 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after defeating Aronian in Rapid Round 1 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-two-pawns-when-dust-cleared-rapid-1-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/w8wkkc2CLYg.jpg?itok=Jy7ushvE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-two-pawns-when-dust-cleared-rapid-1-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 10 Jul 2024 17:38:01",
-         "title" : "MVL: Two Pawns Up When the Dust Cleared | Rapid 1 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team profiles Caruana, Nepomniachtchi, Firouzja, Wesley So, Aronian, Vachier-Lagrave, Giri, Gujrathi, Gukesh, and Saric of the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired during Day 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/meet-2024-players-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/NLuJoqKb8vQ.jpg?itok=3fh4d1Es\" alt=\"\" /",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/meet-2024-players-superunitedrapidblitzcroatia",
-         "pubDate" : "Wed, 10 Jul 2024 17:38:01",
-         "title" : "Meet The 2024 Players! | #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave came into the 2024 SuperUnited Croatia Rapid &#38;amp; Blitz after drawing all nine games in Bucharest, but in Zagreb, Croatia he began by winning a wild game against the player who was replacing GM Magnus Carlsen, GM Levon A...",
@@ -258,14 +282,6 @@ news_feed (
          "title" : "British Chess Championships Social Programme"
       },
       {
-         "description" : "<div class=\"body text-secondary\"><p style=\"text-align: center; font-size: 20px;\"><em>U.S. Grandmaster Wins Second Leg of the Grand Chess Tour; Takes Home $68,750 Prize</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/Superbet%202024%20GM%20Fabiano%20Caruana.jpg?itok=DvXCctTw\" alt=\"2024 Superbet - GM Fabiano Caruana\" /></div><div class=\"field field-name-field-category field-type-entityreference field-label-hid",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/news/GM-Fabiano-Caruana-Wins-2024-Superbet-Chess-Classic-Romania",
-         "pubDate" : "Mon, 08 Jul 2024 02:15:21",
-         "title" : "Defending Champion Grandmaster Fabiano Caruana Wins 2024 Superbet Chess Classic Romania"
-      },
-      {
          "description" : "The first-ever FIDE World Cup for juniors took place from June 22 through July 3 in Batumi, Georgia, with Under-12, Under-10, and Under-8 open sections and corresponding sections for girls. 20 Americans competed across the six sections, comprising just over a tenth of the 198 overall participants.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Some of the 20 Americans competing in the FIDE World Cup for juniors (Photo US Chess)<br /><br /><br /> <br /><br /> In the end, three Americans took second-place finishes on the podium: Stella Xin (Under-8 girls), Aiden Li (Under-8), and Chenxuan Ling (",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -304,22 +320,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/",
          "pubDate" : "Sun, 07 Jul 2024 20:47:14",
          "title" : "St. Louis Chess Club upgrading!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> After the resignation and then the draw...Gukesh, Alireza, and Pragg gives Fabi the opportunity to reign again as the winner of the Superbet Chess Classic in Bucharest </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/playoff-fabi-gets-second-chance-grandchesstour-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ec9fPR5mVTk.jpg?itok=lmeT3d-b\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/playoff-fabi-gets-second-chance-grandchesstour-chess-chesscom",
-         "pubDate" : "Sun, 07 Jul 2024 20:35:45",
-         "title" : "THE PLAYOFF: Fabi Gets A Second Chance #GrandChessTour #chess #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> If you missed it, here is what happened on the the second leg of the Grand Chess Tour. Fabiano Caruana repeats as Superbet Chess Classic champion! This didn't air during the program. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-look-back-superbet-chess-classic-2024-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ixQ-ZFKwaoQ.jpg?itok=uXWmUMaI\" alt=\"\" />",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-look-back-superbet-chess-classic-2024-grandchesstour",
-         "pubDate" : "Sun, 07 Jul 2024 20:35:45",
-         "title" : "EXCLUSIVE: A Look Back at the Superbet Chess Classic 2024 | #GrandChessTour"
       },
       {
          "description" : "13-year-old GM-elect Yagiz Erdogmus has added the Under 16 ChessKid Youth Championship 2024 title to the Under 13 title he won a week ago. The Turkish prodigy overcame fellow GM-elect Ivan Zemlyanskii 3-1 in the Final after Zemlyanskii had upset G...",
