@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Over-65s triumph, and over-50s take bronze behind USA, while England women also finish third in Krakow John Nunn, the world over-65 champion, led England's over-65 team to gold medals on Thursday at the world senior team championships in Krakow. His colleagues Tony Kosten, Jonathan Mestel and Terry Chapman all won individual medals, while Paul Littlewood won a team gold. England over-50s again finished behind the United States, while ­England over-50 women narrowly missed their third successive gold as both 50+ squads had to settle for third. <a href=\"https://www.theguardian.com/sport/article/2024/jul/12/chess-nunn-leads-england-over-65s-to-gold-at-world-senior-championships\">Continue readi",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/jul/12/chess-nunn-leads-england-over-65s-to-gold-at-world-senior-championships",
+         "pubDate" : "Fri, 12 Jul 2024 07:00:45",
+         "title" : "Chess: Nunn leads England over-65s to gold at world senior championships"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Vidit and Gukesh set a World Record for position repetition </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-rules-draw-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PA_DE_8o_j4.jpg?itok=sbps6-Dw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-rules-draw-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Fri, 12 Jul 2024 05:39:07",
+         "title" : "Chess Rules: Is This A Draw! #GrandChessTour #chess #chessendgame #chesscom"
+      },
+      {
          "description" : "Fabiano Caruana emerged as sole leader after rounds 4-6 were played on Thursday at the SuperUnited Tournament in Croatia. Wesley So, who grabbed 1 win and 2 draws for a second consecutive day, stands in sole second place, while a resurgent Gukesh is now tied for third with Alireza Firouzja and Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/116-moves-its-record-grandchesstour-chess-chesscom",
          "pubDate" : "Thu, 11 Jul 2024 14:38:46",
          "title" : "116 Moves!!! It's A Record #GrandChessTour #chess #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today are the final three rounds of the rapid round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superunited-rapid-blitz-croatia-2024-day-3-grandchesstour",
-         "pubDate" : "Thu, 11 Jul 2024 14:38:46",
-         "title" : "SuperUnited Rapid & Blitz Croatia 2024: Day 3 | #GrandChessTour"
       },
       {
          "description" : "",
@@ -1080,14 +1088,6 @@ news_feed (
          "link" : "https://aicf.in/india-wins-eight-medals-at-asian-youth-chess-championships-2024/",
          "pubDate" : "Fri, 21 Jun 2024 07:47:41",
          "title" : "Final Report :Asian Youth Chess Championships 2024"
-      },
-      {
-         "description" : " Entry is free, the prize fund is expected to be &pound;2,500, and the winner qualifies for the world solving championship This week's puzzle is a chance to enter an annual national contest in which Guardian readers traditionally perform strongly and in ­considerable numbers. White in the diagram, ­playing as usual up the board, is to play and checkmate in two moves, against any black defence. The puzzle is the first stage of the annual Winton British Solving Championship, organised by the British Chess Problem Society. This competition is open only to British residents, and entry is free. <a href=\"https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/jun/21/chess-national-solving-championship-2024-open-to-entries-from-britain",
-         "pubDate" : "Fri, 21 Jun 2024 07:00:09",
-         "title" : "Chess: national solving championship 2024 open to entries from Britain"
       }
    ]
 }
