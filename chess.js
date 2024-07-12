@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second season of the Global Chess League will be held at Friends House in London from 3 to 12 October 2024. The six \"franchises\" of the second edition of the tournament and the companies behind the teams were unveiled in a press release. | Photo: The Triveni Continental Kings, the winners of the Global Chess League 2023",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/global-chess-league-the-second-season",
+         "pubDate" : "Fri, 12 Jul 2024 10:00:00",
+         "title" : "Global Chess League: The Second Season"
+      },
+      {
+         "description" : "The Second edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2024 will be held at Indira Gandhi Indoor Stadium, Sarusojai, Guwahati, Assam Assam - ",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/2nd-national-schools-team-under-12-under-18-chess-championships-2024/",
+         "pubDate" : "Fri, 12 Jul 2024 09:39:16",
+         "title" : "2nd National Schools Team Under-12 & Under-18 Chess Championships-2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3112",
+         "pubDate" : "Fri, 12 Jul 2024 09:27:44",
+         "title" : "SuperUnited Rapid & Blitz Croatia: Caruana forges ahead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3111",
+         "pubDate" : "Fri, 12 Jul 2024 08:50:37",
+         "title" : "CAS announces its decision in the case of the Bulgarian Chess Federation 2022 vs FIDE"
+      },
+      {
+         "description" : "England had another successful seniors event at the World Senior Team Chess Championships in Krakow, Poland, which concluded today 11th July with the...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/england-win-world-seniors-team-chess-championship-65-title/",
+         "pubDate" : "Fri, 12 Jul 2024 07:40:02",
+         "title" : "England win World Seniors Team Chess Championship 65+ title!"
+      },
+      {
          "description" : " Over-65s triumph, and over-50s take bronze behind USA, while England women also finish third in Krakow John Nunn, the world over-65 champion, led England's over-65 team to gold medals on Thursday at the world senior team championships in Krakow. His colleagues Tony Kosten, Jonathan Mestel and Terry Chapman all won individual medals, while Paul Littlewood won a team gold. England over-50s again finished behind the United States, while ≠England over-50 women narrowly missed their third successive gold as both 50+ squads had to settle for third. <a href=\"https://www.theguardian.com/sport/article/2024/jul/12/chess-nunn-leads-england-over-65s-to-gold-at-world-senior-championships\">Continue readi",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -24,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superunited-croatia-2024-2",
          "pubDate" : "Fri, 12 Jul 2024 01:20:00",
          "title" : "SuperUnited Croatia: Caruana grabs the lead, Gukesh resurges"
+      },
+      {
+         "description" : "Gukesh top scored on day 2, along with Caruana, and is now just two points behind the latter.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40544649/gukesh-surges-third-day-2-superunited-rapid-blitz-2024-caruana-takes-sole-lead?device=featurephone",
+         "pubDate" : "Thu, 11 Jul 2024 23:52:48",
+         "title" : "Gukesh surges to third on day 2 of SuperUnited Rapid & Blitz 2024, Caruana takes sole lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fi",
@@ -218,7 +266,7 @@ news_feed (
          "title" : "ChessFest London record crowd"
       },
       {
-         "description" : " The Grand Chess Tour continues with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment citing urgent family matters. ",
+         "description" : " The Grand Chess Tour continues with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment and the sad news of the passing of his mother soon followed. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/gct-superunited-rapid-and-blitz-croatia-2024",
@@ -1002,14 +1050,6 @@ news_feed (
          "title" : "Gawain Jones and Elmira Mirzoeva —Årowned English Chess Champions"
       },
       {
-         "description" : "Congratulations to the 2024 English Champion Gawain Jones and 2024 English Women's Champion Elmira Mirzoeva, and well played Mickey Adams and Kata Toma, both finishing...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/tournament-report-and-results-english-chess-championships/",
-         "pubDate" : "Mon, 24 Jun 2024 09:23:23",
-         "title" : "Tournament Report and Results - English Chess Championships"
-      },
-      {
          "description" : "The 5th edition of the European Small Nations Individual Chess Championship and the 2nd edition of the European Small Nations Women's Chess Championship have started in Andorra la Vella. The events are supported by European Chess Union. The events are simultaneously taking place from 22nd-30th June. Both Championships are played as a 10-player round-robin tournaments, with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino. The time control of the []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -1080,14 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3079",
          "pubDate" : "Fri, 21 Jun 2024 12:00:21",
          "title" : "Ganzorig Amartuvshin and Turmunkh Munkhzul win Mongolian Championship"
-      },
-      {
-         "description" : "Sarbartho won the Gold in Blitz That's impressive! It seems like Indian chess players performed exceptionally well at the Asian Youth Blitz Chess Championship in",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-wins-eight-medals-at-asian-youth-chess-championships-2024/",
-         "pubDate" : "Fri, 21 Jun 2024 07:47:41",
-         "title" : "Final Report :Asian Youth Chess Championships 2024"
       }
    ]
 }
