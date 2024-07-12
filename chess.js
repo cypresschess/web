@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana emerged as sole leader after rounds 4-6 were played on Thursday at the SuperUnited Tournament in Croatia. Wesley So, who grabbed 1 win and 2 draws for a second consecutive day, stands in sole second place, while a resurgent Gukesh is now tied for third with Alireza Firouzja and Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-2",
+         "pubDate" : "Fri, 12 Jul 2024 01:20:00",
+         "title" : "SuperUnited Croatia: Caruana grabs the lead, Gukesh resurges"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Yasser Seirawan, Evgenij Miroshnichenko &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/superunited-rapid-blitz-croatia-2024-day-4-grandchesstour",
+         "pubDate" : "Thu, 11 Jul 2024 23:39:05",
+         "title" : "SuperUnited Rapid & Blitz Croatia 2024: Day 4 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 2 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superunited-rapid-blitz-croatia-2024-day-2-gra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superunited-rapid-blitz-croatia-2024-day-2-grandchesstour",
+         "pubDate" : "Thu, 11 Jul 2024 23:39:05",
+         "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 2 | #GrandChessTour"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Cristian Chirila after going 2-0-1 on the second rapid day of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-happy-be-tied-3rd-d2-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/q7UTlgs3YZs.jpg?itok=51aciQbl\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -58,14 +82,6 @@ news_feed (
          "title" : "Sigrun Øen (1963-2024)"
       },
       {
-         "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
-         "pubDate" : "Thu, 11 Jul 2024 14:50:00",
-         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
-      },
-      {
          "description" : "GM Fabiano Caruana beat GMs Levon Aronian and Ivan Saric and escaped against GM Wesley So to climb into sole first place after day two of the&#38;nbsp;2024 SuperUnited Rapid &#38;amp; Blitz Croatia. The previous leader, GM Maxime Vachier-Lagrave, blundere...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -112,22 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/sigrun-oen-mother-of-magnus-carlsen-passes-away-at-61",
          "pubDate" : "Thu, 11 Jul 2024 03:10:00",
          "title" : "Sigrun Øen, Mother Of Magnus Carlsen, Passes Away At 61"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Var Akobian reaches the commentators to suggest the move Qb5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/var-akobian-says-qb5-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/atsqk-s6Mb4.jpg?itok=iNM3qPXn\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/var-akobian-says-qb5-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
-         "title" : "Var Akobian Says Qb5 #GrandChessTour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> After some superb tactical maneuvering, Fabi&#039;s hidden bishop on a7 made its way to c3 with a b4 anchor </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruanas-hidden-bishop-finds-anchor-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JX8hrB-1HQY.jpg?itok=Xj2P9NgK\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruanas-hidden-bishop-finds-anchor-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Thu, 11 Jul 2024 02:38:21",
-         "title" : "Caruana's Hidden Bishop Finds An Anchor #GrandChessTour #chess #chesstactics #chesscom"
       },
       {
          "description" : "Gukesh only managed two draws from his opening three games, while Vidit lost all three as the Indian pair were bottom of the standings after Day 1.",
