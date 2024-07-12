@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana continues to impress at the SuperUnited Tournament in Croatia. The US star entered the third day of action as the sole leader and scored three consecutive wins to win the rapid section and go into the final two days of blitz with a 3-point lead over Wesley So. The remaining US representative, Levon Aronian, stands in sole third place. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-3",
+         "pubDate" : "Sat, 13 Jul 2024 01:00:00",
+         "title" : "SuperUnited Croatia: Caruana goes into blitz section with 3-point lead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National titles are on the line as young phenoms and established legends convene in the Chess Capital of America, Saint Louis,. Mo. for the 2024 U.S. Senior, U.S. Junior, &amp; U.S. Girls' Junior Championships. Beginning July 16, 30 players across three fields will compete for over a $130,000 prize fund! Champions Melik Khachiyan and Alice Lee return, while Christopher Yoo attempts to reclaim his title after missing the Juniors last year. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wr",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,12 +18,12 @@ news_feed (
          "title" : "2024 U.S. Senior & U.S. Junior Championships | PROMO"
       },
       {
-         "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
-         "pubDate" : "Fri, 12 Jul 2024 14:50:00",
-         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+         "description" : "GM Fabiano Caruana has climbed to world number-two on the rapid live rating list after beating GMs Gukesh Dommaraju, Anish Giri, and Maxime Vachier-Lagrave to end the rapid section of the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia on a towering 15...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-3",
+         "pubDate" : "Fri, 12 Jul 2024 14:58:08",
+         "title" : "Caruana Storms To Victory In Croatian Rapid, Takes 3-Point Lead Into Blitz"
       },
       {
          "description" : "The FIDE World Senior Team Chess Championships concluded on July 11 in Krakow, Poland with the U.S. finishing at the top of the 50+ section and England claiming the 65+ tournament. In total, 65 teams and 307 players, including 32 grandmasters, par...",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-world-senior-team-chess-championships-usa-england-win",
          "pubDate" : "Fri, 12 Jul 2024 11:07:00",
          "title" : "U.S. Wins World Senior Team Championship 50+, England Takes Gold In 65+"
-      },
-      {
-         "description" : "The second season of the Global Chess League will be held at Friends House in London from 3 to 12 October 2024. The six \"franchises\" of the second edition of the tournament and the companies behind the teams were unveiled in a press release. | Photo: The Triveni Continental Kings, the winners of the Global Chess League 2023",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/global-chess-league-the-second-season",
-         "pubDate" : "Fri, 12 Jul 2024 10:00:00",
-         "title" : "Global Chess League: The Second Season"
       },
       {
          "description" : "The Second edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2024 will be held at Indira Gandhi Indoor Stadium, Sarusojai, Guwahati, Assam Assam - ",
@@ -82,12 +82,12 @@ news_feed (
          "title" : "Chess Rules: Is This A Draw! #GrandChessTour #chess #chessendgame #chesscom"
       },
       {
-         "description" : "Fabiano Caruana emerged as sole leader after rounds 4-6 were played on Thursday at the SuperUnited Tournament in Croatia. Wesley So, who grabbed 1 win and 2 draws for a second consecutive day, stands in sole second place, while a resurgent Gukesh is now tied for third with Alireza Firouzja and Maxime Vachier-Lagrave. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-2",
-         "pubDate" : "Fri, 12 Jul 2024 01:20:00",
-         "title" : "SuperUnited Croatia: Caruana grabs the lead, Gukesh resurges"
+         "description" : "The 2024 FIDE World Senior Team Championship took place from July 2 through 11 in Krakow, Poland, with 65 teams competing across the 50+ and 65+ sections. <br /><br /> All in all, Team USA took home the gold in the 50+ section, with Team USA Women earning the silver medal for women's teams in the 50+ and the bronze in the 65+ section. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Team USA does it again! (Photo courtesy Mark Livshitz/FIDE)<br /><br /><br /> <br /><br /> In the 50+ section, the 2023 champions returned with four of last year's five gold medalists (with GM Melikset Khachiyan ste",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/three-medals-team-usa-2024-fide-world-senior-team-championships",
+         "pubDate" : "Fri, 12 Jul 2024 00:00:00",
+         "title" : "Three Medals for Team USA at 2024 FIDE World Senior Team Championships"
       },
       {
          "description" : "Gukesh top scored on day 2, along with Caruana, and is now just two points behind the latter.",
@@ -160,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/managing-time-fast-chess-game-superunitedrapidblitzcroatia",
          "pubDate" : "Thu, 11 Jul 2024 17:38:51",
          "title" : "Managing Time in a Fast Chess Game? | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "It was announced today that Magnus Carlsen's mother, Sigrun Øen, died on Monday after a long illness surrounded by her family. Sigrun Øen was a chemist, but gave up her profession after the birth of her children, and accompanied her son Magnus Carlsen together with her husband and daughters to numerous chess tournaments. Sigrun Øen was 61 years old.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sigrun-en-1963-2024",
-         "pubDate" : "Thu, 11 Jul 2024 16:15:00",
-         "title" : "Sigrun Øen (1963-2024)"
       },
       {
          "description" : "GM Fabiano Caruana beat GMs Levon Aronian and Ivan Saric and escaped against GM Wesley So to climb into sole first place after day two of the&#38;nbsp;2024 SuperUnited Rapid &#38;amp; Blitz Croatia. The previous leader, GM Maxime Vachier-Lagrave, blundere...",
@@ -738,28 +730,12 @@ news_feed (
          "title" : "9-Year-Old Ethan Pang Breaks Faustino Oro's Record To Become Youngest Ever 2200-Player"
       },
       {
-         "description" : "The Collegiate Chess League is excited to announce our third annual summer season, proudly presented by Susquehanna, one of the world&#38;rsquo;s leading quantitative trading firms. The 2024 summer season will bring back both the bullet and Bughouse...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-2024-summer-season",
-         "pubDate" : "Tue, 02 Jul 2024 08:20:44",
-         "title" : "Collegiate Chess League 2024 Summer Season"
-      },
-      {
          "description" : "Note: These scholarships are funded and administered outside of US Chess by the private organization Kids for Chess. <br /><br /> Kids for Chess, a nonprofit organization committed to supporting America's best youth chess players, is thrilled to announce the five winners of its scholarships for the 2024 World Youth and World Cadets Championships. <br /><br /> After a rigorous selection process, the scholarships, each valued at $1,500, have been awarded to Aayansh Guntaka, Laurie Qiu, Megan Paragua, Michael Li, and Sasha Schaefer. The scholarships aim to assist the winners with the costs associated with participating in the World Youth and World Cadets Chess Championships this year.<br /><br ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/kids-chess-announces-2024-scholarship-winners",
          "pubDate" : "Tue, 02 Jul 2024 00:00:00",
          "title" : "Kids for Chess Announces 2024 Scholarship Winners"
-      },
-      {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Share your Story<br /><br /> The US Chess Federation wants to hear your story. With 85 years of organizational history, there are so many stories to tell! And we need your help. The US Chess Oral History Project is a chance to collect the stories of your chess life in your own words. These stories will be preserved in a beautiful book and in a digital archive that celebrates US Chess' impact on your life and the person you are today. As of June 24, over 4,000 people have already shared their oral histories with us!<br /><br /> You may receive an email, postcard and phone call from a company calle",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-oral-history-project",
-         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
-         "title" : "US Chess Oral History Project"
       },
       {
          "description" : "",
