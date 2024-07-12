@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
+         "pubDate" : "Fri, 12 Jul 2024 14:50:00",
+         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
          "description" : "The second season of the Global Chess League will be held at Friends House in London from 3 to 12 October 2024. The six \"franchises\" of the second edition of the tournament and the companies behind the teams were unveiled in a press release. | Photo: The Triveni Continental Kings, the winners of the Global Chess League 2023",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1112,14 +1120,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-examination-at-guwahati-on-21-22-june-2024/",
          "pubDate" : "Fri, 21 Jun 2024 16:19:40",
          "title" : "SNA Seminar & Examination at Guwahati on 21-22 June 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3079",
-         "pubDate" : "Fri, 21 Jun 2024 12:00:21",
-         "title" : "Ganzorig Amartuvshin and Turmunkh Munkhzul win Mongolian Championship"
       }
    ]
 }
