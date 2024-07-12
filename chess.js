@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National titles are on the line as young phenoms and established legends convene in the Chess Capital of America, Saint Louis,. Mo. for the 2024 U.S. Senior, U.S. Junior, &amp; U.S. Girls' Junior Championships. Beginning July 16, 30 players across three fields will compete for over a $130,000 prize fund! Champions Melik Khachiyan and Alice Lee return, while Christopher Yoo attempts to reclaim his title after missing the Juniors last year. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wr",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-senior-us-junior-championships-promo",
+         "pubDate" : "Fri, 12 Jul 2024 17:39:22",
+         "title" : "2024 U.S. Senior & U.S. Junior Championships | PROMO"
+      },
+      {
          "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
          "pubDate" : "Fri, 12 Jul 2024 14:50:00",
          "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : "The FIDE World Senior Team Chess Championships concluded on July 11 in Krakow, Poland with the U.S. finishing at the top of the 50+ section and England claiming the 65+ tournament. In total, 65 teams and 307 players, including 32 grandmasters, par...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-world-senior-team-chess-championships-usa-england-win",
+         "pubDate" : "Fri, 12 Jul 2024 11:07:00",
+         "title" : "U.S. Wins World Senior Team Championship 50+, England Takes Gold In 65+"
       },
       {
          "description" : "The second season of the Global Chess League will be held at Friends House in London from 3 to 12 October 2024. The six \"franchises\" of the second edition of the tournament and the companies behind the teams were unveiled in a press release. | Photo: The Triveni Continental Kings, the winners of the Global Chess League 2023",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-2",
          "pubDate" : "Thu, 11 Jul 2024 14:44:00",
          "title" : "Caruana Leads In Zagreb As Gukesh Climbs Into Contention"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Game between Giri and Gukesh break last year&#039;s record by 1 move Photographs by: Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/116-moves-its-record-grandchesstour-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YAzVIfpQyXs.jpg?itok=BXwOBgMV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/116-moves-its-record-grandchesstour-chess-chesscom",
-         "pubDate" : "Thu, 11 Jul 2024 14:38:46",
-         "title" : "116 Moves!!! It's A Record #GrandChessTour #chess #chesscom"
       },
       {
          "description" : "",
@@ -738,14 +746,6 @@ news_feed (
          "title" : "Collegiate Chess League 2024 Summer Season"
       },
       {
-         "description" : "The talented youngsters dominated the first Kids vs. Stars match, but the experienced masters are not backing down and have brought in reinforcements. Can the stars turn the tide and outsmart their significantly younger opponents? Kids vs. Stars...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/kids-vs-stars-2",
-         "pubDate" : "Tue, 02 Jul 2024 08:10:00",
-         "title" : "Kids vs Stars: Can The Young Guns Checkmate the Chess Masters Again?"
-      },
-      {
          "description" : "Note: These scholarships are funded and administered outside of US Chess by the private organization Kids for Chess. <br /><br /> Kids for Chess, a nonprofit organization committed to supporting America's best youth chess players, is thrilled to announce the five winners of its scholarships for the 2024 World Youth and World Cadets Championships. <br /><br /> After a rigorous selection process, the scholarships, each valued at $1,500, have been awarded to Aayansh Guntaka, Laurie Qiu, Megan Paragua, Michael Li, and Sasha Schaefer. The scholarships aim to assist the winners with the costs associated with participating in the World Youth and World Cadets Chess Championships this year.<br /><br ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1104,22 +1104,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/planning-procrastination/",
          "pubDate" : "Sat, 22 Jun 2024 13:00:00",
          "title" : "The Planning Procrastination"
-      },
-      {
-         "description" : "A brief report on BRICS games Rapid Chess Championships 2024 Kazan, Russia. &#160; The BRICS games Rapid Chess Championships for Men and Women were held",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/brics-games-2024-kazan-russia/",
-         "pubDate" : "Fri, 21 Jun 2024 16:27:30",
-         "title" : "BRICS Games 2024 Kazan, Russia"
-      },
-      {
-         "description" : "SNA Seminar &#38; Examination starts at Guwahati&#160; A total of 41 participants from 7 states have started their two days' Seminar cum Examination at Guwahati",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-examination-at-guwahati-on-21-22-june-2024/",
-         "pubDate" : "Fri, 21 Jun 2024 16:19:40",
-         "title" : "SNA Seminar & Examination at Guwahati on 21-22 June 2024"
       }
    ]
 }
