@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
+         "pubDate" : "Sat, 13 Jul 2024 14:50:00",
+         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-understand-which-street-has-more-successful-players-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6uBaoMr-UTU.jpg?itok=WKkzmE6B\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-understand-which-street-has-more-successful-players-superunitedrapidblitzcroatia",
+         "pubDate" : "Sat, 13 Jul 2024 14:40:17",
+         "title" : "Aronian: Understand Which Street Has More Successful Players! | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3114",
+         "pubDate" : "Sat, 13 Jul 2024 14:12:25",
+         "title" : "SuperUnited Rapid & Blitz Croatia: Caruana wins rapid"
+      },
+      {
+         "description" : "YouTube videos, opening courses, the latest Chess Drama no matter your chess vice, it is hard to avoid it. In this newsletter, I want to offer a counter-intuitive way to waste less of your time on your chess vice: by planning your distractions. All or nothing For years, I've tried to be the perfect []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/procrastinate-less/",
+         "pubDate" : "Sat, 13 Jul 2024 12:58:00",
+         "title" : "How to procrastinate less"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111713933.cms\" />For Gukesh, the Olympiad will serve as a crucial preparation for his upcoming World Chess Championship match against the reigning champion, Ding Liren of China, scheduled for November. The young grandmaster aims to utilize this event to fine-tune his skills and strategies before the highly anticipated showdown. At just 18 years of age, Gukesh has already made a name for himself in the chess world, particularly after his remarkable victory at the esteemed Candidates tournament in Toronto earlier in April. ",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-and-praggnanandhaa-to-headline-indian-team-in-45th-chess-olympiad/articleshow/111713933.cms",
+         "pubDate" : "Sat, 13 Jul 2024 11:48:03",
+         "title" : "Gukesh and Pragg to headline Indian team in 45th Chess Olympiad"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Garry Kasparov gets interrupted by a phone call during his interview with Cristian Chirila. 2024.07.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-gets-phone-call-d3-superunitedrapidblitzcroatia-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eKxS8l1gNhg.jpg?itok=tZvXXXsn\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-gets-phone-call-d3-superunitedrapidblitzcroatia-chess",
+         "pubDate" : "Sat, 13 Jul 2024 11:40:10",
+         "title" : "Kasparov Gets a Phone Call | D3 #SuperUnitedRapidBlitzCroatia #chess"
+      },
+      {
          "description" : "Returning from an expedition to the archaeological wonders of Minoan Crete, I have arrived in London with plenty of time to spare to watch England in the Euro Final at the Berlin Olympiastadion tomorrow. In virtually any sport, watching the global elite in action is always instructive. My trip to Crete set me thinking about []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -74,6 +122,14 @@ news_feed (
          "title" : "SuperUnited Rapid & Blitz Croatia 2024: Day 5 | #GrandChessTour"
       },
       {
+         "description" : "Abdalrahman Sameh Mohamed played his first tournament in January, won the African Youth Championship in June, and on Thursday took it one step further to sensationally win the Egyptian Chess Championship. He&#39;s just ten years old. Abdalrahman, wi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/egyptian-national-chess-champion-10-years-old",
+         "pubDate" : "Sat, 13 Jul 2024 07:12:10",
+         "title" : "Egyptian Becomes National Chess Champion At 10"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-four-way-playoff-bucharest-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KraBv7lW7Ho.jpg?itok=f9cAxYw4\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -98,12 +154,12 @@ news_feed (
          "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 3 | #GrandChessTour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> National titles are on the line as young phenoms and established legends convene in the Chess Capital of America, Saint Louis,. Mo. for the 2024 U.S. Senior, U.S. Junior, &amp; U.S. Girls' Junior Championships. Beginning July 16, 30 players across three fields will compete for over a $130,000 prize fund! Champions Melik Khachiyan and Alice Lee return, while Christopher Yoo attempts to reclaim his title after missing the Juniors last year. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wr",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-senior-us-junior-championships-promo",
-         "pubDate" : "Fri, 12 Jul 2024 17:39:22",
-         "title" : "2024 U.S. Senior & U.S. Junior Championships | PROMO"
+         "description" : "Gukesh is now five points behind leader Caruana in seventh place, with Vidit Gujrathi climbing off the bottom of the table.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40551065/gukesh-falls-seventh-tough-day-3-superunited-rapid-blitz-2024-caruana-massive-lead?device=featurephone",
+         "pubDate" : "Fri, 12 Jul 2024 23:33:12",
+         "title" : "Gukesh falls to seventh on tough day 3 of SuperUnited Rapid & Blitz 2024; Caruana with massive lead"
       },
       {
          "description" : "GM Fabiano Caruana has climbed to world number-two on the rapid live rating list after beating GMs Gukesh Dommaraju, Anish Giri, and Maxime Vachier-Lagrave to end the rapid section of the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia on a towering 15...",
@@ -160,14 +216,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jul/12/chess-nunn-leads-england-over-65s-to-gold-at-world-senior-championships",
          "pubDate" : "Fri, 12 Jul 2024 07:00:45",
          "title" : "Chess: Nunn leads England over-65s to gold at world senior championships"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Vidit and Gukesh set a World Record for position repetition Photos by: Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-rules-draw-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PA_DE_8o_j4.jpg?itok=sbps6-Dw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-rules-draw-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Fri, 12 Jul 2024 05:39:07",
-         "title" : "Chess Rules: Is This A Draw! #GrandChessTour #chess #chessendgame #chesscom"
       },
       {
          "description" : "The 2024 FIDE World Senior Team Championship took place from July 2 through 11 in Krakow, Poland, with 65 teams competing across the 50+ and 65+ sections. <br /><br /> All in all, Team USA took home the gold in the 50+ section, with Team USA Women earning the silver medal for women's teams in the 50+ and the bronze in the 65+ section. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Team USA does it again! (Photo courtesy Mark Livshitz/FIDE)<br /><br /><br /> <br /><br /> In the 50+ section, the 2023 champions returned with four of last year's five gold medalists (with GM Melikset Khachiyan ste",
@@ -746,14 +794,6 @@ news_feed (
          "title" : "England teams for the Chess Olympiad"
       },
       {
-         "description" : "Meet nine-year-old Ethan Pang from London, U.K. The chess prodigy has just fulfilled a dream after a series of incredible results that earned him the title of candidate master and the record as the youngest player ever to cross the 2200-barrier. ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/9-year-old-ethan-pang-becomes-youngest-to-ever-break-2200",
-         "pubDate" : "Tue, 02 Jul 2024 08:55:00",
-         "title" : "9-Year-Old Ethan Pang Breaks Faustino Oro's Record To Become Youngest Ever 2200-Player"
-      },
-      {
          "description" : "Note: These scholarships are funded and administered outside of US Chess by the private organization Kids for Chess. <br /><br /> Kids for Chess, a nonprofit organization committed to supporting America's best youth chess players, is thrilled to announce the five winners of its scholarships for the 2024 World Youth and World Cadets Championships. <br /><br /> After a rigorous selection process, the scholarships, each valued at $1,500, have been awarded to Aayansh Guntaka, Laurie Qiu, Megan Paragua, Michael Li, and Sasha Schaefer. The scholarships aim to assist the winners with the costs associated with participating in the World Youth and World Cadets Chess Championships this year.<br /><br ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1088,22 +1128,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-commenced-in-rhodes-greece/",
          "pubDate" : "Sun, 23 Jun 2024 05:55:00",
          "title" : "European Youth Team Chess Championship 2024 commenced in Rhodes, Greece"
-      },
-      {
-         "description" : "In 1970 in Belgrade the mighty USSR Chess Team was challenged by an elite selection, representing the Rest of the World, in what was dubbed the \"Match of the Century\". The Soviets won by the tightest of margins, 20&frac12; points to 19&frac12;; close though it was, nobody could deny their achievement in taking on and beating the []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/london-1984-ussr-vs-the-world/",
-         "pubDate" : "Sat, 22 Jun 2024 13:10:10",
-         "title" : "London 1984: USSR vs the World"
-      },
-      {
-         "description" : "I've spent a good part of the last two weeks planning a great challenge for the last six months of the year. That challenge was supposed to improve my eating habits, get me to the gym more often, and reduce my procrastination. I got so excited about the planning that planning itself became my procrastination. []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/planning-procrastination/",
-         "pubDate" : "Sat, 22 Jun 2024 13:00:00",
-         "title" : "The Planning Procrastination"
       }
    ]
 }
