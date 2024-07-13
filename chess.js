@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Unbelievable but true! Svitlana Demchenko and Arne Kaehler are celebrating their 100th episode of \"Svitlana's Smart Moves\". It all started in April 2021, and has now reached a magical number. In the video, Svitlana and Arne take a look at some superlatives of the past episodes: the most and least viewed, the shortest, the longest, the most and least liked, and more. Their looks have changed a little, but the format improved over time, thanks to you, dear viewers! Finally, we play a blitz game on an actual wooden chessboard.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-100th-anniversary-special",
+         "pubDate" : "Sat, 13 Jul 2024 20:00:00",
+         "title" : "Svitlana's Smart Moves - The 100th Anniversary Special"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The competitors share what they each personally believe to be the most challenging aspect of chess before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/most-challenging-aspect-chess-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yuVO16zZ0vo.jpg?itok=YbVVu2Nv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/most-challenging-aspect-chess-superunitedrapidblitzcroatia",
+         "pubDate" : "Sat, 13 Jul 2024 17:40:22",
+         "title" : "Most Challenging Aspect of Chess? | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Vidit Gujrathi talks to Anastasiya Karlovich before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vidit-not-desperate-enough-advice-anish-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vV2SACFniSs.jpg?itok=-YA7Fvfy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/vidit-not-desperate-enough-advice-anish-superunitedrapidblitzcroatia",
+         "pubDate" : "Sat, 13 Jul 2024 17:40:22",
+         "title" : "Vidit: Not Desperate Enough for Advice from Anish! | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich interviews her daughter Nicole after blitz round 7 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anastasiya%E2%80%99s-daughter-picks-nepo-and-fabi-d4-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dJdIr3xqj-M.jpg?itok=KlECpapp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/anastasiya%E2%80%99s-daughter-picks-nepo-and-fabi-d4-superunitedrapidblitzcroatia",
+         "pubDate" : "Sat, 13 Jul 2024 17:40:22",
+         "title" : "Anastasiya's Daughter Picks Nepo and Fabi! | D4 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
          "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,28 +146,12 @@ news_feed (
          "title" : "Caruana Debuts 'Delayed Zagreb' Variation | D3 #SuperUnitedRapidBlitzCroatia"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin, plus playoffs if necessary. Join GMs Yasser Seirawan, Evgenij Miroshnichenko &amp; Cristian Chirila, IM Jovanka Houska, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link fie",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/superunited-rapid-blitz-croatia-2024-day-5-grandchesstour",
-         "pubDate" : "Sat, 13 Jul 2024 08:40:07",
-         "title" : "SuperUnited Rapid & Blitz Croatia 2024: Day 5 | #GrandChessTour"
-      },
-      {
          "description" : "Abdalrahman Sameh Mohamed played his first tournament in January, won the African Youth Championship in June, and on Thursday took it one step further to sensationally win the Egyptian Chess Championship. He&#39;s just ten years old. Abdalrahman, wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/egyptian-national-chess-champion-10-years-old",
-         "pubDate" : "Sat, 13 Jul 2024 07:12:10",
+         "pubDate" : "Sat, 13 Jul 2024 07:12:00",
          "title" : "Egyptian Becomes National Chess Champion At 10"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-four-way-playoff-bucharest-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KraBv7lW7Ho.jpg?itok=f9cAxYw4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana%E2%80%99s-four-way-playoff-bucharest-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 13 Jul 2024 05:40:01",
-         "title" : "Caruana's Four-Way Playoff in Bucharest | #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "Fabiano Caruana continues to impress at the SuperUnited Tournament in Croatia. The US star entered the third day of action as the sole leader and scored three consecutive wins to win the rapid section and go into the final two days of blitz with a 3-point lead over Wesley So. The remaining US representative, Levon Aronian, stands in sole third place. | Photo: Lennart Ootes",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superunited-croatia-2024-3",
          "pubDate" : "Sat, 13 Jul 2024 01:00:00",
          "title" : "SuperUnited Croatia: Caruana goes into blitz section with 3-point lead"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 3 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today were the final three rounds of the rapid round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superunited-rapid-blitz-croatia-2024-day-3-grandchesstour",
-         "pubDate" : "Fri, 12 Jul 2024 23:39:47",
-         "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 3 | #GrandChessTour"
       },
       {
          "description" : "Gukesh is now five points behind leader Caruana in seventh place, with Vidit Gujrathi climbing off the bottom of the table.",
