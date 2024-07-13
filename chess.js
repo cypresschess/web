@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana%E2%80%99s-four-way-playoff-bucharest-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KraBv7lW7Ho.jpg?itok=f9cAxYw4\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana%E2%80%99s-four-way-playoff-bucharest-superunitedrapidblitzcroatia",
+         "pubDate" : "Sat, 13 Jul 2024 05:40:01",
+         "title" : "Caruana's Four-Way Playoff in Bucharest | #SuperUnitedRapidBlitzCroatia"
+      },
+      {
          "description" : "Fabiano Caruana continues to impress at the SuperUnited Tournament in Croatia. The US star entered the third day of action as the sole leader and scored three consecutive wins to win the rapid section and go into the final two days of blitz with a 3-point lead over Wesley So. The remaining US representative, Levon Aronian, stands in sole third place. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,20 @@ news_feed (
          "title" : "SuperUnited Croatia: Caruana goes into blitz section with 3-point lead"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 3 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superunited-rapid-blitz-croatia-2024-day-3-gra",
+         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 3 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today were the final three rounds of the rapid round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/recap-superunited-rapid-blitz-croatia-2024-day-3-grandchesstour",
          "pubDate" : "Fri, 12 Jul 2024 23:39:47",
          "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 3 | #GrandChessTour"
+      },
+      {
+         "description" : "Gukesh is now five points behind leader Caruana in seventh place, with Vidit Gujrathi climbing off the bottom of the table.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40551065/gukesh-falls-seventh-tough-day-3-superunited-rapid-blitz-2024-caruana-massive-lead?device=featurephone",
+         "pubDate" : "Fri, 12 Jul 2024 23:33:12",
+         "title" : "Gukesh falls to seventh on tough day 3 of SuperUnited Rapid & Blitz 2024; Caruana with massive lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National titles are on the line as young phenoms and established legends convene in the Chess Capital of America, Saint Louis,. Mo. for the 2024 U.S. Senior, U.S. Junior, &amp; U.S. Girls' Junior Championships. Beginning July 16, 30 players across three fields will compete for over a $130,000 prize fund! Champions Melik Khachiyan and Alice Lee return, while Christopher Yoo attempts to reclaim his title after missing the Juniors last year. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wr",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/giri-recover-%E2%80%98chess-hangover%E2%80%99-superunitedrapidblitzcroatia",
          "pubDate" : "Thu, 11 Jul 2024 17:38:51",
          "title" : "Giri: Recover from a 'Chess Hangover' | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Anastasiya Karlovich after defeating Vachier-Lagrave in Rapid Round 4 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-found-some-tricks-mvl-blundered-rapid-4-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/QOiQE6_L9Ew.jpg?itok=MJVgV8bM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-found-some-tricks-mvl-blundered-rapid-4-superunitedrapidblitzcroatia",
-         "pubDate" : "Thu, 11 Jul 2024 17:38:51",
-         "title" : "Gukesh: Found Some Tricks & MVL Blundered! | Rapid 4 #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "GM Fabiano Caruana beat GMs Levon Aronian and Ivan Saric and escaped against GM Wesley So to climb into sole first place after day two of the&#38;nbsp;2024 SuperUnited Rapid &#38;amp; Blitz Croatia. The previous leader, GM Maxime Vachier-Lagrave, blundere...",
