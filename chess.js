@@ -10,6 +10,14 @@ news_feed (
          "title" : "SuperUnited Croatia: Caruana goes into blitz section with 3-point lead"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 3 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superunited-rapid-blitz-croatia-2024-day-3-gra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superunited-rapid-blitz-croatia-2024-day-3-grandchesstour",
+         "pubDate" : "Fri, 12 Jul 2024 23:39:47",
+         "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 3 | #GrandChessTour"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National titles are on the line as young phenoms and established legends convene in the Chess Capital of America, Saint Louis,. Mo. for the 2024 U.S. Senior, U.S. Junior, &amp; U.S. Girls' Junior Championships. Beginning July 16, 30 players across three fields will compete for over a $130,000 prize fund! Champions Melik Khachiyan and Alice Lee return, while Christopher Yoo attempts to reclaim his title after missing the Juniors last year. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wr",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Chess: Nunn leads England over-65s to gold at world senior championships"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Vidit and Gukesh set a World Record for position repetition </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-rules-draw-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PA_DE_8o_j4.jpg?itok=sbps6-Dw\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Vidit and Gukesh set a World Record for position repetition Photos by: Lennart Ootes </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-rules-draw-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PA_DE_8o_j4.jpg?itok=sbps6-Dw\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/chess-rules-draw-grandchesstour-chess-chessendgame-chesscom",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/gukesh-found-some-tricks-mvl-blundered-rapid-4-superunitedrapidblitzcroatia",
          "pubDate" : "Thu, 11 Jul 2024 17:38:51",
          "title" : "Gukesh: Found Some Tricks & MVL Blundered! | Rapid 4 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The competitors share thoughts on time management, especially in faster time controls, before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/managing-time-fast-chess-game-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qR91y8cdOqc.jpg?itok=YyxvHSGT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/managing-time-fast-chess-game-superunitedrapidblitzcroatia",
-         "pubDate" : "Thu, 11 Jul 2024 17:38:51",
-         "title" : "Managing Time in a Fast Chess Game? | #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "GM Fabiano Caruana beat GMs Levon Aronian and Ivan Saric and escaped against GM Wesley So to climb into sole first place after day two of the&#38;nbsp;2024 SuperUnited Rapid &#38;amp; Blitz Croatia. The previous leader, GM Maxime Vachier-Lagrave, blundere...",
