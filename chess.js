@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In our previous section on how playing chess may affect your life, we asked our readers to guess whether chess players could expect to live longer or shorter lives, on average, than the rest of the non-chess people surrounding them. Today in the final section of the series, Frederic Friedel and Christian Hesse present some statistical results on this question.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-and-life-expectancy",
+         "pubDate" : "Sun, 14 Jul 2024 20:00:00",
+         "title" : "Chess and life expectancy"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3115",
+         "pubDate" : "Sun, 14 Jul 2024 18:58:50",
+         "title" : "Warmerdam and Keetman win Dutch Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> If Caruana scores better against Saric than MVL does against Nepo, Caruana clinches 1st Place with five rounds to spare on the final blitz day of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/full-game-ivan-saric-vs-fabiano-caruana-blitz-13-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/By79ezSwj6c.jp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/full-game-ivan-saric-vs-fabiano-caruana-blitz-13-superunitedrapidblitzcroatia",
+         "pubDate" : "Sun, 14 Jul 2024 17:41:05",
+         "title" : "FULL GAME: Ivan Saric vs. Fabiano Caruana | Blitz 13 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Garry Kasparov talks to Cristian Chirila and offers analysis after Blitz Round 15 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-gct-final-knockout-stage-attracts-broad-public-d5-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cFlmTrZ5wgo.jpg?itok=R2oT6Oc_\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-gct-final-knockout-stage-attracts-broad-public-d5-superunitedrapidblitzcroatia",
+         "pubDate" : "Sun, 14 Jul 2024 17:41:05",
+         "title" : "Kasparov on GCT Final: Knockout Stage Attracts Broad Public | D5 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
          "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +66,14 @@ news_feed (
          "title" : "Biel Festival Triathlon: Rapid - Live!"
       },
       {
+         "description" : "GM Fabiano Caruana won the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia with five rounds to spare. Scoring a total of 27 points across the five days, he matched GM Magnus Carlsen&#39;s record from 2019 of most points earned in a GCT rapid and blitz even...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-5-caruana-wins",
+         "pubDate" : "Sun, 14 Jul 2024 11:50:51",
+         "title" : "Caruana Wins With 5 Rounds To Spare, Matches Carlsen's Record Of 27 Points"
+      },
+      {
          "description" : "Fabiano Caruana has a 4&frac12;-point lead over Maxime Vachier-Lagrave and Wesley So going into the final 9 rounds of blitz at the SuperUnited Tournament in Zagreb. MVL was the top scorer on Saturday, as he obtained 6&frac12;/9 points after collecting 5 wins, 3 draws and 1 loss. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -46,7 +86,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/stephane-bressac-wins-1st-blindfold-chess-challenge-valencia",
-         "pubDate" : "Sun, 14 Jul 2024 04:20:10",
+         "pubDate" : "Sun, 14 Jul 2024 04:20:00",
          "title" : "Stephane Bressac Wins Unique 1st Blindfold Chess Challenge, Open To Everyone"
       },
       {
@@ -162,14 +202,6 @@ news_feed (
          "title" : "Gukesh and Pragg to headline Indian team in 45th Chess Olympiad"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Garry Kasparov gets interrupted by a phone call during his interview with Cristian Chirila. 2024.07.12 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-gets-phone-call-d3-superunitedrapidblitzcroatia-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eKxS8l1gNhg.jpg?itok=tZvXXXsn\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kasparov-gets-phone-call-d3-superunitedrapidblitzcroatia-chess",
-         "pubDate" : "Sat, 13 Jul 2024 11:40:10",
-         "title" : "Kasparov Gets a Phone Call | D3 #SuperUnitedRapidBlitzCroatia #chess"
-      },
-      {
          "description" : "Returning from an expedition to the archaeological wonders of Minoan Crete, I have arrived in London with plenty of time to spare to watch England in the Euro Final at the Berlin Olympiastadion tomorrow. In virtually any sport, watching the global elite in action is always instructive. My trip to Crete set me thinking about []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -184,14 +216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3113",
          "pubDate" : "Sat, 13 Jul 2024 10:36:20",
          "title" : "USA and England triumph in World Senior Team Chess Championship 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after defeating Gujrathi in Rapid Round 7 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-no-margin-error-blitz-rapid-7-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cr0rFSS9qhI.jpg?itok=MAottS-I\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-no-margin-error-blitz-rapid-7-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 13 Jul 2024 08:40:07",
-         "title" : "MVL: No Margin for Error in Blitz | Rapid 7 #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "Abdalrahman Sameh Mohamed played his first tournament in January, won the African Youth Championship in June, and on Thursday took it one step further to sensationally win the Egyptian Chess Championship. He&#39;s just ten years old. Abdalrahman, wi...",
@@ -752,14 +776,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-7",
          "pubDate" : "Wed, 03 Jul 2024 12:29:00",
          "title" : "Caruana Misses Chance To Increase Lead In Bucharest"
-      },
-      {
-         "description" : "The Chess.com team has been popping up all over the world recently and members of the team spent last Friday and Saturday promoting chess to mixed martial arts (MMA) fans in a crossover at UFC X. Hosted at the 200,000 square foot Las Vegas Conve...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-takes-over-las-vegas-in-ufcx-crossover",
-         "pubDate" : "Wed, 03 Jul 2024 12:08:00",
-         "title" : "Chess.com Comes To Las Vegas In UFC X Crossover"
       },
       {
          "description" : "",
