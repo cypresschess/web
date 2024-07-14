@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
+         "pubDate" : "Sun, 14 Jul 2024 14:50:00",
+         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Senior, U.S. Junior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below soon!). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-senior-us-junior-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-senior-us-junior-championships-round-1",
+         "pubDate" : "Sun, 14 Jul 2024 14:40:59",
+         "title" : "2024 U.S. Senior & U.S. Junior Championships: Round 1"
+      },
+      {
+         "description" : " U.S. Chess Online reports another milestone for FM Tani Adewumi! Now 13 years old, Adewumi won the 2024 U.S. Cadet title in Lisle, Illinois. The tournament was held June 20th-23rd and invited the top players under 16. Winning with a score of 6/7, he was a full two points ahead of the field, meaning the The post <a href=\"https://www.thechessdrum.net/blog/2024/07/14/tani-adewumi-wins-u-s-cadet/\">Tani Adewumi wins U.S. Cadet!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/07/14/tani-adewumi-wins-u-s-cadet/",
+         "pubDate" : "Sun, 14 Jul 2024 14:25:56",
+         "title" : "Tani Adewumi wins U.S. Cadet!"
+      },
+      {
+         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
+         "pubDate" : "Sun, 14 Jul 2024 13:45:00",
+         "title" : "Biel Festival Triathlon: Rapid - Live!"
+      },
+      {
          "description" : "Fabiano Caruana has a 4&frac12;-point lead over Maxime Vachier-Lagrave and Wesley So going into the final 9 rounds of blitz at the SuperUnited Tournament in Zagreb. MVL was the top scorer on Saturday, as he obtained 6&frac12;/9 points after collecting 5 wins, 3 draws and 1 loss. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superunited-croatia-2024-4",
          "pubDate" : "Sun, 14 Jul 2024 09:25:00",
          "title" : "SuperUnited Croatia: MVL top scorer on the first day of blitz"
+      },
+      {
+         "description" : "IM Stephane Bressac won the first edition of the Blindfold Chess Challenge, a tournament with a unique format held July 9-11 in Valencia, Spain, where visually-impaired players faced off with non-impaired players. The 34-year-old Bressac was the o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/stephane-bressac-wins-1st-blindfold-chess-challenge-valencia",
+         "pubDate" : "Sun, 14 Jul 2024 04:20:10",
+         "title" : "Stephane Bressac Wins Unique 1st Blindfold Chess Challenge, Open To Everyone"
+      },
+      {
+         "description" : "In the overall standings, Gukesh remains in seventh spot with a total of 11.5 points and Vidit is ninth with 7.5 points to his name.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40557221/gukesh-vidit-struggles-blitz-day-4-superunited-rapid-blitz-caruana-top?device=featurephone",
+         "pubDate" : "Sat, 13 Jul 2024 23:20:22",
+         "title" : "Gukesh struggles in blitz on day 4 of SuperUnited Rapid & Blitz 2024; Caruana still on top"
+      },
+      {
+         "description" : "D Gukesh fell in the standings to seventh place while Vidit Gujrathi climbed off the bottom of the table.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40551065/gukesh-falls-seventh-tough-day-3-superunited-rapid-blitz-2024-caruana-massive-lead?device=featurephone",
+         "pubDate" : "Sat, 13 Jul 2024 23:14:07",
+         "title" : "Gukesh falls to seventh on tough day 3 of SuperUnited Rapid & Blitz 2024; Caruana with massive lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after going 5-2-2 on the first blitz day of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-wants-break-gct-rapid-blitz-record-d4-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mkp8-iJk18Y.jpg?itok=o40cl_w6\" alt=\"\" /></a></div>",
@@ -138,28 +194,12 @@ news_feed (
          "title" : "MVL: No Margin for Error in Blitz | Rapid 7 #SuperUnitedRapidBlitzCroatia"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich after defeating Saric in Rapid Round 7 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-surprised-saric-opening-rapid-7-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/nx3rEoaf8WM.jpg?itok=jhc9YG4d\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-surprised-saric-opening-rapid-7-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 13 Jul 2024 08:40:07",
-         "title" : "Firouzja: Surprised Saric from Opening | Rapid 7 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
          "description" : "Abdalrahman Sameh Mohamed played his first tournament in January, won the African Youth Championship in June, and on Thursday took it one step further to sensationally win the Egyptian Chess Championship. He&#39;s just ten years old. Abdalrahman, wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/egyptian-national-chess-champion-10-years-old",
          "pubDate" : "Sat, 13 Jul 2024 07:12:00",
          "title" : "Egyptian Becomes National Chess Champion At 10"
-      },
-      {
-         "description" : "Gukesh is now five points behind leader Caruana in seventh place, with Vidit Gujrathi climbing off the bottom of the table.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/40551065/gukesh-falls-seventh-tough-day-3-superunited-rapid-blitz-2024-caruana-massive-lead?device=featurephone",
-         "pubDate" : "Fri, 12 Jul 2024 23:33:12",
-         "title" : "Gukesh falls to seventh on tough day 3 of SuperUnited Rapid & Blitz 2024; Caruana with massive lead"
       },
       {
          "description" : "GM Fabiano Caruana has climbed to world number-two on the rapid live rating list after beating GMs Gukesh Dommaraju, Anish Giri, and Maxime Vachier-Lagrave to end the rapid section of the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia on a towering 15...",
@@ -722,14 +762,6 @@ news_feed (
          "title" : "Chess.com Comes To Las Vegas In UFC X Crossover"
       },
       {
-         "description" : "Titled Tuesday belonged to GMs Dmitry Andreikin and Hikaru Nakamura on July 2, although both needed tiebreaks after scoring 9.5 points. GM Arjun Erigaisi pulled off the impressive but unenviable feat of finishing in second place in both events, wh...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/andreikin-nakamura-win-titled-tuesday-july-2-2024",
-         "pubDate" : "Wed, 03 Jul 2024 08:32:06",
-         "title" : "Nakamura Returns To Titled Tuesday Top"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -1096,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3081",
          "pubDate" : "Sun, 23 Jun 2024 20:57:15",
          "title" : "FIDE World Cup U8-12 kicks off in Batumi, Georgia"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3080",
-         "pubDate" : "Sun, 23 Jun 2024 12:36:35",
-         "title" : "Cairns Cup 2024: Tan Zhongyi clinch title"
       }
    ]
 }
