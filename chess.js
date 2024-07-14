@@ -1128,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3080",
          "pubDate" : "Sun, 23 Jun 2024 12:36:35",
          "title" : "Cairns Cup 2024: Tan Zhongyi clinch title"
-      },
-      {
-         "description" : "The 2024 European Youth Team Chess Championship commenced in Rhodes, Greece. With the participation of 58 teams from 16 European federations, the event broke the participation record. The Opening ceremony of the event took place shortly before the start of the first round, with the ECU Secretary General Mr. Theodoros Tsorbatzoglou and the special guest, President of the Asean Chess Confederation Mr. Leong Ignatius played the first ceremonial moves on the top boards. The first two rounds saw some upsets []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-youth-team-chess-championship-2024-commenced-in-rhodes-greece/",
-         "pubDate" : "Sun, 23 Jun 2024 05:55:00",
-         "title" : "European Youth Team Chess Championship 2024 commenced in Rhodes, Greece"
       }
    ]
 }
