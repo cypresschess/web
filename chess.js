@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana was simply unstoppable at the SuperUnited Rapid & Blitz Tournament in Croatia. The US star claimed his second consecutive victory in a Grand Chess Tour event with five rounds to spare, after entering the final day of action with a 4&frac12;-point lead and scoring 3&frac12; points in the first four rounds played on Sunday. In a close battle for second place, Wesley So, Alireza Firouzja and Maxime Vachier-Lagrave ended up tied with 23 points each. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-5",
+         "pubDate" : "Mon, 15 Jul 2024 01:00:00",
+         "title" : "Unstoppable Caruana dominates SuperUnited Croatia"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3116",
+         "pubDate" : "Sun, 14 Jul 2024 22:19:33",
+         "title" : "2024 SuperUnited Rapid & Blitz Croatia: Caruana rules supreme"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 5 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today was the second blitz round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-superunited-rapid-blitz-croatia-2024-day-5-grandchesstour",
+         "pubDate" : "Sun, 14 Jul 2024 20:41:16",
+         "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 5 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila and is presented the SuperUnited trophy by Croatia Prime Minister Andrej Plenkovi&#263, Superbet Country Manager Marin Marušić, and GCT Executive Director Michael Khodarkovsky after the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-today-was-about-chasing-magnus%E2%80%99s-record-d5-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-today-was-about-chasing-magnus%E2%80%99s-record-d5-superunitedrapidblitzcroatia",
+         "pubDate" : "Sun, 14 Jul 2024 20:41:16",
+         "title" : "Caruana: Today Was About Chasing Magnus's Record | D5 #SuperUnitedRapidBlitzCroatia"
+      },
+      {
          "description" : "In our previous section on how playing chess may affect your life, we asked our readers to guess whether chess players could expect to live longer or shorter lives, on average, than the rest of the non-chess people surrounding them. Today in the final section of the series, Frederic Friedel and Christian Hesse present some statistical results on this question.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,11 +98,11 @@ news_feed (
          "title" : "Biel Festival Triathlon: Rapid - Live!"
       },
       {
-         "description" : "GM Fabiano Caruana won the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia with five rounds to spare. Scoring a total of 27 points across the five days, he matched GM Magnus Carlsen&#39;s record from 2019 of most points earned in a GCT rapid and blitz even...",
+         "description" : "GM Fabiano Caruana won the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia with five rounds to spare. Scoring a total of 27 points across the five days, he matched GM Magnus Carlsen&#39;s record from 2019 of most points earned in a Grand Chess Tour rapid a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-5-caruana-wins",
-         "pubDate" : "Sun, 14 Jul 2024 11:50:51",
+         "pubDate" : "Sun, 14 Jul 2024 11:50:00",
          "title" : "Caruana Wins With 5 Rounds To Spare, Matches Carlsen's Record Of 27 Points"
       },
       {
@@ -88,6 +120,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/stephane-bressac-wins-1st-blindfold-chess-challenge-valencia",
          "pubDate" : "Sun, 14 Jul 2024 04:20:00",
          "title" : "Stephane Bressac Wins Unique 1st Blindfold Chess Challenge, Open To Everyone"
+      },
+      {
+         "description" : "US Chess 2023-2024 Women's Programming Grant Cycle Highlights<br /><br /> With the generous support of the Saint Louis Chess Club, the US Chess Women's Programming Grant directly supports the growth and retention of women and girls in chess. Grant awardees can engage women and girls in chess in the manner that best reflects the strengths of their organizations. <br /><br /> The 2024-2025 Women's Grant Cycle will be announced very soon. We encourage chess programs engaging women and girls to apply and expand the impact of this amazing initiative! In the meantime, congratulations to this year's awardees and here are highlights of how they utilized their grant.<br /><br /> Berkeley Chess School",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2023-2024-us-chess-women-and-girls-programming-grant-highlights",
+         "pubDate" : "Sun, 14 Jul 2024 00:00:00",
+         "title" : "2023-2024 US Chess Women and Girls Programming Grant Highlights! "
       },
       {
          "description" : "In the overall standings, Gukesh remains in seventh spot with a total of 11.5 points and Vidit is ninth with 7.5 points to his name.",
@@ -146,28 +186,12 @@ news_feed (
          "title" : "Vidit: Not Desperate Enough for Advice from Anish! | #SuperUnitedRapidBlitzCroatia"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Anastasiya Karlovich interviews her daughter Nicole after blitz round 7 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/anastasiya%E2%80%99s-daughter-picks-nepo-and-fabi-d4-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dJdIr3xqj-M.jpg?itok=KlECpapp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/anastasiya%E2%80%99s-daughter-picks-nepo-and-fabi-d4-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 13 Jul 2024 17:40:22",
-         "title" : "Anastasiya's Daughter Picks Nepo and Fabi! | D4 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
          "description" : "GM Daniel Naroditsky has moved one step closer to seizing the top spot on the all-time Bullet Brawl&#38;nbsp;leaderboard after winning the latest edition ahead of GMs Arjun Erigaisi, Hikaru Nakamura, and 132 other titled players. Now sitting on 21 v...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-july-13-2024",
          "pubDate" : "Sat, 13 Jul 2024 16:56:48",
          "title" : "Naroditsky Wins 21st Brawl, Closes In On Nakamura's All-Time Record"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-understand-which-street-has-more-successful-players-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6uBaoMr-UTU.jpg?itok=WKkzmE6B\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-understand-which-street-has-more-successful-players-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 13 Jul 2024 14:40:17",
-         "title" : "Aronian: Understand Which Street Has More Successful Players! | #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "",
@@ -282,7 +306,7 @@ news_feed (
          "title" : "Chess: Nunn leads England over-65s to gold at world senior championships"
       },
       {
-         "description" : "The 2024 FIDE World Senior Team Championship took place from July 2 through 11 in Krakow, Poland, with 65 teams competing across the 50+ and 65+ sections. <br /><br /> All in all, Team USA took home the gold in the 50+ section, with Team USA Women earning the silver medal for women's teams in the 50+ and the bronze in the 65+ section. <br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Team USA does it again! (Photo courtesy Mark Livshitz/FIDE)<br /><br /><br /> <br /><br /> In the 50+ section, the 2023 champions returned with four of last year's five gold medalists (with GM Melikset Khachiyan stepping in for GM Gregory Kaidanov). Could they repeat the magic? <br /><b",
+         "description" : "The 2024 FIDE World Senior Team Championship took place from July 2 through 11 in Krakow, Poland, with 65 teams competing across the 50+ and 65+ sections. <br /><br /> All in all, Team USA took home the gold in the 50+ section, with Team USA Women earning the silver medal for women's teams in the 50+ and the bronze in the 65+ section. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Team USA does it again! (Photo courtesy Mark Livshitz/FIDE)<br /><br /><br /> <br /><br /> In the 50+ section, the 2023 champions returned with four of last year's five gold medalists (with GM Melikset Khachiyan ste",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/three-medals-team-usa-2024-fide-world-senior-team-championships",
@@ -826,14 +850,6 @@ news_feed (
          "title" : "England teams for the Chess Olympiad"
       },
       {
-         "description" : "Note: These scholarships are funded and administered outside of US Chess by the private organization Kids for Chess. <br /><br /> Kids for Chess, a nonprofit organization committed to supporting America's best youth chess players, is thrilled to announce the five winners of its scholarships for the 2024 World Youth and World Cadets Championships. <br /><br /> After a rigorous selection process, the scholarships, each valued at $1,500, have been awarded to Aayansh Guntaka, Laurie Qiu, Megan Paragua, Michael Li, and Sasha Schaefer. The scholarships aim to assist the winners with the costs associated with participating in the World Youth and World Cadets Chess Championships this year.<br /><br ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/kids-chess-announces-2024-scholarship-winners",
-         "pubDate" : "Tue, 02 Jul 2024 00:00:00",
-         "title" : "Kids for Chess Announces 2024 Scholarship Winners"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1136,14 +1152,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-small-nations-individual-chess-championship-2024-started-in-andorra/",
          "pubDate" : "Mon, 24 Jun 2024 06:08:12",
          "title" : "European Small Nations Individual Chess Championship 2024 started in Andorra"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3081",
-         "pubDate" : "Sun, 23 Jun 2024 20:57:15",
-         "title" : "FIDE World Cup U8-12 kicks off in Batumi, Georgia"
       }
    ]
 }
