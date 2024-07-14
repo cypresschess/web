@@ -58,6 +58,14 @@ news_feed (
          "title" : "Anastasiya's Daughter Picks Nepo and Fabi! | D4 #SuperUnitedRapidBlitzCroatia"
       },
       {
+         "description" : "GM Daniel Naroditsky has moved one step closer to seizing the top spot on the all-time Bullet Brawl&#38;nbsp;leaderboard after winning the latest edition ahead of GMs Arjun Erigaisi, Hikaru Nakamura, and 132 other titled players. Now sitting on 21 v...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-july-13-2024",
+         "pubDate" : "Sat, 13 Jul 2024 16:56:48",
+         "title" : "Naroditsky Wins 21st Brawl, Closes In On Nakamura's All-Time Record"
+      },
+      {
          "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,6 +176,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/superunited-croatia-2024-3",
          "pubDate" : "Sat, 13 Jul 2024 01:00:00",
          "title" : "SuperUnited Croatia: Caruana goes into blitz section with 3-point lead"
+      },
+      {
+         "description" : "Gukesh is now five points behind leader Caruana in seventh place, with Vidit Gujrathi climbing off the bottom of the table.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40551065/gukesh-falls-seventh-tough-day-3-superunited-rapid-blitz-2024-caruana-massive-lead?device=featurephone",
+         "pubDate" : "Fri, 12 Jul 2024 23:33:12",
+         "title" : "Gukesh falls to seventh on tough day 3 of SuperUnited Rapid & Blitz 2024; Caruana with massive lead"
       },
       {
          "description" : "GM Fabiano Caruana has climbed to world number-two on the rapid live rating list after beating GMs Gukesh Dommaraju, Anish Giri, and Maxime Vachier-Lagrave to end the rapid section of the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia on a towering 15...",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Seniors/world-senior-team-chess-championships-wstcc-2024/#new_tab",
          "pubDate" : "Wed, 03 Jul 2024 07:36:11",
          "title" : "World Senior Team Chess Championships reports"
-      },
-      {
-         "description" : "British chess sensation WFM Bodhana Sivanandan continues to make chess history. Now the nine-year-old prodigy is set to become the youngest player ever to represent England in an international sporting competition. Sivanandan is one of five play...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/9-year-old-bodhana-youngest-england-player-chess-olympiad",
-         "pubDate" : "Wed, 03 Jul 2024 07:30:40",
-         "title" : "9-Year-Old Bodhana To Become England's Youngest Ever Olympian"
       },
       {
          "description" : "In U12 Girls Pratitee, Bordoloi settledfor silver after a long fight with Xue,Tianhao from China . In the classical \"best-of-2 games\" both their games ended",
