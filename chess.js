@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Fabiano Caruana has a 4&frac12;-point lead over Maxime Vachier-Lagrave and Wesley So going into the final 9 rounds of blitz at the SuperUnited Tournament in Zagreb. MVL was the top scorer on Saturday, as he obtained 6&frac12;/9 points after collecting 5 wins, 3 draws and 1 loss. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-4",
+         "pubDate" : "Sun, 14 Jul 2024 09:25:00",
+         "title" : "SuperUnited Croatia: MVL top scorer on the first day of blitz"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after going 5-2-2 on the first blitz day of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-wants-break-gct-rapid-blitz-record-d4-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Mkp8-iJk18Y.jpg?itok=o40cl_w6\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -18,20 +26,12 @@ news_feed (
          "title" : "Nepo Appeals! Wesley So Views Instant Replay | D4 #SuperUnitedRapidBlitzCroatia"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 4 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today were the final three rounds of the rapid round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href",
+         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 4 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today was the first blitz round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superun",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/recap-superunited-rapid-blitz-croatia-2024-day-4-grandchesstour",
          "pubDate" : "Sat, 13 Jul 2024 20:40:36",
          "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 4 | #GrandChessTour"
-      },
-      {
-         "description" : "Unbelievable but true! Svitlana Demchenko and Arne Kaehler are celebrating their 100th episode of \"Svitlana's Smart Moves\". It all started in April 2021, and has now reached a magical number. In the video, Svitlana and Arne take a look at some superlatives of the past episodes: the most and least viewed, the shortest, the longest, the most and least liked, and more. Their looks have changed a little, but the format improved over time, thanks to you, dear viewers! Finally, we play a blitz game on an actual wooden chessboard.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-the-100th-anniversary-special",
-         "pubDate" : "Sat, 13 Jul 2024 20:00:00",
-         "title" : "Svitlana's Smart Moves - The 100th Anniversary Special"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The competitors share what they each personally believe to be the most challenging aspect of chess before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/most-challenging-aspect-chess-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yuVO16zZ0vo.jpg?itok=YbVVu2Nv\" alt=\"\" /></a></div>",
@@ -64,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-july-13-2024",
          "pubDate" : "Sat, 13 Jul 2024 16:56:48",
          "title" : "Naroditsky Wins 21st Brawl, Closes In On Nakamura's All-Time Record"
-      },
-      {
-         "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
-         "pubDate" : "Sat, 13 Jul 2024 14:50:00",
-         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-understand-which-street-has-more-successful-players-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6uBaoMr-UTU.jpg?itok=WKkzmE6B\" alt=\"\" /></a></div>",
@@ -138,14 +130,6 @@ news_feed (
          "title" : "USA and England triumph in World Senior Team Chess Championship 2024"
       },
       {
-         "description" : "With the US team in the over 50s tournament and England 1 in the over 65s tournament, the two favourite teams won the gold medals at the Senior World Team Championships. The women's titles went to Estonia (over 50s) and Latvia (over 65s) in the Baltic States. Photo: All winners | Photo: Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/usa-england-win-world-senior-teams-2024",
-         "pubDate" : "Sat, 13 Jul 2024 10:00:00",
-         "title" : "World Senior Team Championships: USA and England emerge victorious"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich after defeating Gujrathi in Rapid Round 7 of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-no-margin-error-blitz-rapid-7-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/cr0rFSS9qhI.jpg?itok=MAottS-I\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -168,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/egyptian-national-chess-champion-10-years-old",
          "pubDate" : "Sat, 13 Jul 2024 07:12:00",
          "title" : "Egyptian Becomes National Chess Champion At 10"
-      },
-      {
-         "description" : "Fabiano Caruana continues to impress at the SuperUnited Tournament in Croatia. The US star entered the third day of action as the sole leader and scored three consecutive wins to win the rapid section and go into the final two days of blitz with a 3-point lead over Wesley So. The remaining US representative, Levon Aronian, stands in sole third place. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-3",
-         "pubDate" : "Sat, 13 Jul 2024 01:00:00",
-         "title" : "SuperUnited Croatia: Caruana goes into blitz section with 3-point lead"
       },
       {
          "description" : "Gukesh is now five points behind leader Caruana in seventh place, with Vidit Gujrathi climbing off the bottom of the table.",
