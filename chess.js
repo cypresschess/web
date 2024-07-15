@@ -1184,22 +1184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3084",
          "pubDate" : "Mon, 24 Jun 2024 22:25:06",
          "title" : "FIDE World Cup 8-12: Multiple leaders emerge after Day 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3083",
-         "pubDate" : "Mon, 24 Jun 2024 13:44:58",
-         "title" : "Max Warmerdam wins Teplice Open 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3082",
-         "pubDate" : "Mon, 24 Jun 2024 12:13:23",
-         "title" : "Gawain Jones and Elmira Mirzoeva сrowned English Chess Champions"
       }
    ]
 }
