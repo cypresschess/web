@@ -2,20 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 57th Biel Chess Festival kicked off the past weekend, this year extended with a Challengers Tournament. Chess960 and rapid chess were the first events. In the Masters, Armenian GM Haik Martirosyan was the top scorer in the rapid section, while German GM Alexander Donchenko prevailed in the Challengers. | Photo: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-rapid-960",
+         "pubDate" : "Mon, 15 Jul 2024 18:20:00",
+         "title" : "Biel Festival: Martirosyan and Donchenko the strongest in the rapid"
+      },
+      {
          "description" : " The Grand Chess Tour continued with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment and the sad news of the passing of his mother soon followed. Fabiano Caruana was the clear winner of the event, he won the rapid by 1.5 points and finished 3rd 1 point off the leaders in the blitz",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/gct-superunited-rapid-and-blitz-croatia-2024",
          "pubDate" : "Mon, 15 Jul 2024 17:57:00",
          "title" : "GCT SuperUnited Rapid and Blitz Croatia 2024 - Games and Results"
-      },
-      {
-         "description" : "The Maroczy structure - named after Hungarian star Geza Maroczy (pictured) - is one of the most popular setups against the Sicilian: White has pawns on e4 and c4 which guarantee a space advantage. Black, on the other hand, has a solid position and good counter-chances, often based on breaking through with ...b5 or ...d5. Jan Markos takes a closer look at this structure, focusing on the role of the \"inconspicuous hero\" of these positions. | Photo: Cuba News",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-winning-academy-36-the-most-important-piece-in-the-maroczy-structure-2",
-         "pubDate" : "Mon, 15 Jul 2024 12:00:00",
-         "title" : "The Winning Academy 36: The most important piece in the Maroczy Structure"
       },
       {
          "description" : "",
@@ -58,6 +58,14 @@ news_feed (
          "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 1"
       },
       {
+         "description" : "World Chess faced criticism following the announcement of &#39;Clash of Claims 2,&#39; a sequel to the controversial match between GMs Vladimir Kramnik and Jose Martinez. The company&#39;s CEO Ilya Merenzon, who expressed surprise at the reaction, has agreed ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/world-chess-announces-clash-of-claims-2-rematch-changes-name-after-reactions",
+         "pubDate" : "Mon, 15 Jul 2024 08:29:50",
+         "title" : "World Chess Agrees Name Change After 'Clash Of Claims' Criticism"
+      },
+      {
          "description" : "The European Women's Rapid and Blitz Chess Championship 2024 will take place from 9-13 January 2025 in Monte Carlo. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2024, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail: cemc@libello.com. Registration deadline is December 20th. The first event on []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -74,20 +82,28 @@ news_feed (
          "title" : "Live games link for 34th National Under - 17 Open & Girls Chess Championships 2024"
       },
       {
-         "description" : "Fabiano Caruana was simply unstoppable at the SuperUnited Rapid & Blitz Tournament in Croatia. The US star claimed his second consecutive victory in a Grand Chess Tour event with five rounds to spare, after entering the final day of action with a 4&frac12;-point lead and scoring 3&frac12; points in the first four rounds played on Sunday. In a close battle for second place, Wesley So, Alireza Firouzja and Maxime Vachier-Lagrave ended up tied with 23 points each. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-5",
-         "pubDate" : "Mon, 15 Jul 2024 01:00:00",
-         "title" : "Unstoppable Caruana dominates SuperUnited Croatia"
-      },
-      {
          "description" : "Gukesh's blitz score of 5 across two days was the lowest of all participants.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/40565494/gukesh-finishes-seventh-vidit-ninth-caruana-takes-2024-superunited-rapid-blitz-croatia-crown?device=featurephone",
          "pubDate" : "Mon, 15 Jul 2024 00:50:29",
          "title" : "Gukesh finishes seventh, Vidit ninth as Caruana takes 2024 SuperUnited Rapid & Blitz Croatia crown"
+      },
+      {
+         "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> courtesy SLCC / Austin Fuller<br /><br /><br /> <br /><br /> There will be a new U.S. Junior Champion by the end of July, with last year's winner GM Abhimanyu Mishra opting not to defend his title. Of this year's competitors, only GM Christopher Yoo has previously won the tournamen",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-us-junior-girls-junior-and-senior-championship-preview",
+         "pubDate" : "Mon, 15 Jul 2024 00:00:00",
+         "title" : "2024 U.S. Junior, Girls' Junior, and Senior Championship Preview"
+      },
+      {
+         "description" : "Fans of chess events at the Saint Louis Chess Club are used to enjoying their high level, polished broadcasts. But what goes on behind the scenes to make an event like the Cairns Cup appear to be such a well-oiled machine? It actually takes a great deal of planning by the staff at the Saint Louis Chess Campus and the production team they bring in to produce the broadcast to make it happen. In the video below, US Chess goes behind the scenes at the Cairns Cup to show you what most never get to see during a world-class chess event. We'll take a peek behind the curtain to show you:<br /><br /> What goes on while preparing for the players to arrive for round one? <br /> \tThe production facilitie",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/behind-scenes-cairns-cup",
+         "pubDate" : "Mon, 15 Jul 2024 00:00:00",
+         "title" : "Behind the Scenes at the Cairns Cup"
       },
       {
          "description" : "",
@@ -146,14 +162,6 @@ news_feed (
          "title" : "Kasparov on GCT Final: Knockout Stage Attracts Broad Public | D5 #SuperUnitedRapidBlitzCroatia"
       },
       {
-         "description" : "The third event of the 2024 Grand Chess Tour is the SuperUnited Rapid & Blitz Croatia, the second of three speed chess events. The tournament is taking place on July 10-14 in Zagreb. The event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the next World Championship challenger, Dommaraju Gukesh, and the recent winner of the Superbet Chess Classic, Fabiano Caruana. | Follow the games live with expert commentary starting at 15.00 CEST (9.00 ET, 18.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-live",
-         "pubDate" : "Sun, 14 Jul 2024 14:50:00",
-         "title" : "SuperUnited Rapid & Blitz Croatia - Live!"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Senior, U.S. Junior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below soon!). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-senior-us-junior-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -184,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-5-caruana-wins",
          "pubDate" : "Sun, 14 Jul 2024 11:50:00",
          "title" : "Caruana Wins With 5 Rounds To Spare, Matches Carlsen's Record Of 27 Points"
-      },
-      {
-         "description" : "Fabiano Caruana has a 4&frac12;-point lead over Maxime Vachier-Lagrave and Wesley So going into the final 9 rounds of blitz at the SuperUnited Tournament in Zagreb. MVL was the top scorer on Saturday, as he obtained 6&frac12;/9 points after collecting 5 wins, 3 draws and 1 loss. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/superunited-croatia-2024-4",
-         "pubDate" : "Sun, 14 Jul 2024 09:25:00",
-         "title" : "SuperUnited Croatia: MVL top scorer on the first day of blitz"
       },
       {
          "description" : "IM Stephane Bressac won the first edition of the Blindfold Chess Challenge, a tournament with a unique format held July 9-11 in Valencia, Spain, where visually-impaired players faced off with non-impaired players. The 34-year-old Bressac was the o...",
@@ -610,14 +610,6 @@ news_feed (
          "title" : "Registration Open for 2024 FIDE World Cadet Chess Championships"
       },
       {
-         "description" : "Registration is now open for the FIDE World Youth Chess Championships 2024. The international event, organized by FIDE, The Confederation of Chess for Americas (CCA) and the Brazilian Chess Federation (CBX), will take place October 28 - November 10, in Florianopolis (SC), Brazil.<br /><br /> US Chess will be accepting registrations for eligible U.S. participants until Friday, August 16, 2024. <br /><br /> TOURNAMENT DETAILS AND ELIGIBILITY<br /><br /> There will be six sections: Open and Girls in age categories Under 18, Under 16, and Under 14.<br /><br /> A player's age as of Jan. 1, 2024 determines their age eligibility for a section.<br /><br /> Under 18: Players born on or after Jan. 1, ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/registration-open-2024-fide-world-youth-chess-championships",
-         "pubDate" : "Mon, 08 Jul 2024 00:00:00",
-         "title" : "Registration Open for 2024 FIDE World Youth Chess Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -858,14 +850,6 @@ news_feed (
          "title" : "Winners crowned at World Cup Under 8-12"
       },
       {
-         "description" : "It was in serious mutual time trouble, but GM Fabiano Caruana did miss a chance to get at least very close to winning his third game at the Superbet Chess Classic Romania today, against GM Gukesh Dommaraju. The other American GM Wesley So had GM N...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-7",
-         "pubDate" : "Wed, 03 Jul 2024 12:29:00",
-         "title" : "Caruana Misses Chance To Increase Lead In Bucharest"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -880,14 +864,6 @@ news_feed (
          "link" : "https://aicf.in/india-bags-silver-bronze-in-fide-world-cup-under-8-10-12/",
          "pubDate" : "Wed, 03 Jul 2024 05:00:34",
          "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
-      },
-      {
-         "description" : "This week's workout features games from the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. The \"match\" portion of this event has just finished, and future workouts will cover those games, as well.<br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-u-12-u-10-u-8-highlights",
-         "pubDate" : "Wed, 03 Jul 2024 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Cup U-12, U-10, U-8 Highlights"
       },
       {
          "description" : "",
