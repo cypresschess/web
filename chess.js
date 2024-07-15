@@ -18,6 +18,14 @@ news_feed (
          "title" : "GCT SuperUnited Rapid and Blitz Croatia 2024 - Games and Results"
       },
       {
+         "description" : "Top-seed GM Praggnanandhaa Rameshbabu got off to a winning start on his debut in the 2024 Biel Chess Festival as he won the opening Masters Chess960, edging out GM Haik Martirosyan, who he beat in their head-to-head clash. Martirosyan then went on...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-chess960-rapid",
+         "pubDate" : "Mon, 15 Jul 2024 14:58:00",
+         "title" : "Praggnanandhaa, Martirosyan, Donchenko Star As Biel Chess Festival Begins"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -810,14 +818,6 @@ news_feed (
          "title" : "Secret features of ChessBase"
       },
       {
-         "description" : "Are you ready to take on some of the greatest strategists in history? Prepare your army and head to our Play Computer page to join forces with the new Roman Empire bots. The more games you win against the bots, the stronger they grow as the month ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/roman-empire-bots",
-         "pubDate" : "Thu, 04 Jul 2024 08:18:00",
-         "title" : "Join Forces With The Great Leaders Of The Roman Era With Chess.com's New Bots"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1152,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3085",
          "pubDate" : "Tue, 25 Jun 2024 07:26:20",
          "title" : "26th Asian Youth Chess Championships conclude in Almaty, Kazakhstan"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3084",
-         "pubDate" : "Mon, 24 Jun 2024 22:25:06",
-         "title" : "FIDE World Cup 8-12: Multiple leaders emerge after Day 2"
       }
    ]
 }
