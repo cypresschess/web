@@ -2,12 +2,68 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Grand Chess Tour continued with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment and the sad news of the passing of his mother soon followed. Fabiano Caruana was the clear winner of the event, he won the rapid by 1.5 points and finished 3rd 1 point off the leaders in the blitz",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/gct-superunited-rapid-and-blitz-croatia-2024",
+         "pubDate" : "Mon, 15 Jul 2024 17:57:00",
+         "title" : "GCT SuperUnited Rapid and Blitz Croatia 2024 - Games and Results"
+      },
+      {
+         "description" : "The Maroczy structure - named after Hungarian star Geza Maroczy (pictured) - is one of the most popular setups against the Sicilian: White has pawns on e4 and c4 which guarantee a space advantage. Black, on the other hand, has a solid position and good counter-chances, often based on breaking through with ...b5 or ...d5. Jan Markos takes a closer look at this structure, focusing on the role of the \"inconspicuous hero\" of these positions. | Photo: Cuba News",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-winning-academy-36-the-most-important-piece-in-the-maroczy-structure-2",
+         "pubDate" : "Mon, 15 Jul 2024 12:00:00",
+         "title" : "The Winning Academy 36: The most important piece in the Maroczy Structure"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3118",
+         "pubDate" : "Mon, 15 Jul 2024 11:07:50",
+         "title" : "FIDE Celebrates Centenary with FIDE100 Awards"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3117",
+         "pubDate" : "Mon, 15 Jul 2024 09:07:46",
+         "title" : "FIDE World Championships 2026: Call for bids"
+      },
+      {
          "description" : "The French Defence is one of the most popular openings - very solid against 1.e4, but also leaving room for counterplay and initiative. In a two-volume video course, former World Champion and star trainer Rustam Kasimdzhanov shows you the ins and outs of this hugely complex opening. Or are you looking for an active answer to 1.d4? Then the Gr&uuml;nfeld Indian, one of the main weapons of some top grandmasters, is an excellent choice. Let Austria's \"Player of the Century\" show you the way. Save now: this week each bundle costs €39.90 - instead of €59.80.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/play-the-french-or-the-gruenfeld",
          "pubDate" : "Mon, 15 Jul 2024 09:00:00",
          "title" : "Play the French or the Gr&uuml;nfeld"
+      },
+      {
+         "description" : "During the day today members may experience a short interruption in the office telephone service while the ECF moves to a different (and better) provider....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/office-telephones-temporary-loss-of-service/",
+         "pubDate" : "Mon, 15 Jul 2024 08:48:03",
+         "title" : "Office telephones - temporary loss of service"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-1",
+         "pubDate" : "Mon, 15 Jul 2024 08:41:36",
+         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 1"
+      },
+      {
+         "description" : "The European Women's Rapid and Blitz Chess Championship 2024 will take place from 9-13 January 2025 in Monte Carlo. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2024, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail: cemc@libello.com. Registration deadline is December 20th. The first event on []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championship-2024-official-regulations/",
+         "pubDate" : "Mon, 15 Jul 2024 07:33:48",
+         "title" : "European Women's Rapid & Blitz Chess Championship 2024 - Official regulations"
       },
       {
          "description" : "Please find the live games link for the 34th National Under - 17 Open &#38; Girls Chess Championships 2023 scheduled at Gymnasium Hall, Panjab University, Sector 14, Chandigarh from 15th to 23rd July, 2024. Open",
@@ -200,14 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/most-challenging-aspect-chess-superunitedrapidblitzcroatia",
          "pubDate" : "Sat, 13 Jul 2024 17:40:22",
          "title" : "Most Challenging Aspect of Chess? | #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Vidit Gujrathi talks to Anastasiya Karlovich before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vidit-not-desperate-enough-advice-anish-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/vV2SACFniSs.jpg?itok=-YA7Fvfy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/vidit-not-desperate-enough-advice-anish-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 13 Jul 2024 17:40:22",
-         "title" : "Vidit: Not Desperate Enough for Advice from Anish! | #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "GM Daniel Naroditsky has moved one step closer to seizing the top spot on the all-time Bullet Brawl&#38;nbsp;leaderboard after winning the latest edition ahead of GMs Arjun Erigaisi, Hikaru Nakamura, and 132 other titled players. Now sitting on 21 v...",
@@ -456,14 +504,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/chessfest-london-record-crowd/",
          "pubDate" : "Tue, 09 Jul 2024 17:57:19",
          "title" : "ChessFest London record crowd"
-      },
-      {
-         "description" : " The Grand Chess Tour continues with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment and the sad news of the passing of his mother soon followed. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gct-superunited-rapid-and-blitz-croatia-2024",
-         "pubDate" : "Tue, 9 Jul 2024 17:57:00",
-         "title" : "GCT SuperUnited Rapid and Blitz Croatia 2024 - Games and Results"
       },
       {
          "description" : "",
@@ -1080,14 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3089",
          "pubDate" : "Wed, 26 Jun 2024 14:50:16",
          "title" : "Parivartan: Transforming lives through chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championship-2024/",
-         "pubDate" : "Wed, 26 Jun 2024 08:14:30",
-         "title" : "English Women's Online Blitz Championship 2024"
       },
       {
          "description" : "",
