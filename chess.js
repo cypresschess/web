@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The French Defence is one of the most popular openings - very solid against 1.e4, but also leaving room for counterplay and initiative. In a two-volume video course, former World Champion and star trainer Rustam Kasimdzhanov shows you the ins and outs of this hugely complex opening. Or are you looking for an active answer to 1.d4? Then the Gr&uuml;nfeld Indian, one of the main weapons of some top grandmasters, is an excellent choice. Let Austria's \"Player of the Century\" show you the way. Save now: this week each bundle costs €39.90 - instead of €59.80.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/play-the-french-or-the-gruenfeld",
+         "pubDate" : "Mon, 15 Jul 2024 09:00:00",
+         "title" : "Play the French or the Gr&uuml;nfeld"
+      },
+      {
+         "description" : "Please find the live games link for the 34th National Under - 17 Open &#38; Girls Chess Championships 2023 scheduled at Gymnasium Hall, Panjab University, Sector 14, Chandigarh from 15th to 23rd July, 2024. Open",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-link-for-34th-national-under-17-open-girls-chess-championships-2024/",
+         "pubDate" : "Mon, 15 Jul 2024 06:58:51",
+         "title" : "Live games link for 34th National Under - 17 Open & Girls Chess Championships 2024"
+      },
+      {
          "description" : "Fabiano Caruana was simply unstoppable at the SuperUnited Rapid & Blitz Tournament in Croatia. The US star claimed his second consecutive victory in a Grand Chess Tour event with five rounds to spare, after entering the final day of action with a 4&frac12;-point lead and scoring 3&frac12; points in the first four rounds played on Sunday. In a close battle for second place, Wesley So, Alireza Firouzja and Maxime Vachier-Lagrave ended up tied with 23 points each. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/superunited-croatia-2024-5",
          "pubDate" : "Mon, 15 Jul 2024 01:00:00",
          "title" : "Unstoppable Caruana dominates SuperUnited Croatia"
+      },
+      {
+         "description" : "Gukesh's blitz score of 5 across two days was the lowest of all participants.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40565494/gukesh-finishes-seventh-vidit-ninth-caruana-takes-2024-superunited-rapid-blitz-croatia-crown?device=featurephone",
+         "pubDate" : "Mon, 15 Jul 2024 00:50:29",
+         "title" : "Gukesh finishes seventh, Vidit ninth as Caruana takes 2024 SuperUnited Rapid & Blitz Croatia crown"
       },
       {
          "description" : "",
@@ -1144,14 +1168,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3082",
          "pubDate" : "Mon, 24 Jun 2024 12:13:23",
          "title" : "Gawain Jones and Elmira Mirzoeva сrowned English Chess Champions"
-      },
-      {
-         "description" : "The 5th edition of the European Small Nations Individual Chess Championship and the 2nd edition of the European Small Nations Women's Chess Championship have started in Andorra la Vella. The events are supported by European Chess Union. The events are simultaneously taking place from 22nd-30th June. Both Championships are played as a 10-player round-robin tournaments, with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino. The time control of the []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-small-nations-individual-chess-championship-2024-started-in-andorra/",
-         "pubDate" : "Mon, 24 Jun 2024 06:08:12",
-         "title" : "European Small Nations Individual Chess Championship 2024 started in Andorra"
       }
    ]
 }
