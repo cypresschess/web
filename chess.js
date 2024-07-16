@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The 57th Biel Chess Festival kicked off the past weekend, this year extended with a Challengers Tournament. Chess960 and rapid chess were the first events. In the Masters, Armenian GM Haik Martirosyan was the top scorer in the rapid section, while German GM Alexander Donchenko prevailed in the Challengers. | Photo: Biel Chess Festival",
+         "description" : "<div class=\"body text-secondary\"> Just some friendly &quot;sandboxing&quot; between Wesley and Nepo following the appeal </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-and-nepo-what-you-didnt-see-grandchesstour-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v9mcLEZtz48.jpg?itok=-6cbWuSY\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-and-nepo-what-you-didnt-see-grandchesstour-chess",
+         "pubDate" : "Tue, 16 Jul 2024 02:42:15",
+         "title" : "Wesley and Nepo: What You Didn't See #GrandChessTour #chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Giri&#039;s knight finally finds a home after hope from one key square to the other </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/giri-knows-how-knight-moves-grandchesstour-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KU3sU7kCqAo.jpg?itok=_IQ--fdp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/giri-knows-how-knight-moves-grandchesstour-chess",
+         "pubDate" : "Tue, 16 Jul 2024 02:42:15",
+         "title" : "Giri Knows How The Knight Moves #GrandChessTour #chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The last moments that called for an appeal </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/flag-play-grandchesstour-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZXmwHebBoOw.jpg?itok=_9U1WbVL\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/flag-play-grandchesstour-chess",
+         "pubDate" : "Tue, 16 Jul 2024 02:42:15",
+         "title" : "Flag on the Play #Grandchesstour #chess"
+      },
+      {
+         "description" : "Running from July 17 to July 24, the highly anticipated third event of the 2024 Champions Chess Tour will feature the world's top chess players competing for a $300,000 prize pool and a coveted spot in the CCT Finals. Fans can count on the presence of last year's Tour champion GM Magnus Carlsen, chess.com Classic winner Alireza Firouzja and elite GMs Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Wesley So.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-rapid-960",
-         "pubDate" : "Mon, 15 Jul 2024 18:20:00",
-         "title" : "Biel Festival: Martirosyan and Donchenko the strongest in the rapid"
+         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-preview",
+         "pubDate" : "Tue, 16 Jul 2024 01:30:00",
+         "title" : "Carlsen, Firouzja and MVL head the field in CrunchLabs Masters"
       },
       {
          "description" : " The Grand Chess Tour continued with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment and the sad news of the passing of his mother soon followed. Fabiano Caruana was the clear winner of the event, he won the rapid by 1.5 points and finished 3rd 1 point off the leaders in the blitz",
@@ -98,7 +122,7 @@ news_feed (
          "title" : "Gukesh finishes seventh, Vidit ninth as Caruana takes 2024 SuperUnited Rapid & Blitz Croatia crown"
       },
       {
-         "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> courtesy SLCC / Austin Fuller<br /><br /><br /> <br /><br /> There will be a new U.S. Junior Champion by the end of July, with last year's winner GM Abhimanyu Mishra opting not to defend his title. Of this year's competitors, only GM Christopher Yoo has previously won the tournamen",
+         "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> courtesy SLCC / Austin Fuller<br /><br /><br /> <br /><br /> There will be a new U.S. Junior Champion by the end of July, with last year's winner GM Abhimanyu Mishra opting not to defend his title. Of this year",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2024-us-junior-girls-junior-and-senior-championship-preview",
@@ -186,14 +210,6 @@ news_feed (
          "title" : "Tani Adewumi wins U.S. Cadet!"
       },
       {
-         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
-         "pubDate" : "Sun, 14 Jul 2024 13:45:00",
-         "title" : "Biel Festival Triathlon: Rapid - Live!"
-      },
-      {
          "description" : "GM Fabiano Caruana won the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia with five rounds to spare. Scoring a total of 27 points across the five days, he matched GM Magnus Carlsen&#39;s record from 2019 of most points earned in a Grand Chess Tour rapid a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -240,30 +256,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana-wants-break-gct-rapid-blitz-record-d4-superunitedrapidblitzcroatia",
          "pubDate" : "Sat, 13 Jul 2024 20:40:36",
          "title" : "Caruana Wants to Break the GCT Rapid & Blitz Record! | D4 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 3-3-3 on the first blitz day of the SuperUnited Rapid &amp; Blitz Croatia 2024. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-appeals-wesley-so-views-instant-replay-d4-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kLGSBxxw5co.jpg?itok=qUtoJSsz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-appeals-wesley-so-views-instant-replay-d4-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 13 Jul 2024 20:40:36",
-         "title" : "Nepo Appeals! Wesley So Views Instant Replay | D4 #SuperUnitedRapidBlitzCroatia"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sara Herman recaps Day 4 of the SuperUnited Rapid &amp; Blitz Croatia 2024. Taking place at The Westin Zagreb, the SuperUnited Rapid &amp; Blitz is the fifth edition in our Croatia series and the third of five legs of the Grand Chess Tour. Seven of the Tour players are joined by three wildcards (pairings below) for a rapid round robin and a blitz double round robin. Today was the first blitz round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-superun",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-superunited-rapid-blitz-croatia-2024-day-4-grandchesstour",
-         "pubDate" : "Sat, 13 Jul 2024 20:40:36",
-         "title" : "RECAP | SuperUnited Rapid & Blitz Croatia 2024: Day 4 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The competitors share what they each personally believe to be the most challenging aspect of chess before the SuperUnited Rapid &amp; Blitz Croatia 2024. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/most-challenging-aspect-chess-superunitedrapidblitzcroatia\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yuVO16zZ0vo.jpg?itok=YbVVu2Nv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/most-challenging-aspect-chess-superunitedrapidblitzcroatia",
-         "pubDate" : "Sat, 13 Jul 2024 17:40:22",
-         "title" : "Most Challenging Aspect of Chess? | #SuperUnitedRapidBlitzCroatia"
       },
       {
          "description" : "GM Daniel Naroditsky has moved one step closer to seizing the top spot on the all-time Bullet Brawl&#38;nbsp;leaderboard after winning the latest edition ahead of GMs Arjun Erigaisi, Hikaru Nakamura, and 132 other titled players. Now sitting on 21 v...",
