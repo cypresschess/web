@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Max Warmerdam was the rating favourite in the open competition of the Dutch Championships. He defeated Sergey Tiviakov in the final to win the event. Somewhat surprisingly, Maaike Keetman defeated multiple national champion Anne Kuipers-Haast 2-0 in the final of the women's tournament. | Photos: Harry Gielen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/warmerdam-keetman-win-dutch-ch-2024",
+         "pubDate" : "Tue, 16 Jul 2024 21:00:00",
+         "title" : "Warmerdam and Keetman win the Dutch Championships"
+      },
+      {
+         "description" : "The participants of the Masters and the Challengers at the Biel Chess Festival were invited to an excursion on the first rest day: a boat trip to picturesque La Neuveville. Saleh Salem and Hail Martyrosian enjoyed the ride by playing a game of blindfold chess, which featured a remarkable tactical finish. Arne K&auml;hler is enjoying himself in Siwtzerland and recording the events on video!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-videos-1",
+         "pubDate" : "Tue, 16 Jul 2024 17:45:00",
+         "title" : "Biel: Sightseeing in La Neuveville and blindfold chess on a boat!"
+      },
+      {
+         "description" : " Saad Elmi of Norway earned his 2nd IM norm at the Zadar GM Norm Tournament in Croatia. He ended on an undefeated 6/9, drawing all three GMs in the field. Now at 18, Elmi has collected two IM norms and according to mentor GM Pontus Carlsson, &#8220;He just missed the GM norm.&#8221; FM Saad Elmi The post <a href=\"https://www.thechessdrum.net/blog/2024/07/16/saad-elmi-gets-2nd-im-norm/\">Saad Elmi gets 2nd IM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/07/16/saad-elmi-gets-2nd-im-norm/",
+         "pubDate" : "Tue, 16 Jul 2024 16:25:33",
+         "title" : "Saad Elmi gets 2nd IM norm!"
+      },
+      {
          "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,15 +74,7 @@ news_feed (
          "title" : "Flag on the Play #Grandchesstour #chess"
       },
       {
-         "description" : "Running from July 17 to July 24, the highly anticipated third event of the 2024 Champions Chess Tour will feature the world's top chess players competing for a $300,000 prize pool and a coveted spot in the CCT Finals. Fans can count on the presence of last year's Tour champion GM Magnus Carlsen, chess.com Classic winner Alireza Firouzja and elite GMs Maxime Vachier-Lagrave, Jan-Krzysztof Duda and Wesley So.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-preview",
-         "pubDate" : "Tue, 16 Jul 2024 01:30:00",
-         "title" : "Carlsen, Firouzja and MVL head the field in CrunchLabs Masters"
-      },
-      {
-         "description" : "This week's Tactics Tuesday concludes our series on the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. ",
+         "description" : "This week's Tactics Tuesday concludes our series on the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-juniors-pt-3",
@@ -82,7 +98,7 @@ news_feed (
          "title" : "GCT SuperUnited Rapid and Blitz Croatia 2024 - Games and Results"
       },
       {
-         "description" : "Top-seed GM Praggnanandhaa Rameshbabu got off to a winning start on his debut in the 2024 Biel Chess Festival as he won the opening Masters Chess960, edging out GM Haik Martirosyan, who he beat in their head-to-head clash. Martirosyan then went on...",
+         "description" : "Top-seed GM Praggnanandhaa Rameshbabu got off to a winning start on his debut in the 2024 Biel Chess Festival as he won the opening Masters Chess960, edging out GM Haik Martirosyan, whom he beat in their head-to-head clash. Martirosyan then went o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-chess960-rapid",
@@ -1128,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3088",
          "pubDate" : "Wed, 26 Jun 2024 07:22:41",
          "title" : "Aleksandar Indic and Irina Chelushkina triumph at 2024 Serbian Championship"
-      },
-      {
-         "description" : " Bernard Parham I, the 1967 Indiana State Champion and creator of the Matrix Chess System, has passed away. His son Bernard II relayed the news to The Chess Drum, &#8220;Resigned against diabetes on Wednesday, June 19th-one day after reaching his 58th wedding anniversary.&#8221; Born on October 30, 1946, to Eddie and Kathleen Parham, Bernard married The post <a href=\"https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/\">Bernard Parham, chess innovator, passes away</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/",
-         "pubDate" : "Tue, 25 Jun 2024 18:21:23",
-         "title" : "Bernard Parham, chess innovator, passes away"
       }
    ]
 }
