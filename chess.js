@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Here are some chess puzzles of a different kind. Some of you might find them very easy, some quite hard. They are at least most entertaining and should bring smiles to your face. Tell us which ones you could master. Next week we will give you the solutions - and show you a video of a strong chess player solving the problems live.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-can-be-such-fun",
+         "pubDate" : "Tue, 16 Jul 2024 08:00:00",
+         "title" : "Chess can be such fun!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Just some friendly &quot;sandboxing&quot; between Wesley and Nepo following the appeal </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-and-nepo-what-you-didnt-see-grandchesstour-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v9mcLEZtz48.jpg?itok=-6cbWuSY\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "Gukesh finishes seventh, Vidit ninth as Caruana takes 2024 SuperUnited Rapid & Blitz Croatia crown"
       },
       {
-         "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> courtesy SLCC / Austin Fuller<br /><br /><br /> <br /><br /> There will be a new U.S. Junior Champion by the end of July, with last year's winner GM Abhimanyu Mishra opting not to defend his title. Of this year",
+         "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> courtesy SLCC / Austin Fuller<br /><br /><br /> <br /><br /> There will be a new U.S. Junior Champion by the end of July, with last year's winner GM Abhimanyu Mishra opting not to defend his title. Of this year's competitors, only GM Christopher Yoo has previously won the tournamen",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2024-us-junior-girls-junior-and-senior-championship-preview",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://aicf.in/fide-world-cup-under-8-10-12-round-1/",
          "pubDate" : "Tue, 25 Jun 2024 09:30:22",
          "title" : "FIDE World Cup - Under - 8 -10-12: Round 1 "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3085",
-         "pubDate" : "Tue, 25 Jun 2024 07:26:20",
-         "title" : "26th Asian Youth Chess Championships conclude in Almaty, Kazakhstan"
       }
    ]
 }
