@@ -1128,22 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3086",
          "pubDate" : "Tue, 25 Jun 2024 11:57:34",
          "title" : "2024 FISU World University Championship Mind Sports underway in Uganda"
-      },
-      {
-         "description" : "On the Day 2 of the FIDE World Cup, we have one more major upset in the&#160;&#160;&#160;&#160;&#160; girls section U8- Group B, 8th seeded Harshika.M",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/harshika-upsets-top-seed-classen-meara-in-round-2-fide-world-cup-under-08-12/",
-         "pubDate" : "Tue, 25 Jun 2024 09:33:56",
-         "title" : "Harshika upsets top seed Classen, Meara in Round 2 :Fide World Cup Under 08-12"
-      },
-      {
-         "description" : "As FIDE celebrates its centenary anniversary this year and as part of the FIDE100 celebration a New Approach, New System has been initiated which is",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/fide-world-cup-under-8-10-12-round-1/",
-         "pubDate" : "Tue, 25 Jun 2024 09:30:22",
-         "title" : "FIDE World Cup - Under - 8 -10-12: Round 1 "
       }
    ]
 }
