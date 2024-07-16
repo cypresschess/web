@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
+         "pubDate" : "Tue, 16 Jul 2024 13:50:00",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-grassroots-support/#new_tab",
+         "pubDate" : "Tue, 16 Jul 2024 12:42:21",
+         "title" : "ECF Launches Grassroots Initiative"
+      },
+      {
          "description" : "Here are some chess puzzles of a different kind. Some of you might find them very easy, some quite hard. They are at least most entertaining and should bring smiles to your face. Tell us which ones you could master. Next week we will give you the solutions - and show you a video of a strong chess player solving the problems live.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-preview",
          "pubDate" : "Tue, 16 Jul 2024 01:30:00",
          "title" : "Carlsen, Firouzja and MVL head the field in CrunchLabs Masters"
+      },
+      {
+         "description" : "This week's Tactics Tuesday concludes our series on the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-juniors-pt-3",
+         "pubDate" : "Tue, 16 Jul 2024 00:00:00",
+         "title" : "Tactics Tuesday: FIDE World Cup Juniors, Pt. 3"
+      },
+      {
+         "description" : "2024 Women Programming Grant Cycle Announcement<br /><br /> US Chess is happy to announce a new cycle of program grant funding to support efforts to educate, retain and promote women and girls in chess. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. <br /><br /> For this cycle, we are looking for projects organized by educational non-profits (501 c3), public schools and US Chess affiliates with non-profit status. The projects should be planned for any time between September 1, 2024 through July 31, 2025. The deadline to be considered for the first round of applications is 5 PM CT on August 16, 2024. US Chess reserves the right to accept la",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-2025-women-and-girls-programming-grant-cycle-officially-open",
+         "pubDate" : "Tue, 16 Jul 2024 00:00:00",
+         "title" : "2024-2025 Women and Girls Programming Grant Cycle Officially Open!"
       },
       {
          "description" : " The Grand Chess Tour continued with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment and the sad news of the passing of his mother soon followed. Fabiano Caruana was the clear winner of the event, he won the rapid by 1.5 points and finished 3rd 1 point off the leaders in the blitz",
@@ -82,12 +114,12 @@ news_feed (
          "title" : "Play the French or the Gr&uuml;nfeld"
       },
       {
-         "description" : "During the day today members may experience a short interruption in the office telephone service while the ECF moves to a different (and better) provider....",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/office-telephones-temporary-loss-of-service/",
-         "pubDate" : "Mon, 15 Jul 2024 08:48:03",
-         "title" : "Office telephones - temporary loss of service"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3119",
+         "pubDate" : "Mon, 15 Jul 2024 08:51:45",
+         "title" : "Belgian Championship: Daniel Dardha wins fourth title"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
@@ -130,7 +162,7 @@ news_feed (
          "title" : "Gukesh finishes seventh, Vidit ninth as Caruana takes 2024 SuperUnited Rapid & Blitz Croatia crown"
       },
       {
-         "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> courtesy SLCC / Austin Fuller<br /><br /><br /> <br /><br /> There will be a new U.S. Junior Champion by the end of July, with last year's winner GM Abhimanyu Mishra opting not to defend his title. Of this year's competitors, only GM Christopher Yoo has previously won the tournamen",
+         "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> courtesy SLCC / Austin Fuller<br /><br /><br /> <br /><br /> There will be a new U.S. Junior Champion by the end of July, with last year's winner GM Abhimanyu Mishra opting not to defend his title. Of this year",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/2024-us-junior-girls-junior-and-senior-championship-preview",
@@ -600,22 +632,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-chess-championships-social-programme/",
          "pubDate" : "Mon, 08 Jul 2024 07:40:38",
          "title" : "British Chess Championships Social Programme"
-      },
-      {
-         "description" : "The first-ever FIDE World Cup for juniors took place from June 22 through July 3 in Batumi, Georgia, with Under-12, Under-10, and Under-8 open sections and corresponding sections for girls. 20 Americans competed across the six sections, comprising just over a tenth of the 198 overall participants.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Some of the 20 Americans competing in the FIDE World Cup for juniors (Photo US Chess)<br /><br /><br /> <br /><br /> In the end, three Americans took second-place finishes on the podium: Stella Xin (Under-8 girls), Aiden Li (Under-8), and Chenxuan Ling (",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/three-americans-earn-silver-inaugural-fide-world-cup-youth-event",
-         "pubDate" : "Mon, 08 Jul 2024 00:00:00",
-         "title" : "Three Americans Earn Silver At Inaugural FIDE World Cup Youth Event"
-      },
-      {
-         "description" : "Registration is now open for the FIDE World Cadet Chess Championships 2024. The international event, organized by FIDE and the Italian Chess Federation, together with UniChess, and Le Due Torri srl and ASD Fischer Chiet, will take place November, 14-27 in Montesilvano (PE), Italy.<br /><br /> US Chess will be accepting registrations for eligible U.S. participants until Friday, September 13. <br /><br /> TOURNAMENT DETAILS AND ELIGIBILITY<br /><br /> There will be six sections: Open and Girls in age categories Under 12, Under 10, and Under 8.<br /><br /> A player's age as of Jan. 1, 2024 determines their age eligibility for a section.<br /><br /> Under 12: Players born on or after Jan. 1, 201",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/registration-open-2024-fide-world-cadet-chess-championships",
-         "pubDate" : "Mon, 08 Jul 2024 00:00:00",
-         "title" : "Registration Open for 2024 FIDE World Cadet Chess Championships"
       },
       {
          "description" : "",
@@ -1120,14 +1136,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/06/25/bernard-parham-chess-innovator-passes-away/",
          "pubDate" : "Tue, 25 Jun 2024 18:21:23",
          "title" : "Bernard Parham, chess innovator, passes away"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3086",
-         "pubDate" : "Tue, 25 Jun 2024 11:57:34",
-         "title" : "2024 FISU World University Championship Mind Sports underway in Uganda"
       }
    ]
 }
