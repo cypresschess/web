@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
+         "pubDate" : "Wed, 17 Jul 2024 19:50:00",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
          "description" : "Daniel Dardha grabbed his fourth national title at the 2024 Belgian Chess Championship, which took place on 6-13 July at the Sint-Gummarus College in Liege. A final-round victory granted the 18-year-old overall victory, as he outscored Stefan Beukema by a mere half point. Mher Hovhannisyan and Sim Maerevoet tied for third place, with Hovhannisyan completing the podium on tiebreak criteria. | Photos: Belgian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
          "pubDate" : "Wed, 17 Jul 2024 13:50:00",
          "title" : "Biel Chess Festival - Live!"
-      },
-      {
-         "description" : "The European Chess Union and the Montenegro Chess Federation are inviting all National Chess Federations and eligible players to participate in the European Individual Chess Championship 2024, to be held from 7-20 November in Petrovac, Montenegro. Total prize fund: 100,000 Euros. But even if you don't win, just look at the backdrop of the event.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/european-individual-championship-2024-in-montenegro-2",
-         "pubDate" : "Wed, 17 Jul 2024 11:00:00",
-         "title" : "European Individual Championship 2024 in Montenegro"
       },
       {
          "description" : "GM Jeffery Xiong won the early edition of Titled Tuesday on July 16 outright with 10 points, his first since 2022. GM Javokhir Sindarov then won his first-ever Titled Tuesday late in a shocking turn of events. Like Xiong, Sindarov scored 10 points...",
@@ -120,6 +120,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2024-classical-1",
          "pubDate" : "Wed, 17 Jul 2024 02:40:00",
          "title" : "Biel: Abhimanyu beats Pragg, Vaishali upsets Bjerre"
+      },
+      {
+         "description" : "Round one of the U.S. Junior, Girls' Junior, and Senior Championships kicked off yesterday with some strategically beautiful wins, huge upsets, and some of the most creative chess I've seen in a long time. Overall, 12 of the 15 games ended up with a decisive result!<br /><br /> This trio of tournaments is possibly my very favorite event in all of American chess, and as it's my first year not playing in one of the two Junior sections (holding out for the Senior in a few decades, I suppose!) I'm very happy to bring to CLO the highlights from the first round!<br /><br /> <br /><br /> SENIOR<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-us-junior-girls-junior-and-senior-championships-begin-bang",
+         "pubDate" : "Wed, 17 Jul 2024 00:00:00",
+         "title" : "2024 U.S. Junior, Girls' Junior, and Senior Championships Begin with a Bang"
+      },
+      {
+         "description" : "This week's workout concludes our coverage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. Full coverage of the match portion of the tournament can be seen here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-junior-playoffs",
+         "pubDate" : "Wed, 17 Jul 2024 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Cup Junior Playoffs"
       },
       {
          "description" : "The Caveman Chess Festival ran from July 12 through 14 at the Hilton Chicago/Northbrook hotel. The festival featured several national championship events, including the U.S. Senior Open, U.S. Junior Open, and U.S. Blind Open, along with accompanying blitz and rapid tournaments. Additionally, the festival hosted the Caveman Medior Open for players ages 21 to 49. <br /><br /> The marquee events had a time control of G/90+30. GM Alex Fishbein earned a spot in the 2025 U.S. Senior Championship and WIM Alexey Root earned a spot in the 2025 U.S. Senior Women's Championship. While the U.S. Junior Open is also a qualifier for the following year's U.S. Junior Championship, it does not look like there",
@@ -586,14 +602,6 @@ news_feed (
          "title" : "15-year-old Follows In Footsteps Of Carlsen, Agdestein To Win Norwegian Title"
       },
       {
-         "description" : "This week's workout continues our coverage of the preliminary Swiss System stage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. Our coverage of the match portion can be seen here, and future workouts will cover those games, as well.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-juniors-pt-2",
-         "pubDate" : "Wed, 10 Jul 2024 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Cup Juniors, Pt. 2"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian cricket star <strong>Ravichandran Ashwin</strong> has <a href=\"https://indianexpress.com/article/sports/chess/ravichandran-ashwin-global-chess-league-franchise-9440367/\">agreed to become co-owner</a> of the <strong>American Gambits</strong> team that will replace the <strong>Chingari Gulf Titans</strong> in the forthcoming <strong>Global Chess League</strong> season. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/23000-join-bodhana-at-chessfest/",
          "pubDate" : "Tue, 09 Jul 2024 10:55:05",
          "title" : "23,000 join Bodhana at ChessFest!"
-      },
-      {
-         "description" : "The US Chess Federation is pleased to announce the 2024 Annual Award recipients. Congratulations to all of these individuals and organizations who are advancing our mission to \"empower people, enrich lives, and enhance communities through chess.\"<br /><br /> US Chess Awards Recipients from previous years can be viewed here: 2023 | 2022 | 2021 | 2020<br /><br /> <br /><br /><br /> \t\t\tNamed Awards<br /><br /> \t\t\tDan Heisman Award for Excellence in Chess Instruction<br /><br /> \t\t\tKoltanowski Awards<br /><br /> \t\t\tFrank J. Marshall Award<br /><br /><br /> \t\t\tOrganizer Awards<br /><br /> \t\t\tChess City of the Year<br /><br /> \t\t\tChess Club of the Year<br /><br /> \t\t\tChess College of the Year<br /",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-us-chess-awards-recipients",
-         "pubDate" : "Tue, 09 Jul 2024 00:00:00",
-         "title" : "2024 US Chess Awards Recipients"
       },
       {
          "description" : "The deadline for the National Under 17 Open &#38; Girls online entries has been extended to 10 July 2024, 5:00 PM. AICF",
