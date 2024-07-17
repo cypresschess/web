@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Daniel Dardha grabbed his fourth national title at the 2024 Belgian Chess Championship, which took place on 6-13 July at the Sint-Gummarus College in Liege. A final-round victory granted the 18-year-old overall victory, as he outscored Stefan Beukema by a mere half point. Mher Hovhannisyan and Sim Maerevoet tied for third place, with Hovhannisyan completing the podium on tiebreak criteria. | Photos: Belgian Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/belgian-championship-2024-dardha-wins",
+         "pubDate" : "Wed, 17 Jul 2024 17:00:00",
+         "title" : "Belgian Championship: Daniel Dardha wins fourth title"
+      },
+      {
+         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
+         "pubDate" : "Wed, 17 Jul 2024 13:50:00",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
          "description" : "The European Chess Union and the Montenegro Chess Federation are inviting all National Chess Federations and eligible players to participate in the European Individual Chess Championship 2024, to be held from 7-20 November in Petrovac, Montenegro. Total prize fund: 100,000 Euros. But even if you don't win, just look at the backdrop of the event.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/european-individual-championship-2024-in-montenegro-2",
          "pubDate" : "Wed, 17 Jul 2024 11:00:00",
          "title" : "European Individual Championship 2024 in Montenegro"
+      },
+      {
+         "description" : "GM Jeffery Xiong won the early edition of Titled Tuesday on July 16 outright with 10 points, his first since 2022. GM Javokhir Sindarov then won his first-ever Titled Tuesday late in a shocking turn of events. Like Xiong, Sindarov scored 10 points...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/xiong-sindarov-win-titled-tuesday-july-16-2024",
+         "pubDate" : "Wed, 17 Jul 2024 08:21:05",
+         "title" : "Sindarov Ends Carlsen's Perfect Bid, Wins Tournament"
+      },
+      {
+         "description" : "Get your potions ready! We&#39;re excited to announce the 2024 Spell Chess Championship, the next installment of this year&#39;s Chess.com Community Championships. Starting on August 1, anyone can be the next Chess.com Spell Chess Champion&#38;mdash;and take ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-spell-chess-championship",
+         "pubDate" : "Wed, 17 Jul 2024 08:01:00",
+         "title" : "Chess.com Community Championships Return With 2024 Spell Chess Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Larry Christiansen talks to Begim Tokhirjonova before the 2024 U.S. Senior Championship. This aired during Round 1. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
@@ -90,6 +122,14 @@ news_feed (
          "title" : "Biel: Abhimanyu beats Pragg, Vaishali upsets Bjerre"
       },
       {
+         "description" : "The Caveman Chess Festival ran from July 12 through 14 at the Hilton Chicago/Northbrook hotel. The festival featured several national championship events, including the U.S. Senior Open, U.S. Junior Open, and U.S. Blind Open, along with accompanying blitz and rapid tournaments. Additionally, the festival hosted the Caveman Medior Open for players ages 21 to 49. <br /><br /> The marquee events had a time control of G/90+30. GM Alex Fishbein earned a spot in the 2025 U.S. Senior Championship and WIM Alexey Root earned a spot in the 2025 U.S. Senior Women's Championship. While the U.S. Junior Open is also a qualifier for the following year's U.S. Junior Championship, it does not look like there",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/caveman-chess-festival-champions-and-camaraderie",
+         "pubDate" : "Wed, 17 Jul 2024 00:00:00",
+         "title" : "Caveman Chess Festival: Champions and Camaraderie"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/de",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -106,7 +146,7 @@ news_feed (
          "title" : "57th Biel Chess Festival 2024 - Games and Results"
       },
       {
-         "description" : "Lowest-seed GM Vaishali Rameshbabu stunned top-seed GM Jonas Bjerre to win with Black in the first classical games of the 2024 Biel Chess Festival Challengers, but her brother GM Praggnanandhaa Rameshbabu suffered the opposite fate. The top seed i...",
+         "description" : "Lowest-seed GM Vaishali Rameshbabu stunned top-seed GM Jonas Bjerre to win with Black in the first round of classical games in the 2024 Biel Chess Festival Challengers, but her brother GM Praggnanandhaa Rameshbabu suffered the opposite fate. The t...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-1",
@@ -602,14 +642,6 @@ news_feed (
          "title" : "2024 US Chess Awards Recipients"
       },
       {
-         "description" : "This week's Tactics Tuesday follows up on last week's coverage of the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-ages-12-and-under-pt-2",
-         "pubDate" : "Tue, 09 Jul 2024 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Cup Ages 12 and Under, Pt. 2"
-      },
-      {
          "description" : "The deadline for the National Under 17 Open &#38; Girls online entries has been extended to 10 July 2024, 5:00 PM. AICF",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -776,22 +808,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-9",
          "pubDate" : "Fri, 05 Jul 2024 13:11:00",
          "title" : "Caruana Wins Superbet Chess Classic Romania In Playoff After Dramatic Final Day"
-      },
-      {
-         "description" : "TwitchCon, TwitchCon, TwitchCon. I just celebrated my first time at the convention as part of the Chess.com team. Sure, I expected things to be a little bit wild. But what I walked into was a vibrant ball of purple-drenched chaos, inflatable pawns...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/twitch-con-eu-2024",
-         "pubDate" : "Fri, 05 Jul 2024 12:05:00",
-         "title" : "Suns Out, Pawns Out: Chess.com Invades TwitchConEu"
-      },
-      {
-         "description" : "Fifteen-time Bangladesh Chess Champion GM Ziaur Rahman has passed away today after suffering a stroke during his 12th-round game at the national chess championship, the Bangladesh Chess Federation has confirmed. The 50-year-old had a close-to-wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/grandmaster-ziaur-rahman-dies-heart-attack-game-bangladesh",
-         "pubDate" : "Fri, 05 Jul 2024 10:33:00",
-         "title" : "GM Ziaur Rahman Dies After Stroke During Game In Bangladesh Chess Championship"
       },
       {
          "description" : "",
@@ -1104,14 +1120,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3091",
          "pubDate" : "Thu, 27 Jun 2024 07:30:40",
          "title" : "Tech Mahindra Global Chess League to host its second edition in London"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3089",
-         "pubDate" : "Wed, 26 Jun 2024 14:50:16",
-         "title" : "Parivartan: Transforming lives through chess"
       }
    ]
 }
