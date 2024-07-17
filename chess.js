@@ -138,7 +138,7 @@ news_feed (
          "title" : "Chess can be such fun!"
       },
       {
-         "description" : "This week's Tactics Tuesday concludes our series on the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. ",
+         "description" : "This week's Tactics Tuesday concludes our series on the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-juniors-pt-3",
@@ -216,14 +216,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-34th-national-under-17-open-girls-chess-championships-2024/",
          "pubDate" : "Mon, 15 Jul 2024 06:58:51",
          "title" : "Live games link for 34th National Under - 17 Open & Girls Chess Championships 2024"
-      },
-      {
-         "description" : "Gukesh's blitz score of 5 across two days was the lowest of all participants.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/40565494/gukesh-finishes-seventh-vidit-ninth-caruana-takes-2024-superunited-rapid-blitz-croatia-crown?device=featurephone",
-         "pubDate" : "Mon, 15 Jul 2024 00:50:29",
-         "title" : "Gukesh finishes seventh, Vidit ninth as Caruana takes 2024 SuperUnited Rapid & Blitz Croatia crown"
       },
       {
          "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> courtesy SLCC / Austin Fuller<br /><br /><br /> <br /><br /> There will be a new U.S. Junior Champion by the end of July, with last year's winner GM Abhimanyu Mishra opting not to defend his title. Of this year",
@@ -1112,14 +1104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3087",
          "pubDate" : "Wed, 26 Jun 2024 08:13:02",
          "title" : "Nine new female teams to participate in 45th Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3088",
-         "pubDate" : "Wed, 26 Jun 2024 07:22:41",
-         "title" : "Aleksandar Indic and Irina Chelushkina triumph at 2024 Serbian Championship"
       }
    ]
 }
