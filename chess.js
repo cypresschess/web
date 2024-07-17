@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Due to relay failure, broadcast was split into two parts. To be re-uploaded in full. Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-2-part-1-original-broadcast",
+         "pubDate" : "Wed, 17 Jul 2024 20:43:44",
+         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 2 (Part 1) (ORIGINAL BROADCAST)"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Due to relay failure, broadcast was split into two parts. To be re-uploaded in full. Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junio",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-2-part-2-original-broadcast",
+         "pubDate" : "Wed, 17 Jul 2024 20:43:44",
+         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 2 (Part 2) (ORIGINAL BROADCAST)"
+      },
+      {
          "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +34,20 @@ news_feed (
          "title" : "Belgian Championship: Daniel Dardha wins fourth title"
       },
       {
-         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
-         "pubDate" : "Wed, 17 Jul 2024 13:50:00",
-         "title" : "Biel Chess Festival - Live!"
+         "description" : "GMs Vaishali Rameshbabu and Abhimanyu Mishra both won again in round two of the 2024 Biel Chess Festival despite being the lowest-rated players in their groups. Mishra leads the Masters after a long, grinding win against GM Sam Shankland, while Va...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-2",
+         "pubDate" : "Wed, 17 Jul 2024 15:44:27",
+         "title" : "Vaishali, Mishra Continue Giant-Killing In Biel"
+      },
+      {
+         "description" : "GMs Ian Nepomniachtchi, Hikaru Nakamura, and Mikhail Antipov finished in a three-way tie with 7/9 in the CrunchLabs Masters 2024 Play-in, but it was Nepomniachtchi who had the best tiebreaks. Mizzou student and CCL star Antipov reaches Division I ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-play-in",
+         "pubDate" : "Wed, 17 Jul 2024 12:48:00",
+         "title" : "Nepomniachtchi Wins Play-in On Tiebreaks Over Nakamura, Antipov"
       },
       {
          "description" : "GM Jeffery Xiong won the early edition of Titled Tuesday on July 16 outright with 10 points, his first since 2022. GM Javokhir Sindarov then won his first-ever Titled Tuesday late in a shocking turn of events. Like Xiong, Sindarov scored 10 points...",
@@ -106,22 +130,6 @@ news_feed (
          "title" : "Shabalov: Becerra Played Timid | R1 #USSeniors"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Vladimir Akopian talks to Kostya Kavutskiy after defeating Novikov in Round 1 of the 2024 U.S. Senior Championship. 2024.07.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/akopian-tried-be-safe-possible-r1-usseniors",
-         "pubDate" : "Wed, 17 Jul 2024 02:43:02",
-         "title" : "Akopian: Tried to Be Safe as Possible | R1 #USSeniors"
-      },
-      {
-         "description" : "Chess prodigy Abhimaynu Mishra scored a major victory in the first round of classical chess at the Masters Triathlon in Biel, as he managed to take down elite GM Praggnanandhaa with the black pieces. Defending champion Le Quang Liem beat Vincent Keymer to grab the lead in the standings. Meanwhile in the Challengers, all three games ended decisively. Alexander Donchenko, who beat Ihor Samunenkov, is the sole leader in this section. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-classical-1",
-         "pubDate" : "Wed, 17 Jul 2024 02:40:00",
-         "title" : "Biel: Abhimanyu beats Pragg, Vaishali upsets Bjerre"
-      },
-      {
          "description" : "Round one of the U.S. Junior, Girls' Junior, and Senior Championships kicked off yesterday with some strategically beautiful wins, huge upsets, and some of the most creative chess I've seen in a long time. Overall, 12 of the 15 games ended up with a decisive result!<br /><br /> This trio of tournaments is possibly my very favorite event in all of American chess, and as it's my first year not playing in one of the two Junior sections (holding out for the Senior in a few decades, I suppose!) I'm very happy to bring to CLO the highlights from the first round!<br /><br /> <br /><br /> SENIOR<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -144,14 +152,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/caveman-chess-festival-champions-and-camaraderie",
          "pubDate" : "Wed, 17 Jul 2024 00:00:00",
          "title" : "Caveman Chess Festival: Champions and Camaraderie"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/de",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-2",
-         "pubDate" : "Tue, 16 Jul 2024 23:42:59",
-         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 2"
       },
       {
          "description" : " The 57th Biel Chess Festival takes place 13th to 26th July 2024. ",
@@ -730,14 +730,6 @@ news_feed (
          "title" : "Howard University Chess Club approaches 100 years!"
       },
       {
-         "description" : "The latest edition of Bullet Brawl,&#38;nbsp;which was one of the strongest in the event&#39;s history, was won by GM Daniel Naroditsky, who outscored GMs Hikaru Nakamura, Magnus Carlsen, Arjun Erigaisi, Rameshbabu Praggnanandhaa, and 125 other titled pla...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-july-6-2024",
-         "pubDate" : "Sat, 06 Jul 2024 15:55:00",
-         "title" : "Naroditsky Outscores Nakamura, Carlsen, Erigaisi, Praggnanandhaa"
-      },
-      {
          "description" : "This week I focus on the praiseworthy efforts of the National Director for Chess in Prisons, Carl Portman. In what follows, I will quote extensively from the Director's own writings: \"In 2022 I volunteered to manage a team of chess players at HMP Hewell and enter them into the International World online prison chess championships as []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -800,14 +792,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/silver-and-gold-membership-merge-2024-british-chess-championships/",
          "pubDate" : "Fri, 05 Jul 2024 13:40:13",
          "title" : "Silver and Gold Membership Merge/2024 British Chess Championships"
-      },
-      {
-         "description" : "GM Fabiano Caruana ended up winning the $68,750 first prize at the Superbet Chess Classic Romania after a dramatic final day in Bucharest. Although he lost his classical game to a strong-playing GM Anish Giri, the American GM won all three games i...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superbet-chess-classic-romania-round-9",
-         "pubDate" : "Fri, 05 Jul 2024 13:11:00",
-         "title" : "Caruana Wins Superbet Chess Classic Romania In Playoff After Dramatic Final Day"
       },
       {
          "description" : "",
