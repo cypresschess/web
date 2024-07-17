@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The European Chess Union and the Montenegro Chess Federation are inviting all National Chess Federations and eligible players to participate in the European Individual Chess Championship 2024, to be held from 7-20 November in Petrovac, Montenegro. Total prize fund: 100,000 Euros. But even if you don't win, just look at the backdrop of the event.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/european-individual-championship-2024-in-montenegro-2",
+         "pubDate" : "Wed, 17 Jul 2024 11:00:00",
+         "title" : "European Individual Championship 2024 in Montenegro"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Larry Christiansen talks to Begim Tokhirjonova before the 2024 U.S. Senior Championship. This aired during Round 1. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -102,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-1",
-         "pubDate" : "Tue, 16 Jul 2024 17:41:14",
+         "pubDate" : "Tue, 16 Jul 2024 17:41:00",
          "title" : "Vaishali Beats Top Seed As Praggnanandhaa Falls To Mishra"
       },
       {
@@ -216,6 +224,14 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-34th-national-under-17-open-girls-chess-championships-2024/",
          "pubDate" : "Mon, 15 Jul 2024 06:58:51",
          "title" : "Live games link for 34th National Under - 17 Open & Girls Chess Championships 2024"
+      },
+      {
+         "description" : "Gukesh's blitz score of 5 across two days was the lowest of all participants.",
+         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
+         "iconName" : "ESPN",
+         "link" : "https://www.espn.com/chess/story/_/id/40565494/gukesh-finishes-seventh-vidit-ninth-caruana-takes-2024-superunited-rapid-blitz-croatia-crown?device=featurephone",
+         "pubDate" : "Mon, 15 Jul 2024 00:50:29",
+         "title" : "Gukesh finishes seventh, Vidit ninth as Caruana takes 2024 SuperUnited Rapid & Blitz Croatia crown"
       },
       {
          "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> courtesy SLCC / Austin Fuller<br /><br /><br /> <br /><br /> There will be a new U.S. Junior Champion by the end of July, with last year's winner GM Abhimanyu Mishra opting not to defend his title. Of this year",
@@ -1096,14 +1112,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3089",
          "pubDate" : "Wed, 26 Jun 2024 14:50:16",
          "title" : "Parivartan: Transforming lives through chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3087",
-         "pubDate" : "Wed, 26 Jun 2024 08:13:02",
-         "title" : "Nine new female teams to participate in 45th Chess Olympiad"
       }
    ]
 }
