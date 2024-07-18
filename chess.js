@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first stage of the CrunchLab Masters, the Play-In, took place on Wednesday. Ian Nepomniachtchi, Mikhail Antipov and Hikaru Nakamura were the top scorers in the 9-round Swiss open featuring 118 players. The aforementioned GMs were 3 of the 11 participants who qualified to the Division I Placement stage. Former world champion Vladimir Kramnik was among the 11 qualified participants. | Photo: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d1",
+         "pubDate" : "Thu, 18 Jul 2024 10:00:00",
+         "title" : "CrunchLabs Masters Play-In: Nepo, Antipov and Nakamura score 7/9"
+      },
+      {
+         "description" : "International chess arbiter Arild Rimestad from Denmark has been given a two-year ban by the FIDE Ethics and Disciplinary Commission (EDC) following multiple reports of sexual harassment against a female FIDE employee. In its decision dated July...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/top-arbiter-banned-sexual-harassment-major-chess-tournaments",
+         "pubDate" : "Thu, 18 Jul 2024 02:47:46",
+         "title" : "Top International Arbiter Banned For Sexual Harassment During Major Tournaments"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 2 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/defa",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -722,14 +738,6 @@ news_feed (
          "title" : "How the 'Messi of Chess' Is Creating 'Faustimania' In Argentina"
       },
       {
-         "description" : "GM-elect Yagiz Erdogmus won the Under 13 ChessKid Youth Championship 2024 a week ago and has now booked his place in the knockout Finals of the Under 16 Championship. Once again he won his group with 8/10, as did GM Abhimanyu Mishra, while GMs-ele...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-16-day-1",
-         "pubDate" : "Sat, 06 Jul 2024 17:33:00",
-         "title" : "Erdogmus, Mishra On Course To Meet In Final"
-      },
-      {
          "description" : " Howard University, founded in 1867, is a preeminent institution of higher learning. Jamaal Abdul-Alim&#160;has been an unofficial advisor to the chess club for several years, helping the organization in various areas, including a recent historical project. Currently an adjunct professor at the University of Maryland, he is keen on the potential of leveraging chess at The post <a href=\"https://www.thechessdrum.net/blog/2024/07/06/howard-university-chess-club-approaches-100-years/\">Howard University Chess Club approaches 100 years!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1088,30 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3092",
          "pubDate" : "Thu, 27 Jun 2024 13:24:24",
          "title" : "Queen Trap: Music short film to feature women in chess at Chess Olympiad"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111312036.cms\" />​Gukesh, who is set to challenge reigning World Champion Ding Liren of China later this year, benefited from a tactical oversight by both players in the middle game but quickly capitalized on his advantage to secure the victory in his first classical game since winning the Candidates tournament.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-beats-deac-bogdan-danielin-superbet-classic-chess/articleshow/111312036.cms",
-         "pubDate" : "Thu, 27 Jun 2024 09:55:13",
-         "title" : "Gukesh beats Deac Bogdan-Daniel in Superbet Classic chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/NSCC/english-schools-finals-2024/#new_tab",
-         "pubDate" : "Thu, 27 Jun 2024 08:06:40",
-         "title" : "English Schools Finals 2024 start today"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3091",
-         "pubDate" : "Thu, 27 Jun 2024 07:30:40",
-         "title" : "Tech Mahindra Global Chess League to host its second edition in London"
       }
    ]
 }
