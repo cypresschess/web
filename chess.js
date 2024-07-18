@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
+         "pubDate" : "Thu, 18 Jul 2024 13:50:00",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3120",
+         "pubDate" : "Thu, 18 Jul 2024 12:52:23",
+         "title" : "Pawel Sowinski triumphs in Slovakia Chess Open"
+      },
+      {
          "description" : "The first stage of the CrunchLab Masters, the Play-In, took place on Wednesday. Ian Nepomniachtchi, Mikhail Antipov and Hikaru Nakamura were the top scorers in the 9-round Swiss open featuring 118 players. The aforementioned GMs were 3 of the 11 participants who qualified to the Division I Placement stage. Former world champion Vladimir Kramnik was among the 11 qualified participants. | Photo: FIDE",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,15 +82,7 @@ news_feed (
          "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 2 (Part 2) (ORIGINAL BROADCAST)"
       },
       {
-         "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
-         "pubDate" : "Wed, 17 Jul 2024 19:50:00",
-         "title" : "US Senior and Junior Championships - Live!"
-      },
-      {
-         "description" : "Daniel Dardha grabbed his fourth national title at the 2024 Belgian Chess Championship, which took place on 6-13 July at the Sint-Gummarus College in Liege. A final-round victory granted the 18-year-old overall victory, as he outscored Stefan Beukema by a mere half point. Mher Hovhannisyan and Sim Maerevoet tied for third place, with Hovhannisyan completing the podium on tiebreak criteria. | Photos: Belgian Chess Federation",
+         "description" : "Daniel Dardha grabbed his fourth national title at the 2024 Belgian Chess Championship, which took place on 6-13 July at the Sint-Gummarus College in Lier. A final-round victory granted the 18-year-old overall victory, as he outscored Stefan Beukema by a mere half point. Mher Hovhannisyan and Sim Maerevoet tied for third place, with Hovhannisyan completing the podium on tiebreak criteria. | Photos: Belgian Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/belgian-championship-2024-dardha-wins",
@@ -1088,14 +1096,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-chess-classic-r-praggnanandhaa-d-gukesh-secure-draws-against-top-opponents-in-round-2/articleshow/111330727.cms",
          "pubDate" : "Fri, 28 Jun 2024 04:50:00",
          "title" : "Superbet Chess: Pragg, Gukesh secure draws in Round 2"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3092",
-         "pubDate" : "Thu, 27 Jun 2024 13:24:24",
-         "title" : "Queen Trap: Music short film to feature women in chess at Chess Olympiad"
       }
    ]
 }
