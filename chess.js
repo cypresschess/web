@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Ziaur Rahman, the second grandmaster of Bangladesh and the player to have reached the highest rating in his country (2570), passed away on 5 July while playing a game of chess at the Bangladeshi National Championships. He suffered a heart attack and collapsed to the ground. Ziaur was just 50 years old. In this article, we look back at his life and remember what a gem of a person he was both on and off the board, and we also share heartfelt messages from some of the top Indian GMs. | Photo: Amruta Mokal",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ziaur-rahman-obituary-sagar-shah",
+         "pubDate" : "Thu, 18 Jul 2024 21:00:00",
+         "title" : "Ziaur Rahman, Bangladeshi chess legend"
+      },
+      {
+         "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
+         "pubDate" : "Thu, 18 Jul 2024 19:50:00",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The competitors share their preparation routines before the 2024 U.S. Girls' Junior Championship. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/preparation-important-chess-tournaments-usjuniors",
+         "pubDate" : "Thu, 18 Jul 2024 17:44:16",
+         "title" : "Preparation for Important Chess Tournaments? | #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Andy Woodward talks to Kostya Kavutskiy after a draw against Arthur Guo in Round 2 of the 2024 U.S. Junior Championship. 2024.07.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/woodward-happy-guo-draw-goal-do-better-r2-usjuniors",
+         "pubDate" : "Thu, 18 Jul 2024 17:44:16",
+         "title" : "Woodward: Happy with Guo Draw, Goal is to Do Better | R2 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Kostya Kavutskiy after defeating Ladan in Round 2 of the 2024 U.S. Junior Championship. 2024.07.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-used-my-better-understanding-win-today-r2-usjuniors",
+         "pubDate" : "Thu, 18 Jul 2024 17:44:16",
+         "title" : "Christopher Yoo: Used My Better Understanding to Win Today | R2 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chloe Gaw talks to Kostya Kavutskiy after defeating Rachael Li in Round 2 of the 2024 U.S. Girls' Junior Championship. 2024.07.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chloe-gaw-rachael%E2%80%99s-be5-was-shocking-r2-usjuniors",
+         "pubDate" : "Thu, 18 Jul 2024 17:44:16",
+         "title" : "Chloe Gaw: Rachael's Be5 was Shocking! | R2 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Justin Wang talks to Kostya Kavutskiy after defeating Hardaway in Round 2 of the 2024 U.S. Junior Championship. 2024.07.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/justin-wang-probably-just-lucky-r2-usjuniors",
+         "pubDate" : "Thu, 18 Jul 2024 17:44:16",
+         "title" : "Justin Wang: Probably Just Lucky | R2 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Balaji Daggupati talks to Kostya Kavutskiy after defeating Hong in Round 2 of the 2024 U.S. Junior Championship. 2024.07.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/daggupati-bounces-back-against-strong-hong-r2-usjuniors",
+         "pubDate" : "Thu, 18 Jul 2024 17:44:16",
+         "title" : "Daggupati Bounces Back Against Strong Hong | R2 #USJuniors"
+      },
+      {
          "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +82,20 @@ news_feed (
          "title" : "Pawel Sowinski triumphs in Slovakia Chess Open"
       },
       {
-         "description" : "The first stage of the CrunchLab Masters, the Play-In, took place on Wednesday. Ian Nepomniachtchi, Mikhail Antipov and Hikaru Nakamura were the top scorers in the 9-round Swiss open featuring 118 players. The aforementioned GMs were 3 of the 11 participants who qualified to the Division I Placement stage. Former world champion Vladimir Kramnik was among the 11 qualified participants. | Photo: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d1",
-         "pubDate" : "Thu, 18 Jul 2024 10:00:00",
-         "title" : "CrunchLabs Masters Play-In: Nepo, Antipov and Nakamura score 7/9"
+         "description" : "This is a flash report. The full article will be added to this page soon. GMs Fabiano Caruana, Wesley So, Ian Nepomniachtchi, Jan-Krzysztof Duda, and Dmitry Andreikin won their matches on day two of the CrunchLabs Masters 2024 to make it into th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-division-placement",
+         "pubDate" : "Thu, 18 Jul 2024 12:14:32",
+         "title" : "Caruana, Wesley So, Nepomniachtchi, Duda, Andreikin Advance To Division I"
+      },
+      {
+         "description" : "The US Chess Federation announced on Monday that Shama Yisrael, a 20-year-old from Florida, has crossed the 2200 USCF rating barrier and will become the first female, African-American national master in the country&#39;s history when the rating lists ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yisrael-becomes-first-female-african-american-national-master",
+         "pubDate" : "Thu, 18 Jul 2024 11:13:49",
+         "title" : "Yisrael Becomes 1st Female, African-American National Master In U.S."
       },
       {
          "description" : "International chess arbiter Arild Rimestad from Denmark has been given a two-year ban by the FIDE Ethics and Disciplinary Commission (EDC) following multiple reports of sexual harassment against a female FIDE employee. In its decision dated July...",
@@ -42,6 +114,22 @@ news_feed (
          "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 2"
       },
       {
+         "description" : "The second round of the U.S. Junior, Girls' Junior, and Senior championships followed the pattern of the first: much excitement culminating in more than half the games ending decisively. It was a step down from yesterday's 12, but there were eight decisive games today with the black pieces scoring the majority of wins.<br /><br /> <br /><br /> SENIOR<br /><br /> Usually after two rounds these Round Robin tournaments will leave just one player on a perfect score, and in the Senior, that honor goes to the top seed, GM Vladimir Akopian.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Akopian is in",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/another-decisive-day-books-after-junior-girls-junior-and-senior-championships",
+         "pubDate" : "Thu, 18 Jul 2024 00:00:00",
+         "title" : "Another Decisive Day in the Books After Junior, Girls' Junior, and Senior Championships"
+      },
+      {
+         "description" : "Job Title: Marketing and Communications ManagerReports To: Executive DirectorFLSA: Exempt, Full TimeLocation: St. Louis, Missouri based; telecommuting possibleBenefits: Full benefits package available<br /><br /> <br /><br /> Overview<br /><br /> Responsible for planning, development and implementation of all US Chess external communications, marketing strategies and communications, public relations activities, and internal communications. Oversees development and implementation of support materials and services for affiliates and committees in the area of marketing, communications, and public relations. Consults with the Communications team to coordinate the efforts of US Chess publications",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-seeks-marketingcommunications-manager",
+         "pubDate" : "Thu, 18 Jul 2024 00:00:00",
+         "title" : "US Chess Seeks Marketing/Communications Manager"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-3\"><img src=\"https://saintlouischessclub.org/sites/de",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -58,36 +146,12 @@ news_feed (
          "title" : "Andy Woodward: Focus on the Moment | #USJuniors"
       },
       {
-         "description" : "Abhimanyu Mishra took the lead at the Masters Triathlon in Biel. Thanks to his victory over Sam Shankland, the youngest GM in history climbed to the top of the standings. He also benefited from the fact that the other games ended in draws, in particular from the fact that Haik Martirosyan was unable to capitalise on a promising position against Vincent Keymer. An underdog is also in impressive form in the Challengers: Vaishali obtained a second victory in a row on Wednesday, as did Saleh Salem, who thus took the lead in this section. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-classical-2",
-         "pubDate" : "Wed, 17 Jul 2024 22:35:00",
-         "title" : "Biel: Abhimanyu and Vaishali continue to impress"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Due to relay failure, broadcast was split into two parts. To be re-uploaded in full. Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junio",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-2-part-1-original-broadcast",
          "pubDate" : "Wed, 17 Jul 2024 20:43:44",
          "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 2 (Part 1) (ORIGINAL BROADCAST)"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Due to relay failure, broadcast was split into two parts. To be re-uploaded in full. Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-2-part-2-original-broadcast",
-         "pubDate" : "Wed, 17 Jul 2024 20:43:44",
-         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 2 (Part 2) (ORIGINAL BROADCAST)"
-      },
-      {
-         "description" : "Daniel Dardha grabbed his fourth national title at the 2024 Belgian Chess Championship, which took place on 6-13 July at the Sint-Gummarus College in Lier. A final-round victory granted the 18-year-old overall victory, as he outscored Stefan Beukema by a mere half point. Mher Hovhannisyan and Sim Maerevoet tied for third place, with Hovhannisyan completing the podium on tiebreak criteria. | Photos: Belgian Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/belgian-championship-2024-dardha-wins",
-         "pubDate" : "Wed, 17 Jul 2024 17:00:00",
-         "title" : "Belgian Championship: Daniel Dardha wins fourth title"
       },
       {
          "description" : "GMs Vaishali Rameshbabu and Abhimanyu Mishra both won again in round two of the 2024 Biel Chess Festival despite being the lowest-rated players in their groups. Mishra leads the Masters after a long, grinding win against GM Sam Shankland, while Va...",
@@ -120,46 +184,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-chesscom-spell-chess-championship",
          "pubDate" : "Wed, 17 Jul 2024 08:01:00",
          "title" : "Chess.com Community Championships Return With 2024 Spell Chess Championship"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Larry Christiansen talks to Begim Tokhirjonova before the 2024 U.S. Senior Championship. This aired during Round 1. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christiansen-mystery-chess-has-evaporated-usseniors",
-         "pubDate" : "Wed, 17 Jul 2024 02:43:02",
-         "title" : "Christiansen: Mystery of Chess Has Evaporated | #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chloe Gaw talks to Kostya Kavutskiy after a draw against Atwell in Round 1 of the 2024 U.S. Girls' Junior Championship. 2024.07.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chloe-gaw-try-play-chess-i-can-be-proud-r1-usjuniors",
-         "pubDate" : "Wed, 17 Jul 2024 02:43:02",
-         "title" : "Chloe Gaw: Try to Play Chess I Can Be Proud of | R1 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Gregory Kaidanov talks to Kostya Kavutskiy after a draw against Root in Round 1 of the 2024 U.S. Senior Championship. 2024.07.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kaidanov-my-ambitions-are-%E2%80%98play-well%E2%80%99-r1-usseniors",
-         "pubDate" : "Wed, 17 Jul 2024 02:43:02",
-         "title" : "Kaidanov: My Ambitions are 'Play Well' | R1 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Larry Christiansen talks to Kostya Kavutskiy after defeating Benjamin in Round 1 of the 2024 U.S. Senior Championship. 2024.07.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christiansen-strives-finish-top-ten-r1-usseniors",
-         "pubDate" : "Wed, 17 Jul 2024 02:43:02",
-         "title" : "Christiansen Strives to Finish in Top Ten! | R1 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Kostya Kavutskiy after defeating Arthur Guo in Round 1 of the 2024 U.S. Junior Championship. 2024.07.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/did-christopher-yoo%E2%80%99s-bluff-scare-guo-r1-usjuniors",
-         "pubDate" : "Wed, 17 Jul 2024 02:43:02",
-         "title" : "Did Christopher Yoo's Bluff Scare Guo? | R1 #USJuniors"
       },
       {
          "description" : "Round one of the U.S. Junior, Girls' Junior, and Senior Championships kicked off yesterday with some strategically beautiful wins, huge upsets, and some of the most creative chess I've seen in a long time. Overall, 12 of the 15 games ended up with a decisive result!<br /><br /> This trio of tournaments is possibly my very favorite event in all of American chess, and as it's my first year not playing in one of the two Junior sections (holding out for the Senior in a few decades, I suppose!) I'm very happy to bring to CLO the highlights from the first round!<br /><br /> <br /><br /> SENIOR<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
@@ -530,14 +554,6 @@ news_feed (
          "title" : "Chess: Nunn leads England over-65s to gold at world senior championships"
       },
       {
-         "description" : "The 2024 FIDE World Senior Team Championship took place from July 2 through 11 in Krakow, Poland, with 65 teams competing across the 50+ and 65+ sections. <br /><br /> All in all, Team USA took home the gold in the 50+ section, with Team USA Women earning the silver medal for women's teams in the 50+ and the bronze in the 65+ section. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Team USA does it again! (Photo courtesy Mark Livshitz/FIDE)<br /><br /><br /> <br /><br /> In the 50+ section, the 2023 champions returned with four of last year's five gold medalists (with GM Melikset Khachiyan ste",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/three-medals-team-usa-2024-fide-world-senior-team-championships",
-         "pubDate" : "Fri, 12 Jul 2024 00:00:00",
-         "title" : "Three Medals for Team USA at 2024 FIDE World Senior Team Championships"
-      },
-      {
          "description" : "Gukesh top scored on day 2, along with Caruana, and is now just two points behind the latter.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -584,14 +600,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/40537821/superunited-rapid-blitz-2024-d-gukesh-vidit-gujrathi-struggle-poor-start-croatia-day-1?device=featurephone",
          "pubDate" : "Thu, 11 Jul 2024 00:01:41",
          "title" : "SuperUnited Rapid & Blitz: Gukesh and Vidit struggle with poor start in Croatia on Day 1"
-      },
-      {
-         "description" : "Editor's note: GM Awonder Liang has agreed to write a report on his come-from-behind victory in the 2024 World Open in a future print edition of Chess Life magazine. Until then, enjoy this personal report from Matt Clibanoff, a World Open regular and chess instructor.<br /><br /> Boasting a guaranteed prize fund of $208,000 across the top six sections, the World Open holds an incredible allure for amateur and professional chess players alike. But, for most of us, \"cashing\" in the World Open is but a dream. In reality, the crowds are huge, the children are all severely underrated, and there is never enough soap or paper towels in the bathroom. <br /><br /> While many are drawn in by the promi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/liang-takes-clear-first-2024-world-open",
-         "pubDate" : "Thu, 11 Jul 2024 00:00:00",
-         "title" : "Liang Takes Clear First at 2024 World Open"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave came into the 2024 SuperUnited Croatia Rapid &#38;amp; Blitz after drawing all nine games in Bucharest, but in Zagreb, Croatia he began by winning a wild game against the player who was replacing GM Magnus Carlsen, GM Levon A...",
@@ -728,22 +736,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/",
          "pubDate" : "Sun, 07 Jul 2024 20:47:14",
          "title" : "St. Louis Chess Club upgrading!"
-      },
-      {
-         "description" : "13-year-old GM-elect Yagiz Erdogmus has added the Under 16 ChessKid Youth Championship 2024 title to the Under 13 title he won a week ago. The Turkish prodigy overcame fellow GM-elect Ivan Zemlyanskii 3-1 in the Final after Zemlyanskii had upset G...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesskid-youth-championships-under-16-erdogmus-wins",
-         "pubDate" : "Sun, 07 Jul 2024 14:04:00",
-         "title" : "Erdogmus Clinches Double ChessKid Youth Championships Triumph"
-      },
-      {
-         "description" : "FM Faustino Oro, dubbed the &#39;Messi of Chess,&#39; has created a media frenzy in his native Argentina by setting a prestigious new world record. This week he followed up by beating none other than GM Hikaru Nakamura twice. Oro achieved his final norm...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/how-the-messi-of-chess-is-creating-faustimania-in-argentina",
-         "pubDate" : "Sun, 07 Jul 2024 09:54:00",
-         "title" : "How the 'Messi of Chess' Is Creating 'Faustimania' In Argentina"
       },
       {
          "description" : " Howard University, founded in 1867, is a preeminent institution of higher learning. Jamaal Abdul-Alim&#160;has been an unofficial advisor to the chess club for several years, helping the organization in various areas, including a recent historical project. Currently an adjunct professor at the University of Maryland, he is keen on the potential of leveraging chess at The post <a href=\"https://www.thechessdrum.net/blog/2024/07/06/howard-university-chess-club-approaches-100-years/\">Howard University Chess Club approaches 100 years!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
