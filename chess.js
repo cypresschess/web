@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 2 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-2\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-2",
+         "pubDate" : "Thu, 18 Jul 2024 02:43:58",
+         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 2"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-3\"><img src=\"https://saintlouischessclub.org/sites/de",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-3",
+         "pubDate" : "Wed, 17 Jul 2024 23:43:53",
+         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 3"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Andy Woodward talks to Begim Tokhirjonova before the 2024 U.S. Junior Championship. This aired during Round 2. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/andy-woodward-focus-moment-usjuniors",
+         "pubDate" : "Wed, 17 Jul 2024 23:43:53",
+         "title" : "Andy Woodward: Focus on the Moment | #USJuniors"
+      },
+      {
+         "description" : "Abhimanyu Mishra took the lead at the Masters Triathlon in Biel. Thanks to his victory over Sam Shankland, the youngest GM in history climbed to the top of the standings. He also benefited from the fact that the other games ended in draws, in particular from the fact that Haik Martirosyan was unable to capitalise on a promising position against Vincent Keymer. An underdog is also in impressive form in the Challengers: Vaishali obtained a second victory in a row on Wednesday, as did Saleh Salem, who thus took the lead in this section. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-classical-2",
+         "pubDate" : "Wed, 17 Jul 2024 22:35:00",
+         "title" : "Biel: Abhimanyu and Vaishali continue to impress"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Due to relay failure, broadcast was split into two parts. To be re-uploaded in full. Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junio",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -38,7 +70,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-2",
-         "pubDate" : "Wed, 17 Jul 2024 15:44:27",
+         "pubDate" : "Wed, 17 Jul 2024 15:44:00",
          "title" : "Vaishali, Mishra Continue Giant-Killing In Biel"
       },
       {
@@ -104,30 +136,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/did-christopher-yoo%E2%80%99s-bluff-scare-guo-r1-usjuniors",
          "pubDate" : "Wed, 17 Jul 2024 02:43:02",
          "title" : "Did Christopher Yoo's Bluff Scare Guo? | R1 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 1 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-1\"><img src=\"https://saintlouischessclub.org/sites/defa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-1",
-         "pubDate" : "Wed, 17 Jul 2024 02:43:02",
-         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 1"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Melik Khachiyan talks to Kostya Kavutskiy after defeating Kraai in Round 1 of the 2024 U.S. Senior Championship. 2024.07.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/khachiyan-jesse-surprised-me-i-got-lucky-r1-usseniors",
-         "pubDate" : "Wed, 17 Jul 2024 02:43:02",
-         "title" : "Khachiyan: Jesse Surprised Me; I Got Lucky | R1 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Shabalov talks to Kostya Kavutskiy after defeating Becerra in Round 1 of the 2024 U.S. Senior Championship. 2024.07.16<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shabalov-becerra-played-timid-r1-usseniors",
-         "pubDate" : "Wed, 17 Jul 2024 02:43:02",
-         "title" : "Shabalov: Becerra Played Timid | R1 #USSeniors"
       },
       {
          "description" : "Round one of the U.S. Junior, Girls' Junior, and Senior Championships kicked off yesterday with some strategically beautiful wins, huge upsets, and some of the most creative chess I've seen in a long time. Overall, 12 of the 15 games ended up with a decisive result!<br /><br /> This trio of tournaments is possibly my very favorite event in all of American chess, and as it's my first year not playing in one of the two Junior sections (holding out for the Senior in a few decades, I suppose!) I'm very happy to bring to CLO the highlights from the first round!<br /><br /> <br /><br /> SENIOR<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
