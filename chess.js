@@ -10,6 +10,22 @@ news_feed (
          "title" : "Ziaur Rahman, Bangladeshi chess legend"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Julio Becerra talks to Kostya Kavutskiy after defeating Khachiyan in Round 2 of the 2024 U.S. Senior Championship. 2024.07.17<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/becerra-motivation-play-every-year-r2-usseniors",
+         "pubDate" : "Thu, 18 Jul 2024 20:44:25",
+         "title" : "Becerra: Motivation to Play Every Year | R2 #USSeniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-4\"><img src=\"https://saintlouischessclub.org/sites/de",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-4",
+         "pubDate" : "Thu, 18 Jul 2024 20:44:25",
+         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 4"
+      },
+      {
          "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,12 +82,20 @@ news_feed (
          "title" : "Daggupati Bounces Back Against Strong Hong | R2 #USJuniors"
       },
       {
-         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
-         "pubDate" : "Thu, 18 Jul 2024 13:50:00",
-         "title" : "Biel Chess Festival - Live!"
+         "description" : "GM Vaishali Rameshbabu just can&#39;t stop winning! The Indian star took the lead in the 2024 Biel Chess Festival Challengers and has entered the Women&#39;s Top-10 after defeating GM Ihor Samunenkov with a brilliant, if flawed, attack. GM Jonas Bjerre gr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-3-1",
+         "pubDate" : "Thu, 18 Jul 2024 15:21:57",
+         "title" : "Vaishali Enters Top 10 With 3rd Win In A Row"
+      },
+      {
+         "description" : "A new study by Chess.com&#39;s Fair Play Team has estimated the cheating rate in Titled Tuesday to be less than 2% for most events. However, the platform is introducing a new public closure policy to underscore the commitment to combat cheating. The...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fair-play-team-estimates-cheating-rate-titled-tuesday",
+         "pubDate" : "Thu, 18 Jul 2024 14:07:15",
+         "title" : "Fair Play Team Estimates Cheating Rate In Titled Tuesday, New Public Closure Policy"
       },
       {
          "description" : "",
@@ -82,11 +106,11 @@ news_feed (
          "title" : "Pawel Sowinski triumphs in Slovakia Chess Open"
       },
       {
-         "description" : "This is a flash report. The full article will be added to this page soon. GMs Fabiano Caruana, Wesley So, Ian Nepomniachtchi, Jan-Krzysztof Duda, and Dmitry Andreikin won their matches on day two of the CrunchLabs Masters 2024 to make it into th...",
+         "description" : "GMs Fabiano Caruana, Wesley So, Ian Nepomniachtchi, Jan-Krzysztof Duda, and Dmitry Andreikin won their matches on day two of the CrunchLabs Masters 2024 to make it into Division I. They join the players who qualified through the last Champions Che...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-division-placement",
-         "pubDate" : "Thu, 18 Jul 2024 12:14:32",
+         "pubDate" : "Thu, 18 Jul 2024 12:14:00",
          "title" : "Caruana, Wesley So, Nepomniachtchi, Duda, Andreikin Advance To Division I"
       },
       {
@@ -136,22 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-3",
          "pubDate" : "Wed, 17 Jul 2024 23:43:53",
          "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 3"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Andy Woodward talks to Begim Tokhirjonova before the 2024 U.S. Junior Championship. This aired during Round 2. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/andy-woodward-focus-moment-usjuniors",
-         "pubDate" : "Wed, 17 Jul 2024 23:43:53",
-         "title" : "Andy Woodward: Focus on the Moment | #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Due to relay failure, broadcast was split into two parts. To be re-uploaded in full. Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junio",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-2-part-1-original-broadcast",
-         "pubDate" : "Wed, 17 Jul 2024 20:43:44",
-         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 2 (Part 1) (ORIGINAL BROADCAST)"
       },
       {
          "description" : "GMs Vaishali Rameshbabu and Abhimanyu Mishra both won again in round two of the 2024 Biel Chess Festival despite being the lowest-rated players in their groups. Mishra leads the Masters after a long, grinding win against GM Sam Shankland, while Va...",
@@ -618,28 +626,12 @@ news_feed (
          "title" : "Announcing The 2023 Create Your Own Course Winners"
       },
       {
-         "description" : "GMs Magnus Carlsen and Hikaru Nakamura won the July 9 editions of Titled Tuesday. It&#39;s the fourth time the world&#39;s two best blitz chess players have each won one of the Tuesday events, but only the first time this year, last occurring on December ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/carlsen-nakamura-win-titled-tuesday-july-9-2024",
-         "pubDate" : "Wed, 10 Jul 2024 07:44:10",
-         "title" : "Carlsen-Nakamura Double Feature In Titled Tuesday"
-      },
-      {
          "description" : "No Name 1 Rapolu Dhanush Kumar 2 Shuktara Samkalpa 3 Chandra Raj 4 Abhishek Borthakur 5 Rituraj Borgohain 6 Anurag Pritam Medhi 7 Gnanyta Netha",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-guwahati-from-21st-to-22nd-june-2024/",
          "pubDate" : "Wed, 10 Jul 2024 05:31:06",
          "title" : "Certificates for SNA Seminar held at Guwahati from 21st to 22nd June 2024"
-      },
-      {
-         "description" : "IM Aksel Bu Kvaloy is Norway&#39;s new national champion, copying the feat of GMs Simen Agdestein and Magnus Carlsen by winning the title at age 15. The Norwegian Championship took place from June 28 to July 5 in the mountain resort of Gol, drawing ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/15-year-old-copies-magnus-carlsen-norwegian-champion",
-         "pubDate" : "Wed, 10 Jul 2024 03:29:00",
-         "title" : "15-year-old Follows In Footsteps Of Carlsen, Agdestein To Win Norwegian Title"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian cricket star <strong>Ravichandran Ashwin</strong> has <a href=\"https://indianexpress.com/article/sports/chess/ravichandran-ashwin-global-chess-league-franchise-9440367/\">agreed to become co-owner</a> of the <strong>American Gambits</strong> team that will replace the <strong>Chingari Gulf Titans</strong> in the forthcoming <strong>Global Chess League</strong> season. </div> ",
