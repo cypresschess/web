@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
+         "pubDate" : "Fri, 19 Jul 2024 16:50:00",
+         "title" : "CrunchLab Masters - Live!"
+      },
+      {
+         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
+         "pubDate" : "Fri, 19 Jul 2024 13:50:00",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111865016.cms\" />It's a case of all's well that ends well for Deep Sengupta. The Kolkata Grandmaster who was once uncertain of whether he could make it to Warsaw in time to take part in the Najdorf Memorial chess tournament, ultimately ended up winning the title on Wednesday. Sengupta's connecting flight from Abu Dhabi to Paris got delayed by almost 11 hours thereby making it impossible for him to catch his next connecting flight from Paris to Warsaw.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-gm-deep-sengupta-overcomes-travel-woes-to-bag-title/articleshow/111865016.cms",
+         "pubDate" : "Fri, 19 Jul 2024 12:40:38",
+         "title" : "Kolkata GM Deep Sengupta overcomes travel woes to bag title"
+      },
+      {
          "description" : "Day 2 of the CrunchLab Masters saw players fighting to enter the double-elimination knockouts in the Division Placement stage. At the end of the day, five well-known names qualified to the Division I knockout, where they will join Magnus Carlsen and co. as they battle for a spot in this year's end-of-season Tour Finals. A few elite GMs were unable to make it to the top division, though, including online-chess expert Hikaru Nakamura. | Photo: FIDE / Mark Livshitz",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -48,6 +72,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jul/19/chess-caruana-equals-carlsens-record-as-kasparov-criticises-world-title-match",
          "pubDate" : "Fri, 19 Jul 2024 07:00:34",
          "title" : "Chess: Caruana equals Carlsen's record as Kasparov criticises world title match"
+      },
+      {
+         "description" : "Chess.com is excited to announce a new partnership with Tech Mahindra to support the second season of the Global Chess League. The event will take place at Friends House in London from October 3 to 12 and feature a $1,000,000 prize fund. The Glo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chesscom-partners-with-global-chess-league-2024",
+         "pubDate" : "Fri, 19 Jul 2024 06:00:00",
+         "title" : "Chess.com Partners With Tech Mahindra To Bring Season 2 Of The Global Chess League"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Yassamin Ehsani talks to Kostya Kavutskiy after defeating Tang in Round 3 of the 2024 U.S. Girls' Junior Championship. 2024.07.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
@@ -170,7 +202,7 @@ news_feed (
          "title" : "Another Decisive Day in the Books After Junior, Girls' Junior, and Senior Championships"
       },
       {
-         "description" : "Job Title: Marketing and Communications ManagerReports To: Executive DirectorFLSA: Exempt, Full TimeLocation: St. Louis, Missouri based; telecommuting possibleBenefits: Full benefits package available<br /><br /> <br /><br /> Overview<br /><br /> Responsible for planning, development and implementation of all US Chess external communications, marketing strategies and communications, public relations activities, and internal communications. Oversees development and implementation of support materials and services for affiliates and committees in the area of marketing, communications, and public relations. Consults with the Communications team to coordinate the efforts of US Chess publications",
+         "description" : "Job Title: Marketing and Communications ManagerReports To: Executive DirectorFLSA: Exempt, Full TimeLocation: St. Louis, Missouri based; telecommuting possibleBenefits: Full benefits package available<br /><br /> <br /><br /> Overview<br /><br /> Responsible for planning, development, and implementation of all US Chess external communications, marketing strategies and communications, public relations activities, and internal communications. Oversees the development and implementation of support materials and services for affiliates and committees in the areas of marketing, communications, and public relations. Consults with the Communications team to coordinate the efforts of US Chess public",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-seeks-marketingcommunications-manager",
@@ -634,14 +666,6 @@ news_feed (
          "title" : "Vachier-Lagrave Sole Leader After Day 1 Of Croatia Grand Chess Tour"
       },
       {
-         "description" : "Chess.com is excited to announce the winners of the 2023 Create Your Own Course contest, authors IceBreaker and Benedictine! Their courses, Killer Kings: The King as a Fighting Piece in Chess and Advanced Chess Patterns, are now available on Chess...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2023-create-your-own-course-winners",
-         "pubDate" : "Wed, 10 Jul 2024 08:00:00",
-         "title" : "Announcing The 2023 Create Your Own Course Winners"
-      },
-      {
          "description" : "No Name 1 Rapolu Dhanush Kumar 2 Shuktara Samkalpa 3 Chandra Raj 4 Abhishek Borthakur 5 Rituraj Borgohain 6 Anurag Pritam Medhi 7 Gnanyta Netha",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -1064,14 +1088,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-misses-out-on-joint-leader-spot-after-draw-against-d-gukesh-at-superbet-classic-chess-tournament/articleshow/111360180.cms",
          "pubDate" : "Sat, 29 Jun 2024 08:21:36",
          "title" : "Pragg misses joint leader spot after draw against Gukesh"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3093",
-         "pubDate" : "Fri, 28 Jun 2024 13:00:07",
-         "title" : "Newly revised \"Preparation of Lecturers\" course announced"
       }
    ]
 }
