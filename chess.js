@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In almost every chess game there comes a moment when you just can't go on without tactics. You must strike, because nothing is more annoying than missing a winning combination in the decisive situation, thus giving away the advantage you have worked for the whole game. So it is vital to train tactics properly - and Master Class Tactics offers you the perfect tool for this purpose!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/oliver-reeh-master-class-tactics-train-your-combination-skills-vol-3",
+         "pubDate" : "Fri, 19 Jul 2024 18:30:00",
+         "title" : "Oliver Reeh: Master Class Tactics - Train your combination skills! Vol.3"
+      },
+      {
          "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d2",
          "pubDate" : "Fri, 19 Jul 2024 12:30:00",
          "title" : "CrunchLabs Masters: Moussard beats Nakamura"
+      },
+      {
+         "description" : "This is a flash report. The full article will be added to this page soon. GM Alireza Firouzja may have suffered a &#34;once-in-a-lifetime,&#34; nine-move loss against GM Fabiano Caruana, but he still won the Division I Winners Quarterfinals match in the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-3",
+         "pubDate" : "Fri, 19 Jul 2024 11:14:16",
+         "title" : "Firouzja Recovers After 9-Move Loss, Joins Carlsen, Vachier-Lagrave, Duda In Winners"
+      },
+      {
+         "description" : "GM Hikaru Nakamura skips the 45th FIDE Chess Olympiad that will take place in the Hungarian capital Budapest on September 11-22, but the U.S. team of GMs Fabiano Caruana, Wesley So, Leinier Dominguez, Levon Aronian, and Ray Robson is still the top...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/chess-olympiad-teams-announced-us-india",
+         "pubDate" : "Fri, 19 Jul 2024 10:17:00",
+         "title" : "U.S. Top Seeds, India Close 2nd As Chess Olympiad Teams Announced"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Vladimir Akopian talks to Kostya Kavutskiy after defeating Christiansen in Round 3 of the 2024 U.S. Senior Championship. 2024.07.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
@@ -138,6 +162,14 @@ news_feed (
          "title" : "Biel: Vaishali wins again, now sole leader in Challengers"
       },
       {
+         "description" : "We finally dipped below 50% decisive games, with \"only\" seven today, but out of these seven, more than half came from a single tournament.<br /><br /> <br /><br /> SENIOR<br /><br /> The Senior section was a display of accuracy from all players, with four games ending in draws where neither player faltered for too long. In fact, everyone involved finished with above 95% accuracy.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Perhaps the most striking example came between GMs Melikset Khachiyan and Alexander Shabalov. After neutralizing Khachiyan's opening advantage with almost perfect play, Shabalov enter",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/clarity-top-after-first-third-us-junior-girls-and-senior-championships",
+         "pubDate" : "Fri, 19 Jul 2024 00:00:00",
+         "title" : "Clarity at the Top After First Third of U.S. Junior, Girls', and Senior Championships"
+      },
+      {
          "description" : "Ziaur Rahman, the second grandmaster of Bangladesh and the player to have reached the highest rating in his country (2570), passed away on 5 July while playing a game of chess at the Bangladeshi National Championships. He suffered a heart attack and collapsed to the ground. Ziaur was just 50 years old. In this article, we look back at his life and remember what a gem of a person he was both on and off the board, and we also share heartfelt messages from some of the top Indian GMs. | Photo: Amruta Mokal",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -194,7 +226,7 @@ news_feed (
          "title" : "Top International Arbiter Banned For Sexual Harassment During Major Tournaments"
       },
       {
-         "description" : "The second round of the U.S. Junior, Girls' Junior, and Senior championships followed the pattern of the first: much excitement culminating in more than half the games ending decisively. It was a step down from yesterday's 12, but there were eight decisive games today with the black pieces scoring the majority of wins.<br /><br /> <br /><br /> SENIOR<br /><br /> Usually after two rounds these Round Robin tournaments will leave just one player on a perfect score, and in the Senior, that honor goes to the top seed, GM Vladimir Akopian.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Akopian is in top form so far (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <",
+         "description" : "The second round of the U.S. Junior, Girls' Junior, and Senior championships followed the pattern of the first: much excitement culminating in more than half the games ending decisively. It was a step down from yesterday's 12, but there were eight decisive games today with the black pieces scoring the majority of wins.<br /><br /> <br /><br /> SENIOR<br /><br /> Usually after two rounds these Round Robin tournaments will leave just one player on a perfect score, and in the Senior, that honor goes to the top seed, GM Vladimir Akopian.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Akopian is in",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/another-decisive-day-books-after-junior-girls-junior-and-senior-championships",
@@ -466,14 +498,6 @@ news_feed (
          "title" : "Stephane Bressac Wins Unique 1st Blindfold Chess Challenge, Open To Everyone"
       },
       {
-         "description" : "US Chess 2023-2024 Women's Programming Grant Cycle Highlights<br /><br /> With the generous support of the Saint Louis Chess Club, the US Chess Women's Programming Grant directly supports the growth and retention of women and girls in chess. Grant awardees can engage women and girls in chess in the manner that best reflects the strengths of their organizations. <br /><br /> The 2024-2025 Women's Grant Cycle will be announced very soon. We encourage chess programs engaging women and girls to apply and expand the impact of this amazing initiative! In the meantime, congratulations to this year's awardees and here are highlights of how they utilized their grant.<br /><br /> Berkeley Chess School",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2023-2024-us-chess-women-and-girls-programming-grant-highlights",
-         "pubDate" : "Sun, 14 Jul 2024 00:00:00",
-         "title" : "2023-2024 US Chess Women and Girls Programming Grant Highlights! "
-      },
-      {
          "description" : "In the overall standings, Gukesh remains in seventh spot with a total of 11.5 points and Vidit is ninth with 7.5 points to his name.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -642,28 +666,12 @@ news_feed (
          "title" : "Announcing The 2024 CrunchLabs Masters, Champions Chess Tour's Third Event"
       },
       {
-         "description" : "Sigrun &#38;Oslash;en (1963-2024), a chemical engineer and the mother of 16th World Chess Champion Magnus Carlsen, passed away in Oslo on Tuesday at the age of just 61. She died peacefully with her family around her after suffering a long illness. S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/sigrun-oen-mother-of-magnus-carlsen-passes-away-at-61",
-         "pubDate" : "Thu, 11 Jul 2024 03:10:00",
-         "title" : "Sigrun Øen, Mother Of Magnus Carlsen, Passes Away At 61"
-      },
-      {
          "description" : "Gukesh only managed two draws from his opening three games, while Vidit lost all three as the Indian pair were bottom of the standings after Day 1.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
          "link" : "https://www.espn.com/chess/story/_/id/40537821/superunited-rapid-blitz-2024-d-gukesh-vidit-gujrathi-struggle-poor-start-croatia-day-1?device=featurephone",
          "pubDate" : "Thu, 11 Jul 2024 00:01:41",
          "title" : "SuperUnited Rapid & Blitz: Gukesh and Vidit struggle with poor start in Croatia on Day 1"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave came into the 2024 SuperUnited Croatia Rapid &#38;amp; Blitz after drawing all nine games in Bucharest, but in Zagreb, Croatia he began by winning a wild game against the player who was replacing GM Magnus Carlsen, GM Levon A...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-1",
-         "pubDate" : "Wed, 10 Jul 2024 14:14:00",
-         "title" : "Vachier-Lagrave Sole Leader After Day 1 Of Croatia Grand Chess Tour"
       },
       {
          "description" : "No Name 1 Rapolu Dhanush Kumar 2 Shuktara Samkalpa 3 Chandra Raj 4 Abhishek Borthakur 5 Rituraj Borgohain 6 Anurag Pritam Medhi 7 Gnanyta Netha",
