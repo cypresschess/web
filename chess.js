@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The CrunchLabs Masters which is part of the online Champions Chess Tour takes place 19th to 24th June 2024. Players: Carlsen, Firouzja, Nepomniachtchi, MVL, Duda, Caruana, Andreikin and Wesley So play in the top group.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/crunchlabs-masters-2024",
+         "pubDate" : "Fri, 19 Jul 2024 21:44:00",
+         "title" : "CrunchLabs Masters 2024 - Games and Results"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Is the sacrifice worth the compensation? Commentators analyze a position in a game between U.S. Seniors&#039; Kraai and Khachiyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sacrificewhy-uschesschamps-usseniors-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e7FVIzqBPTc.jpg?itok=ZdBiB0pq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/sacrificewhy-uschesschamps-usseniors-chesscom",
+         "pubDate" : "Fri, 19 Jul 2024 20:45:02",
+         "title" : "Sacrifice...WHY? #USChessChamps #usseniors #chesscom"
+      },
+      {
          "description" : "In almost every chess game there comes a moment when you just can't go on without tactics. You must strike, because nothing is more annoying than missing a winning combination in the decisive situation, thus giving away the advantage you have worked for the whole game. So it is vital to train tactics properly - and Master Class Tactics offers you the perfect tool for this purpose!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
          "pubDate" : "Fri, 19 Jul 2024 16:50:00",
          "title" : "CrunchLab Masters - Live!"
+      },
+      {
+         "description" : "Two-time U.S. Women&#39;s Chess Champion WGM Jennifer Shahade has filed a major lawsuit against US Chess, its president Randy Bauer, and chess writer Peter Tamburro, alleging defamation, retaliation, and discrimination after her public allegations of ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/jennifer-shahade-files-lawsuit-against-us-chess-misconduct",
+         "pubDate" : "Fri, 19 Jul 2024 13:54:45",
+         "title" : "Jennifer Shahade Files Lawsuit Against US Chess For Misconduct And Retaliation"
       },
       {
          "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
@@ -34,19 +58,11 @@ news_feed (
          "title" : "Kolkata GM Deep Sengupta overcomes travel woes to bag title"
       },
       {
-         "description" : "Day 2 of the CrunchLab Masters saw players fighting to enter the double-elimination knockouts in the Division Placement stage. At the end of the day, five well-known names qualified to the Division I knockout, where they will join Magnus Carlsen and co. as they battle for a spot in this year's end-of-season Tour Finals. A few elite GMs were unable to make it to the top division, though, including online-chess expert Hikaru Nakamura. | Photo: FIDE / Mark Livshitz",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d2",
-         "pubDate" : "Fri, 19 Jul 2024 12:30:00",
-         "title" : "CrunchLabs Masters: Moussard beats Nakamura"
-      },
-      {
-         "description" : "This is a flash report. The full article will be added to this page soon. GM Alireza Firouzja may have suffered a &#34;once-in-a-lifetime,&#34; nine-move loss against GM Fabiano Caruana, but he still won the Division I Winners Quarterfinals match in the...",
+         "description" : "GM Alireza Firouzja may have suffered a &#34;once-in-a-lifetime,&#34; nine-move loss against GM Fabiano Caruana, but he still won the Division I Winners Quarterfinals match in the CrunchLabs Masters 2024. He&#39;ll play GM Jan-Krzysztof Duda in the Winners Se...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-3",
-         "pubDate" : "Fri, 19 Jul 2024 11:14:16",
+         "pubDate" : "Fri, 19 Jul 2024 11:14:00",
          "title" : "Firouzja Recovers After 9-Move Loss, Joins Carlsen, Vachier-Lagrave, Duda In Winners"
       },
       {
@@ -146,36 +162,12 @@ news_feed (
          "title" : "Arthur Guo: Exciting Rounds Coming Up | R3 #USJuniors"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The competitors share how they handle psychological aspects of the game before the 2024 U.S. Senior Championship. This aired during Round 3. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/handling-pressure-maintaining-focus-chess-usseniors",
-         "pubDate" : "Fri, 19 Jul 2024 02:44:31",
-         "title" : "Handling Pressure & Maintaining Focus in Chess? | #USSeniors"
-      },
-      {
-         "description" : "All three games finished drawn in round 3 of the Masters Triathlon at the Biel Chess Festival, which means Abhimanyu Mishra remains as the sole leader in the 6-player event. In the Challengers section, the lowest-rated participant, Vaishali R, continues to perform flawlessly, as she won her third classical game in a row. Vaishali thus grabbed the sole lead in the tournament. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-classical-3",
-         "pubDate" : "Fri, 19 Jul 2024 00:45:00",
-         "title" : "Biel: Vaishali wins again, now sole leader in Challengers"
-      },
-      {
          "description" : "We finally dipped below 50% decisive games, with \"only\" seven today, but out of these seven, more than half came from a single tournament.<br /><br /> <br /><br /> SENIOR<br /><br /> The Senior section was a display of accuracy from all players, with four games ending in draws where neither player faltered for too long. In fact, everyone involved finished with above 95% accuracy.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Perhaps the most striking example came between GMs Melikset Khachiyan and Alexander Shabalov. After neutralizing Khachiyan's opening advantage with almost perfect play, Shabalov entered an endgame where he was exerting pressure for a couple moves until Kh",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/clarity-top-after-first-third-us-junior-girls-and-senior-championships",
          "pubDate" : "Fri, 19 Jul 2024 00:00:00",
          "title" : "Clarity at the Top After First Third of U.S. Junior, Girls', and Senior Championships"
-      },
-      {
-         "description" : "Ziaur Rahman, the second grandmaster of Bangladesh and the player to have reached the highest rating in his country (2570), passed away on 5 July while playing a game of chess at the Bangladeshi National Championships. He suffered a heart attack and collapsed to the ground. Ziaur was just 50 years old. In this article, we look back at his life and remember what a gem of a person he was both on and off the board, and we also share heartfelt messages from some of the top Indian GMs. | Photo: Amruta Mokal",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ziaur-rahman-obituary-sagar-shah",
-         "pubDate" : "Thu, 18 Jul 2024 21:00:00",
-         "title" : "Ziaur Rahman, Bangladeshi chess legend"
       },
       {
          "description" : "GM Vaishali Rameshbabu just can&#39;t stop winning! The Indian star took the lead in the 2024 Biel Chess Festival Challengers and has entered the Women&#39;s Top-10 after defeating GM Ihor Samunenkov with a brilliant, if flawed, attack. GM Jonas Bjerre gr...",
@@ -656,14 +648,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3110",
          "pubDate" : "Thu, 11 Jul 2024 08:32:30",
          "title" : "SuperUnited Rapid & Blitz Croatia: Vachier-Lagrave takes sole lead"
-      },
-      {
-         "description" : "Chess.com is excited to announce the 2024 CrunchLabs Masters, the next leg of The Champions Chess Tour (CCT). Running from July 17 to July 24, this highly anticipated event, in partnership with CrunchLabs, will feature the world&#39;s top chess player...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-2024-crunchlabs-masters-champions-chess-tour",
-         "pubDate" : "Thu, 11 Jul 2024 07:03:00",
-         "title" : "Announcing The 2024 CrunchLabs Masters, Champions Chess Tour's Third Event"
       },
       {
          "description" : "Gukesh only managed two draws from his opening three games, while Vidit lost all three as the Indian pair were bottom of the standings after Day 1.",
