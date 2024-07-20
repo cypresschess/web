@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Today, on July 20, 2024, FIDE has scheduled a celebration in Paris to mark 100 years since it was officially formed in the French capital. FIDE is marking its centenary with many different programs aimed at existing and new chess fans around the globe - be they schoolchildren, refugees, people in prisons, charities, club players, or newcomers to the game! The highlights: an Olympic-style torch relay and a Guinness Book record attempt.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/congratulations-fide-turns-100",
+         "pubDate" : "Sat, 20 Jul 2024 08:00:00",
+         "title" : "Congratulations: FIDE turns 100!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Young Alice Lee shows a sigh of relief as her opponent blunders at the end to give her the opportunity for the win </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blunder-alice-relieved-uschesschamps-usjuniors-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Zfihnf-_gh0.jpg?itok=QsIzVcNq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/blunder-alice-relieved-uschesschamps-usjuniors-chesscom",
+         "pubDate" : "Sat, 20 Jul 2024 05:45:27",
+         "title" : "BLUNDER!!! Alice Is Relieved #uschesschamps #usjuniors #chesscom"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 4 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-4\"><img src=\"https://saintlouischessclub.org/sites/defa",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -162,14 +178,6 @@ news_feed (
          "title" : "Chess.com Partners With Tech Mahindra To Bring Season 2 Of The Global Chess League"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Yassamin Ehsani talks to Kostya Kavutskiy after defeating Tang in Round 3 of the 2024 U.S. Girls' Junior Championship. 2024.07.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ehsani%E2%80%99s-%E2%80%98pretty-solid%E2%80%99-win-over-zoey-r3-usjuniors",
-         "pubDate" : "Fri, 19 Jul 2024 05:44:34",
-         "title" : "Ehsani's 'Pretty Solid' Win over Zoey | R3 #USJuniors"
-      },
-      {
          "description" : "We finally dipped below 50% decisive games, with \"only\" seven today, but out of these seven, more than half came from a single tournament.<br /><br /> <br /><br /> SENIOR<br /><br /> The Senior section was a display of accuracy from all players, with four games ending in draws where neither player faltered for too long. In fact, everyone involved finished with above 95% accuracy.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Perhaps the most striking example came between GMs Melikset Khachiyan and Alexander Shabalov. After neutralizing Khachiyan's opening advantage with almost perfect play, Shabalov enter",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -190,7 +198,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/fair-play-team-estimates-cheating-rate-titled-tuesday",
-         "pubDate" : "Thu, 18 Jul 2024 14:07:15",
+         "pubDate" : "Thu, 18 Jul 2024 14:07:00",
          "title" : "Fair Play Team Estimates Cheating Rate In Titled Tuesday, New Public Closure Policy"
       },
       {
