@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 4 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-4\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-4",
+         "pubDate" : "Sat, 20 Jul 2024 02:45:19",
+         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 4"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Young Alice Lee shows a sigh of relief as her opponent blunders at the end to give her the opportunity for the win </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blunder-alice-relieved\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Zfihnf-_gh0.jpg?itok=QsIzVcNq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/blunder-alice-relieved",
+         "pubDate" : "Sat, 20 Jul 2024 02:45:19",
+         "title" : "BLUNDER!!! Alice Is Relieved"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Julio Becerra talks to Begim Tokhirjonova before the 2024 U.S. Senior Championship. This aired during Round 4. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/becerra-lost-few-pounds-competing-chess-capital-usseniors",
+         "pubDate" : "Fri, 19 Jul 2024 23:45:14",
+         "title" : "Becerra: Lost a Few Pounds Before Competing in the Chess Capital | #USSeniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The competitors share their preparation routines before the 2024 U.S. Junior Championship. This aired during Round 4. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-juniors-prepare-important-chess-tournaments-usjuniors",
+         "pubDate" : "Fri, 19 Jul 2024 23:45:14",
+         "title" : "How Juniors Prepare for Important Chess Tournaments? | #USJuniors"
+      },
+      {
          "description" : " The CrunchLabs Masters which is part of the online Champions Chess Tour takes place 19th to 24th June 2024. Players: Carlsen, Firouzja, Nepomniachtchi, MVL, Duda, Caruana, Andreikin and Wesley So play in the top group.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/oliver-reeh-master-class-tactics-train-your-combination-skills-vol-3",
          "pubDate" : "Fri, 19 Jul 2024 18:30:00",
          "title" : "Oliver Reeh: Master Class Tactics - Train your combination skills! Vol.3"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu is out of the world top-10 after losing to GM Vincent Keymer, who said he&#39;d played 1.e4 for the first time &#34;in like nine years&#34; in round four of the 2024 Biel Chess Festival Masters classical section. GM Liem Le took o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-4",
+         "pubDate" : "Fri, 19 Jul 2024 17:21:00",
+         "title" : "Keymer Beats Praggnanandhaa As Le, Salem Snatch Lead"
       },
       {
          "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
@@ -58,7 +98,7 @@ news_feed (
          "title" : "Kolkata GM Deep Sengupta overcomes travel woes to bag title"
       },
       {
-         "description" : "GM Alireza Firouzja may have suffered a &#34;once-in-a-lifetime,&#34; nine-move loss against GM Fabiano Caruana, but he still won the Division I Winners Quarterfinals match in the CrunchLabs Masters 2024. He&#39;ll play GM Jan-Krzysztof Duda in the Winners Se...",
+         "description" : "GM Alireza Firouzja may have suffered a &#34;once-in-a-lifetime&#34; nine-move loss against GM Fabiano Caruana, but he still won his Division I Winners Quarterfinal match in the CrunchLabs Masters 2024. He&#39;ll play GM Jan-Krzysztof Duda in the Winners Semi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-3",
@@ -130,39 +170,7 @@ news_feed (
          "title" : "Ehsani's 'Pretty Solid' Win over Zoey | R3 #USJuniors"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Brewington Hardaway talks to Kostya Kavutskiy after a draw against Jason Wang in Round 3 of the 2024 U.S. Junior Championship. 2024.07.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wildcard-hardaway-don%E2%80%99t-have-any-expectations-r3-usjuniors",
-         "pubDate" : "Fri, 19 Jul 2024 05:44:34",
-         "title" : "Wildcard Hardaway: Don't Have Any Expectations | R3 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser talks about playing opponents rated lower </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/yasser-being-bully-uschesschamps-chess-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/A4VIUhzCZMI.jpg?itok=ZHC49OGO\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/yasser-being-bully-uschesschamps-chess-chesstalk-chesscom",
-         "pubDate" : "Fri, 19 Jul 2024 05:44:34",
-         "title" : "Yasser Being A Bully #USChessChamps #chess #chesstalk #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Rachael Li talks to Kostya Kavutskiy after defeating Vidyarthi in Round 3 of the 2024 U.S. Girls' Junior Championship. 2024.07.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rachael-li-does-not-remember-playing-%E2%80%98frogs%E2%80%99-yasser-r3-usjuniors",
-         "pubDate" : "Fri, 19 Jul 2024 05:44:34",
-         "title" : "Rachael Li Does NOT Remember Playing 'Frogs' with Yasser! | R3 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Arthur Guo talks to Kostya Kavutskiy after a draw against Hong in Round 3 of the 2024 U.S. Junior Championship. 2024.07.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/arthur-guo-exciting-rounds-coming-r3-usjuniors",
-         "pubDate" : "Fri, 19 Jul 2024 05:44:34",
-         "title" : "Arthur Guo: Exciting Rounds Coming Up | R3 #USJuniors"
-      },
-      {
-         "description" : "We finally dipped below 50% decisive games, with \"only\" seven today, but out of these seven, more than half came from a single tournament.<br /><br /> <br /><br /> SENIOR<br /><br /> The Senior section was a display of accuracy from all players, with four games ending in draws where neither player faltered for too long. In fact, everyone involved finished with above 95% accuracy.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Perhaps the most striking example came between GMs Melikset Khachiyan and Alexander Shabalov. After neutralizing Khachiyan's opening advantage with almost perfect play, Shabalov entered an endgame where he was exerting pressure for a couple moves until Kh",
+         "description" : "We finally dipped below 50% decisive games, with \"only\" seven today, but out of these seven, more than half came from a single tournament.<br /><br /> <br /><br /> SENIOR<br /><br /> The Senior section was a display of accuracy from all players, with four games ending in draws where neither player faltered for too long. In fact, everyone involved finished with above 95% accuracy.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Perhaps the most striking example came between GMs Melikset Khachiyan and Alexander Shabalov. After neutralizing Khachiyan's opening advantage with almost perfect play, Shabalov enter",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/clarity-top-after-first-third-us-junior-girls-and-senior-championships",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/40544649/gukesh-surges-third-day-2-superunited-rapid-blitz-2024-caruana-takes-sole-lead?device=featurephone",
          "pubDate" : "Thu, 11 Jul 2024 23:52:48",
          "title" : "Gukesh surges to third on day 2 of SuperUnited Rapid & Blitz 2024, Caruana takes sole lead"
-      },
-      {
-         "description" : "GM Fabiano Caruana beat GMs Levon Aronian and Ivan Saric and escaped against GM Wesley So to climb into sole first place after day two of the&#38;nbsp;2024 SuperUnited Rapid &#38;amp; Blitz Croatia. The previous leader, GM Maxime Vachier-Lagrave, blundere...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-2",
-         "pubDate" : "Thu, 11 Jul 2024 14:44:00",
-         "title" : "Caruana Leads In Zagreb As Gukesh Climbs Into Contention"
       },
       {
          "description" : "",
