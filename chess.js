@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " Shama Yisrael in the process of making history at the 2024 Pincrest Independence Open.Photo courtesy of South Miami Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the title. After playing in several tournaments in a week's time, the 20-year-old earned her last few points The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/",
+         "pubDate" : "Sat, 20 Jul 2024 14:08:33",
+         "title" : "The story of Shama Yisrael, the first female African-American Chess Master"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -106,28 +114,12 @@ news_feed (
          "title" : "Keymer Beats Praggnanandhaa As Le, Salem Snatch Lead"
       },
       {
-         "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
-         "pubDate" : "Fri, 19 Jul 2024 16:50:00",
-         "title" : "CrunchLab Masters - Live!"
-      },
-      {
          "description" : "Two-time U.S. Women&#39;s Chess Champion WGM Jennifer Shahade has filed a major lawsuit against US Chess, its president Randy Bauer, and chess writer Peter Tamburro, alleging defamation, retaliation, and discrimination after her public allegations of ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/jennifer-shahade-files-lawsuit-against-us-chess-misconduct",
          "pubDate" : "Fri, 19 Jul 2024 13:54:45",
          "title" : "Jennifer Shahade Files Lawsuit Against US Chess For Misconduct And Retaliation"
-      },
-      {
-         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
-         "pubDate" : "Fri, 19 Jul 2024 13:50:00",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111865016.cms\" />It's a case of all's well that ends well for Deep Sengupta. The Kolkata Grandmaster who was once uncertain of whether he could make it to Warsaw in time to take part in the Najdorf Memorial chess tournament, ultimately ended up winning the title on Wednesday. Sengupta's connecting flight from Abu Dhabi to Paris got delayed by almost 11 hours thereby making it impossible for him to catch his next connecting flight from Paris to Warsaw.",
@@ -202,7 +194,7 @@ news_feed (
          "title" : "Chess.com Partners With Tech Mahindra To Bring Season 2 Of The Global Chess League"
       },
       {
-         "description" : "We finally dipped below 50% decisive games, with \"only\" seven today, but out of these seven, more than half came from a single tournament.<br /><br /> <br /><br /> SENIOR<br /><br /> The Senior section was a display of accuracy from all players, with four games ending in draws where neither player faltered for too long. In fact, everyone involved finished with above 95% accuracy.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Perhaps the most striking example came between GMs Melikset Khachiyan and Alexander Shabalov. After neutralizing Khachiyan's opening advantage with almost perfect play, Shabalov entered an endgame where he was exerting pressure for a couple moves until Kh",
+         "description" : "We finally dipped below 50% decisive games, with \"only\" seven today, but out of these seven, more than half came from a single tournament.<br /><br /> <br /><br /> SENIOR<br /><br /> The Senior section was a display of accuracy from all players, with four games ending in draws where neither player faltered for too long. In fact, everyone involved finished with above 95% accuracy.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Perhaps the most striking example came between GMs Melikset Khachiyan and Alexander Shabalov. After neutralizing Khachiyan's opening advantage with almost perfect play, Shabalov enter",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/clarity-top-after-first-third-us-junior-girls-and-senior-championships",
@@ -1080,22 +1072,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/membership-pay-to-play-and-game-fees-2024-25-v1/#new_tab",
          "pubDate" : "Sat, 29 Jun 2024 16:00:53",
          "title" : "Membership, Pay to Play and Game Fees 2024/25 (V2)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3094",
-         "pubDate" : "Sat, 29 Jun 2024 14:08:59",
-         "title" : "Liaocheng No. 1 Experimental School celebrates FIDE centenary"
-      },
-      {
-         "description" : "Do you like to get attacked? Most of us don't. That's why, especially in bad positions, you should aim to pose threats to your opponent. The engine might laugh at you, but your human opponent will likely be scared and more prone to make mistakes. That's called playing practical chess. In this article, I show []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/practical-chess/",
-         "pubDate" : "Sat, 29 Jun 2024 12:45:00",
-         "title" : "How to play practical chess"
       }
    ]
 }
