@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Yasser and Nazi chat about the complexity of finding tactics in certain time controls and the problem with tactics book </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/help-there-tactic-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iWgUHMeK79Q.jpg?itok=xSXti6k9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/help-there-tactic-uschesschamps-usjuniors-chess-chesstactics-chesscom",
+         "pubDate" : "Sat, 20 Jul 2024 20:46:03",
+         "title" : "HELP! Is There A Tactic #uschesschamps #usjuniors #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-6\"><img src=\"https://saintlouischessclub.org/sites/de",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-6",
+         "pubDate" : "Sat, 20 Jul 2024 20:46:03",
+         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 6"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Begim Tokhirjonova before the 2024 U.S. Junior Championship. This aired during Round 5. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-online-play-has-no-negative-effect-over-board-usjuniors",
+         "pubDate" : "Sat, 20 Jul 2024 20:46:03",
+         "title" : "Christopher Yoo: Online Play Has No Negative Effect Over The Board | #USJuniors"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3123",
+         "pubDate" : "Sat, 20 Jul 2024 20:06:28",
+         "title" : "From Paris and the world with chess: FIDE celebrates 100 years since its founding"
+      },
+      {
          "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,22 +98,6 @@ news_feed (
          "title" : "Jasmine Su Breaks Through Mou's Queenside | R4 #USJuniors"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Andrew Hong talks to Kostya Kavutskiy after a draw against Christopher Yoo in Round 4 of the 2024 U.S. Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hong-everyone-wants-qualify-us-championship-r4-usjuniors",
-         "pubDate" : "Sat, 20 Jul 2024 14:45:48",
-         "title" : "Hong: Everyone Wants to Qualify for the U.S. Championship | R4 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Joel Benjamin talks to Kostya Kavutskiy after a draw against Becerra in Round 4 of the 2024 U.S. Senior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/joel-benjamin-home-away-home-r4-usseniors",
-         "pubDate" : "Sat, 20 Jul 2024 14:45:48",
-         "title" : "Joel Benjamin: Home Away From Home | R4 #USSeniors"
-      },
-      {
          "description" : " Shama Yisrael in the process of making history at the 2024 Pincrest Independence Open.Photo courtesy of South Miami Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the title. After playing in several tournaments in a week's time, the 20-year-old earned her last few points The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -90,11 +106,11 @@ news_feed (
          "title" : "The story of Shama Yisrael, the first female African-American Chess Master"
       },
       {
-         "description" : "This is a flash report. The full article will be added to this page soon. The French numbers one and two will face off in the Division I Winners Final of the CrunchLabs Masters 2024. GM Maxime Vachier-Lagrave once again proved to be GM Magnus Ca...",
+         "description" : "The French numbers one and two will face off in the Division I Winners Final of the CrunchLabs Masters 2024. GM Maxime Vachier-Lagrave once again proved to be GM Magnus Carlsen&#39;s kryptonite, while GM Alireza Firouzja overcame GM Jan-Krzysztof Duda...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-4",
-         "pubDate" : "Sat, 20 Jul 2024 12:18:37",
+         "pubDate" : "Sat, 20 Jul 2024 12:18:00",
          "title" : "Vachier-Lagrave Surpasses Carlsen, Sets Up All-French Winners Final With Firouzja"
       },
       {
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/congratulations-fide-turns-100",
          "pubDate" : "Sat, 20 Jul 2024 08:00:00",
          "title" : "Congratulations: FIDE turns 100!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Young Alice Lee shows a sigh of relief as her opponent blunders at the end to give her the opportunity for the win </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blunder-alice-relieved-uschesschamps-usjuniors-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Zfihnf-_gh0.jpg?itok=QsIzVcNq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/blunder-alice-relieved-uschesschamps-usjuniors-chesscom",
-         "pubDate" : "Sat, 20 Jul 2024 05:45:27",
-         "title" : "BLUNDER!!! Alice Is Relieved #uschesschamps #usjuniors #chesscom"
       },
       {
          "description" : "The action continues to heat up in round four of the U.S. Junior, Junior Girls', and Senior championships, as the players approach the midpoint of the event, with only one more round before the rest day. <br /><br /> For these prestigious invitational championships, we are always on the lookout for the slight chance that Fischer's perfect score in the 1964 US Championships could be repeated, but round four answered that question, leaving us with no more perfect scorers. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Jason Wang (pictured) upset Justin Wang, ending the latter's hopes of a perfe",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.europechess.org/gm-igor-efimov-and-wgm-elvira-berend-win-european-small-nations-chess-championships-2024/",
          "pubDate" : "Sun, 30 Jun 2024 09:09:27",
          "title" : "GM Igor Efimov and WGM Elvira Berend win European Small Nations Chess Championships 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3095",
-         "pubDate" : "Sat, 29 Jun 2024 22:15:35",
-         "title" : "Playoff matches set at FIDE World Cup 8-12"
       }
    ]
 }
