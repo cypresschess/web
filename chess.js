@@ -2,12 +2,100 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
+         "pubDate" : "Sat, 20 Jul 2024 19:50:00",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Larry Christiansen talks to Kostya Kavutskiy after defeating Shabalov in Round 4 of the 2024 U.S. Senior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/christiansen-poor-shaba-got-his-king-stuck-r4-usseniors",
+         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
+         "title" : "Christiansen: Poor Shaba Got His King Stuck | R4 #USSeniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jason Wang talks to Kostya Kavutskiy after defeating Justin Wang in Round 4 of the 2024 U.S. Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jason-wang-showcase-my-abilities-best-juniors-r4-usjuniors",
+         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
+         "title" : "Jason Wang: Showcase My Abilities with the Best Juniors | R4 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Brewington Hardaway talks to Kostya Kavutskiy after defeating Daggupati in Round 4 of the 2024 U.S. Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hardaway-beats-daggupati-thrilling-%E2%80%98-and-down%E2%80%99-game-r4-usjuniors",
+         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
+         "title" : "Hardaway Beats Daggupati in Thrilling 'Up-and-Down' Game! | R4 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Melik Khachiyan talks about his approach handling the positive and negative emotions of chess and life </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khachiyan-approach-chess-uschesschamps-usseniors-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AagxnIMfjUw.jpg?itok=8ySzwUoI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khachiyan-approach-chess-uschesschamps-usseniors-chess-chesscom",
+         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
+         "title" : "Khachiyan: Approach To Chess #uschesschamps #usseniors #chess #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jason Liang talks to Kostya Kavutskiy after defeating Arthur Guo in Round 4 of the 2024 U.S. Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jason-liang-surprised-guo%E2%80%99s-french-r4-usjuniors",
+         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
+         "title" : "Jason Liang: Surprised by Guo's French | R4 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Rose Atwell talks to Kostya Kavutskiy after defeating Tang in Round 4 of the 2024 U.S. Girls' Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/atwell-%E2%80%98got-really-lucky%E2%80%99-vs-zoey-r4-usjuniors",
+         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
+         "title" : "Atwell: 'Got Really Lucky' vs. Zoey | R4 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jasmine Su talks to Kostya Kavutskiy after defeating Iris Mou in Round 4 of the 2024 U.S. Girls' Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jasmine-su-breaks-through-mou%E2%80%99s-queenside-r4-usjuniors",
+         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
+         "title" : "Jasmine Su Breaks Through Mou's Queenside | R4 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Andrew Hong talks to Kostya Kavutskiy after a draw against Christopher Yoo in Round 4 of the 2024 U.S. Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hong-everyone-wants-qualify-us-championship-r4-usjuniors",
+         "pubDate" : "Sat, 20 Jul 2024 14:45:48",
+         "title" : "Hong: Everyone Wants to Qualify for the U.S. Championship | R4 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Joel Benjamin talks to Kostya Kavutskiy after a draw against Becerra in Round 4 of the 2024 U.S. Senior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/joel-benjamin-home-away-home-r4-usseniors",
+         "pubDate" : "Sat, 20 Jul 2024 14:45:48",
+         "title" : "Joel Benjamin: Home Away From Home | R4 #USSeniors"
+      },
+      {
          "description" : " Shama Yisrael in the process of making history at the 2024 Pincrest Independence Open.Photo courtesy of South Miami Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the title. After playing in several tournaments in a week's time, the 20-year-old earned her last few points The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/",
          "pubDate" : "Sat, 20 Jul 2024 14:08:33",
          "title" : "The story of Shama Yisrael, the first female African-American Chess Master"
+      },
+      {
+         "description" : "This is a flash report. The full article will be added to this page soon. The French numbers one and two will face off in the Division I Winners Final of the CrunchLabs Masters 2024. GM Maxime Vachier-Lagrave once again proved to be GM Magnus Ca...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-4",
+         "pubDate" : "Sat, 20 Jul 2024 12:18:37",
+         "title" : "Vachier-Lagrave Surpasses Carlsen, Sets Up All-French Winners Final With Firouzja"
       },
       {
          "description" : "",
@@ -50,36 +138,12 @@ news_feed (
          "title" : "BLUNDER!!! Alice Is Relieved #uschesschamps #usjuniors #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 4 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-4\"><img src=\"https://saintlouischessclub.org/sites/defa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-4",
-         "pubDate" : "Sat, 20 Jul 2024 02:45:19",
-         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Young Alice Lee shows a sigh of relief as her opponent blunders at the end to give her the opportunity for the win </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/blunder-alice-relieved\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Zfihnf-_gh0.jpg?itok=QsIzVcNq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/blunder-alice-relieved",
-         "pubDate" : "Sat, 20 Jul 2024 02:45:19",
-         "title" : "BLUNDER!!! Alice Is Relieved"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Julio Becerra talks to Begim Tokhirjonova before the 2024 U.S. Senior Championship. This aired during Round 4. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/becerra-lost-few-pounds-competing-chess-capital-usseniors",
-         "pubDate" : "Fri, 19 Jul 2024 23:45:14",
-         "title" : "Becerra: Lost a Few Pounds Before Competing in the Chess Capital | #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The competitors share their preparation routines before the 2024 U.S. Junior Championship. This aired during Round 4. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-juniors-prepare-important-chess-tournaments-usjuniors",
-         "pubDate" : "Fri, 19 Jul 2024 23:45:14",
-         "title" : "How Juniors Prepare for Important Chess Tournaments? | #USJuniors"
+         "description" : "The action continues to heat up in round four of the U.S. Junior, Junior Girls', and Senior championships, as the players approach the midpoint of the event, with only one more round before the rest day. <br /><br /> For these prestigious invitational championships, we are always on the lookout for the slight chance that Fischer's perfect score in the 1964 US Championships could be repeated, but round four answered that question, leaving us with no more perfect scorers. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Jason Wang (pictured) upset Justin Wang, ending the latter's hopes of a perfe",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/fireworks-continue-round-four-us-junior-girls-and-senior-championships",
+         "pubDate" : "Sat, 20 Jul 2024 00:00:00",
+         "title" : "Fireworks Continue in Round Four of U.S. Junior, Girls', and Senior Championships"
       },
       {
          "description" : " The CrunchLabs Masters which is part of the online Champions Chess Tour takes place 19th to 24th June 2024. Players: Carlsen, Firouzja, Nepomniachtchi, MVL, Duda, Caruana, Andreikin and Wesley So play in the top group.",
@@ -88,14 +152,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/crunchlabs-masters-2024",
          "pubDate" : "Fri, 19 Jul 2024 21:44:00",
          "title" : "CrunchLabs Masters 2024 - Games and Results"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Is the sacrifice worth the compensation? Commentators analyze a position in a game between U.S. Seniors&#039; Kraai and Khachiyan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sacrificewhy-uschesschamps-usseniors-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/e7FVIzqBPTc.jpg?itok=ZdBiB0pq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sacrificewhy-uschesschamps-usseniors-chesscom",
-         "pubDate" : "Fri, 19 Jul 2024 20:45:02",
-         "title" : "Sacrifice...WHY? #USChessChamps #usseniors #chesscom"
       },
       {
          "description" : "In almost every chess game there comes a moment when you just can't go on without tactics. You must strike, because nothing is more annoying than missing a winning combination in the decisive situation, thus giving away the advantage you have worked for the whole game. So it is vital to train tactics properly - and Master Class Tactics offers you the perfect tool for this purpose!",
@@ -144,38 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chess-olympiad-teams-announced-us-india",
          "pubDate" : "Fri, 19 Jul 2024 10:17:00",
          "title" : "U.S. Top Seeds, India Close 2nd As Chess Olympiad Teams Announced"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Vladimir Akopian talks to Kostya Kavutskiy after defeating Christiansen in Round 3 of the 2024 U.S. Senior Championship. 2024.07.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/akopian-beats-larry-3-0-start-r3-usseniors",
-         "pubDate" : "Fri, 19 Jul 2024 08:44:39",
-         "title" : "Akopian Beats Larry for 3-0 Start! | R3 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jasmine Su talks to Kostya Kavutskiy after defeating Chloe Gaw in Round 3 of the 2024 U.S. Girls' Junior Championship. 2024.07.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jasmine-su-clear-1st-excited-get-opportunity-r3-usjuniors",
-         "pubDate" : "Fri, 19 Jul 2024 08:44:39",
-         "title" : "Jasmine Su in Clear 1st: Excited to Get This Opportunity | R3 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Kostya Kavutskiy after defeating Atwell in Round 3 of the 2024 U.S. Girls' Junior Championship. 2024.07.18<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee%E2%80%99s-first-win-after-rose%E2%80%99s-late-stumble-r3-usjuniors",
-         "pubDate" : "Fri, 19 Jul 2024 08:44:39",
-         "title" : "Alice Lee's First Win After Rose's Late Stumble | R3 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-5\"><img src=\"https://saintlouischessclub.org/sites/de",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-5",
-         "pubDate" : "Fri, 19 Jul 2024 08:44:39",
-         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 5"
       },
       {
          "description" : " Fabiano Caruana, the world No 3 and US champion, won the Zagreb Rapid/Blitz with a record-equalling total of 27/36, and was sure of first prize with five rounds to spare Fabiano Caruana, the world No 3 and US champion, displayed his new mastery of speed chess last week when he won the SuperUnited Zagreb Rapid and Blitz, part of the St Louis-organised Grand Chess Tour, with a 27/36 points total, equalling Magnus Carlsen's record for the event. Caruana was sure of ­victory with five rounds to spare. There were nine rounds each of rapid (G25+10) and blitz (G5+2) with the former counting double points. The total prize fund was $175,000. In nine years of the Tour there have been 10 rapid/blitz t",
@@ -466,14 +490,6 @@ news_feed (
          "title" : "2024 U.S. Junior, Girls' Junior, and Senior Championship Preview"
       },
       {
-         "description" : "Fans of chess events at the Saint Louis Chess Club are used to enjoying their high level, polished broadcasts. But what goes on behind the scenes to make an event like the Cairns Cup appear to be such a well-oiled machine? It actually takes a great deal of planning by the staff at the Saint Louis Chess Campus and the production team they bring in to produce the broadcast to make it happen. In the video below, US Chess goes behind the scenes at the Cairns Cup to show you what most never get to see during a world-class chess event. We'll take a peek behind the curtain to show you:<br /><br /> What goes on while preparing for the players to arrive for round one? <br /> \tThe production facilitie",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/behind-scenes-cairns-cup",
-         "pubDate" : "Mon, 15 Jul 2024 00:00:00",
-         "title" : "Behind the Scenes at the Cairns Cup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -608,14 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-3",
          "pubDate" : "Fri, 12 Jul 2024 14:58:00",
          "title" : "Caruana Storms To Victory In Croatian Rapid, Takes 3-Point Lead Into Blitz"
-      },
-      {
-         "description" : "The FIDE World Senior Team Chess Championships concluded on July 11 in Krakow, Poland with the U.S. finishing at the top of the 50+ section and England claiming the 65+ tournament. In total, 65 teams and 307 players, including 32 grandmasters, par...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-world-senior-team-chess-championships-usa-england-win",
-         "pubDate" : "Fri, 12 Jul 2024 11:07:00",
-         "title" : "U.S. Wins World Senior Team Championship 50+, England Takes Gold In 65+"
       },
       {
          "description" : "The Second edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2024 will be held at Indira Gandhi Indoor Stadium, Sarusojai, Guwahati, Assam Assam - ",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3095",
          "pubDate" : "Sat, 29 Jun 2024 22:15:35",
          "title" : "Playoff matches set at FIDE World Cup 8-12"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/membership-pay-to-play-and-game-fees-2024-25-v1/#new_tab",
-         "pubDate" : "Sat, 29 Jun 2024 16:00:53",
-         "title" : "Membership, Pay to Play and Game Fees 2024/25 (V2)"
       }
    ]
 }
