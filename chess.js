@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3122",
+         "pubDate" : "Sat, 20 Jul 2024 10:43:21",
+         "title" : "Ten goals for next 100 years of International Chess Federation"
+      },
+      {
+         "description" : "Last Sunday Spain won the finals of two major physical sports: tennis at Wimbledon and the European Nations football in Berlin - a unique achievement for any country on the same day. So it is worth also celebrating the history of the major mental sport, namely chess, in Spain. In particular, we should pay tribute to that []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/from-columbus-to-capablanca-the-hispanic-contribution-to-chess/",
+         "pubDate" : "Sat, 20 Jul 2024 10:34:46",
+         "title" : "From Columbus to Capablanca: the Hispanic contribution to chess"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3121",
+         "pubDate" : "Sat, 20 Jul 2024 08:42:19",
+         "title" : "Happy International Chess Day!"
+      },
+      {
          "description" : "Today, on July 20, 2024, FIDE has scheduled a celebration in Paris to mark 100 years since it was officially formed in the French capital. FIDE is marking its centenary with many different programs aimed at existing and new chess fans around the globe - be they schoolchildren, refugees, people in prisons, charities, club players, or newcomers to the game! The highlights: an Olympic-style torch relay and a Guinness Book record attempt.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -178,7 +202,7 @@ news_feed (
          "title" : "Chess.com Partners With Tech Mahindra To Bring Season 2 Of The Global Chess League"
       },
       {
-         "description" : "We finally dipped below 50% decisive games, with \"only\" seven today, but out of these seven, more than half came from a single tournament.<br /><br /> <br /><br /> SENIOR<br /><br /> The Senior section was a display of accuracy from all players, with four games ending in draws where neither player faltered for too long. In fact, everyone involved finished with above 95% accuracy.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Perhaps the most striking example came between GMs Melikset Khachiyan and Alexander Shabalov. After neutralizing Khachiyan's opening advantage with almost perfect play, Shabalov enter",
+         "description" : "We finally dipped below 50% decisive games, with \"only\" seven today, but out of these seven, more than half came from a single tournament.<br /><br /> <br /><br /> SENIOR<br /><br /> The Senior section was a display of accuracy from all players, with four games ending in draws where neither player faltered for too long. In fact, everyone involved finished with above 95% accuracy.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Perhaps the most striking example came between GMs Melikset Khachiyan and Alexander Shabalov. After neutralizing Khachiyan's opening advantage with almost perfect play, Shabalov entered an endgame where he was exerting pressure for a couple moves until Kh",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/clarity-top-after-first-third-us-junior-girls-and-senior-championships",
@@ -1072,22 +1096,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/practical-chess/",
          "pubDate" : "Sat, 29 Jun 2024 12:45:00",
          "title" : "How to play practical chess"
-      },
-      {
-         "description" : "Chess and music are frequently connected, indeed rightly so. Of celebrated composers, Sergei Prokofiev was a talented player of master strength. Aggressive and tactical in style, the composer of the heroic score for Alexander Nevsky and the romantic ballet, Romeo and Juliet, once defeated Capablanca in a simultaneous display. His surviving games gave ample evidence []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/music-chess-and-the-harmonies-of-the-world/",
-         "pubDate" : "Sat, 29 Jun 2024 10:23:46",
-         "title" : "Music, chess and the harmonies of the world"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111360180.cms\" />Round three of the Superbet Classic saw Indian Grandmaster R Praggnanandhaa miss a chance to claim the lead after drawing with compatriot D Gukesh. Gukesh remains tied at the top with Fabiano Caruana, while Praggnanandhaa is in a tie for third. A rematch of their previous encounter, the game saw promising chances for Praggnanandhaa, but ended in a draw after a critical error by Gukesh. All five games in this round ended in draws, leaving the leaderboard unchanged.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-praggnanandhaa-misses-out-on-joint-leader-spot-after-draw-against-d-gukesh-at-superbet-classic-chess-tournament/articleshow/111360180.cms",
-         "pubDate" : "Sat, 29 Jun 2024 08:21:36",
-         "title" : "Pragg misses joint leader spot after draw against Gukesh"
       }
    ]
 }
