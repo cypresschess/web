@@ -2,44 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Zoey Tang talks to Kostya Kavutskiy after a draw against Rachael Li in Round 5 of the 2024 U.S. Girls' Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/tang%E2%80%99s-%E2%80%99new-tournament%E2%80%99-starting-over-after-rest-day-r5-usjuniors",
+         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
+         "title" : "Tang's 'New Tournament': Starting Over After Rest Day | R5 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Omya Vidyarthi talks to Kostya Kavutskiy after defeating Jasmine Su in Round 5 of the 2024 U.S. Girls' Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/vidyarthi-takes-down-leader-su-%E2%80%98now-i-feel-free%E2%80%99-r5-usjuniors",
+         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
+         "title" : "Vidyarthi Takes Down Leader Su: 'Now I Feel Free' | R5 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Megan Paragua talks to Kostya Kavutskiy after a draw against Atwell in Round 5 of the 2024 U.S. Girls' Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/megan-paragua-really-hope-i-can-score-full-point-r5-usjuniors",
+         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
+         "title" : "Megan Paragua: Really Hope I Can Score a Full Point | R5 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 5 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-5\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-5",
+         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
+         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Vladimir Akopian talks to Kostya Kavutskiy after defeating Kraai in Round 5 of the 2024 U.S. Senior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/akopian-uses-%E2%80%98pleasant%E2%80%99-old-line-beat-kraai-r5-usseniors",
+         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
+         "title" : "Akopian Uses 'Pleasant' Old Line to Beat Kraai | R5 #USSeniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Joel Benjamin talks to Kostya Kavutskiy after defeating Khachiyan in Round 5 of the 2024 U.S. Senior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/joel-benjamin-wants-win-us-seniors-person-r5-usseniors",
+         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
+         "title" : "Joel Benjamin Wants to Win U.S. Seniors IN PERSON! | R5 #USSeniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Andrew Hong talks to Kostya Kavutskiy after defeating Woodward in Round 5 of the 2024 U.S. Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hong-control-andy-whole-time-r5-usjuniors",
+         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
+         "title" : "Hong: In Control of Andy the Whole Time | R5 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Iris Mou talks to Kostya Kavutskiy after defeating Ehsani in Round 5 of the 2024 U.S. Girls' Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/iris-mou%E2%80%99s-yassi-win-smooth-despite-surprise-opening-r5-usjuniors",
+         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
+         "title" : "Iris Mou's Yassi Win: Smooth Despite Surprise Opening | R5 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/de",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-7",
+         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
+         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 7"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The competitors share how they handle psychological aspects of the game before the 2024 U.S. Girls' Junior Championship. This aired during Round 5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-girls-handle-pressure-maintain-focus-chess-usjuniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TzNlwT_RGLI.jpg?itok=qRyE_P-s\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/how-girls-handle-pressure-maintain-focus-chess-usjuniors",
          "pubDate" : "Sat, 20 Jul 2024 23:46:10",
          "title" : "How Girls Handle Pressure & Maintain Focus in Chess? | #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Kostya Kavutskiy after defeating Jason Liang in Round 5 of the 2024 U.S. Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christopher-yoo%E2%80%99s-dream-game-smooth-indeed-r5-usjuniors",
-         "pubDate" : "Sat, 20 Jul 2024 23:46:10",
-         "title" : "Christopher Yoo's Dream Game: Smooth Indeed! | R5 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser and Nazi chat about the complexity of finding tactics in certain time controls and the problem with tactics book </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/help-there-tactic-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iWgUHMeK79Q.jpg?itok=xSXti6k9\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/help-there-tactic-uschesschamps-usjuniors-chess-chesstactics-chesscom",
-         "pubDate" : "Sat, 20 Jul 2024 20:46:03",
-         "title" : "HELP! Is There A Tactic #uschesschamps #usjuniors #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-6\"><img src=\"https://saintlouischessclub.org/sites/de",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-6",
-         "pubDate" : "Sat, 20 Jul 2024 20:46:03",
-         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 6"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Begim Tokhirjonova before the 2024 U.S. Junior Championship. This aired during Round 5. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-online-play-has-no-negative-effect-over-board-usjuniors",
-         "pubDate" : "Sat, 20 Jul 2024 20:46:03",
-         "title" : "Christopher Yoo: Online Play Has No Negative Effect Over The Board | #USJuniors"
       },
       {
          "description" : "",
@@ -56,46 +96,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
          "pubDate" : "Sat, 20 Jul 2024 19:50:00",
          "title" : "US Senior and Junior Championships - Live!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Larry Christiansen talks to Kostya Kavutskiy after defeating Shabalov in Round 4 of the 2024 U.S. Senior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christiansen-poor-shaba-got-his-king-stuck-r4-usseniors",
-         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
-         "title" : "Christiansen: Poor Shaba Got His King Stuck | R4 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jason Wang talks to Kostya Kavutskiy after defeating Justin Wang in Round 4 of the 2024 U.S. Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jason-wang-showcase-my-abilities-best-juniors-r4-usjuniors",
-         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
-         "title" : "Jason Wang: Showcase My Abilities with the Best Juniors | R4 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Brewington Hardaway talks to Kostya Kavutskiy after defeating Daggupati in Round 4 of the 2024 U.S. Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrappe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hardaway-beats-daggupati-thrilling-%E2%80%98-and-down%E2%80%99-game-r4-usjuniors",
-         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
-         "title" : "Hardaway Beats Daggupati in Thrilling 'Up-and-Down' Game! | R4 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Melik Khachiyan talks about his approach handling the positive and negative emotions of chess and life </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/khachiyan-approach-chess-uschesschamps-usseniors-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/AagxnIMfjUw.jpg?itok=8ySzwUoI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/khachiyan-approach-chess-uschesschamps-usseniors-chess-chesscom",
-         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
-         "title" : "Khachiyan: Approach To Chess #uschesschamps #usseniors #chess #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jason Liang talks to Kostya Kavutskiy after defeating Arthur Guo in Round 4 of the 2024 U.S. Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jason-liang-surprised-guo%E2%80%99s-french-r4-usjuniors",
-         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
-         "title" : "Jason Liang: Surprised by Guo's French | R4 #USJuniors"
       },
       {
          "description" : "Twitch streamer and IM Yoseph Theolifus Taher became the ninth player to win Bullet Brawl, scoring 72.5/86 and securing the $400 first prize ahead of GM Daniel Naroditsky on International Chess Day. Peru&#39;s IM Renato Terry picked up the $150 third ...",
