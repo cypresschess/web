@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With 5 out of 9 rounds played at the US Senior, US Junior and US Girls Championships, the three concurrent events have sole leaders atop the standings. In the Senior tournament, Vladimir Akopian leads with 4&frac12; points, as only Gregory Kaidanov managed to hold him to a draw in the first 5 rounds of play. In the Junior event, rating favourite and 2022 champion Christopher Yoo leads with 4 points, while among the Girls, Jasmine Su leads with 3&frac12; points despite having suffered a loss against Omya Vidharti in round 5. | Photo: Saint Louis Chess Club / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024-r5",
+         "pubDate" : "Sun, 21 Jul 2024 19:30:00",
+         "title" : "US Seniors and Juniors: Akopian, Yoo and Su sole leaders"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> As white prepares to exchange the queens and possibly go for the draw; black has other plans with f5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fierce-move-shabalov-uschesschamps-usseniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZzdI9_ExISA.jpg?itok=EI_C-YNi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fierce-move-shabalov-uschesschamps-usseniors-chess-chesstactics-chesscom",
+         "pubDate" : "Sun, 21 Jul 2024 17:46:37",
+         "title" : "Fierce Move by Shabalov #uschesschamps #usseniors #chess #chesstactics #chesscom"
+      },
+      {
          "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +42,12 @@ news_feed (
          "title" : "Biel Chess Festival - Live!"
       },
       {
-         "description" : "After five rounds of classical chess at the GM Triathlons, the final phase is quickly approaching. Le Quang Liem defended his lead in the Masters with a draw against Haik Martirosyan, while Praggnanandhaa kept his chances of qualifying for the final phase by beating Sam Shankland. In the Challengers, it seems clear who will progress to the final phase: Saleh Salem, Vaishali, Alexander Donchenko and Jonas Bjerre. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-classical-5",
-         "pubDate" : "Sun, 21 Jul 2024 10:30:00",
-         "title" : "Biel: Pragg beats Shankland to remain in contention"
+         "description" : "GM Maxime Vachier-Lagrave won the Division I Winners Bracket and qualified for the CrunchLabs Masters 2024 Grand Final thanks to beating his compatriot GM Alireza Firouzja 2.5-1.5 on Sunday. Vachier-Lagrave may face Firouzja again, since the winne...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-5",
+         "pubDate" : "Sun, 21 Jul 2024 12:03:00",
+         "title" : "Vachier-Lagrave Reaches Div I Grand Final As Carlsen, Nepomniachtchi Set Up Repeat Clash"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Zoey Tang talks to Kostya Kavutskiy after a draw against Rachael Li in Round 5 of the 2024 U.S. Girls' Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
@@ -106,12 +122,12 @@ news_feed (
          "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 7"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The competitors share how they handle psychological aspects of the game before the 2024 U.S. Girls' Junior Championship. This aired during Round 5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-girls-handle-pressure-maintain-focus-chess-usjuniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TzNlwT_RGLI.jpg?itok=qRyE_P-s\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-girls-handle-pressure-maintain-focus-chess-usjuniors",
-         "pubDate" : "Sat, 20 Jul 2024 23:46:10",
-         "title" : "How Girls Handle Pressure & Maintain Focus in Chess? | #USJuniors"
+         "description" : "As the U.S. Junior, Girls' Junior, and Senior championships truck on side-by-side in St. Louis, there's only one thing they each have in common: a clear leader after five rounds. <br /><br /> In the Senior, victories are coming for the players who have kept up with the latest trends in opening theory. But in the Junior, the exact opposite is true, with frontrunner GM Chris Yoo managed winning with 2. Ne2 in the Sicilian. And in the Girls' Junior, it's not about the openings at all, where all the games have been dizzying technical displays. A particular standout this round was IM Alice Lee's endgame against WFM Chloe Gaw, in which she showed both great practical play and impressive calculatio",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/clear-leaders-each-section-junior-girls-junior-senior-enter-rest-day",
+         "pubDate" : "Sun, 21 Jul 2024 00:00:00",
+         "title" : "Clear Leaders in Each Section as Junior, Girls' Junior, Senior Enter Rest Day"
       },
       {
          "description" : "",
@@ -120,14 +136,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3123",
          "pubDate" : "Sat, 20 Jul 2024 20:06:28",
          "title" : "From Paris and the world with chess: FIDE celebrates 100 years since its founding"
-      },
-      {
-         "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
-         "pubDate" : "Sat, 20 Jul 2024 19:50:00",
-         "title" : "US Senior and Junior Championships - Live!"
       },
       {
          "description" : "Twitch streamer and IM Yoseph Theolifus Taher became the ninth player to win Bullet Brawl, scoring 72.5/86 and securing the $400 first prize ahead of GM Daniel Naroditsky on International Chess Day. Peru&#39;s IM Renato Terry picked up the $150 third ...",
@@ -208,14 +216,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/crunchlabs-masters-2024",
          "pubDate" : "Fri, 19 Jul 2024 21:44:00",
          "title" : "CrunchLabs Masters 2024 - Games and Results"
-      },
-      {
-         "description" : "In almost every chess game there comes a moment when you just can't go on without tactics. You must strike, because nothing is more annoying than missing a winning combination in the decisive situation, thus giving away the advantage you have worked for the whole game. So it is vital to train tactics properly - and Master Class Tactics offers you the perfect tool for this purpose!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/oliver-reeh-master-class-tactics-train-your-combination-skills-vol-3",
-         "pubDate" : "Fri, 19 Jul 2024 18:30:00",
-         "title" : "Oliver Reeh: Master Class Tactics - Train your combination skills! Vol.3"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu is out of the world top-10 after losing to GM Vincent Keymer, who said he&#39;d played 1.e4 for the first time &#34;in like nine years&#34; in round four of the 2024 Biel Chess Festival Masters classical section. GM Liem Le took o...",
@@ -538,14 +538,6 @@ news_feed (
          "title" : "Gukesh finishes seventh, Vidit ninth as Caruana takes 2024 SuperUnited Rapid & Blitz Croatia crown"
       },
       {
-         "description" : "This year's U.S. Junior Championship, Girls' Junior Championship, and Senior Championship all kick off Tuesday, July 16, at the Saint Louis Chess Club (SLCC). Stay tuned to Chess Life Online for round-by-round coverage, featuring annotated games and highlights, of each round. Read on below to see what to expect from this year's tournaments.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> courtesy SLCC / Austin Fuller<br /><br /><br /> <br /><br /> There will be a new U.S. Junior Champion by the end of July, with last year's winner GM Abhimanyu Mishra opting not to defend his title. Of this year",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-us-junior-girls-junior-and-senior-championship-preview",
-         "pubDate" : "Mon, 15 Jul 2024 00:00:00",
-         "title" : "2024 U.S. Junior, Girls' Junior, and Senior Championship Preview"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -624,14 +616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3114",
          "pubDate" : "Sat, 13 Jul 2024 14:12:25",
          "title" : "SuperUnited Rapid & Blitz Croatia: Caruana wins rapid"
-      },
-      {
-         "description" : "GM Fabiano Caruana continues to lead the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia, now by 4.5 points after the first day of blitz. GM Maxime Vachier-Lagrave scored the most points on Saturday and is Caruana&#39;s closest rival, along with GM Wesley ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-4",
-         "pubDate" : "Sat, 13 Jul 2024 13:28:00",
-         "title" : "Caruana Leads By 4.5 Points Ahead Of Final Day"
       },
       {
          "description" : "YouTube videos, opening courses, the latest Chess Drama no matter your chess vice, it is hard to avoid it. In this newsletter, I want to offer a counter-intuitive way to waste less of your time on your chess vice: by planning your distractions. All or nothing For years, I've tried to be the perfect []",
