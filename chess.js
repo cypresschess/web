@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> In this rook and bishop endgame position between Woodward and Yoo, Nazi, Cristian, and Yasser scope out ways to break through and get the rook involved. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-and-bishop-endgame-uschesschamps-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CR4L6igTkFQ.jpg?itok=tNC8RZB2\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rook-and-bishop-endgame-uschesschamps-chess-chessendgame-chesscom",
+         "pubDate" : "Sun, 21 Jul 2024 20:46:37",
+         "title" : "Rook and Bishop Endgame #uschesschamps #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Moving the f-pawn can be disastrous for mortals, but GM Vladimir Akopian drops the f5 bomb in this NICE bishop and rook endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-and-bishop-endgame-f5-bomb-uschesschamps-usseniors-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0lOjQLVj_hw.jpg?itok=-USaGXmX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rook-and-bishop-endgame-f5-bomb-uschesschamps-usseniors-chess-chessendgame-chesscom",
+         "pubDate" : "Sun, 21 Jul 2024 20:46:37",
+         "title" : "Rook and Bishop Endgame: The F5 Bomb #uschesschamps #usseniors #chess #chessendgame #chesscom"
+      },
+      {
          "description" : "With 5 out of 9 rounds played at the US Senior, US Junior and US Girls Championships, the three concurrent events have sole leaders atop the standings. In the Senior tournament, Vladimir Akopian leads with 4&frac12; points, as only Gregory Kaidanov managed to hold him to a draw in the first 5 rounds of play. In the Junior event, rating favourite and 2022 champion Christopher Yoo leads with 4 points, while among the Girls, Jasmine Su leads with 3&frac12; points despite having suffered a loss against Omya Vidharti in round 5. | Photo: Saint Louis Chess Club / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,28 +34,12 @@ news_feed (
          "title" : "Fierce Move by Shabalov #uschesschamps #usseniors #chess #chesstactics #chesscom"
       },
       {
-         "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
-         "pubDate" : "Sun, 21 Jul 2024 16:50:00",
-         "title" : "CrunchLab Masters - Live!"
-      },
-      {
          "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organized a Senior National Arbiters Seminar &#38; Exam from 20 to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sna-seminar-examination-at-jammu-on-20-21-july-2024/",
          "pubDate" : "Sun, 21 Jul 2024 15:14:31",
          "title" : "SNA Seminar & Examination at Jammu on 20-21 July 2024"
-      },
-      {
-         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
-         "pubDate" : "Sun, 21 Jul 2024 13:50:00",
-         "title" : "Biel Chess Festival - Live!"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave won the Division I Winners Bracket and qualified for the CrunchLabs Masters 2024 Grand Final thanks to beating his compatriot GM Alireza Firouzja 2.5-1.5 on Sunday. Vachier-Lagrave may face Firouzja again, since the winne...",
@@ -104,22 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/hong-control-andy-whole-time-r5-usjuniors",
          "pubDate" : "Sun, 21 Jul 2024 02:46:15",
          "title" : "Hong: In Control of Andy the Whole Time | R5 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Iris Mou talks to Kostya Kavutskiy after defeating Ehsani in Round 5 of the 2024 U.S. Girls' Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/iris-mou%E2%80%99s-yassi-win-smooth-despite-surprise-opening-r5-usjuniors",
-         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
-         "title" : "Iris Mou's Yassi Win: Smooth Despite Surprise Opening | R5 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/de",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-7",
-         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
-         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 7"
       },
       {
          "description" : "As the U.S. Junior, Girls' Junior, and Senior championships truck on side-by-side in St. Louis, there's only one thing they each have in common: a clear leader after five rounds. <br /><br /> In the Senior, victories are coming for the players who have kept up with the latest trends in opening theory. But in the Junior, the exact opposite is true, with frontrunner GM Chris Yoo managed winning with 2. Ne2 in the Sicilian. And in the Girls' Junior, it's not about the openings at all, where all the games have been dizzying technical displays. A particular standout this round was IM Alice Lee's endgame against WFM Chloe Gaw, in which she showed both great practical play and impressive calculatio",
