@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After five rounds of classical chess at the GM Triathlons, the final phase is quickly approaching. Le Quang Liem defended his lead in the Masters with a draw against Haik Martirosyan, while Praggnanandhaa kept his chances of qualifying for the final phase by beating Sam Shankland. In the Challengers, it seems clear who will progress to the final phase: Saleh Salem, Vaishali, Alexander Donchenko and Jonas Bjerre. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-classical-5",
+         "pubDate" : "Sun, 21 Jul 2024 10:30:00",
+         "title" : "Biel: Pragg beats Shankland to remain in contention"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Zoey Tang talks to Kostya Kavutskiy after a draw against Rachael Li in Round 5 of the 2024 U.S. Girls' Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -103,7 +111,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/yoseph-taher-wins-bullet-brawl-july-20-2024",
          "pubDate" : "Sat, 20 Jul 2024 16:46:00",
-         "title" : "Taher Becomes 9th Player To Win Bullet Brawl On International Chess Day"
+         "title" : "Taher Becomes 9th Player To Win Bullet Brawl"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu finally won a classical game at the 2024 Biel Chess Festival as he defeated GM Sam Shankland to reenter the world top-10. It was almost a perfect day for the family as Vaishali Rameshbabu was on the brink of beating GM...",
@@ -1064,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3097",
          "pubDate" : "Mon, 01 Jul 2024 09:07:19",
          "title" : "Polish chess players shine at 2024 FISU Championship Mind Sports"
-      },
-      {
-         "description" : "The 5th European Small Nations Individual Chess Championship and the 2nd European Small Nations Women's Chess Championship concluded yesterday in Andorra la Vella. The events were played from 22-30 June as 10-player round-robin tournaments with the players representing the following federations: Andorra, Liechtenstein, Cyprus, Luxembourg, Faroe Islands, Malta, Guernsey, Monaco, Jersey, and San Marino.&#160; GM Igor Efimov (MNC, 2312) emerged as the sole winner of the Open Championship scoring 8/9 points. Igor Efimov finished the event without a single loss, []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/gm-igor-efimov-and-wgm-elvira-berend-win-european-small-nations-chess-championships-2024/",
-         "pubDate" : "Sun, 30 Jun 2024 09:09:27",
-         "title" : "GM Igor Efimov and WGM Elvira Berend win European Small Nations Chess Championships 2024"
       }
    ]
 }
