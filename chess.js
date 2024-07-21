@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The competitors share how they handle psychological aspects of the game before the 2024 U.S. Girls' Junior Championship. This aired during Round 5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-girls-handle-pressure-maintain-focus-chess-usjuniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TzNlwT_RGLI.jpg?itok=qRyE_P-s\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-girls-handle-pressure-maintain-focus-chess-usjuniors",
+         "pubDate" : "Sat, 20 Jul 2024 23:46:10",
+         "title" : "How Girls Handle Pressure & Maintain Focus in Chess? | #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Kostya Kavutskiy after defeating Jason Liang in Round 5 of the 2024 U.S. Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/christopher-yoo%E2%80%99s-dream-game-smooth-indeed-r5-usjuniors",
+         "pubDate" : "Sat, 20 Jul 2024 23:46:10",
+         "title" : "Christopher Yoo's Dream Game: Smooth Indeed! | R5 #USJuniors"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Yasser and Nazi chat about the complexity of finding tactics in certain time controls and the problem with tactics book </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/help-there-tactic-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/iWgUHMeK79Q.jpg?itok=xSXti6k9\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,20 +98,20 @@ news_feed (
          "title" : "Jason Liang: Surprised by Guo's French | R4 #USJuniors"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Rose Atwell talks to Kostya Kavutskiy after defeating Tang in Round 4 of the 2024 U.S. Girls' Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/atwell-%E2%80%98got-really-lucky%E2%80%99-vs-zoey-r4-usjuniors",
-         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
-         "title" : "Atwell: 'Got Really Lucky' vs. Zoey | R4 #USJuniors"
+         "description" : "Twitch streamer and IM Yoseph Theolifus Taher became the ninth player to win Bullet Brawl, scoring 72.5/86 and securing the $400 first prize ahead of GM Daniel Naroditsky on International Chess Day. Peru&#39;s IM Renato Terry picked up the $150 third ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/yoseph-taher-wins-bullet-brawl-july-20-2024",
+         "pubDate" : "Sat, 20 Jul 2024 16:46:00",
+         "title" : "Taher Becomes 9th Player To Win Bullet Brawl On International Chess Day"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Jasmine Su talks to Kostya Kavutskiy after defeating Iris Mou in Round 4 of the 2024 U.S. Girls' Junior Championship. 2024.07.19<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jasmine-su-breaks-through-mou%E2%80%99s-queenside-r4-usjuniors",
-         "pubDate" : "Sat, 20 Jul 2024 17:45:57",
-         "title" : "Jasmine Su Breaks Through Mou's Queenside | R4 #USJuniors"
+         "description" : "GM Praggnanandhaa Rameshbabu finally won a classical game at the 2024 Biel Chess Festival as he defeated GM Sam Shankland to reenter the world top-10. It was almost a perfect day for the family as Vaishali Rameshbabu was on the brink of beating GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-5",
+         "pubDate" : "Sat, 20 Jul 2024 16:28:00",
+         "title" : "Praggnanandhaa Bounces Back As Vaishali Misses Win In Last Seconds"
       },
       {
          "description" : " Shama Yisrael in the process of making history at the 2024 Pincrest Independence Open.Photo courtesy of South Miami Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the title. After playing in several tournaments in a week's time, the 20-year-old earned her last few points The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -616,22 +632,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3113",
          "pubDate" : "Sat, 13 Jul 2024 10:36:20",
          "title" : "USA and England triumph in World Senior Team Chess Championship 2024"
-      },
-      {
-         "description" : "Abdalrahman Sameh Mohamed played his first tournament in January, won the African Youth Championship in June, and on Thursday took it one step further to sensationally win the Egyptian Chess Championship. He&#39;s just ten years old. Abdalrahman, wi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/egyptian-national-chess-champion-10-years-old",
-         "pubDate" : "Sat, 13 Jul 2024 07:12:00",
-         "title" : "Egyptian Becomes National Chess Champion At 10"
-      },
-      {
-         "description" : "GM Fabiano Caruana has climbed to world number-two on the rapid live rating list after beating GMs Gukesh Dommaraju, Anish Giri, and Maxime Vachier-Lagrave to end the rapid section of the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia on a towering 15...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-3",
-         "pubDate" : "Fri, 12 Jul 2024 14:58:00",
-         "title" : "Caruana Storms To Victory In Croatian Rapid, Takes 3-Point Lead Into Blitz"
       },
       {
          "description" : "The Second edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2024 will be held at Indira Gandhi Indoor Stadium, Sarusojai, Guwahati, Assam Assam - ",
