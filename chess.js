@@ -50,7 +50,7 @@ news_feed (
          "title" : "21st Tamil Nadu IM norm tournament - Live Games Link"
       },
       {
-         "description" : "This is a flash report. The full article will be added to this page soon. GM Alireza Firouzja has succeeded in setting up another all-French clash with GM Maxime Vachier-Lagrave in the CrunchLabs Masters 2024 Division I Grand Final. GM Ian Nepom...",
+         "description" : "GM Alireza Firouzja has succeeded in setting up another all-French clash with GM Maxime Vachier-Lagrave in the CrunchLabs Masters 2024 Division I Grand Final. GM Ian Nepomniachtchi defeated GM Magnus Carlsen 2-1 in the Losers Semifinals, but the F...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-6",
@@ -1064,14 +1064,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/england-teams-for-the-chess-olympiad/",
          "pubDate" : "Tue, 02 Jul 2024 13:00:41",
          "title" : "England teams for the Chess Olympiad"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3090",
-         "pubDate" : "Mon, 01 Jul 2024 21:10:16",
-         "title" : "Don't miss out: Registration deadline for the FIDE World Rapid and Blitz Team Championships approaching"
       }
    ]
 }
