@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two program packages that are designed to make you stronger, to seriously improve your results in games and tournaments. Fritz 19 lets you practice practise and analyse, the Opening Encyclopedia tells you exactly what you should play in order to succeed. You can simply load variations into Fritz 19 and try playing them against the program - at your level of play. The perfect practical opening training! Instead of €239.80 for both programs, this week you can get the package for just €179.90.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fritz-19-opening-encyclopedia-2024",
+         "pubDate" : "Mon, 22 Jul 2024 09:03:30",
+         "title" : "Fritz 19 + Opening Encyclopedia 2024"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chirila caught getting his groove on during commentary </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cristian-gets-his-groove-uschesschamps-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/L7Ev1YjQfro.jpg?itok=UYQRMOfT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/cristian-gets-his-groove-uschesschamps-chess-chesscom",
+         "pubDate" : "Mon, 22 Jul 2024 05:46:49",
+         "title" : "Cristian Gets His Groove On #uschesschamps #chess #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser asks for Cristian&#039;s evaluation of a position in the game between Andrew Hong and Jason Wang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-bad-my-position-uschesschamps-usjuniors-chesstactics-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kn0Rc2rhOag.jpg?itok=Wmr2h5sZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-bad-my-position-uschesschamps-usjuniors-chesstactics-chess",
+         "pubDate" : "Mon, 22 Jul 2024 05:46:49",
+         "title" : "How Bad Is My Position #uschesschamps #usjuniors #chesstactics #chess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Nazi Paikidze chats about playing c5 against the author of the book, &quot;Mayhem in the Morra,&quot; IM Marc Esserman. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smith-morra-gambit-and-im-marc-esserman-ushcesschamps-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CKDE7XiKLk4.jpg?itok=Bg412BYi\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/smith-morra-gambit-and-im-marc-esserman-ushcesschamps-chess-chessopenings-chesscom",
+         "pubDate" : "Mon, 22 Jul 2024 02:46:42",
+         "title" : "Smith-Morra Gambit and IM Marc Esserman #ushcesschamps #chess #chessopenings #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Analyzing the rook endgame between GMs Root and Kraai, Nazi flexes her endgame skills learned from GM Sam Shankland </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/im-paikidzes-rook-endgame-flex-uschesschamps-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dQPs9UHAHl4.jpg?itok=TmnGopR-\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/im-paikidzes-rook-endgame-flex-uschesschamps-chess-chessendgame-chesscom",
+         "pubDate" : "Mon, 22 Jul 2024 02:46:42",
+         "title" : "IM Paikidze's Rook Endgame Flex #uschesschamps #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The move g3 played is a small, cute, but highly effective in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/g3-another-mickey-mouse-move-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aLiWSmojosI.jpg?itok=7FliBKnP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/g3-another-mickey-mouse-move-uschesschamps-usjuniors-chess-chesstactics-chesscom",
+         "pubDate" : "Mon, 22 Jul 2024 02:46:42",
+         "title" : "G3: Another Mickey Mouse Move #uschesschamps #usjuniors #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> When your opponents is blitzing out moves and is prepared to write your next move, its possible you have fallen into a trap. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/he-didnt-smell-rat-uschesschamps-usseniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uI6y8fU1nxk.jpg?itok=fx58hFwl\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/he-didnt-smell-rat-uschesschamps-usseniors-chess-chesstactics-chesscom",
+         "pubDate" : "Mon, 22 Jul 2024 02:46:42",
+         "title" : "He Didn't Smell The Rat #uschesschamps #usseniors #chess #chesstactics #chesscom"
+      },
+      {
          "description" : "The blitz section of the GM Triathlons at the Biel Chess Festival decided which players would qualify for the final phase and thus fight for the 2024 title. There was particular tension in the Masters, where the Indian superstar Praggnanandhaa had to work hard to make it through, as he had a strong showing to qualify in third place after all. In the Challengers, Saleh Salem has a huge advantage in the standings thanks to an outstanding performance in the blitz, as he scored 9 out of 10 possible points. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +72,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/prep-gone-wrong-uschesschamps-usjuniors-chess-chesstactics-chesscom",
          "pubDate" : "Sun, 21 Jul 2024 23:46:38",
          "title" : "Prep Gone Wrong #uschesschamps #usjuniors #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3124",
+         "pubDate" : "Sun, 21 Jul 2024 21:34:38",
+         "title" : "Team lineups announced for record-breaking 45th Chess Olympiad in Budapest"
       },
       {
          "description" : "<div class=\"body text-secondary\"> In this rook and bishop endgame position between Woodward and Yoo, Nazi, Cristian, and Yasser scope out ways to break through and get the rook involved. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-and-bishop-endgame-uschesschamps-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CR4L6igTkFQ.jpg?itok=tNC8RZB2\" alt=\"\" /></a></div>",
@@ -64,54 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-5",
          "pubDate" : "Sun, 21 Jul 2024 12:03:00",
          "title" : "Vachier-Lagrave Reaches Div I Grand Final As Carlsen, Nepomniachtchi Set Up Repeat Clash"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Zoey Tang talks to Kostya Kavutskiy after a draw against Rachael Li in Round 5 of the 2024 U.S. Girls' Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/tang%E2%80%99s-%E2%80%99new-tournament%E2%80%99-starting-over-after-rest-day-r5-usjuniors",
-         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
-         "title" : "Tang's 'New Tournament': Starting Over After Rest Day | R5 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Omya Vidyarthi talks to Kostya Kavutskiy after defeating Jasmine Su in Round 5 of the 2024 U.S. Girls' Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/vidyarthi-takes-down-leader-su-%E2%80%98now-i-feel-free%E2%80%99-r5-usjuniors",
-         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
-         "title" : "Vidyarthi Takes Down Leader Su: 'Now I Feel Free' | R5 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Megan Paragua talks to Kostya Kavutskiy after a draw against Atwell in Round 5 of the 2024 U.S. Girls' Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wra",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/megan-paragua-really-hope-i-can-score-full-point-r5-usjuniors",
-         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
-         "title" : "Megan Paragua: Really Hope I Can Score a Full Point | R5 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 5 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-5\"><img src=\"https://saintlouischessclub.org/sites/defa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-5",
-         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
-         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 5"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Vladimir Akopian talks to Kostya Kavutskiy after defeating Kraai in Round 5 of the 2024 U.S. Senior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/akopian-uses-%E2%80%98pleasant%E2%80%99-old-line-beat-kraai-r5-usseniors",
-         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
-         "title" : "Akopian Uses 'Pleasant' Old Line to Beat Kraai | R5 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Joel Benjamin talks to Kostya Kavutskiy after defeating Khachiyan in Round 5 of the 2024 U.S. Senior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/joel-benjamin-wants-win-us-seniors-person-r5-usseniors",
-         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
-         "title" : "Joel Benjamin Wants to Win U.S. Seniors IN PERSON! | R5 #USSeniors"
       },
       {
          "description" : "As the U.S. Junior, Girls' Junior, and Senior championships truck on side-by-side in St. Louis, there's only one thing they each have in common: a clear leader after five rounds. <br /><br /> In the Senior, victories are coming for the players who have kept up with the latest trends in opening theory. But in the Junior, the exact opposite is true, with frontrunner GM Chris Yoo managed winning with 2. Ne2 in the Sicilian. And in the Girls' Junior, it's not about the openings at all, where all the games have been dizzying technical displays. A particular standout this round was IM Alice Lee's endgame against WFM Chloe Gaw, in which she showed both great practical play and impressive calculatio",
