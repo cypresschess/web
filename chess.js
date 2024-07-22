@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
+         "pubDate" : "Mon, 22 Jul 2024 19:50:00",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
          "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,15 +18,7 @@ news_feed (
          "title" : "CrunchLab Masters - Live!"
       },
       {
-         "description" : "FIDE has published the official entry and starting lists for the Chess Olympiad in Budapest (11 to 22 September). In the open tournament, the USA, India and China are the top teams in the seeding list according to Elo. The German team is in tenth place. In the Women's Olympiad, Georgia leads the seeding list. The German women are eighth in the seeding list. | Photos: FIDE",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-lineups",
-         "pubDate" : "Mon, 22 Jul 2024 15:50:00",
-         "title" : "Chess Olympiad: USA, India and China the rating favourites"
-      },
-      {
-         "description" : "We are also pleased to announce that the ECF has been asked to run this year's Glorney Cup which we have decided to stage from...",
+         "description" : "The ECF has been asked to run this year's Glorney Cup from 23rd to 25th July (i.e. immediately before the British Championships) at the Canham...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/glorney-cup-2024-2/",
@@ -48,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/21st-tamil-nadu-im-norm-tournament-live-games-link/",
          "pubDate" : "Mon, 22 Jul 2024 11:11:29",
          "title" : "21st Tamil Nadu IM norm tournament - Live Games Link"
+      },
+      {
+         "description" : "This is a flash report. The full article will be added to this page soon. GM Alireza Firouzja has succeeded in setting up another all-French clash with GM Maxime Vachier-Lagrave in the CrunchLabs Masters 2024 Division I Grand Final. GM Ian Nepom...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-6",
+         "pubDate" : "Mon, 22 Jul 2024 10:41:00",
+         "title" : "Firouzja Neutralizes Nepomniachtchi's Killer Prep, Sets Up All-French Grand Final"
       },
       {
          "description" : "Two program packages that are designed to make you stronger, to seriously improve your results in games and tournaments. Fritz 19 lets you practice practise and analyse, the Opening Encyclopedia tells you exactly what you should play in order to succeed. You can simply load variations into Fritz 19 and try playing them against the program - at your level of play. The perfect practical opening training! Instead of €239.80 for both programs, this week you can get the package for just €179.90.",
@@ -136,6 +144,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2024-blitz",
          "pubDate" : "Mon, 22 Jul 2024 00:20:00",
          "title" : "Biel: Pragg delivers in the blitz to stay in the race"
+      },
+      {
+         "description" : "A total of 368 players representing 28 federations participated across 12 sections in the Pan-American Youth Championship XXXIV. The tournament, held from July 15 through 20 in Orlando, Florida was hosted in partnership with the Confederation of Chess for Americas (CCA), International Chess Federation (FIDE), and Rosen Shingle Creek.<br /><br /> Overall, American players won 25 of the 36 total medals, including 11 golds. WIM Sofia Mayorga Araya, of Costa Rica, was the lone international gold medalist, winning the Girls Under-14 a clear two points ahead of the field with an 8/9 score. <br /><br /> All results can be seen on Chess-Results.com, and games from the top boards of each section can ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/pan-american-youth-championship-xxxiv-report-and-recap",
+         "pubDate" : "Mon, 22 Jul 2024 00:00:00",
+         "title" : "Pan-American Youth Championship XXXIV Report and Recap"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Daggupati was on the cusp of executing the &quot;novelty of the year&quot; in a dominating position early against Hardaway; but finds himself on the wrong side of his prep in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-gone-wrong-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KAl1cV8dGng.jpg?itok=UiniBHKb",
@@ -538,14 +554,6 @@ news_feed (
          "title" : "Tactics Tuesday: FIDE World Cup Juniors, Pt. 3"
       },
       {
-         "description" : "2024 Women Programming Grant Cycle Announcement<br /><br /> US Chess is happy to announce a new cycle of program grant funding to support efforts to educate, retain and promote women and girls in chess. These grants are supported by our partnership with the Saint Louis Chess Club, which began in 2019. <br /><br /> For this cycle, we are looking for projects organized by educational non-profits (501 c3), public schools and US Chess affiliates with non-profit status. The projects should be planned for any time between September 1, 2024 through July 31, 2025. The deadline to be considered for the first round of applications is 5 PM CT on August 16, 2024. US Chess reserves the right to accept la",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-2025-women-and-girls-programming-grant-cycle-officially-open",
-         "pubDate" : "Tue, 16 Jul 2024 00:00:00",
-         "title" : "2024-2025 Women and Girls Programming Grant Cycle Officially Open!"
-      },
-      {
          "description" : " The Grand Chess Tour continued with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment and the sad news of the passing of his mother soon followed. Fabiano Caruana was the clear winner of the event, he won the rapid by 1.5 points and finished 3rd 1 point off the leaders in the blitz",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/07/14/tani-adewumi-wins-u-s-cadet/",
          "pubDate" : "Sun, 14 Jul 2024 14:25:56",
          "title" : "Tani Adewumi wins U.S. Cadet!"
-      },
-      {
-         "description" : "GM Fabiano Caruana won the 2024 SuperUnited Rapid &#38;amp; Blitz Croatia with five rounds to spare. Scoring a total of 27 points across the five days, he matched GM Magnus Carlsen&#39;s record from 2019 of most points earned in a Grand Chess Tour rapid a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-superunited-croatia-rapid-blitz-day-5-caruana-wins",
-         "pubDate" : "Sun, 14 Jul 2024 11:50:00",
-         "title" : "Caruana Wins With 5 Rounds To Spare, Matches Carlsen's Record Of 27 Points"
       },
       {
          "description" : "In the overall standings, Gukesh remains in seventh spot with a total of 11.5 points and Vidit is ninth with 7.5 points to his name.",
