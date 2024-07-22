@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "\"Finishing off the opponent's king is, and remains, the ultimate goal of a chess game, and in order to memorise the checkmating patterns and know how to use them successfully in your own games, only one thing helps: practise again and again!\". Oliver Reeh introduces his tactics column in the new ChessBase Magazine #220 with these words. Is there anything to add? Let's go! Take advantage of the CBM reading sample of the week and go king hunting with Oliver Reeh. Here and now and directly via your web browser!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-14",
+         "pubDate" : "Mon, 22 Jul 2024 13:00:00",
+         "title" : "\"The king is the goal!\""
+      },
+      {
+         "description" : "Please find the live link for 21st IM norm tournament The link for the&#160;21st tournament&#160;is:&#160;https://live.tamilchess.com/21st-im-norm-chennai/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/21st-tamil-nadu-im-norm-tournament-live-games-link/",
+         "pubDate" : "Mon, 22 Jul 2024 11:11:29",
+         "title" : "21st Tamil Nadu IM norm tournament - Live Games Link"
+      },
+      {
          "description" : "Two program packages that are designed to make you stronger, to seriously improve your results in games and tournaments. Fritz 19 lets you practice practise and analyse, the Opening Encyclopedia tells you exactly what you should play in order to succeed. You can simply load variations into Fritz 19 and try playing them against the program - at your level of play. The perfect practical opening training! Instead of €239.80 for both programs, this week you can get the package for just €179.90.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/fritz-19-opening-encyclopedia-2024",
          "pubDate" : "Mon, 22 Jul 2024 09:03:30",
          "title" : "Fritz 19 + Opening Encyclopedia 2024"
+      },
+      {
+         "description" : "International Chess Federation FIDE celebrates its 100th anniversary this year. The celebration took place in Paris, France, on International Chess Day, July 20. The celebration gathered FIDE officials and distinguished guests, among them: FIDE President Arkady Dvorkovich, ECU President Zurab Azmaiparashvili, ECU Deputy President and Deputy Chair of the FIDE Management Board Dana Reizniece-Ozola, ECU Vice President Malcolm Pein, along with former world champions Vishy Anand, Zhu Chen, Alexandra Kosteniuk. The celebration started with a walk to the historic 9th []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/fide-celebrates-100-years-since-its-founding/",
+         "pubDate" : "Mon, 22 Jul 2024 08:23:13",
+         "title" : "FIDE celebrates 100 years since its founding"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Chirila caught getting his groove on during commentary </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cristian-gets-his-groove-uschesschamps-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/L7Ev1YjQfro.jpg?itok=UYQRMOfT\" alt=\"\" /></a></div>",
@@ -1056,38 +1080,6 @@ news_feed (
          "link" : "https://www.fide.com/news/2899",
          "pubDate" : "Mon, 01 Jul 2024 12:00:51",
          "title" : "Gligoric Trophy 2024: Call for Nominations"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, UP Sports Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 27 to 28 July",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/senior-national-arbiters-seminar-exam-from-27-to-28-july-2024-at-bijnor-up/",
-         "pubDate" : "Mon, 01 Jul 2024 10:37:56",
-         "title" : "Senior National Arbiters Seminar & Exam from 27 to 28 July 2024 at Bijnor , UP"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The American GM Hans Niemann announced a series of matches with Giri in Utrecht, Vitiugov in London, Bacrot in Paris and Nihal Sarin in Sharjah throughout August. Each match to consist of 6 classical, 6 rapid and 12 blitz games. The <a href=\"https://x.com/HansMokeNiemann/status/1807422406476063021\">announcement</a> includes a call for sponsors. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/niemann-match-tour-in-august/",
-         "pubDate" : "Mon, 01 Jul 2024 10:25:22",
-         "title" : "Niemann match tour in August"
-      },
-      {
-         "description" : "All Assam Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organised a Senior National Arbiter Seminar &#38; Examination at Down",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-at-guwahati-on-21-22-june-2024/",
-         "pubDate" : "Mon, 01 Jul 2024 10:02:15",
-         "title" : "Final Report of Senior National Arbiter Seminar & Examination at Guwahati on 21-22 June 2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3097",
-         "pubDate" : "Mon, 01 Jul 2024 09:07:19",
-         "title" : "Polish chess players shine at 2024 FISU Championship Mind Sports"
       }
    ]
 }
