@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "\"Finishing off the opponent's king is, and remains, the ultimate goal of a chess game, and in order to memorise the checkmating patterns and know how to use them successfully in your own games, only one thing helps: practise again and again!\". Oliver Reeh introduces his tactics column in the new ChessBase Magazine #220 with these words. Is there anything to add? Let's go! Take advantage of the CBM reading sample of the week and go king hunting with Oliver Reeh. Here and now and directly via your web browser!",
+         "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-14",
-         "pubDate" : "Mon, 22 Jul 2024 13:00:00",
-         "title" : "\"The king is the goal!\""
+         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
+         "pubDate" : "Mon, 22 Jul 2024 16:50:00",
+         "title" : "CrunchLab Masters - Live!"
+      },
+      {
+         "description" : "FIDE has published the official entry and starting lists for the Chess Olympiad in Budapest (11 to 22 September). In the open tournament, the USA, India and China are the top teams in the seeding list according to Elo. The German team is in tenth place. In the Women's Olympiad, Georgia leads the seeding list. The German women are eighth in the seeding list. | Photos: FIDE",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-olympiad-2024-lineups",
+         "pubDate" : "Mon, 22 Jul 2024 15:50:00",
+         "title" : "Chess Olympiad: USA, India and China the rating favourites"
+      },
+      {
+         "description" : "We are also pleased to announce that the ECF has been asked to run this year's Glorney Cup which we have decided to stage from...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/glorney-cup-2024-2/",
+         "pubDate" : "Mon, 22 Jul 2024 15:23:51",
+         "title" : "Glorney Cup 2024"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 17 months after not waiting for the result of <strong>US Chess</strong> investigation into alleged serial sexual abuses by Alejandro Ramirez, <strong>Jennifer Shahade</strong> has not waited out a mediation process but gone into offensive by <a href=\"https://www.chess.com/news/view/jennifer-shahade-files-lawsuit-against-us-chess-misconduct\">filing a lawsuit</a> against her former employer and <a href=\"https://new.uschess.org/sites/default/files/media/documents/acm_037-pete-due-process-ii-final.pdf\">chess writer</a> <strong>Pete Tamburro</strong> for alleged retaliating against her. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/shahade-sues-uschess/",
+         "pubDate" : "Mon, 22 Jul 2024 13:21:33",
+         "title" : "Shahade sues USChess"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Guiness World Records</strong> accepted 5,4 million games played on <strong>International Chess Day</strong> <a href=\"https://www.chess.com/blog/raync910/guinness-world-records-international-chess-day-most-games-july-20-fide-100#:~:text=Update%3A%20Guinness%20World%20Records%20for,Saturday%2C%20July%2020%2C%202024.\">as a record</a>, sponsored by <strong>FIDE</strong>, that <a href=\"https://fide.com/fide/about-fide\">says about itself</a> that on an average day more than 60 million games are played. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/54-million-games-recorded/",
+         "pubDate" : "Mon, 22 Jul 2024 13:14:41",
+         "title" : "5,4 million games recorded"
       },
       {
          "description" : "Please find the live link for 21st IM norm tournament The link for the&#160;21st tournament&#160;is:&#160;https://live.tamilchess.com/21st-im-norm-chennai/",
@@ -32,6 +64,22 @@ news_feed (
          "link" : "https://www.europechess.org/fide-celebrates-100-years-since-its-founding/",
          "pubDate" : "Mon, 22 Jul 2024 08:23:13",
          "title" : "FIDE celebrates 100 years since its founding"
+      },
+      {
+         "description" : "Superstar sisters WFM Alexandra and Andrea Botez are hosting, for the first time ever, a FIDE-rated event for female creators and players. The event, called Chess Camp, will take place at a mansion in Malibu, California, from July 24 to July 31 an...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-botez-sisters-chess-camp",
+         "pubDate" : "Mon, 22 Jul 2024 08:00:00",
+         "title" : "Botez Sisters To Host FIDE-Rated Chess Camp Event For Female Creators"
+      },
+      {
+         "description" : "GM Praggnanandhaa Rameshbabu started the Masters Blitz at the 2024 Biel Chess Festival in an elimination spot, but he went on to win the tournament and climb to third place in the overall standings. Instead, it&#39;s GM Vincent Keymer who joins GM Sam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-blitz",
+         "pubDate" : "Mon, 22 Jul 2024 06:43:05",
+         "title" : "Praggnanandhaa Survives As Salem Crushes Challengers In Blitz"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Chirila caught getting his groove on during commentary </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cristian-gets-his-groove-uschesschamps-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/L7Ev1YjQfro.jpg?itok=UYQRMOfT\" alt=\"\" /></a></div>",
@@ -146,7 +194,7 @@ news_feed (
          "title" : "SNA Seminar & Examination at Jammu on 20-21 July 2024"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave won the Division I Winners Bracket and qualified for the CrunchLabs Masters 2024 Grand Final thanks to beating his compatriot GM Alireza Firouzja 2.5-1.5 on Sunday. Vachier-Lagrave may face Firouzja again, since the winne...",
+         "description" : "GM Maxime Vachier-Lagrave won the Division I Winners Bracket and qualified for the CrunchLabs Masters 2024 Grand Final thanks to beating his compatriot GM Alireza Firouzja 2.5-0.5 on Sunday. Vachier-Lagrave may face Firouzja again, since the winne...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-5",
@@ -186,7 +234,7 @@ news_feed (
          "title" : "Praggnanandhaa Bounces Back As Vaishali Misses Win In Last Seconds"
       },
       {
-         "description" : " Shama Yisrael in the process of making history at the 2024 Pincrest Independence Open.Photo courtesy of South Miami Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the title. After playing in several tournaments in a week's time, the 20-year-old earned her last few points The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " Shama Yisrael in the process of making history at the 2024 Pincrest Independence Open.Photo courtesy of South Miami Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the coveted honor. After playing in several tournaments in a week's time, the 20-year-old earned her last few The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/",
@@ -610,14 +658,6 @@ news_feed (
          "title" : "Caruana Wins With 5 Rounds To Spare, Matches Carlsen's Record Of 27 Points"
       },
       {
-         "description" : "IM Stephane Bressac won the first edition of the Blindfold Chess Challenge, a tournament with a unique format held July 9-11 in Valencia, Spain, where visually-impaired players faced off with non-impaired players. The 34-year-old Bressac was the o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/stephane-bressac-wins-1st-blindfold-chess-challenge-valencia",
-         "pubDate" : "Sun, 14 Jul 2024 04:20:00",
-         "title" : "Stephane Bressac Wins Unique 1st Blindfold Chess Challenge, Open To Everyone"
-      },
-      {
          "description" : "In the overall standings, Gukesh remains in seventh spot with a total of 11.5 points and Vidit is ninth with 7.5 points to his name.",
          "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
          "iconName" : "ESPN",
@@ -632,14 +672,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/40551065/gukesh-falls-seventh-tough-day-3-superunited-rapid-blitz-2024-caruana-massive-lead?device=featurephone",
          "pubDate" : "Sat, 13 Jul 2024 23:14:07",
          "title" : "Gukesh falls to seventh on tough day 3 of SuperUnited Rapid & Blitz 2024; Caruana with massive lead"
-      },
-      {
-         "description" : "GM Daniel Naroditsky has moved one step closer to seizing the top spot on the all-time Bullet Brawl&#38;nbsp;leaderboard after winning the latest edition ahead of GMs Arjun Erigaisi, Hikaru Nakamura, and 132 other titled players. Now sitting on 21 v...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-july-13-2024",
-         "pubDate" : "Sat, 13 Jul 2024 16:56:48",
-         "title" : "Naroditsky Wins 21st Brawl, Closes In On Nakamura's All-Time Record"
       },
       {
          "description" : "",
@@ -1040,46 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3090",
          "pubDate" : "Mon, 01 Jul 2024 21:10:16",
          "title" : "Don't miss out: Registration deadline for the FIDE World Rapid and Blitz Team Championships approaching"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3098",
-         "pubDate" : "Mon, 01 Jul 2024 13:44:16",
-         "title" : "Arjun Erigaisi enter top 5 Open in July 2024 rating list"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111408746.cms\" />FIDE announced on Monday that Singapore will host the 2024 World Championship match between India's chess prodigy D Gukesh and defending champion Ding Liren from China.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-wont-challenge-liren-on-home-turf-singapore-wins-bid-for-world-championships-match/articleshow/111408746.cms",
-         "pubDate" : "Mon, 01 Jul 2024 12:59:58",
-         "title" : "Gukesh won't challenge Liren on home turf; Singapore wins bid for World Championships match"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>FIDE</strong> has <a href=\"https://www.fide.com/news/3096\">awarded</a> the classical <strong>World Championship</strong> to Singapore, where the government is the main sponsor. The two other bids came from India, which had caused a political stir between the camps of Indian Prime Minister Modi and the <strong>All India Chess Federation</strong> that supported Delhi and Tamil Nadu Chief Minister Stalin behind the Indian chess capital Chennai. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/singapore-hosts-ding-gukesh/",
-         "pubDate" : "Mon, 01 Jul 2024 12:49:59",
-         "title" : "Singapore hosts Ding-Gukesh"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3096",
-         "pubDate" : "Mon, 01 Jul 2024 12:00:53",
-         "title" : "Singapore to host 2024 World Chess Championship Match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/2899",
-         "pubDate" : "Mon, 01 Jul 2024 12:00:51",
-         "title" : "Gligoric Trophy 2024: Call for Nominations"
       }
    ]
 }
