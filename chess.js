@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The blitz section of the GM Triathlons at the Biel Chess Festival decided which players would qualify for the final phase and thus fight for the 2024 title. There was particular tension in the Masters, where the Indian superstar Praggnanandhaa had to work hard to make it through, as he had a strong showing to qualify in third place after all. In the Challengers, Saleh Salem has a huge advantage in the standings thanks to an outstanding performance in the blitz, as he scored 9 out of 10 possible points. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-blitz",
+         "pubDate" : "Mon, 22 Jul 2024 00:20:00",
+         "title" : "Biel: Pragg delivers in the blitz to stay in the race"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Daggupati was on the cusp of executing the &quot;novelty of the year&quot; in a dominating position early against Hardaway; but finds himself on the wrong side of his prep in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-gone-wrong-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KAl1cV8dGng.jpg?itok=UiniBHKb",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/prep-gone-wrong-uschesschamps-usjuniors-chess-chesstactics-chesscom",
+         "pubDate" : "Sun, 21 Jul 2024 23:46:38",
+         "title" : "Prep Gone Wrong #uschesschamps #usjuniors #chess #chesstactics #chesscom"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> In this rook and bishop endgame position between Woodward and Yoo, Nazi, Cristian, and Yasser scope out ways to break through and get the rook involved. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-and-bishop-endgame-uschesschamps-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CR4L6igTkFQ.jpg?itok=tNC8RZB2\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/joel-benjamin-wants-win-us-seniors-person-r5-usseniors",
          "pubDate" : "Sun, 21 Jul 2024 02:46:15",
          "title" : "Joel Benjamin Wants to Win U.S. Seniors IN PERSON! | R5 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Andrew Hong talks to Kostya Kavutskiy after defeating Woodward in Round 5 of the 2024 U.S. Junior Championship. 2024.07.20<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hong-control-andy-whole-time-r5-usjuniors",
-         "pubDate" : "Sun, 21 Jul 2024 02:46:15",
-         "title" : "Hong: In Control of Andy the Whole Time | R5 #USJuniors"
       },
       {
          "description" : "As the U.S. Junior, Girls' Junior, and Senior championships truck on side-by-side in St. Louis, there's only one thing they each have in common: a clear leader after five rounds. <br /><br /> In the Senior, victories are coming for the players who have kept up with the latest trends in opening theory. But in the Junior, the exact opposite is true, with frontrunner GM Chris Yoo managed winning with 2. Ne2 in the Sicilian. And in the Girls' Junior, it's not about the openings at all, where all the games have been dizzying technical displays. A particular standout this round was IM Alice Lee's endgame against WFM Chloe Gaw, in which she showed both great practical play and impressive calculatio",
