@@ -10,6 +10,14 @@ news_feed (
          "title" : "CrunchLabs Masters: Firouzja beats Nepo to reach Grand Final"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 6 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-6\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-6",
+         "pubDate" : "Tue, 23 Jul 2024 02:47:32",
+         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 6"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The competitors share their preparation routines before the 2024 U.S. Senior Championship. This aired during Round 6. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -176,14 +184,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3124",
          "pubDate" : "Sun, 21 Jul 2024 21:34:38",
          "title" : "Team lineups announced for record-breaking 45th Chess Olympiad in Budapest"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In this rook and bishop endgame position between Woodward and Yoo, Nazi, Cristian, and Yasser scope out ways to break through and get the rook involved. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-and-bishop-endgame-uschesschamps-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CR4L6igTkFQ.jpg?itok=tNC8RZB2\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rook-and-bishop-endgame-uschesschamps-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 21 Jul 2024 20:46:37",
-         "title" : "Rook and Bishop Endgame #uschesschamps #chess #chessendgame #chesscom"
       },
       {
          "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organized a Senior National Arbiters Seminar &#38; Exam from 20 to",
