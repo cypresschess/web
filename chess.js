@@ -2,20 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pictorial portraits of ten chess players from many different countries, engaged in various sections (GMT Masters Triathlon, GMT Challengers Triathlon, Masters Open, and Amateur Open) at the 57th edition of the Biel Chess Festival. An unparalleled mix of chess activities! Our author, who lives in Biel, presents both known and unknown faces from the Festival | Photos: Organiser (Simon Bohnenblust, Peter A. Steffen)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-photo-panorama",
+         "pubDate" : "Tue, 23 Jul 2024 17:00:00",
+         "title" : "A great Family Festival - Photographic Panorama from Biel 2024"
+      },
+      {
+         "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
+         "pubDate" : "Tue, 23 Jul 2024 16:50:00",
+         "title" : "CrunchLab Masters - Live!"
+      },
+      {
+         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
+         "pubDate" : "Tue, 23 Jul 2024 13:50:00",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "Our Grandmaster friends have unlocked and made all their 500+ hours of courses free, until July 31. They have courses for all levels, from beginners...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/grandmaster-crafted-courses-for-free/",
+         "pubDate" : "Tue, 23 Jul 2024 13:00:10",
+         "title" : "Grandmaster-crafted courses for free!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3125",
+         "pubDate" : "Tue, 23 Jul 2024 12:47:10",
+         "title" : "Youth Solving Championships - FIDE & WFCC special project"
+      },
+      {
          "description" : "Surya Ganguly, the experienced GM from West Bengal, is playing at the Masters Open Tournament in Biel. In an entertaining interview conducted by Arne Kaehler, Surya shares anecdotes from his lengthy chess career and responds to rather unexpected questions. Not to be missed!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/biel-festival-2024-surya-ganguly-interview",
          "pubDate" : "Tue, 23 Jul 2024 12:00:00",
          "title" : "Surya Ganguly - An unmissable interview"
-      },
-      {
-         "description" : "Alireza Firouzja advanced to the Division I Grand Final in the online CrunchLab Masters by beating Ian Nepomniachtchi in the losers' bracket final. On Wednesday, following a rest day, Firouzja will face Maxime Vachier-Lagrave, who had already defeated Firouzja in the winners' bracket final. In Division II, Alexander Grischuk and Vidit Gujrathi reached the Grand Final, while Arjun Erigaisi and Evgeny Alekseev will face off in the Grand Final of Division III. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d6",
-         "pubDate" : "Tue, 23 Jul 2024 03:10:00",
-         "title" : "CrunchLabs Masters: Firouzja beats Nepo to reach Grand Final"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 6 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-6\"><img src=\"https://saintlouischessclub.org/sites/defa",
@@ -40,14 +72,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/chloe-gaw-megan-paragua-make-their-us-girls%E2%80%99-junior-debuts-usjuniors",
          "pubDate" : "Mon, 22 Jul 2024 23:47:18",
          "title" : "Chloe Gaw & Megan Paragua Make Their U.S. Girls' Junior Debuts! | #USJuniors"
-      },
-      {
-         "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
-         "pubDate" : "Mon, 22 Jul 2024 19:50:00",
-         "title" : "US Senior and Junior Championships - Live!"
       },
       {
          "description" : "The ECF has been asked to run this year's Glorney Cup from 23rd to 25th July (i.e. immediately before the British Championships) at the Canham...",
@@ -162,7 +186,7 @@ news_feed (
          "title" : "He Didn't Smell The Rat #uschesschamps #usseniors #chess #chesstactics #chesscom"
       },
       {
-         "description" : "A total of 368 players representing 28 federations participated across 12 sections in the Pan-American Youth Championship XXXIV. The tournament, held from July 15 through 20 in Orlando, Florida was hosted in partnership with the Confederation of Chess for Americas (CCA), International Chess Federation (FIDE), and Rosen Shingle Creek.<br /><br /> Overall, American players won 25 of the 36 total medals, including 11 golds. WIM Sofia Mayorga Araya, of Costa Rica, was the lone international gold medalist, winning the Girls Under-14 a clear two points ahead of the field with an 8/9 score. <br /><br /> All results can be seen on Chess-Results.com, and games from the top boards of each section can ",
+         "description" : "Update, July 23, 2024: an earlier version of this story mistakenly reported that Eshaan Hebbar earned an IM norm for his share of first in the Under-18 section. Hebbar actually earned the IM title for winning the gold on tiebreaks. FM Terry Luo earned an IM norm for finishing tied for first. <br /><br /> A total of 368 players representing 28 federations participated across 12 sections in the Pan-American Youth Championship XXXIV. The tournament, held from July 15 through 20 in Orlando, Florida was hosted in partnership with the Confederation of Chess for Americas (CCA), International Chess Federation (FIDE), and Rosen Shingle Creek.<br /><br /> Overall, American players won 25 of the 36 tot",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/pan-american-youth-championship-xxxiv-report-and-recap",
@@ -1032,22 +1056,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3099",
          "pubDate" : "Tue, 02 Jul 2024 16:08:20",
          "title" : "FIDE World Senior Team Championship 2024 kicks off in Krakow, Poland"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111437054.cms\" />Bodhana Sivanandan, a nine-year-old chess prodigy from Harrow, London, has made history by becoming the youngest individual ever chosen to represent England in an international tournament. Reuters quoted a report by The Guardian newspaper on Tuesday, Sivanandan has been selected for the women's team that will compete in the Chess Olympiad in September.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/nine-year-old-chess-prodigy-sivanandan-to-become-youngest-england-international/articleshow/111437054.cms",
-         "pubDate" : "Tue, 02 Jul 2024 14:15:48",
-         "title" : "Nine-year-old Sivanandan to become youngest England international"
-      },
-      {
-         "description" : "The England teams for the Chess Olympiad at Budapest in September have been selected. Board orders will be determined by the Selection Committee at a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-teams-for-the-chess-olympiad/",
-         "pubDate" : "Tue, 02 Jul 2024 13:00:41",
-         "title" : "England teams for the Chess Olympiad"
       }
    ]
 }
