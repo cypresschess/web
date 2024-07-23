@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Surya Ganguly, the experienced GM from West Bengal, is playing at the Masters Open Tournament in Biel. In an entertaining interview conducted by Arne Kaehler, Surya shares anecdotes from his lengthy chess career and responds to rather unexpected questions. Not to be missed!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-surya-ganguly-interview",
+         "pubDate" : "Tue, 23 Jul 2024 12:00:00",
+         "title" : "Surya Ganguly - An unmissable interview"
+      },
+      {
          "description" : "Alireza Firouzja advanced to the Division I Grand Final in the online CrunchLab Masters by beating Ian Nepomniachtchi in the losers' bracket final. On Wednesday, following a rest day, Firouzja will face Maxime Vachier-Lagrave, who had already defeated Firouzja in the winners' bracket final. In Division II, Alexander Grischuk and Vidit Gujrathi reached the Grand Final, while Arjun Erigaisi and Evgeny Alekseev will face off in the Grand Final of Division III. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-6",
          "pubDate" : "Mon, 22 Jul 2024 10:41:00",
          "title" : "Firouzja Neutralizes Nepomniachtchi's Killer Prep, Sets Up All-French Grand Final"
-      },
-      {
-         "description" : "Two program packages that are designed to make you stronger, to seriously improve your results in games and tournaments. Fritz 19 lets you practice practise and analyse, the Opening Encyclopedia tells you exactly what you should play in order to succeed. You can simply load variations into Fritz 19 and try playing them against the program - at your level of play. The perfect practical opening training! Instead of €239.80 for both programs, this week you can get the package for just €179.90.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fritz-19-opening-encyclopedia-2024",
-         "pubDate" : "Mon, 22 Jul 2024 09:03:30",
-         "title" : "Fritz 19 + Opening Encyclopedia 2024"
       },
       {
          "description" : "International Chess Federation FIDE celebrates its 100th anniversary this year. The celebration took place in Paris, France, on International Chess Day, July 20. The celebration gathered FIDE officials and distinguished guests, among them: FIDE President Arkady Dvorkovich, ECU President Zurab Azmaiparashvili, ECU Deputy President and Deputy Chair of the FIDE Management Board Dana Reizniece-Ozola, ECU Vice President Malcolm Pein, along with former world champions Vishy Anand, Zhu Chen, Alexandra Kosteniuk. The celebration started with a walk to the historic 9th []",
