@@ -2,20 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja advanced to the Division I Grand Final in the online CrunchLab Masters by beating Ian Nepomniachtchi in the losers' bracket final. On Wednesday, following a rest day, Firouzja will face Maxime Vachier-Lagrave, who had already defeated Firouzja in the winners' bracket final. In Division II, Alexander Grischuk and Vidit Gujrathi reached the Grand Final, while Arjun Erigaisi and Evgeny Alekseev will face off in the Grand Final of Division III. | Photo: Tata Steel Chess Tournament / Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d6",
+         "pubDate" : "Tue, 23 Jul 2024 03:10:00",
+         "title" : "CrunchLabs Masters: Firouzja beats Nepo to reach Grand Final"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The competitors share their preparation routines before the 2024 U.S. Senior Championship. This aired during Round 6. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-seniors-prepare-important-chess-tournaments-usseniors",
+         "pubDate" : "Mon, 22 Jul 2024 23:47:18",
+         "title" : "How Seniors Prepare for Important Chess Tournaments? | #USSeniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Chloe Gaw and Megan Paragua talk to Begim Tokhirjonova before the 2024 U.S. Girls' Junior Championship. This aired during Round 6. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chloe-gaw-megan-paragua-make-their-us-girls%E2%80%99-junior-debuts-usjuniors",
+         "pubDate" : "Mon, 22 Jul 2024 23:47:18",
+         "title" : "Chloe Gaw & Megan Paragua Make Their U.S. Girls' Junior Debuts! | #USJuniors"
+      },
+      {
          "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
          "pubDate" : "Mon, 22 Jul 2024 19:50:00",
          "title" : "US Senior and Junior Championships - Live!"
-      },
-      {
-         "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
-         "pubDate" : "Mon, 22 Jul 2024 16:50:00",
-         "title" : "CrunchLab Masters - Live!"
       },
       {
          "description" : "The ECF has been asked to run this year's Glorney Cup from 23rd to 25th July (i.e. immediately before the British Championships) at the Canham...",
@@ -138,14 +154,6 @@ news_feed (
          "title" : "He Didn't Smell The Rat #uschesschamps #usseniors #chess #chesstactics #chesscom"
       },
       {
-         "description" : "The blitz section of the GM Triathlons at the Biel Chess Festival decided which players would qualify for the final phase and thus fight for the 2024 title. There was particular tension in the Masters, where the Indian superstar Praggnanandhaa had to work hard to make it through, as he had a strong showing to qualify in third place after all. In the Challengers, Saleh Salem has a huge advantage in the standings thanks to an outstanding performance in the blitz, as he scored 9 out of 10 possible points. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-blitz",
-         "pubDate" : "Mon, 22 Jul 2024 00:20:00",
-         "title" : "Biel: Pragg delivers in the blitz to stay in the race"
-      },
-      {
          "description" : "A total of 368 players representing 28 federations participated across 12 sections in the Pan-American Youth Championship XXXIV. The tournament, held from July 15 through 20 in Orlando, Florida was hosted in partnership with the Confederation of Chess for Americas (CCA), International Chess Federation (FIDE), and Rosen Shingle Creek.<br /><br /> Overall, American players won 25 of the 36 total medals, including 11 golds. WIM Sofia Mayorga Araya, of Costa Rica, was the lone international gold medalist, winning the Girls Under-14 a clear two points ahead of the field with an 8/9 score. <br /><br /> All results can be seen on Chess-Results.com, and games from the top boards of each section can ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -176,30 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/rook-and-bishop-endgame-uschesschamps-chess-chessendgame-chesscom",
          "pubDate" : "Sun, 21 Jul 2024 20:46:37",
          "title" : "Rook and Bishop Endgame #uschesschamps #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Moving the f-pawn can be disastrous for mortals, but GM Vladimir Akopian drops the f5 bomb in this NICE bishop and rook endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/rook-and-bishop-endgame-f5-bomb-uschesschamps-usseniors-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0lOjQLVj_hw.jpg?itok=-USaGXmX\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/rook-and-bishop-endgame-f5-bomb-uschesschamps-usseniors-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 21 Jul 2024 20:46:37",
-         "title" : "Rook and Bishop Endgame: The F5 Bomb #uschesschamps #usseniors #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "With 5 out of 9 rounds played at the US Senior, US Junior and US Girls Championships, the three concurrent events have sole leaders atop the standings. In the Senior tournament, Vladimir Akopian leads with 4&frac12; points, as only Gregory Kaidanov managed to hold him to a draw in the first 5 rounds of play. In the Junior event, rating favourite and 2022 champion Christopher Yoo leads with 4 points, while among the Girls, Jasmine Su leads with 3&frac12; points despite having suffered a loss against Omya Vidharti in round 5. | Photo: Saint Louis Chess Club / Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024-r5",
-         "pubDate" : "Sun, 21 Jul 2024 19:30:00",
-         "title" : "US Seniors and Juniors: Akopian, Yoo and Su sole leaders"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> As white prepares to exchange the queens and possibly go for the draw; black has other plans with f5 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fierce-move-shabalov-uschesschamps-usseniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ZzdI9_ExISA.jpg?itok=EI_C-YNi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fierce-move-shabalov-uschesschamps-usseniors-chess-chesstactics-chesscom",
-         "pubDate" : "Sun, 21 Jul 2024 17:46:37",
-         "title" : "Fierce Move by Shabalov #uschesschamps #usseniors #chess #chesstactics #chesscom"
       },
       {
          "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organized a Senior National Arbiters Seminar &#38; Exam from 20 to",
