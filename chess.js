@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two very different Grand Finals were seen in Division II and Division III of the CrunchLab Masters. While Alexander Grischuk needed two matches (seven games in total, including an Armageddon) to take down Vidit Gujrathi in Division II, Arjun Erigaisi quickly defeated Evgeny Alekseev by a 2&frac12;-&frac12; score in Division III. The Division I Grand Final between Alireza Firouzja and Maxime Vachier-Lagrave will take place on Wednesday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d7",
+         "pubDate" : "Wed, 24 Jul 2024 09:00:00",
+         "title" : "CrunchLabs Masters: Grischuk and Arjun prevail in Divisions II and III"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Today is the final round in regulation. Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-9-final-round",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-9-final-round",
+         "pubDate" : "Wed, 24 Jul 2024 05:48:23",
+         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 9 | Final Round"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. However, at least one field was not decided in regulation. Therefore, playoffs! Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-playoffs\"><img src=\"https://saintlouischess",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-playoffs",
+         "pubDate" : "Wed, 24 Jul 2024 05:48:23",
+         "title" : "2024 U.S. Junior & U.S. Senior Championships: Playoffs"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBD for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-saint-louis-rapid-blitz-day-1-grandchesstour\"><img src",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-1-grandchesstour",
+         "pubDate" : "Wed, 24 Jul 2024 05:48:23",
+         "title" : "2024 Saint Louis Rapid & Blitz: Day 1 | #GrandChessTour"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The competitors share how they handle psychological aspects of the game before the 2024 U.S. Junior Championship. This aired during Round 7. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -72,38 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/christopher-yoo-first-time-playing-dragon-r6-usjuniors",
          "pubDate" : "Tue, 23 Jul 2024 20:48:07",
          "title" : "Christopher Yoo: First Time Playing the Dragon | R6 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jason Liang talks to Kostya Kavutskiy after defeating Woodward in Round 6 of the 2024 U.S. Junior Championship. 2024.07.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jason-liang-woodward-couldn%E2%80%99t-recall-his-prep-r6-usjuniors",
-         "pubDate" : "Tue, 23 Jul 2024 20:48:07",
-         "title" : "Jason Liang: Woodward Couldn't Recall His Prep | R6 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Kostya Kavutskiy after defeating Vidyarthi in Round 6 of the 2024 U.S. Girls' Junior Championship. 2024.07.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-bests-vidyarthi-slugfest-r6-usjuniors",
-         "pubDate" : "Tue, 23 Jul 2024 20:48:07",
-         "title" : "Alice Lee Bests Vidyarthi in Slugfest! | R6 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Andrew Hong talks to Kostya Kavutskiy after defeating Ladan in Round 6 of the 2024 U.S. Junior Championship. 2024.07.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hong-not-good-game-i%E2%80%99ll-take-win-r6-usjuniors",
-         "pubDate" : "Tue, 23 Jul 2024 20:48:07",
-         "title" : "Hong: Not a Good Game, but I'll Take the Win | R6 #USJuniors"
-      },
-      {
-         "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
-         "pubDate" : "Tue, 23 Jul 2024 16:50:00",
-         "title" : "CrunchLab Masters - Live!"
       },
       {
          "description" : "",
