@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On July 20, 2024, for the 100th anniversary of its founding, FIDE planned a monumental event. It is a quest to set the Guinness World Record for the most chess games played in 24 hours, asking players all over the world to help achieve this goal. They are asked to play at least one 5-min game on one of the platforms or applications joining the World Records Attempt, between July 20, 2024 00:00:00 CEST and July 21, 2024 00:00:00 CEST. Here are the results in a FIDE press release.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-guinness-chess-world-record",
+         "pubDate" : "Wed, 24 Jul 2024 19:30:00",
+         "title" : "New Guinness Chess World Record"
+      },
+      {
          "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
          "pubDate" : "Wed, 24 Jul 2024 13:50:00",
          "title" : "Biel Chess Festival - Live!"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave won Division I of the CrunchLabs Masters 2024 after defeating GM Alireza Firouzja in the Grand Final. After four draws, he won on demand in the armageddon game to claim $30,000, 100 tour points, and a return to the season...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-2024-cct-crunchlabs-masters-day-8",
+         "pubDate" : "Wed, 24 Jul 2024 10:39:51",
+         "title" : "Vachier-Lagrave Wins CrunchLabs Masters After Defeating Firouzja In Armageddon"
       },
       {
          "description" : "Two very different Grand Finals were seen in Division II and Division III of the CrunchLab Masters. While Alexander Grischuk needed two matches (seven games in total, including an Armageddon) to take down Vidit Gujrathi in Division II, Arjun Erigaisi quickly defeated Evgeny Alekseev by a 2&frac12;-&frac12; score in Division III. The Division I Grand Final between Alireza Firouzja and Maxime Vachier-Lagrave will take place on Wednesday.",
@@ -96,6 +112,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2024-finals-1",
          "pubDate" : "Wed, 24 Jul 2024 01:00:00",
          "title" : "Biel: Dominating Salem wins Challengers Triathlon"
+      },
+      {
+         "description" : "Three players earned norms across the six sections of the July NYC Chess Norms Invitational, with many more reaching or approaching their ratings thresholds. Not every event produces any norms (although previous coverage can be found here and here), so this was a very successful event for the norm-seekers!<br /><br /> This was the largest invitational in NYC Chess Norms' history, with 55 unique players competing across six sections (five run concurrently). It was also our first six-day event, which is now a FIDE requirement for norm events. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> IM Sa",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/norms-earned-rating-thresholds-reached-and-gotham-dominance-highlight-july-nyc-norms",
+         "pubDate" : "Wed, 24 Jul 2024 00:00:00",
+         "title" : "Norms Earned, Rating Thresholds Reached, and Gotham Dominance Highlight July NYC Norms Invitational"
+      },
+      {
+         "description" : "Team USA earned three medals at the 2024 FIDE World Senior Team Championship earlier this month in Krakow, Poland. Below are some instructive tactical highlights from the nine-round event, including games from the two \"unofficial\" American teams competing in the 50+ section. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our interactive worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-senior-team-championships",
+         "pubDate" : "Wed, 24 Jul 2024 00:00:00",
+         "title" : "Wednesday Workout: FIDE World Senior Team Championships"
       },
       {
          "description" : "From a \"numbers\" perspective, round seven's impact on the standings of the 2024 U.S. Junior, Girls' Junior, and Senior championships was gentle, at best. <br /><br /> In the Senior, GM Vladmir Akopian kept his 1&frac12;-point gap ahead of the pack, IM Alice Lee and FM Rose Atwell increased their co-lead in the Girls, and GM Christopher Yoo maintained his (albeit dwindling) lead in the Junior. <br /><br /> Despite the consistency at the time, the games were far from dull, and we were treated once again with a bloodbath of a round, featuring eight decisive games out of 15. Some highlights include: White winning a game in the Senior with a king on e4 in the middlegame, a miracle perpetual queen",
@@ -498,14 +530,6 @@ news_feed (
          "title" : "Another Decisive Day in the Books After Junior, Girls' Junior, and Senior Championships"
       },
       {
-         "description" : "Job Title: Marketing and Communications ManagerReports To: Executive DirectorFLSA: Exempt, Full TimeLocation: St. Louis, Missouri based; telecommuting possibleBenefits: Full benefits package available<br /><br /> <br /><br /> Overview<br /><br /> Responsible for planning, development, and implementation of all US Chess external communications, marketing strategies and communications, public relations activities, and internal communications. Oversees the development and implementation of support materials and services for affiliates and committees in the areas of marketing, communications, and public relations. Consults with the Communications team to coordinate the efforts of US Chess public",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/us-chess-seeks-marketingcommunications-manager",
-         "pubDate" : "Thu, 18 Jul 2024 00:00:00",
-         "title" : "US Chess Seeks Marketing/Communications Manager"
-      },
-      {
          "description" : "GMs Vaishali Rameshbabu and Abhimanyu Mishra both won again in round two of the 2024 Biel Chess Festival despite being the lowest-rated players in their groups. Mishra leads the Masters after a long, grinding win against GM Sam Shankland, while Va...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -538,28 +562,12 @@ news_feed (
          "title" : "Chess.com Community Championships Return With 2024 Spell Chess Championship"
       },
       {
-         "description" : "Round one of the U.S. Junior, Girls' Junior, and Senior Championships kicked off yesterday with some strategically beautiful wins, huge upsets, and some of the most creative chess I've seen in a long time. Overall, 12 of the 15 games ended up with a decisive result!<br /><br /> This trio of tournaments is possibly my very favorite event in all of American chess, and as it's my first year not playing in one of the two Junior sections (holding out for the Senior in a few decades, I suppose!) I'm very happy to bring to CLO the highlights from the first round!<br /><br /> <br /><br /> SENIOR<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-us-junior-girls-junior-and-senior-championships-begin-bang",
-         "pubDate" : "Wed, 17 Jul 2024 00:00:00",
-         "title" : "2024 U.S. Junior, Girls' Junior, and Senior Championships Begin with a Bang"
-      },
-      {
          "description" : " The 57th Biel Chess Festival takes place 13th to 26th July 2024. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/57th-biel-chess-festival-2024",
          "pubDate" : "Tue, 16 Jul 2024 18:54:00",
          "title" : "57th Biel Chess Festival 2024 - Games and Results"
-      },
-      {
-         "description" : "Lowest-seed GM Vaishali Rameshbabu stunned top-seed GM Jonas Bjerre to win with Black in the first round of classical games in the 2024 Biel Chess Festival Challengers, but her brother GM Praggnanandhaa Rameshbabu suffered the opposite fate. The t...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-1",
-         "pubDate" : "Tue, 16 Jul 2024 17:41:00",
-         "title" : "Vaishali Beats Top Seed As Praggnanandhaa Falls To Mishra"
       },
       {
          "description" : " Saad Elmi of Norway earned his 2nd IM norm at the Zadar GM Norm Tournament in Croatia. He ended on an undefeated 6/9, drawing all three GMs in the field. Now at 18, Elmi has collected two IM norms and according to mentor GM Pontus Carlsson, &#8220;He just missed the GM norm.&#8221; FM Saad Elmi The post <a href=\"https://www.thechessdrum.net/blog/2024/07/16/saad-elmi-gets-2nd-im-norm/\">Saad Elmi gets 2nd IM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1024,14 +1032,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/how-to-enhance-the-fan-experience/",
          "pubDate" : "Wed, 03 Jul 2024 21:41:39",
          "title" : "How to enhance the fan experience"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3101",
-         "pubDate" : "Wed, 03 Jul 2024 15:45:33",
-         "title" : "Tbilisi to Host Inaugural Leg of 2024-2025 Women's Grand Prix"
       }
    ]
 }
