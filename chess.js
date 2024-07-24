@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
+         "pubDate" : "Wed, 24 Jul 2024 16:50:00",
+         "title" : "CrunchLab Masters Grand Final - Live!"
+      },
+      {
+         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
+         "pubDate" : "Wed, 24 Jul 2024 13:50:00",
+         "title" : "Biel Chess Festival - Live!"
+      },
+      {
          "description" : "Two very different Grand Finals were seen in Division II and Division III of the CrunchLab Masters. While Alexander Grischuk needed two matches (seven games in total, including an Armageddon) to take down Vidit Gujrathi in Division II, Arjun Erigaisi quickly defeated Evgeny Alekseev by a 2&frac12;-&frac12; score in Division III. The Division I Grand Final between Alireza Firouzja and Maxime Vachier-Lagrave will take place on Wednesday.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d7",
          "pubDate" : "Wed, 24 Jul 2024 09:00:00",
          "title" : "CrunchLabs Masters: Grischuk and Arjun prevail in Divisions II and III"
+      },
+      {
+         "description" : "Two Titled Tuesday regulars, GMs Denis Lazavik and Oleksandr Bortnyk, won the event on July 23. For Lazavik, it was his third of the year, and his first ever with a score of 10.5 points. Bortnyk, who once scored a perfect 9/9 back when the tournam...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/lazavik-bortnyk-win-titled-tuesday-july-23-2024",
+         "pubDate" : "Wed, 24 Jul 2024 07:03:57",
+         "title" : "Now-Familiar Names Top Titled Tuesday"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Today is the final round in regulation. Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-9-final-round",
@@ -72,6 +96,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/biel-festival-2024-finals-1",
          "pubDate" : "Wed, 24 Jul 2024 01:00:00",
          "title" : "Biel: Dominating Salem wins Challengers Triathlon"
+      },
+      {
+         "description" : "From a \"numbers\" perspective, round seven's impact on the standings of the 2024 U.S. Junior, Girls' Junior, and Senior championships was gentle, at best. <br /><br /> In the Senior, GM Vladmir Akopian kept his 1&frac12;-point gap ahead of the pack, IM Alice Lee and FM Rose Atwell increased their co-lead in the Girls, and GM Christopher Yoo maintained his (albeit dwindling) lead in the Junior. <br /><br /> Despite the consistency at the time, the games were far from dull, and we were treated once again with a bloodbath of a round, featuring eight decisive games out of 15. Some highlights include: White winning a game in the Senior with a king on e4 in the middlegame, a miracle perpetual queen",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/race-tightens-two-rounds-go-us-junior-girls-junior-and-senior-championships",
+         "pubDate" : "Wed, 24 Jul 2024 00:00:00",
+         "title" : "Race Tightens with Two Rounds To Go at the U.S. Junior, Girls' Junior, and Senior Championships"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/de",
@@ -146,7 +178,7 @@ news_feed (
          "title" : "Grischuk Beats Vidit Twice To Win Division II, Arjun Tops Division III With Game To Spare"
       },
       {
-         "description" : "Round six of the U.S. Junior, U.S. Girls' Junior, and U.S. Senior championships is in the books in St. Louis. With just three rounds to go, the final results are becoming increasingly difficult to predict. <br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> With his sixth-round win, Joel Benjamin is now tied for second in the Senior. A win against tournament leader Akopian could shake things up. (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> In the Senior, GM Joel Benjamin is storming back into relevance with a date against tournament leader GM Vladimir Akopian on the horizon. <br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br",
+         "description" : "Round six of the U.S. Junior, U.S. Girls' Junior, and U.S. Senior championships is in the books in St. Louis. With just three rounds to go, the final results are becoming increasingly difficult to predict. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> With his sixth-round win, Joel Benjamin is now tied for second in the Senior. A win against tournament leader Akopian could shake things up. (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> In the Senior, GM Joel Benjamin is storming back into relevance with a date against tournament leader GM Vladimir Akopian on the horizon. ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/top-seeds-take-leads-home-stretch-us-junior-girls-junior-and-senior-championships",
@@ -514,14 +546,6 @@ news_feed (
          "title" : "2024 U.S. Junior, Girls' Junior, and Senior Championships Begin with a Bang"
       },
       {
-         "description" : "This week's workout concludes our coverage of the 2024 FIDE World Cup U-12, U-10, U-8 and Girls U-12, U-10, U-8 tournaments. Full coverage of the match portion of the tournament can be seen here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-cup-junior-playoffs",
-         "pubDate" : "Wed, 17 Jul 2024 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Cup Junior Playoffs"
-      },
-      {
          "description" : " The 57th Biel Chess Festival takes place 13th to 26th July 2024. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -536,14 +560,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-1",
          "pubDate" : "Tue, 16 Jul 2024 17:41:00",
          "title" : "Vaishali Beats Top Seed As Praggnanandhaa Falls To Mishra"
-      },
-      {
-         "description" : "The Kids, WFM Bodhana Sivanandan and CM Antoni Radzimski, defeated the Stars, WGM Nemo Zhou and FM Anna-Maja Kazarian, by a five-point margin in the second edition of Kids vs. Stars.&#38;nbsp; While the Stars scored their share of victories, the Kid...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-kids-vs-stars-sivanandan-radzimski",
-         "pubDate" : "Tue, 16 Jul 2024 17:09:00",
-         "title" : "Kids Prevail: Sivanandan, Radzimski Defeat Nemo, Kazarian"
       },
       {
          "description" : " Saad Elmi of Norway earned his 2nd IM norm at the Zadar GM Norm Tournament in Croatia. He ended on an undefeated 6/9, drawing all three GMs in the field. Now at 18, Elmi has collected two IM norms and according to mentor GM Pontus Carlsson, &#8220;He just missed the GM norm.&#8221; FM Saad Elmi The post <a href=\"https://www.thechessdrum.net/blog/2024/07/16/saad-elmi-gets-2nd-im-norm/\">Saad Elmi gets 2nd IM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1016,14 +1032,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3101",
          "pubDate" : "Wed, 03 Jul 2024 15:45:33",
          "title" : "Tbilisi to Host Inaugural Leg of 2024-2025 Women's Grand Prix"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3100",
-         "pubDate" : "Wed, 03 Jul 2024 12:57:05",
-         "title" : "Winners crowned at World Cup Under 8-12"
       }
    ]
 }
