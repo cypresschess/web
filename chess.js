@@ -2,12 +2,100 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Pictorial portraits of ten chess players from many different countries, engaged in various sections (GMT Masters Triathlon, GMT Challengers Triathlon, Masters Open, and Amateur Open) at the 57th edition of the Biel Chess Festival. An unparalleled mix of chess activities! Our author, who lives in Biel, presents both known and unknown faces from the Festival | Photos: Organiser (Simon Bohnenblust, Peter A. Steffen)",
+         "description" : "<div class=\"body text-secondary\"> The competitors share how they handle psychological aspects of the game before the 2024 U.S. Junior Championship. This aired during Round 7. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-juniors-handle-pressure-maintain-focus-chess-usjuniors",
+         "pubDate" : "Wed, 24 Jul 2024 02:48:20",
+         "title" : "How Juniors Handle Pressure & Maintain Focus in Chess? | #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jesse Kraai talks to Kostya Kavutskiy after defeating Christiansen in Round 6 of the 2024 U.S. Senior Championship. 2024.07.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jesse-kraai-top-native-born-senior-r6-usseniors",
+         "pubDate" : "Wed, 24 Jul 2024 02:48:20",
+         "title" : "Jesse Kraai: Top Native-Born Senior? | R6 #USSeniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 7 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-7",
+         "pubDate" : "Wed, 24 Jul 2024 02:48:20",
+         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 7"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jason Wang talks to Kostya Kavutskiy after defeating Arthur Guo in Round 7 of the 2024 U.S. Junior Championship. 2024.07.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jason-wang-clarifies-guo%E2%80%99s-rd8-blunder-r7-usjuniors",
+         "pubDate" : "Wed, 24 Jul 2024 02:48:20",
+         "title" : "Jason Wang Clarifies Guo's Rd8+?? Blunder | R7 #USJuniors"
+      },
+      {
+         "description" : "Saleh Salem secured tournament victory at the Challengers Triathlon in Biel after beating Vaishali Rameshbabu with the white pieces on Tuesday. The Emirati GM was declared the winner thanks to his whopping 11-point lead over Alexander Donchenko. In Biel's flagship event, the Masters Triathlon, on the other hand, there were no winners at the start of the final phase. Le QUang Liem thus continues to be the sole leader ahead of Haik Martirosyan. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-photo-panorama",
-         "pubDate" : "Tue, 23 Jul 2024 17:00:00",
-         "title" : "A great Family Festival - Photographic Panorama from Biel 2024"
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-finals-1",
+         "pubDate" : "Wed, 24 Jul 2024 01:00:00",
+         "title" : "Biel: Dominating Salem wins Challengers Triathlon"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/de",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-8",
+         "pubDate" : "Tue, 23 Jul 2024 23:48:15",
+         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 8"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Melik Khachiyan talks to Begim Tokhirjonova before the 2024 U.S. Senior Championship. This aired during Round 7. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/khachiyan-every-name-here-legend-and-i-still-hope-repeat-usseniors",
+         "pubDate" : "Tue, 23 Jul 2024 23:48:15",
+         "title" : "Khachiyan: Every Name Here is a Legend, and I Still Hope to Repeat | #USSeniors"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3127",
+         "pubDate" : "Tue, 23 Jul 2024 20:52:54",
+         "title" : "New Guinness World Record: Over seven million chess games played in one day!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Kostya Kavutskiy after defeating Hardaway in Round 6 of the 2024 U.S. Junior Championship. 2024.07.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-first-time-playing-dragon-r6-usjuniors",
+         "pubDate" : "Tue, 23 Jul 2024 20:48:07",
+         "title" : "Christopher Yoo: First Time Playing the Dragon | R6 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jason Liang talks to Kostya Kavutskiy after defeating Woodward in Round 6 of the 2024 U.S. Junior Championship. 2024.07.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jason-liang-woodward-couldn%E2%80%99t-recall-his-prep-r6-usjuniors",
+         "pubDate" : "Tue, 23 Jul 2024 20:48:07",
+         "title" : "Jason Liang: Woodward Couldn't Recall His Prep | R6 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Kostya Kavutskiy after defeating Vidyarthi in Round 6 of the 2024 U.S. Girls' Junior Championship. 2024.07.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-bests-vidyarthi-slugfest-r6-usjuniors",
+         "pubDate" : "Tue, 23 Jul 2024 20:48:07",
+         "title" : "Alice Lee Bests Vidyarthi in Slugfest! | R6 #USJuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Andrew Hong talks to Kostya Kavutskiy after defeating Ladan in Round 6 of the 2024 U.S. Junior Championship. 2024.07.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hong-not-good-game-i%E2%80%99ll-take-win-r6-usjuniors",
+         "pubDate" : "Tue, 23 Jul 2024 20:48:07",
+         "title" : "Hong: Not a Good Game, but I'll Take the Win | R6 #USJuniors"
       },
       {
          "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
@@ -18,12 +106,20 @@ news_feed (
          "title" : "CrunchLab Masters - Live!"
       },
       {
-         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
-         "pubDate" : "Tue, 23 Jul 2024 13:50:00",
-         "title" : "Biel Chess Festival - Live!"
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3126",
+         "pubDate" : "Tue, 23 Jul 2024 15:30:35",
+         "title" : "List of Member Federations having right to vote at General Assembly 2024 published"
+      },
+      {
+         "description" : "GM Saleh Salem has won the Challengers Triathlon of the 2024 Biel Chess Festival with two days to spare after surviving a sacrificial attack to beat GM Vaishali Rameshbabu and take an unassailable lead. In the Masters, GM Liem Le was on the ropes ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-finals-1",
+         "pubDate" : "Tue, 23 Jul 2024 15:22:43",
+         "title" : "Salem Wins Biel Challengers, Mishra Misses Chance In Masters"
       },
       {
          "description" : "Our Grandmaster friends have unlocked and made all their 500+ hours of courses free, until July 31. They have courses for all levels, from beginners...",
@@ -42,36 +138,28 @@ news_feed (
          "title" : "Youth Solving Championships - FIDE & WFCC special project"
       },
       {
-         "description" : "Surya Ganguly, the experienced GM from West Bengal, is playing at the Masters Open Tournament in Biel. In an entertaining interview conducted by Arne Kaehler, Surya shares anecdotes from his lengthy chess career and responds to rather unexpected questions. Not to be missed!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-surya-ganguly-interview",
-         "pubDate" : "Tue, 23 Jul 2024 12:00:00",
-         "title" : "Surya Ganguly - An unmissable interview"
+         "description" : "Divisions II and III of the CrunchLabs Masters 2024 came to a close on Tuesday. GM Alexander Grischuk rose from the ashes of the Losers Bracket and defeated GM Vidit Gujrathi in two matches to win Division II, while&#38;nbsp;GM Arjun Erigaisi beat GM ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-7",
+         "pubDate" : "Tue, 23 Jul 2024 11:18:00",
+         "title" : "Grischuk Beats Vidit Twice To Win Division II, Arjun Tops Division III With Game To Spare"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 6 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-6\"><img src=\"https://saintlouischessclub.org/sites/defa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-6",
-         "pubDate" : "Tue, 23 Jul 2024 02:47:32",
-         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 6"
+         "description" : "Round six of the U.S. Junior, U.S. Girls' Junior, and U.S. Senior championships is in the books in St. Louis. With just three rounds to go, the final results are becoming increasingly difficult to predict. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> With his sixth-round win, Joel Benjamin is now tied for second in the Senior. A win against tournament leader Akopian could shake things up. (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> In the Senior, GM Joel Benjamin is storming back into relevance with a date against tournament leader GM Vladimir Akopian on the horizon. ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/top-seeds-take-leads-home-stretch-us-junior-girls-junior-and-senior-championships",
+         "pubDate" : "Tue, 23 Jul 2024 00:00:00",
+         "title" : "Top Seeds Take Leads Into Home Stretch of U.S. Junior, Girls' Junior, and Senior Championships"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The competitors share their preparation routines before the 2024 U.S. Senior Championship. This aired during Round 6. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-seniors-prepare-important-chess-tournaments-usseniors",
-         "pubDate" : "Mon, 22 Jul 2024 23:47:18",
-         "title" : "How Seniors Prepare for Important Chess Tournaments? | #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chloe Gaw and Megan Paragua talk to Begim Tokhirjonova before the 2024 U.S. Girls' Junior Championship. This aired during Round 6. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chloe-gaw-megan-paragua-make-their-us-girls%E2%80%99-junior-debuts-usjuniors",
-         "pubDate" : "Mon, 22 Jul 2024 23:47:18",
-         "title" : "Chloe Gaw & Megan Paragua Make Their U.S. Girls' Junior Debuts! | #USJuniors"
+         "description" : "Team USA earned three medals at the 2024 FIDE World Senior Team Championship earlier this month in Krakow, Poland. Below are some instructive tactical highlights from the nine-round event!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-world-senior-teams",
+         "pubDate" : "Tue, 23 Jul 2024 00:00:00",
+         "title" : "Tactics Tuesday: World Senior Teams"
       },
       {
          "description" : "The ECF has been asked to run this year's Glorney Cup from 23rd to 25th July (i.e. immediately before the British Championships) at the Canham...",
@@ -138,68 +226,12 @@ news_feed (
          "title" : "Praggnanandhaa Survives As Salem Crushes Challengers In Blitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Chirila caught getting his groove on during commentary </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/cristian-gets-his-groove-uschesschamps-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/L7Ev1YjQfro.jpg?itok=UYQRMOfT\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/cristian-gets-his-groove-uschesschamps-chess-chesscom",
-         "pubDate" : "Mon, 22 Jul 2024 05:46:49",
-         "title" : "Cristian Gets His Groove On #uschesschamps #chess #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser asks for Cristian&#039;s evaluation of a position in the game between Andrew Hong and Jason Wang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-bad-my-position-uschesschamps-usjuniors-chesstactics-chess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Kn0Rc2rhOag.jpg?itok=Wmr2h5sZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-bad-my-position-uschesschamps-usjuniors-chesstactics-chess",
-         "pubDate" : "Mon, 22 Jul 2024 05:46:49",
-         "title" : "How Bad Is My Position #uschesschamps #usjuniors #chesstactics #chess"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Nazi Paikidze chats about playing c5 against the author of the book, &quot;Mayhem in the Morra,&quot; IM Marc Esserman. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/smith-morra-gambit-and-im-marc-esserman-ushcesschamps-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/CKDE7XiKLk4.jpg?itok=Bg412BYi\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/smith-morra-gambit-and-im-marc-esserman-ushcesschamps-chess-chessopenings-chesscom",
-         "pubDate" : "Mon, 22 Jul 2024 02:46:42",
-         "title" : "Smith-Morra Gambit and IM Marc Esserman #ushcesschamps #chess #chessopenings #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Analyzing the rook endgame between GMs Root and Kraai, Nazi flexes her endgame skills learned from GM Sam Shankland </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/im-paikidzes-rook-endgame-flex-uschesschamps-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dQPs9UHAHl4.jpg?itok=TmnGopR-\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/im-paikidzes-rook-endgame-flex-uschesschamps-chess-chessendgame-chesscom",
-         "pubDate" : "Mon, 22 Jul 2024 02:46:42",
-         "title" : "IM Paikidze's Rook Endgame Flex #uschesschamps #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The move g3 played is a small, cute, but highly effective in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/g3-another-mickey-mouse-move-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/aLiWSmojosI.jpg?itok=7FliBKnP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/g3-another-mickey-mouse-move-uschesschamps-usjuniors-chess-chesstactics-chesscom",
-         "pubDate" : "Mon, 22 Jul 2024 02:46:42",
-         "title" : "G3: Another Mickey Mouse Move #uschesschamps #usjuniors #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> When your opponents is blitzing out moves and is prepared to write your next move, its possible you have fallen into a trap. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/he-didnt-smell-rat-uschesschamps-usseniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uI6y8fU1nxk.jpg?itok=fx58hFwl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/he-didnt-smell-rat-uschesschamps-usseniors-chess-chesstactics-chesscom",
-         "pubDate" : "Mon, 22 Jul 2024 02:46:42",
-         "title" : "He Didn't Smell The Rat #uschesschamps #usseniors #chess #chesstactics #chesscom"
-      },
-      {
          "description" : "Update, July 23, 2024: an earlier version of this story mistakenly reported that Eshaan Hebbar earned an IM norm for his share of first in the Under-18 section. Hebbar actually earned the IM title for winning the gold on tiebreaks. FM Terry Luo earned an IM norm for finishing tied for first. <br /><br /> A total of 368 players representing 28 federations participated across 12 sections in the Pan-American Youth Championship XXXIV. The tournament, held from July 15 through 20 in Orlando, Florida was hosted in partnership with the Confederation of Chess for Americas (CCA), International Chess Federation (FIDE), and Rosen Shingle Creek.<br /><br /> Overall, American players won 25 of the 36 tot",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/pan-american-youth-championship-xxxiv-report-and-recap",
          "pubDate" : "Mon, 22 Jul 2024 00:00:00",
          "title" : "Pan-American Youth Championship XXXIV Report and Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Daggupati was on the cusp of executing the &quot;novelty of the year&quot; in a dominating position early against Hardaway; but finds himself on the wrong side of his prep in this position </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/prep-gone-wrong-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KAl1cV8dGng.jpg?itok=UiniBHKb",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/prep-gone-wrong-uschesschamps-usjuniors-chess-chesstactics-chesscom",
-         "pubDate" : "Sun, 21 Jul 2024 23:46:38",
-         "title" : "Prep Gone Wrong #uschesschamps #usjuniors #chess #chesstactics #chesscom"
       },
       {
          "description" : "",
@@ -296,14 +328,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3121",
          "pubDate" : "Sat, 20 Jul 2024 08:42:19",
          "title" : "Happy International Chess Day!"
-      },
-      {
-         "description" : "Today, on July 20, 2024, FIDE has scheduled a celebration in Paris to mark 100 years since it was officially formed in the French capital. FIDE is marking its centenary with many different programs aimed at existing and new chess fans around the globe - be they schoolchildren, refugees, people in prisons, charities, club players, or newcomers to the game! The highlights: an Olympic-style torch relay and a Guinness Book record attempt.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/congratulations-fide-turns-100",
-         "pubDate" : "Sat, 20 Jul 2024 08:00:00",
-         "title" : "Congratulations: FIDE turns 100!"
       },
       {
          "description" : "The action continues to heat up in round four of the U.S. Junior, Junior Girls', and Senior championships, as the players approach the midpoint of the event, with only one more round before the rest day. <br /><br /> For these prestigious invitational championships, we are always on the lookout for the slight chance that Fischer's perfect score in the 1964 US Championships could be repeated, but round four answered that question, leaving us with no more perfect scorers. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Jason Wang (pictured) upset Justin Wang, ending the latter's hopes of a perfe",
@@ -498,14 +522,6 @@ news_feed (
          "title" : "Wednesday Workout: FIDE World Cup Junior Playoffs"
       },
       {
-         "description" : "The Caveman Chess Festival ran from July 12 through 14 at the Hilton Chicago/Northbrook hotel. The festival featured several national championship events, including the U.S. Senior Open, U.S. Junior Open, and U.S. Blind Open, along with accompanying blitz and rapid tournaments. Additionally, the festival hosted the Caveman Medior Open for players ages 21 to 49. <br /><br /> The marquee events had a time control of G/90+30. GM Alex Fishbein earned a spot in the 2025 U.S. Senior Championship and WIM Alexey Root earned a spot in the 2025 U.S. Senior Women's Championship. While the U.S. Junior Open is also a qualifier for the following year's U.S. Junior Championship, it does not look like there",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/caveman-chess-festival-champions-and-camaraderie",
-         "pubDate" : "Wed, 17 Jul 2024 00:00:00",
-         "title" : "Caveman Chess Festival: Champions and Camaraderie"
-      },
-      {
          "description" : " The 57th Biel Chess Festival takes place 13th to 26th July 2024. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -554,28 +570,12 @@ news_feed (
          "title" : "Chess can be such fun!"
       },
       {
-         "description" : "This week's Tactics Tuesday concludes our series on the 2024 FIDE World Cup for juniors age 12 and under. Read about the final matches, where three Americans earned second-place finishes, here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-fide-world-cup-juniors-pt-3",
-         "pubDate" : "Tue, 16 Jul 2024 00:00:00",
-         "title" : "Tactics Tuesday: FIDE World Cup Juniors, Pt. 3"
-      },
-      {
          "description" : " The Grand Chess Tour continued with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment and the sad news of the passing of his mother soon followed. Fabiano Caruana was the clear winner of the event, he won the rapid by 1.5 points and finished 3rd 1 point off the leaders in the blitz",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/gct-superunited-rapid-and-blitz-croatia-2024",
          "pubDate" : "Mon, 15 Jul 2024 17:57:00",
          "title" : "GCT SuperUnited Rapid and Blitz Croatia 2024 - Games and Results"
-      },
-      {
-         "description" : "Top-seed GM Praggnanandhaa Rameshbabu got off to a winning start on his debut in the 2024 Biel Chess Festival as he won the opening Masters Chess960, edging out GM Haik Martirosyan, whom he beat in their head-to-head clash. Martirosyan then went o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-chess960-rapid",
-         "pubDate" : "Mon, 15 Jul 2024 14:58:00",
-         "title" : "Praggnanandhaa, Martirosyan, Donchenko Star As Biel Chess Festival Begins"
       },
       {
          "description" : "",
@@ -600,14 +600,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3119",
          "pubDate" : "Mon, 15 Jul 2024 08:51:45",
          "title" : "Belgian Championship: Daniel Dardha wins fourth title"
-      },
-      {
-         "description" : "World Chess faced criticism following the announcement of &#39;Clash of Claims 2,&#39; a sequel to the controversial match between GMs Vladimir Kramnik and Jose Martinez. The company&#39;s CEO Ilya Merenzon, who expressed surprise at the reaction, has agreed ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/world-chess-announces-clash-of-claims-2-rematch-changes-name-after-reactions",
-         "pubDate" : "Mon, 15 Jul 2024 08:29:50",
-         "title" : "World Chess Agrees Name Change After 'Clash Of Claims' Criticism"
       },
       {
          "description" : "The European Women's Rapid and Blitz Chess Championship 2024 will take place from 9-13 January 2025 in Monte Carlo. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2024, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail: cemc@libello.com. Registration deadline is December 20th. The first event on []",
@@ -1040,22 +1032,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/Seniors/world-senior-team-chess-championships-wstcc-2024/#new_tab",
          "pubDate" : "Wed, 03 Jul 2024 07:36:11",
          "title" : "World Senior Team Chess Championships reports"
-      },
-      {
-         "description" : "In U12 Girls Pratitee, Bordoloi settledfor silver after a long fight with Xue,Tianhao from China . In the classical \"best-of-2 games\" both their games ended",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/india-bags-silver-bronze-in-fide-world-cup-under-8-10-12/",
-         "pubDate" : "Wed, 03 Jul 2024 05:00:34",
-         "title" : "India Bags Silver & Bronze in FIDE World Cup - Under - 8 -10-12)"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3099",
-         "pubDate" : "Tue, 02 Jul 2024 16:08:20",
-         "title" : "FIDE World Senior Team Championship 2024 kicks off in Krakow, Poland"
       }
    ]
 }
