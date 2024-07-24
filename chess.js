@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Le Quang Liem once again showed that the Triathlon format suits him perfectly, as he defeated Praggnanandhaa R on Wednesday to claim his third consecutive tournament victory in the Biel Masters - with a round to spare! In the Challengers, which was won by Saleh Salem on Tuesday, Alexander Donchenko defeated Vaishali R to secure second place. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-finals-2",
+         "pubDate" : "Thu, 25 Jul 2024 00:20:00",
+         "title" : "Le Quang Liem wins Biel Masters for third year in a row"
+      },
+      {
          "description" : "On July 20, 2024, for the 100th anniversary of its founding, FIDE planned a monumental event. It is a quest to set the Guinness World Record for the most chess games played in 24 hours, asking players all over the world to help achieve this goal. They are asked to play at least one 5-min game on one of the platforms or applications joining the World Records Attempt, between July 20, 2024 00:00:00 CEST and July 21, 2024 00:00:00 CEST. Here are the results in a FIDE press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,28 +26,12 @@ news_feed (
          "title" : "CrunchLab Masters Grand Final - Live!"
       },
       {
-         "description" : "The 57th edition of the Biel Chess Festival is taking place on July 13-26 with its usual mix of elite tournaments, amateur events and attractive side activities. Remarkably, this edition will see two Triathlons taking place simultaneously: the Masters and the Challengers. Praggnanandhaa, Vincent Keymer and Le Quang Liem are the top seeds in the main event. | Follow the games live starting at 14.00 CEST (8.00 ET, 17.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-live",
-         "pubDate" : "Wed, 24 Jul 2024 13:50:00",
-         "title" : "Biel Chess Festival - Live!"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave won Division I of the CrunchLabs Masters 2024 after defeating GM Alireza Firouzja in the Grand Final. After four draws, he won on demand in the armageddon game to claim $30,000, 100 tour points, and a return to the season...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-2024-cct-crunchlabs-masters-day-8",
-         "pubDate" : "Wed, 24 Jul 2024 10:39:51",
+         "pubDate" : "Wed, 24 Jul 2024 10:39:00",
          "title" : "Vachier-Lagrave Wins CrunchLabs Masters After Defeating Firouzja In Armageddon"
-      },
-      {
-         "description" : "Two very different Grand Finals were seen in Division II and Division III of the CrunchLab Masters. While Alexander Grischuk needed two matches (seven games in total, including an Armageddon) to take down Vidit Gujrathi in Division II, Arjun Erigaisi quickly defeated Evgeny Alekseev by a 2&frac12;-&frac12; score in Division III. The Division I Grand Final between Alireza Firouzja and Maxime Vachier-Lagrave will take place on Wednesday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d7",
-         "pubDate" : "Wed, 24 Jul 2024 09:00:00",
-         "title" : "CrunchLabs Masters: Grischuk and Arjun prevail in Divisions II and III"
       },
       {
          "description" : "Two Titled Tuesday regulars, GMs Denis Lazavik and Oleksandr Bortnyk, won the event on July 23. For Lazavik, it was his third of the year, and his first ever with a score of 10.5 points. Bortnyk, who once scored a perfect 9/9 back when the tournam...",
@@ -104,14 +96,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jason-wang-clarifies-guo%E2%80%99s-rd8-blunder-r7-usjuniors",
          "pubDate" : "Wed, 24 Jul 2024 02:48:20",
          "title" : "Jason Wang Clarifies Guo's Rd8+?? Blunder | R7 #USJuniors"
-      },
-      {
-         "description" : "Saleh Salem secured tournament victory at the Challengers Triathlon in Biel after beating Vaishali Rameshbabu with the white pieces on Tuesday. The Emirati GM was declared the winner thanks to his whopping 11-point lead over Alexander Donchenko. In Biel's flagship event, the Masters Triathlon, on the other hand, there were no winners at the start of the final phase. Le QUang Liem thus continues to be the sole leader ahead of Haik Martirosyan. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-finals-1",
-         "pubDate" : "Wed, 24 Jul 2024 01:00:00",
-         "title" : "Biel: Dominating Salem wins Challengers Triathlon"
       },
       {
          "description" : "Three players earned norms across the six sections of the July NYC Chess Norms Invitational, with many more reaching or approaching their ratings thresholds. Not every event produces any norms (although previous coverage can be found here and here), so this was a very successful event for the norm-seekers!<br /><br /> This was the largest invitational in NYC Chess Norms' history, with 55 unique players competing across six sections (five run concurrently). It was also our first six-day event, which is now a FIDE requirement for norm events. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> IM Sa",
@@ -205,7 +189,7 @@ news_feed (
          "description" : "Divisions II and III of the CrunchLabs Masters 2024 came to a close on Tuesday. GM Alexander Grischuk rose from the ashes of the Losers Bracket and defeated GM Vidit Gujrathi in two matches to win Division II, while&#38;nbsp;GM Arjun Erigaisi beat GM ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-chessable-masters-day-7",
+         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-7",
          "pubDate" : "Tue, 23 Jul 2024 11:18:00",
          "title" : "Grischuk Beats Vidit Twice To Win Division II, Arjun Tops Division III With Game To Spare"
       },
@@ -1024,14 +1008,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3102",
          "pubDate" : "Thu, 04 Jul 2024 07:17:52",
          "title" : "East Africa Cup: Teaching Chess and Life Skills"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Global Chess League runs a competition for ideas to make chess more interesting and engaging for fans with submissions open until 20 July. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/hackathon.1920.jpeg\" title=\"Hackathon graphic: GLC\" data-title=\"Hackathon (graphic: GLC)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/hackathon.480.jpeg?v=1\" alt=\"Hackathon\" srcset=\"https://www.chesstech.org/files/hackathon.480.jpeg?v=1 1x, https://www.chesstech.org/files/hackathon.960.jpeg?v=1 2x\" > </a> <figcaption><em>Hackathon <small>(graphic: GLC)</small></em></figcapt",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/how-to-enhance-the-fan-experience/",
-         "pubDate" : "Wed, 03 Jul 2024 21:41:39",
-         "title" : "How to enhance the fan experience"
       }
    ]
 }
