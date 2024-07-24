@@ -146,7 +146,7 @@ news_feed (
          "title" : "Grischuk Beats Vidit Twice To Win Division II, Arjun Tops Division III With Game To Spare"
       },
       {
-         "description" : "Round six of the U.S. Junior, U.S. Girls' Junior, and U.S. Senior championships is in the books in St. Louis. With just three rounds to go, the final results are becoming increasingly difficult to predict. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> With his sixth-round win, Joel Benjamin is now tied for second in the Senior. A win against tournament leader Akopian could shake things up. (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> In the Senior, GM Joel Benjamin is storming back into relevance with a date against tournament leader GM Vladimir Akopian on the horizon. ",
+         "description" : "Round six of the U.S. Junior, U.S. Girls' Junior, and U.S. Senior championships is in the books in St. Louis. With just three rounds to go, the final results are becoming increasingly difficult to predict. <br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> With his sixth-round win, Joel Benjamin is now tied for second in the Senior. A win against tournament leader Akopian could shake things up. (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> In the Senior, GM Joel Benjamin is storming back into relevance with a date against tournament leader GM Vladimir Akopian on the horizon. <br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/top-seeds-take-leads-home-stretch-us-junior-girls-junior-and-senior-championships",
@@ -1024,14 +1024,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3100",
          "pubDate" : "Wed, 03 Jul 2024 12:57:05",
          "title" : "Winners crowned at World Cup Under 8-12"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/Seniors/world-senior-team-chess-championships-wstcc-2024/#new_tab",
-         "pubDate" : "Wed, 03 Jul 2024 07:36:11",
-         "title" : "World Senior Team Chess Championships reports"
       }
    ]
 }
