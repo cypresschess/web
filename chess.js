@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Maxime Vachier-Lagrave won the third event in this year's Champions Chess Tour, the CrunchLabs Masters, after beating Alireza Firouzja in the Armageddon decider of the Division I Grand Final. MVL thus secured a spot in the tour's Finals, set to take place over-the-board at the end of the year. The deciding match saw the contenders playing a number of technical battles, with four games ending in draws to set up a sudden-death tiebreaker.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d8",
+         "pubDate" : "Thu, 25 Jul 2024 13:00:00",
+         "title" : "Vachier-Lagrave beats Firouzja in Armageddon, bags CrunchLabs Masters"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 8 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/defa",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -992,14 +1000,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3103",
          "pubDate" : "Thu, 04 Jul 2024 11:34:34",
          "title" : "FIDE Torch Arrives at the Triumphal Arch in Bucharest"
-      },
-      {
-         "description" : "The ChessBase board in itself is a vast paradise of various options! Here we are going to show you some of the key features that can help you in your analysis of a position. Some of you may not have \"discovered\" them yet, and many might find them useful in your study of games. Take a look - and don't miss your chance to get the software in our Summer Special week!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/secret-features-of-chessbase",
-         "pubDate" : "Thu, 04 Jul 2024 09:23:22",
-         "title" : "Secret features of ChessBase"
       }
    ]
 }
