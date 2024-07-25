@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
+         "pubDate" : "Thu, 25 Jul 2024 19:50:00",
+         "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> German entrepreneur <strong>Jan Henric Buettner</strong> and <strong>Magnus Carlsen</strong> have created a company and found investors to start a high end league in the chess variant invented by Bobby Fischer. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/carlsen-buettner.1920.jpeg\" title=\"Business partners Magnus Carlsen and Jan Henric Buettner photo: freestyle-chess.com\" data-title=\"Business partners Magnus Carlsen and Jan Henric Buettner (photo: freestyle-chess.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/carlsen-buettner.480.jpeg?v=1\" alt=\"Business ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -18,6 +26,22 @@ news_feed (
          "title" : "Chess can be fun!"
       },
       {
+         "description" : "$12 million in funding has been secured to organize a series of &#34;Freestyle&#34; chess tournaments similar to the first event held in February of this year in Weissenhaus, Germany. Initiators GM Magnus Carlsen and Jan Henric Buettner joined forces with...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/12-million-raised-for-revolutionary-freestyle-series-of-tournaments",
+         "pubDate" : "Thu, 25 Jul 2024 11:14:00",
+         "title" : "$12 Million Raised For 'Revolutionary' Freestyle Series Of Tournaments"
+      },
+      {
+         "description" : "GM Maxime Vachier-Lagrave just won Division I of the CrunchLabs Masters 2024 on Wednesday, while GM Alexander Grischuk won Division II and GM Arjun Erigaisi Division III. We&#39;ll go over the five biggest takeaways from the third leg, of four, of the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-crunchlabs-masters-5-things-we-learned",
+         "pubDate" : "Thu, 25 Jul 2024 10:46:47",
+         "title" : "5 Things We Learned - CrunchLabs Masters 2024"
+      },
+      {
          "description" : "Chess.com is excited to announce a complete redesign of our popular Game Review feature. Analyzing your games is now more fun and intuitive, with all the features our members know and love put front and center of the Game Review experience. We&#39;r...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-8",
          "pubDate" : "Thu, 25 Jul 2024 02:48:45",
          "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 8"
+      },
+      {
+         "description" : "For many players in St. Louis, the eighth round was their last chance to make a move in the fight for first place in the 2024 U.S. Junior, Girls' Junior, and Senior championships. <br /><br /> As a result, the games were among the most tumultuous of any in the event. Still, when the dust settled, almost all of the leaders in each section held firm, maintaining or improving their standing in the lead-up to the final round.<br /><br /> <br /><br /> Senior<br /><br /> The most significant result today was GM Vladimir Akopian's victory with the Black pieces against IM Douglas Root. Having built up a commanding lead in the early rounds of the tournament, Akopian lead by 1&frac12; points prior to ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/akopian-wins-2024-us-senior-championship-round-spare-yoo-and-lee-lead-junior-and-girls-junior",
+         "pubDate" : "Thu, 25 Jul 2024 00:00:00",
+         "title" : "Akopian Wins 2024 U.S. Senior Championship With a Round to Spare, Yoo and Lee lead Junior and Girls' Junior"
       },
       {
          "description" : "On July 20, 2024, for the 100th anniversary of its founding, FIDE planned a monumental event. It is a quest to set the Guinness World Record for the most chess games played in 24 hours, asking players all over the world to help achieve this goal. They are asked to play at least one 5-min game on one of the platforms or applications joining the World Records Attempt, between July 20, 2024 00:00:00 CEST and July 21, 2024 00:00:00 CEST. Here are the results in a FIDE press release.",
@@ -520,30 +552,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/top-arbiter-banned-sexual-harassment-major-chess-tournaments",
          "pubDate" : "Thu, 18 Jul 2024 02:47:46",
          "title" : "Top International Arbiter Banned For Sexual Harassment During Major Tournaments"
-      },
-      {
-         "description" : "The second round of the U.S. Junior, Girls' Junior, and Senior championships followed the pattern of the first: much excitement culminating in more than half the games ending decisively. It was a step down from yesterday's 12, but there were eight decisive games today with the black pieces scoring the majority of wins.<br /><br /> <br /><br /> SENIOR<br /><br /> Usually after two rounds these Round Robin tournaments will leave just one player on a perfect score, and in the Senior, that honor goes to the top seed, GM Vladimir Akopian.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Akopian is in",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/another-decisive-day-books-after-junior-girls-junior-and-senior-championships",
-         "pubDate" : "Thu, 18 Jul 2024 00:00:00",
-         "title" : "Another Decisive Day in the Books After Junior, Girls' Junior, and Senior Championships"
-      },
-      {
-         "description" : "GMs Vaishali Rameshbabu and Abhimanyu Mishra both won again in round two of the 2024 Biel Chess Festival despite being the lowest-rated players in their groups. Mishra leads the Masters after a long, grinding win against GM Sam Shankland, while Va...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-2",
-         "pubDate" : "Wed, 17 Jul 2024 15:44:00",
-         "title" : "Vaishali, Mishra Continue Giant-Killing In Biel"
-      },
-      {
-         "description" : "GMs Ian Nepomniachtchi, Hikaru Nakamura, and Mikhail Antipov finished in a three-way tie with 7/9 in the CrunchLabs Masters 2024 Play-in, but it was Nepomniachtchi who had the best tiebreaks. Mizzou student and CCL star Antipov reaches Division I ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-play-in",
-         "pubDate" : "Wed, 17 Jul 2024 12:48:00",
-         "title" : "Nepomniachtchi Wins Play-in On Tiebreaks Over Nakamura, Antipov"
       },
       {
          "description" : " The 57th Biel Chess Festival takes place 13th to 26th July 2024. ",
