@@ -1000,14 +1000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/secret-features-of-chessbase",
          "pubDate" : "Thu, 04 Jul 2024 09:23:22",
          "title" : "Secret features of ChessBase"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3102",
-         "pubDate" : "Thu, 04 Jul 2024 07:17:52",
-         "title" : "East Africa Cup: Teaching Chess and Life Skills"
       }
    ]
 }
