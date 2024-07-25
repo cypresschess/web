@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 8 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/defa",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-8",
+         "pubDate" : "Thu, 25 Jul 2024 02:48:45",
+         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 8"
+      },
+      {
          "description" : "Le Quang Liem once again showed that the Triathlon format suits him perfectly, as he defeated Praggnanandhaa R on Wednesday to claim his third consecutive tournament victory in the Biel Masters - with a round to spare! In the Challengers, which was won by Saleh Salem on Tuesday, Alexander Donchenko defeated Vaishali R to secure second place. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
          "pubDate" : "Wed, 24 Jul 2024 16:50:00",
          "title" : "CrunchLab Masters Grand Final - Live!"
+      },
+      {
+         "description" : "GM Liem Le has won the 2024 Biel Chess Festival with a round to spare after defeating GM Praggnanandhaa Rameshbabu with the black pieces. The U.S.-based Vietnamese number-one has now won the title for three consecutive years. It was a bad day fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-finals-2",
+         "pubDate" : "Wed, 24 Jul 2024 16:27:01",
+         "title" : "Liem Le Beats Praggnanandhaa To Win 3rd Biel Chess Title In A Row"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave won Division I of the CrunchLabs Masters 2024 after defeating GM Alireza Firouzja in the Grand Final. After four draws, he won on demand in the armageddon game to claim $30,000, 100 tour points, and a return to the season...",
@@ -144,14 +160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3127",
          "pubDate" : "Tue, 23 Jul 2024 20:52:54",
          "title" : "New Guinness World Record: Over seven million chess games played in one day!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Kostya Kavutskiy after defeating Hardaway in Round 6 of the 2024 U.S. Junior Championship. 2024.07.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-first-time-playing-dragon-r6-usjuniors",
-         "pubDate" : "Tue, 23 Jul 2024 20:48:07",
-         "title" : "Christopher Yoo: First Time Playing the Dragon | R6 #USJuniors"
       },
       {
          "description" : "",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/xiong-sindarov-win-titled-tuesday-july-16-2024",
          "pubDate" : "Wed, 17 Jul 2024 08:21:05",
          "title" : "Sindarov Ends Carlsen's Perfect Bid, Wins Tournament"
-      },
-      {
-         "description" : "Get your potions ready! We&#39;re excited to announce the 2024 Spell Chess Championship, the next installment of this year&#39;s Chess.com Community Championships. Starting on August 1, anyone can be the next Chess.com Spell Chess Champion&#38;mdash;and take ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-spell-chess-championship",
-         "pubDate" : "Wed, 17 Jul 2024 08:01:00",
-         "title" : "Chess.com Community Championships Return With 2024 Spell Chess Championship"
       },
       {
          "description" : " The 57th Biel Chess Festival takes place 13th to 26th July 2024. ",
