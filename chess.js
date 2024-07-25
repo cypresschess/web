@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3128",
+         "pubDate" : "Thu, 25 Jul 2024 22:36:50",
+         "title" : "Lê Quang Liêm wins Biel Grandmaster Triathlon for third straight year"
+      },
+      {
+         "description" : "Magnus Carlsen, investor Jan Henric Buettner and VC Left Lane Capital launched a new company to establish a tournament series that aims to revolutionise the world of chess. The event series will showcase the world's best chess players in a new format which aims to be attractive for media, spectators and consumers. The participants will be nine super GMs hand-picked by Magnus Carlsen, who has committed himself to playing Freestyle Chess exclusively at the Grand Slam series.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/freestyle-grand-slam-funds-raised",
+         "pubDate" : "Thu, 25 Jul 2024 21:30:00",
+         "title" : "Magnus Carlsen raises $12 million for Freestyle Chess Grand Slam"
+      },
+      {
          "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
          "pubDate" : "Thu, 25 Jul 2024 19:50:00",
          "title" : "US Senior and Junior Championships - Live!"
+      },
+      {
+         "description" : " The 57th Biel Chess Festival took place 13th to 26th July 2024. Le Quang Liem won the multipart event ahead of Haik Martirosyan and Praggnanandhaa Rameshbabu. Salem Saleh finished just ahead of Alexander Donchenko in the Challengers. Rinat Jumabayev overtook the previous leader Leon Luke Mendonca in the final round to take first place in the MTO. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/57th-biel-chess-festival-2024",
+         "pubDate" : "Thu, 25 Jul 2024 18:54:00",
+         "title" : "57th Biel Chess Festival 2024 - Games and Results"
+      },
+      {
+         "description" : "This is a flash report. The full article will be added to this page soon. GM Arjun Erigaisi prevailed over GM Jan-Krzysztof Duda with a combined score of 12-10, prevailing in the crucial final four games of the bullet segment 1+1 in a thrilling ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-duda-erigaisi-nakamura-martinez",
+         "pubDate" : "Thu, 25 Jul 2024 16:05:49",
+         "title" : "Arjun Prevails At The Final Turn, Nakamura Dominates"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> German entrepreneur <strong>Jan Henric Buettner</strong> and <strong>Magnus Carlsen</strong> have created a company and found investors to start a high end league in the chess variant invented by Bobby Fischer. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/carlsen-buettner.1920.jpeg\" title=\"Business partners Magnus Carlsen and Jan Henric Buettner photo: freestyle-chess.com\" data-title=\"Business partners Magnus Carlsen and Jan Henric Buettner (photo: freestyle-chess.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/carlsen-buettner.480.jpeg?v=1\" alt=\"Business ",
@@ -26,6 +58,14 @@ news_feed (
          "title" : "Chess can be fun!"
       },
       {
+         "description" : "GM Praggnanandhaa Rameshbabu bounced back from his loss the day before to score a convincing win over GM Abhimanyu Mishra and end the 2024 Biel Chess Festival in third place. GM Liem Le had wrapped up victory a day earlier, while Haik Martirosyan ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-finals-3",
+         "pubDate" : "Thu, 25 Jul 2024 13:14:00",
+         "title" : "Praggnanandhaa Beats Mishra To End Biel Chess In 3rd Place"
+      },
+      {
          "description" : "$12 million in funding has been secured to organize a series of &#34;Freestyle&#34; chess tournaments similar to the first event held in February of this year in Weissenhaus, Germany. Initiators GM Magnus Carlsen and Jan Henric Buettner joined forces with...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -38,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-crunchlabs-masters-5-things-we-learned",
-         "pubDate" : "Thu, 25 Jul 2024 10:46:47",
+         "pubDate" : "Thu, 25 Jul 2024 10:46:00",
          "title" : "5 Things We Learned - CrunchLabs Masters 2024"
       },
       {
@@ -64,14 +104,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/akopian-wins-2024-us-senior-championship-round-spare-yoo-and-lee-lead-junior-and-girls-junior",
          "pubDate" : "Thu, 25 Jul 2024 00:00:00",
          "title" : "Akopian Wins 2024 U.S. Senior Championship With a Round to Spare, Yoo and Lee lead Junior and Girls' Junior"
-      },
-      {
-         "description" : "On July 20, 2024, for the 100th anniversary of its founding, FIDE planned a monumental event. It is a quest to set the Guinness World Record for the most chess games played in 24 hours, asking players all over the world to help achieve this goal. They are asked to play at least one 5-min game on one of the platforms or applications joining the World Records Attempt, between July 20, 2024 00:00:00 CEST and July 21, 2024 00:00:00 CEST. Here are the results in a FIDE press release.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-guinness-chess-world-record",
-         "pubDate" : "Wed, 24 Jul 2024 19:30:00",
-         "title" : "New Guinness Chess World Record"
       },
       {
          "description" : "GM Liem Le has won the 2024 Biel Chess Festival with a round to spare after defeating GM Praggnanandhaa Rameshbabu with the black pieces. The U.S.-based Vietnamese number-one has now won the title for three consecutive years. It was a bad day fo...",
@@ -536,30 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-division-placement",
          "pubDate" : "Thu, 18 Jul 2024 12:14:00",
          "title" : "Caruana, Wesley So, Nepomniachtchi, Duda, Andreikin Advance To Division I"
-      },
-      {
-         "description" : "The US Chess Federation announced on Monday that Shama Yisrael, a 20-year-old from Florida, has crossed the 2200 USCF rating barrier and will become the first female, African-American national master in the country&#39;s history when the rating lists ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yisrael-becomes-first-female-african-american-national-master",
-         "pubDate" : "Thu, 18 Jul 2024 11:13:49",
-         "title" : "Yisrael Becomes 1st Female, African-American National Master In U.S."
-      },
-      {
-         "description" : "International chess arbiter Arild Rimestad from Denmark has been given a two-year ban by the FIDE Ethics and Disciplinary Commission (EDC) following multiple reports of sexual harassment against a female FIDE employee. In its decision dated July...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/top-arbiter-banned-sexual-harassment-major-chess-tournaments",
-         "pubDate" : "Thu, 18 Jul 2024 02:47:46",
-         "title" : "Top International Arbiter Banned For Sexual Harassment During Major Tournaments"
-      },
-      {
-         "description" : " The 57th Biel Chess Festival takes place 13th to 26th July 2024. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/57th-biel-chess-festival-2024",
-         "pubDate" : "Tue, 16 Jul 2024 18:54:00",
-         "title" : "57th Biel Chess Festival 2024 - Games and Results"
       },
       {
          "description" : " Saad Elmi of Norway earned his 2nd IM norm at the Zadar GM Norm Tournament in Croatia. He ended on an undefeated 6/9, drawing all three GMs in the field. Now at 18, Elmi has collected two IM norms and according to mentor GM Pontus Carlsson, &#8220;He just missed the GM norm.&#8221; FM Saad Elmi The post <a href=\"https://www.thechessdrum.net/blog/2024/07/16/saad-elmi-gets-2nd-im-norm/\">Saad Elmi gets 2nd IM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
