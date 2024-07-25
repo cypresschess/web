@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Maxime Vachier-Lagrave won the third event in this year's Champions Chess Tour, the CrunchLabs Masters, after beating Alireza Firouzja in the Armageddon decider of the Division I Grand Final. MVL thus secured a spot in the tour's Finals, set to take place over-the-board at the end of the year. The deciding match saw the contenders playing a number of technical battles, with four games ending in draws to set up a sudden-death tiebreaker.",
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> German entrepreneur <strong>Jan Henric Buettner</strong> and <strong>Magnus Carlsen</strong> have created a company and found investors to start a high end league in the chess variant invented by Bobby Fischer. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/carlsen-buettner.1920.jpeg\" title=\"Business partners Magnus Carlsen and Jan Henric Buettner photo: freestyle-chess.com\" data-title=\"Business partners Magnus Carlsen and Jan Henric Buettner (photo: freestyle-chess.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/carlsen-buettner.480.jpeg?v=1\" alt=\"Business ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/12-million-for-freestyle-chess/",
+         "pubDate" : "Thu, 25 Jul 2024 15:25:52",
+         "title" : "$12 million for Freestyle Chess"
+      },
+      {
+         "description" : "Last week we showed you some chess puzzles of a different kind - some were quite easy, some pretty hard. They were at least most entertaining, bringing smiles to our faces. Today we show you the solutions, and video of a strong chess player solving the problems in real time.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-d8",
-         "pubDate" : "Thu, 25 Jul 2024 13:00:00",
-         "title" : "Vachier-Lagrave beats Firouzja in Armageddon, bags CrunchLabs Masters"
+         "link" : "https://en.chessbase.com/post/chess-can-be-fun",
+         "pubDate" : "Thu, 25 Jul 2024 14:00:00",
+         "title" : "Chess can be fun!"
+      },
+      {
+         "description" : "Chess.com is excited to announce a complete redesign of our popular Game Review feature. Analyzing your games is now more fun and intuitive, with all the features our members know and love put front and center of the Game Review experience. We&#39;r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/game-review-design-update",
+         "pubDate" : "Thu, 25 Jul 2024 08:00:00",
+         "title" : "Game Review And Analysis Now Even More Fun And Helpful With Updated Design And New Features"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 8 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/defa",
@@ -18,28 +34,12 @@ news_feed (
          "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 8"
       },
       {
-         "description" : "Le Quang Liem once again showed that the Triathlon format suits him perfectly, as he defeated Praggnanandhaa R on Wednesday to claim his third consecutive tournament victory in the Biel Masters - with a round to spare! In the Challengers, which was won by Saleh Salem on Tuesday, Alexander Donchenko defeated Vaishali R to secure second place. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-finals-2",
-         "pubDate" : "Thu, 25 Jul 2024 00:20:00",
-         "title" : "Le Quang Liem wins Biel Masters for third year in a row"
-      },
-      {
          "description" : "On July 20, 2024, for the 100th anniversary of its founding, FIDE planned a monumental event. It is a quest to set the Guinness World Record for the most chess games played in 24 hours, asking players all over the world to help achieve this goal. They are asked to play at least one 5-min game on one of the platforms or applications joining the World Records Attempt, between July 20, 2024 00:00:00 CEST and July 21, 2024 00:00:00 CEST. Here are the results in a FIDE press release.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/new-guinness-chess-world-record",
          "pubDate" : "Wed, 24 Jul 2024 19:30:00",
          "title" : "New Guinness Chess World Record"
-      },
-      {
-         "description" : "The 2024 CrunchLabs Masters is the third of four events preceding the Champions Chess Tour in-person Finals. The second day of action sees players fighting in the Division Placement stage, as they look to qualify for the double-elimination brackets. | Follow the games live video feed with expert commentary starting at 17.00 CEST (11.00 ET, 20.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/crunchlab-masters-2024-live",
-         "pubDate" : "Wed, 24 Jul 2024 16:50:00",
-         "title" : "CrunchLab Masters Grand Final - Live!"
       },
       {
          "description" : "GM Liem Le has won the 2024 Biel Chess Festival with a round to spare after defeating GM Praggnanandhaa Rameshbabu with the black pieces. The U.S.-based Vietnamese number-one has now won the title for three consecutive years. It was a bad day fo...",
@@ -546,14 +546,6 @@ news_feed (
          "title" : "Nepomniachtchi Wins Play-in On Tiebreaks Over Nakamura, Antipov"
       },
       {
-         "description" : "GM Jeffery Xiong won the early edition of Titled Tuesday on July 16 outright with 10 points, his first since 2022. GM Javokhir Sindarov then won his first-ever Titled Tuesday late in a shocking turn of events. Like Xiong, Sindarov scored 10 points...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/xiong-sindarov-win-titled-tuesday-july-16-2024",
-         "pubDate" : "Wed, 17 Jul 2024 08:21:05",
-         "title" : "Sindarov Ends Carlsen's Perfect Bid, Wins Tournament"
-      },
-      {
          "description" : " The 57th Biel Chess Festival takes place 13th to 26th July 2024. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -992,14 +984,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-classic-chess-r-praggnanandhaa-d-gukesh-hold-strong-against-top-grandmasters-in-penultimate-round/articleshow/111503315.cms",
          "pubDate" : "Fri, 05 Jul 2024 04:47:32",
          "title" : "Pragg, Gukesh hold strong in Superbet Classic's penultimate round"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3103",
-         "pubDate" : "Thu, 04 Jul 2024 11:34:34",
-         "title" : "FIDE Torch Arrives at the Triumphal Arch in Bucharest"
       }
    ]
 }
