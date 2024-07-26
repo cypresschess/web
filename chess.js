@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3129",
+         "pubDate" : "Fri, 26 Jul 2024 12:23:01",
+         "title" : "U.S. Championships: Akopian, Lee and Yoo clinch titles"
+      },
+      {
          "description" : "The final day of action at the Biel Chess Festival saw Rinat Jumabayev emerging victorious in the Masters Open (MTO). Jumabayev tied for first with former leader Leon Luke Mendonca, Ayush Sharma and Mukhiddin Madaminov, and outscored all three on tiebreak criteria. In the Masters Triathlon, meanwhile, Praggnanandhaa climbed to third place by beating Abhimanyu Mishra. | Photos: Biel Chess Festival",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/bangladeshs-top-chess-grandmaster-dies-mid-match/articleshow/111521247.cms",
          "pubDate" : "Fri, 05 Jul 2024 17:12:02",
          "title" : "Bangladesh's top chess grandmaster dies mid-match"
-      },
-      {
-         "description" : "We've now completed the IT changes to put into effect the decision made at the English Chess Federation's Finance Council meeting last April to merge...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/silver-and-gold-membership-merge-2024-british-chess-championships/",
-         "pubDate" : "Fri, 05 Jul 2024 13:40:13",
-         "title" : "Silver and Gold Membership Merge/2024 British Chess Championships"
       }
    ]
 }
