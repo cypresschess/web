@@ -10,12 +10,28 @@ news_feed (
          "title" : "110th British Chess Championships 2024 - Games and Results"
       },
       {
+         "description" : "Hector Guifarro had a troubled childhood. At the age of 19, he \"made a bad choice\" which landed him in prison. Chess was his way out. This is his story. Guifarro remarked: \"Prison is where I found the game of chess. It kept me out of trouble. It built my confidence and made me believe in myself\". | Photo: Stev Bonhage",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hector-guifarro-story-chess-choices-change",
+         "pubDate" : "Fri, 26 Jul 2024 19:30:00",
+         "title" : "The Hector Guifarro story: chess, choices and change"
+      },
+      {
          "description" : "The final round of the US Senior and Junior Championships was played yesterday at the Saint Louis Chess Club. Vladimir Akopian (pictured) won the US Senior Championship with a round to spare, while Christoper Yoo and Alice Lee won the US Junior Championships. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024-r9",
          "pubDate" : "Fri, 26 Jul 2024 18:15:00",
          "title" : "US Seniors and Juniors: Akopian, Yoo and Lee prevail"
+      },
+      {
+         "description" : "GM Magnus Carlsen crushed GM Tuan Minh Le with a dominating 20.5-3.5 score in a one-sided contest in the first match of the second day of the 2024 Speed Chess Championship. But the day belonged to the former world championship contender GM Ian Nep...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-carlsen-le-nepo-nodirbek",
+         "pubDate" : "Fri, 26 Jul 2024 15:11:33",
+         "title" : "Carlsen Keeps It Classy, Nepomniachtchi Does A Houdini"
       },
       {
          "description" : "",
@@ -48,6 +64,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/akopian-lee-yoo-win-us-junior-girls-senior-championships",
          "pubDate" : "Fri, 26 Jul 2024 02:37:00",
          "title" : "Akopian, Lee, Yoo Winners At U.S. National Championships"
+      },
+      {
+         "description" : "<br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigantic section. Class players can earn prizes for finishing with the best sc",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/what-expect-124th-annual-us-open",
+         "pubDate" : "Fri, 26 Jul 2024 00:00:00",
+         "title" : "What to Expect at the 124th Annual U.S. Open"
       },
       {
          "description" : "Two new champions were crowned in St. Louis yesterday: GM Christopher Yoo in the Junior championship, and IM Alice Lee in the Girls' Junior. They join GM Vladimir Akopian, who already won the Senior Championship with a round to spare, in a rare occurrence: the top seed in each section won the tournament! <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Vladimir Akopian still had to \"show up for work\" on Thursday, despite winning the tournament with a round to spare. (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Junior<br /><br /> Yoo led by half a point prior to the last ro",
@@ -434,14 +458,6 @@ news_feed (
          "title" : "Vachier-Lagrave Reaches Div I Grand Final As Carlsen, Nepomniachtchi Set Up Repeat Clash"
       },
       {
-         "description" : "As the U.S. Junior, Girls' Junior, and Senior championships truck on side-by-side in St. Louis, there's only one thing they each have in common: a clear leader after five rounds. <br /><br /> In the Senior, victories are coming for the players who have kept up with the latest trends in opening theory. But in the Junior, the exact opposite is true, with frontrunner GM Chris Yoo managed winning with 2. Ne2 in the Sicilian. And in the Girls' Junior, it's not about the openings at all, where all the games have been dizzying technical displays. A particular standout this round was IM Alice Lee's endgame against WFM Chloe Gaw, in which she showed both great practical play and impressive calculatio",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/clear-leaders-each-section-junior-girls-junior-senior-enter-rest-day",
-         "pubDate" : "Sun, 21 Jul 2024 00:00:00",
-         "title" : "Clear Leaders in Each Section as Junior, Girls' Junior, Senior Enter Rest Day"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -576,14 +592,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-3-1",
          "pubDate" : "Thu, 18 Jul 2024 15:21:57",
          "title" : "Vaishali Enters Top 10 With 3rd Win In A Row"
-      },
-      {
-         "description" : "A new study by Chess.com&#39;s Fair Play Team has estimated the cheating rate in Titled Tuesday to be less than 2% for most events. However, the platform is introducing a new public closure policy to underscore the commitment to combat cheating. The...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fair-play-team-estimates-cheating-rate-titled-tuesday",
-         "pubDate" : "Thu, 18 Jul 2024 14:07:00",
-         "title" : "Fair Play Team Estimates Cheating Rate In Titled Tuesday, New Public Closure Policy"
       },
       {
          "description" : "",
@@ -960,22 +968,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-classic-praggnanandhaa-and-gukesh-miss-out-in-four-way-tiebreaker-as-fabiano-caruana-wins-title/articleshow/111531116.cms",
          "pubDate" : "Sat, 06 Jul 2024 06:36:55",
          "title" : "Superbet Classic: Pragg, Gukesh miss out; Caruana wins title"
-      },
-      {
-         "description" : " The Superbet Romania Chess Classic took place Tue 25th Jun to Sat 6th Jul 2024. Part of the Grand Chess Tour. Players: Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Dommaraju Gukesh, Wesley So, Rameshbabu Praggnanandhaa, Anish Giri, Alireza Firouzja, Maxime Vachier-Lagrave and Bogdan-Daniel Deac. Long time leader Fabiano Caruana lost in the final round to Anish Giri, this brought about a rapid tie-break with Alireza Firouzja, D Gukesh and Praggnanandhaa. Caruana mounted a remarkable recovery by beating all three of his opponents to win the event.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/superbet-romania-chess-classic-2024",
-         "pubDate" : "Fri, 5 Jul 2024 22:43:00",
-         "title" : "Superbet Romania Chess Classic 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3105",
-         "pubDate" : "Fri, 05 Jul 2024 21:52:31",
-         "title" : "Fabiano Caruana wins Superbet Chess Classic Romania"
       }
    ]
 }
