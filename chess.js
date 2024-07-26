@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 9 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-9-final-round\"><img src=\"https://saintlouischessclub.or",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-9-final-round",
+         "pubDate" : "Fri, 26 Jul 2024 02:49:26",
+         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 9 | Final Round"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -34,11 +42,11 @@ news_feed (
          "title" : "57th Biel Chess Festival 2024 - Games and Results"
       },
       {
-         "description" : "This is a flash report. The full article will be added to this page soon. GM Arjun Erigaisi prevailed over GM Jan-Krzysztof Duda with a combined score of 12-10, prevailing in the crucial final four games of the bullet segment 1+1 in a thrilling ...",
+         "description" : "GM Arjun Erigaisi prevailed over GM Jan-Krzysztof Duda with a combined score of 12-10, striking in the crucial final four games of the 1+1 bullet segment in the first match of the first day of the 2024 Speed Chess Championship. In the other match,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-duda-erigaisi-nakamura-martinez",
-         "pubDate" : "Thu, 25 Jul 2024 16:05:49",
+         "pubDate" : "Thu, 25 Jul 2024 16:05:00",
          "title" : "Arjun Prevails At The Final Turn, Nakamura Dominates"
       },
       {
@@ -216,14 +224,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-8",
          "pubDate" : "Tue, 23 Jul 2024 23:48:15",
          "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 8"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Melik Khachiyan talks to Begim Tokhirjonova before the 2024 U.S. Senior Championship. This aired during Round 7. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/khachiyan-every-name-here-legend-and-i-still-hope-repeat-usseniors",
-         "pubDate" : "Tue, 23 Jul 2024 23:48:15",
-         "title" : "Khachiyan: Every Name Here is a Legend, and I Still Hope to Repeat | #USSeniors"
       },
       {
          "description" : "",
