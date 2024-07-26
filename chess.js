@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final day of action at the Biel Chess Festival saw Rinat Jumabayev emerging victorious in the Masters Open (MTO). Jumabayev tied for first with former leader Leon Luke Mendonca, Ayush Sharma and Mukhiddin Madaminov, and outscored all three on tiebreak criteria. In the Masters Triathlon, meanwhile, Praggnanandhaa climbed to third place by beating Abhimanyu Mishra. | Photos: Biel Chess Festival",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/biel-festival-2024-finals-3",
+         "pubDate" : "Fri, 26 Jul 2024 10:00:00",
+         "title" : "Biel: Rinat Jumabayev emerges victorious in the Masters Open"
+      },
+      {
          "description" : " The 33-year-old won the online CrunchLabs Masters, defeating Firouzja in the final, after previously eliminating the world No 1, Magnus Carlsen Maxime Vachier-Lagrave won the $300,000 CrunchLabs Masters, part of the &pound;1.7m online Champions Tour, when the Lyon 33-year-old defeated his French compatriot Alireza Firouzja in the final after previously eliminating the world No 1, Magnus Carlsen. He actually beat Firouzja twice, the first time by 2.5-0.5 and then by 3-2 after the former Iranian qualified for a rematch. Carlsen, whose mother, Sigrun Øen, died at 61 earlier this month, lost 2.5-1.5 in the semi-final to Vachier-Lagrave, who has now eliminated the Norwegian three times in two C",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-9-final-round",
          "pubDate" : "Fri, 26 Jul 2024 02:49:26",
          "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 9 | Final Round"
+      },
+      {
+         "description" : "Three U.S. National Championships finished on Thursday in St. Louis and none of them needed playoffs. GM Vladimir Akopian had secured victory at the U.S. Senior Championship with a round to spare, after which GM Christopher Yoo won the U.S. Junior...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/akopian-lee-yoo-win-us-junior-girls-senior-championships",
+         "pubDate" : "Fri, 26 Jul 2024 02:37:00",
+         "title" : "Akopian, Lee, Yoo Winners At U.S. National Championships"
       },
       {
          "description" : "",
@@ -570,14 +586,6 @@ news_feed (
          "title" : "Pawel Sowinski triumphs in Slovakia Chess Open"
       },
       {
-         "description" : "GMs Fabiano Caruana, Wesley So, Ian Nepomniachtchi, Jan-Krzysztof Duda, and Dmitry Andreikin won their matches on day two of the CrunchLabs Masters 2024 to make it into Division I. They join the players who qualified through the last Champions Che...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-division-placement",
-         "pubDate" : "Thu, 18 Jul 2024 12:14:00",
-         "title" : "Caruana, Wesley So, Nepomniachtchi, Duda, Andreikin Advance To Division I"
-      },
-      {
          "description" : " Saad Elmi of Norway earned his 2nd IM norm at the Zadar GM Norm Tournament in Croatia. He ended on an undefeated 6/9, drawing all three GMs in the field. Now at 18, Elmi has collected two IM norms and according to mentor GM Pontus Carlsson, &#8220;He just missed the GM norm.&#8221; FM Saad Elmi The post <a href=\"https://www.thechessdrum.net/blog/2024/07/16/saad-elmi-gets-2nd-im-norm/\">Saad Elmi gets 2nd IM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/silver-and-gold-membership-merge-2024-british-chess-championships/",
          "pubDate" : "Fri, 05 Jul 2024 13:40:13",
          "title" : "Silver and Gold Membership Merge/2024 British Chess Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/counties-championship-2024/",
-         "pubDate" : "Fri, 05 Jul 2024 08:00:31",
-         "title" : "2024 County Championships finals - results and pictures"
       }
    ]
 }
