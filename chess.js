@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " 110th British Chess Championships 25th Jul to Sun 4th Aug 2024.David Wl Howell, Michael Adams, Gawain Cb Jones, Luke J Mcshane, Stuart C Conquest, Ameet K Ghasi, Svyatoslav Bazakutsa, Shreyas Royal, Harry Grieve, Eldar Gasanov, Matthew J Wadsworth, Simon K Williams etc. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/110th-british-chess-championships-2024",
+         "pubDate" : "Fri, 26 Jul 2024 19:38:00",
+         "title" : "110th British Chess Championships 2024 - Games and Results"
+      },
+      {
+         "description" : "The final round of the US Senior and Junior Championships was played yesterday at the Saint Louis Chess Club. Vladimir Akopian (pictured) won the US Senior Championship with a round to spare, while Christoper Yoo and Alice Lee won the US Junior Championships. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024-r9",
+         "pubDate" : "Fri, 26 Jul 2024 18:15:00",
+         "title" : "US Seniors and Juniors: Akopian, Yoo and Lee prevail"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3129",
          "pubDate" : "Fri, 26 Jul 2024 12:23:01",
          "title" : "U.S. Championships: Akopian, Lee and Yoo clinch titles"
-      },
-      {
-         "description" : "The final day of action at the Biel Chess Festival saw Rinat Jumabayev emerging victorious in the Masters Open (MTO). Jumabayev tied for first with former leader Leon Luke Mendonca, Ayush Sharma and Mukhiddin Madaminov, and outscored all three on tiebreak criteria. In the Masters Triathlon, meanwhile, Praggnanandhaa climbed to third place by beating Abhimanyu Mishra. | Photos: Biel Chess Festival",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/biel-festival-2024-finals-3",
-         "pubDate" : "Fri, 26 Jul 2024 10:00:00",
-         "title" : "Biel: Rinat Jumabayev emerges victorious in the Masters Open"
       },
       {
          "description" : " The 33-year-old won the online CrunchLabs Masters, defeating Firouzja in the final, after previously eliminating the world No 1, Magnus Carlsen Maxime Vachier-Lagrave won the $300,000 CrunchLabs Masters, part of the &pound;1.7m online Champions Tour, when the Lyon 33-year-old defeated his French compatriot Alireza Firouzja in the final after previously eliminating the world No 1, Magnus Carlsen. He actually beat Firouzja twice, the first time by 2.5-0.5 and then by 3-2 after the former Iranian qualified for a rematch. Carlsen, whose mother, Sigrun Øen, died at 61 earlier this month, lost 2.5-1.5 in the semi-final to Vachier-Lagrave, who has now eliminated the Norwegian three times in two C",
@@ -42,20 +50,20 @@ news_feed (
          "title" : "Akopian, Lee, Yoo Winners At U.S. National Championships"
       },
       {
+         "description" : "Two new champions were crowned in St. Louis yesterday: GM Christopher Yoo in the Junior championship, and IM Alice Lee in the Girls' Junior. They join GM Vladimir Akopian, who already won the Senior Championship with a round to spare, in a rare occurrence: the top seed in each section won the tournament! <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Vladimir Akopian still had to \"show up for work\" on Thursday, despite winning the tournament with a round to spare. (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Junior<br /><br /> Yoo led by half a point prior to the last ro",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/lee-and-yoo-win-junior-championships-kraai-clear-second-senior",
+         "pubDate" : "Fri, 26 Jul 2024 00:00:00",
+         "title" : "Lee and Yoo Win Junior Championships, Kraai Clear Second in Senior"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3128",
          "pubDate" : "Thu, 25 Jul 2024 22:36:50",
          "title" : "Lê Quang Liêm wins Biel Grandmaster Triathlon for third straight year"
-      },
-      {
-         "description" : "Magnus Carlsen, investor Jan Henric Buettner and VC Left Lane Capital launched a new company to establish a tournament series that aims to revolutionise the world of chess. The event series will showcase the world's best chess players in a new format which aims to be attractive for media, spectators and consumers. The participants will be nine super GMs hand-picked by Magnus Carlsen, who has committed himself to playing Freestyle Chess exclusively at the Grand Slam series.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/freestyle-grand-slam-funds-raised",
-         "pubDate" : "Thu, 25 Jul 2024 21:30:00",
-         "title" : "Magnus Carlsen raises $12 million for Freestyle Chess Grand Slam"
       },
       {
          "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -136,6 +144,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-8",
          "pubDate" : "Thu, 25 Jul 2024 02:48:45",
          "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 8"
+      },
+      {
+         "description" : "Fort Worth, Texas, has several nicknames, including \"Cowtown\" and \"Panther City.\" One of its nicknames brings to mind the most powerful piece in chess: \"Queen City of the Prairie.\" As Alliance is a Fort Worth suburb, the Alliance Chess Club's biggest annual tournament is the \"Queen City of the Prairie Open.\" <br /><br /> The tournament is in its seventh year, and I had previously reported on the third edition of this tournament, including some unorthodox decisions about who gets free entry, for Chess Life Online. The tournament determines a Tarrant County Champion and a Fort Worth Champion. Fort Worth is the largest city in Tarrant County. This year, both the county and city titles were won ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/three-tie-first-seventh-annual-queen-prairie-open-fides-record-breaking-weekend",
+         "pubDate" : "Thu, 25 Jul 2024 00:00:00",
+         "title" : "Three Tie For First at Seventh Annual Queen of the Prairie Open on FIDE's Record-Breaking Weekend"
       },
       {
          "description" : "For many players in St. Louis, the eighth round was their last chance to make a move in the fight for first place in the 2024 U.S. Junior, Girls' Junior, and Senior championships. <br /><br /> As a result, the games were among the most tumultuous of any in the event. Still, when the dust settled, almost all of the leaders in each section held firm, maintaining or improving their standing in the lead-up to the final round.<br /><br /> <br /><br /> Senior<br /><br /> The most significant result today was GM Vladimir Akopian's victory with the Black pieces against IM Douglas Root. Having built up a commanding lead in the early rounds of the tournament, Akopian lead by 1&frac12; points prior to ",
@@ -490,14 +506,6 @@ news_feed (
          "title" : "Happy International Chess Day!"
       },
       {
-         "description" : "The action continues to heat up in round four of the U.S. Junior, Junior Girls', and Senior championships, as the players approach the midpoint of the event, with only one more round before the rest day. <br /><br /> For these prestigious invitational championships, we are always on the lookout for the slight chance that Fischer's perfect score in the 1964 US Championships could be repeated, but round four answered that question, leaving us with no more perfect scorers. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Jason Wang (pictured) upset Justin Wang, ending the latter's hopes of a perfe",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/fireworks-continue-round-four-us-junior-girls-and-senior-championships",
-         "pubDate" : "Sat, 20 Jul 2024 00:00:00",
-         "title" : "Fireworks Continue in Round Four of U.S. Junior, Girls', and Senior Championships"
-      },
-      {
          "description" : " The CrunchLabs Masters which is part of the online Champions Chess Tour takes place 19th to 24th June 2024. Players: Carlsen, Firouzja, Nepomniachtchi, MVL, Duda, Caruana, Andreikin and Wesley So play in the top group.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -560,14 +568,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-partners-with-global-chess-league-2024",
          "pubDate" : "Fri, 19 Jul 2024 06:00:00",
          "title" : "Chess.com Partners With Tech Mahindra To Bring Season 2 Of The Global Chess League"
-      },
-      {
-         "description" : "We finally dipped below 50% decisive games, with \"only\" seven today, but out of these seven, more than half came from a single tournament.<br /><br /> <br /><br /> SENIOR<br /><br /> The Senior section was a display of accuracy from all players, with four games ending in draws where neither player faltered for too long. In fact, everyone involved finished with above 95% accuracy.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Perhaps the most striking example came between GMs Melikset Khachiyan and Alexander Shabalov. After neutralizing Khachiyan's opening advantage with almost perfect play, Shabalov enter",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/clarity-top-after-first-third-us-junior-girls-and-senior-championships",
-         "pubDate" : "Fri, 19 Jul 2024 00:00:00",
-         "title" : "Clarity at the Top After First Third of U.S. Junior, Girls', and Senior Championships"
       },
       {
          "description" : "GM Vaishali Rameshbabu just can&#39;t stop winning! The Indian star took the lead in the 2024 Biel Chess Festival Challengers and has entered the Women&#39;s Top-10 after defeating GM Ihor Samunenkov with a brilliant, if flawed, attack. GM Jonas Bjerre gr...",
@@ -976,22 +976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3105",
          "pubDate" : "Fri, 05 Jul 2024 21:52:31",
          "title" : "Fabiano Caruana wins Superbet Chess Classic Romania"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3104",
-         "pubDate" : "Fri, 05 Jul 2024 17:33:04",
-         "title" : "Ziaur Rahman (1974-2024)"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111521247.cms\" />Chess grandmaster Ziaur Rahman died Friday at the age of 50 after suffering a stroke and collapsing on his board in the middle of a national championship match. Ziaur Rahman was the highest-ranked of Bangladesh's five chess grandmasters.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/bangladeshs-top-chess-grandmaster-dies-mid-match/articleshow/111521247.cms",
-         "pubDate" : "Fri, 05 Jul 2024 17:12:02",
-         "title" : "Bangladesh's top chess grandmaster dies mid-match"
       }
    ]
 }
