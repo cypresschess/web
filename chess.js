@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The 33-year-old won the online CrunchLabs Masters, defeating Firouzja in the final, after previously eliminating the world No 1, Magnus Carlsen Maxime Vachier-Lagrave won the $300,000 CrunchLabs Masters, part of the &pound;1.7m online Champions Tour, when the Lyon 33-year-old defeated his French compatriot Alireza Firouzja in the final after previously eliminating the world No 1, Magnus Carlsen. He actually beat Firouzja twice, the first time by 2.5-0.5 and then by 3-2 after the former Iranian qualified for a rematch. Carlsen, whose mother, Sigrun Øen, died at 61 earlier this month, lost 2.5-1.5 in the semi-final to Vachier-Lagrave, who has now eliminated the Norwegian three times in two C",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/jul/26/chess-vachier-lagrave-wins-300000-event-while-firouzja-loses-in-nine-moves",
+         "pubDate" : "Fri, 26 Jul 2024 07:00:44",
+         "title" : "Chess: Vachier-Lagrave wins $300,000 event while Firouzja loses in nine moves"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 9 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-9-final-round\"><img src=\"https://saintlouischessclub.or",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -984,22 +992,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/counties-championship-2024/",
          "pubDate" : "Fri, 05 Jul 2024 08:00:31",
          "title" : "2024 County Championships finals - results and pictures"
-      },
-      {
-         "description" : " Top five English grandmasters will feature in Budapest - as will nine-year-old prodigy Bodhana Sivanandan England will look for at least a top-10 finish from the national Open team when the biennial 180-country chess Olympiad starts in Budapest, Hungary, in September, while the women's squad features a debut for Bodhana Sivanandan, aged nine. In the 2022 Olympiad at Chennai, England finished 14th and 32nd. Since then the former Russian Nikita Vitiugov has transferred his allegiance, and is likely to be a formidable top board. The Open team in rating order is: Vitiugov (2678), David Howell (2675), Michael Adams (2672), Gawain Jones (2640), Luke McShane (2617). The women's team consists of: J",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/jul/05/england-reveal-strong-chess-olympiad-squads-seniors-campaign-gold-krakow",
-         "pubDate" : "Fri, 05 Jul 2024 07:00:03",
-         "title" : "England reveal strong Olympiad squads as seniors campaign for gold in Krakow"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111503315.cms\" />The Superbet Classic tournament saw Indian prodigies R Praggnanandhaa and D Gukesh securing hard-fought draws in the eighth round. Indian prodigy Praggnanandhaa equalized against Fabiano Caruana, resulting in a draw after 31 moves. Gukesh, preparing for the FIDE World Championship 2024, drew with Anish Giri after a 30-move game. All five games ended in draws, allowing Caruana to maintain a half-point lead with 5 points. Praggnanandhaa, Gukesh, and Alireza Firouzja follow closely with 4.5 points each.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-classic-chess-r-praggnanandhaa-d-gukesh-hold-strong-against-top-grandmasters-in-penultimate-round/articleshow/111503315.cms",
-         "pubDate" : "Fri, 05 Jul 2024 04:47:32",
-         "title" : "Pragg, Gukesh hold strong in Superbet Classic's penultimate round"
       }
    ]
 }
