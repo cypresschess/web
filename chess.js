@@ -984,14 +984,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/",
          "pubDate" : "Sun, 07 Jul 2024 20:47:14",
          "title" : "St. Louis Chess Club upgrading!"
-      },
-      {
-         "description" : " Howard University, founded in 1867, is a preeminent institution of higher learning. Jamaal Abdul-Alim&#160;has been an unofficial advisor to the chess club for several years, helping the organization in various areas, including a recent historical project. Currently an adjunct professor at the University of Maryland, he is keen on the potential of leveraging chess at The post <a href=\"https://www.thechessdrum.net/blog/2024/07/06/howard-university-chess-club-approaches-100-years/\">Howard University Chess Club approaches 100 years!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/07/06/howard-university-chess-club-approaches-100-years/",
-         "pubDate" : "Sat, 06 Jul 2024 16:31:25",
-         "title" : "Howard University Chess Club approaches 100 years!"
       }
    ]
 }
