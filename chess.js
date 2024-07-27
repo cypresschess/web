@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Bullet Brawl&#39;s third most prolific winner GM Oleksandr Bortnyk added a seventh title to his resume and won $400 after outlasting Chess.com hyperbullet champion GM Andrew Tang and 21-time Bullet Brawl winner GM Daniel Naroditsky on Saturday. 14-yea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-july-27-2024",
+         "pubDate" : "Sat, 27 Jul 2024 16:18:22",
+         "title" : "Bortnyk Claims Gold Ahead Of Three American Brawlers"
+      },
+      {
          "description" : "Boris Spassky, world champion from 1969 to 1972, is regarded as a universal player. He played 1.e4 and 1.d4 and was equally at home in dynamic tactical positions as he was in positional-strategic ones. And he was a feared attacking player. It's no wonder that he managed a few nice queen sacrifices in the course of his career. A small selection. | Photo: Boris Spassky at the 1984 Thessaloniki Chess Olympiad / Gerhard Hund",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,7 +114,7 @@ news_feed (
          "title" : "Akopian, Lee, Yoo Winners At U.S. National Championships"
       },
       {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigant",
+         "description" : "<br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigantic section. Class players can earn prizes for finishing with the best sc",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/what-expect-124th-annual-us-open",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/chesscom-partners-with-global-chess-league-2024",
          "pubDate" : "Fri, 19 Jul 2024 06:00:00",
          "title" : "Chess.com Partners With Tech Mahindra To Bring Season 2 Of The Global Chess League"
-      },
-      {
-         "description" : "GM Vaishali Rameshbabu just can&#39;t stop winning! The Indian star took the lead in the 2024 Biel Chess Festival Challengers and has entered the Women&#39;s Top-10 after defeating GM Ihor Samunenkov with a brilliant, if flawed, attack. GM Jonas Bjerre gr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-3-1",
-         "pubDate" : "Thu, 18 Jul 2024 15:21:57",
-         "title" : "Vaishali Enters Top 10 With 3rd Win In A Row"
       },
       {
          "description" : "",
