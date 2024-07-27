@@ -992,14 +992,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/07/06/howard-university-chess-club-approaches-100-years/",
          "pubDate" : "Sat, 06 Jul 2024 16:31:25",
          "title" : "Howard University Chess Club approaches 100 years!"
-      },
-      {
-         "description" : "This week I focus on the praiseworthy efforts of the National Director for Chess in Prisons, Carl Portman. In what follows, I will quote extensively from the Director's own writings: \"In 2022 I volunteered to manage a team of chess players at HMP Hewell and enter them into the International World online prison chess championships as []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/chess-in-prisons/",
-         "pubDate" : "Sat, 06 Jul 2024 14:47:49",
-         "title" : "Chess in prisons"
       }
    ]
 }
