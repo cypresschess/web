@@ -66,7 +66,7 @@ news_feed (
          "title" : "Akopian, Lee, Yoo Winners At U.S. National Championships"
       },
       {
-         "description" : "<br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigantic section. Class players can earn prizes for finishing with the best sc",
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigant",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/what-expect-124th-annual-us-open",
@@ -960,14 +960,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/phone-addiction/",
          "pubDate" : "Sat, 06 Jul 2024 13:00:00",
          "title" : "A simple hack for phone addicts like me"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111531116.cms\" />The classical section of the competition was blown wide open when Caruana lost to Anish Giri of Holland, resulting in a four-way tie for first place between Gukesh, Praggnanandhaa, France's Alireza Firouzja and Caruana.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/superbet-classic-praggnanandhaa-and-gukesh-miss-out-in-four-way-tiebreaker-as-fabiano-caruana-wins-title/articleshow/111531116.cms",
-         "pubDate" : "Sat, 06 Jul 2024 06:36:55",
-         "title" : "Superbet Classic: Pragg, Gukesh miss out; Caruana wins title"
       }
    ]
 }
