@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The long Portuguese chess summer has begun with the national league. AX Gaia won with aplomb. The championship and the battle to stay in the league would have been more exciting if two double rounds had not ensured that the decisions were made at midnight. Our Lisbon correspondent Stefan L&ouml;ffler reports. | Pictured: Estrelas São João de Brito | Photos: Dominic Cross / Portuguese Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/ax-gaia-win-portuguese-league-2024",
+         "pubDate" : "Sat, 27 Jul 2024 11:45:00",
+         "title" : "AX Gaia win the Portuguese League"
+      },
+      {
+         "description" : "(AICF Event Codes: 369716/CHD/2024 &#38; 369717/CHD/2024) Organised by CHANDIGARH CHESS ASSOCIATION The 34th National Under-17 Open and Girls Chess Championship, event codes 369716/369717, was organized",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/34th-national-under-17-open-girls-chess-championships-2024-final-report/",
+         "pubDate" : "Sat, 27 Jul 2024 11:17:51",
+         "title" : "34th National Under-17 OPEN & GIRLS CHESS CHAMPIONSHIPS 2024 :Final Report"
+      },
+      {
+         "description" : "The Germans have an impressively lapidary way of describing historical battles. Whereas in English we would describe the disaster which overwhelmed the legions of the Roman general Varus in 15AD, as the Battle of the Teutoberger Forest, the neat German expression is Die Hermannschlacht (\"Hermann's battle\"). This formulation honours the Teutonic tribal chieftain Arminius (aka Hermann), who caused the Emperor []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/a-lilliputian-world-championship/",
+         "pubDate" : "Sat, 27 Jul 2024 10:13:08",
+         "title" : "A Lilliputian world championship"
+      },
+      {
          "description" : " 110th British Chess Championships 25th Jul to Sun 4th Aug 2024.David Wl Howell, Michael Adams, Gawain Cb Jones, Luke J Mcshane, Stuart C Conquest, Ameet K Ghasi, Svyatoslav Bazakutsa, Shreyas Royal, Harry Grieve, Eldar Gasanov, Matthew J Wadsworth, Simon K Williams etc. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -136,6 +160,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-finals-3",
          "pubDate" : "Thu, 25 Jul 2024 13:14:00",
          "title" : "Praggnanandhaa Beats Mishra To End Biel Chess In 3rd Place"
+      },
+      {
+         "description" : " The US Junior, Girls and Seniors took place in Saint Louis Tuesday 16th Jul to Thursday 26th Jul 2024. There were clear winners in all three sections. Christopher Woojin Yoo won the Juniors with 7/9 a point clear of Justin Wang, Alice Lee won the Girls event with 7/9 half a point clear of Rose Atwell, Vladimir Akopian won the Seniors with 7/9 a point clear of Jesse Kraai.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/us-junior-girls-and-seniors-2024",
+         "pubDate" : "Thu, 25 Jul 2024 12:24:00",
+         "title" : "US Junior, Girls and Seniors 2024 - Games and Results"
       },
       {
          "description" : "$12 million in funding has been secured to organize a series of &#34;Freestyle&#34; chess tournaments similar to the first event held in February of this year in Weissenhaus, Germany. Initiators GM Magnus Carlsen and Jan Henric Buettner joined forces with...",
