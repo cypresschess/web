@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Boris Spassky, world champion from 1969 to 1972, is regarded as a universal player. He played 1.e4 and 1.d4 and was equally at home in dynamic tactical positions as he was in positional-strategic ones. And he was a feared attacking player. It's no wonder that he managed a few nice queen sacrifices in the course of his career. A small selection. | Photo: Boris Spassky at the 1984 Thessaloniki Chess Olympiad / Gerhard Hund",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/queen-sacrifices-boris-spassky",
+         "pubDate" : "Sat, 27 Jul 2024 14:00:00",
+         "title" : "Queen sacrifices with Boris Spassky"
+      },
+      {
+         "description" : "Big decisions, like choosing an opening or launching a Podcast, can seem daunting. \"What if I get it wrong? All my hard work learning these opening moves might be for nothing,\" you might think. This weight might push you to a never-ending search for 'the best chess opening (spoiler, it doesn't exist). After a while, []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/little-experiments/",
+         "pubDate" : "Sat, 27 Jul 2024 12:54:00",
+         "title" : "Little experiments make things fun"
+      },
+      {
          "description" : "The long Portuguese chess summer has begun with the national league. AX Gaia won with aplomb. The championship and the battle to stay in the league would have been more exciting if two double rounds had not ensured that the decisions were made at midnight. Our Lisbon correspondent Stefan L&ouml;ffler reports. | Pictured: Estrelas São João de Brito | Photos: Dominic Cross / Portuguese Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -984,14 +1000,6 @@ news_feed (
          "link" : "https://www.thearticle.com/chess-in-prisons/",
          "pubDate" : "Sat, 06 Jul 2024 14:47:49",
          "title" : "Chess in prisons"
-      },
-      {
-         "description" : "I have a confession to make: I'm addicted to my phone. Even pooping without staring at my phone seems hard on some days. I've tried a lot: 30-day digital detox, uninstalling most apps, switching off all notifications but nothing has really worked. I'm also aware of the costs: The list goes on. Honestly, I nearly []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/phone-addiction/",
-         "pubDate" : "Sat, 06 Jul 2024 13:00:00",
-         "title" : "A simple hack for phone addicts like me"
       }
    ]
 }
