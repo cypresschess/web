@@ -30,7 +30,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-carlsen-le-nepo-nodirbek",
-         "pubDate" : "Fri, 26 Jul 2024 15:11:33",
+         "pubDate" : "Fri, 26 Jul 2024 15:11:00",
          "title" : "Carlsen Keeps It Classy, Nepomniachtchi Does A Houdini"
       },
       {
