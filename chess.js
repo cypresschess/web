@@ -2,12 +2,92 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Bullet Brawl&#39;s third most prolific winner GM Oleksandr Bortnyk added a seventh title to his resume and won $400 after outlasting Chess.com hyperbullet champion GM Andrew Tang and 21-time Bullet Brawl winner GM Daniel Naroditsky on Saturday. 14-yea...",
+         "description" : "<div class=\"body text-secondary\"> Out of the opening between Christopher Yoo and Balaji Daggupati, a pawn grubber lures IM Paikidze into some pawn grubbing play. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-pawn-grubber-approach-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ptuG5Q0qR5o.jpg?itok=Gq0hJQLC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/warning-pawn-grubber-approach-uschesschamps-usjuniors-chess-chesstactics-chesscom",
+         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
+         "title" : "WARNING: A Pawn Grubber Approach #uschesschamps #usjuniors #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Squeezing water from a stone, the commentators analyze the opposite color bishop endgame between Alice Lee and Megan Paragua </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lee-vs-paraguas-endgame-uschesschamps-usjuniors-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PRERkuihAes.jpg?itok=nh3vVHEg\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/lee-vs-paraguas-endgame-uschesschamps-usjuniors-chess-chessendgame-chesscom",
+         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
+         "title" : "Lee vs Paragua's Endgame #uschesschamps #usjuniors #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Christiansen takes advantage of his senior companions on the World Senior Chess Team (Kaidinav, Khachiyan, and Shabalov) weariness as he defeats them in the final rounds of the Championship </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/larry-christiansen-uses-his-advantage-r8-usseniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7IMdvEuNn8w.jpg?itok=hP4rmTef\" alt=\"\" /></a><",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/larry-christiansen-uses-his-advantage-r8-usseniors",
+         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
+         "title" : "Larry Christiansen Uses His Advantage | R8 #usseniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Vladimir Akopian, in cruise control, claims his first U.S. Senior Championship with a round to spare. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vladimir-akopian-wins-r8-usseniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-4Q6t27ORDw.jpg?itok=7EKYRXs1\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/vladimir-akopian-wins-r8-usseniors",
+         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
+         "title" : "Vladimir Akopian Wins! | R8 #usseniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jesse goes on winning streak and begins his Wildcard campaign for the Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jesse-kraais-campaign-r8-usseniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OuWrZqkLfDE.jpg?itok=vDmiR_yN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jesse-kraais-campaign-r8-usseniors",
+         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
+         "title" : "Jesse Kraai's Campaign | R8 #usseniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Shaky beginning, but Alice finds a pivotal turning point in her endgame strategy against Zoey Tang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lees-shaky-start-r8-usjuniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EX0pH7qlnnc.jpg?itok=kzyUgL_x\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lees-shaky-start-r8-usjuniors",
+         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
+         "title" : "Alice Lee's Shaky Start | R8 #usjuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Sometimes the most difficult task in a playing chess is knowing how to claim a draw </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/we-need-arbiter-uschesschamps-usseniors-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VbSw7o8rW1M.jpg?itok=loDvJoSs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/we-need-arbiter-uschesschamps-usseniors-chess-chesscom",
+         "pubDate" : "Sat, 27 Jul 2024 23:50:19",
+         "title" : "We Need An Arbiter #uschesschamps #usseniors #chess #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> IM Nazi Paikidze takes a position from Alice Lee to brush up on her upcoming Women&#039;s Championship prep. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidzes-championship-prep-uschesschamps-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8e38ALh6vE.jpg?itok=EdqEtPma\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/paikidzes-championship-prep-uschesschamps-chess-chesscom",
+         "pubDate" : "Sat, 27 Jul 2024 23:50:19",
+         "title" : "Paikidze's Championship Prep #uschesschamps #chess #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> As the approach of the ending rounds in the Championships, Yasser shares a fear he had against a rival opponent who had no wins during the tournament </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fear-getting-blown-out-uschesschamps-usjuniors-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tfPMF_jwUbc.jpg?itok=B543BFxk\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fear-getting-blown-out-uschesschamps-usjuniors-chess-chesscom",
+         "pubDate" : "Sat, 27 Jul 2024 23:50:19",
+         "title" : "Fear Of Getting Blown Out #uschesschamps #usjuniors #chess #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Like a needle in the haystack, Chirila finds an interesting checkmating possibility in Alice Lee&#039;s position against Omya Vidyarthi </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/silly-variation-alice-lee-uschesschamps-chess-chesstactics-checkmatepatterns\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m3lqMjY-KwM.jpg?itok=U07QQJxt\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/silly-variation-alice-lee-uschesschamps-chess-chesstactics-checkmatepatterns",
+         "pubDate" : "Sat, 27 Jul 2024 23:50:19",
+         "title" : "A Silly Variation for Alice Lee #uschesschamps #chess #chesstactics #checkmatepatterns"
+      },
+      {
+         "description" : "Bullet Brawl&#39;s third most prolific winner, GM Oleksandr Bortnyk, added a seventh title to his resume and won $400 after outlasting Chess.com hyperbullet champion GM Andrew Tang and 21-time Bullet Brawl winner GM Daniel Naroditsky on Saturday. 14-y...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-july-27-2024",
-         "pubDate" : "Sat, 27 Jul 2024 16:18:22",
-         "title" : "Bortnyk Claims Gold Ahead Of Three American Brawlers"
+         "pubDate" : "Sat, 27 Jul 2024 16:18:00",
+         "title" : "Bortnyk Claims Gold Ahead Of 3 American Brawlers"
       },
       {
          "description" : "Boris Spassky, world champion from 1969 to 1972, is regarded as a universal player. He played 1.e4 and 1.d4 and was equally at home in dynamic tactical positions as he was in positional-strategic ones. And he was a feared attacking player. It's no wonder that he managed a few nice queen sacrifices in the course of his career. A small selection. | Photo: Boris Spassky at the 1984 Thessaloniki Chess Olympiad / Gerhard Hund",
@@ -98,14 +178,6 @@ news_feed (
          "title" : "Chess: Vachier-Lagrave wins $300,000 event while Firouzja loses in nine moves"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 9 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-9-final-round\"><img src=\"https://saintlouischessclub.or",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-9-final-round",
-         "pubDate" : "Fri, 26 Jul 2024 02:49:26",
-         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 9 | Final Round"
-      },
-      {
          "description" : "Three U.S. National Championships finished on Thursday in St. Louis and none of them needed playoffs. GM Vladimir Akopian had secured victory at the U.S. Senior Championship with a round to spare, after which GM Christopher Yoo won the U.S. Junior...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,7 +186,7 @@ news_feed (
          "title" : "Akopian, Lee, Yoo Winners At U.S. National Championships"
       },
       {
-         "description" : "<br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigantic section. Class players can earn prizes for finishing with the best sc",
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigant",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/what-expect-124th-annual-us-open",
@@ -218,14 +290,6 @@ news_feed (
          "title" : "Game Review And Analysis Now Even More Fun And Helpful With Updated Design And New Features"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 8 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/defa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-8",
-         "pubDate" : "Thu, 25 Jul 2024 02:48:45",
-         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 8"
-      },
-      {
          "description" : "Fort Worth, Texas, has several nicknames, including \"Cowtown\" and \"Panther City.\" One of its nicknames brings to mind the most powerful piece in chess: \"Queen City of the Prairie.\" As Alliance is a Fort Worth suburb, the Alliance Chess Club's biggest annual tournament is the \"Queen City of the Prairie Open.\" <br /><br /> The tournament is in its seventh year, and I had previously reported on the third edition of this tournament, including some unorthodox decisions about who gets free entry, for Chess Life Online. The tournament determines a Tarrant County Champion and a Fort Worth Champion. Fort Worth is the largest city in Tarrant County. This year, both the county and city titles were won ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -266,62 +330,6 @@ news_feed (
          "title" : "Now-Familiar Names Top Titled Tuesday"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Today is the final round in regulation. Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-9-final-round",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-9-final-round",
-         "pubDate" : "Wed, 24 Jul 2024 05:48:23",
-         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 9 | Final Round"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. However, at least one field was not decided in regulation. Therefore, playoffs! Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-playoffs\"><img src=\"https://saintlouischess",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-playoffs",
-         "pubDate" : "Wed, 24 Jul 2024 05:48:23",
-         "title" : "2024 U.S. Junior & U.S. Senior Championships: Playoffs"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today are the first three rounds of the rapid round robin. Join a commentary team TBD for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-saint-louis-rapid-blitz-day-1-grandchesstour\"><img src",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-1-grandchesstour",
-         "pubDate" : "Wed, 24 Jul 2024 05:48:23",
-         "title" : "2024 Saint Louis Rapid & Blitz: Day 1 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The competitors share how they handle psychological aspects of the game before the 2024 U.S. Junior Championship. This aired during Round 7. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-juniors-handle-pressure-maintain-focus-chess-usjuniors",
-         "pubDate" : "Wed, 24 Jul 2024 02:48:20",
-         "title" : "How Juniors Handle Pressure & Maintain Focus in Chess? | #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jesse Kraai talks to Kostya Kavutskiy after defeating Christiansen in Round 6 of the 2024 U.S. Senior Championship. 2024.07.22<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jesse-kraai-top-native-born-senior-r6-usseniors",
-         "pubDate" : "Wed, 24 Jul 2024 02:48:20",
-         "title" : "Jesse Kraai: Top Native-Born Senior? | R6 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 7 of the 2024 U.S. Junior &amp; U.S. Senior Championships. Taking place at the World Chess Hall of Fame in Saint Louis, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-us-junior-us-senior-championships-round-7\"><img src=\"https://saintlouischessclub.org/sites/defa",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-us-junior-us-senior-championships-round-7",
-         "pubDate" : "Wed, 24 Jul 2024 02:48:20",
-         "title" : "RECAP | 2024 U.S. Junior & U.S. Senior Championships: Round 7"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jason Wang talks to Kostya Kavutskiy after defeating Arthur Guo in Round 7 of the 2024 U.S. Junior Championship. 2024.07.23<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jason-wang-clarifies-guo%E2%80%99s-rd8-blunder-r7-usjuniors",
-         "pubDate" : "Wed, 24 Jul 2024 02:48:20",
-         "title" : "Jason Wang Clarifies Guo's Rd8+?? Blunder | R7 #USJuniors"
-      },
-      {
          "description" : "Three players earned norms across the six sections of the July NYC Chess Norms Invitational, with many more reaching or approaching their ratings thresholds. Not every event produces any norms (although previous coverage can be found here and here), so this was a very successful event for the norm-seekers!<br /><br /> This was the largest invitational in NYC Chess Norms' history, with 55 unique players competing across six sections (five run concurrently). It was also our first six-day event, which is now a FIDE requirement for norm events. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> IM Sa",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -344,14 +352,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/race-tightens-two-rounds-go-us-junior-girls-junior-and-senior-championships",
          "pubDate" : "Wed, 24 Jul 2024 00:00:00",
          "title" : "Race Tightens with Two Rounds To Go at the U.S. Junior, Girls' Junior, and Senior Championships"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the U.S. Junior, U.S. Senior, and U.S. Girls' Junior Championships determine three national champions. Each classical round robin features ten players (listed below). Join GMs Yasser Seirawan &amp; Cristian Chirila, and IMs Nazi Paikidze &amp; Kostya Kavutskiy for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-us-junior-us-senior-championships-round-8\"><img src=\"https://saintlouischessclub.org/sites/de",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-us-junior-us-senior-championships-round-8",
-         "pubDate" : "Tue, 23 Jul 2024 23:48:15",
-         "title" : "2024 U.S. Junior & U.S. Senior Championships: Round 8"
       },
       {
          "description" : "",
