@@ -90,6 +90,14 @@ news_feed (
          "title" : "Alice Lee's Shaky Start | R8 #usjuniors"
       },
       {
+         "description" : "The first of nine days is in the books for the 124th Annual U.S. Open in Norfolk, Virginia. This is the last year which will feature the \"traditional\" nine-day schedule, and 134 participants are celebrating (or mourning) the end of this tradition by competing at the one-game-a-day pace. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/124th-annual-us-open-and-tournaments-state-champions-begin-norfolk",
+         "pubDate" : "Sun, 28 Jul 2024 00:00:00",
+         "title" : "124th Annual U.S. Open and Tournaments of State Champions Begin in Norfolk"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Sometimes the most difficult task in a playing chess is knowing how to claim a draw </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/we-need-arbiter-uschesschamps-usseniors-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VbSw7o8rW1M.jpg?itok=loDvJoSs\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -480,14 +488,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-blitz",
          "pubDate" : "Mon, 22 Jul 2024 06:43:05",
          "title" : "Praggnanandhaa Survives As Salem Crushes Challengers In Blitz"
-      },
-      {
-         "description" : "Update, July 23, 2024: an earlier version of this story mistakenly reported that Eshaan Hebbar earned an IM norm for his share of first in the Under-18 section. Hebbar actually earned the IM title for winning the gold on tiebreaks. FM Terry Luo earned an IM norm for finishing tied for first. <br /><br /> A total of 368 players representing 28 federations participated across 12 sections in the Pan-American Youth Championship XXXIV. The tournament, held from July 15 through 20 in Orlando, Florida was hosted in partnership with the Confederation of Chess for Americas (CCA), International Chess Federation (FIDE), and Rosen Shingle Creek.<br /><br /> Overall, American players won 25 of the 36 tot",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/pan-american-youth-championship-xxxiv-report-and-recap",
-         "pubDate" : "Mon, 22 Jul 2024 00:00:00",
-         "title" : "Pan-American Youth Championship XXXIV Report and Recap"
       },
       {
          "description" : "",
@@ -968,22 +968,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/british-chess-championships-social-programme/",
          "pubDate" : "Mon, 08 Jul 2024 07:40:38",
          "title" : "British Chess Championships Social Programme"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3106",
-         "pubDate" : "Sun, 07 Jul 2024 22:43:53",
-         "title" : "WSTCC 2024: Iceland and France Cercle D'Echecs lead after six rounds"
-      },
-      {
-         "description" : " The Chess Club and Scholastic Center of St. Louis (CCSCSL or St. Louis Chess Club) has been slowly expanding since its opening in 2008. The chess club is the home of the U.S. Championships, the Sinquefield Cup and Grand Chess Tour events. Since I have relatives in the St. Louis area, I usually stop by The post <a href=\"https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/\">St. Louis Chess Club upgrading!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/07/07/st-louis-chess-club-upgrading/",
-         "pubDate" : "Sun, 07 Jul 2024 20:47:14",
-         "title" : "St. Louis Chess Club upgrading!"
       }
    ]
 }
