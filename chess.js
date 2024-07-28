@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 110th edition of the British Chess Championship is taking place from 27 July to 4 August in Hull. The main event is a 9-round Swiss open featuring 86 participants. Defending champion Michael Adams is one of four players rated 2600 or above - David Howell, Gawain Jones and Luke McShane are the remaining three. The winner of the two previous editions among the women, Lan Yao, is also in the mix.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-1",
+         "pubDate" : "Sun, 28 Jul 2024 07:10:00",
+         "title" : "The British Chess Championships have started in Hull"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Out of the opening between Christopher Yoo and Balaji Daggupati, a pawn grubber lures IM Paikidze into some pawn grubbing play. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-pawn-grubber-strikes-again-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ptuG5Q0qR5o.jpg?itok=Gq0hJQLC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/warning-pawn-grubber-strikes-again-uschesschamps-usjuniors-chess-chesstactics-chesscom",
+         "pubDate" : "Sun, 28 Jul 2024 05:50:34",
+         "title" : "WARNING: Pawn Grubber Strikes Again #uschesschamps #usjuniors #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Jesse goes on winning streak and begins his Wildcard campaign for the Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jesse-kraais-wildcard-campaign-r8-usseniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OuWrZqkLfDE.jpg?itok=vDmiR_yN\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jesse-kraais-wildcard-campaign-r8-usseniors",
+         "pubDate" : "Sun, 28 Jul 2024 05:50:34",
+         "title" : "Jesse Kraai's Wildcard Campaign | R8 #usseniors"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Out of the opening between Christopher Yoo and Balaji Daggupati, a pawn grubber lures IM Paikidze into some pawn grubbing play. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-pawn-grubber-approach-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ptuG5Q0qR5o.jpg?itok=Gq0hJQLC\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,22 +90,6 @@ news_feed (
          "title" : "Paikidze's Championship Prep #uschesschamps #chess #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> As the approach of the ending rounds in the Championships, Yasser shares a fear he had against a rival opponent who had no wins during the tournament </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fear-getting-blown-out-uschesschamps-usjuniors-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tfPMF_jwUbc.jpg?itok=B543BFxk\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fear-getting-blown-out-uschesschamps-usjuniors-chess-chesscom",
-         "pubDate" : "Sat, 27 Jul 2024 23:50:19",
-         "title" : "Fear Of Getting Blown Out #uschesschamps #usjuniors #chess #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Like a needle in the haystack, Chirila finds an interesting checkmating possibility in Alice Lee&#039;s position against Omya Vidyarthi </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/silly-variation-alice-lee-uschesschamps-chess-chesstactics-checkmatepatterns\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m3lqMjY-KwM.jpg?itok=U07QQJxt\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/silly-variation-alice-lee-uschesschamps-chess-chesstactics-checkmatepatterns",
-         "pubDate" : "Sat, 27 Jul 2024 23:50:19",
-         "title" : "A Silly Variation for Alice Lee #uschesschamps #chess #chesstactics #checkmatepatterns"
-      },
-      {
          "description" : "Bullet Brawl&#39;s third most prolific winner, GM Oleksandr Bortnyk, added a seventh title to his resume and won $400 after outlasting Chess.com hyperbullet champion GM Andrew Tang and 21-time Bullet Brawl winner GM Daniel Naroditsky on Saturday. 14-y...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -106,14 +114,6 @@ news_feed (
          "title" : "Little experiments make things fun"
       },
       {
-         "description" : "The long Portuguese chess summer has begun with the national league. AX Gaia won with aplomb. The championship and the battle to stay in the league would have been more exciting if two double rounds had not ensured that the decisions were made at midnight. Our Lisbon correspondent Stefan L&ouml;ffler reports. | Pictured: Estrelas São João de Brito | Photos: Dominic Cross / Portuguese Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/ax-gaia-win-portuguese-league-2024",
-         "pubDate" : "Sat, 27 Jul 2024 11:45:00",
-         "title" : "AX Gaia win the Portuguese League"
-      },
-      {
          "description" : "(AICF Event Codes: 369716/CHD/2024 &#38; 369717/CHD/2024) Organised by CHANDIGARH CHESS ASSOCIATION The 34th National Under-17 Open and Girls Chess Championship, event codes 369716/369717, was organized",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -136,22 +136,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/110th-british-chess-championships-2024",
          "pubDate" : "Fri, 26 Jul 2024 19:38:00",
          "title" : "110th British Chess Championships 2024 - Games and Results"
-      },
-      {
-         "description" : "Hector Guifarro had a troubled childhood. At the age of 19, he \"made a bad choice\" which landed him in prison. Chess was his way out. This is his story. Guifarro remarked: \"Prison is where I found the game of chess. It kept me out of trouble. It built my confidence and made me believe in myself\". | Photo: Stev Bonhage",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hector-guifarro-story-chess-choices-change",
-         "pubDate" : "Fri, 26 Jul 2024 19:30:00",
-         "title" : "The Hector Guifarro story: chess, choices and change"
-      },
-      {
-         "description" : "The final round of the US Senior and Junior Championships was played yesterday at the Saint Louis Chess Club. Vladimir Akopian (pictured) won the US Senior Championship with a round to spare, while Christoper Yoo and Alice Lee won the US Junior Championships. | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024-r9",
-         "pubDate" : "Fri, 26 Jul 2024 18:15:00",
-         "title" : "US Seniors and Juniors: Akopian, Yoo and Lee prevail"
       },
       {
          "description" : "GM Magnus Carlsen crushed GM Tuan Minh Le with a dominating 20.5-3.5 score in a one-sided contest in the first match of the second day of the 2024 Speed Chess Championship. But the day belonged to the former world championship contender GM Ian Nep...",
@@ -186,7 +170,7 @@ news_feed (
          "title" : "Akopian, Lee, Yoo Winners At U.S. National Championships"
       },
       {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigant",
+         "description" : "<br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigantic section. Class players can earn prizes for finishing with the best sc",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/what-expect-124th-annual-us-open",
