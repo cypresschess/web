@@ -1,4 +1,7 @@
 jtable([
+"SUGAR LAND","2024-07-26","10","<a href=http://www.uschess.org/msa/XtblMain.php?202407262152 target='_blank'>FBCC 2024 BAGELFEST DAY OPEN</a>",
+"SPRING","2024-07-26","30","<a href=http://www.uschess.org/msa/XtblMain.php?202407262132 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2024-07-26","34","<a href=http://www.uschess.org/msa/XtblMain.php?202407262102 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-07-20  - 07-21","28","<a href=http://www.uschess.org/msa/XtblMain.php?202407219282 target='_blank'>$1,500 JULY  U2400 + A BLITZ</a>",
 "HOUSTON","2024-07-20","4","<a href=http://www.uschess.org/msa/XtblMain.php?202407208432 target='_blank'>CHESSPANDA07202024SATURDAY</a>",
 "CYPRESS","2024-07-19","40","<a href=http://www.uschess.org/msa/XtblMain.php?202407198332 target='_blank'>KNIGHTS OF CYPRESS</a>",
@@ -196,7 +199,4 @@ jtable([
 "HOUSTON","2024-01-12","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401128392 target='_blank'>REBECCA CHESS CLUB QUADS JANUARY 12, 2024</a>",
 "CYPRESS","2024-01-12","28","<a href=http://www.uschess.org/msa/XtblMain.php?202401120282 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-01-05  - 01-07","73","<a href=http://www.uschess.org/msa/XtblMain.php?202401076542 target='_blank'>$3,000 JAN 2024 CHAMPIONSHIP</a>",
-"CYPRESS","2024-01-06","34","<a href=http://www.uschess.org/msa/XtblMain.php?202401065752 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2024-01-05","36","<a href=http://www.uschess.org/msa/XtblMain.php?202401055412 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2024-01-05","6","<a href=http://www.uschess.org/msa/XtblMain.php?202401055362 target='_blank'>REBECCA CHESS CLUB QUADS JAN 5, 2024</a>",
 ]);
