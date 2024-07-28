@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Pieces have various roles in different stages of the game. Have you heard of 'marathon bishops'? GM Sundararajan Kidambi explores the concept, which he found while going through GM Axel Smith's book on colour complexes. Check out the detailed analysis, which employed a game by living legend Boris Gelfand to enrich your understanding of this new terminology - the concept is not new, though! | Photo: Shahid Ahmed",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/gelfand-marathon-bishops-kidambi",
+         "pubDate" : "Sun, 28 Jul 2024 14:30:00",
+         "title" : "Gelfand's marathon bishops"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3130",
+         "pubDate" : "Sun, 28 Jul 2024 14:02:04",
+         "title" : "Vaclav Finek wins Czech Open 2024"
+      },
+      {
          "description" : "The 110th edition of the British Chess Championship is taking place from 27 July to 4 August in Hull. The main event is a 9-round Swiss open featuring 86 participants. Defending champion Michael Adams is one of four players rated 2600 or above - David Howell, Gawain Jones and Luke McShane are the remaining three. The winner of the two previous editions among the women, Lan Yao, is also in the mix.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -170,7 +186,7 @@ news_feed (
          "title" : "Akopian, Lee, Yoo Winners At U.S. National Championships"
       },
       {
-         "description" : "<br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigantic section. Class players can earn prizes for finishing with the best sc",
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigant",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/what-expect-124th-annual-us-open",
