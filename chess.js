@@ -10,6 +10,14 @@ news_feed (
          "title" : "Remembering Dietmar Kolbus (1966-2024)"
       },
       {
+         "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 Round of 16 victory over GM Alexander Grischuk in a match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-firouzja-grischuk-so-lazavik",
+         "pubDate" : "Mon, 29 Jul 2024 15:19:00",
+         "title" : "Firouzja Fireworks Lead To Win Over Grischuk, So Outlasts Lazavik"
+      },
+      {
          "description" : "The FIDE Centenary celebrations include some new and promising projects in cooperation with the World Federation for Chess Competition. In November, the World Youth Solving Championships for girls and boys will be held in Florian&oacute;polis, the capital of southern Brazil's Santa Catarina state, where juniors will be solving eight problems and endgames on November 4, during the free day of the World Youth Chess Championships. You can try your hand at a typical puzzle like the ones they will get.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,7 +82,7 @@ news_feed (
          "title" : "Starting Friday: World Rapid and Blitz Team Championships"
       },
       {
-         "description" : "After the second day of games in Norfolk, Virginia, the traditional schedule of the U.S. Open is just getting started. 25 players still boast perfect scores after two rounds, despite a couple of upsets (more on that later). <br /><br /> The five tournaments of state champions, however, are a different story. After the first double-round day, there are between one and four players with perfect 3/3 scores in each section. By the end of today, we'll know who has the inside track on the title of \"champion of champions\" before Tuesday's final round. <br /><br /> Below are annotations from round two of the invitationals courtesy of IM Robert Shlyakhtenko and two from the open by your humble report",
+         "description" : "After the second day of games in Norfolk, Virginia, the traditional schedule of the U.S. Open is just getting started. 25 players still boast perfect scores after two rounds, despite a couple of upsets (more on that later). <br /><br /> The five tournaments of state champions, however, are a different story. After the first double-round day, there are between one and four players with perfect 3/3 scores in each section. By the end of today, we'll know who has the inside track on the title of \"champion of champions\" before Tuesday's final round. <br /><br /> Below are annotations from round two (update: and round three!) of the invitationals courtesy of IM Robert Shlyakhtenko and two from the",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/leaderboard-takes-shape-halfway-through-tournaments-champions-us-open",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-3",
          "pubDate" : "Fri, 19 Jul 2024 11:14:00",
          "title" : "Firouzja Recovers After 9-Move Loss, Joins Carlsen, Vachier-Lagrave, Duda In Winners"
-      },
-      {
-         "description" : "GM Hikaru Nakamura skips the 45th FIDE Chess Olympiad that will take place in the Hungarian capital Budapest on September 11-22, but the U.S. team of GMs Fabiano Caruana, Wesley So, Leinier Dominguez, Levon Aronian, and Ray Robson is still the top...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chess-olympiad-teams-announced-us-india",
-         "pubDate" : "Fri, 19 Jul 2024 10:17:00",
-         "title" : "U.S. Top Seeds, India Close 2nd As Chess Olympiad Teams Announced"
       },
       {
          "description" : " Fabiano Caruana, the world No 3 and US champion, won the Zagreb Rapid/Blitz with a record-equalling total of 27/36, and was sure of first prize with five rounds to spare Fabiano Caruana, the world No 3 and US champion, displayed his new mastery of speed chess last week when he won the SuperUnited Zagreb Rapid and Blitz, part of the St Louis-organised Grand Chess Tour, with a 27/36 points total, equalling Magnus Carlsen's record for the event. Caruana was sure of ­victory with five rounds to spare. There were nine rounds each of rapid (G25+10) and blitz (G5+2) with the former counting double points. The total prize fund was $175,000. In nine years of the Tour there have been 10 rapid/blitz t",
