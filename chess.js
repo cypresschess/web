@@ -74,6 +74,14 @@ news_feed (
          "title" : "Starting Friday: World Rapid and Blitz Team Championships"
       },
       {
+         "description" : "After the second day of games in Norfolk, Virginia, the traditional schedule of the U.S. Open is just getting started. 25 players still boast perfect scores after two rounds, despite a couple of upsets (more on that later). <br /><br /> The five tournaments of state champions, however, are a different story. After the first double-round day, there are between one and four players with perfect 3/3 scores in each section. By the end of today, we'll know who has the inside track on the title of \"champion of champions\" before Tuesday's final round. <br /><br /> Below are annotations from round two of the invitationals courtesy of IM Robert Shlyakhtenko and two from the open by your humble report",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/leaderboard-takes-shape-halfway-through-tournaments-champions-us-open",
+         "pubDate" : "Mon, 29 Jul 2024 00:00:00",
+         "title" : "Leaderboard Takes Shape Halfway Through Tournaments of Champions at U.S. Open"
+      },
+      {
          "description" : "Pieces have various roles in different stages of the game. Have you heard of 'marathon bishops'? GM Sundararajan Kidambi explores the concept, which he found while going through GM Axel Smith's book on colour complexes. Check out the detailed analysis, which employed a game by living legend Boris Gelfand to enrich your understanding of this new terminology - the concept is not new, though! | Photo: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -472,14 +480,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/top-seeds-take-leads-home-stretch-us-junior-girls-junior-and-senior-championships",
          "pubDate" : "Tue, 23 Jul 2024 00:00:00",
          "title" : "Top Seeds Take Leads Into Home Stretch of U.S. Junior, Girls' Junior, and Senior Championships"
-      },
-      {
-         "description" : "Team USA earned three medals at the 2024 FIDE World Senior Team Championship earlier this month in Krakow, Poland. Below are some instructive tactical highlights from the nine-round event!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-world-senior-teams",
-         "pubDate" : "Tue, 23 Jul 2024 00:00:00",
-         "title" : "Tactics Tuesday: World Senior Teams"
       },
       {
          "description" : "The ECF has been asked to run this year's Glorney Cup from 23rd to 25th July (i.e. immediately before the British Championships) at the Canham...",
