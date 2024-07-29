@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid and Blitz Team Championships will be officially opened on 1 August in Astana, Kazakhstan. The five-day event will feature both the world champion, Ding Liren, and the world's top-rated player, Magnus Carlsen, alongside a star-stunned lineup of super-grandmasters playing alongside amateur players. Rounds 1-4 of the rapid are set to take place on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-preview",
+         "pubDate" : "Mon, 29 Jul 2024 03:00:00",
+         "title" : "Starting Friday: World Rapid and Blitz Team Championships"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3131",
+         "pubDate" : "Sun, 28 Jul 2024 22:34:37",
+         "title" : "World Rapid and Blitz Team Championships start in Astana this week"
+      },
+      {
          "description" : "Pieces have various roles in different stages of the game. Have you heard of 'marathon bishops'? GM Sundararajan Kidambi explores the concept, which he found while going through GM Axel Smith's book on colour complexes. Check out the detailed analysis, which employed a game by living legend Boris Gelfand to enrich your understanding of this new terminology - the concept is not new, though! | Photo: Shahid Ahmed",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
