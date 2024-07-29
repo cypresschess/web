@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The FIDE Centenary celebrations include some new and promising projects in cooperation with the World Federation for Chess Competition. In November, the World Youth Solving Championships for girls and boys will be held in Florian&oacute;polis, the capital of southern Brazil's Santa Catarina state, where juniors will be solving eight problems and endgames on November 4, during the free day of the World Youth Chess Championships. You can try your hand at a typical puzzle like the ones they will get.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-wfcc-special-project",
+         "pubDate" : "Mon, 29 Jul 2024 13:00:00",
+         "title" : "FIDE/ WFCC special project"
+      },
+      {
+         "description" : "Please find the live link for 22nd Tamil Nadu IM norm tournament starts on 29th July 2024. Live Link : https://live.tamilchess.com/22nd-im-norm-chennai/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-22nd-tamil-nadu-im-tournament-starts-on-29th-july-2024/",
+         "pubDate" : "Mon, 29 Jul 2024 10:01:27",
+         "title" : "Live link for 22nd Tamil Nadu IM Tournament starts on 29th July 2024"
+      },
+      {
          "description" : "For a sunny chess summer, there are three great offers available only this week (29 July to 4 August): the ChessBase Magazine subscription for €99.90 (instead of €109.80) and the bundles Ganguly: Endgame Essentials 1 & 2 for €49.90 (instead of €69.90) and Nick Pert: Typical Mistakes for €59.90 (instead of €79.90). All at a particularly favourable price. Don't miss this chance!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -960,38 +976,6 @@ news_feed (
          "link" : "https://aicf.in/notice-national-under-17-open-girls-chess-championship-2024/",
          "pubDate" : "Mon, 08 Jul 2024 12:39:12",
          "title" : "NOTICE: National Under 17 (Open & Girls ) Chess Championship 2024"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111580043.cms\" />The Global Chess League on Monday announced the six franchises that will compete in the second edition, which is scheduled to take place in London from October 3 to 12. The American Gambits, co-owned by notable business figures Prachura PP, Venkat K Narayana, and star Indian spinner Ravichandran Ashwin, will take the place of the Chingari Gulf Titans in the tournament. The tournament will feature a distinctive team format, with each team comprising six players, including two leading female chess players and a prodigy.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/ravichandran-ashwin-buys-team-in-global-chess-league/articleshow/111580043.cms",
-         "pubDate" : "Mon, 08 Jul 2024 11:22:58",
-         "title" : "Ravichandran Ashwin buys team in Global Chess League"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3107",
-         "pubDate" : "Mon, 08 Jul 2024 10:15:29",
-         "title" : "Swedish Championship 2024: Vitaly Sivuk retains title"
-      },
-      {
-         "description" : "The ECU E-Magazine June 2024 is out! In this edition of the ECU Magazine you may read about: The June 2024 edition of the ECU Magazine can be read online together with interactive links and videos on the following link, or it can be downloaded below.",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/ecu-e-magazine-june-2024/",
-         "pubDate" : "Mon, 08 Jul 2024 08:52:16",
-         "title" : "ECU E-Magazine June 2024"
-      },
-      {
-         "description" : "There is a full social programme available for the British Championships. There are historic walks, receptions, a fabulous Ukrainian evening, outdoor chess (with some sponsored...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/british-chess-championships-social-programme/",
-         "pubDate" : "Mon, 08 Jul 2024 07:40:38",
-         "title" : "British Chess Championships Social Programme"
       }
    ]
 }
