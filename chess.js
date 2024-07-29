@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The World Rapid and Blitz Team Championships will be officially opened on 1 August in Astana, Kazakhstan. The five-day event will feature both the world champion, Ding Liren, and the world's top-rated player, Magnus Carlsen, alongside a star-stunned lineup of super-grandmasters playing alongside amateur players. Rounds 1-4 of the rapid are set to take place on Friday.",
+         "description" : "For a sunny chess summer, there are three great offers available only this week (29 July to 4 August): the ChessBase Magazine subscription for €99.90 (instead of €109.80) and the bundles Ganguly: Endgame Essentials 1 & 2 for €49.90 (instead of €69.90) and Nick Pert: Typical Mistakes for €59.90 (instead of €79.90). All at a particularly favourable price. Don't miss this chance!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-preview",
-         "pubDate" : "Mon, 29 Jul 2024 03:00:00",
-         "title" : "Starting Friday: World Rapid and Blitz Team Championships"
+         "link" : "https://en.chessbase.com/post/summer-special-cb-magazine",
+         "pubDate" : "Mon, 29 Jul 2024 09:00:00",
+         "title" : "Summer Special: ChessBase Magazine, Endgame Essentials 1-2 and Typical Mistakes 1-3"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organized a Senior National Arbiters Seminar &#38; Exam from 20 to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-at-jammu-on-20-21-july-2024/",
+         "pubDate" : "Mon, 29 Jul 2024 06:58:01",
+         "title" : "Final Report of Senior National Arbiter Seminar & Examination at Jammu on 20-21 July 2024"
+      },
+      {
+         "description" : "The All India Chess Federation (AICF) is looking for a suitable candidate to fill up 1 (One) postof Head of Operations of AICF. Interested parties",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/vacancy-announcement-3/",
+         "pubDate" : "Mon, 29 Jul 2024 06:19:56",
+         "title" : "Vacancy Announcement"
       },
       {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3131",
-         "pubDate" : "Sun, 28 Jul 2024 22:34:37",
+         "pubDate" : "Mon, 29 Jul 2024 05:21:08",
          "title" : "World Rapid and Blitz Team Championships start in Astana this week"
+      },
+      {
+         "description" : "The World Rapid and Blitz Team Championships will be officially opened on 1 August in Astana, Kazakhstan. The five-day event will feature both the world champion, Ding Liren, and the world's top-rated player, Magnus Carlsen, alongside a star-stunned lineup of super-grandmasters playing alongside amateur players. Rounds 1-4 of the rapid are set to take place on Friday.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-preview",
+         "pubDate" : "Mon, 29 Jul 2024 03:00:00",
+         "title" : "Starting Friday: World Rapid and Blitz Team Championships"
       },
       {
          "description" : "Pieces have various roles in different stages of the game. Have you heard of 'marathon bishops'? GM Sundararajan Kidambi explores the concept, which he found while going through GM Axel Smith's book on colour complexes. Check out the detailed analysis, which employed a game by living legend Boris Gelfand to enrich your understanding of this new terminology - the concept is not new, though! | Photo: Shahid Ahmed",
@@ -32,14 +56,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3130",
          "pubDate" : "Sun, 28 Jul 2024 14:02:04",
          "title" : "Vaclav Finek wins Czech Open 2024"
-      },
-      {
-         "description" : "The 110th edition of the British Chess Championship is taking place from 27 July to 4 August in Hull. The main event is a 9-round Swiss open featuring 86 participants. Defending champion Michael Adams is one of four players rated 2600 or above - David Howell, Gawain Jones and Luke McShane are the remaining three. The winner of the two previous editions among the women, Lan Yao, is also in the mix.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-1",
-         "pubDate" : "Sun, 28 Jul 2024 07:10:00",
-         "title" : "The British Chess Championships have started in Hull"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Out of the opening between Christopher Yoo and Balaji Daggupati, a pawn grubber lures IM Paikidze into some pawn grubbing play. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-pawn-grubber-strikes-again-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ptuG5Q0qR5o.jpg?itok=Gq0hJQLC\" alt=\"\" /></a></div>",
@@ -136,14 +152,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-july-27-2024",
          "pubDate" : "Sat, 27 Jul 2024 16:18:00",
          "title" : "Bortnyk Claims Gold Ahead Of 3 American Brawlers"
-      },
-      {
-         "description" : "Boris Spassky, world champion from 1969 to 1972, is regarded as a universal player. He played 1.e4 and 1.d4 and was equally at home in dynamic tactical positions as he was in positional-strategic ones. And he was a feared attacking player. It's no wonder that he managed a few nice queen sacrifices in the course of his career. A small selection. | Photo: Boris Spassky at the 1984 Thessaloniki Chess Olympiad / Gerhard Hund",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/queen-sacrifices-boris-spassky",
-         "pubDate" : "Sat, 27 Jul 2024 14:00:00",
-         "title" : "Queen sacrifices with Boris Spassky"
       },
       {
          "description" : "Big decisions, like choosing an opening or launching a Podcast, can seem daunting. \"What if I get it wrong? All my hard work learning these opening moves might be for nothing,\" you might think. This weight might push you to a never-ending search for 'the best chess opening (spoiler, it doesn't exist). After a while, []",
