@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "International Master and patron Dietmar Kolbus passed away while taking part in the Master Open tournament at the Biel Chess Festival. He had sponsored the SG Trier Bundesliga team for years and then moved with his team to the 4NCL. Kolbus was a great chess enthusiast and regularly played in open tournaments. | Photo: Gerd Densing",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/remembering-dietmar-kolbus-1966-2024",
+         "pubDate" : "Mon, 29 Jul 2024 16:00:00",
+         "title" : "Remembering Dietmar Kolbus (1966-2024)"
+      },
+      {
          "description" : "The FIDE Centenary celebrations include some new and promising projects in cooperation with the World Federation for Chess Competition. In November, the World Youth Solving Championships for girls and boys will be held in Florian&oacute;polis, the capital of southern Brazil's Santa Catarina state, where juniors will be solving eight problems and endgames on November 4, during the free day of the World Youth Chess Championships. You can try your hand at a typical puzzle like the ones they will get.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/summer-special-cb-magazine",
          "pubDate" : "Mon, 29 Jul 2024 09:00:00",
          "title" : "Summer Special: ChessBase Magazine, Endgame Essentials 1-2 and Typical Mistakes 1-3"
+      },
+      {
+         "description" : "Chess.com is happy to announce that the next edition of State of Chess.com will be held on August 1 at 1 p.m. ET / 19:00 CEST / 9:30 p.m. IST. We invite you to tune in to our Twitch and YouTube channels to hear what we&#39;ve been up to and where we&#39;r...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/state-of-chess-2024-august-1",
+         "pubDate" : "Mon, 29 Jul 2024 07:00:00",
+         "title" : "Next State Of Chess Coming August 1: Fair Play, Website Updates, Q&A, And More"
       },
       {
          "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organized a Senior National Arbiters Seminar &#38; Exam from 20 to",
@@ -674,14 +690,6 @@ news_feed (
          "title" : "Chess: Caruana equals Carlsen's record as Kasparov criticises world title match"
       },
       {
-         "description" : "Chess.com is excited to announce a new partnership with Tech Mahindra to support the second season of the Global Chess League. The event will take place at Friends House in London from October 3 to 12 and feature a $1,000,000 prize fund. The Glo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/chesscom-partners-with-global-chess-league-2024",
-         "pubDate" : "Fri, 19 Jul 2024 06:00:00",
-         "title" : "Chess.com Partners With Tech Mahindra To Bring Season 2 Of The Global Chess League"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -968,14 +976,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/23000-join-bodhana-at-chessfest/",
          "pubDate" : "Tue, 09 Jul 2024 10:55:05",
          "title" : "23,000 join Bodhana at ChessFest!"
-      },
-      {
-         "description" : "The deadline for the National Under 17 Open &#38; Girls online entries has been extended to 10 July 2024, 5:00 PM. AICF",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/notice-national-under-17-open-girls-chess-championship-2024/",
-         "pubDate" : "Mon, 08 Jul 2024 12:39:12",
-         "title" : "NOTICE: National Under 17 (Open & Girls ) Chess Championship 2024"
       }
    ]
 }
