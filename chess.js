@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "It's fascinating to see how Slovakian coach Jan Markos explains the strengths and weaknesses of kings at the end of his video course series, and the fascinating examples he has found to illustrate them. | Picture: Image by Tung Thanh from Pixabay",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/your-majesty-jan-markos-knows-everything-about-the-king",
+         "pubDate" : "Tue, 30 Jul 2024 21:00:00",
+         "title" : "Your Majesty - Jan Markos knows everything about the king"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jaap van den Herik</strong>, who worked together with the late Max Euwe before becoming a professor of computer science himself and contributed in many roles to the development of computer chess, is the <a href=\"https://maxeuwe.nl/jaap-van-den-herik-nieuwe-voorzitter-van-het-max-euwe-centrum/\">new chairman</a> of the <strong>Max Euwe Centrum</strong> in Amsterdam. He follows <strong>Paul van der Sterren</strong> who continues as ambassador. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/van-den-herik-heads-max-euwe-centrum/",
+         "pubDate" : "Tue, 30 Jul 2024 18:54:20",
+         "title" : "Van den Herik heads Max Euwe Centrum"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"><p style=\"font-size: 18px;\"><strong>SAINT LOUIS, Mo., July 29, 2024</strong> - Out of a field of the nation's top chess players, International Master (IM) Alice Lee was named champion in the U.S. Girls' Junior Championship, Grandmaster (GM) Christopher Yoo won the U.S. Junior Championship, and GM Vladimir Akopian secured victory in the U.S. Senior Championship with a round to spare. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/file",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/im-alice-lee-gm-christopher-yoo-and-gm-vladimir-akopian-crowned-winners-us-girls-junior-and",
+         "pubDate" : "Tue, 30 Jul 2024 16:19:27",
+         "title" : "IM Alice Lee, GM Christopher Yoo and GM Vladimir Akopian Crowned Winners in U.S. Girls, Junior and Senior Championships in Saint Louis"
+      },
+      {
          "description" : "In the second half of July, the Turkish S&uuml;per Ligi team championship was decided in a major tournament. The team from Bayegan Pendik Satranc Spor K&uuml;l&uuml;b&uuml;In won after a close race, with the best player in the team being 13-year-old Turkish talent Yagiz Kaan Erdogmus, who had a 2730 performance. But the best player of the event was Hans Niemann with an Elo performance of 2744. | Photos: Turkish Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -224,14 +248,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/we-need-arbiter-uschesschamps-usseniors-chess-chesscom",
          "pubDate" : "Sat, 27 Jul 2024 23:50:19",
          "title" : "We Need An Arbiter #uschesschamps #usseniors #chess #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Nazi Paikidze takes a position from Alice Lee to brush up on her upcoming Women&#039;s Championship prep. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/paikidzes-championship-prep-uschesschamps-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/S8e38ALh6vE.jpg?itok=EdqEtPma\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/paikidzes-championship-prep-uschesschamps-chess-chesscom",
-         "pubDate" : "Sat, 27 Jul 2024 23:50:19",
-         "title" : "Paikidze's Championship Prep #uschesschamps #chess #chesscom"
       },
       {
          "description" : "Bullet Brawl&#39;s third most prolific winner, GM Oleksandr Bortnyk, added a seventh title to his resume and won $400 after outlasting Chess.com hyperbullet champion GM Andrew Tang and 21-time Bullet Brawl winner GM Daniel Naroditsky on Saturday. 14-y...",
@@ -944,30 +960,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-guwahati-from-21st-to-22nd-june-2024/",
          "pubDate" : "Wed, 10 Jul 2024 05:31:06",
          "title" : "Certificates for SNA Seminar held at Guwahati from 21st to 22nd June 2024"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Indian cricket star <strong>Ravichandran Ashwin</strong> has <a href=\"https://indianexpress.com/article/sports/chess/ravichandran-ashwin-global-chess-league-franchise-9440367/\">agreed to become co-owner</a> of the <strong>American Gambits</strong> team that will replace the <strong>Chingari Gulf Titans</strong> in the forthcoming <strong>Global Chess League</strong> season. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/cricket-star-co-owns-gcl-team/",
-         "pubDate" : "Tue, 09 Jul 2024 18:04:12",
-         "title" : "Cricket star co-owns GCL team"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The fourth <strong>ChessFest</strong> on Trafalgar Square by <strong>Chess in Schools and Communities</strong> <a href=\"https://www.englishchess.org.uk/23000-join-bodhana-at-chessfest/\">drew 23.000 attendees</a> helped by <a href=\"https://www.thetimes.com/article/meet-the-9-year-old-chess-prodigy-and-her-unpushy-parents-v2zjxfxtk\">publicity around</a> the 9-year-old star guest <strong>Bodhana Sivanandan</strong> and her nomination for the English Olympiad women team. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/chessfest-london-record-crowd/",
-         "pubDate" : "Tue, 09 Jul 2024 17:57:19",
-         "title" : "ChessFest London record crowd"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3109",
-         "pubDate" : "Tue, 09 Jul 2024 17:16:41",
-         "title" : "Final Call for the World Guinness Records Attempt!"
       }
    ]
 }
