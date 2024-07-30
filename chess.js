@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Doesn't every chess game get decided by mistakes? Absolutely. But most players never truly comprehend that they are making the same kind of mistakes over and over again. The first task is to identify these mistakes and label them. Then the next time you sit at the chessboard, you are aware and able to avoid them.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/vishnu-prasanna-how-to-avoid-mistakes-and-boost-your-winning-rate",
+         "pubDate" : "Tue, 30 Jul 2024 11:55:37",
+         "title" : "Vishnu Prasanna: How to Avoid Mistakes and Boost Your Winning Rate"
+      },
+      {
          "description" : "After three rounds, four players still have perfect scores at the British Championship in Hull. The leading group includes two of the big favourites to take the title, David Howell (pictured) and Gawain Jones, who are joined by 15-year-old Shreyas Royal and Matthew Wadsworth - the latter obtained an upset victory over Luke McShane on Monday. A 9-player chasing group stands a half point back. | Photo: Dennis Dicen / English Chess Fedearation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +34,7 @@ news_feed (
          "title" : "Remembering Dietmar Kolbus (1966-2024)"
       },
       {
-         "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 victory over GM Alexander Grischuk in a round of 16 match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
+         "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 victory over GM Alexander Grischuk in a Round of 16 match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-firouzja-grischuk-so-lazavik",
@@ -960,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3108",
          "pubDate" : "Tue, 09 Jul 2024 11:54:17",
          "title" : "Winners crowned at ICCD World Deaf Chess Championship 2024"
-      },
-      {
-         "description" : "Record-breaking nine-year-old Bodhana Sivanandan celebrated her call-up to England's chess team in a packed Trafalgar Square on Sunday as ChessFest drew its biggest-ever crowd. More...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/23000-join-bodhana-at-chessfest/",
-         "pubDate" : "Tue, 09 Jul 2024 10:55:05",
-         "title" : "23,000 join Bodhana at ChessFest!"
       }
    ]
 }
