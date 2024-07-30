@@ -10,7 +10,7 @@ news_feed (
          "title" : "Remembering Dietmar Kolbus (1966-2024)"
       },
       {
-         "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 Round of 16 victory over GM Alexander Grischuk in a match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
+         "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 victory over GM Alexander Grischuk in a round of 16 match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-firouzja-grischuk-so-lazavik",
