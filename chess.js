@@ -10,6 +10,54 @@ news_feed (
          "title" : "Your Majesty - Jan Markos knows everything about the king"
       },
       {
+         "description" : "<div class=\"body text-secondary\"> GM Boros gives a brief insight when opposite side castling. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-principle-opposite-side-castling-chess-chesstactics-chessprinciples-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BBEwuGvhbC0.jpg?itok=fskDivcZ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-bit-principle-opposite-side-castling-chess-chesstactics-chessprinciples-chesscom",
+         "pubDate" : "Tue, 30 Jul 2024 20:52:22",
+         "title" : "Chess Bit: A Principle In Opposite Side Castling #chess #chesstactics #chessprinciples #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Like Kasparov, playing with confidence and with initiative, Christopher Yoo defeated his opponent Balaji Daggupati to become the 2024 U.S. Junior Chess Champion. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kasparov-christopher-yoo-wins-r9-usjuniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/c9aRD_nb6iw.jpg?itok=cRTYylzt\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kasparov-christopher-yoo-wins-r9-usjuniors",
+         "pubDate" : "Tue, 30 Jul 2024 20:52:22",
+         "title" : "Like Kasparov, Christopher Yoo Wins! | R9 #usjuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nicholas briefly discusses his win and tournament performance with Kostya </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nicholas-ladan-gets-win-r9-usjuniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X4QfEpLWJbA.jpg?itok=cP9tZW8l\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nicholas-ladan-gets-win-r9-usjuniors",
+         "pubDate" : "Tue, 30 Jul 2024 20:52:22",
+         "title" : "Nicholas Ladan Gets A Win | R9 #usjuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alex talks about the overall performance and the future participation in playing in next year&#039;s tournament. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/shabalov-looks-toward-future-r9-usseniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/WEONYl-LndQ.jpg?itok=mSYxiOGI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/shabalov-looks-toward-future-r9-usseniors",
+         "pubDate" : "Tue, 30 Jul 2024 20:52:22",
+         "title" : "Shabalov Looks Toward The Future | R9 #usseniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Finishing strong, Jasmine briefly chats with Kostya about her overall performance in the tournament </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jasmine-su-finishing-strong-r9-usjuniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/mh_pEwlTmu4.jpg?itok=kUjppbWT\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/jasmine-su-finishing-strong-r9-usjuniors",
+         "pubDate" : "Tue, 30 Jul 2024 20:52:22",
+         "title" : "Jasmine Su Finishing Strong | R9 #usjuniors"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kicking it into high gear after a shaky start , Alice wins the 2024 U.S. Girl&#039;s Junior Champion </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lee-reigns-supreme-r9-usjuniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/zUqZxtYkDYY.jpg?itok=sqkuvy8f\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alice-lee-reigns-supreme-r9-usjuniors",
+         "pubDate" : "Tue, 30 Jul 2024 20:52:22",
+         "title" : "Alice Lee Reigns Supreme! | R9 #usjuniors"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Jaap van den Herik</strong>, who worked together with the late Max Euwe before becoming a professor of computer science himself and contributed in many roles to the development of computer chess, is the <a href=\"https://maxeuwe.nl/jaap-van-den-herik-nieuwe-voorzitter-van-het-max-euwe-centrum/\">new chairman</a> of the <strong>Max Euwe Centrum</strong> in Amsterdam. He follows <strong>Paul van der Sterren</strong> who continues as ambassador. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -32,22 +80,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/erdogmus-and-niemann-shine-in-turkish-super-league",
          "pubDate" : "Tue, 30 Jul 2024 14:46:31",
          "title" : "Erdogmus and Niemann shine in Turkish Super League"
-      },
-      {
-         "description" : "Doesn't every chess game get decided by mistakes? Absolutely. But most players never truly comprehend that they are making the same kind of mistakes over and over again. The first task is to identify these mistakes and label them. Then the next time you sit at the chessboard, you are aware and able to avoid them.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/vishnu-prasanna-how-to-avoid-mistakes-and-boost-your-winning-rate",
-         "pubDate" : "Tue, 30 Jul 2024 11:55:37",
-         "title" : "Vishnu Prasanna: How to Avoid Mistakes and Boost Your Winning Rate"
-      },
-      {
-         "description" : "After three rounds, four players still have perfect scores at the British Championship in Hull. The leading group includes two of the big favourites to take the title, David Howell (pictured) and Gawain Jones, who are joined by 15-year-old Shreyas Royal and Matthew Wadsworth - the latter obtained an upset victory over Luke McShane on Monday. A 9-player chasing group stands a half point back. | Photo: Dennis Dicen / English Chess Fedearation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-3",
-         "pubDate" : "Tue, 30 Jul 2024 08:30:00",
-         "title" : "British Championship: Four co-leaders"
       },
       {
          "description" : "The successful candidates for Bronze Direct Members' Representatives 2024 were JC Le Saux and Tina Teotia.",
@@ -74,20 +106,20 @@ news_feed (
          "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
       },
       {
+         "description" : "After six grueling rounds in four days, the five invitational tournaments have concluded and the new champions of state champions have been crowned.<br /><br /> Below, we'll catch up with annotations from rounds four and five courtesy of IM Robert Shlyakhtenko, as well as highlights from this morning's final round. As a rough guide: if the board begins at the initial position, it's Robert's annotation. If it begins at a key moment later in the game, it's your author's. <br /><br /> More information about prizes and scholarships can be found on this year's program. The final standings for each tournament are available here, and more prize information will be available online shortly. <br /><b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/champions-champions-crowned-invitationals-finish-day-four-124th-annual-us-open",
+         "pubDate" : "Tue, 30 Jul 2024 00:00:00",
+         "title" : "Champions of Champions Crowned as Invitationals Finish on Day Four of 124th Annual U.S. Open"
+      },
+      {
          "description" : "This week's puzzles come from the Pan-American Youth Championship XXXIV, held earlier this month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship",
          "pubDate" : "Tue, 30 Jul 2024 00:00:00",
          "title" : "Tactics Tuesday: Pan-American Youth Championship"
-      },
-      {
-         "description" : "International Master and patron Dietmar Kolbus passed away while taking part in the Master Open tournament at the Biel Chess Festival. He had sponsored the SG Trier Bundesliga team for years and then moved with his team to the 4NCL. Kolbus was a great chess enthusiast and regularly played in open tournaments. | Photo: Gerd Densing",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/remembering-dietmar-kolbus-1966-2024",
-         "pubDate" : "Mon, 29 Jul 2024 16:00:00",
-         "title" : "Remembering Dietmar Kolbus (1966-2024)"
       },
       {
          "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 victory over GM Alexander Grischuk in a Round of 16 match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
@@ -98,28 +130,12 @@ news_feed (
          "title" : "Firouzja Fireworks Lead To Win Over Grischuk, So Outlasts Lazavik"
       },
       {
-         "description" : "The FIDE Centenary celebrations include some new and promising projects in cooperation with the World Federation for Chess Competition. In November, the World Youth Solving Championships for girls and boys will be held in Florian&oacute;polis, the capital of southern Brazil's Santa Catarina state, where juniors will be solving eight problems and endgames on November 4, during the free day of the World Youth Chess Championships. You can try your hand at a typical puzzle like the ones they will get.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-wfcc-special-project",
-         "pubDate" : "Mon, 29 Jul 2024 13:00:00",
-         "title" : "FIDE/ WFCC special project"
-      },
-      {
          "description" : "Please find the live link for 22nd Tamil Nadu IM norm tournament starts on 29th July 2024. Live Link : https://live.tamilchess.com/22nd-im-norm-chennai/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/live-link-for-22nd-tamil-nadu-im-tournament-starts-on-29th-july-2024/",
          "pubDate" : "Mon, 29 Jul 2024 10:01:27",
          "title" : "Live link for 22nd Tamil Nadu IM Tournament starts on 29th July 2024"
-      },
-      {
-         "description" : "For a sunny chess summer, there are three great offers available only this week (29 July to 4 August): the ChessBase Magazine subscription for €99.90 (instead of €109.80) and the bundles Ganguly: Endgame Essentials 1 & 2 for €49.90 (instead of €69.90) and Nick Pert: Typical Mistakes for €59.90 (instead of €79.90). All at a particularly favourable price. Don't miss this chance!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/summer-special-cb-magazine",
-         "pubDate" : "Mon, 29 Jul 2024 09:00:00",
-         "title" : "Summer Special: ChessBase Magazine, Endgame Essentials 1-2 and Typical Mistakes 1-3"
       },
       {
          "description" : "Chess.com is happy to announce that the next edition of State of Chess.com will be held on August 1 at 1 p.m. ET / 19:00 CEST / 9:30 p.m. IST. We invite you to tune in to our Twitch and YouTube channels to hear what we&#39;ve been up to and where we&#39;r...",
@@ -194,60 +210,12 @@ news_feed (
          "title" : "WARNING: A Pawn Grubber Approach #uschesschamps #usjuniors #chess #chesstactics #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Squeezing water from a stone, the commentators analyze the opposite color bishop endgame between Alice Lee and Megan Paragua </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/lee-vs-paraguas-endgame-uschesschamps-usjuniors-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/PRERkuihAes.jpg?itok=nh3vVHEg\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/lee-vs-paraguas-endgame-uschesschamps-usjuniors-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
-         "title" : "Lee vs Paragua's Endgame #uschesschamps #usjuniors #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Christiansen takes advantage of his senior companions on the World Senior Chess Team (Kaidinav, Khachiyan, and Shabalov) weariness as he defeats them in the final rounds of the Championship </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/larry-christiansen-uses-his-advantage-r8-usseniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/7IMdvEuNn8w.jpg?itok=hP4rmTef\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/larry-christiansen-uses-his-advantage-r8-usseniors",
-         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
-         "title" : "Larry Christiansen Uses His Advantage | R8 #usseniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Vladimir Akopian, in cruise control, claims his first U.S. Senior Championship with a round to spare. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/vladimir-akopian-wins-r8-usseniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-4Q6t27ORDw.jpg?itok=7EKYRXs1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/vladimir-akopian-wins-r8-usseniors",
-         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
-         "title" : "Vladimir Akopian Wins! | R8 #usseniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jesse goes on winning streak and begins his Wildcard campaign for the Championships </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/jesse-kraais-campaign-r8-usseniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OuWrZqkLfDE.jpg?itok=vDmiR_yN\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jesse-kraais-campaign-r8-usseniors",
-         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
-         "title" : "Jesse Kraai's Campaign | R8 #usseniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Shaky beginning, but Alice finds a pivotal turning point in her endgame strategy against Zoey Tang </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alice-lees-shaky-start-r8-usjuniors\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/EX0pH7qlnnc.jpg?itok=kzyUgL_x\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lees-shaky-start-r8-usjuniors",
-         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
-         "title" : "Alice Lee's Shaky Start | R8 #usjuniors"
-      },
-      {
          "description" : "The first of nine days is in the books for the 124th Annual U.S. Open in Norfolk, Virginia. This is the last year which will feature the \"traditional\" nine-day schedule, and 134 participants are celebrating (or mourning) the end of this tradition by competing at the one-game-a-day pace. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/124th-annual-us-open-and-tournaments-state-champions-begin-norfolk",
          "pubDate" : "Sun, 28 Jul 2024 00:00:00",
          "title" : "124th Annual U.S. Open and Tournaments of State Champions Begin in Norfolk"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Sometimes the most difficult task in a playing chess is knowing how to claim a draw </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/we-need-arbiter-uschesschamps-usseniors-chess-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VbSw7o8rW1M.jpg?itok=loDvJoSs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/we-need-arbiter-uschesschamps-usseniors-chess-chesscom",
-         "pubDate" : "Sat, 27 Jul 2024 23:50:19",
-         "title" : "We Need An Arbiter #uschesschamps #usseniors #chess #chesscom"
       },
       {
          "description" : "Bullet Brawl&#39;s third most prolific winner, GM Oleksandr Bortnyk, added a seventh title to his resume and won $400 after outlasting Chess.com hyperbullet champion GM Andrew Tang and 21-time Bullet Brawl winner GM Daniel Naroditsky on Saturday. 14-y...",
@@ -472,14 +440,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-senior-team-championships",
          "pubDate" : "Wed, 24 Jul 2024 00:00:00",
          "title" : "Wednesday Workout: FIDE World Senior Team Championships"
-      },
-      {
-         "description" : "From a \"numbers\" perspective, round seven's impact on the standings of the 2024 U.S. Junior, Girls' Junior, and Senior championships was gentle, at best. <br /><br /> In the Senior, GM Vladmir Akopian kept his 1&frac12;-point gap ahead of the pack, IM Alice Lee and FM Rose Atwell increased their co-lead in the Girls, and GM Christopher Yoo maintained his (albeit dwindling) lead in the Junior. <br /><br /> Despite the consistency at the time, the games were far from dull, and we were treated once again with a bloodbath of a round, featuring eight decisive games out of 15. Some highlights include: White winning a game in the Senior with a king on e4 in the middlegame, a miracle perpetual queen",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/race-tightens-two-rounds-go-us-junior-girls-junior-and-senior-championships",
-         "pubDate" : "Wed, 24 Jul 2024 00:00:00",
-         "title" : "Race Tightens with Two Rounds To Go at the U.S. Junior, Girls' Junior, and Senior Championships"
       },
       {
          "description" : "",
