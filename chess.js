@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the second half of July, the Turkish S&uuml;per Ligi team championship was decided in a major tournament. The team from Bayegan Pendik Satranc Spor K&uuml;l&uuml;b&uuml;In won after a close race, with the best player in the team being 13-year-old Turkish talent Yagiz Kaan Erdogmus, who had a 2730 performance. But the best player of the event was Hans Niemann with an Elo performance of 2744. | Photos: Turkish Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/erdogmus-and-niemann-shine-in-turkish-super-league",
+         "pubDate" : "Tue, 30 Jul 2024 14:46:31",
+         "title" : "Erdogmus and Niemann shine in Turkish Super League"
+      },
+      {
          "description" : "Doesn't every chess game get decided by mistakes? Absolutely. But most players never truly comprehend that they are making the same kind of mistakes over and over again. The first task is to identify these mistakes and label them. Then the next time you sit at the chessboard, you are aware and able to avoid them.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,30 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/dmr-election-results-bronze-members-reps/",
          "pubDate" : "Tue, 30 Jul 2024 07:15:14",
          "title" : "DMR election results - Bronze members' reps!"
+      },
+      {
+         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
+         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
+         "title" : "The 7 Best Games In 2024 So Far"
+      },
+      {
+         "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wallows-bot",
+         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
+         "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
+      },
+      {
+         "description" : "This week's puzzles come from the Pan-American Youth Championship XXXIV, held earlier this month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship",
+         "pubDate" : "Tue, 30 Jul 2024 00:00:00",
+         "title" : "Tactics Tuesday: Pan-American Youth Championship"
       },
       {
          "description" : "International Master and patron Dietmar Kolbus passed away while taking part in the Master Open tournament at the Biel Chess Festival. He had sponsored the SG Trier Bundesliga team for years and then moved with his team to the 4NCL. Kolbus was a great chess enthusiast and regularly played in open tournaments. | Photo: Gerd Densing",
@@ -482,14 +514,6 @@ news_feed (
          "title" : "Grischuk Beats Vidit Twice To Win Division II, Arjun Tops Division III With Game To Spare"
       },
       {
-         "description" : "Round six of the U.S. Junior, U.S. Girls' Junior, and U.S. Senior championships is in the books in St. Louis. With just three rounds to go, the final results are becoming increasingly difficult to predict. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> With his sixth-round win, Joel Benjamin is now tied for second in the Senior. A win against tournament leader Akopian could shake things up. (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> In the Senior, GM Joel Benjamin is storming back into relevance with a date against tournament leader GM Vladimir Akopian on the horizon. ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/top-seeds-take-leads-home-stretch-us-junior-girls-junior-and-senior-championships",
-         "pubDate" : "Tue, 23 Jul 2024 00:00:00",
-         "title" : "Top Seeds Take Leads Into Home Stretch of U.S. Junior, Girls' Junior, and Senior Championships"
-      },
-      {
          "description" : "The ECF has been asked to run this year's Glorney Cup from 23rd to 25th July (i.e. immediately before the British Championships) at the Canham...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -658,28 +682,12 @@ news_feed (
          "title" : "Keymer Beats Praggnanandhaa As Le, Salem Snatch Lead"
       },
       {
-         "description" : "Two-time U.S. Women&#39;s Chess Champion WGM Jennifer Shahade has filed a major lawsuit against US Chess, its president Randy Bauer, and chess writer Peter Tamburro, alleging defamation, retaliation, and discrimination after her public allegations of ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jennifer-shahade-files-lawsuit-against-us-chess-misconduct",
-         "pubDate" : "Fri, 19 Jul 2024 13:54:45",
-         "title" : "Jennifer Shahade Files Lawsuit Against US Chess For Misconduct And Retaliation"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111865016.cms\" />It's a case of all's well that ends well for Deep Sengupta. The Kolkata Grandmaster who was once uncertain of whether he could make it to Warsaw in time to take part in the Najdorf Memorial chess tournament, ultimately ended up winning the title on Wednesday. Sengupta's connecting flight from Abu Dhabi to Paris got delayed by almost 11 hours thereby making it impossible for him to catch his next connecting flight from Paris to Warsaw.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-gm-deep-sengupta-overcomes-travel-woes-to-bag-title/articleshow/111865016.cms",
          "pubDate" : "Fri, 19 Jul 2024 12:40:38",
          "title" : "Kolkata GM Deep Sengupta overcomes travel woes to bag title"
-      },
-      {
-         "description" : "GM Alireza Firouzja may have suffered a &#34;once-in-a-lifetime&#34; nine-move loss against GM Fabiano Caruana, but he still won his Division I Winners Quarterfinal match in the CrunchLabs Masters 2024. He&#39;ll play GM Jan-Krzysztof Duda in the Winners Semi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-3",
-         "pubDate" : "Fri, 19 Jul 2024 11:14:00",
-         "title" : "Firouzja Recovers After 9-Move Loss, Joins Carlsen, Vachier-Lagrave, Duda In Winners"
       },
       {
          "description" : " Fabiano Caruana, the world No 3 and US champion, won the Zagreb Rapid/Blitz with a record-equalling total of 27/36, and was sure of first prize with five rounds to spare Fabiano Caruana, the world No 3 and US champion, displayed his new mastery of speed chess last week when he won the SuperUnited Zagreb Rapid and Blitz, part of the St Louis-organised Grand Chess Tour, with a 27/36 points total, equalling Magnus Carlsen's record for the event. Caruana was sure of ­victory with five rounds to spare. There were nine rounds each of rapid (G25+10) and blitz (G5+2) with the former counting double points. The total prize fund was $175,000. In nine years of the Tour there have been 10 rapid/blitz t",
@@ -960,14 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3109",
          "pubDate" : "Tue, 09 Jul 2024 17:16:41",
          "title" : "Final Call for the World Guinness Records Attempt!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3108",
-         "pubDate" : "Tue, 09 Jul 2024 11:54:17",
-         "title" : "Winners crowned at ICCD World Deaf Chess Championship 2024"
       }
    ]
 }
