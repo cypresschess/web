@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After three rounds, four players still have perfect scores at the British Championship in Hull. The leading group includes two of the big favourites to take the title, David Howell (pictured) and Gawain Jones, who are joined by 15-year-old Shreyas Royal and Matthew Wadsworth - the latter obtained an upset victory over Luke McShane on Monday. A 9-player chasing group stands a half point back. | Photo: Dennis Dicen / English Chess Fedearation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-3",
+         "pubDate" : "Tue, 30 Jul 2024 08:30:00",
+         "title" : "British Championship: Four co-leaders"
+      },
+      {
+         "description" : "The successful candidates for Bronze Direct Members' Representatives 2024 were JC Le Saux and Tina Teotia.",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/dmr-election-results-bronze-members-reps/",
+         "pubDate" : "Tue, 30 Jul 2024 07:15:14",
+         "title" : "DMR election results - Bronze members' reps!"
+      },
+      {
          "description" : "International Master and patron Dietmar Kolbus passed away while taking part in the Master Open tournament at the Biel Chess Festival. He had sponsored the SG Trier Bundesliga team for years and then moved with his team to the 4NCL. Kolbus was a great chess enthusiast and regularly played in open tournaments. | Photo: Gerd Densing",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,28 +90,12 @@ news_feed (
          "title" : "World Rapid and Blitz Team Championships start in Astana this week"
       },
       {
-         "description" : "The World Rapid and Blitz Team Championships will be officially opened on 1 August in Astana, Kazakhstan. The five-day event will feature both the world champion, Ding Liren, and the world's top-rated player, Magnus Carlsen, alongside a star-stunned lineup of super-grandmasters playing alongside amateur players. Rounds 1-4 of the rapid are set to take place on Friday.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-preview",
-         "pubDate" : "Mon, 29 Jul 2024 03:00:00",
-         "title" : "Starting Friday: World Rapid and Blitz Team Championships"
-      },
-      {
          "description" : "After the second day of games in Norfolk, Virginia, the traditional schedule of the U.S. Open is just getting started. 25 players still boast perfect scores after two rounds, despite a couple of upsets (more on that later). <br /><br /> The five tournaments of state champions, however, are a different story. After the first double-round day, there are between one and four players with perfect 3/3 scores in each section. By the end of today, we'll know who has the inside track on the title of \"champion of champions\" before Tuesday's final round. <br /><br /> Below are annotations from round two (update: and round three!) of the invitationals courtesy of IM Robert Shlyakhtenko and two from the",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/leaderboard-takes-shape-halfway-through-tournaments-champions-us-open",
          "pubDate" : "Mon, 29 Jul 2024 00:00:00",
          "title" : "Leaderboard Takes Shape Halfway Through Tournaments of Champions at U.S. Open"
-      },
-      {
-         "description" : "Pieces have various roles in different stages of the game. Have you heard of 'marathon bishops'? GM Sundararajan Kidambi explores the concept, which he found while going through GM Axel Smith's book on colour complexes. Check out the detailed analysis, which employed a game by living legend Boris Gelfand to enrich your understanding of this new terminology - the concept is not new, though! | Photo: Shahid Ahmed",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/gelfand-marathon-bishops-kidambi",
-         "pubDate" : "Sun, 28 Jul 2024 14:30:00",
-         "title" : "Gelfand's marathon bishops"
       },
       {
          "description" : "",
@@ -320,14 +320,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/12-million-for-freestyle-chess/",
          "pubDate" : "Thu, 25 Jul 2024 15:25:52",
          "title" : "$12 million for Freestyle Chess"
-      },
-      {
-         "description" : "Last week we showed you some chess puzzles of a different kind - some were quite easy, some pretty hard. They were at least most entertaining, bringing smiles to our faces. Today we show you the solutions, and video of a strong chess player solving the problems in real time.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-can-be-fun",
-         "pubDate" : "Thu, 25 Jul 2024 14:00:00",
-         "title" : "Chess can be fun!"
       },
       {
          "description" : "GM Praggnanandhaa Rameshbabu bounced back from his loss the day before to score a convincing win over GM Abhimanyu Mishra and end the 2024 Biel Chess Festival in third place. GM Liem Le had wrapped up victory a day earlier, while Haik Martirosyan ...",
