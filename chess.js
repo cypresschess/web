@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two players still have a perfect score after four rounds at the British Championship in Hull: 2017 British champion Gawain Jones and 15-year-old Shreyas Royal. While Jones defeated Matthew Wadsworth with white, Royal stunned top seed David Howell with the black pieces. Stuart Conquest, Ameet Ghasi and Svyatoslav Bazakutsa stand a half point behind the leaders. | Photo: Dennis Dicen / English Chess Fedearation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-4",
+         "pubDate" : "Wed, 31 Jul 2024 03:00:00",
+         "title" : "British Championship: Royal and Jones share the lead"
+      },
+      {
          "description" : "It's fascinating to see how Slovakian coach Jan Markos explains the strengths and weaknesses of kings at the end of his video course series, and the fascinating examples he has found to illustrate them. | Picture: Image by Tung Thanh from Pixabay",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
