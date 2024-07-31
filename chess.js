@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Vasil Ivanchuk's first visit to Portugal was a complete sporting success. The former world number two now spends a lot of time in Spain. Stefan L&ouml;ffler spoke to him. | Photos: Federico Marin Bellon (unless otherwise indicated)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/always-at-the-board-vasyl-ivanchuk",
+         "pubDate" : "Wed, 31 Jul 2024 18:00:00",
+         "title" : "Always at the board: Vasyl Ivanchuk"
+      },
+      {
+         "description" : "The British National Championships are currently taking place in Hull as a major chess festival with many events for a large variety of players. A number of grandmasters are competing for the title in the Masters Tournament, including defending champion Michael Adams. Live daily from 14.30 local time (last round 11.00 local time)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-british-championships-live",
+         "pubDate" : "Wed, 31 Jul 2024 15:00:00",
+         "title" : "The British Championships - live"
+      },
+      {
          "description" : "Kalutara, Sri Lanka from 27th August to 6th September, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lasker-capablanca-solved",
          "pubDate" : "Wed, 31 Jul 2024 10:00:00",
          "title" : "Lasker-Capablanca solved!"
+      },
+      {
+         "description" : "The world&#39;s official top two blitz players, GMs Magnus Carlsen&#38;nbsp;and Alireza Firouzja, won the two Titled Tuesday tournaments on July 30. Firouzja won the early tournament, his third victory of the year, and Carlsen took his fifth win late. W...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/firouzja-carlsen-win-titled-tuesday-july-30-2024",
+         "pubDate" : "Wed, 31 Jul 2024 07:52:04",
+         "title" : "Carlsen and Firouzja Win Titled Tuesday, Surprising... No One"
       },
       {
          "description" : "",
@@ -34,7 +58,15 @@ news_feed (
          "title" : "British Championship: Royal and Jones share the lead"
       },
       {
-         "description" : "This week's puzzles come from the Pan-American Youth Championship XXXIV, held earlier this month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
+         "description" : "Yesterday's report focused exclusively on the end of the invitational tournaments of state champions. Today, we'll catch up on rounds three and four of the traditional schedule of the U.S. Open, as well as the first round of the six-day schedule.<br /><br /> Play continues today with the fifth round of the traditional schedule tonight, and rounds two and three of the six-day. Tomorrow, the four-day schedule will begin, with all players merging by Friday night for the last three rounds.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/168-more-players-join-us-open-field-six-day-schedule-begins",
+         "pubDate" : "Wed, 31 Jul 2024 00:00:00",
+         "title" : "168 More Players Join U.S. Open Field as Six-Day Schedule Begins"
+      },
+      {
+         "description" : "This week's puzzles come from the Pan-American Youth Championship XXXIV, held earlier this month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship",
@@ -450,14 +482,6 @@ news_feed (
          "title" : "Now-Familiar Names Top Titled Tuesday"
       },
       {
-         "description" : "Three players earned norms across the six sections of the July NYC Chess Norms Invitational, with many more reaching or approaching their ratings thresholds. Not every event produces any norms (although previous coverage can be found here and here), so this was a very successful event for the norm-seekers!<br /><br /> This was the largest invitational in NYC Chess Norms' history, with 55 unique players competing across six sections (five run concurrently). It was also our first six-day event, which is now a FIDE requirement for norm events. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> IM Sa",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/norms-earned-rating-thresholds-reached-and-gotham-dominance-highlight-july-nyc-norms",
-         "pubDate" : "Wed, 24 Jul 2024 00:00:00",
-         "title" : "Norms Earned, Rating Thresholds Reached, and Gotham Dominance Highlight July NYC Norms Invitational"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -664,14 +688,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/crunchlabs-masters-2024",
          "pubDate" : "Fri, 19 Jul 2024 21:44:00",
          "title" : "CrunchLabs Masters 2024 - Games and Results"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu is out of the world top-10 after losing to GM Vincent Keymer, who said he&#39;d played 1.e4 for the first time &#34;in like nine years&#34; in round four of the 2024 Biel Chess Festival Masters classical section. GM Liem Le took o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-4",
-         "pubDate" : "Fri, 19 Jul 2024 17:21:00",
-         "title" : "Keymer Beats Praggnanandhaa As Le, Salem Snatch Lead"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111865016.cms\" />It's a case of all's well that ends well for Deep Sengupta. The Kolkata Grandmaster who was once uncertain of whether he could make it to Warsaw in time to take part in the Najdorf Memorial chess tournament, ultimately ended up winning the title on Wednesday. Sengupta's connecting flight from Abu Dhabi to Paris got delayed by almost 11 hours thereby making it impossible for him to catch his next connecting flight from Paris to Warsaw.",
