@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3132",
+         "pubDate" : "Wed, 31 Jul 2024 06:30:56",
+         "title" : "Ding and Carlsen meet in Kazakhstan for the World Rapid and Blitz Team Championship: Everything you need to know"
+      },
+      {
          "description" : "Two players still have a perfect score after four rounds at the British Championship in Hull: 2017 British champion Gawain Jones and 15-year-old Shreyas Royal. While Jones defeated Matthew Wadsworth with white, Royal stunned top seed David Howell with the black pieces. Stuart Conquest, Ameet Ghasi and Svyatoslav Bazakutsa stand a half point behind the leaders. | Photo: Dennis Dicen / English Chess Fedearation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -920,14 +928,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/40537821/superunited-rapid-blitz-2024-d-gukesh-vidit-gujrathi-struggle-poor-start-croatia-day-1?device=featurephone",
          "pubDate" : "Thu, 11 Jul 2024 00:01:41",
          "title" : "SuperUnited Rapid & Blitz: Gukesh and Vidit struggle with poor start in Croatia on Day 1"
-      },
-      {
-         "description" : "No Name 1 Rapolu Dhanush Kumar 2 Shuktara Samkalpa 3 Chandra Raj 4 Abhishek Borthakur 5 Rituraj Borgohain 6 Anurag Pritam Medhi 7 Gnanyta Netha",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-guwahati-from-21st-to-22nd-june-2024/",
-         "pubDate" : "Wed, 10 Jul 2024 05:31:06",
-         "title" : "Certificates for SNA Seminar held at Guwahati from 21st to 22nd June 2024"
       }
    ]
 }
