@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Kalutara, Sri Lanka from 27th August to 6th September, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/commonwealth-chess-championship-2024-25/",
+         "pubDate" : "Wed, 31 Jul 2024 10:31:42",
+         "title" : "Commonwealth Chess Championship - 2024 - 25"
+      },
+      {
+         "description" : "The tenth game of the 1921 match saw challenger Jos&eacute; Ra&uacute;l Capablanca gain an advantage with the black pieces, but with limited material on the board, World Champion Lasker had chances of survival. We gave our readers several interesting riddles we want to solve. Here is the definitive solution to the historic game.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/lasker-capablanca-solved",
+         "pubDate" : "Wed, 31 Jul 2024 10:00:00",
+         "title" : "Lasker-Capablanca solved!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -18,12 +34,12 @@ news_feed (
          "title" : "British Championship: Royal and Jones share the lead"
       },
       {
-         "description" : "It's fascinating to see how Slovakian coach Jan Markos explains the strengths and weaknesses of kings at the end of his video course series, and the fascinating examples he has found to illustrate them. | Picture: Image by Tung Thanh from Pixabay",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/your-majesty-jan-markos-knows-everything-about-the-king",
-         "pubDate" : "Tue, 30 Jul 2024 21:00:00",
-         "title" : "Your Majesty - Jan Markos knows everything about the king"
+         "description" : "This week's puzzles come from the Pan-American Youth Championship XXXIV, held earlier this month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship",
+         "pubDate" : "Wed, 31 Jul 2024 00:00:00",
+         "title" : "Wednesday Workout: Pan-American Youth Championship"
       },
       {
          "description" : "<div class=\"body text-secondary\"> GM Boros gives a brief insight when opposite side castling. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-bit-principle-opposite-side-castling-chess-chesstactics-chessprinciples-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BBEwuGvhbC0.jpg?itok=fskDivcZ\" alt=\"\" /></a></div>",
@@ -88,14 +104,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/im-alice-lee-gm-christopher-yoo-and-gm-vladimir-akopian-crowned-winners-us-girls-junior-and",
          "pubDate" : "Tue, 30 Jul 2024 16:19:27",
          "title" : "IM Alice Lee, GM Christopher Yoo and GM Vladimir Akopian Crowned Winners in U.S. Girls, Junior and Senior Championships in Saint Louis"
-      },
-      {
-         "description" : "In the second half of July, the Turkish S&uuml;per Ligi team championship was decided in a major tournament. The team from Bayegan Pendik Satranc Spor K&uuml;l&uuml;b&uuml;In won after a close race, with the best player in the team being 13-year-old Turkish talent Yagiz Kaan Erdogmus, who had a 2730 performance. But the best player of the event was Hans Niemann with an Elo performance of 2744. | Photos: Turkish Chess Federation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/erdogmus-and-niemann-shine-in-turkish-super-league",
-         "pubDate" : "Tue, 30 Jul 2024 14:46:31",
-         "title" : "Erdogmus and Niemann shine in Turkish Super League"
       },
       {
          "description" : "The successful candidates for Bronze Direct Members' Representatives 2024 were JC Le Saux and Tina Teotia.",
@@ -448,14 +456,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/norms-earned-rating-thresholds-reached-and-gotham-dominance-highlight-july-nyc-norms",
          "pubDate" : "Wed, 24 Jul 2024 00:00:00",
          "title" : "Norms Earned, Rating Thresholds Reached, and Gotham Dominance Highlight July NYC Norms Invitational"
-      },
-      {
-         "description" : "Team USA earned three medals at the 2024 FIDE World Senior Team Championship earlier this month in Krakow, Poland. Below are some instructive tactical highlights from the nine-round event, including games from the two \"unofficial\" American teams competing in the 50+ section. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our interactive worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-fide-world-senior-team-championships",
-         "pubDate" : "Wed, 24 Jul 2024 00:00:00",
-         "title" : "Wednesday Workout: FIDE World Senior Team Championships"
       },
       {
          "description" : "",
