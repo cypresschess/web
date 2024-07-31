@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Guiness World Records accepted a claim by FIDE of most games played in day, even though that number falls way short. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.1920.jpeg\" title=\"Bildschirmfoto 2024-07-31 um 21 54 26 photo: fide.com\" data-title=\"Bildschirmfoto 2024-07-31 um 21 54 26 (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1\" alt=\"Bildschirmfoto 2024-07-31 um 21 54 26\" srcset=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1 ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/7284970-is-not-the-maximum-number/",
+         "pubDate" : "Wed, 31 Jul 2024 21:26:26",
+         "title" : "7,284,970 is not the maximum number of games in a day"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The so-called <strong>Friendship Games</strong> in Moscow and Yekaterinburg, which would have featured a team chess event with a high prizefund right after the <strong>Chess Olympiad</strong> and were thus seen by many as an Anti-Olympiad or Counter-Olympiad, <a href=\"https://en.wfg2024.com/news/detail/international-friendship-association-proposed-to-postpone-the-world-friendship-games-to-2025/\">will be indefinitely postponed</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/russian-anti-olympiad-canceled/",
+         "pubDate" : "Wed, 31 Jul 2024 21:12:45",
+         "title" : "Russian Anti-Olympiad canceled"
+      },
+      {
          "description" : "Vasil Ivanchuk's first visit to Portugal was a complete sporting success. The former world number two now spends a lot of time in Spain. Stefan L&ouml;ffler spoke to him. | Photos: Federico Marin Bellon (unless otherwise indicated)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/always-at-the-board-vasyl-ivanchuk",
          "pubDate" : "Wed, 31 Jul 2024 18:00:00",
          "title" : "Always at the board: Vasyl Ivanchuk"
+      },
+      {
+         "description" : "GMs Hans Niemann and Fabiano Caruana move on to the Quarterfinals of the Speed Chess Championship 2024 after defeating, respectively, GMs Maxime Vachier-Lagrave and Alexey Sarana in the last two Round of 16 matches of the season. Bullet chess se...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-mvl-niemann-caruana-sarana",
+         "pubDate" : "Wed, 31 Jul 2024 15:42:00",
+         "title" : "Niemann, Caruana Advance To Quarterfinals After Superior Bullet Performances"
       },
       {
          "description" : "The British National Championships are currently taking place in Hull as a major chess festival with many events for a large variety of players. A number of grandmasters are competing for the title in the Masters Tournament, including defending champion Michael Adams. Live daily from 14.30 local time (last round 11.00 local time)",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3132",
          "pubDate" : "Wed, 31 Jul 2024 06:30:56",
          "title" : "Ding and Carlsen meet in Kazakhstan for the World Rapid and Blitz Team Championship: Everything you need to know"
-      },
-      {
-         "description" : "Two players still have a perfect score after four rounds at the British Championship in Hull: 2017 British champion Gawain Jones and 15-year-old Shreyas Royal. While Jones defeated Matthew Wadsworth with white, Royal stunned top seed David Howell with the black pieces. Stuart Conquest, Ameet Ghasi and Svyatoslav Bazakutsa stand a half point behind the leaders. | Photo: Dennis Dicen / English Chess Fedearation",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-4",
-         "pubDate" : "Wed, 31 Jul 2024 03:00:00",
-         "title" : "British Championship: Royal and Jones share the lead"
       },
       {
          "description" : "Yesterday's report focused exclusively on the end of the invitational tournaments of state champions. Today, we'll catch up on rounds three and four of the traditional schedule of the U.S. Open, as well as the first round of the six-day schedule.<br /><br /> Play continues today with the fifth round of the traditional schedule tonight, and rounds two and three of the six-day. Tomorrow, the four-day schedule will begin, with all players merging by Friday night for the last three rounds.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /",
@@ -546,14 +562,6 @@ news_feed (
          "title" : "Shahade sues USChess"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Guiness World Records</strong> accepted 5,4 million games played on <strong>International Chess Day</strong> <a href=\"https://www.chess.com/blog/raync910/guinness-world-records-international-chess-day-most-games-july-20-fide-100#:~:text=Update%3A%20Guinness%20World%20Records%20for,Saturday%2C%20July%2020%2C%202024.\">as a record</a>, sponsored by <strong>FIDE</strong>, that <a href=\"https://fide.com/fide/about-fide\">says about itself</a> that on an average day more than 60 million games are played. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/54-million-games-recorded/",
-         "pubDate" : "Mon, 22 Jul 2024 13:14:41",
-         "title" : "5,4 million games recorded"
-      },
-      {
          "description" : "Please find the live link for 21st IM norm tournament The link for the&#160;21st tournament&#160;is:&#160;https://live.tamilchess.com/21st-im-norm-chennai/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -648,14 +656,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/",
          "pubDate" : "Sat, 20 Jul 2024 14:08:33",
          "title" : "The story of Shama Yisrael, the first female African-American Chess Master"
-      },
-      {
-         "description" : "The French numbers one and two will face off in the Division I Winners Final of the CrunchLabs Masters 2024. GM Maxime Vachier-Lagrave once again proved to be GM Magnus Carlsen&#39;s kryptonite, while GM Alireza Firouzja overcame GM Jan-Krzysztof Duda...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-4",
-         "pubDate" : "Sat, 20 Jul 2024 12:18:00",
-         "title" : "Vachier-Lagrave Surpasses Carlsen, Sets Up All-French Winners Final With Firouzja"
       },
       {
          "description" : "",
