@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On Friday, the event, which has been expanded into the World Rapid Chess and Blitz Team Championship, will begin in Astana after its premiere in D&uuml;sseldorf last year. Some teams are coming with absolute top line-ups. Defending champion WR Chess has strengthened its team with Magnus Carlsen.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/preview-of-the-rapid-and-blitz-world-team-championships",
+         "pubDate" : "Thu, 01 Aug 2024 11:29:00",
+         "title" : "Preview of the Rapid and Blitz World Team Championships"
+      },
+      {
+         "description" : "From left to right Jonathan Mestel, John Nunn and David Hodge.",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-wins-the-world-team-chess-solving-championships/",
+         "pubDate" : "Thu, 01 Aug 2024 08:23:49",
+         "title" : "UK wins the World Team Chess Solving Championships!"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The 50th <strong>Computer Chess World Championship</strong> held in October in Santiago de Compostela during the <strong>ICGA</strong> conference <a href=\"https://www.ecai2024.eu/programme/world-computer-chess-championships\">will be its last edition</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/last-computer-championship/",
+         "pubDate" : "Thu, 01 Aug 2024 07:43:56",
+         "title" : "Last computer championship"
+      },
+      {
+         "description" : "For the first time, GM Vaishali Rameshbabu has broken the 2500 barrier officially, with an 11th place on the August 2024 FIDE rating list. FIDE World Championship contender GM Gukesh Dommaraju returned to being the sixth highest-rated player in th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/august-2024-fide-ratings-vaishali-breaks-2500",
+         "pubDate" : "Thu, 01 Aug 2024 03:27:00",
+         "title" : "August 2024 FIDE Ratings: Gukesh Back To 6th, Vaishali Breaks 2500"
+      },
+      {
          "description" : "Sixth seed Ameet Ghasi defeated Stuart Conquest to join the lead after five rounds at the British Championship. Ghasi is now tied for first place with Gawain Jones and Shreyas Royal, who signed a 28-move draw on Wednesday. Three players stand at a half-point distance: Michael Adams, David Howell and Matthew Wadsworth. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,7 +66,7 @@ news_feed (
          "title" : "Russian Anti-Olympiad canceled"
       },
       {
-         "description" : "Vasil Ivanchuk's first visit to Portugal was a complete sporting success. The former world number two now spends a lot of time in Spain. Stefan L&ouml;ffler spoke to him. | Photos: Federico Marin Bellon (unless otherwise indicated)",
+         "description" : "Vasyl Ivanchuk's first visit to Portugal was a complete sporting success. The former world number two now spends a lot of time in Spain. Stefan L&ouml;ffler spoke to him. | Photos: Federico Marin Bellon (unless otherwise indicated)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/always-at-the-board-vasyl-ivanchuk",
@@ -170,20 +202,20 @@ news_feed (
          "title" : "DMR election results - Bronze members' reps!"
       },
       {
-         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
-         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
-         "title" : "The 7 Best Games In 2024 So Far"
-      },
-      {
          "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wallows-bot",
          "pubDate" : "Tue, 30 Jul 2024 07:00:00",
          "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
+      },
+      {
+         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
+         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
+         "title" : "The 7 Best Games In 2024 So Far"
       },
       {
          "description" : "After six grueling rounds in four days, the five invitational tournaments have concluded and the new champions of state champions have been crowned.<br /><br /> Below, we'll catch up with annotations from rounds four and five courtesy of IM Robert Shlyakhtenko, as well as highlights from this morning's final round. As a rough guide: if the board begins at the initial position, it's Robert's annotation. If it begins at a key moment later in the game, it's your author's. <br /><br /> More information about prizes and scholarships can be found on this year's program. The final standings for each tournament are available here, and more prize information will be available online shortly. <br /><b",
@@ -554,14 +586,6 @@ news_feed (
          "title" : "Glorney Cup 2024"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> 17 months after not waiting for the result of <strong>US Chess</strong> investigation into alleged serial sexual abuses by Alejandro Ramirez, <strong>Jennifer Shahade</strong> has not waited out a mediation process but gone into offensive by <a href=\"https://www.chess.com/news/view/jennifer-shahade-files-lawsuit-against-us-chess-misconduct\">filing a lawsuit</a> against her former employer and <a href=\"https://new.uschess.org/sites/default/files/media/documents/acm_037-pete-due-process-ii-final.pdf\">chess writer</a> <strong>Pete Tamburro</strong> for alleged retaliating against her. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/shahade-sues-uschess/",
-         "pubDate" : "Mon, 22 Jul 2024 13:21:33",
-         "title" : "Shahade sues USChess"
-      },
-      {
          "description" : "Please find the live link for 21st IM norm tournament The link for the&#160;21st tournament&#160;is:&#160;https://live.tamilchess.com/21st-im-norm-chennai/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -640,14 +664,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/yoseph-taher-wins-bullet-brawl-july-20-2024",
          "pubDate" : "Sat, 20 Jul 2024 16:46:00",
          "title" : "Taher Becomes 9th Player To Win Bullet Brawl"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu finally won a classical game at the 2024 Biel Chess Festival as he defeated GM Sam Shankland to reenter the world top-10. It was almost a perfect day for the family as Vaishali Rameshbabu was on the brink of beating GM...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-classical-5",
-         "pubDate" : "Sat, 20 Jul 2024 16:28:00",
-         "title" : "Praggnanandhaa Bounces Back As Vaishali Misses Win In Last Seconds"
       },
       {
          "description" : " Shama Yisrael in the process of making history at the 2024 Pincrest Independence Open.Photo courtesy of South Miami Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the coveted honor. After playing in several tournaments in a week's time, the 20-year-old earned her last few The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -928,14 +944,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/40544649/gukesh-surges-third-day-2-superunited-rapid-blitz-2024-caruana-takes-sole-lead?device=featurephone",
          "pubDate" : "Thu, 11 Jul 2024 23:52:48",
          "title" : "Gukesh surges to third on day 2 of SuperUnited Rapid & Blitz 2024, Caruana takes sole lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3110",
-         "pubDate" : "Thu, 11 Jul 2024 08:32:30",
-         "title" : "SuperUnited Rapid & Blitz Croatia: Vachier-Lagrave takes sole lead"
       }
    ]
 }
