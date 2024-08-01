@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "FIDE has just published the current World Ranking List. Magnus Carlsen is still the clear number one, followed by the two Americans Hikaru Nakamura and Fabiano Caruana. In the women's list the Chinese dominate: Hou Yifan is first, Women's World Champion Ju Wenjun is second and Lei Tingjie follows on place three. But the world's best juniors come from India: The world's best junior is World Championship challenger Gukesh, and the world's best female junior is 18-year old Divya Deshmuk.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-ratings-july-2",
+         "pubDate" : "Thu, 01 Aug 2024 17:00:00",
+         "title" : "FIDE ratings - July 2024"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Julius Baer</strong>, a Swiss bank specializing in wealth management, <a href=\"https://www.chess.com/news/view/announcing-julius-baer-womens-speed-chess-championship-2024\">continues to partner</a> with <strong>Chess.com</strong> on the <strong>Women Speed Championship</strong>, after sponsoring the <strong>Champions Chess Tour</strong> and <a href=\"https://dieschulschachprofis.ch/julius-baer-premium-sponsor-2024/\">children chess camps earlier</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/julius-baer-continues-sponsorship/",
+         "pubDate" : "Thu, 01 Aug 2024 15:00:23",
+         "title" : "Julius Baer continues sponsorship"
+      },
+      {
+         "description" : "The British National Championships are currently taking place in Hull as a major chess festival with many events for a large variety of players. A number of grandmasters are competing for the title in the Masters Tournament, including defending champion Michael Adams. Live daily from 14.30 local time (last round 11.00 local time)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-british-championships-live",
+         "pubDate" : "Thu, 01 Aug 2024 15:00:00",
+         "title" : "The British Championships - live"
+      },
+      {
          "description" : "On Friday, the event, which has been expanded into the World Rapid Chess and Blitz Team Championship, will begin in Astana after its premiere in D&uuml;sseldorf last year. Some teams are coming with absolute top line-ups. Defending champion WR Chess has strengthened its team with Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +34,7 @@ news_feed (
          "title" : "Preview of the Rapid and Blitz World Team Championships"
       },
       {
-         "description" : "From left to right Jonathan Mestel, John Nunn and David Hodge.",
+         "description" : "From left to right Jonathan Mestel, John Nunn and David Hodge. Christopher Jones writes &#8212; &#8216;In the final results table, you'll see that their...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/uk-wins-the-world-team-chess-solving-championships/",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/last-computer-championship/",
          "pubDate" : "Thu, 01 Aug 2024 07:43:56",
          "title" : "Last computer championship"
+      },
+      {
+         "description" : "Chess.com is excited to announce the 2024 edition of the Julius Baer Women&#39;s Speed Chess Championship, Chess.com&#39;s premier chess event for women. This year&#39;s event will feature an expanded field of 16 of the strongest women chess players in the wo...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-julius-baer-womens-speed-chess-championship-2024",
+         "pubDate" : "Thu, 01 Aug 2024 07:00:00",
+         "title" : "Announcing The 2024 Julius Baer Women's Speed Chess Championship"
       },
       {
          "description" : "For the first time, GM Vaishali Rameshbabu has broken the 2500 barrier officially, with an 11th place on the August 2024 FIDE rating list. FIDE World Championship contender GM Gukesh Dommaraju returned to being the sixth highest-rated player in th...",
@@ -40,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/british-chess-championship-2024-5",
          "pubDate" : "Thu, 01 Aug 2024 01:45:00",
          "title" : "British Championship: Ghasi joins the lead"
+      },
+      {
+         "description" : "No perfect scores remain in the traditional nine-day schedule of the U.S. Open. Five players are tied for first with 4&frac12;/5, including top-rated Julian Proleiko, who played a wild \"three-result\" game against Matthew Diao last night:<br /><br /> <br /><br /><br /><br /> <br /><br /> The current standings for the traditional schedule are available here. Tonight's sixth-round game is the final one before the players merge with the other two schedules for the final three rounds. <br /><br /> In the six-day schedule, every round is played at the same slow time control of the traditional, but players double-up their rounds on Wednesday and Thursday. Yesterday's second- and third-round games s",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-take-over-top-boards-day-five-us-open",
+         "pubDate" : "Thu, 01 Aug 2024 00:00:00",
+         "title" : "Tactics Take Over Top Boards on Day Five of U.S. Open"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alice Lee manipulates her opponent into making a move that opens a vicious double attack and increases Alice&#039;s chance for the win </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alices-double-edged-attack-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BC1_cmR2EoI.jpg?itok=MNgdTeJ0\" alt=\"\" /></a></div>",
@@ -442,14 +482,6 @@ news_feed (
          "title" : "Arjun Prevails At The Final Turn, Nakamura Dominates"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> German entrepreneur <strong>Jan Henric Buettner</strong> and <strong>Magnus Carlsen</strong> have created a company and found investors to start a high end league in the chess variant invented by Bobby Fischer. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/carlsen-buettner.1920.jpeg\" title=\"Business partners Magnus Carlsen and Jan Henric Buettner photo: freestyle-chess.com\" data-title=\"Business partners Magnus Carlsen and Jan Henric Buettner (photo: freestyle-chess.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/carlsen-buettner.480.jpeg?v=1\" alt=\"Business ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/12-million-for-freestyle-chess/",
-         "pubDate" : "Thu, 25 Jul 2024 15:25:52",
-         "title" : "$12 million for Freestyle Chess"
-      },
-      {
          "description" : "GM Praggnanandhaa Rameshbabu bounced back from his loss the day before to score a convincing win over GM Abhimanyu Mishra and end the 2024 Biel Chess Festival in third place. GM Liem Le had wrapped up victory a day earlier, while Haik Martirosyan ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -496,14 +528,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/three-tie-first-seventh-annual-queen-prairie-open-fides-record-breaking-weekend",
          "pubDate" : "Thu, 25 Jul 2024 00:00:00",
          "title" : "Three Tie For First at Seventh Annual Queen of the Prairie Open on FIDE's Record-Breaking Weekend"
-      },
-      {
-         "description" : "For many players in St. Louis, the eighth round was their last chance to make a move in the fight for first place in the 2024 U.S. Junior, Girls' Junior, and Senior championships. <br /><br /> As a result, the games were among the most tumultuous of any in the event. Still, when the dust settled, almost all of the leaders in each section held firm, maintaining or improving their standing in the lead-up to the final round.<br /><br /> <br /><br /> Senior<br /><br /> The most significant result today was GM Vladimir Akopian's victory with the Black pieces against IM Douglas Root. Having built up a commanding lead in the early rounds of the tournament, Akopian lead by 1&frac12; points prior to ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/akopian-wins-2024-us-senior-championship-round-spare-yoo-and-lee-lead-junior-and-girls-junior",
-         "pubDate" : "Thu, 25 Jul 2024 00:00:00",
-         "title" : "Akopian Wins 2024 U.S. Senior Championship With a Round to Spare, Yoo and Lee lead Junior and Girls' Junior"
       },
       {
          "description" : "GM Liem Le has won the 2024 Biel Chess Festival with a round to spare after defeating GM Praggnanandhaa Rameshbabu with the black pieces. The U.S.-based Vietnamese number-one has now won the title for three consecutive years. It was a bad day fo...",
@@ -656,14 +680,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3123",
          "pubDate" : "Sat, 20 Jul 2024 20:06:28",
          "title" : "From Paris and the world with chess: FIDE celebrates 100 years since its founding"
-      },
-      {
-         "description" : "Twitch streamer and IM Yoseph Theolifus Taher became the ninth player to win Bullet Brawl, scoring 72.5/86 and securing the $400 first prize ahead of GM Daniel Naroditsky on International Chess Day. Peru&#39;s IM Renato Terry picked up the $150 third ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/yoseph-taher-wins-bullet-brawl-july-20-2024",
-         "pubDate" : "Sat, 20 Jul 2024 16:46:00",
-         "title" : "Taher Becomes 9th Player To Win Bullet Brawl"
       },
       {
          "description" : " Shama Yisrael in the process of making history at the 2024 Pincrest Independence Open.Photo courtesy of South Miami Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the coveted honor. After playing in several tournaments in a week's time, the 20-year-old earned her last few The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
