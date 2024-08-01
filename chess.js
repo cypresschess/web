@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Sixth seed Ameet Ghasi defeated Stuart Conquest to join the lead after five rounds at the British Championship. Ghasi is now tied for first place with Gawain Jones and Shreyas Royal, who signed a 28-move draw on Wednesday. Three players stand at a half-point distance: Michael Adams, David Howell and Matthew Wadsworth. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-5",
+         "pubDate" : "Thu, 01 Aug 2024 01:45:00",
+         "title" : "British Championship: Ghasi joins the lead"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alice Lee manipulates her opponent into making a move that opens a vicious double attack and increases Alice&#039;s chance for the win </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alices-double-edged-attack-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BC1_cmR2EoI.jpg?itok=MNgdTeJ0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alices-double-edged-attack-uschesschamps-usjuniors-chess-chesstactics-chesscom",
+         "pubDate" : "Wed, 31 Jul 2024 23:53:13",
+         "title" : "Alice's Double-Edged Attack #uschesschamps #usjuniors #chess #chesstactics #chesscom"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Guiness World Records accepted a claim by FIDE of most games played in day, even though that number falls way short. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.1920.jpeg\" title=\"Bildschirmfoto 2024-07-31 um 21 54 26 photo: fide.com\" data-title=\"Bildschirmfoto 2024-07-31 um 21 54 26 (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1\" alt=\"Bildschirmfoto 2024-07-31 um 21 54 26\" srcset=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1 ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-mvl-niemann-caruana-sarana",
          "pubDate" : "Wed, 31 Jul 2024 15:42:00",
          "title" : "Niemann, Caruana Advance To Quarterfinals After Superior Bullet Performances"
-      },
-      {
-         "description" : "The British National Championships are currently taking place in Hull as a major chess festival with many events for a large variety of players. A number of grandmasters are competing for the title in the Masters Tournament, including defending champion Michael Adams. Live daily from 14.30 local time (last round 11.00 local time)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-british-championships-live",
-         "pubDate" : "Wed, 31 Jul 2024 15:00:00",
-         "title" : "The British Championships - live"
       },
       {
          "description" : "Kalutara, Sri Lanka from 27th August to 6th September, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said",
@@ -149,7 +157,7 @@ news_feed (
          "description" : "<div class=\"body text-secondary\"><p style=\"font-size: 18px;\"><strong>SAINT LOUIS, Mo., July 29, 2024</strong> - Out of a field of the nation's top chess players, International Master (IM) Alice Lee was named champion in the U.S. Girls' Junior Championship, Grandmaster (GM) Christopher Yoo won the U.S. Junior Championship, and GM Vladimir Akopian secured victory in the U.S. Senior Championship with a round to spare. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/file",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/im-alice-lee-gm-christopher-yoo-and-gm-vladimir-akopian-crowned-winners-us-girls-junior-and",
+         "link" : "https://saintlouischessclub.org/blog/news/im-alice-lee-gm-christopher-yoo-and-gm-vladimir-akopian-crowned-winners-us-girls-junior-and",
          "pubDate" : "Tue, 30 Jul 2024 16:19:27",
          "title" : "IM Alice Lee, GM Christopher Yoo and GM Vladimir Akopian Crowned Winners in U.S. Girls, Junior and Senior Championships in Saint Louis"
       },
@@ -272,14 +280,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jesse-kraais-wildcard-campaign-r8-usseniors",
          "pubDate" : "Sun, 28 Jul 2024 05:50:34",
          "title" : "Jesse Kraai's Wildcard Campaign | R8 #usseniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Out of the opening between Christopher Yoo and Balaji Daggupati, a pawn grubber lures IM Paikidze into some pawn grubbing play. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-pawn-grubber-approach-uschesschamps-usjuniors-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ptuG5Q0qR5o.jpg?itok=Gq0hJQLC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/warning-pawn-grubber-approach-uschesschamps-usjuniors-chess-chesstactics-chesscom",
-         "pubDate" : "Sun, 28 Jul 2024 02:50:23",
-         "title" : "WARNING: A Pawn Grubber Approach #uschesschamps #usjuniors #chess #chesstactics #chesscom"
       },
       {
          "description" : "The first of nine days is in the books for the 124th Annual U.S. Open in Norfolk, Virginia. This is the last year which will feature the \"traditional\" nine-day schedule, and 134 participants are celebrating (or mourning) the end of this tradition by competing at the one-game-a-day pace. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
@@ -936,14 +936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3110",
          "pubDate" : "Thu, 11 Jul 2024 08:32:30",
          "title" : "SuperUnited Rapid & Blitz Croatia: Vachier-Lagrave takes sole lead"
-      },
-      {
-         "description" : "Gukesh only managed two draws from his opening three games, while Vidit lost all three as the Indian pair were bottom of the standings after Day 1.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/40537821/superunited-rapid-blitz-2024-d-gukesh-vidit-gujrathi-struggle-poor-start-croatia-day-1?device=featurephone",
-         "pubDate" : "Thu, 11 Jul 2024 00:01:41",
-         "title" : "SuperUnited Rapid & Blitz: Gukesh and Vidit struggle with poor start in Croatia on Day 1"
       }
    ]
 }
