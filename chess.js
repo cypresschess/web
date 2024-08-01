@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Guinness World Records accepted a claim by FIDE of most games played in day, even though that number falls way short. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.1920.jpeg\" title=\"Bildschirmfoto 2024-07-31 um 21 54 26 photo: fide.com\" data-title=\"Bildschirmfoto 2024-07-31 um 21 54 26 (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1\" alt=\"Bildschirmfoto 2024-07-31 um 21 54 26\" srcset=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/7284970-is-not-the-maximum-number/",
+         "pubDate" : "Thu, 01 Aug 2024 19:54:00",
+         "title" : "7,284,970 is not the maximum number of games in a day"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE and its affiliates award (at least) 106 individual and 12 team world championship titles in chess. Is this a record for a sport without weight categories? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.1920.jpeg\" title=\"12 world school chess champions have been crowned in Peru recently. photo: fide.com\" data-title=\"12 world school chess champions have been crowned in Peru recently. (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.480.jpeg?v=1\" alt=\"12 world school chess ch",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -138,6 +146,14 @@ news_feed (
          "title" : "The British Championships - live"
       },
       {
+         "description" : "The State of Chess returned on Thursday with several important updates. Chief Chess Officer&#38;nbsp;Danny Rensch led the discussion that focused on community updates, fair play changes, site updates, and big media developments. You can watch the fu...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-state-of-chess-august-1",
+         "pubDate" : "Thu, 01 Aug 2024 14:26:00",
+         "title" : "State Of Chess Returns: Community Updates, Fair Play Changes, Media Projects, & More"
+      },
+      {
          "description" : "On Friday, the event, which has been expanded into the World Rapid Chess and Blitz Team Championship, will begin in Astana after its premiere in D&uuml;sseldorf last year. Some teams are coming with absolute top line-ups. Defending champion WR Chess has strengthened its team with Magnus Carlsen.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -208,14 +224,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-take-over-top-boards-day-five-us-open",
          "pubDate" : "Thu, 01 Aug 2024 00:00:00",
          "title" : "Tactics Take Over Top Boards on Day Five of U.S. Open"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Guiness World Records accepted a claim by FIDE of most games played in day, even though that number falls way short. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.1920.jpeg\" title=\"Bildschirmfoto 2024-07-31 um 21 54 26 photo: fide.com\" data-title=\"Bildschirmfoto 2024-07-31 um 21 54 26 (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1\" alt=\"Bildschirmfoto 2024-07-31 um 21 54 26\" srcset=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1 ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/7284970-is-not-the-maximum-number/",
-         "pubDate" : "Wed, 31 Jul 2024 21:26:26",
-         "title" : "7,284,970 is not the maximum number of games in a day"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The so-called <strong>Friendship Games</strong> in Moscow and Yekaterinburg, which would have featured a team chess event with a high prizefund right after the <strong>Chess Olympiad</strong> and were thus seen by many as an Anti-Olympiad or Counter-Olympiad, <a href=\"https://en.wfg2024.com/news/detail/international-friendship-association-proposed-to-postpone-the-world-friendship-games-to-2025/\">will be indefinitely postponed</a>. </div> ",
@@ -672,14 +680,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-botez-sisters-chess-camp",
          "pubDate" : "Mon, 22 Jul 2024 08:00:00",
          "title" : "Botez Sisters To Host FIDE-Rated Chess Camp Event For Female Creators"
-      },
-      {
-         "description" : "GM Praggnanandhaa Rameshbabu started the Masters Blitz at the 2024 Biel Chess Festival in an elimination spot, but he went on to win the tournament and climb to third place in the overall standings. Instead, it&#39;s GM Vincent Keymer who joins GM Sam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-blitz",
-         "pubDate" : "Mon, 22 Jul 2024 06:43:05",
-         "title" : "Praggnanandhaa Survives As Salem Crushes Challengers In Blitz"
       },
       {
          "description" : "",
