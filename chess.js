@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Not long ago, ChatGPT received another update. Time for Arne Kaehler to check the AI's opinions about chess related questions. Who is the greatest player of all time? Who will win the world championship? Which nation will dominate chess in 2030? And finally, Arne challenges ChatGPT for a chess game over the board. But maybe he should wait for the next major update.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/interview-with-chatgpt-you-think-ding-liren-will-remain-champion",
+         "pubDate" : "Fri, 02 Aug 2024 08:29:46",
+         "title" : "Interview with ChatGPT - You think Ding Liren will remain champion!?"
+      },
+      {
+         "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most ­promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the ­youngest current grandmaster and the fourth youngest GM in ­history, He reached the verge of another ­significant ­mileston",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/aug/02/chess-yagiz-erdogmus-13-on-the-verge-of-2600-and-closing-on-world-age-record",
+         "pubDate" : "Fri, 02 Aug 2024 07:00:26",
+         "title" : "Chess: Yagiz Erdogmus, 13, on the verge of 2600 and closing on world age record"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Guinness World Records accepted a claim by FIDE of most games played in day, even though that number falls way short. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.1920.jpeg\" title=\"Bildschirmfoto 2024-07-31 um 21 54 26 photo: fide.com\" data-title=\"Bildschirmfoto 2024-07-31 um 21 54 26 (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1\" alt=\"Bildschirmfoto 2024-07-31 um 21 54 26\" srcset=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -138,14 +154,6 @@ news_feed (
          "title" : "Julius Baer continues sponsorship"
       },
       {
-         "description" : "The British National Championships are currently taking place in Hull as a major chess festival with many events for a large variety of players. A number of grandmasters are competing for the title in the Masters Tournament, including defending champion Michael Adams. Live daily from 14.30 local time (last round 11.00 local time)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-british-championships-live",
-         "pubDate" : "Thu, 01 Aug 2024 15:00:00",
-         "title" : "The British Championships - live"
-      },
-      {
          "description" : "The State of Chess returned on Thursday with several important updates. Chief Chess Officer&#38;nbsp;Danny Rensch led the discussion that focused on community updates, fair play changes, site updates, and big media developments. You can watch the fu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -202,14 +210,6 @@ news_feed (
          "title" : "August 2024 FIDE Ratings: Gukesh Back To 6th, Vaishali Breaks 2500"
       },
       {
-         "description" : "Sixth seed Ameet Ghasi defeated Stuart Conquest to join the lead after five rounds at the British Championship. Ghasi is now tied for first place with Gawain Jones and Shreyas Royal, who signed a 28-move draw on Wednesday. Three players stand at a half-point distance: Michael Adams, David Howell and Matthew Wadsworth. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-5",
-         "pubDate" : "Thu, 01 Aug 2024 01:45:00",
-         "title" : "British Championship: Ghasi joins the lead"
-      },
-      {
          "description" : "While GM Christopher Yoo was busy dominating in the U.S. Junior Championship, last year's champion, GM Abhimanyu Mishra chose not to defend his title, instead electing to play at the 57th Annual Biel International Chess Festival.<br /><br /> The tournament, which has been a yearly staple in the Swiss town of Biel since 1968, boasts an incredible array of winners. Players like Korchnoi, Karpov, Larsen, Anand, Ivanchuk, and Carlsen have all taken home past gold, so it's no wonder that America's brightest young prospect wanted a taste of the action. Biel, however, isn't a standard chess tournament.<br /><br /> The Biel Triathlon is a six-player, multi-leg event with a blitz, rapid, and classica",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -232,14 +232,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/russian-anti-olympiad-canceled/",
          "pubDate" : "Wed, 31 Jul 2024 21:12:45",
          "title" : "Russian Anti-Olympiad canceled"
-      },
-      {
-         "description" : "Vasyl Ivanchuk's first visit to Portugal was a complete sporting success. The former world number two now spends a lot of time in Spain. Stefan L&ouml;ffler spoke to him. | Photos: Federico Marin Bellon (unless otherwise indicated)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/always-at-the-board-vasyl-ivanchuk",
-         "pubDate" : "Wed, 31 Jul 2024 18:00:00",
-         "title" : "Always at the board: Vasyl Ivanchuk"
       },
       {
          "description" : "GMs Hans Niemann and Fabiano Caruana move on to the Quarterfinals of the Speed Chess Championship 2024 after defeating, respectively, GMs Maxime Vachier-Lagrave and Alexey Sarana in the last two Round of 16 matches of the season. Bullet chess se...",
@@ -968,14 +960,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/england-win-world-seniors-team-chess-championship-65-title/",
          "pubDate" : "Fri, 12 Jul 2024 07:40:02",
          "title" : "England win World Seniors Team Chess Championship 65+ title!"
-      },
-      {
-         "description" : " Over-65s triumph, and over-50s take bronze behind USA, while England women also finish third in Krakow John Nunn, the world over-65 champion, led England's over-65 team to gold medals on Thursday at the world senior team championships in Krakow. His colleagues Tony Kosten, Jonathan Mestel and Terry Chapman all won individual medals, while Paul Littlewood won a team gold. England over-50s again finished behind the United States, while ­England over-50 women narrowly missed their third successive gold as both 50+ squads had to settle for third. <a href=\"https://www.theguardian.com/sport/article/2024/jul/12/chess-nunn-leads-england-over-65s-to-gold-at-world-senior-championships\">Continue readi",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/jul/12/chess-nunn-leads-england-over-65s-to-gold-at-world-senior-championships",
-         "pubDate" : "Fri, 12 Jul 2024 07:00:45",
-         "title" : "Chess: Nunn leads England over-65s to gold at world senior championships"
       }
    ]
 }
