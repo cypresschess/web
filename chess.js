@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 14.30 local time (11.30 CEST, 5.30 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rapid-and-blitz-world-team-championships-live",
+         "pubDate" : "Fri, 02 Aug 2024 11:14:00",
+         "title" : "Rapid and Blitz World Team Championships - live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess in the Schools</strong> is <a href=\"https://www.linkedin.com/jobs/view/3978574035\">hiring a Manager of Curriculum and Instruction</a>, a developing and supervising role that requires presence in New York City. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/curriculum-expert-wanted/",
+         "pubDate" : "Fri, 02 Aug 2024 10:01:20",
+         "title" : "Curriculum expert wanted"
+      },
+      {
+         "description" : "Ones to watch Ethan Pang, Bodhana Sivanandan and Kushal Jakhria!",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/brilliant-under-10s/",
+         "pubDate" : "Fri, 02 Aug 2024 09:05:38",
+         "title" : "Brilliant Under 10s!"
+      },
+      {
+         "description" : "Please find the Certificates right here No Name 1 Asim Billah Wali 2 Muhammed Uvais Karni 3 Raman Gupta 4 Jithin Anil 5 Munish Kumar",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-jammu-from-20-to-21-july-2024/",
+         "pubDate" : "Fri, 02 Aug 2024 08:31:31",
+         "title" : "Certificates for SNA Seminar held at Jammu from 20 to 21 July 2024"
+      },
+      {
          "description" : "Not long ago, ChatGPT received another update. Time for Arne Kaehler to check the AI's opinions about chess related questions. Who is the greatest player of all time? Who will win the world championship? Which nation will dominate chess in 2030? And finally, Arne challenges ChatGPT for a chess game over the board. But maybe he should wait for the next major update.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,7 +42,23 @@ news_feed (
          "title" : "Interview with ChatGPT - You think Ding Liren will remain champion!?"
       },
       {
-         "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most ­promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the ­youngest current grandmaster and the fourth youngest GM in ­history, He reached the verge of another ­significant ­mileston",
+         "description" : "Please find the Certificates here NATIONAL UNDER 17 : GIRLS Rank Name 1 Tejaswini G 2 Kirthika B 3 Anupam M Sreekumar 4 Sravyasree Bheemarasetty",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-national-under-17-chess-championship-2024/",
+         "pubDate" : "Fri, 02 Aug 2024 08:17:41",
+         "title" : "Certificates :National Under 17 Chess Championship 2024"
+      },
+      {
+         "description" : "\"I coulda been a contender. I coulda been somebody\" is a famous quote by ex-boxer Terry Malloy - played by Marlon Brando - in Elia Kazan's film \"On the Waterfront\" from 1954. In the film, Malloy regrets having squandered his boxing career by agreeing to fix a fight. But cheating aside, how much potential is wasted in chess, how many players could have become grandmasters had they been persistent enough? Psychologist and author Robert Howard, PhD, took a closer, analytical look. | Photo: Marlon Brando in 1950 | Photo: Public Domain via Wikimedia Commons",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/estimating-the-extent-of-unfulfilled-great-potential-in-chess",
+         "pubDate" : "Fri, 02 Aug 2024 08:00:00",
+         "title" : "Estimating the Extent of Unfulfilled Great Potential in Chess"
+      },
+      {
+         "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the ­youngest current grandmaster and the fourth youngest GM in ­history. He reached the verge of another significant milestone l",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/aug/02/chess-yagiz-erdogmus-13-on-the-verge-of-2600-and-closing-on-world-age-record",
@@ -18,12 +66,12 @@ news_feed (
          "title" : "Chess: Yagiz Erdogmus, 13, on the verge of 2600 and closing on world age record"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> Guinness World Records accepted a claim by FIDE of most games played in day, even though that number falls way short. </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.1920.jpeg\" title=\"Bildschirmfoto 2024-07-31 um 21 54 26 photo: fide.com\" data-title=\"Bildschirmfoto 2024-07-31 um 21 54 26 (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1\" alt=\"Bildschirmfoto 2024-07-31 um 21 54 26\" srcset=\"https://www.chesstech.org/files/bildschirmfoto-2024-07-31-um-21-54.480.jpeg?v=1",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/7284970-is-not-the-maximum-number/",
-         "pubDate" : "Thu, 01 Aug 2024 19:54:00",
-         "title" : "7,284,970 is not the maximum number of games in a day"
+         "description" : "Potions and magic trumped ratings and titles in the 2024 Spell Chess Championship qualifiers as eight players with FIDE ratings between 1800 and 2558 booked their spots in the $2,000 Chess.com Community Championship Series knockout which will take...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-vcs-spell-chess-qualifiers",
+         "pubDate" : "Fri, 02 Aug 2024 04:13:00",
+         "title" : "Spell Chess Specialists Qualify For Knockout Ahead of Bok, Bortnyk, Hambleton"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE and its affiliates award (at least) 106 individual and 12 team world championship titles in chess. Is this a record for a sport without weight categories? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.1920.jpeg\" title=\"12 world school chess champions have been crowned in Peru recently. photo: fide.com\" data-title=\"12 world school chess champions have been crowned in Peru recently. (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.480.jpeg?v=1\" alt=\"12 world school chess ch",
@@ -666,14 +714,6 @@ news_feed (
          "title" : "FIDE celebrates 100 years since its founding"
       },
       {
-         "description" : "Superstar sisters WFM Alexandra and Andrea Botez are hosting, for the first time ever, a FIDE-rated event for female creators and players. The event, called Chess Camp, will take place at a mansion in Malibu, California, from July 24 to July 31 an...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-botez-sisters-chess-camp",
-         "pubDate" : "Mon, 22 Jul 2024 08:00:00",
-         "title" : "Botez Sisters To Host FIDE-Rated Chess Camp Event For Female Creators"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -928,38 +968,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3113",
          "pubDate" : "Sat, 13 Jul 2024 10:36:20",
          "title" : "USA and England triumph in World Senior Team Chess Championship 2024"
-      },
-      {
-         "description" : "The Second edition of National Schools Team Under-12 &#38; Under-18 Chess Championships-2024 will be held at Indira Gandhi Indoor Stadium, Sarusojai, Guwahati, Assam Assam - ",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/2nd-national-schools-team-under-12-under-18-chess-championships-2024/",
-         "pubDate" : "Fri, 12 Jul 2024 09:39:16",
-         "title" : "2nd National Schools Team Under-12 & Under-18 Chess Championships-2024"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3112",
-         "pubDate" : "Fri, 12 Jul 2024 09:27:44",
-         "title" : "SuperUnited Rapid & Blitz Croatia: Caruana forges ahead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3111",
-         "pubDate" : "Fri, 12 Jul 2024 08:50:37",
-         "title" : "CAS announces its decision in the case of the Bulgarian Chess Federation 2022 vs FIDE"
-      },
-      {
-         "description" : "England had another successful seniors event at the World Senior Team Chess Championships in Krakow, Poland, which concluded today 11th July with the...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/england-win-world-seniors-team-chess-championship-65-title/",
-         "pubDate" : "Fri, 12 Jul 2024 07:40:02",
-         "title" : "England win World Seniors Team Chess Championship 65+ title!"
       }
    ]
 }
