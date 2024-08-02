@@ -82,7 +82,7 @@ news_feed (
          "title" : "Curriculum expert wanted"
       },
       {
-         "description" : "GM Richard Rapport scored a stunning victory over World Rapid Champion Magnus Carlsen as WR Chess, the defending champions and heavy favorites to win the 2024 World Rapid &#38;amp; Blitz Team Championships, sank to a 1-5 loss to third-seeded Chessy. C...",
+         "description" : "GM Richard Rapport scored a stunning victory over World Rapid Champion Magnus Carlsen as WR Chess, the defending champions and heavy favorites to win the 2024 World Rapid &#38;amp; Blitz Team Championships, sank to a 5-1 loss to third-seeded Chessy. C...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-1",
