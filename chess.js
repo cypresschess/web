@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The FIDE World Rapid and Blitz Team Championships take place in Almaty Fri 2nd Aug to Mon 5th Aug 2024. Leading players Magnus Carlsen, Ding Liren, Ian Nepomniachtchi etc. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2024",
+         "pubDate" : "Fri, 2 Aug 2024 14:48:00",
+         "title" : "FIDE World Rapid and Blitz Team Championships 2024 - Games and Results"
+      },
+      {
+         "description" : "I get asked all the time a question along the lines of:&#8220;I'm 45 years old, started 3 years ago, now rated 1500. Can I reach 2000?&#8221; This question is just a version of the question many in the chess world have been discussing for a while: Can International Master Levy Rozman, also known as Gotham []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/how-much-chess-improvement/",
+         "pubDate" : "Fri, 02 Aug 2024 12:48:00",
+         "title" : "How much chess improvement is possible?"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> For <strong>Carsten Hensel</strong> and <strong>Stefan Kot</strong>h, who have been the faces of the <strong>Dortmund Chess Days</strong> since three decades and also organised the 2008 world championship match nearby in Bonn, the 2024 edition starting next week is <a href=\"https://sparkassen-chess-trophy.de/index.php/de/\">their last on the event team</a>. <strong>Christian Jochmann</strong> is the new executive director. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/hensel-and-koth-retire-from-event/",
+         "pubDate" : "Fri, 02 Aug 2024 12:38:10",
+         "title" : "Hensel and Koth retire from event team"
+      },
+      {
          "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 14.30 local time (11.30 CEST, 5.30 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,7 +82,7 @@ news_feed (
          "title" : "Estimating the Extent of Unfulfilled Great Potential in Chess"
       },
       {
-         "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the ­youngest current grandmaster and the fourth youngest GM in ­history. He reached the verge of another significant milestone l",
+         "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the youngest current grandmaster and the fourth youngest GM in history. He reached the verge of another significant milestone las",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/aug/02/chess-yagiz-erdogmus-13-on-the-verge-of-2600-and-closing-on-world-age-record",
@@ -72,6 +96,22 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-vcs-spell-chess-qualifiers",
          "pubDate" : "Fri, 02 Aug 2024 04:13:00",
          "title" : "Spell Chess Specialists Qualify For Knockout Ahead of Bok, Bortnyk, Hambleton"
+      },
+      {
+         "description" : "The 45th FIDE Chess Olympiad will take place from September 10 through 23 in Budapest, Hungary. Team USA looks to improve on their tied-fourth (fifth on tiebreaks) finish in the Open and tied-third (fourth on tiebreaks) finish in the Women's section of the 44th FIDE Chess Olympiad held in 2022 in Chennai, India. <br /><br /> The following list is the official players, captain, and trainer for the 2024 Olympiad Team USA Open and Women's teams. The respective team chose their Captains and Trainers.<br /><br /> <br /><br /> Open Team:<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/2024-olympiad-teams-announced",
+         "pubDate" : "Fri, 02 Aug 2024 00:00:00",
+         "title" : "2024 Olympiad Teams Announced"
+      },
+      {
+         "description" : "Today is the day! After two more games in the four-day schedule and one more in the six-day schedule, everyone will join the traditional schedule tonight at 7 p.m. EDT for the seventh round of the U.S. Open. The \"merge\" will determine the 124th Annual U.S. Open Champion (and qualifier for the U.S. Championship) after Sunday's ninth-round game. <br /><br /> In the traditional schedule, Julian Proleiko leads by himself with a 5&frac12;/6 score, thanks to last night's win. Today's annotations are courtesy of Denker co-champ IM Sandeep Sethuraman:<br /><br /> <br /><br /><br /><br /> <br /><br /> Eight players trail Proleiko by a half-point with 5/6 scores, led by Vaibhav Kalpaka:<br /><br /> <b",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/top-players-face-us-open-enters-final-weekend",
+         "pubDate" : "Fri, 02 Aug 2024 00:00:00",
+         "title" : "Top Players Face Off as U.S. Open Enters Final Weekend"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE and its affiliates award (at least) 106 individual and 12 team world championship titles in chess. Is this a record for a sport without weight categories? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.1920.jpeg\" title=\"12 world school chess champions have been crowned in Peru recently. photo: fide.com\" data-title=\"12 world school chess champions have been crowned in Peru recently. (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.480.jpeg?v=1\" alt=\"12 world school chess ch",
@@ -272,14 +312,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/tactics-take-over-top-boards-day-five-us-open",
          "pubDate" : "Thu, 01 Aug 2024 00:00:00",
          "title" : "Tactics Take Over Top Boards on Day Five of U.S. Open"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The so-called <strong>Friendship Games</strong> in Moscow and Yekaterinburg, which would have featured a team chess event with a high prizefund right after the <strong>Chess Olympiad</strong> and were thus seen by many as an Anti-Olympiad or Counter-Olympiad, <a href=\"https://en.wfg2024.com/news/detail/international-friendship-association-proposed-to-postpone-the-world-friendship-games-to-2025/\">will be indefinitely postponed</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/russian-anti-olympiad-canceled/",
-         "pubDate" : "Wed, 31 Jul 2024 21:12:45",
-         "title" : "Russian Anti-Olympiad canceled"
       },
       {
          "description" : "GMs Hans Niemann and Fabiano Caruana move on to the Quarterfinals of the Speed Chess Championship 2024 after defeating, respectively, GMs Maxime Vachier-Lagrave and Alexey Sarana in the last two Round of 16 matches of the season. Bullet chess se...",
@@ -522,22 +554,6 @@ news_feed (
          "title" : "Akopian, Lee, Yoo Winners At U.S. National Championships"
       },
       {
-         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> The 124th Annual U.S. Open Chess Championship begins Saturday, July 27 at the Sheraton Norfolk Waterside Hotel in Norfolk, Virginia. Here is a primer of what to expect and how to follow all the action!<br /><br /> <br /><br /> A True Open<br /><br /> As always, the \"main event\" will be the nine-round tournament that is unique in major American events for being a \"true open.\" While other tournaments feature top sections that are \"open\" to any player who chooses to forgo playing in their rating class (and, sometimes, pays an additional \"play-up fee\"), the U.S. Open is run as one gigant",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/what-expect-124th-annual-us-open",
-         "pubDate" : "Fri, 26 Jul 2024 00:00:00",
-         "title" : "What to Expect at the 124th Annual U.S. Open"
-      },
-      {
-         "description" : "Two new champions were crowned in St. Louis yesterday: GM Christopher Yoo in the Junior championship, and IM Alice Lee in the Girls' Junior. They join GM Vladimir Akopian, who already won the Senior Championship with a round to spare, in a rare occurrence: the top seed in each section won the tournament! <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Vladimir Akopian still had to \"show up for work\" on Thursday, despite winning the tournament with a round to spare. (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Junior<br /><br /> Yoo led by half a point prior to the last ro",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/lee-and-yoo-win-junior-championships-kraai-clear-second-senior",
-         "pubDate" : "Fri, 26 Jul 2024 00:00:00",
-         "title" : "Lee and Yoo Win Junior Championships, Kraai Clear Second in Senior"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -658,14 +674,6 @@ news_feed (
          "title" : "Salem Wins Biel Challengers, Mishra Misses Chance In Masters"
       },
       {
-         "description" : "Our Grandmaster friends have unlocked and made all their 500+ hours of courses free, until July 31. They have courses for all levels, from beginners...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/grandmaster-crafted-courses-for-free/",
-         "pubDate" : "Tue, 23 Jul 2024 13:00:10",
-         "title" : "Grandmaster-crafted courses for free!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -696,14 +704,6 @@ news_feed (
          "link" : "https://aicf.in/21st-tamil-nadu-im-norm-tournament-live-games-link/",
          "pubDate" : "Mon, 22 Jul 2024 11:11:29",
          "title" : "21st Tamil Nadu IM norm tournament - Live Games Link"
-      },
-      {
-         "description" : "GM Alireza Firouzja has succeeded in setting up another all-French clash with GM Maxime Vachier-Lagrave in the CrunchLabs Masters 2024 Division I Grand Final. GM Ian Nepomniachtchi defeated GM Magnus Carlsen 2-1 in the Losers Semifinals, but the F...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-6",
-         "pubDate" : "Mon, 22 Jul 2024 10:41:00",
-         "title" : "Firouzja Neutralizes Nepomniachtchi's Killer Prep, Sets Up All-French Grand Final"
       },
       {
          "description" : "International Chess Federation FIDE celebrates its 100th anniversary this year. The celebration took place in Paris, France, on International Chess Day, July 20. The celebration gathered FIDE officials and distinguished guests, among them: FIDE President Arkady Dvorkovich, ECU President Zurab Azmaiparashvili, ECU Deputy President and Deputy Chair of the FIDE Management Board Dana Reizniece-Ozola, ECU Vice President Malcolm Pein, along with former world champions Vishy Anand, Zhu Chen, Alexandra Kosteniuk. The celebration started with a walk to the historic 9th []",
