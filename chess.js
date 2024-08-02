@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3137",
+         "pubDate" : "Fri, 02 Aug 2024 19:14:26",
+         "title" : "FIDE World School R&B Championships 2024 kick off in Tashkent"
+      },
+      {
+         "description" : "Grandmaster Krum Ivanov Georgiev was born in Pazardzhik (Bulgaria), May 24th, 1958 and passed away in Sofia (Bulgaria), July 31st 2024, after a short illness, at the age of 66. GM Kiril Georgiev wrote: >\"Today is a sad day for Bulgarian chess! We lost Grandmaster Krum Georgiev. He was best known for beating the future FIDE World Champion Garry Kasparov in a wild game in the Malta Olympiad, 1980.\" You can enjoy the annotated game that spread around the globe.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/krum-ivanov-georgiev-1958-2024",
+         "pubDate" : "Fri, 02 Aug 2024 18:00:00",
+         "title" : "Krum Ivanov Georgiev, 1958-2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3136",
+         "pubDate" : "Fri, 02 Aug 2024 17:53:56",
+         "title" : "Chessy stuns defending champions WR Chess to lead World Rapid Teams after Day 1"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE and its affiliates award (at least) 106 individual and 12 team world championship titles in chess. Is this a record for a sport without weight categories? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.1920.jpeg\" title=\"12 world school chess champions have been crowned in Peru recently. photo: fide.com\" data-title=\"12 world school chess champions have been crowned in Peru recently. (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.480.jpeg?v=1\" alt=\"12 world school chess ch",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/118-official-world-championships-and/",
+         "pubDate" : "Fri, 02 Aug 2024 16:49:25",
+         "title" : "118 official world championships and counting"
+      },
+      {
+         "description" : "\"I coulda been a contender. I coulda been somebody\" is a famous quote by ex-boxer Terry Malloy - played by Marlon Brando - in Elia Kazan's film \"On the Waterfront\" from 1954. In the film, Malloy regrets having squandered his boxing career by agreeing to fix a fight. But cheating aside, how much potential is wasted in chess, how many players could have become grandmasters had they been persistent enough? Psychologist and author Robert Howard, PhD, took a closer, analytical look. | Photo: Marlon Brando in 1950 | Photo: Public Domain via Wikimedia Commons",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/estimating-the-extent-of-unfulfilled-great-potential-in-chess",
+         "pubDate" : "Fri, 02 Aug 2024 16:15:00",
+         "title" : "Estimating the Extent of Unfulfilled Great Potential in Chess"
+      },
+      {
          "description" : " The FIDE World Rapid and Blitz Team Championships take place in Almaty Fri 2nd Aug to Mon 5th Aug 2024. Leading players Magnus Carlsen, Ding Liren, Ian Nepomniachtchi etc. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -42,12 +82,28 @@ news_feed (
          "title" : "Curriculum expert wanted"
       },
       {
+         "description" : "GM Richard Rapport scored a stunning victory over World Rapid Champion Magnus Carlsen as WR Chess, the defending champions and heavy favorites to win the 2024 World Rapid &#38;amp; Blitz Team Championships, sank to a 1-5 loss to third-seeded Chessy. C...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-1",
+         "pubDate" : "Fri, 02 Aug 2024 09:21:00",
+         "title" : "Rapport Beats Carlsen In 23 Moves As World Rapid Team Favorites Crash To Defeat"
+      },
+      {
          "description" : "Ones to watch Ethan Pang, Bodhana Sivanandan and Kushal Jakhria!",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/brilliant-under-10s/",
          "pubDate" : "Fri, 02 Aug 2024 09:05:38",
          "title" : "Brilliant Under 10s!"
+      },
+      {
+         "description" : "Missed your morning alarm? Heart beating out of your chest? Thought you&#38;rsquo;d overslept an exam? Well, my friend, this is not a drill. You&#38;rsquo;ve been enrolled at The Gambit Academy and your chess skills are ready to be tested. Can you defeat ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/back-to-school-bots",
+         "pubDate" : "Fri, 02 Aug 2024 09:00:00",
+         "title" : "Play Against Chess.com's Back To School Bots"
       },
       {
          "description" : "Please find the Certificates right here No Name 1 Asim Billah Wali 2 Muhammed Uvais Karni 3 Raman Gupta 4 Jithin Anil 5 Munish Kumar",
@@ -72,14 +128,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-national-under-17-chess-championship-2024/",
          "pubDate" : "Fri, 02 Aug 2024 08:17:41",
          "title" : "Certificates :National Under 17 Chess Championship 2024"
-      },
-      {
-         "description" : "\"I coulda been a contender. I coulda been somebody\" is a famous quote by ex-boxer Terry Malloy - played by Marlon Brando - in Elia Kazan's film \"On the Waterfront\" from 1954. In the film, Malloy regrets having squandered his boxing career by agreeing to fix a fight. But cheating aside, how much potential is wasted in chess, how many players could have become grandmasters had they been persistent enough? Psychologist and author Robert Howard, PhD, took a closer, analytical look. | Photo: Marlon Brando in 1950 | Photo: Public Domain via Wikimedia Commons",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/estimating-the-extent-of-unfulfilled-great-potential-in-chess",
-         "pubDate" : "Fri, 02 Aug 2024 08:00:00",
-         "title" : "Estimating the Extent of Unfulfilled Great Potential in Chess"
       },
       {
          "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the youngest current grandmaster and the fourth youngest GM in history. He reached the verge of another significant milestone las",
@@ -112,14 +160,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/top-players-face-us-open-enters-final-weekend",
          "pubDate" : "Fri, 02 Aug 2024 00:00:00",
          "title" : "Top Players Face Off as U.S. Open Enters Final Weekend"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE and its affiliates award (at least) 106 individual and 12 team world championship titles in chess. Is this a record for a sport without weight categories? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.1920.jpeg\" title=\"12 world school chess champions have been crowned in Peru recently. photo: fide.com\" data-title=\"12 world school chess champions have been crowned in Peru recently. (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.480.jpeg?v=1\" alt=\"12 world school chess ch",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/118-official-world-championships-and/",
-         "pubDate" : "Thu, 01 Aug 2024 18:47:09",
-         "title" : "118 official world championships and counting"
       },
       {
          "description" : "",
@@ -378,20 +418,20 @@ news_feed (
          "title" : "DMR election results - Bronze members' reps!"
       },
       {
-         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
-         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
-         "title" : "The 7 Best Games In 2024 So Far"
-      },
-      {
          "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wallows-bot",
          "pubDate" : "Tue, 30 Jul 2024 07:00:00",
          "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
+      },
+      {
+         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
+         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
+         "title" : "The 7 Best Games In 2024 So Far"
       },
       {
          "description" : "After six grueling rounds in four days, the five invitational tournaments have concluded and the new champions of state champions have been crowned.<br /><br /> Below, we'll catch up with annotations from rounds four and five courtesy of IM Robert Shlyakhtenko, as well as highlights from this morning's final round. As a rough guide: if the board begins at the initial position, it's Robert's annotation. If it begins at a key moment later in the game, it's your author's. <br /><br /> More information about prizes and scholarships can be found on this year's program. The final standings for each tournament are available here, and more prize information will be available online shortly. <br /><b",
@@ -666,28 +706,12 @@ news_feed (
          "title" : "List of Member Federations having right to vote at General Assembly 2024 published"
       },
       {
-         "description" : "GM Saleh Salem has won the Challengers Triathlon of the 2024 Biel Chess Festival with two days to spare after surviving a sacrificial attack to beat GM Vaishali Rameshbabu and take an unassailable lead. In the Masters, GM Liem Le was on the ropes ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-finals-1",
-         "pubDate" : "Tue, 23 Jul 2024 15:22:43",
-         "title" : "Salem Wins Biel Challengers, Mishra Misses Chance In Masters"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3125",
          "pubDate" : "Tue, 23 Jul 2024 12:47:10",
          "title" : "Youth Solving Championships - FIDE & WFCC special project"
-      },
-      {
-         "description" : "Divisions II and III of the CrunchLabs Masters 2024 came to a close on Tuesday. GM Alexander Grischuk rose from the ashes of the Losers Bracket and defeated GM Vidit Gujrathi in two matches to win Division II, while&#38;nbsp;GM Arjun Erigaisi beat GM ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-cct-crunchlabs-masters-day-7",
-         "pubDate" : "Tue, 23 Jul 2024 11:18:00",
-         "title" : "Grischuk Beats Vidit Twice To Win Division II, Arjun Tops Division III With Game To Spare"
       },
       {
          "description" : "The ECF has been asked to run this year's Glorney Cup from 23rd to 25th July (i.e. immediately before the British Championships) at the Canham...",
