@@ -976,14 +976,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jul/12/chess-nunn-leads-england-over-65s-to-gold-at-world-senior-championships",
          "pubDate" : "Fri, 12 Jul 2024 07:00:45",
          "title" : "Chess: Nunn leads England over-65s to gold at world senior championships"
-      },
-      {
-         "description" : "Gukesh top scored on day 2, along with Caruana, and is now just two points behind the latter.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/40544649/gukesh-surges-third-day-2-superunited-rapid-blitz-2024-caruana-takes-sole-lead?device=featurephone",
-         "pubDate" : "Thu, 11 Jul 2024 23:52:48",
-         "title" : "Gukesh surges to third on day 2 of SuperUnited Rapid & Blitz 2024, Caruana takes sole lead"
       }
    ]
 }
