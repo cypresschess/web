@@ -26,6 +26,14 @@ news_feed (
          "title" : "Chessy stuns defending champions WR Chess to lead World Rapid Teams after Day 1"
       },
       {
+         "description" : "GM Luca Moroni Jr. has been crowned as Chess.com&#39;s top wizard after toppling IM Nhat Minh To in the Grand Final Reset of the 2024 Spell Chess Championship. Moroni, who was the only GM to qualify for the knockout, won $600 for his first-place finis...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-community-championships-spell-chess-luca-moroni-wins",
+         "pubDate" : "Fri, 02 Aug 2024 17:07:12",
+         "title" : "Moroni Claims Spell Chess Crown In Grand Final Reset"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE and its affiliates award (at least) 106 individual and 12 team world championship titles in chess. Is this a record for a sport without weight categories? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.1920.jpeg\" title=\"12 world school chess champions have been crowned in Peru recently. photo: fide.com\" data-title=\"12 world school chess champions have been crowned in Peru recently. (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.480.jpeg?v=1\" alt=\"12 world school chess ch",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -418,20 +426,20 @@ news_feed (
          "title" : "DMR election results - Bronze members' reps!"
       },
       {
-         "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wallows-bot",
-         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
-         "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
-      },
-      {
          "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
          "pubDate" : "Tue, 30 Jul 2024 07:00:00",
          "title" : "The 7 Best Games In 2024 So Far"
+      },
+      {
+         "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wallows-bot",
+         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
+         "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
       },
       {
          "description" : "After six grueling rounds in four days, the five invitational tournaments have concluded and the new champions of state champions have been crowned.<br /><br /> Below, we'll catch up with annotations from rounds four and five courtesy of IM Robert Shlyakhtenko, as well as highlights from this morning's final round. As a rough guide: if the board begins at the initial position, it's Robert's annotation. If it begins at a key moment later in the game, it's your author's. <br /><br /> More information about prizes and scholarships can be found on this year's program. The final standings for each tournament are available here, and more prize information will be available online shortly. <br /><b",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-2024-cct-crunchlabs-masters-day-8",
          "pubDate" : "Wed, 24 Jul 2024 10:39:00",
          "title" : "Vachier-Lagrave Wins CrunchLabs Masters After Defeating Firouzja In Armageddon"
-      },
-      {
-         "description" : "Two Titled Tuesday regulars, GMs Denis Lazavik and Oleksandr Bortnyk, won the event on July 23. For Lazavik, it was his third of the year, and his first ever with a score of 10.5 points. Bortnyk, who once scored a perfect 9/9 back when the tournam...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/lazavik-bortnyk-win-titled-tuesday-july-23-2024",
-         "pubDate" : "Wed, 24 Jul 2024 07:03:57",
-         "title" : "Now-Familiar Names Top Titled Tuesday"
       },
       {
          "description" : "",
