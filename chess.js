@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two of the big favourites to win the British Championship clinched crucial victories on Saturday to go into the final round in shared first place - top seed David Howell and third seed Gawain Jones. Only the co-leaders or Matthew Wadsworth, who is the one player standing a half point back, have chances of grabbing the title, as Howell and Jones will face each other in Sunday's final round. | Photo: Dennis Dicen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-8",
+         "pubDate" : "Sat, 03 Aug 2024 23:40:00",
+         "title" : "British Championship: Howell and Jones co-leaders with one round to go"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/08/03/why-are-numbers-declining-in-black-chess/",
          "pubDate" : "Sat, 03 Aug 2024 17:24:41",
          "title" : "Why are numbers declining in Black Chess?"
+      },
+      {
+         "description" : "GM Hikaru Nakamura won his 26th Bullet Brawl title and the $400 first prize after scoring 268 points and staving off a challenge from GM Daniel Naroditsky (253) on Friday. Rounding out the podium and claiming the $150 third prize was GM Andrew Tan...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-3-2024",
+         "pubDate" : "Sat, 03 Aug 2024 15:05:00",
+         "title" : "Nakamura, Naroditsky, Tang Confirm All-American Podium"
       },
       {
          "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 14.30 local time (11.30 CEST, 5.30 ET).",
@@ -42,14 +58,6 @@ news_feed (
          "title" : "Carlsen Beats Ding As Maghsoodloo Powers Al-Ain Into Sole Lead"
       },
       {
-         "description" : "The World Rapid and Blitz Team Championships kicked off in Astana, with four rounds of rapid chess taking place on Friday. Chessy, the team led by Richard Rapport and Haik Martirosyan, grabbed 4 wins in 4 matches, with Rapport stunning Magnus Carlsen in round 4. Decade China, led by Ding Liren, and Al-Ain ACMG UAE, led by Daniil Dubov, are sharing second place with 7/8 match points. | Photo: FIDE / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-1",
-         "pubDate" : "Sat, 03 Aug 2024 09:40:00",
-         "title" : "World Rapid Teams: Chessy take the lead as Rapport beats Carlsen"
-      },
-      {
          "description" : "It's nice to have everybody in the same room. The feel of the main tournament hall is just so much more vibrant when it's abuzz with almost 400 players all in the same stage of the game. When the three separate playing schedules merged last night for the seventh round of the 124th Annual U.S. Open, it really felt like a national event. <br /><br /> With two rounds to go, nine players are tied for first with 6/7 scores. Now that really feels like a national event. The $60,000 prize fund is up for grabs, with a number of top players still in the running for the $10,000 top prize and the spot in this fall's U.S. Championship on the horizon. <br /><br /> Today's annotations once again come from ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -64,14 +72,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3137",
          "pubDate" : "Fri, 02 Aug 2024 19:14:26",
          "title" : "FIDE World School R&B Championships 2024 kick off in Tashkent"
-      },
-      {
-         "description" : "Grandmaster Krum Ivanov Georgiev was born in Pazardzhik (Bulgaria), May 24th, 1958 and passed away in Sofia (Bulgaria), July 31st 2024, after a short illness, at the age of 66. GM Kiril Georgiev wrote: >\"Today is a sad day for Bulgarian chess! We lost Grandmaster Krum Georgiev. He was best known for beating the future FIDE World Champion Garry Kasparov in a wild game in the Malta Olympiad, 1980.\" You can enjoy the annotated game that spread around the globe.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/krum-ivanov-georgiev-1958-2024",
-         "pubDate" : "Fri, 02 Aug 2024 18:00:00",
-         "title" : "Krum Ivanov Georgiev, 1958-2024"
       },
       {
          "description" : "",
@@ -96,14 +96,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/118-official-world-championships-and/",
          "pubDate" : "Fri, 02 Aug 2024 16:49:25",
          "title" : "118 official world championships and counting"
-      },
-      {
-         "description" : "\"I coulda been a contender. I coulda been somebody\" is a famous quote by ex-boxer Terry Malloy - played by Marlon Brando - in Elia Kazan's film \"On the Waterfront\" from 1954. In the film, Malloy regrets having squandered his boxing career by agreeing to fix a fight. But cheating aside, how much potential is wasted in chess, how many players could have become grandmasters had they been persistent enough? Psychologist and author Robert Howard, PhD, took a closer, analytical look. | Photo: Marlon Brando in 1950 | Photo: Public Domain via Wikimedia Commons",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/estimating-the-extent-of-unfulfilled-great-potential-in-chess",
-         "pubDate" : "Fri, 02 Aug 2024 16:15:00",
-         "title" : "Estimating the Extent of Unfulfilled Great Potential in Chess"
       },
       {
          "description" : " The FIDE World Rapid and Blitz Team Championships take place in Almaty Fri 2nd Aug to Mon 5th Aug 2024. Leading players Magnus Carlsen, Ding Liren, Ian Nepomniachtchi etc. ",
@@ -168,14 +160,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-jammu-from-20-to-21-july-2024/",
          "pubDate" : "Fri, 02 Aug 2024 08:31:31",
          "title" : "Certificates for SNA Seminar held at Jammu from 20 to 21 July 2024"
-      },
-      {
-         "description" : "Not long ago, ChatGPT received another update. Time for Arne Kaehler to check the AI's opinions about chess related questions. Who is the greatest player of all time? Who will win the world championship? Which nation will dominate chess in 2030? And finally, Arne challenges ChatGPT for a chess game over the board. But maybe he should wait for the next major update.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/interview-with-chatgpt-you-think-ding-liren-will-remain-champion",
-         "pubDate" : "Fri, 02 Aug 2024 08:29:46",
-         "title" : "Interview with ChatGPT - You think Ding Liren will remain champion!?"
       },
       {
          "description" : "Please find the Certificates here NATIONAL UNDER 17 :OPEN Rank Name 1 Sriram Adarsh Uppala 2 Arpith S Bijoy 3 Jaiveer Mahendru 4 Nandish V",
@@ -306,14 +290,6 @@ news_feed (
          "title" : "Andrew Hong Brings Fresh Ideas to the Board | #USJuniors"
       },
       {
-         "description" : "FIDE has just published the current World Ranking List. Magnus Carlsen is still the clear number one, followed by the two Americans Hikaru Nakamura and Fabiano Caruana. In the women's list the Chinese dominate: Hou Yifan is first, Women's World Champion Ju Wenjun is second and Lei Tingjie follows on place three. But the world's best juniors come from India: The world's best junior is World Championship challenger Gukesh, and the world's best female junior is 18-year old Divya Deshmuk.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fide-ratings-july-2",
-         "pubDate" : "Thu, 01 Aug 2024 17:00:00",
-         "title" : "FIDE ratings - July 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -344,14 +320,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-state-of-chess-august-1",
          "pubDate" : "Thu, 01 Aug 2024 14:26:00",
          "title" : "State Of Chess Returns: Community Updates, Fair Play Changes, Media Projects, & More"
-      },
-      {
-         "description" : "On Friday, the event, which has been expanded into the World Rapid Chess and Blitz Team Championship, will begin in Astana after its premiere in D&uuml;sseldorf last year. Some teams are coming with absolute top line-ups. Defending champion WR Chess has strengthened its team with Magnus Carlsen.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/preview-of-the-rapid-and-blitz-world-team-championships",
-         "pubDate" : "Thu, 01 Aug 2024 11:29:00",
-         "title" : "Preview of the Rapid and Blitz World Team Championships"
       },
       {
          "description" : "Two-time U.S. Women&#39;s Champion WGM Jennifer Yu narrowly avoided a last-round disaster against Julia Schulman to win the 2024 Botez Chess Camp with a dominant 6/7, half a point ahead of WFM Alexandra Botez. Co-organizer Alexandra won her last four ...",
@@ -714,14 +682,6 @@ news_feed (
          "title" : "Game Review And Analysis Now Even More Fun And Helpful With Updated Design And New Features"
       },
       {
-         "description" : "GM Liem Le has won the 2024 Biel Chess Festival with a round to spare after defeating GM Praggnanandhaa Rameshbabu with the black pieces. The U.S.-based Vietnamese number-one has now won the title for three consecutive years. It was a bad day fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-finals-2",
-         "pubDate" : "Wed, 24 Jul 2024 16:27:01",
-         "title" : "Liem Le Beats Praggnanandhaa To Win 3rd Biel Chess Title In A Row"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -968,22 +928,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/07/14/tani-adewumi-wins-u-s-cadet/",
          "pubDate" : "Sun, 14 Jul 2024 14:25:56",
          "title" : "Tani Adewumi wins U.S. Cadet!"
-      },
-      {
-         "description" : "In the overall standings, Gukesh remains in seventh spot with a total of 11.5 points and Vidit is ninth with 7.5 points to his name.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/40557221/gukesh-vidit-struggles-blitz-day-4-superunited-rapid-blitz-caruana-top?device=featurephone",
-         "pubDate" : "Sat, 13 Jul 2024 23:20:22",
-         "title" : "Gukesh struggles in blitz on day 4 of SuperUnited Rapid & Blitz 2024; Caruana still on top"
-      },
-      {
-         "description" : "D Gukesh fell in the standings to seventh place while Vidit Gujrathi climbed off the bottom of the table.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/40551065/gukesh-falls-seventh-tough-day-3-superunited-rapid-blitz-2024-caruana-massive-lead?device=featurephone",
-         "pubDate" : "Sat, 13 Jul 2024 23:14:07",
-         "title" : "Gukesh falls to seventh on tough day 3 of SuperUnited Rapid & Blitz 2024; Caruana with massive lead"
       }
    ]
 }
