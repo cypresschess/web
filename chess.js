@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3138",
+         "pubDate" : "Sat, 03 Aug 2024 18:11:13",
+         "title" : "Al-Ain emerge as new leaders in day two of World Rapid Team Championship"
+      },
+      {
+         "description" : " There seems to be a decline in the number of Black players participating in major U.S. tournaments. The World Open is one of America's marquee events and is typically a chess tournament where many players want to make magic happen. It is also the tournament that acts as a sort of barometer for where American The post <a href=\"https://www.thechessdrum.net/blog/2024/08/03/why-are-numbers-declining-in-black-chess/\">Why are numbers declining in Black Chess?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/08/03/why-are-numbers-declining-in-black-chess/",
+         "pubDate" : "Sat, 03 Aug 2024 17:24:41",
+         "title" : "Why are numbers declining in Black Chess?"
+      },
+      {
          "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 14.30 local time (11.30 CEST, 5.30 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.thearticle.com/new-york-1924-a-stellar-gathering/",
          "pubDate" : "Sat, 03 Aug 2024 09:47:35",
          "title" : "New York 1924: a stellar gathering "
+      },
+      {
+         "description" : "World number-one Magnus Carlsen bounced back to beat GMs Daniil Dubov and Ding Liren on day two of the 2024 World Rapid &#38;amp; Blitz Team Championships, but his team WR Chess trails Al-Ain ACMG UAE by three points. GM Parham Maghsoodloo was the sta...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-2",
+         "pubDate" : "Sat, 03 Aug 2024 09:47:00",
+         "title" : "Carlsen Beats Ding As Maghsoodloo Powers Al-Ain Into Sole Lead"
       },
       {
          "description" : "The World Rapid and Blitz Team Championships kicked off in Astana, with four rounds of rapid chess taking place on Friday. Chessy, the team led by Richard Rapport and Haik Martirosyan, grabbed 4 wins in 4 matches, with Rapport stunning Magnus Carlsen in round 4. Decade China, led by Ding Liren, and Al-Ain ACMG UAE, led by Daniil Dubov, are sharing second place with 7/8 match points. | Photo: FIDE / Maria Emelianova",
@@ -450,20 +474,20 @@ news_feed (
          "title" : "DMR election results - Bronze members' reps!"
       },
       {
-         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
-         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
-         "title" : "The 7 Best Games In 2024 So Far"
-      },
-      {
          "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wallows-bot",
          "pubDate" : "Tue, 30 Jul 2024 07:00:00",
          "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
+      },
+      {
+         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
+         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
+         "title" : "The 7 Best Games In 2024 So Far"
       },
       {
          "description" : "After six grueling rounds in four days, the five invitational tournaments have concluded and the new champions of state champions have been crowned.<br /><br /> Below, we'll catch up with annotations from rounds four and five courtesy of IM Robert Shlyakhtenko, as well as highlights from this morning's final round. As a rough guide: if the board begins at the initial position, it's Robert's annotation. If it begins at a key moment later in the game, it's your author's. <br /><br /> More information about prizes and scholarships can be found on this year's program. The final standings for each tournament are available here, and more prize information will be available online shortly. <br /><b",
@@ -696,14 +720,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-finals-2",
          "pubDate" : "Wed, 24 Jul 2024 16:27:01",
          "title" : "Liem Le Beats Praggnanandhaa To Win 3rd Biel Chess Title In A Row"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave won Division I of the CrunchLabs Masters 2024 after defeating GM Alireza Firouzja in the Grand Final. After four draws, he won on demand in the armageddon game to claim $30,000, 100 tour points, and a return to the season...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/vachier-lagrave-wins-2024-cct-crunchlabs-masters-day-8",
-         "pubDate" : "Wed, 24 Jul 2024 10:39:00",
-         "title" : "Vachier-Lagrave Wins CrunchLabs Masters After Defeating Firouzja In Armageddon"
       },
       {
          "description" : "",
