@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 14.30 local time (11.30 CEST, 5.30 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rapid-and-blitz-world-team-championships-live",
+         "pubDate" : "Sat, 03 Aug 2024 11:20:00",
+         "title" : "Rapid and Blitz World Team Championships - Live!"
+      },
+      {
+         "description" : "\"There's this monstrous idiot - this monstrous elected idiot - who keeps telling his fellow-idiots to throw my books on a bonfire and beat me up In the street&hellip;\" The author of these words was Stefan Zweig (1881-1942) and I first read and transcribed them six decades ago. He was the Austrian-Jewish &eacute;migr&eacute; author of Schachnovelle (variously []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/new-york-1924-a-stellar-gathering/",
+         "pubDate" : "Sat, 03 Aug 2024 09:47:35",
+         "title" : "New York 1924: a stellar gathering "
+      },
+      {
+         "description" : "The World Rapid and Blitz Team Championships kicked off in Astana, with four rounds of rapid chess taking place on Friday. Chessy, the team led by Richard Rapport and Haik Martirosyan, grabbed 4 wins in 4 matches, with Rapport stunning Magnus Carlsen in round 4. Decade China, led by Ding Liren, and Al-Ain ACMG UAE, led by Daniil Dubov, are sharing second place with 7/8 match points. | Photo: FIDE / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-1",
+         "pubDate" : "Sat, 03 Aug 2024 09:40:00",
+         "title" : "World Rapid Teams: Chessy take the lead as Rapport beats Carlsen"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -74,14 +98,6 @@ news_feed (
          "title" : "Hensel and Koth retire from event team"
       },
       {
-         "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 14.30 local time (11.30 CEST, 5.30 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-and-blitz-world-team-championships-live",
-         "pubDate" : "Fri, 02 Aug 2024 11:14:00",
-         "title" : "Rapid and Blitz World Team Championships - live"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess in the Schools</strong> is <a href=\"https://www.linkedin.com/jobs/view/3978574035\">hiring a Manager of Curriculum and Instruction</a>, a developing and supervising role that requires presence in New York City. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-chatgpt-you-think-ding-liren-will-remain-champion",
          "pubDate" : "Fri, 02 Aug 2024 08:29:46",
          "title" : "Interview with ChatGPT - You think Ding Liren will remain champion!?"
-      },
-      {
-         "description" : "Please find the Certificates here NATIONAL UNDER 17 : GIRLS Rank Name 1 Tejaswini G 2 Kirthika B 3 Anupam M Sreekumar 4 Sravyasree Bheemarasetty",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-national-under-17-chess-championship-2024/",
-         "pubDate" : "Fri, 02 Aug 2024 08:17:41",
-         "title" : "Certificates :National Under 17 Chess Championship 2024"
       },
       {
          "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the youngest current grandmaster and the fourth youngest GM in history. He reached the verge of another significant milestone las",
@@ -976,22 +984,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-and-praggnanandhaa-to-headline-indian-team-in-45th-chess-olympiad/articleshow/111713933.cms",
          "pubDate" : "Sat, 13 Jul 2024 11:48:03",
          "title" : "Gukesh and Pragg to headline Indian team in 45th Chess Olympiad"
-      },
-      {
-         "description" : "Returning from an expedition to the archaeological wonders of Minoan Crete, I have arrived in London with plenty of time to spare to watch England in the Euro Final at the Berlin Olympiastadion tomorrow. In virtually any sport, watching the global elite in action is always instructive. My trip to Crete set me thinking about []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/football-and-chess-the-art-of-play-from-crete-to-berlin/",
-         "pubDate" : "Sat, 13 Jul 2024 11:03:29",
-         "title" : "Football and chess: the art of play from Crete to Berlin"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3113",
-         "pubDate" : "Sat, 13 Jul 2024 10:36:20",
-         "title" : "USA and England triumph in World Senior Team Chess Championship 2024"
       }
    ]
 }
