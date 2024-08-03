@@ -26,6 +26,14 @@ news_feed (
          "title" : "World Rapid Teams: Chessy take the lead as Rapport beats Carlsen"
       },
       {
+         "description" : "It's nice to have everybody in the same room. The feel of the main tournament hall is just so much more vibrant when it's abuzz with almost 400 players all in the same stage of the game. When the three separate playing schedules merged last night for the seventh round of the 124th Annual U.S. Open, it really felt like a national event. <br /><br /> With two rounds to go, nine players are tied for first with 6/7 scores. Now that really feels like a national event. The $60,000 prize fund is up for grabs, with a number of top players still in the running for the $10,000 top prize and the spot in this fall's U.S. Championship on the horizon. <br /><br /> Today's annotations once again come from ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/all-together-now-nine-tied-first-after-merge-us-open",
+         "pubDate" : "Sat, 03 Aug 2024 00:00:00",
+         "title" : "All Together Now: Nine Tied For First After Merge in U.S. Open"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -144,6 +152,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/interview-with-chatgpt-you-think-ding-liren-will-remain-champion",
          "pubDate" : "Fri, 02 Aug 2024 08:29:46",
          "title" : "Interview with ChatGPT - You think Ding Liren will remain champion!?"
+      },
+      {
+         "description" : "Please find the Certificates here NATIONAL UNDER 17 :OPEN Rank Name 1 Sriram Adarsh Uppala 2 Arpith S Bijoy 3 Jaiveer Mahendru 4 Nandish V",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-national-under-17-chess-championship-2024/",
+         "pubDate" : "Fri, 02 Aug 2024 08:17:41",
+         "title" : "Certificates :National Under 17 Chess Championship 2024"
       },
       {
          "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the youngest current grandmaster and the fourth youngest GM in history. He reached the verge of another significant milestone las",
@@ -528,14 +544,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3130",
          "pubDate" : "Sun, 28 Jul 2024 14:02:04",
          "title" : "Vaclav Finek wins Czech Open 2024"
-      },
-      {
-         "description" : "The first of nine days is in the books for the 124th Annual U.S. Open in Norfolk, Virginia. This is the last year which will feature the \"traditional\" nine-day schedule, and 134 participants are celebrating (or mourning) the end of this tradition by competing at the one-game-a-day pace. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/124th-annual-us-open-and-tournaments-state-champions-begin-norfolk",
-         "pubDate" : "Sun, 28 Jul 2024 00:00:00",
-         "title" : "124th Annual U.S. Open and Tournaments of State Champions Begin in Norfolk"
       },
       {
          "description" : "Bullet Brawl&#39;s third most prolific winner, GM Oleksandr Bortnyk, added a seventh title to his resume and won $400 after outlasting Chess.com hyperbullet champion GM Andrew Tang and 21-time Bullet Brawl winner GM Daniel Naroditsky on Saturday. 14-y...",
@@ -960,30 +968,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/40551065/gukesh-falls-seventh-tough-day-3-superunited-rapid-blitz-2024-caruana-massive-lead?device=featurephone",
          "pubDate" : "Sat, 13 Jul 2024 23:14:07",
          "title" : "Gukesh falls to seventh on tough day 3 of SuperUnited Rapid & Blitz 2024; Caruana with massive lead"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3114",
-         "pubDate" : "Sat, 13 Jul 2024 14:12:25",
-         "title" : "SuperUnited Rapid & Blitz Croatia: Caruana wins rapid"
-      },
-      {
-         "description" : "YouTube videos, opening courses, the latest Chess Drama no matter your chess vice, it is hard to avoid it. In this newsletter, I want to offer a counter-intuitive way to waste less of your time on your chess vice: by planning your distractions. All or nothing For years, I've tried to be the perfect []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/procrastinate-less/",
-         "pubDate" : "Sat, 13 Jul 2024 12:58:00",
-         "title" : "How to procrastinate less"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111713933.cms\" />For Gukesh, the Olympiad will serve as a crucial preparation for his upcoming World Chess Championship match against the reigning champion, Ding Liren of China, scheduled for November. The young grandmaster aims to utilize this event to fine-tune his skills and strategies before the highly anticipated showdown. At just 18 years of age, Gukesh has already made a name for himself in the chess world, particularly after his remarkable victory at the esteemed Candidates tournament in Toronto earlier in April. ",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/gukesh-and-praggnanandhaa-to-headline-indian-team-in-45th-chess-olympiad/articleshow/111713933.cms",
-         "pubDate" : "Sat, 13 Jul 2024 11:48:03",
-         "title" : "Gukesh and Pragg to headline Indian team in 45th Chess Olympiad"
       }
    ]
 }
