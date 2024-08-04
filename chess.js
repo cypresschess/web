@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As we try to improve our chess, much of the work involves considerable analysis, which is hugely expedited by talking to our silicon masters. The important thing, however, is not merely to sit at the Oracle's feet and genuflect, but to ask sufficient questions so as to develop our own understanding and, on a very good day, to do some of the work ourselves. | Pictured: Ray Robson | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speelman-agony-218",
+         "pubDate" : "Sun, 04 Aug 2024 18:15:00",
+         "title" : "Jon Speelman: Analysis and the Oracle"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3139",
+         "pubDate" : "Sun, 04 Aug 2024 17:07:13",
+         "title" : "Al-Ain ACMG UAE become the new World Rapid Team Champions"
+      },
+      {
          "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 14.30 local time (11.30 CEST, 5.30 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/rapid-and-blitz-world-team-championships-live",
          "pubDate" : "Sun, 04 Aug 2024 11:20:00",
          "title" : "Rapid and Blitz World Team Championships - Live!"
+      },
+      {
+         "description" : "GM Daniil Dubov&#39;s only win of the 2024 World Rapid &#38;amp; Blitz Team Championships saw his team Al-Ain ACMG UAE take gold in a nailbiting finish. World Champion Ding Liren&#39;s Decade China Team took silver, with Pang Bo scoring 11/11 on board six, wh...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-3",
+         "pubDate" : "Sun, 04 Aug 2024 09:58:00",
+         "title" : "Dubov Clutch Win Gives Al-Ain World Rapid Team Championship Gold"
       },
       {
          "description" : "After 8 out of 12 rounds at the World Rapid Team Championship in Astana, the Al-Ain ACMG UAE have taken the lead with 14/16 match points - Daniil Dubov, Parham Maghsoodloo and Vladislav Artemiev play on the top three boards of the Emirati team. Decade China, led by world champion Ding Liren, stand in sole second place a match point behind, while Chessy (Richard Rapport) and Team MGD1 (Arjun Erigaisi) stand a match point further back. | Photo: FIDE / Maria Emelianova",
@@ -458,20 +482,20 @@ news_feed (
          "title" : "DMR election results - Bronze members' reps!"
       },
       {
-         "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wallows-bot",
-         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
-         "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
-      },
-      {
          "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
          "pubDate" : "Tue, 30 Jul 2024 07:00:00",
          "title" : "The 7 Best Games In 2024 So Far"
+      },
+      {
+         "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wallows-bot",
+         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
+         "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
       },
       {
          "description" : "After six grueling rounds in four days, the five invitational tournaments have concluded and the new champions of state champions have been crowned.<br /><br /> Below, we'll catch up with annotations from rounds four and five courtesy of IM Robert Shlyakhtenko, as well as highlights from this morning's final round. As a rough guide: if the board begins at the initial position, it's Robert's annotation. If it begins at a key moment later in the game, it's your author's. <br /><br /> More information about prizes and scholarships can be found on this year's program. The final standings for each tournament are available here, and more prize information will be available online shortly. <br /><b",
@@ -680,14 +704,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-crunchlabs-masters-5-things-we-learned",
          "pubDate" : "Thu, 25 Jul 2024 10:46:00",
          "title" : "5 Things We Learned - CrunchLabs Masters 2024"
-      },
-      {
-         "description" : "Chess.com is excited to announce a complete redesign of our popular Game Review feature. Analyzing your games is now more fun and intuitive, with all the features our members know and love put front and center of the Game Review experience. We&#39;r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/game-review-design-update",
-         "pubDate" : "Thu, 25 Jul 2024 08:00:00",
-         "title" : "Game Review And Analysis Now Even More Fun And Helpful With Updated Design And New Features"
       },
       {
          "description" : "",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-and-life-expectancy",
          "pubDate" : "Sun, 14 Jul 2024 20:00:00",
          "title" : "Chess and life expectancy"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3115",
-         "pubDate" : "Sun, 14 Jul 2024 18:58:50",
-         "title" : "Warmerdam and Keetman win Dutch Championship"
       }
    ]
 }
