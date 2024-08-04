@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 14.30 local time (11.30 CEST, 5.30 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rapid-and-blitz-world-team-championships-live",
+         "pubDate" : "Sun, 04 Aug 2024 11:20:00",
+         "title" : "Rapid and Blitz World Team Championships - Live!"
+      },
+      {
          "description" : "After 8 out of 12 rounds at the World Rapid Team Championship in Astana, the Al-Ain ACMG UAE have taken the lead with 14/16 match points - Daniil Dubov, Parham Maghsoodloo and Vladislav Artemiev play on the top three boards of the Emirati team. Decade China, led by world champion Ding Liren, stand in sole second place a match point behind, while Chessy (Richard Rapport) and Team MGD1 (Arjun Erigaisi) stand a match point further back. | Photo: FIDE / Maria Emelianova",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
