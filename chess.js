@@ -18,6 +18,14 @@ news_feed (
          "title" : "World Rapid Teams: Al-Ain top the standings, Carlsen beats Ding"
       },
       {
+         "description" : "And then there were four! After an intense eighth round that saw decisive results on each of the top nine boards, GMs Jianchao Zhou, Semen Khanin, Fidel Corrales, and Mackenzie Molner share the lead with 7/8 scores heading into the final round of the 124th Annual U.S. Open.<br /><br /> With Corrales having already played both Molner and Zhou (drawing each game), we should expect the final pairings to be Khanin - Corrales and Molner - Zhou. Games begin at 3 p.m. EDT, with live commentary from WGM Sabina Foisor and Gopal Menon on our Twitch and YouTube pages.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/corrales-molner-take-inside-track-us-championship-spot-one-round-go-us-open",
+         "pubDate" : "Sun, 04 Aug 2024 00:00:00",
+         "title" : "Corrales, Molner Take Inside Track On U.S. Championship Spot With One Round To Go In U.S. Open"
+      },
+      {
          "description" : "Two of the big favourites to win the British Championship clinched crucial victories on Saturday to go into the final round in shared first place - top seed David Howell and third seed Gawain Jones. Only the co-leaders or Matthew Wadsworth, who is the one player standing a half point back, have chances of grabbing the title, as Howell and Jones will face each other in Sunday's final round. | Photo: Dennis Dicen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -530,14 +538,6 @@ news_feed (
          "title" : "World Rapid and Blitz Team Championships start in Astana this week"
       },
       {
-         "description" : "After the second day of games in Norfolk, Virginia, the traditional schedule of the U.S. Open is just getting started. 25 players still boast perfect scores after two rounds, despite a couple of upsets (more on that later). <br /><br /> The five tournaments of state champions, however, are a different story. After the first double-round day, there are between one and four players with perfect 3/3 scores in each section. By the end of today, we'll know who has the inside track on the title of \"champion of champions\" before Tuesday's final round. <br /><br /> Below are annotations from round two (update: and round three!) of the invitationals courtesy of IM Robert Shlyakhtenko and two from the",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/leaderboard-takes-shape-halfway-through-tournaments-champions-us-open",
-         "pubDate" : "Mon, 29 Jul 2024 00:00:00",
-         "title" : "Leaderboard Takes Shape Halfway Through Tournaments of Champions at U.S. Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3115",
          "pubDate" : "Sun, 14 Jul 2024 18:58:50",
          "title" : "Warmerdam and Keetman win Dutch Championship"
-      },
-      {
-         "description" : " U.S. Chess Online reports another milestone for FM Tani Adewumi! Now 13 years old, Adewumi won the 2024 U.S. Cadet title in Lisle, Illinois. The tournament was held June 20th-23rd and invited the top players under 16. Winning with a score of 6/7, he was a full two points ahead of the field, meaning the The post <a href=\"https://www.thechessdrum.net/blog/2024/07/14/tani-adewumi-wins-u-s-cadet/\">Tani Adewumi wins U.S. Cadet!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/07/14/tani-adewumi-wins-u-s-cadet/",
-         "pubDate" : "Sun, 14 Jul 2024 14:25:56",
-         "title" : "Tani Adewumi wins U.S. Cadet!"
       }
    ]
 }
