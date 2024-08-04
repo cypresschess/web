@@ -1,4 +1,6 @@
 jtable([
+"HOUSTON","2024-08-03","16","<a href=http://www.uschess.org/msa/XtblMain.php?202408037482 target='_blank'>CHESSPANDA08032024SATURDAY</a>",
+"SPRING","2024-08-02","37","<a href=http://www.uschess.org/msa/XtblMain.php?202408027232 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "CYPRESS","2024-08-02","32","<a href=http://www.uschess.org/msa/XtblMain.php?202408027152 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "HOUSTON","2024-07-02  - 07-30","23","<a href=http://www.uschess.org/msa/XtblMain.php?202407305472 target='_blank'>JULY 2024 TUESDAY NIGHT SWISS</a>",
 "KINGWOOD","2024-07-27","7","<a href=http://www.uschess.org/msa/XtblMain.php?202407274742 target='_blank'>KINGWOOD BLITZ JULY 2024</a>",
@@ -197,6 +199,4 @@ jtable([
 "HOUSTON","2024-01-13","12","<a href=http://www.uschess.org/msa/XtblMain.php?202401139362 target='_blank'>JANUARY 13TH SCHOLASTIC</a>",
 "HOUSTON","2024-01-13","13","<a href=http://www.uschess.org/msa/XtblMain.php?202401139142 target='_blank'>KINGWOOD BLITZ KNIGHTS 0124</a>",
 "HOUSTON","2024-01-13","140","<a href=http://www.uschess.org/msa/XtblMain.php?202401138772 target='_blank'>WHARTON ACADEMY SCHOLASTIC</a>",
-"HOUSTON","2024-01-13","10","<a href=http://www.uschess.org/msa/XtblMain.php?202401130132 target='_blank'>CHESSPANDA01132024SATURDAY--ALL</a>",
-"HOUSTON","2024-01-12","32","<a href=http://www.uschess.org/msa/XtblMain.php?202401128472 target='_blank'>THE FRIDAY KNIGHTS</a>",
 ]);
