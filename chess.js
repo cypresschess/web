@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3140",
+         "pubDate" : "Sun, 04 Aug 2024 21:43:41",
+         "title" : "British Championship: Gawain Jones captures third title"
+      },
+      {
+         "description" : " 110th British Chess Championships took place 25th Jul to Sun 4th Aug 2024.David Wl Howell, Michael Adams, Gawain Cb Jones, Luke J Mcshane, Stuart C Conquest, Ameet K Ghasi, Svyatoslav Bazakutsa, Shreyas Royal, Harry Grieve, Eldar Gasanov, Matthew J Wadsworth, Simon K Williams etc. In one of the best championship in many years there was a close finish and a tie-break match between David Howell and Gawain Jones after they tied on 7/9. Jones came from behind to beat Howell 2.5-1.5. This was a real heartening return for an event that I feared for only quite recently. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/110th-british-chess-championships-2024",
+         "pubDate" : "Sun, 4 Aug 2024 19:38:00",
+         "title" : "110th British Chess Championships 2024 - Games and Results"
+      },
+      {
          "description" : "As we try to improve our chess, much of the work involves considerable analysis, which is hugely expedited by talking to our silicon masters. The important thing, however, is not merely to sit at the Oracle's feet and genuflect, but to ask sufficient questions so as to develop our own understanding and, on a very good day, to do some of the work ourselves. | Pictured: Ray Robson | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,7 +42,7 @@ news_feed (
          "title" : "Rapid and Blitz World Team Championships - Live!"
       },
       {
-         "description" : "GM Daniil Dubov&#39;s only win of the 2024 World Rapid &#38;amp; Blitz Team Championships saw his team Al-Ain ACMG UAE take gold in a nailbiting finish. World Champion Ding Liren&#39;s Decade China Team took silver, with Pang Bo scoring 11/11 on board six, wh...",
+         "description" : "GM Daniil Dubov&#39;s only win of the 2024 World Rapid &#38;amp; Blitz Team Championships saw his team Al-Ain ACMG UAE take gold in a nail-biting finish. World Champion Ding Liren&#39;s Decade China Team took silver, with Pang Bo scoring 11/11 on board six, w...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-3",
@@ -602,14 +618,6 @@ news_feed (
          "title" : "A Lilliputian world championship"
       },
       {
-         "description" : " 110th British Chess Championships 25th Jul to Sun 4th Aug 2024.David Wl Howell, Michael Adams, Gawain Cb Jones, Luke J Mcshane, Stuart C Conquest, Ameet K Ghasi, Svyatoslav Bazakutsa, Shreyas Royal, Harry Grieve, Eldar Gasanov, Matthew J Wadsworth, Simon K Williams etc. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/110th-british-chess-championships-2024",
-         "pubDate" : "Fri, 26 Jul 2024 19:38:00",
-         "title" : "110th British Chess Championships 2024 - Games and Results"
-      },
-      {
          "description" : "GM Magnus Carlsen crushed GM Tuan Minh Le with a dominating 20.5-3.5 score in a one-sided contest in the first match of the second day of the 2024 Speed Chess Championship. But the day belonged to the former world championship contender GM Ian Nep...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -920,22 +928,6 @@ news_feed (
          "link" : "https://www.espn.com/chess/story/_/id/40565494/gukesh-finishes-seventh-vidit-ninth-caruana-takes-2024-superunited-rapid-blitz-croatia-crown?device=featurephone",
          "pubDate" : "Mon, 15 Jul 2024 00:50:29",
          "title" : "Gukesh finishes seventh, Vidit ninth as Caruana takes 2024 SuperUnited Rapid & Blitz Croatia crown"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3116",
-         "pubDate" : "Sun, 14 Jul 2024 22:19:33",
-         "title" : "2024 SuperUnited Rapid & Blitz Croatia: Caruana rules supreme"
-      },
-      {
-         "description" : "In our previous section on how playing chess may affect your life, we asked our readers to guess whether chess players could expect to live longer or shorter lives, on average, than the rest of the non-chess people surrounding them. Today in the final section of the series, Frederic Friedel and Christian Hesse present some statistical results on this question.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-and-life-expectancy",
-         "pubDate" : "Sun, 14 Jul 2024 20:00:00",
-         "title" : "Chess and life expectancy"
       }
    ]
 }
