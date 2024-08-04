@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 8 out of 12 rounds at the World Rapid Team Championship in Astana, the Al-Ain ACMG UAE have taken the lead with 14/16 match points - Daniil Dubov, Parham Maghsoodloo and Vladislav Artemiev play on the top three boards of the Emirati team. Decade China, led by world champion Ding Liren, stand in sole second place a match point behind, while Chessy (Richard Rapport) and Team MGD1 (Arjun Erigaisi) stand a match point further back. | Photo: FIDE / Maria Emelianova",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-2",
+         "pubDate" : "Sun, 04 Aug 2024 07:50:00",
+         "title" : "World Rapid Teams: Al-Ain top the standings, Carlsen beats Ding"
+      },
+      {
          "description" : "Two of the big favourites to win the British Championship clinched crucial victories on Saturday to go into the final round in shared first place - top seed David Howell and third seed Gawain Jones. Only the co-leaders or Matthew Wadsworth, who is the one player standing a half point back, have chances of grabbing the title, as Howell and Jones will face each other in Sunday's final round. | Photo: Dennis Dicen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-3-2024",
          "pubDate" : "Sat, 03 Aug 2024 15:05:00",
          "title" : "Nakamura, Naroditsky, Tang Confirm All-American Podium"
-      },
-      {
-         "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 14.30 local time (11.30 CEST, 5.30 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-and-blitz-world-team-championships-live",
-         "pubDate" : "Sat, 03 Aug 2024 11:20:00",
-         "title" : "Rapid and Blitz World Team Championships - Live!"
       },
       {
          "description" : "\"There's this monstrous idiot - this monstrous elected idiot - who keeps telling his fellow-idiots to throw my books on a bonfire and beat me up In the street&hellip;\" The author of these words was Stefan Zweig (1881-1942) and I first read and transcribed them six decades ago. He was the Austrian-Jewish &eacute;migr&eacute; author of Schachnovelle (variously []",
