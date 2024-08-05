@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3141",
+         "pubDate" : "Mon, 05 Aug 2024 13:51:01",
+         "title" : "Dragnev and Newrkla win 2024 Austrian Championship"
+      },
+      {
          "description" : "Normally, the three Fritztrainers by the Indian Super-Grandmasters individually add up to €169.70. Bought together the bundle costs €94.90. But this week in our Summer Special you can get all three for €59.90! That is a massive saving. They are products that will directly add to your playing strength, and entertain you at the same time. Don't miss this opportunity - the special offer extends from August 5-11.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,6 +34,14 @@ news_feed (
          "title" : "Russia celebrates team victory"
       },
       {
+         "description" : "GM Magnus Carlsen-led WR Chess Team beat GM Arjun Erigaisi&#39;s Team MGD1 in the final to win the 2024 World Blitz Team Championship. They won all seven matches in the group stages, cruised to the Quarterfinals, then defeated GMHans.com (GM Hans Niem...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-4",
+         "pubDate" : "Mon, 05 Aug 2024 07:55:50",
+         "title" : "Carlsen Leads WR Chess To World Blitz Team Championship Gold"
+      },
+      {
          "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 11.00 local time (8.00 CEST, 2.00 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,22 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-3",
          "pubDate" : "Mon, 05 Aug 2024 06:15:00",
          "title" : "Al-Ain win the World Rapid Team Championship in Astana"
+      },
+      {
+         "description" : "15-year-old IM Shreyas Royal, who faced eviction from the United Kingdom eight years ago due to his father&#39;s expiring work visa, has now achieved his dream of becoming the youngest British chess grandmaster in history.&#38;nbsp; Royal is set to beco...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/shreyas-royal-clinches-final-norm-becomes-uks-youngest-grandmaster-ever",
+         "pubDate" : "Mon, 05 Aug 2024 04:48:26",
+         "title" : "Shreyas Royal Becomes Youngest British Grandmaster In History"
+      },
+      {
+         "description" : "The final round of the 124th Annual U.S. Open went down to the wire in Norfolk, Virginia. With four players entering Sunday's games with 7/8 scores, it was anybody's guess who would win the championship. In the end, GMs Jianchao Zhou and Semen Khanin won their respective games over GMs Mackenzie Molner and Fidel Corrales.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Left: Mackenzie Molner (L) faces off against Jianchao Zhou, with Semen Khanin and Fidel Corrales behind them. R",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/photo-report-khanin-wins-124th-annual-us-open-liang-qualifies-2024-us-championship",
+         "pubDate" : "Mon, 05 Aug 2024 00:00:00",
+         "title" : "Photo report: Khanin Wins 124th Annual U.S. Open, Liang Qualifies for 2024 U.S. Championship"
       },
       {
          "description" : "",
@@ -522,14 +554,6 @@ news_feed (
          "title" : "DMR election results - Bronze members' reps!"
       },
       {
-         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
-         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
-         "title" : "The 7 Best Games In 2024 So Far"
-      },
-      {
          "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -538,12 +562,12 @@ news_feed (
          "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
       },
       {
-         "description" : "After six grueling rounds in four days, the five invitational tournaments have concluded and the new champions of state champions have been crowned.<br /><br /> Below, we'll catch up with annotations from rounds four and five courtesy of IM Robert Shlyakhtenko, as well as highlights from this morning's final round. As a rough guide: if the board begins at the initial position, it's Robert's annotation. If it begins at a key moment later in the game, it's your author's. <br /><br /> More information about prizes and scholarships can be found on this year's program. The final standings for each tournament are available here, and more prize information will be available online shortly. <br /><b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/champions-champions-crowned-invitationals-finish-day-four-124th-annual-us-open",
-         "pubDate" : "Tue, 30 Jul 2024 00:00:00",
-         "title" : "Champions of Champions Crowned as Invitationals Finish on Day Four of 124th Annual U.S. Open"
+         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
+         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
+         "title" : "The 7 Best Games In 2024 So Far"
       },
       {
          "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 victory over GM Alexander Grischuk in a Round of 16 match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
@@ -712,22 +736,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/us-junior-girls-and-seniors-2024",
          "pubDate" : "Thu, 25 Jul 2024 12:24:00",
          "title" : "US Junior, Girls and Seniors 2024 - Games and Results"
-      },
-      {
-         "description" : "$12 million in funding has been secured to organize a series of &#34;Freestyle&#34; chess tournaments similar to the first event held in February of this year in Weissenhaus, Germany. Initiators GM Magnus Carlsen and Jan Henric Buettner joined forces with...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/12-million-raised-for-revolutionary-freestyle-series-of-tournaments",
-         "pubDate" : "Thu, 25 Jul 2024 11:14:00",
-         "title" : "$12 Million Raised For 'Revolutionary' Freestyle Series Of Tournaments"
-      },
-      {
-         "description" : "GM Maxime Vachier-Lagrave just won Division I of the CrunchLabs Masters 2024 on Wednesday, while GM Alexander Grischuk won Division II and GM Arjun Erigaisi Division III. We&#39;ll go over the five biggest takeaways from the third leg, of four, of the...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-crunchlabs-masters-5-things-we-learned",
-         "pubDate" : "Thu, 25 Jul 2024 10:46:00",
-         "title" : "5 Things We Learned - CrunchLabs Masters 2024"
       },
       {
          "description" : "",
