@@ -58,6 +58,14 @@ news_feed (
          "title" : "World Rapid Teams: Al-Ain top the standings, Carlsen beats Ding"
       },
       {
+         "description" : "Kevin Pryor was named the President of US Chess today. Pryor, who was Vice President to this point, stated, \"Today I was honored to be elected the 32nd President of US Chess, an organization with almost 118,000 members. I am grateful to the Executive Board for the confidence they have in me to lead the organization at this time. I thank outgoing President Randy Bauer for his two years of leading our federation and for well over a decade of service on the Board. I look forward to the wonderful things we all will do together to further the game we all love.\"<br /><br /> Here more from Pryor in this brief interview:<br /><br /><br /> Kevin Pryor is the new US Chess President, @jfernandez is our",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/kevin-pryor-named-president-us-chess",
+         "pubDate" : "Sun, 04 Aug 2024 00:00:00",
+         "title" : "Kevin Pryor Named President of US Chess"
+      },
+      {
          "description" : "And then there were four! After an intense eighth round that saw decisive results on each of the top nine boards, GMs Jianchao Zhou, Semen Khanin, Fidel Corrales, and Mackenzie Molner share the lead with 7/8 scores heading into the final round of the 124th Annual U.S. Open.<br /><br /> With Corrales having already played both Molner and Zhou (drawing each game), we should expect the final pairings to be Khanin - Corrales and Molner - Zhou. Games begin at 3 p.m. EDT, with live commentary from WGM Sabina Foisor and Gopal Menon on our Twitch and YouTube pages.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -522,14 +530,6 @@ news_feed (
          "title" : "Champions of Champions Crowned as Invitationals Finish on Day Four of 124th Annual U.S. Open"
       },
       {
-         "description" : "This week's puzzles come from the Pan-American Youth Championship XXXIV, held earlier this month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship",
-         "pubDate" : "Tue, 30 Jul 2024 00:00:00",
-         "title" : "Tactics Tuesday: Pan-American Youth Championship"
-      },
-      {
          "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 victory over GM Alexander Grischuk in a Round of 16 match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -786,7 +786,7 @@ news_feed (
          "title" : "From Paris and the world with chess: FIDE celebrates 100 years since its founding"
       },
       {
-         "description" : " Shama Yisrael in the process of making history at the 2024 Pincrest Independence Open.Photo courtesy of South Miami Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the coveted honor. After playing in several tournaments in a week's time, the 20-year-old earned her last few The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "description" : " National Master Shama YisraelPhoto by Otis Wilson/954 Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the coveted honor. After playing in several tournaments in a week's time, the 20-year-old earned her last few points at the Pincrest Independence Open. Beginning in early June, Shama The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/",
@@ -920,14 +920,6 @@ news_feed (
          "link" : "https://aicf.in/live-games-link-for-34th-national-under-17-open-girls-chess-championships-2024/",
          "pubDate" : "Mon, 15 Jul 2024 06:58:51",
          "title" : "Live games link for 34th National Under - 17 Open & Girls Chess Championships 2024"
-      },
-      {
-         "description" : "Gukesh's blitz score of 5 across two days was the lowest of all participants.",
-         "iconLink" : "https://cypresschess.github.io/web/ESPN.png",
-         "iconName" : "ESPN",
-         "link" : "https://www.espn.com/chess/story/_/id/40565494/gukesh-finishes-seventh-vidit-ninth-caruana-takes-2024-superunited-rapid-blitz-croatia-crown?device=featurephone",
-         "pubDate" : "Mon, 15 Jul 2024 00:50:29",
-         "title" : "Gukesh finishes seventh, Vidit ninth as Caruana takes 2024 SuperUnited Rapid & Blitz Croatia crown"
       }
    ]
 }
