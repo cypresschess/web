@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 11.00 local time (8.00 CEST, 2.00 ET).",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rapid-and-blitz-world-team-championships-live",
+         "pubDate" : "Mon, 05 Aug 2024 07:45:00",
+         "title" : "Rapid and Blitz World Team Championships - Live!"
+      },
+      {
+         "description" : "The final four rounds of the World Rapid Team Championship were played on Sunday in Astana. Al-Ain ACMG UAE, which entered the final day of action in the lead, won the event after achieving a close victory over Theme International Trading in the twelfth round - thanks to a clutch win by Daniil Dubov on the top board. Decade China, with reigning world champions Ding Liren and Ju Wenjun, grabbed the silver, while WR Chess, headed by Magnus Carlsen, took the bronze. | Photo: FIDE / Ruslan Mazunin",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-3",
+         "pubDate" : "Mon, 05 Aug 2024 06:15:00",
+         "title" : "Al-Ain win the World Rapid Team Championship in Astana"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -32,14 +48,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3139",
          "pubDate" : "Sun, 04 Aug 2024 17:07:13",
          "title" : "Al-Ain ACMG UAE become the new World Rapid Team Champions"
-      },
-      {
-         "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 14.30 local time (11.30 CEST, 5.30 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-and-blitz-world-team-championships-live",
-         "pubDate" : "Sun, 04 Aug 2024 11:20:00",
-         "title" : "Rapid and Blitz World Team Championships - Live!"
       },
       {
          "description" : "GM Daniil Dubov&#39;s only win of the 2024 World Rapid &#38;amp; Blitz Team Championships saw his team Al-Ain ACMG UAE take gold in a nail-biting finish. World Champion Ding Liren&#39;s Decade China Team took silver, with Pang Bo scoring 11/11 on board six, w...",
@@ -912,14 +920,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championship-2024-official-regulations/",
          "pubDate" : "Mon, 15 Jul 2024 07:33:48",
          "title" : "European Women's Rapid & Blitz Chess Championship 2024 - Official regulations"
-      },
-      {
-         "description" : "Please find the live games link for the 34th National Under - 17 Open &#38; Girls Chess Championships 2023 scheduled at Gymnasium Hall, Panjab University, Sector 14, Chandigarh from 15th to 23rd July, 2024. Open",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-link-for-34th-national-under-17-open-girls-chess-championships-2024/",
-         "pubDate" : "Mon, 15 Jul 2024 06:58:51",
-         "title" : "Live games link for 34th National Under - 17 Open & Girls Chess Championships 2024"
       }
    ]
 }
