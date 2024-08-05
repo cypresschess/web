@@ -58,7 +58,7 @@ news_feed (
          "title" : "Russia celebrates team victory"
       },
       {
-         "description" : "GM Magnus Carlsen-led WR Chess Team beat GM Arjun Erigaisi&#39;s Team MGD1 in the final to win the 2024 World Blitz Team Championship. They won all seven matches in the group stages, cruised to the Quarterfinals, then defeated GMHans.com (GM Hans Niem...",
+         "description" : "GM Magnus Carlsen-led WR Chess Team beat GM Arjun Erigaisi&#39;s Team MGD1 in the Final to win the 2024 World Blitz Team Championship. WR Chess won all seven matches in the group stages and cruised into the Quarterfinals. There they defeated GMHans.co...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-4",
