@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Normally, the three Fritztrainers by the Indian Super-Grandmasters individually add up to €169.70. Bought together the bundle costs €94.90. But this week in our Summer Special you can get all three for €59.90! That is a massive saving. They are products that will directly add to your playing strength, and entertain you at the same time. Don't miss this opportunity - the special offer extends from August 5-11.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/three-stars-from-india",
+         "pubDate" : "Mon, 05 Aug 2024 11:32:11",
+         "title" : "Three stars from India"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Kevin Pryor</strong>, a retired corporate lawyer from Florida, is the <a href=\"https://new.uschess.org/news/kevin-pryor-named-president-us-chess\">first black person at the helm of</a> <strong>USChess</strong>, following <strong>Randy Bauer</strong>, who has come under fire for his alleged retaliation against <strong>Jennifer Shahade</strong> for making the Ramirez affair public. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/first-black-uschess-president/",
+         "pubDate" : "Mon, 05 Aug 2024 10:04:13",
+         "title" : "First black USChess president"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian federation <a href=\"https://ruchess.ru/news/all/al_ain_acmg_uae_stala_pobeditelem_komandnogo_chempionata_mira/\">celebrates the victory of the predominantly Russian team</a> of Emirates sponsored <strong>Al-Ain ACMG</strong> at the <strong>Rapid Team World Championship</strong> in Astana. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/russia-celebrates-team-victory/",
+         "pubDate" : "Mon, 05 Aug 2024 10:01:21",
+         "title" : "Russia celebrates team victory"
+      },
+      {
          "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 11.00 local time (8.00 CEST, 2.00 ET).",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,7 +90,7 @@ news_feed (
          "title" : "World Rapid Teams: Al-Ain top the standings, Carlsen beats Ding"
       },
       {
-         "description" : "Kevin Pryor was named the President of US Chess today. Pryor, who was Vice President to this point, stated, \"Today I was honored to be elected the 32nd President of US Chess, an organization with almost 118,000 members. I am grateful to the Executive Board for the confidence they have in me to lead the organization at this time. I thank outgoing President Randy Bauer for his two years of leading our federation and for well over a decade of service on the Board. I look forward to the wonderful things we all will do together to further the game we all love.\"<br /><br /> Here more from Pryor in this brief interview:<br /><br /><br /> Kevin Pryor is the new US Chess President, @jfernandez is our",
+         "description" : "Kevin Pryor was named the President of US Chess today. Pryor, who was Vice President to this point, stated, \"Today I was honored to be elected the 32nd President of US Chess, an organization with over 110,000 members. I am grateful to the Executive Board for the confidence they have in me to lead the organization at this time. I thank outgoing President Randy Bauer for his two years of leading our federation and for well over a decade of service on the Board. I look forward to the wonderful things we all will do together to further the game we all love.\"<br /><br /> Hear more from Pryor in this brief interview:<br /><br /><br /> Kevin Pryor is the new US Chess President, @jfernandez is our n",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/kevin-pryor-named-president-us-chess",
@@ -378,14 +402,6 @@ news_feed (
          "title" : "FIDE August 2024 rating list published"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Julius Baer</strong>, a Swiss bank specializing in wealth management, <a href=\"https://www.chess.com/news/view/announcing-julius-baer-womens-speed-chess-championship-2024\">continues to partner</a> with <strong>Chess.com</strong> on the <strong>Women Speed Championship</strong>, after sponsoring the <strong>Champions Chess Tour</strong> and <a href=\"https://dieschulschachprofis.ch/julius-baer-premium-sponsor-2024/\">children chess camps earlier</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/julius-baer-continues-sponsorship/",
-         "pubDate" : "Thu, 01 Aug 2024 15:00:23",
-         "title" : "Julius Baer continues sponsorship"
-      },
-      {
          "description" : "The State of Chess returned on Thursday with several important updates. Chief Chess Officer&#38;nbsp;Danny Rensch led the discussion that focused on community updates, fair play changes, site updates, and big media developments. You can watch the fu...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -408,14 +424,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-wins-the-world-team-chess-solving-championships/",
          "pubDate" : "Thu, 01 Aug 2024 08:23:49",
          "title" : "UK wins the World Team Chess Solving Championships!"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The 50th <strong>Computer Chess World Championship</strong> held in October in Santiago de Compostela during the <strong>ICGA</strong> conference <a href=\"https://www.ecai2024.eu/programme/world-computer-chess-championships\">will be its last edition</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/last-computer-championship/",
-         "pubDate" : "Thu, 01 Aug 2024 07:43:56",
-         "title" : "Last computer championship"
       },
       {
          "description" : "Chess.com is excited to announce the 2024 edition of the Julius Baer Women&#39;s Speed Chess Championship, Chess.com&#39;s premier chess event for women. This year&#39;s event will feature an expanded field of 16 of the strongest women chess players in the wo...",
@@ -888,38 +896,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/gct-superunited-rapid-and-blitz-croatia-2024",
          "pubDate" : "Mon, 15 Jul 2024 17:57:00",
          "title" : "GCT SuperUnited Rapid and Blitz Croatia 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3118",
-         "pubDate" : "Mon, 15 Jul 2024 11:07:50",
-         "title" : "FIDE Celebrates Centenary with FIDE100 Awards"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3117",
-         "pubDate" : "Mon, 15 Jul 2024 09:07:46",
-         "title" : "FIDE World Championships 2026: Call for bids"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3119",
-         "pubDate" : "Mon, 15 Jul 2024 08:51:45",
-         "title" : "Belgian Championship: Daniel Dardha wins fourth title"
-      },
-      {
-         "description" : "The European Women's Rapid and Blitz Chess Championship 2024 will take place from 9-13 January 2025 in Monte Carlo. The Championship is open to all players representing Chess Federations which are ECU members regardless of their title and rating. There is no limit to the number of participants per federation. Registration starts after 1st August 2024, and applications must be sent to the Tournament Director, Jean Michel Rapaire by mail: cemc@libello.com. Registration deadline is December 20th. The first event on []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/european-womens-rapid-blitz-chess-championship-2024-official-regulations/",
-         "pubDate" : "Mon, 15 Jul 2024 07:33:48",
-         "title" : "European Women's Rapid & Blitz Chess Championship 2024 - Official regulations"
       }
    ]
 }
