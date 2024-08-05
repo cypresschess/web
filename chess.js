@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Gawain Jones defeated David Howell in a hard-fought series of rapid and blitz tiebreakers to win the 110th edition of the British Championship in Hull. After drawing their classical encounter, the contenders for the title traded wins in the first set of rapid tiebreakers, which meant the Championship would be decided in blitz - Jones drew with black and won with white to claim his third British title. | Photo: Dennis Dicen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-9",
+         "pubDate" : "Mon, 05 Aug 2024 18:45:00",
+         "title" : "Jones beats Howell in tiebreaks, claims third British title"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A 30 minute documentary by <strong>Dominik Toepfer</strong> on the story of <strong>Lichess</strong> has been <a href=\"https://www.youtube.com/watch?v=H39AHPSBcGc\">released on Youtube</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/lichess-documentary-released/",
+         "pubDate" : "Mon, 05 Aug 2024 16:25:14",
+         "title" : "Lichess documentary released"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3142",
+         "pubDate" : "Mon, 05 Aug 2024 15:58:59",
+         "title" : "Magnus Carlsen leads WR Chess to World Blitz team crown"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -38,7 +62,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-4",
-         "pubDate" : "Mon, 05 Aug 2024 07:55:50",
+         "pubDate" : "Mon, 05 Aug 2024 07:55:00",
          "title" : "Carlsen Leads WR Chess To World Blitz Team Championship Gold"
       },
       {
@@ -82,7 +106,7 @@ news_feed (
          "title" : "British Championship: Gawain Jones captures third title"
       },
       {
-         "description" : " 110th British Chess Championships took place 25th Jul to Sun 4th Aug 2024.David Wl Howell, Michael Adams, Gawain Cb Jones, Luke J Mcshane, Stuart C Conquest, Ameet K Ghasi, Svyatoslav Bazakutsa, Shreyas Royal, Harry Grieve, Eldar Gasanov, Matthew J Wadsworth, Simon K Williams etc. In one of the best championship in many years there was a close finish and a tie-break match between David Howell and Gawain Jones after they tied on 7/9. Jones came from behind to beat Howell 2.5-1.5. This was a real heartening return for an event that I feared for only quite recently. ",
+         "description" : " 110th British Chess Championships took place 25th Jul to Sun 4th Aug 2024.David Wl Howell, Michael Adams, Gawain Cb Jones, Luke J Mcshane, Stuart C Conquest, Ameet K Ghasi, Svyatoslav Bazakutsa, Shreyas Royal, Harry Grieve, Eldar Gasanov, Matthew J Wadsworth, Simon K Williams etc. In one of the best championship in many years there was a close finish and a tie-break match between David Howell and Gawain Jones after they tied on 7/9. Jones came from behind to beat Howell 2.5-1.5. This was a real heartening return for an event that I feared for only quite recently. 15 year old Shreyas Royal secured the GM title with his draw against Michael Adams in the final round, he says this was his fifth",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/110th-british-chess-championships-2024",
@@ -218,15 +242,7 @@ news_feed (
          "title" : "Moroni Claims Spell Chess Crown In Grand Final Reset"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> FIDE and its affiliates award (at least) 106 individual and 12 team world championship titles in chess. Is this a record for a sport without weight categories? </div> <div class='topimage'><div class=\"image panorama\"><figure> <a href=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.1920.jpeg\" title=\"12 world school chess champions have been crowned in Peru recently. photo: fide.com\" data-title=\"12 world school chess champions have been crowned in Peru recently. (photo: fide.com)\" class=\"js-img\"> <img itemprop=\"image\" src=\"https://www.chesstech.org/files/bildschirmfoto-2024-08-01-um-08-43.480.jpeg?v=1\" alt=\"12 world school chess ch",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/118-official-world-championships-and/",
-         "pubDate" : "Fri, 02 Aug 2024 16:49:25",
-         "title" : "118 official world championships and counting"
-      },
-      {
-         "description" : " The FIDE World Rapid and Blitz Team Championships take place in Almaty Fri 2nd Aug to Mon 5th Aug 2024. Leading players Magnus Carlsen, Ding Liren, Ian Nepomniachtchi etc. ",
+         "description" : " The FIDE World Rapid and Blitz Team Championships took place in Almaty Fri 2nd Aug to Mon 5th Aug 2024. Leading players Magnus Carlsen, Ding Liren, Ian Nepomniachtchi etc. Fourth seeds Al-Ain ACMG UAE won the rapid title ahead of Decade China Team and the favourites WR Chess Team. WR Chess Team did win the blitz final against Team MGD1. All games now available.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2024",
@@ -288,14 +304,6 @@ news_feed (
          "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-jammu-from-20-to-21-july-2024/",
          "pubDate" : "Fri, 02 Aug 2024 08:31:31",
          "title" : "Certificates for SNA Seminar held at Jammu from 20 to 21 July 2024"
-      },
-      {
-         "description" : "Please find the Certificates here NATIONAL UNDER 17 :OPEN Rank Name 1 Sriram Adarsh Uppala 2 Arpith S Bijoy 3 Jaiveer Mahendru 4 Nandish V",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-national-under-17-chess-championship-2024/",
-         "pubDate" : "Fri, 02 Aug 2024 08:17:41",
-         "title" : "Certificates :National Under 17 Chess Championship 2024"
       },
       {
          "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the youngest current grandmaster and the fourth youngest GM in history. He reached the verge of another significant milestone las",
@@ -896,14 +904,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chess-can-be-such-fun",
          "pubDate" : "Tue, 16 Jul 2024 08:00:00",
          "title" : "Chess can be such fun!"
-      },
-      {
-         "description" : " The Grand Chess Tour continued with the SuperUnited Rapid and Blitz Croatia in Zagreb. Players: Ian Nepomniachtchi, Fabiano Caruana, Levon Aronian, Ivan Saric, Wesley So, D Gukesh, Anish Giri, Maxime Vachier-Lagrave, Santosh Gujrathi Vidit and Alireza Firouzja. Magnus Carlsen withdrew from the event at the very last moment and the sad news of the passing of his mother soon followed. Fabiano Caruana was the clear winner of the event, he won the rapid by 1.5 points and finished 3rd 1 point off the leaders in the blitz",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/gct-superunited-rapid-and-blitz-croatia-2024",
-         "pubDate" : "Mon, 15 Jul 2024 17:57:00",
-         "title" : "GCT SuperUnited Rapid and Blitz Croatia 2024 - Games and Results"
       }
    ]
 }
