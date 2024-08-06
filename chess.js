@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "UP Sports Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination at Indra",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-at-bijnor-up-on-27-28-july-2024/",
+         "pubDate" : "Tue, 06 Aug 2024 06:44:43",
+         "title" : "Final Report of Senior National Arbiter Seminar & Examination at Bijnor ,UP on 27-28 July 2024"
+      },
+      {
          "description" : "The WR Chess Team was unable to defend the title of World Rapid Team champions. Instead, Wadim Rosenstein's squas won the new title in the blitz category. WR Chess narrowly defeated MGD1 in the final encounter. Chessy, with Richard Rapport on the top board, and Al-Ain ACMG UAE, which won the rapid event, were the teams that made it to the semifinals. | Photos: FIDE / Maria Emelianova and Ruslan Mazunin",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
