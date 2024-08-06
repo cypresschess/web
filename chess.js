@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Please find live link for 23rd Tamil Nadu IM norm tournament starts on 6th Aug 2024. Live Link :&#160;https://live.tamilchess.com/23rd-im-norm-chennai/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-games-23rd-tamil-nadu-im-tournament-06-aug-2024/",
+         "pubDate" : "Tue, 06 Aug 2024 11:20:55",
+         "title" : "Live Games => 23rd Tamil Nadu IM Tournament - 06 Aug 2024"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>French Chess Federation</strong> is <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=15033\">present throughout this week at the Club France fanzone</a> of the <strong>Olympic Games</strong> at Paris-La Villette with GMs <strong>Marie Sebag</strong> and <strong>Laurent Fressinet.</strong> </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/chess-at-paris-olympics/",
+         "pubDate" : "Tue, 06 Aug 2024 08:35:33",
+         "title" : "Chess at Paris Olympics"
+      },
+      {
+         "description" : "For the 2024/25 Fantasy Premier League, why don't you join &#8216;Premier Chess', the long standing league for chess players? Joining the league couldn't be easier....",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2024/",
+         "pubDate" : "Tue, 06 Aug 2024 08:00:41",
+         "title" : "Premier League Fantasy Football 2024"
+      },
+      {
          "description" : "UP Sports Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination at Indra",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -280,14 +304,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/hensel-and-koth-retire-from-event/",
          "pubDate" : "Fri, 02 Aug 2024 12:38:10",
          "title" : "Hensel and Koth retire from event team"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Chess in the Schools</strong> is <a href=\"https://www.linkedin.com/jobs/view/3978574035\">hiring a Manager of Curriculum and Instruction</a>, a developing and supervising role that requires presence in New York City. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/curriculum-expert-wanted/",
-         "pubDate" : "Fri, 02 Aug 2024 10:01:20",
-         "title" : "Curriculum expert wanted"
       },
       {
          "description" : "GM Richard Rapport scored a stunning victory over World Rapid Champion Magnus Carlsen as WR Chess, the defending champions and heavy favorites to win the 2024 World Rapid &#38;amp; Blitz Team Championships, sank to a 5-1 loss to third-seeded Chessy. C...",
@@ -818,6 +834,14 @@ news_feed (
          "title" : "Team lineups announced for record-breaking 45th Chess Olympiad in Budapest"
       },
       {
+         "description" : "A good subtitle to that title would be 'Don't play chess with a monkey'. This month's Flickr favorite doesn't really have much to do with chess, but the board in the left photo looks indeed to be that of our favorite board game. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-og21.jpg\" WIDTH=400 HEIGHT=205><BR> <B>Left:</B> <A HREF=\"https://www.flickr.com/photos/museado/53869180277/\">The wounded monkey bites the hand of the prince...</A> &#169; Flickr user <I>museado</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P> The full title of the left photo said, <BLOCKQUOTE> The wounded monkey bites the hand of the prince, his chessma",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/07/interspecies-friendships-and-chess.html",
+         "pubDate" : "Sun, 21 Jul 2024 15:20:00",
+         "title" : "'Interspecies Friendships' and Chess"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organized a Senior National Arbiters Seminar &#38; Exam from 20 to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -912,14 +936,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/ecf-grassroots-support/#new_tab",
          "pubDate" : "Tue, 16 Jul 2024 12:42:21",
          "title" : "ECF Launches Grassroots Initiative"
-      },
-      {
-         "description" : "Here are some chess puzzles of a different kind. Some of you might find them very easy, some quite hard. They are at least most entertaining and should bring smiles to your face. Tell us which ones you could master. Next week we will give you the solutions - and show you a video of a strong chess player solving the problems live.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-can-be-such-fun",
-         "pubDate" : "Tue, 16 Jul 2024 08:00:00",
-         "title" : "Chess can be such fun!"
       }
    ]
 }
