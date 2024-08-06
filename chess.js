@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The WR Chess Team was unable to defend the title of World Rapid Team champions. Instead, Wadim Rosenstein's squas won the new title in the blitz category. WR Chess narrowly defeated MGD1 in the final encounter. Chessy, with Richard Rapport on the top board, and Al-Ain ACMG UAE, which won the rapid event, were the teams that made it to the semifinals. | Photos: FIDE / Maria Emelianova and Ruslan Mazunin",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-4",
+         "pubDate" : "Tue, 06 Aug 2024 00:40:00",
+         "title" : "Carlsen's WR Chess grab inaugural World Blitz Team Championship"
+      },
+      {
          "description" : "Gawain Jones defeated David Howell in a hard-fought series of rapid and blitz tiebreakers to win the 110th edition of the British Championship in Hull. After drawing their classical encounter, the contenders for the title traded wins in the first set of rapid tiebreakers, which meant the Championship would be decided in blitz - Jones drew with black and won with white to claim his third British title. | Photo: Dennis Dicen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
