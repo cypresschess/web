@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2024-08-04","4","<a href=http://www.uschess.org/msa/XtblMain.php?202408048542 target='_blank'>CYGA08042024</a>",
 "HOUSTON","2024-08-02  - 08-04","94","<a href=http://www.uschess.org/msa/XtblMain.php?202408048492 target='_blank'>$2,500 AUGUST 2024 CHAMPIONSHIP</a>",
 "HOUSTON","2024-08-03","16","<a href=http://www.uschess.org/msa/XtblMain.php?202408037482 target='_blank'>CHESSPANDA08032024SATURDAY</a>",
 "SPRING","2024-08-02","37","<a href=http://www.uschess.org/msa/XtblMain.php?202408027232 target='_blank'>THE FRIDAY KNIGHTS</a>",
@@ -198,5 +199,4 @@ jtable([
 "LEAGUE CITY","2024-01-03  - 01-17","5","<a href=http://www.uschess.org/msa/XtblMain.php?202401171902 target='_blank'>CLCC JANUARY WEDNESDAYS</a>",
 "HOUSTON","2024-01-14","10","<a href=http://www.uschess.org/msa/XtblMain.php?202401140942 target='_blank'>ADULT QUADS - JAN 14 - G/75, D5 - N</a>",
 "HOUSTON","2024-01-13","12","<a href=http://www.uschess.org/msa/XtblMain.php?202401139362 target='_blank'>JANUARY 13TH SCHOLASTIC</a>",
-"HOUSTON","2024-01-13","13","<a href=http://www.uschess.org/msa/XtblMain.php?202401139142 target='_blank'>KINGWOOD BLITZ KNIGHTS 0124</a>",
 ]);
