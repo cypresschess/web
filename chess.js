@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros demonstrates how to prepare like Fabiano Caruana... using Fabiano Caruana! 2024.08.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/modern-chess-prep-feat-fabiano-caruana-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/P0S9DX11Ukw.jpg?itok=gI6uFdUX\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/modern-chess-prep-feat-fabiano-caruana-grandmasters-choice-gm-denes-boros",
+         "pubDate" : "Tue, 06 Aug 2024 20:57:05",
+         "title" : "Modern Chess Prep feat. Fabiano Caruana! | Grandmaster's Choice - GM Denes Boros"
+      },
+      {
          "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Alireza Firouzja and Fabiano Caruana live, starting at 19.30 CEST (13.30 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -56,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/king-of-all-underdogs-pang-bo-the-underdog",
          "pubDate" : "Tue, 06 Aug 2024 14:30:00",
          "title" : "An underdog? 1400-rated Chinese player Pang Bo scores 11 out of 11! - The Underdog"
+      },
+      {
+         "description" : "GM Alireza Firouzja defeated GM Fabiano Caruana in the first quarterfinal match of the Speed Chess Championship 2024 with an overwhelming score of 14.5-8.5. He is the first player to qualify for the Semifinals that will be held live in Paris. Th...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-caruana-firouzja",
+         "pubDate" : "Tue, 06 Aug 2024 14:02:00",
+         "title" : "Firouzja Scores Nearly Double Caruana, Qualifies For Paris Semifinals"
       },
       {
          "description" : "On Saturday, the traditional Riga Tech University Chess Festival, organised to mark FIDE's 100 year anniversary, began in the Latvian capital Riga with a blitz tournament. Indian Grandmaster Iniyan Pa won with 10.0/11, half a point ahead of German IM Jakob Pajeken. The main tournament began on Monday with almost 300 players.",
@@ -530,14 +546,6 @@ news_feed (
          "title" : "Alice Lee Wants to Qualify for the Overall U.S. Junior | R9 #USJuniors"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Andrew Hong talks to Begim Tokhirjonova before the 2024 U.S. Junior Championship. This aired during Round 8. 2024.07.15<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL St",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/andrew-hong-brings-fresh-ideas-board-usjuniors",
-         "pubDate" : "Thu, 01 Aug 2024 17:53:39",
-         "title" : "Andrew Hong Brings Fresh Ideas to the Board | #USJuniors"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -666,20 +674,20 @@ news_feed (
          "title" : "DMR election results - Bronze members' reps!"
       },
       {
-         "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wallows-bot",
-         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
-         "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
-      },
-      {
          "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
          "pubDate" : "Tue, 30 Jul 2024 07:00:00",
          "title" : "The 7 Best Games In 2024 So Far"
+      },
+      {
+         "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wallows-bot",
+         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
+         "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
       },
       {
          "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 victory over GM Alexander Grischuk in a Round of 16 match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
@@ -824,14 +832,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/57th-biel-chess-festival-2024",
          "pubDate" : "Thu, 25 Jul 2024 18:54:00",
          "title" : "57th Biel Chess Festival 2024 - Games and Results"
-      },
-      {
-         "description" : "GM Arjun Erigaisi prevailed over GM Jan-Krzysztof Duda with a combined score of 12-10, striking in the crucial final four games of the 1+1 bullet segment in the first match of the first day of the 2024 Speed Chess Championship. In the other match,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-duda-erigaisi-nakamura-martinez",
-         "pubDate" : "Thu, 25 Jul 2024 16:05:00",
-         "title" : "Arjun Prevails At The Final Turn, Nakamura Dominates"
       },
       {
          "description" : " The US Junior, Girls and Seniors took place in Saint Louis Tuesday 16th Jul to Thursday 26th Jul 2024. There were clear winners in all three sections. Christopher Woojin Yoo won the Juniors with 7/9 a point clear of Justin Wang, Alice Lee won the Girls event with 7/9 half a point clear of Rose Atwell, Vladimir Akopian won the Seniors with 7/9 a point clear of Jesse Kraai.",
