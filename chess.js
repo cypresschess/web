@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Alireza Firouzja and Fabiano Caruana live, starting at 19.30 CEST (13.30 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-2024-live",
+         "pubDate" : "Tue, 06 Aug 2024 19:20:00",
+         "title" : "Speed Chess Championship: Firouzja v. Caruana - Live!"
+      },
+      {
+         "description" : " Jessica Hyatt can now add National Master to her name after waiting a long time to celebrate this moment. This past weekend at the FIDE Premier at the Marshall Chess Club, the 18-year-old Brooklyn native was able to push her rating to 2200 for the first time. In 2019, Hyatt won the New York State The post <a href=\"https://www.thechessdrum.net/blog/2024/08/06/jessica-hyatt-earns-national-master-title/\">Jessica Hyatt earns National Master title!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/08/06/jessica-hyatt-earns-national-master-title/",
+         "pubDate" : "Tue, 06 Aug 2024 17:23:00",
+         "title" : "Jessica Hyatt earns National Master title!"
+      },
+      {
          "description" : "Chris Ward gathered not one, not two, but three beautiful Dragon examples for us. The key features in this episode are the d5 break, the Rook on the c-file, and the explosive c4 square! In typical fashion, Chris explains his thoughts, plans, ideas and more about the most recent Sicilian games. | Photo: John Upham",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/the-monthly-dragon-breaking-parking-and-driving-down-the-c-file",
          "pubDate" : "Tue, 06 Aug 2024 17:00:00",
          "title" : "The Monthly Dragon - Breaking, parking and driving down the c-file!"
+      },
+      {
+         "description" : "Congratulations to the 2024 British Chess Champion GM Gawain Jones, who became the latest champion following Sunday's exciting playoff against second placed GM David Howell!&#160;...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/2024-british-chess-championship-results/",
+         "pubDate" : "Tue, 06 Aug 2024 16:07:57",
+         "title" : "2024 British Chess Championship results"
+      },
+      {
+         "description" : "Shreyas Royal, aged just 15, is set to become England's 41st grandmaster and the youngest ever, beating GM David Howell's record, after achieving his final...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/shreyas-royal-grandmaster/",
+         "pubDate" : "Tue, 06 Aug 2024 16:07:35",
+         "title" : "Shreyas Royal, Grandmaster!"
       },
       {
          "description" : "On Monday August 5th, in the Hotel Energetic in Roznov pod Radhostem in the Czech Republic, the 22nd European Union Youth Chess Championship U8, U10, U12 and U14 has begun. European Union Youth Chess Championship 2024 under the patronage of the European Chess Union is organized again by Sachovy klub Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. Boys and girls in each category play the same tournament. Eventually boys and girls will []",
@@ -80,6 +112,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-4",
          "pubDate" : "Tue, 06 Aug 2024 00:40:00",
          "title" : "Carlsen's WR Chess grab inaugural World Blitz Team Championship"
+      },
+      {
+         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship-pt-2",
+         "pubDate" : "Tue, 06 Aug 2024 00:00:00",
+         "title" : "Tactics Tuesday: Pan-American Youth Championship, Pt. 2"
       },
       {
          "description" : "Gawain Jones defeated David Howell in a hard-fought series of rapid and blitz tiebreakers to win the 110th edition of the British Championship in Hull. After drawing their classical encounter, the contenders for the title traded wins in the first set of rapid tiebreakers, which meant the Championship would be decided in blitz - Jones drew with black and won with white to claim his third British title. | Photo: Dennis Dicen",
@@ -618,14 +658,6 @@ news_feed (
          "title" : "168 More Players Join U.S. Open Field as Six-Day Schedule Begins"
       },
       {
-         "description" : "This week's puzzles come from the Pan-American Youth Championship XXXIV, held earlier this month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship",
-         "pubDate" : "Wed, 31 Jul 2024 00:00:00",
-         "title" : "Wednesday Workout: Pan-American Youth Championship"
-      },
-      {
          "description" : "The successful candidates for Bronze Direct Members' Representatives 2024 were JC Le Saux and Tina Teotia.",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -952,14 +984,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3120",
          "pubDate" : "Thu, 18 Jul 2024 12:52:23",
          "title" : "Pawel Sowinski triumphs in Slovakia Chess Open"
-      },
-      {
-         "description" : " Saad Elmi of Norway earned his 2nd IM norm at the Zadar GM Norm Tournament in Croatia. He ended on an undefeated 6/9, drawing all three GMs in the field. Now at 18, Elmi has collected two IM norms and according to mentor GM Pontus Carlsson, &#8220;He just missed the GM norm.&#8221; FM Saad Elmi The post <a href=\"https://www.thechessdrum.net/blog/2024/07/16/saad-elmi-gets-2nd-im-norm/\">Saad Elmi gets 2nd IM norm!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/07/16/saad-elmi-gets-2nd-im-norm/",
-         "pubDate" : "Tue, 16 Jul 2024 16:25:33",
-         "title" : "Saad Elmi gets 2nd IM norm!"
       }
    ]
 }
