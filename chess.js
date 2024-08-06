@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Chris Ward gathered not one, not two, but three beautiful Dragon examples for us. The key features in this episode are the d5 break, the Rook on the c-file, and the explosive c4 square! In typical fashion, Chris explains his thoughts, plans, ideas and more about the most recent Sicilian games. | Photo: John Upham",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-monthly-dragon-breaking-parking-and-driving-down-the-c-file",
+         "pubDate" : "Tue, 06 Aug 2024 17:00:00",
+         "title" : "The Monthly Dragon - Breaking, parking and driving down the c-file!"
+      },
+      {
+         "description" : "On Monday August 5th, in the Hotel Energetic in Roznov pod Radhostem in the Czech Republic, the 22nd European Union Youth Chess Championship U8, U10, U12 and U14 has begun. European Union Youth Chess Championship 2024 under the patronage of the European Chess Union is organized again by Sachovy klub Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. Boys and girls in each category play the same tournament. Eventually boys and girls will []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/eu-youth-chess-championship-2024-commenced-in-czech-republic/",
+         "pubDate" : "Tue, 06 Aug 2024 15:14:11",
+         "title" : "EU Youth Chess Championship 2024 commenced in Czech Republic"
+      },
+      {
+         "description" : "During the FIDE World Rapid and Blitz Team Championships in Astana, a player from the all-Chinese team, Decade China, made headlines: Pang Bo! The 26-year-old dominated the amateur board, winning every single Rapid game and excelling in the Blitz section. His official FIDE rating is 1400, but he has yet to play an international tournament and is virtually unrated. However, he has successfully played strong tournaments and opponents in China and is much stronger than players with a real rating of 1400. No wonder, his pawn-pushing style gave his opponents in Astana a hard time. Robert Ris shows an interesting example of how Pang Bo tackles the London System!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/king-of-all-underdogs-pang-bo-the-underdog",
+         "pubDate" : "Tue, 06 Aug 2024 14:30:00",
+         "title" : "An underdog? 1400-rated Chinese player Pang Bo scores 11 out of 11! - The Underdog"
+      },
+      {
+         "description" : "On Saturday, the traditional Riga Tech University Chess Festival, organised to mark FIDE's 100 year anniversary, began in the Latvian capital Riga with a blitz tournament. Indian Grandmaster Iniyan Pa won with 10.0/11, half a point ahead of German IM Jakob Pajeken. The main tournament began on Monday with almost 300 players.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-has-started",
+         "pubDate" : "Tue, 06 Aug 2024 13:30:00",
+         "title" : "RTU Open in Riga has started"
+      },
+      {
          "description" : "Please find live link for 23rd Tamil Nadu IM norm tournament starts on 6th Aug 2024. Live Link :&#160;https://live.tamilchess.com/23rd-im-norm-chennai/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -24,6 +56,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2024/",
          "pubDate" : "Tue, 06 Aug 2024 08:00:41",
          "title" : "Premier League Fantasy Football 2024"
+      },
+      {
+         "description" : "British tennis star Henry Patten, fresh off his Wimbledon doubles victory, opened up about his passion for chess in an exclusive interview with Chess.com and revealed the game has sharpened his mind and benefited his tennis career. Patten is a B...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/henry-patten-wimbleton-doubles-champion-deep-passion-for-chess",
+         "pubDate" : "Tue, 06 Aug 2024 07:45:00",
+         "title" : "Wimbledon Doubles Champion Henry Patten On His Deep Passion For Chess"
       },
       {
          "description" : "UP Sports Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination at Indra",
@@ -762,14 +802,6 @@ news_feed (
          "title" : "Arjun Prevails At The Final Turn, Nakamura Dominates"
       },
       {
-         "description" : "GM Praggnanandhaa Rameshbabu bounced back from his loss the day before to score a convincing win over GM Abhimanyu Mishra and end the 2024 Biel Chess Festival in third place. GM Liem Le had wrapped up victory a day earlier, while Haik Martirosyan ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-biel-chess-festival-finals-3",
-         "pubDate" : "Thu, 25 Jul 2024 13:14:00",
-         "title" : "Praggnanandhaa Beats Mishra To End Biel Chess In 3rd Place"
-      },
-      {
          "description" : " The US Junior, Girls and Seniors took place in Saint Louis Tuesday 16th Jul to Thursday 26th Jul 2024. There were clear winners in all three sections. Christopher Woojin Yoo won the Juniors with 7/9 a point clear of Justin Wang, Alice Lee won the Girls event with 7/9 half a point clear of Rose Atwell, Vladimir Akopian won the Seniors with 7/9 a point clear of Jesse Kraai.",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -928,14 +960,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/07/16/saad-elmi-gets-2nd-im-norm/",
          "pubDate" : "Tue, 16 Jul 2024 16:25:33",
          "title" : "Saad Elmi gets 2nd IM norm!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/ecf-grassroots-support/#new_tab",
-         "pubDate" : "Tue, 16 Jul 2024 12:42:21",
-         "title" : "ECF Launches Grassroots Initiative"
       }
    ]
 }
