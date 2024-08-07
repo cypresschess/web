@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Alireza Firouzja obtained a clear 14&frac12;-8&frac12; victory over Fabiano Caruana to reach the semifinals of the Speed Chess Championship, set to take place in Paris next month. In a lopsided match, Firouzja prevailed in all three segments (5+1, 3+1 and 1+1). The youngster will face the winner of the match between Hikaru Nakamura and Ian Nepomniachtchi in the semifinals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-qf1",
+         "pubDate" : "Wed, 07 Aug 2024 08:00:00",
+         "title" : "Speed Chess: Firouzja gets clear victory over Caruana"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko analyzes his own games from the 2024 U.S. Open in Norfolk, Va. Julian was in contention to qualify for the U.S. Championship, but his aspirations were dashed against GM Fidel Corrales! Thumb credit: Caroline King 2024.08.06<br /> Julian Proleiko vs. Fidel Corrales, 2024: D76 Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6<br /> Joseph Wan vs. Proleiko, 2024: B07 Pirc defence<br /> Proleiko vs. Karl Dehmelt, 2024: E18 Queen&#039;s Indian, old main line, 7.Nc3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/todays-lesson-dont-lose-3k-one-game-road-2000-nm-julian-proleiko",
+         "pubDate" : "Wed, 07 Aug 2024 02:57:15",
+         "title" : "Today's Lesson: Don't Lose $3K in One Game! | Road to 2000 - NM Julian Proleiko"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko analyzes his own games from the 2024 U.S. Open in Norfolk, Va. Julian was in contention to qualify for the U.S. Championship, but his aspirations were dashed against GM Fidel Corrales! Thumb credit: Caroline King 2024.08.06<br /> Julian Proleiko vs. Fidel Corrales, 2024: D76 Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/todays-lesson-dont-lose-3k-one-round-road-2000-nm-julian-proleiko\"><img src=\"",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -10,20 +26,12 @@ news_feed (
          "title" : "Today's Lesson: Don't Lose $3K in One Round! | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros demonstrates how to prepare like Fabiano Caruana... using Fabiano Caruana! 2024.08.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/modern-chess-prep-feat-fabiano-caruana-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/P0S9DX11Ukw.jpg?itok=gI6uFdUX\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros demonstrates how to prepare like Fabiano Caruana... using Fabiano Caruana's game! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/modern-chess-prep-feat-fabiano-caruana-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/P0S9DX11Ukw.jpg?itok=gI6uFdUX\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/modern-chess-prep-feat-fabiano-caruana-grandmasters-choice-gm-denes-boros",
          "pubDate" : "Tue, 06 Aug 2024 20:57:05",
          "title" : "Modern Chess Prep feat. Fabiano Caruana! | Grandmaster's Choice - GM Denes Boros"
-      },
-      {
-         "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Alireza Firouzja and Fabiano Caruana live, starting at 19.30 CEST (13.30 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-championship-2024-live",
-         "pubDate" : "Tue, 06 Aug 2024 19:20:00",
-         "title" : "Speed Chess Championship: Firouzja v. Caruana - Live!"
       },
       {
          "description" : " Jessica Hyatt can now add National Master to her name after waiting a long time to celebrate this moment. This past weekend at the FIDE Premier at the Marshall Chess Club, the 18-year-old Brooklyn native was able to push her rating to 2200 for the first time. In 2019, Hyatt won the New York State The post <a href=\"https://www.thechessdrum.net/blog/2024/08/06/jessica-hyatt-earns-national-master-title/\">Jessica Hyatt earns National Master title!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/shabalov-tournament-forget-r9-usseniors",
          "pubDate" : "Thu, 01 Aug 2024 17:53:39",
          "title" : "Shabalov: A Tournament to Forget | R9 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jasmine Su talks to Kostya Kavutskiy after defeating Tang in Round 9 of the 2024 U.S. Girls' Junior Championship. 2024.07.25<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/jasmine-su-missed-some-chances-played-well-r9-usjuniors",
-         "pubDate" : "Thu, 01 Aug 2024 17:53:39",
-         "title" : "Jasmine Su: Missed Some Chances, but Played Well | R9 #USJuniors"
       },
       {
          "description" : "",
