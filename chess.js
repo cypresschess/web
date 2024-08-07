@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "This is really taking thing too far. At the Dagestan Chess Championship one participant tried to poison a specific opponent by smearing mercury on her board. The substance was noticed and the arbiter called the police. The placing of the poison was caught on surveillance video, and the perpetrator has admitted to the deed. She said she had acted to get revenge on the player, whom she has known since childhood, bur who had \"seriously offended her.\"",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/player-accused-of-poisoning-opponent-with-mercury",
+         "pubDate" : "Wed, 07 Aug 2024 23:10:42",
+         "title" : "Player accused of poisoning opponent with mercury"
+      },
+      {
          "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Wesley So and Hans Niemann live, starting at 21.30 CEST (15.30 ET, 1.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +18,28 @@ news_feed (
          "title" : "Speed Chess Championship: So v. Niemann - Live!"
       },
       {
+         "description" : "This is a flash report. The full article will be added to this page soon. GM Hans Niemann can buy his ticket to Paris because he&#39;s made it to the Speed Chess Championship 2024 Semifinals, live in France this September. He won his quarterfinal ma...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-so-niemann",
+         "pubDate" : "Wed, 07 Aug 2024 15:55:00",
+         "title" : "Niemann Sets Up Potential Match With Carlsen In Paris, Eliminates Wesley So"
+      },
+      {
          "description" : "The following are shortlisted for AICF Vacancy published on 29 July 2024 1. Arbind Kumar Singh 2. Ajeet Kumar Verma",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/shortlisted-candidates-head-of-operations/",
          "pubDate" : "Wed, 07 Aug 2024 15:53:59",
          "title" : "Shortlisted Candidates: Head of Operations"
+      },
+      {
+         "description" : "A chess player has been suspended by the Russian Chess Federation and is reportedly facing time in jail after she allegedly tried to poison her rival at the chessboard during a tournament. Amina Abakarova, a 40-year-old chess coach from Makhachk...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/russian-chess-player-suspended-after-allegedly-poisoning-her-rival",
+         "pubDate" : "Wed, 07 Aug 2024 14:47:00",
+         "title" : "Chess Player Suspended After Allegedly Poisoning Her Rival"
       },
       {
          "description" : "Hans Niemann is in a combative mood: the American Grandmaster, who was thrust into the limelight after Magnus Carlsen accused him of cheating in the 2022 Sinquefield Cup, wants to show everyone just how good he really is. As he's not afraid of big words he has organised three matches against top players under the title \"Hans Niemann against the World\", in which Niemann will take on Anish Giri, Nikita Vitiugov and Etienne Bacrot. All three matches will feature classical, rapid and blitz chess. The opening match against Anish Giri starts today at 15:00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
@@ -218,7 +242,7 @@ news_feed (
          "title" : "Carlsen's WR Chess grab inaugural World Blitz Team Championship"
       },
       {
-         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
+         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship-pt-2",
@@ -810,14 +834,6 @@ news_feed (
          "title" : "Vaclav Finek wins Czech Open 2024"
       },
       {
-         "description" : "Bullet Brawl&#39;s third most prolific winner, GM Oleksandr Bortnyk, added a seventh title to his resume and won $400 after outlasting Chess.com hyperbullet champion GM Andrew Tang and 21-time Bullet Brawl winner GM Daniel Naroditsky on Saturday. 14-y...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/oleksandr-bortnyk-wins-bullet-brawl-july-27-2024",
-         "pubDate" : "Sat, 27 Jul 2024 16:18:00",
-         "title" : "Bortnyk Claims Gold Ahead Of 3 American Brawlers"
-      },
-      {
          "description" : "Big decisions, like choosing an opening or launching a Podcast, can seem daunting. \"What if I get it wrong? All my hard work learning these opening moves might be for nothing,\" you might think. This weight might push you to a never-ending search for 'the best chess opening (spoiler, it doesn't exist). After a while, []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -840,14 +856,6 @@ news_feed (
          "link" : "https://www.thearticle.com/a-lilliputian-world-championship/",
          "pubDate" : "Sat, 27 Jul 2024 10:13:08",
          "title" : "A Lilliputian world championship"
-      },
-      {
-         "description" : "GM Magnus Carlsen crushed GM Tuan Minh Le with a dominating 20.5-3.5 score in a one-sided contest in the first match of the second day of the 2024 Speed Chess Championship. But the day belonged to the former world championship contender GM Ian Nep...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-carlsen-le-nepo-nodirbek",
-         "pubDate" : "Fri, 26 Jul 2024 15:11:00",
-         "title" : "Carlsen Keeps It Classy, Nepomniachtchi Does A Houdini"
       },
       {
          "description" : "",
