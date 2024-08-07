@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Wesley So and Hans Niemann live, starting at 21.30 CEST (15.30 ET, 1.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-2024-live",
+         "pubDate" : "Wed, 07 Aug 2024 21:20:00",
+         "title" : "Speed Chess Championship: So v. Niemann - Live!"
+      },
+      {
+         "description" : "The following are shortlisted for AICF Vacancy published on 29 July 2024 1. Arbind Kumar Singh 2. Ajeet Kumar Verma",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/shortlisted-candidates-head-of-operations/",
+         "pubDate" : "Wed, 07 Aug 2024 15:53:59",
+         "title" : "Shortlisted Candidates: Head of Operations"
+      },
+      {
          "description" : "Hans Niemann is in a combative mood: the American Grandmaster, who was thrust into the limelight after Magnus Carlsen accused him of cheating in the 2022 Sinquefield Cup, wants to show everyone just how good he really is. As he's not afraid of big words he has organised three matches against top players under the title \"Hans Niemann against the World\", in which Niemann will take on Anish Giri, Nikita Vitiugov and Etienne Bacrot. All three matches will feature classical, rapid and blitz chess. The opening match against Anish Giri starts today at 15:00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +50,14 @@ news_feed (
          "title" : "Shreyas Royal on the BBC!"
       },
       {
+         "description" : "GM Magnus Carlsen scored a perfect 11/11 in the late Titled Tuesday on August 6, the first flawless Titled Tuesday of the year and overshadowing GM Hikaru Nakamura&#39;s earlier win out of a four-way tie on 9.5 points.&#38;nbsp;It was Carlsen&#39;s second 11/...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-carlsen-win-titled-tuesday-august-6-2024",
+         "pubDate" : "Wed, 07 Aug 2024 08:43:04",
+         "title" : "Quintessential Magnus Perfects Titled Tuesday Again"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -56,6 +80,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/todays-lesson-dont-lose-3k-one-game-road-2000-nm-julian-proleiko",
          "pubDate" : "Wed, 07 Aug 2024 02:57:15",
          "title" : "Today's Lesson: Don't Lose $3K in One Game! | Road to 2000 - NM Julian Proleiko"
+      },
+      {
+         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship-pt-2",
+         "pubDate" : "Wed, 07 Aug 2024 00:00:00",
+         "title" : "Wednesday Workout: Pan-American Youth Championship, Pt. 2"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko analyzes his own games from the 2024 U.S. Open in Norfolk, Va. Julian was in contention to qualify for the U.S. Championship, but his aspirations were dashed against GM Fidel Corrales! Thumb credit: Caroline King 2024.08.06<br /> Julian Proleiko vs. Fidel Corrales, 2024: D76 Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/todays-lesson-dont-lose-3k-one-round-road-2000-nm-julian-proleiko\"><img src=\"",
@@ -186,7 +218,7 @@ news_feed (
          "title" : "Carlsen's WR Chess grab inaugural World Blitz Team Championship"
       },
       {
-         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
+         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship-pt-2",
@@ -698,14 +730,6 @@ news_feed (
          "title" : "Ding and Carlsen meet in Kazakhstan for the World Rapid and Blitz Team Championship: Everything you need to know"
       },
       {
-         "description" : "Yesterday's report focused exclusively on the end of the invitational tournaments of state champions. Today, we'll catch up on rounds three and four of the traditional schedule of the U.S. Open, as well as the first round of the six-day schedule.<br /><br /> Play continues today with the fifth round of the traditional schedule tonight, and rounds two and three of the six-day. Tomorrow, the four-day schedule will begin, with all players merging by Friday night for the last three rounds.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/168-more-players-join-us-open-field-six-day-schedule-begins",
-         "pubDate" : "Wed, 31 Jul 2024 00:00:00",
-         "title" : "168 More Players Join U.S. Open Field as Six-Day Schedule Begins"
-      },
-      {
          "description" : "The successful candidates for Bronze Direct Members' Representatives 2024 were JC Le Saux and Tina Teotia.",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -714,20 +738,20 @@ news_feed (
          "title" : "DMR election results - Bronze members' reps!"
       },
       {
-         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
-         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
-         "title" : "The 7 Best Games In 2024 So Far"
-      },
-      {
          "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wallows-bot",
          "pubDate" : "Tue, 30 Jul 2024 07:00:00",
          "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
+      },
+      {
+         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
+         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
+         "title" : "The 7 Best Games In 2024 So Far"
       },
       {
          "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 victory over GM Alexander Grischuk in a Round of 16 match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
@@ -842,14 +866,6 @@ news_feed (
          "title" : "Chess: Vachier-Lagrave wins $300,000 event while Firouzja loses in nine moves"
       },
       {
-         "description" : "Three U.S. National Championships finished on Thursday in St. Louis and none of them needed playoffs. GM Vladimir Akopian had secured victory at the U.S. Senior Championship with a round to spare, after which GM Christopher Yoo won the U.S. Junior...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/akopian-lee-yoo-win-us-junior-girls-senior-championships",
-         "pubDate" : "Fri, 26 Jul 2024 02:37:00",
-         "title" : "Akopian, Lee, Yoo Winners At U.S. National Championships"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -944,14 +960,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/07/interspecies-friendships-and-chess.html",
          "pubDate" : "Sun, 21 Jul 2024 15:20:00",
          "title" : "'Interspecies Friendships' and Chess"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organized a Senior National Arbiters Seminar &#38; Exam from 20 to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-examination-at-jammu-on-20-21-july-2024/",
-         "pubDate" : "Sun, 21 Jul 2024 15:14:31",
-         "title" : "SNA Seminar & Examination at Jammu on 20-21 July 2024"
       },
       {
          "description" : "",
