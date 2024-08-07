@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "IM Oliver Reeh continues to inspire with the third edition of his Master Class Tactics. Once again he has selected some real gems to put your brain to the test.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/best-of-chili-chess-and-looong-moves",
+         "pubDate" : "Wed, 07 Aug 2024 11:00:00",
+         "title" : "Best of chili chess and looong moves"
+      },
+      {
+         "description" : "Skip to 50:25 to enjoy Shreyas' interview on BBC Breakfast this morning 7/8/24 https://www.bbc.co.uk/iplayer/episode/m0021sq1/breakfast-07082024 and follow this link to the BBC website for...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/shreyas-royal-on-the-bbc/",
+         "pubDate" : "Wed, 07 Aug 2024 09:34:18",
+         "title" : "Shreyas Royal on the BBC!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/i-am-the-new-u14-british-chess-champion-video-by-rock-yu/",
+         "pubDate" : "Wed, 07 Aug 2024 08:33:31",
+         "title" : "I Am The New U14 British Chess Champion! Video by Rock Yu"
+      },
+      {
          "description" : "Alireza Firouzja obtained a clear 14&frac12;-8&frac12; victory over Fabiano Caruana to reach the semifinals of the Speed Chess Championship, set to take place in Paris next month. In a lopsided match, Firouzja prevailed in all three segments (5+1, 3+1 and 1+1). The youngster will face the winner of the match between Hikaru Nakamura and Ian Nepomniachtchi in the semifinals.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
