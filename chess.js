@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko analyzes his own games from the 2024 U.S. Open in Norfolk, Va. Julian was in contention to qualify for the U.S. Championship, but his aspirations were dashed against GM Fidel Corrales! Thumb credit: Caroline King 2024.08.06<br /> Julian Proleiko vs. Fidel Corrales, 2024: D76 Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/todays-lesson-dont-lose-3k-one-round-road-2000-nm-julian-proleiko\"><img src=\"",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/todays-lesson-dont-lose-3k-one-round-road-2000-nm-julian-proleiko",
+         "pubDate" : "Tue, 06 Aug 2024 23:57:03",
+         "title" : "Today's Lesson: Don't Lose $3K in One Round! | Road to 2000 - NM Julian Proleiko"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grandmaster Denes Boros demonstrates how to prepare like Fabiano Caruana... using Fabiano Caruana! 2024.08.06 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/modern-chess-prep-feat-fabiano-caruana-grandmasters-choice-gm-denes-boros\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/P0S9DX11Ukw.jpg?itok=gI6uFdUX\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -130,7 +138,7 @@ news_feed (
          "title" : "Carlsen's WR Chess grab inaugural World Blitz Team Championship"
       },
       {
-         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
+         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship-pt-2",
@@ -536,14 +544,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/jasmine-su-missed-some-chances-played-well-r9-usjuniors",
          "pubDate" : "Thu, 01 Aug 2024 17:53:39",
          "title" : "Jasmine Su: Missed Some Chances, but Played Well | R9 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Kostya Kavutskiy after defeating Paragua to clinch the tournament in Round 9 of the 2024 U.S. Girls' Junior Championship. 2024.07.25<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-wants-qualify-overall-us-junior-r9-usjuniors",
-         "pubDate" : "Thu, 01 Aug 2024 17:53:39",
-         "title" : "Alice Lee Wants to Qualify for the Overall U.S. Junior | R9 #USJuniors"
       },
       {
          "description" : "",
