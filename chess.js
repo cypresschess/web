@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann is in a combative mood: the American Grandmaster, who was thrust into the limelight after Magnus Carlsen accused him of cheating in the 2022 Sinquefield Cup, wants to show everyone just how good he really is. As he's not afraid of big words he has organised three matches against top players under the title \"Hans Niemann against the World\", in which Niemann will take on Anish Giri, Nikita Vitiugov and Etienne Bacrot. All three matches will feature classical, rapid and blitz chess. The opening match against Anish Giri starts today at 15:00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
+         "pubDate" : "Wed, 07 Aug 2024 14:40:00",
+         "title" : "Hans Niemann against the World"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3143",
+         "pubDate" : "Wed, 07 Aug 2024 12:07:49",
+         "title" : "EDU Commission announces its 18th \"Preparation of Teachers\" course"
+      },
+      {
          "description" : "IM Oliver Reeh continues to inspire with the third edition of his Master Class Tactics. Once again he has selected some real gems to put your brain to the test.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
