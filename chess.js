@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3144",
+         "pubDate" : "Thu, 08 Aug 2024 12:29:44",
+         "title" : "Winners crowned at 2024 FIDE World School Rapid and Blitz Championships"
+      },
+      {
          "description" : "Hans Niemann is in a combative mood: the American Grandmaster, who was thrust into the limelight after Magnus Carlsen accused him of cheating in the 2022 Sinquefield Cup, wants to show everyone just how good he really is. As he's not afraid of big words he has organised three matches against top players under the title \"Hans Niemann against the World\", in which Niemann will take on Anish Giri, Nikita Vitiugov and Etienne Bacrot. All three matches will feature classical, rapid and blitz chess. Two classical game are played today, starting at 10.00 and 15.00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -122,7 +130,7 @@ news_feed (
          "title" : "Today's Lesson: Don't Lose $3K in One Game! | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship-pt-2",
@@ -330,14 +338,6 @@ news_feed (
          "title" : "Carlsen Leads WR Chess To World Blitz Team Championship Gold"
       },
       {
-         "description" : "The World Rapid and Blitz Team Championship begins on Friday with a three-day rapid chess tournament. The blitz tournament follows on Monday and Tuesday. Among others, Magnus Carlsen, Ding Liren and Vincent Keymer will be competing. Rounds start in the rapid tournament on all three days at 11.00 local time (8.00 CEST, 2.00 ET).",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rapid-and-blitz-world-team-championships-live",
-         "pubDate" : "Mon, 05 Aug 2024 07:45:00",
-         "title" : "Rapid and Blitz World Team Championships - Live!"
-      },
-      {
          "description" : "The final four rounds of the World Rapid Team Championship were played on Sunday in Astana. Al-Ain ACMG UAE, which entered the final day of action in the lead, won the event after achieving a close victory over Theme International Trading in the twelfth round - thanks to a clutch win by Daniil Dubov on the top board. Decade China, with reigning world champions Ding Liren and Ju Wenjun, grabbed the silver, while WR Chess, headed by Magnus Carlsen, took the bronze. | Photo: FIDE / Ruslan Mazunin",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -402,14 +402,6 @@ news_feed (
          "title" : "Dubov Clutch Win Gives Al-Ain World Rapid Team Championship Gold"
       },
       {
-         "description" : "After 8 out of 12 rounds at the World Rapid Team Championship in Astana, the Al-Ain ACMG UAE have taken the lead with 14/16 match points - Daniil Dubov, Parham Maghsoodloo and Vladislav Artemiev play on the top three boards of the Emirati team. Decade China, led by world champion Ding Liren, stand in sole second place a match point behind, while Chessy (Richard Rapport) and Team MGD1 (Arjun Erigaisi) stand a match point further back. | Photo: FIDE / Maria Emelianova",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-2",
-         "pubDate" : "Sun, 04 Aug 2024 07:50:00",
-         "title" : "World Rapid Teams: Al-Ain top the standings, Carlsen beats Ding"
-      },
-      {
          "description" : "Kevin Pryor was named the President of US Chess today. Pryor, who was Vice President to this point, stated, \"Today I was honored to be elected the 32nd President of US Chess, an organization with over 110,000 members. I am grateful to the Executive Board for the confidence they have in me to lead the organization at this time. I thank outgoing President Randy Bauer for his two years of leading our federation and for well over a decade of service on the Board. I look forward to the wonderful things we all will do together to further the game we all love.\"<br /><br /> Hear more from Pryor in this brief interview:<br /><br /><br /> Kevin Pryor is the new US Chess President, @jfernandez is our n",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -424,14 +416,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/corrales-molner-take-inside-track-us-championship-spot-one-round-go-us-open",
          "pubDate" : "Sun, 04 Aug 2024 00:00:00",
          "title" : "Corrales, Molner Take Inside Track On U.S. Championship Spot With One Round To Go In U.S. Open"
-      },
-      {
-         "description" : "Two of the big favourites to win the British Championship clinched crucial victories on Saturday to go into the final round in shared first place - top seed David Howell and third seed Gawain Jones. Only the co-leaders or Matthew Wadsworth, who is the one player standing a half point back, have chances of grabbing the title, as Howell and Jones will face each other in Sunday's final round. | Photo: Dennis Dicen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-8",
-         "pubDate" : "Sat, 03 Aug 2024 23:40:00",
-         "title" : "British Championship: Howell and Jones co-leaders with one round to go"
       },
       {
          "description" : "",
@@ -1040,14 +1024,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jul/19/chess-caruana-equals-carlsens-record-as-kasparov-criticises-world-title-match",
          "pubDate" : "Fri, 19 Jul 2024 07:00:34",
          "title" : "Chess: Caruana equals Carlsen's record as Kasparov criticises world title match"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3120",
-         "pubDate" : "Thu, 18 Jul 2024 12:52:23",
-         "title" : "Pawel Sowinski triumphs in Slovakia Chess Open"
       }
    ]
 }
