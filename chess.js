@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann is in a combative mood: the American Grandmaster, who was thrust into the limelight after Magnus Carlsen accused him of cheating in the 2022 Sinquefield Cup, wants to show everyone just how good he really is. As he's not afraid of big words he has organised three matches against top players under the title \"Hans Niemann against the World\", in which Niemann will take on Anish Giri, Nikita Vitiugov and Etienne Bacrot. All three matches will feature classical, rapid and blitz chess. Two classical game are played today, starting at 10.00 and 15.00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
+         "pubDate" : "Thu, 08 Aug 2024 12:00:00",
+         "title" : "Hans Niemann against the World"
+      },
+      {
+         "description" : "Frank Marshall (pictured), born on 10 August 1877, was one of the best and most influential American players. He was a witty chess romantic who immortalised himself with many brilliant combinations and enriched opening theory with some dangerous gambit variations. In 1915 he founded the Marshall Chess Club in New York and this may have been his most lasting contribution to American chess. The club has a rich history and continues to promote chess in America. Vladimir Lionter sends a portrait of this chess heaven in New York City.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/the-marshall-chess-club-chess-heaven-in-new-york-city",
+         "pubDate" : "Thu, 08 Aug 2024 12:00:00",
+         "title" : "The Marshall Chess Club: Chess Heaven in New York City"
+      },
+      {
+         "description" : "Please find the Certificates here No Name 1 Tushar Saraswat 2 Anant Panwar 3 Pawan Bathm 4 Balamurugan Masilamani 5 Manish Kumar 6 Kapil Dua",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/74785-2/",
+         "pubDate" : "Thu, 08 Aug 2024 07:50:47",
+         "title" : "Certificates for SNA Seminar held at Bijnor ,UP from 27 to 28 August 2024"
+      },
+      {
          "description" : "This is really taking thing too far. At the Dagestan Chess Championship one participant tried to poison a specific opponent by smearing mercury on her board. The substance was noticed and the arbiter called the police. The placing of the poison was caught on surveillance video, and the perpetrator has admitted to the deed. She said she had acted to get revenge on the player, whom she has known since childhood, bur who had \"seriously offended her.\"",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/russian-chess-player-suspended-after-allegedly-poisoning-her-rival",
          "pubDate" : "Wed, 07 Aug 2024 14:47:00",
          "title" : "Chess Player Suspended After Allegedly Poisoning Her Rival"
-      },
-      {
-         "description" : "Hans Niemann is in a combative mood: the American Grandmaster, who was thrust into the limelight after Magnus Carlsen accused him of cheating in the 2022 Sinquefield Cup, wants to show everyone just how good he really is. As he's not afraid of big words he has organised three matches against top players under the title \"Hans Niemann against the World\", in which Niemann will take on Anish Giri, Nikita Vitiugov and Etienne Bacrot. All three matches will feature classical, rapid and blitz chess. The opening match against Anish Giri starts today at 15:00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
-         "pubDate" : "Wed, 07 Aug 2024 14:40:00",
-         "title" : "Hans Niemann against the World"
       },
       {
          "description" : "",
@@ -936,14 +952,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/glorney-cup-2024-2/",
          "pubDate" : "Mon, 22 Jul 2024 15:23:51",
          "title" : "Glorney Cup 2024"
-      },
-      {
-         "description" : "Please find the live link for 21st IM norm tournament The link for the&#160;21st tournament&#160;is:&#160;https://live.tamilchess.com/21st-im-norm-chennai/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/21st-tamil-nadu-im-norm-tournament-live-games-link/",
-         "pubDate" : "Mon, 22 Jul 2024 11:11:29",
-         "title" : "21st Tamil Nadu IM norm tournament - Live Games Link"
       },
       {
          "description" : "International Chess Federation FIDE celebrates its 100th anniversary this year. The celebration took place in Paris, France, on International Chess Day, July 20. The celebration gathered FIDE officials and distinguished guests, among them: FIDE President Arkady Dvorkovich, ECU President Zurab Azmaiparashvili, ECU Deputy President and Deputy Chair of the FIDE Management Board Dana Reizniece-Ozola, ECU Vice President Malcolm Pein, along with former world champions Vishy Anand, Zhu Chen, Alexandra Kosteniuk. The celebration started with a walk to the historic 9th []",
