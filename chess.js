@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In the match between Hans Niemann and Anish Giri, Niemann took a 7&frac12;-4&frac12; lead after the blitz games that took place on the first day. Two classical games were played on the second day. Giri won the first game and the second game ended in a draw. Since wins in classical chess are worth 3 points, the score is now tied 9-9. | Photo: Harry Gielen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-against-the-world-classical-1",
+         "pubDate" : "Thu, 08 Aug 2024 21:45:00",
+         "title" : "Giri ties the score in match against Niemann"
+      },
+      {
          "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Magnus Carlsen and Arjun Erigaisi live, starting at 18.00 CEST (12.00 ET, 22.00 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,20 +26,20 @@ news_feed (
          "title" : "Unlocking Minds: Register for the 2024 Prisoners' Chess Championship"
       },
       {
+         "description" : "GM Magnus Carlsen qualified for the Speed Chess Championship 2024 Semifinals, live in Paris on September 6, after defeating GM Arjun Erigaisi with a 12-9 score. He will play GM Hans Niemann in the next match, the first time they will meet for a ga...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-carlsen-erigaisi",
+         "pubDate" : "Thu, 08 Aug 2024 12:44:00",
+         "title" : "Carlsen Qualifies For SCC Finals In Paris, Will Play Niemann In Semifinals"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3144",
          "pubDate" : "Thu, 08 Aug 2024 12:29:44",
          "title" : "Winners crowned at 2024 FIDE World School Rapid and Blitz Championships"
-      },
-      {
-         "description" : "Frank Marshall (pictured), born on 10 August 1877, was one of the best and most influential American players. He was a witty chess romantic who immortalised himself with many brilliant combinations and enriched opening theory with some dangerous gambit variations. In 1915 he founded the Marshall Chess Club in New York and this may have been his most lasting contribution to American chess. The club has a rich history and continues to promote chess in America. Vladimir Lionter sends a portrait of this chess heaven in New York City.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-marshall-chess-club-chess-heaven-in-new-york-city",
-         "pubDate" : "Thu, 08 Aug 2024 12:00:00",
-         "title" : "The Marshall Chess Club: Chess Heaven in New York City"
       },
       {
          "description" : "Please find the Certificates here No Name 1 Tushar Saraswat 2 Anant Panwar 3 Pawan Bathm 4 Balamurugan Masilamani 5 Manish Kumar 6 Kapil Dua",
@@ -114,7 +122,7 @@ news_feed (
          "title" : "Today's Lesson: Don't Lose $3K in One Game! | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship-pt-2",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-22nd-tamil-nadu-im-tournament-starts-on-29th-july-2024/",
          "pubDate" : "Mon, 29 Jul 2024 10:01:27",
          "title" : "Live link for 22nd Tamil Nadu IM Tournament starts on 29th July 2024"
-      },
-      {
-         "description" : "Chess.com is happy to announce that the next edition of State of Chess.com will be held on August 1 at 1 p.m. ET / 19:00 CEST / 9:30 p.m. IST. We invite you to tune in to our Twitch and YouTube channels to hear what we&#39;ve been up to and where we&#39;r...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/state-of-chess-2024-august-1",
-         "pubDate" : "Mon, 29 Jul 2024 07:00:00",
-         "title" : "Next State Of Chess Coming August 1: Fair Play, Website Updates, Q&A, And More"
       },
       {
          "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organized a Senior National Arbiters Seminar &#38; Exam from 20 to",
