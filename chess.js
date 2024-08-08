@@ -18,7 +18,7 @@ news_feed (
          "title" : "Speed Chess Championship: So v. Niemann - Live!"
       },
       {
-         "description" : "GM Hans Niemann can buy his ticket to Paris, as he&#39;s made it to the Speed Chess Championship 2024 Semifinals which will be live in France. He won his quarterfinal match against GM Wesley So&#38;nbsp; The next quarterfinal match will be GM Magnus Car...",
+         "description" : "GM Hans Niemann can buy his ticket to Paris, as he&#39;s made it to the Speed Chess Championship 2024 Semifinals which will be live in France. He won his quarterfinal match against GM Wesley So 13-10. Notably, he gave a 30-minute interview after the m...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-so-niemann",
@@ -106,7 +106,7 @@ news_feed (
          "title" : "Today's Lesson: Don't Lose $3K in One Game! | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship-pt-2",
