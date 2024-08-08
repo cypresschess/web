@@ -2,20 +2,28 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Magnus Carlsen and Arjun Erigaisi live, starting at 18.00 CEST (12.00 ET, 22.00 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-2024-live",
+         "pubDate" : "Thu, 08 Aug 2024 17:50:00",
+         "title" : "Speed Chess Championship: Carlsen v. Arjun - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3145",
+         "pubDate" : "Thu, 08 Aug 2024 16:00:35",
+         "title" : "Unlocking Minds: Register for the 2024 Prisoners' Chess Championship"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3144",
          "pubDate" : "Thu, 08 Aug 2024 12:29:44",
          "title" : "Winners crowned at 2024 FIDE World School Rapid and Blitz Championships"
-      },
-      {
-         "description" : "Hans Niemann is in a combative mood: the American Grandmaster, who was thrust into the limelight after Magnus Carlsen accused him of cheating in the 2022 Sinquefield Cup, wants to show everyone just how good he really is. As he's not afraid of big words he has organised three matches against top players under the title \"Hans Niemann against the World\", in which Niemann will take on Anish Giri, Nikita Vitiugov and Etienne Bacrot. All three matches will feature classical, rapid and blitz chess. Two classical game are played today, starting at 10.00 and 15.00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
-         "pubDate" : "Thu, 08 Aug 2024 12:00:00",
-         "title" : "Hans Niemann against the World"
       },
       {
          "description" : "Frank Marshall (pictured), born on 10 August 1877, was one of the best and most influential American players. He was a witty chess romantic who immortalised himself with many brilliant combinations and enriched opening theory with some dangerous gambit variations. In 1915 he founded the Marshall Chess Club in New York and this may have been his most lasting contribution to American chess. The club has a rich history and continues to promote chess in America. Vladimir Lionter sends a portrait of this chess heaven in New York City.",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/player-accused-of-poisoning-opponent-with-mercury",
          "pubDate" : "Wed, 07 Aug 2024 23:10:42",
          "title" : "Player accused of poisoning opponent with mercury"
-      },
-      {
-         "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Wesley So and Hans Niemann live, starting at 21.30 CEST (15.30 ET, 1.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-championship-2024-live",
-         "pubDate" : "Wed, 07 Aug 2024 21:20:00",
-         "title" : "Speed Chess Championship: So v. Niemann - Live!"
       },
       {
          "description" : "GM Hans Niemann can buy his ticket to Paris, as he&#39;s made it to the Speed Chess Championship 2024 Semifinals which will be live in France. He won his quarterfinal match against GM Wesley So 13-10. Notably, he gave a 30-minute interview after the m...",
@@ -82,14 +82,6 @@ news_feed (
          "title" : "EDU Commission announces its 18th \"Preparation of Teachers\" course"
       },
       {
-         "description" : "IM Oliver Reeh continues to inspire with the third edition of his Master Class Tactics. Once again he has selected some real gems to put your brain to the test.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/best-of-chili-chess-and-looong-moves",
-         "pubDate" : "Wed, 07 Aug 2024 11:00:00",
-         "title" : "Best of chili chess and looong moves"
-      },
-      {
          "description" : "Skip to 50:25 to enjoy Shreyas' interview on BBC Breakfast this morning 7/8/24 https://www.bbc.co.uk/iplayer/episode/m0021sq1/breakfast-07082024 and follow this link to the BBC website for...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -112,14 +104,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/i-am-the-new-u14-british-chess-champion-video-by-rock-yu/",
          "pubDate" : "Wed, 07 Aug 2024 08:33:31",
          "title" : "I Am The New U14 British Chess Champion! Video by Rock Yu"
-      },
-      {
-         "description" : "Alireza Firouzja obtained a clear 14&frac12;-8&frac12; victory over Fabiano Caruana to reach the semifinals of the Speed Chess Championship, set to take place in Paris next month. In a lopsided match, Firouzja prevailed in all three segments (5+1, 3+1 and 1+1). The youngster will face the winner of the match between Hikaru Nakamura and Ian Nepomniachtchi in the semifinals.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-championship-qf1",
-         "pubDate" : "Wed, 07 Aug 2024 08:00:00",
-         "title" : "Speed Chess: Firouzja gets clear victory over Caruana"
       },
       {
          "description" : "<div class=\"body text-secondary\"> National Master Julian Proleiko analyzes his own games from the 2024 U.S. Open in Norfolk, Va. Julian was in contention to qualify for the U.S. Championship, but his aspirations were dashed against GM Fidel Corrales! Thumb credit: Caroline King 2024.08.06<br /> Julian Proleiko vs. Fidel Corrales, 2024: D76 Neo-Gruenfeld, 6.cd Nxd5, 7.O-O Nb6<br /> Joseph Wan vs. Proleiko, 2024: B07 Pirc defence<br /> Proleiko vs. Karl Dehmelt, 2024: E18 Queen&#039;s Indian, old main line, 7.Nc3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video",
@@ -162,14 +146,6 @@ news_feed (
          "title" : "Jessica Hyatt earns National Master title!"
       },
       {
-         "description" : "Chris Ward gathered not one, not two, but three beautiful Dragon examples for us. The key features in this episode are the d5 break, the Rook on the c-file, and the explosive c4 square! In typical fashion, Chris explains his thoughts, plans, ideas and more about the most recent Sicilian games. | Photo: John Upham",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/the-monthly-dragon-breaking-parking-and-driving-down-the-c-file",
-         "pubDate" : "Tue, 06 Aug 2024 17:00:00",
-         "title" : "The Monthly Dragon - Breaking, parking and driving down the c-file!"
-      },
-      {
          "description" : "Congratulations to the 2024 British Chess Champion GM Gawain Jones, who became the latest champion following Sunday's exciting playoff against second placed GM David Howell!&#160;...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -194,28 +170,12 @@ news_feed (
          "title" : "EU Youth Chess Championship 2024 commenced in Czech Republic"
       },
       {
-         "description" : "During the FIDE World Rapid and Blitz Team Championships in Astana, a player from the all-Chinese team, Decade China, made headlines: Pang Bo! The 26-year-old dominated the amateur board, winning every single Rapid game and excelling in the Blitz section. His official FIDE rating is 1400, but he has yet to play an international tournament and is virtually unrated. However, he has successfully played strong tournaments and opponents in China and is much stronger than players with a real rating of 1400. No wonder, his pawn-pushing style gave his opponents in Astana a hard time. Robert Ris shows an interesting example of how Pang Bo tackles the London System!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/king-of-all-underdogs-pang-bo-the-underdog",
-         "pubDate" : "Tue, 06 Aug 2024 14:30:00",
-         "title" : "An underdog? 1400-rated Chinese player Pang Bo scores 11 out of 11! - The Underdog"
-      },
-      {
          "description" : "GM Alireza Firouzja defeated GM Fabiano Caruana in the first quarterfinal match of the Speed Chess Championship 2024 with an overwhelming score of 14.5-8.5. He is the first player to qualify for the Semifinals that will be held live in Paris. Th...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-caruana-firouzja",
          "pubDate" : "Tue, 06 Aug 2024 14:02:00",
          "title" : "Firouzja Scores Nearly Double Caruana, Qualifies For Paris Semifinals"
-      },
-      {
-         "description" : "On Saturday, the traditional Riga Tech University Chess Festival, organised to mark FIDE's 100 year anniversary, began in the Latvian capital Riga with a blitz tournament. Indian Grandmaster Iniyan Pa won with 10.0/11, half a point ahead of German IM Jakob Pajeken. The main tournament began on Monday with almost 300 players.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/rtu-open-in-riga-has-started",
-         "pubDate" : "Tue, 06 Aug 2024 13:30:00",
-         "title" : "RTU Open in Riga has started"
       },
       {
          "description" : "Please find live link for 23rd Tamil Nadu IM norm tournament starts on 6th Aug 2024. Live Link :&#160;https://live.tamilchess.com/23rd-im-norm-chennai/",
@@ -258,28 +218,12 @@ news_feed (
          "title" : "Final Report of Senior National Arbiter Seminar & Examination at Bijnor ,UP on 27-28 July 2024"
       },
       {
-         "description" : "The WR Chess Team was unable to defend the title of World Rapid Team champions. Instead, Wadim Rosenstein's squas won the new title in the blitz category. WR Chess narrowly defeated MGD1 in the final encounter. Chessy, with Richard Rapport on the top board, and Al-Ain ACMG UAE, which won the rapid event, were the teams that made it to the semifinals. | Photos: FIDE / Maria Emelianova and Ruslan Mazunin",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-4",
-         "pubDate" : "Tue, 06 Aug 2024 00:40:00",
-         "title" : "Carlsen's WR Chess grab inaugural World Blitz Team Championship"
-      },
-      {
          "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship-pt-2",
          "pubDate" : "Tue, 06 Aug 2024 00:00:00",
          "title" : "Tactics Tuesday: Pan-American Youth Championship, Pt. 2"
-      },
-      {
-         "description" : "Gawain Jones defeated David Howell in a hard-fought series of rapid and blitz tiebreakers to win the 110th edition of the British Championship in Hull. After drawing their classical encounter, the contenders for the title traded wins in the first set of rapid tiebreakers, which meant the Championship would be decided in blitz - Jones drew with black and won with white to claim his third British title. | Photo: Dennis Dicen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/british-chess-championship-2024-9",
-         "pubDate" : "Mon, 05 Aug 2024 18:45:00",
-         "title" : "Jones beats Howell in tiebreaks, claims third British title"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A 30 minute documentary by <strong>Dominik Toepfer</strong> on the story of <strong>Lichess</strong> has been <a href=\"https://www.youtube.com/watch?v=H39AHPSBcGc\">released on Youtube</a>. </div> ",
@@ -306,14 +250,6 @@ news_feed (
          "title" : "Dragnev and Newrkla win 2024 Austrian Championship"
       },
       {
-         "description" : "Normally, the three Fritztrainers by the Indian Super-Grandmasters individually add up to €169.70. Bought together the bundle costs €94.90. But this week in our Summer Special you can get all three for €59.90! That is a massive saving. They are products that will directly add to your playing strength, and entertain you at the same time. Don't miss this opportunity - the special offer extends from August 5-11.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/three-stars-from-india",
-         "pubDate" : "Mon, 05 Aug 2024 11:32:11",
-         "title" : "Three stars from India"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Kevin Pryor</strong>, a retired corporate lawyer from Florida, is the <a href=\"https://new.uschess.org/news/kevin-pryor-named-president-us-chess\">first black person at the helm of</a> <strong>USChess</strong>, following <strong>Randy Bauer</strong>, who has come under fire for his alleged retaliation against <strong>Jennifer Shahade</strong> for making the Ramirez affair public. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -336,14 +272,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-4",
          "pubDate" : "Mon, 05 Aug 2024 07:55:00",
          "title" : "Carlsen Leads WR Chess To World Blitz Team Championship Gold"
-      },
-      {
-         "description" : "The final four rounds of the World Rapid Team Championship were played on Sunday in Astana. Al-Ain ACMG UAE, which entered the final day of action in the lead, won the event after achieving a close victory over Theme International Trading in the twelfth round - thanks to a clutch win by Daniil Dubov on the top board. Decade China, with reigning world champions Ding Liren and Ju Wenjun, grabbed the silver, while WR Chess, headed by Magnus Carlsen, took the bronze. | Photo: FIDE / Ruslan Mazunin",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-teams-2024-3",
-         "pubDate" : "Mon, 05 Aug 2024 06:15:00",
-         "title" : "Al-Ain win the World Rapid Team Championship in Astana"
       },
       {
          "description" : "15-year-old IM Shreyas Royal, who faced eviction from the United Kingdom eight years ago due to his father&#39;s expiring work visa, has now achieved his dream of becoming the youngest British chess grandmaster in history.&#38;nbsp; Royal is set to beco...",
@@ -376,14 +304,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/110th-british-chess-championships-2024",
          "pubDate" : "Sun, 4 Aug 2024 19:38:00",
          "title" : "110th British Chess Championships 2024 - Games and Results"
-      },
-      {
-         "description" : "As we try to improve our chess, much of the work involves considerable analysis, which is hugely expedited by talking to our silicon masters. The important thing, however, is not merely to sit at the Oracle's feet and genuflect, but to ask sufficient questions so as to develop our own understanding and, on a very good day, to do some of the work ourselves. | Pictured: Ray Robson | Photo: Lennart Ootes / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speelman-agony-218",
-         "pubDate" : "Sun, 04 Aug 2024 18:15:00",
-         "title" : "Jon Speelman: Analysis and the Oracle"
       },
       {
          "description" : "",
