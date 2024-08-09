@@ -2,6 +2,62 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After two days, 12 blitz games and two classical games, the score in the Hans Niemann vs Anish Giri match is tied: 9-9. Niemann won the blitz match 7.5-4.5, but Giri decided the first two classical games 1.5-0.5 in his favour. Since wins in classical chess are worth 3 points, the match is now tied. Today, two more classical follow, starting at 10.00 and 15.00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
+         "pubDate" : "Fri, 09 Aug 2024 09:45:00",
+         "title" : "Hans Niemann vs Anish Giri, Day 3, live"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The ongoing <strong>Lewis Chess Legends</strong> in Trondheim runs a mixed open tournament where the <a href=\"https://www.lewischesslegends.com/registration\">prize money for the top ranked women matches</a> the prize money for the top ranked men. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/equal-pay-trondheim-style/",
+         "pubDate" : "Fri, 09 Aug 2024 09:36:42",
+         "title" : "Equal pay Trondheim style"
+      },
+      {
+         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>World Chess</strong>, the company of <strong>Ilya Merenzon</strong>, is <a href=\"https://world-chess.homerun.co/smm-manager\">hiring a social media manager and content creator</a>. </div> ",
+         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
+         "iconName" : "ChessTech",
+         "link" : "https://www.chesstech.org/2024/social-media-job/",
+         "pubDate" : "Fri, 09 Aug 2024 09:32:51",
+         "title" : "Social Media job"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3147",
+         "pubDate" : "Fri, 09 Aug 2024 08:54:51",
+         "title" : "World Youth CC 2024: Important comment by FIDE EVE"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3146",
+         "pubDate" : "Fri, 09 Aug 2024 08:21:58",
+         "title" : "Hungarian Post releases commemorative stamp for 45th Chess Olympiad"
+      },
+      {
+         "description" : "Normally, the three Fritztrainers by the Indian Super-Grandmasters individually add up to €169.70. Bought together the bundle costs €94.90. But this week in our Summer Special you can get all three for €59.90! That is a massive saving. They are products that will directly add to your playing strength, and entertain you at the same time. Don't miss this opportunity - the special offer extends from August 5-11.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/three-stars-from-india",
+         "pubDate" : "Fri, 09 Aug 2024 08:00:11",
+         "title" : "Three stars from India"
+      },
+      {
+         "description" : " The world No 1 arrived at the World Team Rapid and Blitz jetlagged and lost to Richard Rapport but then beat the world champion Since abdicating his world crown last year, Norway's world champion, Magnus Carlsen, has appeared at a variety of over-the-board events, and also competes frequently online. Carlsen's often crowded schedule caught up with him last week when he flew across several time zones to the World Team Rapid and Blitz in Astana, Kazakhstan, missed the early rounds, and was then <a href=\"https://www.chessgames.com/perl/chessgame?gid=2741372\">beaten in 23 moves</a> by Hungary's Richard Rapport. The No 1's king was caught uncastled and, down to two minutes on his clock, he resig",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/aug/09/chess-carlsen-loses-in-23-moves-but-beats-ding-and-wins-titled-tuesday",
+         "pubDate" : "Fri, 09 Aug 2024 07:00:22",
+         "title" : "Chess: Carlsen loses in 23 moves but beats Ding and wins Titled Tuesday"
+      },
+      {
          "description" : "In the match between Hans Niemann and Anish Giri, Niemann took a 7&frac12;-4&frac12; lead after the blitz games that took place on the first day. Two classical games were played on the second day. Giri won the first game and the second game ended in a draw. Since wins in classical chess are worth 3 points, the score is now tied 9-9. | Photo: Harry Gielen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -266,14 +322,6 @@ news_feed (
          "title" : "First black USChess president"
       },
       {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The Russian federation <a href=\"https://ruchess.ru/news/all/al_ain_acmg_uae_stala_pobeditelem_komandnogo_chempionata_mira/\">celebrates the victory of the predominantly Russian team</a> of Emirates sponsored <strong>Al-Ain ACMG</strong> at the <strong>Rapid Team World Championship</strong> in Astana. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/russia-celebrates-team-victory/",
-         "pubDate" : "Mon, 05 Aug 2024 10:01:21",
-         "title" : "Russia celebrates team victory"
-      },
-      {
          "description" : "GM Magnus Carlsen-led WR Chess Team beat GM Arjun Erigaisi&#39;s Team MGD1 in the Final to win the 2024 World Blitz Team Championship. WR Chess won all seven matches in the group stages and cruised into the Quarterfinals. There they defeated GMHans.co...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -432,14 +480,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/how-much-chess-improvement/",
          "pubDate" : "Fri, 02 Aug 2024 12:48:00",
          "title" : "How much chess improvement is possible?"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> For <strong>Carsten Hensel</strong> and <strong>Stefan Kot</strong>h, who have been the faces of the <strong>Dortmund Chess Days</strong> since three decades and also organised the 2008 world championship match nearby in Bonn, the 2024 edition starting next week is <a href=\"https://sparkassen-chess-trophy.de/index.php/de/\">their last on the event team</a>. <strong>Christian Jochmann</strong> is the new executive director. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/hensel-and-koth-retire-from-event/",
-         "pubDate" : "Fri, 02 Aug 2024 12:38:10",
-         "title" : "Hensel and Koth retire from event team"
       },
       {
          "description" : "GM Richard Rapport scored a stunning victory over World Rapid Champion Magnus Carlsen as WR Chess, the defending champions and heavy favorites to win the 2024 World Rapid &#38;amp; Blitz Team Championships, sank to a 5-1 loss to third-seeded Chessy. C...",
@@ -936,14 +976,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-gm-deep-sengupta-overcomes-travel-woes-to-bag-title/articleshow/111865016.cms",
          "pubDate" : "Fri, 19 Jul 2024 12:40:38",
          "title" : "Kolkata GM Deep Sengupta overcomes travel woes to bag title"
-      },
-      {
-         "description" : " Fabiano Caruana, the world No 3 and US champion, won the Zagreb Rapid/Blitz with a record-equalling total of 27/36, and was sure of first prize with five rounds to spare Fabiano Caruana, the world No 3 and US champion, displayed his new mastery of speed chess last week when he won the SuperUnited Zagreb Rapid and Blitz, part of the St Louis-organised Grand Chess Tour, with a 27/36 points total, equalling Magnus Carlsen's record for the event. Caruana was sure of �victory with five rounds to spare. There were nine rounds each of rapid (G25+10) and blitz (G5+2) with the former counting double points. The total prize fund was $175,000. In nine years of the Tour there have been 10 rapid/blitz t",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/jul/19/chess-caruana-equals-carlsens-record-as-kasparov-criticises-world-title-match",
-         "pubDate" : "Fri, 19 Jul 2024 07:00:34",
-         "title" : "Chess: Caruana equals Carlsen's record as Kasparov criticises world title match"
       }
    ]
 }
