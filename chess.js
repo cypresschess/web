@@ -2,12 +2,28 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "After two days, 12 blitz games and two classical games, the score in the Hans Niemann vs Anish Giri match is tied: 9-9. Niemann won the blitz match 7.5-4.5, but Giri decided the first two classical games 1.5-0.5 in his favour. Since wins in classical chess are worth 3 points, the match is now tied. Today, two more classical follow, starting at 10.00 and 15.00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
+         "description" : "Episode 101 has launched, and Svitlana is testing our tactical skills! She found some lovely games of the World Rapid & Blitz Team Championship Tactics 2024, including Magnus Carlsen, Richard Rapport, Ding Liren, and more. Some tactics can be solved rather easily, while others require some critical thinking. Daniil Dubov, for example, couldn't find a decisive tactic. But maybe you can?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-lovely-world-rapid-blitz-team-championship-tactics",
+         "pubDate" : "Fri, 09 Aug 2024 17:00:00",
+         "title" : "Svitlana's Smart Moves - Lovely World Rapid & Blitz Team Championship Tactics"
+      },
+      {
+         "description" : "After 12 blitz and three classical games Hans Niemann leads 12-9 in his match against Anigh Giri - wins in classical games count three points, and after Niemann won the blitz match 7.5-4.5, the score in the three classical games is 1.5-1.5 (or 4.5-4.5). In the third classical game, Niemann won a brilliancy, game 4 starts at 15.00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
-         "pubDate" : "Fri, 09 Aug 2024 09:45:00",
-         "title" : "Hans Niemann vs Anish Giri, Day 3, live"
+         "pubDate" : "Fri, 09 Aug 2024 14:45:00",
+         "title" : "Hans Niemann vs Anish Giri, Day 3, Game 2, live"
+      },
+      {
+         "description" : "From 10 to 18 August Dortmund will once again be the summer chess capital of Germany. As well as a highly competitive Open, Elisabeth P&auml;htz and Dinara Wagner will be competing in a match to see who is number one women player in Germany.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sparkassen-chess-trophy-who-s-the-number-one",
+         "pubDate" : "Fri, 09 Aug 2024 14:00:00",
+         "title" : "Sparkassen Chess Trophy: Who's the number one?"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The ongoing <strong>Lewis Chess Legends</strong> in Trondheim runs a mixed open tournament where the <a href=\"https://www.lewischesslegends.com/registration\">prize money for the top ranked women matches</a> the prize money for the top ranked men. </div> ",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/aug/09/chess-carlsen-loses-in-23-moves-but-beats-ding-and-wins-titled-tuesday",
          "pubDate" : "Fri, 09 Aug 2024 07:00:22",
          "title" : "Chess: Carlsen loses in 23 moves but beats Ding and wins Titled Tuesday"
+      },
+      {
+         "description" : "Surprise, surprise, surprise! You find your board for round one. Your pieces take their assigned places on their squares. Your clock is set correctly. Your opponent appears at the board &hellip; and it's the TD! What can you look forward to?<br /><br /> <br /><br /> The TD Service Call<br /><br /> At some point your opponent may be called away to solve another player's problem. The time it takes away from your game depends on how much of a puzzle they need to solve. Most TDs will stop the clock in your mutual contest (see rule 21E) to go off and engage in the fine art of rules enforcement. The more wood-pushers that attend the event, the greater the chances are that your TD will be called on",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/just-rules-your-opponent-td",
+         "pubDate" : "Fri, 09 Aug 2024 00:00:00",
+         "title" : "Just the Rules: Your Opponent is the TD?!"
       },
       {
          "description" : "In the match between Hans Niemann and Anish Giri, Niemann took a 7&frac12;-4&frac12; lead after the blitz games that took place on the first day. Two classical games were played on the second day. Giri won the first game and the second game ended in a draw. Since wins in classical chess are worth 3 points, the score is now tied 9-9. | Photo: Harry Gielen",
@@ -178,7 +202,7 @@ news_feed (
          "title" : "Today's Lesson: Don't Lose $3K in One Game! | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship-pt-2",
@@ -341,9 +365,9 @@ news_feed (
          "description" : "The final round of the 124th Annual U.S. Open went down to the wire in Norfolk, Virginia. With four players entering Sunday's games with 7/8 scores, it was anybody's guess who would win the championship. In the end, GMs Jianchao Zhou and Semen Khanin won their respective games over GMs Mackenzie Molner and Fidel Corrales.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Left: Mackenzie Molner (L) faces off against Jianchao Zhou, with Semen Khanin and Fidel Corrales behind them. R",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/photo-report-khanin-wins-124th-annual-us-open-liang-qualifies-2024-us-championship",
+         "link" : "https://new.uschess.org/news/full-report-khanin-wins-124th-annual-us-open-liang-qualifies-2024-us-championship",
          "pubDate" : "Mon, 05 Aug 2024 00:00:00",
-         "title" : "Photo report: Khanin Wins 124th Annual U.S. Open, Liang Qualifies for 2024 U.S. Championship"
+         "title" : "Full report: Khanin Wins 124th Annual U.S. Open, Liang Qualifies for 2024 U.S. Championship"
       },
       {
          "description" : "",
@@ -674,14 +698,6 @@ news_feed (
          "title" : "Mishra Shines in Classical, Le Quang Liem Takes Top Honors at 57th Annual Biel International Chess Festival"
       },
       {
-         "description" : "No perfect scores remain in the traditional nine-day schedule of the U.S. Open. Five players are tied for first with 4&frac12;/5, including top-rated Julian Proleiko, who played a wild \"three-result\" game against Matthew Diao last night:<br /><br /> <br /><br /><br /><br /> <br /><br /> The current standings for the traditional schedule are available here. Tonight's sixth-round game is the final one before the players merge with the other two schedules for the final three rounds. <br /><br /> In the six-day schedule, every round is played at the same slow time control of the traditional, but players double-up their rounds on Wednesday and Thursday. Yesterday's second- and third-round games s",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-take-over-top-boards-day-five-us-open",
-         "pubDate" : "Thu, 01 Aug 2024 00:00:00",
-         "title" : "Tactics Take Over Top Boards on Day Five of U.S. Open"
-      },
-      {
          "description" : "GMs Hans Niemann and Fabiano Caruana move on to the Quarterfinals of the Speed Chess Championship 2024 after defeating, respectively, GMs Maxime Vachier-Lagrave and Alexey Sarana in the last two Round of 16 matches of the season. Bullet chess se...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -968,14 +984,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/crunchlabs-masters-2024",
          "pubDate" : "Fri, 19 Jul 2024 21:44:00",
          "title" : "CrunchLabs Masters 2024 - Games and Results"
-      },
-      {
-         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/111865016.cms\" />It's a case of all's well that ends well for Deep Sengupta. The Kolkata Grandmaster who was once uncertain of whether he could make it to Warsaw in time to take part in the Najdorf Memorial chess tournament, ultimately ended up winning the title on Wednesday. Sengupta's connecting flight from Abu Dhabi to Paris got delayed by almost 11 hours thereby making it impossible for him to catch his next connecting flight from Paris to Warsaw.",
-         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
-         "iconName" : "The Times<br>of India",
-         "link" : "https://timesofindia.indiatimes.com/sports/chess/kolkata-gm-deep-sengupta-overcomes-travel-woes-to-bag-title/articleshow/111865016.cms",
-         "pubDate" : "Fri, 19 Jul 2024 12:40:38",
-         "title" : "Kolkata GM Deep Sengupta overcomes travel woes to bag title"
       }
    ]
 }
