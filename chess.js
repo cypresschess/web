@@ -18,6 +18,14 @@ news_feed (
          "title" : "Svitlana's Smart Moves - Lovely World Rapid & Blitz Team Championship Tactics"
       },
       {
+         "description" : "GM Hikaru Nakamura is the last player to make it to the Speed Chess Championship 2024 Finals. On Friday, he defeated GM Ian Nepomniachtchi in the Quarterfinals with a 14.5-9.5 score. Nepomniachtchi got off to a three-point lead in the first segmen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-nakamura-nepomniachtchi",
+         "pubDate" : "Fri, 09 Aug 2024 15:53:00",
+         "title" : "Nakamura Takes Off In Bullet, Sets Up Semifinal Match Vs. Firouzja In Paris"
+      },
+      {
          "description" : "After 12 blitz and three classical games Hans Niemann leads 12-9 in his match against Anigh Giri - wins in classical games count three points, and after Niemann won the blitz match 7.5-4.5, the score in the three classical games is 1.5-1.5 (or 4.5-4.5). In the third classical game, Niemann won a brilliancy, game 4 starts at 15.00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -762,14 +770,6 @@ news_feed (
          "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
       },
       {
-         "description" : "With just over half the year behind us, 2024 has already treated us to several masterpieces on the 64 squares. In this article, we review the seven best games of the year so far. The games are listed in sequential order, starting with the beginn...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
-         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
-         "title" : "The 7 Best Games In 2024 So Far"
-      },
-      {
          "description" : "Please find the live link for 22nd Tamil Nadu IM norm tournament starts on 29th July 2024. Live Link : https://live.tamilchess.com/22nd-im-norm-chennai/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -976,14 +976,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3121",
          "pubDate" : "Sat, 20 Jul 2024 08:42:19",
          "title" : "Happy International Chess Day!"
-      },
-      {
-         "description" : " The CrunchLabs Masters which is part of the online Champions Chess Tour takes place 19th to 24th June 2024. Players: Carlsen, Firouzja, Nepomniachtchi, MVL, Duda, Caruana, Andreikin and Wesley So play in the top group.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/crunchlabs-masters-2024",
-         "pubDate" : "Fri, 19 Jul 2024 21:44:00",
-         "title" : "CrunchLabs Masters 2024 - Games and Results"
       }
    ]
 }
