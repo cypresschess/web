@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Hikaru Nakamura and Ian Nepomniachtchi live, starting at 21.00 CEST (15.00 ET, 0.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-2024-live",
+         "pubDate" : "Fri, 09 Aug 2024 20:50:00",
+         "title" : "Speed Chess Championship: Nakamura v. Nepomniachtchi - Live!"
+      },
+      {
          "description" : "Episode 101 has launched, and Svitlana is testing our tactical skills! She found some lovely games of the World Rapid & Blitz Team Championship Tactics 2024, including Magnus Carlsen, Richard Rapport, Ding Liren, and more. Some tactics can be solved rather easily, while others require some critical thinking. Daniil Dubov, for example, couldn't find a decisive tactic. But maybe you can?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +32,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sparkassen-chess-trophy-who-s-the-number-one",
          "pubDate" : "Fri, 09 Aug 2024 14:00:00",
          "title" : "Sparkassen Chess Trophy: Who's the number one?"
+      },
+      {
+         "description" : "A lower-rated amateur has been kicked out of an open tournament in the Netherlands after being caught with a cell phone hidden in his sock after previously raising eyebrows by defeating much higher-rated masters. The 26th edition of the Hogescho...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/dutch-chess-player-kicked-out-of-tournament-hid-phone-in-sock",
+         "pubDate" : "Fri, 09 Aug 2024 10:36:00",
+         "title" : "Dutch Player Kicked Out Of Tournament After Phone Found Hidden In Sock"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The ongoing <strong>Lewis Chess Legends</strong> in Trondheim runs a mixed open tournament where the <a href=\"https://www.lewischesslegends.com/registration\">prize money for the top ranked women matches</a> the prize money for the top ranked men. </div> ",
@@ -90,14 +106,6 @@ news_feed (
          "title" : "Giri ties the score in match against Niemann"
       },
       {
-         "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Magnus Carlsen and Arjun Erigaisi live, starting at 18.00 CEST (12.00 ET, 22.00 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-championship-2024-live",
-         "pubDate" : "Thu, 08 Aug 2024 17:50:00",
-         "title" : "Speed Chess Championship: Carlsen v. Arjun - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -127,7 +135,7 @@ news_feed (
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/74785-2/",
          "pubDate" : "Thu, 08 Aug 2024 07:50:47",
-         "title" : "Certificates for SNA Seminar held at Bijnor ,UP from 27 to 28 August 2024"
+         "title" : "Certificates for SNA Seminar held at Bijnor ,UP from 27 to 28 July 2024"
       },
       {
          "description" : "This is really taking thing too far. At the Dagestan Chess Championship one participant tried to poison a specific opponent by smearing mercury on her board. The substance was noticed and the arbiter called the police. The placing of the poison was caught on surveillance video, and the perpetrator has admitted to the deed. She said she had acted to get revenge on the player, whom she has known since childhood, bur who had \"seriously offended her.\"",
@@ -760,14 +768,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-best-games-so-far",
          "pubDate" : "Tue, 30 Jul 2024 07:00:00",
          "title" : "The 7 Best Games In 2024 So Far"
-      },
-      {
-         "description" : "GM Alireza Firouzja kicked off his Speed Chess Championship 2024 campaign in style with a 13.5-10.5 victory over GM Alexander Grischuk in a Round of 16 match that was packed to the brim with enterprising opening play and time scrambles.&#38;nbsp; Fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-firouzja-grischuk-so-lazavik",
-         "pubDate" : "Mon, 29 Jul 2024 15:19:00",
-         "title" : "Firouzja Fireworks Lead To Win Over Grischuk, So Outlasts Lazavik"
       },
       {
          "description" : "Please find the live link for 22nd Tamil Nadu IM norm tournament starts on 29th July 2024. Live Link : https://live.tamilchess.com/22nd-im-norm-chennai/",
