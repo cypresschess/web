@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Magnus Carlsen and Hans Niemann are paired up against each other in the semifinals of the Speed Chess Championship, set to take place as an in-person event in Paris - though games will be played on computers. In the other semifinal, Hikaru Nakamura will play against Alireza Firouzja. The semis, the finals and the match for third place will take place on 6-8 September. | Photo: Crystal Fuller / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/speed-chess-championship-qf4",
+         "pubDate" : "Sat, 10 Aug 2024 18:30:00",
+         "title" : "Carlsen to face Niemann next month in Paris"
+      },
+      {
          "description" : "I was alarmed to discover in the foreword to the third and latest volume in the Korchnoi tetralogy Korchnoi Year by Year, 1981-1991 by Hans Renette and Tibor Karolyi (Elk and Ruby, &pound;35.95) the following verdict by Korchnoi's lawyer Alban Brodbeck on the \"Leningrad Lip\" and his constant post-defection companion, former self-confessed terrorist, Petra Leuuwerik: \"A crackhead and []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -14,7 +22,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
-         "pubDate" : "Sat, 10 Aug 2024 09:45:00",
+         "pubDate" : "Sat, 10 Aug 2024 07:45:00",
          "title" : "Hans Niemann vs Anish Giri, Day 4, Game 2 - Live"
       },
       {
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/niemann-against-the-world-classical-2",
          "pubDate" : "Sat, 10 Aug 2024 01:40:00",
          "title" : "Niemann beats Giri twice in classical chess, grabs 6-point lead"
-      },
-      {
-         "description" : "Episode 101 has launched, and Svitlana is testing our tactical skills! She found some lovely games of the World Rapid & Blitz Team Championship Tactics 2024, including Magnus Carlsen, Richard Rapport, Ding Liren, and more. Some tactics can be solved rather easily, while others require some critical thinking. Daniil Dubov, for example, couldn't find a decisive tactic. But maybe you can?",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/svitlana-s-smart-moves-lovely-world-rapid-blitz-team-championship-tactics",
-         "pubDate" : "Fri, 09 Aug 2024 17:00:00",
-         "title" : "Svitlana's Smart Moves - Lovely World Rapid & Blitz Team Championship Tactics"
       },
       {
          "description" : "GM Hikaru Nakamura is the last player to make it to the Speed Chess Championship 2024 Finals. On Friday, he defeated GM Ian Nepomniachtchi in the Quarterfinals with a 14.5-9.5 score. Nepomniachtchi got off to a three-point lead in the first segmen...",
