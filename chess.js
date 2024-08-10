@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 12 blitz and 5 classical games, Hans Niemann leads 16&frac12;-10&frac12; in his match against Anigh Giri - wins in classical games count 3 points. And after Niemann won the blitz section 7&frac12;-4&frac12;, the score in the 5 classical games is 3-2 (or 9-6). The sixth and final classical game starts at 15.00 local time on Saturday. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
+         "pubDate" : "Sat, 10 Aug 2024 09:45:00",
+         "title" : "Hans Niemann vs Anish Giri, Day 4, Game 1 - Live"
+      },
+      {
          "description" : "Hans Niemann scored back-to-back classical victories over Anish Giri to get a 6-point lead in their match in Utrecht. Giri came from tying the score on Thursday, and despite the consecutive losses still has chances of winning the match as 18 points are still up for grabs in the remaining 8 games (2 in classical chess and 6 in rapid). Niemann's pair of wins allowed him to climb to the 24th spot in the live ratings list. | Photo: Harry Gielen",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -554,6 +562,14 @@ news_feed (
          "title" : "Certificates for SNA Seminar held at Jammu from 20 to 21 July 2024"
       },
       {
+         "description" : "Please find the Certificates here NATIONAL UNDER 17 :OPEN Rank Name 1 Sriram Adarsh Uppala 2 Arpith S Bijoy 3 Jaiveer Mahendru 4 Nandish V",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/certificates-national-under-17-chess-championship-2024/",
+         "pubDate" : "Fri, 02 Aug 2024 08:17:41",
+         "title" : "Certificates :National Under 17 Chess Championship 2024"
+      },
+      {
          "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the youngest current grandmaster and the fourth youngest GM in history. He reached the verge of another significant milestone las",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -818,14 +834,6 @@ news_feed (
          "title" : "Little experiments make things fun"
       },
       {
-         "description" : "(AICF Event Codes: 369716/CHD/2024 &#38; 369717/CHD/2024) Organised by CHANDIGARH CHESS ASSOCIATION The 34th National Under-17 Open and Girls Chess Championship, event codes 369716/369717, was organized",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/34th-national-under-17-open-girls-chess-championships-2024-final-report/",
-         "pubDate" : "Sat, 27 Jul 2024 11:17:51",
-         "title" : "34th National Under-17 OPEN & GIRLS CHESS CHAMPIONSHIPS 2024 :Final Report"
-      },
-      {
          "description" : "The Germans have an impressively lapidary way of describing historical battles. Whereas in English we would describe the disaster which overwhelmed the legions of the Roman general Varus in 15AD, as the Battle of the Teutoberger Forest, the neat German expression is Die Hermannschlacht (\"Hermann's battle\"). This formulation honours the Teutonic tribal chieftain Arminius (aka Hermann), who caused the Emperor []",
          "iconLink" : "https://cypresschess.github.io/web/article.png",
          "iconName" : "The Article",
@@ -952,30 +960,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/",
          "pubDate" : "Sat, 20 Jul 2024 14:08:33",
          "title" : "The story of Shama Yisrael, the first female African-American Chess Master"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3122",
-         "pubDate" : "Sat, 20 Jul 2024 10:43:21",
-         "title" : "Ten goals for next 100 years of International Chess Federation"
-      },
-      {
-         "description" : "Last Sunday Spain won the finals of two major physical sports: tennis at Wimbledon and the European Nations football in Berlin - a unique achievement for any country on the same day. So it is worth also celebrating the history of the major mental sport, namely chess, in Spain. In particular, we should pay tribute to that []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/from-columbus-to-capablanca-the-hispanic-contribution-to-chess/",
-         "pubDate" : "Sat, 20 Jul 2024 10:34:46",
-         "title" : "From Columbus to Capablanca: the Hispanic contribution to chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3121",
-         "pubDate" : "Sat, 20 Jul 2024 08:42:19",
-         "title" : "Happy International Chess Day!"
       }
    ]
 }
