@@ -431,7 +431,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-3-2024",
          "pubDate" : "Sat, 03 Aug 2024 15:05:00",
-         "title" : "Nakamura, Naroditsky, Tang Confirm All-American Podium"
+         "title" : "Nakamura, Naroditsky, Tang Comprise All-American Podium"
       },
       {
          "description" : "\"There's this monstrous idiot - this monstrous elected idiot - who keeps telling his fellow-idiots to throw my books on a bonfire and beat me up In the street&hellip;\" The author of these words was Stefan Zweig (1881-1942) and I first read and transcribed them six decades ago. He was the Austrian-Jewish &eacute;migr&eacute; author of Schachnovelle (variously []",
@@ -912,14 +912,6 @@ news_feed (
          "link" : "https://chessforallages.blogspot.com/2024/07/interspecies-friendships-and-chess.html",
          "pubDate" : "Sun, 21 Jul 2024 15:20:00",
          "title" : "'Interspecies Friendships' and Chess"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3123",
-         "pubDate" : "Sat, 20 Jul 2024 20:06:28",
-         "title" : "From Paris and the world with chess: FIDE celebrates 100 years since its founding"
       }
    ]
 }
