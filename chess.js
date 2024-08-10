@@ -2,12 +2,20 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "I was alarmed to discover in the foreword to the third and latest volume in the Korchnoi tetralogy Korchnoi Year by Year, 1981-1991 by Hans Renette and Tibor Karolyi (Elk and Ruby, &pound;35.95) the following verdict by Korchnoi's lawyer Alban Brodbeck on the \"Leningrad Lip\" and his constant post-defection companion, former self-confessed terrorist, Petra Leuuwerik: \"A crackhead and []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/cold-war-chessboard-diplomacy/",
+         "pubDate" : "Sat, 10 Aug 2024 14:48:37",
+         "title" : "Cold War chessboard diplomacy"
+      },
+      {
          "description" : "After 12 blitz and 5 classical games, Hans Niemann leads 16&frac12;-10&frac12; in his match against Anigh Giri - wins in classical games count 3 points. And after Niemann won the blitz section 7&frac12;-4&frac12;, the score in the 5 classical games is 3-2 (or 9-6). The sixth and final classical game starts at 15.00 local time on Saturday. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
          "pubDate" : "Sat, 10 Aug 2024 09:45:00",
-         "title" : "Hans Niemann vs Anish Giri, Day 4, Game 1 - Live"
+         "title" : "Hans Niemann vs Anish Giri, Day 4, Game 2 - Live"
       },
       {
          "description" : "Hans Niemann scored back-to-back classical victories over Anish Giri to get a 6-point lead in their match in Utrecht. Giri came from tying the score on Thursday, and despite the consecutive losses still has chances of winning the match as 18 points are still up for grabs in the remaining 8 games (2 in classical chess and 6 in rapid). Niemann's pair of wins allowed him to climb to the 24th spot in the live ratings list. | Photo: Harry Gielen",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/niemann-against-the-world-classical-2",
          "pubDate" : "Sat, 10 Aug 2024 01:40:00",
          "title" : "Niemann beats Giri twice in classical chess, grabs 6-point lead"
-      },
-      {
-         "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Hikaru Nakamura and Ian Nepomniachtchi live, starting at 21.00 CEST (15.00 ET, 0.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-championship-2024-live",
-         "pubDate" : "Fri, 09 Aug 2024 20:50:00",
-         "title" : "Speed Chess Championship: Nakamura v. Nepomniachtchi - Live!"
       },
       {
          "description" : "Episode 101 has launched, and Svitlana is testing our tactical skills! She found some lovely games of the World Rapid & Blitz Team Championship Tactics 2024, including Magnus Carlsen, Richard Rapport, Ding Liren, and more. Some tactics can be solved rather easily, while others require some critical thinking. Daniil Dubov, for example, couldn't find a decisive tactic. But maybe you can?",
@@ -40,14 +40,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-nakamura-nepomniachtchi",
          "pubDate" : "Fri, 09 Aug 2024 15:53:00",
          "title" : "Nakamura Takes Off In Bullet, Sets Up Semifinal Match Vs. Firouzja In Paris"
-      },
-      {
-         "description" : "From 10 to 18 August Dortmund will once again be the summer chess capital of Germany. As well as a highly competitive Open, Elisabeth P&auml;htz and Dinara Wagner will be competing in a match to see who is number one women player in Germany.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sparkassen-chess-trophy-who-s-the-number-one",
-         "pubDate" : "Fri, 09 Aug 2024 14:00:00",
-         "title" : "Sparkassen Chess Trophy: Who's the number one?"
       },
       {
          "description" : "A lower-rated amateur has been kicked out of an open tournament in the Netherlands after being caught with a cell phone hidden in his sock after previously raising eyebrows by defeating much higher-rated masters. The 26th edition of the Hogescho...",
@@ -90,14 +82,6 @@ news_feed (
          "title" : "Hungarian Post releases commemorative stamp for 45th Chess Olympiad"
       },
       {
-         "description" : "Normally, the three Fritztrainers by the Indian Super-Grandmasters individually add up to €169.70. Bought together the bundle costs €94.90. But this week in our Summer Special you can get all three for €59.90! That is a massive saving. They are products that will directly add to your playing strength, and entertain you at the same time. Don't miss this opportunity - the special offer extends from August 5-11.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/three-stars-from-india",
-         "pubDate" : "Fri, 09 Aug 2024 08:00:11",
-         "title" : "Three stars from India"
-      },
-      {
          "description" : " The world No 1 arrived at the World Team Rapid and Blitz jetlagged and lost to Richard Rapport but then beat the world champion Since abdicating his world crown last year, Norway's world champion, Magnus Carlsen, has appeared at a variety of over-the-board events, and also competes frequently online. Carlsen's often crowded schedule caught up with him last week when he flew across several time zones to the World Team Rapid and Blitz in Astana, Kazakhstan, missed the early rounds, and was then <a href=\"https://www.chessgames.com/perl/chessgame?gid=2741372\">beaten in 23 moves</a> by Hungary's Richard Rapport. The No 1's king was caught uncastled and, down to two minutes on his clock, he resig",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -112,14 +96,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/just-rules-your-opponent-td",
          "pubDate" : "Fri, 09 Aug 2024 00:00:00",
          "title" : "Just the Rules: Your Opponent is the TD?!"
-      },
-      {
-         "description" : "In the match between Hans Niemann and Anish Giri, Niemann took a 7&frac12;-4&frac12; lead after the blitz games that took place on the first day. Two classical games were played on the second day. Giri won the first game and the second game ended in a draw. Since wins in classical chess are worth 3 points, the score is now tied 9-9. | Photo: Harry Gielen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-against-the-world-classical-1",
-         "pubDate" : "Thu, 08 Aug 2024 21:45:00",
-         "title" : "Giri ties the score in match against Niemann"
       },
       {
          "description" : "",
@@ -152,14 +128,6 @@ news_feed (
          "link" : "https://aicf.in/74785-2/",
          "pubDate" : "Thu, 08 Aug 2024 07:50:47",
          "title" : "Certificates for SNA Seminar held at Bijnor ,UP from 27 to 28 July 2024"
-      },
-      {
-         "description" : "This is really taking thing too far. At the Dagestan Chess Championship one participant tried to poison a specific opponent by smearing mercury on her board. The substance was noticed and the arbiter called the police. The placing of the poison was caught on surveillance video, and the perpetrator has admitted to the deed. She said she had acted to get revenge on the player, whom she has known since childhood, bur who had \"seriously offended her.\"",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/player-accused-of-poisoning-opponent-with-mercury",
-         "pubDate" : "Wed, 07 Aug 2024 23:10:42",
-         "title" : "Player accused of poisoning opponent with mercury"
       },
       {
          "description" : "GM Hans Niemann can buy his ticket to Paris, as he&#39;s made it to the Speed Chess Championship 2024 Semifinals which will be live in France. He won his quarterfinal match against GM Wesley So 13-10. Notably, he gave a 30-minute interview after the m...",
@@ -952,14 +920,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3123",
          "pubDate" : "Sat, 20 Jul 2024 20:06:28",
          "title" : "From Paris and the world with chess: FIDE celebrates 100 years since its founding"
-      },
-      {
-         "description" : " National Master Shama YisraelPhoto by Otis Wilson/954 Chess Club Shama Yisrael earned the title of National Master last weekend, becoming the first African-American woman to earn the coveted honor. After playing in several tournaments in a week's time, the 20-year-old earned her last few points at the Pincrest Independence Open. Beginning in early June, Shama The post <a href=\"https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/\">The story of Shama Yisrael, the first female African-American Chess Master</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/07/20/the-story-of-shama-yisrael-the-first-female-african-american-chess-master/",
-         "pubDate" : "Sat, 20 Jul 2024 14:08:33",
-         "title" : "The story of Shama Yisrael, the first female African-American Chess Master"
       }
    ]
 }
