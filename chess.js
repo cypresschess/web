@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann scored back-to-back classical victories over Anish Giri to get a 6-point lead in their match in Utrecht. Giri came from tying the score on Thursday, and despite the consecutive losses still has chances of winning the match as 18 points are still up for grabs in the remaining 8 games (2 in classical chess and 6 in rapid). Niemann's pair of wins allowed him to climb to the 24th spot in the live ratings list. | Photo: Harry Gielen",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-against-the-world-classical-2",
+         "pubDate" : "Sat, 10 Aug 2024 01:40:00",
+         "title" : "Niemann beats Giri twice in classical chess, grabs 6-point lead"
+      },
+      {
          "description" : "The main event of the Speed Chess Championship is taking place from 25 July to 9 September. The quarterfinals are being played on 6-9 August, with 8 elite GMs fighting to reach the in-person final stages set to take place in Paris on 6-8 September. | Follow the quarterfinal match between Hikaru Nakamura and Ian Nepomniachtchi live, starting at 21.00 CEST (15.00 ET, 0.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-nakamura-nepomniachtchi",
          "pubDate" : "Fri, 09 Aug 2024 15:53:00",
          "title" : "Nakamura Takes Off In Bullet, Sets Up Semifinal Match Vs. Firouzja In Paris"
-      },
-      {
-         "description" : "After 12 blitz and three classical games Hans Niemann leads 12-9 in his match against Anigh Giri - wins in classical games count three points, and after Niemann won the blitz match 7.5-4.5, the score in the three classical games is 1.5-1.5 (or 4.5-4.5). In the third classical game, Niemann won a brilliancy, game 4 starts at 15.00 local time in Utrecht, in the Netherlands. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
-         "pubDate" : "Fri, 09 Aug 2024 14:45:00",
-         "title" : "Hans Niemann vs Anish Giri, Day 3, Game 2, live"
       },
       {
          "description" : "From 10 to 18 August Dortmund will once again be the summer chess capital of Germany. As well as a highly competitive Open, Elisabeth P&auml;htz and Dinara Wagner will be competing in a match to see who is number one women player in Germany.",
