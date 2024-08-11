@@ -1,4 +1,9 @@
 jtable([
+"HOUSTON","2024-08-10","8","<a href=http://www.uschess.org/msa/XtblMain.php?202408100972 target='_blank'>CHESSPANDA08102024SATURDAY</a>",
+"HOUSTON","2024-08-10","24","<a href=http://www.uschess.org/msa/XtblMain.php?202408100942 target='_blank'>AUGUST 10TH TROPHY SCHOLASTIC</a>",
+"SUGAR LAND","2024-08-09","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408090722 target='_blank'>FBCC PERSEI METEOR OPEN</a>",
+"SPRING","2024-08-09","24","<a href=http://www.uschess.org/msa/XtblMain.php?202408090672 target='_blank'>THE FRIDAY KNIGHTS</a>",
+"CYPRESS","2024-08-09","28","<a href=http://www.uschess.org/msa/XtblMain.php?202408090652 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2024-08-04","4","<a href=http://www.uschess.org/msa/XtblMain.php?202408048542 target='_blank'>CYGA08042024</a>",
 "HOUSTON","2024-08-02  - 08-04","94","<a href=http://www.uschess.org/msa/XtblMain.php?202408048492 target='_blank'>$2,500 AUGUST 2024 CHAMPIONSHIP</a>",
 "HOUSTON","2024-08-03","16","<a href=http://www.uschess.org/msa/XtblMain.php?202408037482 target='_blank'>CHESSPANDA08032024SATURDAY</a>",
@@ -194,9 +199,4 @@ jtable([
 "HOUSTON","2024-01-20  - 01-21","108","<a href=http://www.uschess.org/msa/XtblMain.php?202401214302 target='_blank'>TCR: TCA TEXAS TEAM CHAMPIONSHIP 2024- T</a>",
 "HOUSTON","2024-01-20","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401203452 target='_blank'>CHESSPANDA01202024SATURDAY</a>",
 "CYPRESS","2024-01-20","34","<a href=http://www.uschess.org/msa/XtblMain.php?202401202762 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2024-01-19","30","<a href=http://www.uschess.org/msa/XtblMain.php?202401192722 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"HOUSTON","2024-01-19","10","<a href=http://www.uschess.org/msa/XtblMain.php?202401192682 target='_blank'>REBECCA CHESS CLUB QUADS JANUARY 19, 2924</a>",
-"LEAGUE CITY","2024-01-03  - 01-17","5","<a href=http://www.uschess.org/msa/XtblMain.php?202401171902 target='_blank'>CLCC JANUARY WEDNESDAYS</a>",
-"HOUSTON","2024-01-14","10","<a href=http://www.uschess.org/msa/XtblMain.php?202401140942 target='_blank'>ADULT QUADS - JAN 14 - G/75, D5 - N</a>",
-"HOUSTON","2024-01-13","12","<a href=http://www.uschess.org/msa/XtblMain.php?202401139362 target='_blank'>JANUARY 13TH SCHOLASTIC</a>",
 ]);
