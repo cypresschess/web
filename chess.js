@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> NM Proleiko learns the difference the hard way between confident and cocky </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-you-think-your-winning-chess-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_FxN0U99Yr4.jpg?itok=ctmmb4rW\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/when-you-think-your-winning-chess-chessendgame-lichess",
+         "pubDate" : "Sun, 11 Aug 2024 03:00:13",
+         "title" : "When You Think Your Winning #chess #chessendgame #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> GM Boros explains Aronian&#039;s middlegame position against Carlsen </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsen-and-aronians-middlegame-battle-chess-chesstactics-magnuscarlsen-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bp4pQa1toJw.jpg?itok=J16j9vfb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsen-and-aronians-middlegame-battle-chess-chesstactics-magnuscarlsen-lichess",
+         "pubDate" : "Sun, 11 Aug 2024 03:00:13",
+         "title" : "Carlsen and Aronian's Middlegame Battle #chess #chesstactics #magnuscarlsen #lichess"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> A break through and Magnus Carlsen unleashes his rooks along with his bishops against Levon Aronian </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/carlsens-rooks-go-ham-chess-chesstactics-lichess-magnuscarlsen-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Pe4gaHYI_DQ.jpg?itok=q1zV9C_V\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/carlsens-rooks-go-ham-chess-chesstactics-lichess-magnuscarlsen-lichess",
+         "pubDate" : "Sun, 11 Aug 2024 03:00:13",
+         "title" : "Carlsen's Rooks Go H.A.M. #chess #chesstactics #lichess #magnuscarlsen #lichess"
+      },
+      {
          "description" : "Magnus Carlsen and Hans Niemann are paired up against each other in the semifinals of the Speed Chess Championship, set to take place as an in-person event in Paris - though games will be played on computers. In the other semifinal, Hikaru Nakamura will play against Alireza Firouzja. The semis, the finals and the match for third place will take place on 6-8 September. | Photo: Crystal Fuller / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/speed-chess-championship-qf4",
          "pubDate" : "Sat, 10 Aug 2024 18:30:00",
          "title" : "Carlsen to face Niemann next month in Paris"
+      },
+      {
+         "description" : "Famed commentator and GM Daniel Naroditsky added a 22nd Bullet Brawl&#38;nbsp;title to his resume on Saturday after outscoring Turkish prodigies GM Ediz Gurel and IM Yaqiz Erdogmus, whose combined age of 28 is the same as the winner&#39;s. A 23-game unbea...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-august-10-2024",
+         "pubDate" : "Sat, 10 Aug 2024 16:28:00",
+         "title" : "Naroditsky Wins Bullet Brawl Ahead Of Turkish Prodigies"
       },
       {
          "description" : "I was alarmed to discover in the foreword to the third and latest volume in the Korchnoi tetralogy Korchnoi Year by Year, 1981-1991 by Hans Renette and Tibor Karolyi (Elk and Ruby, &pound;35.95) the following verdict by Korchnoi's lawyer Alban Brodbeck on the \"Leningrad Lip\" and his constant post-defection companion, former self-confessed terrorist, Petra Leuuwerik: \"A crackhead and []",
@@ -610,30 +642,6 @@ news_feed (
          "title" : "Alice Lee: From 'Slightly Worse' to Clear Lead! | R8 #USJuniors"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Christopher Yoo talks to Kostya Kavutskiy after defeating Daggupati to clinch the tournament in Round 9 of the 2024 U.S. Junior Championship. 2024.07.25<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christopher-yoo-celebrates-kool-gang-r9-usjuniors",
-         "pubDate" : "Thu, 01 Aug 2024 17:53:39",
-         "title" : "Christopher Yoo Celebrates Like Kool & the Gang | R9 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nicky Ladan talks to Kostya Kavutskiy after defeating Arthur Guo in Round 9 of the 2024 U.S. Junior Championship. 2024.07.25<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSC",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nicky-ladan-once-lifetime-opportunity-r9-usjuniors",
-         "pubDate" : "Thu, 01 Aug 2024 17:53:39",
-         "title" : "Nicky Ladan: Once-in-a-Lifetime Opportunity | R9 #USJuniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alex Shabalov talks to Kostya Kavutskiy after a draw against Novikov in Round 9 of the 2024 U.S. Senior Championship. 2024.07.25<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/shabalov-tournament-forget-r9-usseniors",
-         "pubDate" : "Thu, 01 Aug 2024 17:53:39",
-         "title" : "Shabalov: A Tournament to Forget | R9 #USSeniors"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/dmr-election-results-bronze-members-reps/",
          "pubDate" : "Tue, 30 Jul 2024 07:15:14",
          "title" : "DMR election results - Bronze members' reps!"
-      },
-      {
-         "description" : "You can now play chess against Wallows, the indie rock band composed of Braeden Lemasters, Cole Preston, and Dylan Minnette. Their new bot is now available on our Play Computer page in the Musicians section. Play Against Wallows Wallows, who a...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/wallows-bot",
-         "pubDate" : "Tue, 30 Jul 2024 07:00:00",
-         "title" : "Play Chess Against Wallows And Join Their Arena Featuring Special Prizes"
       },
       {
          "description" : "Please find the live link for 22nd Tamil Nadu IM norm tournament starts on 29th July 2024. Live Link : https://live.tamilchess.com/22nd-im-norm-chennai/",
