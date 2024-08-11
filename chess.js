@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3149",
+         "pubDate" : "Sun, 11 Aug 2024 23:06:35",
+         "title" : "Bulgarian Championship: Momchil Nikolov and Adriana Nikolova clinch titles"
+      },
+      {
+         "description" : "The last two events of the 2024 Grand Chess Tour will take place in Saint Louis on 12-29 August. First, the Saint Louis Rapid & Blitz will be played on 12-16 August, with the three frontrunners in the race to win the yearly series participating: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. Joining them will be four tour 'regulars' and three wildcards: Levon Aronian, Hikaru Nakamura and Leinier Dominguez. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-preview",
+         "pubDate" : "Sun, 11 Aug 2024 21:30:00",
+         "title" : "St. Louis Rapid & Blitz: Caruana, Firouzja and Pragg start as GCT frontrunners"
+      },
+      {
          "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,14 +34,6 @@ news_feed (
          "title" : "FIDE100 Torch Relay reaches New Zealand"
       },
       {
-         "description" : "The Taimanov Sicilian offers Black a flexible and reliable system against 1.e4, allowing for realistic winning chances without unnecessary risks. This comprehensive video course provides a complete repertoire, covering both the main lines and Anti-Sicilian variations, with more than 16 hours of instruction, interactive training, and over 400 model games. Ideal for players looking to solidify their understanding and confidently face any challenge in the Sicilian Defence.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/robert-ris-the-flexible-taimanov-sicilian-a-complete-guide-for-black-against-the-anti-sicilian",
-         "pubDate" : "Sun, 11 Aug 2024 10:00:00",
-         "title" : "Robert Ris: The flexible Taimanov Sicilian + A Complete Guide for Black against the Anti-Sicilian"
-      },
-      {
          "description" : "EU Youth Chess Championship 2024 is underway. The level of the event is very good in category U8 is leading Han Nam Pham (FRA, 6 points out of 6 rounds!), in U10 with 5,5 points Konstantin Mueller (GER), in U12 Leo Corral Nehama (FRA, 5 points) and in U14 Hugo Bocquenet-Drouode (FRA, 5 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first six rounds Aaron-Mathias Dragoi (ROU), []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -40,14 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-pragganandhaa-eyeing-an-improved-finish-in-gct-final-outings/articleshow/112441427.cms",
          "pubDate" : "Sun, 11 Aug 2024 08:07:49",
          "title" : "R Pragganandhaa eyeing an improved finish in GCT final outings"
-      },
-      {
-         "description" : "The 51st edition of the Dortmund Chess Festival kicked off on Saturday, with the start of the A-Open and the B-Open tournaments. Most favourites prevailed, though a few of them only managed a draw. Sunday will see the start of the 6-game match between Elisabeth Paehtz and Dinara Wagner, the two highest-rated women players in Germany. | Pictured: Luc Zimmermann from the Netherlands | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d1",
-         "pubDate" : "Sun, 11 Aug 2024 06:40:00",
-         "title" : "Dortmund: A successful start"
       },
       {
          "description" : "<div class=\"body text-secondary\"> NM Proleiko learns the difference the hard way between confident and cocky </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-you-think-your-winning-chess-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_FxN0U99Yr4.jpg?itok=ctmmb4rW\" alt=\"\" /></a></div>",
@@ -72,14 +72,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/carlsens-rooks-go-ham-chess-chesstactics-lichess-magnuscarlsen-lichess",
          "pubDate" : "Sun, 11 Aug 2024 03:00:13",
          "title" : "Carlsen's Rooks Go H.A.M. #chess #chesstactics #lichess #magnuscarlsen #lichess"
-      },
-      {
-         "description" : "Magnus Carlsen and Hans Niemann are paired up against each other in the semifinals of the Speed Chess Championship, set to take place as an in-person event in Paris - though games will be played on computers. In the other semifinal, Hikaru Nakamura will play against Alireza Firouzja. The semis, the finals and the match for third place will take place on 6-8 September. | Photo: Crystal Fuller / Saint Louis Chess Club",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/speed-chess-championship-qf4",
-         "pubDate" : "Sat, 10 Aug 2024 18:30:00",
-         "title" : "Carlsen to face Niemann next month in Paris"
       },
       {
          "description" : "Famed commentator and GM Daniel Naroditsky added a 22nd Bullet Brawl&#38;nbsp;title to his resume on Saturday after outscoring Turkish prodigies GM Ediz Gurel and IM Yaqiz Erdogmus, whose combined age of 28 is the same as the winner&#39;s. A 23-game unbea...",
@@ -928,14 +920,6 @@ news_feed (
          "link" : "https://www.europechess.org/fide-celebrates-100-years-since-its-founding/",
          "pubDate" : "Mon, 22 Jul 2024 08:23:13",
          "title" : "FIDE celebrates 100 years since its founding"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3124",
-         "pubDate" : "Sun, 21 Jul 2024 21:34:38",
-         "title" : "Team lineups announced for record-breaking 45th Chess Olympiad in Budapest"
       }
    ]
 }
