@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
+         "pubDate" : "Sun, 11 Aug 2024 14:50:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3148",
+         "pubDate" : "Sun, 11 Aug 2024 13:00:46",
+         "title" : "FIDE100 Torch Relay reaches New Zealand"
+      },
+      {
          "description" : "The Taimanov Sicilian offers Black a flexible and reliable system against 1.e4, allowing for realistic winning chances without unnecessary risks. This comprehensive video course provides a complete repertoire, covering both the main lines and Anti-Sicilian variations, with more than 16 hours of instruction, interactive training, and over 400 model games. Ideal for players looking to solidify their understanding and confidently face any challenge in the Sicilian Defence.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -920,14 +936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3124",
          "pubDate" : "Sun, 21 Jul 2024 21:34:38",
          "title" : "Team lineups announced for record-breaking 45th Chess Olympiad in Budapest"
-      },
-      {
-         "description" : "A good subtitle to that title would be 'Don't play chess with a monkey'. This month's Flickr favorite doesn't really have much to do with chess, but the board in the left photo looks indeed to be that of our favorite board game. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-og21.jpg\" WIDTH=400 HEIGHT=205><BR> <B>Left:</B> <A HREF=\"https://www.flickr.com/photos/museado/53869180277/\">The wounded monkey bites the hand of the prince...</A> &#169; Flickr user <I>museado</I> under <A HREF=\"https://creativecommons.org/publicdomain/zero/1.0/\">Creative Commons</A>.<BR> <P> The full title of the left photo said, <BLOCKQUOTE> The wounded monkey bites the hand of the prince, his chessma",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/07/interspecies-friendships-and-chess.html",
-         "pubDate" : "Sun, 21 Jul 2024 15:20:00",
-         "title" : "'Interspecies Friendships' and Chess"
       }
    ]
 }
