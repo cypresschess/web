@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The 51st edition of the Dortmund Chess Festival kicked off on Saturday, with the start of the A-Open and the B-Open tournaments. Most favourites prevailed, though a few of them only managed a draw. Sunday will see the start of the 6-game match between Elisabeth Paehtz and Dinara Wagner, the two highest-rated women players in Germany. | Pictured: Luc Zimmermann from the Netherlands | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d1",
+         "pubDate" : "Sun, 11 Aug 2024 06:40:00",
+         "title" : "Dortmund: A successful start"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> NM Proleiko learns the difference the hard way between confident and cocky </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-you-think-your-winning-chess-chessendgame-lichess\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_FxN0U99Yr4.jpg?itok=ctmmb4rW\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,22 +56,6 @@ news_feed (
          "link" : "https://www.thearticle.com/cold-war-chessboard-diplomacy/",
          "pubDate" : "Sat, 10 Aug 2024 14:48:37",
          "title" : "Cold War chessboard diplomacy"
-      },
-      {
-         "description" : "After 12 blitz and 5 classical games, Hans Niemann leads 16&frac12;-10&frac12; in his match against Anigh Giri - wins in classical games count 3 points. And after Niemann won the blitz section 7&frac12;-4&frac12;, the score in the 5 classical games is 3-2 (or 9-6). The sixth and final classical game starts at 15.00 local time on Saturday. | Photo: Hans Niemann, Tata 2024 | Photo: De Pion",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/hans-niemann-against-the-world",
-         "pubDate" : "Sat, 10 Aug 2024 07:45:00",
-         "title" : "Hans Niemann vs Anish Giri, Day 4, Game 2 - Live"
-      },
-      {
-         "description" : "Hans Niemann scored back-to-back classical victories over Anish Giri to get a 6-point lead in their match in Utrecht. Giri came from tying the score on Thursday, and despite the consecutive losses still has chances of winning the match as 18 points are still up for grabs in the remaining 8 games (2 in classical chess and 6 in rapid). Niemann's pair of wins allowed him to climb to the 24th spot in the live ratings list. | Photo: Harry Gielen",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-against-the-world-classical-2",
-         "pubDate" : "Sat, 10 Aug 2024 01:40:00",
-         "title" : "Niemann beats Giri twice in classical chess, grabs 6-point lead"
       },
       {
          "description" : "GM Hikaru Nakamura is the last player to make it to the Speed Chess Championship 2024 Finals. On Friday, he defeated GM Ian Nepomniachtchi in the Quarterfinals with a 14.5-9.5 score. Nepomniachtchi got off to a three-point lead in the first segmen...",
