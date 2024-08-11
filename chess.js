@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Taimanov Sicilian offers Black a flexible and reliable system against 1.e4, allowing for realistic winning chances without unnecessary risks. This comprehensive video course provides a complete repertoire, covering both the main lines and Anti-Sicilian variations, with more than 16 hours of instruction, interactive training, and over 400 model games. Ideal for players looking to solidify their understanding and confidently face any challenge in the Sicilian Defence.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/robert-ris-the-flexible-taimanov-sicilian-a-complete-guide-for-black-against-the-anti-sicilian",
+         "pubDate" : "Sun, 11 Aug 2024 10:00:00",
+         "title" : "Robert Ris: The flexible Taimanov Sicilian + A Complete Guide for Black against the Anti-Sicilian"
+      },
+      {
+         "description" : "EU Youth Chess Championship 2024 is underway. The level of the event is very good in category U8 is leading Han Nam Pham (FRA, 6 points out of 6 rounds!), in U10 with 5,5 points Konstantin Mueller (GER), in U12 Leo Corral Nehama (FRA, 5 points) and in U14 Hugo Bocquenet-Drouode (FRA, 5 points). Since beautiful and combative games are seen, the organizers award best games in each category with prize every day. After the first six rounds Aaron-Mathias Dragoi (ROU), []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-union-youth-chess-championship-2024-round-6-report/",
+         "pubDate" : "Sun, 11 Aug 2024 08:35:22",
+         "title" : "European Union Youth Chess Championship 2024 - Round 6 report"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112441427.cms\" /> Indian Grandmaster R Pragganandhaa will lock horns with the world's best yet again as he takes on an elite field in the St Louis Rapid and Blitz tournament that gets underway. A slight dip in recent results, notwithstanding, Praggnanandhaa will be looking forward to finish on the podium in the final standings of the Grand Chess Tour that also entitles him to earn a bonus cash prize from a kitty of USD 175000. The winner will take home USD 100000 while the runner-up will be richer by USD 50000.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/r-pragganandhaa-eyeing-an-improved-finish-in-gct-final-outings/articleshow/112441427.cms",
+         "pubDate" : "Sun, 11 Aug 2024 08:07:49",
+         "title" : "R Pragganandhaa eyeing an improved finish in GCT final outings"
+      },
+      {
          "description" : "The 51st edition of the Dortmund Chess Festival kicked off on Saturday, with the start of the A-Open and the B-Open tournaments. Most favourites prevailed, though a few of them only managed a draw. Sunday will see the start of the 6-game match between Elisabeth Paehtz and Dinara Wagner, the two highest-rated women players in Germany. | Pictured: Luc Zimmermann from the Netherlands | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
