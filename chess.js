@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Saint Louis Rapid & Blitz takes place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acts as a curtain raiser for the Sinquefield Cup which starts on the 18th. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2024",
+         "pubDate" : "Mon, 12 Aug 2024 09:33:00",
+         "title" : "Saint Louis Rapid & Blitz 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3150",
+         "pubDate" : "Mon, 12 Aug 2024 09:09:25",
+         "title" : "FIDE100 Awards: Selecting the Most Memorable Chess Tournaments"
+      },
+      {
          "description" : "Chris Ward is an English grandmaster and former British Champion. He is a well-known endgame and opening theoretician who has authored a large number of books, among them the bestselling \"Winning with the Dragon 1 & 2\". His Sicilian Fritztrainers cost €29.90 each, which comes to €89.70 for all three. The special bundle of all three together costs €79.90. This week (August 12-18) in our Summer Special you can get all three for €59.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/chris-ward-sicilian-dragon-the-real-deal",
          "pubDate" : "Mon, 12 Aug 2024 09:00:00",
          "title" : "Sicilian Dragon: The Real Deal!"
+      },
+      {
+         "description" : "ECU Magazine July 2024 is out! In this edition of the ECU Magazine you may read about: The July 2024 issue of the ECU Magazine can be read online together with interactive links on the following link, or it can be downloaded below in PDF format.",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/ecu-magazine-july-2024/",
+         "pubDate" : "Mon, 12 Aug 2024 07:57:46",
+         "title" : "ECU Magazine July 2024"
       },
       {
          "description" : "The 5-day match featuring Hans Niemann and Anish Giri came to an end on Sunday. The final day of action saw the players trading wins (3 per side) in the rapid section of the confrontation, which meant Niemann kept the 6-point lead he had obtained in the blitz and classical sections - Niemann won the match by a 24-18 score. The US grandmaster is set to face Nikita Vitiugov (in London) and Etienne Bacrot (in Paris) in similar matches later this month. | Photo: De Pion",
@@ -890,6 +914,14 @@ news_feed (
          "title" : "List of Member Federations having right to vote at General Assembly 2024 published"
       },
       {
+         "description" : "Last month's 'On the Cover' post, <A HREF=\"https://chessforallages.blogspot.com/2024/06/june-1974-1999-on-cover.html\">June 1974 & 1999 'On the Cover'</A> (June 2024) had news about the World Championship (50 years ago) on the left and the National Open (25 years ago) on the right. This month the roles are switched. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-og23.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'FIDE World Championship Begins July 30th in Las Vegas &#149; NxP?! (c) Jose Angel Pardo' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> On the left is GM Arthur Bisguier, winner of the 8th National Open in Las Vegas. Story [insid",
+         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
+         "iconName" : "Chess for<br>All Ages",
+         "link" : "https://chessforallages.blogspot.com/2024/07/july-1974-1999-on-cover.html",
+         "pubDate" : "Tue, 23 Jul 2024 15:07:00",
+         "title" : "July 1974 & 1999 'On the Cover'"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -904,14 +936,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/glorney-cup-2024-2/",
          "pubDate" : "Mon, 22 Jul 2024 15:23:51",
          "title" : "Glorney Cup 2024"
-      },
-      {
-         "description" : "International Chess Federation FIDE celebrates its 100th anniversary this year. The celebration took place in Paris, France, on International Chess Day, July 20. The celebration gathered FIDE officials and distinguished guests, among them: FIDE President Arkady Dvorkovich, ECU President Zurab Azmaiparashvili, ECU Deputy President and Deputy Chair of the FIDE Management Board Dana Reizniece-Ozola, ECU Vice President Malcolm Pein, along with former world champions Vishy Anand, Zhu Chen, Alexandra Kosteniuk. The celebration started with a walk to the historic 9th []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/fide-celebrates-100-years-since-its-founding/",
-         "pubDate" : "Mon, 22 Jul 2024 08:23:13",
-         "title" : "FIDE celebrates 100 years since its founding"
       }
    ]
 }
