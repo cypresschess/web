@@ -2,28 +2,20 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3149",
-         "pubDate" : "Sun, 11 Aug 2024 23:06:35",
-         "title" : "Bulgarian Championship: Momchil Nikolov and Adriana Nikolova clinch titles"
-      },
-      {
-         "description" : "The last two events of the 2024 Grand Chess Tour will take place in Saint Louis on 12-29 August. First, the Saint Louis Rapid & Blitz will be played on 12-16 August, with the three frontrunners in the race to win the yearly series participating: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. Joining them will be four tour 'regulars' and three wildcards: Levon Aronian, Hikaru Nakamura and Leinier Dominguez. | Photo: Lennart Ootes",
+         "description" : "Chris Ward is an English grandmaster and former British Champion. He is a well-known endgame and opening theoretician who has authored a large number of books, among them the bestselling \"Winning with the Dragon 1 & 2\". His Sicilian Fritztrainers cost €29.90 each, which comes to €89.70 for all three. The special bundle of all three together costs €79.90. This week (August 12-18) in our Summer Special you can get all three for €59.90!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-preview",
-         "pubDate" : "Sun, 11 Aug 2024 21:30:00",
-         "title" : "St. Louis Rapid & Blitz: Caruana, Firouzja and Pragg start as GCT frontrunners"
+         "link" : "https://en.chessbase.com/post/chris-ward-sicilian-dragon-the-real-deal",
+         "pubDate" : "Mon, 12 Aug 2024 09:00:00",
+         "title" : "Sicilian Dragon: The Real Deal!"
       },
       {
-         "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST)",
+         "description" : "The 5-day match featuring Hans Niemann and Anish Giri came to an end on Sunday. The final day of action saw the players trading wins (3 per side) in the rapid section of the confrontation, which meant Niemann kept the 6-point lead he had obtained in the blitz and classical sections - Niemann won the match by a 24-18 score. The US grandmaster is set to face Nikita Vitiugov (in London) and Etienne Bacrot (in Paris) in similar matches later this month. | Photo: De Pion",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
-         "pubDate" : "Sun, 11 Aug 2024 14:50:00",
-         "title" : "Dortmund Chess Festival - Live!"
+         "link" : "https://en.chessbase.com/post/niemann-against-the-world-rapid",
+         "pubDate" : "Mon, 12 Aug 2024 06:50:00",
+         "title" : "Niemann convincingly beats Giri in Utrecht match"
       },
       {
          "description" : "",
