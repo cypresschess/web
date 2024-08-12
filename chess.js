@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today are the middle three rounds of the rapid round robin. Join GMs Yasser Seirawan, Peter Svidler, &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-2-grandchesstour",
+         "pubDate" : "Mon, 12 Aug 2024 21:01:22",
+         "title" : "2024 Saint Louis Rapid & Blitz: Day 2 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Saint Louis Rapid &amp; Blitz, as of before play. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-play-d1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-Qd-Bg-Ri8c.jpg?itok=h4kKQsdU\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/who-likely-win-play-d1-stlrapidblitz",
+         "pubDate" : "Mon, 12 Aug 2024 21:01:22",
+         "title" : "Who is Likely to Win (Before Play)? | D1 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-changing-guard-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Jjnr67DH3fQ.jpg?itok=OOTskR6z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-changing-guard-stlrapidblitz",
+         "pubDate" : "Mon, 12 Aug 2024 21:01:22",
+         "title" : "Nakamura: A Changing of the Guard? | #STLRapidBlitz"
+      },
+      {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,11 +50,19 @@ news_feed (
          "title" : "Dortmund Chess Festival - Live!"
       },
       {
+         "description" : "Seventeen-year-old WIM Alua Nurman of Kazakhstan triumphed in the first qualifier to the 2024 Julius Baer Women&#39;s Speed Chess Championship by winning the Knockout stage of the first Play-In after defeating IM Anastasia Bodnaruk in the finals with ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-1",
+         "pubDate" : "Mon, 12 Aug 2024 14:10:00",
+         "title" : "WIM Alua Nurman Keeps Her Cool To Win First WSCC Play-In"
+      },
+      {
          "description" : "Are you ready for piece placement pandemonium? Chess.com is excited to announce the next event of the Chess.com Community Championships, the 2024 Chess.com Bughouse Championship! Starting on August 19, anyone can battle for a piece of this month&#39;s...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-chesscom-bughouse-championship-2024",
-         "pubDate" : "Mon, 12 Aug 2024 12:08:27",
+         "pubDate" : "Mon, 12 Aug 2024 12:08:00",
          "title" : "Can You Become The 1st Ever Chess.com Bughouse Champion?"
       },
       {
@@ -314,7 +346,7 @@ news_feed (
          "title" : "Today's Lesson: Don't Lose $3K in One Game! | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship-pt-2",
@@ -418,7 +450,7 @@ news_feed (
          "title" : "Final Report of Senior National Arbiter Seminar & Examination at Bijnor ,UP on 27-28 July 2024"
       },
       {
-         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
+         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship-pt-2",
@@ -698,30 +730,6 @@ news_feed (
          "title" : "Julius Baer Women's Speed Chess Championship returns on August 12"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Larry Christiansen talks to Kostya Kavutskiy after defeating Khachiyan in Round 8 of the 2024 U.S. Senior Championship. 2024.07.24<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/christiansen-usa%E2%80%99s-world-senior-team-tiring-r8-usseniors",
-         "pubDate" : "Thu, 01 Aug 2024 17:53:39",
-         "title" : "Christiansen: USA's World Senior Team is Tiring | R8 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Vladimir Akopian talks to Kostya Kavutskiy after defeating Root to clinch the tournament in Round 8 of the 2024 U.S. Senior Championship. 2024.07.24<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/akopian-%E2%80%98very-pleasant-feeling%E2%80%99-win-national-title-r8-usseniors",
-         "pubDate" : "Thu, 01 Aug 2024 17:53:39",
-         "title" : "Akopian: 'Very Pleasant Feeling' to Win National Title | R8 #USSeniors"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Jesse Kraai talks to Kostya Kavutskiy after defeating Shabalov in Round 8 of the 2024 U.S. Senior Championship. 2024.07.24<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kraai-wins-three-straight-begs-wildcard-next-year-r8-usseniors",
-         "pubDate" : "Thu, 01 Aug 2024 17:53:39",
-         "title" : "Kraai Wins Three Straight, Begs for Wildcard Next Year | R8 #USSeniors"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -768,14 +776,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/announcing-julius-baer-womens-speed-chess-championship-2024",
          "pubDate" : "Thu, 01 Aug 2024 07:00:00",
          "title" : "Announcing The 2024 Julius Baer Women's Speed Chess Championship"
-      },
-      {
-         "description" : "For the first time, GM Vaishali Rameshbabu has broken the 2500 barrier officially, with an 11th place on the August 2024 FIDE rating list. FIDE World Championship contender GM Gukesh Dommaraju returned to being the sixth highest-rated player in th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/august-2024-fide-ratings-vaishali-breaks-2500",
-         "pubDate" : "Thu, 01 Aug 2024 03:27:00",
-         "title" : "August 2024 FIDE Ratings: Gukesh Back To 6th, Vaishali Breaks 2500"
       },
       {
          "description" : "While GM Christopher Yoo was busy dominating in the U.S. Junior Championship, last year's champion, GM Abhimanyu Mishra chose not to defend his title, instead electing to play at the 57th Annual Biel International Chess Festival.<br /><br /> The tournament, which has been a yearly staple in the Swiss town of Biel since 1968, boasts an incredible array of winners. Players like Korchnoi, Karpov, Larsen, Anand, Ivanchuk, and Carlsen have all taken home past gold, so it's no wonder that America's brightest young prospect wanted a taste of the action. Biel, however, isn't a standard chess tournament.<br /><br /> The Biel Triathlon is a six-player, multi-leg event with a blitz, rapid, and classica",
