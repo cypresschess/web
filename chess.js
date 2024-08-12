@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
+         "pubDate" : "Mon, 12 Aug 2024 14:50:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3151",
+         "pubDate" : "Mon, 12 Aug 2024 11:43:08",
+         "title" : "FIDE takes disciplinary action against IM for postal harassment of multiple female chess players"
+      },
+      {
          "description" : " The Saint Louis Rapid & Blitz takes place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acts as a curtain raiser for the Sinquefield Cup which starts on the 18th. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://www.europechess.org/ecu-magazine-july-2024/",
          "pubDate" : "Mon, 12 Aug 2024 07:57:46",
          "title" : "ECU Magazine July 2024"
+      },
+      {
+         "description" : "We&#39;re excited to announce that registrations for the Fall 2024 season of the Collegiate Chess League are now open! The event features once more the beloved four vs. four team format, a hefty $25,000 prize fund, and presenting partner Susquehanna, ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2024-registration",
+         "pubDate" : "Mon, 12 Aug 2024 07:01:28",
+         "title" : "Registrations Are Open For The Collegiate Chess League Fall 2024 Season"
       },
       {
          "description" : "The 5-day match featuring Hans Niemann and Anish Giri came to an end on Sunday. The final day of action saw the players trading wins (3 per side) in the rapid section of the confrontation, which meant Niemann kept the 6-point lead he had obtained in the blitz and classical sections - Niemann won the match by a 24-18 score. The US grandmaster is set to face Nikita Vitiugov (in London) and Etienne Bacrot (in Paris) in similar matches later this month. | Photo: De Pion",
@@ -770,14 +794,6 @@ news_feed (
          "title" : "Lasker-Capablanca solved!"
       },
       {
-         "description" : "The world&#39;s official top two blitz players, GMs Magnus Carlsen&#38;nbsp;and Alireza Firouzja, won the two Titled Tuesday tournaments on July 30. Firouzja won the early tournament, his third victory of the year, and Carlsen took his fifth win late. W...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/firouzja-carlsen-win-titled-tuesday-july-30-2024",
-         "pubDate" : "Wed, 31 Jul 2024 07:52:04",
-         "title" : "Carlsen and Firouzja Win Titled Tuesday, Surprising... No One"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -928,14 +944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3125",
          "pubDate" : "Tue, 23 Jul 2024 12:47:10",
          "title" : "Youth Solving Championships - FIDE & WFCC special project"
-      },
-      {
-         "description" : "The ECF has been asked to run this year's Glorney Cup from 23rd to 25th July (i.e. immediately before the British Championships) at the Canham...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/glorney-cup-2024-2/",
-         "pubDate" : "Mon, 22 Jul 2024 15:23:51",
-         "title" : "Glorney Cup 2024"
       }
    ]
 }
