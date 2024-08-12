@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
+         "pubDate" : "Mon, 12 Aug 2024 19:45:00",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The 2024 Grand Chess Tour returns stateside for the Saint Louis Rapid &amp; Blitz from August 12-16, followed immediately by the illustrious Sinquefield Cup from August 18-29. Elite international grandmasters (listed below) leave it all on the board in the Capital of Chess in America! From classical to blitz, the quest for the Tour crown will come to a close. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-grand-chess-tour-comes-saint-louis-stlrapidblitz-sinqu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-grand-chess-tour-comes-saint-louis-stlrapidblitz-sinquefieldcup-promo",
+         "pubDate" : "Mon, 12 Aug 2024 18:01:06",
+         "title" : "2024 Grand Chess Tour Comes to Saint Louis! #STLRapidBlitz #SinquefieldCup | PROMO"
+      },
+      {
          "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
          "pubDate" : "Mon, 12 Aug 2024 14:50:00",
          "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "Are you ready for piece placement pandemonium? Chess.com is excited to announce the next event of the Chess.com Community Championships, the 2024 Chess.com Bughouse Championship! Starting on August 19, anyone can battle for a piece of this month&#39;s...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-chesscom-bughouse-championship-2024",
+         "pubDate" : "Mon, 12 Aug 2024 12:08:27",
+         "title" : "Can You Become The 1st Ever Chess.com Bughouse Champion?"
       },
       {
          "description" : "",
@@ -290,7 +314,7 @@ news_feed (
          "title" : "Today's Lesson: Don't Lose $3K in One Game! | Road to 2000 - NM Julian Proleiko"
       },
       {
-         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship-pt-2",
@@ -394,7 +418,7 @@ news_feed (
          "title" : "Final Report of Senior National Arbiter Seminar & Examination at Bijnor ,UP on 27-28 July 2024"
       },
       {
-         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
+         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship-pt-2",
@@ -698,14 +722,6 @@ news_feed (
          "title" : "Kraai Wins Three Straight, Begs for Wildcard Next Year | R8 #USSeniors"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alice Lee talks to Kostya Kavutskiy after defeating Tang in Round 8 of the 2024 U.S. Girls' Junior Championship. 2024.07.24<br /> <a href=\"https://USChessChamps.com\">https://USChessChamps.com</a><br /> <a href=\"https://twitter.com/stlchessclub\">https://twitter.com/stlchessclub</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/stlchessclub\">https://www.instagram.com/stlchessclub</a><br /> <a href=\"https://www.facebook.com/stlchessclub\">https://www.facebook.com/stlchessclub</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCS",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alice-lee-%E2%80%98slightly-worse%E2%80%99-clear-lead-r8-usjuniors",
-         "pubDate" : "Thu, 01 Aug 2024 17:53:39",
-         "title" : "Alice Lee: From 'Slightly Worse' to Clear Lead! | R8 #USJuniors"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -768,14 +784,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/mishra-shines-classical-le-quang-liem-takes-top-honors-57th-annual-biel-international-chess",
          "pubDate" : "Thu, 01 Aug 2024 00:00:00",
          "title" : "Mishra Shines in Classical, Le Quang Liem Takes Top Honors at 57th Annual Biel International Chess Festival"
-      },
-      {
-         "description" : "GMs Hans Niemann and Fabiano Caruana move on to the Quarterfinals of the Speed Chess Championship 2024 after defeating, respectively, GMs Maxime Vachier-Lagrave and Alexey Sarana in the last two Round of 16 matches of the season. Bullet chess se...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-r16-mvl-niemann-caruana-sarana",
-         "pubDate" : "Wed, 31 Jul 2024 15:42:00",
-         "title" : "Niemann, Caruana Advance To Quarterfinals After Superior Bullet Performances"
       },
       {
          "description" : "Kalutara, Sri Lanka from 27th August to 6th September, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said",
