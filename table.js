@@ -1,4 +1,5 @@
 jtable([
+"SUGAR LAND","2024-08-11","4","<a href=http://www.uschess.org/msa/XtblMain.php?202408112592 target='_blank'>CYGA08112024</a>",
 "HOUSTON","2024-08-10","8","<a href=http://www.uschess.org/msa/XtblMain.php?202408100972 target='_blank'>CHESSPANDA08102024SATURDAY</a>",
 "HOUSTON","2024-08-10","24","<a href=http://www.uschess.org/msa/XtblMain.php?202408100942 target='_blank'>AUGUST 10TH TROPHY SCHOLASTIC</a>",
 "SUGAR LAND","2024-08-09","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408090722 target='_blank'>FBCC PERSEI METEOR OPEN</a>",
@@ -198,5 +199,4 @@ jtable([
 "HOUSTON","2024-01-21","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401214492 target='_blank'>GAME GUYS 1.21.24</a>",
 "HOUSTON","2024-01-20  - 01-21","108","<a href=http://www.uschess.org/msa/XtblMain.php?202401214302 target='_blank'>TCR: TCA TEXAS TEAM CHAMPIONSHIP 2024- T</a>",
 "HOUSTON","2024-01-20","9","<a href=http://www.uschess.org/msa/XtblMain.php?202401203452 target='_blank'>CHESSPANDA01202024SATURDAY</a>",
-"CYPRESS","2024-01-20","34","<a href=http://www.uschess.org/msa/XtblMain.php?202401202762 target='_blank'>KNIGHTS OF CYPRESS</a>",
 ]);
