@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
+         "pubDate" : "Tue, 13 Aug 2024 14:50:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "An eventful third day of action ended in Dortmund with the second draw between Elisabeth Paehtz and Dinara Wagner. In the A-Open, nine players are sharing the lead with perfect scores. The leading group includes the five highest-rated players in the field: Anton Korobov, Frederik Svane, Christopher Yoo, Krishnan Sasikiran and Luis Quesada. | Pictured: Star commentator Artur Yusupov | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d3",
+         "pubDate" : "Tue, 13 Aug 2024 14:00:00",
+         "title" : "Dortmund: Nine players with 3/3 in the A-Open"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -62,7 +78,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/59-year-old-overcomes-severe-physical-handicap-becomes-pakistani-women-champion",
-         "pubDate" : "Tue, 13 Aug 2024 00:32:18",
+         "pubDate" : "Tue, 13 Aug 2024 00:32:00",
          "title" : "59-Year-Old Overcomes Severe Physical Handicap To Become Champion In Pakistan"
       },
       {
@@ -122,20 +138,12 @@ news_feed (
          "title" : "Fueled by Escapes, Vachier-Lagrave Leads Rapid After Day 1"
       },
       {
-         "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
-         "pubDate" : "Mon, 12 Aug 2024 14:50:00",
-         "title" : "Dortmund Chess Festival - Live!"
-      },
-      {
-         "description" : "Seventeen-year-old WIM Alua Nurman of Kazakhstan triumphed in the first qualifier to the 2024 Julius Baer Women&#39;s Speed Chess Championship by winning the Knockout stage of the first Play-In after defeating IM Anastasia Bodnaruk in the finals with ...",
+         "description" : "Seventeen-year-old WIM Alua Nurmanova of Kazakhstan triumphed in the first qualifier to the 2024 Julius Baer Women&#39;s Speed Chess Championship by winning the Knockout stage of the first Play-In after defeating IM Anastasia Bodnaruk in the finals wi...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-1",
          "pubDate" : "Mon, 12 Aug 2024 14:10:00",
-         "title" : "WIM Alua Nurman Keeps Her Cool To Win First WSCC Play-In"
+         "title" : "WIM Alua Nurmanova Keeps Her Cool To Win First WSCC Play-In"
       },
       {
          "description" : "Are you ready for piece placement pandemonium? Chess.com is excited to announce the next event of the Chess.com Community Championships, the 2024 Chess.com Bughouse Championship! Starting on August 19, anyone can battle for a piece of this month&#39;s...",
@@ -944,22 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3126",
          "pubDate" : "Tue, 23 Jul 2024 15:30:35",
          "title" : "List of Member Federations having right to vote at General Assembly 2024 published"
-      },
-      {
-         "description" : "Last month's 'On the Cover' post, <A HREF=\"https://chessforallages.blogspot.com/2024/06/june-1974-1999-on-cover.html\">June 1974 & 1999 'On the Cover'</A> (June 2024) had news about the World Championship (50 years ago) on the left and the National Open (25 years ago) on the right. This month the roles are switched. <P ALIGN=CENTER> <XMG SRC=\"https://www.mark-weeks.com/cfaa/cfa-og23.jpg\" WIDTH=400 HEIGHT=265><BR> <B>Left:</B> '?'<BR> <B>Right:</B> 'FIDE World Championship Begins July 30th in Las Vegas &#149; NxP?! (c) Jose Angel Pardo' <P> <B><I>Chess Life & Review</I> (50 Years Ago)</B> <BLOCKQUOTE> On the left is GM Arthur Bisguier, winner of the 8th National Open in Las Vegas. Story [insid",
-         "iconLink" : "https://cypresschess.github.io/web/blogger2.png",
-         "iconName" : "Chess for<br>All Ages",
-         "link" : "https://chessforallages.blogspot.com/2024/07/july-1974-1999-on-cover.html",
-         "pubDate" : "Tue, 23 Jul 2024 15:07:00",
-         "title" : "July 1974 & 1999 'On the Cover'"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3125",
-         "pubDate" : "Tue, 23 Jul 2024 12:47:10",
-         "title" : "Youth Solving Championships - FIDE & WFCC special project"
       }
    ]
 }
