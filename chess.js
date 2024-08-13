@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 1 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-fabi-nepo-back-action-day-1-recap-stlrapidblitz\"><img src=\"https:",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hikaru-fabi-nepo-back-action-day-1-recap-stlrapidblitz",
+         "pubDate" : "Tue, 13 Aug 2024 21:01:54",
+         "title" : "Hikaru, Fabi, & Nepo Back in Action | Day 1 Recap #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Hikaru Nakamura vs. Fabiano Caruana from Rapid 3 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fire-board-nakamura-vs-caruana-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0NhvlMzOFaI.jpg?itok=ImuT2vWw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fire-board-nakamura-vs-caruana-game-day-stlrapidblitz",
+         "pubDate" : "Tue, 13 Aug 2024 21:01:54",
+         "title" : "Fire on Board: Nakamura vs. Caruana | Game of the Day #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today are the final three rounds of the rapid round robin. Join GMs Yasser Seirawan, Peter Svidler, &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-3-grandchesstour",
+         "pubDate" : "Tue, 13 Aug 2024 21:01:54",
+         "title" : "2024 Saint Louis Rapid & Blitz: Day 3 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Saint Louis Rapid &amp; Blitz, after three rapid rounds. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi%E2%80%99s-chances-fall-precipitously-after-first-day-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pR",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi%E2%80%99s-chances-fall-precipitously-after-first-day-d2-stlrapidblitz",
+         "pubDate" : "Tue, 13 Aug 2024 21:01:54",
+         "title" : "Fabi's Chances Fall Precipitously After First Day | D2 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-gct-you-can%E2%80%99t-have-one-bad-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2hyKSwYoYew.jpg?itok=L56X-1T8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-gct-you-can%E2%80%99t-have-one-bad-day-stlrapidblitz",
+         "pubDate" : "Tue, 13 Aug 2024 21:01:54",
+         "title" : "Caruana: In GCT, You Can't Have One Bad Day | #STLRapidBlitz"
+      },
+      {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,52 +130,12 @@ news_feed (
          "title" : "Junior Bursaries for the Northumbria Masters"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Hikaru throws a curve as he opens with the McDonnell Attack against MVL in round 1 of the 2024 Saint Louis Rapid and Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sicilian-rarity-hikaru-grandchesstour-chess-chessopenings-chesscom-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YrasisdYRA8.jpg?itok=mvTcw3bw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sicilian-rarity-hikaru-grandchesstour-chess-chessopenings-chesscom-hikarunakamura",
-         "pubDate" : "Tue, 13 Aug 2024 06:01:32",
-         "title" : "A Sicilian Rarity by Hikaru #grandchesstour #chess #chessopenings #chesscom #hikarunakamura"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nazi and other Catalan players will love this sharp shooter on g2 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beware-yusef-dikec-ish-bishop-g2-grandchesstour-chess-chessopening-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/whIrTkvwzUQ.jpg?itok=cxiRg8dr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beware-yusef-dikec-ish-bishop-g2-grandchesstour-chess-chessopening-chesscom",
-         "pubDate" : "Tue, 13 Aug 2024 06:01:32",
-         "title" : "BEWARE: Yusef Dikec-ish Bishop On G2 #grandchesstour #chess #chessopening #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 1 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-fabi-nepo-back-action-saint-louis-rapid-blitz-day-1-recap\"><img src=\"https://saintloui",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hikaru-fabi-nepo-back-action-saint-louis-rapid-blitz-day-1-recap",
-         "pubDate" : "Tue, 13 Aug 2024 03:01:25",
-         "title" : "Hikaru, Fabi, & Nepo Back in Action | Saint Louis Rapid & Blitz - Day 1 | Recap"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru throws a curve as he opens with the McDonnell Attack against MVL in round 1 of the 2024 Saint Louis Rapid and Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sicilian-rarity-hikaru-grandchesstour-chess-chessopenings-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YrasisdYRA8.jpg?itok=mvTcw3bw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/sicilian-rarity-hikaru-grandchesstour-chess-chessopenings-hikarunakamura",
-         "pubDate" : "Tue, 13 Aug 2024 03:01:25",
-         "title" : "A Sicilian Rarity by Hikaru #grandchesstour #chess #chessopenings #hikarunakamura"
-      },
-      {
          "description" : "Sehba Shah overcame a severe physical handicap to become Pakistan Women&#39;s Champion. The 59-year-old will now lead the national team competing in the biggest chess event on the calendar. The 45th FIDE Chess Olympiad, which takes place in Hungary&#39;...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/59-year-old-overcomes-severe-physical-handicap-becomes-pakistani-women-champion",
          "pubDate" : "Tue, 13 Aug 2024 00:32:00",
          "title" : "59-Year-Old Overcomes Severe Physical Handicap To Become Champion In Pakistan"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich after a draw against Abdusattorov in Rapid 1 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/oh-rules-dominguez-claims-draw-too-early-rapid-1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/89mY1Fssmrg.jpg?itok=8xgATr-c\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/oh-rules-dominguez-claims-draw-too-early-rapid-1-stlrapidblitz",
-         "pubDate" : "Tue, 13 Aug 2024 00:01:25",
-         "title" : "Oh, Rules! Dominguez Claims Draw Too Early | Rapid 1 #STLRapidBlitz"
       },
       {
          "description" : "This week's puzzles come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
@@ -928,14 +928,6 @@ news_feed (
          "link" : "https://theweekinchess.com/chessnews/events/us-junior-girls-and-seniors-2024",
          "pubDate" : "Thu, 25 Jul 2024 12:24:00",
          "title" : "US Junior, Girls and Seniors 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3127",
-         "pubDate" : "Tue, 23 Jul 2024 20:52:54",
-         "title" : "New Guinness World Record: Over seven million chess games played in one day!"
       }
    ]
 }
