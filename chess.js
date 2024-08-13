@@ -2,20 +2,76 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
+         "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
-         "pubDate" : "Tue, 13 Aug 2024 14:50:00",
-         "title" : "Dortmund Chess Festival - Live!"
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
+         "pubDate" : "Tue, 13 Aug 2024 19:45:00",
+         "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
-         "description" : "An eventful third day of action ended in Dortmund with the second draw between Elisabeth Paehtz and Dinara Wagner. In the A-Open, nine players are sharing the lead with perfect scores. The leading group includes the five highest-rated players in the field: Anton Korobov, Frederik Svane, Christopher Yoo, Krishnan Sasikiran and Luis Quesada. | Pictured: Star commentator Artur Yusupov | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d3",
-         "pubDate" : "Tue, 13 Aug 2024 14:00:00",
-         "title" : "Dortmund: Nine players with 3/3 in the A-Open"
+         "description" : "<div class=\"body text-secondary\"> GM Peter Svidler enlightens us on how Hikaru&#039;s knights can cause some devastating blows in his game against MVL </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/svidler-explains-how-knight-moves-grandchesstour-chess-chesstactics-chesscom-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SA9RmmPEcQ0.jpg?itok=ykdmYWW0\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/svidler-explains-how-knight-moves-grandchesstour-chess-chesstactics-chesscom-hikarunakamura",
+         "pubDate" : "Tue, 13 Aug 2024 18:01:52",
+         "title" : "Svidler Explains How The Knight Moves #grandchesstour #chess #chesstactics #chesscom #hikarunakamura"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Commentators become enthralled as Svidler&#039;s boy, Nepo breaks down Alireza in this rook and bishop endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-endgame-rook-and-bishop-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tP4supwUx4c.jpg?itok=t4vJj6ni\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-endgame-rook-and-bishop-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Tue, 13 Aug 2024 18:01:52",
+         "title" : "Chess Endgame: Rook and Bishop #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In a early position, Caruana has Hikaru up against the ropes early looking for the quick knockout, but... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-against-ropes-early-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3JidTScgiQA.jpg?itok=17wGVduJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hikaru-against-ropes-early-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Tue, 13 Aug 2024 18:01:52",
+         "title" : "Hikaru Up Against The Ropes Early #grandchesstour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3153",
+         "pubDate" : "Tue, 13 Aug 2024 16:11:54",
+         "title" : "Tbilisi kicks off 2024/25 FIDE Women's Grand Prix season"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nazi and other Catalan players will love this sharp shooter on g2 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beware-yusuf-dikec-ish-bishop-g2-grandchesstour-chess-chessopening-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/whIrTkvwzUQ.jpg?itok=cxiRg8dr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/beware-yusuf-dikec-ish-bishop-g2-grandchesstour-chess-chessopening-chesscom",
+         "pubDate" : "Tue, 13 Aug 2024 15:01:44",
+         "title" : "BEWARE: Yusuf Dikec-ish Bishop On G2 #grandchesstour #chess #chessopening #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Hikaru Nakamura vs Fabiano Caruana from Day 1 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fire-board-nakamura-caruana-saint-louis-rapid-blitz-day-1-game-day\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0NhvlMzOFaI.jpg?itok=ImuT2vWw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fire-board-nakamura-caruana-saint-louis-rapid-blitz-day-1-game-day",
+         "pubDate" : "Tue, 13 Aug 2024 15:01:44",
+         "title" : "Fire on Board: Nakamura - Caruana | Saint Louis Rapid & Blitz - Day 1 | Game of the Day"
+      },
+      {
+         "description" : "FIDE&#39;s Ethics &#38;amp; Disciplinary Commission (EDC) has banned Latvian IM Andrejs Strebkovs for five years after finding him guilty of sexually harassing several top female players, some of them children, by sending them obscene letters for over a d...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-hands-latvian-im-5-year-ban-for-obscene-letters-to-top-female-players",
+         "pubDate" : "Tue, 13 Aug 2024 11:33:26",
+         "title" : "FIDE Hands Latvian IM 5-Year-Ban For Obscene Letters To Top Female Players Over A Decade"
+      },
+      {
+         "description" : "GM Gukesh Dommaraju was gifted a car on Saturday at a spectacular celebration held by his school, Velammal Vidyalaya, on their Mel Ayanambakkam campus in Chennai. The world championship challenger turned 18 this year, which means he&#39;ll be able to ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/gukesh-mercedes-benz-school",
+         "pubDate" : "Tue, 13 Aug 2024 09:54:43",
+         "title" : "Gukesh Gifted Mercedes-Benz By His School"
       },
       {
          "description" : "",
@@ -32,14 +88,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/junior-bursaries-for-the-northumbria-masters-2/",
          "pubDate" : "Tue, 13 Aug 2024 07:56:36",
          "title" : "Junior Bursaries for the Northumbria Masters"
-      },
-      {
-         "description" : "Day 1 of the Saint Louis Rapid & Blitz tournament saw Maxime Vachier-Lagrave grabbing the lead after collecting a draw and two wins for a 5/6 score (wins are worth 2 points in the rapid section). Ian Nepomniachtchi, Levon Aronian and Leinier Dominguez stand at a 1-point distance in shared second place. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-1",
-         "pubDate" : "Tue, 13 Aug 2024 07:45:00",
-         "title" : "St. Louis Rapid & Blitz: MVL leads after three rounds of rapid"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Hikaru throws a curve as he opens with the McDonnell Attack against MVL in round 1 of the 2024 Saint Louis Rapid and Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/sicilian-rarity-hikaru-grandchesstour-chess-chessopenings-chesscom-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/YrasisdYRA8.jpg?itok=mvTcw3bw\" alt=\"\" /></a></div>",
@@ -90,44 +138,12 @@ news_feed (
          "title" : "Oh, Rules! Dominguez Claims Draw Too Early | Rapid 1 #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The team looks back on the Opening Ceremony at The Preston in The Chase Park Plaza Hotel the day before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 1. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/opening-ceremony-toiletry-bags-and-cufflinks-determine-seeds-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ov-MZSBKnkk.jpg?itok=cHMjebBw\" alt=\"\" /></a></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/opening-ceremony-toiletry-bags-and-cufflinks-determine-seeds-stlrapidblitz",
-         "pubDate" : "Tue, 13 Aug 2024 00:01:25",
-         "title" : "Opening Ceremony: Toiletry Bags and Cufflinks Determine Seeds | #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the tournament performance ratings (TPR) of each player in the 2024 Saint Louis Rapid &amp; Blitz, from their last five rapid tournaments. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-has-best-recent-rapid-performance-d1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Dk6wJ1XLNl4.jpg?itok=eaVcvc3N\" alt=\"\" /></a><",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-has-best-recent-rapid-performance-d1-stlrapidblitz",
-         "pubDate" : "Tue, 13 Aug 2024 00:01:25",
-         "title" : "Who Has the Best Recent Rapid Performance? | D1 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nodirbek Abdusatorrov talks to Anastasiya Karlovich after defeating Nakamura in Rapid 2 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/abdusattorov-hikaru%E2%80%99s-%E2%80%A6be8-was-big-blunder-rapid-2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/o77Wrs1z7QY.jpg?itok=P-2Bdbau\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/abdusattorov-hikaru%E2%80%99s-%E2%80%A6be8-was-big-blunder-rapid-2-stlrapidblitz",
-         "pubDate" : "Tue, 13 Aug 2024 00:01:25",
-         "title" : "Abdusattorov: Hikaru's &hellip;Be8 was Big Blunder! | Rapid 2 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Cristian Chirila after going 1-0-2 on the first rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-reveals-secret-prep-croatia-d1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/rw6gB64DYdg.jpg?itok=w5AS24-P\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-reveals-secret-prep-croatia-d1-stlrapidblitz",
-         "pubDate" : "Tue, 13 Aug 2024 00:01:25",
-         "title" : "Aronian Reveals Secret Prep from Croatia! | D1 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Cristian Chirila after going 2-1 on the first rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepomniachtchi-2510-closer-classical-rapid-d1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lHDYl-NPN4U.jpg?itok=VQmUac23\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepomniachtchi-2510-closer-classical-rapid-d1-stlrapidblitz",
-         "pubDate" : "Tue, 13 Aug 2024 00:01:25",
-         "title" : "Nepomniachtchi: 25+10 Closer to Classical Than Rapid | D1 #STLRapidBlitz"
+         "description" : "This week's puzzles come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-tournaments-state-champions",
+         "pubDate" : "Tue, 13 Aug 2024 00:00:00",
+         "title" : "Tactics Tuesday: Tournaments of State Champions"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave is the sole leader of the 2024 Saint Louis Rapid &#38;amp; Blitz after the first day of rapid games. After escaping vs. GM Hikaru Nakamura and turning the tide vs. GM Praggnanandhaa Rameshbabu, the French grandmaster defeated...",
@@ -138,12 +154,12 @@ news_feed (
          "title" : "Fueled by Escapes, Vachier-Lagrave Leads Rapid After Day 1"
       },
       {
-         "description" : "Seventeen-year-old WIM Alua Nurmanova of Kazakhstan triumphed in the first qualifier to the 2024 Julius Baer Women&#39;s Speed Chess Championship by winning the Knockout stage of the first Play-In after defeating IM Anastasia Bodnaruk in the finals wi...",
+         "description" : "Seventeen-year-old WIM Alua Nurman of Kazakhstan triumphed in the first qualifier to the 2024 Julius Baer Women&#39;s Speed Chess Championship by winning the Knockout stage of the first Play-In after defeating IM Anastasia Bodnaruk in the finals with ...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-1",
          "pubDate" : "Mon, 12 Aug 2024 14:10:00",
-         "title" : "WIM Alua Nurmanova Keeps Her Cool To Win First WSCC Play-In"
+         "title" : "WIM Alua Nurman Keeps Her Cool To Win First WSCC Play-In"
       },
       {
          "description" : "Are you ready for piece placement pandemonium? Chess.com is excited to announce the next event of the Chess.com Community Championships, the 2024 Chess.com Bughouse Championship! Starting on August 19, anyone can battle for a piece of this month&#39;s...",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "Chess: Yagiz Erdogmus, 13, on the verge of 2600 and closing on world age record"
       },
       {
-         "description" : "Potions and magic trumped ratings and titles in the 2024 Spell Chess Championship qualifiers as eight players with FIDE ratings between 1800 and 2558 booked their spots in the $2,000 Chess.com Community Championship Series knockout which will take...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-vcs-spell-chess-qualifiers",
-         "pubDate" : "Fri, 02 Aug 2024 04:13:00",
-         "title" : "Spell Chess Specialists Qualify For Knockout Ahead of Bok, Bortnyk, Hambleton"
-      },
-      {
          "description" : "The 45th FIDE Chess Olympiad will take place from September 10 through 23 in Budapest, Hungary. Team USA looks to improve on their tied-fourth (fifth on tiebreaks) finish in the Open and tied-third (fourth on tiebreaks) finish in the Women's section of the 44th FIDE Chess Olympiad held in 2022 in Chennai, India. <br /><br /> The following list is the official players, captain, and trainer for the 2024 Olympiad Team USA Open and Women's teams. The respective team chose their Captains and Trainers.<br /><br /> <br /><br /> Open Team:<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -778,28 +786,12 @@ news_feed (
          "title" : "FIDE August 2024 rating list published"
       },
       {
-         "description" : "The State of Chess returned on Thursday with several important updates. Chief Chess Officer&#38;nbsp;Danny Rensch led the discussion that focused on community updates, fair play changes, site updates, and big media developments. You can watch the fu...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-state-of-chess-august-1",
-         "pubDate" : "Thu, 01 Aug 2024 14:26:00",
-         "title" : "State Of Chess Returns: Community Updates, Fair Play Changes, Media Projects, & More"
-      },
-      {
          "description" : "From left to right Jonathan Mestel, John Nunn and David Hodge. Christopher Jones writes &#8212; &#8216;In the final results table, you'll see that their...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/uk-wins-the-world-team-chess-solving-championships/",
          "pubDate" : "Thu, 01 Aug 2024 08:23:49",
          "title" : "UK wins the World Team Chess Solving Championships!"
-      },
-      {
-         "description" : "While GM Christopher Yoo was busy dominating in the U.S. Junior Championship, last year's champion, GM Abhimanyu Mishra chose not to defend his title, instead electing to play at the 57th Annual Biel International Chess Festival.<br /><br /> The tournament, which has been a yearly staple in the Swiss town of Biel since 1968, boasts an incredible array of winners. Players like Korchnoi, Karpov, Larsen, Anand, Ivanchuk, and Carlsen have all taken home past gold, so it's no wonder that America's brightest young prospect wanted a taste of the action. Biel, however, isn't a standard chess tournament.<br /><br /> The Biel Triathlon is a six-player, multi-leg event with a blitz, rapid, and classica",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/mishra-shines-classical-le-quang-liem-takes-top-honors-57th-annual-biel-international-chess",
-         "pubDate" : "Thu, 01 Aug 2024 00:00:00",
-         "title" : "Mishra Shines in Classical, Le Quang Liem Takes Top Honors at 57th Annual Biel International Chess Festival"
       },
       {
          "description" : "Kalutara, Sri Lanka from 27th August to 6th September, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said",
@@ -944,14 +936,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3127",
          "pubDate" : "Tue, 23 Jul 2024 20:52:54",
          "title" : "New Guinness World Record: Over seven million chess games played in one day!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3126",
-         "pubDate" : "Tue, 23 Jul 2024 15:30:35",
-         "title" : "List of Member Federations having right to vote at General Assembly 2024 published"
       }
    ]
 }
