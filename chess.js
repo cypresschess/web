@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3152",
+         "pubDate" : "Tue, 13 Aug 2024 09:33:51",
+         "title" : "2024 Saint Louis Rapid & Blitz: Vachier-Lagrave takes early lead"
+      },
+      {
+         "description" : "Thanks to the generous support of the John Robinson Youth Chess Trust, there are a number of junior bursaries (comprising free entry) available for England-affiliated...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/junior-bursaries-for-the-northumbria-masters-2/",
+         "pubDate" : "Tue, 13 Aug 2024 07:56:36",
+         "title" : "Junior Bursaries for the Northumbria Masters"
+      },
+      {
          "description" : "Day 1 of the Saint Louis Rapid & Blitz tournament saw Maxime Vachier-Lagrave grabbing the lead after collecting a draw and two wins for a 5/6 score (wins are worth 2 points in the rapid section). Ian Nepomniachtchi, Levon Aronian and Leinier Dominguez stand at a 1-point distance in shared second place. | Photo: Crystal Fuller",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/sicilian-rarity-hikaru-grandchesstour-chess-chessopenings-hikarunakamura",
          "pubDate" : "Tue, 13 Aug 2024 03:01:25",
          "title" : "A Sicilian Rarity by Hikaru #grandchesstour #chess #chessopenings #hikarunakamura"
+      },
+      {
+         "description" : "Sehba Shah overcame a severe physical handicap to become Pakistan Women&#39;s Champion. The 59-year-old will now lead the national team competing in the biggest chess event on the calendar. The 45th FIDE Chess Olympiad, which takes place in Hungary&#39;...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/59-year-old-overcomes-severe-physical-handicap-becomes-pakistani-women-champion",
+         "pubDate" : "Tue, 13 Aug 2024 00:32:18",
+         "title" : "59-Year-Old Overcomes Severe Physical Handicap To Become Champion In Pakistan"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich after a draw against Abdusattorov in Rapid 1 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/oh-rules-dominguez-claims-draw-too-early-rapid-1-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/89mY1Fssmrg.jpg?itok=8xgATr-c\" alt=\"\" /></a></div>",
@@ -752,14 +776,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-state-of-chess-august-1",
          "pubDate" : "Thu, 01 Aug 2024 14:26:00",
          "title" : "State Of Chess Returns: Community Updates, Fair Play Changes, Media Projects, & More"
-      },
-      {
-         "description" : "Two-time U.S. Women&#39;s Champion WGM Jennifer Yu narrowly avoided a last-round disaster against Julia Schulman to win the 2024 Botez Chess Camp with a dominant 6/7, half a point ahead of WFM Alexandra Botez. Co-organizer Alexandra won her last four ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/jennifer-yu-wins-botez-chess-camp",
-         "pubDate" : "Thu, 01 Aug 2024 11:16:00",
-         "title" : "Jennifer Yu Wins Botez Chess Camp After Dramatic Finish"
       },
       {
          "description" : "From left to right Jonathan Mestel, John Nunn and David Hodge. Christopher Jones writes &#8212; &#8216;In the final results table, you'll see that their...",
