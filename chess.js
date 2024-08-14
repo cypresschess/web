@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann got off to a good start in his London match against Nikita Vitiugov. The US grandmaster won the first game with black and drew the next one to get a 4&frac12;-1&frac12; lead in the 5-day match - wins in the classical games are worth 3 points in the \"Hans Niemann against the world\" series. Niemann also got the upper hand in the second game, but failed to convert it into a win. | Photo: Frans Peeters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-vitiugov-match-2024-d1",
+         "pubDate" : "Thu, 15 Aug 2024 00:35:00",
+         "title" : "Niemann starts off with a win in match against Vitiugov"
+      },
+      {
+         "description" : " Kevin Pryor is the new President of the U.S. Chess Federation. A past President of the Florida Chess Association (FCA) and Executive Board member of the U.S. Chess Federation, Pryor was elected as the 32nd President of the U.S. Chess Federation at the Executive Board meeting during the 124th U.S. Open in Norfolk, Virginia. Kevin The post <a href=\"https://www.thechessdrum.net/blog/2024/08/14/kevin-pryor-is-the-new-president-of-u-s-chess/\">Kevin Pryor is the new President of U.S. Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/08/14/kevin-pryor-is-the-new-president-of-u-s-chess/",
+         "pubDate" : "Wed, 14 Aug 2024 22:43:07",
+         "title" : "Kevin Pryor is the new President of U.S. Chess!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 2 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-nepomniachtchi-surge-day-2-recap-stlrapidblitz-0\"><img src=\"https://saintlouischessc",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-nepomniachtchi-surge-day-2-recap-stlrapidblitz-0",
+         "pubDate" : "Wed, 14 Aug 2024 21:02:37",
+         "title" : "Firouzja, Nepomniachtchi Surge! | Day 2 Recap #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Nodirbek Abdusattorov vs. Fabiano Caruana from Rapid 5 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/two-queens-vs-one-game-day-stlrapidblitz-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JZrIc-DAA8E.jpg?itok=rl6f3YmD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/two-queens-vs-one-game-day-stlrapidblitz-0",
+         "pubDate" : "Wed, 14 Aug 2024 21:02:37",
+         "title" : "Two Queens vs. One! | Game of the Day #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Yasser Seirawan, Peter Svidler, &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-saint-louis-rapi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-4-grandchesstour",
+         "pubDate" : "Wed, 14 Aug 2024 21:02:37",
+         "title" : "2024 Saint Louis Rapid & Blitz: Day 4 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Saint Louis Rapid &amp; Blitz, after six rapid rounds. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-huge-favorite-after-two-days-d3-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IF-dtdLbBkk.jpg?itok=2RT",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-huge-favorite-after-two-days-d3-stlrapidblitz",
+         "pubDate" : "Wed, 14 Aug 2024 21:02:37",
+         "title" : "Firouzja a HUGE Favorite after Two Days | D3 #STLRapidBlitz"
+      },
+      {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
          "pubDate" : "Wed, 14 Aug 2024 14:50:00",
          "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "IM Mai Narva of Estonia convincingly triumphed in the second qualifier of the 2024 Julius Baer Women&#39;s Speed Chess Championship by winning the Knockout stage of the second Play-In after defeating WFM Hong Nhung Nguyen of Vietnam in the finals with...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-2",
+         "pubDate" : "Wed, 14 Aug 2024 13:55:32",
+         "title" : "IM Mai Narva Wins WSCC Play-In 2 Convincingly"
       },
       {
          "description" : "Tigran Petrosian was a very conservative player. On the other hand he could see tactics and combinations far in advance, so he went about countering them before even his opponents smell anything! Chess trainer GM Efstratios Grivas has always told his students to study the games of the former World Champion and try to understand what he had seen and why he chose his moves. Here is part two of his lesson.",
@@ -128,38 +184,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/communications-department-transitions-1",
          "pubDate" : "Wed, 14 Aug 2024 00:00:00",
          "title" : "Communications Department Transitions"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 1 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-fabi-nepo-back-action-day-1-recap-stlrapidblitz\"><img src=\"https:",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hikaru-fabi-nepo-back-action-day-1-recap-stlrapidblitz",
-         "pubDate" : "Tue, 13 Aug 2024 21:01:54",
-         "title" : "Hikaru, Fabi, & Nepo Back in Action | Day 1 Recap #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Hikaru Nakamura vs. Fabiano Caruana from Rapid 3 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fire-board-nakamura-vs-caruana-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0NhvlMzOFaI.jpg?itok=ImuT2vWw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fire-board-nakamura-vs-caruana-game-day-stlrapidblitz",
-         "pubDate" : "Tue, 13 Aug 2024 21:01:54",
-         "title" : "Fire on Board: Nakamura vs. Caruana | Game of the Day #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today are the final three rounds of the rapid round robin. Join GMs Yasser Seirawan, Peter Svidler, &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-3-grandchesstour",
-         "pubDate" : "Tue, 13 Aug 2024 21:01:54",
-         "title" : "2024 Saint Louis Rapid & Blitz: Day 3 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Saint Louis Rapid &amp; Blitz, after three rapid rounds. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi%E2%80%99s-chances-fall-precipitously-after-first-day-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/pR",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi%E2%80%99s-chances-fall-precipitously-after-first-day-d2-stlrapidblitz",
-         "pubDate" : "Tue, 13 Aug 2024 21:01:54",
-         "title" : "Fabi's Chances Fall Precipitously After First Day | D2 #STLRapidBlitz"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave led the 2024 Saint Louis Rapid &#38;amp; Blitz after day one, but GMs Alireza Firouzja and Ian Nepomniachtchi caught up to him to join a three-way tie after six rounds. Of the other seven players, GM Fabiano Caruana was the o...",
@@ -752,14 +776,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3136",
          "pubDate" : "Fri, 02 Aug 2024 17:53:56",
          "title" : "Chessy stuns defending champions WR Chess to lead World Rapid Teams after Day 1"
-      },
-      {
-         "description" : "GM Luca Moroni Jr. has been crowned as Chess.com&#39;s top wizard after toppling IM Nhat Minh To in the Grand Final Reset of the 2024 Spell Chess Championship. Moroni, who was the only GM to qualify for the knockout, won $600 for his first-place finis...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-community-championships-spell-chess-luca-moroni-wins",
-         "pubDate" : "Fri, 02 Aug 2024 17:07:12",
-         "title" : "Moroni Claims Spell Chess Crown In Grand Final Reset"
       },
       {
          "description" : " The FIDE World Rapid and Blitz Team Championships took place in Almaty Fri 2nd Aug to Mon 5th Aug 2024. Leading players Magnus Carlsen, Ding Liren, Ian Nepomniachtchi etc. Fourth seeds Al-Ain ACMG UAE won the rapid title ahead of Decade China Team and the favourites WR Chess Team. WR Chess Team did win the blitz final against Team MGD1. All games now available.",
