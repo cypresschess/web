@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The second day of rapid chess at the Saint Louis Rapid & Blitz tournament finished with three players tied atop the standings with 8/12 points. Alireza Firouzja and Ian Nepomniachtchi caught up with former leader Maxime Vachier-Lagrave after each scoring a win and two draws on Tuesday. Levon Aronian stands in sole fourth place, 1 point behind the co-leaders. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-2",
+         "pubDate" : "Wed, 14 Aug 2024 07:45:00",
+         "title" : "St. Louis Rapid & Blitz: Firouzja, Nepo and MVL share the lead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after going 1-0-2 on the second rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-all-my-games-could-have-gone-any-way-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J9NVLjLRylM.jpg?itok=sfVYqMdv\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -40,6 +48,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nepo%E2%80%99s-time-management-thinking-leads-me-nowhere-rapid-5-stlrapidblitz",
          "pubDate" : "Wed, 14 Aug 2024 00:02:04",
          "title" : "Nepo's Time Management: Thinking Leads Me Nowhere | Rapid 5 #STLRapidBlitz"
+      },
+      {
+         "description" : "The 26th edition of the HZ University of Applied Sciences Chess Tournament 2024 was played in the Dutch city of Vlissingen in the province of Zeeland, from 3 to 10 August. GM Daniel Fernandez (pictured) won with 7&frac12; out of 9 points. There was a player in the event who caused a stir by trying to increase his playing strength with a mobile phone hidden in his sock. Gerd Densing reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/zeeland-open-2024-final-report",
+         "pubDate" : "Tue, 13 Aug 2024 21:10:00",
+         "title" : "Daniel Fernandez wins Zeeland Open, cheater caught with smartphone"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 1 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-fabi-nepo-back-action-day-1-recap-stlrapidblitz\"><img src=\"https:",
@@ -82,19 +98,11 @@ news_feed (
          "title" : "Caruana: In GCT, You Can't Have One Bad Day | #STLRapidBlitz"
       },
       {
-         "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
-         "pubDate" : "Tue, 13 Aug 2024 19:45:00",
-         "title" : "St. Louis Rapid & Blitz - Live!"
-      },
-      {
          "description" : "GM Maxime Vachier-Lagrave led the 2024 Saint Louis Rapid &#38;amp; Blitz after day one, but GMs Alireza Firouzja and Ian Nepomniachtchi caught up to him to join a three-way tie after six rounds. Of the other seven players, GM Fabiano Caruana was the o...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2024-day-2",
-         "pubDate" : "Tue, 13 Aug 2024 17:36:39",
+         "pubDate" : "Tue, 13 Aug 2024 17:36:00",
          "title" : "Firouzja, Nepomniachtchi Jump Into 3-Way Lead With Vachier-Lagrave"
       },
       {
