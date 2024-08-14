@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Tigran Petrosian was a very conservative player. On the other hand he could see tactics and combinations far in advance, so he went about countering them before even his opponents smell anything! Chess trainer GM Efstratios Grivas has always told his students to study the games of the former World Champion and try to understand what he had seen and why he chose his moves. Here is part two of his lesson.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/petrosian-learning-from-the-master-2",
+         "pubDate" : "Wed, 14 Aug 2024 13:00:00",
+         "title" : "Petrosian - Learning from the Master"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3155",
+         "pubDate" : "Wed, 14 Aug 2024 11:06:31",
+         "title" : "Champions crowned at 22nd EU Youth Championship 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/NSCC/english-schools-finals-2024/#new_tab",
+         "pubDate" : "Wed, 14 Aug 2024 10:13:57",
+         "title" : "Report on the English Schools Finals 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3154",
+         "pubDate" : "Wed, 14 Aug 2024 09:49:49",
+         "title" : "2024 Saint Louis Rapid & Blitz: Three-way tie on the top"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, Himachal Pradesh State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 14 to 15",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-at-shimla-hp-on-14-15-september-2024/",
+         "pubDate" : "Wed, 14 Aug 2024 07:57:59",
+         "title" : "SNA Seminar at Shimla HP on 14-15 September 2024"
+      },
+      {
          "description" : "The second day of rapid chess at the Saint Louis Rapid & Blitz tournament finished with three players tied atop the standings with 8/12 points. Alireza Firouzja and Ian Nepomniachtchi caught up with former leader Maxime Vachier-Lagrave after each scoring a win and two draws on Tuesday. Levon Aronian stands in sole fourth place, 1 point behind the co-leaders. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -154,7 +194,7 @@ news_feed (
          "title" : "59-Year-Old Overcomes Severe Physical Handicap To Become Champion In Pakistan"
       },
       {
-         "description" : "This week's puzzles come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's puzzles come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-tournaments-state-champions",
@@ -856,14 +896,6 @@ news_feed (
          "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-at-jammu-on-20-21-july-2024/",
          "pubDate" : "Mon, 29 Jul 2024 06:58:01",
          "title" : "Final Report of Senior National Arbiter Seminar & Examination at Jammu on 20-21 July 2024"
-      },
-      {
-         "description" : "The All India Chess Federation (AICF) is looking for a suitable candidate to fill up 1 (One) postof Head of Operations of AICF. Interested parties",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/vacancy-announcement-3/",
-         "pubDate" : "Mon, 29 Jul 2024 06:19:56",
-         "title" : "Vacancy Announcement"
       },
       {
          "description" : "",
