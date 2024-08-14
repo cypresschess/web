@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
+         "pubDate" : "Wed, 14 Aug 2024 14:50:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
          "description" : "Tigran Petrosian was a very conservative player. On the other hand he could see tactics and combinations far in advance, so he went about countering them before even his opponents smell anything! Chess trainer GM Efstratios Grivas has always told his students to study the games of the former World Champion and try to understand what he had seen and why he chose his moves. Here is part two of his lesson.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,20 +42,20 @@ news_feed (
          "title" : "2024 Saint Louis Rapid & Blitz: Three-way tie on the top"
       },
       {
+         "description" : "GMs&#38;nbsp;Jose Martinez and Jeffery Xiong were the victors in the August 13 editions of Titled Tuesday, Martinez finally breaking into the TT winners column in 2024 after coming close several times. &#34;Ready for London,&#34; an apparent reference to his ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/martinez-xiong-win-titled-tuesday-august-13-2024",
+         "pubDate" : "Wed, 14 Aug 2024 08:24:21",
+         "title" : "Martinez Wins Titled Tuesday, Next Stop: London"
+      },
+      {
          "description" : "On behalf of All India Chess Federation, Himachal Pradesh State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 14 to 15",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sna-seminar-at-shimla-hp-on-14-15-september-2024/",
          "pubDate" : "Wed, 14 Aug 2024 07:57:59",
          "title" : "SNA Seminar at Shimla HP on 14-15 September 2024"
-      },
-      {
-         "description" : "The second day of rapid chess at the Saint Louis Rapid & Blitz tournament finished with three players tied atop the standings with 8/12 points. Alireza Firouzja and Ian Nepomniachtchi caught up with former leader Maxime Vachier-Lagrave after each scoring a win and two draws on Tuesday. Levon Aronian stands in sole fourth place, 1 point behind the co-leaders. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-2",
-         "pubDate" : "Wed, 14 Aug 2024 07:45:00",
-         "title" : "St. Louis Rapid & Blitz: Firouzja, Nepo and MVL share the lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after going 1-0-2 on the second rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-all-my-games-could-have-gone-any-way-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J9NVLjLRylM.jpg?itok=sfVYqMdv\" alt=\"\" /></a></div>",
@@ -88,14 +96,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nepo%E2%80%99s-time-management-thinking-leads-me-nowhere-rapid-5-stlrapidblitz",
          "pubDate" : "Wed, 14 Aug 2024 00:02:04",
          "title" : "Nepo's Time Management: Thinking Leads Me Nowhere | Rapid 5 #STLRapidBlitz"
-      },
-      {
-         "description" : "The 26th edition of the HZ University of Applied Sciences Chess Tournament 2024 was played in the Dutch city of Vlissingen in the province of Zeeland, from 3 to 10 August. GM Daniel Fernandez (pictured) won with 7&frac12; out of 9 points. There was a player in the event who caused a stir by trying to increase his playing strength with a mobile phone hidden in his sock. Gerd Densing reports.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/zeeland-open-2024-final-report",
-         "pubDate" : "Tue, 13 Aug 2024 21:10:00",
-         "title" : "Daniel Fernandez wins Zeeland Open, cheater caught with smartphone"
       },
       {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 1 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-fabi-nepo-back-action-day-1-recap-stlrapidblitz\"><img src=\"https:",
@@ -194,7 +194,7 @@ news_feed (
          "title" : "59-Year-Old Overcomes Severe Physical Handicap To Become Champion In Pakistan"
       },
       {
-         "description" : "This week's puzzles come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's puzzles come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-tournaments-state-champions",
@@ -768,14 +768,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/brilliant-under-10s/",
          "pubDate" : "Fri, 02 Aug 2024 09:05:38",
          "title" : "Brilliant Under 10s!"
-      },
-      {
-         "description" : "Missed your morning alarm? Heart beating out of your chest? Thought you&#38;rsquo;d overslept an exam? Well, my friend, this is not a drill. You&#38;rsquo;ve been enrolled at The Gambit Academy and your chess skills are ready to be tested. Can you defeat ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/back-to-school-bots",
-         "pubDate" : "Fri, 02 Aug 2024 09:00:00",
-         "title" : "Play Against Chess.com's Back To School Bots"
       },
       {
          "description" : "Please find the Certificates right here No Name 1 Asim Billah Wali 2 Muhammed Uvais Karni 3 Raman Gupta 4 Jithin Anil 5 Munish Kumar",
