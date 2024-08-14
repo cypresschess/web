@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after going 1-0-2 on the second rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-all-my-games-could-have-gone-any-way-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J9NVLjLRylM.jpg?itok=sfVYqMdv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-all-my-games-could-have-gone-any-way-d2-stlrapidblitz",
+         "pubDate" : "Wed, 14 Aug 2024 03:02:10",
+         "title" : "Caruana: All of My Games Could Have Gone Any Way | D2 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after going 2-0-1 on the second rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-hikaru-got-too-excited-his-french-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wZ-FMzS7TRc.jpg?itok=R3IEy-2D\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-hikaru-got-too-excited-his-french-d2-stlrapidblitz",
+         "pubDate" : "Wed, 14 Aug 2024 03:02:10",
+         "title" : "Firouzja: Hikaru Got Too Excited with his French | D2 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 2 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-nepomniachtchi-surge-day-2-recap-stlrapidblitz\"><img src=\"https://saintlouischessclu",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-nepomniachtchi-surge-day-2-recap-stlrapidblitz",
+         "pubDate" : "Wed, 14 Aug 2024 03:02:10",
+         "title" : "Firouzja, Nepomniachtchi Surge | Day 2 Recap #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ten players talk to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/favorite-chess-opening-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dYBlhY19DEs.jpg?itok=gWBJ4-Rp\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/favorite-chess-opening-stlrapidblitz",
+         "pubDate" : "Wed, 14 Aug 2024 00:02:04",
+         "title" : "Favorite Chess Opening? | #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich after defeating Dominguez in Rapid 5 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo%E2%80%99s-time-management-thinking-leads-me-nowhere-rapid-5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JAm_ZxOEBGk.jpg?itok=0hn5_lmw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo%E2%80%99s-time-management-thinking-leads-me-nowhere-rapid-5-stlrapidblitz",
+         "pubDate" : "Wed, 14 Aug 2024 00:02:04",
+         "title" : "Nepo's Time Management: Thinking Leads Me Nowhere | Rapid 5 #STLRapidBlitz"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 1 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-fabi-nepo-back-action-day-1-recap-stlrapidblitz\"><img src=\"https:",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,28 +90,12 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> GM Peter Svidler enlightens us on how Hikaru&#039;s knights can cause some devastating blows in his game against MVL </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/svidler-explains-how-knight-moves-grandchesstour-chess-chesstactics-chesscom-hikarunakamura\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SA9RmmPEcQ0.jpg?itok=ykdmYWW0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/svidler-explains-how-knight-moves-grandchesstour-chess-chesstactics-chesscom-hikarunakamura",
-         "pubDate" : "Tue, 13 Aug 2024 18:01:52",
-         "title" : "Svidler Explains How The Knight Moves #grandchesstour #chess #chesstactics #chesscom #hikarunakamura"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Commentators become enthralled as Svidler&#039;s boy, Nepo breaks down Alireza in this rook and bishop endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-endgame-rook-and-bishop-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tP4supwUx4c.jpg?itok=t4vJj6ni\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-endgame-rook-and-bishop-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Tue, 13 Aug 2024 18:01:52",
-         "title" : "Chess Endgame: Rook and Bishop #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In a early position, Caruana has Hikaru up against the ropes early looking for the quick knockout, but... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-against-ropes-early-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3JidTScgiQA.jpg?itok=17wGVduJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hikaru-against-ropes-early-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Tue, 13 Aug 2024 18:01:52",
-         "title" : "Hikaru Up Against The Ropes Early #grandchesstour #chess #chesstactics #chesscom"
+         "description" : "GM Maxime Vachier-Lagrave led the 2024 Saint Louis Rapid &#38;amp; Blitz after day one, but GMs Alireza Firouzja and Ian Nepomniachtchi caught up to him to join a three-way tie after six rounds. Of the other seven players, GM Fabiano Caruana was the o...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2024-day-2",
+         "pubDate" : "Tue, 13 Aug 2024 17:36:39",
+         "title" : "Firouzja, Nepomniachtchi Jump Into 3-Way Lead With Vachier-Lagrave"
       },
       {
          "description" : "",
@@ -80,22 +104,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3153",
          "pubDate" : "Tue, 13 Aug 2024 16:11:54",
          "title" : "Tbilisi kicks off 2024/25 FIDE Women's Grand Prix season"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nazi and other Catalan players will love this sharp shooter on g2 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/beware-yusuf-dikec-ish-bishop-g2-grandchesstour-chess-chessopening-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/whIrTkvwzUQ.jpg?itok=cxiRg8dr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/beware-yusuf-dikec-ish-bishop-g2-grandchesstour-chess-chessopening-chesscom",
-         "pubDate" : "Tue, 13 Aug 2024 15:01:44",
-         "title" : "BEWARE: Yusuf Dikec-ish Bishop On G2 #grandchesstour #chess #chessopening #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Hikaru Nakamura vs Fabiano Caruana from Day 1 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fire-board-nakamura-caruana-saint-louis-rapid-blitz-day-1-game-day\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/0NhvlMzOFaI.jpg?itok=ImuT2vWw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fire-board-nakamura-caruana-saint-louis-rapid-blitz-day-1-game-day",
-         "pubDate" : "Tue, 13 Aug 2024 15:01:44",
-         "title" : "Fire on Board: Nakamura - Caruana | Saint Louis Rapid & Blitz - Day 1 | Game of the Day"
       },
       {
          "description" : "FIDE&#39;s Ethics &#38;amp; Disciplinary Commission (EDC) has banned Latvian IM Andrejs Strebkovs for five years after finding him guilty of sexually harassing several top female players, some of them children, by sending them obscene letters for over a d...",
@@ -110,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/gukesh-mercedes-benz-school",
-         "pubDate" : "Tue, 13 Aug 2024 09:54:43",
+         "pubDate" : "Tue, 13 Aug 2024 09:54:00",
          "title" : "Gukesh Gifted Mercedes-Benz By His School"
       },
       {
