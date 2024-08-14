@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
+         "pubDate" : "Wed, 14 Aug 2024 19:45:00",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Nodirbek Abdusattorov vs. Fabiano Caruana from Rapid 5 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/two-queens-vs-one-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JZrIc-DAA8E.jpg?itok=rl6f3YmD\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/two-queens-vs-one-game-day-stlrapidblitz",
+         "pubDate" : "Wed, 14 Aug 2024 15:02:31",
+         "title" : "Two Queens VS One | Game of the Day #STLRapidBlitz"
+      },
+      {
          "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -40,6 +56,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3154",
          "pubDate" : "Wed, 14 Aug 2024 09:49:49",
          "title" : "2024 Saint Louis Rapid & Blitz: Three-way tie on the top"
+      },
+      {
+         "description" : "GM Hikaru Nakamura will lead the new American Gambits team when the Global Chess League returns for a second season, to be held this October in London. The other Icon players leading their teams are GMs Magnus Carlsen, Viswanathan Anand, Ian Nepom...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nakamura-giri-vaishali-global-chess-league-season-2",
+         "pubDate" : "Wed, 14 Aug 2024 09:12:07",
+         "title" : "Nakamura, Giri, Vaishali Join Global Chess League For Season 2"
       },
       {
          "description" : "GMs&#38;nbsp;Jose Martinez and Jeffery Xiong were the victors in the August 13 editions of Titled Tuesday, Martinez finally breaking into the TT winners column in 2024 after coming close several times. &#34;Ready for London,&#34; an apparent reference to his ...",
@@ -98,6 +122,14 @@ news_feed (
          "title" : "Nepo's Time Management: Thinking Leads Me Nowhere | Rapid 5 #STLRapidBlitz"
       },
       {
+         "description" : "US Chess announces two changes to the Communications Department. As of August 17, Dan Lucas will no longer be our Senior Director of Strategic Communication. Effective immediately, JJ Lang has been promoted from Digital Assistant to Digital Editor. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Dan Lucas has been with US Chess for almost 19 years, beginning as Director of Publications in 2005. Lucas was editor of Chess Life and Chess Life Kids magazine for over 12",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/communications-department-transitions-1",
+         "pubDate" : "Wed, 14 Aug 2024 00:00:00",
+         "title" : "Communications Department Transitions"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Day 1 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru-fabi-nepo-back-action-day-1-recap-stlrapidblitz\"><img src=\"https:",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -128,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fabi%E2%80%99s-chances-fall-precipitously-after-first-day-d2-stlrapidblitz",
          "pubDate" : "Tue, 13 Aug 2024 21:01:54",
          "title" : "Fabi's Chances Fall Precipitously After First Day | D2 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-gct-you-can%E2%80%99t-have-one-bad-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/2hyKSwYoYew.jpg?itok=L56X-1T8\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-gct-you-can%E2%80%99t-have-one-bad-day-stlrapidblitz",
-         "pubDate" : "Tue, 13 Aug 2024 21:01:54",
-         "title" : "Caruana: In GCT, You Can't Have One Bad Day | #STLRapidBlitz"
       },
       {
          "description" : "GM Maxime Vachier-Lagrave led the 2024 Saint Louis Rapid &#38;amp; Blitz after day one, but GMs Alireza Firouzja and Ian Nepomniachtchi caught up to him to join a three-way tie after six rounds. Of the other seven players, GM Fabiano Caruana was the o...",
@@ -194,7 +218,7 @@ news_feed (
          "title" : "59-Year-Old Overcomes Severe Physical Handicap To Become Champion In Pakistan"
       },
       {
-         "description" : "This week's puzzles come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's puzzles come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-tournaments-state-champions",
@@ -256,6 +280,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/chris-ward-sicilian-dragon-the-real-deal",
          "pubDate" : "Mon, 12 Aug 2024 09:00:00",
          "title" : "Sicilian Dragon: The Real Deal!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3146",
+         "pubDate" : "Mon, 12 Aug 2024 08:21:58",
+         "title" : "Hungarian Post releases commemorative stamp for 45th Chess Olympiad"
       },
       {
          "description" : "ECU Magazine July 2024 is out! In this edition of the ECU Magazine you may read about: The July 2024 issue of the ECU Magazine can be read online together with interactive links on the following link, or it can be downloaded below in PDF format.",
@@ -352,14 +384,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3147",
          "pubDate" : "Fri, 09 Aug 2024 08:54:51",
          "title" : "World Youth CC 2024: Important comment by FIDE EVE"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3146",
-         "pubDate" : "Fri, 09 Aug 2024 08:21:58",
-         "title" : "Hungarian Post releases commemorative stamp for 45th Chess Olympiad"
       },
       {
          "description" : " The world No 1 arrived at the World Team Rapid and Blitz jetlagged and lost to Richard Rapport but then beat the world champion Since abdicating his world crown last year, Norway's world champion, Magnus Carlsen, has appeared at a variety of over-the-board events, and also competes frequently online. Carlsen's often crowded schedule caught up with him last week when he flew across several time zones to the World Team Rapid and Blitz in Astana, Kazakhstan, missed the early rounds, and was then <a href=\"https://www.chessgames.com/perl/chessgame?gid=2741372\">beaten in 23 moves</a> by Hungary's Richard Rapport. The No 1's king was caught uncastled and, down to two minutes on his clock, he resig",
@@ -754,14 +778,6 @@ news_feed (
          "title" : "How much chess improvement is possible?"
       },
       {
-         "description" : "GM Richard Rapport scored a stunning victory over World Rapid Champion Magnus Carlsen as WR Chess, the defending champions and heavy favorites to win the 2024 World Rapid &#38;amp; Blitz Team Championships, sank to a 5-1 loss to third-seeded Chessy. C...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-1",
-         "pubDate" : "Fri, 02 Aug 2024 09:21:00",
-         "title" : "Rapport Beats Carlsen In 23 Moves As World Rapid Team Favorites Crash To Defeat"
-      },
-      {
          "description" : "Ones to watch Ethan Pang, Bodhana Sivanandan and Kushal Jakhria!",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -800,14 +816,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/2024-olympiad-teams-announced",
          "pubDate" : "Fri, 02 Aug 2024 00:00:00",
          "title" : "2024 Olympiad Teams Announced"
-      },
-      {
-         "description" : "Today is the day! After two more games in the four-day schedule and one more in the six-day schedule, everyone will join the traditional schedule tonight at 7 p.m. EDT for the seventh round of the U.S. Open. The \"merge\" will determine the 124th Annual U.S. Open Champion (and qualifier for the U.S. Championship) after Sunday's ninth-round game. <br /><br /> In the traditional schedule, Julian Proleiko leads by himself with a 5&frac12;/6 score, thanks to last night's win. Today's annotations are courtesy of Denker co-champ IM Sandeep Sethuraman:<br /><br /> <br /><br /><br /><br /> <br /><br /> Eight players trail Proleiko by a half-point with 5/6 scores, led by Vaibhav Kalpaka:<br /><br /> <b",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/top-players-face-us-open-enters-final-weekend",
-         "pubDate" : "Fri, 02 Aug 2024 00:00:00",
-         "title" : "Top Players Face Off as U.S. Open Enters Final Weekend"
       },
       {
          "description" : "",
