@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 4 (out of 6) games in the match between Elisabeth Paehtz and Dinara Wagner, the confrontation remains drawn - the final 2 encounters will be played on Saturday and Sunday. Meanwhile, in the A-Open, there are 9 players tied for first place with 5/6 points each. Frederik Svane from Germany and Christopher Yoo from the USA (pictured) were 2 of the 6 players who joined the lead by scoring wins on Thursday. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d6",
+         "pubDate" : "Thu, 15 Aug 2024 22:30:00",
+         "title" : "Dortmund: Svane and Yoo score, join the lead in A-Open"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-have-win-both-stl-events-win-gct-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X98vBBAtY_s.jpg?itok=PgQpzL-r\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-have-win-both-stl-events-win-gct-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 21:03:17",
+         "title" : "Firouzja: Have to Win Both STL Events to Win GCT | #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Saint Louis Rapid &amp; Blitz, after all nine rapid rounds. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-55-likely-win-whole-thing-d4-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g20CM4oy2sM.jpg?itok=0",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-55-likely-win-whole-thing-d4-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 21:03:17",
+         "title" : "Firouzja 55% Likely to Win the Whole Thing?! | D4 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ten players talk to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/most-fascinating-world-championship-match-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qnn46D0ozhc.jpg?itok=QYTIbX9N\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/most-fascinating-world-championship-match-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 21:03:17",
+         "title" : "Most Fascinating World Championship Match? | #STLRapidBlitz"
+      },
+      {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +66,14 @@ news_feed (
          "title" : "Assaubayeva and Tsolakidou triumph in first round of the Women's Grand Prix"
       },
       {
+         "description" : "IM Eline Roebers of the Netherlands revealed after qualifying for the 2024 Julius Baer Women&#39;s Speed Chess Championship that she competed for the whole of the Swiss part in a train, using her phone. She reached home &#34;just in time&#34; as the Knockout ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-3",
+         "pubDate" : "Thu, 15 Aug 2024 15:34:36",
+         "title" : "Eline Roebers Wins Play-In 3 Despite Competing From Train"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Maxime Vachier-Lagrave vs. Ian Nepomniachtchi from Rapid 7 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepos-brilliant-sacrifice-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3_yCjoNuhKg.jpg?itok=2OizChjm\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -48,6 +88,14 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-r-praggnanandhaa-finishes-last-in-rapid/articleshow/112549567.cms",
          "pubDate" : "Thu, 15 Aug 2024 14:39:56",
          "title" : "Grand chess tour: R Praggnanandhaa finishes last in rapid"
+      },
+      {
+         "description" : "A one-move blunder cost Indian GM Vaishali Rameshbabu a loss against Greek IM Stavroula Tsolakidou as the 2024 Tbilisi FIDE Women&#39;s Grand Prix got underway. The day&#39;s other winner was Kazakh IM Bibisara Assaubayeva who sprang a surprise on move on...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-1",
+         "pubDate" : "Thu, 15 Aug 2024 14:08:36",
+         "title" : "Assaubayeva, Tsolakidou Win As Muzychuk Sisters Improve On Nakamura-Vidit"
       },
       {
          "description" : "",
@@ -122,28 +170,12 @@ news_feed (
          "title" : "How to Balance Chess Career with Personal Life? | #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich after defeating Caruana in Rapid 8 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-fabi-wanted-fight-i-welcome-storm-rapid-8-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/skccaGnHEnA.jpg?itok=9Ug8cwiG\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian-fabi-wanted-fight-i-welcome-storm-rapid-8-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
-         "title" : "Aronian: Fabi Wanted to Fight; I Welcome the Storm | Rapid 8 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after going 1-0-2 on the third rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-just-want-be-solid-get-blitz-d3-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jiklRAnbe44.jpg?itok=8LJBGnYV\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nakamura-just-want-be-solid-get-blitz-d3-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
-         "title" : "Nakamura: Just Want to Be Solid, Get to the Blitz! | D3 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after going 1-1-1 on the third rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-maybe-i%E2%80%99ll-do-some-training-blitz-tonight-d3-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OXgbmYt7W1E.jpg?itok=Yw0kJntz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/mvl-maybe-i%E2%80%99ll-do-some-training-blitz-tonight-d3-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
-         "title" : "MVL: Maybe I'll Do Some Training Blitz Tonight | D3 #STLRapidBlitz"
+         "description" : "The 2024 Grand Chess Tour (GCT) is in the middle of its penultimate leg, with three days of rapid chess concluding Wednesday, August 14 at the Saint Louis Chess Club (SLCC). The first day of blitz games is currently underway, with the finale of the 2024 Saint Louis Rapid & Blitz event taking place Friday, August 16. The 2024 Sinquefield Cup, which concludes the 2024 GCT, begins on Monday, August 19.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/grand-chess-tour-three-lead-after-rapids-slcc",
+         "pubDate" : "Thu, 15 Aug 2024 00:00:00",
+         "title" : "Grand Chess Tour: Three Lead After Rapids at SLCC"
       },
       {
          "description" : " Kevin Pryor is the new President of the U.S. Chess Federation. A past President of the Florida Chess Association (FCA) and Executive Board member of the U.S. Chess Federation, Pryor was elected as the 32nd President of the U.S. Chess Federation at the Executive Board meeting during the 124th U.S. Open in Norfolk, Virginia. Kevin The post <a href=\"https://www.thechessdrum.net/blog/2024/08/14/kevin-pryor-is-the-new-president-of-u-s-chess/\">Kevin Pryor is the new President of U.S. Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -690,14 +722,6 @@ news_feed (
          "title" : "Carlsen Leads WR Chess To World Blitz Team Championship Gold"
       },
       {
-         "description" : "15-year-old IM Shreyas Royal, who faced eviction from the United Kingdom eight years ago due to his father&#39;s expiring work visa, has now achieved his dream of becoming the youngest British chess grandmaster in history.&#38;nbsp; Royal is set to beco...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/shreyas-royal-clinches-final-norm-becomes-uks-youngest-grandmaster-ever",
-         "pubDate" : "Mon, 05 Aug 2024 04:48:26",
-         "title" : "Shreyas Royal Becomes Youngest British Grandmaster In History"
-      },
-      {
          "description" : "The final round of the 124th Annual U.S. Open went down to the wire in Norfolk, Virginia. With four players entering Sunday's games with 7/8 scores, it was anybody's guess who would win the championship. In the end, GMs Jianchao Zhou and Semen Khanin won their respective games over GMs Mackenzie Molner and Fidel Corrales.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Left: Mackenzie Molner (L) faces off against Jianchao Zhou, with Semen Khanin and Fidel Corrales behind them. R",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -728,14 +752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3139",
          "pubDate" : "Sun, 04 Aug 2024 17:07:13",
          "title" : "Al-Ain ACMG UAE become the new World Rapid Team Champions"
-      },
-      {
-         "description" : "GM Daniil Dubov&#39;s only win of the 2024 World Rapid &#38;amp; Blitz Team Championships saw his team Al-Ain ACMG UAE take gold in a nail-biting finish. World Champion Ding Liren&#39;s Decade China Team took silver, with Pang Bo scoring 11/11 on board six, w...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-3",
-         "pubDate" : "Sun, 04 Aug 2024 09:58:00",
-         "title" : "Dubov Clutch Win Gives Al-Ain World Rapid Team Championship Gold"
       },
       {
          "description" : "Kevin Pryor was named the President of US Chess today. Pryor, who was Vice President to this point, stated, \"Today I was honored to be elected the 32nd President of US Chess, an organization with over 110,000 members. I am grateful to the Executive Board for the confidence they have in me to lead the organization at this time. I thank outgoing President Randy Bauer for his two years of leading our federation and for well over a decade of service on the Board. I look forward to the wonderful things we all will do together to further the game we all love.\"<br /><br /> Hear more from Pryor in this brief interview:<br /><br /><br /> Kevin Pryor is the new US Chess President, @jfernandez is our n",
@@ -848,14 +864,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/aug/02/chess-yagiz-erdogmus-13-on-the-verge-of-2600-and-closing-on-world-age-record",
          "pubDate" : "Fri, 02 Aug 2024 07:00:26",
          "title" : "Chess: Yagiz Erdogmus, 13, on the verge of 2600 and closing on world age record"
-      },
-      {
-         "description" : "The 45th FIDE Chess Olympiad will take place from September 10 through 23 in Budapest, Hungary. Team USA looks to improve on their tied-fourth (fifth on tiebreaks) finish in the Open and tied-third (fourth on tiebreaks) finish in the Women's section of the 44th FIDE Chess Olympiad held in 2022 in Chennai, India. <br /><br /> The following list is the official players, captain, and trainer for the 2024 Olympiad Team USA Open and Women's teams. The respective team chose their Captains and Trainers.<br /><br /> <br /><br /> Open Team:<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/2024-olympiad-teams-announced",
-         "pubDate" : "Fri, 02 Aug 2024 00:00:00",
-         "title" : "2024 Olympiad Teams Announced"
       },
       {
          "description" : "",
@@ -984,22 +992,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/jul/26/chess-vachier-lagrave-wins-300000-event-while-firouzja-loses-in-nine-moves",
          "pubDate" : "Fri, 26 Jul 2024 07:00:44",
          "title" : "Chess: Vachier-Lagrave wins $300,000 event while Firouzja loses in nine moves"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3128",
-         "pubDate" : "Thu, 25 Jul 2024 22:36:50",
-         "title" : "Lê Quang Liêm wins Biel Grandmaster Triathlon for third straight year"
-      },
-      {
-         "description" : "The strongest junior and senior chess players in the United States have returned to Saint Louis. On July 16-26, the top 10 players across three divisions - juniors, girls, and seniors - are competing for more than $135,000 in prizes. | Follow all the games live with expert commentary, starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
-         "pubDate" : "Thu, 25 Jul 2024 19:50:00",
-         "title" : "US Senior and Junior Championships - Live!"
       }
    ]
 }
