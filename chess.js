@@ -2,12 +2,84 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin, plus playoffs if necessary. Join GMs Yasser Seirawan, Peter Svidler, &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-5-grandchesstour",
+         "pubDate" : "Thu, 15 Aug 2024 03:02:45",
+         "title" : "2024 Saint Louis Rapid & Blitz: Day 5 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 3 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-rises-then-falls-day-3-recap-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/si",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-rises-then-falls-day-3-recap-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 03:02:45",
+         "title" : "Nepo Rises, Then Falls | Day 3 Recap #STLRapidBlitz"
+      },
+      {
          "description" : "Hans Niemann got off to a good start in his London match against Nikita Vitiugov. The US grandmaster won the first game with black and drew the next one to get a 4&frac12;-1&frac12; lead in the 5-day match - wins in the classical games are worth 3 points in the \"Hans Niemann against the world\" series. Niemann also got the upper hand in the second game, but failed to convert it into a win. | Photo: Frans Peeters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/niemann-vitiugov-match-2024-d1",
          "pubDate" : "Thu, 15 Aug 2024 00:35:00",
          "title" : "Niemann starts off with a win in match against Vitiugov"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 3. 2024.08.11<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian%E2%80%99s-enthusiasm-usa-olympiad-team-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
+         "title" : "Aronian's Enthusiasm for USA Olympiad Team | #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich after defeating Vachier-Lagrave in Rapid 7 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-can%E2%80%99t-rest-after-mvl-victory-rapid-7-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sG6TCJrY0z8.jpg?itok=5sGZCyqb\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-can%E2%80%99t-rest-after-mvl-victory-rapid-7-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
+         "title" : "Nepo Can't Rest after MVL Victory | Rapid 7 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ten players talk to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-balance-chess-career-personal-life-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VSYaptr8-Xo.jpg?itok=8MJw85rJ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-balance-chess-career-personal-life-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
+         "title" : "How to Balance Chess Career with Personal Life? | #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich after defeating Caruana in Rapid 8 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/aronian-fabi-wanted-fight-i-welcome-storm-rapid-8-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/skccaGnHEnA.jpg?itok=9Ug8cwiG\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/aronian-fabi-wanted-fight-i-welcome-storm-rapid-8-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
+         "title" : "Aronian: Fabi Wanted to Fight; I Welcome the Storm | Rapid 8 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Hikaru Nakamura talks to Cristian Chirila after going 1-0-2 on the third rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nakamura-just-want-be-solid-get-blitz-d3-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jiklRAnbe44.jpg?itok=8LJBGnYV\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-just-want-be-solid-get-blitz-d3-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
+         "title" : "Nakamura: Just Want to Be Solid, Get to the Blitz! | D3 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after going 1-1-1 on the third rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-maybe-i%E2%80%99ll-do-some-training-blitz-tonight-d3-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OXgbmYt7W1E.jpg?itok=Yw0kJntz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-maybe-i%E2%80%99ll-do-some-training-blitz-tonight-d3-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
+         "title" : "MVL: Maybe I'll Do Some Training Blitz Tonight | D3 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 1-0-2 on the third rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-loves-his-cats-d3-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K_HQMHySK3o.jpg?itok=BJvNvnkw\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-loves-his-cats-d3-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
+         "title" : "Wesley So Loves His Cats | D3 #STLRapidBlitz"
       },
       {
          "description" : " Kevin Pryor is the new President of the U.S. Chess Federation. A past President of the Florida Chess Association (FCA) and Executive Board member of the U.S. Chess Federation, Pryor was elected as the 32nd President of the U.S. Chess Federation at the Executive Board meeting during the 124th U.S. Open in Norfolk, Virginia. Kevin The post <a href=\"https://www.thechessdrum.net/blog/2024/08/14/kevin-pryor-is-the-new-president-of-u-s-chess/\">Kevin Pryor is the new President of U.S. Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -26,30 +98,6 @@ news_feed (
          "title" : "Firouzja, Nepomniachtchi Surge! | Day 2 Recap #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Nodirbek Abdusattorov vs. Fabiano Caruana from Rapid 5 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/two-queens-vs-one-game-day-stlrapidblitz-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JZrIc-DAA8E.jpg?itok=rl6f3YmD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/two-queens-vs-one-game-day-stlrapidblitz-0",
-         "pubDate" : "Wed, 14 Aug 2024 21:02:37",
-         "title" : "Two Queens vs. One! | Game of the Day #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today is the first blitz round robin. Join GMs Yasser Seirawan, Peter Svidler, &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-saint-louis-rapi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-4-grandchesstour",
-         "pubDate" : "Wed, 14 Aug 2024 21:02:37",
-         "title" : "2024 Saint Louis Rapid & Blitz: Day 4 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Saint Louis Rapid &amp; Blitz, after six rapid rounds. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-huge-favorite-after-two-days-d3-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/IF-dtdLbBkk.jpg?itok=2RT",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-huge-favorite-after-two-days-d3-stlrapidblitz",
-         "pubDate" : "Wed, 14 Aug 2024 21:02:37",
-         "title" : "Firouzja a HUGE Favorite after Two Days | D3 #STLRapidBlitz"
-      },
-      {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,12 +106,12 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Nodirbek Abdusattorov vs. Fabiano Caruana from Rapid 5 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/two-queens-vs-one-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JZrIc-DAA8E.jpg?itok=rl6f3YmD\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/two-queens-vs-one-game-day-stlrapidblitz",
-         "pubDate" : "Wed, 14 Aug 2024 15:02:31",
-         "title" : "Two Queens VS One | Game of the Day #STLRapidBlitz"
+         "description" : "The three leaders from the day before remained in the same position after the final day of rapid chess in the 2024 Saint Louis Rapid &#38;amp; Blitz. GM Maxime Vachier-Lagrave won the last round to re-join the lead, while GM Alireza Firouzja drew and ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2024-day-3",
+         "pubDate" : "Wed, 14 Aug 2024 17:08:00",
+         "title" : "Nepomniachtchi, Firouzja, Vachier-Lagrave Lead Ahead Of Blitz, Nakamura Inches Closer"
       },
       {
          "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
@@ -118,7 +166,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/nakamura-giri-vaishali-global-chess-league-season-2",
-         "pubDate" : "Wed, 14 Aug 2024 09:12:07",
+         "pubDate" : "Wed, 14 Aug 2024 09:12:00",
          "title" : "Nakamura, Giri, Vaishali Join Global Chess League For Season 2"
       },
       {
@@ -136,46 +184,6 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-at-shimla-hp-on-14-15-september-2024/",
          "pubDate" : "Wed, 14 Aug 2024 07:57:59",
          "title" : "SNA Seminar at Shimla HP on 14-15 September 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after going 1-0-2 on the second rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-all-my-games-could-have-gone-any-way-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/J9NVLjLRylM.jpg?itok=sfVYqMdv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-all-my-games-could-have-gone-any-way-d2-stlrapidblitz",
-         "pubDate" : "Wed, 14 Aug 2024 03:02:10",
-         "title" : "Caruana: All of My Games Could Have Gone Any Way | D2 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after going 2-0-1 on the second rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-hikaru-got-too-excited-his-french-d2-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/wZ-FMzS7TRc.jpg?itok=R3IEy-2D\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-hikaru-got-too-excited-his-french-d2-stlrapidblitz",
-         "pubDate" : "Wed, 14 Aug 2024 03:02:10",
-         "title" : "Firouzja: Hikaru Got Too Excited with his French | D2 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 2 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-nepomniachtchi-surge-day-2-recap-stlrapidblitz\"><img src=\"https://saintlouischessclu",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-nepomniachtchi-surge-day-2-recap-stlrapidblitz",
-         "pubDate" : "Wed, 14 Aug 2024 03:02:10",
-         "title" : "Firouzja, Nepomniachtchi Surge | Day 2 Recap #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ten players talk to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 2. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/favorite-chess-opening-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dYBlhY19DEs.jpg?itok=gWBJ4-Rp\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/favorite-chess-opening-stlrapidblitz",
-         "pubDate" : "Wed, 14 Aug 2024 00:02:04",
-         "title" : "Favorite Chess Opening? | #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich after defeating Dominguez in Rapid 5 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo%E2%80%99s-time-management-thinking-leads-me-nowhere-rapid-5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JAm_ZxOEBGk.jpg?itok=0hn5_lmw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo%E2%80%99s-time-management-thinking-leads-me-nowhere-rapid-5-stlrapidblitz",
-         "pubDate" : "Wed, 14 Aug 2024 00:02:04",
-         "title" : "Nepo's Time Management: Thinking Leads Me Nowhere | Rapid 5 #STLRapidBlitz"
       },
       {
          "description" : "US Chess announces two changes to the Communications Department. As of August 17, Dan Lucas will no longer be our Senior Director of Strategic Communication. Effective immediately, JJ Lang has been promoted from Digital Assistant to Digital Editor. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Dan Lucas has been with US Chess for almost 19 years, beginning as Director of Publications in 2005. Lucas was editor of Chess Life and Chess Life Kids magazine for over 12",
@@ -744,14 +752,6 @@ news_feed (
          "link" : "https://www.thearticle.com/new-york-1924-a-stellar-gathering/",
          "pubDate" : "Sat, 03 Aug 2024 09:47:35",
          "title" : "New York 1924: a stellar gathering "
-      },
-      {
-         "description" : "World number-one Magnus Carlsen bounced back to beat GMs Daniil Dubov and Ding Liren on day two of the 2024 World Rapid &#38;amp; Blitz Team Championships, but his team WR Chess trails Al-Ain ACMG UAE by three points. GM Parham Maghsoodloo was the sta...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-2",
-         "pubDate" : "Sat, 03 Aug 2024 09:47:00",
-         "title" : "Carlsen Beats Ding As Maghsoodloo Powers Al-Ain Into Sole Lead"
       },
       {
          "description" : "It's nice to have everybody in the same room. The feel of the main tournament hall is just so much more vibrant when it's abuzz with almost 400 players all in the same stage of the game. When the three separate playing schedules merged last night for the seventh round of the 124th Annual U.S. Open, it really felt like a national event. <br /><br /> With two rounds to go, nine players are tied for first with 6/7 scores. Now that really feels like a national event. The $60,000 prize fund is up for grabs, with a number of top players still in the running for the $10,000 top prize and the spot in this fall's U.S. Championship on the horizon. <br /><br /> Today's annotations once again come from ",
