@@ -2,28 +2,52 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
+         "pubDate" : "Thu, 15 Aug 2024 19:50:00",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Maxime Vachier-Lagrave vs. Ian Nepomniachtchi from Rapid 7 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepos-brilliant-sacrifice-game-day-stlrapidblitz-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3_yCjoNuhKg.jpg?itok=2OizChjm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepos-brilliant-sacrifice-game-day-stlrapidblitz-0",
+         "pubDate" : "Thu, 15 Aug 2024 18:03:14",
+         "title" : "Nepo's Brilliant Sacrifice | Game of the Day #STLRapidBlitz"
+      },
+      {
+         "description" : "The European Union Youth Chess Championships 2024 concluded in Roznov pod Radhostem, Czech Repubic. The last rounds were full of fights and tension. In category Boys U8 took the first place Han Nam Pham (FRA, 9 out of 9!), the second place Aaron-Mathias Dragoi (ROU) and the third Vojtech Vratny (CZE). In category Girls U8 took the first place Amanda Skytte (DEN), the second place Cassandre Itier (FRA) and the third Isis Bocquenet-Drouode (FRA). Champion EU in category Boys U10 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-union-youth-chess-championship-2024-concluded/",
+         "pubDate" : "Thu, 15 Aug 2024 17:56:39",
+         "title" : "European Union Youth Chess Championship 2024 concluded"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3158",
+         "pubDate" : "Thu, 15 Aug 2024 17:26:40",
+         "title" : "Assaubayeva and Tsolakidou triumph in first round of the Women's Grand Prix"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Maxime Vachier-Lagrave vs. Ian Nepomniachtchi from Rapid 7 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepos-brilliant-sacrifice-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3_yCjoNuhKg.jpg?itok=2OizChjm\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepos-brilliant-sacrifice-game-day-stlrapidblitz",
+         "pubDate" : "Thu, 15 Aug 2024 15:03:05",
+         "title" : "Nepo's Brilliant Sacrifice | Game of the Day #STLRapidBlitz"
+      },
+      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112549567.cms\" />Indian Grandmaster R Praggnanandhaa struggled in the Rapid section of the Saint Louis Rapid and Blitz tournament, finishing last with a score of 4/18. He ended the day with three losses and three draws, including defeats by Lenier Dominguez and Hikaru Nakamura. The Rapid segment ended with Ian Nepomniachtchi, Maxime Vachier-Lagrave, and Alireza Firouzja tied at the top with 11 points each. The tournament moves to the Blitz section, where Praggnanandhaa needs a strong performance to improve his standings and potentially surpass D Gukesh in the Grand",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-r-praggnanandhaa-finishes-last-in-rapid/articleshow/112549567.cms",
          "pubDate" : "Thu, 15 Aug 2024 14:39:56",
          "title" : "Grand chess tour: R Praggnanandhaa finishes last in rapid"
-      },
-      {
-         "description" : "The chess world is set to witness a historic shift after the announcement on Thursday, 25th July: 'Magnus Carlsen raises $12 Million for Freestyle Chess Grand Slam.' This project promises to bring high-level, exclusive chess tournaments to the global stage. While the format was initially introduced in February 2024, certain developments will make it exciting for players, fans, media, organizers, sponsors, and everyone involved. Jan Buettner is the co-founder of this project along with Magnus and in a candid interview with ChessBase India, he shares his journey of starting Freestyle Chess to raising US$12 million!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/jan-buettner-on-freestyle-chess-seeing-a-historic-shift-with-us-12-million-funding",
-         "pubDate" : "Thu, 15 Aug 2024 14:00:00",
-         "title" : "Jan Buettner on Freestyle Chess seeing a historic shift with US $12 Million Funding"
-      },
-      {
-         "description" : "Day 5 of the Dortmund Chess Festival saw Elisabeth Paehtz and Dinara Wagner signing a third consecutive draw in their 6-game match. Meanwhile, in the A-Open, three players scored wins and are now tied for first place with 4&frac12;/5 points each: Anton Korobov, Luis Quesada and David Gavrilescu. | Photo: Dariusz Gorzinski",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d5",
-         "pubDate" : "Thu, 15 Aug 2024 13:00:00",
-         "title" : "Dortmund: Korobov, Quesada and Gavrilescu co-leaders in the A-Open"
       },
       {
          "description" : "",
@@ -122,36 +146,12 @@ news_feed (
          "title" : "MVL: Maybe I'll Do Some Training Blitz Tonight | D3 #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 1-0-2 on the third rapid day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-loves-his-cats-d3-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K_HQMHySK3o.jpg?itok=BJvNvnkw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-loves-his-cats-d3-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
-         "title" : "Wesley So Loves His Cats | D3 #STLRapidBlitz"
-      },
-      {
          "description" : " Kevin Pryor is the new President of the U.S. Chess Federation. A past President of the Florida Chess Association (FCA) and Executive Board member of the U.S. Chess Federation, Pryor was elected as the 32nd President of the U.S. Chess Federation at the Executive Board meeting during the 124th U.S. Open in Norfolk, Virginia. Kevin The post <a href=\"https://www.thechessdrum.net/blog/2024/08/14/kevin-pryor-is-the-new-president-of-u-s-chess/\">Kevin Pryor is the new President of U.S. Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
          "link" : "https://www.thechessdrum.net/blog/2024/08/14/kevin-pryor-is-the-new-president-of-u-s-chess/",
          "pubDate" : "Wed, 14 Aug 2024 22:43:07",
          "title" : "Kevin Pryor is the new President of U.S. Chess!"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 2 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-nepomniachtchi-surge-day-2-recap-stlrapidblitz-0\"><img src=\"https://saintlouischessc",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-nepomniachtchi-surge-day-2-recap-stlrapidblitz-0",
-         "pubDate" : "Wed, 14 Aug 2024 21:02:37",
-         "title" : "Firouzja, Nepomniachtchi Surge! | Day 2 Recap #STLRapidBlitz"
-      },
-      {
-         "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
-         "pubDate" : "Wed, 14 Aug 2024 19:45:00",
-         "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
          "description" : "The three leaders from the day before remained in the same position after the final day of rapid chess in the 2024 Saint Louis Rapid &#38;amp; Blitz. GM Maxime Vachier-Lagrave won the last round to re-join the lead, while GM Alireza Firouzja drew and ...",
@@ -1000,14 +1000,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/us-juniors-seniors-2024",
          "pubDate" : "Thu, 25 Jul 2024 19:50:00",
          "title" : "US Senior and Junior Championships - Live!"
-      },
-      {
-         "description" : " The 57th Biel Chess Festival took place 13th to 26th July 2024. Le Quang Liem won the multipart event ahead of Haik Martirosyan and Praggnanandhaa Rameshbabu. Salem Saleh finished just ahead of Alexander Donchenko in the Challengers. Rinat Jumabayev overtook the previous leader Leon Luke Mendonca in the final round to take first place in the MTO. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/57th-biel-chess-festival-2024",
-         "pubDate" : "Thu, 25 Jul 2024 18:54:00",
-         "title" : "57th Biel Chess Festival 2024 - Games and Results"
       }
    ]
 }
