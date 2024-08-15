@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Day 5 of the Dortmund Chess Festival saw Elisabeth Paehtz and Dinara Wagner signing a third consecutive draw in their 6-game match. Meanwhile, in the A-Open, three players scored wins and are now tied for first place with 4&frac12;/5 points each: Anton Korobov, Luis Quesada and David Gavrilescu. | Photo: Dariusz Gorzinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d5",
+         "pubDate" : "Thu, 15 Aug 2024 13:00:00",
+         "title" : "Dortmund: Korobov, Quesada and Gavrilescu co-leaders in the A-Open"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3157",
+         "pubDate" : "Thu, 15 Aug 2024 11:00:54",
+         "title" : "FIDE World Championship 2024 Match to be held in Singapore at Resorts World Sentosa"
+      },
+      {
+         "description" : " The Tbilisi FIDE Women's Grand Prix takes place Wed 14th Aug to Sun 25th Aug 2024. Players: Anna Muzychuk, Mariya Muzychuk, Nana Dzagnidze, Rameshbabu Vaishali, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Alina Kashlinskaya, Bibisara Assaubayeva, Lela Javakhishvili and Stavroula Tsolakidou. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tbilisi-fide-womens-grand-prix-2024",
+         "pubDate" : "Thu, 15 Aug 2024 10:48:00",
+         "title" : "Tbilisi FIDE Women's Grand Prix 2024 - Games and Results"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3156",
+         "pubDate" : "Thu, 15 Aug 2024 08:31:30",
+         "title" : "All eyes on Tbilisi as the Women's Grand Prix spectacle begins"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin, plus playoffs if necessary. Join GMs Yasser Seirawan, Peter Svidler, &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
