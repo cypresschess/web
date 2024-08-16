@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "In an exciting seventh round, the A-Open in Dortmund saw IM Vadim Petrovskyi becoming the sole leader after obtaining an upset win over GM Christopher Yoo. A total of 11 players stand a half point back, though, as there are two more rounds to go at the 51st edition of the traditional chess festival. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d7",
+         "pubDate" : "Sat, 17 Aug 2024 01:00:00",
+         "title" : "Dortmund: Petrovskyi beats Yoo, takes the lead with two rounds to go"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin, plus playoffs if necessary. Join GMs Yasser Seirawan, Peter Svidler, &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-5-blitz-final-grandchesstour",
+         "pubDate" : "Fri, 16 Aug 2024 21:03:49",
+         "title" : "2024 Saint Louis Rapid & Blitz: Day 5, Blitz Final | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Saint Louis Rapid &amp; Blitz, as of before the final day. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-83-chance-win-final-blitz-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oDnWHFx2CtI.jpg?itok=8M",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-83-chance-win-final-blitz-d5-stlrapidblitz",
+         "pubDate" : "Fri, 16 Aug 2024 21:03:49",
+         "title" : "Firouzja 83% Chance to Win Before Final Blitz | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-us-took-me-when-i-changed-my-life-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K_UqteoGKII.jpg?itok=GQSzMnX9\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/dominguez-us-took-me-when-i-changed-my-life-stlrapidblitz",
+         "pubDate" : "Fri, 16 Aug 2024 21:03:49",
+         "title" : "Dominguez: The U.S. Took Me in When I Changed My Life | #STLRapidBlitz"
+      },
+      {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -74,6 +106,14 @@ news_feed (
          "title" : "Showdown in Cheating Scandal"
       },
       {
+         "description" : "GMs Vaishali Rameshbabu and Nana Dzagnidze both played the same line of the French Defense, and though their games diverged on move seven they both missed huge winning chances in round two of the 2024 Tbilisi FIDE Women&#39;s Grand Prix. All five game...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-2",
+         "pubDate" : "Fri, 16 Aug 2024 12:27:04",
+         "title" : "Vaishali, Dzagnidze Miss Wins In Tbilisi"
+      },
+      {
          "description" : "At 3 PM local time on August 15, Georgia has become the epicentre of the chess world for the next ten days, as elite women grandmasters embark on an intense competition that will extend into the coming year. The tournament is under way and can be watched live on the FIDE/Tblisi news page. It includes wonderfull photos by Anna Shtourman.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,7 +130,7 @@ news_feed (
          "title" : "European Youth Chess Championships 2024 start in Prague, Czech Republic"
       },
       {
-         "description" : " The ambitious American leads narrowly after four games in his five-day match against the England No 1, Nikita Vitiugov, which includes classical, rapid and blitz sections Hans Niemann, the controversial US 21-year-old, is in London this week as his \"Niemann v the World\" series against European grandmasters continues with a match against the England No 1 and former Russian, Nikita Vitiugov. Niemann won <a href=\"https://www.chessgames.com/perl/chessgame?gid=2752034\">their first classical game</a> on Wednesday morning in 48 moves, playing an impressive Anatoly Karpov style strategic attack. But in game two, after creating a winning position, he missed two easy tactical shots and had to settle ",
+         "description" : " The ambitious American leads narrowly after six games in his five-day match against the England No 1, Nikita Vitiugov, which includes classical, rapid and blitz sections Hans Niemann, the controversial US 21-year-old, is in London this week as his \"Niemann v the World\" series against European grandmasters continues with a match against the England No 1 and former Russian, Nikita Vitiugov. Niemann won <a href=\"https://www.chessgames.com/perl/chessgame?gid=2752034\">their first classical game</a> on Wednesday morning in 48 moves, playing an impressive Anatoly Karpov style strategic attack. But in game two, after creating a winning position, he missed two easy tactical shots and had to settle f",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/aug/16/chess-hans-niemann-closes-on-world-top-20-as-us-star-impresses-in-london",
@@ -144,30 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/firouzja-vs-aronian-battle-shirts-grandchesstour-chess-chesstactics-chesscom",
          "pubDate" : "Fri, 16 Aug 2024 03:03:26",
          "title" : "Firouzja vs Aronian: The Battle of the Shirts #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nepo maybe at the top of the leader board, but Hikaru thumps him for the win </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-defeated-hikaru-fashion-grandchesstour-chess-chesstactics-hikarunakamura-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/L8jOL7lOhoo.jpg?itok=V7A_PNnx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-defeated-hikaru-fashion-grandchesstour-chess-chesstactics-hikarunakamura-chesscom",
-         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
-         "title" : "Nepo Defeated In A Hikaru -fashion #grandchesstour #chess #chesstactics #hikarunakamura #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after going 5-1-3 on the first blitz day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-playing-good-chess-only-way-recover-d4-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jSG5Tp81arY.jpg?itok=Ou3-7gg6\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-playing-good-chess-only-way-recover-d4-stlrapidblitz",
-         "pubDate" : "Fri, 16 Aug 2024 00:03:21",
-         "title" : "Firouzja: Playing Good Chess is Only Way to Recover | D4 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 6-1-2 on the first blitz day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-all-about-form-momentum-d4-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OLvVvrciow8.jpg?itok=gviQ4WnI\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wesley-so-all-about-form-momentum-d4-stlrapidblitz",
-         "pubDate" : "Fri, 16 Aug 2024 00:03:21",
-         "title" : "Wesley So: All About Form & Momentum | D4 #STLRapidBlitz"
       },
       {
          "description" : "After 4 (out of 6) games in the match between Elisabeth Paehtz and Dinara Wagner, the confrontation remains drawn - the final 2 encounters will be played on Saturday and Sunday. Meanwhile, in the A-Open, there are 9 players tied for first place with 5/6 points each. Frederik Svane from Germany and Christopher Yoo from the USA (pictured) were 2 of the 6 players who joined the lead by scoring wins on Thursday. | Photos: Official website",
@@ -744,14 +760,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2024/",
          "pubDate" : "Tue, 06 Aug 2024 08:00:41",
          "title" : "Premier League Fantasy Football 2024"
-      },
-      {
-         "description" : "British tennis star Henry Patten, fresh off his Wimbledon doubles victory, opened up about his passion for chess in an exclusive interview with Chess.com and revealed the game has sharpened his mind and benefited his tennis career. Patten is a B...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/henry-patten-wimbleton-doubles-champion-deep-passion-for-chess",
-         "pubDate" : "Tue, 06 Aug 2024 07:45:00",
-         "title" : "Wimbledon Doubles Champion Henry Patten On His Deep Passion For Chess"
       },
       {
          "description" : "UP Sports Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination at Indra",
