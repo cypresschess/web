@@ -2,6 +2,70 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 4 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-catches-fire-day-4-recap-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/si",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-catches-fire-day-4-recap-stlrapidblitz",
+         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
+         "title" : "Firouzja Catches Fire | Day 4 Recap #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nodirbek with nothing to lose, tries to route Nepo in this rook and knight versus rook and bishop endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nodirbek-attempts-trounce-nepo-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eOecIqg4gYI.jpg?itok=dzRDLQxQ\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nodirbek-attempts-trounce-nepo-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
+         "title" : "Nodirbek Attempts To Trounce Nepo #grandchesstour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nepo welcomes Pragg to the big boys table with a rook and pawn endgame trick </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-endgame-rook-and-pawn-bluff-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lvOgE0HZDDo.jpg?itok=5VPkhRmv\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chess-endgame-rook-and-pawn-bluff-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
+         "title" : "Chess Endgame: Rook and Pawn - The Bluff #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The final moments of their game, Levon finds this cute tactic to defeat Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-finds-little-gem-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u2Gju24gfI8.jpg?itok=d471wuov\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/levon-finds-little-gem-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
+         "title" : "Levon Finds This Little Gem #grandchesstour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Both of these players win the best shirt award, but Levon&#039;s bishop on g2 is an all star! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-vs-aronian-battle-shirts-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VuREtsw2BRU.jpg?itok=KWsAJYoq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-vs-aronian-battle-shirts-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
+         "title" : "Firouzja vs Aronian: The Battle of the Shirts #grandchesstour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nepo maybe at the top of the leader board, but Hikaru thumps him for the win </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-defeated-hikaru-fashion-grandchesstour-chess-chesstactics-hikarunakamura-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/L8jOL7lOhoo.jpg?itok=V7A_PNnx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nepo-defeated-hikaru-fashion-grandchesstour-chess-chesstactics-hikarunakamura-chesscom",
+         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
+         "title" : "Nepo Defeated In A Hikaru -fashion #grandchesstour #chess #chesstactics #hikarunakamura #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after going 5-1-3 on the first blitz day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-playing-good-chess-only-way-recover-d4-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jSG5Tp81arY.jpg?itok=Ou3-7gg6\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-playing-good-chess-only-way-recover-d4-stlrapidblitz",
+         "pubDate" : "Fri, 16 Aug 2024 00:03:21",
+         "title" : "Firouzja: Playing Good Chess is Only Way to Recover | D4 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after going 6-1-2 on the first blitz day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-all-about-form-momentum-d4-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/OLvVvrciow8.jpg?itok=gviQ4WnI\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-all-about-form-momentum-d4-stlrapidblitz",
+         "pubDate" : "Fri, 16 Aug 2024 00:03:21",
+         "title" : "Wesley So: All About Form & Momentum | D4 #STLRapidBlitz"
+      },
+      {
          "description" : "After 4 (out of 6) games in the match between Elisabeth Paehtz and Dinara Wagner, the confrontation remains drawn - the final 2 encounters will be played on Saturday and Sunday. Meanwhile, in the A-Open, there are 9 players tied for first place with 5/6 points each. Frederik Svane from Germany and Christopher Yoo from the USA (pictured) were 2 of the 6 players who joined the lead by scoring wins on Thursday. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,14 +90,6 @@ news_feed (
          "title" : "Firouzja 55% Likely to Win the Whole Thing?! | D4 #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The ten players talk to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/most-fascinating-world-championship-match-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/qnn46D0ozhc.jpg?itok=QYTIbX9N\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/most-fascinating-world-championship-match-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 21:03:17",
-         "title" : "Most Fascinating World Championship Match? | #STLRapidBlitz"
-      },
-      {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -42,20 +98,20 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Maxime Vachier-Lagrave vs. Ian Nepomniachtchi from Rapid 7 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepos-brilliant-sacrifice-game-day-stlrapidblitz-0\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3_yCjoNuhKg.jpg?itok=2OizChjm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepos-brilliant-sacrifice-game-day-stlrapidblitz-0",
-         "pubDate" : "Thu, 15 Aug 2024 18:03:14",
-         "title" : "Nepo's Brilliant Sacrifice | Game of the Day #STLRapidBlitz"
-      },
-      {
          "description" : "The European Union Youth Chess Championships 2024 concluded in Roznov pod Radhostem, Czech Repubic. The last rounds were full of fights and tension. In category Boys U8 took the first place Han Nam Pham (FRA, 9 out of 9!), the second place Aaron-Mathias Dragoi (ROU) and the third Vojtech Vratny (CZE). In category Girls U8 took the first place Amanda Skytte (DEN), the second place Cassandre Itier (FRA) and the third Isis Bocquenet-Drouode (FRA). Champion EU in category Boys U10 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
          "link" : "https://www.europechess.org/european-union-youth-chess-championship-2024-concluded/",
          "pubDate" : "Thu, 15 Aug 2024 17:56:39",
          "title" : "European Union Youth Chess Championship 2024 concluded"
+      },
+      {
+         "description" : "GM Alireza Firouzja leads the 2024 Saint Louis Rapid &#38;amp; Blitz by a point and a half after the first nine rounds of blitz. Behind him is the top-scorer of the blitz portion, GM Wesley So, who scored 7/8, and GM Ian Nepomniachtchi, both on 16 poi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2024-day-4",
+         "pubDate" : "Thu, 15 Aug 2024 17:36:32",
+         "title" : "Firouzja Leads By 1.5 Points, Wesley So Scores Most Points In Blitz"
       },
       {
          "description" : "",
@@ -72,14 +128,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-3",
          "pubDate" : "Thu, 15 Aug 2024 15:34:36",
          "title" : "Eline Roebers Wins Play-In 3 Despite Competing From Train"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Maxime Vachier-Lagrave vs. Ian Nepomniachtchi from Rapid 7 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepos-brilliant-sacrifice-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3_yCjoNuhKg.jpg?itok=2OizChjm\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepos-brilliant-sacrifice-game-day-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 15:03:05",
-         "title" : "Nepo's Brilliant Sacrifice | Game of the Day #STLRapidBlitz"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112549567.cms\" />Indian Grandmaster R Praggnanandhaa struggled in the Rapid section of the Saint Louis Rapid and Blitz tournament, finishing last with a score of 4/18. He ended the day with three losses and three draws, including defeats by Lenier Dominguez and Hikaru Nakamura. The Rapid segment ended with Ian Nepomniachtchi, Maxime Vachier-Lagrave, and Alireza Firouzja tied at the top with 11 points each. The tournament moves to the Blitz section, where Praggnanandhaa needs a strong performance to improve his standings and potentially surpass D Gukesh in the Grand",
@@ -128,46 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ding-gukesh-world-chess-championship-venue-resorts-world-sentosa",
          "pubDate" : "Thu, 15 Aug 2024 06:55:00",
          "title" : "Ding-Gukesh World Championship Match Venue Announced"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin, plus playoffs if necessary. Join GMs Yasser Seirawan, Peter Svidler, &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-5-grandchesstour",
-         "pubDate" : "Thu, 15 Aug 2024 03:02:45",
-         "title" : "2024 Saint Louis Rapid & Blitz: Day 5 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 3 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-rises-then-falls-day-3-recap-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/si",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-rises-then-falls-day-3-recap-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 03:02:45",
-         "title" : "Nepo Rises, Then Falls | Day 3 Recap #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Levon Aronian talks to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 3. 2024.08.11<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/aronian%E2%80%99s-enthusiasm-usa-olympiad-team-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
-         "title" : "Aronian's Enthusiasm for USA Olympiad Team | #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich after defeating Vachier-Lagrave in Rapid 7 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepo-can%E2%80%99t-rest-after-mvl-victory-rapid-7-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/sG6TCJrY0z8.jpg?itok=5sGZCyqb\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-can%E2%80%99t-rest-after-mvl-victory-rapid-7-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
-         "title" : "Nepo Can't Rest after MVL Victory | Rapid 7 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The ten players talk to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 3. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-balance-chess-career-personal-life-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VSYaptr8-Xo.jpg?itok=8MJw85rJ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-balance-chess-career-personal-life-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 00:02:44",
-         "title" : "How to Balance Chess Career with Personal Life? | #STLRapidBlitz"
       },
       {
          "description" : "The 2024 Grand Chess Tour (GCT) is in the middle of its penultimate leg, with three days of rapid chess concluding Wednesday, August 14 at the Saint Louis Chess Club (SLCC). The first day of blitz games is currently underway, with the finale of the 2024 Saint Louis Rapid & Blitz event taking place Friday, August 16. The 2024 Sinquefield Cup, which concludes the 2024 GCT, begins on Monday, August 19.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
@@ -712,14 +720,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/first-black-uschess-president/",
          "pubDate" : "Mon, 05 Aug 2024 10:04:13",
          "title" : "First black USChess president"
-      },
-      {
-         "description" : "GM Magnus Carlsen-led WR Chess Team beat GM Arjun Erigaisi&#39;s Team MGD1 in the Final to win the 2024 World Blitz Team Championship. WR Chess won all seven matches in the group stages and cruised into the Quarterfinals. There they defeated GMHans.co...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-world-rapid-blitz-team-chess-championships-day-4",
-         "pubDate" : "Mon, 05 Aug 2024 07:55:00",
-         "title" : "Carlsen Leads WR Chess To World Blitz Team Championship Gold"
       },
       {
          "description" : "The final round of the 124th Annual U.S. Open went down to the wire in Norfolk, Virginia. With four players entering Sunday's games with 7/8 scores, it was anybody's guess who would win the championship. In the end, GMs Jianchao Zhou and Semen Khanin won their respective games over GMs Mackenzie Molner and Fidel Corrales.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Left: Mackenzie Molner (L) faces off against Jianchao Zhou, with Semen Khanin and Fidel Corrales behind them. R",
