@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
+         "pubDate" : "Fri, 16 Aug 2024 19:50:00",
+         "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3159",
+         "pubDate" : "Fri, 16 Aug 2024 18:15:35",
+         "title" : "WGP Tbilisi Round 2: A day of unexpected draws"
+      },
+      {
+         "description" : "Alireza Firouzja took the sole lead after the first day of blitz at the Saint Louis Rapid & Blitz tournament. The French representative goes into the final 9 rounds of 5-minute games with a 1&frac12;-point lead over Wesley So and Ian Nepomniachtchi. It was So who obtained the best score on Thursday, as he scored 7/9 points despite losing his round-12 encounter against Firouzja. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-4",
+         "pubDate" : "Fri, 16 Aug 2024 17:50:00",
+         "title" : "St. Louis Rapid & Blitz: Firouzja grabs the sole lead"
+      },
+      {
+         "description" : " FM Nathaniel Mathurin won the St. Lucia Chess Invitational, which attracted players from neighboring Dominica. Dominating the field with 9/9 and winning by a massive three points, Mathurin affirmed his position as the island's top player. He holds a FIDE rating of 1950. Justin James was second on 6/9. Kaieem Elizee and Sixtus Gabriel were The post <a href=\"https://www.thechessdrum.net/blog/2024/08/16/mathurin-wins-st-lucia-chess-invitational/\">Mathurin wins St. Lucia Chess Invitational!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
+         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
+         "iconName" : "The Chess<br>Drum",
+         "link" : "https://www.thechessdrum.net/blog/2024/08/16/mathurin-wins-st-lucia-chess-invitational/",
+         "pubDate" : "Fri, 16 Aug 2024 16:37:26",
+         "title" : "Mathurin wins St. Lucia Chess Invitational!"
+      },
+      {
+         "description" : "Please find live link here:https://live.tamilchess.com/24th-im-norm-chennai/",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-24th-tamil-nadu-im-tournament/",
+         "pubDate" : "Fri, 16 Aug 2024 15:53:45",
+         "title" : "Live Link for 24th Tamil Nadu IM Tournament"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (players below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-1-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defaul",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,7 +90,7 @@ news_feed (
          "title" : "European Youth Chess Championships 2024 start in Prague, Czech Republic"
       },
       {
-         "description" : " The ambitious American leads narrowly after four games in his five-day match against the England No 1, Nikita Vitiugov, which includes classical, rapid and blitz sections Hans Niemann, the controversial US 21-year-old, is in London this week as his \"Niemann v the World\" series against European grandmasters ­continues with a match against the England No 1 and former Russian, Nikita Vitiugov. Niemann won <a href=\"https://www.chessgames.com/perl/chessgame?gid=2752034\">their first classical game</a> on Wednesday morning in 48 moves, playing an impressive Anatoly Karpov style strategic attack. But in game two, after creating a winning position, he missed two easy tactical shots and had to settle",
+         "description" : " The ambitious American leads narrowly after four games in his five-day match against the England No 1, Nikita Vitiugov, which includes classical, rapid and blitz sections Hans Niemann, the controversial US 21-year-old, is in London this week as his \"Niemann v the World\" series against European grandmasters continues with a match against the England No 1 and former Russian, Nikita Vitiugov. Niemann won <a href=\"https://www.chessgames.com/perl/chessgame?gid=2752034\">their first classical game</a> on Wednesday morning in 48 moves, playing an impressive Anatoly Karpov style strategic attack. But in game two, after creating a winning position, he missed two easy tactical shots and had to settle ",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/aug/16/chess-hans-niemann-closes-on-world-top-20-as-us-star-impresses-in-london",
@@ -136,14 +176,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d6",
          "pubDate" : "Thu, 15 Aug 2024 22:30:00",
          "title" : "Dortmund: Svane and Yoo score, join the lead in A-Open"
-      },
-      {
-         "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
-         "pubDate" : "Thu, 15 Aug 2024 19:50:00",
-         "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
          "description" : "The European Union Youth Chess Championships 2024 concluded in Roznov pod Radhostem, Czech Repubic. The last rounds were full of fights and tension. In category Boys U8 took the first place Han Nam Pham (FRA, 9 out of 9!), the second place Aaron-Mathias Dragoi (ROU) and the third Vojtech Vratny (CZE). In category Girls U8 took the first place Amanda Skytte (DEN), the second place Cassandre Itier (FRA) and the third Isis Bocquenet-Drouode (FRA). Champion EU in category Boys U10 []",
@@ -302,7 +334,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/martinez-xiong-win-titled-tuesday-august-13-2024",
-         "pubDate" : "Wed, 14 Aug 2024 08:24:21",
+         "pubDate" : "Wed, 14 Aug 2024 08:24:00",
          "title" : "Martinez Wins Titled Tuesday, Next Stop: London"
       },
       {
@@ -976,14 +1008,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-22nd-tamil-nadu-im-tournament-starts-on-29th-july-2024/",
          "pubDate" : "Mon, 29 Jul 2024 10:01:27",
          "title" : "Live link for 22nd Tamil Nadu IM Tournament starts on 29th July 2024"
-      },
-      {
-         "description" : "On behalf of All India Chess Federation, All J &#38; K Chess Association is organized a Senior National Arbiters Seminar &#38; Exam from 20 to",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-at-jammu-on-20-21-july-2024/",
-         "pubDate" : "Mon, 29 Jul 2024 06:58:01",
-         "title" : "Final Report of Senior National Arbiter Seminar & Examination at Jammu on 20-21 July 2024"
       },
       {
          "description" : "",
