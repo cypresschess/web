@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The ambitious American leads narrowly after four games in his five-day match against the England No 1, Nikita Vitiugov, which includes classical, rapid and blitz sections Hans Niemann, the controversial US 21-year-old, is in London this week as his \"Niemann v the World\" series against European grandmasters ­continues with a match against the England No 1 and former Russian, Nikita Vitiugov. Niemann won <a href=\"https://www.chessgames.com/perl/chessgame?gid=2752034\">their first classical game</a> on Wednesday morning in 48 moves, playing an impressive Anatoly Karpov style strategic attack. But in game two, after creating a winning position, he missed two easy tactical shots and had to settle",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/aug/16/chess-hans-niemann-closes-on-world-top-20-as-us-star-impresses-in-london",
+         "pubDate" : "Fri, 16 Aug 2024 07:00:07",
+         "title" : "Chess: Hans Niemann closes on world top 20 as US star impresses in London"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championship-2024/",
+         "pubDate" : "Fri, 16 Aug 2024 06:00:30",
+         "title" : "English Women's Online Blitz Championship 2024"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 4 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-catches-fire-day-4-recap-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/si",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -110,7 +126,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2024-day-4",
-         "pubDate" : "Thu, 15 Aug 2024 17:36:32",
+         "pubDate" : "Thu, 15 Aug 2024 17:36:00",
          "title" : "Firouzja Leads By 1.5 Points, Wesley So Scores Most Points In Blitz"
       },
       {
@@ -142,7 +158,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-1",
-         "pubDate" : "Thu, 15 Aug 2024 14:08:36",
+         "pubDate" : "Thu, 15 Aug 2024 14:08:00",
          "title" : "Assaubayeva, Tsolakidou Win As Muzychuk Sisters Improve On Nakamura-Vidit"
       },
       {
@@ -922,14 +938,6 @@ news_feed (
          "title" : "Ding and Carlsen meet in Kazakhstan for the World Rapid and Blitz Team Championship: Everything you need to know"
       },
       {
-         "description" : "The successful candidates for Bronze Direct Members' Representatives 2024 were JC Le Saux and Tina Teotia.",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/dmr-election-results-bronze-members-reps/",
-         "pubDate" : "Tue, 30 Jul 2024 07:15:14",
-         "title" : "DMR election results - Bronze members' reps!"
-      },
-      {
          "description" : "Please find the live link for 22nd Tamil Nadu IM norm tournament starts on 29th July 2024. Live Link : https://live.tamilchess.com/22nd-im-norm-chennai/",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -984,14 +992,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3129",
          "pubDate" : "Fri, 26 Jul 2024 12:23:01",
          "title" : "U.S. Championships: Akopian, Lee and Yoo clinch titles"
-      },
-      {
-         "description" : " The 33-year-old won the online CrunchLabs Masters, defeating Firouzja in the final, after previously eliminating the world No 1, Magnus Carlsen Maxime Vachier-Lagrave won the $300,000 CrunchLabs Masters, part of the &pound;1.7m online Champions Tour, when the Lyon 33-year-old defeated his French compatriot Alireza Firouzja in the final after previously eliminating the world No 1, Magnus Carlsen. He actually beat Firouzja twice, the first time by 2.5-0.5 and then by 3-2 after the former Iranian qualified for a rematch. Carlsen, whose mother, Sigrun Ã˜en, died at 61 earlier this month, lost 2.5-1.5 in the semi-final to Vachier-Lagrave, who has now eliminated the Norwegian three times in two C",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/jul/26/chess-vachier-lagrave-wins-300000-event-while-firouzja-loses-in-nine-moves",
-         "pubDate" : "Fri, 26 Jul 2024 07:00:44",
-         "title" : "Chess: Vachier-Lagrave wins $300,000 event while Firouzja loses in nine moves"
       }
    ]
 }
