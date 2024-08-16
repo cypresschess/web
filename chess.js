@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "At 3 PM local time on August 15, Georgia has become the epicentre of the chess world for the next ten days, as elite women grandmasters embark on an intense competition that will extend into the coming year. The tournament is under way and can be watched live on the FIDE/Tblisi news page. It includes wonderfull photos by Anna Shtourman.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/tbilisi-women-s-grand-prix-spectacle",
+         "pubDate" : "Fri, 16 Aug 2024 11:38:40",
+         "title" : "Tbilisi Women's Grand Prix spectacle"
+      },
+      {
+         "description" : "Everything is set for European Youth Rapid, Blitz and Classical Chess Championships 2024 which start tomorrow in Prague, Czech Republic. The first event on the schedule is European Youth Rapid Chess Championship 2024, being played from 17-18 August. The event is played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each section will have 9 rounds played according to the swiss system, with the time control of 15 minutes + 10 seconds []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championships-2024-start-in-prague-czech-republic/",
+         "pubDate" : "Fri, 16 Aug 2024 08:48:15",
+         "title" : "European Youth Chess Championships 2024 start in Prague, Czech Republic"
+      },
+      {
          "description" : " The ambitious American leads narrowly after four games in his five-day match against the England No 1, Nikita Vitiugov, which includes classical, rapid and blitz sections Hans Niemann, the controversial US 21-year-old, is in London this week as his \"Niemann v the World\" series against European grandmasters ­continues with a match against the England No 1 and former Russian, Nikita Vitiugov. Niemann won <a href=\"https://www.chessgames.com/perl/chessgame?gid=2752034\">their first classical game</a> on Wednesday morning in 48 moves, playing an impressive Anatoly Karpov style strategic attack. But in game two, after creating a winning position, he missed two easy tactical shots and had to settle",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
