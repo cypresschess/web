@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (players below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-1-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defaul",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-1-grandchesstour",
+         "pubDate" : "Fri, 16 Aug 2024 15:03:49",
+         "title" : "2024 Sinquefield Cup: Round 1 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Alireza Firouzja vs. Wesley So from Blitz 3 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/winning-it-twice-firouzja-vs-so-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/71OrZUlmgWQ.jpg?itok=81zCHA-f\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/winning-it-twice-firouzja-vs-so-game-day-stlrapidblitz",
+         "pubDate" : "Fri, 16 Aug 2024 15:03:49",
+         "title" : "Winning It... Twice? Firouzja vs. So | Game of the Day #STLRapidBlitz"
+      },
+      {
+         "description" : " The 11th Sinquefield Cup takes place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/11th-sinquefield-cup-2024",
+         "pubDate" : "Fri, 16 Aug 2024 14:56:00",
+         "title" : "11th Sinquefield Cup 2024 - Games and Results"
+      },
+      {
+         "description" : "Recently, chess has been dogged by allegations of cheating, by some of the world's best players. Promising the showdown to end all showdowns, World Chess has organised a rematch between grandmasters Vladimir Kramnik and Jos&eacute; Mart&iacute;nez Alc&aacute;ntara, after their initial high-stakes game in Madrid earlier this year led to an inconclusive outcome. The highly anticipated rematch to be held in London from August 19-21, dubbed 'Clash of Blames,' will take place in person and on a state-of-the-art platform, which features an innovative anti-cheating engine endorsed by FIDE, ensuring no room for doubt or deception.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/showdown-in-cheating-scandal",
+         "pubDate" : "Fri, 16 Aug 2024 14:00:00",
+         "title" : "Showdown in Cheating Scandal"
+      },
+      {
          "description" : "At 3 PM local time on August 15, Georgia has become the epicentre of the chess world for the next ten days, as elite women grandmasters embark on an intense competition that will extend into the coming year. The tournament is under way and can be watched live on the FIDE/Tblisi news page. It includes wonderfull photos by Anna Shtourman.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -104,22 +136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d6",
          "pubDate" : "Thu, 15 Aug 2024 22:30:00",
          "title" : "Dortmund: Svane and Yoo score, join the lead in A-Open"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 4. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-have-win-both-stl-events-win-gct-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/X98vBBAtY_s.jpg?itok=PgQpzL-r\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-have-win-both-stl-events-win-gct-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 21:03:17",
-         "title" : "Firouzja: Have to Win Both STL Events to Win GCT | #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Saint Louis Rapid &amp; Blitz, after all nine rapid rounds. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-55-likely-win-whole-thing-d4-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/g20CM4oy2sM.jpg?itok=0",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-55-likely-win-whole-thing-d4-stlrapidblitz",
-         "pubDate" : "Thu, 15 Aug 2024 21:03:17",
-         "title" : "Firouzja 55% Likely to Win the Whole Thing?! | D4 #STLRapidBlitz"
       },
       {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -238,7 +254,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-2",
-         "pubDate" : "Wed, 14 Aug 2024 13:55:32",
+         "pubDate" : "Wed, 14 Aug 2024 13:55:00",
          "title" : "IM Mai Narva Wins WSCC Play-In 2 Convincingly"
       },
       {
@@ -1000,14 +1016,6 @@ news_feed (
          "link" : "https://www.thearticle.com/a-lilliputian-world-championship/",
          "pubDate" : "Sat, 27 Jul 2024 10:13:08",
          "title" : "A Lilliputian world championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3129",
-         "pubDate" : "Fri, 26 Jul 2024 12:23:01",
-         "title" : "U.S. Championships: Akopian, Lee and Yoo clinch titles"
       }
    ]
 }
