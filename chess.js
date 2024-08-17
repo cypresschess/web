@@ -10,6 +10,14 @@ news_feed (
          "title" : "Niemann goes into rapid section with a 3-point lead over Vitiugov"
       },
       {
+         "description" : "Please find the Live Link for National championship 2024 held in Gurugram Haryana from 17-27 August 2024 https://view.livechesscloud.com/#39d8f1e8-96d1-4ea7-a6d5-2c5748b3b7a3",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/live-link-for-national-championship-2024/",
+         "pubDate" : "Sat, 17 Aug 2024 08:05:31",
+         "title" : "Live Link for National Championship 2024"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja is presented the Saint Louis Rapid &amp; Blitz cup by Saint Louis Chess Club Co-Founder Rex Sinquefield and chats with Cristian Chirila after winning the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-firouzja-2-time-champion-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MvDAKK9taCg.jpg?itok=103EFr4g",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -32,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d7",
          "pubDate" : "Sat, 17 Aug 2024 01:00:00",
          "title" : "Dortmund: Petrovskyi beats Yoo, takes the lead with two rounds to go"
+      },
+      {
+         "description" : "IM Anastasia Bodnaruk emerged as the winner of the fourth and final Play-In tournament for the 2024 Julius Baer Women&#39;s Speed Chess Championship in what turned out to be the most exciting and memorable of all the qualifiers. Bodnaruk defeated Azer...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-4",
+         "pubDate" : "Sat, 17 Aug 2024 00:51:33",
+         "title" : "Bodnaruk Wins Play-In 4 Despite Great Fightbacks By Ismayil"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Players arrive and sign autographs before the final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
@@ -184,6 +200,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/tbilisi-women-s-grand-prix-spectacle",
          "pubDate" : "Fri, 16 Aug 2024 11:38:40",
          "title" : "Tbilisi Women's Grand Prix spectacle"
+      },
+      {
+         "description" : " The Saint Louis Rapid & Blitz TOOK place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acted as a curtain raiser for the Sinquefield Cup which starts on the 18th. Alireza Firouzja won the event and took the lead of the Grand Chess Tour from Fabiano Caruana going into the final round. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2024",
+         "pubDate" : "Fri, 16 Aug 2024 09:33:00",
+         "title" : "Saint Louis Rapid & Blitz 2024 - Games and Results"
       },
       {
          "description" : "Everything is set for European Youth Rapid, Blitz and Classical Chess Championships 2024 which start tomorrow in Prague, Czech Republic. The first event on the schedule is European Youth Rapid Chess Championship 2024, being played from 17-18 August. The event is played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each section will have 9 rounds played according to the swiss system, with the time control of 15 minutes + 10 seconds []",
@@ -490,14 +514,6 @@ news_feed (
          "title" : "FIDE takes disciplinary action against IM for postal harassment of multiple female chess players"
       },
       {
-         "description" : " The Saint Louis Rapid & Blitz takes place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acts as a curtain raiser for the Sinquefield Cup which starts on the 18th. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2024",
-         "pubDate" : "Mon, 12 Aug 2024 09:33:00",
-         "title" : "Saint Louis Rapid & Blitz 2024 - Games and Results"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -672,14 +688,6 @@ news_feed (
          "link" : "https://aicf.in/shortlisted-candidates-head-of-operations/",
          "pubDate" : "Wed, 07 Aug 2024 15:53:59",
          "title" : "Shortlisted Candidates: Head of Operations"
-      },
-      {
-         "description" : "A chess player has been suspended by the Russian Chess Federation and is reportedly facing time in jail after she allegedly tried to poison her rival at the chessboard during a tournament. Amina Abakarova, a 40-year-old chess coach from Makhachk...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/russian-chess-player-suspended-after-allegedly-poisoning-her-rival",
-         "pubDate" : "Wed, 07 Aug 2024 14:47:00",
-         "title" : "Chess Player Suspended After Allegedly Poisoning Her Rival"
       },
       {
          "description" : "",
@@ -1018,14 +1026,6 @@ news_feed (
          "title" : "Ding and Carlsen meet in Kazakhstan for the World Rapid and Blitz Team Championship: Everything you need to know"
       },
       {
-         "description" : "Please find the live link for 22nd Tamil Nadu IM norm tournament starts on 29th July 2024. Live Link : https://live.tamilchess.com/22nd-im-norm-chennai/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-link-for-22nd-tamil-nadu-im-tournament-starts-on-29th-july-2024/",
-         "pubDate" : "Mon, 29 Jul 2024 10:01:27",
-         "title" : "Live link for 22nd Tamil Nadu IM Tournament starts on 29th July 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1048,14 +1048,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/little-experiments/",
          "pubDate" : "Sat, 27 Jul 2024 12:54:00",
          "title" : "Little experiments make things fun"
-      },
-      {
-         "description" : "The Germans have an impressively lapidary way of describing historical battles. Whereas in English we would describe the disaster which overwhelmed the legions of the Roman general Varus in 15AD, as the Battle of the Teutoberger Forest, the neat German expression is Die Hermannschlacht (\"Hermann's battle\"). This formulation honours the Teutonic tribal chieftain Arminius (aka Hermann), who caused the Emperor []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/a-lilliputian-world-championship/",
-         "pubDate" : "Sat, 27 Jul 2024 10:13:08",
-         "title" : "A Lilliputian world championship"
       }
    ]
 }
