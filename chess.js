@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "After 6 classical games, Hans Niemann has a 3-point lead over Nikita Vitiugov in their 5-day match taking place in London. Niemann won the first game and the remaining 5 encounters finished drawn - though there was no lack of fighting spirit. Saturday will see the protagonists playing 6 rapid games, while the event will end with 12 blitz games set to take place on Sunday. | Photo: Frans Peeters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-vitiugov-match-2024-d3",
+         "pubDate" : "Sat, 17 Aug 2024 08:25:00",
+         "title" : "Niemann goes into rapid section with a 3-point lead over Vitiugov"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja is presented the Saint Louis Rapid &amp; Blitz cup by Saint Louis Chess Club Co-Founder Rex Sinquefield and chats with Cristian Chirila after winning the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-firouzja-2-time-champion-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MvDAKK9taCg.jpg?itok=103EFr4g",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -106,12 +114,12 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
-         "description" : "IM Levy Rozman, also known as &#34;GothamChess&#34; has taken another step towards the GM title after playing in the Spilimbergo Open and scoring 6/9. While Rozman&#39;s 2370 rating performance saw him break even in terms of points, a win over GM Alberto Davi...",
+         "description" : "IM Levy Rozman, also known as &#34;GothamChess,&#34; has taken another step towards the GM title after playing in the Spilimbergo Open and scoring 6/9. While Rozman&#39;s 2370 rating performance saw him break even in terms of points, a win over GM Alberto Dav...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/rozman-continues-journey-to-gm-at-spilimbergo-masters-addresses-misogyny",
-         "pubDate" : "Fri, 16 Aug 2024 19:21:29",
-         "title" : "Rozman Defeats GM At Spilimbergo Masters, Addresses Misogyny In Chess"
+         "pubDate" : "Fri, 16 Aug 2024 19:21:00",
+         "title" : "Rozman Defeats GM At Spilimbergo Open, Addresses Misogyny In Chess"
       },
       {
          "description" : "",
