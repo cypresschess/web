@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja is presented the Saint Louis Rapid &amp; Blitz cup by Saint Louis Chess Club Co-Founder Rex Sinquefield and chats with Cristian Chirila after winning the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-firouzja-2-time-champion-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MvDAKK9taCg.jpg?itok=103EFr4g",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alireza-firouzja-2-time-champion-d5-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 03:04:08",
+         "title" : "Alireza Firouzja: 2-Time Champion | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 5 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-clinches-victory-day-5-recap-stlrapidblitz\"><img src=\"https://saintlouischessclub.or",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-clinches-victory-day-5-recap-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 03:04:08",
+         "title" : "Firouzja Clinches Victory | Day 5 Recap #STLRapidBlitz"
+      },
+      {
          "description" : "In an exciting seventh round, the A-Open in Dortmund saw IM Vadim Petrovskyi becoming the sole leader after obtaining an upset win over GM Christopher Yoo. A total of 11 players stand a half point back, though, as there are two more rounds to go at the 51st edition of the traditional chess festival. | Photos: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,28 +26,76 @@ news_feed (
          "title" : "Dortmund: Petrovskyi beats Yoo, takes the lead with two rounds to go"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 8th Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. Today is the final blitz round robin, plus playoffs if necessary. Join GMs Yasser Seirawan, Peter Svidler, &amp; Cristian Chirila, and IM Nazi Paikidze for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=",
+         "description" : "<div class=\"body text-secondary\"> Players arrive and sign autographs before the final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-saint-louis-rapid-blitz-day-5-blitz-final-grandchesstour",
-         "pubDate" : "Fri, 16 Aug 2024 21:03:49",
-         "title" : "2024 Saint Louis Rapid & Blitz: Day 5, Blitz Final | #GrandChessTour"
+         "link" : "https://saintlouischessclub.org/blog/player-arrival-fabiano-caruana-d5-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
+         "title" : "PLAYER ARRIVAL: Fabiano Caruana | D5 #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Saint Louis Rapid &amp; Blitz, as of before the final day. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-83-chance-win-final-blitz-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/oDnWHFx2CtI.jpg?itok=8M",
+         "description" : "<div class=\"body text-secondary\"> Players arrive and sign autographs before the final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-83-chance-win-final-blitz-d5-stlrapidblitz",
-         "pubDate" : "Fri, 16 Aug 2024 21:03:49",
-         "title" : "Firouzja 83% Chance to Win Before Final Blitz | D5 #STLRapidBlitz"
+         "link" : "https://saintlouischessclub.org/blog/player-arrival-family-man-leinier-dominguez-d5-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
+         "title" : "PLAYER ARRIVAL: Family Man Leinier Dominguez | D5 #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez talks to Anastasiya Karlovich before the 2024 Saint Louis Rapid &amp; Blitz. This aired on Day 5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-us-took-me-when-i-changed-my-life-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/K_UqteoGKII.jpg?itok=GQSzMnX9\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Leinier Dominguez's son watches his dad play Alireza Firouzja on the final day of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watching-dad-play-firouzja-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/R7uozs3xnRY.jpg?itok=0vVaeQ4O\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-us-took-me-when-i-changed-my-life-stlrapidblitz",
-         "pubDate" : "Fri, 16 Aug 2024 21:03:49",
-         "title" : "Dominguez: The U.S. Took Me in When I Changed My Life | #STLRapidBlitz"
+         "link" : "https://saintlouischessclub.org/blog/watching-dad-play-firouzja-d5-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
+         "title" : "Watching Dad Play Firouzja! | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"f",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nakamura-vs-nepomniachtchi-d5-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
+         "title" : "Nakamura vs. Nepomniachtchi | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Players arrive and sign autographs before the final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/player-arrival-ian-nepomniachtchi-d5-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
+         "title" : "PLAYER ARRIVAL: Ian Nepomniachtchi | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Players arrive and sign autographs before the final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/player-arrival-r-praggnanandhaa-d5-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
+         "title" : "PLAYER ARRIVAL: R Praggnanandhaa | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Players arrive and sign autographs before the final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/too-many-selfies-r-praggnanandhaa-d5-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
+         "title" : "TOO MANY SELFIES: R Praggnanandhaa | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Players arrive and sign autographs before the final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/player-arrival-nakamura-mvl-d5-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
+         "title" : "PLAYER ARRIVAL: Nakamura & MVL | D5 #STLRapidBlitz"
+      },
+      {
+         "description" : "GM Alireza Firouzja captured first with two rounds to spare at the 2024 Saint Louis Rapid &#38;amp; Blitz on Friday. Leading the event during the entire last day, his victory was never in doubt, echoing his convincing performance at the same tournamen...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2024-day-5-firouzja-wins",
+         "pubDate" : "Fri, 16 Aug 2024 20:05:00",
+         "title" : "Firouzja Wins STL Rapid & Blitz, Seizes GCT Lead From Caruana"
       },
       {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -40,6 +104,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-live",
          "pubDate" : "Fri, 16 Aug 2024 19:50:00",
          "title" : "St. Louis Rapid & Blitz - Live!"
+      },
+      {
+         "description" : "IM Levy Rozman, also known as &#34;GothamChess&#34; has taken another step towards the GM title after playing in the Spilimbergo Open and scoring 6/9. While Rozman&#39;s 2370 rating performance saw him break even in terms of points, a win over GM Alberto Davi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/rozman-continues-journey-to-gm-at-spilimbergo-masters-addresses-misogyny",
+         "pubDate" : "Fri, 16 Aug 2024 19:21:29",
+         "title" : "Rozman Defeats GM At Spilimbergo Masters, Addresses Misogyny In Chess"
       },
       {
          "description" : "",
@@ -72,22 +144,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-24th-tamil-nadu-im-tournament/",
          "pubDate" : "Fri, 16 Aug 2024 15:53:45",
          "title" : "Live Link for 24th Tamil Nadu IM Tournament"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (players below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-1-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defaul",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-1-grandchesstour",
-         "pubDate" : "Fri, 16 Aug 2024 15:03:49",
-         "title" : "2024 Sinquefield Cup: Round 1 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Alireza Firouzja vs. Wesley So from Blitz 3 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/winning-it-twice-firouzja-vs-so-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/71OrZUlmgWQ.jpg?itok=81zCHA-f\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/winning-it-twice-firouzja-vs-so-game-day-stlrapidblitz",
-         "pubDate" : "Fri, 16 Aug 2024 15:03:49",
-         "title" : "Winning It... Twice? Firouzja vs. So | Game of the Day #STLRapidBlitz"
       },
       {
          "description" : " The 11th Sinquefield Cup takes place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren.",
@@ -144,46 +200,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championship-2024/",
          "pubDate" : "Fri, 16 Aug 2024 06:00:30",
          "title" : "English Women's Online Blitz Championship 2024"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 4 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-catches-fire-day-4-recap-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/si",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-catches-fire-day-4-recap-stlrapidblitz",
-         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
-         "title" : "Firouzja Catches Fire | Day 4 Recap #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nodirbek with nothing to lose, tries to route Nepo in this rook and knight versus rook and bishop endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nodirbek-attempts-trounce-nepo-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eOecIqg4gYI.jpg?itok=dzRDLQxQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nodirbek-attempts-trounce-nepo-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
-         "title" : "Nodirbek Attempts To Trounce Nepo #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nepo welcomes Pragg to the big boys table with a rook and pawn endgame trick </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chess-endgame-rook-and-pawn-bluff-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lvOgE0HZDDo.jpg?itok=5VPkhRmv\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chess-endgame-rook-and-pawn-bluff-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
-         "title" : "Chess Endgame: Rook and Pawn - The Bluff #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The final moments of their game, Levon finds this cute tactic to defeat Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-finds-little-gem-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/u2Gju24gfI8.jpg?itok=d471wuov\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/levon-finds-little-gem-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
-         "title" : "Levon Finds This Little Gem #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Both of these players win the best shirt award, but Levon&#039;s bishop on g2 is an all star! </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-vs-aronian-battle-shirts-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VuREtsw2BRU.jpg?itok=KWsAJYoq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-vs-aronian-battle-shirts-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Fri, 16 Aug 2024 03:03:26",
-         "title" : "Firouzja vs Aronian: The Battle of the Shirts #grandchesstour #chess #chesstactics #chesscom"
       },
       {
          "description" : "After 4 (out of 6) games in the match between Elisabeth Paehtz and Dinara Wagner, the confrontation remains drawn - the final 2 encounters will be played on Saturday and Sunday. Meanwhile, in the A-Open, there are 9 players tied for first place with 5/6 points each. Frederik Svane from Germany and Christopher Yoo from the USA (pictured) were 2 of the 6 players who joined the lead by scoring wins on Thursday. | Photos: Official website",
@@ -674,14 +690,6 @@ news_feed (
          "title" : "Shreyas Royal on the BBC!"
       },
       {
-         "description" : "GM Magnus Carlsen scored a perfect 11/11 in the late Titled Tuesday on August 6, the first flawless Titled Tuesday of the year and overshadowing GM Hikaru Nakamura&#39;s earlier win out of a four-way tie on 9.5 points.&#38;nbsp;It was Carlsen&#39;s second 11/...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-carlsen-win-titled-tuesday-august-6-2024",
-         "pubDate" : "Wed, 07 Aug 2024 08:43:04",
-         "title" : "Quintessential Magnus Perfects Titled Tuesday Again"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -728,14 +736,6 @@ news_feed (
          "link" : "https://www.europechess.org/eu-youth-chess-championship-2024-commenced-in-czech-republic/",
          "pubDate" : "Tue, 06 Aug 2024 15:14:11",
          "title" : "EU Youth Chess Championship 2024 commenced in Czech Republic"
-      },
-      {
-         "description" : "GM Alireza Firouzja defeated GM Fabiano Caruana in the first quarterfinal match of the Speed Chess Championship 2024 with an overwhelming score of 14.5-8.5. He is the first player to qualify for the Semifinals that will be held live in Paris. Th...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-caruana-firouzja",
-         "pubDate" : "Tue, 06 Aug 2024 14:02:00",
-         "title" : "Firouzja Scores Nearly Double Caruana, Qualifies For Paris Semifinals"
       },
       {
          "description" : "Please find live link for 23rd Tamil Nadu IM norm tournament starts on 6th Aug 2024. Live Link :&#160;https://live.tamilchess.com/23rd-im-norm-chennai/",
