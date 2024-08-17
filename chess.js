@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3161",
+         "pubDate" : "Sat, 17 Aug 2024 18:03:23",
+         "title" : "Vaishali Rameshbabu is the only winner in Round 3 of the Women's Grand Prix"
+      },
+      {
+         "description" : "Despite losing 2 of his 4 final games, Alireza Firouzja claimed overall victory at the Saint Louis Rapid & Blitz tournament with two rounds to spare. The Iranian-born prodigy, now representing France, finished the tournament with 23/36 points, outscoring Wesley So by 3 points and Hikaru Nakamura by 3&frac12; points. Firouzja leapfrogged Fabiano Caruana atop the standings of the Grand Chess Tour. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-5",
+         "pubDate" : "Sat, 17 Aug 2024 18:00:00",
+         "title" : "With two rounds to spare: Firouzja bags Saint Louis Rapid & Blitz"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112594292.cms\" />R Praggnanandhaa, an Indian Grandmaster, showcased a better performance in the blitz portion of the Saint Louis Rapid and Blitz tournament, but it was not sufficient to prevent him from securing the last position.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-r-praggnanandhaa-finishes-last-firouzja-wins-saint-louis-leg/articleshow/112594292.cms",
+         "pubDate" : "Sat, 17 Aug 2024 16:09:04",
+         "title" : "Grand Chess Tour: R Praggnanandhaa finishes last, Firouzja wins Saint Louis leg"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Hikaru Nakamura vs. Ian Nepomniachtchi from Blitz 12 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru%E2%80%99s-smooth-technique-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Y0e-yRwhud8.jpg?itok=61ipD6sd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/hikaru%E2%80%99s-smooth-technique-game-day-stlrapidblitz",
+         "pubDate" : "Sat, 17 Aug 2024 15:04:36",
+         "title" : "Hikaru's Smooth Technique | Game of the Day #STLRapidBlitz"
+      },
+      {
          "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,14 +66,6 @@ news_feed (
          "title" : "Why system openings are bad for black"
       },
       {
-         "description" : "After 6 classical games, Hans Niemann has a 3-point lead over Nikita Vitiugov in their 5-day match taking place in London. Niemann won the first game and the remaining 5 encounters finished drawn - though there was no lack of fighting spirit. Saturday will see the protagonists playing 6 rapid games, while the event will end with 12 blitz games set to take place on Sunday. | Photo: Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-vitiugov-match-2024-d3",
-         "pubDate" : "Sat, 17 Aug 2024 08:25:00",
-         "title" : "Niemann goes into rapid section with a 3-point lead over Vitiugov"
-      },
-      {
          "description" : "Please find the Live Link for National championship 2024 held in Gurugram Haryana from 17-27 August 2024 https://view.livechesscloud.com/#39d8f1e8-96d1-4ea7-a6d5-2c5748b3b7a3",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -64,14 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/firouzja-clinches-victory-day-5-recap-stlrapidblitz",
          "pubDate" : "Sat, 17 Aug 2024 03:04:08",
          "title" : "Firouzja Clinches Victory | Day 5 Recap #STLRapidBlitz"
-      },
-      {
-         "description" : "In an exciting seventh round, the A-Open in Dortmund saw IM Vadim Petrovskyi becoming the sole leader after obtaining an upset win over GM Christopher Yoo. A total of 11 players stand a half point back, though, as there are two more rounds to go at the 51st edition of the traditional chess festival. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d7",
-         "pubDate" : "Sat, 17 Aug 2024 01:00:00",
-         "title" : "Dortmund: Petrovskyi beats Yoo, takes the lead with two rounds to go"
       },
       {
          "description" : "IM Anastasia Bodnaruk emerged as the winner of the fourth and final Play-In tournament for the 2024 Julius Baer Women&#39;s Speed Chess Championship in what turned out to be the most exciting and memorable of all the qualifiers. Bodnaruk defeated Azer...",
@@ -138,14 +154,6 @@ news_feed (
          "title" : "TOO MANY SELFIES: R Praggnanandhaa | D5 #STLRapidBlitz"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Players arrive and sign autographs before the final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/player-arrival-nakamura-mvl-d5-stlrapidblitz",
-         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
-         "title" : "PLAYER ARRIVAL: Nakamura & MVL | D5 #STLRapidBlitz"
-      },
-      {
          "description" : "GM Alireza Firouzja captured first with two rounds to spare at the 2024 Saint Louis Rapid &#38;amp; Blitz on Friday. Leading the event during the entire last day, his victory was never in doubt, echoing his convincing performance at the same tournamen...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -178,14 +186,6 @@ news_feed (
          "title" : "WGP Tbilisi Round 2: A day of unexpected draws"
       },
       {
-         "description" : "Alireza Firouzja took the sole lead after the first day of blitz at the Saint Louis Rapid & Blitz tournament. The French representative goes into the final 9 rounds of 5-minute games with a 1&frac12;-point lead over Wesley So and Ian Nepomniachtchi. It was So who obtained the best score on Thursday, as he scored 7/9 points despite losing his round-12 encounter against Firouzja. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-4",
-         "pubDate" : "Fri, 16 Aug 2024 17:50:00",
-         "title" : "St. Louis Rapid & Blitz: Firouzja grabs the sole lead"
-      },
-      {
          "description" : " FM Nathaniel Mathurin won the St. Lucia Chess Invitational, which attracted players from neighboring Dominica. Dominating the field with 9/9 and winning by a massive three points, Mathurin affirmed his position as the island's top player. He holds a FIDE rating of 1950. Justin James was second on 6/9. Kaieem Elizee and Sixtus Gabriel were The post <a href=\"https://www.thechessdrum.net/blog/2024/08/16/mathurin-wins-st-lucia-chess-invitational/\">Mathurin wins St. Lucia Chess Invitational!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -210,28 +210,12 @@ news_feed (
          "title" : "11th Sinquefield Cup 2024 - Games and Results"
       },
       {
-         "description" : "Recently, chess has been dogged by allegations of cheating, by some of the world's best players. Promising the showdown to end all showdowns, World Chess has organised a rematch between grandmasters Vladimir Kramnik and Jos&eacute; Mart&iacute;nez Alc&aacute;ntara, after their initial high-stakes game in Madrid earlier this year led to an inconclusive outcome. The highly anticipated rematch to be held in London from August 19-21, dubbed 'Clash of Blames,' will take place in person and on a state-of-the-art platform, which features an innovative anti-cheating engine endorsed by FIDE, ensuring no room for doubt or deception.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/showdown-in-cheating-scandal",
-         "pubDate" : "Fri, 16 Aug 2024 14:00:00",
-         "title" : "Showdown in Cheating Scandal"
-      },
-      {
          "description" : "GMs Vaishali Rameshbabu and Nana Dzagnidze both played the same line of the French Defense, and though their games diverged on move seven they both missed huge winning chances in round two of the 2024 Tbilisi FIDE Women&#39;s Grand Prix. All five game...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-2",
          "pubDate" : "Fri, 16 Aug 2024 12:27:04",
          "title" : "Vaishali, Dzagnidze Miss Wins In Tbilisi"
-      },
-      {
-         "description" : "At 3 PM local time on August 15, Georgia has become the epicentre of the chess world for the next ten days, as elite women grandmasters embark on an intense competition that will extend into the coming year. The tournament is under way and can be watched live on the FIDE/Tblisi news page. It includes wonderfull photos by Anna Shtourman.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/tbilisi-women-s-grand-prix-spectacle",
-         "pubDate" : "Fri, 16 Aug 2024 11:38:40",
-         "title" : "Tbilisi Women's Grand Prix spectacle"
       },
       {
          "description" : " The Saint Louis Rapid & Blitz took place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acted as a curtain raiser for the Sinquefield Cup which starts on the 18th. Alireza Firouzja won the event and took the lead of the Grand Chess Tour from Fabiano Caruana with the Sinquefield Cup to finish this year's series. ",
@@ -264,14 +248,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/english-womens-online-blitz-championship-2024/",
          "pubDate" : "Fri, 16 Aug 2024 06:00:30",
          "title" : "English Women's Online Blitz Championship 2024"
-      },
-      {
-         "description" : "After 4 (out of 6) games in the match between Elisabeth Paehtz and Dinara Wagner, the confrontation remains drawn - the final 2 encounters will be played on Saturday and Sunday. Meanwhile, in the A-Open, there are 9 players tied for first place with 5/6 points each. Frederik Svane from Germany and Christopher Yoo from the USA (pictured) were 2 of the 6 players who joined the lead by scoring wins on Thursday. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d6",
-         "pubDate" : "Thu, 15 Aug 2024 22:30:00",
-         "title" : "Dortmund: Svane and Yoo score, join the lead in A-Open"
       },
       {
          "description" : "The European Union Youth Chess Championships 2024 concluded in Roznov pod Radhostem, Czech Repubic. The last rounds were full of fights and tension. In category Boys U8 took the first place Han Nam Pham (FRA, 9 out of 9!), the second place Aaron-Mathias Dragoi (ROU) and the third Vojtech Vratny (CZE). In category Girls U8 took the first place Amanda Skytte (DEN), the second place Cassandre Itier (FRA) and the third Isis Bocquenet-Drouode (FRA). Champion EU in category Boys U10 []",
