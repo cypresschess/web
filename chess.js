@@ -34,6 +34,14 @@ news_feed (
          "title" : "Hikaru's Smooth Technique | Game of the Day #STLRapidBlitz"
       },
       {
+         "description" : "GM Vaishali Rameshbabu smoothly outplayed IM Sara Khadem in round three of the 2024 Tbilisi FIDE Women&#39;s Grand Prix to recover from a tough start and move up into the seven-player pack on 50 percent. All the other games were drawn, so that IMs Bib...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-3",
+         "pubDate" : "Sat, 17 Aug 2024 14:53:46",
+         "title" : "Vaishali Breaks The Deadlock In Tbilisi"
+      },
+      {
          "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -680,14 +688,6 @@ news_feed (
          "link" : "https://aicf.in/74785-2/",
          "pubDate" : "Thu, 08 Aug 2024 07:50:47",
          "title" : "Certificates for SNA Seminar held at Bijnor ,UP from 27 to 28 July 2024"
-      },
-      {
-         "description" : "GM Hans Niemann can buy his ticket to Paris, as he&#39;s made it to the Speed Chess Championship 2024 Semifinals which will be live in France. He won his quarterfinal match against GM Wesley So 13-10. Notably, he gave a 30-minute interview after the m...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-so-niemann",
-         "pubDate" : "Wed, 07 Aug 2024 15:55:00",
-         "title" : "Niemann Advances To SCC Finals In Paris & Potential Match With Carlsen, Blasts 'Chess Establishment'"
       },
       {
          "description" : "The following are shortlisted for AICF Vacancy published on 29 July 2024 1. Arbind Kumar Singh 2. Ajeet Kumar Verma",
