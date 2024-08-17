@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
+         "pubDate" : "Sat, 17 Aug 2024 14:50:00",
+         "title" : "Dortmund Chess Festival - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3160",
+         "pubDate" : "Sat, 17 Aug 2024 13:11:59",
+         "title" : "Alireza Firouzja wins 2024 Saint Louis Rapid & Blitz"
+      },
+      {
+         "description" : "An exciting variation in the chess openings is known as the Poisoned Pawn. The theme is an early foray by the black Queen in the Sicilian Defence to grab White's pawn on b2. Black wins material, but suffers in terms of development. It was a favourite of Bobby Fischer, who experienced ups and downs on []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/poisoned-pawn/",
+         "pubDate" : "Sat, 17 Aug 2024 12:36:29",
+         "title" : "Poisoned Pawn"
+      },
+      {
+         "description" : "Many chess improvers love system openings. If you play the London, you can develop in nearly every game the same way. And you know a few plans that are good to play in most positions. That gives confidence. It makes matters simple. So it is no surprise that these London lovers are starting to search []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/system-openings-black/",
+         "pubDate" : "Sat, 17 Aug 2024 12:32:00",
+         "title" : "Why system openings are bad for black"
+      },
+      {
          "description" : "After 6 classical games, Hans Niemann has a 3-point lead over Nikita Vitiugov in their 5-day match taking place in London. Niemann won the first game and the remaining 5 encounters finished drawn - though there was no lack of fighting spirit. Saturday will see the protagonists playing 6 rapid games, while the event will end with 12 blitz games set to take place on Sunday. | Photo: Frans Peeters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -202,7 +234,7 @@ news_feed (
          "title" : "Tbilisi Women's Grand Prix spectacle"
       },
       {
-         "description" : " The Saint Louis Rapid & Blitz TOOK place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acted as a curtain raiser for the Sinquefield Cup which starts on the 18th. Alireza Firouzja won the event and took the lead of the Grand Chess Tour from Fabiano Caruana going into the final round. ",
+         "description" : " The Saint Louis Rapid & Blitz took place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acted as a curtain raiser for the Sinquefield Cup which starts on the 18th. Alireza Firouzja won the event and took the lead of the Grand Chess Tour from Fabiano Caruana with the Sinquefield Cup to finish this year's series. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
          "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2024",
@@ -1040,14 +1072,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3130",
          "pubDate" : "Sun, 28 Jul 2024 14:02:04",
          "title" : "Vaclav Finek wins Czech Open 2024"
-      },
-      {
-         "description" : "Big decisions, like choosing an opening or launching a Podcast, can seem daunting. \"What if I get it wrong? All my hard work learning these opening moves might be for nothing,\" you might think. This weight might push you to a never-ending search for 'the best chess opening (spoiler, it doesn't exist). After a while, []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/little-experiments/",
-         "pubDate" : "Sat, 27 Jul 2024 12:54:00",
-         "title" : "Little experiments make things fun"
       }
    ]
 }
