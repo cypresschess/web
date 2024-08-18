@@ -90,6 +90,14 @@ news_feed (
          "title" : "Endgame: Chess Engine Teeter Totter #grandchesstour #chess #chessendgame #chesscom"
       },
       {
+         "description" : "GM Alexandra Kosteniuk has joined IMs Bibisara Assaubayeva and Stavroula Tsolakidou in the lead of the 2024 Tbilisi FIDE Women&#39;s Grand Prix after pouncing on a mistake by the luckless IM Sara Khadem in round four. GM Anna Muzychuk could have joine...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-4",
+         "pubDate" : "Sun, 18 Aug 2024 13:18:00",
+         "title" : "Kosteniuk Joins Grand Prix Leaders"
+      },
+      {
          "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -632,14 +640,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-nakamura-nepomniachtchi",
          "pubDate" : "Fri, 09 Aug 2024 15:53:00",
          "title" : "Nakamura Takes Off In Bullet, Sets Up Semifinal Match Vs. Firouzja In Paris"
-      },
-      {
-         "description" : "A lower-rated amateur has been kicked out of an open tournament in the Netherlands after being caught with a cell phone hidden in his sock after previously raising eyebrows by defeating much higher-rated masters. The 26th edition of the Hogescho...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/dutch-chess-player-kicked-out-of-tournament-hid-phone-in-sock",
-         "pubDate" : "Fri, 09 Aug 2024 10:36:00",
-         "title" : "Dutch Player Kicked Out Of Tournament After Phone Found Hidden In Sock"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The ongoing <strong>Lewis Chess Legends</strong> in Trondheim runs a mixed open tournament where the <a href=\"https://www.lewischesslegends.com/registration\">prize money for the top ranked women matches</a> the prize money for the top ranked men. </div> ",
