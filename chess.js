@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The eighth day of action at the Dortmund Chess Festival saw Wagner missing a great opportunity to score a win in her match against Elisabeth Paehtz. Meanwhile, in the A-Open, Anton Korobov, Frederik Svane and Nico Zwirs scored full points to go into the final round tied for first place with 6&frac12;/8 scores. | Photos: Official website",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d8",
+         "pubDate" : "Sun, 18 Aug 2024 03:35:00",
+         "title" : "Dortmund: Wagner misses big chance"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/st-louis-rapid-and-blitz-2024-5",
          "pubDate" : "Sat, 17 Aug 2024 18:00:00",
          "title" : "With two rounds to spare: Firouzja bags Saint Louis Rapid & Blitz"
+      },
+      {
+         "description" : "Bullet Brawl saw the crowning of a new champion on Saturday after 15-year-old Turkish prodigy GM Ediz Gurel scored 265 points and finished ahead of American GMs Andrew Tang (261) and Daniel Naroditsky (211). The winner of the $100 top women&#39;s pr...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-august-17-2024",
+         "pubDate" : "Sat, 17 Aug 2024 17:00:00",
+         "title" : "15-Year-Old Gurel Wins Bullet Brawl Ahead Of Tang, Naroditsky"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112594292.cms\" />R Praggnanandhaa, an Indian Grandmaster, showcased a better performance in the blitz portion of the Saint Louis Rapid and Blitz tournament, but it was not sufficient to prevent him from securing the last position.",
@@ -38,16 +54,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-3",
-         "pubDate" : "Sat, 17 Aug 2024 14:53:46",
+         "pubDate" : "Sat, 17 Aug 2024 14:53:00",
          "title" : "Vaishali Breaks The Deadlock In Tbilisi"
-      },
-      {
-         "description" : "From 10 to 18 August, Dortmund has once again become the summer chess capital in Germany. Besides a highly competitive open tournament, Elisabeth Paehtz and Dinara Wagner are playing a 6-game match to see who is the number one woman player in Germany. | Follow the action live starting at 15.00 CEST (9.00 ET, 18.30 IST) | Photo: Dariusz Gorzinski",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-live",
-         "pubDate" : "Sat, 17 Aug 2024 14:50:00",
-         "title" : "Dortmund Chess Festival - Live!"
       },
       {
          "description" : "",
@@ -664,14 +672,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3145",
          "pubDate" : "Thu, 08 Aug 2024 16:00:35",
          "title" : "Unlocking Minds: Register for the 2024 Prisoners' Chess Championship"
-      },
-      {
-         "description" : "GM Magnus Carlsen qualified for the Speed Chess Championship 2024 Semifinals, live in Paris on September 6, after defeating GM Arjun Erigaisi with a 12-9 score. He will play GM Hans Niemann in the next match, the first time they will meet for a ga...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-carlsen-erigaisi",
-         "pubDate" : "Thu, 08 Aug 2024 12:44:00",
-         "title" : "Carlsen Qualifies For SCC Finals In Paris, Will Play Niemann In Semifinals"
       },
       {
          "description" : "",
