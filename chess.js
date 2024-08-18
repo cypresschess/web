@@ -2,6 +2,102 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3162",
+         "pubDate" : "Sun, 18 Aug 2024 19:01:29",
+         "title" : "FIDE WGP Tbilisi: Miraculous save by Nana Dzagnidze in Round 4"
+      },
+      {
+         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. Meanwhile, chess enthusiasts will follow the performances of Ding Liren and D Gukesh closely, as they are set to play the World Championship match in Singapore in three months' time. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-preview",
+         "pubDate" : "Sun, 18 Aug 2024 19:00:00",
+         "title" : "Sinquefield Cup: Ding and Gukesh to face off in first round"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> As time is running out, Levon frantically puts his king and queen in harms way. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-watch-out-your-queen-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v3UM70z2vbE.jpg?itok=h3nvLpSy\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/levon-watch-out-your-queen-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Sun, 18 Aug 2024 18:05:20",
+         "title" : "Levon, Watch Out For Your Queen! #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Commentators analyze the possibilities of why Nepo plays Bf3 against Alireza </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/does-bf3-strategy-payoff-against-alireza-grandchesstour-chess-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LHl-m1CYY1U.jpg?itok=JdYn1dOE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/does-bf3-strategy-payoff-against-alireza-grandchesstour-chess-chessstrategy-chesscom",
+         "pubDate" : "Sun, 18 Aug 2024 18:05:20",
+         "title" : "Does the Bf3 Strategy Payoff Against Alireza? #grandchesstour #chess #chessstrategy #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Rook and Bishop versus Rook and Knight played between Alireza and Leinier </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-chess-engines-teeter-totter-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/azwLoMkgfQg.jpg?itok=DtCLC_Vz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgame-chess-engines-teeter-totter-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Sun, 18 Aug 2024 18:05:20",
+         "title" : "Endgame: Chess Engine's Teeter Totter #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nodirbek hustles his pawn to the promoting square to defeat against Alireza in this rook and pawn endgame. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nodirbeks-pawn-hustle-win-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3snpDM0snV4.jpg?itok=Iwh-4FUh\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/nodirbeks-pawn-hustle-win-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Sun, 18 Aug 2024 18:05:20",
+         "title" : "Nodirbek's Pawn Hustle For The Win #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> In a time crunch, Fabi rids of his g-pawn, and lets his rook do the talking against Nepo&#039;s bishop and knight in this endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-rook-goes-ham-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TqHLatYzyg0.jpg?itok=ntu8qb8Z\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabis-rook-goes-ham-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Sun, 18 Aug 2024 18:05:20",
+         "title" : "Fabi's Rook Goes H.A.M. #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Missed opportunities by Nodirbek, Caruana grinds it out in this endgame for the win </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-grinding-it-out-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/My_aog_pozo.jpg?itok=3gOhYjXe\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-grinding-it-out-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Sun, 18 Aug 2024 15:05:20",
+         "title" : "Fabi Grinding It Out #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Moments to spare, Alireza&#039;s technique in this knight and pawn endgame was on point as he defeats Nodirbek </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/intensebut-stylish-knight-and-pawn-endgame-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xeLxcjjTA4g.jpg?itok=Y-piBRlP\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/intensebut-stylish-knight-and-pawn-endgame-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Sun, 18 Aug 2024 15:05:20",
+         "title" : "An Intense...But Stylish Knight and Pawn Endgame #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Commentators analyze the possibilities of why Nepo plays Bf3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/does-bf3-strategy-payoff-grandchesstour-chess-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LHl-m1CYY1U.jpg?itok=JdYn1dOE\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/does-bf3-strategy-payoff-grandchesstour-chess-chessstrategy-chesscom",
+         "pubDate" : "Sun, 18 Aug 2024 15:05:20",
+         "title" : "Does Bf3 Strategy Payoff? #grandchesstour #chess #chessstrategy #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Rook and Bishop versus Rook and Knight played between Alireza and Leinier </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-chess-engine-teeter-totter-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/azwLoMkgfQg.jpg?itok=DtCLC_Vz\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/endgame-chess-engine-teeter-totter-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Sun, 18 Aug 2024 15:05:20",
+         "title" : "Endgame: Chess Engine Teeter Totter #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
+         "pubDate" : "Sun, 18 Aug 2024 12:50:00",
+         "title" : "Women's Grand Prix Tbilisi - Live!"
+      },
+      {
          "description" : "Three rounds into the first event of the 2024/25 Women's Grand Prix series, Stavroula Tsolakidou and Bibisara Assaubayeva (pictured) are sharing the lead with 2 points each. Both co-leaders scored a win in the first round and drew their next two encounters. R Vaishali, who lost in the first round and missed a big chance to bounce back in the second, was the only player who scored a win in Saturday's third round. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,38 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/watch-out-your-queen-grandchesstour-chess-chessendgame-chesscom",
          "pubDate" : "Sun, 18 Aug 2024 06:05:07",
          "title" : "Watch Out For Your Queen! #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> As Alireza and Nodirbek begin their play of the Caro-Kann, GM Yasser Seirawan shares a story about Florencio Campomanes playing blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/campo-kann-grandchesstour-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/5FsqOl8Fq0A.jpg?itok=wM30kan1\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/campo-kann-grandchesstour-chess-chessopenings-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 06:05:07",
-         "title" : "The Campo Kann #grandchesstour #chess #chessopenings #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> There is something trending when attacked with the English </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/svidler-wth-grandchesstour-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1mzAdkm9BOc.jpg?itok=h4SuSEeQ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/svidler-wth-grandchesstour-chess-chessopenings-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 03:05:00",
-         "title" : "Svidler, WTH Is This?! #grandchesstour #chess #chessopenings #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> It&#039;s a long road for Pragg&#039;s knight to get to safety </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-praggs-knight-move-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/jezXR-919h8.jpg?itok=3xt1mpb3\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-will-praggs-knight-move-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 03:05:00",
-         "title" : "How Will Pragg's Knight Move #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Each player with seconds left to play, veteran Leinier Dominguez delivers a Queen and Rook checkmate against Pragg. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dominguez-delivers-checkmate-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uIoEbkyCHck.jpg?itok=4-0P4IWZ\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dominguez-delivers-checkmate-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 03:05:00",
-         "title" : "Dominguez Delivers Checkmate #grandchesstour #chess #chessendgame #chesscom"
       },
       {
          "description" : "",
@@ -82,14 +146,6 @@ news_feed (
          "title" : "Grand Chess Tour: R Praggnanandhaa finishes last, Firouzja wins Saint Louis leg"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Kostya Kavutskiy recaps Hikaru Nakamura vs. Ian Nepomniachtchi from Blitz 12 of the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/hikaru%E2%80%99s-smooth-technique-game-day-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Y0e-yRwhud8.jpg?itok=61ipD6sd\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/hikaru%E2%80%99s-smooth-technique-game-day-stlrapidblitz",
-         "pubDate" : "Sat, 17 Aug 2024 15:04:36",
-         "title" : "Hikaru's Smooth Technique | Game of the Day #STLRapidBlitz"
-      },
-      {
          "description" : "GM Vaishali Rameshbabu smoothly outplayed IM Sara Khadem in round three of the 2024 Tbilisi FIDE Women&#39;s Grand Prix to recover from a tough start and move up into the seven-player pack on 50 percent. All the other games were drawn, so that IMs Bib...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -114,14 +170,6 @@ news_feed (
          "title" : "Poisoned Pawn"
       },
       {
-         "description" : "Many chess improvers love system openings. If you play the London, you can develop in nearly every game the same way. And you know a few plans that are good to play in most positions. That gives confidence. It makes matters simple. So it is no surprise that these London lovers are starting to search []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/system-openings-black/",
-         "pubDate" : "Sat, 17 Aug 2024 12:32:00",
-         "title" : "Why system openings are bad for black"
-      },
-      {
          "description" : "Please find the Live Link for National championship 2024 held in Gurugram Haryana from 17-27 August 2024 https://view.livechesscloud.com/#39d8f1e8-96d1-4ea7-a6d5-2c5748b3b7a3",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -130,44 +178,12 @@ news_feed (
          "title" : "Live Link for National Championship 2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja is presented the Saint Louis Rapid &amp; Blitz cup by Saint Louis Chess Club Co-Founder Rex Sinquefield and chats with Cristian Chirila after winning the 2024 Saint Louis Rapid &amp; Blitz. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-firouzja-2-time-champion-d5-stlrapidblitz\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/MvDAKK9taCg.jpg?itok=103EFr4g",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alireza-firouzja-2-time-champion-d5-stlrapidblitz",
-         "pubDate" : "Sat, 17 Aug 2024 03:04:08",
-         "title" : "Alireza Firouzja: 2-Time Champion | D5 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Kostya Kavutskiy recaps Day 5 of the 8th Saint Louis Rapid &amp; Blitz, taking place at the World Chess Hall of Fame. The Saint Louis Rapid &amp; Blitz is the third of five legs of the Grand Chess Tour. Five of the Tour players are joined by five wildcards (roster below) for a rapid round robin and a blitz double round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-clinches-victory-day-5-recap-stlrapidblitz\"><img src=\"https://saintlouischessclub.or",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-clinches-victory-day-5-recap-stlrapidblitz",
-         "pubDate" : "Sat, 17 Aug 2024 03:04:08",
-         "title" : "Firouzja Clinches Victory | Day 5 Recap #STLRapidBlitz"
-      },
-      {
          "description" : "IM Anastasia Bodnaruk emerged as the winner of the fourth and final Play-In tournament for the 2024 Julius Baer Women&#39;s Speed Chess Championship in what turned out to be the most exciting and memorable of all the qualifiers. Bodnaruk defeated Azer...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-4",
          "pubDate" : "Sat, 17 Aug 2024 00:51:33",
          "title" : "Bodnaruk Wins Play-In 4 Despite Great Fightbacks By Ismayil"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Players arrive and sign autographs before the final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/player-arrival-fabiano-caruana-d5-stlrapidblitz",
-         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
-         "title" : "PLAYER ARRIVAL: Fabiano Caruana | D5 #STLRapidBlitz"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Players arrive and sign autographs before the final day of the 2024 Saint Louis Rapid &amp; Blitz. 2024.08.16<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/player-arrival-family-man-leinier-dominguez-d5-stlrapidblitz",
-         "pubDate" : "Sat, 17 Aug 2024 00:04:01",
-         "title" : "PLAYER ARRIVAL: Family Man Leinier Dominguez | D5 #STLRapidBlitz"
       },
       {
          "description" : "GM Alireza Firouzja captured first with two rounds to spare at the 2024 Saint Louis Rapid &#38;amp; Blitz on Friday. Leading the event during the entire last day, his victory was never in doubt, echoing his convincing performance at the same tournamen...",
