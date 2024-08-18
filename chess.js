@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3131",
          "pubDate" : "Mon, 29 Jul 2024 05:21:08",
          "title" : "World Rapid and Blitz Team Championships start in Astana this week"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3130",
-         "pubDate" : "Sun, 28 Jul 2024 14:02:04",
-         "title" : "Vaclav Finek wins Czech Open 2024"
       }
    ]
 }
