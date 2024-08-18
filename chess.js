@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three rounds into the first event of the 2024/25 Women's Grand Prix series, Stavroula Tsolakidou and Bibisara Assaubayeva (pictured) are sharing the lead with 2 points each. Both co-leaders scored a win in the first round and drew their next two encounters. R Vaishali, who lost in the first round and missed a big chance to bounce back in the second, was the only player who scored a win in Saturday's third round. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-3",
+         "pubDate" : "Sun, 18 Aug 2024 10:15:00",
+         "title" : "WGP Tbilisi: Tsolakidou and Assaubayeva share the lead"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> As time is running out, Levon frantically puts his king and queen in harms way. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/watch-out-your-queen-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v3UM70z2vbE.jpg?itok=h3nvLpSy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,14 +24,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/campo-kann-grandchesstour-chess-chessopenings-chesscom",
          "pubDate" : "Sun, 18 Aug 2024 06:05:07",
          "title" : "The Campo Kann #grandchesstour #chess #chessopenings #chesscom"
-      },
-      {
-         "description" : "The eighth day of action at the Dortmund Chess Festival saw Wagner missing a great opportunity to score a win in her match against Elisabeth Paehtz. Meanwhile, in the A-Open, Anton Korobov, Frederik Svane and Nico Zwirs scored full points to go into the final round tied for first place with 6&frac12;/8 scores. | Photos: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d8",
-         "pubDate" : "Sun, 18 Aug 2024 03:35:00",
-         "title" : "Dortmund: Wagner misses big chance"
       },
       {
          "description" : "<div class=\"body text-secondary\"> There is something trending when attacked with the English </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/svidler-wth-grandchesstour-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1mzAdkm9BOc.jpg?itok=h4SuSEeQ\" alt=\"\" /></a></div>",
