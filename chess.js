@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Nico Zwirs beat Christopher Yoo with white to become the outright winner of the A-Open in the 51st edition of the Dortmund Chess Festival. Out of a Sicilian Defence, the Dutch GM first defended resourcefully and then showed excellent technique in a rook ending. In the match between Elisabeth Paehtz and Dinara Wagner, a sixth draw (in six games) was signed on Sunday. | Photos: Hoogeveen Chess 2018 / Frans Peeters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d9",
+         "pubDate" : "Mon, 19 Aug 2024 17:00:00",
+         "title" : "Dortmund: Nico Zwirs outright winner in A-Open"
+      },
+      {
          "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
          "pubDate" : "Mon, 19 Aug 2024 12:50:00",
          "title" : "Women's Grand Prix Tbilisi - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3164",
+         "pubDate" : "Mon, 19 Aug 2024 12:00:44",
+         "title" : "Chairpersons and members of CON, EDC and VER commissions to be elected at FIDE General Assembly"
+      },
+      {
+         "description" : "The 2nd National Schools Team Chess Championship took place over three days at the Indira Gandhi Indoor Stadium in Guwahati, Assam, featuring two categories: Under",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/final-report-of-2nd-national-schools-team-under-12-and-under-18-chess/",
+         "pubDate" : "Mon, 19 Aug 2024 11:52:52",
+         "title" : "Final report of 2nd National Schools Team Under 12 and Under 18 Chess."
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3163",
+         "pubDate" : "Mon, 19 Aug 2024 11:37:14",
+         "title" : "FIDE EDU \"Preparation of Teachers\" course in Budapest, Hungary, announced"
       },
       {
          "description" : "In this week's Summer Special you can save a lot on our Fritztrainer packages. They are by Jan Markos, a Slovak grandmaster, coach, and author, a former European Youth Champion; and by Robert Ris, an International Master from The Netherlands, who nowadays is active mainly as an online chess trainer. You can get Jan Markos Middlegame Secrets Vol.1 +2 for €39.90 (instead of €59.80) and Robert Ris Calculation Trainingfor €79.90 (instead of €119.60). Don't miss your chance!",
@@ -160,6 +192,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-august-17-2024",
          "pubDate" : "Sat, 17 Aug 2024 17:00:00",
          "title" : "15-Year-Old Gurel Wins Bullet Brawl Ahead Of Tang, Naroditsky"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3165",
+         "pubDate" : "Sat, 17 Aug 2024 16:37:55",
+         "title" : "Brazilian Chess Federation advances with bid to host 2030 Chess Olympiad in Brazil"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112594292.cms\" />R Praggnanandhaa, an Indian Grandmaster, showcased a better performance in the blitz portion of the Saint Louis Rapid and Blitz tournament, but it was not sufficient to prevent him from securing the last position.",
@@ -808,14 +848,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2024/",
          "pubDate" : "Tue, 06 Aug 2024 08:00:41",
          "title" : "Premier League Fantasy Football 2024"
-      },
-      {
-         "description" : "UP Sports Chess Association on behalf of All India Chess Federation and Arbiters' Commission AICF organized a Senior National Arbiter Seminar &#38; Examination at Indra",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/final-report-of-senior-national-arbiter-seminar-examination-at-bijnor-up-on-27-28-july-2024/",
-         "pubDate" : "Tue, 06 Aug 2024 06:44:43",
-         "title" : "Final Report of Senior National Arbiter Seminar & Examination at Bijnor ,UP on 27-28 July 2024"
       },
       {
          "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
