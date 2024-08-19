@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"><h2 style=\"text-align: center; font-size: 20px;\"><strong>Grandmaster Alireza Firouzja Wins Saint Louis Rapid &amp; Blitz</strong></h2> <p style=\"text-align: center; font-size: 20px;\"><em>Final Leg of the Grand Chess Tour Kicks Off Today in Saint Louis</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/GM%20Alireza%20Firouzja%20Wins%20Saint%20Louis%20Rapid%20%26%20BlitzLOG09821.j",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/news/grandmaster-alireza-firouzja-wins-saint-louis-rapid-blitz",
+         "pubDate" : "Mon, 19 Aug 2024 22:16:33",
+         "title" : "Grandmaster Alireza Firouzja Wins Saint Louis Rapid & Blitz"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the first round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GL2l2BlRPJw.jpg?itok=1Gp4P3Bq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r1-sinquefieldcup",
+         "pubDate" : "Mon, 19 Aug 2024 21:06:04",
+         "title" : "How Will Each Game End? | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at performances of Ding Liren and Gukesh D in their respective recent classical tournaments during the first round of the 2024 Sinquefield Cup. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-outperforms-ding-respective-recent-events-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ac8StQmnwI0.jpg?itok=47yZCBZp\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/gukesh-outperforms-ding-respective-recent-events-r1-sinquefieldcup",
+         "pubDate" : "Mon, 19 Aug 2024 21:06:04",
+         "title" : "Gukesh Outperforms Ding in Respective Recent Events! | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at a YouTube poll asking viewers which game of the day they anticipate the most before the first round of the 2024 Sinquefield Cup. Wesley So vs. Anish Giri was not an option due to poll limitation. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-games-are-fans-most-excited-see-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/T-YVdeDPzfg.jpg?i",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/what-games-are-fans-most-excited-see-r1-sinquefieldcup",
+         "pubDate" : "Mon, 19 Aug 2024 21:06:04",
+         "title" : "What Games are Fans Most Excited to See? | R1 #SinquefieldCup"
+      },
+      {
          "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -18,12 +50,20 @@ news_feed (
          "title" : "The day of surprising twists at the Women's Grand Prix in Tbilisi"
       },
       {
-         "description" : "Nico Zwirs beat Christopher Yoo with white to become the outright winner of the A-Open in the 51st edition of the Dortmund Chess Festival. Out of a Sicilian Defence, the Dutch GM first defended resourcefully and then showed excellent technique in a rook ending. In the match between Elisabeth Paehtz and Dinara Wagner, a sixth draw (in six games) was signed on Sunday. | Photos: Hoogeveen Chess 2018 / Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/dortmund-festival-2024-d9",
-         "pubDate" : "Mon, 19 Aug 2024 17:00:00",
-         "title" : "Dortmund: Nico Zwirs outright winner in A-Open"
+         "description" : "The Community Championship Series returned on Monday with the 2024 Chess.com Bughouse Championship and two teams, GM Lars Oskar Hauge and NM Isaac Chiu along with GMs Jeffery Xiong and Awonder Liang, rose above 400 participating teams to book thei...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-1-2",
+         "pubDate" : "Mon, 19 Aug 2024 16:23:13",
+         "title" : "Hauge, Chiu Dominate Qualifier As Bughouse Championship Gets Underway"
+      },
+      {
+         "description" : "GMs Nana Dzagnidze and Mariya Muzychuk have joined the leaders of the 2024 Tbilisi FIDE Women&#39;s Grand Prix after scoring dramatic first wins to beat GMs Alexandra Kosteniuk and Vaishali Rameshbabu in round five. There was also a first win for IM S...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-5",
+         "pubDate" : "Mon, 19 Aug 2024 14:44:25",
+         "title" : "Sara Khadem, Nana Dzagnidze, Mariya Muzychuk All Score 1st Wins"
       },
       {
          "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -98,7 +138,7 @@ news_feed (
          "title" : "Alireza Defeats Nepo...Clinches Victory!! #grandchesstour #chess #chessendgame #chesscom"
       },
       {
-         "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three points ahead of GM Wesley So, who won $30,000 for his second-place finish.<",
+         "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three poi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/gct-updates-firouzja-wins-2024-saint-louis-rapid-and-blitz-sinquefield-cup-begin-today",
@@ -160,38 +200,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fabis-rook-goes-ham-grandchesstour-chess-chessendgame-chesscom",
          "pubDate" : "Sun, 18 Aug 2024 18:05:20",
          "title" : "Fabi's Rook Goes H.A.M. #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Missed opportunities by Nodirbek, Caruana grinds it out in this endgame for the win </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-grinding-it-out-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/My_aog_pozo.jpg?itok=3gOhYjXe\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-grinding-it-out-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 15:05:20",
-         "title" : "Fabi Grinding It Out #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Moments to spare, Alireza&#039;s technique in this knight and pawn endgame was on point as he defeats Nodirbek </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/intensebut-stylish-knight-and-pawn-endgame-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/xeLxcjjTA4g.jpg?itok=Y-piBRlP\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/intensebut-stylish-knight-and-pawn-endgame-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 15:05:20",
-         "title" : "An Intense...But Stylish Knight and Pawn Endgame #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Commentators analyze the possibilities of why Nepo plays Bf3 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/does-bf3-strategy-payoff-grandchesstour-chess-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LHl-m1CYY1U.jpg?itok=JdYn1dOE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/does-bf3-strategy-payoff-grandchesstour-chess-chessstrategy-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 15:05:20",
-         "title" : "Does Bf3 Strategy Payoff? #grandchesstour #chess #chessstrategy #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Rook and Bishop versus Rook and Knight played between Alireza and Leinier </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-chess-engine-teeter-totter-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/azwLoMkgfQg.jpg?itok=DtCLC_Vz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgame-chess-engine-teeter-totter-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 15:05:20",
-         "title" : "Endgame: Chess Engine Teeter Totter #grandchesstour #chess #chessendgame #chesscom"
       },
       {
          "description" : "GM Alexandra Kosteniuk has joined IMs Bibisara Assaubayeva and Stavroula Tsolakidou in the lead of the 2024 Tbilisi FIDE Women&#39;s Grand Prix after pouncing on a mistake by the luckless IM Sara Khadem in round four. GM Anna Muzychuk could have joine...",
@@ -666,14 +674,6 @@ news_feed (
          "title" : "ECU Magazine July 2024"
       },
       {
-         "description" : "We&#39;re excited to announce that registrations for the Fall 2024 season of the Collegiate Chess League are now open! The event features once more the beloved four vs. four team format, a hefty $25,000 prize fund, and presenting partner Susquehanna, ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/collegiate-chess-league-fall-2024-registration",
-         "pubDate" : "Mon, 12 Aug 2024 07:01:28",
-         "title" : "Registrations Are Open For The Collegiate Chess League Fall 2024 Season"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -696,14 +696,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-pragganandhaa-eyeing-an-improved-finish-in-gct-final-outings/articleshow/112441427.cms",
          "pubDate" : "Sun, 11 Aug 2024 08:07:49",
          "title" : "R Pragganandhaa eyeing an improved finish in GCT final outings"
-      },
-      {
-         "description" : "Famed commentator and GM Daniel Naroditsky added a 22nd Bullet Brawl&#38;nbsp;title to his resume on Saturday after outscoring Turkish prodigies GM Ediz Gurel and IM Yaqiz Erdogmus, whose combined age of 28 is the same as the winner&#39;s. A 23-game unbea...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/daniel-naroditsky-wins-bullet-brawl-august-10-2024",
-         "pubDate" : "Sat, 10 Aug 2024 16:28:00",
-         "title" : "Naroditsky Wins Bullet Brawl Ahead Of Turkish Prodigies"
       },
       {
          "description" : "I was alarmed to discover in the foreword to the third and latest volume in the Korchnoi tetralogy Korchnoi Year by Year, 1981-1991 by Hans Renette and Tibor Karolyi (Elk and Ruby, &pound;35.95) the following verdict by Korchnoi's lawyer Alban Brodbeck on the \"Leningrad Lip\" and his constant post-defection companion, former self-confessed terrorist, Petra Leuuwerik: \"A crackhead and []",
