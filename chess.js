@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
+         "pubDate" : "Mon, 19 Aug 2024 19:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3166",
+         "pubDate" : "Mon, 19 Aug 2024 18:19:29",
+         "title" : "The day of surprising twists at the Women's Grand Prix in Tbilisi"
+      },
+      {
          "description" : "Nico Zwirs beat Christopher Yoo with white to become the outright winner of the A-Open in the 51st edition of the Dortmund Chess Festival. Out of a Sicilian Defence, the Dutch GM first defended resourcefully and then showed excellent technique in a rook ending. In the match between Elisabeth Paehtz and Dinara Wagner, a sixth draw (in six games) was signed on Sunday. | Photos: Hoogeveen Chess 2018 / Frans Peeters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +98,15 @@ news_feed (
          "title" : "Alireza Defeats Nepo...Clinches Victory!! #grandchesstour #chess #chessendgame #chesscom"
       },
       {
-         "description" : "Round one of the 2024 Sinquefield Cup will offer a sneak peak of the upcoming world championship match: GM Ding Liren and GM Gukesh Dommaraju will meet for the first time since Gukesh became the challenger. As the finale of the Grand Chess Tour,...",
+         "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three points ahead of GM Wesley So, who won $30,000 for his second-place finish.<",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/gct-updates-firouzja-wins-2024-saint-louis-rapid-and-blitz-sinquefield-cup-begin-today",
+         "pubDate" : "Mon, 19 Aug 2024 00:00:00",
+         "title" : "GCT Updates: Firouzja Wins 2024 Saint Louis Rapid and Blitz, Sinquefield Cup to Begin Today"
+      },
+      {
+         "description" : "Round one of the 2024 Sinquefield Cup will offer a sneak peek of the upcoming world championship match: GM Ding Liren and GM Gukesh Dommaraju will meet for the first time since Gukesh became the challenger. As the finale of the Grand Chess Tour,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-preview",
@@ -960,14 +984,6 @@ news_feed (
          "link" : "https://www.thearticle.com/new-york-1924-a-stellar-gathering/",
          "pubDate" : "Sat, 03 Aug 2024 09:47:35",
          "title" : "New York 1924: a stellar gathering "
-      },
-      {
-         "description" : "It's nice to have everybody in the same room. The feel of the main tournament hall is just so much more vibrant when it's abuzz with almost 400 players all in the same stage of the game. When the three separate playing schedules merged last night for the seventh round of the 124th Annual U.S. Open, it really felt like a national event. <br /><br /> With two rounds to go, nine players are tied for first with 6/7 scores. Now that really feels like a national event. The $60,000 prize fund is up for grabs, with a number of top players still in the running for the $10,000 top prize and the spot in this fall's U.S. Championship on the horizon. <br /><br /> Today's annotations once again come from ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/all-together-now-nine-tied-first-after-merge-us-open",
-         "pubDate" : "Sat, 03 Aug 2024 00:00:00",
-         "title" : "All Together Now: Nine Tied For First After Merge in U.S. Open"
       },
       {
          "description" : "",
