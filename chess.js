@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "On behalf of All India Chess Federation, Tamil Nadu State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 31 August to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-in-thoothukudi-on-31-aug-to-01-sept-2024/",
+         "pubDate" : "Mon, 19 Aug 2024 07:07:50",
+         "title" : "SNA Seminar in Thoothukudi on 31 Aug to 01 Sept 2024"
+      },
+      {
          "description" : "Hans Niemann defeated Nikita Vitiugov by a crushing 27&frac12;-14&frac12; score in their 5-day match at the Gem Fitzrovia Hotel in London. The contest consisted of 6 classical, 6 rapid and 12 blitz games, with Niemann prevailing in all three formats. His 8-4 victory in the rapid was particularly important, as it forced Vitiugov to take too many risks in Sunday's blitz session - a strategy that badly backfired, as Niemann got a 9-3 win in the final segment of the match. | Photo: Frans Peeters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +24,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alireza-defeats-nepoclinches-victory-grandchesstour-chess-chessendgame-chesscom",
          "pubDate" : "Mon, 19 Aug 2024 03:05:39",
          "title" : "Alireza Defeats Nepo...Clinches Victory!! #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "Round one of the 2024 Sinquefield Cup will offer a sneak peak of the upcoming world championship match: GM Ding Liren vs. GM Gukesh Dommaraju will meet for the first time since Gukesh became the challenger. As the finale of the Grand Chess Tour,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-preview",
+         "pubDate" : "Sun, 18 Aug 2024 21:29:05",
+         "title" : "A Taste of Gukesh vs. Ding at the Grand Chess Tour Finale"
       },
       {
          "description" : "",
@@ -626,14 +642,6 @@ news_feed (
          "title" : "Cold War chessboard diplomacy"
       },
       {
-         "description" : "GM Hikaru Nakamura is the last player to make it to the Speed Chess Championship 2024 Finals. On Friday, he defeated GM Ian Nepomniachtchi in the Quarterfinals with a 14.5-9.5 score. Nepomniachtchi got off to a three-point lead in the first segmen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-speed-chess-championship-qf-nakamura-nepomniachtchi",
-         "pubDate" : "Fri, 09 Aug 2024 15:53:00",
-         "title" : "Nakamura Takes Off In Bullet, Sets Up Semifinal Match Vs. Firouzja In Paris"
-      },
-      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The ongoing <strong>Lewis Chess Legends</strong> in Trondheim runs a mixed open tournament where the <a href=\"https://www.lewischesslegends.com/registration\">prize money for the top ranked women matches</a> the prize money for the top ranked men. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -1018,14 +1026,6 @@ news_feed (
          "title" : "UK wins the World Team Chess Solving Championships!"
       },
       {
-         "description" : "Kalutara, Sri Lanka from 27th August to 6th September, 2024 The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/commonwealth-chess-championship-2024-25/",
-         "pubDate" : "Wed, 31 Jul 2024 10:31:42",
-         "title" : "Commonwealth Chess Championship - 2024 - 25"
-      },
-      {
          "description" : "The tenth game of the 1921 match saw challenger Jos&eacute; Ra&uacute;l Capablanca gain an advantage with the black pieces, but with limited material on the board, World Champion Lasker had chances of survival. We gave our readers several interesting riddles we want to solve. Here is the definitive solution to the historic game.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1040,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3132",
          "pubDate" : "Wed, 31 Jul 2024 06:30:56",
          "title" : "Ding and Carlsen meet in Kazakhstan for the World Rapid and Blitz Team Championship: Everything you need to know"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3131",
-         "pubDate" : "Mon, 29 Jul 2024 05:21:08",
-         "title" : "World Rapid and Blitz Team Championships start in Astana this week"
       }
    ]
 }
