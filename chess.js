@@ -2,20 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
+         "pubDate" : "Mon, 19 Aug 2024 12:50:00",
+         "title" : "Women's Grand Prix Tbilisi - Live!"
+      },
+      {
+         "description" : "In this week's Summer Special you can save a lot on our Fritztrainer packages. They are by Jan Markos, a Slovak grandmaster, coach, and author, a former European Youth Champion; and by Robert Ris, an International Master from The Netherlands, who nowadays is active mainly as an online chess trainer. You can get Jan Markos Middlegame Secrets Vol.1 +2 for €39.90 (instead of €59.80) and Robert Ris Calculation Trainingfor €79.90 (instead of €119.60). Don't miss your chance!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/this-week-jan-marcos-and-robert-ris",
+         "pubDate" : "Mon, 19 Aug 2024 09:49:12",
+         "title" : "This week: Jan Markos and Robert Ris"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, Tamil Nadu State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 07 September to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-in-chennai-on-07-sept-to-08-sept-2024/",
+         "pubDate" : "Mon, 19 Aug 2024 07:52:56",
+         "title" : "SNA Seminar in Chennai on 07 Sept to 08 Sept 2024"
+      },
+      {
+         "description" : "To submit an Expression of Interest, interested candidates should complete their application using the following Google Form. Criteria:GM/IM/WGM/WIM/Fide Senior Trainer/Fide Trainer /Fide Instructor LINK:https://docs.google.com/forms/d/1DQw5mSf96rWc9UztiAy7S4I2UK94vfkMCV-xmYcxn00 The",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/expression-of-interest-for-aicf-coach-in-various-events-and-camps/",
+         "pubDate" : "Mon, 19 Aug 2024 07:31:45",
+         "title" : "Expression of Interest for AICF Coach in Various Events and Camps."
+      },
+      {
          "description" : "On behalf of All India Chess Federation, Tamil Nadu State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 31 August to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
          "link" : "https://aicf.in/sna-seminar-in-thoothukudi-on-31-aug-to-01-sept-2024/",
          "pubDate" : "Mon, 19 Aug 2024 07:07:50",
          "title" : "SNA Seminar in Thoothukudi on 31 Aug to 01 Sept 2024"
-      },
-      {
-         "description" : "Hans Niemann defeated Nikita Vitiugov by a crushing 27&frac12;-14&frac12; score in their 5-day match at the Gem Fitzrovia Hotel in London. The contest consisted of 6 classical, 6 rapid and 12 blitz games, with Niemann prevailing in all three formats. His 8-4 victory in the rapid was particularly important, as it forced Vitiugov to take too many risks in Sunday's blitz session - a strategy that badly backfired, as Niemann got a 9-3 win in the final segment of the match. | Photo: Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-vitiugov-match-2024-d5",
-         "pubDate" : "Mon, 19 Aug 2024 03:20:00",
-         "title" : "Niemann achieves crushing victory over Vitiugov"
       },
       {
          "description" : "<div class=\"body text-secondary\"> With two rounds to spare, Alireza defeats Nepomniachtchi to win the 2024 Saint Louis Rapid and Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-defeats-nepoclinches-victory-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LkXbSvcTgzE.jpg?itok=RK2AuTiw\" alt=\"\" /></a></div>",
@@ -26,11 +50,11 @@ news_feed (
          "title" : "Alireza Defeats Nepo...Clinches Victory!! #grandchesstour #chess #chessendgame #chesscom"
       },
       {
-         "description" : "Round one of the 2024 Sinquefield Cup will offer a sneak peak of the upcoming world championship match: GM Ding Liren vs. GM Gukesh Dommaraju will meet for the first time since Gukesh became the challenger. As the finale of the Grand Chess Tour,...",
+         "description" : "Round one of the 2024 Sinquefield Cup will offer a sneak peak of the upcoming world championship match: GM Ding Liren and GM Gukesh Dommaraju will meet for the first time since Gukesh became the challenger. As the finale of the Grand Chess Tour,...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-preview",
-         "pubDate" : "Sun, 18 Aug 2024 21:29:05",
+         "pubDate" : "Sun, 18 Aug 2024 21:29:00",
          "title" : "A Taste of Gukesh vs. Ding at the Grand Chess Tour Finale"
       },
       {
@@ -40,14 +64,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3162",
          "pubDate" : "Sun, 18 Aug 2024 19:01:29",
          "title" : "FIDE WGP Tbilisi: Miraculous save by Nana Dzagnidze in Round 4"
-      },
-      {
-         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. Meanwhile, chess enthusiasts will follow the performances of Ding Liren and D Gukesh closely, as they are set to play the World Championship match in Singapore in three months' time. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-preview",
-         "pubDate" : "Sun, 18 Aug 2024 19:00:00",
-         "title" : "Sinquefield Cup: Ding and Gukesh to face off in first round"
       },
       {
          "description" : "<div class=\"body text-secondary\"> As time is running out, Levon frantically puts his king and queen in harms way. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-watch-out-your-queen-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v3UM70z2vbE.jpg?itok=h3nvLpSy\" alt=\"\" /></a></div>",
@@ -128,14 +144,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-4",
          "pubDate" : "Sun, 18 Aug 2024 13:18:00",
          "title" : "Kosteniuk Joins Grand Prix Leaders"
-      },
-      {
-         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
-         "pubDate" : "Sun, 18 Aug 2024 12:50:00",
-         "title" : "Women's Grand Prix Tbilisi - Live!"
       },
       {
          "description" : "",
@@ -968,22 +976,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/brilliant-under-10s/",
          "pubDate" : "Fri, 02 Aug 2024 09:05:38",
          "title" : "Brilliant Under 10s!"
-      },
-      {
-         "description" : "Please find the Certificates right here No Name 1 Asim Billah Wali 2 Muhammed Uvais Karni 3 Raman Gupta 4 Jithin Anil 5 Munish Kumar",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-for-sna-seminar-held-at-jammu-from-20-to-21-july-2024/",
-         "pubDate" : "Fri, 02 Aug 2024 08:31:31",
-         "title" : "Certificates for SNA Seminar held at Jammu from 20 to 21 July 2024"
-      },
-      {
-         "description" : "Please find the Certificates here NATIONAL UNDER 17 :OPEN Rank Name 1 Sriram Adarsh Uppala 2 Arpith S Bijoy 3 Jaiveer Mahendru 4 Nandish V",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/certificates-national-under-17-chess-championship-2024/",
-         "pubDate" : "Fri, 02 Aug 2024 08:17:41",
-         "title" : "Certificates :National Under 17 Chess Championship 2024"
       },
       {
          "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the youngest current grandmaster and the fourth youngest GM in history. He reached the verge of another significant milestone las",
