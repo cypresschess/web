@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the additional players and accompanying persons are required to",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/fide-world-youth-chess-championships-2024-florianopolis-brazil-28th-october-to-10th-november-2024/",
+         "pubDate" : "Tue, 20 Aug 2024 11:29:16",
+         "title" : "FIDE World Youth Chess Championships - 2024 Florianopolis, Brazil 28th October to 10th November, 2024"
+      },
+      {
+         "description" : "The two most anticipated matchups of the Sinquefield Cup were seen in the very first round of the event. The duel between World Championship contenders Ding Liren and D Gukesh ended drawn after Ding went for a trying line with the white pieces only to see Gukesh defending the position accurately. Meanwhile, the two frontrunners in the Grand Chess Tour standings, Fabiano Caruana and Alireza Firouzja, played a tense, 85-move game. Firouzja ended up prevailing with the black pieces. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-1",
+         "pubDate" : "Tue, 20 Aug 2024 11:15:00",
+         "title" : "Sinquefield Cup: Firouzja takes down Caruana"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3168",
+         "pubDate" : "Tue, 20 Aug 2024 10:52:51",
+         "title" : "FIDE Council meeting July 21 and 29, 2024: List of decisions"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Caruana in Round 1 of the 2024 Sinquefield Cup. 2024.08.19<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hid",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -82,14 +106,6 @@ news_feed (
          "title" : "RECAP | 2024 Sinquefield Cup: Round 1 | #GrandChessTour"
       },
       {
-         "description" : "Three games ended decisively in the exciting fifth round of the Tbilisi Women's Grand Prix. Nana Dzagnidze and Mariya Muzychuk grabbed full points to join the lead, while Sara Khadem (pictured) obtained an uplifting victory after having struggled in the previous 4 rounds. Dzagnidze and M. Muzychuk are sharing the lead with Stavroula Tsolakidou and Bibisara Assaubayeva. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-5",
-         "pubDate" : "Tue, 20 Aug 2024 02:45:00",
-         "title" : "WGP Tbilisi: Exciting round leaves four players tied for first place"
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 1. 2024.08.11<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidd",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -106,19 +122,11 @@ news_feed (
          "title" : "FIDE 100 Celebrations in Quebec City"
       },
       {
-         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
-         "pubDate" : "Mon, 19 Aug 2024 19:50:00",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
          "description" : "GM Alireza Firouzja gained the sole lead at the 2024 Sinquefield Cup by defeating GM Fabiano Caruana in round one.&#38;nbsp; GM Ding Liren hinted at attacking intentions vs. GM Gukesh Dommaraju. Yet, when the 18-year-old challenger created counterpl...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-1",
-         "pubDate" : "Mon, 19 Aug 2024 19:07:42",
+         "pubDate" : "Mon, 19 Aug 2024 19:07:00",
          "title" : "Firouzja Bests Caruana, Gains Sole Lead"
       },
       {
@@ -280,6 +288,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3160",
          "pubDate" : "Sat, 17 Aug 2024 13:11:59",
          "title" : "Alireza Firouzja wins 2024 Saint Louis Rapid & Blitz"
+      },
+      {
+         "description" : "Next week I will prepare my fianc&eacute;e WFM Alessia Santeramo in her OTB tournament in Maia, Portugal. The goal is to get her ready for the game with as little work as possible for her. I will prepare her with a method I used for myself, my students, and a few 2600+ GMs, which I []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/how-to-prepare-like-a-grandmaster/",
+         "pubDate" : "Sat, 17 Aug 2024 13:11:00",
+         "title" : "How to prepare like a Grandmaster"
       },
       {
          "description" : "An exciting variation in the chess openings is known as the Poisoned Pawn. The theme is an early foray by the black Queen in the Sicilian Defence to grab White's pawn on b2. Black wins material, but suffers in terms of development. It was a favourite of Bobby Fischer, who experienced ups and downs on []",
@@ -722,6 +738,14 @@ news_feed (
          "title" : "Cold War chessboard diplomacy"
       },
       {
+         "description" : "Sadly, most of us had an experience with a toxic opponent. It can throw you off the game. Instead of thinking about the chess moves on the board, you think about them and how annoying they are. Well, that's exactly what they want. They are more likely to win and couldn't care less about you []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/toxic-opponent/",
+         "pubDate" : "Sat, 10 Aug 2024 13:41:45",
+         "title" : "How to handle toxic chess opponents"
+      },
+      {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The ongoing <strong>Lewis Chess Legends</strong> in Trondheim runs a mixed open tournament where the <a href=\"https://www.lewischesslegends.com/registration\">prize money for the top ranked women matches</a> the prize money for the top ranked men. </div> ",
          "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
          "iconName" : "ChessTech",
@@ -856,14 +880,6 @@ news_feed (
          "link" : "https://www.europechess.org/eu-youth-chess-championship-2024-commenced-in-czech-republic/",
          "pubDate" : "Tue, 06 Aug 2024 15:14:11",
          "title" : "EU Youth Chess Championship 2024 commenced in Czech Republic"
-      },
-      {
-         "description" : "Please find live link for 23rd Tamil Nadu IM norm tournament starts on 6th Aug 2024. Live Link :&#160;https://live.tamilchess.com/23rd-im-norm-chennai/",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/live-games-23rd-tamil-nadu-im-tournament-06-aug-2024/",
-         "pubDate" : "Tue, 06 Aug 2024 11:20:55",
-         "title" : "Live Games => 23rd Tamil Nadu IM Tournament - 06 Aug 2024"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>French Chess Federation</strong> is <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=15033\">present throughout this week at the Club France fanzone</a> of the <strong>Olympic Games</strong> at Paris-La Villette with GMs <strong>Marie Sebag</strong> and <strong>Laurent Fressinet.</strong> </div> ",
