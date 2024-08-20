@@ -2,12 +2,92 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Three games ended decisively in the exciting fifth round of the Tbilisi Women's Grand Prix. Nana Dzagnidze and Mariya Muzychuk grabbed full points to join the lead, while Sara Khadem (pictured) obtained an uplifting victory after having struggled in the previous 4 rounds. Dzagnidze and M. Muzychuk are sharing the lead with Stavroula Tsolakidou and Bibisara Assaubayeva. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-5",
+         "pubDate" : "Tue, 20 Aug 2024 02:45:00",
+         "title" : "WGP Tbilisi: Exciting round leaves four players tied for first place"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 1. 2024.08.11<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidd",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-sinquefield-cup%E2%80%99s-rich-history-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 00:06:04",
+         "title" : "Caruana on the Sinquefield Cup's Rich History | #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grandmaster Maurice Ashley joins the show during Round 1 of the 2024 Sinquefield Cup. 2024.08.19<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CC",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/maurice-ashley-return-commentary-chess-9lx-r1-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 00:06:04",
+         "title" : "Maurice Ashley to Return to Commentary for Chess 9LX! | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Sinquefield Cup, as of before play. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-play-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1wXI_DBXNMc.jpg?itok=6FhXV9W5\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/who-likely-win-play-r1-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 00:06:04",
+         "title" : "Who is Likely to Win (Before Play)? | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Grand Chess Tour, as of before the Sinquefield Cup. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chances-win-grand-chess-tour-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bdvOb5nTJYA.jpg?itok=tnZEHuSm\" alt=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/chances-win-grand-chess-tour-r1-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 00:06:04",
+         "title" : "Chances to Win the Grand Chess Tour | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after a draw against Nepomniachtchi in Round 1 of the 2024 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-under-pressure-place-gct-top-3-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_KWyVp3POt4.jpg?itok=-IOfc-Dd\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-under-pressure-place-gct-top-3-r1-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 00:06:04",
+         "title" : "MVL: Under Pressure to Place in GCT Top 3 | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-2-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defau",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-2-grandchesstour",
+         "pubDate" : "Tue, 20 Aug 2024 00:06:04",
+         "title" : "2024 Sinquefield Cup: Round 2 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> R Praggnanandhaa talks to Cristian Chirila after a draw against Abdusattorov in Round 1 of the 2024 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pragg-draws-inspiration-saint-louis-zoo-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dPkcbpDxGJs.jpg?itok=XQTWxo15\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pragg-draws-inspiration-saint-louis-zoo-r1-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 00:06:04",
+         "title" : "Pragg Draws Inspiration from the Saint Louis Zoo | R1 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ding Liren talks to Cristian Chirila after a draw against Gukesh in Round 1 of the 2024 Sinquefield Cup. 2024.08.19<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidde",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ding-surprise-gukesh-opening-save-my-preparation-r1-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 00:06:04",
+         "title" : "Ding: Surprise Gukesh in the Opening; Save My Preparation! | R1 #SinquefieldCup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"><h2 style=\"text-align: center; font-size: 20px;\"><strong>Grandmaster Alireza Firouzja Wins Saint Louis Rapid &amp; Blitz</strong></h2> <p style=\"text-align: center; font-size: 20px;\"><em>Final Leg of the Grand Chess Tour Kicks Off Today in Saint Louis</em> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-feature-image field-type-image field-label-hidden field-wrapper\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/blog/featured/GM%20Alireza%20Firouzja%20Wins%20Saint%20Louis%20Rapid%20%26%20BlitzLOG09821.j",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/news/grandmaster-alireza-firouzja-wins-saint-louis-rapid-blitz",
          "pubDate" : "Mon, 19 Aug 2024 22:16:33",
          "title" : "Grandmaster Alireza Firouzja Wins Saint Louis Rapid & Blitz"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3167",
+         "pubDate" : "Mon, 19 Aug 2024 21:56:31",
+         "title" : "FIDE 100 Celebrations in Quebec City"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the first round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/GL2l2BlRPJw.jpg?itok=1Gp4P3Bq\" alt=\"\" /></a></div>",
@@ -18,28 +98,20 @@ news_feed (
          "title" : "How Will Each Game End? | R1 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The team looks at performances of Ding Liren and Gukesh D in their respective recent classical tournaments during the first round of the 2024 Sinquefield Cup. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/gukesh-outperforms-ding-respective-recent-events-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ac8StQmnwI0.jpg?itok=47yZCBZp\" ",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-outperforms-ding-respective-recent-events-r1-sinquefieldcup",
-         "pubDate" : "Mon, 19 Aug 2024 21:06:04",
-         "title" : "Gukesh Outperforms Ding in Respective Recent Events! | R1 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at a YouTube poll asking viewers which game of the day they anticipate the most before the first round of the 2024 Sinquefield Cup. Wesley So vs. Anish Giri was not an option due to poll limitation. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/what-games-are-fans-most-excited-see-r1-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/T-YVdeDPzfg.jpg?i",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/what-games-are-fans-most-excited-see-r1-sinquefieldcup",
-         "pubDate" : "Mon, 19 Aug 2024 21:06:04",
-         "title" : "What Games are Fans Most Excited to See? | R1 #SinquefieldCup"
-      },
-      {
          "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
          "pubDate" : "Mon, 19 Aug 2024 19:50:00",
          "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "GM Alireza Firouzja gained the sole lead at the 2024 Sinquefield Cup by defeating GM Fabiano Caruana in round one.&#38;nbsp; GM Ding Liren hinted at attacking intentions vs. GM Gukesh Dommaraju. Yet, when the 18-year-old challenger created counterpl...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-1",
+         "pubDate" : "Mon, 19 Aug 2024 19:07:42",
+         "title" : "Firouzja Bests Caruana, Gains Sole Lead"
       },
       {
          "description" : "",
@@ -50,7 +122,7 @@ news_feed (
          "title" : "The day of surprising twists at the Women's Grand Prix in Tbilisi"
       },
       {
-         "description" : "The Community Championship Series returned on Monday with the 2024 Chess.com Bughouse Championship and two teams, GM Lars Oskar Hauge and NM Isaac Chiu along with GMs Jeffery Xiong and Awonder Liang, rose above 400 participating teams to book thei...",
+         "description" : "The Community Championship Series returned on Monday with the 2024 Chess.com Bughouse Championship and two teams: GM Lars Oskar Hauge and NM Isaac Chiu along with GMs Jeffery Xiong and Awonder Liang, rose above 400 participating teams to book thei...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-1-2",
@@ -64,14 +136,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-5",
          "pubDate" : "Mon, 19 Aug 2024 14:44:25",
          "title" : "Sara Khadem, Nana Dzagnidze, Mariya Muzychuk All Score 1st Wins"
-      },
-      {
-         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
-         "pubDate" : "Mon, 19 Aug 2024 12:50:00",
-         "title" : "Women's Grand Prix Tbilisi - Live!"
       },
       {
          "description" : "",
@@ -130,14 +194,6 @@ news_feed (
          "title" : "SNA Seminar in Thoothukudi on 31 Aug to 01 Sept 2024"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> With two rounds to spare, Alireza defeats Nepomniachtchi to win the 2024 Saint Louis Rapid and Blitz </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alireza-defeats-nepoclinches-victory-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LkXbSvcTgzE.jpg?itok=RK2AuTiw\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/alireza-defeats-nepoclinches-victory-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Mon, 19 Aug 2024 03:05:39",
-         "title" : "Alireza Defeats Nepo...Clinches Victory!! #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
          "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three poi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -160,46 +216,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3162",
          "pubDate" : "Sun, 18 Aug 2024 19:01:29",
          "title" : "FIDE WGP Tbilisi: Miraculous save by Nana Dzagnidze in Round 4"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> As time is running out, Levon frantically puts his king and queen in harms way. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/levon-watch-out-your-queen-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v3UM70z2vbE.jpg?itok=h3nvLpSy\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/levon-watch-out-your-queen-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 18:05:20",
-         "title" : "Levon, Watch Out For Your Queen! #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Commentators analyze the possibilities of why Nepo plays Bf3 against Alireza </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/does-bf3-strategy-payoff-against-alireza-grandchesstour-chess-chessstrategy-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/LHl-m1CYY1U.jpg?itok=JdYn1dOE\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/does-bf3-strategy-payoff-against-alireza-grandchesstour-chess-chessstrategy-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 18:05:20",
-         "title" : "Does the Bf3 Strategy Payoff Against Alireza? #grandchesstour #chess #chessstrategy #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Rook and Bishop versus Rook and Knight played between Alireza and Leinier </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/endgame-chess-engines-teeter-totter-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/azwLoMkgfQg.jpg?itok=DtCLC_Vz\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/endgame-chess-engines-teeter-totter-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 18:05:20",
-         "title" : "Endgame: Chess Engine's Teeter Totter #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Nodirbek hustles his pawn to the promoting square to defeat against Alireza in this rook and pawn endgame. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nodirbeks-pawn-hustle-win-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/3snpDM0snV4.jpg?itok=Iwh-4FUh\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nodirbeks-pawn-hustle-win-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 18:05:20",
-         "title" : "Nodirbek's Pawn Hustle For The Win #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> In a time crunch, Fabi rids his g-pawn, and lets his rook do the damage against Nepo&#039;s bishop and knight in this endgame </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabis-rook-goes-ham-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/TqHLatYzyg0.jpg?itok=ntu8qb8Z\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabis-rook-goes-ham-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Sun, 18 Aug 2024 18:05:20",
-         "title" : "Fabi's Rook Goes H.A.M. #grandchesstour #chess #chessendgame #chesscom"
       },
       {
          "description" : "GM Alexandra Kosteniuk has joined IMs Bibisara Assaubayeva and Stavroula Tsolakidou in the lead of the 2024 Tbilisi FIDE Women&#39;s Grand Prix after pouncing on a mistake by the luckless IM Sara Khadem in round four. GM Anna Muzychuk could have joine...",
@@ -632,14 +648,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-1",
          "pubDate" : "Mon, 12 Aug 2024 14:10:00",
          "title" : "WIM Alua Nurman Keeps Her Cool To Win First WSCC Play-In"
-      },
-      {
-         "description" : "Are you ready for piece placement pandemonium? Chess.com is excited to announce the next event of the Chess.com Community Championships, the 2024 Chess.com Bughouse Championship! Starting on August 19, anyone can battle for a piece of this month&#39;s...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/announcing-chesscom-bughouse-championship-2024",
-         "pubDate" : "Mon, 12 Aug 2024 12:08:00",
-         "title" : "Can You Become The 1st Ever Chess.com Bughouse Champion?"
       },
       {
          "description" : "",
