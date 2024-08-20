@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3170",
+         "pubDate" : "Tue, 20 Aug 2024 13:00:43",
+         "title" : "Infinite Chess online panel discussion for chess teachers and tutors announced"
+      },
+      {
+         "description" : "This year saw many strong entries and the Awards Committee took on a tough task in reviewing and voting on them all. I was delighted...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-awards-2024/",
+         "pubDate" : "Tue, 20 Aug 2024 11:30:19",
+         "title" : "ECF Awards 2024"
+      },
+      {
          "description" : "The above amount includes Registration Fee, Entry Fee, Accommodation Charges and Bank Charges only.&#160;As said earlier the additional players and accompanying persons are required to",
          "iconLink" : "https://cypresschess.github.io/web/aicf.png",
          "iconName" : "All India Chess<br>Federation",
@@ -114,6 +130,14 @@ news_feed (
          "title" : "Caruana on the Sinquefield Cup's Rich History | #SinquefieldCup"
       },
       {
+         "description" : "The US Chess Executive Board, after consultation with the US Chess Office, announces that effective September 1, 2024, the Voucher membership program will be implementing a revised price structure and updated terms.<br /><br /> Pricing rates for this discounted pre-paid membership program have not been increased for several years, remaining constant even after the last membership dues change. These increases are to bring the program's pricing to be more proportional to the current and upcoming value of the standard Youth membership price (currently $20, but will be increasing with all memberships as of January 1, 2025).<br /><br /> Changes are being implemented for this program quickly, as V",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/voucher-membership-program-revised-prices-and-terms-starting-september-1",
+         "pubDate" : "Tue, 20 Aug 2024 00:00:00",
+         "title" : "Voucher Membership Program: Revised Prices and Terms Starting September 1"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -210,7 +234,7 @@ news_feed (
          "title" : "SNA Seminar in Thoothukudi on 31 Aug to 01 Sept 2024"
       },
       {
-         "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three poi",
+         "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three points ahead of GM Wesley So, who won $30,000 for his second-place finish.<",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/gct-updates-firouzja-wins-2024-saint-louis-rapid-and-blitz-sinquefield-cup-begin-today",
@@ -978,14 +1002,6 @@ news_feed (
          "title" : "Kevin Pryor Named President of US Chess"
       },
       {
-         "description" : "And then there were four! After an intense eighth round that saw decisive results on each of the top nine boards, GMs Jianchao Zhou, Semen Khanin, Fidel Corrales, and Mackenzie Molner share the lead with 7/8 scores heading into the final round of the 124th Annual U.S. Open.<br /><br /> With Corrales having already played both Molner and Zhou (drawing each game), we should expect the final pairings to be Khanin - Corrales and Molner - Zhou. Games begin at 3 p.m. EDT, with live commentary from WGM Sabina Foisor and Gopal Menon on our Twitch and YouTube pages.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/corrales-molner-take-inside-track-us-championship-spot-one-round-go-us-open",
-         "pubDate" : "Sun, 04 Aug 2024 00:00:00",
-         "title" : "Corrales, Molner Take Inside Track On U.S. Championship Spot With One Round To Go In U.S. Open"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1080,14 +1096,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3133",
          "pubDate" : "Thu, 01 Aug 2024 15:23:39",
          "title" : "FIDE August 2024 rating list published"
-      },
-      {
-         "description" : "From left to right Jonathan Mestel, John Nunn and David Hodge. Christopher Jones writes &#8212; &#8216;In the final results table, you'll see that their...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/uk-wins-the-world-team-chess-solving-championships/",
-         "pubDate" : "Thu, 01 Aug 2024 08:23:49",
-         "title" : "UK wins the World Team Chess Solving Championships!"
       },
       {
          "description" : "The tenth game of the 1921 match saw challenger Jos&eacute; Ra&uacute;l Capablanca gain an advantage with the black pieces, but with limited material on the board, World Champion Lasker had chances of survival. We gave our readers several interesting riddles we want to solve. Here is the definitive solution to the historic game.",
