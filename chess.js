@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann is facing three of the world's strongest players in head-to-head matchups that each includes blitz, rapid and classical games. After beating Giri in Utrecht and Vitiugov in London, Niemann faces Etienne Bacrot at the Blitz Society Bar in Paris (pictured). The first two classical games take place on Tuesday, 20 August at 10.00 and 16.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-live",
+         "pubDate" : "Tue, 20 Aug 2024 15:50:00",
+         "title" : "Niemann v. Bacrot, Day 1 - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/uk-open-blitz-championships-2024/",
+         "pubDate" : "Tue, 20 Aug 2024 15:22:04",
+         "title" : "UK Open Blitz Championships 2024"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -167,7 +183,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-1-2",
          "pubDate" : "Mon, 19 Aug 2024 16:23:13",
-         "title" : "Xiong, Liang Dominate Qualifier As Bughouse Championship Gets Underway"
+         "title" : "Xiong, Liang Win 50 Consecutive Games In Bughouse Championship Qualifier"
       },
       {
          "description" : "GMs Nana Dzagnidze and Mariya Muzychuk have joined the leaders of the 2024 Tbilisi FIDE Women&#39;s Grand Prix after scoring dramatic first wins to beat GMs Alexandra Kosteniuk and Vaishali Rameshbabu in round five. There was also a first win for IM S...",
@@ -1056,14 +1072,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/how-much-chess-improvement/",
          "pubDate" : "Fri, 02 Aug 2024 12:48:00",
          "title" : "How much chess improvement is possible?"
-      },
-      {
-         "description" : "Ones to watch Ethan Pang, Bodhana Sivanandan and Kushal Jakhria!",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/brilliant-under-10s/",
-         "pubDate" : "Fri, 02 Aug 2024 09:05:38",
-         "title" : "Brilliant Under 10s!"
       },
       {
          "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the youngest current grandmaster and the fourth youngest GM in history. He reached the verge of another significant milestone las",
