@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
+         "pubDate" : "Tue, 20 Aug 2024 19:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "After an intense first day of games, Jos&eacute; Mart&iacute;nez has taken a 7-5 lead over former World Champion Vladimir Kramnik. The event, which features both online and over-the-board matches, is designed to address the hot topic of cheating in chess. \"I noticed that the online part was working perfectly this time,\" said Kramnik, \"no lag, no bugs, and no fair play issues.\" You can join many top players watching the encounter for two more days. | Photo by Antony Jones/Getty Images for World Chess.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/jos-martnez-leads-kramnik-7-5",
+         "pubDate" : "Tue, 20 Aug 2024 19:09:37",
+         "title" : "Jos&eacute; Mart&iacute;nez Leads Kramnik 7-5"
+      },
+      {
          "description" : "Hans Niemann is facing three of the world's strongest players in head-to-head matchups that each includes blitz, rapid and classical games. After beating Giri in Utrecht and Vitiugov in London, Niemann faces Etienne Bacrot at the Blitz Society Bar in Paris (pictured). The first two classical games take place on Tuesday, 20 August at 10.00 and 16.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +32,14 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/uk-open-blitz-championships-2024/",
          "pubDate" : "Tue, 20 Aug 2024 15:22:04",
          "title" : "UK Open Blitz Championships 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3171",
+         "pubDate" : "Tue, 20 Aug 2024 13:55:14",
+         "title" : "FIDE celebrates centenary in Tbilisi with chess legends"
       },
       {
          "description" : "",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "The Silicon Overlord Doesn't Like This Move #grandchesstour #chess #chesstactics #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Wanting an evaluation of a position played between Nodirbek and Pragg, Yasser calls on The Silicon Overlord. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/calculation-silicon-overlord-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ygqyY2bbkw8.jpg?itok=rrafBhWV\" alt=\"\" /></a></div>",
+         "description" : "<div class=\"body text-secondary\"> Wanting a chess engine evaluation of the position played between Nodirbek and Pragg, Yasser calls on The Silicon Overlord. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/calculation-silicon-overlord-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/ygqyY2bbkw8.jpg?itok=rrafBhWV\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/calculation-silicon-overlord-grandchesstour-chess-chesstactics-chesscom",
@@ -144,6 +168,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/caruana-sinquefield-cup%E2%80%99s-rich-history-sinquefieldcup",
          "pubDate" : "Tue, 20 Aug 2024 00:06:04",
          "title" : "Caruana on the Sinquefield Cup's Rich History | #SinquefieldCup"
+      },
+      {
+         "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-tournament-state-champions-pt-2",
+         "pubDate" : "Tue, 20 Aug 2024 00:00:00",
+         "title" : "Tactics Tuesday: Tournament of State Champions, Pt. 2"
       },
       {
          "description" : "The US Chess Executive Board, after consultation with the US Chess Office, announces that effective September 1, 2024, the Voucher membership program will be implementing a revised price structure and updated terms.<br /><br /> Pricing rates for this discounted pre-paid membership program have not been increased for several years, remaining constant even after the last membership dues change. These increases are to bring the program's pricing to be more proportional to the current and upcoming value of the standard Youth membership price (currently $20, but will be increasing with all memberships as of January 1, 2025).<br /><br /> Changes are being implemented for this program quickly, as V",
@@ -250,7 +282,7 @@ news_feed (
          "title" : "SNA Seminar in Thoothukudi on 31 Aug to 01 Sept 2024"
       },
       {
-         "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three points ahead of GM Wesley So, who won $30,000 for his second-place finish.<",
+         "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three poi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/gct-updates-firouzja-wins-2024-saint-louis-rapid-and-blitz-sinquefield-cup-begin-today",
@@ -1008,14 +1040,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3139",
          "pubDate" : "Sun, 04 Aug 2024 17:07:13",
          "title" : "Al-Ain ACMG UAE become the new World Rapid Team Champions"
-      },
-      {
-         "description" : "Kevin Pryor was named the President of US Chess today. Pryor, who was Vice President to this point, stated, \"Today I was honored to be elected the 32nd President of US Chess, an organization with over 110,000 members. I am grateful to the Executive Board for the confidence they have in me to lead the organization at this time. I thank outgoing President Randy Bauer for his two years of leading our federation and for well over a decade of service on the Board. I look forward to the wonderful things we all will do together to further the game we all love.\"<br /><br /> Hear more from Pryor in this brief interview:<br /><br /><br /> Kevin Pryor is the new US Chess President, @jfernandez is our n",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/kevin-pryor-named-president-us-chess",
-         "pubDate" : "Sun, 04 Aug 2024 00:00:00",
-         "title" : "Kevin Pryor Named President of US Chess"
       },
       {
          "description" : "",
