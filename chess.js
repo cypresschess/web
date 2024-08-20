@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-3-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defau",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-3-grandchesstour",
+         "pubDate" : "Tue, 20 Aug 2024 21:06:33",
+         "title" : "2024 Sinquefield Cup: Round 3 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the second round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VrSCpm5hHPU.jpg?itok=Cmdc70wC\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r2-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 21:06:33",
+         "title" : "How Will Each Game End? | R2 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Sinquefield Cup, as of before the second round. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-1-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Lu4oicCSvZA.jpg?itok=4gfrQpK3\" alt=\"\" /",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-1-r2-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 21:06:33",
+         "title" : "Who is Likely to Win (After Round 1)? | R2 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ding Liren talks to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 2. 2024.08.17<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ding-2019-cup-winner-back-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 21:06:33",
+         "title" : "Ding: The 2019 Cup Winner is Back! | #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Edward Jones Financial Advisor Alex Kerford joins the show during Round 2 of the 2024 Sinquefield Cup. 2024.08.20<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alex-kerford-stl-corporate-chess-league-stronger-ever-r2-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 21:06:33",
+         "title" : "Alex Kerford: STL Corporate Chess League Stronger Than Ever! | R2 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Grand Chess Tour, as of before the second round of the Sinquefield Cup. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-over-80-favored-win-grand-chess-tour-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtub",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-over-80-favored-win-grand-chess-tour-r2-sinquefieldcup",
+         "pubDate" : "Tue, 20 Aug 2024 21:06:33",
+         "title" : "Firouzja Over 80% Favored Win the Grand Chess Tour | R2 #SinquefieldCup"
+      },
+      {
          "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -66,14 +114,6 @@ news_feed (
          "title" : "FIDE World Youth Chess Championships - 2024 Florianopolis, Brazil 28th October to 10th November, 2024"
       },
       {
-         "description" : "The two most anticipated matchups of the Sinquefield Cup were seen in the very first round of the event. The duel between World Championship contenders Ding Liren and D Gukesh ended drawn after Ding went for a trying line with the white pieces only to see Gukesh defending the position accurately. Meanwhile, the two frontrunners in the Grand Chess Tour standings, Fabiano Caruana and Alireza Firouzja, played a tense, 85-move game. Firouzja ended up prevailing with the black pieces. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-1",
-         "pubDate" : "Tue, 20 Aug 2024 11:15:00",
-         "title" : "Sinquefield Cup: Firouzja takes down Caruana"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -114,60 +154,12 @@ news_feed (
          "title" : "A Calculation by The Silicon Overlord #grandchesstour #chess #chesstactics #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> In what would be possibly end with a three-fold repetition, Peter Svidler shares a story by GM Eduard Gufeld </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/threefold-story-eduard-gufeld-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/eO6HmkWIwjU.jpg?itok=ltZqSO16\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/threefold-story-eduard-gufeld-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Tue, 20 Aug 2024 06:06:09",
-         "title" : "Threefold Story by Eduard Gufeld #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> World Champion Ding Liren starts his first round with a line in the Italian against upcoming Challenger, Gukesh D </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/old-tune-giuoco-piano-grandchesstour-chess-chessopenings-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uXZQRUamLbs.jpg?itok=aJ6fpqRr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/old-tune-giuoco-piano-grandchesstour-chess-chessopenings-chesscom",
-         "pubDate" : "Tue, 20 Aug 2024 06:06:09",
-         "title" : "An Old Tune in the Giuoco Piano #grandchesstour #chess #chessopenings #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The move heard across the chess world. Magnus in Poland, and now Fabi in St. Louis </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-nooo-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/G-bnOVQcFtg.jpg?itok=SN_pbY9p\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-nooo-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Tue, 20 Aug 2024 06:06:09",
-         "title" : "FABI NOOO!! #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112641246.cms\" />India's chess star D Gukesh drew against world champion Ding Liren in the first round of the Sinquefield Cup. It was a preview of their upcoming World Chess Championship match. Gukesh, ranked sixth globally, narrowly escaped a tough position. The Championship will be held in Singapore from November 20 to December 15, 2024.",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
          "link" : "https://timesofindia.indiatimes.com/sports/chess/d-gukesh-plays-out-a-draw-with-ding-liren-in-sinquefield-cup-2024-clash/articleshow/112641246.cms",
          "pubDate" : "Tue, 20 Aug 2024 04:00:58",
          "title" : "D Gukesh plays out a draw with Ding Liren in Sinquefield Cup 2024 clash"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Anish Giri talks to Cristian Chirila after a draw against Wesley So in Round 1 of the 2024 Sinquefield Cup. 2024.08.19<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/giri-hard-accept-when-hans-proves-he-isn%E2%80%99t-noob-r1-sinquefieldcup",
-         "pubDate" : "Tue, 20 Aug 2024 03:06:06",
-         "title" : "Giri: Hard to Accept When Hans Proves He ISN'T a Noob | R1 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Begim Tokhirjonova recaps Round 1 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in St. Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-1-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/st",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-1-grandchesstour",
-         "pubDate" : "Tue, 20 Aug 2024 03:06:06",
-         "title" : "RECAP | 2024 Sinquefield Cup: Round 1 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 1. 2024.08.11<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidd",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/caruana-sinquefield-cup%E2%80%99s-rich-history-sinquefieldcup",
-         "pubDate" : "Tue, 20 Aug 2024 00:06:04",
-         "title" : "Caruana on the Sinquefield Cup's Rich History | #SinquefieldCup"
       },
       {
          "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
