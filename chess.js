@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
+         "pubDate" : "Wed, 21 Aug 2024 12:50:00",
+         "title" : "Women's Grand Prix Tbilisi - Live!"
+      },
+      {
          "description" : "All five games ended drawn in round 2 of the Sinquefield Cup, leaving Alireza Firouzja as the sole leader in the standings. The tournament leader, who is also in first place in the Grand Chess Tour standings, safely held Nodirbek Abdusattorov to a draw with the black pieces. The most exciting encounter of the day saw D Gukesh getting the upper hand against Ian Nepomniachtchi, but failing to convert his extra pawn into a win in a technical endgame. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,14 +114,6 @@ news_feed (
          "title" : "2024 Sinquefield Cup: Round 3 | #GrandChessTour"
       },
       {
-         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
-         "pubDate" : "Tue, 20 Aug 2024 19:50:00",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
          "description" : "The 2024 Chess.com Bughouse Championship continued on Tuesday with the third and fourth qualifiers and IM Mark Plotkin, NM Jalen Wang, GM Guillermo Vasquez, and Grace &#34;Helmsknight&#34; Ferguson qualified for the knockout ahead of 240 other teams. Fo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -154,7 +154,7 @@ news_feed (
          "title" : "Infinite Chess online panel discussion for chess teachers and tutors announced"
       },
       {
-         "description" : "This year saw many strong entries and the Awards Committee took on a tough task in reviewing and voting on them all. I was delighted...",
+         "description" : "This year saw many strong entries and the Awards Committee took on a tough task in reviewing and voting on them all. I was delighted to find that clear winners...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/ecf-awards-2024/",
@@ -722,7 +722,7 @@ news_feed (
          "title" : "2024 Saint Louis Rapid & Blitz: Vachier-Lagrave takes early lead"
       },
       {
-         "description" : "Thanks to the generous support of the John Robinson Youth Chess Trust, there are a number of junior bursaries (comprising free entry) available for England-affiliated...",
+         "description" : "Thanks to the generous support of the John Robinson Youth Chess Trust, there are a number of junior bursaries (comprising free entry) available for England-affiliated players aged Under 21 entering...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/junior-bursaries-for-the-northumbria-masters-2/",
@@ -898,7 +898,7 @@ news_feed (
          "title" : "EDU Commission announces its 18th \"Preparation of Teachers\" course"
       },
       {
-         "description" : "Skip to 50:25 to enjoy Shreyas' interview on BBC Breakfast this morning 7/8/24 https://www.bbc.co.uk/iplayer/episode/m0021sq1/breakfast-07082024 and follow this link to the BBC website for...",
+         "description" : "Skip to 50:25 to enjoy Shreyas' interview on BBC Breakfast this morning 7/8/24 https://www.bbc.co.uk/iplayer/episode/m0021sq1/breakfast-07082024 and follow this link to the BBC website for an article by Tony Grew...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/shreyas-royal-on-the-bbc/",
@@ -930,7 +930,7 @@ news_feed (
          "title" : "Jessica Hyatt earns National Master title!"
       },
       {
-         "description" : "Congratulations to the 2024 British Chess Champion GM Gawain Jones, who became the latest champion following Sunday's exciting playoff against second placed GM David Howell!&#160;...",
+         "description" : "Congratulations to the 2024 British Chess Champion GM Gawain Jones, who became the latest champion following Sunday's exciting playoff against second placed GM David Howell!&#160; Gawain and David agreed a...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/2024-british-chess-championship-results/",
@@ -938,7 +938,7 @@ news_feed (
          "title" : "2024 British Chess Championship results"
       },
       {
-         "description" : "Shreyas Royal, aged just 15, is set to become England's 41st grandmaster and the youngest ever, beating GM David Howell's record, after achieving his final...",
+         "description" : "Shreyas Royal, aged just 15, is set to become England's 41st grandmaster and the youngest ever, beating GM David Howell's record, after achieving his final GM norm in the British...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/shreyas-royal-grandmaster/",
@@ -962,7 +962,7 @@ news_feed (
          "title" : "Chess at Paris Olympics"
       },
       {
-         "description" : "For the 2024/25 Fantasy Premier League, why don't you join &#8216;Premier Chess', the long standing league for chess players? Joining the league couldn't be easier....",
+         "description" : "For the 2024/25 Fantasy Premier League, why don't you join &#8216;Premier Chess', the long standing league for chess players? Joining the league couldn't be easier. Simply use the link below...",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2024/",
@@ -1128,14 +1128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3133",
          "pubDate" : "Thu, 01 Aug 2024 15:23:39",
          "title" : "FIDE August 2024 rating list published"
-      },
-      {
-         "description" : "The tenth game of the 1921 match saw challenger Jos&eacute; Ra&uacute;l Capablanca gain an advantage with the black pieces, but with limited material on the board, World Champion Lasker had chances of survival. We gave our readers several interesting riddles we want to solve. Here is the definitive solution to the historic game.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/lasker-capablanca-solved",
-         "pubDate" : "Wed, 31 Jul 2024 10:00:00",
-         "title" : "Lasker-Capablanca solved!"
       }
    ]
 }
