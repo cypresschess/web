@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "All five games ended drawn in round 2 of the Sinquefield Cup, leaving Alireza Firouzja as the sole leader in the standings. The tournament leader, who is also in first place in the Grand Chess Tour standings, safely held Nodirbek Abdusattorov to a draw with the black pieces. The most exciting encounter of the day saw D Gukesh getting the upper hand against Ian Nepomniachtchi, but failing to convert his extra pawn into a win in a technical endgame. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-2",
+         "pubDate" : "Wed, 21 Aug 2024 08:00:00",
+         "title" : "Sinquefield Cup: Five draws, Gukesh puts pressure on Nepo"
+      },
+      {
+         "description" : "The 2024 European Youth Rapid and Blitz Chess Championships officially concluded yesterday in Prague, Czech Republic. With the participation of 650 players coming from 40 European federations, the event broke the participation record. The Closing ceremony of the event took place yesterday evening, with the attendance of the ECU President Mr. Zurab Azmaiparashvili who took part in the awards for the winners. The first event on the schedule was the European Youth Rapid Chess Championship 2024 which took place on []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-rapid-and-blitz-chess-championships-2024-concluded-in-prague/",
+         "pubDate" : "Wed, 21 Aug 2024 05:55:32",
+         "title" : "European Youth Rapid and Blitz Chess Championships 2024 concluded in Prague"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Begim Tokhirjonova recaps Round 2 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in St. Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-2-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/st",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-2-grandchesstour",
+         "pubDate" : "Wed, 21 Aug 2024 03:06:42",
+         "title" : "RECAP | 2024 Sinquefield Cup: Round 2 | #GrandChessTour"
+      },
+      {
          "description" : "Continuing with the \"Hans Niemann against the World\" series, Niemann and Etienne Bacrot began their 5-day match on Tuesday. The first 2 classical games were played at the Blitz Society Bar, with Niemann first holding Bacrot to a 37-move draw with black and then beating the Frenchman while marshalling the white pieces. | Photo: Frans Peeters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,14 +106,6 @@ news_feed (
          "title" : "2024 Sinquefield Cup: Round 3 | #GrandChessTour"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the second round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/VrSCpm5hHPU.jpg?itok=Cmdc70wC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r2-sinquefieldcup",
-         "pubDate" : "Tue, 20 Aug 2024 21:06:33",
-         "title" : "How Will Each Game End? | R2 #SinquefieldCup"
-      },
-      {
          "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -102,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-3-4",
-         "pubDate" : "Tue, 20 Aug 2024 19:10:01",
+         "pubDate" : "Tue, 20 Aug 2024 19:10:00",
          "title" : "Helmsknight, Vasquez Overcome Team Tang To Qualify On 3rd Attempt"
       },
       {
@@ -170,7 +186,7 @@ news_feed (
          "title" : "D Gukesh plays out a draw with Ding Liren in Sinquefield Cup 2024 clash"
       },
       {
-         "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
+         "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-tournament-state-champions-pt-2",
@@ -282,7 +298,7 @@ news_feed (
          "title" : "SNA Seminar in Thoothukudi on 31 Aug to 01 Sept 2024"
       },
       {
-         "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three points ahead of GM Wesley So, who won $30,000 for his second-place finish.<",
+         "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three poi",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/gct-updates-firouzja-wins-2024-saint-louis-rapid-and-blitz-sinquefield-cup-begin-today",
@@ -1120,14 +1136,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/lasker-capablanca-solved",
          "pubDate" : "Wed, 31 Jul 2024 10:00:00",
          "title" : "Lasker-Capablanca solved!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3132",
-         "pubDate" : "Wed, 31 Jul 2024 06:30:56",
-         "title" : "Ding and Carlsen meet in Kazakhstan for the World Rapid and Blitz Team Championship: Everything you need to know"
       }
    ]
 }
