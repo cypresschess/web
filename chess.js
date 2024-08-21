@@ -2,12 +2,44 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The Najdorf Variation of the Sicilian Defence stands for exciting games. GM Luis Engel provides a complete repertoire that allows you to play this attractive opening with confidence and gives you convincing answers to the lines White might try against the Najdorf and the Anti-Sicilians White might try to avoid the Najdorf.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fully-equipped-for-the-najdorf-sicilian",
+         "pubDate" : "Wed, 21 Aug 2024 23:45:00",
+         "title" : "Fully equipped for the Najdorf Sicilian"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Interview with Statistician Ben Underwood, who is tasked with tracking the stats in the 2024 Sinquefield Cup! 2024.08.20<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> / grandchesstour<br /> / stlchessclub<br /> / grandchesstourofficial<br /> / grandchesstour </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/statistician-ben-underwood-explains-numbers-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/sty",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/statistician-ben-underwood-explains-numbers-r2-sinquefieldcup",
+         "pubDate" : "Wed, 21 Aug 2024 21:07:15",
+         "title" : "Statistician Ben Underwood Explains the Numbers | R2 #SinquefieldCup"
+      },
+      {
          "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
          "pubDate" : "Wed, 21 Aug 2024 19:50:00",
          "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3172",
+         "pubDate" : "Wed, 21 Aug 2024 19:13:25",
+         "title" : "WPG Tbilisi: Alina Kashlinskaya joins leaders as the sole winner in Round 6"
+      },
+      {
+         "description" : "IM Alina Kashlinskaya said she was &#34;in a good mood to play a fighting game&#34; and ended up as the only winner in Wednesday&#39;s sixth round at the 2024 Tbilisi FIDE Women&#39;s Grand Prix. Kashlinskaya defeated GM Vaishali Rameshbabu and with the other fou...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-6",
+         "pubDate" : "Wed, 21 Aug 2024 14:41:29",
+         "title" : "Kashlinskaya Beats Vaishali, Joins Leaders In Tbilisi"
       },
       {
          "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
@@ -122,20 +154,20 @@ news_feed (
          "title" : "2024 Sinquefield Cup: Round 4 | #GrandChessTour"
       },
       {
+         "description" : "US Chess is accepting applications for the position of Deputy Executive Director in its St. Louis Office.<br /><br /> The Deputy Executive Director oversees the day-to-day operations of the organization, ensuring that it runs efficiently and that all members of the team have what they need to succeed (such as equipment, supplies, record keeping and a safe and supportive work environment). The Deputy Executive Director will have a strong financial background that will assist the Executive Director in evaluating and formulating budget projections for the organization. The Deputy Executive Director also coordinates communication and information flow among and between stakeholders, executive man",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-seeks-deputy-executive-director",
+         "pubDate" : "Wed, 21 Aug 2024 00:00:00",
+         "title" : "US Chess Seeks Deputy Executive Director"
+      },
+      {
          "description" : "This week's Wednesday Workout is a double-feature on the national invitational tournaments of state champions held alongside the 124th Annual U.S. Open in Norfolk, Virginia. All coverage of these events is available here. <br /><br /> <br /><br /><br /><br /><br /><br /> Download our printable worksheet here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-tournament-champions-pt-1-2",
          "pubDate" : "Wed, 21 Aug 2024 00:00:00",
          "title" : "Wednesday Workout: Tournament of Champions, Pt. 1 & 2 "
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-3-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defau",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-3-grandchesstour",
-         "pubDate" : "Tue, 20 Aug 2024 21:06:33",
-         "title" : "2024 Sinquefield Cup: Round 3 | #GrandChessTour"
       },
       {
          "description" : "The 2024 Chess.com Bughouse Championship continued on Tuesday with the third and fourth qualifiers and IM Mark Plotkin, NM Jalen Wang, GM Guillermo Vasquez, and Grace &#34;Helmsknight&#34; Ferguson qualified for the Knockout ahead of 240 other teams. Fo...",
@@ -210,7 +242,7 @@ news_feed (
          "title" : "D Gukesh plays out a draw with Ding Liren in Sinquefield Cup 2024 clash"
       },
       {
-         "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
+         "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-tournament-state-champions-pt-2",
@@ -730,14 +762,6 @@ news_feed (
          "title" : "FIDE Hands Latvian IM 5-Year-Ban For Obscene Letters To Top Female Players Over A Decade"
       },
       {
-         "description" : "GM Gukesh Dommaraju was gifted a car on Saturday at a spectacular celebration held by his school, Velammal Vidyalaya, on their Mel Ayanambakkam campus in Chennai. The world championship challenger turned 18 this year, which means he&#39;ll be able to ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/gukesh-mercedes-benz-school",
-         "pubDate" : "Tue, 13 Aug 2024 09:54:00",
-         "title" : "Gukesh Gifted Mercedes-Benz By His School"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -984,14 +1008,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2024/",
          "pubDate" : "Tue, 06 Aug 2024 08:00:41",
          "title" : "Premier League Fantasy Football 2024"
-      },
-      {
-         "description" : "This week's puzzles once again come from the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-pan-american-youth-championship-pt-2",
-         "pubDate" : "Tue, 06 Aug 2024 00:00:00",
-         "title" : "Tactics Tuesday: Pan-American Youth Championship, Pt. 2"
       },
       {
          "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A 30 minute documentary by <strong>Dominik Toepfer</strong> on the story of <strong>Lichess</strong> has been <a href=\"https://www.youtube.com/watch?v=H39AHPSBcGc\">released on Youtube</a>. </div> ",
