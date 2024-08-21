@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
+         "pubDate" : "Wed, 21 Aug 2024 19:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -114,7 +122,7 @@ news_feed (
          "title" : "2024 Sinquefield Cup: Round 4 | #GrandChessTour"
       },
       {
-         "description" : "This week's Wednesday Workout is a double-feature on the national invitational tournaments of state champions held alongside the 124th Annual U.S. Open in Norfolk, Virginia. All coverage of these events is available here. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Download our printable worksheet here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's Wednesday Workout is a double-feature on the national invitational tournaments of state champions held alongside the 124th Annual U.S. Open in Norfolk, Virginia. All coverage of these events is available here. <br /><br /> <br /><br /><br /><br /><br /><br /> Download our printable worksheet here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-tournament-champions-pt-1-2",
