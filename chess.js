@@ -10,6 +10,14 @@ news_feed (
          "title" : "Women's Grand Prix Tbilisi - Live!"
       },
       {
+         "description" : "Two weeks after a perfect 11/11 score and one week after finishing in second place twice, GM Magnus Carlsen was back in the Titled Tuesday win column on August 20, taking the late event with 9.5 points. Winning early was GM Jaime Santos, also on 9...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/santos-carlsen-win-titled-tuesday-august-20-2024",
+         "pubDate" : "Wed, 21 Aug 2024 08:08:51",
+         "title" : "Magnus Magnificent Again In Titled Tuesday"
+      },
+      {
          "description" : "All five games ended drawn in round 2 of the Sinquefield Cup, leaving Alireza Firouzja as the sole leader in the standings. The tournament leader, who is also in first place in the Grand Chess Tour standings, safely held Nodirbek Abdusattorov to a draw with the black pieces. The most exciting encounter of the day saw D Gukesh getting the upper hand against Ian Nepomniachtchi, but failing to convert his extra pawn into a win in a technical endgame. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -106,6 +114,14 @@ news_feed (
          "title" : "2024 Sinquefield Cup: Round 4 | #GrandChessTour"
       },
       {
+         "description" : "This week's Wednesday Workout is a double-feature on the national invitational tournaments of state champions held alongside the 124th Annual U.S. Open in Norfolk, Virginia. All coverage of these events is available here. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Download our printable worksheet here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-tournament-champions-pt-1-2",
+         "pubDate" : "Wed, 21 Aug 2024 00:00:00",
+         "title" : "Wednesday Workout: Tournament of Champions, Pt. 1 & 2 "
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-3-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defau",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -114,7 +130,7 @@ news_feed (
          "title" : "2024 Sinquefield Cup: Round 3 | #GrandChessTour"
       },
       {
-         "description" : "The 2024 Chess.com Bughouse Championship continued on Tuesday with the third and fourth qualifiers and IM Mark Plotkin, NM Jalen Wang, GM Guillermo Vasquez, and Grace &#34;Helmsknight&#34; Ferguson qualified for the knockout ahead of 240 other teams. Fo...",
+         "description" : "The 2024 Chess.com Bughouse Championship continued on Tuesday with the third and fourth qualifiers and IM Mark Plotkin, NM Jalen Wang, GM Guillermo Vasquez, and Grace &#34;Helmsknight&#34; Ferguson qualified for the Knockout ahead of 240 other teams. Fo...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-3-4",
@@ -186,7 +202,7 @@ news_feed (
          "title" : "D Gukesh plays out a draw with Ding Liren in Sinquefield Cup 2024 clash"
       },
       {
-         "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
+         "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-tournament-state-champions-pt-2",
@@ -730,14 +746,6 @@ news_feed (
          "title" : "Junior Bursaries for the Northumbria Masters"
       },
       {
-         "description" : "Sehba Shah overcame a severe physical handicap to become Pakistan Women&#39;s Champion. The 59-year-old will now lead the national team competing in the biggest chess event on the calendar. The 45th FIDE Chess Olympiad, which takes place in Hungary&#39;...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/59-year-old-overcomes-severe-physical-handicap-becomes-pakistani-women-champion",
-         "pubDate" : "Tue, 13 Aug 2024 00:32:00",
-         "title" : "59-Year-Old Overcomes Severe Physical Handicap To Become Champion In Pakistan"
-      },
-      {
          "description" : "This week's puzzles come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -1008,14 +1016,6 @@ news_feed (
          "link" : "https://www.chesstech.org/2024/first-black-uschess-president/",
          "pubDate" : "Mon, 05 Aug 2024 10:04:13",
          "title" : "First black USChess president"
-      },
-      {
-         "description" : "The final round of the 124th Annual U.S. Open went down to the wire in Norfolk, Virginia. With four players entering Sunday's games with 7/8 scores, it was anybody's guess who would win the championship. In the end, GMs Jianchao Zhou and Semen Khanin won their respective games over GMs Mackenzie Molner and Fidel Corrales.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Left: Mackenzie Molner (L) faces off against Jianchao Zhou, with Semen Khanin and Fidel Corrales behind them. R",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/full-report-khanin-wins-124th-annual-us-open-liang-qualifies-2024-us-championship",
-         "pubDate" : "Mon, 05 Aug 2024 00:00:00",
-         "title" : "Full report: Khanin Wins 124th Annual U.S. Open, Liang Qualifies for 2024 U.S. Championship"
       },
       {
          "description" : "",
