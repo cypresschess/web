@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
+         "pubDate" : "Thu, 22 Aug 2024 12:50:00",
+         "title" : "Women's Grand Prix Tbilisi - Live!"
+      },
+      {
+         "description" : "All five games in round 3 of the Sinquefield Cup could have easily finished decisively. Three players missed winning chances, though, while Ian Nepomniachtchi and Fabiano Caruana did make the most of their opportunities and scored full points. With his win over Anish Giri, Nepo joined Alireza Firouzja in the lead. Caruana, on his part, beat Nodirbek Abdusattorov and now has a 50-percent score. | Photo: Crystal Fuller",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-3",
+         "pubDate" : "Thu, 22 Aug 2024 09:30:00",
+         "title" : "Sinquefield Cup: Nepo on the attack, joins Firouzja in the lead"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112706729.cms\" />In the third round of the Sinquefield Cup, D Gukesh narrowly avoided defeat against fellow Indian R Praggnanandhaa. Alireza Firouzja, the tour leader, managed a draw while Fabiano Caruana and Ian Nepomniachtchi secured wins. The closely contested tournament features top players and remains highly competitive.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-gukesh-survives-against-praggnanandhaa/articleshow/112706729.cms",
+         "pubDate" : "Thu, 22 Aug 2024 08:47:28",
+         "title" : "Sinquefield Cup: Gukesh survives against Praggnanandhaa"
+      },
+      {
          "description" : "Two days into the match against Etienne Bacrot in Paris, Hans Niemann already has a 6-point lead, as he scored a win and a draw in Wednesday's classical games. Niemann, who comes from beating Anish Giri and Nikita Vitiugov in similar contests, has now climbed to world number 20 in the live ratings list. | Photo: Frans Peeters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +56,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-3-grandchesstour",
          "pubDate" : "Thu, 22 Aug 2024 03:07:29",
          "title" : "RECAP | 2024 Sinquefield Cup: Round 3 | #GrandChessTour"
+      },
+      {
+         "description" : "It was just a matter of time, but now it&#39;s finally official: GM Yagiz Kaan Erdogmus has had his title confirmed, officially making him the world&#39;s youngest grandmaster. Several other rising stars also saw their titles approved. It&#39;s been almost ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/13-year-old-yagiz-kaan-erdogmus-becomes-worlds-youngest-grandmaster",
+         "pubDate" : "Thu, 22 Aug 2024 02:14:00",
+         "title" : "New Titles Approved: 13-Year-Old Erdogmus Takes Title As World's Youngest GM"
       },
       {
          "description" : "The Najdorf Variation of the Sicilian Defence stands for exciting games. GM Luis Engel provides a complete repertoire that allows you to play this attractive opening with confidence and gives you convincing answers to the lines White might try against the Najdorf and the Anti-Sicilians White might try to avoid the Najdorf.",
@@ -78,7 +110,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-5-6",
-         "pubDate" : "Wed, 21 Aug 2024 16:50:23",
+         "pubDate" : "Wed, 21 Aug 2024 16:50:00",
          "title" : "Tang Scores 71/80 In 6th Qualifier With Mysterious New Bughouse Partner"
       },
       {
@@ -728,14 +760,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/nakamura-giri-vaishali-global-chess-league-season-2",
          "pubDate" : "Wed, 14 Aug 2024 09:12:00",
          "title" : "Nakamura, Giri, Vaishali Join Global Chess League For Season 2"
-      },
-      {
-         "description" : "GMs&#38;nbsp;Jose Martinez and Jeffery Xiong were the victors in the August 13 editions of Titled Tuesday, Martinez finally breaking into the TT winners column in 2024 after coming close several times. &#34;Ready for London,&#34; an apparent reference to his ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/martinez-xiong-win-titled-tuesday-august-13-2024",
-         "pubDate" : "Wed, 14 Aug 2024 08:24:00",
-         "title" : "Martinez Wins Titled Tuesday, Next Stop: London"
       },
       {
          "description" : "On behalf of All India Chess Federation, Himachal Pradesh State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 14 to 15",
