@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> International Master Begim Tokhirjonova recaps Round 3 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in St. Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-3-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/st",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-3-grandchesstour",
+         "pubDate" : "Thu, 22 Aug 2024 03:07:29",
+         "title" : "RECAP | 2024 Sinquefield Cup: Round 3 | #GrandChessTour"
+      },
+      {
          "description" : "The Najdorf Variation of the Sicilian Defence stands for exciting games. GM Luis Engel provides a complete repertoire that allows you to play this attractive opening with confidence and gives you convincing answers to the lines White might try against the Najdorf and the Anti-Sicilians White might try to avoid the Najdorf.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +40,22 @@ news_feed (
          "link" : "https://www.fide.com/news/3172",
          "pubDate" : "Wed, 21 Aug 2024 19:13:25",
          "title" : "WPG Tbilisi: Alina Kashlinskaya joins leaders as the sole winner in Round 6"
+      },
+      {
+         "description" : "There are two leaders, GM Ian Nepomniachtchi and GM Alireza Firouzja, at the 2024 Sinquefield Cup after three rounds. Five decisive results were possible on this tempestuous day, but we saw two. Nepomniachtchi&#39;s risky opening paid off against GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-3",
+         "pubDate" : "Wed, 21 Aug 2024 18:21:00",
+         "title" : "Nepomniachtchi Catches Firouzja In Lead, Firouzja Escapes Vs. Vachier-Lagrave"
+      },
+      {
+         "description" : "GM Andrew Tang became the latest GM to book his spot in the 2024 Chess.com Bughouse Championship knockouts after he and his partner &#34;BughouseKnight&#34; won the sixth qualifier on Wednesday. Scoring an unassailable 255 points, the pair will look to to...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-5-6",
+         "pubDate" : "Wed, 21 Aug 2024 16:50:23",
+         "title" : "Tang Scores 71/80 In 6th Qualifier With Mysterious New Bughouse Partner"
       },
       {
          "description" : "IM Alina Kashlinskaya said she was &#34;in a good mood to play a fighting game&#34; and ended up as the only winner in Wednesday&#39;s sixth round at the 2024 Tbilisi FIDE Women&#39;s Grand Prix. Kashlinskaya defeated GM Vaishali Rameshbabu and with the other fou...",
@@ -146,14 +170,6 @@ news_feed (
          "title" : "EXCLUSIVE! Sixers' Daryl Morey Loves Watching the Best in Chess | R1 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-4-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defau",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-4-grandchesstour",
-         "pubDate" : "Wed, 21 Aug 2024 00:06:36",
-         "title" : "2024 Sinquefield Cup: Round 4 | #GrandChessTour"
-      },
-      {
          "description" : "US Chess is accepting applications for the position of Deputy Executive Director in its St. Louis Office.<br /><br /> The Deputy Executive Director oversees the day-to-day operations of the organization, ensuring that it runs efficiently and that all members of the team have what they need to succeed (such as equipment, supplies, record keeping and a safe and supportive work environment). The Deputy Executive Director will have a strong financial background that will assist the Executive Director in evaluating and formulating budget projections for the organization. The Deputy Executive Director also coordinates communication and information flow among and between stakeholders, executive man",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -162,7 +178,7 @@ news_feed (
          "title" : "US Chess Seeks Deputy Executive Director"
       },
       {
-         "description" : "This week's Wednesday Workout is a double-feature on the national invitational tournaments of state champions held alongside the 124th Annual U.S. Open in Norfolk, Virginia. All coverage of these events is available here. <br /><br /> <br /><br /><br /><br /><br /><br /> Download our printable worksheet here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "description" : "This week's Wednesday Workout is a double-feature on the national invitational tournaments of state champions held alongside the 124th Annual U.S. Open in Norfolk, Virginia. All coverage of these events is available here. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Download our printable worksheet here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-tournament-champions-pt-1-2",
@@ -242,7 +258,7 @@ news_feed (
          "title" : "D Gukesh plays out a draw with Ding Liren in Sinquefield Cup 2024 clash"
       },
       {
-         "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
+         "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/tactics-tuesday-tournament-state-champions-pt-2",
@@ -738,28 +754,12 @@ news_feed (
          "title" : "Communications Department Transitions"
       },
       {
-         "description" : "GM Maxime Vachier-Lagrave led the 2024 Saint Louis Rapid &#38;amp; Blitz after day one, but GMs Alireza Firouzja and Ian Nepomniachtchi caught up to him to join a three-way tie after six rounds. Of the other seven players, GM Fabiano Caruana was the o...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2024-day-2",
-         "pubDate" : "Tue, 13 Aug 2024 17:36:00",
-         "title" : "Firouzja, Nepomniachtchi Jump Into 3-Way Lead With Vachier-Lagrave"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3153",
          "pubDate" : "Tue, 13 Aug 2024 16:11:54",
          "title" : "Tbilisi kicks off 2024/25 FIDE Women's Grand Prix season"
-      },
-      {
-         "description" : "FIDE&#39;s Ethics &#38;amp; Disciplinary Commission (EDC) has banned Latvian IM Andrejs Strebkovs for five years after finding him guilty of sexually harassing several top female players, some of them children, by sending them obscene letters for over a d...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/fide-hands-latvian-im-5-year-ban-for-obscene-letters-to-top-female-players",
-         "pubDate" : "Tue, 13 Aug 2024 11:33:26",
-         "title" : "FIDE Hands Latvian IM 5-Year-Ban For Obscene Letters To Top Female Players Over A Decade"
       },
       {
          "description" : "",
