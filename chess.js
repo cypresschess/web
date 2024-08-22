@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
+         "pubDate" : "Thu, 22 Aug 2024 19:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3175",
+         "pubDate" : "Thu, 22 Aug 2024 19:04:30",
+         "title" : "WGP Tbilisi: Bibisara Assaubayeva emerges as sole leader after Round 7"
+      },
+      {
          "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -10,12 +26,20 @@ news_feed (
          "title" : "Women's Grand Prix Tbilisi - Live!"
       },
       {
-         "description" : "All five games in round 3 of the Sinquefield Cup could have easily finished decisively. Three players missed winning chances, though, while Ian Nepomniachtchi and Fabiano Caruana did make the most of their opportunities and scored full points. With his win over Anish Giri, Nepo joined Alireza Firouzja in the lead. Caruana, on his part, beat Nodirbek Abdusattorov and now has a 50-percent score. | Photo: Crystal Fuller",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-3",
-         "pubDate" : "Thu, 22 Aug 2024 09:30:00",
-         "title" : "Sinquefield Cup: Nepo on the attack, joins Firouzja in the lead"
+         "description" : "Women&#39;s World Champion Ju Wenjun of China scored a dominating 13-3 win over IM Anna Sargsyan of Armenia in the first of the round of 16 matches of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Though Sargsyan had her chances in the match,...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-r16-ju-wenjun",
+         "pubDate" : "Thu, 22 Aug 2024 11:49:49",
+         "title" : "Ju Wenjun Wins With 10-Point Margin, Nearly Goes Undefeated"
+      },
+      {
+         "description" : "GM Vladimir Kramnik defeated GM Jose Martinez 19-17 on Wednesday in their 36-game Clash of Blames blitz match in London. The event was a follow-up to the Clash of Claims match held in June of this year in Madrid. Martinez (25), the Peruvian blit...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-clash-of-blames-kramnik-martinez",
+         "pubDate" : "Thu, 22 Aug 2024 08:48:29",
+         "title" : "Kramnik Beats Martinez In 'Clash of Blames' Match"
       },
       {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112706729.cms\" />In the third round of the Sinquefield Cup, D Gukesh narrowly avoided defeat against fellow Indian R Praggnanandhaa. Alireza Firouzja, the tour leader, managed a draw while Fabiano Caruana and Ian Nepomniachtchi secured wins. The closely contested tournament features top players and remains highly competitive.",
@@ -24,22 +48,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-gukesh-survives-against-praggnanandhaa/articleshow/112706729.cms",
          "pubDate" : "Thu, 22 Aug 2024 08:47:28",
          "title" : "Sinquefield Cup: Gukesh survives against Praggnanandhaa"
-      },
-      {
-         "description" : "Two days into the match against Etienne Bacrot in Paris, Hans Niemann already has a 6-point lead, as he scored a win and a draw in Wednesday's classical games. Niemann, who comes from beating Anish Giri and Nikita Vitiugov in similar contests, has now climbed to world number 20 in the live ratings list. | Photo: Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-d2",
-         "pubDate" : "Thu, 22 Aug 2024 07:30:00",
-         "title" : "Paris match: Niemann wins again, widens the gap"
-      },
-      {
-         "description" : "Returning from the rest day, round 6 of the Tbilisi Women's Grand Prix saw one game ending decisively, with Alina Kashlinskaya beating R Vaishali to join the leading pack, now consisting of five players. Kashlinskaya is tied for first place with Nana Dzagnidze, Mariya Muzychuk, Bibisara Assaubayeva and Stavroula Tsolakidou. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-6",
-         "pubDate" : "Thu, 22 Aug 2024 06:30:00",
-         "title" : "WGP Tbilisi: Kashlinskaya beats Vaishali to join the leading pack"
       },
       {
          "description" : "",
@@ -66,20 +74,20 @@ news_feed (
          "title" : "New Titles Approved: 13-Year-Old Erdogmus Takes Title As World's Youngest GM"
       },
       {
+         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: a win for Firouzja!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element against Ca",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/firouzja-nepomniachtchi-lead-2024-sinquefield-cup-after-three-rounds",
+         "pubDate" : "Thu, 22 Aug 2024 00:00:00",
+         "title" : "Firouzja, Nepomniachtchi Lead 2024 Sinquefield Cup After Three Rounds"
+      },
+      {
          "description" : "US Chess announces that, effective with the 2024 National K-12 Grade Championships, there will be a new fee structure for national events. This structure includes higher costs for last-minute entries. The full structure is explained below and can be found at the above link. Please note that the earliest deadline for registration ends Monday, October 21.<br /><br /> These changes are primarily due to increased costs being borne by US Chess. Despite breaking multiple attendance records in national events over the past two years, several recent national events have nevertheless lost money. US Chess values the affordability and accessibility of its events and, as such, has always leaned on the s",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/updates-fee-structures-national-events",
          "pubDate" : "Thu, 22 Aug 2024 00:00:00",
          "title" : "Updates to Fee Structures for National Events"
-      },
-      {
-         "description" : "The Najdorf Variation of the Sicilian Defence stands for exciting games. GM Luis Engel provides a complete repertoire that allows you to play this attractive opening with confidence and gives you convincing answers to the lines White might try against the Najdorf and the Anti-Sicilians White might try to avoid the Najdorf.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/fully-equipped-for-the-najdorf-sicilian",
-         "pubDate" : "Wed, 21 Aug 2024 23:45:00",
-         "title" : "Fully equipped for the Najdorf Sicilian"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Interview with Statistician Ben Underwood, who is tasked with tracking the stats in the 2024 Sinquefield Cup! 2024.08.20<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> / grandchesstour<br /> / stlchessclub<br /> / grandchesstourofficial<br /> / grandchesstour </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/statistician-ben-underwood-explains-numbers-r2-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/sty",
@@ -714,14 +722,6 @@ news_feed (
          "title" : "Nepomniachtchi, Firouzja, Vachier-Lagrave Lead Ahead Of Blitz, Nakamura Inches Closer"
       },
       {
-         "description" : "IM Mai Narva of Estonia convincingly triumphed in the second qualifier of the 2024 Julius Baer Women&#39;s Speed Chess Championship by winning the Knockout stage of the second Play-In after defeating WFM Hong Nhung Nguyen of Vietnam in the finals with...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-2",
-         "pubDate" : "Wed, 14 Aug 2024 13:55:00",
-         "title" : "IM Mai Narva Wins WSCC Play-In 2 Convincingly"
-      },
-      {
          "description" : "Tigran Petrosian was a very conservative player. On the other hand he could see tactics and combinations far in advance, so he went about countering them before even his opponents smell anything! Chess trainer GM Efstratios Grivas has always told his students to study the games of the former World Champion and try to understand what he had seen and why he chose his moves. Here is part two of his lesson.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -752,14 +752,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3154",
          "pubDate" : "Wed, 14 Aug 2024 09:49:49",
          "title" : "2024 Saint Louis Rapid & Blitz: Three-way tie on the top"
-      },
-      {
-         "description" : "GM Hikaru Nakamura will lead the new American Gambits team when the Global Chess League returns for a second season, to be held this October in London. The other Icon players leading their teams are GMs Magnus Carlsen, Viswanathan Anand, Ian Nepom...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/nakamura-giri-vaishali-global-chess-league-season-2",
-         "pubDate" : "Wed, 14 Aug 2024 09:12:00",
-         "title" : "Nakamura, Giri, Vaishali Join Global Chess League For Season 2"
       },
       {
          "description" : "On behalf of All India Chess Federation, Himachal Pradesh State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 14 to 15",
@@ -912,14 +904,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/aug/09/chess-carlsen-loses-in-23-moves-but-beats-ding-and-wins-titled-tuesday",
          "pubDate" : "Fri, 09 Aug 2024 07:00:22",
          "title" : "Chess: Carlsen loses in 23 moves but beats Ding and wins Titled Tuesday"
-      },
-      {
-         "description" : "Surprise, surprise, surprise! You find your board for round one. Your pieces take their assigned places on their squares. Your clock is set correctly. Your opponent appears at the board &hellip; and it's the TD! What can you look forward to?<br /><br /> <br /><br /> The TD Service Call<br /><br /> At some point your opponent may be called away to solve another player's problem. The time it takes away from your game depends on how much of a puzzle they need to solve. Most TDs will stop the clock in your mutual contest (see rule 21E) to go off and engage in the fine art of rules enforcement. The more wood-pushers that attend the event, the greater the chances are that your TD will be called on",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/just-rules-your-opponent-td",
-         "pubDate" : "Fri, 09 Aug 2024 00:00:00",
-         "title" : "Just the Rules: Your Opponent is the TD?!"
       },
       {
          "description" : "",
@@ -1144,22 +1128,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/aug/02/chess-yagiz-erdogmus-13-on-the-verge-of-2600-and-closing-on-world-age-record",
          "pubDate" : "Fri, 02 Aug 2024 07:00:26",
          "title" : "Chess: Yagiz Erdogmus, 13, on the verge of 2600 and closing on world age record"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3135",
-         "pubDate" : "Thu, 01 Aug 2024 18:37:56",
-         "title" : "Julius Baer Women's Speed Chess Championship returns on August 12"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3134",
-         "pubDate" : "Thu, 01 Aug 2024 16:15:21",
-         "title" : "Grand Opening for FIDE World Team Rapid and Blitz Championships in Astana"
       }
    ]
 }
