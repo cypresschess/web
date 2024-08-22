@@ -66,6 +66,14 @@ news_feed (
          "title" : "New Titles Approved: 13-Year-Old Erdogmus Takes Title As World's Youngest GM"
       },
       {
+         "description" : "US Chess announces that, effective with the 2024 National K-12 Grade Championships, there will be a new fee structure for national events. This structure includes higher costs for last-minute entries. The full structure is explained below and can be found at the above link. Please note that the earliest deadline for registration ends Monday, October 21.<br /><br /> These changes are primarily due to increased costs being borne by US Chess. Despite breaking multiple attendance records in national events over the past two years, several recent national events have nevertheless lost money. US Chess values the affordability and accessibility of its events and, as such, has always leaned on the s",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/updates-fee-structures-national-events",
+         "pubDate" : "Thu, 22 Aug 2024 00:00:00",
+         "title" : "Updates to Fee Structures for National Events"
+      },
+      {
          "description" : "The Najdorf Variation of the Sicilian Defence stands for exciting games. GM Luis Engel provides a complete repertoire that allows you to play this attractive opening with confidence and gives you convincing answers to the lines White might try against the Najdorf and the Anti-Sicilians White might try to avoid the Najdorf.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -80,14 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/statistician-ben-underwood-explains-numbers-r2-sinquefieldcup",
          "pubDate" : "Wed, 21 Aug 2024 21:07:15",
          "title" : "Statistician Ben Underwood Explains the Numbers | R2 #SinquefieldCup"
-      },
-      {
-         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
-         "pubDate" : "Wed, 21 Aug 2024 19:50:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "",
@@ -978,14 +978,6 @@ news_feed (
          "title" : "I Am The New U14 British Chess Champion! Video by Rock Yu"
       },
       {
-         "description" : "This week's puzzles continue our series on the Pan-American Youth Championship XXXIV, held last month in Orlando, Florida. Read our coverage of the event here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/wednesday-workout-pan-american-youth-championship-pt-2",
-         "pubDate" : "Wed, 07 Aug 2024 00:00:00",
-         "title" : "Wednesday Workout: Pan-American Youth Championship, Pt. 2"
-      },
-      {
          "description" : " Jessica Hyatt can now add National Master to her name after waiting a long time to celebrate this moment. This past weekend at the FIDE Premier at the Marshall Chess Club, the 18-year-old Brooklyn native was able to push her rating to 2200 for the first time. In 2019, Hyatt won the New York State The post <a href=\"https://www.thechessdrum.net/blog/2024/08/06/jessica-hyatt-earns-national-master-title/\">Jessica Hyatt earns National Master title!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
          "iconLink" : "https://cypresschess.github.io/web/drum3.png",
          "iconName" : "The Chess<br>Drum",
@@ -1168,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3134",
          "pubDate" : "Thu, 01 Aug 2024 16:15:21",
          "title" : "Grand Opening for FIDE World Team Rapid and Blitz Championships in Astana"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3133",
-         "pubDate" : "Thu, 01 Aug 2024 15:23:39",
-         "title" : "FIDE August 2024 rating list published"
       }
    ]
 }
