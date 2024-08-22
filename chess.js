@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Two days into the match against Etienne Bacrot in Paris, Hans Niemann already has a 6-point lead, as he scored a win and a draw in Wednesday's classical games. Niemann, who comes from beating Anish Giri and Nikita Vitiugov in similar contests, has now climbed to world number 20 in the live ratings list. | Photo: Frans Peeters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-d2",
+         "pubDate" : "Thu, 22 Aug 2024 07:30:00",
+         "title" : "Paris match: Niemann wins again, widens the gap"
+      },
+      {
+         "description" : "Returning from the rest day, round 6 of the Tbilisi Women's Grand Prix saw one game ending decisively, with Alina Kashlinskaya beating R Vaishali to join the leading pack, now consisting of five players. Kashlinskaya is tied for first place with Nana Dzagnidze, Mariya Muzychuk, Bibisara Assaubayeva and Stavroula Tsolakidou. | Photo: FIDE / Anna Shtourman",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-6",
+         "pubDate" : "Thu, 22 Aug 2024 06:30:00",
+         "title" : "WGP Tbilisi: Kashlinskaya beats Vaishali to join the leading pack"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3174",
+         "pubDate" : "Thu, 22 Aug 2024 05:26:00",
+         "title" : "The official song of 45th Chess Olympiad is out!"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> International Master Begim Tokhirjonova recaps Round 3 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in St. Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-3-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/st",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -66,28 +90,12 @@ news_feed (
          "title" : "Kashlinskaya Beats Vaishali, Joins Leaders In Tbilisi"
       },
       {
-         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
-         "pubDate" : "Wed, 21 Aug 2024 12:50:00",
-         "title" : "Women's Grand Prix Tbilisi - Live!"
-      },
-      {
          "description" : "Two weeks after a perfect 11/11 score and one week after finishing in second place twice, GM Magnus Carlsen was back in the Titled Tuesday win column on August 20, taking the late event with 9.5 points. Winning early was GM Jaime Santos, also on 9...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/santos-carlsen-win-titled-tuesday-august-20-2024",
          "pubDate" : "Wed, 21 Aug 2024 08:08:51",
          "title" : "Magnus Magnificent Again In Titled Tuesday"
-      },
-      {
-         "description" : "All five games ended drawn in round 2 of the Sinquefield Cup, leaving Alireza Firouzja as the sole leader in the standings. The tournament leader, who is also in first place in the Grand Chess Tour standings, safely held Nodirbek Abdusattorov to a draw with the black pieces. The most exciting encounter of the day saw D Gukesh getting the upper hand against Ian Nepomniachtchi, but failing to convert his extra pawn into a win in a technical endgame. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-2",
-         "pubDate" : "Wed, 21 Aug 2024 08:00:00",
-         "title" : "Sinquefield Cup: Five draws, Gukesh puts pressure on Nepo"
       },
       {
          "description" : "The 2024 European Youth Rapid and Blitz Chess Championships officially concluded yesterday in Prague, Czech Republic. With the participation of 650 players coming from 40 European federations, the event broke the participation record. The Closing ceremony of the event took place yesterday evening, with the attendance of the ECU President Mr. Zurab Azmaiparashvili who took part in the awards for the winners. The first event on the schedule was the European Youth Rapid Chess Championship 2024 which took place on []",
@@ -104,14 +112,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-2-grandchesstour",
          "pubDate" : "Wed, 21 Aug 2024 03:06:42",
          "title" : "RECAP | 2024 Sinquefield Cup: Round 2 | #GrandChessTour"
-      },
-      {
-         "description" : "Continuing with the \"Hans Niemann against the World\" series, Niemann and Etienne Bacrot began their 5-day match on Tuesday. The first 2 classical games were played at the Blitz Society Bar, with Niemann first holding Bacrot to a 37-move draw with black and then beating the Frenchman while marshalling the white pieces. | Photo: Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-d1",
-         "pubDate" : "Wed, 21 Aug 2024 02:50:00",
-         "title" : "Paris match: Niemann beats Bacrot with white"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 2. 2024.08.17<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
