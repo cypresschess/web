@@ -2,12 +2,36 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the fifth round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Pf54gFMyH-E.jpg?itok=8eoBpWMq\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r5-sinquefieldcup",
+         "pubDate" : "Fri, 23 Aug 2024 21:08:34",
+         "title" : "How Will Each Game End? | R5 #SinquefieldCup"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3177",
+         "pubDate" : "Fri, 23 Aug 2024 20:34:31",
+         "title" : "Kashlinskaya and Assaubayeva neck and neck in a round of missed opportunities"
+      },
+      {
          "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
          "pubDate" : "Fri, 23 Aug 2024 19:50:00",
          "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "Vladimir Kramnik, known for his strong stance on fair play, took the test to address long-standing rumors and cheating allegations dating back to the 2006 World Chess Championship, as well as more recent accusations in online games. The test, conducted by Pinkerton and Global Polygraph Solutions, revealed \"No Deception Indicated\" on all key questions, including Kramnik's role in the controversial \"Toiletgate\" scandal. Inspired by Kramnik's example, World Chess is now introducing voluntary polygraph testing as an additional tool to combat cheating.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kramnik-takes-polygraph-test",
+         "pubDate" : "Fri, 23 Aug 2024 18:00:00",
+         "title" : "Kramnik takes polygraph test"
       },
       {
          "description" : "Hans Niemann is facing three of the world's strongest players in head-to-head matchups that each includes blitz, rapid and classical games. After beating Giri in Utrecht and Vitiugov in London, Niemann faces Etienne Bacrot at the Blitz Society Bar in Paris (pictured). In the first four games Niemann won twice with White and drew twice with Black and now leads 9-3. Game 5 starts on Thursday, 22 20 August at 10.00, game 6 at 16.00 CEST.",
@@ -18,12 +42,12 @@ news_feed (
          "title" : "Niemann v. Bacrot, Rapid section - Live!"
       },
       {
-         "description" : "Vladimir Kramnik, known for his strong stance on fair play, took the test to address long-standing rumors and cheating allegations dating back to the 2006 World Chess Championship, as well as more recent accusations in online games. The test, conducted by Pinkerton and Global Polygraph Solutions, revealed \"No Deception Indicated\" on all key questions, including Kramnik's role in the controversial \"Toiletgate\" scandal. Inspired by Kramnik's example, World Chess is now introducing voluntary polygraph testing as an additional tool to combat cheating.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/kramnik-takes-polygraph-test",
-         "pubDate" : "Fri, 23 Aug 2024 17:50:26",
-         "title" : "Kramnik takes polygraph test"
+         "description" : "IM Alina Kashlinskaya goes into the final round of the 2024 Tbilisi FIDE Women&#39;s Grand Prix level with IM Bibisara Assaubayeva in the lead after a long but convincing win over IM Lela Javakhishvili. Three players are just half a point behind after...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-8",
+         "pubDate" : "Fri, 23 Aug 2024 15:28:00",
+         "title" : "Kashlinskaya Catches Leader Before Final Round In Tbilisi"
       },
       {
          "description" : "Spilimbergo is a pleasant little town of about 12,000 inhabitants, located about 100 kilometres north-east of Venice. The town is most famous for its over 100-year-old mosaic school - and for chess! The festival was held for the 22nd time this year and attracted 450 participants from 31 countries. Among them was Levy 'Gotham Chess' Rozman, who came to the Italian city to take another step on his way to becoming a grandmaster. In the end, however, the winner of the tournament was the Iranian IM Orimi Mahdi Gholami, who won with 7 out of 9 rating points. Bettina Trabert reports. | Photo: Old town centre of Spilimbergo | Photo: Wikipedia",
@@ -34,12 +58,12 @@ news_feed (
          "title" : "Spilimbergo - the biggest Open in Italy"
       },
       {
-         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
-         "pubDate" : "Fri, 23 Aug 2024 12:50:00",
-         "title" : "Women's Grand Prix Tbilisi - Live!"
+         "description" : "GMs Awonder Liang and Jeffery Xiong have been crowned as the 2024 Chess.com Bughouse Champions after the pair won each of their knockout matches and collected the $2,000 first prize on Friday. Following a Quarterfinal drubbing of GMs Arjun Erigi...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-knockouts-liang-xiong-win",
+         "pubDate" : "Fri, 23 Aug 2024 12:46:00",
+         "title" : "Comeback Kings Liang, Xiong Win Bughouse Championship"
       },
       {
          "description" : "IM Polina Shuvalova and GM Kateryna Lagno scored crucial wins in the 1+1 bullet segments to stage a comeback and win their respective matches to advance to the Quarterfinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Shuvalova rec...",
@@ -82,20 +106,12 @@ news_feed (
          "title" : "Chess: Carlsen and Niemann impress as Paris grudge rematch approaches"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> International Master Begim Tokhirjonova recaps Round 4 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in St. Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-4-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/st",
+         "description" : "<div class=\"body text-secondary\"> International Master Begim Tokhirjonova recaps Round 4 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in Saint Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-4-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
          "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-4-grandchesstour",
          "pubDate" : "Fri, 23 Aug 2024 03:08:09",
          "title" : "RECAP | 2024 Sinquefield Cup: Round 4 | #GrandChessTour"
-      },
-      {
-         "description" : "In a round full of dynamic, interesting chess only 1 of 5 games ended decisively at the Tbilisi Women's Grand Prix. The one winner of the day was Bibisara Assaubayeva, who defeated Alexandra Kosteniuk to grab the sole lead with two rounds to go. Mariya Muzychuk could have joined the Kazakhstani youngster in the lead, but she missed a win in her game with black against Lela Javakhishvili. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-7",
-         "pubDate" : "Fri, 23 Aug 2024 01:50:00",
-         "title" : "WGP Tbilisi: Assaubayeva sole leader with two rounds to go"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 4. 2024.08.11<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hid",
@@ -160,14 +176,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-6-grandchesstour",
          "pubDate" : "Fri, 23 Aug 2024 00:08:04",
          "title" : "2024 Sinquefield Cup: Round 6 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Statistician Ben Underwood joins the show during Round 3 of the 2024 Sinquefield Cup. 2024.08.21<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ben-underwood-intermediate-statistics-chess-r3-sinquefieldcup",
-         "pubDate" : "Thu, 22 Aug 2024 21:07:57",
-         "title" : "Ben Underwood: Intermediate Statistics for Chess | R3 #SinquefieldCup"
       },
       {
          "description" : "GM Wesley So defeated GM Ian Nepomniachtchi at the 2024 Sinquefield Cup on Thursday, joining GM Alireza Firouzja in a tie for first. Firouzja himself narrowly survived GM Gukesh Dommaraju&#39;s sparkling tactical play in our Game of the Day. The Sin...",
@@ -242,7 +250,7 @@ news_feed (
          "title" : "New Titles Approved: 13-Year-Old Erdogmus Takes Title As World's Youngest GM"
       },
       {
-         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element again",
+         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element against Caruana, playing the majority of the game in time trouble yet still out-playing the defending Sinquefield Cup champion (Photo courtesy Lennar",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/firouzja-nepomniachtchi-lead-2024-sinquefield-cup-after-three-rounds",
@@ -682,14 +690,6 @@ news_feed (
          "title" : "11th Sinquefield Cup 2024 - Games and Results"
       },
       {
-         "description" : "GMs Vaishali Rameshbabu and Nana Dzagnidze both played the same line of the French Defense, and though their games diverged on move seven they both missed huge winning chances in round two of the 2024 Tbilisi FIDE Women&#39;s Grand Prix. All five game...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-2",
-         "pubDate" : "Fri, 16 Aug 2024 12:27:04",
-         "title" : "Vaishali, Dzagnidze Miss Wins In Tbilisi"
-      },
-      {
          "description" : " The Saint Louis Rapid & Blitz took place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acted as a curtain raiser for the Sinquefield Cup which starts on the 18th. Alireza Firouzja won the event and took the lead of the Grand Chess Tour from Fabiano Caruana with the Sinquefield Cup to finish this year's series. ",
          "iconLink" : "https://cypresschess.github.io/web/twic3.png",
          "iconName" : "The Week<br>in Chess",
@@ -728,14 +728,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-union-youth-chess-championship-2024-concluded/",
          "pubDate" : "Thu, 15 Aug 2024 17:56:39",
          "title" : "European Union Youth Chess Championship 2024 concluded"
-      },
-      {
-         "description" : "GM Alireza Firouzja leads the 2024 Saint Louis Rapid &#38;amp; Blitz by a point and a half after the first nine rounds of blitz. Behind him is the top-scorer of the blitz portion, GM Wesley So, who scored 7/8, and GM Ian Nepomniachtchi, both on 16 poi...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2024-day-4",
-         "pubDate" : "Thu, 15 Aug 2024 17:36:00",
-         "title" : "Firouzja Leads By 1.5 Points, Wesley So Scores Most Points In Blitz"
       },
       {
          "description" : "",
