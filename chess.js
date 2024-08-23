@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The pair will meet early next month for the first time across the board since the 2022 Sinquefield Cup, where their game sparked cheating allegations and a $100 million lawsuit. Magnus Carlsen, no longer the world champion but still ranked the global No 1, will meet the controversial ­rising talent Hans Niemann, 21, across the board next month for the first time since the 2022 Sinquefield Cup, when their fateful third-round game, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2372960\">won by Niemann</a>, sparked cheating allegations and a $100m ­lawsuit. The view now is that the incident involved no cheating, and certainly no anal beads. Niemann won again this week on his European t",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/aug/23/chess-carlsen-and-niemann-impress-as-paris-grudge-rematch-approaches",
+         "pubDate" : "Fri, 23 Aug 2024 07:00:31",
+         "title" : "Chess: Carlsen and Niemann impress as Paris grudge rematch approaches"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Begim Tokhirjonova recaps Round 4 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in St. Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-4-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/st",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-4-grandchesstour",
+         "pubDate" : "Fri, 23 Aug 2024 03:08:09",
+         "title" : "RECAP | 2024 Sinquefield Cup: Round 4 | #GrandChessTour"
+      },
+      {
          "description" : "In a round full of dynamic, interesting chess only 1 of 5 games ended decisively at the Tbilisi Women's Grand Prix. The one winner of the day was Bibisara Assaubayeva, who defeated Alexandra Kosteniuk to grab the sole lead with two rounds to go. Mariya Muzychuk could have joined the Kazakhstani youngster in the lead, but she missed a win in her game with black against Lela Javakhishvili. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,12 +98,12 @@ news_feed (
          "title" : "Ben Underwood: Intermediate Statistics for Chess | R3 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Gukesh D talks to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 3. 2024.08.17<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fiel",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/gukesh-nice-be-part-rich-world-championship-history-sinquefieldcup",
-         "pubDate" : "Thu, 22 Aug 2024 21:07:57",
-         "title" : "Gukesh: Nice to Be Part of Rich World Championship History | #SinquefieldCup"
+         "description" : "GM Wesley So defeated GM Ian Nepomniachtchi at the 2024 Sinquefield Cup on Thursday, joining GM Alireza Firouzja in a tie for first. Firouzja himself narrowly survived GM Gukesh Dommaraju&#39;s sparkling tactical play in our Game of the Day. The Sin...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-4",
+         "pubDate" : "Thu, 22 Aug 2024 20:40:41",
+         "title" : "So Joins Lead, Firouzja Has 9 Lives"
       },
       {
          "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -114,7 +130,7 @@ news_feed (
          "title" : "Arjun, Nihal Take Aim At Two-Time Bughouse World Champions Liang, Xiong"
       },
       {
-         "description" : " 20-year-old IM Bibisara Assaubayeva found a brilliant endgame sequence to defeat GM Alexandra Kosteniuk and take the sole lead with just two rounds of the 2024 Tbilisi FIDE Women&#39;s Grand Prix to go. The remaining four games were drawn, though GM...",
+         "description" : "20-year-old IM Bibisara Assaubayeva found a brilliant endgame sequence to defeat GM Alexandra Kosteniuk and take the sole lead with just two rounds of the 2024 Tbilisi FIDE Women&#39;s Grand Prix to go. The remaining four games were drawn, though GM M...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-7",
@@ -162,7 +178,7 @@ news_feed (
          "title" : "New Titles Approved: 13-Year-Old Erdogmus Takes Title As World's Youngest GM"
       },
       {
-         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element against Caruana, playing the majority of the game in time trouble yet still out-playing the defending Sinquefield Cup champion (Photo courtesy Lennar",
+         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element against Caruana, playing the majority of the game in time trouble yet still o",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/firouzja-nepomniachtchi-lead-2024-sinquefield-cup-after-three-rounds",
@@ -674,14 +690,6 @@ news_feed (
          "title" : "Grand chess tour: R Praggnanandhaa finishes last in rapid"
       },
       {
-         "description" : "A one-move blunder cost Indian GM Vaishali Rameshbabu a loss against Greek IM Stavroula Tsolakidou as the 2024 Tbilisi FIDE Women&#39;s Grand Prix got underway. The day&#39;s other winner was Kazakh IM Bibisara Assaubayeva who sprang a surprise on move on...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-1",
-         "pubDate" : "Thu, 15 Aug 2024 14:08:00",
-         "title" : "Assaubayeva, Tsolakidou Win As Muzychuk Sisters Improve On Nakamura-Vidit"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1120,14 +1128,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/how-much-chess-improvement/",
          "pubDate" : "Fri, 02 Aug 2024 12:48:00",
          "title" : "How much chess improvement is possible?"
-      },
-      {
-         "description" : " The Turkish teen is poised to achieve the landmark rating at September's 193-nation chess Olympiad in Budapest Yagiz Erdogmus is not yet a name in the same league as the quartet of Indian and Uzbek teenagers who have stormed into chess's world top 10 during 2024, but the 13-year-old Turk is still among the most promising international talents, increasingly gaining plaudits for his dynamic classical style. He is also on a career path of early records which follows in the footsteps of Magnus Carlsen, Alireza Firouzja, Fabiano Caruana and others. Erdogmus is already the youngest current grandmaster and the fourth youngest GM in history. He reached the verge of another significant milestone las",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/aug/02/chess-yagiz-erdogmus-13-on-the-verge-of-2600-and-closing-on-world-age-record",
-         "pubDate" : "Fri, 02 Aug 2024 07:00:26",
-         "title" : "Chess: Yagiz Erdogmus, 13, on the verge of 2600 and closing on world age record"
       }
    ]
 }
