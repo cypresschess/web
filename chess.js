@@ -2,7 +2,39 @@ news_feed (
 {
    "items" : [
       {
-         "description" : " The pair will meet early next month for the first time across the board since the 2022 Sinquefield Cup, where their game sparked cheating allegations and a $100 million lawsuit. Magnus Carlsen, no longer the world champion but still ranked the global No 1, will meet the controversial ­rising talent Hans Niemann, 21, across the board next month for the first time since the 2022 Sinquefield Cup, when their fateful third-round game, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2372960\">won by Niemann</a>, sparked cheating allegations and a $100m ­lawsuit. The view now is that the incident involved no cheating, and certainly no anal beads. Niemann won again this week on his European t",
+         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
+         "pubDate" : "Fri, 23 Aug 2024 12:50:00",
+         "title" : "Women's Grand Prix Tbilisi - Live!"
+      },
+      {
+         "description" : "For a third day in a row, Hans Niemann scored a win (with white) and a draw (with black) in his match against Etienne Bacrot in Paris. These results leave Niemann 9 points ahead on the scoreboard going into the rapid section of the contest - 6 games of 15+10 games will take place on Friday at the Blitz Society Bar in Paris. | Photo: Frans Peeters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-d3",
+         "pubDate" : "Fri, 23 Aug 2024 11:40:00",
+         "title" : "Niemann v. Bacrot: Another day, another win with white"
+      },
+      {
+         "description" : "The 2024 European Youth Chess Championship commenced with the first round yesterday in Prague, Czech Republic. The Opening Ceremony of the event took place on Wednesday, 21st of August, in the evening with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Mayor of the City of Prague Mr. Dr. Bohuslav Svoboda, ECU Secretary General Mr. Theodoros Tsorbatzoglou, President of the Czech Chess Federation Mr. Martin Petr, Tournament Director Mr. Jan Mazuch, and the ECU Tournament Director Mr. Petr Pisk. []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2024-commenced-in-prague/",
+         "pubDate" : "Fri, 23 Aug 2024 10:25:07",
+         "title" : "European Youth Chess Championship 2024 commenced in Prague"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3176",
+         "pubDate" : "Fri, 23 Aug 2024 09:30:57",
+         "title" : "Dates announced for 2025 FIDE Women's World Cup in Batumi, Georgia"
+      },
+      {
+         "description" : " The pair will meet early next month for the first time across the board since the 2022 Sinquefield Cup, where their game sparked cheating allegations and a $100 million lawsuit Magnus Carlsen, no longer the world champion but still ranked the global No 1, will meet the controversial ­rising talent Hans Niemann, 21, across the board next month for the first time since the 2022 Sinquefield Cup, when their fateful third-round game, <a href=\"https://www.chessgames.com/perl/chessgame?gid=2372960\">won by Niemann</a>, sparked cheating ­allegations and a $100m ­lawsuit. The view now is that the incident involved no cheating, and certainly no anal beads. Niemann won again this week on his European t",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
          "link" : "https://www.theguardian.com/sport/article/2024/aug/23/chess-carlsen-and-niemann-impress-as-paris-grudge-rematch-approaches",
@@ -102,8 +134,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-4",
-         "pubDate" : "Thu, 22 Aug 2024 20:40:41",
-         "title" : "So Joins Lead, Firouzja Has 9 Lives"
+         "pubDate" : "Thu, 22 Aug 2024 20:40:00",
+         "title" : "Wesley So Joins Lead, Firouzja Has 9 Lives"
       },
       {
          "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -150,7 +182,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-clash-of-blames-kramnik-martinez",
-         "pubDate" : "Thu, 22 Aug 2024 08:48:29",
+         "pubDate" : "Thu, 22 Aug 2024 08:48:00",
          "title" : "Kramnik Beats Martinez In 'Clash of Blames' Match"
       },
       {
