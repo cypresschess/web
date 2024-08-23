@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
+         "pubDate" : "Fri, 23 Aug 2024 19:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "Hans Niemann is facing three of the world's strongest players in head-to-head matchups that each includes blitz, rapid and classical games. After beating Giri in Utrecht and Vitiugov in London, Niemann faces Etienne Bacrot at the Blitz Society Bar in Paris (pictured). In the first four games Niemann won twice with White and drew twice with Black and now leads 9-3. Game 5 starts on Thursday, 22 20 August at 10.00, game 6 at 16.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-live",
+         "pubDate" : "Fri, 23 Aug 2024 17:55:00",
+         "title" : "Niemann v. Bacrot, Rapid section - Live!"
+      },
+      {
+         "description" : "Vladimir Kramnik, known for his strong stance on fair play, took the test to address long-standing rumors and cheating allegations dating back to the 2006 World Chess Championship, as well as more recent accusations in online games. The test, conducted by Pinkerton and Global Polygraph Solutions, revealed \"No Deception Indicated\" on all key questions, including Kramnik's role in the controversial \"Toiletgate\" scandal. Inspired by Kramnik's example, World Chess is now introducing voluntary polygraph testing as an additional tool to combat cheating.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/kramnik-takes-polygraph-test",
+         "pubDate" : "Fri, 23 Aug 2024 17:50:26",
+         "title" : "Kramnik takes polygraph test"
+      },
+      {
          "description" : "Spilimbergo is a pleasant little town of about 12,000 inhabitants, located about 100 kilometres north-east of Venice. The town is most famous for its over 100-year-old mosaic school - and for chess! The festival was held for the 22nd time this year and attracted 450 participants from 31 countries. Among them was Levy 'Gotham Chess' Rozman, who came to the Italian city to take another step on his way to becoming a grandmaster. In the end, however, the winner of the tournament was the Iranian IM Orimi Mahdi Gholami, who won with 7 out of 9 rating points. Bettina Trabert reports. | Photo: Old town centre of Spilimbergo | Photo: Wikipedia",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -16,6 +40,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
          "pubDate" : "Fri, 23 Aug 2024 12:50:00",
          "title" : "Women's Grand Prix Tbilisi - Live!"
+      },
+      {
+         "description" : "IM Polina Shuvalova and GM Kateryna Lagno scored crucial wins in the 1+1 bullet segments to stage a comeback and win their respective matches to advance to the Quarterfinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship. Shuvalova rec...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wscc-r16-tan-shuvalova-lagno-nurman",
+         "pubDate" : "Fri, 23 Aug 2024 12:17:53",
+         "title" : "Shuvalova, Lagno Prevail In Nail-Biting Encounters"
       },
       {
          "description" : "For a third day in a row, Hans Niemann scored a win (with white) and a draw (with black) in his match against Etienne Bacrot in Paris. These results leave Niemann 9 points ahead on the scoreboard going into the rapid section of the contest - 6 games of 15+10 games will take place on Friday at the Blitz Society Bar in Paris. | Photo: Frans Peeters",
@@ -714,14 +746,6 @@ news_feed (
          "title" : "Assaubayeva and Tsolakidou triumph in first round of the Women's Grand Prix"
       },
       {
-         "description" : "IM Eline Roebers of the Netherlands revealed after qualifying for the 2024 Julius Baer Women&#39;s Speed Chess Championship that she competed for the whole of the Swiss part in a train, using her phone. She reached home &#34;just in time&#34; as the Knockout ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-3",
-         "pubDate" : "Thu, 15 Aug 2024 15:34:36",
-         "title" : "Eline Roebers Wins Play-In 3 Despite Competing From Train"
-      },
-      {
          "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112549567.cms\" />Indian Grandmaster R Praggnanandhaa struggled in the Rapid section of the Saint Louis Rapid and Blitz tournament, finishing last with a score of 4/18. He ended the day with three losses and three draws, including defeats by Lenier Dominguez and Hikaru Nakamura. The Rapid segment ended with Ian Nepomniachtchi, Maxime Vachier-Lagrave, and Alireza Firouzja tied at the top with 11 points each. The tournament moves to the Blitz section, where Praggnanandhaa needs a strong performance to improve his standings and potentially surpass D Gukesh in the Grand",
          "iconLink" : "https://cypresschess.github.io/web/TOI.png",
          "iconName" : "The Times<br>of India",
@@ -1136,22 +1160,6 @@ news_feed (
          "link" : "https://www.thearticle.com/new-york-1924-a-stellar-gathering/",
          "pubDate" : "Sat, 03 Aug 2024 09:47:35",
          "title" : "New York 1924: a stellar gathering "
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3137",
-         "pubDate" : "Fri, 02 Aug 2024 19:14:26",
-         "title" : "FIDE World School R&B Championships 2024 kick off in Tashkent"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3136",
-         "pubDate" : "Fri, 02 Aug 2024 17:53:56",
-         "title" : "Chessy stuns defending champions WR Chess to lead World Rapid Teams after Day 1"
       }
    ]
 }
