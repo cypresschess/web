@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Spilimbergo is a pleasant little town of about 12,000 inhabitants, located about 100 kilometres north-east of Venice. The town is most famous for its over 100-year-old mosaic school - and for chess! The festival was held for the 22nd time this year and attracted 450 participants from 31 countries. Among them was Levy 'Gotham Chess' Rozman, who came to the Italian city to take another step on his way to becoming a grandmaster. In the end, however, the winner of the tournament was the Iranian IM Orimi Mahdi Gholami, who won with 7 out of 9 rating points. Bettina Trabert reports. | Photo: Old town centre of Spilimbergo | Photo: Wikipedia",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/spilimbergo-the-biggest-open-in-italy",
+         "pubDate" : "Fri, 23 Aug 2024 14:04:13",
+         "title" : "Spilimbergo - the biggest Open in Italy"
+      },
+      {
          "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -138,14 +146,6 @@ news_feed (
          "title" : "Wesley So Joins Lead, Firouzja Has 9 Lives"
       },
       {
-         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
-         "pubDate" : "Thu, 22 Aug 2024 19:50:00",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -210,7 +210,7 @@ news_feed (
          "title" : "New Titles Approved: 13-Year-Old Erdogmus Takes Title As World's Youngest GM"
       },
       {
-         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element against Caruana, playing the majority of the game in time trouble yet still o",
+         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element again",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/firouzja-nepomniachtchi-lead-2024-sinquefield-cup-after-three-rounds",
@@ -256,6 +256,14 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-6",
          "pubDate" : "Wed, 21 Aug 2024 14:41:29",
          "title" : "Kashlinskaya Beats Vaishali, Joins Leaders In Tbilisi"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3169",
+         "pubDate" : "Wed, 21 Aug 2024 11:58:37",
+         "title" : "FIDE endorses Leap KK 9909 clock"
       },
       {
          "description" : "Two weeks after a perfect 11/11 score and one week after finishing in second place twice, GM Magnus Carlsen was back in the Titled Tuesday win column on August 20, taking the late event with 9.5 points. Winning early was GM Jaime Santos, also on 9...",
@@ -1144,22 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3136",
          "pubDate" : "Fri, 02 Aug 2024 17:53:56",
          "title" : "Chessy stuns defending champions WR Chess to lead World Rapid Teams after Day 1"
-      },
-      {
-         "description" : " The FIDE World Rapid and Blitz Team Championships took place in Almaty Fri 2nd Aug to Mon 5th Aug 2024. Leading players Magnus Carlsen, Ding Liren, Ian Nepomniachtchi etc. Fourth seeds Al-Ain ACMG UAE won the rapid title ahead of Decade China Team and the favourites WR Chess Team. WR Chess Team did win the blitz final against Team MGD1. All games now available.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/fide-world-rapid-and-blitz-team-championships-2024",
-         "pubDate" : "Fri, 2 Aug 2024 14:48:00",
-         "title" : "FIDE World Rapid and Blitz Team Championships 2024 - Games and Results"
-      },
-      {
-         "description" : "I get asked all the time a question along the lines of:&#8220;I'm 45 years old, started 3 years ago, now rated 1500. Can I reach 2000?&#8221; This question is just a version of the question many in the chess world have been discussing for a while: Can International Master Levy Rozman, also known as Gotham []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/how-much-chess-improvement/",
-         "pubDate" : "Fri, 02 Aug 2024 12:48:00",
-         "title" : "How much chess improvement is possible?"
       }
    ]
 }
