@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann and Etienne Bacrot scored 2 wins each (and signed 2 draws) in the rapid section of their match in Paris. Saturday will be the final day of action, with 12 blitz games scheduled to take place - each granting 1 point for the overall score of the match. At this point, Niemann has a 9-point lead over his French opponent. | Photo: Frans Peeters",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-d4",
+         "pubDate" : "Sat, 24 Aug 2024 08:00:00",
+         "title" : "Niemann keeps 9-point lead in match against Bacrot"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Giri in Round 5 of the 2024 Sinquefield Cup. 2024.08.23<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-people-are-playing-fighting-chess-r5-sinquefieldcup",
+         "pubDate" : "Sat, 24 Aug 2024 03:08:46",
+         "title" : "Firouzja: People are Playing Fighting Chess | R5 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-7-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defau",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-7-grandchesstour",
+         "pubDate" : "Sat, 24 Aug 2024 03:08:46",
+         "title" : "2024 Sinquefield Cup: Round 7 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> International Master Begim Tokhirjonova recaps Round 5 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in Saint Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-5-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-5-grandchesstour",
+         "pubDate" : "Sat, 24 Aug 2024 03:08:46",
+         "title" : "RECAP | 2024 Sinquefield Cup: Round 5 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> It comes with the territory... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/players-mobbed-autograph-seeking-fans-round-5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/k6uryTeuAf0.jpg?itok=0-qyfhbs\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/players-mobbed-autograph-seeking-fans-round-5-sinquefieldcup",
+         "pubDate" : "Sat, 24 Aug 2024 03:08:46",
+         "title" : "Players Mobbed by Autograph-Seeking Fans before Round 5! #SinquefieldCup"
+      },
+      {
          "description" : "After an eventful day of chess at the Tbilisi Women's Grand Prix, 2 players emerged tied for first place going into Saturday's deciding round. Alina Kahslinskaya beat Lela Javakhishvili to join Bibisara Assaubayeva atop the standings. Importantly, both Assaubayeva and Mariya Muzychuk (who remains in the fight for first place) missed big chances to score full points in the penultimate round. | Photo: FIDE / Anna Shtourman",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -58,30 +98,6 @@ news_feed (
          "title" : "How Important are Ding & Gukesh's Performances? | #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the percentage of Sinquefield Cup games that ended in a win or a loss, organized by round and year over all previous ten events. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/decisiveness-round-year-r5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kfoX6KtQZcY.jpg?itok=kRhaS6pr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/decisiveness-round-year-r5-sinquefieldcup",
-         "pubDate" : "Sat, 24 Aug 2024 00:08:38",
-         "title" : "Decisiveness by Round & Year | R5 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Cristian Chirila after a draw against Ding in Round 5 of the 2024 Sinquefield Cup. 2024.08.23<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo%E2%80%99s-laugh-inducing-draw-r5-sinquefieldcup",
-         "pubDate" : "Sat, 24 Aug 2024 00:08:38",
-         "title" : "Nepo's Laugh-Inducing Draw | R5 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the fifth round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Pf54gFMyH-E.jpg?itok=8eoBpWMq\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r5-sinquefieldcup",
-         "pubDate" : "Fri, 23 Aug 2024 21:08:34",
-         "title" : "How Will Each Game End? | R5 #SinquefieldCup"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -96,14 +112,6 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
          "pubDate" : "Fri, 23 Aug 2024 19:50:00",
          "title" : "Sinquefield Cup - Live!"
-      },
-      {
-         "description" : "Hans Niemann is facing three of the world's strongest players in head-to-head matchups that each includes blitz, rapid and classical games. After beating Giri in Utrecht and Vitiugov in London, Niemann faces Etienne Bacrot at the Blitz Society Bar in Paris (pictured). In the first four games Niemann won twice with White and drew twice with Black and now leads 9-3. Game 5 starts on Thursday, 22 20 August at 10.00, game 6 at 16.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-live",
-         "pubDate" : "Fri, 23 Aug 2024 17:55:00",
-         "title" : "Niemann v. Bacrot, Rapid section - Live!"
       },
       {
          "description" : "IM Alina Kashlinskaya goes into the final round of the 2024 Tbilisi FIDE Women&#39;s Grand Prix level with IM Bibisara Assaubayeva in the lead after a long but convincing win over IM Lela Javakhishvili. Three players are just half a point behind after...",
@@ -160,14 +168,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/aug/23/chess-carlsen-and-niemann-impress-as-paris-grudge-rematch-approaches",
          "pubDate" : "Fri, 23 Aug 2024 07:00:31",
          "title" : "Chess: Carlsen and Niemann impress as Paris grudge rematch approaches"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Begim Tokhirjonova recaps Round 4 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in Saint Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-4-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-4-grandchesstour",
-         "pubDate" : "Fri, 23 Aug 2024 03:08:09",
-         "title" : "RECAP | 2024 Sinquefield Cup: Round 4 | #GrandChessTour"
       },
       {
          "description" : "GM Wesley So defeated GM Ian Nepomniachtchi at the 2024 Sinquefield Cup on Thursday, joining GM Alireza Firouzja in a tie for first. Firouzja himself narrowly survived GM Gukesh Dommaraju&#39;s sparkling tactical play in our Game of the Day. The Sin...",
