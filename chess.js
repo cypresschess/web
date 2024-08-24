@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
+         "pubDate" : "Sat, 24 Aug 2024 10:50:00",
+         "title" : "Women's Grand Prix Tbilisi - Live!"
+      },
+      {
+         "description" : "Grandmaster Gawain Jones has risen like a phoenix from the ashes of personal tribulation, which curtailed his competitive appearances for the past year, to win both the English and British Championships. In the former he despatched Mickey Adams in a play-off match, while in the latter he inflicted match defeat on David Howell, the pre-tournament []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/arise-sir-gawain-and-all-hail-to-the-young-royal/",
+         "pubDate" : "Sat, 24 Aug 2024 08:18:48",
+         "title" : "Arise, Sir Gawain - and all hail to the young Royal "
+      },
+      {
          "description" : "Hans Niemann and Etienne Bacrot scored 2 wins each (and signed 2 draws) in the rapid section of their match in Paris. Saturday will be the final day of action, with 12 blitz games scheduled to take place - each granting 1 point for the overall score of the match. At this point, Niemann has a 9-point lead over his French opponent. | Photo: Frans Peeters",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1136,14 +1152,6 @@ news_feed (
          "link" : "https://www.thechessdrum.net/blog/2024/08/03/why-are-numbers-declining-in-black-chess/",
          "pubDate" : "Sat, 03 Aug 2024 17:24:41",
          "title" : "Why are numbers declining in Black Chess?"
-      },
-      {
-         "description" : "\"There's this monstrous idiot - this monstrous elected idiot - who keeps telling his fellow-idiots to throw my books on a bonfire and beat me up In the street&hellip;\" The author of these words was Stefan Zweig (1881-1942) and I first read and transcribed them six decades ago. He was the Austrian-Jewish &eacute;migr&eacute; author of Schachnovelle (variously []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/new-york-1924-a-stellar-gathering/",
-         "pubDate" : "Sat, 03 Aug 2024 09:47:35",
-         "title" : "New York 1924: a stellar gathering "
       }
    ]
 }
