@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3180",
+         "pubDate" : "Sat, 24 Aug 2024 22:09:16",
+         "title" : "Farewell from Tbilisi: Closing Ceremony of the first Women's Grand Prix 2024/2025"
+      },
+      {
          "description" : "Hans Niemann is facing three of the world's strongest players in head-to-head matchups that each includes blitz, rapid and classical games. After beating Giri in Utrecht and Vitiugov in London, Niemann faces Etienne Bacrot at the Blitz Society Bar in Paris. | The blitz section, featuring 12 games with a 3+2 time control, kicks off on 24 August at 18.00 CEST.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
