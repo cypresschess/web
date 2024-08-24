@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "By beating Anish Giri with white, Alireza Firouzja became the sole leader going into the rest day of the Sinquefield Cup. Firouzja has collected 3&frac12; points and stands a half point ahead of Wesley So. The latter escaped with a draw after fiercely defending an endgame material down against R. Praggnanandhaa. Sunday's sixth round will see So playing white against Firouzja. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-5",
+         "pubDate" : "Sat, 24 Aug 2024 15:15:00",
+         "title" : "Sinquefield Cup: Firouzja grabs sole lead, So escapes against Pragg"
+      },
+      {
+         "description" : "The deadline for the National Under 07 online entries has been extended to 26 August 2024, 5:00 PM. AICF",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/notice-national-under-07-chess-championship-2024/",
+         "pubDate" : "Sat, 24 Aug 2024 15:14:21",
+         "title" : "NOTICE: National Under 07 Chess Championship 2024"
+      },
+      {
+         "description" : "Many chess improvers love system openings. If you play the London, you can develop in nearly every game the same way. And you know a few plans that are good to play in most positions. That gives confidence. It makes matters simple. So it is no surprise that these London lovers are starting to search []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/system-openings-black/",
+         "pubDate" : "Sat, 24 Aug 2024 12:32:00",
+         "title" : "Why system openings are bad for black"
+      },
+      {
          "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-d4",
          "pubDate" : "Sat, 24 Aug 2024 08:00:00",
          "title" : "Niemann keeps 9-point lead in match against Bacrot"
+      },
+      {
+         "description" : "GM Alireza Firouzja is once again the sole leader of the 2024 Sinquefield Cup after beating GM Anish Giri in round five on Friday. The Dutchman is no longer in the world&#39;s top 20 for the first time in more than a decade. With all other games end...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-5",
+         "pubDate" : "Sat, 24 Aug 2024 05:01:00",
+         "title" : "Firouzja Leads Alone Again, Pushes Giri Out Of Top 20"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Giri in Round 5 of the 2024 Sinquefield Cup. 2024.08.23<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden",
@@ -56,14 +88,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/players-mobbed-autograph-seeking-fans-round-5-sinquefieldcup",
          "pubDate" : "Sat, 24 Aug 2024 03:08:46",
          "title" : "Players Mobbed by Autograph-Seeking Fans before Round 5! #SinquefieldCup"
-      },
-      {
-         "description" : "After an eventful day of chess at the Tbilisi Women's Grand Prix, 2 players emerged tied for first place going into Saturday's deciding round. Alina Kahslinskaya beat Lela Javakhishvili to join Bibisara Assaubayeva atop the standings. Importantly, both Assaubayeva and Mariya Muzychuk (who remains in the fight for first place) missed big chances to score full points in the penultimate round. | Photo: FIDE / Anna Shtourman",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-8",
-         "pubDate" : "Sat, 24 Aug 2024 00:20:00",
-         "title" : "WGP Tbilisi: Kashlinskaya scores, catches Assaubayeva in the lead"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Sinquefield Cup, as of before the fifth round. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-4-r5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bUnVwfpQy9U.jpg?itok=qr-1L0Nl\" alt=\"\" />",
@@ -122,14 +146,6 @@ news_feed (
          "title" : "Kashlinskaya and Assaubayeva neck and neck in a round of missed opportunities"
       },
       {
-         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
-         "pubDate" : "Fri, 23 Aug 2024 19:50:00",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
          "description" : "IM Alina Kashlinskaya goes into the final round of the 2024 Tbilisi FIDE Women&#39;s Grand Prix level with IM Bibisara Assaubayeva in the lead after a long but convincing win over IM Lela Javakhishvili. Three players are just half a point behind after...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
@@ -152,14 +168,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/wscc-r16-tan-shuvalova-lagno-nurman",
          "pubDate" : "Fri, 23 Aug 2024 12:17:53",
          "title" : "Shuvalova, Lagno Prevail In Nail-Biting Encounters"
-      },
-      {
-         "description" : "For a third day in a row, Hans Niemann scored a win (with white) and a draw (with black) in his match against Etienne Bacrot in Paris. These results leave Niemann 9 points ahead on the scoreboard going into the rapid section of the contest - 6 games of 15+10 games will take place on Friday at the Blitz Society Bar in Paris. | Photo: Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-d3",
-         "pubDate" : "Fri, 23 Aug 2024 11:40:00",
-         "title" : "Niemann v. Bacrot: Another day, another win with white"
       },
       {
          "description" : "The 2024 European Youth Chess Championship commenced with the first round yesterday in Prague, Czech Republic. The Opening Ceremony of the event took place on Wednesday, 21st of August, in the evening with the attendance of the ECU President Mr. Zurab Azmaiparashvili, Mayor of the City of Prague Mr. Dr. Bohuslav Svoboda, ECU Secretary General Mr. Theodoros Tsorbatzoglou, President of the Czech Chess Federation Mr. Martin Petr, Tournament Director Mr. Jan Mazuch, and the ECU Tournament Director Mr. Petr Pisk. []",
@@ -258,7 +266,7 @@ news_feed (
          "title" : "New Titles Approved: 13-Year-Old Erdogmus Takes Title As World's Youngest GM"
       },
       {
-         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element again",
+         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element against Caruana, playing the majority of the game in time trouble yet still out-playing the defending Sinquefield Cup champion (Photo courtesy Lennar",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/firouzja-nepomniachtchi-lead-2024-sinquefield-cup-after-three-rounds",
@@ -658,14 +666,6 @@ news_feed (
          "title" : "St. Louis Rapid & Blitz - Live!"
       },
       {
-         "description" : "IM Levy Rozman, also known as &#34;GothamChess,&#34; has taken another step towards the GM title after playing in the Spilimbergo Open and scoring 6/9. While Rozman&#39;s 2370 rating performance saw him break even in terms of points, a win over GM Alberto Dav...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/rozman-continues-journey-to-gm-at-spilimbergo-masters-addresses-misogyny",
-         "pubDate" : "Fri, 16 Aug 2024 19:21:00",
-         "title" : "Rozman Defeats GM At Spilimbergo Open, Addresses Misogyny In Chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1000,14 +1000,6 @@ news_feed (
          "link" : "https://aicf.in/74785-2/",
          "pubDate" : "Thu, 08 Aug 2024 07:50:47",
          "title" : "Certificates for SNA Seminar held at Bijnor ,UP from 27 to 28 July 2024"
-      },
-      {
-         "description" : "The following are shortlisted for AICF Vacancy published on 29 July 2024 1. Arbind Kumar Singh 2. Ajeet Kumar Verma",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/shortlisted-candidates-head-of-operations/",
-         "pubDate" : "Wed, 07 Aug 2024 15:53:59",
-         "title" : "Shortlisted Candidates: Head of Operations"
       },
       {
          "description" : "",
