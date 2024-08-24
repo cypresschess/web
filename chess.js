@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Hans Niemann is facing three of the world's strongest players in head-to-head matchups that each includes blitz, rapid and classical games. After beating Giri in Utrecht and Vitiugov in London, Niemann faces Etienne Bacrot at the Blitz Society Bar in Paris. | The blitz section, featuring 12 games with a 3+2 time control, kicks off on 24 August at 18.00 CEST.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-live",
+         "pubDate" : "Sat, 24 Aug 2024 17:55:00",
+         "title" : "Niemann v. Bacrot, Blitz section - Live!"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3179",
+         "pubDate" : "Sat, 24 Aug 2024 17:32:46",
+         "title" : "FIDE 100 Torch Relay reaches United Arab Emirates"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3178",
+         "pubDate" : "Sat, 24 Aug 2024 15:26:09",
+         "title" : "Alina Kashlinskaya wins the first leg of 2024/2025 Women's Grand Prix"
+      },
+      {
          "description" : "By beating Anish Giri with white, Alireza Firouzja became the sole leader going into the rest day of the Sinquefield Cup. Firouzja has collected 3&frac12; points and stands a half point ahead of Wesley So. The latter escaped with a draw after fiercely defending an endgame material down against R. Praggnanandhaa. Sunday's sixth round will see So playing white against Firouzja. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -26,12 +50,12 @@ news_feed (
          "title" : "Why system openings are bad for black"
       },
       {
-         "description" : "The first event of the 2024/25 Women's Grand Prix series is taking place on 15-24 August in Tbilisi, Georgia. A 10-player single round-robin, the event has the Muzychuk sisters, Nana Dzagnidze and R Vaishali as the top seeds. The top 2 finishers in the series will qualify for the next edition of the Women's Candidates Tournament. | Follow the action live with expert commentary starting at 13.00 CEST (7.00 ET, 16.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-gp-tbilisi-2024-live",
-         "pubDate" : "Sat, 24 Aug 2024 10:50:00",
-         "title" : "Women's Grand Prix Tbilisi - Live!"
+         "description" : "IM Alina Kashlinskaya beat GM Mariya Muzychuk in the final round to clinch sole first place in the 2024 Tbilisi FIDE Women&#39;s Grand Prix. Her win earned her &#38;euro;18,000 (~$20,000), 130 Grand Prix points, and a second GM norm. IM Bibisara Assaubaye...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/alina-kashlinskaya-winner-2024-fide-womens-grand-prix-tbilisi",
+         "pubDate" : "Sat, 24 Aug 2024 09:23:00",
+         "title" : "Kashlinskaya Wins Tbilisi Grand Prix, Earns 2nd GM Norm"
       },
       {
          "description" : "Grandmaster Gawain Jones has risen like a phoenix from the ashes of personal tribulation, which curtailed his competitive appearances for the past year, to win both the English and British Championships. In the former he despatched Mickey Adams in a play-off match, while in the latter he inflicted match defeat on David Howell, the pre-tournament []",
@@ -266,7 +290,7 @@ news_feed (
          "title" : "New Titles Approved: 13-Year-Old Erdogmus Takes Title As World's Youngest GM"
       },
       {
-         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element against Caruana, playing the majority of the game in time trouble yet still out-playing the defending Sinquefield Cup champion (Photo courtesy Lennar",
+         "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element again",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/firouzja-nepomniachtchi-lead-2024-sinquefield-cup-after-three-rounds",
@@ -648,14 +672,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-4",
          "pubDate" : "Sat, 17 Aug 2024 00:51:33",
          "title" : "Bodnaruk Wins Play-In 4 Despite Great Fightbacks By Ismayil"
-      },
-      {
-         "description" : "GM Alireza Firouzja captured first with two rounds to spare at the 2024 Saint Louis Rapid &#38;amp; Blitz on Friday. Leading the event during the entire last day, his victory was never in doubt, echoing his convincing performance at the same tournamen...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/saint-louis-rapid-and-blitz-2024-day-5-firouzja-wins",
-         "pubDate" : "Fri, 16 Aug 2024 20:05:00",
-         "title" : "Firouzja Wins STL Rapid & Blitz, Seizes GCT Lead From Caruana"
       },
       {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -1128,22 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3139",
          "pubDate" : "Sun, 04 Aug 2024 17:07:13",
          "title" : "Al-Ain ACMG UAE become the new World Rapid Team Champions"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3138",
-         "pubDate" : "Sat, 03 Aug 2024 18:11:13",
-         "title" : "Al-Ain emerge as new leaders in day two of World Rapid Team Championship"
-      },
-      {
-         "description" : " There seems to be a decline in the number of Black players participating in major U.S. tournaments. The World Open is one of America's marquee events and is typically a chess tournament where many players want to make magic happen. It is also the tournament that acts as a sort of barometer for where American The post <a href=\"https://www.thechessdrum.net/blog/2024/08/03/why-are-numbers-declining-in-black-chess/\">Why are numbers declining in Black Chess?</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/08/03/why-are-numbers-declining-in-black-chess/",
-         "pubDate" : "Sat, 03 Aug 2024 17:24:41",
-         "title" : "Why are numbers declining in Black Chess?"
       }
    ]
 }
