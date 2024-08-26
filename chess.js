@@ -2,6 +2,214 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-8-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defau",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-8-grandchesstour",
+         "pubDate" : "Mon, 26 Aug 2024 21:10:40",
+         "title" : "2024 Sinquefield Cup: Round 8 | #GrandChessTour"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the seventh round of the 2024 Sinquefield Cup, as of before play. The graphic reads Round 6, but that is incorrect. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/DRDYaYFp2t4.jpg?itok=9jf1EzBt\" alt=\"\" /></a></d",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r7-sinquefieldcup",
+         "pubDate" : "Mon, 26 Aug 2024 21:10:40",
+         "title" : "How Will Each Game End? | R7 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Sinquefield Cup, as of before the seventh round. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-6-r7-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dPrzRpDsXu0.jpg?itok=OhIA1xCD\" alt=\"\" ",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-6-r7-sinquefieldcup",
+         "pubDate" : "Mon, 26 Aug 2024 21:10:40",
+         "title" : "Who is Likely to Win (After Round 6)? | R7 #SinquefieldCup"
+      },
+      {
+         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
+         "pubDate" : "Mon, 26 Aug 2024 19:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabiano Caruana talks to Cristian Chirila after defeating Nepomniachtchi in Round 6 of the 2024 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/caruana-wins-nepo-game-opening-somehow-r6-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/m9HsqJeY7JU.jpg?itok=KDVwfDVM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/caruana-wins-nepo-game-opening-somehow-r6-sinquefieldcup",
+         "pubDate" : "Mon, 26 Aug 2024 18:10:36",
+         "title" : "Caruana Wins Nepo Game from the Opening, Somehow! | R6 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Cristian Chirila after a draw against Firouzja in Round 6 of the 2024 Sinquefield Cup. 2024.08.25<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidd",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-when-ian-doesn%E2%80%99t-feel-well-he-can-tumble-r6-sinquefieldcup",
+         "pubDate" : "Mon, 26 Aug 2024 18:10:36",
+         "title" : "Wesley So: When Ian Doesn't Feel Well, He Can Tumble | R6 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the sixth round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r6-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/f5g89nr2AeA.jpg?itok=ghx-wQx7\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r6-sinquefieldcup",
+         "pubDate" : "Mon, 26 Aug 2024 18:10:36",
+         "title" : "How Will Each Game End? | R6 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Wesley So talks to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 6. 2024.08.11<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fie",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-hopefully-no-one-withdraws-year-sinquefieldcup",
+         "pubDate" : "Mon, 26 Aug 2024 18:10:36",
+         "title" : "Wesley So: Hopefully No One Withdraws This Year! | #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 6. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/mvl-olympics-originalist-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/v5oQCR1fuG8.jpg?itok=X-hyGCnB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/mvl-olympics-originalist-sinquefieldcup",
+         "pubDate" : "Mon, 26 Aug 2024 18:10:36",
+         "title" : "MVL: An Olympics Originalist | #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the average accuracy of each player in the 2024 Sinquefield Cup, as of before the sixth round. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/most-accurate-player-mvl-course-r6-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/kzN0bnZl4no.jpg?itok=ipDGwF6D\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/most-accurate-player-mvl-course-r6-sinquefieldcup",
+         "pubDate" : "Mon, 26 Aug 2024 18:10:36",
+         "title" : "Most Accurate Player? MVL, Of Course! | R6 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Many chess fans came to the venue today! Pragg arrived just 2 minutes before the start but still stopped for a moment to take a picture with kids!<br /> #Sinquefieldcup #Grandchesstour #chess #pragg </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/pragg-always-makes-time-his-fans-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/I1sosIQS6yA.jpg?itok=MfMPeNCw\" alt=\"\" /",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pragg-always-makes-time-his-fans-sinquefieldcup",
+         "pubDate" : "Mon, 26 Aug 2024 18:10:36",
+         "title" : "Pragg Always Makes Time for his Fans! #SinquefieldCup"
+      },
+      {
+         "description" : "Alireza Firouzja is still the sole leader after round 6 of the Sinquefield Cup. Sharing second place are Wesley So and Fabiano Caruana, as the latter joined his compatriot in the chasing pack after beating Ian Nepomniachtchi with black on Sunday. Caruana took advantage of a perplexing mistake by Nepo, who played a game-losing blunder on move 18 out of a Sicilian Dragon. All remaining games finished drawn, though D. Gukesh and especially Anish Giri were close to getting full points. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-6",
+         "pubDate" : "Mon, 26 Aug 2024 16:15:00",
+         "title" : "Sinquefield Cup: Nepo collapses in the opening"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3183",
+         "pubDate" : "Mon, 26 Aug 2024 15:18:59",
+         "title" : "Women and Records in the spotlight at Chess Olympiad in Budapest"
+      },
+      {
+         "description" : "FIDE has announced a significant change to the schedule of the 2024 World Rapid &#38;amp; Blitz Championships, taking place in New York in the last week of December, adding a rest day so that the event ends on New Year&#39;s Eve. FIDE announced in June ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/fide-makes-change-in-world-rapid-blitz-championships-schedule",
+         "pubDate" : "Mon, 26 Aug 2024 13:55:00",
+         "title" : "FIDE Breaks From World Rapid & Blitz Tradition, Introduces Rest Day"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3184",
+         "pubDate" : "Mon, 26 Aug 2024 12:30:21",
+         "title" : "French Championship 2024: Moussard and Daulyte-Cornette win titles"
+      },
+      {
+         "description" : "The ALREH Akiba Rubinstein Memorial took place on 17-25 August in Polanica Zdroj, Poland. It was a 10-player single round-robin featuring 3 players rated 2700 or above and a host of strong, experienced 2600+ participants completing the lineup. Second seed Vincent Keymer had a formidable start, with 5 wins and 2 draws allowing him to win the event with a round to spare despite losing his final 2 games. The German prodigy is now ranked 19th in the world. | Photo: Mikael Svensson, TePe Sigeman & Co.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/keymer-wins-rubinstein-memorial-2024",
+         "pubDate" : "Mon, 26 Aug 2024 11:00:00",
+         "title" : "Vincent Keymer wins Rubinstein Memorial, enters world top 20"
+      },
+      {
+         "description" : "Women&#39;s world number one Hou Yifan is through to the Quarterfinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship after defeating qualifier IM Anastasia Bodnaruk 7.5-5.5. The final scoreline looks close after Bodnaruk won the last four g...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wscc-ro16-hou-yifan-bodnaruk",
+         "pubDate" : "Mon, 26 Aug 2024 10:25:00",
+         "title" : "Hou Yifan Storms Into Quarterfinals With 6-Game Winning Streak"
+      },
+      {
+         "description" : "A very special offer awaits you in this week's summer special - two products that are indispensable for serious chess players are on special offer and available as a bundle: ChessBase 17 and the Opening Encyclopaedia 2024. Take the chance and get both for the summer special price of only €249.90 (instead of €299.90)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/summer-special-chessbase-17-opening-encyclopaedia-2024",
+         "pubDate" : "Mon, 26 Aug 2024 09:00:00",
+         "title" : "Summer Special: ChessBase 17 and Opening Encyclopaedia 2024"
+      },
+      {
+         "description" : "The European Amateur Chess Championship 2024 commenced yesterday in Mali Losinj, Croatia. The Opening ceremony of the event took place shortly before the first round, with the attendance of the ECU Vice President Mr. Alojzije Jankovic who addressed the players and made the first ceremonial move before the start of the games. The Championship is played in three rating sections: U1700, U2000 and U2300, and gathers 82 players from 16 European federations, including two players from Guadalupe, overseas region of []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-amateur-chess-championship-2024-kicked-off-in-croatia/",
+         "pubDate" : "Mon, 26 Aug 2024 07:01:25",
+         "title" : "European Amateur Chess Championship 2024 kicked off in Croatia"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3182",
+         "pubDate" : "Mon, 26 Aug 2024 05:34:43",
+         "title" : "FIDE World Rapid & Blitz Championships 2024: Making history on Wall Street"
+      },
+      {
+         "description" : "With three rounds to go in the 2024 Sinquefield Cup, French GM Alireza Firouzja is inching closer to a big payday in the 2024 Grand Chess Tour. Coming off a victorious Saint Louis Rapid & Blitz last week, Firouzja looks to secure both the $100,000 prize for the Cup and the additional $100,000 first prize for the Tour bonus!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> A happy Firouzja (L) in the broadcast studio after another impressive result (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja has led the event since his first-round victory over GM Fabiano Caruana, a",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/firouzja-closes-sinquefield-cup-caruana-and-so-close-behind",
+         "pubDate" : "Mon, 26 Aug 2024 00:00:00",
+         "title" : "Firouzja Closes In On Sinquefield Cup, Caruana and So Close Behind"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3181",
+         "pubDate" : "Sun, 25 Aug 2024 19:58:04",
+         "title" : "FIDE Solving Championships: Free online lessons for everybody"
+      },
+      {
+         "description" : "GM Fabiano Caruana gained ground on GM Alireza Firouzja after GM Ian Nepomniachtchi made a shocking blunder at the 2024 Sinquefield Cup on Sunday. Caruana is now tied for second with GM Wesley So while Firouzja continues to have a half-point lead ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-6",
+         "pubDate" : "Sun, 25 Aug 2024 18:29:00",
+         "title" : "Nepomniachtchi Blunders vs. Dragon, Caruana Chases Firouzja"
+      },
+      {
+         "description" : "GM Vincent Keymer won the 2024 Rubinstein Memorial&#39;s ALREH GM tournament on Sunday despite finishing with two losses. After starting with the superb score of six points out of seven games, the 19-year-old German grandmaster had already secured the...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/keymer-wins-2024-alreh-rubinstein-memorial-gm-tournament",
+         "pubDate" : "Sun, 25 Aug 2024 12:06:00",
+         "title" : "Keymer Wins Rubinstein Memorial With Round To Spare"
+      },
+      {
+         "description" : "GM Hans Niemann has surged to number 16 in the world on the live rating list after a series of matches he&#39;s organized entitled &#34;Hans Niemann Against The World.&#34; He&#39;s won all of the matches so far, starting with an exhibition blitz match against GM...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-niemann-rises-to-world-no-16",
+         "pubDate" : "Sun, 25 Aug 2024 08:31:00",
+         "title" : "Niemann Rises To World Number-16 Ahead Of SCC Finals Vs. Carlsen In Paris"
+      },
+      {
+         "description" : "GM Nodirbek Yakubboev won the 2024 Abu Dhabi Chess Festival&#39;s Masters tournament and the $30,000 check that belonged to it. The Uzbek grandmaster edged out GMs David Paravyan, Shamsiddin Vokhidov, Amin Tabatabaei, Leon Luke Mendonca, and IM Daniel...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/nodirbek-yakubboev-wins-2024-abu-dhabi-masters",
+         "pubDate" : "Sun, 25 Aug 2024 03:51:00",
+         "title" : "Yakubboev Grabs $30,000 Check At Abu Dhabi Masters"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -26,20 +234,20 @@ news_feed (
          "title" : "FIDE 100 Torch Relay reaches United Arab Emirates"
       },
       {
+         "description" : "GM Hikaru Nakamura successfully returned to the Bullet Brawl&#38;nbsp;arena after a two-week hiatus, winning his 27th title and the $400 first prize with a commanding score of 69.5/77. GMs Andrew Tang and Jose Martinez rounded out the podium which was...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/hikaru-nakamura-wins-bullet-brawl-august-24-2024",
+         "pubDate" : "Sat, 24 Aug 2024 17:16:00",
+         "title" : "Nakamura Claims 27th Title After 32-Game Unbeaten Streak"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3178",
          "pubDate" : "Sat, 24 Aug 2024 15:26:09",
          "title" : "Alina Kashlinskaya wins the first leg of 2024/2025 Women's Grand Prix"
-      },
-      {
-         "description" : "By beating Anish Giri with white, Alireza Firouzja became the sole leader going into the rest day of the Sinquefield Cup. Firouzja has collected 3&frac12; points and stands a half point ahead of Wesley So. The latter escaped with a draw after fiercely defending an endgame material down against R. Praggnanandhaa. Sunday's sixth round will see So playing white against Firouzja. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-5",
-         "pubDate" : "Sat, 24 Aug 2024 15:15:00",
-         "title" : "Sinquefield Cup: Firouzja grabs sole lead, So escapes against Pragg"
       },
       {
          "description" : "The deadline for the National Under 07 online entries has been extended to 26 August 2024, 5:00 PM. AICF",
@@ -74,100 +282,12 @@ news_feed (
          "title" : "Arise, Sir Gawain - and all hail to the young Royal "
       },
       {
-         "description" : "Hans Niemann and Etienne Bacrot scored 2 wins each (and signed 2 draws) in the rapid section of their match in Paris. Saturday will be the final day of action, with 12 blitz games scheduled to take place - each granting 1 point for the overall score of the match. At this point, Niemann has a 9-point lead over his French opponent. | Photo: Frans Peeters",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-d4",
-         "pubDate" : "Sat, 24 Aug 2024 08:00:00",
-         "title" : "Niemann keeps 9-point lead in match against Bacrot"
-      },
-      {
          "description" : "GM Alireza Firouzja is once again the sole leader of the 2024 Sinquefield Cup after beating GM Anish Giri in round five on Friday. The Dutchman is no longer in the world&#39;s top 20 for the first time in more than a decade. With all other games end...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-5",
          "pubDate" : "Sat, 24 Aug 2024 05:01:00",
          "title" : "Firouzja Leads Alone Again, Pushes Giri Out Of Top 20"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Giri in Round 5 of the 2024 Sinquefield Cup. 2024.08.23<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-people-are-playing-fighting-chess-r5-sinquefieldcup",
-         "pubDate" : "Sat, 24 Aug 2024 03:08:46",
-         "title" : "Firouzja: People are Playing Fighting Chess | R5 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-7-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defau",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-7-grandchesstour",
-         "pubDate" : "Sat, 24 Aug 2024 03:08:46",
-         "title" : "2024 Sinquefield Cup: Round 7 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> International Master Begim Tokhirjonova recaps Round 5 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in Saint Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-5-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-5-grandchesstour",
-         "pubDate" : "Sat, 24 Aug 2024 03:08:46",
-         "title" : "RECAP | 2024 Sinquefield Cup: Round 5 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> It comes with the territory... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/players-mobbed-autograph-seeking-fans-round-5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/k6uryTeuAf0.jpg?itok=0-qyfhbs\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/players-mobbed-autograph-seeking-fans-round-5-sinquefieldcup",
-         "pubDate" : "Sat, 24 Aug 2024 03:08:46",
-         "title" : "Players Mobbed by Autograph-Seeking Fans before Round 5! #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Sinquefield Cup, as of before the fifth round. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/who-likely-win-after-round-4-r5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/bUnVwfpQy9U.jpg?itok=qr-1L0Nl\" alt=\"\" />",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/who-likely-win-after-round-4-r5-sinquefieldcup",
-         "pubDate" : "Sat, 24 Aug 2024 00:08:38",
-         "title" : "Who is Likely to Win (After Round 4)? | R5 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> R Praggnanandhaa talks to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 5. 2024.08.11<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hid",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pragg-memories-2014-cup-match-millennials-sinquefieldcup",
-         "pubDate" : "Sat, 24 Aug 2024 00:08:38",
-         "title" : "Pragg: Memories of 2014 Cup & Match of the Millennials | #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Curator Emily Allred joins the show during Round 5 of the 2024 Sinquefield Cup. 2024.08.23<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidde",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/allred-visit-wchof%E2%80%99s-world-championship-exhibition-r5-sinquefieldcup",
-         "pubDate" : "Sat, 24 Aug 2024 00:08:38",
-         "title" : "Allred: Visit the WCHOF's World Championship Exhibition | R5 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at how well Sinquefield Cup veterans perform before and after the rest day. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/performance-after-rest-day-r5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4CrTP1VPiOg.jpg?itok=DkOtx-cC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/performance-after-rest-day-r5-sinquefieldcup",
-         "pubDate" : "Sat, 24 Aug 2024 00:08:38",
-         "title" : "Performance Before & After the Rest Day | R5 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team answers a viewer's question \"What is the weirdest thing you've encountered at a chess tournament?\" during Round 5 of the 2024 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/weirdest-thing-chess-tournament-r5-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/UpHHahPsYd8.jpg?itok=G7czs-P4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/weirdest-thing-chess-tournament-r5-sinquefieldcup",
-         "pubDate" : "Sat, 24 Aug 2024 00:08:38",
-         "title" : "Weirdest Thing at a Chess Tournament? | R5 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The players talk to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 5. 2024.08.17<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden fi",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-important-are-ding-gukesh%E2%80%99s-performances-sinquefieldcup",
-         "pubDate" : "Sat, 24 Aug 2024 00:08:38",
-         "title" : "How Important are Ding & Gukesh's Performances? | #SinquefieldCup"
       },
       {
          "description" : "",
@@ -262,7 +382,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-r16-ju-wenjun",
-         "pubDate" : "Thu, 22 Aug 2024 11:49:49",
+         "pubDate" : "Thu, 22 Aug 2024 11:49:00",
          "title" : "Ju Wenjun Wins With 10-Point Margin, Nearly Goes Undefeated"
       },
       {
@@ -498,22 +618,6 @@ news_feed (
          "title" : "The day of surprising twists at the Women's Grand Prix in Tbilisi"
       },
       {
-         "description" : "The Community Championship Series returned on Monday with the 2024 Chess.com Bughouse Championship and two teams: GM Lars Oskar Hauge and NM Isaac Chiu along with GMs Jeffery Xiong and Awonder Liang, rose above 400 participating teams to book thei...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-1-2",
-         "pubDate" : "Mon, 19 Aug 2024 16:23:13",
-         "title" : "Xiong, Liang Win 50 Consecutive Games In Bughouse Championship Qualifier"
-      },
-      {
-         "description" : "GMs Nana Dzagnidze and Mariya Muzychuk have joined the leaders of the 2024 Tbilisi FIDE Women&#39;s Grand Prix after scoring dramatic first wins to beat GMs Alexandra Kosteniuk and Vaishali Rameshbabu in round five. There was also a first win for IM S...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-5",
-         "pubDate" : "Mon, 19 Aug 2024 14:44:25",
-         "title" : "Sara Khadem, Nana Dzagnidze, Mariya Muzychuk All Score 1st Wins"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -578,14 +682,6 @@ news_feed (
          "title" : "GCT Updates: Firouzja Wins 2024 Saint Louis Rapid and Blitz, Sinquefield Cup to Begin Today"
       },
       {
-         "description" : "Round one of the 2024 Sinquefield Cup will offer a sneak peek of the upcoming world championship match: GM Ding Liren and GM Gukesh Dommaraju will meet for the first time since Gukesh became the challenger. As the finale of the Grand Chess Tour,...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-preview",
-         "pubDate" : "Sun, 18 Aug 2024 21:29:00",
-         "title" : "A Taste of Gukesh vs. Ding at the Grand Chess Tour Finale"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -594,28 +690,12 @@ news_feed (
          "title" : "FIDE WGP Tbilisi: Miraculous save by Nana Dzagnidze in Round 4"
       },
       {
-         "description" : "GM Alexandra Kosteniuk has joined IMs Bibisara Assaubayeva and Stavroula Tsolakidou in the lead of the 2024 Tbilisi FIDE Women&#39;s Grand Prix after pouncing on a mistake by the luckless IM Sara Khadem in round four. GM Anna Muzychuk could have joine...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-4",
-         "pubDate" : "Sun, 18 Aug 2024 13:18:00",
-         "title" : "Kosteniuk Joins Grand Prix Leaders"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
          "link" : "https://www.fide.com/news/3161",
          "pubDate" : "Sat, 17 Aug 2024 18:03:23",
          "title" : "Vaishali Rameshbabu is the only winner in Round 3 of the Women's Grand Prix"
-      },
-      {
-         "description" : "Bullet Brawl saw the crowning of a new champion on Saturday after 15-year-old Turkish prodigy GM Ediz Gurel scored 265 points and finished ahead of American GMs Andrew Tang (261) and Daniel Naroditsky (211). The winner of the $100 top women&#39;s pr...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/ediz-gurel-wins-bullet-brawl-august-17-2024",
-         "pubDate" : "Sat, 17 Aug 2024 17:00:00",
-         "title" : "15-Year-Old Gurel Wins Bullet Brawl Ahead Of Tang, Naroditsky"
       },
       {
          "description" : "",
@@ -632,14 +712,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/grand-chess-tour-r-praggnanandhaa-finishes-last-firouzja-wins-saint-louis-leg/articleshow/112594292.cms",
          "pubDate" : "Sat, 17 Aug 2024 16:09:04",
          "title" : "Grand Chess Tour: R Praggnanandhaa finishes last, Firouzja wins Saint Louis leg"
-      },
-      {
-         "description" : "GM Vaishali Rameshbabu smoothly outplayed IM Sara Khadem in round three of the 2024 Tbilisi FIDE Women&#39;s Grand Prix to recover from a tough start and move up into the seven-player pack on 50 percent. All the other games were drawn, so that IMs Bib...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-3",
-         "pubDate" : "Sat, 17 Aug 2024 14:53:00",
-         "title" : "Vaishali Breaks The Deadlock In Tbilisi"
       },
       {
          "description" : "",
@@ -672,14 +744,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-national-championship-2024/",
          "pubDate" : "Sat, 17 Aug 2024 08:05:31",
          "title" : "Live Link for National Championship 2024"
-      },
-      {
-         "description" : "IM Anastasia Bodnaruk emerged as the winner of the fourth and final Play-In tournament for the 2024 Julius Baer Women&#39;s Speed Chess Championship in what turned out to be the most exciting and memorable of all the qualifiers. Bodnaruk defeated Azer...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-julius-baer-womens-speed-chess-championship-play-in-4",
-         "pubDate" : "Sat, 17 Aug 2024 00:51:33",
-         "title" : "Bodnaruk Wins Play-In 4 Despite Great Fightbacks By Ismayil"
       },
       {
          "description" : "The fourth event of the 2024 Grand Chess Tour is the Saint Louis Rapid & Blitz tournament. Taking place on 12-16 August, the event starts with 9 rounds of rapid action, followed by 18 rounds of blitz. Included in the field are the three frontrunners in the race to win the 2024 Grand Chess Tour: Fabiano Caruana, Alireza Firouzja and R Praggnanandhaa. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -890,14 +954,6 @@ news_feed (
          "title" : "Junior Bursaries for the Northumbria Masters"
       },
       {
-         "description" : "This week's puzzles come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-tournaments-state-champions",
-         "pubDate" : "Tue, 13 Aug 2024 00:00:00",
-         "title" : "Tactics Tuesday: Tournaments of State Champions"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1096,62 +1152,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2024/",
          "pubDate" : "Tue, 06 Aug 2024 08:00:41",
          "title" : "Premier League Fantasy Football 2024"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> A 30 minute documentary by <strong>Dominik Toepfer</strong> on the story of <strong>Lichess</strong> has been <a href=\"https://www.youtube.com/watch?v=H39AHPSBcGc\">released on Youtube</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/lichess-documentary-released/",
-         "pubDate" : "Mon, 05 Aug 2024 16:25:14",
-         "title" : "Lichess documentary released"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3142",
-         "pubDate" : "Mon, 05 Aug 2024 15:58:59",
-         "title" : "Magnus Carlsen leads WR Chess to World Blitz team crown"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3141",
-         "pubDate" : "Mon, 05 Aug 2024 13:51:01",
-         "title" : "Dragnev and Newrkla win 2024 Austrian Championship"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>Kevin Pryor</strong>, a retired corporate lawyer from Florida, is the <a href=\"https://new.uschess.org/news/kevin-pryor-named-president-us-chess\">first black person at the helm of</a> <strong>USChess</strong>, following <strong>Randy Bauer</strong>, who has come under fire for his alleged retaliation against <strong>Jennifer Shahade</strong> for making the Ramirez affair public. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/first-black-uschess-president/",
-         "pubDate" : "Mon, 05 Aug 2024 10:04:13",
-         "title" : "First black USChess president"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3140",
-         "pubDate" : "Sun, 04 Aug 2024 21:43:41",
-         "title" : "British Championship: Gawain Jones captures third title"
-      },
-      {
-         "description" : " 110th British Chess Championships took place 25th Jul to Sun 4th Aug 2024.David Wl Howell, Michael Adams, Gawain Cb Jones, Luke J Mcshane, Stuart C Conquest, Ameet K Ghasi, Svyatoslav Bazakutsa, Shreyas Royal, Harry Grieve, Eldar Gasanov, Matthew J Wadsworth, Simon K Williams etc. In one of the best championship in many years there was a close finish and a tie-break match between David Howell and Gawain Jones after they tied on 7/9. Jones came from behind to beat Howell 2.5-1.5. This was a real heartening return for an event that I feared for only quite recently. 15 year old Shreyas Royal secured the GM title with his draw against Michael Adams in the final round, he says this was his fifth",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/110th-british-chess-championships-2024",
-         "pubDate" : "Sun, 4 Aug 2024 19:38:00",
-         "title" : "110th British Chess Championships 2024 - Games and Results"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3139",
-         "pubDate" : "Sun, 04 Aug 2024 17:07:13",
-         "title" : "Al-Ain ACMG UAE become the new World Rapid Team Champions"
       }
    ]
 }
