@@ -1,4 +1,10 @@
 jtable([
+"HOUSTON","2024-08-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202408260162 target='_blank'>AUGUST 25 SUNDAY SWISS AT NOON</a>",
+"HOUSTON","2024-08-24","15","<a href=http://www.uschess.org/msa/XtblMain.php?202408249432 target='_blank'>AUGUST 24  2024 SATURDAY SWISS AT N</a>",
+"SPRING","2024-08-24","168","<a href=http://www.uschess.org/msa/XtblMain.php?202408249132 target='_blank'>KLEIN BACK TO SCHOOL</a>",
+"HOUSTON","2024-08-24","12","<a href=http://www.uschess.org/msa/XtblMain.php?202408248772 target='_blank'>CHESSPANDA08242024SATURDAY</a>",
+"SUGAR LAND","2024-08-23","10","<a href=http://www.uschess.org/msa/XtblMain.php?202408238492 target='_blank'>FBCC NATIONAL #HASHTAG DAY OPEN</a>",
+"SPRING","2024-08-23","38","<a href=http://www.uschess.org/msa/XtblMain.php?202408238482 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-08-17  - 08-18","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408185652 target='_blank'>$1,500 AUGUST  U2400 + A BLITZ</a>",
 "HOUSTON","2024-08-17","69","<a href=http://www.uschess.org/msa/XtblMain.php?202408174782 target='_blank'>TCR: SPACE CITY OPEN & SCHOLASTIC 2024</a>",
 "SUGAR LAND","2024-08-17","18","<a href=http://www.uschess.org/msa/XtblMain.php?202408174332 target='_blank'>HAWAIIAN SHIRT DAY OPEN</a>",
@@ -193,10 +199,4 @@ jtable([
 "CYPRESS","2024-02-02","33","<a href=http://www.uschess.org/msa/XtblMain.php?202402021352 target='_blank'>KNIGHTS OF CYPRESS</a>",
 "SUGAR LAND","2024-02-02","6","<a href=http://www.uschess.org/msa/XtblMain.php?202402021322 target='_blank'>FBCC 2024 GROUNDHOG OPEN</a>",
 "HOUSTON","2024-01-02  - 01-30","26","<a href=http://www.uschess.org/msa/XtblMain.php?202401300222 target='_blank'>JAN 2024 TUESDAY NIGHT SWISS</a>",
-"HOUSTON","2024-01-28","18","<a href=http://www.uschess.org/msa/XtblMain.php?202401288702 target='_blank'>SUNDAY SWISS - JAN 28 2024 - AT 1PM</a>",
-"SPRING","2024-01-27","337","<a href=http://www.uschess.org/msa/XtblMain.php?202401278092 target='_blank'>24TH KLEIN WINTER SCHOLASTIC</a>",
-"HOUSTON","2024-01-27","10","<a href=http://www.uschess.org/msa/XtblMain.php?202401277382 target='_blank'>CHESSPANDA01272024SATURDAY</a>",
-"CYPRESS","2024-01-26","40","<a href=http://www.uschess.org/msa/XtblMain.php?202401266922 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SPRING","2024-01-26","29","<a href=http://www.uschess.org/msa/XtblMain.php?202401266832 target='_blank'>THE FRIDAY KNIGHTS</a>",
-"SUGAR LAND","2024-01-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202401266822 target='_blank'>FBCC 2024 JANUARY WINTER OPEN</a>",
 ]);
