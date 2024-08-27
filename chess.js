@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Take a look at this position. Looks simple enough - just five pieces on the board. But we are asked to find a clear and forced win for White. That requires some unusually subtle strategic moves. Try and solve it, and two other similarly clever problems, which you are sure to find pleasing. Full video explanations will follow in a week.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/can-you-solve-these-puzzles-2",
+         "pubDate" : "Tue, 27 Aug 2024 08:00:00",
+         "title" : "Can you solve these puzzles?"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3185",
+         "pubDate" : "Tue, 27 Aug 2024 06:50:49",
+         "title" : "Travel information for World Senior Championships 2024 in Porto Santo, Portugal"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> With plenty of time, Nepo hastily plays g5 against Fabiano </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wth-nepog5-grandchesstour-chess-chesstalks-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/z7v0xggaOOY.jpg?itok=iOI71TwM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wth-nepog5-grandchesstour-chess-chesstalks-chesstactics-chesscom",
+         "pubDate" : "Tue, 27 Aug 2024 06:11:07",
+         "title" : "WTH! Nepo...g5?? #grandchesstour #chess #chesstalks #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The king is on h1, and somehow all the dark squares are covered </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kings-corner-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hMKczW0x4D4.jpg?itok=hFk_4j4J\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/kings-corner-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Tue, 27 Aug 2024 06:11:07",
+         "title" : "The King's Corner #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Fabi shuts down Nepo with Ne4 after Nepo&#039;s quick play of g5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-drops-nepo-ne4-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JLlDZHywD9Y.jpg?itok=mNbchOWr\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/fabi-drops-nepo-ne4-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Tue, 27 Aug 2024 06:11:07",
+         "title" : "Fabi Drops Nepo with Ne4 #grandchesstour #chess #chesstactics #chesscom"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Mizzou Chess Team Head Coach &amp; Manager Cristian Chirila talks about his team during Round 6 of the 2024 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirila-building-winning-culture-mizzou-chess-r6-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-bDHISiiuHQ.jpg?itok=MSKRDQyY\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -58,22 +98,6 @@ news_feed (
          "title" : "Commentators Foresee The Inevitable #grandchesstour #chess #chesstactics #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Before goes into a deep analysis with the Silicon Overlord, Nazi gives the spoiling move </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nazi-spoiler-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SF4-WCYEKJQ.jpg?itok=DgsSlaTA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nazi-spoiler-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Tue, 27 Aug 2024 03:11:00",
-         "title" : "Nazi \"The Spoiler\" #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> GM Dariusz Swiercz&#039;s chess engine gives suggest Svidler can not believe </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/dariuszs-chess-engine-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/_FRc0BXLpqM.jpg?itok=QCl5KQfl\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/dariuszs-chess-engine-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Tue, 27 Aug 2024 03:11:00",
-         "title" : "Dariusz's Chess Engine #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
          "description" : "New York City will become the epicentre of the chess world as the FIDE World Rapid & Blitz Championships make their North American debut on 26-31 December 2024. The iconic Wall Street backdrop will set the stage for a thrilling competition as the world's top chess players converge in the heart of global finance. An addition to this year's event is a free day between the Rapid and Blitz Championships.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,12 +106,12 @@ news_feed (
          "title" : "World Rapid & Blitz Championships: Making history on Wall Street"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Ian Nepomniachtchi talks to Anastasiya Karlovich before the 2024 Sinquefield Cup. This aired during Round 7. 2024.08.11<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-h",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepo-12030-control-%E2%80%98unfortunate%E2%80%99-sinquefieldcup",
-         "pubDate" : "Tue, 27 Aug 2024 00:10:54",
-         "title" : "Nepo: The 120+30 Control is 'Unfortunate' | #SinquefieldCup"
+         "description" : "GM Alireza Firouzja defeated GM Ding Liren at the 2024 Sinquefield Cup on Monday, stretching his lead to a full point with two rounds to go. GM Fabiano Caruana is the only player in striking range from clear second.&#38;nbsp; GM Nodirbek Abdusattoro...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-7",
+         "pubDate" : "Mon, 26 Aug 2024 20:26:28",
+         "title" : "Firouzja Beats World Champion, Grows Lead to Full Point"
       },
       {
          "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
@@ -600,14 +624,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3167",
          "pubDate" : "Mon, 19 Aug 2024 21:56:31",
          "title" : "FIDE 100 Celebrations in Quebec City"
-      },
-      {
-         "description" : "GM Alireza Firouzja gained the sole lead at the 2024 Sinquefield Cup by defeating GM Fabiano Caruana in round one.&#38;nbsp; GM Ding Liren hinted at attacking intentions vs. GM Gukesh Dommaraju. Yet, when the 18-year-old challenger created counterpl...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-1",
-         "pubDate" : "Mon, 19 Aug 2024 19:07:00",
-         "title" : "Firouzja Bests Caruana, Gains Sole Lead"
       },
       {
          "description" : "",
