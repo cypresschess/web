@@ -2,6 +2,46 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3187",
+         "pubDate" : "Tue, 27 Aug 2024 14:43:51",
+         "title" : "Olympiad Expo Classic International Open FIDE Tournament announced"
+      },
+      {
+         "description" : "Nominations are invited for the positions detailed below, which will be the subject of elections to be held at the Annual General Meeting on 26th October 2024. Posts due for...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-nominations-2/",
+         "pubDate" : "Tue, 27 Aug 2024 13:43:21",
+         "title" : "ECF AGM - call for nominations"
+      },
+      {
+         "description" : "The 2024 Annual General Meeting will be held on Saturday 26th October 2024 in London with access also by Zoom (starting time 1.30pm). In addition to the prescribed business (including...",
+         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
+         "iconName" : "English Chess<br>Federation",
+         "link" : "https://www.englishchess.org.uk/ecf-agm-call-for-motions-3/",
+         "pubDate" : "Tue, 27 Aug 2024 13:39:52",
+         "title" : "ECF AGM - call for motions"
+      },
+      {
+         "description" : "Grandmaster Karthik Venkataraman of Andhra Pradesh won the 61st National chess championship, organized by The Haryana Chess Association at RPS International School, Gurgaon today. Besides",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/grandmaster-karthik-venkataraman-won-the-61st-national-chess-championship-2024/",
+         "pubDate" : "Tue, 27 Aug 2024 12:19:12",
+         "title" : "Grandmaster Karthik Venkataraman won the 61st National Chess Championship 2024"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3186",
+         "pubDate" : "Tue, 27 Aug 2024 11:43:16",
+         "title" : "Updated list of Member Federations having right to vote at GA 2024 published"
+      },
+      {
          "description" : "Five rounds have already been played at the European Youth Chess Championship 2024 in Prague, Czech Republic with four rounds to go before the announcement of the Winners. Each age group has emerged leaders, who are closely followed by other players. Today is a free day for the players, and the games continue tomorrow with the 6th round starting at 15:00 CEST. In section for Girls U8, Lile Svanadze (GEO, 1472) has a sole lead with perfect score of 5/5 []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -16,6 +56,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/can-you-solve-these-puzzles-2",
          "pubDate" : "Tue, 27 Aug 2024 08:00:00",
          "title" : "Can you solve these puzzles?"
+      },
+      {
+         "description" : "Chess.com is excited to invite you to play against GM Viswanathan Anand! The Vishy vs. the World match will start on September 30 and feature the Vote Chess format, which allows anyone in the community to participate.&#38;nbsp; Play Against Anand ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/announcing-vishy-vs-the-world",
+         "pubDate" : "Tue, 27 Aug 2024 07:00:00",
+         "title" : "Play Against GM Viswanathan Anand In Vishy vs. The World Match"
       },
       {
          "description" : "",
@@ -112,6 +160,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-wall-street",
          "pubDate" : "Tue, 27 Aug 2024 02:20:00",
          "title" : "World Rapid & Blitz Championships: Making history on Wall Street"
+      },
+      {
+         "description" : "This week's puzzles begin a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/tactics-tuesday-124th-annual-us-open-pt-1",
+         "pubDate" : "Tue, 27 Aug 2024 00:00:00",
+         "title" : "Tactics Tuesday: 124th Annual U.S. Open, Pt. 1"
       },
       {
          "description" : "GM Alireza Firouzja defeated GM Ding Liren at the 2024 Sinquefield Cup on Monday, stretching his lead to a full point with two rounds to go. GM Fabiano Caruana is the only player in striking range from clear second.&#38;nbsp; GM Nodirbek Abdusattoro...",
@@ -546,14 +602,6 @@ news_feed (
          "title" : "Helmsknight, Vasquez Overcome Team Tang To Qualify On 3rd Attempt"
       },
       {
-         "description" : "In an all-draw day, GM Alireza Firouzja kept his half-point lead on the field at the 2024 Sinquefield Cup in round two.&#38;nbsp;GM Gukesh Dommaraju generated the most winning chances as he clashed vs. GM Ian Nepomniachtchi in our Game of the Day.&#38;nbs...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-2",
-         "pubDate" : "Tue, 20 Aug 2024 17:32:00",
-         "title" : "Challengers Fight, Firouzja Keeps Lead"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/ECF.png",
          "iconName" : "English Chess<br>Federation",
@@ -946,14 +994,6 @@ news_feed (
          "title" : "SNA Seminar at Shimla HP on 14-15 September 2024"
       },
       {
-         "description" : "US Chess announces two changes to the Communications Department. As of August 17, Dan Lucas will no longer be our Senior Director of Strategic Communication. Effective immediately, JJ Lang has been promoted from Digital Assistant to Digital Editor. <br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Dan Lucas has been with US Chess for almost 19 years, beginning as Director of Publications in 2005. Lucas was editor of Chess Life and Chess Life Kids magazine for over 12",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/communications-department-transitions-1",
-         "pubDate" : "Wed, 14 Aug 2024 00:00:00",
-         "title" : "Communications Department Transitions"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1098,14 +1138,6 @@ news_feed (
          "title" : "Winners crowned at 2024 FIDE World School Rapid and Blitz Championships"
       },
       {
-         "description" : "Please find the Certificates here No Name 1 Tushar Saraswat 2 Anant Panwar 3 Pawan Bathm 4 Balamurugan Masilamani 5 Manish Kumar 6 Kapil Dua",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/74785-2/",
-         "pubDate" : "Thu, 08 Aug 2024 07:50:47",
-         "title" : "Certificates for SNA Seminar held at Bijnor ,UP from 27 to 28 July 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1144,22 +1176,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/2024-british-chess-championship-results/",
          "pubDate" : "Tue, 06 Aug 2024 16:07:57",
          "title" : "2024 British Chess Championship results"
-      },
-      {
-         "description" : "Shreyas Royal, aged just 15, is set to become England's 41st grandmaster and the youngest ever, beating GM David Howell's record, after achieving his final GM norm in the British...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/shreyas-royal-grandmaster/",
-         "pubDate" : "Tue, 06 Aug 2024 16:07:35",
-         "title" : "Shreyas Royal, Grandmaster!"
-      },
-      {
-         "description" : "On Monday August 5th, in the Hotel Energetic in Roznov pod Radhostem in the Czech Republic, the 22nd European Union Youth Chess Championship U8, U10, U12 and U14 has begun. European Union Youth Chess Championship 2024 under the patronage of the European Chess Union is organized again by Sachovy klub Svetla nad Sazavou in cooperation with the Czech Chess Federation and continue in previous successful years. Boys and girls in each category play the same tournament. Eventually boys and girls will []",
-         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
-         "iconName" : "European<br>Chess Union",
-         "link" : "https://www.europechess.org/eu-youth-chess-championship-2024-commenced-in-czech-republic/",
-         "pubDate" : "Tue, 06 Aug 2024 15:14:11",
-         "title" : "EU Youth Chess Championship 2024 commenced in Czech Republic"
       }
    ]
 }
