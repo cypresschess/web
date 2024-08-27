@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the eighth round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r8-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4qZ2n7TxSJ0.jpg?itok=Uddq0gEB\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r8-sinquefieldcup",
+         "pubDate" : "Tue, 27 Aug 2024 21:11:28",
+         "title" : "How Will Each Game End? | R8 #SinquefieldCup"
+      },
+      {
          "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -152,14 +160,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/nepos-expression-tells-it-all-grandchesstour-chess-chesstalk-chesscom",
          "pubDate" : "Tue, 27 Aug 2024 03:11:00",
          "title" : "Nepo's Expression Tells It All #grandchesstour #chess #chesstalk #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Chirila shares some exciting news about his new recruits </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/all-chessbrah-fans-grandchesstour-chess-chesstalk-chessbrah-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JBnvLGClHe0.jpg?itok=rLBiZ38L\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/all-chessbrah-fans-grandchesstour-chess-chesstalk-chessbrah-chesscom",
-         "pubDate" : "Tue, 27 Aug 2024 03:11:00",
-         "title" : "For All The Chessbrah Fans #grandchesstour #chess #chesstalk #chessbrah #chesscom"
       },
       {
          "description" : "This week's puzzles begin a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
