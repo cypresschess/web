@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
+         "pubDate" : "Tue, 27 Aug 2024 19:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-9-playoff-grandchesstour\"><img src=\"https://saintlouischessclub.org/sit",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-9-playoff-grandchesstour",
+         "pubDate" : "Tue, 27 Aug 2024 18:11:24",
+         "title" : "2024 Sinquefield Cup: Round 9 & Playoff | #GrandChessTour"
+      },
+      {
+         "description" : "Alireza Firouzja grabbed his third win of the Sinquefield Cup by beating world champion Ding Liren in Monday's seventh round. Firouzja now has a full-point lead over Fabiano Caruana with 2 rounds to go. One more game ended decisively in round 7, as Nodirbek Abdusattorov got the better of Wesley So with the white pieces. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-7",
+         "pubDate" : "Tue, 27 Aug 2024 17:30:00",
+         "title" : "Sinquefield Cup: Firouzja beats Ding, leads by a full point"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -48,14 +72,6 @@ news_feed (
          "link" : "https://www.europechess.org/european-youth-chess-championship-2024-is-halfway-through/",
          "pubDate" : "Tue, 27 Aug 2024 08:02:40",
          "title" : "European Youth Chess Championship 2024 is halfway through"
-      },
-      {
-         "description" : "Take a look at this position. Looks simple enough - just five pieces on the board. But we are asked to find a clear and forced win for White. That requires some unusually subtle strategic moves. Try and solve it, and two other similarly clever problems, which you are sure to find pleasing. Full video explanations will follow in a week.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/can-you-solve-these-puzzles-2",
-         "pubDate" : "Tue, 27 Aug 2024 08:00:00",
-         "title" : "Can you solve these puzzles?"
       },
       {
          "description" : "Chess.com is excited to invite you to play against GM Viswanathan Anand! The Vishy vs. the World match will start on September 30 and feature the Vote Chess format, which allows anyone in the community to participate.&#38;nbsp; Play Against Anand ...",
@@ -146,22 +162,6 @@ news_feed (
          "title" : "For All The Chessbrah Fans #grandchesstour #chess #chesstalk #chessbrah #chesscom"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The commentating team foresees the move that REALLY silenced the tournament hall. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/commentators-foresee-inevitable-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/HdLyDQKWHro.jpg?itok=1-ZlF-E0\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/commentators-foresee-inevitable-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Tue, 27 Aug 2024 03:11:00",
-         "title" : "Commentators Foresee The Inevitable #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "New York City will become the epicentre of the chess world as the FIDE World Rapid & Blitz Championships make their North American debut on 26-31 December 2024. The iconic Wall Street backdrop will set the stage for a thrilling competition as the world's top chess players converge in the heart of global finance. An addition to this year's event is a free day between the Rapid and Blitz Championships.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/world-rapid-blitz-2024-wall-street",
-         "pubDate" : "Tue, 27 Aug 2024 02:20:00",
-         "title" : "World Rapid & Blitz Championships: Making history on Wall Street"
-      },
-      {
          "description" : "This week's puzzles begin a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -176,22 +176,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-7",
          "pubDate" : "Mon, 26 Aug 2024 20:26:00",
          "title" : "Firouzja Beats World Champion, Grows Lead to Full Point"
-      },
-      {
-         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
-         "pubDate" : "Mon, 26 Aug 2024 19:50:00",
-         "title" : "Sinquefield Cup - Live!"
-      },
-      {
-         "description" : "Alireza Firouzja is still the sole leader after round 6 of the Sinquefield Cup. Sharing second place are Wesley So and Fabiano Caruana, as the latter joined his compatriot in the chasing pack after beating Ian Nepomniachtchi with black on Sunday. Caruana took advantage of a perplexing mistake by Nepo, who played a game-losing blunder on move 18 out of a Sicilian Dragon. All remaining games finished drawn, though D. Gukesh and especially Anish Giri were close to getting full points. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-6",
-         "pubDate" : "Mon, 26 Aug 2024 16:15:00",
-         "title" : "Sinquefield Cup: Nepo collapses in the opening"
       },
       {
          "description" : "",
@@ -216,14 +200,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3184",
          "pubDate" : "Mon, 26 Aug 2024 12:30:21",
          "title" : "French Championship 2024: Moussard and Daulyte-Cornette win titles"
-      },
-      {
-         "description" : "The ALREH Akiba Rubinstein Memorial took place on 17-25 August in Polanica Zdroj, Poland. It was a 10-player single round-robin featuring 3 players rated 2700 or above and a host of strong, experienced 2600+ participants completing the lineup. Second seed Vincent Keymer had a formidable start, with 5 wins and 2 draws allowing him to win the event with a round to spare despite losing his final 2 games. The German prodigy is now ranked 19th in the world. | Photo: Mikael Svensson, TePe Sigeman & Co.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/keymer-wins-rubinstein-memorial-2024",
-         "pubDate" : "Mon, 26 Aug 2024 11:00:00",
-         "title" : "Vincent Keymer wins Rubinstein Memorial, enters world top 20"
       },
       {
          "description" : "Women&#39;s world number one Hou Yifan is through to the Quarterfinals of the 2024 Julius Baer Women&#39;s Speed Chess Championship after defeating qualifier IM Anastasia Bodnaruk 7.5-5.5. The final scoreline looks close after Bodnaruk won the last four g...",
@@ -304,14 +280,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3180",
          "pubDate" : "Sat, 24 Aug 2024 22:09:16",
          "title" : "Farewell from Tbilisi: Closing Ceremony of the first Women's Grand Prix 2024/2025"
-      },
-      {
-         "description" : "Hans Niemann is facing three of the world's strongest players in head-to-head matchups that each includes blitz, rapid and classical games. After beating Giri in Utrecht and Vitiugov in London, Niemann faces Etienne Bacrot at the Blitz Society Bar in Paris. | The blitz section, featuring 12 games with a 3+2 time control, kicks off on 24 August at 18.00 CEST.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/niemann-bacrot-match-2024-live",
-         "pubDate" : "Sat, 24 Aug 2024 17:55:00",
-         "title" : "Niemann v. Bacrot, Blitz section - Live!"
       },
       {
          "description" : "",
@@ -1160,22 +1128,6 @@ news_feed (
          "link" : "https://www.englishchess.org.uk/i-am-the-new-u14-british-chess-champion-video-by-rock-yu/",
          "pubDate" : "Wed, 07 Aug 2024 08:33:31",
          "title" : "I Am The New U14 British Chess Champion! Video by Rock Yu"
-      },
-      {
-         "description" : " Jessica Hyatt can now add National Master to her name after waiting a long time to celebrate this moment. This past weekend at the FIDE Premier at the Marshall Chess Club, the 18-year-old Brooklyn native was able to push her rating to 2200 for the first time. In 2019, Hyatt won the New York State The post <a href=\"https://www.thechessdrum.net/blog/2024/08/06/jessica-hyatt-earns-national-master-title/\">Jessica Hyatt earns National Master title!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
-         "iconLink" : "https://cypresschess.github.io/web/drum3.png",
-         "iconName" : "The Chess<br>Drum",
-         "link" : "https://www.thechessdrum.net/blog/2024/08/06/jessica-hyatt-earns-national-master-title/",
-         "pubDate" : "Tue, 06 Aug 2024 17:23:00",
-         "title" : "Jessica Hyatt earns National Master title!"
-      },
-      {
-         "description" : "Congratulations to the 2024 British Chess Champion GM Gawain Jones, who became the latest champion following Sunday's exciting playoff against second placed GM David Howell!&#160; Gawain and David agreed a...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/2024-british-chess-championship-results/",
-         "pubDate" : "Tue, 06 Aug 2024 16:07:57",
-         "title" : "2024 British Chess Championship results"
       }
    ]
 }
