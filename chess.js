@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Five rounds have already been played at the European Youth Chess Championship 2024 in Prague, Czech Republic with four rounds to go before the announcement of the Winners. Each age group has emerged leaders, who are closely followed by other players. Today is a free day for the players, and the games continue tomorrow with the 6th round starting at 15:00 CEST. In section for Girls U8, Lile Svanadze (GEO, 1472) has a sole lead with perfect score of 5/5 []",
+         "iconLink" : "https://cypresschess.github.io/web/ECU.png",
+         "iconName" : "European<br>Chess Union",
+         "link" : "https://www.europechess.org/european-youth-chess-championship-2024-is-halfway-through/",
+         "pubDate" : "Tue, 27 Aug 2024 08:02:40",
+         "title" : "European Youth Chess Championship 2024 is halfway through"
+      },
+      {
          "description" : "Take a look at this position. Looks simple enough - just five pieces on the board. But we are asked to find a clear and forced win for White. That requires some unusually subtle strategic moves. Try and solve it, and two other similarly clever problems, which you are sure to find pleasing. Full video explanations will follow in a week.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -110,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-7",
-         "pubDate" : "Mon, 26 Aug 2024 20:26:28",
+         "pubDate" : "Mon, 26 Aug 2024 20:26:00",
          "title" : "Firouzja Beats World Champion, Grows Lead to Full Point"
       },
       {
@@ -1152,22 +1160,6 @@ news_feed (
          "link" : "https://www.europechess.org/eu-youth-chess-championship-2024-commenced-in-czech-republic/",
          "pubDate" : "Tue, 06 Aug 2024 15:14:11",
          "title" : "EU Youth Chess Championship 2024 commenced in Czech Republic"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The <strong>French Chess Federation</strong> is <a href=\"http://www.echecs.asso.fr/Actu.aspx?Ref=15033\">present throughout this week at the Club France fanzone</a> of the <strong>Olympic Games</strong> at Paris-La Villette with GMs <strong>Marie Sebag</strong> and <strong>Laurent Fressinet.</strong> </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/chess-at-paris-olympics/",
-         "pubDate" : "Tue, 06 Aug 2024 08:35:33",
-         "title" : "Chess at Paris Olympics"
-      },
-      {
-         "description" : "For the 2024/25 Fantasy Premier League, why don't you join &#8216;Premier Chess', the long standing league for chess players? Joining the league couldn't be easier. Simply use the link below...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/premier-league-fantasy-football-2024/",
-         "pubDate" : "Tue, 06 Aug 2024 08:00:41",
-         "title" : "Premier League Fantasy Football 2024"
       }
    ]
 }
