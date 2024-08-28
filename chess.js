@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Four world-class grandmasters met in a Dutch town for a double round-robin tournament. It was dominated by World Champion Anatoly Karpov, who went into the final round with a 1&frac12;-point lead and faced the second-placed GM Vlastimil Hort. Karpov won the game - but could Hort have prevented this happening? That's an interesting riddle we want to solve. Can you help us?",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-riddle-karpov-hort-1979",
+         "pubDate" : "Wed, 28 Aug 2024 09:30:00",
+         "title" : "New Riddle: Karpov-Hort 1979"
+      },
+      {
+         "description" : "<img border=\"0\" hspace=\"10\" align=\"left\" style=\"margin-top:3px;margin-right:5px;\" src=\"https://timesofindia.indiatimes.com/photo/112861324.cms\" />India's Grandmasters D Gukesh and R Praggnanadhaa played out their eighth draw in as many games at the Sinquefield Cup, which is a part of the Grand Chess Tour. While World Championship challenger Gukesh signed peace with Anish Giri of Holland in just 23 moves, Praggnanadhaa too followed suit and drew with local favourite Fabiano Caruana in 28 moves.",
+         "iconLink" : "https://cypresschess.github.io/web/TOI.png",
+         "iconName" : "The Times<br>of India",
+         "link" : "https://timesofindia.indiatimes.com/sports/chess/sinquefield-cup-gukesh-draws-with-giri-praggnanandhaa-holds-caruana/articleshow/112861324.cms",
+         "pubDate" : "Wed, 28 Aug 2024 08:37:07",
+         "title" : "Sinquefield Cup: Gukesh draws with Giri"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -66,6 +82,22 @@ news_feed (
          "title" : "Pragg: Wasn't Going to Make Short Draw vs. Fabi | R8 #SinquefieldCup"
       },
       {
+         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-1",
+         "pubDate" : "Wed, 28 Aug 2024 00:00:00",
+         "title" : "Wednesday Workout: 124th Annual U.S. Open, Pt. 1"
+      },
+      {
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> US Chess is pleased to announce that Bryan Tillis has joined the US Chess team as Marketing and Communications Manager. The Marketing and Communications Manager is responsible for planning, development, and implementation of all US Chess external communications, marketing strategies and communications, public relations activities, and internal communications. Tillis will also oversee the development and implementation of support materials and services for affiliates and committees. Learn more about the position by clicking here. <br /><br /> As a national master and FIDE Trainer, Bry",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/bryan-tillis-hired-marketing-and-communications-manager",
+         "pubDate" : "Wed, 28 Aug 2024 00:00:00",
+         "title" : "Bryan Tillis Hired as Marketing and Communications Manager"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the eighth round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r8-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4qZ2n7TxSJ0.jpg?itok=Uddq0gEB\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -86,7 +118,7 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-8",
-         "pubDate" : "Tue, 27 Aug 2024 18:56:30",
+         "pubDate" : "Tue, 27 Aug 2024 18:56:00",
          "title" : "Firouzja Clinches Grand Chess Tour, Eyes Sinquefield Cup"
       },
       {
@@ -730,14 +762,6 @@ news_feed (
          "title" : "SNA Seminar in Thoothukudi on 31 Aug to 01 Sept 2024"
       },
       {
-         "description" : "The penultimate event of the 2024 Grand Chess Tour (GCT) has concluded in St. Louis, with French GM Alireza Firouzja victorious in the 2024 Saint Louis Rapid & Blitz.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The champion! (Photo courtesy Lennart Ootes/SLCC)<br /><br /><br /> <br /><br /> Firouzja entered the blitz portion of the event in a three-way tie for first place after three days of rapid, but quickly shot out ahead of his co-leaders. The speedster led by a point-and-a-half after the first day of blitz, and doubled his lead by the end of the event. His 23/36 score put him three poi",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/gct-updates-firouzja-wins-2024-saint-louis-rapid-and-blitz-sinquefield-cup-begin-today",
-         "pubDate" : "Mon, 19 Aug 2024 00:00:00",
-         "title" : "GCT Updates: Firouzja Wins 2024 Saint Louis Rapid and Blitz, Sinquefield Cup to Begin Today"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -920,14 +944,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3156",
          "pubDate" : "Thu, 15 Aug 2024 08:31:30",
          "title" : "All eyes on Tbilisi as the Women's Grand Prix spectacle begins"
-      },
-      {
-         "description" : "The 2024 Grand Chess Tour (GCT) is in the middle of its penultimate leg, with three days of rapid chess concluding Wednesday, August 14 at the Saint Louis Chess Club (SLCC). The first day of blitz games is currently underway, with the finale of the 2024 Saint Louis Rapid & Blitz event taking place Friday, August 16. The 2024 Sinquefield Cup, which concludes the 2024 GCT, begins on Monday, August 19.<br /><br /> <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/grand-chess-tour-three-lead-after-rapids-slcc",
-         "pubDate" : "Thu, 15 Aug 2024 00:00:00",
-         "title" : "Grand Chess Tour: Three Lead After Rapids at SLCC"
       },
       {
          "description" : " Kevin Pryor is the new President of the U.S. Chess Federation. A past President of the Florida Chess Association (FCA) and Executive Board member of the U.S. Chess Federation, Pryor was elected as the 32nd President of the U.S. Chess Federation at the Executive Board meeting during the 124th U.S. Open in Norfolk, Virginia. Kevin The post <a href=\"https://www.thechessdrum.net/blog/2024/08/14/kevin-pryor-is-the-new-president-of-u-s-chess/\">Kevin Pryor is the new President of U.S. Chess!</a> appeared first on <a href=\"https://www.thechessdrum.net/blog\">The Chess Drum</a>. ",
@@ -1128,22 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3143",
          "pubDate" : "Wed, 07 Aug 2024 12:07:49",
          "title" : "EDU Commission announces its 18th \"Preparation of Teachers\" course"
-      },
-      {
-         "description" : "Skip to 50:25 to enjoy Shreyas' interview on BBC Breakfast this morning 7/8/24 https://www.bbc.co.uk/iplayer/episode/m0021sq1/breakfast-07082024 and follow this link to the BBC website for an article by Tony Grew...",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/shreyas-royal-on-the-bbc/",
-         "pubDate" : "Wed, 07 Aug 2024 09:34:18",
-         "title" : "Shreyas Royal on the BBC!"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/ECF.png",
-         "iconName" : "English Chess<br>Federation",
-         "link" : "https://www.englishchess.org.uk/i-am-the-new-u14-british-chess-champion-video-by-rock-yu/",
-         "pubDate" : "Wed, 07 Aug 2024 08:33:31",
-         "title" : "I Am The New U14 British Chess Champion! Video by Rock Yu"
       }
    ]
 }
