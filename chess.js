@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to earn 3rd Place in the 2024 Grand Chess Tour, as of before the ninth round of the Sinquefield Cup. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-probable-earn-tour-bronze-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/you",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wesley-so-probable-earn-tour-bronze-r9-sinquefieldcup",
+         "pubDate" : "Wed, 28 Aug 2024 18:11:50",
+         "title" : "Wesley So Probable to Earn Tour Bronze | R9 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the ninth round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yxfJal_VdMY.jpg?itok=0VCwQ1m8\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r9-sinquefieldcup",
+         "pubDate" : "Wed, 28 Aug 2024 18:11:50",
+         "title" : "How Will Each Game End? | R9 #SinquefieldCup"
+      },
+      {
+         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
+         "pubDate" : "Wed, 28 Aug 2024 17:50:00",
+         "title" : "Sinquefield Cup - Live!"
+      },
+      {
          "description" : "A round of draws in Saint Louis allowed Alireza Firouzja to keep his 1-point lead over Fabiano Caruana going into the final day of action at the Sinquefield Cup. These results also granted Firouzja victory in the Grand Chess Tour series with a round to spare. The French representative thus repeated his success from 2022, when he also won the Tour after a strong showing in Saint Louis. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -24,6 +48,14 @@ news_feed (
          "link" : "https://aicf.in/sna-seminar-exam-in-karaikudi-on-21-22-september-2024/",
          "pubDate" : "Wed, 28 Aug 2024 12:13:06",
          "title" : "SNA Seminar & Exam in Karaikudi on 21 & 22 September 2024"
+      },
+      {
+         "description" : "GM Magnus Carlsen won his fourth Titled Tuesday in the last five weeks in the early tournament on August 27, but his 9.5 points were overshadowed by GM Jose Martinez scoring a perfect 11/11 in the late tournament, joining Carlsen and GM Hikaru Nak...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/carlsen-martinez-win-titled-tuesday-august-27-2024",
+         "pubDate" : "Wed, 28 Aug 2024 10:32:00",
+         "title" : "Martinez Perfect After Carlsen Continues Run"
       },
       {
          "description" : "Four world-class grandmasters met in a Dutch town for a double round-robin tournament. It was dominated by World Champion Anatoly Karpov, who went into the final round with a 1&frac12;-point lead and faced the second-placed GM Vlastimil Hort. Karpov won the game - but could Hort have prevented this happening? That's an interesting riddle we want to solve. Can you help us?",
@@ -216,22 +248,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3185",
          "pubDate" : "Tue, 27 Aug 2024 06:50:49",
          "title" : "Travel information for World Senior Championships 2024 in Porto Santo, Portugal"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> With plenty of time, Nepo hastily plays g5 against Fabiano </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wth-nepog5-grandchesstour-chess-chesstalks-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/z7v0xggaOOY.jpg?itok=iOI71TwM\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/wth-nepog5-grandchesstour-chess-chesstalks-chesstactics-chesscom",
-         "pubDate" : "Tue, 27 Aug 2024 06:11:07",
-         "title" : "WTH! Nepo...g5?? #grandchesstour #chess #chesstalks #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The king is on h1, and somehow all the dark squares are covered </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kings-corner-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/hMKczW0x4D4.jpg?itok=hFk_4j4J\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kings-corner-grandchesstour-chess-chessendgame-chesscom",
-         "pubDate" : "Tue, 27 Aug 2024 06:11:07",
-         "title" : "The King's Corner #grandchesstour #chess #chessendgame #chesscom"
       },
       {
          "description" : "This week's puzzles begin a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
@@ -600,14 +616,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3169",
          "pubDate" : "Wed, 21 Aug 2024 11:58:37",
          "title" : "FIDE endorses Leap KK 9909 clock"
-      },
-      {
-         "description" : "Two weeks after a perfect 11/11 score and one week after finishing in second place twice, GM Magnus Carlsen was back in the Titled Tuesday win column on August 20, taking the late event with 9.5 points. Winning early was GM Jaime Santos, also on 9...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/santos-carlsen-win-titled-tuesday-august-20-2024",
-         "pubDate" : "Wed, 21 Aug 2024 08:08:51",
-         "title" : "Magnus Magnificent Again In Titled Tuesday"
       },
       {
          "description" : "The 2024 European Youth Rapid and Blitz Chess Championships officially concluded yesterday in Prague, Czech Republic. With the participation of 650 players coming from 40 European federations, the event broke the participation record. The Closing ceremony of the event took place yesterday evening, with the attendance of the ECU President Mr. Zurab Azmaiparashvili who took part in the awards for the winners. The first event on the schedule was the European Youth Rapid Chess Championship 2024 which took place on []",
