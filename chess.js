@@ -2,6 +2,38 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Karthik Venkataraman won the 61st edition of the Indian National Championship after scoring 9/11 points at the event organised by the Haryana Chess Association. This is the second victory in a national championship for Karthik, who had also won the tournament in 2022. Surya Ganguly and Neelash Saha scored as many points as the champion, but finished in second and third place on tiebreaks. | Photos: Himank Ghosh",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/indian-national-championship-2024-report",
+         "pubDate" : "Wed, 28 Aug 2024 23:45:00",
+         "title" : "Karthik Venkataraman clinches second Indian national title"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3190",
+         "pubDate" : "Wed, 28 Aug 2024 21:34:40",
+         "title" : "UEFA Youth Sports Games conclude in Split, Croatia"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Saint Louis Chess Club Co-Founder Rex Sinquefield joins the show during Round 9 of the 2024 Sinquefield Cup. 2024.08.28<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-h",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/rex-embarrassed-carlsen-niemann-controversy-happened-here-r9-sinquefieldcup",
+         "pubDate" : "Wed, 28 Aug 2024 21:11:50",
+         "title" : "Rex: Embarrassed That Carlsen-Niemann Controversy Happened Here | R9 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Maxime Vachier-Lagrave talks to Cristian Chirila after defeating Ding in Round 9 of the 2024 Sinquefield Cup. 2024.08.27<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-clinches-tournament-during-mvl-interview-r9-sinquefieldcup",
+         "pubDate" : "Wed, 28 Aug 2024 21:11:50",
+         "title" : "Firouzja Clinches Tournament During MVL Interview! | R9 #SinquefieldCup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to earn 3rd Place in the 2024 Grand Chess Tour, as of before the ninth round of the Sinquefield Cup. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-probable-earn-tour-bronze-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/you",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -154,28 +186,12 @@ news_feed (
          "title" : "Bryan Tillis Hired as Marketing and Communications Manager"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the eighth round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r8-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4qZ2n7TxSJ0.jpg?itok=Uddq0gEB\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r8-sinquefieldcup",
-         "pubDate" : "Tue, 27 Aug 2024 21:11:28",
-         "title" : "How Will Each Game End? | R8 #SinquefieldCup"
-      },
-      {
          "description" : "With a fighting draw vs. GM Ian Nepomniachtchi, GM Alireza Firouzja clinched the Grand Chess Tour with a round to spare on Tuesday. Meanwhile, the battle for the 2024 Sinquefield Cup&#38;nbsp;continues with GM Fabiano Caruana trailing by a point and i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-8",
          "pubDate" : "Tue, 27 Aug 2024 18:56:00",
          "title" : "Firouzja Clinches Grand Chess Tour, Eyes Sinquefield Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-9-playoff-grandchesstour\"><img src=\"https://saintlouischessclub.org/sit",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-sinquefield-cup-round-9-playoff-grandchesstour",
-         "pubDate" : "Tue, 27 Aug 2024 18:11:24",
-         "title" : "2024 Sinquefield Cup: Round 9 & Playoff | #GrandChessTour"
       },
       {
          "description" : "Alireza Firouzja grabbed his third win of the Sinquefield Cup by beating world champion Ding Liren in Monday's seventh round. Firouzja now has a full-point lead over Fabiano Caruana with 2 rounds to go. One more game ended decisively in round 7, as Nodirbek Abdusattorov got the better of Wesley So with the white pieces. | Photo: Lennart Ootes",
