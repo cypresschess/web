@@ -2,6 +2,30 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A round of draws in Saint Louis allowed Alireza Firouzja to keep his 1-point lead over Fabiano Caruana going into the final day of action at the Sinquefield Cup. These results also granted Firouzja victory in the Grand Chess Tour series with a round to spare. The French representative thus repeated his success from 2022, when he also won the Tour after a strong showing in Saint Louis. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-8",
+         "pubDate" : "Wed, 28 Aug 2024 14:30:00",
+         "title" : "Sinquefield Cup: Firouzja secures GCT victory, keeps 1-point lead"
+      },
+      {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3189",
+         "pubDate" : "Wed, 28 Aug 2024 14:03:14",
+         "title" : "Chess Beyond the Board: Exciting side events at 2024 FIDE Chess Olympiad"
+      },
+      {
+         "description" : "On behalf of All India Chess Federation, Tamil Nadu State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam at Karaikudi from 21",
+         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
+         "iconName" : "All India Chess<br>Federation",
+         "link" : "https://aicf.in/sna-seminar-exam-in-karaikudi-on-21-22-september-2024/",
+         "pubDate" : "Wed, 28 Aug 2024 12:13:06",
+         "title" : "SNA Seminar & Exam in Karaikudi on 21 & 22 September 2024"
+      },
+      {
          "description" : "Four world-class grandmasters met in a Dutch town for a double round-robin tournament. It was dominated by World Champion Anatoly Karpov, who went into the final round with a 1&frac12;-point lead and faced the second-placed GM Vlastimil Hort. Karpov won the game - but could Hort have prevented this happening? That's an interesting riddle we want to solve. Can you help us?",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,7 +106,7 @@ news_feed (
          "title" : "Pragg: Wasn't Going to Make Short Draw vs. Fabi | R8 #SinquefieldCup"
       },
       {
-         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-1",
@@ -104,14 +128,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/how-will-each-game-end-r8-sinquefieldcup",
          "pubDate" : "Tue, 27 Aug 2024 21:11:28",
          "title" : "How Will Each Game End? | R8 #SinquefieldCup"
-      },
-      {
-         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 20.00 CEST (14.00 ET, 23.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
-         "pubDate" : "Tue, 27 Aug 2024 19:50:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "With a fighting draw vs. GM Ian Nepomniachtchi, GM Alireza Firouzja clinched the Grand Chess Tour with a round to spare on Tuesday. Meanwhile, the battle for the 2024 Sinquefield Cup&#38;nbsp;continues with GM Fabiano Caruana trailing by a point and i...",
@@ -186,7 +202,7 @@ news_feed (
          "title" : "European Youth Chess Championship 2024 is halfway through"
       },
       {
-         "description" : "Chess.com is excited to invite you to play against GM Viswanathan Anand! The Vishy vs. the World match will start on September 30 and feature the Vote Chess format, which allows anyone in the community to participate.&#38;nbsp; Play Against Anand ...",
+         "description" : "Chess.com is excited to invite you to play against GM Viswanathan Anand! The Vishy vs. the World match will start on September 30 and feature the Vote Chess format, which allows anyone in the community to participate. Please note that Vote Chess i...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/announcing-vishy-vs-the-world",
@@ -986,14 +1002,6 @@ news_feed (
          "title" : "2024 Saint Louis Rapid & Blitz: Three-way tie on the top"
       },
       {
-         "description" : "On behalf of All India Chess Federation, Himachal Pradesh State Chess Association is organizing a Senior National Arbiters Seminar &#38; Exam from 14 to 15",
-         "iconLink" : "https://cypresschess.github.io/web/aicf.png",
-         "iconName" : "All India Chess<br>Federation",
-         "link" : "https://aicf.in/sna-seminar-at-shimla-hp-on-14-15-september-2024/",
-         "pubDate" : "Wed, 14 Aug 2024 07:57:59",
-         "title" : "SNA Seminar at Shimla HP on 14-15 September 2024"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1136,14 +1144,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3144",
          "pubDate" : "Thu, 08 Aug 2024 12:29:44",
          "title" : "Winners crowned at 2024 FIDE World School Rapid and Blitz Championships"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3143",
-         "pubDate" : "Wed, 07 Aug 2024 12:07:49",
-         "title" : "EDU Commission announces its 18th \"Preparation of Teachers\" course"
       }
    ]
 }
