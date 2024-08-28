@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3188",
+         "pubDate" : "Wed, 28 Aug 2024 07:18:32",
+         "title" : "Karthik Venkataraman wins 61st India Championship"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby recaps Round 8 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in Saint Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-8-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-8-grandchesstour",
+         "pubDate" : "Wed, 28 Aug 2024 03:11:32",
+         "title" : "RECAP | 2024 Sinquefield Cup: Round 8 | #GrandChessTour"
+      },
+      {
          "description" : "David Llada is a household name in the world of chess. After working extensively as a chess photographer, he was hired by FIDE as Chief Marketing and Communications Officer. He left the post last year, and only months later asked for permission to work as a photographer for an independent media company (i.e. not FIDE). He was shocked to hear that he would only be granted to work with restrictions, so he refused the offer. In an interview conducted by the Chessdom.com team, he talks about this incident and about his experience as a FIDE employee. | Photo: David Llada's X account",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -168,14 +184,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/kings-corner-grandchesstour-chess-chessendgame-chesscom",
          "pubDate" : "Tue, 27 Aug 2024 06:11:07",
          "title" : "The King's Corner #grandchesstour #chess #chessendgame #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Fabi shuts down Nepo with Ne4 after Nepo&#039;s quick play of g5. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/fabi-drops-nepo-ne4-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/JLlDZHywD9Y.jpg?itok=mNbchOWr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/fabi-drops-nepo-ne4-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Tue, 27 Aug 2024 06:11:07",
-         "title" : "Fabi Drops Nepo with Ne4 #grandchesstour #chess #chesstactics #chesscom"
       },
       {
          "description" : "This week's puzzles begin a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
