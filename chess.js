@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "David Llada is a household name in the world of chess. After working extensively as a chess photographer, he was hired by FIDE as Chief Marketing and Communications Officer. He left the post last year, and only months later asked for permission to work as a photographer for an independent media company (i.e. not FIDE). He was shocked to hear that he would only be granted to work with restrictions, so he refused the offer. In an interview conducted by the Chessdom.com team, he talks about this incident and about his experience as a FIDE employee. | Photo: David Llada's X account",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/david-llada-interview-chessdom-2024",
+         "pubDate" : "Wed, 28 Aug 2024 02:00:00",
+         "title" : "David Llada on Chessdom: \"Exceptions are granted to reward submission\""
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Before Yasser goes into a deep analysis with the Silicon Overlord, Nazi gives the spoiling move </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spoiler-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SF4-WCYEKJQ.jpg?itok=DgsSlaTA\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/spoiler-grandchesstour-chess-chesstactics-chesscom",
+         "pubDate" : "Wed, 28 Aug 2024 00:11:32",
+         "title" : "The Spoiler #grandchesstour #chess #chesstactics #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> World Chess Hall of Fame Chief Curator Shannon Bailey joins the show during Round 8 of the 2024 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wchof%E2%80%99s-bailey-%E2%80%98match-matriarchs%E2%80%99-closes-soon-r8-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/dvNxAGQpv2s.jpg?itok=ofkuxQHM\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/wchof%E2%80%99s-bailey-%E2%80%98match-matriarchs%E2%80%99-closes-soon-r8-sinquefieldcup",
+         "pubDate" : "Wed, 28 Aug 2024 00:11:32",
+         "title" : "WCHOF's Bailey: 'Match of the Matriarchs' Closes Soon! | R8 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Grand Chess Tour, as of before the eighth round of the Sinquefield Cup. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-998-favorite-win-gct-r8-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XQLseV5X034.jp",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/firouzja-998-favorite-win-gct-r8-sinquefieldcup",
+         "pubDate" : "Wed, 28 Aug 2024 00:11:32",
+         "title" : "Firouzja 99.8% Favorite to Win the GCT! | R8 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Ding Liren talks to Cristian Chirila after a draw against Abdusattorov in Round 8 of the 2024 Sinquefield Cup. 2024.08.27<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/ding-evaluates-his-positions-worse-reality-r8-sinquefieldcup",
+         "pubDate" : "Wed, 28 Aug 2024 00:11:32",
+         "title" : "Ding Evaluates his Positions Worse Than Reality | R8 #SinquefieldCup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> R Praggnanandhaa talks to Cristian Chirila after a draw against Caruana in Round 8 of the 2024 Sinquefield Cup. 2024.08.27<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/pragg-wasn%E2%80%99t-going-make-short-draw-vs-fabi-r8-sinquefieldcup",
+         "pubDate" : "Wed, 28 Aug 2024 00:11:32",
+         "title" : "Pragg: Wasn't Going to Make Short Draw vs. Fabi | R8 #SinquefieldCup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The team looks at the game outcome probabilities for the eighth round of the 2024 Sinquefield Cup, as of before play. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/how-will-each-game-end-r8-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/4qZ2n7TxSJ0.jpg?itok=Uddq0gEB\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -16,6 +64,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
          "pubDate" : "Tue, 27 Aug 2024 19:50:00",
          "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "With a fighting draw vs. GM Ian Nepomniachtchi, GM Alireza Firouzja clinched the Grand Chess Tour with a round to spare on Tuesday. Meanwhile, the battle for the 2024 Sinquefield Cup&#38;nbsp;continues with GM Fabiano Caruana trailing by a point and i...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-8",
+         "pubDate" : "Tue, 27 Aug 2024 18:56:30",
+         "title" : "Firouzja Clinches Grand Chess Tour, Eyes Sinquefield Cup"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Live from the World Chess Hall of Fame, the 11th Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. Join GMs Yasser Seirawan &amp; Peter Svidler, IM Nazi Paikidze, and WGM Anastasiya Karlovich for the move-by-move. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-sinquefield-cup-round-9-playoff-grandchesstour\"><img src=\"https://saintlouischessclub.org/sit",
@@ -120,46 +176,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/fabi-drops-nepo-ne4-grandchesstour-chess-chesstactics-chesscom",
          "pubDate" : "Tue, 27 Aug 2024 06:11:07",
          "title" : "Fabi Drops Nepo with Ne4 #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Mizzou Chess Team Head Coach &amp; Manager Cristian Chirila talks about his team during Round 6 of the 2024 Sinquefield Cup. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/chirila-building-winning-culture-mizzou-chess-r6-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/-bDHISiiuHQ.jpg?itok=MSKRDQyY\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/chirila-building-winning-culture-mizzou-chess-r6-sinquefieldcup",
-         "pubDate" : "Tue, 27 Aug 2024 03:11:00",
-         "title" : "Chirila: Building Winning Culture of Mizzou Chess | R6 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Alireza Firouzja talks to Cristian Chirila after defeating Ding in Round 7 of the 2024 Sinquefield Cup. 2024.08.26<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-3-solid-straightforward-until-end-r7-sinquefieldcup",
-         "pubDate" : "Tue, 27 Aug 2024 03:11:00",
-         "title" : "Firouzja: With +3, Solid & Straightforward Until the End | R7 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> National Master Caleb Denby recaps Round 7 of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in Saint Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-round-7-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-round-7-grandchesstour",
-         "pubDate" : "Tue, 27 Aug 2024 03:11:00",
-         "title" : "RECAP | 2024 Sinquefield Cup: Round 7 | #GrandChessTour"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> We catch Chirila behind the scenes with this look... </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/coach-chirila-you-grandchesstour-chess-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/BbPkJbbsqdc.jpg?itok=Jg-5E4mr\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/coach-chirila-you-grandchesstour-chess-chesstalk-chesscom",
-         "pubDate" : "Tue, 27 Aug 2024 03:11:00",
-         "title" : "Coach Chirila Is That You?! #grandchesstour #chess #chesstalk #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> After stepping away, Nepo returns to find Fabi&#039;s explosive move Ne4 </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/nepos-expression-tells-it-all-grandchesstour-chess-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/Q4H7bSHDe8A.jpg?itok=RBSjIqO4\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/nepos-expression-tells-it-all-grandchesstour-chess-chesstalk-chesscom",
-         "pubDate" : "Tue, 27 Aug 2024 03:11:00",
-         "title" : "Nepo's Expression Tells It All #grandchesstour #chess #chesstalk #chesscom"
       },
       {
          "description" : "This week's puzzles begin a series on tactics from the \"main event\" of the 124th Annual U.S. Open, held in Norfolk, Virginia. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> ",
@@ -560,14 +576,6 @@ news_feed (
          "link" : "https://new.uschess.org/news/wednesday-workout-tournament-champions-pt-1-2",
          "pubDate" : "Wed, 21 Aug 2024 00:00:00",
          "title" : "Wednesday Workout: Tournament of Champions, Pt. 1 & 2 "
-      },
-      {
-         "description" : "The 2024 Chess.com Bughouse Championship continued on Tuesday with the third and fourth qualifiers and IM Mark Plotkin, NM Jalen Wang, GM Guillermo Vasquez, and Grace &#34;Helmsknight&#34; Ferguson qualified for the Knockout ahead of 240 other teams. Fo...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-3-4",
-         "pubDate" : "Tue, 20 Aug 2024 19:10:00",
-         "title" : "Helmsknight, Vasquez Overcome Team Tang To Qualify On 3rd Attempt"
       },
       {
          "description" : "",
