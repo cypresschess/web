@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "",
+         "iconLink" : "https://cypresschess.github.io/web/fide.png",
+         "iconName" : "FIDE",
+         "link" : "https://www.fide.com/news/3191",
+         "pubDate" : "Thu, 29 Aug 2024 07:17:37",
+         "title" : "Alireza Firouzja wins 2024 Sinquefield Cup"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour &amp; Sinquefield Cup champion Alireza Firouzja talks to Cristian Chirila after the 2024 Sinquefield Cup. This did not air during the program. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-firouzja-wins-%E2%80%98most-difficult%E2%80%99-chess-prize-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lGbekWCGUKM.jpg?itok=Cx2Cr94V\" alt=\"\" /></",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-firouzja-wins-%E2%80%98most-difficult%E2%80%99-chess-prize-sinquefieldcup",
+         "pubDate" : "Thu, 29 Aug 2024 03:12:04",
+         "title" : "EXCLUSIVE! Firouzja Wins 'Most Difficult' Chess Prize | #SinquefieldCup"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grand Master Evgenij Miroshnichenko recaps the final round of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in Saint Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-final-round-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defaul",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -47,7 +63,7 @@ news_feed (
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-9-firouzja-wins",
          "pubDate" : "Wed, 28 Aug 2024 19:25:06",
-         "title" : "Undefeated Firozja Wins Sinquefield Cup And $100k Prize"
+         "title" : "Undefeated Firouzja Wins Sinquefield Cup And $100k Prize"
       },
       {
          "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to earn 3rd Place in the 2024 Grand Chess Tour, as of before the ninth round of the Sinquefield Cup. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-probable-earn-tour-bronze-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/you",
@@ -178,15 +194,7 @@ news_feed (
          "title" : "Firouzja 99.8% Favorite to Win the GCT! | R8 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Ding Liren talks to Cristian Chirila after a draw against Abdusattorov in Round 8 of the 2024 Sinquefield Cup. 2024.08.27<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-label",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/ding-evaluates-his-positions-worse-reality-r8-sinquefieldcup",
-         "pubDate" : "Wed, 28 Aug 2024 00:11:32",
-         "title" : "Ding Evaluates his Positions Worse Than Reality | R8 #SinquefieldCup"
-      },
-      {
-         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-1",
