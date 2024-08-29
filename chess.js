@@ -898,6 +898,22 @@ news_feed (
          "title" : "Live Link for 24th Tamil Nadu IM Tournament"
       },
       {
+         "description" : " The 11th Sinquefield Cup takes place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/11th-sinquefield-cup-2024",
+         "pubDate" : "Fri, 16 Aug 2024 14:56:00",
+         "title" : "11th Sinquefield Cup 2024 - Games and Results"
+      },
+      {
+         "description" : " The Saint Louis Rapid & Blitz took place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acted as a curtain raiser for the Sinquefield Cup which starts on the 18th. Alireza Firouzja won the event and took the lead of the Grand Chess Tour from Fabiano Caruana with the Sinquefield Cup to finish this year's series. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2024",
+         "pubDate" : "Fri, 16 Aug 2024 09:33:00",
+         "title" : "Saint Louis Rapid & Blitz 2024 - Games and Results"
+      },
+      {
          "description" : "Everything is set for European Youth Rapid, Blitz and Classical Chess Championships 2024 which start tomorrow in Prague, Czech Republic. The first event on the schedule is European Youth Rapid Chess Championship 2024, being played from 17-18 August. The event is played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each section will have 9 rounds played according to the swiss system, with the time control of 15 minutes + 10 seconds []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -952,6 +968,14 @@ news_feed (
          "link" : "https://www.fide.com/news/3157",
          "pubDate" : "Thu, 15 Aug 2024 11:00:54",
          "title" : "FIDE World Championship 2024 Match to be held in Singapore at Resorts World Sentosa"
+      },
+      {
+         "description" : " The Tbilisi FIDE Women's Grand Prix takes place Wed 14th Aug to Sun 25th Aug 2024. Players: Anna Muzychuk, Mariya Muzychuk, Nana Dzagnidze, Rameshbabu Vaishali, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Alina Kashlinskaya, Bibisara Assaubayeva, Lela Javakhishvili and Stavroula Tsolakidou. ",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/tbilisi-fide-womens-grand-prix-2024",
+         "pubDate" : "Thu, 15 Aug 2024 10:48:00",
+         "title" : "Tbilisi FIDE Women's Grand Prix 2024 - Games and Results"
       },
       {
          "description" : "",
