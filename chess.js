@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grand Master Evgenij Miroshnichenko recaps the final round of the 11th Sinquefield Cup, taking place at the World Chess Hall of Fame in Saint Louis. The Sinquefield Cup is the last of five legs of the Grand Chess Tour. The nine Tour players are joined by a wildcard (pairings below) for a classical round robin. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/recap-2024-sinquefield-cup-final-round-grandchesstour\"><img src=\"https://saintlouischessclub.org/sites/defaul",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-final-round-grandchesstour",
+         "pubDate" : "Thu, 29 Aug 2024 00:11:57",
+         "title" : "RECAP | 2024 Sinquefield Cup: Final Round | #GrandChessTour"
+      },
+      {
          "description" : "Karthik Venkataraman won the 61st edition of the Indian National Championship after scoring 9/11 points at the event organised by the Haryana Chess Association. This is the second victory in a national championship for Karthik, who had also won the tournament in 2022. Surya Ganguly and Neelash Saha scored as many points as the champion, but finished in second and third place on tiebreaks. | Photos: Himank Ghosh",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -34,6 +42,14 @@ news_feed (
          "title" : "Firouzja Clinches Tournament During MVL Interview! | R9 #SinquefieldCup"
       },
       {
+         "description" : "GM Alireza Firouzja was crowned as the winner of the 2024 Sinquefield Cup and the Grand Chess Tour on Wednesday after securing a draw with GM Rameshbabu Praggnanandhaa and finishing on 6/9. Following his round-one defeat to the winner, GM Fabiano ...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-9-firouzja-wins",
+         "pubDate" : "Wed, 28 Aug 2024 19:25:06",
+         "title" : "Undefeated Firozja Wins Sinquefield Cup And $100k Prize"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to earn 3rd Place in the 2024 Grand Chess Tour, as of before the ninth round of the Sinquefield Cup. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/wesley-so-probable-earn-tour-bronze-r9-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/you",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -56,6 +72,14 @@ news_feed (
          "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
          "pubDate" : "Wed, 28 Aug 2024 17:50:00",
          "title" : "Sinquefield Cup - Live!"
+      },
+      {
+         "description" : "GM Vaishali Rameshbabu beat IM Eline Roebers 7.5-6.5 in a 2024 Julius Baer Women&#39;s Speed Chess Championship Round-of-16 match that went right down to the wire, but that turned out to be nothing compared to the day&#39;s late action. 14-year-old IM Ali...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wscc-ro16-vaishali-roebers-lee-khadem",
+         "pubDate" : "Wed, 28 Aug 2024 17:22:09",
+         "title" : "Alice Lee, Vaishali Win Thrillers To Reach Quarterfinals"
       },
       {
          "description" : "A round of draws in Saint Louis allowed Alireza Firouzja to keep his 1-point lead over Fabiano Caruana going into the final day of action at the Sinquefield Cup. These results also granted Firouzja victory in the Grand Chess Tour series with a round to spare. The French representative thus repeated his success from 2022, when he also won the Tour after a strong showing in Saint Louis. | Photo: Lennart Ootes",
@@ -162,15 +186,7 @@ news_feed (
          "title" : "Ding Evaluates his Positions Worse Than Reality | R8 #SinquefieldCup"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> R Praggnanandhaa talks to Cristian Chirila after a draw against Caruana in Round 8 of the 2024 Sinquefield Cup. 2024.08.27<br /> <a href=\"https://GrandChessTour.org\">https://GrandChessTour.org</a><br /> <a href=\"https://twitter.com/grandchesstour\">https://twitter.com/grandchesstour</a><br /> <a href=\"https://twitch.tv/stlchessclub\">https://twitch.tv/stlchessclub</a><br /> <a href=\"https://www.instagram.com/grandchesstourofficial\">https://www.instagram.com/grandchesstourofficial</a><br /> <a href=\"https://www.facebook.com/GrandChessTour\">https://www.facebook.com/GrandChessTour</a> </div><div class=\"field field-name-field-author field-type-list-text field-labe",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/pragg-wasn%E2%80%99t-going-make-short-draw-vs-fabi-r8-sinquefieldcup",
-         "pubDate" : "Wed, 28 Aug 2024 00:11:32",
-         "title" : "Pragg: Wasn't Going to Make Short Draw vs. Fabi | R8 #SinquefieldCup"
-      },
-      {
-         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-1",
@@ -608,22 +624,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-3",
          "pubDate" : "Wed, 21 Aug 2024 18:21:00",
          "title" : "Nepomniachtchi Catches Firouzja In Lead, Firouzja Escapes Vs. Vachier-Lagrave"
-      },
-      {
-         "description" : "GM Andrew Tang became the latest GM to book his spot in the 2024 Chess.com Bughouse Championship knockouts after he and his partner &#34;BughouseKnight&#34; won the sixth qualifier on Wednesday. Scoring an unassailable 255 points, the pair will look to to...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-chesscom-bughouse-championship-qualifier-5-6",
-         "pubDate" : "Wed, 21 Aug 2024 16:50:00",
-         "title" : "Tang Scores 71/80 In 6th Qualifier With Mysterious New Bughouse Partner"
-      },
-      {
-         "description" : "IM Alina Kashlinskaya said she was &#34;in a good mood to play a fighting game&#34; and ended up as the only winner in Wednesday&#39;s sixth round at the 2024 Tbilisi FIDE Women&#39;s Grand Prix. Kashlinskaya defeated GM Vaishali Rameshbabu and with the other fou...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/2024-fide-womens-grand-prix-tbilisi-round-6",
-         "pubDate" : "Wed, 21 Aug 2024 14:41:29",
-         "title" : "Kashlinskaya Beats Vaishali, Joins Leaders In Tbilisi"
       },
       {
          "description" : "",
