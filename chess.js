@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A draw against R. Praggnanandhaa was all Alireza Firouzja needed to take first place at the Sinquefield Cup - and he safely kept the balance until getting the required half point after 47 moves. Firouzja had secured overall victory in the Grand Chess Tour with a round to spare. The eventful final round saw Fabiano Caruana (who grabbed second place), Nodirbek Abdusattorov and Maxime Vachier-Lagrave collecting full points. | Photo: Lennart Ootes / Saint Louis Chess Club",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-9",
+         "pubDate" : "Thu, 29 Aug 2024 11:35:00",
+         "title" : "Alireza Firouzja conquers Saint Louis, again!"
+      },
+      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -24,14 +32,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-final-round-grandchesstour",
          "pubDate" : "Thu, 29 Aug 2024 00:11:57",
          "title" : "RECAP | 2024 Sinquefield Cup: Final Round | #GrandChessTour"
-      },
-      {
-         "description" : "Karthik Venkataraman won the 61st edition of the Indian National Championship after scoring 9/11 points at the event organised by the Haryana Chess Association. This is the second victory in a national championship for Karthik, who had also won the tournament in 2022. Surya Ganguly and Neelash Saha scored as many points as the champion, but finished in second and third place on tiebreaks. | Photos: Himank Ghosh",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/indian-national-championship-2024-report",
-         "pubDate" : "Wed, 28 Aug 2024 23:45:00",
-         "title" : "Karthik Venkataraman clinches second Indian national title"
       },
       {
          "description" : "",
@@ -58,11 +58,11 @@ news_feed (
          "title" : "Firouzja Clinches Tournament During MVL Interview! | R9 #SinquefieldCup"
       },
       {
-         "description" : "GM Alireza Firouzja was crowned as the winner of the 2024 Sinquefield Cup and the Grand Chess Tour on Wednesday after securing a draw with GM Rameshbabu Praggnanandhaa and finishing on 6/9. Following his round-one defeat to the winner, GM Fabiano ...",
+         "description" : "GM Alireza Firouzja was crowned as the winner of the 2024 Sinquefield Cup and the Grand Chess Tour on Wednesday after securing a draw with GM Praggnanandhaa Rameshbabu&#38;nbsp;and finishing on 6/9. Following his round-one defeat to the winner, GM Fab...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-9-firouzja-wins",
-         "pubDate" : "Wed, 28 Aug 2024 19:25:06",
+         "pubDate" : "Wed, 28 Aug 2024 19:25:00",
          "title" : "Undefeated Firouzja Wins Sinquefield Cup And $100k Prize"
       },
       {
@@ -94,16 +94,8 @@ news_feed (
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wscc-ro16-vaishali-roebers-lee-khadem",
-         "pubDate" : "Wed, 28 Aug 2024 17:22:09",
+         "pubDate" : "Wed, 28 Aug 2024 17:22:00",
          "title" : "Alice Lee, Vaishali Win Thrillers To Reach Quarterfinals"
-      },
-      {
-         "description" : "A round of draws in Saint Louis allowed Alireza Firouzja to keep his 1-point lead over Fabiano Caruana going into the final day of action at the Sinquefield Cup. These results also granted Firouzja victory in the Grand Chess Tour series with a round to spare. The French representative thus repeated his success from 2022, when he also won the Tour after a strong showing in Saint Louis. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-8",
-         "pubDate" : "Wed, 28 Aug 2024 14:30:00",
-         "title" : "Sinquefield Cup: Firouzja secures GCT victory, keeps 1-point lead"
       },
       {
          "description" : "",
@@ -162,14 +154,6 @@ news_feed (
          "title" : "RECAP | 2024 Sinquefield Cup: Round 8 | #GrandChessTour"
       },
       {
-         "description" : "David Llada is a household name in the world of chess. After working extensively as a chess photographer, he was hired by FIDE as Chief Marketing and Communications Officer. He left the post last year, and only months later asked for permission to work as a photographer for an independent media company (i.e. not FIDE). He was shocked to hear that he would only be granted to work with restrictions, so he refused the offer. In an interview conducted by the Chessdom.com team, he talks about this incident and about his experience as a FIDE employee. | Photo: David Llada's X account",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/david-llada-interview-chessdom-2024",
-         "pubDate" : "Wed, 28 Aug 2024 02:00:00",
-         "title" : "David Llada on Chessdom: \"Exceptions are granted to reward submission\""
-      },
-      {
          "description" : "<div class=\"body text-secondary\"> Before Yasser goes into a deep analysis with the Silicon Overlord, Nazi gives the spoiling move </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/spoiler-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/SF4-WCYEKJQ.jpg?itok=DgsSlaTA\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -194,7 +178,7 @@ news_feed (
          "title" : "Firouzja 99.8% Favorite to Win the GCT! | R8 #SinquefieldCup"
       },
       {
-         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-1",
@@ -216,14 +200,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-8",
          "pubDate" : "Tue, 27 Aug 2024 18:56:00",
          "title" : "Firouzja Clinches Grand Chess Tour, Eyes Sinquefield Cup"
-      },
-      {
-         "description" : "Alireza Firouzja grabbed his third win of the Sinquefield Cup by beating world champion Ding Liren in Monday's seventh round. Firouzja now has a full-point lead over Fabiano Caruana with 2 rounds to go. One more game ended decisively in round 7, as Nodirbek Abdusattorov got the better of Wesley So with the white pieces. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-7",
-         "pubDate" : "Tue, 27 Aug 2024 17:30:00",
-         "title" : "Sinquefield Cup: Firouzja beats Ding, leads by a full point"
       },
       {
          "description" : "",
