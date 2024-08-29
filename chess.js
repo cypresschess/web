@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The inaugural FIDE World Solving Championships for Youth (Florian&oacute;polis, November 4) and Cadets (Montesilvano, November 21) will take place this autumn. For the first time, the FIDE solving events will be organized in cooperation with the World Federation for Chess Composition (WFCC) as a part of the FIDE & WFCC Special Projects 2024, celebrating FIDE Centenary. Marjan Kovačevi&#263, WFCC president, reports.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/fide-solving-championships-with-free-online-lessons-for-anyone",
+         "pubDate" : "Thu, 29 Aug 2024 17:00:00",
+         "title" : "FIDE Solving Championships, with free online lessons for anyone"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Enjoy this look back at the 2024 Strategy Across the Board Gala!<br /> Proceeds from this annual event support chess education, cultural exhibitions, and public programming at the Saint Louis Chess Club and World Chess Hall of Fame. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-strategy-across-board-gala\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yCNB-2qeNcw.jpg?itok=",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/2024-strategy-across-board-gala",
+         "pubDate" : "Thu, 29 Aug 2024 15:12:25",
+         "title" : "2024 Strategy Across the Board Gala"
+      },
+      {
          "description" : "A draw against R. Praggnanandhaa was all Alireza Firouzja needed to take first place at the Sinquefield Cup - and he safely kept the balance until getting the required half point after 47 moves. Firouzja had secured overall victory in the Grand Chess Tour with a round to spare. The eventful final round saw Fabiano Caruana (who grabbed second place), Nodirbek Abdusattorov and Maxime Vachier-Lagrave collecting full points. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -32,6 +48,14 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/recap-2024-sinquefield-cup-final-round-grandchesstour",
          "pubDate" : "Thu, 29 Aug 2024 00:11:57",
          "title" : "RECAP | 2024 Sinquefield Cup: Final Round | #GrandChessTour"
+      },
+      {
+         "description" : "<br /><br /><br /><br /> <br /><br /> US Chess offices will be closed Monday, September 2 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 3 at 8 a.m. CT. <br /><br /> Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess!<br /><br /> ",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-september-2-labor-day",
+         "pubDate" : "Thu, 29 Aug 2024 00:00:00",
+         "title" : "US Chess Offices Closed Monday, September 2, For Labor Day"
       },
       {
          "description" : "",
@@ -168,14 +192,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/wchof%E2%80%99s-bailey-%E2%80%98match-matriarchs%E2%80%99-closes-soon-r8-sinquefieldcup",
          "pubDate" : "Wed, 28 Aug 2024 00:11:32",
          "title" : "WCHOF's Bailey: 'Match of the Matriarchs' Closes Soon! | R8 #SinquefieldCup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> The team looks at the probabilities of each player to win the 2024 Grand Chess Tour, as of before the eighth round of the Sinquefield Cup. The method simulates 15,000 versions of the tournament. Statistics by Ben Underwood. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/firouzja-998-favorite-win-gct-r8-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/XQLseV5X034.jp",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/firouzja-998-favorite-win-gct-r8-sinquefieldcup",
-         "pubDate" : "Wed, 28 Aug 2024 00:11:32",
-         "title" : "Firouzja 99.8% Favorite to Win the GCT! | R8 #SinquefieldCup"
       },
       {
          "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
@@ -706,14 +722,6 @@ news_feed (
          "title" : "Tactics Tuesday: Tournament of State Champions, Pt. 2"
       },
       {
-         "description" : "The US Chess Executive Board, after consultation with the US Chess Office, announces that effective September 1, 2024, the Voucher membership program will be implementing a revised price structure and updated terms.<br /><br /> Pricing rates for this discounted pre-paid membership program have not been increased for several years, remaining constant even after the last membership dues change. These increases are to bring the program's pricing to be more proportional to the current and upcoming value of the standard Youth membership price (currently $20, but will be increasing with all memberships as of January 1, 2025).<br /><br /> Changes are being implemented for this program quickly, as V",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/voucher-membership-program-revised-prices-and-terms-starting-september-1",
-         "pubDate" : "Tue, 20 Aug 2024 00:00:00",
-         "title" : "Voucher Membership Program: Revised Prices and Terms Starting September 1"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -1144,14 +1152,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3145",
          "pubDate" : "Thu, 08 Aug 2024 16:00:35",
          "title" : "Unlocking Minds: Register for the 2024 Prisoners' Chess Championship"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3144",
-         "pubDate" : "Thu, 08 Aug 2024 12:29:44",
-         "title" : "Winners crowned at 2024 FIDE World School Rapid and Blitz Championships"
       }
    ]
 }
