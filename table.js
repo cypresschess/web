@@ -1,4 +1,5 @@
 jtable([
+"HOUSTON","2024-08-06  - 08-27","22","<a href=http://www.uschess.org/msa/XtblMain.php?202408271602 target='_blank'>AUGUST 2024 TUESDAY NIGHT SWISS</a>",
 "HOUSTON","2024-08-26","8","<a href=http://www.uschess.org/msa/XtblMain.php?202408260162 target='_blank'>AUGUST 25 SUNDAY SWISS AT NOON</a>",
 "HOUSTON","2024-08-24","15","<a href=http://www.uschess.org/msa/XtblMain.php?202408249432 target='_blank'>AUGUST 24  2024 SATURDAY SWISS AT N</a>",
 "SPRING","2024-08-24","168","<a href=http://www.uschess.org/msa/XtblMain.php?202408249132 target='_blank'>KLEIN BACK TO SCHOOL</a>",
@@ -198,5 +199,4 @@ jtable([
 "SPRING","2024-02-02","23","<a href=http://www.uschess.org/msa/XtblMain.php?202402021442 target='_blank'>THE FRIDAY KNIGHTS</a>",
 "HOUSTON","2024-02-02","8","<a href=http://www.uschess.org/msa/XtblMain.php?202402021372 target='_blank'>REBECCA CHESS CLUB QUADS FEBRUARY 2, 2024</a>",
 "CYPRESS","2024-02-02","33","<a href=http://www.uschess.org/msa/XtblMain.php?202402021352 target='_blank'>KNIGHTS OF CYPRESS</a>",
-"SUGAR LAND","2024-02-02","6","<a href=http://www.uschess.org/msa/XtblMain.php?202402021322 target='_blank'>FBCC 2024 GROUNDHOG OPEN</a>",
 ]);
