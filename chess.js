@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "With an unchallenged draw against Leonardo Costa, Dmitrij Kollars secured the 2024 German Championship title, held as a round-robin tournament for the first time in a long time. Fiona Sieber won the Women's Masters (which is not the national championship), despite Luisa Bashylina not making it easy for her in the final round. | Photos: Katherina Reinecke / German Chess Federation",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/german-chess-championships-2024-report",
+         "pubDate" : "Thu, 29 Aug 2024 20:20:00",
+         "title" : "Kollars is the 2024 German champion, Sieber wins Women's Masters"
+      },
+      {
          "description" : "The inaugural FIDE World Solving Championships for Youth (Florian&oacute;polis, November 4) and Cadets (Montesilvano, November 21) will take place this autumn. For the first time, the FIDE solving events will be organized in cooperation with the World Federation for Chess Composition (WFCC) as a part of the FIDE & WFCC Special Projects 2024, celebrating FIDE Centenary. Marjan Kovačevi&#263, WFCC president, reports.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -50,7 +58,15 @@ news_feed (
          "title" : "RECAP | 2024 Sinquefield Cup: Final Round | #GrandChessTour"
       },
       {
-         "description" : "<br /><br /><br /><br /> <br /><br /> US Chess offices will be closed Monday, September 2 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 3 at 8 a.m. CT. <br /><br /> Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess!<br /><br /> ",
+         "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing",
+         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
+         "iconName" : "US Chess",
+         "link" : "https://new.uschess.org/news/firouzja-stomps-competition-wins-2024-sinquefield-cup-gct-tour-bonus",
+         "pubDate" : "Thu, 29 Aug 2024 00:00:00",
+         "title" : "Firouzja Stomps The Competition, Wins 2024 Sinquefield Cup, GCT Tour Bonus"
+      },
+      {
+         "description" : "<br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> US Chess offices will be closed Monday, September 2 in observance of Labor Day. Our offices will reopen for regular business on Tuesday, September 3 at 8 a.m. CT. <br /><br /> Our best wishes and a happy Labor Day to all, and thank you for your continued support of US Chess!<br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/us-chess-offices-closed-monday-september-2-labor-day",
@@ -194,7 +210,7 @@ news_feed (
          "title" : "WCHOF's Bailey: 'Match of the Matriarchs' Closes Soon! | R8 #SinquefieldCup"
       },
       {
-         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
+         "description" : "This week's Workout begins a series on the \"main event\" from Norfolk: the 124th Annual U.S. Open. All of our coverage from this event can be found here, and almost all of these puzzles feature games not previously covered in our daily reporting. <br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study. <br /><br /> ",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/wednesday-workout-124th-annual-us-open-pt-1",
@@ -714,14 +730,6 @@ news_feed (
          "title" : "D Gukesh plays out a draw with Ding Liren in Sinquefield Cup 2024 clash"
       },
       {
-         "description" : "This week's puzzles once again come from the national invitational tournaments of state champions, held during the first four days of this year's U.S. Open. All of our coverage of the event is available here.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> <br /><br /> Download our printable worksheet or solve along with our interactive study.<br /><br /> <br /><br /> ",
-         "iconLink" : "https://cypresschess.github.io/web/uschess.png",
-         "iconName" : "US Chess",
-         "link" : "https://new.uschess.org/news/tactics-tuesday-tournament-state-champions-pt-2",
-         "pubDate" : "Tue, 20 Aug 2024 00:00:00",
-         "title" : "Tactics Tuesday: Tournament of State Champions, Pt. 2"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -890,22 +898,6 @@ news_feed (
          "title" : "Live Link for 24th Tamil Nadu IM Tournament"
       },
       {
-         "description" : " The 11th Sinquefield Cup takes place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/11th-sinquefield-cup-2024",
-         "pubDate" : "Fri, 16 Aug 2024 14:56:00",
-         "title" : "11th Sinquefield Cup 2024 - Games and Results"
-      },
-      {
-         "description" : " The Saint Louis Rapid & Blitz took place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acted as a curtain raiser for the Sinquefield Cup which starts on the 18th. Alireza Firouzja won the event and took the lead of the Grand Chess Tour from Fabiano Caruana with the Sinquefield Cup to finish this year's series. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/saint-louis-rapid-blitz-2024",
-         "pubDate" : "Fri, 16 Aug 2024 09:33:00",
-         "title" : "Saint Louis Rapid & Blitz 2024 - Games and Results"
-      },
-      {
          "description" : "Everything is set for European Youth Rapid, Blitz and Classical Chess Championships 2024 which start tomorrow in Prague, Czech Republic. The first event on the schedule is European Youth Rapid Chess Championship 2024, being played from 17-18 August. The event is played in six age categories: U8, U10, U12, U14, U16 and U18, open and girls sections separately. Each section will have 9 rounds played according to the swiss system, with the time control of 15 minutes + 10 seconds []",
          "iconLink" : "https://cypresschess.github.io/web/ECU.png",
          "iconName" : "European<br>Chess Union",
@@ -960,14 +952,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3157",
          "pubDate" : "Thu, 15 Aug 2024 11:00:54",
          "title" : "FIDE World Championship 2024 Match to be held in Singapore at Resorts World Sentosa"
-      },
-      {
-         "description" : " The Tbilisi FIDE Women's Grand Prix takes place Wed 14th Aug to Sun 25th Aug 2024. Players: Anna Muzychuk, Mariya Muzychuk, Nana Dzagnidze, Rameshbabu Vaishali, Sarasadat Khademalsharieh, Alexandra Kosteniuk, Alina Kashlinskaya, Bibisara Assaubayeva, Lela Javakhishvili and Stavroula Tsolakidou. ",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/tbilisi-fide-womens-grand-prix-2024",
-         "pubDate" : "Thu, 15 Aug 2024 10:48:00",
-         "title" : "Tbilisi FIDE Women's Grand Prix 2024 - Games and Results"
       },
       {
          "description" : "",
@@ -1144,14 +1128,6 @@ news_feed (
          "link" : "https://www.theguardian.com/sport/article/2024/aug/09/chess-carlsen-loses-in-23-moves-but-beats-ding-and-wins-titled-tuesday",
          "pubDate" : "Fri, 09 Aug 2024 07:00:22",
          "title" : "Chess: Carlsen loses in 23 moves but beats Ding and wins Titled Tuesday"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3145",
-         "pubDate" : "Thu, 08 Aug 2024 16:00:35",
-         "title" : "Unlocking Minds: Register for the 2024 Prisoners' Chess Championship"
       }
    ]
 }
