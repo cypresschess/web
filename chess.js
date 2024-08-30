@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "A very special offer awaits you in this week's summer special - two products that are indispensable for serious chess players are on special offer and available as a bundle: ChessBase 17 and the Opening Encyclopaedia 2024. Take the chance and get both for the summer special price of only €249.90 (instead of €299.90)!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/summer-special-chessbase-17-opening-encyclopaedia-2024",
+         "pubDate" : "Fri, 30 Aug 2024 21:30:00",
+         "title" : "Summer Special: ChessBase 17 and Opening Encyclopaedia 2024"
+      },
+      {
          "description" : "Just like a year ago, both the open and the women's French Chess Championships were held as 16-player knockout tournaments. The events took place from August 16-25 in Alpe d'Huez. Jules Moussard and Deimant&eacute; Daulyte-Cornette were crowned champions in the open and women's sections respectively. The final matches saw Moussard beating Laurent Fressinet and Daulyte-Cornette getting the better of Pauline Guichard. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -64,6 +72,22 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/commentators-wager-grandchesstour-chess-chessendgame-chesstalk-chesscom",
          "pubDate" : "Fri, 30 Aug 2024 15:13:09",
          "title" : "Commentator's Wager #grandchesstour #chess #chessendgame #chesstalk #chesscom"
+      },
+      {
+         "description" : " The 11th Sinquefield Cup took place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren. Alireza Firouzja won the Sinquefield Cup for the second time and also won the Grand Chess Tour.",
+         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
+         "iconName" : "The Week<br>in Chess",
+         "link" : "https://theweekinchess.com/chessnews/events/11th-sinquefield-cup-2024",
+         "pubDate" : "Fri, 30 Aug 2024 14:56:00",
+         "title" : "11th Sinquefield Cup 2024 - Games and Results"
+      },
+      {
+         "description" : "IM Mai Narva almost pulled off a sensation by knocking GM Alexandra Kosteniuk out of the 2024 Julius Baer Women&#39;s Speed Chess Championship, but there was heartbreak as she blundered a piece just as she was about to clinch victory in the armageddon...",
+         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
+         "iconName" : "Chess.com",
+         "link" : "https://www.chess.com/news/view/wscc-ro16-kosteniuk-narva-gunina-divya",
+         "pubDate" : "Fri, 30 Aug 2024 14:48:30",
+         "title" : "Kosteniuk Beats Narva In Armageddon, Joins Gunina In Quarterfinals"
       },
       {
          "description" : "Biel 2024 Chess Festival: The winner of the Masters, Le Quang Liem, comments on one of his games. In addition, Jonas Bjerre, Alexander Donchenko, Abhimanyu Mishra and Ihor Samunenkov contribute analyses from Biel - \"Special\" on Ju Wenjun: CBM authors show their favourite games of the world champion, an exclusive collection of 24 annotated games awaits you! - \"If one piece is bad, the entire position is bad\": Jan Markos develops a winning strategy for your games in his \"Practical tips\"! -Bomb in the Panov Attack: Robert Ris analyses the promising piece sacrifice 8.Qb3 Bxf3 9.gxf3 e6 10.Qxb7 Nxd4 11.Bb5+ Nxb5 12.Qc6+ Ke7 13.Qc5+!? and much more!",
@@ -618,14 +642,6 @@ news_feed (
          "title" : "The official song of 45th Chess Olympiad is out!"
       },
       {
-         "description" : "It was just a matter of time, but now it&#39;s finally official: GM Yagiz Kaan Erdogmus has had his title confirmed, officially making him the world&#39;s youngest grandmaster. Several other rising stars also saw their titles approved. It&#39;s been almost ...",
-         "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
-         "iconName" : "Chess.com",
-         "link" : "https://www.chess.com/news/view/13-year-old-yagiz-kaan-erdogmus-becomes-worlds-youngest-grandmaster",
-         "pubDate" : "Thu, 22 Aug 2024 02:14:00",
-         "title" : "New Titles Approved: 13-Year-Old Erdogmus Takes Title As World's Youngest GM"
-      },
-      {
          "description" : "The first third of the 2024 Sinquefield Cup is in the books in St. Louis, with Russian GM Ian Nepomniachtchi and French GM Alireza Firouzja atop the standings with 2/3 scores.<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Courtesy SLCC/GCT<br /><br /><br /> <br /><br /> The final event of the 2024 Grand Chess Tour picked up right where last week's Rapid & Blitz event left off: with a win for Firouzja!<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> The tactical speedster was in his element again",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
@@ -904,14 +920,6 @@ news_feed (
          "link" : "https://aicf.in/live-link-for-24th-tamil-nadu-im-tournament/",
          "pubDate" : "Fri, 16 Aug 2024 15:53:45",
          "title" : "Live Link for 24th Tamil Nadu IM Tournament"
-      },
-      {
-         "description" : " The 11th Sinquefield Cup takes place Mon 19th to Sat 31st Aug 2024 in Saint Louis. Players: Anish Giri, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Maxime Vachier-Lagrave, Rameshbabu Praggnanandhaa, Gukesh Dommaraju, Alireza Firouzja, Wesley So and Ding Liren.",
-         "iconLink" : "https://cypresschess.github.io/web/twic3.png",
-         "iconName" : "The Week<br>in Chess",
-         "link" : "https://theweekinchess.com/chessnews/events/11th-sinquefield-cup-2024",
-         "pubDate" : "Fri, 16 Aug 2024 14:56:00",
-         "title" : "11th Sinquefield Cup 2024 - Games and Results"
       },
       {
          "description" : " The Saint Louis Rapid & Blitz took place 12th to 16th August 2024. Players: Hikaru Nakamura, Fabiano Caruana, Ian Nepomniachtchi, Nodirbek Abdusattorov, Wesley So, Alireza Firouzja, R Praggnanandhaa, Leinier Dominguez Perez, Levon Aronian and Maxime Vachier-Lagrave. It also acted as a curtain raiser for the Sinquefield Cup which starts on the 18th. Alireza Firouzja won the event and took the lead of the Grand Chess Tour from Fabiano Caruana with the Sinquefield Cup to finish this year's series. ",
