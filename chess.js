@@ -2,7 +2,7 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "Just like a year ago, both the open and the women's French Chess Championships were held as16-player knockout tournaments. The events took place from August 16-25 in Alpe d'Huez. Jules Moussard and Deimant&eacute; Daulyte-Cornette were crowned champions in the open and women's sections respectively. The final matches saw Moussard beating Laurent Fressinet and Daulyte-Cornette getting the better of Pauline Guichard. | Photo: Official website",
+         "description" : "Just like a year ago, both the open and the women's French Chess Championships were held as 16-player knockout tournaments. The events took place from August 16-25 in Alpe d'Huez. Jules Moussard and Deimant&eacute; Daulyte-Cornette were crowned champions in the open and women's sections respectively. The final matches saw Moussard beating Laurent Fressinet and Daulyte-Cornette getting the better of Pauline Guichard. | Photo: Official website",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/french-championships-2024-report",
