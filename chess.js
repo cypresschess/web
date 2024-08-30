@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Biel 2024 Chess Festival: The winner of the Masters, Le Quang Liem, comments on one of his games. In addition, Jonas Bjerre, Alexander Donchenko, Abhimanyu Mishra and Ihor Samunenkov contribute analyses from Biel - \"Special\" on Ju Wenjun: CBM authors show their favourite games of the world champion, an exclusive collection of 24 annotated games awaits you! - \"If one piece is bad, the entire position is bad\": Jan Markos develops a winning strategy for your games in his \"Practical tips\"! -Bomb in the Panov Attack: Robert Ris analyses the promising piece sacrifice 8.Qb3 Bxf3 9.gxf3 e6 10.Qxb7 Nxd4 11.Bb5+ Nxb5 12.Qc6+ Ke7 13.Qc5+!? and much more!",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-15",
+         "pubDate" : "Fri, 30 Aug 2024 12:00:00",
+         "title" : "New: CBM #221 - incl. ChessBase book for iPad, Tablet & Co!"
+      },
+      {
          "description" : " The Iran-born Frenchman, 21, scored 6/9 to win in St Louis, half a point clear of the US champion and world No 3, Fabiano Caruana Alireza Firouzja, the Iran-born Frenchman, is a reborn talent after the 21-year-old triumphed unbeaten in this week's $350,000 Sinquefield Cup at St Louis. Firouzja totalled 6/9, half a point half a point ahead of the US champion and world No 3, Fabiano Caruana. The world champion, Ding Liren, drew his first six games and lost two of his final three and finished next to last on 3.5/9. The prestigious event, named after the chess benefactor Rex Sinquefield, is one of the game's three elite super-tournaments, along with Tata Steel Wijk aan Zee in the Netherlands an",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -130,7 +138,7 @@ news_feed (
          "title" : "Alireza Firouzja wins 2024 Sinquefield Cup"
       },
       {
-         "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing",
+         "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing in St. Louis earlier this month up to $240,000 and his overall 2024 GCT",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/firouzja-stomps-competition-wins-2024-sinquefield-cup-gct-tour-bonus",
@@ -1136,30 +1144,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/toxic-opponent/",
          "pubDate" : "Sat, 10 Aug 2024 13:41:45",
          "title" : "How to handle toxic chess opponents"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> The ongoing <strong>Lewis Chess Legends</strong> in Trondheim runs a mixed open tournament where the <a href=\"https://www.lewischesslegends.com/registration\">prize money for the top ranked women matches</a> the prize money for the top ranked men. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/equal-pay-trondheim-style/",
-         "pubDate" : "Fri, 09 Aug 2024 09:36:42",
-         "title" : "Equal pay Trondheim style"
-      },
-      {
-         "description" : "<div class=\"abstract\" itemprop=\"abstract\"> <strong>World Chess</strong>, the company of <strong>Ilya Merenzon</strong>, is <a href=\"https://world-chess.homerun.co/smm-manager\">hiring a social media manager and content creator</a>. </div> ",
-         "iconLink" : "https://cypresschess.github.io/web/chesstech.png",
-         "iconName" : "ChessTech",
-         "link" : "https://www.chesstech.org/2024/social-media-job/",
-         "pubDate" : "Fri, 09 Aug 2024 09:32:51",
-         "title" : "Social Media job"
-      },
-      {
-         "description" : "",
-         "iconLink" : "https://cypresschess.github.io/web/fide.png",
-         "iconName" : "FIDE",
-         "link" : "https://www.fide.com/news/3147",
-         "pubDate" : "Fri, 09 Aug 2024 08:54:51",
-         "title" : "World Youth CC 2024: Important comment by FIDE EVE"
       }
    ]
 }
