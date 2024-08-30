@@ -2,6 +2,54 @@ news_feed (
 {
    "items" : [
       {
+         "description" : " The Iran-born Frenchman, 21, scored 6/9 to win in St Louis, half a point clear of the US champion and world No 3, Fabiano Caruana Alireza Firouzja, the Iran-born Frenchman, is a reborn talent after the 21-year-old triumphed unbeaten in this week's $350,000 Sinquefield Cup at St Louis. Firouzja totalled 6/9, half a point half a point ahead of the US champion and world No 3, Fabiano Caruana. The world champion, Ding Liren, drew his first six games and lost two of his final three and finished next to last on 3.5/9. The prestigious event, named after the chess benefactor Rex Sinquefield, is one of the game's three elite super-tournaments, along with Tata Steel Wijk aan Zee in the Netherlands an",
+         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
+         "iconName" : "The Guardian",
+         "link" : "https://www.theguardian.com/sport/article/2024/aug/30/chess-alireza-firouzja-wins-sinquefield-cup-unbeaten-and-jumps-to-world-no-5",
+         "pubDate" : "Fri, 30 Aug 2024 07:00:03",
+         "title" : "Chess: Alireza Firouzja wins Sinquefield Cup unbeaten and jumps to world No 5"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Making what seemed to be the only brilliant move to avoid mate, the chess engine (a.k.a. Silicon Overlord) didn&#039;t agree. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/brilliant-move-robbed-silicon-overlord-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/9CcXF9OjyME.jpg?itok=Lrhg8u71\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/brilliant-move-robbed-silicon-overlord-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Fri, 30 Aug 2024 06:12:52",
+         "title" : "Brilliant Move Robbed By The Silicon Overlord #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Before the final round, commentators take a look at how quickly Alireza was in favor to win GCT </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/alirezas-acceleration-grandchesstour-chess-statistics-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/6im9GGBKphY.jpg?itok=_xwfY6Aa\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/alirezas-acceleration-grandchesstour-chess-statistics-chesstalk-chesscom",
+         "pubDate" : "Fri, 30 Aug 2024 06:12:52",
+         "title" : "Alireza's Acceleration #grandchesstour #chess #statistics #chesstalk #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Yasser is baffled on how Gukesh handles this specific opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/svidler-it-reminds-me-magnus-grandchesstour-chess-chessopening-magnuscarlsen-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1aieLSp-UMI.jpg?itok=DoxHcpTx\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/svidler-it-reminds-me-magnus-grandchesstour-chess-chessopening-magnuscarlsen-chesscom",
+         "pubDate" : "Fri, 30 Aug 2024 06:12:52",
+         "title" : "Svidler - It Reminds Me of Magnus #grandchesstour #chess #chessopening #magnuscarlsen #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> The ending position between MVL and So reminds the commentators when Fabi played Dr. Jeanne Sinquefield </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/when-dr-sinquefield-defeated-fabi-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/KNCNO7vfM4A.jpg?itok=hNwDV6ua\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/when-dr-sinquefield-defeated-fabi-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Fri, 30 Aug 2024 06:12:52",
+         "title" : "When Dr. Sinquefield Defeated Fabi #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
+         "description" : "<div class=\"body text-secondary\"> Nazi and Yasser make a friendly wager on MVL&#039; s behalf </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/just-friendly-wager-grandchesstour-chess-chessendgame-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/j4taAzYv9W0.jpg?itok=4pVWfF2q\" alt=\"\" /></a></div>",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/just-friendly-wager-grandchesstour-chess-chessendgame-chesscom",
+         "pubDate" : "Fri, 30 Aug 2024 06:12:52",
+         "title" : "Just A Friendly Wager #grandchesstour #chess #chessendgame #chesscom"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Not enough compensation for a poorly executed tactic, Nodirbek&#039;s opponent LEAVES him a surprise at the board </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/not-enough-piecesjust-walk-away-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/uJHg2InQ6Ms.jpg?itok=Q_GfEOwy\" alt=\"\" /></a></div>",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
@@ -50,30 +98,6 @@ news_feed (
          "title" : "Meet the 'Deo' who donated books to the Temple of Chess"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Commentators finding fun moves in this position between Anish Giri and Fabiano Caruana </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/kekwhappy-moves-grandchesstour-chess-chesstactics-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lUgCnb9yfyg.jpg?itok=_FGcI5wn\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/kekwhappy-moves-grandchesstour-chess-chesstactics-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 00:12:39",
-         "title" : "KEKW...Happy Moves!!! #grandchesstour #chess #chesstactics #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> IM Nazi Paikidze and GM Yasser Seirawan </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-i-dont-think-your-suppose-say-0827\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/guAkP6ijCOg.jpg?itok=CSFBgmNC\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/warning-i-dont-think-your-suppose-say-0827",
-         "pubDate" : "Fri, 30 Aug 2024 00:12:39",
-         "title" : "WARNING: I Don't Think Your Suppose To Say That 0827"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser and Nazi chat about playing 40 draws </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/40-draws-grandchesstour-chess-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/tDKL6tHsoZw.jpg?itok=PlFudVEA\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/40-draws-grandchesstour-chess-chesstalk-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 00:12:39",
-         "title" : "40 Draws #grandchesstour #chess #chesstalk #chesscom"
-      },
-      {
          "description" : "With an unchallenged draw against Leonardo Costa, Dmitrij Kollars secured the 2024 German Championship title, held as a round-robin tournament for the first time in a long time. Fiona Sieber won the Women's Masters (which is not the national championship), despite Luisa Bashylina not making it easy for her in the final round. | Photos: Katherina Reinecke / German Chess Federation",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -90,14 +114,6 @@ news_feed (
          "title" : "FIDE Solving Championships, with free online lessons for anyone"
       },
       {
-         "description" : "<div class=\"body text-secondary\"> Enjoy this look back at the 2024 Strategy Across the Board Gala!<br /> Proceeds from this annual event support chess education, cultural exhibitions, and public programming at the Saint Louis Chess Club and World Chess Hall of Fame. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/2024-strategy-across-board-gala\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/yCNB-2qeNcw.jpg?itok=",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/2024-strategy-across-board-gala",
-         "pubDate" : "Thu, 29 Aug 2024 15:12:25",
-         "title" : "2024 Strategy Across the Board Gala"
-      },
-      {
          "description" : "A draw against R. Praggnanandhaa was all Alireza Firouzja needed to take first place at the Sinquefield Cup - and he safely kept the balance until getting the required half point after 47 moves. Firouzja had secured overall victory in the Grand Chess Tour with a round to spare. The eventful final round saw Fabiano Caruana (who grabbed second place), Nodirbek Abdusattorov and Maxime Vachier-Lagrave collecting full points. | Photo: Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -112,14 +128,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3191",
          "pubDate" : "Thu, 29 Aug 2024 07:17:37",
          "title" : "Alireza Firouzja wins 2024 Sinquefield Cup"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour &amp; Sinquefield Cup champion Alireza Firouzja talks to Cristian Chirila after the 2024 Sinquefield Cup. This did not air during the program. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-firouzja-wins-%E2%80%98most-difficult%E2%80%99-chess-prize-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lGbekWCGUKM.jpg?itok=Cx2Cr94V\" alt=\"\" /></",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/exclusive-firouzja-wins-%E2%80%98most-difficult%E2%80%99-chess-prize-sinquefieldcup",
-         "pubDate" : "Thu, 29 Aug 2024 03:12:04",
-         "title" : "EXCLUSIVE! Firouzja Wins 'Most Difficult' Chess Prize | #SinquefieldCup"
       },
       {
          "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing",
@@ -1152,14 +1160,6 @@ news_feed (
          "link" : "https://www.fide.com/news/3147",
          "pubDate" : "Fri, 09 Aug 2024 08:54:51",
          "title" : "World Youth CC 2024: Important comment by FIDE EVE"
-      },
-      {
-         "description" : " The world No 1 arrived at the World Team Rapid and Blitz jetlagged and lost to Richard Rapport but then beat the world champion Since abdicating his world crown last year, Norway's world champion, Magnus Carlsen, has appeared at a variety of over-the-board events, and also competes frequently online. Carlsen's often crowded schedule caught up with him last week when he flew across several time zones to the World Team Rapid and Blitz in Astana, Kazakhstan, missed the early rounds, and was then <a href=\"https://www.chessgames.com/perl/chessgame?gid=2741372\">beaten in 23 moves</a> by Hungary's Richard Rapport. The No 1's king was caught uncastled and, down to two minutes on his clock, he resig",
-         "iconLink" : "https://cypresschess.github.io/web/guardian.png",
-         "iconName" : "The Guardian",
-         "link" : "https://www.theguardian.com/sport/article/2024/aug/09/chess-carlsen-loses-in-23-moves-but-beats-ding-and-wins-titled-tuesday",
-         "pubDate" : "Fri, 09 Aug 2024 07:00:22",
-         "title" : "Chess: Carlsen loses in 23 moves but beats Ding and wins Titled Tuesday"
       }
    ]
 }
