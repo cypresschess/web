@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "<div class=\"body text-secondary\"> Grand Chess Tour &amp; Sinquefield Cup champion Alireza Firouzja talks to Cristian Chirila after the 2024 Sinquefield Cup. This did not air during the program. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-firouzja-winning-grand-chess-tour-hikaru-match-more-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lGbekWCGUKM.jpg?itok=Cx2Cr94V\" alt=\"\" /></a></div",
+         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
+         "iconName" : "Saint Louis<br>Chess Club",
+         "link" : "https://saintlouischessclub.org/blog/exclusive-firouzja-winning-grand-chess-tour-hikaru-match-more-sinquefieldcup",
+         "pubDate" : "Sat, 31 Aug 2024 06:13:32",
+         "title" : "EXCLUSIVE! Firouzja on Winning Grand Chess Tour, Hikaru Match, & More! | #SinquefieldCup"
+      },
+      {
          "description" : "As part of the Chess Olympiad in Budapest, a conference entitled \"Chess and Sports Science\" will take place on 9 September at the Hungarian University of Sports Science, in which the sporting and decision-making aspects of chess will be examined. ChessBase author Jan Markos will be among the speakers.",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -136,14 +144,6 @@ news_feed (
          "link" : "https://saintlouischessclub.org/blog/alirezas-acceleration-grandchesstour-chess-statistics-chesstalk-chesscom",
          "pubDate" : "Fri, 30 Aug 2024 06:12:52",
          "title" : "Alireza's Acceleration #grandchesstour #chess #statistics #chesstalk #chesscom"
-      },
-      {
-         "description" : "<div class=\"body text-secondary\"> Yasser is baffled on how Gukesh handles this specific opening </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/svidler-it-reminds-me-magnus-grandchesstour-chess-chessopening-magnuscarlsen-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/1aieLSp-UMI.jpg?itok=DoxHcpTx\" alt=\"\" /></a></div>",
-         "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
-         "iconName" : "Saint Louis<br>Chess Club",
-         "link" : "https://saintlouischessclub.org/blog/svidler-it-reminds-me-magnus-grandchesstour-chess-chessopening-magnuscarlsen-chesscom",
-         "pubDate" : "Fri, 30 Aug 2024 06:12:52",
-         "title" : "Svidler - It Reminds Me of Magnus #grandchesstour #chess #chessopening #magnuscarlsen #chesscom"
       },
       {
          "description" : "On the 15th of August 2024, as Indians celebrated Independence Day, another celebration quietly took place in Mumbai. While one group was busy hoisting the National Flag, the other group was busy cutting the ribbon to launch a special place. GM Vidit Gujrathi inaugurated the 'Temple of Chess', a new concept by ChessBase India for all chess lovers. The main attraction of this place is the vast collection of books. A very kind and generous person named Deodatta Modak from Nashik donated thousands of books to this temple. ChessBase India's Rasika Ratnaparkhi travelled to the home of Deodatta Modak and had the privilege of speaking with him about his chess journey, book collection, and his views",
