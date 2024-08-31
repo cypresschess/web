@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "As part of the Chess Olympiad in Budapest, a conference entitled \"Chess and Sports Science\" will take place on 9 September at the Hungarian University of Sports Science, in which the sporting and decision-making aspects of chess will be examined. ChessBase author Jan Markos will be among the speakers.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/chess-and-sports-science-budapest-2024",
+         "pubDate" : "Sat, 31 Aug 2024 02:15:00",
+         "title" : "In Budapest: \"Chess and Sports Science\" conference"
+      },
+      {
          "description" : "A very special offer awaits you in this week's summer special - two products that are indispensable for serious chess players are on special offer and available as a bundle: ChessBase 17 and the Opening Encyclopaedia 2024. Take the chance and get both for the summer special price of only €249.90 (instead of €299.90)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -82,11 +90,11 @@ news_feed (
          "title" : "11th Sinquefield Cup 2024 - Games and Results"
       },
       {
-         "description" : "IM Mai Narva almost pulled off a sensation by knocking GM Alexandra Kosteniuk out of the 2024 Julius Baer Women&#39;s Speed Chess Championship, but there was heartbreak as she blundered a piece just as she was about to clinch victory in the armageddon...",
+         "description" : "IM Mai Narva almost pulled off the sensation of knocking GM Alexandra Kosteniuk out of the 2024 Julius Baer Women&#39;s Speed Chess Championship, but there was heartbreak as she blundered a piece just as she was about to clinch victory in the armagedd...",
          "iconLink" : "https://cypresschess.github.io/web/chesscom.png",
          "iconName" : "Chess.com",
          "link" : "https://www.chess.com/news/view/wscc-ro16-kosteniuk-narva-gunina-divya",
-         "pubDate" : "Fri, 30 Aug 2024 14:48:30",
+         "pubDate" : "Fri, 30 Aug 2024 14:48:00",
          "title" : "Kosteniuk Beats Narva In Armageddon, Joins Gunina In Quarterfinals"
       },
       {
