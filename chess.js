@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "Imagine playing a poker tournament for 7 days straight for 12+ hours a day. $10,000 of your own money invested, and if you win, you get $10 Million. 10,000+ people started the event, and you get into the final 9. Before the final table, you get asked: &#8220;How are you feeling after such a long []",
+         "iconLink" : "https://cypresschess.github.io/web/studer.png",
+         "iconName" : "Next Level<br>Chess",
+         "link" : "https://nextlevelchess.blog/piece-of-cake/",
+         "pubDate" : "Sat, 31 Aug 2024 12:35:00",
+         "title" : "Make chess games feel like a piece of cake"
+      },
+      {
          "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist, Nagesh Havanur takes a look at our recent issue, CBM 220. 512 games, 38 annotated from the Candidates' and 7th Sharjah Masters, 11 opening surveys, 3 opening videos, 6 demo. lectures and several exercises for training. Annotators include Gukesh, Firouzja, Giri and Praggnanandhaa among others. The icing on the cake is a special feature on Gukesh with 24 annotated games. | Photo: Lennart Ootes",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
@@ -1144,22 +1152,6 @@ news_feed (
          "link" : "https://timesofindia.indiatimes.com/sports/chess/r-pragganandhaa-eyeing-an-improved-finish-in-gct-final-outings/articleshow/112441427.cms",
          "pubDate" : "Sun, 11 Aug 2024 08:07:49",
          "title" : "R Pragganandhaa eyeing an improved finish in GCT final outings"
-      },
-      {
-         "description" : "I was alarmed to discover in the foreword to the third and latest volume in the Korchnoi tetralogy Korchnoi Year by Year, 1981-1991 by Hans Renette and Tibor Karolyi (Elk and Ruby, &pound;35.95) the following verdict by Korchnoi's lawyer Alban Brodbeck on the \"Leningrad Lip\" and his constant post-defection companion, former self-confessed terrorist, Petra Leuuwerik: \"A crackhead and []",
-         "iconLink" : "https://cypresschess.github.io/web/article.png",
-         "iconName" : "The Article",
-         "link" : "https://www.thearticle.com/cold-war-chessboard-diplomacy/",
-         "pubDate" : "Sat, 10 Aug 2024 14:48:37",
-         "title" : "Cold War chessboard diplomacy"
-      },
-      {
-         "description" : "Sadly, most of us had an experience with a toxic opponent. It can throw you off the game. Instead of thinking about the chess moves on the board, you think about them and how annoying they are. Well, that's exactly what they want. They are more likely to win and couldn't care less about you []",
-         "iconLink" : "https://cypresschess.github.io/web/studer.png",
-         "iconName" : "Next Level<br>Chess",
-         "link" : "https://nextlevelchess.blog/toxic-opponent/",
-         "pubDate" : "Sat, 10 Aug 2024 13:41:45",
-         "title" : "How to handle toxic chess opponents"
       }
    ]
 }
