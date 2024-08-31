@@ -2,12 +2,12 @@ news_feed (
 {
    "items" : [
       {
-         "description" : "The final stages of the Julius Baer Women's Speed Chess Championship will take place on 2-5 September, with the quarterfinals set to start on Monday. A stellar field is participating, including Hou Yifan, the highest-rated woman player in the world, and Ju Wenjun, the reigning world champion. Alice Lee, aged 14, also made it to the quarterfinals.",
+         "description" : "Venceslav Rutar from Slovenia is organising a match between GM Sam Shankland and GM Surya Sekhar Ganguly on 2-3 September. What's so special about this event? As Venceslav says, \"Draws are not the problem, the problem is how we score them!\" A unique scoring system will be used in this match. The traditional system with 1 point (to the winner), &frac12; point (to both the players) and 0 points (to the loser) will be replaced by five possibilities: win, favoured draw, equal draw, disfavoured draw and loss. | Photos: Austin Fuller & Lennart Ootes / Saint Louis Chess Club",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/women-scc-2024-round-of-16",
-         "pubDate" : "Sat, 31 Aug 2024 18:00:00",
-         "title" : "Women's SCC: Quarterfinals start on Monday, with Hou and Ju as top seeds"
+         "link" : "https://en.chessbase.com/post/ganguly-shankland-match-2024-preview",
+         "pubDate" : "Sat, 31 Aug 2024 23:50:00",
+         "title" : "Surya Ganguly and Sam Shankland to play match with unique scoring system"
       },
       {
          "description" : "Imagine playing a poker tournament for 7 days straight for 12+ hours a day. $10,000 of your own money invested, and if you win, you get $10 Million. 10,000+ people started the event, and you get into the final 9. Before the final table, you get asked: &#8220;How are you feeling after such a long []",
@@ -16,14 +16,6 @@ news_feed (
          "link" : "https://nextlevelchess.blog/piece-of-cake/",
          "pubDate" : "Sat, 31 Aug 2024 12:35:00",
          "title" : "Make chess games feel like a piece of cake"
-      },
-      {
-         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist, Nagesh Havanur takes a look at our recent issue, CBM 220. 512 games, 38 annotated from the Candidates' and 7th Sharjah Masters, 11 opening surveys, 3 opening videos, 6 demo. lectures and several exercises for training. Annotators include Gukesh, Firouzja, Giri and Praggnanandhaa among others. The icing on the cake is a special feature on Gukesh with 24 annotated games. | Photo: Lennart Ootes",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/cbm-220-review-nagesh-havanur",
-         "pubDate" : "Sat, 31 Aug 2024 10:00:00",
-         "title" : "CBM 220: Gukesh on the way to Olympus"
       },
       {
          "description" : "Searching for the greatest in chess is perennially fascinating. In 1987 an eminent Canadian professor of mathematics, the late Nathan Divinsky, and I carried out a massive statistical survey in our book: Warriors of the Mind. Recently the chess.com site undertook a similar exercise. It is interesting to compare the two lists of the respective top tens: Rank Divinsky/Keene 1987 []",
