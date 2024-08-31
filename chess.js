@@ -2,6 +2,14 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "The final stages of the Julius Baer Women's Speed Chess Championship will take place on 2-5 September, with the quarterfinals set to start on Monday. A stellar field is participating, including Hou Yifan, the highest-rated woman player in the world, and Ju Wenjun, the reigning world champion. Alice Lee, aged 14, also made it to the quarterfinals.",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/women-scc-2024-round-of-16",
+         "pubDate" : "Sat, 31 Aug 2024 18:00:00",
+         "title" : "Women's SCC: Quarterfinals start on Monday, with Hou and Ju as top seeds"
+      },
+      {
          "description" : "Imagine playing a poker tournament for 7 days straight for 12+ hours a day. $10,000 of your own money invested, and if you win, you get $10 Million. 10,000+ people started the event, and you get into the final 9. Before the final table, you get asked: &#8220;How are you feeling after such a long []",
          "iconLink" : "https://cypresschess.github.io/web/studer.png",
          "iconName" : "Next Level<br>Chess",
@@ -34,28 +42,12 @@ news_feed (
          "title" : "EXCLUSIVE! Firouzja on Winning Grand Chess Tour, Hikaru Match, & More! | #SinquefieldCup"
       },
       {
-         "description" : "As part of the Chess Olympiad in Budapest, a conference entitled \"Chess and Sports Science\" will take place on 9 September at the Hungarian University of Sports Science, in which the sporting and decision-making aspects of chess will be examined. ChessBase author Jan Markos will be among the speakers.",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/chess-and-sports-science-budapest-2024",
-         "pubDate" : "Sat, 31 Aug 2024 02:15:00",
-         "title" : "In Budapest: \"Chess and Sports Science\" conference"
-      },
-      {
          "description" : "A very special offer awaits you in this week's summer special - two products that are indispensable for serious chess players are on special offer and available as a bundle: ChessBase 17 and the Opening Encyclopaedia 2024. Take the chance and get both for the summer special price of only €249.90 (instead of €299.90)!",
          "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
          "iconName" : "ChessBase",
          "link" : "https://en.chessbase.com/post/summer-special-chessbase-17-opening-encyclopaedia-2024",
          "pubDate" : "Fri, 30 Aug 2024 21:30:00",
          "title" : "Summer Special: ChessBase 17 and Opening Encyclopaedia 2024"
-      },
-      {
-         "description" : "Just like a year ago, both the open and the women's French Chess Championships were held as 16-player knockout tournaments. The events took place from August 16-25 in Alpe d'Huez. Jules Moussard and Deimant&eacute; Daulyte-Cornette were crowned champions in the open and women's sections respectively. The final matches saw Moussard beating Laurent Fressinet and Daulyte-Cornette getting the better of Pauline Guichard. | Photo: Official website",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/french-championships-2024-report",
-         "pubDate" : "Fri, 30 Aug 2024 15:15:00",
-         "title" : "Daulyte-Cornette and Moussard are the 2024 French chess champions"
       },
       {
          "description" : "<div class=\"body text-secondary\"> Don&#039;t think your suppose to say that on stream </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/warning-explicit-chess-content-grandchesstour-chess-chesstalk-chesscom\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/guAkP6ijCOg.jpg?itok=CSFBgmNC\" alt=\"\" /></a></div>",
@@ -130,14 +122,6 @@ news_feed (
          "title" : "Kosteniuk Beats Narva In Armageddon, Joins Gunina In Quarterfinals"
       },
       {
-         "description" : "Biel 2024 Chess Festival: The winner of the Masters, Le Quang Liem, comments on one of his games. In addition, Jonas Bjerre, Alexander Donchenko, Abhimanyu Mishra and Ihor Samunenkov contribute analyses from Biel - \"Special\" on Ju Wenjun: CBM authors show their favourite games of the world champion, an exclusive collection of 24 annotated games awaits you! - \"If one piece is bad, the entire position is bad\": Jan Markos develops a winning strategy for your games in his \"Practical tips\"! -Bomb in the Panov Attack: Robert Ris analyses the promising piece sacrifice 8.Qb3 Bxf3 9.gxf3 e6 10.Qxb7 Nxd4 11.Bb5+ Nxb5 12.Qc6+ Ke7 13.Qc5+!? and much more!",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/new-chessbase-magazine-15",
-         "pubDate" : "Fri, 30 Aug 2024 12:00:00",
-         "title" : "New: CBM #221 - incl. ChessBase book for iPad, Tablet & Co!"
-      },
-      {
          "description" : " The Iran-born Frenchman, 21, scored 6/9 to win in St Louis, half a point clear of the US champion and world No 3, Fabiano Caruana Alireza Firouzja, the Iran-born Frenchman, is a rekindled talent after the 21-year-old triumphed unbeaten in this week's $350,000 Sinquefield Cup at St Louis. Firouzja totalled 6/9, half a point ahead of the US champion and world No 3, Fabiano Caruana. The world champion, Ding Liren, drew his first six games and lost two of his final three and finished next to last on 3.5/9. <a href=\"https://www.theguardian.com/sport/article/2024/aug/30/chess-alireza-firouzja-wins-sinquefield-cup-unbeaten-and-jumps-to-world-no-5\">Continue reading...</a>",
          "iconLink" : "https://cypresschess.github.io/web/guardian.png",
          "iconName" : "The Guardian",
@@ -170,14 +154,6 @@ news_feed (
          "title" : "Alireza's Acceleration #grandchesstour #chess #statistics #chesstalk #chesscom"
       },
       {
-         "description" : "On the 15th of August 2024, as Indians celebrated Independence Day, another celebration quietly took place in Mumbai. While one group was busy hoisting the National Flag, the other group was busy cutting the ribbon to launch a special place. GM Vidit Gujrathi inaugurated the 'Temple of Chess', a new concept by ChessBase India for all chess lovers. The main attraction of this place is the vast collection of books. A very kind and generous person named Deodatta Modak from Nashik donated thousands of books to this temple. ChessBase India's Rasika Ratnaparkhi travelled to the home of Deodatta Modak and had the privilege of speaking with him about his chess journey, book collection, and his views",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/deo-book-donation-temple-of-chess",
-         "pubDate" : "Fri, 30 Aug 2024 02:30:00",
-         "title" : "Meet the 'Deo' who donated books to the Temple of Chess"
-      },
-      {
          "description" : "",
          "iconLink" : "https://cypresschess.github.io/web/fide.png",
          "iconName" : "FIDE",
@@ -186,7 +162,7 @@ news_feed (
          "title" : "Alireza Firouzja wins 2024 Sinquefield Cup"
       },
       {
-         "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing in St. Louis earlier this month up to $240,000 and his overall 2024 GCT",
+         "description" : "In the past week, French GM Alireza Firouzja has won the 2024 Saint Louis Rapid & Blitz (ahead of the likes of GM Hikaru Nakamura), the 2024 Sinquefield Cup (ahead of the likes of GM Fabiano Caruana and current world champion GM Ding Liren), and the overall 2024 Grand Chess Tour (GCT).<br /><br /> <br /><br /><br /> Image<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /> Image Caption<br /> Alireza Firouzja with the Sinquefield Cup outside the World Chess Hall of Fame (Photo courtesy SLCC/Lennart Ootes)<br /><br /><br /> <br /><br /> While most of us don't get into chess for the money, it is worth noting that this puts Firouzja's earnings since landing",
          "iconLink" : "https://cypresschess.github.io/web/uschess.png",
          "iconName" : "US Chess",
          "link" : "https://new.uschess.org/news/firouzja-stomps-competition-wins-2024-sinquefield-cup-gct-tour-bonus",
@@ -216,14 +192,6 @@ news_feed (
          "link" : "https://www.chess.com/news/view/2024-sinquefield-cup-round-9-firouzja-wins",
          "pubDate" : "Wed, 28 Aug 2024 19:25:00",
          "title" : "Undefeated Firouzja Wins Sinquefield Cup And $100k Prize"
-      },
-      {
-         "description" : "The final stage of the 2024 Grand Chess Tour, the Sinquefield Cup, will take place on 19-29 August in Saint Louis. Alireza Firouzja and Fabiano Caruana will be fighting for first place not only in the classical round-robin but also in the GCT overall standings. | Follow the games live with expert commentary starting at 18.00 CEST (12.00 ET, 21.30 IST)",
-         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
-         "iconName" : "ChessBase",
-         "link" : "https://en.chessbase.com/post/sinquefield-cup-2024-live",
-         "pubDate" : "Wed, 28 Aug 2024 17:50:00",
-         "title" : "Sinquefield Cup - Live!"
       },
       {
          "description" : "GM Vaishali Rameshbabu beat IM Eline Roebers 7.5-6.5 in a 2024 Julius Baer Women&#39;s Speed Chess Championship Round-of-16 match that went right down to the wire, but that turned out to be nothing compared to the day&#39;s late action. 14-year-old IM Ali...",
