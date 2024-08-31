@@ -2,6 +2,22 @@ news_feed (
 {
    "items" : [
       {
+         "description" : "ChessBase Magazine offers a window to the world of professional chess. Our columnist, Nagesh Havanur takes a look at our recent issue, CBM 220. 512 games, 38 annotated from the Candidates' and 7th Sharjah Masters, 11 opening surveys, 3 opening videos, 6 demo. lectures and several exercises for training. Annotators include Gukesh, Firouzja, Giri and Praggnanandhaa among others. The icing on the cake is a special feature on Gukesh with 24 annotated games. | Photo: Lennart Ootes",
+         "iconLink" : "https://cypresschess.github.io/web/chessbase2.png",
+         "iconName" : "ChessBase",
+         "link" : "https://en.chessbase.com/post/cbm-220-review-nagesh-havanur",
+         "pubDate" : "Sat, 31 Aug 2024 10:00:00",
+         "title" : "CBM 220: Gukesh on the way to Olympus"
+      },
+      {
+         "description" : "Searching for the greatest in chess is perennially fascinating. In 1987 an eminent Canadian professor of mathematics, the late Nathan Divinsky, and I carried out a massive statistical survey in our book: Warriors of the Mind. Recently the chess.com site undertook a similar exercise. It is interesting to compare the two lists of the respective top tens: Rank Divinsky/Keene 1987 []",
+         "iconLink" : "https://cypresschess.github.io/web/article.png",
+         "iconName" : "The Article",
+         "link" : "https://www.thearticle.com/who-was-the-greatest-of-them-all/",
+         "pubDate" : "Sat, 31 Aug 2024 08:10:52",
+         "title" : "Who was the greatest of them all?"
+      },
+      {
          "description" : "<div class=\"body text-secondary\"> Grand Chess Tour &amp; Sinquefield Cup champion Alireza Firouzja talks to Cristian Chirila after the 2024 Sinquefield Cup. This did not air during the program. </div><div class=\"field field-name-field-author field-type-list-text field-label-hidden field-wrapper\">CCSCSL Staff</div><div class=\"field field-name-field-video-link field-type-video-embed-field field-label-hidden field-wrapper\"><a href=\"/blog/exclusive-firouzja-winning-grand-chess-tour-hikaru-match-more-sinquefieldcup\"><img src=\"https://saintlouischessclub.org/sites/default/files/styles/blog_thumbnail_image/public/video_embed_field_thumbnails/youtube/lGbekWCGUKM.jpg?itok=Cx2Cr94V\" alt=\"\" /></a></div",
          "iconLink" : "https://cypresschess.github.io/web/stlouis2.png",
          "iconName" : "Saint Louis<br>Chess Club",
